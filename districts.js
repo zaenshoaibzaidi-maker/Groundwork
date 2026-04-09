@@ -915,7 +915,6 @@ const DISTRICTS = [
       ]
     }
   },
-,
   {
     id: "oh-hd-26",
     name: "Ohio House District 26",
