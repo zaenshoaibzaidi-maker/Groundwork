@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:cityofparma-oh.gov)",
+      "WebFetch(domain:ci.mansfield.oh.us)",
+      "WebFetch(domain:springfieldohio.gov)",
+      "WebFetch(domain:www.ketteringoh.org)",
+      "WebFetch(domain:www.columbus.gov)",
+      "WebFetch(domain:www.clevelandcitycouncil.org)",
+      "WebFetch(domain:toledo.oh.gov)",
+      "WebFetch(domain:www.akroncitycouncil.org)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:clevelandcitycouncil.gov)",
+      "WebFetch(domain:youngstownohio.gov)",
+      "WebFetch(domain:app.cantonohio.gov)",
+      "WebFetch(domain:www.daytonohio.gov)",
+      "WebFetch(domain:www.cityoflorain.org)",
+      "WebFetch(domain:www.cityofcf.com)",
+      "WebFetch(domain:www.cityofelyria.org)",
+      "WebFetch(domain:ballotpedia.org)",
+      "WebFetch(domain:signalakron.org)",
+      "WebFetch(domain:codelibrary.amlegal.com)",
+      "WebFetch(domain:www.boe.ohio.gov)",
+      "WebFetch(domain:chroniclet.com)",
+      "Bash(node fetch-district.js 3)"
+    ]
+  }
+}

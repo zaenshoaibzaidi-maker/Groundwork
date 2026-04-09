@@ -1,0 +1,4421 @@
+[
+  {
+    "districtNumber": 1,
+    "districtName": "Ohio House District 1",
+    "census": {
+      "censusName": "State House District 1 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 57046,
+      "medianAge": 34.4,
+      "totalPopulation": 119165,
+      "collegePct": 38.59,
+      "renterRatePct": 57.98,
+      "race": {
+        "whitePct": 49.66,
+        "blackPct": 36.92,
+        "asianPct": 1.64,
+        "hispanicPct": 6.94
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": true,
+      "totalVotes": 35739,
+      "candidates": [
+        {
+          "name": "Dontavius Jarrells",
+          "party": "D",
+          "votes": 35739,
+          "pct": 100
+        }
+      ],
+      "demTwoPartyPct": 100,
+      "repTwoPartyPct": 0
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 2,
+    "districtName": "Ohio House District 2",
+    "census": {
+      "censusName": "State House District 2 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 56806,
+      "medianAge": 35.6,
+      "totalPopulation": 126512,
+      "collegePct": 20.62,
+      "renterRatePct": 55.51,
+      "race": {
+        "whitePct": 34.09,
+        "blackPct": 50.48,
+        "asianPct": 3.22,
+        "hispanicPct": 7.96
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 37897,
+      "candidates": [
+        {
+          "name": "Latyna M. Humphrey",
+          "party": "D",
+          "votes": 32142,
+          "pct": 84.81
+        },
+        {
+          "name": "Tyler Rice",
+          "party": "WI",
+          "votes": 150,
+          "pct": 0.4
+        },
+        {
+          "name": "Eric Terford",
+          "party": "L",
+          "votes": 5605,
+          "pct": 14.79
+        }
+      ],
+      "demTwoPartyPct": 100,
+      "repTwoPartyPct": 0
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 3,
+    "districtName": "Ohio House District 3",
+    "census": {
+      "censusName": "State House District 3 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 55038,
+      "medianAge": 30.2,
+      "totalPopulation": 118864,
+      "collegePct": 34.09,
+      "renterRatePct": 63.31,
+      "race": {
+        "whitePct": 42.55,
+        "blackPct": 41.76,
+        "asianPct": 3.43,
+        "hispanicPct": 8.27
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": true,
+      "totalVotes": 28838,
+      "candidates": [
+        {
+          "name": "Ismail Mohamed",
+          "party": "D",
+          "votes": 28838,
+          "pct": 100
+        }
+      ],
+      "demTwoPartyPct": 100,
+      "repTwoPartyPct": 0
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 4,
+    "districtName": "Ohio House District 4",
+    "census": {
+      "censusName": "State House District 4 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 108648,
+      "medianAge": 39.2,
+      "totalPopulation": 112184,
+      "collegePct": 56.64,
+      "renterRatePct": 27.32,
+      "race": {
+        "whitePct": 72.29,
+        "blackPct": 13.38,
+        "asianPct": 5.64,
+        "hispanicPct": 3.27
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 68790,
+      "candidates": [
+        {
+          "name": "Jason Allevato",
+          "party": "R",
+          "votes": 29317,
+          "pct": 42.62
+        },
+        {
+          "name": "Beryl Brown Piccolantonio",
+          "party": "D",
+          "votes": 39473,
+          "pct": 57.38
+        }
+      ],
+      "demTwoPartyPct": 57.38,
+      "repTwoPartyPct": 42.62
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 5,
+    "districtName": "Ohio House District 5",
+    "census": {
+      "censusName": "State House District 5 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 74071,
+      "medianAge": 36,
+      "totalPopulation": 116905,
+      "collegePct": 28.71,
+      "renterRatePct": 32.71,
+      "race": {
+        "whitePct": 63.65,
+        "blackPct": 22.91,
+        "asianPct": 2.72,
+        "hispanicPct": 6.02
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": true,
+      "totalVotes": 32395,
+      "candidates": [
+        {
+          "name": "Meredith Lawson-Rowe",
+          "party": "D",
+          "votes": 32395,
+          "pct": 100
+        }
+      ],
+      "demTwoPartyPct": 100,
+      "repTwoPartyPct": 0
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 6,
+    "districtName": "Ohio House District 6",
+    "census": {
+      "censusName": "State House District 6 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 67868,
+      "medianAge": 33.6,
+      "totalPopulation": 115926,
+      "collegePct": 31.15,
+      "renterRatePct": 46.95,
+      "race": {
+        "whitePct": 63.28,
+        "blackPct": 16.06,
+        "asianPct": 3.86,
+        "hispanicPct": 12.97
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 38678,
+      "candidates": [
+        {
+          "name": "Christine Cockley",
+          "party": "D",
+          "votes": 23315,
+          "pct": 60.28
+        },
+        {
+          "name": "Hussein Jabiri",
+          "party": "R",
+          "votes": 15363,
+          "pct": 39.72
+        }
+      ],
+      "demTwoPartyPct": 60.28,
+      "repTwoPartyPct": 39.72
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 7,
+    "districtName": "Ohio House District 7",
+    "census": {
+      "censusName": "State House District 7 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 83034,
+      "medianAge": 29.7,
+      "totalPopulation": 116056,
+      "collegePct": 72.62,
+      "renterRatePct": 52.36,
+      "race": {
+        "whitePct": 79.27,
+        "blackPct": 4.33,
+        "asianPct": 8.55,
+        "hispanicPct": 5.35
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 44293,
+      "candidates": [
+        {
+          "name": "Susan Miller",
+          "party": "WI",
+          "votes": 50,
+          "pct": 0.11
+        },
+        {
+          "name": "Allison Russo",
+          "party": "D",
+          "votes": 44243,
+          "pct": 99.89
+        }
+      ],
+      "demTwoPartyPct": 100,
+      "repTwoPartyPct": 0
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 8,
+    "districtName": "Ohio House District 8",
+    "census": {
+      "censusName": "State House District 8 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 84218,
+      "medianAge": 36.5,
+      "totalPopulation": 124318,
+      "collegePct": 56.93,
+      "renterRatePct": 47.26,
+      "race": {
+        "whitePct": 71.19,
+        "blackPct": 11.2,
+        "asianPct": 7.34,
+        "hispanicPct": 6.4
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 55883,
+      "candidates": [
+        {
+          "name": "Aaron Neumann",
+          "party": "R",
+          "votes": 19829,
+          "pct": 35.48
+        },
+        {
+          "name": "Anita Somani",
+          "party": "D",
+          "votes": 36054,
+          "pct": 64.52
+        }
+      ],
+      "demTwoPartyPct": 64.52,
+      "repTwoPartyPct": 35.48
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 9,
+    "districtName": "Ohio House District 9",
+    "census": {
+      "censusName": "State House District 9 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 69465,
+      "medianAge": 34.2,
+      "totalPopulation": 119802,
+      "collegePct": 35.61,
+      "renterRatePct": 51.74,
+      "race": {
+        "whitePct": 46.94,
+        "blackPct": 33.77,
+        "asianPct": 6.62,
+        "hispanicPct": 8.52
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 38671,
+      "candidates": [
+        {
+          "name": "Munira Yasin Abdullahi",
+          "party": "D",
+          "votes": 28020,
+          "pct": 72.46
+        },
+        {
+          "name": "Brandy Seymour",
+          "party": "L",
+          "votes": 10651,
+          "pct": 27.54
+        }
+      ],
+      "demTwoPartyPct": 100,
+      "repTwoPartyPct": 0
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 10,
+    "districtName": "Ohio House District 10",
+    "census": {
+      "censusName": "State House District 10 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 69482,
+      "medianAge": 37.7,
+      "totalPopulation": 118111,
+      "collegePct": 22.94,
+      "renterRatePct": 38.75,
+      "race": {
+        "whitePct": 68.33,
+        "blackPct": 18.37,
+        "asianPct": 2.02,
+        "hispanicPct": 6.8
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 51927,
+      "candidates": [
+        {
+          "name": "Brian M. Garvine",
+          "party": "R",
+          "votes": 25175,
+          "pct": 48.48
+        },
+        {
+          "name": "Mark Sigrist",
+          "party": "D",
+          "votes": 26752,
+          "pct": 51.52
+        }
+      ],
+      "demTwoPartyPct": 51.52,
+      "repTwoPartyPct": 48.48
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 11,
+    "districtName": "Ohio House District 11",
+    "census": {
+      "censusName": "State House District 11 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 114821,
+      "medianAge": 37.2,
+      "totalPopulation": 123714,
+      "collegePct": 63.59,
+      "renterRatePct": 38.85,
+      "race": {
+        "whitePct": 74.69,
+        "blackPct": 4.05,
+        "asianPct": 13.11,
+        "hispanicPct": 5.55
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 64292,
+      "candidates": [
+        {
+          "name": "Stephanie L. Kunze",
+          "party": "R",
+          "votes": 30965,
+          "pct": 48.16
+        },
+        {
+          "name": "Crystal Lett",
+          "party": "D",
+          "votes": 33327,
+          "pct": 51.84
+        }
+      ],
+      "demTwoPartyPct": 51.84,
+      "repTwoPartyPct": 48.16
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 12,
+    "districtName": "Ohio House District 12",
+    "census": {
+      "censusName": "State House District 12 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 77804,
+      "medianAge": 39.6,
+      "totalPopulation": 113611,
+      "collegePct": 25.32,
+      "renterRatePct": 28.8,
+      "race": {
+        "whitePct": 88.76,
+        "blackPct": 3.74,
+        "asianPct": 1.93,
+        "hispanicPct": 2.48
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 55003,
+      "candidates": [
+        {
+          "name": "Brad W. Cotton",
+          "party": "D",
+          "votes": 14894,
+          "pct": 27.08
+        },
+        {
+          "name": "Brian Stewart",
+          "party": "R",
+          "votes": 40109,
+          "pct": 72.92
+        }
+      ],
+      "demTwoPartyPct": 27.08,
+      "repTwoPartyPct": 72.92
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 13,
+    "districtName": "Ohio House District 13",
+    "census": {
+      "censusName": "State House District 13 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 55660,
+      "medianAge": 35.7,
+      "totalPopulation": 120641,
+      "collegePct": 36.76,
+      "renterRatePct": 55.36,
+      "race": {
+        "whitePct": 69.84,
+        "blackPct": 13.03,
+        "asianPct": 1.94,
+        "hispanicPct": 15.08
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 45157,
+      "candidates": [
+        {
+          "name": "Robert E. Dintaman",
+          "party": "R",
+          "votes": 10625,
+          "pct": 23.53
+        },
+        {
+          "name": "Tristan W. Rader",
+          "party": "D",
+          "votes": 34532,
+          "pct": 76.47
+        }
+      ],
+      "demTwoPartyPct": 76.47,
+      "repTwoPartyPct": 23.53
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 14,
+    "districtName": "Ohio House District 14",
+    "census": {
+      "censusName": "State House District 14 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 63788,
+      "medianAge": 41.9,
+      "totalPopulation": 124099,
+      "collegePct": 23.82,
+      "renterRatePct": 31.6,
+      "race": {
+        "whitePct": 78.03,
+        "blackPct": 8.02,
+        "asianPct": 2.64,
+        "hispanicPct": 9.68
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 46802,
+      "candidates": [
+        {
+          "name": "Sean Patrick Brennan",
+          "party": "D",
+          "votes": 27198,
+          "pct": 58.11
+        },
+        {
+          "name": "David Morgan",
+          "party": "R",
+          "votes": 19604,
+          "pct": 41.89
+        }
+      ],
+      "demTwoPartyPct": 58.11,
+      "repTwoPartyPct": 41.89
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 15,
+    "districtName": "Ohio House District 15",
+    "census": {
+      "censusName": "State House District 15 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 67884,
+      "medianAge": 42.1,
+      "totalPopulation": 122821,
+      "collegePct": 31.33,
+      "renterRatePct": 34.17,
+      "race": {
+        "whitePct": 74.47,
+        "blackPct": 8.06,
+        "asianPct": 3.6,
+        "hispanicPct": 13.32
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 49720,
+      "candidates": [
+        {
+          "name": "Aaron L. Borowski",
+          "party": "R",
+          "votes": 22599,
+          "pct": 45.45
+        },
+        {
+          "name": "Chris Glassburn",
+          "party": "D",
+          "votes": 27121,
+          "pct": 54.55
+        }
+      ],
+      "demTwoPartyPct": 54.55,
+      "repTwoPartyPct": 45.45
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 16,
+    "districtName": "Ohio House District 16",
+    "census": {
+      "censusName": "State House District 16 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 94770,
+      "medianAge": 43.5,
+      "totalPopulation": 123518,
+      "collegePct": 47.24,
+      "renterRatePct": 22.97,
+      "race": {
+        "whitePct": 86.71,
+        "blackPct": 3.1,
+        "asianPct": 3.26,
+        "hispanicPct": 5.48
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 62028,
+      "candidates": [
+        {
+          "name": "Daniel James Harrington",
+          "party": "R",
+          "votes": 24375,
+          "pct": 39.3
+        },
+        {
+          "name": "Bride Rose Sweeney",
+          "party": "D",
+          "votes": 37653,
+          "pct": 60.7
+        }
+      ],
+      "demTwoPartyPct": 60.7,
+      "repTwoPartyPct": 39.3
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 17,
+    "districtName": "Ohio House District 17",
+    "census": {
+      "censusName": "State House District 17 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 84536,
+      "medianAge": 44.8,
+      "totalPopulation": 124049,
+      "collegePct": 42.94,
+      "renterRatePct": 24.5,
+      "race": {
+        "whitePct": 84.79,
+        "blackPct": 3.92,
+        "asianPct": 5.2,
+        "hispanicPct": 4.78
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 63046,
+      "candidates": [
+        {
+          "name": "Mike Dovilla",
+          "party": "R",
+          "votes": 34403,
+          "pct": 54.57
+        },
+        {
+          "name": "Jessica Sutherland",
+          "party": "D",
+          "votes": 28643,
+          "pct": 45.43
+        }
+      ],
+      "demTwoPartyPct": 45.43,
+      "repTwoPartyPct": 54.57
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 18,
+    "districtName": "Ohio House District 18",
+    "census": {
+      "censusName": "State House District 18 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 40659,
+      "medianAge": 40,
+      "totalPopulation": 121631,
+      "collegePct": 15.54,
+      "renterRatePct": 48.86,
+      "race": {
+        "whitePct": 17.28,
+        "blackPct": 74.49,
+        "asianPct": 0.43,
+        "hispanicPct": 3.33
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 56272,
+      "candidates": [
+        {
+          "name": "Justyn Anderson",
+          "party": "R",
+          "votes": 5991,
+          "pct": 10.65
+        },
+        {
+          "name": "Juanita O. Brent",
+          "party": "D",
+          "votes": 50276,
+          "pct": 89.34
+        },
+        {
+          "name": "Christela Neal",
+          "party": "WI",
+          "votes": 5,
+          "pct": 0.01
+        }
+      ],
+      "demTwoPartyPct": 89.35,
+      "repTwoPartyPct": 10.65
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 19,
+    "districtName": "Ohio House District 19",
+    "census": {
+      "censusName": "State House District 19 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 86637,
+      "medianAge": 44.5,
+      "totalPopulation": 122877,
+      "collegePct": 47.03,
+      "renterRatePct": 30.6,
+      "race": {
+        "whitePct": 63.57,
+        "blackPct": 22.44,
+        "asianPct": 5.82,
+        "hispanicPct": 3.73
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 64496,
+      "candidates": [
+        {
+          "name": "Kenny Godnavec",
+          "party": "R",
+          "votes": 27718,
+          "pct": 42.98
+        },
+        {
+          "name": "Phil Robinson",
+          "party": "D",
+          "votes": 36778,
+          "pct": 57.02
+        }
+      ],
+      "demTwoPartyPct": 57.02,
+      "repTwoPartyPct": 42.98
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 20,
+    "districtName": "Ohio House District 20",
+    "census": {
+      "censusName": "State House District 20 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 34655,
+      "medianAge": 32.2,
+      "totalPopulation": 123746,
+      "collegePct": 27.33,
+      "renterRatePct": 71.04,
+      "race": {
+        "whitePct": 29.45,
+        "blackPct": 55.34,
+        "asianPct": 4.3,
+        "hispanicPct": 8.78
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 31987,
+      "candidates": [
+        {
+          "name": "Terrence Upchurch",
+          "party": "D",
+          "votes": 27309,
+          "pct": 85.38
+        },
+        {
+          "name": "Donna Walker-Brown",
+          "party": "R",
+          "votes": 4678,
+          "pct": 14.62
+        }
+      ],
+      "demTwoPartyPct": 85.38,
+      "repTwoPartyPct": 14.62
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 21,
+    "districtName": "Ohio House District 21",
+    "census": {
+      "censusName": "State House District 21 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 60152,
+      "medianAge": 42.7,
+      "totalPopulation": 125033,
+      "collegePct": 36.2,
+      "renterRatePct": 42.12,
+      "race": {
+        "whitePct": 44.42,
+        "blackPct": 47.84,
+        "asianPct": 2.31,
+        "hispanicPct": 2.28
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 53492,
+      "candidates": [
+        {
+          "name": "Joshua Malovasic",
+          "party": "R",
+          "votes": 11116,
+          "pct": 20.78
+        },
+        {
+          "name": "Eric Synenberg",
+          "party": "D",
+          "votes": 42376,
+          "pct": 79.22
+        }
+      ],
+      "demTwoPartyPct": 79.22,
+      "repTwoPartyPct": 20.78
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 22,
+    "districtName": "Ohio House District 22",
+    "census": {
+      "censusName": "State House District 22 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 64860,
+      "medianAge": 37.7,
+      "totalPopulation": 124804,
+      "collegePct": 49.47,
+      "renterRatePct": 45.42,
+      "race": {
+        "whitePct": 39.62,
+        "blackPct": 51.54,
+        "asianPct": 3.17,
+        "hispanicPct": 2.39
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 41139,
+      "candidates": [
+        {
+          "name": "Darnell T. Brewer",
+          "party": "D",
+          "votes": 35522,
+          "pct": 86.35
+        },
+        {
+          "name": "Milan Wesley",
+          "party": "R",
+          "votes": 5617,
+          "pct": 13.65
+        }
+      ],
+      "demTwoPartyPct": 86.35,
+      "repTwoPartyPct": 13.65
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 23,
+    "districtName": "Ohio House District 23",
+    "census": {
+      "censusName": "State House District 23 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 71114,
+      "medianAge": 44.6,
+      "totalPopulation": 124771,
+      "collegePct": 31.67,
+      "renterRatePct": 30.52,
+      "race": {
+        "whitePct": 81.56,
+        "blackPct": 11.54,
+        "asianPct": 1.68,
+        "hispanicPct": 2.57
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 64182,
+      "candidates": [
+        {
+          "name": "Tony Hocevar",
+          "party": "R",
+          "votes": 30241,
+          "pct": 47.12
+        },
+        {
+          "name": "Daniel P. Troy",
+          "party": "D",
+          "votes": 33941,
+          "pct": 52.88
+        }
+      ],
+      "demTwoPartyPct": 52.88,
+      "repTwoPartyPct": 47.12
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 24,
+    "districtName": "Ohio House District 24",
+    "census": {
+      "censusName": "State House District 24 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 50135,
+      "medianAge": 31.6,
+      "totalPopulation": 125997,
+      "collegePct": 36.26,
+      "renterRatePct": 65.03,
+      "race": {
+        "whitePct": 49.25,
+        "blackPct": 38.11,
+        "asianPct": 2.33,
+        "hispanicPct": 6.19
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 38270,
+      "candidates": [
+        {
+          "name": "Dani Isaacsohn",
+          "party": "D",
+          "votes": 27744,
+          "pct": 72.5
+        },
+        {
+          "name": "John Sess",
+          "party": "R",
+          "votes": 10526,
+          "pct": 27.5
+        }
+      ],
+      "demTwoPartyPct": 72.5,
+      "repTwoPartyPct": 27.5
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 25,
+    "districtName": "Ohio House District 25",
+    "census": {
+      "censusName": "State House District 25 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 46655,
+      "medianAge": 31.6,
+      "totalPopulation": 111201,
+      "collegePct": 36.2,
+      "renterRatePct": 60.83,
+      "race": {
+        "whitePct": 53.01,
+        "blackPct": 34.84,
+        "asianPct": 3.28,
+        "hispanicPct": 6.08
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 40781,
+      "candidates": [
+        {
+          "name": "Jim Berns",
+          "party": "R",
+          "votes": 6517,
+          "pct": 15.98
+        },
+        {
+          "name": "Cecil Thomas",
+          "party": "D",
+          "votes": 34264,
+          "pct": 84.02
+        }
+      ],
+      "demTwoPartyPct": 84.02,
+      "repTwoPartyPct": 15.98
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 26,
+    "districtName": "Ohio House District 26",
+    "census": {
+      "censusName": "State House District 26 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 70332,
+      "medianAge": 38.7,
+      "totalPopulation": 118874,
+      "collegePct": 44.38,
+      "renterRatePct": 40.8,
+      "race": {
+        "whitePct": 54.01,
+        "blackPct": 36.72,
+        "asianPct": 1.86,
+        "hispanicPct": 3.45
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 61222,
+      "candidates": [
+        {
+          "name": "John Breadon",
+          "party": "R",
+          "votes": 18926,
+          "pct": 30.91
+        },
+        {
+          "name": "Sedrick Denson",
+          "party": "D",
+          "votes": 42296,
+          "pct": 69.09
+        }
+      ],
+      "demTwoPartyPct": 69.09,
+      "repTwoPartyPct": 30.91
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 27,
+    "districtName": "Ohio House District 27",
+    "census": {
+      "censusName": "State House District 27 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 97883,
+      "medianAge": 39.6,
+      "totalPopulation": 124768,
+      "collegePct": 59.09,
+      "renterRatePct": 33.47,
+      "race": {
+        "whitePct": 73.52,
+        "blackPct": 15.39,
+        "asianPct": 4.1,
+        "hispanicPct": 4.5
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 70814,
+      "candidates": [
+        {
+          "name": "Rachel Baker",
+          "party": "D",
+          "votes": 39483,
+          "pct": 55.76
+        },
+        {
+          "name": "Curt C. Hartman",
+          "party": "R",
+          "votes": 31331,
+          "pct": 44.24
+        }
+      ],
+      "demTwoPartyPct": 55.76,
+      "repTwoPartyPct": 44.24
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 28,
+    "districtName": "Ohio House District 28",
+    "census": {
+      "censusName": "State House District 28 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 84764,
+      "medianAge": 41.5,
+      "totalPopulation": 119990,
+      "collegePct": 48.33,
+      "renterRatePct": 32.87,
+      "race": {
+        "whitePct": 68.58,
+        "blackPct": 17.69,
+        "asianPct": 4.93,
+        "hispanicPct": 6.87
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 63797,
+      "candidates": [
+        {
+          "name": "Karen Brownlee",
+          "party": "D",
+          "votes": 35671,
+          "pct": 55.91
+        },
+        {
+          "name": "Regina Collins",
+          "party": "WI",
+          "votes": 5,
+          "pct": 0.01
+        },
+        {
+          "name": "Jenn Giroux",
+          "party": "R",
+          "votes": 28121,
+          "pct": 44.08
+        }
+      ],
+      "demTwoPartyPct": 55.92,
+      "repTwoPartyPct": 44.08
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 29,
+    "districtName": "Ohio House District 29",
+    "census": {
+      "censusName": "State House District 29 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 73352,
+      "medianAge": 38.1,
+      "totalPopulation": 113922,
+      "collegePct": 26.71,
+      "renterRatePct": 28.29,
+      "race": {
+        "whitePct": 66.56,
+        "blackPct": 25.02,
+        "asianPct": 1.48,
+        "hispanicPct": 2.62
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 57566,
+      "candidates": [
+        {
+          "name": "Cindy Abrams",
+          "party": "R",
+          "votes": 32927,
+          "pct": 57.2
+        },
+        {
+          "name": "Joe Salvato",
+          "party": "D",
+          "votes": 24639,
+          "pct": 42.8
+        }
+      ],
+      "demTwoPartyPct": 42.8,
+      "repTwoPartyPct": 57.2
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 30,
+    "districtName": "Ohio House District 30",
+    "census": {
+      "censusName": "State House District 30 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 82325,
+      "medianAge": 38.9,
+      "totalPopulation": 113126,
+      "collegePct": 35.05,
+      "renterRatePct": 20.09,
+      "race": {
+        "whitePct": 86.26,
+        "blackPct": 7.47,
+        "asianPct": 0.94,
+        "hispanicPct": 1.69
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 62349,
+      "candidates": [
+        {
+          "name": "Stefanie A. Hawk",
+          "party": "D",
+          "votes": 19486,
+          "pct": 31.25
+        },
+        {
+          "name": "Mike Odioso",
+          "party": "R",
+          "votes": 42863,
+          "pct": 68.75
+        }
+      ],
+      "demTwoPartyPct": 31.25,
+      "repTwoPartyPct": 68.75
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 31,
+    "districtName": "Ohio House District 31",
+    "census": {
+      "censusName": "State House District 31 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 105167,
+      "medianAge": 45.4,
+      "totalPopulation": 121449,
+      "collegePct": 48.99,
+      "renterRatePct": 15.51,
+      "race": {
+        "whitePct": 80.14,
+        "blackPct": 8.96,
+        "asianPct": 5.15,
+        "hispanicPct": 1.94
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 64460,
+      "candidates": [
+        {
+          "name": "A. J. Harris",
+          "party": "D",
+          "votes": 30311,
+          "pct": 47.02
+        },
+        {
+          "name": "Bill Roemer",
+          "party": "R",
+          "votes": 34149,
+          "pct": 52.98
+        }
+      ],
+      "demTwoPartyPct": 47.02,
+      "repTwoPartyPct": 52.98
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 32,
+    "districtName": "Ohio House District 32",
+    "census": {
+      "censusName": "State House District 32 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 60896,
+      "medianAge": 40.3,
+      "totalPopulation": 121225,
+      "collegePct": 22.62,
+      "renterRatePct": 35.62,
+      "race": {
+        "whitePct": 80.38,
+        "blackPct": 11.26,
+        "asianPct": 1.16,
+        "hispanicPct": 2.12
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 54243,
+      "candidates": [
+        {
+          "name": "Jim Colopy",
+          "party": "D",
+          "votes": 23193,
+          "pct": 42.76
+        },
+        {
+          "name": "Jack K. Daniels",
+          "party": "R",
+          "votes": 31050,
+          "pct": 57.24
+        }
+      ],
+      "demTwoPartyPct": 42.76,
+      "repTwoPartyPct": 57.24
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 33,
+    "districtName": "Ohio House District 33",
+    "census": {
+      "censusName": "State House District 33 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 46120,
+      "medianAge": 36.5,
+      "totalPopulation": 123824,
+      "collegePct": 23.85,
+      "renterRatePct": 52.39,
+      "race": {
+        "whitePct": 48.83,
+        "blackPct": 34.74,
+        "asianPct": 6.14,
+        "hispanicPct": 4.68
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": true,
+      "totalVotes": 37146,
+      "candidates": [
+        {
+          "name": "Veronica Sims",
+          "party": "D",
+          "votes": 37146,
+          "pct": 100
+        }
+      ],
+      "demTwoPartyPct": 100,
+      "repTwoPartyPct": 0
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 34,
+    "districtName": "Ohio House District 34",
+    "census": {
+      "censusName": "State House District 34 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 84963,
+      "medianAge": 39.6,
+      "totalPopulation": 118471,
+      "collegePct": 48.56,
+      "renterRatePct": 31.36,
+      "race": {
+        "whitePct": 84.81,
+        "blackPct": 5.32,
+        "asianPct": 4.22,
+        "hispanicPct": 1.71
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 61437,
+      "candidates": [
+        {
+          "name": "Adam Bozic",
+          "party": "R",
+          "votes": 28763,
+          "pct": 46.82
+        },
+        {
+          "name": "Derrick Hall",
+          "party": "D",
+          "votes": 32674,
+          "pct": 53.18
+        }
+      ],
+      "demTwoPartyPct": 53.18,
+      "repTwoPartyPct": 46.82
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 35,
+    "districtName": "Ohio House District 35",
+    "census": {
+      "censusName": "State House District 35 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 81888,
+      "medianAge": 45.4,
+      "totalPopulation": 124384,
+      "collegePct": 29.57,
+      "renterRatePct": 18.39,
+      "race": {
+        "whitePct": 91.98,
+        "blackPct": 1.93,
+        "asianPct": 1.75,
+        "hispanicPct": 1.75
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 70336,
+      "candidates": [
+        {
+          "name": "Mark Curtis",
+          "party": "D",
+          "votes": 33375,
+          "pct": 47.45
+        },
+        {
+          "name": "Steve Demetriou",
+          "party": "R",
+          "votes": 36961,
+          "pct": 52.55
+        }
+      ],
+      "demTwoPartyPct": 47.45,
+      "repTwoPartyPct": 52.55
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 36,
+    "districtName": "Ohio House District 36",
+    "census": {
+      "censusName": "State House District 36 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 62126,
+      "medianAge": 37.5,
+      "totalPopulation": 113165,
+      "collegePct": 34.76,
+      "renterRatePct": 38.65,
+      "race": {
+        "whitePct": 77.38,
+        "blackPct": 11.73,
+        "asianPct": 1.84,
+        "hispanicPct": 4.43
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 56817,
+      "candidates": [
+        {
+          "name": "Rose Lounsbury",
+          "party": "D",
+          "votes": 27060,
+          "pct": 47.63
+        },
+        {
+          "name": "Andrea White",
+          "party": "R",
+          "votes": 29757,
+          "pct": 52.37
+        }
+      ],
+      "demTwoPartyPct": 47.63,
+      "repTwoPartyPct": 52.37
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 37,
+    "districtName": "Ohio House District 37",
+    "census": {
+      "censusName": "State House District 37 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 88817,
+      "medianAge": 41.3,
+      "totalPopulation": 121975,
+      "collegePct": 44.12,
+      "renterRatePct": 30.57,
+      "race": {
+        "whitePct": 82.99,
+        "blackPct": 6.02,
+        "asianPct": 4.17,
+        "hispanicPct": 4.29
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": true,
+      "totalVotes": 43003,
+      "candidates": [
+        {
+          "name": "Tom Young",
+          "party": "R",
+          "votes": 43003,
+          "pct": 100
+        }
+      ],
+      "demTwoPartyPct": 0,
+      "repTwoPartyPct": 100
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 38,
+    "districtName": "Ohio House District 38",
+    "census": {
+      "censusName": "State House District 38 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 45074,
+      "medianAge": 33.4,
+      "totalPopulation": 122526,
+      "collegePct": 20.95,
+      "renterRatePct": 52.83,
+      "race": {
+        "whitePct": 51.45,
+        "blackPct": 38.24,
+        "asianPct": 1.51,
+        "hispanicPct": 4.95
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": true,
+      "totalVotes": 34877,
+      "candidates": [
+        {
+          "name": "Desiree Tims",
+          "party": "D",
+          "votes": 34877,
+          "pct": 100
+        }
+      ],
+      "demTwoPartyPct": 100,
+      "repTwoPartyPct": 0
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 39,
+    "districtName": "Ohio House District 39",
+    "census": {
+      "censusName": "State House District 39 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 62144,
+      "medianAge": 42.7,
+      "totalPopulation": 123207,
+      "collegePct": 24.82,
+      "renterRatePct": 35.45,
+      "race": {
+        "whitePct": 61.55,
+        "blackPct": 29.31,
+        "asianPct": 1.23,
+        "hispanicPct": 2.68
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 54732,
+      "candidates": [
+        {
+          "name": "Dion Green",
+          "party": "D",
+          "votes": 22541,
+          "pct": 41.18
+        },
+        {
+          "name": "Phil Plummer",
+          "party": "R",
+          "votes": 32191,
+          "pct": 58.82
+        }
+      ],
+      "demTwoPartyPct": 41.18,
+      "repTwoPartyPct": 58.82
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 40,
+    "districtName": "Ohio House District 40",
+    "census": {
+      "censusName": "State House District 40 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 74986,
+      "medianAge": 41,
+      "totalPopulation": 117313,
+      "collegePct": 20.91,
+      "renterRatePct": 21.74,
+      "race": {
+        "whitePct": 87.87,
+        "blackPct": 5.53,
+        "asianPct": 1.01,
+        "hispanicPct": 2.5
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 59184,
+      "candidates": [
+        {
+          "name": "Bobbie Arnold",
+          "party": "D",
+          "votes": 13569,
+          "pct": 22.93
+        },
+        {
+          "name": "Rodney Creech",
+          "party": "R",
+          "votes": 45615,
+          "pct": 77.07
+        }
+      ],
+      "demTwoPartyPct": 22.93,
+      "repTwoPartyPct": 77.07
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 41,
+    "districtName": "Ohio House District 41",
+    "census": {
+      "censusName": "State House District 41 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 80900,
+      "medianAge": 41.5,
+      "totalPopulation": 112570,
+      "collegePct": 34.06,
+      "renterRatePct": 23.84,
+      "race": {
+        "whitePct": 85.86,
+        "blackPct": 4.2,
+        "asianPct": 2.24,
+        "hispanicPct": 5.8
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 50890,
+      "candidates": [
+        {
+          "name": "Josiah Leinbach",
+          "party": "R",
+          "votes": 19863,
+          "pct": 39.03
+        },
+        {
+          "name": "Erika White",
+          "party": "D",
+          "votes": 31027,
+          "pct": 60.97
+        }
+      ],
+      "demTwoPartyPct": 60.97,
+      "repTwoPartyPct": 39.03
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 42,
+    "districtName": "Ohio House District 42",
+    "census": {
+      "censusName": "State House District 42 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 71269,
+      "medianAge": 41.1,
+      "totalPopulation": 118268,
+      "collegePct": 32.2,
+      "renterRatePct": 33.32,
+      "race": {
+        "whitePct": 78.3,
+        "blackPct": 11.36,
+        "asianPct": 1.49,
+        "hispanicPct": 8.36
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": true,
+      "totalVotes": 28382,
+      "candidates": [
+        {
+          "name": "Elgin Rogers Jr.",
+          "party": "D",
+          "votes": 28382,
+          "pct": 100
+        }
+      ],
+      "demTwoPartyPct": 100,
+      "repTwoPartyPct": 0
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 43,
+    "districtName": "Ohio House District 43",
+    "census": {
+      "censusName": "State House District 43 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 59031,
+      "medianAge": 35.9,
+      "totalPopulation": 112046,
+      "collegePct": 29.44,
+      "renterRatePct": 43.31,
+      "race": {
+        "whitePct": 66.35,
+        "blackPct": 23.04,
+        "asianPct": 1.86,
+        "hispanicPct": 6.18
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 44542,
+      "candidates": [
+        {
+          "name": "Michele Grim",
+          "party": "D",
+          "votes": 26881,
+          "pct": 60.35
+        },
+        {
+          "name": "Wendi Hendricks",
+          "party": "R",
+          "votes": 17661,
+          "pct": 39.65
+        }
+      ],
+      "demTwoPartyPct": 60.35,
+      "repTwoPartyPct": 39.65
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 44,
+    "districtName": "Ohio House District 44",
+    "census": {
+      "censusName": "State House District 44 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 40703,
+      "medianAge": 35.1,
+      "totalPopulation": 113720,
+      "collegePct": 16.28,
+      "renterRatePct": 47.61,
+      "race": {
+        "whitePct": 51.02,
+        "blackPct": 34.9,
+        "asianPct": 1.19,
+        "hispanicPct": 10.27
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 65733,
+      "candidates": [
+        {
+          "name": "Dave Blyth",
+          "party": "D",
+          "votes": 27818,
+          "pct": 42.32
+        },
+        {
+          "name": "Josh Williams",
+          "party": "R",
+          "votes": 37915,
+          "pct": 57.68
+        }
+      ],
+      "demTwoPartyPct": 42.32,
+      "repTwoPartyPct": 57.68
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 45,
+    "districtName": "Ohio House District 45",
+    "census": {
+      "censusName": "State House District 45 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 95275,
+      "medianAge": 38.7,
+      "totalPopulation": 123609,
+      "collegePct": 41.87,
+      "renterRatePct": 27.04,
+      "race": {
+        "whitePct": 71.89,
+        "blackPct": 11.16,
+        "asianPct": 7.26,
+        "hispanicPct": 7.29
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 60703,
+      "candidates": [
+        {
+          "name": "Jennifer Gross",
+          "party": "R",
+          "votes": 37565,
+          "pct": 61.88
+        },
+        {
+          "name": "Landon P. Meador",
+          "party": "D",
+          "votes": 23138,
+          "pct": 38.12
+        }
+      ],
+      "demTwoPartyPct": 38.12,
+      "repTwoPartyPct": 61.88
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 46,
+    "districtName": "Ohio House District 46",
+    "census": {
+      "censusName": "State House District 46 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 84845,
+      "medianAge": 38.3,
+      "totalPopulation": 122676,
+      "collegePct": 32.2,
+      "renterRatePct": 28.59,
+      "race": {
+        "whitePct": 79.57,
+        "blackPct": 7.97,
+        "asianPct": 2.2,
+        "hispanicPct": 5.99
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 57054,
+      "candidates": [
+        {
+          "name": "Thomas Hall",
+          "party": "R",
+          "votes": 37819,
+          "pct": 66.29
+        },
+        {
+          "name": "Benjamin McCall",
+          "party": "D",
+          "votes": 19235,
+          "pct": 33.71
+        }
+      ],
+      "demTwoPartyPct": 33.71,
+      "repTwoPartyPct": 66.29
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 47,
+    "districtName": "Ohio House District 47",
+    "census": {
+      "censusName": "State House District 47 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 64784,
+      "medianAge": 33,
+      "totalPopulation": 121769,
+      "collegePct": 24.64,
+      "renterRatePct": 36.86,
+      "race": {
+        "whitePct": 79.05,
+        "blackPct": 7.14,
+        "asianPct": 3.46,
+        "hispanicPct": 7.44
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 48113,
+      "candidates": [
+        {
+          "name": "Vanessa R. Cummings",
+          "party": "D",
+          "votes": 18470,
+          "pct": 38.39
+        },
+        {
+          "name": "Diane Mullins",
+          "party": "R",
+          "votes": 29643,
+          "pct": 61.61
+        }
+      ],
+      "demTwoPartyPct": 38.39,
+      "repTwoPartyPct": 61.61
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 48,
+    "districtName": "Ohio House District 48",
+    "census": {
+      "censusName": "State House District 48 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 75990,
+      "medianAge": 42.3,
+      "totalPopulation": 123843,
+      "collegePct": 31.18,
+      "renterRatePct": 27.4,
+      "race": {
+        "whitePct": 91.1,
+        "blackPct": 3.58,
+        "asianPct": 0.6,
+        "hispanicPct": 1.67
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 64899,
+      "candidates": [
+        {
+          "name": "Lynn C. Gorman",
+          "party": "D",
+          "votes": 20182,
+          "pct": 31.1
+        },
+        {
+          "name": "Scott Oelslager",
+          "party": "R",
+          "votes": 44717,
+          "pct": 68.9
+        }
+      ],
+      "demTwoPartyPct": 31.1,
+      "repTwoPartyPct": 68.9
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 49,
+    "districtName": "Ohio House District 49",
+    "census": {
+      "censusName": "State House District 49 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 52213,
+      "medianAge": 39.4,
+      "totalPopulation": 116297,
+      "collegePct": 25.8,
+      "renterRatePct": 43.66,
+      "race": {
+        "whitePct": 71.43,
+        "blackPct": 16.56,
+        "asianPct": 1.55,
+        "hispanicPct": 5.24
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 47472,
+      "candidates": [
+        {
+          "name": "Krista L. Allison",
+          "party": "D",
+          "votes": 22601,
+          "pct": 47.61
+        },
+        {
+          "name": "Jim Thomas",
+          "party": "R",
+          "votes": 24871,
+          "pct": 52.39
+        }
+      ],
+      "demTwoPartyPct": 47.61,
+      "repTwoPartyPct": 52.39
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 50,
+    "districtName": "Ohio House District 50",
+    "census": {
+      "censusName": "State House District 50 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 66807,
+      "medianAge": 43.3,
+      "totalPopulation": 112955,
+      "collegePct": 19.39,
+      "renterRatePct": 25.05,
+      "race": {
+        "whitePct": 91.05,
+        "blackPct": 3.79,
+        "asianPct": 0.58,
+        "hispanicPct": 2.3
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 54247,
+      "candidates": [
+        {
+          "name": "Matthew Kishman",
+          "party": "R",
+          "votes": 36149,
+          "pct": 66.64
+        },
+        {
+          "name": "Doremus C. Redvine",
+          "party": "D",
+          "votes": 18098,
+          "pct": 33.36
+        }
+      ],
+      "demTwoPartyPct": 33.36,
+      "repTwoPartyPct": 66.64
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 51,
+    "districtName": "Ohio House District 51",
+    "census": {
+      "censusName": "State House District 51 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 65820,
+      "medianAge": 42,
+      "totalPopulation": 113254,
+      "collegePct": 18.87,
+      "renterRatePct": 29.2,
+      "race": {
+        "whitePct": 94.85,
+        "blackPct": 0.69,
+        "asianPct": 0.35,
+        "hispanicPct": 3.7
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 51636,
+      "candidates": [
+        {
+          "name": "Joe Rinehart",
+          "party": "D",
+          "votes": 14203,
+          "pct": 27.51
+        },
+        {
+          "name": "Jodi Salvo",
+          "party": "R",
+          "votes": 37433,
+          "pct": 72.49
+        }
+      ],
+      "demTwoPartyPct": 27.51,
+      "repTwoPartyPct": 72.49
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 52,
+    "districtName": "Ohio House District 52",
+    "census": {
+      "censusName": "State House District 52 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 71852,
+      "medianAge": 40.7,
+      "totalPopulation": 119167,
+      "collegePct": 29.61,
+      "renterRatePct": 25.83,
+      "race": {
+        "whitePct": 80.49,
+        "blackPct": 7.6,
+        "asianPct": 1.66,
+        "hispanicPct": 8.16
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 60133,
+      "candidates": [
+        {
+          "name": "Genevieve Flieger",
+          "party": "D",
+          "votes": 25755,
+          "pct": 42.83
+        },
+        {
+          "name": "Gayle Manning",
+          "party": "R",
+          "votes": 34378,
+          "pct": 57.17
+        }
+      ],
+      "demTwoPartyPct": 42.83,
+      "repTwoPartyPct": 57.17
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 53,
+    "districtName": "Ohio House District 53",
+    "census": {
+      "censusName": "State House District 53 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 64536,
+      "medianAge": 41.5,
+      "totalPopulation": 123923,
+      "collegePct": 27.26,
+      "renterRatePct": 31.83,
+      "race": {
+        "whitePct": 73.48,
+        "blackPct": 9.64,
+        "asianPct": 1.25,
+        "hispanicPct": 16.99
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 51900,
+      "candidates": [
+        {
+          "name": "Bradley Lacko",
+          "party": "R",
+          "votes": 22695,
+          "pct": 43.73
+        },
+        {
+          "name": "Joe Miller",
+          "party": "D",
+          "votes": 29205,
+          "pct": 56.27
+        }
+      ],
+      "demTwoPartyPct": 56.27,
+      "repTwoPartyPct": 43.73
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 54,
+    "districtName": "Ohio House District 54",
+    "census": {
+      "censusName": "State House District 54 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 76496,
+      "medianAge": 45.3,
+      "totalPopulation": 119487,
+      "collegePct": 25.91,
+      "renterRatePct": 20.06,
+      "race": {
+        "whitePct": 89.94,
+        "blackPct": 2.45,
+        "asianPct": 0.57,
+        "hispanicPct": 4.92
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 59964,
+      "candidates": [
+        {
+          "name": "Brenda Buchanan",
+          "party": "D",
+          "votes": 20685,
+          "pct": 34.5
+        },
+        {
+          "name": "Kellie Deeter",
+          "party": "R",
+          "votes": 39271,
+          "pct": 65.49
+        },
+        {
+          "name": "Andrew N. Leonard",
+          "party": "WI",
+          "votes": 8,
+          "pct": 0.01
+        }
+      ],
+      "demTwoPartyPct": 34.5,
+      "repTwoPartyPct": 65.5
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 55,
+    "districtName": "Ohio House District 55",
+    "census": {
+      "censusName": "State House District 55 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 102160,
+      "medianAge": 40.2,
+      "totalPopulation": 122379,
+      "collegePct": 38.15,
+      "renterRatePct": 15.79,
+      "race": {
+        "whitePct": 90.31,
+        "blackPct": 1.61,
+        "asianPct": 2.43,
+        "hispanicPct": 3.6
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 71281,
+      "candidates": [
+        {
+          "name": "Laura Marie Davis",
+          "party": "D",
+          "votes": 19583,
+          "pct": 27.47
+        },
+        {
+          "name": "C. Michelle Teska",
+          "party": "R",
+          "votes": 51698,
+          "pct": 72.53
+        }
+      ],
+      "demTwoPartyPct": 27.47,
+      "repTwoPartyPct": 72.53
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 56,
+    "districtName": "Ohio House District 56",
+    "census": {
+      "censusName": "State House District 56 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 112829,
+      "medianAge": 39.4,
+      "totalPopulation": 123985,
+      "collegePct": 52.89,
+      "renterRatePct": 25,
+      "race": {
+        "whitePct": 77.2,
+        "blackPct": 5.13,
+        "asianPct": 11.16,
+        "hispanicPct": 3.05
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 62790,
+      "candidates": [
+        {
+          "name": "Cleveland Canova",
+          "party": "D",
+          "votes": 23510,
+          "pct": 37.44
+        },
+        {
+          "name": "Adam Mathews",
+          "party": "R",
+          "votes": 39280,
+          "pct": 62.56
+        }
+      ],
+      "demTwoPartyPct": 37.44,
+      "repTwoPartyPct": 62.56
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 57,
+    "districtName": "Ohio House District 57",
+    "census": {
+      "censusName": "State House District 57 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 85836,
+      "medianAge": 44,
+      "totalPopulation": 123529,
+      "collegePct": 30.82,
+      "renterRatePct": 19.14,
+      "race": {
+        "whitePct": 87.77,
+        "blackPct": 3.16,
+        "asianPct": 1.16,
+        "hispanicPct": 7.21
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 65462,
+      "candidates": [
+        {
+          "name": "Jamie Callender",
+          "party": "R",
+          "votes": 40994,
+          "pct": 62.62
+        },
+        {
+          "name": "Rick Walker",
+          "party": "D",
+          "votes": 24468,
+          "pct": 37.38
+        }
+      ],
+      "demTwoPartyPct": 37.38,
+      "repTwoPartyPct": 62.62
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 58,
+    "districtName": "Ohio House District 58",
+    "census": {
+      "censusName": "State House District 58 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 62621,
+      "medianAge": 43.9,
+      "totalPopulation": 119108,
+      "collegePct": 29.7,
+      "renterRatePct": 27.47,
+      "race": {
+        "whitePct": 84.62,
+        "blackPct": 5.91,
+        "asianPct": 1.37,
+        "hispanicPct": 5.95
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 49875,
+      "candidates": [
+        {
+          "name": "Emily Ciccone",
+          "party": "R",
+          "votes": 20938,
+          "pct": 41.98
+        },
+        {
+          "name": "Lauren McNally",
+          "party": "D",
+          "votes": 28937,
+          "pct": 58.02
+        }
+      ],
+      "demTwoPartyPct": 58.02,
+      "repTwoPartyPct": 41.98
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 59,
+    "districtName": "Ohio House District 59",
+    "census": {
+      "censusName": "State House District 59 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 49959,
+      "medianAge": 43.4,
+      "totalPopulation": 122101,
+      "collegePct": 21.7,
+      "renterRatePct": 30.28,
+      "race": {
+        "whitePct": 70.05,
+        "blackPct": 20.79,
+        "asianPct": 0.43,
+        "hispanicPct": 6.33
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 61244,
+      "candidates": [
+        {
+          "name": "Tex Fischer",
+          "party": "R",
+          "votes": 34950,
+          "pct": 57.07
+        },
+        {
+          "name": "Laura Schaeffer",
+          "party": "D",
+          "votes": 26294,
+          "pct": 42.93
+        }
+      ],
+      "demTwoPartyPct": 42.93,
+      "repTwoPartyPct": 57.07
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 60,
+    "districtName": "Ohio House District 60",
+    "census": {
+      "censusName": "State House District 60 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 126785,
+      "medianAge": 40.8,
+      "totalPopulation": 116907,
+      "collegePct": 55.2,
+      "renterRatePct": 21.04,
+      "race": {
+        "whitePct": 83.32,
+        "blackPct": 2.8,
+        "asianPct": 6.55,
+        "hispanicPct": 3.42
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 68837,
+      "candidates": [
+        {
+          "name": "Brian Lorenz",
+          "party": "R",
+          "votes": 37345,
+          "pct": 54.25
+        },
+        {
+          "name": "Rachael Morocco",
+          "party": "D",
+          "votes": 31492,
+          "pct": 45.75
+        }
+      ],
+      "demTwoPartyPct": 45.75,
+      "repTwoPartyPct": 54.25
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 61,
+    "districtName": "Ohio House District 61",
+    "census": {
+      "censusName": "State House District 61 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 122085,
+      "medianAge": 39.1,
+      "totalPopulation": 125222,
+      "collegePct": 54.49,
+      "renterRatePct": 21.42,
+      "race": {
+        "whitePct": 81.97,
+        "blackPct": 4.79,
+        "asianPct": 7.83,
+        "hispanicPct": 2.85
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 72506,
+      "candidates": [
+        {
+          "name": "David Hogan",
+          "party": "D",
+          "votes": 27698,
+          "pct": 38.2
+        },
+        {
+          "name": "Beth Lear",
+          "party": "R",
+          "votes": 44808,
+          "pct": 61.8
+        }
+      ],
+      "demTwoPartyPct": 38.2,
+      "repTwoPartyPct": 61.8
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 62,
+    "districtName": "Ohio House District 62",
+    "census": {
+      "censusName": "State House District 62 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 86998,
+      "medianAge": 40.8,
+      "totalPopulation": 125090,
+      "collegePct": 36.89,
+      "renterRatePct": 27.72,
+      "race": {
+        "whitePct": 91.4,
+        "blackPct": 1.67,
+        "asianPct": 1.41,
+        "hispanicPct": 2.84
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 66385,
+      "candidates": [
+        {
+          "name": "Jean Schmidt",
+          "party": "R",
+          "votes": 42134,
+          "pct": 63.47
+        },
+        {
+          "name": "Katie Vockell",
+          "party": "D",
+          "votes": 24251,
+          "pct": 36.53
+        }
+      ],
+      "demTwoPartyPct": 36.53,
+      "repTwoPartyPct": 63.47
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 63,
+    "districtName": "Ohio House District 63",
+    "census": {
+      "censusName": "State House District 63 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 76261,
+      "medianAge": 41,
+      "totalPopulation": 114225,
+      "collegePct": 21.12,
+      "renterRatePct": 24.72,
+      "race": {
+        "whitePct": 94.71,
+        "blackPct": 1.09,
+        "asianPct": 0.57,
+        "hispanicPct": 1.57
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 56754,
+      "candidates": [
+        {
+          "name": "Adam C. Bird",
+          "party": "R",
+          "votes": 42842,
+          "pct": 75.49
+        },
+        {
+          "name": "Tracey D. McCullough",
+          "party": "D",
+          "votes": 13912,
+          "pct": 24.51
+        }
+      ],
+      "demTwoPartyPct": 24.51,
+      "repTwoPartyPct": 75.49
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 64,
+    "districtName": "Ohio House District 64",
+    "census": {
+      "censusName": "State House District 64 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 50905,
+      "medianAge": 42.7,
+      "totalPopulation": 124527,
+      "collegePct": 21.41,
+      "renterRatePct": 34.04,
+      "race": {
+        "whitePct": 80.71,
+        "blackPct": 12.03,
+        "asianPct": 0.76,
+        "hispanicPct": 2.82
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 54134,
+      "candidates": [
+        {
+          "name": "Lauren Mathews",
+          "party": "D",
+          "votes": 23695,
+          "pct": 43.77
+        },
+        {
+          "name": "Nick Santucci",
+          "party": "R",
+          "votes": 30439,
+          "pct": 56.23
+        }
+      ],
+      "demTwoPartyPct": 43.77,
+      "repTwoPartyPct": 56.23
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 65,
+    "districtName": "Ohio House District 65",
+    "census": {
+      "censusName": "State House District 65 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 61965,
+      "medianAge": 44.4,
+      "totalPopulation": 113990,
+      "collegePct": 17.56,
+      "renterRatePct": 18.84,
+      "race": {
+        "whitePct": 94.76,
+        "blackPct": 1.25,
+        "asianPct": 0.22,
+        "hispanicPct": 1.3
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": true,
+      "totalVotes": 44110,
+      "candidates": [
+        {
+          "name": "David Thomas",
+          "party": "R",
+          "votes": 44110,
+          "pct": 100
+        }
+      ],
+      "demTwoPartyPct": 0,
+      "repTwoPartyPct": 100
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 66,
+    "districtName": "Ohio House District 66",
+    "census": {
+      "censusName": "State House District 66 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 95405,
+      "medianAge": 43.2,
+      "totalPopulation": 116905,
+      "collegePct": 40.22,
+      "renterRatePct": 20.12,
+      "race": {
+        "whitePct": 93.21,
+        "blackPct": 1.36,
+        "asianPct": 0.96,
+        "hispanicPct": 2.38
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 65821,
+      "candidates": [
+        {
+          "name": "Bradford Scott Quade",
+          "party": "D",
+          "votes": 22770,
+          "pct": 34.59
+        },
+        {
+          "name": "Sharon A. Ray",
+          "party": "R",
+          "votes": 43051,
+          "pct": 65.41
+        }
+      ],
+      "demTwoPartyPct": 34.59,
+      "repTwoPartyPct": 65.41
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 67,
+    "districtName": "Ohio House District 67",
+    "census": {
+      "censusName": "State House District 67 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 77295,
+      "medianAge": 42.4,
+      "totalPopulation": 118440,
+      "collegePct": 26.18,
+      "renterRatePct": 20.35,
+      "race": {
+        "whitePct": 93.24,
+        "blackPct": 1.16,
+        "asianPct": 0.84,
+        "hispanicPct": 2.45
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": true,
+      "totalVotes": 47103,
+      "candidates": [
+        {
+          "name": "Melanie Miller",
+          "party": "R",
+          "votes": 47103,
+          "pct": 100
+        }
+      ],
+      "demTwoPartyPct": 0,
+      "repTwoPartyPct": 100
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 68,
+    "districtName": "Ohio House District 68",
+    "census": {
+      "censusName": "State House District 68 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 74914,
+      "medianAge": 40.2,
+      "totalPopulation": 116729,
+      "collegePct": 29.52,
+      "renterRatePct": 31.4,
+      "race": {
+        "whitePct": 88.14,
+        "blackPct": 2.94,
+        "asianPct": 2.35,
+        "hispanicPct": 2.48
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 60223,
+      "candidates": [
+        {
+          "name": "Thad Claggett",
+          "party": "R",
+          "votes": 35448,
+          "pct": 58.86
+        },
+        {
+          "name": "Michael E. Smith",
+          "party": "D",
+          "votes": 24775,
+          "pct": 41.14
+        }
+      ],
+      "demTwoPartyPct": 41.14,
+      "repTwoPartyPct": 58.86
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 69,
+    "districtName": "Ohio House District 69",
+    "census": {
+      "censusName": "State House District 69 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 86989,
+      "medianAge": 40.9,
+      "totalPopulation": 121035,
+      "collegePct": 25.46,
+      "renterRatePct": 16.44,
+      "race": {
+        "whitePct": 89.26,
+        "blackPct": 3.83,
+        "asianPct": 2.55,
+        "hispanicPct": 1.75
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 60493,
+      "candidates": [
+        {
+          "name": "Jamie Hough",
+          "party": "D",
+          "votes": 14048,
+          "pct": 23.22
+        },
+        {
+          "name": "Kevin Miller",
+          "party": "R",
+          "votes": 46445,
+          "pct": 76.78
+        }
+      ],
+      "demTwoPartyPct": 23.22,
+      "repTwoPartyPct": 76.78
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 70,
+    "districtName": "Ohio House District 70",
+    "census": {
+      "censusName": "State House District 70 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 94388,
+      "medianAge": 38.7,
+      "totalPopulation": 115963,
+      "collegePct": 46.35,
+      "renterRatePct": 33.34,
+      "race": {
+        "whitePct": 82.45,
+        "blackPct": 4.74,
+        "asianPct": 3.72,
+        "hispanicPct": 3.6
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 62485,
+      "candidates": [
+        {
+          "name": "Brian Lampton",
+          "party": "R",
+          "votes": 38455,
+          "pct": 61.54
+        },
+        {
+          "name": "Joseph Wilson",
+          "party": "D",
+          "votes": 24030,
+          "pct": 38.46
+        }
+      ],
+      "demTwoPartyPct": 38.46,
+      "repTwoPartyPct": 61.54
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 71,
+    "districtName": "Ohio House District 71",
+    "census": {
+      "censusName": "State House District 71 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 70099,
+      "medianAge": 41.1,
+      "totalPopulation": 114383,
+      "collegePct": 25.01,
+      "renterRatePct": 27.6,
+      "race": {
+        "whitePct": 88.73,
+        "blackPct": 4.68,
+        "asianPct": 0.81,
+        "hispanicPct": 2.27
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 55763,
+      "candidates": [
+        {
+          "name": "Levi P. Dean",
+          "party": "R",
+          "votes": 39278,
+          "pct": 70.44
+        },
+        {
+          "name": "Krista Magaw",
+          "party": "D",
+          "votes": 16485,
+          "pct": 29.56
+        }
+      ],
+      "demTwoPartyPct": 29.56,
+      "repTwoPartyPct": 70.44
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 72,
+    "districtName": "Ohio House District 72",
+    "census": {
+      "censusName": "State House District 72 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 70531,
+      "medianAge": 37.9,
+      "totalPopulation": 121388,
+      "collegePct": 34.45,
+      "renterRatePct": 33.1,
+      "race": {
+        "whitePct": 85.8,
+        "blackPct": 5.85,
+        "asianPct": 2,
+        "hispanicPct": 2.57
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 57264,
+      "candidates": [
+        {
+          "name": "Nathaniel Adams",
+          "party": "D",
+          "votes": 23657,
+          "pct": 41.31
+        },
+        {
+          "name": "Heidi Workman",
+          "party": "R",
+          "votes": 33607,
+          "pct": 58.69
+        }
+      ],
+      "demTwoPartyPct": 41.31,
+      "repTwoPartyPct": 58.69
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 73,
+    "districtName": "Ohio House District 73",
+    "census": {
+      "censusName": "State House District 73 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 86628,
+      "medianAge": 39,
+      "totalPopulation": 125901,
+      "collegePct": 34.05,
+      "renterRatePct": 28.72,
+      "race": {
+        "whitePct": 79.8,
+        "blackPct": 10.73,
+        "asianPct": 3.2,
+        "hispanicPct": 2.94
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 62985,
+      "candidates": [
+        {
+          "name": "Jeff LaRe",
+          "party": "R",
+          "votes": 38390,
+          "pct": 60.95
+        },
+        {
+          "name": "Michael Scarmack",
+          "party": "D",
+          "votes": 24595,
+          "pct": 39.05
+        }
+      ],
+      "demTwoPartyPct": 39.05,
+      "repTwoPartyPct": 60.95
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 74,
+    "districtName": "Ohio House District 74",
+    "census": {
+      "censusName": "State House District 74 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 57698,
+      "medianAge": 40.2,
+      "totalPopulation": 115644,
+      "collegePct": 17.66,
+      "renterRatePct": 33.21,
+      "race": {
+        "whitePct": 81.78,
+        "blackPct": 9.5,
+        "asianPct": 0.61,
+        "hispanicPct": 4.32
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 49092,
+      "candidates": [
+        {
+          "name": "Derek I. Alvarado",
+          "party": "D",
+          "votes": 17577,
+          "pct": 35.8
+        },
+        {
+          "name": "Bernard Willis",
+          "party": "R",
+          "votes": 31515,
+          "pct": 64.2
+        }
+      ],
+      "demTwoPartyPct": 35.8,
+      "repTwoPartyPct": 64.2
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 75,
+    "districtName": "Ohio House District 75",
+    "census": {
+      "censusName": "State House District 75 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 73315,
+      "medianAge": 34.8,
+      "totalPopulation": 115390,
+      "collegePct": 39.44,
+      "renterRatePct": 37.59,
+      "race": {
+        "whitePct": 87.83,
+        "blackPct": 2.21,
+        "asianPct": 2.08,
+        "hispanicPct": 6.16
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 55397,
+      "candidates": [
+        {
+          "name": "Haraz N. Ghanbari",
+          "party": "R",
+          "votes": 32907,
+          "pct": 59.4
+        },
+        {
+          "name": "Jan K. Materni",
+          "party": "D",
+          "votes": 22490,
+          "pct": 40.6
+        }
+      ],
+      "demTwoPartyPct": 40.6,
+      "repTwoPartyPct": 59.4
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 76,
+    "districtName": "Ohio House District 76",
+    "census": {
+      "censusName": "State House District 76 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 57649,
+      "medianAge": 40.9,
+      "totalPopulation": 125138,
+      "collegePct": 17.88,
+      "renterRatePct": 31.53,
+      "race": {
+        "whitePct": 84.98,
+        "blackPct": 7.44,
+        "asianPct": 0.88,
+        "hispanicPct": 2.2
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 56101,
+      "candidates": [
+        {
+          "name": "Emily Adams",
+          "party": "D",
+          "votes": 15738,
+          "pct": 28.05
+        },
+        {
+          "name": "Timothy Grady",
+          "party": "WI",
+          "votes": 11,
+          "pct": 0.02
+        },
+        {
+          "name": "Marilyn S. John",
+          "party": "R",
+          "votes": 40352,
+          "pct": 71.93
+        }
+      ],
+      "demTwoPartyPct": 28.06,
+      "repTwoPartyPct": 71.94
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 77,
+    "districtName": "Ohio House District 77",
+    "census": {
+      "censusName": "State House District 77 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 71769,
+      "medianAge": 38.9,
+      "totalPopulation": 116618,
+      "collegePct": 24.72,
+      "renterRatePct": 23.94,
+      "race": {
+        "whitePct": 93.22,
+        "blackPct": 1.16,
+        "asianPct": 1.17,
+        "hispanicPct": 2.38
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 51284,
+      "candidates": [
+        {
+          "name": "Meredith Craig",
+          "party": "R",
+          "votes": 35555,
+          "pct": 69.33
+        },
+        {
+          "name": "Mark D. Gooch",
+          "party": "D",
+          "votes": 15729,
+          "pct": 30.67
+        }
+      ],
+      "demTwoPartyPct": 30.67,
+      "repTwoPartyPct": 69.33
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 78,
+    "districtName": "Ohio House District 78",
+    "census": {
+      "censusName": "State House District 78 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 63938,
+      "medianAge": 39.9,
+      "totalPopulation": 113275,
+      "collegePct": 19.66,
+      "renterRatePct": 30.22,
+      "race": {
+        "whitePct": 82.36,
+        "blackPct": 9.73,
+        "asianPct": 0.82,
+        "hispanicPct": 3.26
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": true,
+      "totalVotes": 41369,
+      "candidates": [
+        {
+          "name": "Matt Huffman",
+          "party": "R",
+          "votes": 41369,
+          "pct": 100
+        }
+      ],
+      "demTwoPartyPct": 0,
+      "repTwoPartyPct": 100
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 79,
+    "districtName": "Ohio House District 79",
+    "census": {
+      "censusName": "State House District 79 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 58803,
+      "medianAge": 44.4,
+      "totalPopulation": 113788,
+      "collegePct": 15.56,
+      "renterRatePct": 27.26,
+      "race": {
+        "whitePct": 93.18,
+        "blackPct": 1.85,
+        "asianPct": 0.36,
+        "hispanicPct": 1.89
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 55624,
+      "candidates": [
+        {
+          "name": "Monica Robb Blasdel",
+          "party": "R",
+          "votes": 41502,
+          "pct": 74.61
+        },
+        {
+          "name": "Dan Votaw",
+          "party": "D",
+          "votes": 14122,
+          "pct": 25.39
+        }
+      ],
+      "demTwoPartyPct": 25.39,
+      "repTwoPartyPct": 74.61
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 80,
+    "districtName": "Ohio House District 80",
+    "census": {
+      "censusName": "State House District 80 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 73774,
+      "medianAge": 41.3,
+      "totalPopulation": 124990,
+      "collegePct": 23.86,
+      "renterRatePct": 26.02,
+      "race": {
+        "whitePct": 91.72,
+        "blackPct": 1.82,
+        "asianPct": 1.59,
+        "hispanicPct": 1.98
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 65262,
+      "candidates": [
+        {
+          "name": "Johnathan Newman",
+          "party": "R",
+          "votes": 48868,
+          "pct": 74.88
+        },
+        {
+          "name": "Melissa VanDyke",
+          "party": "D",
+          "votes": 16394,
+          "pct": 25.12
+        }
+      ],
+      "demTwoPartyPct": 25.12,
+      "repTwoPartyPct": 74.88
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 81,
+    "districtName": "Ohio House District 81",
+    "census": {
+      "censusName": "State House District 81 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 70880,
+      "medianAge": 41.5,
+      "totalPopulation": 113455,
+      "collegePct": 17.44,
+      "renterRatePct": 20.08,
+      "race": {
+        "whitePct": 91.2,
+        "blackPct": 0.72,
+        "asianPct": 0.4,
+        "hispanicPct": 7.18
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 56803,
+      "candidates": [
+        {
+          "name": "Gregory Adams",
+          "party": "D",
+          "votes": 13046,
+          "pct": 22.97
+        },
+        {
+          "name": "James M. Hoops",
+          "party": "R",
+          "votes": 43757,
+          "pct": 77.03
+        }
+      ],
+      "demTwoPartyPct": 22.97,
+      "repTwoPartyPct": 77.03
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 82,
+    "districtName": "Ohio House District 82",
+    "census": {
+      "censusName": "State House District 82 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 72051,
+      "medianAge": 41.1,
+      "totalPopulation": 113656,
+      "collegePct": 20.32,
+      "renterRatePct": 19.14,
+      "race": {
+        "whitePct": 91.14,
+        "blackPct": 1.08,
+        "asianPct": 0.31,
+        "hispanicPct": 7.42
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 57441,
+      "candidates": [
+        {
+          "name": "Roy W. Klopfenstein",
+          "party": "R",
+          "votes": 45616,
+          "pct": 79.41
+        },
+        {
+          "name": "Magdalene Markward",
+          "party": "D",
+          "votes": 11825,
+          "pct": 20.59
+        }
+      ],
+      "demTwoPartyPct": 20.59,
+      "repTwoPartyPct": 79.41
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 83,
+    "districtName": "Ohio House District 83",
+    "census": {
+      "censusName": "State House District 83 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 65061,
+      "medianAge": 39.7,
+      "totalPopulation": 121258,
+      "collegePct": 25.75,
+      "renterRatePct": 27.64,
+      "race": {
+        "whitePct": 91.42,
+        "blackPct": 1.53,
+        "asianPct": 1.46,
+        "hispanicPct": 4.47
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 57811,
+      "candidates": [
+        {
+          "name": "Sheila M. Coressel",
+          "party": "D",
+          "votes": 14404,
+          "pct": 24.92
+        },
+        {
+          "name": "Ty Mathews",
+          "party": "R",
+          "votes": 43407,
+          "pct": 75.08
+        }
+      ],
+      "demTwoPartyPct": 24.92,
+      "repTwoPartyPct": 75.08
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 84,
+    "districtName": "Ohio House District 84",
+    "census": {
+      "censusName": "State House District 84 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 71305,
+      "medianAge": 40.4,
+      "totalPopulation": 113271,
+      "collegePct": 20.27,
+      "renterRatePct": 25.6,
+      "race": {
+        "whitePct": 95.31,
+        "blackPct": 0.67,
+        "asianPct": 0.4,
+        "hispanicPct": 2.04
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 59836,
+      "candidates": [
+        {
+          "name": "Arienne Childrey",
+          "party": "D",
+          "votes": 9410,
+          "pct": 15.73
+        },
+        {
+          "name": "Angie King",
+          "party": "R",
+          "votes": 50426,
+          "pct": 84.27
+        }
+      ],
+      "demTwoPartyPct": 15.73,
+      "repTwoPartyPct": 84.27
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 85,
+    "districtName": "Ohio House District 85",
+    "census": {
+      "censusName": "State House District 85 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 73207,
+      "medianAge": 40.6,
+      "totalPopulation": 117073,
+      "collegePct": 19.4,
+      "renterRatePct": 25.35,
+      "race": {
+        "whitePct": 92.28,
+        "blackPct": 2,
+        "asianPct": 0.65,
+        "hispanicPct": 1.88
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 58075,
+      "candidates": [
+        {
+          "name": "Tim Barhorst",
+          "party": "R",
+          "votes": 46524,
+          "pct": 80.11
+        },
+        {
+          "name": "Victoria Maddox",
+          "party": "D",
+          "votes": 11551,
+          "pct": 19.89
+        }
+      ],
+      "demTwoPartyPct": 19.89,
+      "repTwoPartyPct": 80.11
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 86,
+    "districtName": "Ohio House District 86",
+    "census": {
+      "censusName": "State House District 86 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 79228,
+      "medianAge": 38.7,
+      "totalPopulation": 115957,
+      "collegePct": 27.57,
+      "renterRatePct": 28.57,
+      "race": {
+        "whitePct": 85.96,
+        "blackPct": 4.27,
+        "asianPct": 3.07,
+        "hispanicPct": 3.21
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 54498,
+      "candidates": [
+        {
+          "name": "Tracy Richardson",
+          "party": "R",
+          "votes": 37571,
+          "pct": 68.94
+        },
+        {
+          "name": "Lesley Verbus",
+          "party": "D",
+          "votes": 16927,
+          "pct": 31.06
+        }
+      ],
+      "demTwoPartyPct": 31.06,
+      "repTwoPartyPct": 68.94
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 87,
+    "districtName": "Ohio House District 87",
+    "census": {
+      "censusName": "State House District 87 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 67040,
+      "medianAge": 43.4,
+      "totalPopulation": 113161,
+      "collegePct": 17.35,
+      "renterRatePct": 23.2,
+      "race": {
+        "whitePct": 95.35,
+        "blackPct": 0.53,
+        "asianPct": 0.43,
+        "hispanicPct": 1.99
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 56102,
+      "candidates": [
+        {
+          "name": "Riordan T. McClain",
+          "party": "R",
+          "votes": 42897,
+          "pct": 76.46
+        },
+        {
+          "name": "Craig Swartz",
+          "party": "D",
+          "votes": 13205,
+          "pct": 23.54
+        }
+      ],
+      "demTwoPartyPct": 23.54,
+      "repTwoPartyPct": 76.46
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 88,
+    "districtName": "Ohio House District 88",
+    "census": {
+      "censusName": "State House District 88 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 63770,
+      "medianAge": 41.5,
+      "totalPopulation": 113631,
+      "collegePct": 19.86,
+      "renterRatePct": 26.12,
+      "race": {
+        "whitePct": 87.99,
+        "blackPct": 2.97,
+        "asianPct": 0.48,
+        "hispanicPct": 8.17
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 53129,
+      "candidates": [
+        {
+          "name": "Gary Click",
+          "party": "R",
+          "votes": 35367,
+          "pct": 66.57
+        },
+        {
+          "name": "Dianne Selvey",
+          "party": "D",
+          "votes": 17762,
+          "pct": 33.43
+        }
+      ],
+      "demTwoPartyPct": 33.43,
+      "repTwoPartyPct": 66.57
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 89,
+    "districtName": "Ohio House District 89",
+    "census": {
+      "censusName": "State House District 89 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 66007,
+      "medianAge": 44.9,
+      "totalPopulation": 114071,
+      "collegePct": 23.91,
+      "renterRatePct": 26.3,
+      "race": {
+        "whitePct": 85.83,
+        "blackPct": 5.98,
+        "asianPct": 0.65,
+        "hispanicPct": 5.32
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 59910,
+      "candidates": [
+        {
+          "name": "Alicia W. Roshong",
+          "party": "D",
+          "votes": 24762,
+          "pct": 41.33
+        },
+        {
+          "name": "D.J. Swearingen",
+          "party": "R",
+          "votes": 35148,
+          "pct": 58.67
+        }
+      ],
+      "demTwoPartyPct": 41.33,
+      "repTwoPartyPct": 58.67
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 90,
+    "districtName": "Ohio House District 90",
+    "census": {
+      "censusName": "State House District 90 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 51565,
+      "medianAge": 41.3,
+      "totalPopulation": 114885,
+      "collegePct": 16.91,
+      "renterRatePct": 29.56,
+      "race": {
+        "whitePct": 93.97,
+        "blackPct": 1.8,
+        "asianPct": 0.42,
+        "hispanicPct": 1.44
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 48734,
+      "candidates": [
+        {
+          "name": "Kate Nunnelley",
+          "party": "D",
+          "votes": 11314,
+          "pct": 23.22
+        },
+        {
+          "name": "Justin Pizzulli",
+          "party": "R",
+          "votes": 37420,
+          "pct": 76.78
+        }
+      ],
+      "demTwoPartyPct": 23.22,
+      "repTwoPartyPct": 76.78
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 91,
+    "districtName": "Ohio House District 91",
+    "census": {
+      "censusName": "State House District 91 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 58793,
+      "medianAge": 40.9,
+      "totalPopulation": 113196,
+      "collegePct": 14.93,
+      "renterRatePct": 31.12,
+      "race": {
+        "whitePct": 94.05,
+        "blackPct": 1.54,
+        "asianPct": 0.3,
+        "hispanicPct": 1.26
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 49028,
+      "candidates": [
+        {
+          "name": "Ellen Yvette Clark",
+          "party": "D",
+          "votes": 9932,
+          "pct": 20.26
+        },
+        {
+          "name": "Bob Peterson",
+          "party": "R",
+          "votes": 39096,
+          "pct": 79.74
+        }
+      ],
+      "demTwoPartyPct": 20.26,
+      "repTwoPartyPct": 79.74
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 92,
+    "districtName": "Ohio House District 92",
+    "census": {
+      "censusName": "State House District 92 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 58791,
+      "medianAge": 41.6,
+      "totalPopulation": 116948,
+      "collegePct": 15.71,
+      "renterRatePct": 27.18,
+      "race": {
+        "whitePct": 91.23,
+        "blackPct": 3.65,
+        "asianPct": 0.36,
+        "hispanicPct": 1.16
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 49147,
+      "candidates": [
+        {
+          "name": "Arthur Donald Beatty",
+          "party": "D",
+          "votes": 13966,
+          "pct": 28.42
+        },
+        {
+          "name": "Mark Johnson",
+          "party": "R",
+          "votes": 35181,
+          "pct": 71.58
+        }
+      ],
+      "demTwoPartyPct": 28.42,
+      "repTwoPartyPct": 71.58
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 93,
+    "districtName": "Ohio House District 93",
+    "census": {
+      "censusName": "State House District 93 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 56158,
+      "medianAge": 41.2,
+      "totalPopulation": 119135,
+      "collegePct": 17.88,
+      "renterRatePct": 26.32,
+      "race": {
+        "whitePct": 94.22,
+        "blackPct": 1.57,
+        "asianPct": 0.64,
+        "hispanicPct": 1.04
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": true,
+      "totalVotes": 43225,
+      "candidates": [
+        {
+          "name": "Jason Stephens",
+          "party": "R",
+          "votes": 43225,
+          "pct": 100
+        }
+      ],
+      "demTwoPartyPct": 0,
+      "repTwoPartyPct": 100
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 94,
+    "districtName": "Ohio House District 94",
+    "census": {
+      "censusName": "State House District 94 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 53247,
+      "medianAge": 38.5,
+      "totalPopulation": 112423,
+      "collegePct": 24.88,
+      "renterRatePct": 31.16,
+      "race": {
+        "whitePct": 92.45,
+        "blackPct": 2.04,
+        "asianPct": 1.27,
+        "hispanicPct": 1.69
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 54094,
+      "candidates": [
+        {
+          "name": "Andrea Neutzling",
+          "party": "WI",
+          "votes": 10,
+          "pct": 0.02
+        },
+        {
+          "name": "Kevin Ritter",
+          "party": "R",
+          "votes": 37516,
+          "pct": 69.35
+        },
+        {
+          "name": "Wenda Sheard",
+          "party": "D",
+          "votes": 16568,
+          "pct": 30.63
+        }
+      ],
+      "demTwoPartyPct": 30.63,
+      "repTwoPartyPct": 69.37
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 95,
+    "districtName": "Ohio House District 95",
+    "census": {
+      "censusName": "State House District 95 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 61069,
+      "medianAge": 44.5,
+      "totalPopulation": 114071,
+      "collegePct": 18.65,
+      "renterRatePct": 23.14,
+      "race": {
+        "whitePct": 93.66,
+        "blackPct": 2.24,
+        "asianPct": 0.43,
+        "hispanicPct": 1.38
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 48978,
+      "candidates": [
+        {
+          "name": "Don Jones",
+          "party": "R",
+          "votes": 32958,
+          "pct": 67.29
+        },
+        {
+          "name": "Micah McCarey",
+          "party": "D",
+          "votes": 16020,
+          "pct": 32.71
+        }
+      ],
+      "demTwoPartyPct": 32.71,
+      "repTwoPartyPct": 67.29
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 96,
+    "districtName": "Ohio House District 96",
+    "census": {
+      "censusName": "State House District 96 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 55508,
+      "medianAge": 44.6,
+      "totalPopulation": 112841,
+      "collegePct": 18.19,
+      "renterRatePct": 26.81,
+      "race": {
+        "whitePct": 90.86,
+        "blackPct": 4.01,
+        "asianPct": 0.62,
+        "hispanicPct": 1.3
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": true,
+      "totalVotes": 41434,
+      "candidates": [
+        {
+          "name": "Ron Ferguson",
+          "party": "R",
+          "votes": 41434,
+          "pct": 100
+        }
+      ],
+      "demTwoPartyPct": 0,
+      "repTwoPartyPct": 100
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 97,
+    "districtName": "Ohio House District 97",
+    "census": {
+      "censusName": "State House District 97 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 57285,
+      "medianAge": 40.6,
+      "totalPopulation": 114856,
+      "collegePct": 19.12,
+      "renterRatePct": 31.72,
+      "race": {
+        "whitePct": 91.49,
+        "blackPct": 2.91,
+        "asianPct": 0.53,
+        "hispanicPct": 1.29
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 47201,
+      "candidates": [
+        {
+          "name": "Adam P. Holmes",
+          "party": "R",
+          "votes": 35081,
+          "pct": 74.32
+        },
+        {
+          "name": "Scott Wilson",
+          "party": "?",
+          "votes": 12120,
+          "pct": 25.68
+        }
+      ],
+      "demTwoPartyPct": 0,
+      "repTwoPartyPct": 100
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 98,
+    "districtName": "Ohio House District 98",
+    "census": {
+      "censusName": "State House District 98 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 65126,
+      "medianAge": 37.3,
+      "totalPopulation": 122910,
+      "collegePct": 17.74,
+      "renterRatePct": 26.18,
+      "race": {
+        "whitePct": 95.34,
+        "blackPct": 0.72,
+        "asianPct": 0.53,
+        "hispanicPct": 1.31
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 47129,
+      "candidates": [
+        {
+          "name": "Mark Hiner",
+          "party": "R",
+          "votes": 35572,
+          "pct": 75.48
+        },
+        {
+          "name": "Annie Homstad",
+          "party": "D",
+          "votes": 11557,
+          "pct": 24.52
+        }
+      ],
+      "demTwoPartyPct": 24.52,
+      "repTwoPartyPct": 75.48
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  },
+  {
+    "districtNumber": 99,
+    "districtName": "Ohio House District 99",
+    "census": {
+      "censusName": "State House District 99 (2022); Ohio",
+      "source": "ACS 5-Year 2023 (2019–2023)",
+      "medianHouseholdIncome": 71708,
+      "medianAge": 44.7,
+      "totalPopulation": 124439,
+      "collegePct": 26.83,
+      "renterRatePct": 21.84,
+      "race": {
+        "whitePct": 89.86,
+        "blackPct": 3.13,
+        "asianPct": 0.45,
+        "hispanicPct": 4.23
+      }
+    },
+    "election2024": {
+      "source": "Ohio Secretary of State, November 2024 General Election",
+      "uncontested": false,
+      "totalVotes": 59170,
+      "candidates": [
+        {
+          "name": "Sarah Fowler Arthur",
+          "party": "R",
+          "votes": 38184,
+          "pct": 64.53
+        },
+        {
+          "name": "Louis Murphy",
+          "party": "D",
+          "votes": 20986,
+          "pct": 35.47
+        }
+      ],
+      "demTwoPartyPct": 35.47,
+      "repTwoPartyPct": 64.53
+    },
+    "incumbent": "TBD",
+    "incumbentParty": "TBD",
+    "nextElection": "TBD",
+    "seatStatus": "TBD",
+    "strategyMemo": "TBD"
+  }
+]
