@@ -23,7 +23,9 @@
       "WebFetch(domain:codelibrary.amlegal.com)",
       "WebFetch(domain:www.boe.ohio.gov)",
       "WebFetch(domain:chroniclet.com)",
-      "Bash(node fetch-district.js 3)"
+      "Bash(node fetch-district.js 3)",
+      "Bash(python3 -c ':*)",
+      "Bash(node --input-type=module)"
     ]
   }
 }
