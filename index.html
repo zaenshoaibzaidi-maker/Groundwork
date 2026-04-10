@@ -82,6 +82,12 @@
   .d-type { display: inline-block; margin-top: 10px; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; background: var(--green-100); color: var(--green-700); padding: 3px 8px; border-radius: 4px; }
   .footer-note { margin-top: 48px; font-size: 13px; color: var(--tan); }
 
+  /* CHAMBER TOGGLE */
+  .chamber-toggle { display: flex; border: 2px solid var(--green-200); border-radius: var(--radius); overflow: hidden; margin-bottom: 24px; background: white; box-shadow: var(--shadow); }
+  .chamber-btn { flex: 1; padding: 10px 28px; font-size: 14px; font-family: 'Georgia',serif; border: none; cursor: pointer; background: white; color: var(--text-soft); transition: background 0.18s, color 0.18s; letter-spacing: 0.03em; }
+  .chamber-btn.active { background: var(--green-600); color: white; }
+  .chamber-btn:not(.active):hover { background: var(--green-50); color: var(--green-700); }
+
   /* DASHBOARD */
   #dashboard { display: none; padding: 36px 32px 64px; max-width: 1100px; margin: 0 auto; }
   .district-header { margin-bottom: 32px; }
@@ -159,6 +165,11 @@
   <h1 class="hero-title">Know the district before you knock the door.</h1>
   <p class="hero-subtitle">Search any Ohio district or pick a featured example to see a full intelligence brief.</p>
 
+  <div class="chamber-toggle">
+    <button class="chamber-btn active" id="btnHouse" onclick="setMode('house')">State House</button>
+    <button class="chamber-btn" id="btnSenate" onclick="setMode('senate')">State Senate</button>
+  </div>
+
   <div class="search-wrap">
     <label class="search-label" for="districtSearch">Search Ohio districts</label>
     <div class="search-input-row">
@@ -173,27 +184,11 @@
 
   <div class="section-divider">
     <div class="divider-line"></div>
-    <span>Featured Districts</span>
+    <span id="featuredLabel">Featured Districts</span>
     <div class="divider-line"></div>
   </div>
 
-  <div class="district-grid">
-    <div class="district-btn" onclick="showDistrict('oh-hd-3')">
-      <div class="d-name">Ohio House District 3</div>
-      <div class="d-loc">Columbus Urban Core</div>
-      <div class="d-type">State House District</div>
-    </div>
-    <div class="district-btn" onclick="showDistrict('oh-hd-8')">
-      <div class="d-name">Ohio House District 8</div>
-      <div class="d-loc">Columbus Suburbs</div>
-      <div class="d-type">State House District</div>
-    </div>
-    <div class="district-btn" onclick="showDistrict('oh-hd-13')">
-      <div class="d-name">Ohio House District 13</div>
-      <div class="d-loc">Lakewood / West Cleveland</div>
-      <div class="d-type">State House District</div>
-    </div>
-  </div>
+  <div class="district-grid" id="featuredGrid"></div>
   <div class="footer-note">Data is representative of real demographic and electoral patterns. For planning purposes.</div>
 </div>
 
@@ -268,7 +263,51 @@
 </div>
 
 <script src="districts.js"></script>
+<script src="senate-districts.js"></script>
 <script>
+/* ── MODE ── */
+let currentMode = 'house';
+
+const HOUSE_FEATURED = [
+  { id: 'oh-hd-3',  name: 'Ohio House District 3',  loc: 'Columbus Urban Core',       type: 'State House District' },
+  { id: 'oh-hd-8',  name: 'Ohio House District 8',  loc: 'Columbus Suburbs',           type: 'State House District' },
+  { id: 'oh-hd-13', name: 'Ohio House District 13', loc: 'Lakewood / West Cleveland',  type: 'State House District' },
+];
+const SENATE_FEATURED = [
+  { id: 'oh-sd-31', name: 'Ohio Senate District 31', loc: 'Tuscarawas & Carroll Counties',         type: 'State Senate District' },
+  { id: 'oh-sd-7',  name: 'Ohio Senate District 7',  loc: 'Dublin & Columbus North Suburbs',       type: 'State Senate District' },
+  { id: 'oh-sd-16', name: 'Ohio Senate District 16', loc: 'Upper Arlington & NW Columbus Suburbs', type: 'State Senate District' },
+];
+
+function renderFeatured(cards) {
+  document.getElementById('featuredGrid').innerHTML = cards.map(c =>
+    `<div class="district-btn" onclick="showDistrict('${c.id}')">
+      <div class="d-name">${c.name}</div>
+      <div class="d-loc">${c.loc}</div>
+      <div class="d-type">${c.type}</div>
+    </div>`).join('');
+}
+
+function setMode(mode) {
+  currentMode = mode;
+  document.getElementById('btnHouse').classList.toggle('active', mode === 'house');
+  document.getElementById('btnSenate').classList.toggle('active', mode === 'senate');
+  const input = document.getElementById('districtSearch');
+  input.value = '';
+  closeDropdown();
+  if (mode === 'house') {
+    input.placeholder = 'e.g. "Ohio House District 3", "HD-8", "HD-13"…';
+    document.querySelector('.search-hint').textContent = 'Ohio House District 3 · Ohio House District 8 · Ohio House District 13';
+    document.getElementById('featuredLabel').textContent = 'Featured House Districts';
+    renderFeatured(HOUSE_FEATURED);
+  } else {
+    input.placeholder = 'e.g. "Ohio Senate District 7", "SD-16", "SD-31"…';
+    document.querySelector('.search-hint').textContent = 'Ohio Senate District 7 · Ohio Senate District 16 · Ohio Senate District 31';
+    document.getElementById('featuredLabel').textContent = 'Featured Senate Districts';
+    renderFeatured(SENATE_FEATURED);
+  }
+}
+
 /* ── SEARCH ── */
 let activeIndex = -1, filteredResults = [];
 
@@ -277,9 +316,10 @@ function onSearchInput() { activeIndex = -1; openDropdown(); }
 function openDropdown() {
   const q = document.getElementById('districtSearch').value.trim().toLowerCase();
   const dd = document.getElementById('searchDropdown');
+  const sourceData = currentMode === 'house' ? DISTRICTS : SENATE_DISTRICTS;
   filteredResults = q.length === 0
-    ? DISTRICTS
-    : DISTRICTS.filter(d =>
+    ? sourceData
+    : sourceData.filter(d =>
         d.name.toLowerCase().includes(q) ||
         d.id.toLowerCase().includes(q) ||
         d.region.toLowerCase().includes(q) ||
@@ -299,7 +339,7 @@ function openDropdown() {
     if (!groups[city]) return;
     html += `<div class="dropdown-group-header">${city}</div>`;
     groups[city].forEach(d => {
-      const typeLabel = d.type === 'state house district' ? 'State House District' : d.type === 'ward' ? 'City Ward' : 'Council District';
+      const typeLabel = d.type === 'state house district' ? 'State House District' : d.type === 'state senate district' ? 'State Senate District' : d.type === 'ward' ? 'City Ward' : 'Council District';
       html += `<div class="dropdown-item" data-idx="${globalIdx}" onmousedown="selectItem(${globalIdx})">
         <span class="dropdown-item-name">${highlight(d.name, document.getElementById('districtSearch').value.trim())}</span>
         <span class="dropdown-item-region">${d.region}</span>
@@ -343,6 +383,7 @@ function updateActive(items) {
   if (items[activeIndex]) items[activeIndex].scrollIntoView({ block: 'nearest' });
 }
 document.addEventListener('click', e => { if (!document.querySelector('.search-wrap').contains(e.target)) closeDropdown(); });
+renderFeatured(HOUSE_FEATURED);
 
 /* ── COMING SOON ── */
 function showComingSoon(d) {
@@ -367,7 +408,8 @@ function showHome() {
 
 /* ── RENDER DISTRICT ── */
 function showDistrict(id) {
-  const entry = DISTRICTS.find(d => d.id === id);
+  let entry = DISTRICTS.find(d => d.id === id);
+  if (!entry) entry = SENATE_DISTRICTS.find(d => d.id === id);
   if (!entry || !entry.dashboard) { if (entry) showComingSoon(entry); return; }
   const d = entry.dashboard;
 
