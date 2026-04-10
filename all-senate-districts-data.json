@@ -1,0 +1,959 @@
+{
+  "1": {
+    "district": 1,
+    "name": "Ohio Senate District 1",
+    "census": {
+      "medianIncome": 69460,
+      "medianAge": 40.6,
+      "totalPopulation": 348369,
+      "collegePct": 21.2,
+      "renterPct": 22.5,
+      "whitePct": 91.3,
+      "blackPct": 1.1,
+      "asianPct": 0.7,
+      "hispanicPct": 6.3
+    },
+    "election": {
+      "district": 1,
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Robert McColley (R)",
+          "votes": 104274,
+          "pct": 1
+        }
+      ],
+      "winner": "Robert McColley (R)",
+      "winner_votes": 104274,
+      "winner_pct": 100
+    }
+  },
+  "2": {
+    "district": 2,
+    "name": "Ohio Senate District 2",
+    "census": {
+      "medianIncome": 59394,
+      "medianAge": 38,
+      "totalPopulation": 343181,
+      "collegePct": 26.4,
+      "renterPct": 37.1,
+      "whitePct": 75,
+      "blackPct": 14.3,
+      "asianPct": 1.3,
+      "hispanicPct": 7.2
+    },
+    "election": {
+      "district": 2,
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Paloma De La Fuente (D)",
+          "votes": 68948,
+          "pct": 1
+        }
+      ],
+      "winner": "Paloma De La Fuente (D)",
+      "winner_votes": 68948,
+      "winner_pct": 100
+    }
+  },
+  "3": {
+    "district": 3,
+    "name": "Ohio Senate District 3",
+    "census": {
+      "medianIncome": 81582,
+      "medianAge": 37.6,
+      "totalPopulation": 347200,
+      "collegePct": 35.8,
+      "renterPct": 33,
+      "whitePct": 68,
+      "blackPct": 18.3,
+      "asianPct": 3.4,
+      "hispanicPct": 5.4
+    },
+    "election": {
+      "district": 3,
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Tina Maharath (D)",
+          "votes": 56023,
+          "pct": 1
+        }
+      ],
+      "winner": "Tina Maharath (D)",
+      "winner_votes": 56023,
+      "winner_pct": 100
+    }
+  },
+  "4": {
+    "district": 4,
+    "name": "Ohio Senate District 4",
+    "census": {
+      "medianIncome": 80991,
+      "medianAge": 37.1,
+      "totalPopulation": 368054,
+      "collegePct": 33.2,
+      "renterPct": 30.7,
+      "whitePct": 76.8,
+      "blackPct": 8.8,
+      "asianPct": 4.3,
+      "hispanicPct": 6.9
+    },
+    "election": {
+      "district": 4,
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Thomas Cooke (D)",
+          "votes": 61381,
+          "pct": 1
+        }
+      ],
+      "winner": "Thomas Cooke (D)",
+      "winner_votes": 61381,
+      "winner_pct": 100
+    }
+  },
+  "5": {
+    "district": 5,
+    "name": "Ohio Senate District 5",
+    "census": {
+      "medianIncome": 70487,
+      "medianAge": 41.7,
+      "totalPopulation": 365510,
+      "collegePct": 23.3,
+      "renterPct": 28.1,
+      "whitePct": 80.3,
+      "blackPct": 12.3,
+      "asianPct": 1.3,
+      "hispanicPct": 2.4
+    },
+    "election": {
+      "district": 5,
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Stephen A. Huffman (R)",
+          "votes": 99741,
+          "pct": 1
+        }
+      ],
+      "winner": "Stephen A. Huffman (R)",
+      "winner_votes": 99741,
+      "winner_pct": 100
+    }
+  },
+  "6": {
+    "district": 6,
+    "name": "Ohio Senate District 6",
+    "census": {
+      "medianIncome": 63722,
+      "medianAge": 37.4,
+      "totalPopulation": 357666,
+      "collegePct": 33.8,
+      "renterPct": 40.6,
+      "whitePct": 70.4,
+      "blackPct": 18.9,
+      "asianPct": 2.5,
+      "hispanicPct": 4.6
+    },
+    "election": {
+      "district": 6,
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Willis E. Blackshear Jr (D)",
+          "votes": 84565,
+          "pct": 1
+        }
+      ],
+      "winner": "Willis E. Blackshear Jr (D)",
+      "winner_votes": 84565,
+      "winner_pct": 100
+    }
+  },
+  "7": {
+    "district": 7,
+    "name": "Ohio Senate District 7",
+    "census": {
+      "medianIncome": 104554,
+      "medianAge": 39.7,
+      "totalPopulation": 371132,
+      "collegePct": 50.2,
+      "renterPct": 25.2,
+      "whitePct": 80.3,
+      "blackPct": 7.4,
+      "asianPct": 5.9,
+      "hispanicPct": 3.7
+    },
+    "election": {
+      "district": 7,
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "David Dallas (D)",
+          "votes": 59563,
+          "pct": 1
+        }
+      ],
+      "winner": "David Dallas (D)",
+      "winner_votes": 59563,
+      "winner_pct": 100
+    }
+  },
+  "8": {
+    "district": 8,
+    "name": "Ohio Senate District 8",
+    "census": {
+      "medianIncome": 80412,
+      "medianAge": 39.6,
+      "totalPopulation": 347038,
+      "collegePct": 37.1,
+      "renterPct": 27.3,
+      "whitePct": 73.7,
+      "blackPct": 16.8,
+      "asianPct": 2.5,
+      "hispanicPct": 3.8
+    },
+    "election": {
+      "district": 8,
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Louis W. Blessing III (R)",
+          "votes": 108346,
+          "pct": 1
+        }
+      ],
+      "winner": "Louis W. Blessing III (R)",
+      "winner_votes": 108346,
+      "winner_pct": 100
+    }
+  },
+  "9": {
+    "district": 9,
+    "name": "Ohio Senate District 9",
+    "census": {
+      "medianIncome": 55528,
+      "medianAge": 33.8,
+      "totalPopulation": 356072,
+      "collegePct": 39.2,
+      "renterPct": 55.5,
+      "whitePct": 52,
+      "blackPct": 36.6,
+      "asianPct": 2.5,
+      "hispanicPct": 5.2
+    },
+    "election": {
+      "district": 9,
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Catherine D. Ingram (D)",
+          "votes": 78639,
+          "pct": 1
+        }
+      ],
+      "winner": "Catherine D. Ingram (D)",
+      "winner_votes": 78639,
+      "winner_pct": 100
+    }
+  },
+  "10": {
+    "district": 10,
+    "name": "Ohio Senate District 10",
+    "census": {
+      "medianIncome": 72237,
+      "medianAge": 39.9,
+      "totalPopulation": 345990,
+      "collegePct": 29.7,
+      "renterPct": 31.4,
+      "whitePct": 84.3,
+      "blackPct": 6.3,
+      "asianPct": 1.7,
+      "hispanicPct": 3.4
+    },
+    "election": {
+      "district": 10,
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Kyle Koehler (R)",
+          "votes": 110150,
+          "pct": 1
+        }
+      ],
+      "winner": "Kyle Koehler (R)",
+      "winner_votes": 110150,
+      "winner_pct": 100
+    }
+  },
+  "11": {
+    "district": 11,
+    "name": "Ohio Senate District 11",
+    "census": {
+      "medianIncome": 69437,
+      "medianAge": 39.7,
+      "totalPopulation": 342884,
+      "collegePct": 31.9,
+      "renterPct": 33.7,
+      "whitePct": 76.9,
+      "blackPct": 12.8,
+      "asianPct": 1.9,
+      "hispanicPct": 6.8
+    },
+    "election": {
+      "district": 11,
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Tony Dia (R)",
+          "votes": 52384,
+          "pct": 1
+        }
+      ],
+      "winner": "Tony Dia (R)",
+      "winner_votes": 52384,
+      "winner_pct": 100
+    }
+  },
+  "12": {
+    "district": 12,
+    "name": "Ohio Senate District 12",
+    "census": {
+      "medianIncome": 70111,
+      "medianAge": 40.3,
+      "totalPopulation": 343619,
+      "collegePct": 19.8,
+      "renterPct": 27,
+      "whitePct": 90,
+      "blackPct": 4.1,
+      "asianPct": 0.6,
+      "hispanicPct": 2.4
+    },
+    "election": {
+      "district": 12,
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Susan Manchester (R)",
+          "votes": 140219,
+          "pct": 1
+        }
+      ],
+      "winner": "Susan Manchester (R)",
+      "winner_votes": 140219,
+      "winner_pct": 100
+    }
+  },
+  "13": {
+    "district": 13,
+    "name": "Ohio Senate District 13",
+    "census": {
+      "medianIncome": 70738,
+      "medianAge": 42.4,
+      "totalPopulation": 362577,
+      "collegePct": 27.6,
+      "renterPct": 26.1,
+      "whitePct": 81.2,
+      "blackPct": 6.6,
+      "asianPct": 1.2,
+      "hispanicPct": 10.1
+    },
+    "election": {
+      "district": 13,
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Anthony Eliopoulos (D)",
+          "votes": 54417,
+          "pct": 1
+        }
+      ],
+      "winner": "Anthony Eliopoulos (D)",
+      "winner_votes": 54417,
+      "winner_pct": 100
+    }
+  },
+  "14": {
+    "district": 14,
+    "name": "Ohio Senate District 14",
+    "census": {
+      "medianIncome": 71355,
+      "medianAge": 41,
+      "totalPopulation": 354200,
+      "collegePct": 25.4,
+      "renterPct": 27.3,
+      "whitePct": 93.3,
+      "blackPct": 1.5,
+      "asianPct": 0.8,
+      "hispanicPct": 2
+    },
+    "election": {
+      "district": 14,
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Terry A. Johnson (R)",
+          "votes": 125073,
+          "pct": 1
+        }
+      ],
+      "winner": "Terry A. Johnson (R)",
+      "winner_votes": 125073,
+      "winner_pct": 100
+    }
+  },
+  "15": {
+    "district": 15,
+    "name": "Ohio Senate District 15",
+    "census": {
+      "medianIncome": 60162,
+      "medianAge": 34.5,
+      "totalPopulation": 361603,
+      "collegePct": 30,
+      "renterPct": 53.8,
+      "whitePct": 48.6,
+      "blackPct": 35,
+      "asianPct": 2.9,
+      "hispanicPct": 9.2
+    },
+    "election": {
+      "district": 15,
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Hearcel F. Craig (D)",
+          "votes": 72000,
+          "pct": 1
+        }
+      ],
+      "winner": "Hearcel F. Craig (D)",
+      "winner_votes": 72000,
+      "winner_pct": 100
+    }
+  },
+  "16": {
+    "district": 16,
+    "name": "Ohio Senate District 16",
+    "census": {
+      "medianIncome": 90930,
+      "medianAge": 37.7,
+      "totalPopulation": 361643,
+      "collegePct": 49.2,
+      "renterPct": 39.2,
+      "whitePct": 77.9,
+      "blackPct": 6.4,
+      "asianPct": 7.6,
+      "hispanicPct": 4.9
+    },
+    "election": {
+      "district": 16,
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Beth Liston (D)",
+          "votes": 113896,
+          "pct": 1
+        }
+      ],
+      "winner": "Beth Liston (D)",
+      "winner_votes": 113896,
+      "winner_pct": 100
+    }
+  },
+  "17": {
+    "district": 17,
+    "name": "Ohio Senate District 17",
+    "census": {
+      "medianIncome": 57644,
+      "medianAge": 41.3,
+      "totalPopulation": 349279,
+      "collegePct": 16.2,
+      "renterPct": 28.2,
+      "whitePct": 93.2,
+      "blackPct": 2.3,
+      "asianPct": 0.4,
+      "hispanicPct": 1.2
+    },
+    "election": {
+      "district": 17,
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Garry Boone (D)",
+          "votes": 26559,
+          "pct": 1
+        }
+      ],
+      "winner": "Garry Boone (D)",
+      "winner_votes": 26559,
+      "winner_pct": 100
+    }
+  },
+  "18": {
+    "district": 18,
+    "name": "Ohio Senate District 18",
+    "census": {
+      "medianIncome": 79963,
+      "medianAge": 44.4,
+      "totalPopulation": 371177,
+      "collegePct": 36.4,
+      "renterPct": 27,
+      "whitePct": 77.7,
+      "blackPct": 12.4,
+      "asianPct": 2.9,
+      "hispanicPct": 4.5
+    },
+    "election": {
+      "district": 18,
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Jerry Cirino (R)",
+          "votes": 106470,
+          "pct": 1
+        }
+      ],
+      "winner": "Jerry Cirino (R)",
+      "winner_votes": 106470,
+      "winner_pct": 100
+    }
+  },
+  "19": {
+    "district": 19,
+    "name": "Ohio Senate District 19",
+    "census": {
+      "medianIncome": 99979,
+      "medianAge": 39.2,
+      "totalPopulation": 365039,
+      "collegePct": 42.7,
+      "renterPct": 22.9,
+      "whitePct": 86.9,
+      "blackPct": 2.8,
+      "asianPct": 5,
+      "hispanicPct": 2.5
+    },
+    "election": {
+      "district": 19,
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Andrew O. Brenner (R)",
+          "votes": 88484,
+          "pct": 1
+        }
+      ],
+      "winner": "Andrew O. Brenner (R)",
+      "winner_votes": 88484,
+      "winner_pct": 100
+    }
+  },
+  "20": {
+    "district": 20,
+    "name": "Ohio Senate District 20",
+    "census": {
+      "medianIncome": 82819,
+      "medianAge": 39.9,
+      "totalPopulation": 363665,
+      "collegePct": 29.7,
+      "renterPct": 25.7,
+      "whitePct": 85.6,
+      "blackPct": 5.9,
+      "asianPct": 2.7,
+      "hispanicPct": 2.4
+    },
+    "election": {
+      "district": 20,
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Nick Hubbell (D)",
+          "votes": 60184,
+          "pct": 1
+        }
+      ],
+      "winner": "Nick Hubbell (D)",
+      "winner_votes": 60184,
+      "winner_pct": 100
+    }
+  },
+  "21": {
+    "district": 21,
+    "name": "Ohio Senate District 21",
+    "census": {
+      "medianIncome": 54023,
+      "medianAge": 40.2,
+      "totalPopulation": 371468,
+      "collegePct": 33.8,
+      "renterPct": 45.4,
+      "whitePct": 33.9,
+      "blackPct": 57.8,
+      "asianPct": 2,
+      "hispanicPct": 2.7
+    },
+    "election": {
+      "district": 21,
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Mikhail Alterman (R)",
+          "votes": 18584,
+          "pct": 1
+        }
+      ],
+      "winner": "Mikhail Alterman (R)",
+      "winner_votes": 18584,
+      "winner_pct": 100
+    }
+  },
+  "22": {
+    "district": 22,
+    "name": "Ohio Senate District 22",
+    "census": {
+      "medianIncome": 74085,
+      "medianAge": 42.1,
+      "totalPopulation": 360483,
+      "collegePct": 27.9,
+      "renterPct": 24.2,
+      "whitePct": 90.4,
+      "blackPct": 3.4,
+      "asianPct": 0.9,
+      "hispanicPct": 2.3
+    },
+    "election": {
+      "district": 22,
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Mark Romanchuk (R)",
+          "votes": 123906,
+          "pct": 1
+        }
+      ],
+      "winner": "Mark Romanchuk (R)",
+      "winner_votes": 123906,
+      "winner_pct": 100
+    }
+  },
+  "23": {
+    "district": 23,
+    "name": "Ohio Senate District 23",
+    "census": {
+      "medianIncome": 51594,
+      "medianAge": 36.1,
+      "totalPopulation": 368486,
+      "collegePct": 29.3,
+      "renterPct": 53.2,
+      "whitePct": 59,
+      "blackPct": 25.5,
+      "asianPct": 3,
+      "hispanicPct": 11.1
+    },
+    "election": {
+      "district": 23,
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Nickie J. Antonio (D)",
+          "votes": 64758,
+          "pct": 1
+        }
+      ],
+      "winner": "Nickie J. Antonio (D)",
+      "winner_votes": 64758,
+      "winner_pct": 100
+    }
+  },
+  "24": {
+    "district": 24,
+    "name": "Ohio Senate District 24",
+    "census": {
+      "medianIncome": 81632,
+      "medianAge": 43.5,
+      "totalPopulation": 370388,
+      "collegePct": 40.4,
+      "renterPct": 27.3,
+      "whitePct": 82,
+      "blackPct": 5,
+      "asianPct": 4,
+      "hispanicPct": 7.8
+    },
+    "election": {
+      "district": 24,
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Sue Durichko (D)",
+          "votes": 75378,
+          "pct": 1
+        }
+      ],
+      "winner": "Sue Durichko (D)",
+      "winner_votes": 75378,
+      "winner_pct": 100
+    }
+  },
+  "25": {
+    "district": 25,
+    "name": "Ohio Senate District 25",
+    "census": {
+      "medianIncome": 66526,
+      "medianAge": 31.2,
+      "totalPopulation": 354722,
+      "collegePct": 46.6,
+      "renterPct": 55.9,
+      "whitePct": 56,
+      "blackPct": 26.8,
+      "asianPct": 6.2,
+      "hispanicPct": 7.4
+    },
+    "election": {
+      "district": 25,
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Bill DeMora (D)",
+          "votes": 78050,
+          "pct": 1
+        }
+      ],
+      "winner": "Bill DeMora (D)",
+      "winner_votes": 78050,
+      "winner_pct": 100
+    }
+  },
+  "26": {
+    "district": 26,
+    "name": "Ohio Senate District 26",
+    "census": {
+      "medianIncome": 68849,
+      "medianAge": 41,
+      "totalPopulation": 342749,
+      "collegePct": 21.6,
+      "renterPct": 25.9,
+      "whitePct": 89.7,
+      "blackPct": 2.6,
+      "asianPct": 1.3,
+      "hispanicPct": 4.4
+    },
+    "election": {
+      "district": 26,
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Mohamud Jama (D)",
+          "votes": 38908,
+          "pct": 1
+        }
+      ],
+      "winner": "Mohamud Jama (D)",
+      "winner_votes": 38908,
+      "winner_pct": 100
+    }
+  },
+  "27": {
+    "district": 27,
+    "name": "Ohio Senate District 27",
+    "census": {
+      "medianIncome": 80592,
+      "medianAge": 41.9,
+      "totalPopulation": 361145,
+      "collegePct": 40.2,
+      "renterPct": 27.6,
+      "whitePct": 81.8,
+      "blackPct": 8.5,
+      "asianPct": 3.5,
+      "hispanicPct": 1.9
+    },
+    "election": {
+      "district": 27,
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Patricia Goetz (D)",
+          "votes": 70609,
+          "pct": 1
+        }
+      ],
+      "winner": "Patricia Goetz (D)",
+      "winner_votes": 70609,
+      "winner_pct": 100
+    }
+  },
+  "28": {
+    "district": 28,
+    "name": "Ohio Senate District 28",
+    "census": {
+      "medianIncome": 64003,
+      "medianAge": 40,
+      "totalPopulation": 369596,
+      "collegePct": 29.2,
+      "renterPct": 35.2,
+      "whitePct": 75.5,
+      "blackPct": 14.2,
+      "asianPct": 3.3,
+      "hispanicPct": 3
+    },
+    "election": {
+      "district": 28,
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Jon Leissler (R)",
+          "votes": 71224,
+          "pct": 1
+        }
+      ],
+      "winner": "Jon Leissler (R)",
+      "winner_votes": 71224,
+      "winner_pct": 100
+    }
+  },
+  "29": {
+    "district": 29,
+    "name": "Ohio Senate District 29",
+    "census": {
+      "medianIncome": 65410,
+      "medianAge": 41.7,
+      "totalPopulation": 353095,
+      "collegePct": 25.5,
+      "renterPct": 32.1,
+      "whitePct": 84.6,
+      "blackPct": 7.9,
+      "asianPct": 0.9,
+      "hispanicPct": 3
+    },
+    "election": {
+      "district": 29,
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Lynn C. Gorman (WI)*",
+          "votes": 2730,
+          "pct": 1
+        }
+      ],
+      "winner": "Lynn C. Gorman (WI)*",
+      "winner_votes": 2730,
+      "winner_pct": 100
+    }
+  },
+  "30": {
+    "district": 30,
+    "name": "Ohio Senate District 30",
+    "census": {
+      "medianIncome": 56713,
+      "medianAge": 42.4,
+      "totalPopulation": 339335,
+      "collegePct": 20.4,
+      "renterPct": 27,
+      "whitePct": 92.3,
+      "blackPct": 2.8,
+      "asianPct": 0.8,
+      "hispanicPct": 1.5
+    },
+    "election": {
+      "district": 30,
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Brian M. Chavez (R)",
+          "votes": 106583,
+          "pct": 1
+        }
+      ],
+      "winner": "Brian M. Chavez (R)",
+      "winner_votes": 106583,
+      "winner_pct": 100
+    }
+  },
+  "31": {
+    "district": 31,
+    "name": "Ohio Senate District 31",
+    "census": {
+      "medianIncome": 65091,
+      "medianAge": 40.4,
+      "totalPopulation": 344728,
+      "collegePct": 20.9,
+      "renterPct": 28.4,
+      "whitePct": 93.2,
+      "blackPct": 1.6,
+      "asianPct": 0.7,
+      "hispanicPct": 2.5
+    },
+    "election": {
+      "district": 31,
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Al Landis (R)",
+          "votes": 87912,
+          "pct": 1
+        }
+      ],
+      "winner": "Al Landis (R)",
+      "winner_votes": 87912,
+      "winner_pct": 100
+    }
+  },
+  "32": {
+    "district": 32,
+    "name": "Ohio Senate District 32",
+    "census": {
+      "medianIncome": 60743,
+      "medianAge": 43.9,
+      "totalPopulation": 362956,
+      "collegePct": 22.1,
+      "renterPct": 25.4,
+      "whitePct": 88.3,
+      "blackPct": 5.6,
+      "asianPct": 0.5,
+      "hispanicPct": 2.8
+    },
+    "election": {
+      "district": 32,
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Sandra O'Brien (R)",
+          "votes": 108695,
+          "pct": 1
+        }
+      ],
+      "winner": "Sandra O'Brien (R)",
+      "winner_votes": 108695,
+      "winner_pct": 100
+    }
+  },
+  "33": {
+    "district": 33,
+    "name": "Ohio Senate District 33",
+    "census": {
+      "medianIncome": 57138,
+      "medianAge": 43.9,
+      "totalPopulation": 354997,
+      "collegePct": 22.5,
+      "renterPct": 28.4,
+      "whitePct": 82.4,
+      "blackPct": 9.7,
+      "asianPct": 0.7,
+      "hispanicPct": 4.8
+    },
+    "election": {
+      "district": 33,
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Al Cutrona (R)",
+          "votes": 102711,
+          "pct": 1
+        }
+      ],
+      "winner": "Al Cutrona (R)",
+      "winner_votes": 102711,
+      "winner_pct": 100
+    }
+  }
+}

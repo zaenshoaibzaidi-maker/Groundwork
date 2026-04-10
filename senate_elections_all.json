@@ -1,0 +1,464 @@
+{
+  "1": {
+    "district": 1,
+    "year": 2022,
+    "candidates": [
+      {
+        "name": "Robert McColley (R)",
+        "votes": 104274,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Robert McColley (R)",
+    "winner_votes": 104274,
+    "winner_pct": 100.0
+  },
+  "3": {
+    "district": 3,
+    "year": 2022,
+    "candidates": [
+      {
+        "name": "Tina Maharath (D)",
+        "votes": 56023,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Tina Maharath (D)",
+    "winner_votes": 56023,
+    "winner_pct": 100.0
+  },
+  "5": {
+    "district": 5,
+    "year": 2022,
+    "candidates": [
+      {
+        "name": "Stephen A. Huffman (R)",
+        "votes": 99741,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Stephen A. Huffman (R)",
+    "winner_votes": 99741,
+    "winner_pct": 100.0
+  },
+  "7": {
+    "district": 7,
+    "year": 2022,
+    "candidates": [
+      {
+        "name": "David Dallas (D)",
+        "votes": 59563,
+        "pct": 1.0
+      }
+    ],
+    "winner": "David Dallas (D)",
+    "winner_votes": 59563,
+    "winner_pct": 100.0
+  },
+  "9": {
+    "district": 9,
+    "year": 2022,
+    "candidates": [
+      {
+        "name": "Catherine D. Ingram (D)",
+        "votes": 78639,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Catherine D. Ingram (D)",
+    "winner_votes": 78639,
+    "winner_pct": 100.0
+  },
+  "11": {
+    "district": 11,
+    "year": 2022,
+    "candidates": [
+      {
+        "name": "Tony Dia (R)",
+        "votes": 52384,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Tony Dia (R)",
+    "winner_votes": 52384,
+    "winner_pct": 100.0
+  },
+  "13": {
+    "district": 13,
+    "year": 2022,
+    "candidates": [
+      {
+        "name": "Anthony Eliopoulos (D)",
+        "votes": 54417,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Anthony Eliopoulos (D)",
+    "winner_votes": 54417,
+    "winner_pct": 100.0
+  },
+  "15": {
+    "district": 15,
+    "year": 2022,
+    "candidates": [
+      {
+        "name": "Hearcel F. Craig (D)",
+        "votes": 72000,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Hearcel F. Craig (D)",
+    "winner_votes": 72000,
+    "winner_pct": 100.0
+  },
+  "17": {
+    "district": 17,
+    "year": 2022,
+    "candidates": [
+      {
+        "name": "Garry Boone (D)",
+        "votes": 26559,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Garry Boone (D)",
+    "winner_votes": 26559,
+    "winner_pct": 100.0
+  },
+  "19": {
+    "district": 19,
+    "year": 2022,
+    "candidates": [
+      {
+        "name": "Andrew O. Brenner (R)",
+        "votes": 88484,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Andrew O. Brenner (R)",
+    "winner_votes": 88484,
+    "winner_pct": 100.0
+  },
+  "21": {
+    "district": 21,
+    "year": 2022,
+    "candidates": [
+      {
+        "name": "Mikhail Alterman (R)",
+        "votes": 18584,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Mikhail Alterman (R)",
+    "winner_votes": 18584,
+    "winner_pct": 100.0
+  },
+  "23": {
+    "district": 23,
+    "year": 2022,
+    "candidates": [
+      {
+        "name": "Nickie J. Antonio (D)",
+        "votes": 64758,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Nickie J. Antonio (D)",
+    "winner_votes": 64758,
+    "winner_pct": 100.0
+  },
+  "25": {
+    "district": 25,
+    "year": 2022,
+    "candidates": [
+      {
+        "name": "Bill DeMora (D)",
+        "votes": 78050,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Bill DeMora (D)",
+    "winner_votes": 78050,
+    "winner_pct": 100.0
+  },
+  "27": {
+    "district": 27,
+    "year": 2022,
+    "candidates": [
+      {
+        "name": "Patricia Goetz (D)",
+        "votes": 70609,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Patricia Goetz (D)",
+    "winner_votes": 70609,
+    "winner_pct": 100.0
+  },
+  "29": {
+    "district": 29,
+    "year": 2022,
+    "candidates": [
+      {
+        "name": "Lynn C. Gorman (WI)*",
+        "votes": 2730,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Lynn C. Gorman (WI)*",
+    "winner_votes": 2730,
+    "winner_pct": 100.0
+  },
+  "31": {
+    "district": 31,
+    "year": 2022,
+    "candidates": [
+      {
+        "name": "Al Landis (R)",
+        "votes": 87912,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Al Landis (R)",
+    "winner_votes": 87912,
+    "winner_pct": 100.0
+  },
+  "33": {
+    "district": 33,
+    "year": 2024,
+    "candidates": [
+      {
+        "name": "Al Cutrona (R)",
+        "votes": 102711,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Al Cutrona (R)",
+    "winner_votes": 102711,
+    "winner_pct": 100.0
+  },
+  "2": {
+    "district": 2,
+    "year": 2024,
+    "candidates": [
+      {
+        "name": "Paloma De La Fuente (D)",
+        "votes": 68948,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Paloma De La Fuente (D)",
+    "winner_votes": 68948,
+    "winner_pct": 100.0
+  },
+  "4": {
+    "district": 4,
+    "year": 2024,
+    "candidates": [
+      {
+        "name": "Thomas Cooke (D)",
+        "votes": 61381,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Thomas Cooke (D)",
+    "winner_votes": 61381,
+    "winner_pct": 100.0
+  },
+  "6": {
+    "district": 6,
+    "year": 2024,
+    "candidates": [
+      {
+        "name": "Willis E. Blackshear Jr (D)",
+        "votes": 84565,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Willis E. Blackshear Jr (D)",
+    "winner_votes": 84565,
+    "winner_pct": 100.0
+  },
+  "8": {
+    "district": 8,
+    "year": 2024,
+    "candidates": [
+      {
+        "name": "Louis W. Blessing III (R)",
+        "votes": 108346,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Louis W. Blessing III (R)",
+    "winner_votes": 108346,
+    "winner_pct": 100.0
+  },
+  "10": {
+    "district": 10,
+    "year": 2024,
+    "candidates": [
+      {
+        "name": "Kyle Koehler (R)",
+        "votes": 110150,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Kyle Koehler (R)",
+    "winner_votes": 110150,
+    "winner_pct": 100.0
+  },
+  "12": {
+    "district": 12,
+    "year": 2024,
+    "candidates": [
+      {
+        "name": "Susan Manchester (R)",
+        "votes": 140219,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Susan Manchester (R)",
+    "winner_votes": 140219,
+    "winner_pct": 100.0
+  },
+  "14": {
+    "district": 14,
+    "year": 2024,
+    "candidates": [
+      {
+        "name": "Terry A. Johnson (R)",
+        "votes": 125073,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Terry A. Johnson (R)",
+    "winner_votes": 125073,
+    "winner_pct": 100.0
+  },
+  "16": {
+    "district": 16,
+    "year": 2024,
+    "candidates": [
+      {
+        "name": "Beth Liston (D)",
+        "votes": 113896,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Beth Liston (D)",
+    "winner_votes": 113896,
+    "winner_pct": 100.0
+  },
+  "18": {
+    "district": 18,
+    "year": 2024,
+    "candidates": [
+      {
+        "name": "Jerry Cirino (R)",
+        "votes": 106470,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Jerry Cirino (R)",
+    "winner_votes": 106470,
+    "winner_pct": 100.0
+  },
+  "20": {
+    "district": 20,
+    "year": 2024,
+    "candidates": [
+      {
+        "name": "Nick Hubbell (D)",
+        "votes": 60184,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Nick Hubbell (D)",
+    "winner_votes": 60184,
+    "winner_pct": 100.0
+  },
+  "22": {
+    "district": 22,
+    "year": 2024,
+    "candidates": [
+      {
+        "name": "Mark Romanchuk (R)",
+        "votes": 123906,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Mark Romanchuk (R)",
+    "winner_votes": 123906,
+    "winner_pct": 100.0
+  },
+  "24": {
+    "district": 24,
+    "year": 2024,
+    "candidates": [
+      {
+        "name": "Sue Durichko (D)",
+        "votes": 75378,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Sue Durichko (D)",
+    "winner_votes": 75378,
+    "winner_pct": 100.0
+  },
+  "26": {
+    "district": 26,
+    "year": 2024,
+    "candidates": [
+      {
+        "name": "Mohamud Jama (D)",
+        "votes": 38908,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Mohamud Jama (D)",
+    "winner_votes": 38908,
+    "winner_pct": 100.0
+  },
+  "28": {
+    "district": 28,
+    "year": 2024,
+    "candidates": [
+      {
+        "name": "Jon Leissler (R)",
+        "votes": 71224,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Jon Leissler (R)",
+    "winner_votes": 71224,
+    "winner_pct": 100.0
+  },
+  "30": {
+    "district": 30,
+    "year": 2024,
+    "candidates": [
+      {
+        "name": "Brian M. Chavez (R)",
+        "votes": 106583,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Brian M. Chavez (R)",
+    "winner_votes": 106583,
+    "winner_pct": 100.0
+  },
+  "32": {
+    "district": 32,
+    "year": 2024,
+    "candidates": [
+      {
+        "name": "Sandra O'Brien (R)",
+        "votes": 108695,
+        "pct": 1.0
+      }
+    ],
+    "winner": "Sandra O'Brien (R)",
+    "winner_votes": 108695,
+    "winner_pct": 100.0
+  }
+}
