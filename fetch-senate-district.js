@@ -17,7 +17,7 @@ if (!districtArg) {
 }
 
 const districtNum = parseInt(districtArg, 10);
-if (isNaN(districtNum) || districtNum < 1 || districtNum > 99) {
+if (isNaN(districtNum) || districtNum < 1 || districtNum > 33) {
   console.error(`Invalid district number: "${districtArg}". Must be 1–99.`);
   process.exit(1);
 }
@@ -54,7 +54,7 @@ const VARS = [
 // Ohio state FIPS = 39; lower chamber = state house
 const url =
   `${BASE}?get=NAME,${VARS}` +
-  `&for=state+legislative+district+(lower+chamber):${district}` +
+  `&for=state+legislative+district+(upper+chamber):${district}` +
   `&in=state:39${API_KEY}`;
 
 // Census encodes missing/suppressed values as large negatives.
