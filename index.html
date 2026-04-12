@@ -341,7 +341,7 @@ function openDropdown() {
       const typeLabel = d.type === 'state house district' ? 'State House District' : d.type === 'state senate district' ? 'State Senate District' : d.type === 'ward' ? 'City Ward' : 'Council District';
       html += `<div class="dropdown-item" data-idx="${globalIdx}" onmousedown="selectItem(${globalIdx})">
         <span class="dropdown-item-name">${highlight(d.name, document.getElementById('districtSearch').value.trim())}</span>
-        <span class="dropdown-item-region">${d.region}</span>
+      <span class="dropdown-item-region">${d.region && d.region !== 'TBD' ? d.region : (d.subtitle && d.subtitle.includes(' — ') ? d.subtitle.split(' — ')[0] : '')}</span>
         <span class="dropdown-type-tag type-ward">${typeLabel}</span>
       </div>`;
       globalIdx++;
