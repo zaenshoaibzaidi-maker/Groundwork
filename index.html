@@ -331,14 +331,13 @@ function openDropdown() {
     dd.classList.add('open'); return;
   }
 
-  const groups = {};
-  filteredResults.forEach(d => { if (!groups[d.city]) groups[d.city] = []; groups[d.city].push(d); });
-  const cityOrder = ["Akron", "Cleveland", "Columbus", "Cincinnati", "Toledo"];
+ filteredResults.sort((a, b) => {
+    const numA = parseInt(a.name.replace(/\D/g, ''));
+    const numB = parseInt(b.name.replace(/\D/g, ''));
+    return numA - numB;
+  });
   let html = '', globalIdx = 0;
-  cityOrder.forEach(city => {
-    if (!groups[city]) return;
-    html += `<div class="dropdown-group-header">${city}</div>`;
-    groups[city].forEach(d => {
+  filteredResults.forEach(d => {
       const typeLabel = d.type === 'state house district' ? 'State House District' : d.type === 'state senate district' ? 'State Senate District' : d.type === 'ward' ? 'City Ward' : 'Council District';
       html += `<div class="dropdown-item" data-idx="${globalIdx}" onmousedown="selectItem(${globalIdx})">
         <span class="dropdown-item-name">${highlight(d.name, document.getElementById('districtSearch').value.trim())}</span>
@@ -346,10 +345,7 @@ function openDropdown() {
         <span class="dropdown-type-tag type-ward">${typeLabel}</span>
       </div>`;
       globalIdx++;
-    });
   });
-  filteredResults = [];
-  cityOrder.forEach(city => { if (groups[city]) filteredResults.push(...groups[city]); });
   dd.innerHTML = html;
   dd.classList.add('open');
 }
