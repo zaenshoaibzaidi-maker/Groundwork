@@ -175,10 +175,10 @@
   </div>
 
   <div class="search-wrap">
-    <label class="search-label" for="districtSearch">Search Texas districts</label>
+    <label class="search-label" for="districtSearch">Search Texas Districts</label>
     <div class="search-input-row">
       <span class="search-icon">⌕</span>
-      <input type="text" id="districtSearch" placeholder='e.g. "Ohio House District 3", "HD-8", "HD-13"…'
+      <input type="text" id="districtSearch" placeholder='e.g. "Texas House District 1", "HD-8", "HD-13"…'
         autocomplete="off" spellcheck="false"
         oninput="onSearchInput()" onkeydown="onSearchKey(event)" onfocus="openDropdown()" />
     </div>
@@ -265,21 +265,20 @@
   <p style="font-size:13px;color:var(--tan);">Intelligence briefs are built district by district. Check back soon.</p>
 </div>
 
-<script src="oh-districts.js"></script>
-<script src="oh-senate-districts.js"></script>
+<script src="tx-districts.js"></script>
 <script>
 /* ── MODE ── */
 let currentMode = 'house';
 
 const HOUSE_FEATURED = [
-  { id: 'oh-hd-3',  name: 'Ohio House District 3',  loc: 'Columbus Urban Core',       type: 'State House District' },
-  { id: 'oh-hd-8',  name: 'Ohio House District 8',  loc: 'Columbus Suburbs',           type: 'State House District' },
-  { id: 'oh-hd-13', name: 'Ohio House District 13', loc: 'Lakewood / West Cleveland',  type: 'State House District' },
+  { id: 'tx-hd-118', name: 'Texas House District 118', loc: 'San Antonio',   type: 'State House District' },
+  { id: 'tx-hd-45',  name: 'Texas House District 45',  loc: 'Austin Suburbs', type: 'State House District' },
+  { id: 'tx-hd-70',  name: 'Texas House District 70',  loc: 'Dallas Area',    type: 'State House District' },
 ];
 const SENATE_FEATURED = [
-  { id: 'oh-sd-31', name: 'Ohio Senate District 31', loc: 'Tuscarawas & Carroll Counties',         type: 'State Senate District' },
-  { id: 'oh-sd-7',  name: 'Ohio Senate District 7',  loc: 'Dublin & Columbus North Suburbs',       type: 'State Senate District' },
-  { id: 'oh-sd-16', name: 'Ohio Senate District 16', loc: 'Upper Arlington & NW Columbus Suburbs', type: 'State Senate District' },
+  { id: 'tx-sd-27', name: 'Texas Senate District 27', loc: 'South Texas', type: 'State Senate District' },
+  { id: 'tx-sd-15', name: 'Texas Senate District 15', loc: 'Houston',     type: 'State Senate District' },
+  { id: 'tx-sd-8',  name: 'Texas Senate District 8',  loc: 'North Dallas', type: 'State Senate District' },
 ];
 
 function renderFeatured(cards) {
@@ -299,13 +298,13 @@ function setMode(mode) {
   input.value = '';
   closeDropdown();
   if (mode === 'house') {
-    input.placeholder = 'e.g. "Ohio House District 3", "HD-8", "HD-13"…';
-    document.querySelector('.search-hint').textContent = 'Ohio House District 3 · Ohio House District 8 · Ohio House District 13';
+    input.placeholder = 'e.g. "Texas House District 1", "HD-8", "HD-13"…';
+    document.querySelector('.search-hint').textContent = 'Texas House District 118 · Texas House District 45 · Texas House District 70';
     document.getElementById('featuredLabel').textContent = 'Featured House Districts';
     renderFeatured(HOUSE_FEATURED);
   } else {
-    input.placeholder = 'e.g. "Ohio Senate District 7", "SD-16", "SD-31"…';
-    document.querySelector('.search-hint').textContent = 'Ohio Senate District 7 · Ohio Senate District 16 · Ohio Senate District 31';
+    input.placeholder = 'e.g. "Texas Senate District 7", "SD-16", "SD-31"…';
+    document.querySelector('.search-hint').textContent = 'Texas Senate District 27 · Texas Senate District 15 · Texas Senate District 8';
     document.getElementById('featuredLabel').textContent = 'Featured Senate Districts';
     renderFeatured(SENATE_FEATURED);
   }
@@ -319,7 +318,7 @@ function onSearchInput() { activeIndex = -1; openDropdown(); }
 function openDropdown() {
   const q = document.getElementById('districtSearch').value.trim().toLowerCase();
   const dd = document.getElementById('searchDropdown');
-  const sourceData = currentMode === 'house' ? DISTRICTS : SENATE_DISTRICTS;
+  const sourceData = currentMode === 'house' ? TX_HOUSE_DISTRICTS : TX_SENATE_DISTRICTS;
   filteredResults = q.length === 0
     ? sourceData
     : sourceData.filter(d =>
@@ -407,8 +406,8 @@ function showHome() {
 
 /* ── RENDER DISTRICT ── */
 function showDistrict(id) {
-  let entry = DISTRICTS.find(d => d.id === id);
-  if (!entry) entry = SENATE_DISTRICTS.find(d => d.id === id);
+  let entry = TX_HOUSE_DISTRICTS.find(d => d.id === id);
+  if (!entry) entry = TX_SENATE_DISTRICTS.find(d => d.id === id);
   if (!entry || !entry.dashboard) { if (entry) showComingSoon(entry); return; }
   const d = entry.dashboard;
 
