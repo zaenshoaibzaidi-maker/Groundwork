@@ -12,6 +12,7 @@
       "renterRatePct": 57.98,
       "race": {
         "whitePct": 49.66,
+        "nonHispanicWhitePct": 48.53,
         "blackPct": 36.92,
         "asianPct": 1.64,
         "hispanicPct": 6.94
@@ -51,6 +52,7 @@
       "renterRatePct": 55.51,
       "race": {
         "whitePct": 34.09,
+        "nonHispanicWhitePct": 32.94,
         "blackPct": 50.48,
         "asianPct": 3.22,
         "hispanicPct": 7.96
@@ -102,6 +104,7 @@
       "renterRatePct": 63.31,
       "race": {
         "whitePct": 42.55,
+        "nonHispanicWhitePct": 40.88,
         "blackPct": 41.76,
         "asianPct": 3.43,
         "hispanicPct": 8.27
@@ -141,6 +144,7 @@
       "renterRatePct": 27.32,
       "race": {
         "whitePct": 72.29,
+        "nonHispanicWhitePct": 71.78,
         "blackPct": 13.38,
         "asianPct": 5.64,
         "hispanicPct": 3.27
@@ -186,6 +190,7 @@
       "renterRatePct": 32.71,
       "race": {
         "whitePct": 63.65,
+        "nonHispanicWhitePct": 62.55,
         "blackPct": 22.91,
         "asianPct": 2.72,
         "hispanicPct": 6.02
@@ -225,6 +230,7 @@
       "renterRatePct": 46.95,
       "race": {
         "whitePct": 63.28,
+        "nonHispanicWhitePct": 60.55,
         "blackPct": 16.06,
         "asianPct": 3.86,
         "hispanicPct": 12.97
@@ -270,6 +276,7 @@
       "renterRatePct": 52.36,
       "race": {
         "whitePct": 79.27,
+        "nonHispanicWhitePct": 77.57,
         "blackPct": 4.33,
         "asianPct": 8.55,
         "hispanicPct": 5.35
@@ -315,6 +322,7 @@
       "renterRatePct": 47.26,
       "race": {
         "whitePct": 71.19,
+        "nonHispanicWhitePct": 70.15,
         "blackPct": 11.2,
         "asianPct": 7.34,
         "hispanicPct": 6.4
@@ -360,6 +368,7 @@
       "renterRatePct": 51.74,
       "race": {
         "whitePct": 46.94,
+        "nonHispanicWhitePct": 45.05,
         "blackPct": 33.77,
         "asianPct": 6.62,
         "hispanicPct": 8.52
@@ -405,6 +414,7 @@
       "renterRatePct": 38.75,
       "race": {
         "whitePct": 68.33,
+        "nonHispanicWhitePct": 67.25,
         "blackPct": 18.37,
         "asianPct": 2.02,
         "hispanicPct": 6.8
@@ -450,6 +460,7 @@
       "renterRatePct": 38.85,
       "race": {
         "whitePct": 74.69,
+        "nonHispanicWhitePct": 73.28,
         "blackPct": 4.05,
         "asianPct": 13.11,
         "hispanicPct": 5.55
@@ -495,6 +506,7 @@
       "renterRatePct": 28.8,
       "race": {
         "whitePct": 88.76,
+        "nonHispanicWhitePct": 87.88,
         "blackPct": 3.74,
         "asianPct": 1.93,
         "hispanicPct": 2.48
@@ -540,6 +552,7 @@
       "renterRatePct": 55.36,
       "race": {
         "whitePct": 69.84,
+        "nonHispanicWhitePct": 65.8,
         "blackPct": 13.03,
         "asianPct": 1.94,
         "hispanicPct": 15.08
@@ -585,6 +598,7 @@
       "renterRatePct": 31.6,
       "race": {
         "whitePct": 78.03,
+        "nonHispanicWhitePct": 75.72,
         "blackPct": 8.02,
         "asianPct": 2.64,
         "hispanicPct": 9.68
@@ -630,6 +644,7 @@
       "renterRatePct": 34.17,
       "race": {
         "whitePct": 74.47,
+        "nonHispanicWhitePct": 71.85,
         "blackPct": 8.06,
         "asianPct": 3.6,
         "hispanicPct": 13.32
@@ -675,6 +690,7 @@
       "renterRatePct": 22.97,
       "race": {
         "whitePct": 86.71,
+        "nonHispanicWhitePct": 84.76,
         "blackPct": 3.1,
         "asianPct": 3.26,
         "hispanicPct": 5.48
@@ -720,6 +736,7 @@
       "renterRatePct": 24.5,
       "race": {
         "whitePct": 84.79,
+        "nonHispanicWhitePct": 83.4,
         "blackPct": 3.92,
         "asianPct": 5.2,
         "hispanicPct": 4.78
@@ -765,6 +782,7 @@
       "renterRatePct": 48.86,
       "race": {
         "whitePct": 17.28,
+        "nonHispanicWhitePct": 16.95,
         "blackPct": 74.49,
         "asianPct": 0.43,
         "hispanicPct": 3.33
@@ -816,6 +834,7 @@
       "renterRatePct": 30.6,
       "race": {
         "whitePct": 63.57,
+        "nonHispanicWhitePct": 62.67,
         "blackPct": 22.44,
         "asianPct": 5.82,
         "hispanicPct": 3.73
@@ -861,6 +880,7 @@
       "renterRatePct": 71.04,
       "race": {
         "whitePct": 29.45,
+        "nonHispanicWhitePct": 27.24,
         "blackPct": 55.34,
         "asianPct": 4.3,
         "hispanicPct": 8.78
@@ -906,6 +926,7 @@
       "renterRatePct": 42.12,
       "race": {
         "whitePct": 44.42,
+        "nonHispanicWhitePct": 43.68,
         "blackPct": 47.84,
         "asianPct": 2.31,
         "hispanicPct": 2.28
@@ -951,6 +972,7 @@
       "renterRatePct": 45.42,
       "race": {
         "whitePct": 39.62,
+        "nonHispanicWhitePct": 38.86,
         "blackPct": 51.54,
         "asianPct": 3.17,
         "hispanicPct": 2.39
@@ -996,6 +1018,7 @@
       "renterRatePct": 30.52,
       "race": {
         "whitePct": 81.56,
+        "nonHispanicWhitePct": 80.66,
         "blackPct": 11.54,
         "asianPct": 1.68,
         "hispanicPct": 2.57
@@ -1041,6 +1064,7 @@
       "renterRatePct": 65.03,
       "race": {
         "whitePct": 49.25,
+        "nonHispanicWhitePct": 47.68,
         "blackPct": 38.11,
         "asianPct": 2.33,
         "hispanicPct": 6.19
@@ -1086,6 +1110,7 @@
       "renterRatePct": 60.83,
       "race": {
         "whitePct": 53.01,
+        "nonHispanicWhitePct": 50.94,
         "blackPct": 34.84,
         "asianPct": 3.28,
         "hispanicPct": 6.08
@@ -1131,6 +1156,7 @@
       "renterRatePct": 40.8,
       "race": {
         "whitePct": 54.01,
+        "nonHispanicWhitePct": 52.86,
         "blackPct": 36.72,
         "asianPct": 1.86,
         "hispanicPct": 3.45
@@ -1176,6 +1202,7 @@
       "renterRatePct": 33.47,
       "race": {
         "whitePct": 73.52,
+        "nonHispanicWhitePct": 72.3,
         "blackPct": 15.39,
         "asianPct": 4.1,
         "hispanicPct": 4.5
@@ -1221,6 +1248,7 @@
       "renterRatePct": 32.87,
       "race": {
         "whitePct": 68.58,
+        "nonHispanicWhitePct": 66.19,
         "blackPct": 17.69,
         "asianPct": 4.93,
         "hispanicPct": 6.87
@@ -1272,6 +1300,7 @@
       "renterRatePct": 28.29,
       "race": {
         "whitePct": 66.56,
+        "nonHispanicWhitePct": 65.87,
         "blackPct": 25.02,
         "asianPct": 1.48,
         "hispanicPct": 2.62
@@ -1317,6 +1346,7 @@
       "renterRatePct": 20.09,
       "race": {
         "whitePct": 86.26,
+        "nonHispanicWhitePct": 85.61,
         "blackPct": 7.47,
         "asianPct": 0.94,
         "hispanicPct": 1.69
@@ -1362,6 +1392,7 @@
       "renterRatePct": 15.51,
       "race": {
         "whitePct": 80.14,
+        "nonHispanicWhitePct": 79.36,
         "blackPct": 8.96,
         "asianPct": 5.15,
         "hispanicPct": 1.94
@@ -1407,6 +1438,7 @@
       "renterRatePct": 35.62,
       "race": {
         "whitePct": 80.38,
+        "nonHispanicWhitePct": 79.73,
         "blackPct": 11.26,
         "asianPct": 1.16,
         "hispanicPct": 2.12
@@ -1452,6 +1484,7 @@
       "renterRatePct": 52.39,
       "race": {
         "whitePct": 48.83,
+        "nonHispanicWhitePct": 47.47,
         "blackPct": 34.74,
         "asianPct": 6.14,
         "hispanicPct": 4.68
@@ -1491,6 +1524,7 @@
       "renterRatePct": 31.36,
       "race": {
         "whitePct": 84.81,
+        "nonHispanicWhitePct": 84.37,
         "blackPct": 5.32,
         "asianPct": 4.22,
         "hispanicPct": 1.71
@@ -1536,6 +1570,7 @@
       "renterRatePct": 18.39,
       "race": {
         "whitePct": 91.98,
+        "nonHispanicWhitePct": 91.27,
         "blackPct": 1.93,
         "asianPct": 1.75,
         "hispanicPct": 1.75
@@ -1581,6 +1616,7 @@
       "renterRatePct": 38.65,
       "race": {
         "whitePct": 77.38,
+        "nonHispanicWhitePct": 76.54,
         "blackPct": 11.73,
         "asianPct": 1.84,
         "hispanicPct": 4.43
@@ -1626,6 +1662,7 @@
       "renterRatePct": 30.57,
       "race": {
         "whitePct": 82.99,
+        "nonHispanicWhitePct": 81.99,
         "blackPct": 6.02,
         "asianPct": 4.17,
         "hispanicPct": 4.29
@@ -1665,6 +1702,7 @@
       "renterRatePct": 52.83,
       "race": {
         "whitePct": 51.45,
+        "nonHispanicWhitePct": 50.01,
         "blackPct": 38.24,
         "asianPct": 1.51,
         "hispanicPct": 4.95
@@ -1704,6 +1742,7 @@
       "renterRatePct": 35.45,
       "race": {
         "whitePct": 61.55,
+        "nonHispanicWhitePct": 61.08,
         "blackPct": 29.31,
         "asianPct": 1.23,
         "hispanicPct": 2.68
@@ -1749,6 +1788,7 @@
       "renterRatePct": 21.74,
       "race": {
         "whitePct": 87.87,
+        "nonHispanicWhitePct": 87.05,
         "blackPct": 5.53,
         "asianPct": 1.01,
         "hispanicPct": 2.5
@@ -1794,6 +1834,7 @@
       "renterRatePct": 23.84,
       "race": {
         "whitePct": 85.86,
+        "nonHispanicWhitePct": 84.13,
         "blackPct": 4.2,
         "asianPct": 2.24,
         "hispanicPct": 5.8
@@ -1839,6 +1880,7 @@
       "renterRatePct": 33.32,
       "race": {
         "whitePct": 78.3,
+        "nonHispanicWhitePct": 74.87,
         "blackPct": 11.36,
         "asianPct": 1.49,
         "hispanicPct": 8.36
@@ -1878,6 +1920,7 @@
       "renterRatePct": 43.31,
       "race": {
         "whitePct": 66.35,
+        "nonHispanicWhitePct": 64.07,
         "blackPct": 23.04,
         "asianPct": 1.86,
         "hispanicPct": 6.18
@@ -1923,6 +1966,7 @@
       "renterRatePct": 47.61,
       "race": {
         "whitePct": 51.02,
+        "nonHispanicWhitePct": 48.53,
         "blackPct": 34.9,
         "asianPct": 1.19,
         "hispanicPct": 10.27
@@ -1968,6 +2012,7 @@
       "renterRatePct": 27.04,
       "race": {
         "whitePct": 71.89,
+        "nonHispanicWhitePct": 69.33,
         "blackPct": 11.16,
         "asianPct": 7.26,
         "hispanicPct": 7.29
@@ -2013,6 +2058,7 @@
       "renterRatePct": 28.59,
       "race": {
         "whitePct": 79.57,
+        "nonHispanicWhitePct": 78.17,
         "blackPct": 7.97,
         "asianPct": 2.2,
         "hispanicPct": 5.99
@@ -2058,6 +2104,7 @@
       "renterRatePct": 36.86,
       "race": {
         "whitePct": 79.05,
+        "nonHispanicWhitePct": 76.71,
         "blackPct": 7.14,
         "asianPct": 3.46,
         "hispanicPct": 7.44
@@ -2103,6 +2150,7 @@
       "renterRatePct": 27.4,
       "race": {
         "whitePct": 91.1,
+        "nonHispanicWhitePct": 90.55,
         "blackPct": 3.58,
         "asianPct": 0.6,
         "hispanicPct": 1.67
@@ -2148,6 +2196,7 @@
       "renterRatePct": 43.66,
       "race": {
         "whitePct": 71.43,
+        "nonHispanicWhitePct": 69.75,
         "blackPct": 16.56,
         "asianPct": 1.55,
         "hispanicPct": 5.24
@@ -2193,6 +2242,7 @@
       "renterRatePct": 25.05,
       "race": {
         "whitePct": 91.05,
+        "nonHispanicWhitePct": 90.3,
         "blackPct": 3.79,
         "asianPct": 0.58,
         "hispanicPct": 2.3
@@ -2238,6 +2288,7 @@
       "renterRatePct": 29.2,
       "race": {
         "whitePct": 94.85,
+        "nonHispanicWhitePct": 93.25,
         "blackPct": 0.69,
         "asianPct": 0.35,
         "hispanicPct": 3.7
@@ -2283,6 +2334,7 @@
       "renterRatePct": 25.83,
       "race": {
         "whitePct": 80.49,
+        "nonHispanicWhitePct": 77.7,
         "blackPct": 7.6,
         "asianPct": 1.66,
         "hispanicPct": 8.16
@@ -2328,6 +2380,7 @@
       "renterRatePct": 31.83,
       "race": {
         "whitePct": 73.48,
+        "nonHispanicWhitePct": 68.37,
         "blackPct": 9.64,
         "asianPct": 1.25,
         "hispanicPct": 16.99
@@ -2373,6 +2426,7 @@
       "renterRatePct": 20.06,
       "race": {
         "whitePct": 89.94,
+        "nonHispanicWhitePct": 87.9,
         "blackPct": 2.45,
         "asianPct": 0.57,
         "hispanicPct": 4.92
@@ -2424,6 +2478,7 @@
       "renterRatePct": 15.79,
       "race": {
         "whitePct": 90.31,
+        "nonHispanicWhitePct": 89.11,
         "blackPct": 1.61,
         "asianPct": 2.43,
         "hispanicPct": 3.6
@@ -2469,6 +2524,7 @@
       "renterRatePct": 25,
       "race": {
         "whitePct": 77.2,
+        "nonHispanicWhitePct": 76.39,
         "blackPct": 5.13,
         "asianPct": 11.16,
         "hispanicPct": 3.05
@@ -2514,6 +2570,7 @@
       "renterRatePct": 19.14,
       "race": {
         "whitePct": 87.77,
+        "nonHispanicWhitePct": 85.04,
         "blackPct": 3.16,
         "asianPct": 1.16,
         "hispanicPct": 7.21
@@ -2559,6 +2616,7 @@
       "renterRatePct": 27.47,
       "race": {
         "whitePct": 84.62,
+        "nonHispanicWhitePct": 82.61,
         "blackPct": 5.91,
         "asianPct": 1.37,
         "hispanicPct": 5.95
@@ -2604,6 +2662,7 @@
       "renterRatePct": 30.28,
       "race": {
         "whitePct": 70.05,
+        "nonHispanicWhitePct": 68.83,
         "blackPct": 20.79,
         "asianPct": 0.43,
         "hispanicPct": 6.33
@@ -2649,6 +2708,7 @@
       "renterRatePct": 21.04,
       "race": {
         "whitePct": 83.32,
+        "nonHispanicWhitePct": 82.47,
         "blackPct": 2.8,
         "asianPct": 6.55,
         "hispanicPct": 3.42
@@ -2694,6 +2754,7 @@
       "renterRatePct": 21.42,
       "race": {
         "whitePct": 81.97,
+        "nonHispanicWhitePct": 80.97,
         "blackPct": 4.79,
         "asianPct": 7.83,
         "hispanicPct": 2.85
@@ -2739,6 +2800,7 @@
       "renterRatePct": 27.72,
       "race": {
         "whitePct": 91.4,
+        "nonHispanicWhitePct": 90.02,
         "blackPct": 1.67,
         "asianPct": 1.41,
         "hispanicPct": 2.84
@@ -2784,6 +2846,7 @@
       "renterRatePct": 24.72,
       "race": {
         "whitePct": 94.71,
+        "nonHispanicWhitePct": 94.14,
         "blackPct": 1.09,
         "asianPct": 0.57,
         "hispanicPct": 1.57
@@ -2829,6 +2892,7 @@
       "renterRatePct": 34.04,
       "race": {
         "whitePct": 80.71,
+        "nonHispanicWhitePct": 79.62,
         "blackPct": 12.03,
         "asianPct": 0.76,
         "hispanicPct": 2.82
@@ -2874,6 +2938,7 @@
       "renterRatePct": 18.84,
       "race": {
         "whitePct": 94.76,
+        "nonHispanicWhitePct": 94.26,
         "blackPct": 1.25,
         "asianPct": 0.22,
         "hispanicPct": 1.3
@@ -2913,6 +2978,7 @@
       "renterRatePct": 20.12,
       "race": {
         "whitePct": 93.21,
+        "nonHispanicWhitePct": 92.29,
         "blackPct": 1.36,
         "asianPct": 0.96,
         "hispanicPct": 2.38
@@ -2958,6 +3024,7 @@
       "renterRatePct": 20.35,
       "race": {
         "whitePct": 93.24,
+        "nonHispanicWhitePct": 92.44,
         "blackPct": 1.16,
         "asianPct": 0.84,
         "hispanicPct": 2.45
@@ -2997,6 +3064,7 @@
       "renterRatePct": 31.4,
       "race": {
         "whitePct": 88.14,
+        "nonHispanicWhitePct": 87.3,
         "blackPct": 2.94,
         "asianPct": 2.35,
         "hispanicPct": 2.48
@@ -3042,6 +3110,7 @@
       "renterRatePct": 16.44,
       "race": {
         "whitePct": 89.26,
+        "nonHispanicWhitePct": 88.77,
         "blackPct": 3.83,
         "asianPct": 2.55,
         "hispanicPct": 1.75
@@ -3087,6 +3156,7 @@
       "renterRatePct": 33.34,
       "race": {
         "whitePct": 82.45,
+        "nonHispanicWhitePct": 81.14,
         "blackPct": 4.74,
         "asianPct": 3.72,
         "hispanicPct": 3.6
@@ -3132,6 +3202,7 @@
       "renterRatePct": 27.6,
       "race": {
         "whitePct": 88.73,
+        "nonHispanicWhitePct": 88.17,
         "blackPct": 4.68,
         "asianPct": 0.81,
         "hispanicPct": 2.27
@@ -3177,6 +3248,7 @@
       "renterRatePct": 33.1,
       "race": {
         "whitePct": 85.8,
+        "nonHispanicWhitePct": 84.98,
         "blackPct": 5.85,
         "asianPct": 2,
         "hispanicPct": 2.57
@@ -3222,6 +3294,7 @@
       "renterRatePct": 28.72,
       "race": {
         "whitePct": 79.8,
+        "nonHispanicWhitePct": 79.04,
         "blackPct": 10.73,
         "asianPct": 3.2,
         "hispanicPct": 2.94
@@ -3267,6 +3340,7 @@
       "renterRatePct": 33.21,
       "race": {
         "whitePct": 81.78,
+        "nonHispanicWhitePct": 80.5,
         "blackPct": 9.5,
         "asianPct": 0.61,
         "hispanicPct": 4.32
@@ -3312,6 +3386,7 @@
       "renterRatePct": 37.59,
       "race": {
         "whitePct": 87.83,
+        "nonHispanicWhitePct": 85.99,
         "blackPct": 2.21,
         "asianPct": 2.08,
         "hispanicPct": 6.16
@@ -3357,6 +3432,7 @@
       "renterRatePct": 31.53,
       "race": {
         "whitePct": 84.98,
+        "nonHispanicWhitePct": 84.16,
         "blackPct": 7.44,
         "asianPct": 0.88,
         "hispanicPct": 2.2
@@ -3408,6 +3484,7 @@
       "renterRatePct": 23.94,
       "race": {
         "whitePct": 93.22,
+        "nonHispanicWhitePct": 92.5,
         "blackPct": 1.16,
         "asianPct": 1.17,
         "hispanicPct": 2.38
@@ -3453,6 +3530,7 @@
       "renterRatePct": 30.22,
       "race": {
         "whitePct": 82.36,
+        "nonHispanicWhitePct": 81.17,
         "blackPct": 9.73,
         "asianPct": 0.82,
         "hispanicPct": 3.26
@@ -3492,6 +3570,7 @@
       "renterRatePct": 27.26,
       "race": {
         "whitePct": 93.18,
+        "nonHispanicWhitePct": 92.54,
         "blackPct": 1.85,
         "asianPct": 0.36,
         "hispanicPct": 1.89
@@ -3537,6 +3616,7 @@
       "renterRatePct": 26.02,
       "race": {
         "whitePct": 91.72,
+        "nonHispanicWhitePct": 91.09,
         "blackPct": 1.82,
         "asianPct": 1.59,
         "hispanicPct": 1.98
@@ -3582,6 +3662,7 @@
       "renterRatePct": 20.08,
       "race": {
         "whitePct": 91.2,
+        "nonHispanicWhitePct": 89.28,
         "blackPct": 0.72,
         "asianPct": 0.4,
         "hispanicPct": 7.18
@@ -3627,6 +3708,7 @@
       "renterRatePct": 19.14,
       "race": {
         "whitePct": 91.14,
+        "nonHispanicWhitePct": 89.04,
         "blackPct": 1.08,
         "asianPct": 0.31,
         "hispanicPct": 7.42
@@ -3672,6 +3754,7 @@
       "renterRatePct": 27.64,
       "race": {
         "whitePct": 91.42,
+        "nonHispanicWhitePct": 89.72,
         "blackPct": 1.53,
         "asianPct": 1.46,
         "hispanicPct": 4.47
@@ -3717,6 +3800,7 @@
       "renterRatePct": 25.6,
       "race": {
         "whitePct": 95.31,
+        "nonHispanicWhitePct": 94.71,
         "blackPct": 0.67,
         "asianPct": 0.4,
         "hispanicPct": 2.04
@@ -3762,6 +3846,7 @@
       "renterRatePct": 25.35,
       "race": {
         "whitePct": 92.28,
+        "nonHispanicWhitePct": 91.67,
         "blackPct": 2,
         "asianPct": 0.65,
         "hispanicPct": 1.88
@@ -3807,6 +3892,7 @@
       "renterRatePct": 28.57,
       "race": {
         "whitePct": 85.96,
+        "nonHispanicWhitePct": 85.08,
         "blackPct": 4.27,
         "asianPct": 3.07,
         "hispanicPct": 3.21
@@ -3852,6 +3938,7 @@
       "renterRatePct": 23.2,
       "race": {
         "whitePct": 95.35,
+        "nonHispanicWhitePct": 94.62,
         "blackPct": 0.53,
         "asianPct": 0.43,
         "hispanicPct": 1.99
@@ -3897,6 +3984,7 @@
       "renterRatePct": 26.12,
       "race": {
         "whitePct": 87.99,
+        "nonHispanicWhitePct": 85.3,
         "blackPct": 2.97,
         "asianPct": 0.48,
         "hispanicPct": 8.17
@@ -3942,6 +4030,7 @@
       "renterRatePct": 26.3,
       "race": {
         "whitePct": 85.83,
+        "nonHispanicWhitePct": 83.52,
         "blackPct": 5.98,
         "asianPct": 0.65,
         "hispanicPct": 5.32
@@ -3987,6 +4076,7 @@
       "renterRatePct": 29.56,
       "race": {
         "whitePct": 93.97,
+        "nonHispanicWhitePct": 93.16,
         "blackPct": 1.8,
         "asianPct": 0.42,
         "hispanicPct": 1.44
@@ -4032,6 +4122,7 @@
       "renterRatePct": 31.12,
       "race": {
         "whitePct": 94.05,
+        "nonHispanicWhitePct": 93.67,
         "blackPct": 1.54,
         "asianPct": 0.3,
         "hispanicPct": 1.26
@@ -4077,6 +4168,7 @@
       "renterRatePct": 27.18,
       "race": {
         "whitePct": 91.23,
+        "nonHispanicWhitePct": 90.86,
         "blackPct": 3.65,
         "asianPct": 0.36,
         "hispanicPct": 1.16
@@ -4122,6 +4214,7 @@
       "renterRatePct": 26.32,
       "race": {
         "whitePct": 94.22,
+        "nonHispanicWhitePct": 93.87,
         "blackPct": 1.57,
         "asianPct": 0.64,
         "hispanicPct": 1.04
@@ -4161,6 +4254,7 @@
       "renterRatePct": 31.16,
       "race": {
         "whitePct": 92.45,
+        "nonHispanicWhitePct": 91.34,
         "blackPct": 2.04,
         "asianPct": 1.27,
         "hispanicPct": 1.69
@@ -4212,6 +4306,7 @@
       "renterRatePct": 23.14,
       "race": {
         "whitePct": 93.66,
+        "nonHispanicWhitePct": 93.19,
         "blackPct": 2.24,
         "asianPct": 0.43,
         "hispanicPct": 1.38
@@ -4257,6 +4352,7 @@
       "renterRatePct": 26.81,
       "race": {
         "whitePct": 90.86,
+        "nonHispanicWhitePct": 90.36,
         "blackPct": 4.01,
         "asianPct": 0.62,
         "hispanicPct": 1.3
@@ -4296,6 +4392,7 @@
       "renterRatePct": 31.72,
       "race": {
         "whitePct": 91.49,
+        "nonHispanicWhitePct": 91.05,
         "blackPct": 2.91,
         "asianPct": 0.53,
         "hispanicPct": 1.29
@@ -4341,6 +4438,7 @@
       "renterRatePct": 26.18,
       "race": {
         "whitePct": 95.34,
+        "nonHispanicWhitePct": 94.8,
         "blackPct": 0.72,
         "asianPct": 0.53,
         "hispanicPct": 1.31
@@ -4386,6 +4484,7 @@
       "renterRatePct": 21.84,
       "race": {
         "whitePct": 89.86,
+        "nonHispanicWhitePct": 87.89,
         "blackPct": 3.13,
         "asianPct": 0.45,
         "hispanicPct": 4.23

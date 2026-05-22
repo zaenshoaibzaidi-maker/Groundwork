@@ -41,7 +41,7 @@ const SENATE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Robert McColley (R) ran uncontested in 2022. Next election: November 2026.",
       demos: [
-        { label: "White",                    pct: 91.3, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 89.4, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino",        pct:  6.3, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct:  1.1, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  0.7, color: DEMO_COLORS[3] }
@@ -89,7 +89,7 @@ const SENATE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Paloma De La Fuente (D) ran uncontested in 2024. Next election: November 2028.",
       demos: [
-        { label: "White",                    pct: 75.0, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 72.8, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 14.3, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  7.2, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  1.3, color: DEMO_COLORS[3] }
@@ -137,7 +137,7 @@ const SENATE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Tina Maharath (D) ran uncontested in 2022. Next election: November 2026.",
       demos: [
-        { label: "White",                    pct: 68.0, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 67.1, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 18.3, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  5.4, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  3.4, color: DEMO_COLORS[3] }
@@ -185,7 +185,7 @@ const SENATE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Thomas Cooke (D) ran uncontested in 2024. Next election: November 2028.",
       demos: [
-        { label: "White",                    pct: 76.8, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 74.7, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct:  8.8, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  6.9, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  4.3, color: DEMO_COLORS[3] }
@@ -233,7 +233,7 @@ const SENATE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Stephen A. Huffman (R) ran uncontested in 2022. Next election: November 2026.",
       demos: [
-        { label: "White",                    pct: 80.3, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 79.7, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 12.3, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  2.4, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  1.3, color: DEMO_COLORS[3] }
@@ -281,7 +281,7 @@ const SENATE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Willis E. Blackshear Jr (D) ran uncontested in 2024. Next election: November 2028.",
       demos: [
-        { label: "White",                    pct: 70.4, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 69.3, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 18.9, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  4.6, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  2.5, color: DEMO_COLORS[3] }
@@ -329,7 +329,7 @@ const SENATE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "David Dallas (D) ran uncontested in 2022. Next election: November 2026.",
       demos: [
-        { label: "White",                    pct: 80.3, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 79.2, color: DEMO_COLORS[0] },
         { label: "Asian",                    pct:  5.9, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct:  7.4, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino",        pct:  3.7, color: DEMO_COLORS[3] }
@@ -377,7 +377,7 @@ const SENATE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Louis W. Blessing III (R) ran uncontested in 2024. Next election: November 2028.",
       demos: [
-        { label: "White",                    pct: 73.7, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 72.4, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 16.8, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  3.8, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  2.5, color: DEMO_COLORS[3] }
@@ -425,7 +425,7 @@ const SENATE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Catherine D. Ingram (D) ran uncontested in 2022. Next election: November 2026.",
       demos: [
-        { label: "White",                    pct: 52.0, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 50.4, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 36.6, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  5.2, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  2.5, color: DEMO_COLORS[3] }
@@ -473,7 +473,7 @@ const SENATE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Kyle Koehler (R) ran uncontested in 2024. Next election: November 2028.",
       demos: [
-        { label: "White",                    pct: 84.3, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 83.2, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct:  6.3, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  3.4, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  1.7, color: DEMO_COLORS[3] }
@@ -521,7 +521,7 @@ const SENATE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Tony Dia (R) ran uncontested in 2022. Next election: November 2026.",
       demos: [
-        { label: "White",                    pct: 76.9, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 74.4, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 12.8, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  6.8, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  1.9, color: DEMO_COLORS[3] }
@@ -569,7 +569,7 @@ const SENATE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Susan Manchester (R) ran uncontested in 2024. Next election: November 2028.",
       demos: [
-        { label: "White",                    pct: 90.0, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 89.2, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct:  4.1, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  2.4, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  0.6, color: DEMO_COLORS[3] }
@@ -617,7 +617,7 @@ const SENATE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Anthony Eliopoulos (D) ran uncontested in 2022. Next election: November 2026.",
       demos: [
-        { label: "White",                    pct: 81.2, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 77.9, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino",        pct: 10.1, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct:  6.6, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  1.2, color: DEMO_COLORS[3] }
@@ -665,7 +665,7 @@ const SENATE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Terry A. Johnson (R) ran uncontested in 2024. Next election: November 2028.",
       demos: [
-        { label: "White",                    pct: 93.3, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 92.4, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct:  1.5, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  2.0, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  0.8, color: DEMO_COLORS[3] }
@@ -713,7 +713,7 @@ const SENATE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Hearcel F. Craig (D) ran uncontested in 2022. Next election: November 2026.",
       demos: [
-        { label: "White",                    pct: 48.6, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 46.9, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 35.0, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  9.2, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  2.9, color: DEMO_COLORS[3] }
@@ -761,7 +761,7 @@ const SENATE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Beth Liston (D) ran uncontested in 2024. Next election: November 2028.",
       demos: [
-        { label: "White",                    pct: 77.9, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 76.8, color: DEMO_COLORS[0] },
         { label: "Asian",                    pct:  7.6, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct:  6.4, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino",        pct:  4.9, color: DEMO_COLORS[3] }
@@ -809,7 +809,7 @@ const SENATE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Garry Boone (D) ran uncontested in 2022. Next election: November 2026.",
       demos: [
-        { label: "White",                    pct: 93.2, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 92.8, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct:  2.3, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  1.2, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  0.4, color: DEMO_COLORS[3] }
@@ -857,7 +857,7 @@ const SENATE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Jerry Cirino (R) ran uncontested in 2024. Next election: November 2028.",
       demos: [
-        { label: "White",                    pct: 77.7, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 76.2, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 12.4, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  4.5, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  2.9, color: DEMO_COLORS[3] }
@@ -905,7 +905,7 @@ const SENATE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Andrew O. Brenner (R) ran uncontested in 2022. Next election: November 2026.",
       demos: [
-        { label: "White",                    pct: 86.9, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 86.1, color: DEMO_COLORS[0] },
         { label: "Asian",                    pct:  5.0, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct:  2.8, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino",        pct:  2.5, color: DEMO_COLORS[3] }
@@ -953,7 +953,7 @@ const SENATE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Nick Hubbell (D) ran uncontested in 2024. Next election: November 2028.",
       demos: [
-        { label: "White",                    pct: 85.6, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 84.9, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct:  5.9, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  2.4, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  2.7, color: DEMO_COLORS[3] }
@@ -1002,7 +1002,7 @@ const SENATE_DISTRICTS = [
       partisanSub: "Mikhail Alterman (R) listed as 2022 winner with 18,584 votes — almost certainly a data anomaly in a majority-Black D-leaning district. Next election: November 2026.",
       demos: [
         { label: "Black / African American", pct: 57.8, color: DEMO_COLORS[0] },
-        { label: "White",                    pct: 33.9, color: DEMO_COLORS[1] },
+        { label: "White",                    pct: 33.3, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  2.7, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  2.0, color: DEMO_COLORS[3] }
       ],
@@ -1049,7 +1049,7 @@ const SENATE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Mark Romanchuk (R) ran uncontested in 2024. Next election: November 2028.",
       demos: [
-        { label: "White",                    pct: 90.4, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 89.5, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct:  3.4, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  2.3, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  0.9, color: DEMO_COLORS[3] }
@@ -1097,7 +1097,7 @@ const SENATE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Nickie J. Antonio (D) ran uncontested in 2022. Next election: November 2026.",
       demos: [
-        { label: "White",                    pct: 59.0, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 56.2, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 25.5, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct: 11.1, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  3.0, color: DEMO_COLORS[3] }
@@ -1145,7 +1145,7 @@ const SENATE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Sue Durichko (D) ran uncontested in 2024. Next election: November 2028.",
       demos: [
-        { label: "White",                    pct: 82.0, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 80, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino",        pct:  7.8, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct:  5.0, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  4.0, color: DEMO_COLORS[3] }
@@ -1193,7 +1193,7 @@ const SENATE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Bill DeMora (D) ran uncontested in 2022. Next election: November 2026.",
       demos: [
-        { label: "White",                    pct: 56.0, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 54.3, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 26.8, color: DEMO_COLORS[1] },
         { label: "Asian",                    pct:  6.2, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino",        pct:  7.4, color: DEMO_COLORS[3] }
@@ -1241,7 +1241,7 @@ const SENATE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Mohamud Jama (D) ran uncontested in 2024. Next election: November 2028.",
       demos: [
-        { label: "White",                    pct: 89.7, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 88.3, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct:  2.6, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  4.4, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  1.3, color: DEMO_COLORS[3] }
@@ -1289,7 +1289,7 @@ const SENATE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Patricia Goetz (D) ran uncontested in 2022. Next election: November 2026.",
       demos: [
-        { label: "White",                    pct: 81.8, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 81.1, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct:  8.5, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  1.9, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  3.5, color: DEMO_COLORS[3] }
@@ -1337,7 +1337,7 @@ const SENATE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Jon Leissler (R) ran uncontested in 2024. Next election: November 2028.",
       demos: [
-        { label: "White",                    pct: 75.5, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 74.5, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 14.2, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  3.0, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  3.3, color: DEMO_COLORS[3] }
@@ -1385,7 +1385,7 @@ const SENATE_DISTRICTS = [
       dem: 0, rep: 0,
       partisanSub: "Lynn C. Gorman won in 2022 as a write-in candidate with only 2,730 votes — effectively an open seat. Next election: November 2026.",
       demos: [
-        { label: "White",                    pct: 84.6, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 83.6, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct:  7.9, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  3.0, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  0.9, color: DEMO_COLORS[3] }
@@ -1433,7 +1433,7 @@ const SENATE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Brian M. Chavez (R) ran uncontested in 2024. Next election: November 2028.",
       demos: [
-        { label: "White",                    pct: 92.3, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 91.6, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct:  2.8, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  1.5, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  0.8, color: DEMO_COLORS[3] }
@@ -1481,7 +1481,7 @@ const SENATE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Al Landis (R) ran uncontested in 2022. Next election: November 2026.",
       demos: [
-        { label: "White",                    pct: 93.2, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 92.3, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct:  1.6, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  2.5, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  0.7, color: DEMO_COLORS[3] }
@@ -1529,7 +1529,7 @@ const SENATE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Sandra O'Brien (R) ran uncontested in 2024. Next election: November 2028.",
       demos: [
-        { label: "White",                    pct: 88.3, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 87.1, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct:  5.6, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  2.8, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  0.5, color: DEMO_COLORS[3] }
@@ -1577,7 +1577,7 @@ const SENATE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Al Cutrona (R) ran uncontested in 2024. Next election: November 2028.",
       demos: [
-        { label: "White",                    pct: 82.4, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 81.1, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct:  9.7, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  4.8, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  0.7, color: DEMO_COLORS[3] }

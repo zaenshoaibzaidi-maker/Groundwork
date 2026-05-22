@@ -50,7 +50,7 @@ const DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Uncontested in 2024. Dontavius Jarrells (D) ran with no opponent.",
       demos: [
-        { label: "White",                    pct: 49.7, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 48.53, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 36.9, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  6.9, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  1.6, color: DEMO_COLORS[3] }
@@ -98,7 +98,7 @@ const DISTRICTS = [
       partisanSub: "Latyna M. Humphrey (D) ran without a Republican opponent in 2024.",
       demos: [
         { label: "Black / African American", pct: 50.5, color: DEMO_COLORS[0] },
-        { label: "White",                    pct: 34.1, color: DEMO_COLORS[1] },
+        { label: "White",                    pct: 32.94, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  8.0, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  3.2, color: DEMO_COLORS[3] }
       ],
@@ -144,7 +144,7 @@ const DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Uncontested in 2024. Safe Democratic seat — turnout is the only variable.",
       demos: [
-        { label: "White",                    pct: 42.6, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 40.88, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 41.8, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  8.3, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  3.4, color: DEMO_COLORS[3] }
@@ -192,7 +192,7 @@ const DISTRICTS = [
       dem: 57, rep: 43,
       partisanSub: "Beryl Brown Piccolantonio (D) 57% / Jason Allevato (R) 43% in 2024.",
       demos: [
-        { label: "White",                    pct: 72.3, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 71.78, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 13.4, color: DEMO_COLORS[1] },
         { label: "Asian",                    pct:  5.6, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino",        pct:  3.3, color: DEMO_COLORS[3] }
@@ -240,7 +240,7 @@ const DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Uncontested in 2024. Meredith Lawson-Rowe (D) ran with no opponent.",
       demos: [
-        { label: "White",                    pct: 63.7, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 62.55, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 22.9, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  6.0, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  2.7, color: DEMO_COLORS[3] }
@@ -287,7 +287,7 @@ const DISTRICTS = [
       dem: 60, rep: 40,
       partisanSub: "Christine Cockley (D) 60% / Hussein Jabiri (R) 40% in 2024.",
       demos: [
-        { label: "White",                    pct: 63.3, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 60.55, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 16.1, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct: 13.0, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  3.9, color: DEMO_COLORS[3] }
@@ -335,7 +335,7 @@ const DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Allison Russo (D) ran without a Republican opponent in 2024.",
       demos: [
-        { label: "White",                    pct: 79.3, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 77.57, color: DEMO_COLORS[0] },
         { label: "Asian",                    pct:  8.6, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  5.4, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct:  4.3, color: DEMO_COLORS[3] }
@@ -383,7 +383,7 @@ const DISTRICTS = [
       dem: 65, rep: 35,
       partisanSub: "Leans Democratic. Somani won by 29 points in 2024.",
       demos: [
-        { label: "White",                    pct: 71.2, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 70.15, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 11.2, color: DEMO_COLORS[1] },
         { label: "Asian",                    pct:  7.3, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino",        pct:  6.4, color: DEMO_COLORS[3] }
@@ -432,7 +432,7 @@ const DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Munira Yasin Abdullahi (D) ran without a Republican opponent in 2024.",
       demos: [
-        { label: "White",                    pct: 46.9, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 45.05, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 33.8, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  8.5, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  6.6, color: DEMO_COLORS[3] }
@@ -480,7 +480,7 @@ const DISTRICTS = [
       dem: 52, rep: 48,
       partisanSub: "Mark Sigrist (D) 52% / Brian M. Garvine (R) 48% in 2024.",
       demos: [
-        { label: "White",                    pct: 68.3, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 67.25, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 18.4, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  6.8, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  2.0, color: DEMO_COLORS[3] }
@@ -528,7 +528,7 @@ const DISTRICTS = [
       dem: 52, rep: 48,
       partisanSub: "Crystal Lett (D) 52% / Stephanie L. Kunze (R) 48% in 2024.",
       demos: [
-        { label: "White",                    pct: 74.7, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 73.28, color: DEMO_COLORS[0] },
         { label: "Asian",                    pct: 13.1, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  5.6, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct:  4.1, color: DEMO_COLORS[3] }
@@ -576,7 +576,7 @@ const DISTRICTS = [
       dem: 27, rep: 73,
       partisanSub: "Brian Stewart (R) 73% / Brad W. Cotton (D) 27% in 2024.",
       demos: [
-        { label: "White",                    pct: 88.8, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 87.88, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct:  3.7, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  2.5, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  1.9, color: DEMO_COLORS[3] }
@@ -624,7 +624,7 @@ const DISTRICTS = [
       dem: 77, rep: 23,
       partisanSub: "Reliably Democratic. Rader won by 53 points in 2024.",
       demos: [
-        { label: "White",                    pct: 69.8, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 65.8, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino",        pct: 15.1, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 13.0, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  1.9, color: DEMO_COLORS[3] }
@@ -673,7 +673,7 @@ const DISTRICTS = [
       dem: 58, rep: 42,
       partisanSub: "Sean Patrick Brennan (D) 58% / David Morgan (R) 42% in 2024.",
       demos: [
-        { label: "White",                    pct: 78.0, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 75.72, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino",        pct:  9.7, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct:  8.0, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  2.6, color: DEMO_COLORS[3] }
@@ -721,7 +721,7 @@ const DISTRICTS = [
       dem: 55, rep: 45,
       partisanSub: "Chris Glassburn (D) 55% / Aaron L. Borowski (R) 45% in 2024.",
       demos: [
-        { label: "White",                    pct: 74.5, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 71.85, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino",        pct: 13.3, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct:  8.1, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  3.6, color: DEMO_COLORS[3] }
@@ -769,7 +769,7 @@ const DISTRICTS = [
       dem: 61, rep: 39,
       partisanSub: "Bride Rose Sweeney (D) 61% / Daniel James Harrington (R) 39% in 2024.",
       demos: [
-        { label: "White",                    pct: 86.7, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 84.76, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino",        pct:  5.5, color: DEMO_COLORS[1] },
         { label: "Asian",                    pct:  3.3, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct:  3.1, color: DEMO_COLORS[3] }
@@ -817,7 +817,7 @@ const DISTRICTS = [
       dem: 45, rep: 55,
       partisanSub: "Mike Dovilla (R) 55% / Jessica Sutherland (D) 45% in 2024.",
       demos: [
-        { label: "White",                    pct: 84.8, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 83.4, color: DEMO_COLORS[0] },
         { label: "Asian",                    pct:  5.2, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  4.8, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct:  3.9, color: DEMO_COLORS[3] }
@@ -866,7 +866,7 @@ const DISTRICTS = [
       partisanSub: "Juanita O. Brent (D) 89% / Justyn Anderson (R) 11% in 2024.",
       demos: [
         { label: "Black / African American", pct: 74.5, color: DEMO_COLORS[0] },
-        { label: "White",                    pct: 17.3, color: DEMO_COLORS[1] },
+        { label: "White",                    pct: 16.95, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  3.3, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  0.4, color: DEMO_COLORS[3] }
       ],
@@ -913,7 +913,7 @@ const DISTRICTS = [
       dem: 57, rep: 43,
       partisanSub: "Phil Robinson (D) 57% / Kenny Godnavec (R) 43% in 2024.",
       demos: [
-        { label: "White",                    pct: 63.6, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 62.67, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 22.4, color: DEMO_COLORS[1] },
         { label: "Asian",                    pct:  5.8, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino",        pct:  3.7, color: DEMO_COLORS[3] }
@@ -962,7 +962,7 @@ const DISTRICTS = [
       partisanSub: "Terrence Upchurch (D) 85% / Donna Walker-Brown (R) 15% in 2024.",
       demos: [
         { label: "Black / African American", pct: 55.3, color: DEMO_COLORS[0] },
-        { label: "White",                    pct: 29.5, color: DEMO_COLORS[1] },
+        { label: "White",                    pct: 27.24, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  8.8, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  4.3, color: DEMO_COLORS[3] }
       ],
@@ -1010,7 +1010,7 @@ const DISTRICTS = [
       partisanSub: "Eric Synenberg (D) 79% / Joshua Malovasic (R) 21% in 2024.",
       demos: [
         { label: "Black / African American", pct: 47.8, color: DEMO_COLORS[0] },
-        { label: "White",                    pct: 44.4, color: DEMO_COLORS[1] },
+        { label: "White",                    pct: 43.68, color: DEMO_COLORS[1] },
         { label: "Asian",                    pct:  2.3, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino",        pct:  2.3, color: DEMO_COLORS[3] }
       ],
@@ -1058,7 +1058,7 @@ const DISTRICTS = [
       partisanSub: "Darnell T. Brewer (D) 86% / Milan Wesley (R) 14% in 2024.",
       demos: [
         { label: "Black / African American", pct: 51.5, color: DEMO_COLORS[0] },
-        { label: "White",                    pct: 39.6, color: DEMO_COLORS[1] },
+        { label: "White",                    pct: 38.86, color: DEMO_COLORS[1] },
         { label: "Asian",                    pct:  3.2, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino",        pct:  2.4, color: DEMO_COLORS[3] }
       ],
@@ -1105,7 +1105,7 @@ const DISTRICTS = [
       dem: 53, rep: 47,
       partisanSub: "Daniel P. Troy (D) 53% / Tony Hocevar (R) 47% in 2024.",
       demos: [
-        { label: "White",                    pct: 81.6, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 80.66, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 11.5, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  2.6, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  1.7, color: DEMO_COLORS[3] }
@@ -1153,7 +1153,7 @@ const DISTRICTS = [
       dem: 73, rep: 27,
       partisanSub: "Dani Isaacsohn (D) 73% / John Sess (R) 27% in 2024.",
       demos: [
-        { label: "White",                    pct: 49.3, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 47.68, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 38.1, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  6.2, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  2.3, color: DEMO_COLORS[3] }
@@ -1201,7 +1201,7 @@ const DISTRICTS = [
       dem: 84, rep: 16,
       partisanSub: "Reliably Democratic. Thomas won by 68 points in 2024.",
       demos: [
-        { label: "White",                    pct: 53.0, color: DEMO_COLORS[0] },
+        { label: "White",                    pct: 50.94, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 34.8, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino",        pct:  6.1, color: DEMO_COLORS[2] },
         { label: "Asian",                    pct:  3.3, color: DEMO_COLORS[3] }
@@ -1249,7 +1249,7 @@ const DISTRICTS = [
       dem: 69, rep: 31,
       partisanSub: "D 69.1% / R 30.9% in 2024. Sedrick Denson (D) won.",
       demos: [
-        { label: "White", pct: 54.0, color: DEMO_COLORS[0] },
+        { label: "White", pct: 52.86, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 36.7, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 3.5, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.9, color: DEMO_COLORS[3] }
@@ -1296,7 +1296,7 @@ const DISTRICTS = [
       dem: 56, rep: 44,
       partisanSub: "D 55.8% / R 44.2% in 2024. Rachel Baker (D) won.",
       demos: [
-        { label: "White", pct: 73.5, color: DEMO_COLORS[0] },
+        { label: "White", pct: 72.3, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 15.4, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 4.5, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 4.1, color: DEMO_COLORS[3] }
@@ -1344,7 +1344,7 @@ const DISTRICTS = [
       dem: 56, rep: 44,
       partisanSub: "D 55.9% / R 44.1% in 2024. Karen Brownlee (D) won.",
       demos: [
-        { label: "White", pct: 68.6, color: DEMO_COLORS[0] },
+        { label: "White", pct: 66.19, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 17.7, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 6.9, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 4.9, color: DEMO_COLORS[3] }
@@ -1391,7 +1391,7 @@ const DISTRICTS = [
       dem: 43, rep: 57,
       partisanSub: "D 42.8% / R 57.2% in 2024. Cindy Abrams (R) won.",
       demos: [
-        { label: "White", pct: 66.6, color: DEMO_COLORS[0] },
+        { label: "White", pct: 65.87, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 25.0, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 2.6, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.5, color: DEMO_COLORS[3] }
@@ -1438,7 +1438,7 @@ const DISTRICTS = [
       dem: 31, rep: 69,
       partisanSub: "D 31.2% / R 68.8% in 2024. Mike Odioso (R) won.",
       demos: [
-        { label: "White", pct: 86.3, color: DEMO_COLORS[0] },
+        { label: "White", pct: 85.61, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 7.5, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 1.7, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.9, color: DEMO_COLORS[3] }
@@ -1485,7 +1485,7 @@ const DISTRICTS = [
       dem: 47, rep: 53,
       partisanSub: "D 47.0% / R 53.0% in 2024. Bill Roemer (R) won.",
       demos: [
-        { label: "White", pct: 80.1, color: DEMO_COLORS[0] },
+        { label: "White", pct: 79.36, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 9.0, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 5.2, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino", pct: 1.9, color: DEMO_COLORS[3] }
@@ -1533,7 +1533,7 @@ const DISTRICTS = [
       dem: 43, rep: 57,
       partisanSub: "D 42.8% / R 57.2% in 2024. Jack K. Daniels (R) won.",
       demos: [
-        { label: "White", pct: 80.4, color: DEMO_COLORS[0] },
+        { label: "White", pct: 79.73, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 11.3, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 2.1, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.2, color: DEMO_COLORS[3] }
@@ -1580,7 +1580,7 @@ const DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Uncontested in 2024. Veronica Sims (D) ran with no opponent.",
       demos: [
-        { label: "White", pct: 48.8, color: DEMO_COLORS[0] },
+        { label: "White", pct: 47.47, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 34.7, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 6.1, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino", pct: 4.7, color: DEMO_COLORS[3] }
@@ -1627,7 +1627,7 @@ const DISTRICTS = [
       dem: 53, rep: 47,
       partisanSub: "D 53.2% / R 46.8% in 2024. Derrick Hall (D) won.",
       demos: [
-        { label: "White", pct: 84.8, color: DEMO_COLORS[0] },
+        { label: "White", pct: 84.37, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 5.3, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 4.2, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino", pct: 1.7, color: DEMO_COLORS[3] }
@@ -1674,7 +1674,7 @@ const DISTRICTS = [
       dem: 47, rep: 53,
       partisanSub: "D 47.5% / R 52.5% in 2024. Steve Demetriou (R) won.",
       demos: [
-        { label: "White", pct: 92.0, color: DEMO_COLORS[0] },
+        { label: "White", pct: 91.27, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 1.9, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 1.8, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino", pct: 1.8, color: DEMO_COLORS[3] }
@@ -1721,7 +1721,7 @@ const DISTRICTS = [
       dem: 48, rep: 52,
       partisanSub: "D 47.6% / R 52.4% in 2024. Andrea White (R) won.",
       demos: [
-        { label: "White", pct: 77.4, color: DEMO_COLORS[0] },
+        { label: "White", pct: 76.54, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 11.7, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 4.4, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.8, color: DEMO_COLORS[3] }
@@ -1768,7 +1768,7 @@ const DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Uncontested in 2024. Tom Young (R) ran with no opponent.",
       demos: [
-        { label: "White", pct: 83.0, color: DEMO_COLORS[0] },
+        { label: "White", pct: 81.99, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 6.0, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 4.3, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 4.2, color: DEMO_COLORS[3] }
@@ -1815,7 +1815,7 @@ const DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Uncontested in 2024. Desiree Tims (D) ran with no opponent.",
       demos: [
-        { label: "White", pct: 51.5, color: DEMO_COLORS[0] },
+        { label: "White", pct: 50.01, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 38.2, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 5.0, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.5, color: DEMO_COLORS[3] }
@@ -1862,7 +1862,7 @@ const DISTRICTS = [
       dem: 41, rep: 59,
       partisanSub: "D 41.2% / R 58.8% in 2024. Phil Plummer (R) won.",
       demos: [
-        { label: "White", pct: 61.5, color: DEMO_COLORS[0] },
+        { label: "White", pct: 61.08, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 29.3, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 2.7, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.2, color: DEMO_COLORS[3] }
@@ -1909,7 +1909,7 @@ const DISTRICTS = [
       dem: 23, rep: 77,
       partisanSub: "D 22.9% / R 77.1% in 2024. Rodney Creech (R) won.",
       demos: [
-        { label: "White", pct: 87.9, color: DEMO_COLORS[0] },
+        { label: "White", pct: 87.05, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 5.5, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 2.5, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.0, color: DEMO_COLORS[3] }
@@ -1956,7 +1956,7 @@ const DISTRICTS = [
       dem: 61, rep: 39,
       partisanSub: "D 61.0% / R 39.0% in 2024. Erika White (D) won.",
       demos: [
-        { label: "White", pct: 85.9, color: DEMO_COLORS[0] },
+        { label: "White", pct: 84.13, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 5.8, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 4.2, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.2, color: DEMO_COLORS[3] }
@@ -2003,7 +2003,7 @@ const DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Uncontested in 2024. Elgin Rogers Jr. (D) ran with no opponent.",
       demos: [
-        { label: "White", pct: 78.3, color: DEMO_COLORS[0] },
+        { label: "White", pct: 74.87, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 11.4, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 8.4, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.5, color: DEMO_COLORS[3] }
@@ -2050,7 +2050,7 @@ const DISTRICTS = [
       dem: 60, rep: 40,
       partisanSub: "D 60.4% / R 39.6% in 2024. Michele Grim (D) won.",
       demos: [
-        { label: "White", pct: 66.3, color: DEMO_COLORS[0] },
+        { label: "White", pct: 64.07, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 23.0, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 6.2, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.9, color: DEMO_COLORS[3] }
@@ -2097,7 +2097,7 @@ const DISTRICTS = [
       dem: 42, rep: 58,
       partisanSub: "D 42.3% / R 57.7% in 2024. Josh Williams (R) won.",
       demos: [
-        { label: "White", pct: 51.0, color: DEMO_COLORS[0] },
+        { label: "White", pct: 48.53, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 34.9, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 10.3, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.2, color: DEMO_COLORS[3] }
@@ -2144,7 +2144,7 @@ const DISTRICTS = [
       dem: 38, rep: 62,
       partisanSub: "D 38.1% / R 61.9% in 2024. Jennifer Gross (R) won.",
       demos: [
-        { label: "White", pct: 71.9, color: DEMO_COLORS[0] },
+        { label: "White", pct: 69.33, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 11.2, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 7.3, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 7.3, color: DEMO_COLORS[3] }
@@ -2191,7 +2191,7 @@ const DISTRICTS = [
       dem: 34, rep: 66,
       partisanSub: "D 33.7% / R 66.3% in 2024. Thomas Hall (R) won.",
       demos: [
-        { label: "White", pct: 79.6, color: DEMO_COLORS[0] },
+        { label: "White", pct: 78.17, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 8.0, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 6.0, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.2, color: DEMO_COLORS[3] }
@@ -2238,7 +2238,7 @@ const DISTRICTS = [
       dem: 38, rep: 62,
       partisanSub: "D 38.4% / R 61.6% in 2024. Diane Mullins (R) won.",
       demos: [
-        { label: "White", pct: 79.0, color: DEMO_COLORS[0] },
+        { label: "White", pct: 76.71, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 7.4, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 7.1, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.5, color: DEMO_COLORS[3] }
@@ -2285,7 +2285,7 @@ const DISTRICTS = [
       dem: 31, rep: 69,
       partisanSub: "D 31.1% / R 68.9% in 2024. Scott Oelslager (R) won.",
       demos: [
-        { label: "White", pct: 91.1, color: DEMO_COLORS[0] },
+        { label: "White", pct: 90.55, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 3.6, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 1.7, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.6, color: DEMO_COLORS[3] }
@@ -2332,7 +2332,7 @@ const DISTRICTS = [
       dem: 48, rep: 52,
       partisanSub: "D 47.6% / R 52.4% in 2024. Jim Thomas (R) won.",
       demos: [
-        { label: "White", pct: 71.4, color: DEMO_COLORS[0] },
+        { label: "White", pct: 69.75, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 16.6, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 5.2, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.6, color: DEMO_COLORS[3] }
@@ -2379,7 +2379,7 @@ const DISTRICTS = [
       dem: 33, rep: 67,
       partisanSub: "D 33.4% / R 66.6% in 2024. Matthew Kishman (R) won.",
       demos: [
-        { label: "White", pct: 91.0, color: DEMO_COLORS[0] },
+        { label: "White", pct: 90.3, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 3.8, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 2.3, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.6, color: DEMO_COLORS[3] }
@@ -2426,7 +2426,7 @@ const DISTRICTS = [
       dem: 28, rep: 72,
       partisanSub: "D 27.5% / R 72.5% in 2024. Jodi Salvo (R) won.",
       demos: [
-        { label: "White", pct: 94.8, color: DEMO_COLORS[0] },
+        { label: "White", pct: 93.25, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 3.7, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 0.7, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.3, color: DEMO_COLORS[3] }
@@ -2473,7 +2473,7 @@ const DISTRICTS = [
       dem: 43, rep: 57,
       partisanSub: "D 42.8% / R 57.2% in 2024. Gayle Manning (R) won.",
       demos: [
-        { label: "White", pct: 80.5, color: DEMO_COLORS[0] },
+        { label: "White", pct: 77.7, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 8.2, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 7.6, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.7, color: DEMO_COLORS[3] }
@@ -2520,7 +2520,7 @@ const DISTRICTS = [
       dem: 56, rep: 44,
       partisanSub: "D 56.3% / R 43.7% in 2024. Joe Miller (D) won.",
       demos: [
-        { label: "White", pct: 73.5, color: DEMO_COLORS[0] },
+        { label: "White", pct: 68.37, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 17.0, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 9.6, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.2, color: DEMO_COLORS[3] }
@@ -2567,7 +2567,7 @@ const DISTRICTS = [
       dem: 34, rep: 66,
       partisanSub: "D 34.5% / R 65.5% in 2024. Kellie Deeter (R) won.",
       demos: [
-        { label: "White", pct: 89.9, color: DEMO_COLORS[0] },
+        { label: "White", pct: 87.9, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 4.9, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 2.5, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.6, color: DEMO_COLORS[3] }
@@ -2614,7 +2614,7 @@ const DISTRICTS = [
       dem: 27, rep: 73,
       partisanSub: "D 27.5% / R 72.5% in 2024. C. Michelle Teska (R) won.",
       demos: [
-        { label: "White", pct: 90.3, color: DEMO_COLORS[0] },
+        { label: "White", pct: 89.11, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 3.6, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 2.4, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 1.6, color: DEMO_COLORS[3] }
@@ -2661,7 +2661,7 @@ const DISTRICTS = [
       dem: 37, rep: 63,
       partisanSub: "D 37.4% / R 62.6% in 2024. Adam Mathews (R) won.",
       demos: [
-        { label: "White", pct: 77.2, color: DEMO_COLORS[0] },
+        { label: "White", pct: 76.39, color: DEMO_COLORS[0] },
         { label: "Asian", pct: 11.2, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 5.1, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino", pct: 3.0, color: DEMO_COLORS[3] }
@@ -2708,7 +2708,7 @@ const DISTRICTS = [
       dem: 37, rep: 63,
       partisanSub: "D 37.4% / R 62.6% in 2024. Jamie Callender (R) won.",
       demos: [
-        { label: "White", pct: 87.8, color: DEMO_COLORS[0] },
+        { label: "White", pct: 85.04, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 7.2, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 3.2, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.2, color: DEMO_COLORS[3] }
@@ -2755,7 +2755,7 @@ const DISTRICTS = [
       dem: 58, rep: 42,
       partisanSub: "D 58.0% / R 42.0% in 2024. Lauren McNally (D) won.",
       demos: [
-        { label: "White", pct: 84.6, color: DEMO_COLORS[0] },
+        { label: "White", pct: 82.61, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 6.0, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 5.9, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.4, color: DEMO_COLORS[3] }
@@ -2802,7 +2802,7 @@ const DISTRICTS = [
       dem: 43, rep: 57,
       partisanSub: "D 42.9% / R 57.1% in 2024. Tex Fischer (R) won.",
       demos: [
-        { label: "White", pct: 70.0, color: DEMO_COLORS[0] },
+        { label: "White", pct: 68.83, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 20.8, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 6.3, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.4, color: DEMO_COLORS[3] }
@@ -2849,7 +2849,7 @@ const DISTRICTS = [
       dem: 46, rep: 54,
       partisanSub: "D 45.8% / R 54.2% in 2024. Brian Lorenz (R) won.",
       demos: [
-        { label: "White", pct: 83.3, color: DEMO_COLORS[0] },
+        { label: "White", pct: 82.47, color: DEMO_COLORS[0] },
         { label: "Asian", pct: 6.5, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 3.4, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 2.8, color: DEMO_COLORS[3] }
@@ -2896,7 +2896,7 @@ const DISTRICTS = [
       dem: 38, rep: 62,
       partisanSub: "D 38.2% / R 61.8% in 2024. Beth Lear (R) won.",
       demos: [
-        { label: "White", pct: 82.0, color: DEMO_COLORS[0] },
+        { label: "White", pct: 80.97, color: DEMO_COLORS[0] },
         { label: "Asian", pct: 7.8, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 4.8, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino", pct: 2.9, color: DEMO_COLORS[3] }
@@ -2943,7 +2943,7 @@ const DISTRICTS = [
       dem: 37, rep: 63,
       partisanSub: "D 36.5% / R 63.5% in 2024. Jean Schmidt (R) won.",
       demos: [
-        { label: "White", pct: 91.4, color: DEMO_COLORS[0] },
+        { label: "White", pct: 90.02, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 2.8, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 1.7, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.4, color: DEMO_COLORS[3] }
@@ -2991,7 +2991,7 @@ const DISTRICTS = [
       dem: 25, rep: 75,
       partisanSub: "D 24.5% / R 75.5% in 2024. Adam C. Bird (R) won.",
       demos: [
-        { label: "White", pct: 94.7, color: DEMO_COLORS[0] },
+        { label: "White", pct: 94.14, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 1.6, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 1.1, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.6, color: DEMO_COLORS[3] }
@@ -3039,7 +3039,7 @@ const DISTRICTS = [
       dem: 44, rep: 56,
       partisanSub: "D 43.8% / R 56.2% in 2024. Nick Santucci (R) won.",
       demos: [
-        { label: "White", pct: 80.7, color: DEMO_COLORS[0] },
+        { label: "White", pct: 79.62, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 12.0, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 2.8, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.8, color: DEMO_COLORS[3] }
@@ -3087,7 +3087,7 @@ const DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Uncontested in 2024. David Thomas (R) ran with no opponent.",
       demos: [
-        { label: "White", pct: 94.8, color: DEMO_COLORS[0] },
+        { label: "White", pct: 94.26, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 1.3, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 1.2, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.2, color: DEMO_COLORS[3] }
@@ -3135,7 +3135,7 @@ const DISTRICTS = [
       dem: 35, rep: 65,
       partisanSub: "D 34.6% / R 65.4% in 2024. Sharon A. Ray (R) won.",
       demos: [
-        { label: "White", pct: 93.2, color: DEMO_COLORS[0] },
+        { label: "White", pct: 92.29, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 2.4, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 1.4, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.0, color: DEMO_COLORS[3] }
@@ -3183,7 +3183,7 @@ const DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Uncontested in 2024. Melanie Miller (R) ran with no opponent.",
       demos: [
-        { label: "White", pct: 93.2, color: DEMO_COLORS[0] },
+        { label: "White", pct: 92.44, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 2.5, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 1.2, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.8, color: DEMO_COLORS[3] }
@@ -3231,7 +3231,7 @@ const DISTRICTS = [
       dem: 41, rep: 59,
       partisanSub: "D 41.1% / R 58.9% in 2024. Thad Claggett (R) won.",
       demos: [
-        { label: "White", pct: 88.1, color: DEMO_COLORS[0] },
+        { label: "White", pct: 87.3, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 2.9, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 2.5, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.4, color: DEMO_COLORS[3] }
@@ -3279,7 +3279,7 @@ const DISTRICTS = [
       dem: 23, rep: 77,
       partisanSub: "D 23.2% / R 76.8% in 2024. Kevin Miller (R) won.",
       demos: [
-        { label: "White", pct: 89.3, color: DEMO_COLORS[0] },
+        { label: "White", pct: 88.77, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 3.8, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 2.5, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino", pct: 1.8, color: DEMO_COLORS[3] }
@@ -3327,7 +3327,7 @@ const DISTRICTS = [
       dem: 38, rep: 62,
       partisanSub: "D 38.5% / R 61.5% in 2024. Brian Lampton (R) won.",
       demos: [
-        { label: "White", pct: 82.5, color: DEMO_COLORS[0] },
+        { label: "White", pct: 81.14, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 4.7, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 3.7, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino", pct: 3.6, color: DEMO_COLORS[3] }
@@ -3375,7 +3375,7 @@ const DISTRICTS = [
       dem: 30, rep: 70,
       partisanSub: "D 29.6% / R 70.4% in 2024. Levi P. Dean (R) won.",
       demos: [
-        { label: "White", pct: 88.7, color: DEMO_COLORS[0] },
+        { label: "White", pct: 88.17, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 4.7, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 2.3, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.8, color: DEMO_COLORS[3] }
@@ -3423,7 +3423,7 @@ const DISTRICTS = [
       dem: 41, rep: 59,
       partisanSub: "D 41.3% / R 58.7% in 2024. Heidi Workman (R) won.",
       demos: [
-        { label: "White", pct: 85.8, color: DEMO_COLORS[0] },
+        { label: "White", pct: 84.98, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 5.8, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 2.6, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.0, color: DEMO_COLORS[3] }
@@ -3471,7 +3471,7 @@ const DISTRICTS = [
       dem: 39, rep: 61,
       partisanSub: "D 39.0% / R 61.0% in 2024. Jeff LaRe (R) won.",
       demos: [
-        { label: "White", pct: 79.8, color: DEMO_COLORS[0] },
+        { label: "White", pct: 79.04, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 10.7, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 3.2, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino", pct: 2.9, color: DEMO_COLORS[3] }
@@ -3519,7 +3519,7 @@ const DISTRICTS = [
       dem: 36, rep: 64,
       partisanSub: "D 35.8% / R 64.2% in 2024. Bernard Willis (R) won.",
       demos: [
-        { label: "White", pct: 81.8, color: DEMO_COLORS[0] },
+        { label: "White", pct: 80.5, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 9.5, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 4.3, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.6, color: DEMO_COLORS[3] }
@@ -3567,7 +3567,7 @@ const DISTRICTS = [
       dem: 41, rep: 59,
       partisanSub: "D 40.6% / R 59.4% in 2024. Haraz N. Ghanbari (R) won.",
       demos: [
-        { label: "White", pct: 87.8, color: DEMO_COLORS[0] },
+        { label: "White", pct: 85.99, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 6.2, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 2.2, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.1, color: DEMO_COLORS[3] }
@@ -3615,7 +3615,7 @@ const DISTRICTS = [
       dem: 28, rep: 72,
       partisanSub: "D 28.1% / R 71.9% in 2024. Marilyn S. John (R) won.",
       demos: [
-        { label: "White", pct: 85.0, color: DEMO_COLORS[0] },
+        { label: "White", pct: 84.16, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 7.4, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 2.2, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.9, color: DEMO_COLORS[3] }
@@ -3663,7 +3663,7 @@ const DISTRICTS = [
       dem: 31, rep: 69,
       partisanSub: "D 30.7% / R 69.3% in 2024. Meredith Craig (R) won.",
       demos: [
-        { label: "White", pct: 93.2, color: DEMO_COLORS[0] },
+        { label: "White", pct: 92.5, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 2.4, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 1.2, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 1.2, color: DEMO_COLORS[3] }
@@ -3711,7 +3711,7 @@ const DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Uncontested in 2024. Matt Huffman (R) ran with no opponent.",
       demos: [
-        { label: "White", pct: 82.4, color: DEMO_COLORS[0] },
+        { label: "White", pct: 81.17, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 9.7, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 3.3, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.8, color: DEMO_COLORS[3] }
@@ -3759,7 +3759,7 @@ const DISTRICTS = [
       dem: 25, rep: 75,
       partisanSub: "D 25.4% / R 74.6% in 2024. Monica Robb Blasdel (R) won.",
       demos: [
-        { label: "White", pct: 93.2, color: DEMO_COLORS[0] },
+        { label: "White", pct: 92.54, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 1.9, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 1.9, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.4, color: DEMO_COLORS[3] }
@@ -3807,7 +3807,7 @@ const DISTRICTS = [
       dem: 25, rep: 75,
       partisanSub: "D 25.1% / R 74.9% in 2024. Johnathan Newman (R) won.",
       demos: [
-        { label: "White", pct: 91.7, color: DEMO_COLORS[0] },
+        { label: "White", pct: 91.09, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 2.0, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 1.8, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.6, color: DEMO_COLORS[3] }
@@ -3855,7 +3855,7 @@ const DISTRICTS = [
       dem: 23, rep: 77,
       partisanSub: "D 23.0% / R 77.0% in 2024. James M. Hoops (R) won.",
       demos: [
-        { label: "White", pct: 91.2, color: DEMO_COLORS[0] },
+        { label: "White", pct: 89.28, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 7.2, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 0.7, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.4, color: DEMO_COLORS[3] }
@@ -3903,7 +3903,7 @@ const DISTRICTS = [
       dem: 21, rep: 79,
       partisanSub: "D 20.6% / R 79.4% in 2024. Roy W. Klopfenstein (R) won.",
       demos: [
-        { label: "White", pct: 91.1, color: DEMO_COLORS[0] },
+        { label: "White", pct: 89.04, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 7.4, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 1.1, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.3, color: DEMO_COLORS[3] }
@@ -3951,7 +3951,7 @@ const DISTRICTS = [
       dem: 25, rep: 75,
       partisanSub: "D 24.9% / R 75.1% in 2024. Ty Mathews (R) won.",
       demos: [
-        { label: "White", pct: 91.4, color: DEMO_COLORS[0] },
+        { label: "White", pct: 89.72, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 4.5, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 1.5, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.5, color: DEMO_COLORS[3] }
@@ -3999,7 +3999,7 @@ const DISTRICTS = [
       dem: 16, rep: 84,
       partisanSub: "D 15.7% / R 84.3% in 2024. Angie King (R) won.",
       demos: [
-        { label: "White", pct: 95.3, color: DEMO_COLORS[0] },
+        { label: "White", pct: 94.71, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 2.0, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 0.7, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.4, color: DEMO_COLORS[3] }
@@ -4047,7 +4047,7 @@ const DISTRICTS = [
       dem: 20, rep: 80,
       partisanSub: "D 19.9% / R 80.1% in 2024. Tim Barhorst (R) won.",
       demos: [
-        { label: "White", pct: 92.3, color: DEMO_COLORS[0] },
+        { label: "White", pct: 91.67, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 2.0, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 1.9, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.7, color: DEMO_COLORS[3] }
@@ -4095,7 +4095,7 @@ const DISTRICTS = [
       dem: 31, rep: 69,
       partisanSub: "D 31.1% / R 68.9% in 2024. Tracy Richardson (R) won.",
       demos: [
-        { label: "White", pct: 86.0, color: DEMO_COLORS[0] },
+        { label: "White", pct: 85.08, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 4.3, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 3.2, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.1, color: DEMO_COLORS[3] }
@@ -4143,7 +4143,7 @@ const DISTRICTS = [
       dem: 24, rep: 76,
       partisanSub: "D 23.5% / R 76.5% in 2024. Riordan T. McClain (R) won.",
       demos: [
-        { label: "White", pct: 95.3, color: DEMO_COLORS[0] },
+        { label: "White", pct: 94.62, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 2.0, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 0.5, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.4, color: DEMO_COLORS[3] }
@@ -4191,7 +4191,7 @@ const DISTRICTS = [
       dem: 33, rep: 67,
       partisanSub: "D 33.4% / R 66.6% in 2024. Gary Click (R) won.",
       demos: [
-        { label: "White", pct: 88.0, color: DEMO_COLORS[0] },
+        { label: "White", pct: 85.3, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 8.2, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 3.0, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.5, color: DEMO_COLORS[3] }
@@ -4239,7 +4239,7 @@ const DISTRICTS = [
       dem: 41, rep: 59,
       partisanSub: "D 41.3% / R 58.7% in 2024. D.J. Swearingen (R) won.",
       demos: [
-        { label: "White", pct: 85.8, color: DEMO_COLORS[0] },
+        { label: "White", pct: 83.52, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 6.0, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 5.3, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.7, color: DEMO_COLORS[3] }
@@ -4287,7 +4287,7 @@ const DISTRICTS = [
       dem: 23, rep: 77,
       partisanSub: "D 23.2% / R 76.8% in 2024. Justin Pizzulli (R) won.",
       demos: [
-        { label: "White", pct: 94.0, color: DEMO_COLORS[0] },
+        { label: "White", pct: 93.16, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 1.8, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 1.4, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.4, color: DEMO_COLORS[3] }
@@ -4335,7 +4335,7 @@ const DISTRICTS = [
       dem: 20, rep: 80,
       partisanSub: "D 20.3% / R 79.7% in 2024. Bob Peterson (R) won.",
       demos: [
-        { label: "White", pct: 94.0, color: DEMO_COLORS[0] },
+        { label: "White", pct: 93.67, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 1.5, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 1.3, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.3, color: DEMO_COLORS[3] }
@@ -4383,7 +4383,7 @@ const DISTRICTS = [
       dem: 28, rep: 72,
       partisanSub: "D 28.4% / R 71.6% in 2024. Mark Johnson (R) won.",
       demos: [
-        { label: "White", pct: 91.2, color: DEMO_COLORS[0] },
+        { label: "White", pct: 90.86, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 3.6, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 1.2, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.4, color: DEMO_COLORS[3] }
@@ -4431,7 +4431,7 @@ const DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Uncontested in 2024. Jason Stephens (R) ran with no opponent.",
       demos: [
-        { label: "White", pct: 94.2, color: DEMO_COLORS[0] },
+        { label: "White", pct: 93.87, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 1.6, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 1.0, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.6, color: DEMO_COLORS[3] }
@@ -4479,7 +4479,7 @@ const DISTRICTS = [
       dem: 31, rep: 69,
       partisanSub: "D 30.6% / R 69.4% in 2024. Kevin Ritter (R) won.",
       demos: [
-        { label: "White", pct: 92.5, color: DEMO_COLORS[0] },
+        { label: "White", pct: 91.34, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 2.0, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 1.7, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.3, color: DEMO_COLORS[3] }
@@ -4527,7 +4527,7 @@ const DISTRICTS = [
       dem: 33, rep: 67,
       partisanSub: "D 32.7% / R 67.3% in 2024. Don Jones (R) won.",
       demos: [
-        { label: "White", pct: 93.7, color: DEMO_COLORS[0] },
+        { label: "White", pct: 93.19, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 2.2, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 1.4, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.4, color: DEMO_COLORS[3] }
@@ -4575,7 +4575,7 @@ const DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Uncontested in 2024. Ron Ferguson (R) ran with no opponent.",
       demos: [
-        { label: "White", pct: 90.9, color: DEMO_COLORS[0] },
+        { label: "White", pct: 90.36, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 4.0, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 1.3, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.6, color: DEMO_COLORS[3] }
@@ -4623,7 +4623,7 @@ const DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Adam P. Holmes (R) ran without a Democratic opponent in 2024.",
       demos: [
-        { label: "White", pct: 91.5, color: DEMO_COLORS[0] },
+        { label: "White", pct: 91.05, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 2.9, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 1.3, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.5, color: DEMO_COLORS[3] }
@@ -4671,7 +4671,7 @@ const DISTRICTS = [
       dem: 25, rep: 75,
       partisanSub: "D 24.5% / R 75.5% in 2024. Mark Hiner (R) won.",
       demos: [
-        { label: "White", pct: 95.3, color: DEMO_COLORS[0] },
+        { label: "White", pct: 94.8, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 1.3, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 0.7, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.5, color: DEMO_COLORS[3] }
@@ -4719,7 +4719,7 @@ const DISTRICTS = [
       dem: 35, rep: 65,
       partisanSub: "D 35.5% / R 64.5% in 2024. Sarah Fowler Arthur (R) won.",
       demos: [
-        { label: "White", pct: 89.9, color: DEMO_COLORS[0] },
+        { label: "White", pct: 87.89, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 4.2, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 3.1, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.5, color: DEMO_COLORS[3] }

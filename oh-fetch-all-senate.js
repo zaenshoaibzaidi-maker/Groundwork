@@ -27,6 +27,7 @@ const VARS = [
   "B02001_005E",
   "B03001_001E",
   "B03001_003E",
+  "B03002_003E",
   "B15003_001E",
   "B15003_022E",
   "B15003_023E",
@@ -66,9 +67,10 @@ async function fetchSenateDistrict(districtNum) {
   const white          = get("B02001_002E");
   const black          = get("B02001_003E");
   const asian          = get("B02001_005E");
-  const hispanicTotal  = get("B03001_001E");
-  const hispanic       = get("B03001_003E");
-  const edu25plus      = get("B15003_001E");
+  const hispanicTotal    = get("B03001_001E");
+  const hispanic         = get("B03001_003E");
+  const nonHispanicWhite = get("B03002_003E");
+  const edu25plus        = get("B15003_001E");
   const bachelors      = get("B15003_022E");
   const masters        = get("B15003_023E");
   const professional   = get("B15003_024E");
@@ -87,10 +89,11 @@ async function fetchSenateDistrict(districtNum) {
       totalPopulation: totalPop,
       collegePct: pct(collegeGrad, edu25plus),
       renterPct: pct(renterOccupied, totalUnits),
-      whitePct: pct(white, totalPop),
-      blackPct: pct(black, totalPop),
-      asianPct: pct(asian, totalPop),
-      hispanicPct: pct(hispanic, hispanicTotal),
+      whitePct:            pct(white, totalPop),
+      nonHispanicWhitePct: pct(nonHispanicWhite, totalPop),
+      blackPct:            pct(black, totalPop),
+      asianPct:            pct(asian, totalPop),
+      hispanicPct:         pct(hispanic, hispanicTotal),
     }
   };
 }
