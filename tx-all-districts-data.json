@@ -1,0 +1,4531 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Texas House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57600,
+        "medianAge": 40.2,
+        "totalPopulation": 194959,
+        "collegePct": 20.2,
+        "renterRatePct": 32.88,
+        "race": {
+          "whitePct": 70.91,
+          "blackPct": 19.56,
+          "asianPct": 1.03,
+          "hispanicPct": 8.19
+        }
+      },
+      "election": {
+        "winner": "GARY VANDEAVER",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Texas House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68747,
+        "medianAge": 39.2,
+        "totalPopulation": 203591,
+        "collegePct": 20.4,
+        "renterRatePct": 26.3,
+        "race": {
+          "whitePct": 79.08,
+          "blackPct": 6.24,
+          "asianPct": 0.86,
+          "hispanicPct": 17.79
+        }
+      },
+      "election": {
+        "winner": "BRENT A. MONEY",
+        "party": "REP",
+        "pct": 80.56,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Texas House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100216,
+        "medianAge": 37.7,
+        "totalPopulation": 212892,
+        "collegePct": 32.41,
+        "renterRatePct": 24.4,
+        "race": {
+          "whitePct": 71.45,
+          "blackPct": 4.33,
+          "asianPct": 2.44,
+          "hispanicPct": 31.19
+        }
+      },
+      "election": {
+        "winner": "CECIL BELL JR",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Texas House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80677,
+        "medianAge": 36,
+        "totalPopulation": 212073,
+        "collegePct": 23.77,
+        "renterRatePct": 23.14,
+        "race": {
+          "whitePct": 64.5,
+          "blackPct": 14.22,
+          "asianPct": 1.49,
+          "hispanicPct": 23.75
+        }
+      },
+      "election": {
+        "winner": "KEITH BELL",
+        "party": "REP",
+        "pct": 69.67,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Texas House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64359,
+        "medianAge": 41.2,
+        "totalPopulation": 189990,
+        "collegePct": 19.67,
+        "renterRatePct": 21.52,
+        "race": {
+          "whitePct": 74.94,
+          "blackPct": 8.26,
+          "asianPct": 0.87,
+          "hispanicPct": 19.31
+        }
+      },
+      "election": {
+        "winner": "COLE HEFNER",
+        "party": "REP",
+        "pct": 98.79,
+        "unopposed": true
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Texas House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70661,
+        "medianAge": 36.8,
+        "totalPopulation": 192423,
+        "collegePct": 29.67,
+        "renterRatePct": 33.57,
+        "race": {
+          "whitePct": 68.13,
+          "blackPct": 17.66,
+          "asianPct": 1.73,
+          "hispanicPct": 20.88
+        }
+      },
+      "election": {
+        "winner": "DANIEL ALDERS",
+        "party": "REP",
+        "pct": 71.83,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Texas House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64370,
+        "medianAge": 37.6,
+        "totalPopulation": 204075,
+        "collegePct": 22.07,
+        "renterRatePct": 34.42,
+        "race": {
+          "whitePct": 62.81,
+          "blackPct": 19.96,
+          "asianPct": 1.04,
+          "hispanicPct": 17.3
+        }
+      },
+      "election": {
+        "winner": "JAY DEAN",
+        "party": "REP",
+        "pct": 74.21,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Texas House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60669,
+        "medianAge": 39.1,
+        "totalPopulation": 195006,
+        "collegePct": 17.35,
+        "renterRatePct": 27.37,
+        "race": {
+          "whitePct": 66.19,
+          "blackPct": 12.69,
+          "asianPct": 0.63,
+          "hispanicPct": 22.61
+        }
+      },
+      "election": {
+        "winner": "CODY HARRIS",
+        "party": "REP",
+        "pct": 81.36,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Texas House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56926,
+        "medianAge": 41.5,
+        "totalPopulation": 202436,
+        "collegePct": 15.46,
+        "renterRatePct": 29.07,
+        "race": {
+          "whitePct": 71.58,
+          "blackPct": 12.19,
+          "asianPct": 0.7,
+          "hispanicPct": 17.16
+        }
+      },
+      "election": {
+        "winner": "TRENT ASHBY",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Texas House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95898,
+        "medianAge": 36.3,
+        "totalPopulation": 203927,
+        "collegePct": 28.6,
+        "renterRatePct": 23.75,
+        "race": {
+          "whitePct": 64.42,
+          "blackPct": 13.24,
+          "asianPct": 0.78,
+          "hispanicPct": 27.63
+        }
+      },
+      "election": {
+        "winner": "BRIAN HARRISON",
+        "party": "REP",
+        "pct": 98.67,
+        "unopposed": true
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Texas House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54979,
+        "medianAge": 37.9,
+        "totalPopulation": 186433,
+        "collegePct": 19.17,
+        "renterRatePct": 28.14,
+        "race": {
+          "whitePct": 69.24,
+          "blackPct": 14.61,
+          "asianPct": 0.62,
+          "hispanicPct": 16.9
+        }
+      },
+      "election": {
+        "winner": "JOANNE SHOFNER",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Texas House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63530,
+        "medianAge": 38.5,
+        "totalPopulation": 206377,
+        "collegePct": 24.49,
+        "renterRatePct": 31.42,
+        "race": {
+          "whitePct": 65.06,
+          "blackPct": 16.59,
+          "asianPct": 1,
+          "hispanicPct": 22.5
+        }
+      },
+      "election": {
+        "winner": "TREY WHARTON",
+        "party": "REP",
+        "pct": 76.84,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Texas House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55303,
+        "medianAge": 38.1,
+        "totalPopulation": 193080,
+        "collegePct": 16.87,
+        "renterRatePct": 31.73,
+        "race": {
+          "whitePct": 62.68,
+          "blackPct": 16.36,
+          "asianPct": 1.18,
+          "hispanicPct": 25.46
+        }
+      },
+      "election": {
+        "winner": "ANGELIA ORR",
+        "party": "REP",
+        "pct": 76.18,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Texas House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55878,
+        "medianAge": 25.5,
+        "totalPopulation": 206983,
+        "collegePct": 43.62,
+        "renterRatePct": 57.51,
+        "race": {
+          "whitePct": 65.54,
+          "blackPct": 10.63,
+          "asianPct": 6.38,
+          "hispanicPct": 27.3
+        }
+      },
+      "election": {
+        "winner": "PAUL DYSON",
+        "party": "REP",
+        "pct": 60.46,
+        "unopposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Texas House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119003,
+        "medianAge": 37.1,
+        "totalPopulation": 208318,
+        "collegePct": 54.5,
+        "renterRatePct": 32.57,
+        "race": {
+          "whitePct": 68.14,
+          "blackPct": 7.32,
+          "asianPct": 6.37,
+          "hispanicPct": 20.76
+        }
+      },
+      "election": {
+        "winner": "STEVE TOTH",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Texas House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80148,
+        "medianAge": 37.5,
+        "totalPopulation": 203944,
+        "collegePct": 29.67,
+        "renterRatePct": 29.33,
+        "race": {
+          "whitePct": 73.82,
+          "blackPct": 6.73,
+          "asianPct": 1.54,
+          "hispanicPct": 27.51
+        }
+      },
+      "election": {
+        "winner": "WILL METCALF",
+        "party": "REP",
+        "pct": 80.36,
+        "unopposed": false
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Texas House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72669,
+        "medianAge": 39,
+        "totalPopulation": 210907,
+        "collegePct": 20.9,
+        "renterRatePct": 23.84,
+        "race": {
+          "whitePct": 61.7,
+          "blackPct": 6.78,
+          "asianPct": 0.6,
+          "hispanicPct": 41.11
+        }
+      },
+      "election": {
+        "winner": "STAN GERDES",
+        "party": "REP",
+        "pct": 66.15,
+        "unopposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Texas House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69385,
+        "medianAge": 36,
+        "totalPopulation": 212670,
+        "collegePct": 15.21,
+        "renterRatePct": 17.68,
+        "race": {
+          "whitePct": 72.21,
+          "blackPct": 6.88,
+          "asianPct": 0.43,
+          "hispanicPct": 26.74
+        }
+      },
+      "election": {
+        "winner": "JANIS HOLT",
+        "party": "REP",
+        "pct": 86.58,
+        "unopposed": false
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Texas House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102838,
+        "medianAge": 46,
+        "totalPopulation": 208868,
+        "collegePct": 45.56,
+        "renterRatePct": 19.23,
+        "race": {
+          "whitePct": 79.77,
+          "blackPct": 1.11,
+          "asianPct": 3,
+          "hispanicPct": 19.69
+        }
+      },
+      "election": {
+        "winner": "ELLEN TROXCLAIR",
+        "party": "REP",
+        "pct": 70.85,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Texas House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104605,
+        "medianAge": 39.3,
+        "totalPopulation": 216843,
+        "collegePct": 44.8,
+        "renterRatePct": 26.2,
+        "race": {
+          "whitePct": 72.01,
+          "blackPct": 4.84,
+          "asianPct": 4.81,
+          "hispanicPct": 22.29
+        }
+      },
+      "election": {
+        "winner": "TERRY M. WILSON",
+        "party": "REP",
+        "pct": 59.76,
+        "unopposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Texas House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72966,
+        "medianAge": 39.1,
+        "totalPopulation": 187572,
+        "collegePct": 21.96,
+        "renterRatePct": 24.43,
+        "race": {
+          "whitePct": 76.06,
+          "blackPct": 10.89,
+          "asianPct": 1.71,
+          "hispanicPct": 11.24
+        }
+      },
+      "election": {
+        "winner": "DADE PHELAN",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Texas House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53243,
+        "medianAge": 36.2,
+        "totalPopulation": 184167,
+        "collegePct": 14.75,
+        "renterRatePct": 43.62,
+        "race": {
+          "whitePct": 33.96,
+          "blackPct": 41.34,
+          "asianPct": 3.89,
+          "hispanicPct": 26.43
+        }
+      },
+      "election": {
+        "winner": "CHRISTIAN MANUEL",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Texas House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76275,
+        "medianAge": 37.1,
+        "totalPopulation": 206042,
+        "collegePct": 26.92,
+        "renterRatePct": 37.19,
+        "race": {
+          "whitePct": 62.93,
+          "blackPct": 13.21,
+          "asianPct": 2.41,
+          "hispanicPct": 29.34
+        }
+      },
+      "election": {
+        "winner": "TERRI LEO WILSON",
+        "party": "REP",
+        "pct": 66.87,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Texas House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102492,
+        "medianAge": 39,
+        "totalPopulation": 197857,
+        "collegePct": 39.24,
+        "renterRatePct": 24.13,
+        "race": {
+          "whitePct": 68.05,
+          "blackPct": 10.2,
+          "asianPct": 3.85,
+          "hispanicPct": 22.08
+        }
+      },
+      "election": {
+        "winner": "GREG BONNEN",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Texas House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94342,
+        "medianAge": 36.7,
+        "totalPopulation": 194754,
+        "collegePct": 30.08,
+        "renterRatePct": 26.16,
+        "race": {
+          "whitePct": 52.15,
+          "blackPct": 19.01,
+          "asianPct": 6.91,
+          "hispanicPct": 28.98
+        }
+      },
+      "election": {
+        "winner": "CODY THANE VASUT",
+        "party": "REP",
+        "pct": 61.04,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Texas House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 137496,
+        "medianAge": 37.7,
+        "totalPopulation": 210184,
+        "collegePct": 58.66,
+        "renterRatePct": 24.64,
+        "race": {
+          "whitePct": 47.22,
+          "blackPct": 11.69,
+          "asianPct": 18.65,
+          "hispanicPct": 25.76
+        }
+      },
+      "election": {
+        "winner": "MATT MORGAN",
+        "party": "REP",
+        "pct": 59.17,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Texas House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95486,
+        "medianAge": 37.3,
+        "totalPopulation": 194547,
+        "collegePct": 39.52,
+        "renterRatePct": 23.02,
+        "race": {
+          "whitePct": 25.42,
+          "blackPct": 38.45,
+          "asianPct": 14.69,
+          "hispanicPct": 24.86
+        }
+      },
+      "election": {
+        "winner": "RONALD REYNOLDS",
+        "party": "DEM",
+        "pct": 69.81,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Texas House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 122676,
+        "medianAge": 37,
+        "totalPopulation": 221616,
+        "collegePct": 50.1,
+        "renterRatePct": 19.11,
+        "race": {
+          "whitePct": 46.26,
+          "blackPct": 11.69,
+          "asianPct": 20.12,
+          "hispanicPct": 27.4
+        }
+      },
+      "election": {
+        "winner": "GARY GATES",
+        "party": "REP",
+        "pct": 60.55,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Texas House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96256,
+        "medianAge": 36.3,
+        "totalPopulation": 186896,
+        "collegePct": 34.26,
+        "renterRatePct": 25.83,
+        "race": {
+          "whitePct": 54.9,
+          "blackPct": 12.43,
+          "asianPct": 7.72,
+          "hispanicPct": 33.86
+        }
+      },
+      "election": {
+        "winner": "JEFFREY BARRY",
+        "party": "REP",
+        "pct": 61.52,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Texas House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64659,
+        "medianAge": 38.5,
+        "totalPopulation": 190064,
+        "collegePct": 19.64,
+        "renterRatePct": 30.1,
+        "race": {
+          "whitePct": 63.34,
+          "blackPct": 6.63,
+          "asianPct": 1.19,
+          "hispanicPct": 40.73
+        }
+      },
+      "election": {
+        "winner": "AJ LOUDERBACK",
+        "party": "REP",
+        "pct": 76.96,
+        "unopposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Texas House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52899,
+        "medianAge": 34.7,
+        "totalPopulation": 186657,
+        "collegePct": 17.09,
+        "renterRatePct": 25.24,
+        "race": {
+          "whitePct": 56.58,
+          "blackPct": 1.55,
+          "asianPct": 0.4,
+          "hispanicPct": 71.89
+        }
+      },
+      "election": {
+        "winner": "RYAN GUILLEN",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Texas House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77308,
+        "medianAge": 37,
+        "totalPopulation": 191214,
+        "collegePct": 33.9,
+        "renterRatePct": 37.59,
+        "race": {
+          "whitePct": 62.86,
+          "blackPct": 3.06,
+          "asianPct": 3.84,
+          "hispanicPct": 45.9
+        }
+      },
+      "election": {
+        "winner": "TODD HUNTER",
+        "party": "REP",
+        "pct": 68.69,
+        "unopposed": false
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Texas House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118399,
+        "medianAge": 36.9,
+        "totalPopulation": 201888,
+        "collegePct": 48.69,
+        "renterRatePct": 29.73,
+        "race": {
+          "whitePct": 63.35,
+          "blackPct": 9.25,
+          "asianPct": 10.08,
+          "hispanicPct": 19.38
+        }
+      },
+      "election": {
+        "winner": "KATRINA PIERSON",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Texas House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53691,
+        "medianAge": 37.9,
+        "totalPopulation": 186064,
+        "collegePct": 13.55,
+        "renterRatePct": 39.88,
+        "race": {
+          "whitePct": 49.88,
+          "blackPct": 4.59,
+          "asianPct": 0.67,
+          "hispanicPct": 74.12
+        }
+      },
+      "election": {
+        "winner": "DENISE VILLALOBOS",
+        "party": "REP",
+        "pct": 55.37,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Texas House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45371,
+        "medianAge": 27.1,
+        "totalPopulation": 195042,
+        "collegePct": 12.19,
+        "renterRatePct": 21.64,
+        "race": {
+          "whitePct": 36.98,
+          "blackPct": 0.17,
+          "asianPct": 0.15,
+          "hispanicPct": 96.27
+        }
+      },
+      "election": {
+        "winner": "OSCAR LONGORIA",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Texas House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50791,
+        "medianAge": 31.8,
+        "totalPopulation": 188220,
+        "collegePct": 19.8,
+        "renterRatePct": 29.16,
+        "race": {
+          "whitePct": 34.09,
+          "blackPct": 0.78,
+          "asianPct": 0.73,
+          "hispanicPct": 93.48
+        }
+      },
+      "election": {
+        "winner": "SERGIO MUÑOZ JR",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Texas House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56479,
+        "medianAge": 35.3,
+        "totalPopulation": 186138,
+        "collegePct": 20.57,
+        "renterRatePct": 31.72,
+        "race": {
+          "whitePct": 55.66,
+          "blackPct": 1.22,
+          "asianPct": 0.73,
+          "hispanicPct": 82.29
+        }
+      },
+      "election": {
+        "winner": "JANIE LOPEZ",
+        "party": "REP",
+        "pct": 55.01,
+        "unopposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Texas House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46881,
+        "medianAge": 30.8,
+        "totalPopulation": 186710,
+        "collegePct": 20.9,
+        "renterRatePct": 41.71,
+        "race": {
+          "whitePct": 46.63,
+          "blackPct": 0.28,
+          "asianPct": 0.9,
+          "hispanicPct": 94.23
+        }
+      },
+      "election": {
+        "winner": "ERIN ELIZABETH GAMEZ",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Texas House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47155,
+        "medianAge": 29.5,
+        "totalPopulation": 189024,
+        "collegePct": 15.01,
+        "renterRatePct": 28.8,
+        "race": {
+          "whitePct": 47.06,
+          "blackPct": 0.56,
+          "asianPct": 0.09,
+          "hispanicPct": 92.22
+        }
+      },
+      "election": {
+        "winner": "ARMANDO \"MANDO\" MARTINEZ",
+        "party": "DEM",
+        "pct": 60.9,
+        "unopposed": false
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Texas House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52412,
+        "medianAge": 29.4,
+        "totalPopulation": 191135,
+        "collegePct": 18.94,
+        "renterRatePct": 35.12,
+        "race": {
+          "whitePct": 38.24,
+          "blackPct": 0.93,
+          "asianPct": 1.08,
+          "hispanicPct": 92.33
+        }
+      },
+      "election": {
+        "winner": "TERRY CANALES",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Texas House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62244,
+        "medianAge": 33.8,
+        "totalPopulation": 188062,
+        "collegePct": 32.93,
+        "renterRatePct": 41.36,
+        "race": {
+          "whitePct": 43.78,
+          "blackPct": 0.8,
+          "asianPct": 2.76,
+          "hispanicPct": 86.02
+        }
+      },
+      "election": {
+        "winner": "BOBBY GUERRA",
+        "party": "DEM",
+        "pct": 53.47,
+        "unopposed": false
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Texas House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66363,
+        "medianAge": 31.8,
+        "totalPopulation": 183096,
+        "collegePct": 25.28,
+        "renterRatePct": 40.32,
+        "race": {
+          "whitePct": 38.28,
+          "blackPct": 0.58,
+          "asianPct": 0.56,
+          "hispanicPct": 94.2
+        }
+      },
+      "election": {
+        "winner": "RICHARD PENA RAYMOND",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Texas House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60343,
+        "medianAge": 35.7,
+        "totalPopulation": 196625,
+        "collegePct": 16.58,
+        "renterRatePct": 33.22,
+        "race": {
+          "whitePct": 64.35,
+          "blackPct": 2.72,
+          "asianPct": 1.28,
+          "hispanicPct": 63.09
+        }
+      },
+      "election": {
+        "winner": "J.M. LOZANO",
+        "party": "REP",
+        "pct": 66.73,
+        "unopposed": false
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Texas House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89348,
+        "medianAge": 37.6,
+        "totalPopulation": 198132,
+        "collegePct": 29.13,
+        "renterRatePct": 22.45,
+        "race": {
+          "whitePct": 61.01,
+          "blackPct": 7.8,
+          "asianPct": 1.62,
+          "hispanicPct": 39.7
+        }
+      },
+      "election": {
+        "winner": "ALAN SCHOOLCRAFT",
+        "party": "REP",
+        "pct": 65.12,
+        "unopposed": false
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Texas House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80353,
+        "medianAge": 31.8,
+        "totalPopulation": 214483,
+        "collegePct": 38.88,
+        "renterRatePct": 39.54,
+        "race": {
+          "whitePct": 63.4,
+          "blackPct": 4.73,
+          "asianPct": 1.87,
+          "hispanicPct": 43.83
+        }
+      },
+      "election": {
+        "winner": "ERIN ZWIENER",
+        "party": "DEM",
+        "pct": 56.76,
+        "unopposed": false
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Texas House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104361,
+        "medianAge": 34.6,
+        "totalPopulation": 220173,
+        "collegePct": 45.3,
+        "renterRatePct": 31.37,
+        "race": {
+          "whitePct": 47.74,
+          "blackPct": 15.94,
+          "asianPct": 5.58,
+          "hispanicPct": 39.14
+        }
+      },
+      "election": {
+        "winner": "SHERYL COLE",
+        "party": "DEM",
+        "pct": 73.24,
+        "unopposed": false
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Texas House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 139756,
+        "medianAge": 40,
+        "totalPopulation": 205371,
+        "collegePct": 69.16,
+        "renterRatePct": 36.27,
+        "race": {
+          "whitePct": 69.66,
+          "blackPct": 4.14,
+          "asianPct": 12.39,
+          "hispanicPct": 15.97
+        }
+      },
+      "election": {
+        "winner": "VIKKI GOODWIN",
+        "party": "DEM",
+        "pct": 60.17,
+        "unopposed": false
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Texas House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106767,
+        "medianAge": 38.8,
+        "totalPopulation": 202478,
+        "collegePct": 66.33,
+        "renterRatePct": 43.58,
+        "race": {
+          "whitePct": 71.66,
+          "blackPct": 3.85,
+          "asianPct": 7.24,
+          "hispanicPct": 24.96
+        }
+      },
+      "election": {
+        "winner": "DONNA HOWARD",
+        "party": "DEM",
+        "pct": 83,
+        "unopposed": false
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Texas House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85724,
+        "medianAge": 32.5,
+        "totalPopulation": 201539,
+        "collegePct": 65.06,
+        "renterRatePct": 62.37,
+        "race": {
+          "whitePct": 68.37,
+          "blackPct": 4.62,
+          "asianPct": 6.42,
+          "hispanicPct": 28.04
+        }
+      },
+      "election": {
+        "winner": "GINA HINOJOSA",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Texas House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76336,
+        "medianAge": 33.5,
+        "totalPopulation": 210048,
+        "collegePct": 42.42,
+        "renterRatePct": 61.33,
+        "race": {
+          "whitePct": 45.28,
+          "blackPct": 14.61,
+          "asianPct": 10.45,
+          "hispanicPct": 39.94
+        }
+      },
+      "election": {
+        "winner": "JAMES TALARICO",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Texas House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81532,
+        "medianAge": 33,
+        "totalPopulation": 196393,
+        "collegePct": 42.71,
+        "renterRatePct": 55.26,
+        "race": {
+          "whitePct": 50.91,
+          "blackPct": 7.25,
+          "asianPct": 3.28,
+          "hispanicPct": 53.6
+        }
+      },
+      "election": {
+        "winner": "MARIA LUISA \"LULU\" FLORES",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Texas House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 126742,
+        "medianAge": 37.2,
+        "totalPopulation": 222258,
+        "collegePct": 47.03,
+        "renterRatePct": 20.12,
+        "race": {
+          "whitePct": 63.38,
+          "blackPct": 6.93,
+          "asianPct": 8.34,
+          "hispanicPct": 25.4
+        }
+      },
+      "election": {
+        "winner": "CAROLINE HARRIS DAVILA",
+        "party": "REP",
+        "pct": 56.24,
+        "unopposed": false
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Texas House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68410,
+        "medianAge": 45.8,
+        "totalPopulation": 202679,
+        "collegePct": 25.38,
+        "renterRatePct": 23,
+        "race": {
+          "whitePct": 71.87,
+          "blackPct": 1.91,
+          "asianPct": 0.78,
+          "hispanicPct": 36.98
+        }
+      },
+      "election": {
+        "winner": "WES VIRDELL",
+        "party": "REP",
+        "pct": 76.59,
+        "unopposed": false
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Texas House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61057,
+        "medianAge": 30.8,
+        "totalPopulation": 187766,
+        "collegePct": 24.38,
+        "renterRatePct": 47.8,
+        "race": {
+          "whitePct": 47.72,
+          "blackPct": 27.85,
+          "asianPct": 3.07,
+          "hispanicPct": 24.27
+        }
+      },
+      "election": {
+        "winner": "BRAD BUCKLEY",
+        "party": "REP",
+        "pct": 61.09,
+        "unopposed": false
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Texas House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71230,
+        "medianAge": 33.3,
+        "totalPopulation": 192045,
+        "collegePct": 29.81,
+        "renterRatePct": 39.86,
+        "race": {
+          "whitePct": 56.29,
+          "blackPct": 18.9,
+          "asianPct": 2.83,
+          "hispanicPct": 27.31
+        }
+      },
+      "election": {
+        "winner": "HILLARY HICKLAND",
+        "party": "REP",
+        "pct": 57.41,
+        "unopposed": false
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Texas House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72039,
+        "medianAge": 35.3,
+        "totalPopulation": 200866,
+        "collegePct": 31.44,
+        "renterRatePct": 35.84,
+        "race": {
+          "whitePct": 69.63,
+          "blackPct": 9.62,
+          "asianPct": 1.79,
+          "hispanicPct": 23.91
+        }
+      },
+      "election": {
+        "winner": "PAT CURRY",
+        "party": "REP",
+        "pct": 68.59,
+        "unopposed": false
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Texas House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119041,
+        "medianAge": 36.6,
+        "totalPopulation": 191251,
+        "collegePct": 43.15,
+        "renterRatePct": 21.79,
+        "race": {
+          "whitePct": 61.72,
+          "blackPct": 13.05,
+          "asianPct": 6.84,
+          "hispanicPct": 21.6
+        }
+      },
+      "election": {
+        "winner": "RICHARD HAYES",
+        "party": "REP",
+        "pct": 58.27,
+        "unopposed": false
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Texas House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81855,
+        "medianAge": 37.4,
+        "totalPopulation": 198330,
+        "collegePct": 23.62,
+        "renterRatePct": 25.13,
+        "race": {
+          "whitePct": 76.31,
+          "blackPct": 4.74,
+          "asianPct": 1.06,
+          "hispanicPct": 24.26
+        }
+      },
+      "election": {
+        "winner": "HELEN KERWIN",
+        "party": "REP",
+        "pct": 82.06,
+        "unopposed": false
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Texas House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72500,
+        "medianAge": 36.4,
+        "totalPopulation": 199534,
+        "collegePct": 26.49,
+        "renterRatePct": 31.03,
+        "race": {
+          "whitePct": 74.61,
+          "blackPct": 6.55,
+          "asianPct": 1.29,
+          "hispanicPct": 18.14
+        }
+      },
+      "election": {
+        "winner": "SHELBY SLAWSON",
+        "party": "REP",
+        "pct": 80.67,
+        "unopposed": false
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Texas House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92546,
+        "medianAge": 39.6,
+        "totalPopulation": 196277,
+        "collegePct": 29.02,
+        "renterRatePct": 20.16,
+        "race": {
+          "whitePct": 84.25,
+          "blackPct": 1.67,
+          "asianPct": 0.82,
+          "hispanicPct": 15.5
+        }
+      },
+      "election": {
+        "winner": "MIKE OLCOTT",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Texas House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 150188,
+        "medianAge": 37.1,
+        "totalPopulation": 217702,
+        "collegePct": 60.63,
+        "renterRatePct": 22.64,
+        "race": {
+          "whitePct": 56.27,
+          "blackPct": 9.66,
+          "asianPct": 20.94,
+          "hispanicPct": 13.71
+        }
+      },
+      "election": {
+        "winner": "KERESA RICHARDSON",
+        "party": "REP",
+        "pct": 59.62,
+        "unopposed": false
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Texas House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69793,
+        "medianAge": 40,
+        "totalPopulation": 192380,
+        "collegePct": 23.23,
+        "renterRatePct": 30.11,
+        "race": {
+          "whitePct": 79.6,
+          "blackPct": 5.64,
+          "asianPct": 1.06,
+          "hispanicPct": 14.96
+        }
+      },
+      "election": {
+        "winner": "SHELLEY LUTHER",
+        "party": "REP",
+        "pct": 77.71,
+        "unopposed": false
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Texas House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103339,
+        "medianAge": 38.4,
+        "totalPopulation": 203078,
+        "collegePct": 48.56,
+        "renterRatePct": 41.77,
+        "race": {
+          "whitePct": 58.63,
+          "blackPct": 9.53,
+          "asianPct": 12.26,
+          "hispanicPct": 22.95
+        }
+      },
+      "election": {
+        "winner": "BEN BUMGARNER",
+        "party": "REP",
+        "pct": 55.66,
+        "unopposed": false
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Texas House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76511,
+        "medianAge": 33.9,
+        "totalPopulation": 204527,
+        "collegePct": 33.03,
+        "renterRatePct": 40.51,
+        "race": {
+          "whitePct": 72.19,
+          "blackPct": 7.79,
+          "asianPct": 2.6,
+          "hispanicPct": 21.51
+        }
+      },
+      "election": {
+        "winner": "ANDY HOPPER",
+        "party": "REP",
+        "pct": 63.12,
+        "unopposed": false
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Texas House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112396,
+        "medianAge": 37.4,
+        "totalPopulation": 212657,
+        "collegePct": 51.55,
+        "renterRatePct": 38.78,
+        "race": {
+          "whitePct": 59.03,
+          "blackPct": 10.21,
+          "asianPct": 12.37,
+          "hispanicPct": 19.72
+        }
+      },
+      "election": {
+        "winner": "MITCH LITTLE",
+        "party": "REP",
+        "pct": 60.3,
+        "unopposed": false
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "Texas House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 126343,
+        "medianAge": 38.2,
+        "totalPopulation": 210226,
+        "collegePct": 63.32,
+        "renterRatePct": 43.08,
+        "race": {
+          "whitePct": 58.28,
+          "blackPct": 9.11,
+          "asianPct": 19.16,
+          "hispanicPct": 13.21
+        }
+      },
+      "election": {
+        "winner": "MATT SHAHEEN",
+        "party": "REP",
+        "pct": 61.11,
+        "unopposed": false
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "Texas House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103565,
+        "medianAge": 37,
+        "totalPopulation": 206781,
+        "collegePct": 45.62,
+        "renterRatePct": 35.52,
+        "race": {
+          "whitePct": 62.11,
+          "blackPct": 10.98,
+          "asianPct": 12.66,
+          "hispanicPct": 18.73
+        }
+      },
+      "election": {
+        "winner": "JEFF LEACH",
+        "party": "REP",
+        "pct": 60.23,
+        "unopposed": false
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "Texas House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63421,
+        "medianAge": 42.1,
+        "totalPopulation": 196910,
+        "collegePct": 21.57,
+        "renterRatePct": 26.17,
+        "race": {
+          "whitePct": 80.83,
+          "blackPct": 2.49,
+          "asianPct": 0.56,
+          "hispanicPct": 20.07
+        }
+      },
+      "election": {
+        "winner": "DAVID SPILLER",
+        "party": "REP",
+        "pct": 87.17,
+        "unopposed": false
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "Texas House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62050,
+        "medianAge": 37.6,
+        "totalPopulation": 186137,
+        "collegePct": 23.6,
+        "renterRatePct": 34.37,
+        "race": {
+          "whitePct": 75.64,
+          "blackPct": 8.2,
+          "asianPct": 1.89,
+          "hispanicPct": 20.15
+        }
+      },
+      "election": {
+        "winner": "JAMES B FRANK",
+        "party": "REP",
+        "pct": 78.68,
+        "unopposed": false
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "Texas House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95674,
+        "medianAge": 37.6,
+        "totalPopulation": 190227,
+        "collegePct": 59.02,
+        "renterRatePct": 51.79,
+        "race": {
+          "whitePct": 51.07,
+          "blackPct": 11.38,
+          "asianPct": 22.75,
+          "hispanicPct": 15.6
+        }
+      },
+      "election": {
+        "winner": "MIHAELA ELIZABETH PLESA",
+        "party": "DEM",
+        "pct": 52.22,
+        "unopposed": false
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "Texas House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64924,
+        "medianAge": 34.7,
+        "totalPopulation": 192809,
+        "collegePct": 25.26,
+        "renterRatePct": 36.31,
+        "race": {
+          "whitePct": 70.96,
+          "blackPct": 7.54,
+          "asianPct": 1.78,
+          "hispanicPct": 25.03
+        }
+      },
+      "election": {
+        "winner": "STAN LAMBERT",
+        "party": "REP",
+        "pct": 81.03,
+        "unopposed": false
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "Texas House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66005,
+        "medianAge": 37,
+        "totalPopulation": 183936,
+        "collegePct": 22.25,
+        "renterRatePct": 31.33,
+        "race": {
+          "whitePct": 69.53,
+          "blackPct": 3.97,
+          "asianPct": 1.19,
+          "hispanicPct": 39.77
+        }
+      },
+      "election": {
+        "winner": "DREW DARBY",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "Texas House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101381,
+        "medianAge": 42.9,
+        "totalPopulation": 216498,
+        "collegePct": 44.68,
+        "renterRatePct": 22.22,
+        "race": {
+          "whitePct": 76.27,
+          "blackPct": 2.21,
+          "asianPct": 1.71,
+          "hispanicPct": 25.32
+        }
+      },
+      "election": {
+        "winner": "CARRIE ISAAC",
+        "party": "REP",
+        "pct": 71.48,
+        "unopposed": false
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "Texas House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57825,
+        "medianAge": 32.1,
+        "totalPopulation": 203792,
+        "collegePct": 20.36,
+        "renterRatePct": 29.01,
+        "race": {
+          "whitePct": 46.9,
+          "blackPct": 1.59,
+          "asianPct": 0.73,
+          "hispanicPct": 82.45
+        }
+      },
+      "election": {
+        "winner": "EDDIE MORALES JR",
+        "party": "DEM",
+        "pct": 51.67,
+        "unopposed": false
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "Texas House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66796,
+        "medianAge": 30.8,
+        "totalPopulation": 199893,
+        "collegePct": 20.87,
+        "renterRatePct": 16.33,
+        "race": {
+          "whitePct": 38.84,
+          "blackPct": 2.31,
+          "asianPct": 0.42,
+          "hispanicPct": 90.2
+        }
+      },
+      "election": {
+        "winner": "MARY E. GONZALEZ",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "Texas House District 76",
+      "census": {
+        "censusName": "State House District 76 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99804,
+        "medianAge": 36.4,
+        "totalPopulation": 204880,
+        "collegePct": 45.94,
+        "renterRatePct": 24.92,
+        "race": {
+          "whitePct": 28.49,
+          "blackPct": 23.54,
+          "asianPct": 30.09,
+          "hispanicPct": 21.56
+        }
+      },
+      "election": {
+        "winner": "SULEMAN LALANI",
+        "party": "DEM",
+        "pct": 56.5,
+        "unopposed": false
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "Texas House District 77",
+      "census": {
+        "censusName": "State House District 77 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 39273,
+        "medianAge": 35.6,
+        "totalPopulation": 199084,
+        "collegePct": 18.1,
+        "renterRatePct": 52.54,
+        "race": {
+          "whitePct": 37.27,
+          "blackPct": 2.13,
+          "asianPct": 0.93,
+          "hispanicPct": 87.94
+        }
+      },
+      "election": {
+        "winner": "VINCENT \"VINCE\" PEREZ",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "Texas House District 78",
+      "census": {
+        "censusName": "State House District 78 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70428,
+        "medianAge": 35.8,
+        "totalPopulation": 204418,
+        "collegePct": 36.01,
+        "renterRatePct": 33.21,
+        "race": {
+          "whitePct": 39.87,
+          "blackPct": 3.99,
+          "asianPct": 2.41,
+          "hispanicPct": 73.9
+        }
+      },
+      "election": {
+        "winner": "JOE MOODY",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "Texas House District 79",
+      "census": {
+        "censusName": "State House District 79 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61299,
+        "medianAge": 32.8,
+        "totalPopulation": 204474,
+        "collegePct": 26.52,
+        "renterRatePct": 42.39,
+        "race": {
+          "whitePct": 39.89,
+          "blackPct": 4.63,
+          "asianPct": 1.3,
+          "hispanicPct": 79.19
+        }
+      },
+      "election": {
+        "winner": "CLAUDIA ORDAZ",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "Texas House District 80",
+      "census": {
+        "censusName": "State House District 80 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56395,
+        "medianAge": 30.9,
+        "totalPopulation": 195561,
+        "collegePct": 13.18,
+        "renterRatePct": 27.52,
+        "race": {
+          "whitePct": 45.67,
+          "blackPct": 1.07,
+          "asianPct": 0.71,
+          "hispanicPct": 82.99
+        }
+      },
+      "election": {
+        "winner": "DON MCLAUGHLIN JR",
+        "party": "REP",
+        "pct": 59.49,
+        "unopposed": false
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "Texas House District 81",
+      "census": {
+        "censusName": "State House District 81 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71674,
+        "medianAge": 31.6,
+        "totalPopulation": 182055,
+        "collegePct": 15.97,
+        "renterRatePct": 33.84,
+        "race": {
+          "whitePct": 54.23,
+          "blackPct": 5.13,
+          "asianPct": 1.24,
+          "hispanicPct": 61.79
+        }
+      },
+      "election": {
+        "winner": "BROOKS LANDGRAF",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "Texas House District 82",
+      "census": {
+        "censusName": "State House District 82 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90974,
+        "medianAge": 32.8,
+        "totalPopulation": 189037,
+        "collegePct": 29.47,
+        "renterRatePct": 31.74,
+        "race": {
+          "whitePct": 59.99,
+          "blackPct": 7.07,
+          "asianPct": 1.99,
+          "hispanicPct": 45.49
+        }
+      },
+      "election": {
+        "winner": "TOM CRADDICK",
+        "party": "REP",
+        "pct": 82.73,
+        "unopposed": false
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "Texas House District 83",
+      "census": {
+        "censusName": "State House District 83 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74395,
+        "medianAge": 36.9,
+        "totalPopulation": 187585,
+        "collegePct": 29.6,
+        "renterRatePct": 28.15,
+        "race": {
+          "whitePct": 70.8,
+          "blackPct": 3.98,
+          "asianPct": 1.22,
+          "hispanicPct": 35.23
+        }
+      },
+      "election": {
+        "winner": "DUSTIN BURROWS",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "Texas House District 84",
+      "census": {
+        "censusName": "State House District 84 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54586,
+        "medianAge": 28.9,
+        "totalPopulation": 188928,
+        "collegePct": 30.95,
+        "renterRatePct": 54.87,
+        "race": {
+          "whitePct": 62.37,
+          "blackPct": 9.63,
+          "asianPct": 2.95,
+          "hispanicPct": 39.9
+        }
+      },
+      "election": {
+        "winner": "CARL H. TEPPER",
+        "party": "REP",
+        "pct": 64.1,
+        "unopposed": false
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "Texas House District 85",
+      "census": {
+        "censusName": "State House District 85 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77304,
+        "medianAge": 38.6,
+        "totalPopulation": 205831,
+        "collegePct": 30.07,
+        "renterRatePct": 23.83,
+        "race": {
+          "whitePct": 57.32,
+          "blackPct": 14.42,
+          "asianPct": 7.41,
+          "hispanicPct": 29
+        }
+      },
+      "election": {
+        "winner": "STAN KITZMAN",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "Texas House District 86",
+      "census": {
+        "censusName": "State House District 86 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76725,
+        "medianAge": 36.3,
+        "totalPopulation": 188497,
+        "collegePct": 28.46,
+        "renterRatePct": 31.29,
+        "race": {
+          "whitePct": 74.17,
+          "blackPct": 3.27,
+          "asianPct": 1.52,
+          "hispanicPct": 32.19
+        }
+      },
+      "election": {
+        "winner": "JOHN SMITHEE",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "Texas House District 87",
+      "census": {
+        "censusName": "State House District 87 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56299,
+        "medianAge": 35,
+        "totalPopulation": 184515,
+        "collegePct": 17.59,
+        "renterRatePct": 37.66,
+        "race": {
+          "whitePct": 64.93,
+          "blackPct": 7.51,
+          "asianPct": 3.61,
+          "hispanicPct": 40.04
+        }
+      },
+      "election": {
+        "winner": "CAROLINE FAIRLY",
+        "party": "REP",
+        "pct": 79.22,
+        "unopposed": false
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "Texas House District 88",
+      "census": {
+        "censusName": "State House District 88 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60613,
+        "medianAge": 35.1,
+        "totalPopulation": 185465,
+        "collegePct": 16.13,
+        "renterRatePct": 28.6,
+        "race": {
+          "whitePct": 67.63,
+          "blackPct": 3.48,
+          "asianPct": 0.63,
+          "hispanicPct": 48.37
+        }
+      },
+      "election": {
+        "winner": "KEN KING",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "Texas House District 89",
+      "census": {
+        "censusName": "State House District 89 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116766,
+        "medianAge": 36.8,
+        "totalPopulation": 206708,
+        "collegePct": 45.33,
+        "renterRatePct": 18.32,
+        "race": {
+          "whitePct": 58.54,
+          "blackPct": 12.7,
+          "asianPct": 12.25,
+          "hispanicPct": 17.8
+        }
+      },
+      "election": {
+        "winner": "CANDY NOBLE",
+        "party": "REP",
+        "pct": 60.63,
+        "unopposed": false
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "Texas House District 90",
+      "census": {
+        "censusName": "State House District 90 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61791,
+        "medianAge": 32.8,
+        "totalPopulation": 203753,
+        "collegePct": 17.45,
+        "renterRatePct": 43.73,
+        "race": {
+          "whitePct": 35.57,
+          "blackPct": 12.85,
+          "asianPct": 2.57,
+          "hispanicPct": 64.69
+        }
+      },
+      "election": {
+        "winner": "RAMON ROMERO JR",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "Texas House District 91",
+      "census": {
+        "censusName": "State House District 91 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81412,
+        "medianAge": 37,
+        "totalPopulation": 187903,
+        "collegePct": 28.12,
+        "renterRatePct": 36.68,
+        "race": {
+          "whitePct": 63.69,
+          "blackPct": 8.27,
+          "asianPct": 6.25,
+          "hispanicPct": 26.49
+        }
+      },
+      "election": {
+        "winner": "DAVID LOWE",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "Texas House District 92",
+      "census": {
+        "censusName": "State House District 92 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60964,
+        "medianAge": 32.1,
+        "totalPopulation": 183147,
+        "collegePct": 32.74,
+        "renterRatePct": 69.07,
+        "race": {
+          "whitePct": 36.02,
+          "blackPct": 25.98,
+          "asianPct": 9.08,
+          "hispanicPct": 34.19
+        }
+      },
+      "election": {
+        "winner": "SALMAN BHOJANI",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "Texas House District 93",
+      "census": {
+        "censusName": "State House District 93 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106685,
+        "medianAge": 34.1,
+        "totalPopulation": 200405,
+        "collegePct": 41.94,
+        "renterRatePct": 31.83,
+        "race": {
+          "whitePct": 59.37,
+          "blackPct": 12.38,
+          "asianPct": 8.65,
+          "hispanicPct": 21.37
+        }
+      },
+      "election": {
+        "winner": "NATE SCHATZLINE",
+        "party": "REP",
+        "pct": 60.55,
+        "unopposed": false
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "Texas House District 94",
+      "census": {
+        "censusName": "State House District 94 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82472,
+        "medianAge": 38.2,
+        "totalPopulation": 185392,
+        "collegePct": 37.29,
+        "renterRatePct": 37.16,
+        "race": {
+          "whitePct": 60.56,
+          "blackPct": 13.46,
+          "asianPct": 5.64,
+          "hispanicPct": 23.88
+        }
+      },
+      "election": {
+        "winner": "TONY TINDERHOLT",
+        "party": "REP",
+        "pct": 55.62,
+        "unopposed": false
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "Texas House District 95",
+      "census": {
+        "censusName": "State House District 95 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57605,
+        "medianAge": 32.2,
+        "totalPopulation": 205843,
+        "collegePct": 19,
+        "renterRatePct": 49.28,
+        "race": {
+          "whitePct": 29.38,
+          "blackPct": 37.07,
+          "asianPct": 3,
+          "hispanicPct": 39.02
+        }
+      },
+      "election": {
+        "winner": "NICOLE COLLIER",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "Texas House District 96",
+      "census": {
+        "censusName": "State House District 96 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102230,
+        "medianAge": 37.7,
+        "totalPopulation": 197981,
+        "collegePct": 36.6,
+        "renterRatePct": 27.24,
+        "race": {
+          "whitePct": 58.77,
+          "blackPct": 19.33,
+          "asianPct": 4.58,
+          "hispanicPct": 19.57
+        }
+      },
+      "election": {
+        "winner": "DAVID COOK",
+        "party": "REP",
+        "pct": 57.37,
+        "unopposed": false
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "Texas House District 97",
+      "census": {
+        "censusName": "State House District 97 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83853,
+        "medianAge": 35.2,
+        "totalPopulation": 192182,
+        "collegePct": 43.8,
+        "renterRatePct": 39.92,
+        "race": {
+          "whitePct": 64.32,
+          "blackPct": 12.37,
+          "asianPct": 3.93,
+          "hispanicPct": 24.08
+        }
+      },
+      "election": {
+        "winner": "JOHN MCQUEENEY",
+        "party": "REP",
+        "pct": 58.07,
+        "unopposed": false
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "Texas House District 98",
+      "census": {
+        "censusName": "State House District 98 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 142151,
+        "medianAge": 41.5,
+        "totalPopulation": 184426,
+        "collegePct": 60.49,
+        "renterRatePct": 32.59,
+        "race": {
+          "whitePct": 71.43,
+          "blackPct": 5.66,
+          "asianPct": 9.61,
+          "hispanicPct": 13.8
+        }
+      },
+      "election": {
+        "winner": "GIOVANNI CAPRIGLIONE",
+        "party": "REP",
+        "pct": 65.7,
+        "unopposed": false
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "Texas House District 99",
+      "census": {
+        "censusName": "State House District 99 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77197,
+        "medianAge": 35.9,
+        "totalPopulation": 195337,
+        "collegePct": 29.93,
+        "renterRatePct": 41.46,
+        "race": {
+          "whitePct": 64.32,
+          "blackPct": 12.5,
+          "asianPct": 1.88,
+          "hispanicPct": 29.48
+        }
+      },
+      "election": {
+        "winner": "CHARLIE GEREN",
+        "party": "REP",
+        "pct": 62.82,
+        "unopposed": false
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "Texas House District 100",
+      "census": {
+        "censusName": "State House District 100 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53629,
+        "medianAge": 32.5,
+        "totalPopulation": 185561,
+        "collegePct": 18.08,
+        "renterRatePct": 58.43,
+        "race": {
+          "whitePct": 28.54,
+          "blackPct": 34.63,
+          "asianPct": 1.67,
+          "hispanicPct": 50.56
+        }
+      },
+      "election": {
+        "winner": "VENTON JONES",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "101": {
+      "districtNumber": 101,
+      "districtName": "Texas House District 101",
+      "census": {
+        "censusName": "State House District 101 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88422,
+        "medianAge": 32.1,
+        "totalPopulation": 199374,
+        "collegePct": 32.88,
+        "renterRatePct": 33.45,
+        "race": {
+          "whitePct": 32.88,
+          "blackPct": 31.21,
+          "asianPct": 10.15,
+          "hispanicPct": 29.05
+        }
+      },
+      "election": {
+        "winner": "CHRIS TURNER",
+        "party": "DEM",
+        "pct": 64.94,
+        "unopposed": false
+      }
+    },
+    "102": {
+      "districtNumber": 102,
+      "districtName": "Texas House District 102",
+      "census": {
+        "censusName": "State House District 102 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60982,
+        "medianAge": 33.5,
+        "totalPopulation": 188191,
+        "collegePct": 32.44,
+        "renterRatePct": 63.82,
+        "race": {
+          "whitePct": 35.07,
+          "blackPct": 26.67,
+          "asianPct": 10.31,
+          "hispanicPct": 33.56
+        }
+      },
+      "election": {
+        "winner": "ANA-MARIA RAMOS",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "103": {
+      "districtNumber": 103,
+      "districtName": "Texas House District 103",
+      "census": {
+        "censusName": "State House District 103 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70513,
+        "medianAge": 32.3,
+        "totalPopulation": 185727,
+        "collegePct": 34.47,
+        "renterRatePct": 61.13,
+        "race": {
+          "whitePct": 46.53,
+          "blackPct": 8.96,
+          "asianPct": 5.64,
+          "hispanicPct": 59.9
+        }
+      },
+      "election": {
+        "winner": "RAFAEL ANCHIA",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "104": {
+      "districtNumber": 104,
+      "districtName": "Texas House District 104",
+      "census": {
+        "censusName": "State House District 104 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63369,
+        "medianAge": 32.2,
+        "totalPopulation": 185718,
+        "collegePct": 17.53,
+        "renterRatePct": 42.9,
+        "race": {
+          "whitePct": 37.97,
+          "blackPct": 11.4,
+          "asianPct": 1.82,
+          "hispanicPct": 69.84
+        }
+      },
+      "election": {
+        "winner": "JESSICA GONZALEZ",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "105": {
+      "districtNumber": 105,
+      "districtName": "Texas House District 105",
+      "census": {
+        "censusName": "State House District 105 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70369,
+        "medianAge": 32.6,
+        "totalPopulation": 191674,
+        "collegePct": 30.84,
+        "renterRatePct": 60.13,
+        "race": {
+          "whitePct": 39.76,
+          "blackPct": 13.71,
+          "asianPct": 12.81,
+          "hispanicPct": 52.91
+        }
+      },
+      "election": {
+        "winner": "TERRY MEZA",
+        "party": "DEM",
+        "pct": 54.69,
+        "unopposed": false
+      }
+    },
+    "106": {
+      "districtNumber": 106,
+      "districtName": "Texas House District 106",
+      "census": {
+        "censusName": "State House District 106 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 130979,
+        "medianAge": 37.7,
+        "totalPopulation": 206490,
+        "collegePct": 54.34,
+        "renterRatePct": 21.73,
+        "race": {
+          "whitePct": 60.13,
+          "blackPct": 10.04,
+          "asianPct": 13.85,
+          "hispanicPct": 15.92
+        }
+      },
+      "election": {
+        "winner": "JARED PATTERSON",
+        "party": "REP",
+        "pct": 60.58,
+        "unopposed": false
+      }
+    },
+    "107": {
+      "districtNumber": 107,
+      "districtName": "Texas House District 107",
+      "census": {
+        "censusName": "State House District 107 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65616,
+        "medianAge": 31.7,
+        "totalPopulation": 184889,
+        "collegePct": 13.73,
+        "renterRatePct": 37.95,
+        "race": {
+          "whitePct": 38.97,
+          "blackPct": 14.33,
+          "asianPct": 2.52,
+          "hispanicPct": 63.37
+        }
+      },
+      "election": {
+        "winner": "LINDA GARCIA",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "108": {
+      "districtNumber": 108,
+      "districtName": "Texas House District 108",
+      "census": {
+        "censusName": "State House District 108 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 142312,
+        "medianAge": 38.8,
+        "totalPopulation": 180386,
+        "collegePct": 78.41,
+        "renterRatePct": 39.52,
+        "race": {
+          "whitePct": 80.14,
+          "blackPct": 4.81,
+          "asianPct": 4.73,
+          "hispanicPct": 10.09
+        }
+      },
+      "election": {
+        "winner": "MORGAN MEYER",
+        "party": "REP",
+        "pct": 57.61,
+        "unopposed": false
+      }
+    },
+    "109": {
+      "districtNumber": 109,
+      "districtName": "Texas House District 109",
+      "census": {
+        "censusName": "State House District 109 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73788,
+        "medianAge": 35.9,
+        "totalPopulation": 185049,
+        "collegePct": 23.73,
+        "renterRatePct": 29.7,
+        "race": {
+          "whitePct": 24.39,
+          "blackPct": 50.19,
+          "asianPct": 1.29,
+          "hispanicPct": 31.48
+        }
+      },
+      "election": {
+        "winner": "AICHA DAVIS",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "110": {
+      "districtNumber": 110,
+      "districtName": "Texas House District 110",
+      "census": {
+        "censusName": "State House District 110 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51073,
+        "medianAge": 30.7,
+        "totalPopulation": 184050,
+        "collegePct": 8.86,
+        "renterRatePct": 39.29,
+        "race": {
+          "whitePct": 25.51,
+          "blackPct": 36.24,
+          "asianPct": 0.61,
+          "hispanicPct": 55.77
+        }
+      },
+      "election": {
+        "winner": "TONI ROSE",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "111": {
+      "districtNumber": 111,
+      "districtName": "Texas House District 111",
+      "census": {
+        "censusName": "State House District 111 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65108,
+        "medianAge": 36,
+        "totalPopulation": 191894,
+        "collegePct": 26.37,
+        "renterRatePct": 42.87,
+        "race": {
+          "whitePct": 22.77,
+          "blackPct": 47.01,
+          "asianPct": 1.98,
+          "hispanicPct": 35.88
+        }
+      },
+      "election": {
+        "winner": "YVONNE DAVIS",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "112": {
+      "districtNumber": 112,
+      "districtName": "Texas House District 112",
+      "census": {
+        "censusName": "State House District 112 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106527,
+        "medianAge": 39.1,
+        "totalPopulation": 179949,
+        "collegePct": 49.58,
+        "renterRatePct": 30.43,
+        "race": {
+          "whitePct": 60.2,
+          "blackPct": 13.49,
+          "asianPct": 11.04,
+          "hispanicPct": 16.96
+        }
+      },
+      "election": {
+        "winner": "ANGIE CHEN BUTTON",
+        "party": "REP",
+        "pct": 53.87,
+        "unopposed": false
+      }
+    },
+    "113": {
+      "districtNumber": 113,
+      "districtName": "Texas House District 113",
+      "census": {
+        "censusName": "State House District 113 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77427,
+        "medianAge": 34.7,
+        "totalPopulation": 181871,
+        "collegePct": 24.42,
+        "renterRatePct": 35.03,
+        "race": {
+          "whitePct": 36.18,
+          "blackPct": 25.37,
+          "asianPct": 7.53,
+          "hispanicPct": 37.04
+        }
+      },
+      "election": {
+        "winner": "RHETTA ANDREWS BOWERS",
+        "party": "DEM",
+        "pct": 56.59,
+        "unopposed": false
+      }
+    },
+    "114": {
+      "districtNumber": 114,
+      "districtName": "Texas House District 114",
+      "census": {
+        "censusName": "State House District 114 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79139,
+        "medianAge": 33.4,
+        "totalPopulation": 181354,
+        "collegePct": 54.09,
+        "renterRatePct": 67.21,
+        "race": {
+          "whitePct": 55.8,
+          "blackPct": 14.32,
+          "asianPct": 5.34,
+          "hispanicPct": 30.73
+        }
+      },
+      "election": {
+        "winner": "JOHN BRYANT",
+        "party": "DEM",
+        "pct": 62.76,
+        "unopposed": false
+      }
+    },
+    "115": {
+      "districtNumber": 115,
+      "districtName": "Texas House District 115",
+      "census": {
+        "censusName": "State House District 115 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94265,
+        "medianAge": 35.3,
+        "totalPopulation": 197503,
+        "collegePct": 59.09,
+        "renterRatePct": 63.13,
+        "race": {
+          "whitePct": 41.65,
+          "blackPct": 13.65,
+          "asianPct": 27.1,
+          "hispanicPct": 22.24
+        }
+      },
+      "election": {
+        "winner": "CASSANDRA HERNANDEZ",
+        "party": "DEM",
+        "pct": 54.31,
+        "unopposed": false
+      }
+    },
+    "116": {
+      "districtNumber": 116,
+      "districtName": "Texas House District 116",
+      "census": {
+        "censusName": "State House District 116 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54194,
+        "medianAge": 31.6,
+        "totalPopulation": 206776,
+        "collegePct": 32.41,
+        "renterRatePct": 66.38,
+        "race": {
+          "whitePct": 43.09,
+          "blackPct": 7.31,
+          "asianPct": 7.39,
+          "hispanicPct": 62.01
+        }
+      },
+      "election": {
+        "winner": "TREY MARTINEZ FISCHER",
+        "party": "DEM",
+        "pct": 66,
+        "unopposed": false
+      }
+    },
+    "117": {
+      "districtNumber": 117,
+      "districtName": "Texas House District 117",
+      "census": {
+        "censusName": "State House District 117 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73680,
+        "medianAge": 32.2,
+        "totalPopulation": 206352,
+        "collegePct": 24.06,
+        "renterRatePct": 30.99,
+        "race": {
+          "whitePct": 46.91,
+          "blackPct": 6.4,
+          "asianPct": 2.45,
+          "hispanicPct": 69.26
+        }
+      },
+      "election": {
+        "winner": "PHILIP CORTEZ",
+        "party": "DEM",
+        "pct": 57.99,
+        "unopposed": false
+      }
+    },
+    "118": {
+      "districtNumber": 118,
+      "districtName": "Texas House District 118",
+      "census": {
+        "censusName": "State House District 118 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72717,
+        "medianAge": 35.4,
+        "totalPopulation": 202690,
+        "collegePct": 23.52,
+        "renterRatePct": 28.31,
+        "race": {
+          "whitePct": 51.46,
+          "blackPct": 6.3,
+          "asianPct": 1.66,
+          "hispanicPct": 63.21
+        }
+      },
+      "election": {
+        "winner": "JOHN LUJAN III",
+        "party": "REP",
+        "pct": 51.73,
+        "unopposed": false
+      }
+    },
+    "119": {
+      "districtNumber": 119,
+      "districtName": "Texas House District 119",
+      "census": {
+        "censusName": "State House District 119 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61137,
+        "medianAge": 35,
+        "totalPopulation": 209337,
+        "collegePct": 18.44,
+        "renterRatePct": 37.82,
+        "race": {
+          "whitePct": 46.58,
+          "blackPct": 9.85,
+          "asianPct": 1.92,
+          "hispanicPct": 68.84
+        }
+      },
+      "election": {
+        "winner": "ELIZABETH  \"LIZ\" CAMPOS",
+        "party": "DEM",
+        "pct": 63.68,
+        "unopposed": false
+      }
+    },
+    "120": {
+      "districtNumber": 120,
+      "districtName": "Texas House District 120",
+      "census": {
+        "censusName": "State House District 120 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60244,
+        "medianAge": 33.6,
+        "totalPopulation": 199852,
+        "collegePct": 22.45,
+        "renterRatePct": 42.57,
+        "race": {
+          "whitePct": 40.49,
+          "blackPct": 21.33,
+          "asianPct": 2.51,
+          "hispanicPct": 50.8
+        }
+      },
+      "election": {
+        "winner": "BARBARA GERVIN-HAWKINS",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "121": {
+      "districtNumber": 121,
+      "districtName": "Texas House District 121",
+      "census": {
+        "censusName": "State House District 121 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93834,
+        "medianAge": 38.1,
+        "totalPopulation": 205375,
+        "collegePct": 50.7,
+        "renterRatePct": 38.92,
+        "race": {
+          "whitePct": 60.88,
+          "blackPct": 5.82,
+          "asianPct": 3.71,
+          "hispanicPct": 38.1
+        }
+      },
+      "election": {
+        "winner": "MARC LAHOOD",
+        "party": "REP",
+        "pct": 52.53,
+        "unopposed": false
+      }
+    },
+    "122": {
+      "districtNumber": 122,
+      "districtName": "Texas House District 122",
+      "census": {
+        "censusName": "State House District 122 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 130950,
+        "medianAge": 38.8,
+        "totalPopulation": 203699,
+        "collegePct": 59.81,
+        "renterRatePct": 22.89,
+        "race": {
+          "whitePct": 63.19,
+          "blackPct": 4.11,
+          "asianPct": 5.47,
+          "hispanicPct": 38.53
+        }
+      },
+      "election": {
+        "winner": "MARK DORAZIO",
+        "party": "REP",
+        "pct": 58.09,
+        "unopposed": false
+      }
+    },
+    "123": {
+      "districtNumber": 123,
+      "districtName": "Texas House District 123",
+      "census": {
+        "censusName": "State House District 123 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54678,
+        "medianAge": 36.5,
+        "totalPopulation": 199728,
+        "collegePct": 29.74,
+        "renterRatePct": 56.39,
+        "race": {
+          "whitePct": 47,
+          "blackPct": 4.14,
+          "asianPct": 1.5,
+          "hispanicPct": 68.35
+        }
+      },
+      "election": {
+        "winner": "DIEGO BERNAL",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "124": {
+      "districtNumber": 124,
+      "districtName": "Texas House District 124",
+      "census": {
+        "censusName": "State House District 124 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63629,
+        "medianAge": 31.4,
+        "totalPopulation": 192718,
+        "collegePct": 20.78,
+        "renterRatePct": 43.72,
+        "race": {
+          "whitePct": 44.95,
+          "blackPct": 9.14,
+          "asianPct": 2.33,
+          "hispanicPct": 70.78
+        }
+      },
+      "election": {
+        "winner": "JOSEY GARCIA",
+        "party": "DEM",
+        "pct": 61.52,
+        "unopposed": false
+      }
+    },
+    "125": {
+      "districtNumber": 125,
+      "districtName": "Texas House District 125",
+      "census": {
+        "censusName": "State House District 125 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72610,
+        "medianAge": 34.1,
+        "totalPopulation": 210817,
+        "collegePct": 29.76,
+        "renterRatePct": 33.99,
+        "race": {
+          "whitePct": 49.14,
+          "blackPct": 4.99,
+          "asianPct": 3.27,
+          "hispanicPct": 65.6
+        }
+      },
+      "election": {
+        "winner": "RAY LOPEZ",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "126": {
+      "districtNumber": 126,
+      "districtName": "Texas House District 126",
+      "census": {
+        "censusName": "State House District 126 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88526,
+        "medianAge": 36.2,
+        "totalPopulation": 199400,
+        "collegePct": 41.3,
+        "renterRatePct": 34.42,
+        "race": {
+          "whitePct": 50.46,
+          "blackPct": 16.81,
+          "asianPct": 10.19,
+          "hispanicPct": 27.29
+        }
+      },
+      "election": {
+        "winner": "E. SAM HARLESS",
+        "party": "REP",
+        "pct": 98.98,
+        "unopposed": true
+      }
+    },
+    "127": {
+      "districtNumber": 127,
+      "districtName": "Texas House District 127",
+      "census": {
+        "censusName": "State House District 127 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104168,
+        "medianAge": 36.9,
+        "totalPopulation": 209212,
+        "collegePct": 39.45,
+        "renterRatePct": 21.58,
+        "race": {
+          "whitePct": 55.74,
+          "blackPct": 16.96,
+          "asianPct": 3.28,
+          "hispanicPct": 29.82
+        }
+      },
+      "election": {
+        "winner": "CHARLES CUNNINGHAM",
+        "party": "REP",
+        "pct": 60.51,
+        "unopposed": false
+      }
+    },
+    "128": {
+      "districtNumber": 128,
+      "districtName": "Texas House District 128",
+      "census": {
+        "censusName": "State House District 128 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79203,
+        "medianAge": 35.2,
+        "totalPopulation": 188631,
+        "collegePct": 19.48,
+        "renterRatePct": 31.78,
+        "race": {
+          "whitePct": 56.98,
+          "blackPct": 9.9,
+          "asianPct": 1.73,
+          "hispanicPct": 42.66
+        }
+      },
+      "election": {
+        "winner": "BRISCOE CAIN",
+        "party": "REP",
+        "pct": 68.24,
+        "unopposed": false
+      }
+    },
+    "129": {
+      "districtNumber": 129,
+      "districtName": "Texas House District 129",
+      "census": {
+        "censusName": "State House District 129 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93587,
+        "medianAge": 38.7,
+        "totalPopulation": 199788,
+        "collegePct": 39.78,
+        "renterRatePct": 38.63,
+        "race": {
+          "whitePct": 61.67,
+          "blackPct": 7.42,
+          "asianPct": 10.07,
+          "hispanicPct": 28.53
+        }
+      },
+      "election": {
+        "winner": "DENNIS PAUL",
+        "party": "REP",
+        "pct": 60.83,
+        "unopposed": false
+      }
+    },
+    "130": {
+      "districtNumber": 130,
+      "districtName": "Texas House District 130",
+      "census": {
+        "censusName": "State House District 130 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116126,
+        "medianAge": 36.5,
+        "totalPopulation": 193764,
+        "collegePct": 45.36,
+        "renterRatePct": 21.17,
+        "race": {
+          "whitePct": 62.54,
+          "blackPct": 9.74,
+          "asianPct": 8.54,
+          "hispanicPct": 24.26
+        }
+      },
+      "election": {
+        "winner": "TOM OLIVERSON",
+        "party": "REP",
+        "pct": 68.82,
+        "unopposed": false
+      }
+    },
+    "131": {
+      "districtNumber": 131,
+      "districtName": "Texas House District 131",
+      "census": {
+        "censusName": "State House District 131 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52871,
+        "medianAge": 33.8,
+        "totalPopulation": 204225,
+        "collegePct": 20.4,
+        "renterRatePct": 53.35,
+        "race": {
+          "whitePct": 19.42,
+          "blackPct": 35.07,
+          "asianPct": 6,
+          "hispanicPct": 50.73
+        }
+      },
+      "election": {
+        "winner": "ALMA A. ALLEN",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "132": {
+      "districtNumber": 132,
+      "districtName": "Texas House District 132",
+      "census": {
+        "censusName": "State House District 132 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109394,
+        "medianAge": 35.7,
+        "totalPopulation": 209276,
+        "collegePct": 48.62,
+        "renterRatePct": 29.09,
+        "race": {
+          "whitePct": 49.71,
+          "blackPct": 12.18,
+          "asianPct": 12.65,
+          "hispanicPct": 28.46
+        }
+      },
+      "election": {
+        "winner": "MIKE SCHOFIELD",
+        "party": "REP",
+        "pct": 58.76,
+        "unopposed": false
+      }
+    },
+    "133": {
+      "districtNumber": 133,
+      "districtName": "Texas House District 133",
+      "census": {
+        "censusName": "State House District 133 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85888,
+        "medianAge": 37,
+        "totalPopulation": 187521,
+        "collegePct": 64.95,
+        "renterRatePct": 56.46,
+        "race": {
+          "whitePct": 53.41,
+          "blackPct": 16.45,
+          "asianPct": 12.02,
+          "hispanicPct": 19.62
+        }
+      },
+      "election": {
+        "winner": "MANO DEAYALA",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "134": {
+      "districtNumber": 134,
+      "districtName": "Texas House District 134",
+      "census": {
+        "censusName": "State House District 134 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119234,
+        "medianAge": 36.3,
+        "totalPopulation": 201226,
+        "collegePct": 78.39,
+        "renterRatePct": 53.71,
+        "race": {
+          "whitePct": 62.88,
+          "blackPct": 7.87,
+          "asianPct": 13.83,
+          "hispanicPct": 15.13
+        }
+      },
+      "election": {
+        "winner": "ANN JOHNSON",
+        "party": "DEM",
+        "pct": 61.33,
+        "unopposed": false
+      }
+    },
+    "135": {
+      "districtNumber": 135,
+      "districtName": "Texas House District 135",
+      "census": {
+        "censusName": "State House District 135 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86868,
+        "medianAge": 33.2,
+        "totalPopulation": 203478,
+        "collegePct": 30.85,
+        "renterRatePct": 26.12,
+        "race": {
+          "whitePct": 33.05,
+          "blackPct": 20.25,
+          "asianPct": 9.38,
+          "hispanicPct": 45.79
+        }
+      },
+      "election": {
+        "winner": "JON E. ROSENTHAL",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "136": {
+      "districtNumber": 136,
+      "districtName": "Texas House District 136",
+      "census": {
+        "censusName": "State House District 136 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94247,
+        "medianAge": 35.2,
+        "totalPopulation": 204788,
+        "collegePct": 50.62,
+        "renterRatePct": 51.4,
+        "race": {
+          "whitePct": 55.59,
+          "blackPct": 9.05,
+          "asianPct": 14.02,
+          "hispanicPct": 25.98
+        }
+      },
+      "election": {
+        "winner": "JOHN H. BUCY III",
+        "party": "DEM",
+        "pct": 62.02,
+        "unopposed": false
+      }
+    },
+    "137": {
+      "districtNumber": 137,
+      "districtName": "Texas House District 137",
+      "census": {
+        "censusName": "State House District 137 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47659,
+        "medianAge": 31.7,
+        "totalPopulation": 199470,
+        "collegePct": 26.81,
+        "renterRatePct": 81.65,
+        "race": {
+          "whitePct": 24.04,
+          "blackPct": 16.27,
+          "asianPct": 9.04,
+          "hispanicPct": 59.06
+        }
+      },
+      "election": {
+        "winner": "GENE WU",
+        "party": "DEM",
+        "pct": 76.31,
+        "unopposed": false
+      }
+    },
+    "138": {
+      "districtNumber": 138,
+      "districtName": "Texas House District 138",
+      "census": {
+        "censusName": "State House District 138 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86031,
+        "medianAge": 36.7,
+        "totalPopulation": 200577,
+        "collegePct": 42.4,
+        "renterRatePct": 40.69,
+        "race": {
+          "whitePct": 45.9,
+          "blackPct": 8.06,
+          "asianPct": 10.13,
+          "hispanicPct": 43.23
+        }
+      },
+      "election": {
+        "winner": "LACEY HULL",
+        "party": "REP",
+        "pct": 57.02,
+        "unopposed": false
+      }
+    },
+    "139": {
+      "districtNumber": 139,
+      "districtName": "Texas House District 139",
+      "census": {
+        "censusName": "State House District 139 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59467,
+        "medianAge": 33.9,
+        "totalPopulation": 211241,
+        "collegePct": 24.57,
+        "renterRatePct": 41.89,
+        "race": {
+          "whitePct": 26.59,
+          "blackPct": 35.66,
+          "asianPct": 5.14,
+          "hispanicPct": 44.2
+        }
+      },
+      "election": {
+        "winner": "CHARLENE WARD JOHNSON",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "140": {
+      "districtNumber": 140,
+      "districtName": "Texas House District 140",
+      "census": {
+        "censusName": "State House District 140 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46855,
+        "medianAge": 30.9,
+        "totalPopulation": 181818,
+        "collegePct": 6.59,
+        "renterRatePct": 39.74,
+        "race": {
+          "whitePct": 34.52,
+          "blackPct": 9.77,
+          "asianPct": 1.74,
+          "hispanicPct": 82.3
+        }
+      },
+      "election": {
+        "winner": "ARMANDO LUCIO WALLE",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "141": {
+      "districtNumber": 141,
+      "districtName": "Texas House District 141",
+      "census": {
+        "censusName": "State House District 141 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44408,
+        "medianAge": 30.7,
+        "totalPopulation": 203960,
+        "collegePct": 12.5,
+        "renterRatePct": 61.61,
+        "race": {
+          "whitePct": 20.98,
+          "blackPct": 40.49,
+          "asianPct": 1.62,
+          "hispanicPct": 49.32
+        }
+      },
+      "election": {
+        "winner": "SENFRONIA THOMPSON",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "142": {
+      "districtNumber": 142,
+      "districtName": "Texas House District 142",
+      "census": {
+        "censusName": "State House District 142 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64465,
+        "medianAge": 33.5,
+        "totalPopulation": 187511,
+        "collegePct": 20.64,
+        "renterRatePct": 36.54,
+        "race": {
+          "whitePct": 26.3,
+          "blackPct": 36.6,
+          "asianPct": 2.4,
+          "hispanicPct": 45.82
+        }
+      },
+      "election": {
+        "winner": "HAROLD V. DUTTON JR",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "143": {
+      "districtNumber": 143,
+      "districtName": "Texas House District 143",
+      "census": {
+        "censusName": "State House District 143 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54649,
+        "medianAge": 32.8,
+        "totalPopulation": 194817,
+        "collegePct": 10.99,
+        "renterRatePct": 41.68,
+        "race": {
+          "whitePct": 30.68,
+          "blackPct": 10.47,
+          "asianPct": 1.57,
+          "hispanicPct": 77.57
+        }
+      },
+      "election": {
+        "winner": "ANA HERNANDEZ",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "144": {
+      "districtNumber": 144,
+      "districtName": "Texas House District 144",
+      "census": {
+        "censusName": "State House District 144 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59705,
+        "medianAge": 32.3,
+        "totalPopulation": 202359,
+        "collegePct": 11.78,
+        "renterRatePct": 46.59,
+        "race": {
+          "whitePct": 39.95,
+          "blackPct": 6.01,
+          "asianPct": 3.34,
+          "hispanicPct": 76.11
+        }
+      },
+      "election": {
+        "winner": "MARY ANN PEREZ",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "145": {
+      "districtNumber": 145,
+      "districtName": "Texas House District 145",
+      "census": {
+        "censusName": "State House District 145 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68471,
+        "medianAge": 35.4,
+        "totalPopulation": 186088,
+        "collegePct": 34.38,
+        "renterRatePct": 49.8,
+        "race": {
+          "whitePct": 41.83,
+          "blackPct": 9.31,
+          "asianPct": 3.21,
+          "hispanicPct": 60.45
+        }
+      },
+      "election": {
+        "winner": "CHRISTINA MORALES",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "146": {
+      "districtNumber": 146,
+      "districtName": "Texas House District 146",
+      "census": {
+        "censusName": "State House District 146 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56740,
+        "medianAge": 33.9,
+        "totalPopulation": 189795,
+        "collegePct": 37.74,
+        "renterRatePct": 64.06,
+        "race": {
+          "whitePct": 24.15,
+          "blackPct": 42.56,
+          "asianPct": 7.19,
+          "hispanicPct": 30.11
+        }
+      },
+      "election": {
+        "winner": "LAUREN ASHLEY SIMMONS",
+        "party": "DEM",
+        "pct": 77.72,
+        "unopposed": false
+      }
+    },
+    "147": {
+      "districtNumber": 147,
+      "districtName": "Texas House District 147",
+      "census": {
+        "censusName": "State House District 147 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70518,
+        "medianAge": 32.9,
+        "totalPopulation": 198079,
+        "collegePct": 39.78,
+        "renterRatePct": 58.61,
+        "race": {
+          "whitePct": 31.9,
+          "blackPct": 32.2,
+          "asianPct": 6.55,
+          "hispanicPct": 38.5
+        }
+      },
+      "election": {
+        "winner": "JOLANDA  JONES",
+        "party": "DEM",
+        "pct": 74.54,
+        "unopposed": false
+      }
+    },
+    "148": {
+      "districtNumber": 148,
+      "districtName": "Texas House District 148",
+      "census": {
+        "censusName": "State House District 148 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66543,
+        "medianAge": 34.1,
+        "totalPopulation": 203499,
+        "collegePct": 25.29,
+        "renterRatePct": 52.19,
+        "race": {
+          "whitePct": 34.06,
+          "blackPct": 13.39,
+          "asianPct": 8.37,
+          "hispanicPct": 57.47
+        }
+      },
+      "election": {
+        "winner": "PENNY MORALES SHAW",
+        "party": "DEM",
+        "pct": 54.94,
+        "unopposed": false
+      }
+    },
+    "149": {
+      "districtNumber": 149,
+      "districtName": "Texas House District 149",
+      "census": {
+        "censusName": "State House District 149 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61155,
+        "medianAge": 34.9,
+        "totalPopulation": 198351,
+        "collegePct": 27.35,
+        "renterRatePct": 52.32,
+        "race": {
+          "whitePct": 23.76,
+          "blackPct": 27.28,
+          "asianPct": 18.24,
+          "hispanicPct": 38.11
+        }
+      },
+      "election": {
+        "winner": "HUBERT VO",
+        "party": "DEM",
+        "pct": 57.02,
+        "unopposed": false
+      }
+    },
+    "150": {
+      "districtNumber": 150,
+      "districtName": "Texas House District 150",
+      "census": {
+        "censusName": "State House District 150 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101654,
+        "medianAge": 34,
+        "totalPopulation": 204493,
+        "collegePct": 40.36,
+        "renterRatePct": 28.99,
+        "race": {
+          "whitePct": 53.13,
+          "blackPct": 16.62,
+          "asianPct": 6.01,
+          "hispanicPct": 30.94
+        }
+      },
+      "election": {
+        "winner": "CHAD BRIDGES",
+        "party": "REP",
+        "pct": 54,
+        "unopposed": false
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Texas Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63984,
+        "medianAge": 39.1,
+        "totalPopulation": 933922,
+        "collegePct": 22.22,
+        "renterRatePct": 29.66,
+        "race": {
+          "whitePct": 70.04,
+          "blackPct": 15.38,
+          "asianPct": 1.05,
+          "hispanicPct": 16.32
+        }
+      },
+      "election": {
+        "winner": "BRYAN HUGHES",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Texas Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86988,
+        "medianAge": 36.2,
+        "totalPopulation": 986775,
+        "collegePct": 33.1,
+        "renterRatePct": 31.29,
+        "race": {
+          "whitePct": 56.28,
+          "blackPct": 13.26,
+          "asianPct": 6.99,
+          "hispanicPct": 28.9
+        }
+      },
+      "election": {
+        "winner": "BOB HALL",
+        "party": "REP",
+        "pct": 61.9,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Texas Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60401,
+        "medianAge": 38.7,
+        "totalPopulation": 971472,
+        "collegePct": 17.73,
+        "renterRatePct": 29.42,
+        "race": {
+          "whitePct": 66.74,
+          "blackPct": 15.78,
+          "asianPct": 1.38,
+          "hispanicPct": 18.35
+        }
+      },
+      "election": {
+        "winner": "ROBERT NICHOLS",
+        "party": "REP",
+        "pct": 77.41,
+        "unopposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Texas Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90066,
+        "medianAge": 36.3,
+        "totalPopulation": 991772,
+        "collegePct": 33.4,
+        "renterRatePct": 28.53,
+        "race": {
+          "whitePct": 62.86,
+          "blackPct": 12.04,
+          "asianPct": 3.41,
+          "hispanicPct": 29.72
+        }
+      },
+      "election": {
+        "winner": "BRANDON CREIGHTON",
+        "party": "REP",
+        "pct": 69.94,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Texas Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79538,
+        "medianAge": 35.5,
+        "totalPopulation": 975328,
+        "collegePct": 35.26,
+        "renterRatePct": 34.33,
+        "race": {
+          "whitePct": 64.65,
+          "blackPct": 10.02,
+          "asianPct": 4.26,
+          "hispanicPct": 27.2
+        }
+      },
+      "election": {
+        "winner": "CHARLES SCHWERTNER",
+        "party": "REP",
+        "pct": 71.57,
+        "unopposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Texas Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54223,
+        "medianAge": 32.3,
+        "totalPopulation": 946814,
+        "collegePct": 13.7,
+        "renterRatePct": 48.21,
+        "race": {
+          "whitePct": 33.42,
+          "blackPct": 13.52,
+          "asianPct": 2.5,
+          "hispanicPct": 71.98
+        }
+      },
+      "election": {
+        "winner": "CAROL ALVARADO",
+        "party": "DEM",
+        "pct": 63.01,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Texas Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99711,
+        "medianAge": 35.9,
+        "totalPopulation": 966616,
+        "collegePct": 42.89,
+        "renterRatePct": 29.54,
+        "race": {
+          "whitePct": 52.04,
+          "blackPct": 13.02,
+          "asianPct": 9.06,
+          "hispanicPct": 31.15
+        }
+      },
+      "election": {
+        "winner": "PAUL BETTENCOURT",
+        "party": "REP",
+        "pct": 63.41,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Texas Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111561,
+        "medianAge": 37.7,
+        "totalPopulation": 1012537,
+        "collegePct": 49.17,
+        "renterRatePct": 31.37,
+        "race": {
+          "whitePct": 60.92,
+          "blackPct": 10.3,
+          "asianPct": 13.95,
+          "hispanicPct": 16.58
+        }
+      },
+      "election": {
+        "winner": "ANGELA PAXTON",
+        "party": "REP",
+        "pct": 59.36,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Texas Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86209,
+        "medianAge": 35.7,
+        "totalPopulation": 966213,
+        "collegePct": 35.01,
+        "renterRatePct": 37.47,
+        "race": {
+          "whitePct": 60.04,
+          "blackPct": 10.76,
+          "asianPct": 5.6,
+          "hispanicPct": 28.8
+        }
+      },
+      "election": {
+        "winner": "KELLY HANCOCK",
+        "party": "REP",
+        "pct": 60.05,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Texas Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74454,
+        "medianAge": 36,
+        "totalPopulation": 970171,
+        "collegePct": 28.25,
+        "renterRatePct": 34.82,
+        "race": {
+          "whitePct": 58.58,
+          "blackPct": 16.03,
+          "asianPct": 2.74,
+          "hispanicPct": 29.42
+        }
+      },
+      "election": {
+        "winner": "PHIL KING",
+        "party": "REP",
+        "pct": 61.71,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Texas Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91900,
+        "medianAge": 37.4,
+        "totalPopulation": 927787,
+        "collegePct": 35.1,
+        "renterRatePct": 31.61,
+        "race": {
+          "whitePct": 57.95,
+          "blackPct": 12.81,
+          "asianPct": 6.65,
+          "hispanicPct": 29.97
+        }
+      },
+      "election": {
+        "winner": "MAYES MIDDLETON",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Texas Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108324,
+        "medianAge": 38.4,
+        "totalPopulation": 972649,
+        "collegePct": 52.08,
+        "renterRatePct": 38.83,
+        "race": {
+          "whitePct": 62.83,
+          "blackPct": 8.25,
+          "asianPct": 11.88,
+          "hispanicPct": 21.04
+        }
+      },
+      "election": {
+        "winner": "TAN PARKER",
+        "party": "REP",
+        "pct": 61.36,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Texas Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56367,
+        "medianAge": 34,
+        "totalPopulation": 935284,
+        "collegePct": 28.4,
+        "renterRatePct": 56.65,
+        "race": {
+          "whitePct": 20.08,
+          "blackPct": 37.89,
+          "asianPct": 9.23,
+          "hispanicPct": 39.31
+        }
+      },
+      "election": {
+        "winner": "BORRIS MILES",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Texas Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97533,
+        "medianAge": 35.3,
+        "totalPopulation": 976805,
+        "collegePct": 57.29,
+        "renterRatePct": 48.53,
+        "race": {
+          "whitePct": 59.21,
+          "blackPct": 9.02,
+          "asianPct": 8.15,
+          "hispanicPct": 30.83
+        }
+      },
+      "election": {
+        "winner": "SARAH ECKHARDT",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Texas Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79237,
+        "medianAge": 33.9,
+        "totalPopulation": 970952,
+        "collegePct": 41.27,
+        "renterRatePct": 48.41,
+        "race": {
+          "whitePct": 40.07,
+          "blackPct": 20.42,
+          "asianPct": 7.6,
+          "hispanicPct": 40.92
+        }
+      },
+      "election": {
+        "winner": "MOLLY COOK",
+        "party": "DEM",
+        "pct": 61.9,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Texas Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70011,
+        "medianAge": 32.6,
+        "totalPopulation": 955173,
+        "collegePct": 32.07,
+        "renterRatePct": 54.09,
+        "race": {
+          "whitePct": 42.51,
+          "blackPct": 16.46,
+          "asianPct": 5.93,
+          "hispanicPct": 49.08
+        }
+      },
+      "election": {
+        "winner": "NATHAN JOHNSON",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Texas Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92377,
+        "medianAge": 37.6,
+        "totalPopulation": 936845,
+        "collegePct": 46.71,
+        "renterRatePct": 37.35,
+        "race": {
+          "whitePct": 52.79,
+          "blackPct": 11.82,
+          "asianPct": 11.98,
+          "hispanicPct": 28.53
+        }
+      },
+      "election": {
+        "winner": "JOAN HUFFMAN",
+        "party": "REP",
+        "pct": 64.16,
+        "unopposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Texas Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85226,
+        "medianAge": 37,
+        "totalPopulation": 984999,
+        "collegePct": 33.86,
+        "renterRatePct": 25.07,
+        "race": {
+          "whitePct": 49.53,
+          "blackPct": 15.29,
+          "asianPct": 12.32,
+          "hispanicPct": 30.19
+        }
+      },
+      "election": {
+        "winner": "LOIS W. KOLKHORST",
+        "party": "REP",
+        "pct": 66.17,
+        "unopposed": false
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Texas Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70346,
+        "medianAge": 33.1,
+        "totalPopulation": 921736,
+        "collegePct": 24.94,
+        "renterRatePct": 32.91,
+        "race": {
+          "whitePct": 48.61,
+          "blackPct": 7.62,
+          "asianPct": 2.25,
+          "hispanicPct": 65.95
+        }
+      },
+      "election": {
+        "winner": "ROLAND GUTIERREZ",
+        "party": "DEM",
+        "pct": 55.39,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Texas Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56781,
+        "medianAge": 32.8,
+        "totalPopulation": 926386,
+        "collegePct": 22.26,
+        "renterRatePct": 38.18,
+        "race": {
+          "whitePct": 44.28,
+          "blackPct": 1.91,
+          "asianPct": 1.61,
+          "hispanicPct": 82.63
+        }
+      },
+      "election": {
+        "winner": "JUAN \"CHUY\" HINOJOSA",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Texas Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67657,
+        "medianAge": 32.4,
+        "totalPopulation": 915833,
+        "collegePct": 26.91,
+        "renterRatePct": 40.3,
+        "race": {
+          "whitePct": 50.6,
+          "blackPct": 3.45,
+          "asianPct": 1.47,
+          "hispanicPct": 68.71
+        }
+      },
+      "election": {
+        "winner": "JUDITH ZAFFIRINI",
+        "party": "DEM",
+        "pct": 61.56,
+        "unopposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Texas Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73548,
+        "medianAge": 35.5,
+        "totalPopulation": 983553,
+        "collegePct": 29.81,
+        "renterRatePct": 38.11,
+        "race": {
+          "whitePct": 58.94,
+          "blackPct": 15.77,
+          "asianPct": 3.93,
+          "hispanicPct": 25.39
+        }
+      },
+      "election": {
+        "winner": "BRIAN BIRDWELL",
+        "party": "REP",
+        "pct": 74.26,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Texas Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67719,
+        "medianAge": 33.7,
+        "totalPopulation": 968384,
+        "collegePct": 29.13,
+        "renterRatePct": 49.66,
+        "race": {
+          "whitePct": 30.63,
+          "blackPct": 37.48,
+          "asianPct": 2.99,
+          "hispanicPct": 39.59
+        }
+      },
+      "election": {
+        "winner": "ROYCE WEST",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Texas Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75587,
+        "medianAge": 36.2,
+        "totalPopulation": 984315,
+        "collegePct": 32.79,
+        "renterRatePct": 36.63,
+        "race": {
+          "whitePct": 62,
+          "blackPct": 11.96,
+          "asianPct": 4.75,
+          "hispanicPct": 26.33
+        }
+      },
+      "election": {
+        "winner": "PETE FLORES",
+        "party": "REP",
+        "pct": 64.32,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Texas Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 110286,
+        "medianAge": 40.1,
+        "totalPopulation": 947725,
+        "collegePct": 50.59,
+        "renterRatePct": 24.93,
+        "race": {
+          "whitePct": 68.95,
+          "blackPct": 4.28,
+          "asianPct": 3.81,
+          "hispanicPct": 29.26
+        }
+      },
+      "election": {
+        "winner": "DONNA CAMPBELL",
+        "party": "REP",
+        "pct": 63.57,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Texas Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58458,
+        "medianAge": 34.3,
+        "totalPopulation": 939538,
+        "collegePct": 25.7,
+        "renterRatePct": 49.62,
+        "race": {
+          "whitePct": 45.54,
+          "blackPct": 8.01,
+          "asianPct": 3.21,
+          "hispanicPct": 65.92
+        }
+      },
+      "election": {
+        "winner": "JOSÉ MENÉNDEZ",
+        "party": "DEM",
+        "pct": 66.55,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Texas Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54368,
+        "medianAge": 32.3,
+        "totalPopulation": 927824,
+        "collegePct": 18.91,
+        "renterRatePct": 31.5,
+        "race": {
+          "whitePct": 50.37,
+          "blackPct": 1.05,
+          "asianPct": 0.75,
+          "hispanicPct": 83.67
+        }
+      },
+      "election": {
+        "winner": "ADAM HINOJOSA",
+        "party": "REP",
+        "pct": 49.38,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Texas Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62217,
+        "medianAge": 35,
+        "totalPopulation": 912214,
+        "collegePct": 25.83,
+        "renterRatePct": 37.13,
+        "race": {
+          "whitePct": 69.44,
+          "blackPct": 6.17,
+          "asianPct": 1.72,
+          "hispanicPct": 34.01
+        }
+      },
+      "election": {
+        "winner": "CHARLES PERRY",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Texas Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58458,
+        "medianAge": 33.5,
+        "totalPopulation": 916570,
+        "collegePct": 25,
+        "renterRatePct": 35.81,
+        "race": {
+          "whitePct": 39.93,
+          "blackPct": 3.23,
+          "asianPct": 1.25,
+          "hispanicPct": 81.99
+        }
+      },
+      "election": {
+        "winner": "CÉSAR J. BLANCO",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Texas Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93740,
+        "medianAge": 36.4,
+        "totalPopulation": 1009804,
+        "collegePct": 40.49,
+        "renterRatePct": 33.85,
+        "race": {
+          "whitePct": 65.56,
+          "blackPct": 8.95,
+          "asianPct": 9.21,
+          "hispanicPct": 18.28
+        }
+      },
+      "election": {
+        "winner": "CHAD BRIDGES",
+        "party": "REP",
+        "pct": 54,
+        "unopposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Texas Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Texas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71695,
+        "medianAge": 34,
+        "totalPopulation": 904347,
+        "collegePct": 21.89,
+        "renterRatePct": 32.23,
+        "race": {
+          "whitePct": 63.86,
+          "blackPct": 5.31,
+          "asianPct": 1.86,
+          "hispanicPct": 45.37
+        }
+      },
+      "election": {
+        "winner": "RANDY WILSON",
+        "party": "REP",
+        "pct": 52.91,
+        "unopposed": false
+      }
+    }
+  }
+}
