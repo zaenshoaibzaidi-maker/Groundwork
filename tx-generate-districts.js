@@ -82,7 +82,7 @@ function getPartisanSub(elec, incumbentName) {
 function getDemosLines(race) {
   if (!race) return '';
   const entries = [
-    { label: 'White',                    pct: race.whitePct    },
+    { label: 'White',                    pct: race.nonHispanicWhitePct },
     { label: 'Black / African American', pct: race.blackPct    },
     { label: 'Hispanic / Latino',        pct: race.hispanicPct },
     { label: 'Asian',                    pct: race.asianPct    },

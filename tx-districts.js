@@ -29,7 +29,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Vandeaver won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 70.91, color: DEMO_COLORS[0] },
+        { label: "White", pct: 66.94, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 19.56, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 8.19, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.03, color: DEMO_COLORS[3] }
@@ -62,7 +62,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 19, rep: 81,
       partisanSub: "Money won with 81% in 2024.",
       demos: [
-        { label: "White", pct: 79.08, color: DEMO_COLORS[0] },
+        { label: "White", pct: 71.85, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 17.79, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 6.24, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.86, color: DEMO_COLORS[3] }
@@ -95,7 +95,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "JR won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 71.45, color: DEMO_COLORS[0] },
+        { label: "White", pct: 58.95, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 31.19, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 4.33, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.44, color: DEMO_COLORS[3] }
@@ -128,7 +128,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 30, rep: 70,
       partisanSub: "Bell won with 70% in 2024.",
       demos: [
-        { label: "White", pct: 64.50, color: DEMO_COLORS[0] },
+        { label: "White", pct: 57.00, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 23.75, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 14.22, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.49, color: DEMO_COLORS[3] }
@@ -161,7 +161,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Hefner won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 74.94, color: DEMO_COLORS[0] },
+        { label: "White", pct: 68.51, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 19.31, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 8.26, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.87, color: DEMO_COLORS[3] }
@@ -194,7 +194,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 28, rep: 72,
       partisanSub: "Alders won with 72% in 2024.",
       demos: [
-        { label: "White", pct: 68.13, color: DEMO_COLORS[0] },
+        { label: "White", pct: 56.46, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 20.88, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 17.66, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.73, color: DEMO_COLORS[3] }
@@ -227,7 +227,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 26, rep: 74,
       partisanSub: "Dean won with 74% in 2024.",
       demos: [
-        { label: "White", pct: 62.81, color: DEMO_COLORS[0] },
+        { label: "White", pct: 57.83, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 19.96, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 17.30, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.04, color: DEMO_COLORS[3] }
@@ -260,7 +260,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 19, rep: 81,
       partisanSub: "Harris won with 81% in 2024.",
       demos: [
-        { label: "White", pct: 66.19, color: DEMO_COLORS[0] },
+        { label: "White", pct: 59.09, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 22.61, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 12.69, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.63, color: DEMO_COLORS[3] }
@@ -293,7 +293,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Ashby won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 71.58, color: DEMO_COLORS[0] },
+        { label: "White", pct: 65.56, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 17.16, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 12.19, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.70, color: DEMO_COLORS[3] }
@@ -326,7 +326,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Harrison won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 64.42, color: DEMO_COLORS[0] },
+        { label: "White", pct: 54.73, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 27.63, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 13.24, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.78, color: DEMO_COLORS[3] }
@@ -359,7 +359,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Shofner won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 69.24, color: DEMO_COLORS[0] },
+        { label: "White", pct: 63.50, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 16.90, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 14.61, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.62, color: DEMO_COLORS[3] }
@@ -392,7 +392,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 23, rep: 77,
       partisanSub: "Wharton won with 77% in 2024.",
       demos: [
-        { label: "White", pct: 65.06, color: DEMO_COLORS[0] },
+        { label: "White", pct: 56.20, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 22.50, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 16.59, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.00, color: DEMO_COLORS[3] }
@@ -425,7 +425,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 24, rep: 76,
       partisanSub: "Orr won with 76% in 2024.",
       demos: [
-        { label: "White", pct: 62.68, color: DEMO_COLORS[0] },
+        { label: "White", pct: 54.31, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 25.46, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 16.36, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.18, color: DEMO_COLORS[3] }
@@ -458,7 +458,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 40, rep: 60,
       partisanSub: "Dyson won with 60% in 2024.",
       demos: [
-        { label: "White", pct: 65.54, color: DEMO_COLORS[0] },
+        { label: "White", pct: 52.70, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 27.30, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 10.63, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 6.38, color: DEMO_COLORS[3] }
@@ -491,7 +491,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Toth won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 68.14, color: DEMO_COLORS[0] },
+        { label: "White", pct: 62.01, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 20.76, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 7.32, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 6.37, color: DEMO_COLORS[3] }
@@ -524,7 +524,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 20, rep: 80,
       partisanSub: "Metcalf won with 80% in 2024.",
       demos: [
-        { label: "White", pct: 73.82, color: DEMO_COLORS[0] },
+        { label: "White", pct: 60.97, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 27.51, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 6.73, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.54, color: DEMO_COLORS[3] }
@@ -557,7 +557,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 34, rep: 66,
       partisanSub: "Gerdes won with 66% in 2024.",
       demos: [
-        { label: "White", pct: 61.70, color: DEMO_COLORS[0] },
+        { label: "White", pct: 48.15, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 41.11, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 6.78, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.60, color: DEMO_COLORS[3] }
@@ -590,7 +590,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 13, rep: 87,
       partisanSub: "Holt won with 87% in 2024.",
       demos: [
-        { label: "White", pct: 72.21, color: DEMO_COLORS[0] },
+        { label: "White", pct: 62.92, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 26.74, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 6.88, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.43, color: DEMO_COLORS[3] }
@@ -623,7 +623,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 29, rep: 71,
       partisanSub: "Troxclair won with 71% in 2024.",
       demos: [
-        { label: "White", pct: 79.77, color: DEMO_COLORS[0] },
+        { label: "White", pct: 72.43, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 19.69, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 3.00, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 1.11, color: DEMO_COLORS[3] }
@@ -656,7 +656,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 40, rep: 60,
       partisanSub: "Wilson won with 60% in 2024.",
       demos: [
-        { label: "White", pct: 72.01, color: DEMO_COLORS[0] },
+        { label: "White", pct: 63.93, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 22.29, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 4.84, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 4.81, color: DEMO_COLORS[3] }
@@ -689,7 +689,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Phelan won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 76.06, color: DEMO_COLORS[0] },
+        { label: "White", pct: 72.76, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 11.24, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 10.89, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.71, color: DEMO_COLORS[3] }
@@ -723,7 +723,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Manuel won unopposed in 2024.",
       demos: [
         { label: "Black / African American", pct: 41.34, color: DEMO_COLORS[0] },
-        { label: "White", pct: 33.96, color: DEMO_COLORS[1] },
+        { label: "White", pct: 26.54, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 26.43, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.89, color: DEMO_COLORS[3] }
       ],
@@ -755,7 +755,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 33, rep: 67,
       partisanSub: "Wilson won with 67% in 2024.",
       demos: [
-        { label: "White", pct: 62.93, color: DEMO_COLORS[0] },
+        { label: "White", pct: 52.03, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 29.34, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 13.21, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.41, color: DEMO_COLORS[3] }
@@ -788,7 +788,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Bonnen won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 68.05, color: DEMO_COLORS[0] },
+        { label: "White", pct: 59.81, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 22.08, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 10.20, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.85, color: DEMO_COLORS[3] }
@@ -821,7 +821,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 39, rep: 61,
       partisanSub: "Vasut won with 61% in 2024.",
       demos: [
-        { label: "White", pct: 52.15, color: DEMO_COLORS[0] },
+        { label: "White", pct: 42.48, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 28.98, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 19.01, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 6.91, color: DEMO_COLORS[3] }
@@ -854,7 +854,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 41, rep: 59,
       partisanSub: "Morgan won with 59% in 2024.",
       demos: [
-        { label: "White", pct: 47.22, color: DEMO_COLORS[0] },
+        { label: "White", pct: 39.28, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 25.76, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 18.65, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 11.69, color: DEMO_COLORS[3] }
@@ -888,8 +888,8 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Reynolds won with 70% in 2024.",
       demos: [
         { label: "Black / African American", pct: 38.45, color: DEMO_COLORS[0] },
-        { label: "White", pct: 25.42, color: DEMO_COLORS[1] },
-        { label: "Hispanic / Latino", pct: 24.86, color: DEMO_COLORS[2] },
+        { label: "Hispanic / Latino", pct: 24.86, color: DEMO_COLORS[1] },
+        { label: "White", pct: 18.76, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 14.69, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -920,7 +920,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 39, rep: 61,
       partisanSub: "Gates won with 61% in 2024.",
       demos: [
-        { label: "White", pct: 46.26, color: DEMO_COLORS[0] },
+        { label: "White", pct: 37.72, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 27.40, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 20.12, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 11.69, color: DEMO_COLORS[3] }
@@ -953,7 +953,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 38, rep: 62,
       partisanSub: "Barry won with 62% in 2024.",
       demos: [
-        { label: "White", pct: 54.90, color: DEMO_COLORS[0] },
+        { label: "White", pct: 43.40, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 33.86, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 12.43, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 7.72, color: DEMO_COLORS[3] }
@@ -986,7 +986,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 23, rep: 77,
       partisanSub: "Louderback won with 77% in 2024.",
       demos: [
-        { label: "White", pct: 63.34, color: DEMO_COLORS[0] },
+        { label: "White", pct: 48.88, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 40.73, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 6.63, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.19, color: DEMO_COLORS[3] }
@@ -1020,7 +1020,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Guillen won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 71.89, color: DEMO_COLORS[0] },
-        { label: "White", pct: 56.58, color: DEMO_COLORS[1] },
+        { label: "White", pct: 24.59, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 1.55, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.40, color: DEMO_COLORS[3] }
       ],
@@ -1052,8 +1052,8 @@ const TX_HOUSE_DISTRICTS = [
       dem: 31, rep: 69,
       partisanSub: "Hunter won with 69% in 2024.",
       demos: [
-        { label: "White", pct: 62.86, color: DEMO_COLORS[0] },
-        { label: "Hispanic / Latino", pct: 45.90, color: DEMO_COLORS[1] },
+        { label: "Hispanic / Latino", pct: 45.90, color: DEMO_COLORS[0] },
+        { label: "White", pct: 44.35, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 3.84, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 3.06, color: DEMO_COLORS[3] }
       ],
@@ -1085,7 +1085,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Pierson won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 63.35, color: DEMO_COLORS[0] },
+        { label: "White", pct: 57.42, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 19.38, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 10.08, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 9.25, color: DEMO_COLORS[3] }
@@ -1119,7 +1119,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Villalobos won with 55% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 74.12, color: DEMO_COLORS[0] },
-        { label: "White", pct: 49.88, color: DEMO_COLORS[1] },
+        { label: "White", pct: 20.00, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 4.59, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.67, color: DEMO_COLORS[3] }
       ],
@@ -1152,7 +1152,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Longoria won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 96.27, color: DEMO_COLORS[0] },
-        { label: "White", pct: 36.98, color: DEMO_COLORS[1] },
+        { label: "White", pct: 3.17, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 0.17, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.15, color: DEMO_COLORS[3] }
       ],
@@ -1185,7 +1185,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "JR won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 93.48, color: DEMO_COLORS[0] },
-        { label: "White", pct: 34.09, color: DEMO_COLORS[1] },
+        { label: "White", pct: 4.78, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 0.78, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.73, color: DEMO_COLORS[3] }
       ],
@@ -1218,7 +1218,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Lopez won with 55% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 82.29, color: DEMO_COLORS[0] },
-        { label: "White", pct: 55.66, color: DEMO_COLORS[1] },
+        { label: "White", pct: 15.16, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 1.22, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.73, color: DEMO_COLORS[3] }
       ],
@@ -1251,7 +1251,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Gamez won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 94.23, color: DEMO_COLORS[0] },
-        { label: "White", pct: 46.63, color: DEMO_COLORS[1] },
+        { label: "White", pct: 4.08, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 0.90, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 0.28, color: DEMO_COLORS[3] }
       ],
@@ -1284,7 +1284,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Martinez won with 61% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 92.22, color: DEMO_COLORS[0] },
-        { label: "White", pct: 47.06, color: DEMO_COLORS[1] },
+        { label: "White", pct: 6.96, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 0.56, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.09, color: DEMO_COLORS[3] }
       ],
@@ -1317,7 +1317,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Canales won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 92.33, color: DEMO_COLORS[0] },
-        { label: "White", pct: 38.24, color: DEMO_COLORS[1] },
+        { label: "White", pct: 5.40, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 1.08, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 0.93, color: DEMO_COLORS[3] }
       ],
@@ -1350,7 +1350,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Guerra won with 53% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 86.02, color: DEMO_COLORS[0] },
-        { label: "White", pct: 43.78, color: DEMO_COLORS[1] },
+        { label: "White", pct: 9.82, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 2.76, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 0.80, color: DEMO_COLORS[3] }
       ],
@@ -1383,7 +1383,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Raymond won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 94.20, color: DEMO_COLORS[0] },
-        { label: "White", pct: 38.28, color: DEMO_COLORS[1] },
+        { label: "White", pct: 4.22, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 0.58, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.56, color: DEMO_COLORS[3] }
       ],
@@ -1415,8 +1415,8 @@ const TX_HOUSE_DISTRICTS = [
       dem: 33, rep: 67,
       partisanSub: "Lozano won with 67% in 2024.",
       demos: [
-        { label: "White", pct: 64.35, color: DEMO_COLORS[0] },
-        { label: "Hispanic / Latino", pct: 63.09, color: DEMO_COLORS[1] },
+        { label: "Hispanic / Latino", pct: 63.09, color: DEMO_COLORS[0] },
+        { label: "White", pct: 30.52, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 2.72, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.28, color: DEMO_COLORS[3] }
       ],
@@ -1448,7 +1448,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 35, rep: 65,
       partisanSub: "Schoolcraft won with 65% in 2024.",
       demos: [
-        { label: "White", pct: 61.01, color: DEMO_COLORS[0] },
+        { label: "White", pct: 47.26, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 39.70, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 7.80, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.62, color: DEMO_COLORS[3] }
@@ -1481,7 +1481,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 57, rep: 43,
       partisanSub: "Zwiener won with 57% in 2024.",
       demos: [
-        { label: "White", pct: 63.40, color: DEMO_COLORS[0] },
+        { label: "White", pct: 46.05, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 43.83, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 4.73, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.87, color: DEMO_COLORS[3] }
@@ -1514,8 +1514,8 @@ const TX_HOUSE_DISTRICTS = [
       dem: 73, rep: 27,
       partisanSub: "Cole won with 73% in 2024.",
       demos: [
-        { label: "White", pct: 47.74, color: DEMO_COLORS[0] },
-        { label: "Hispanic / Latino", pct: 39.14, color: DEMO_COLORS[1] },
+        { label: "Hispanic / Latino", pct: 39.14, color: DEMO_COLORS[0] },
+        { label: "White", pct: 35.08, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 15.94, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 5.58, color: DEMO_COLORS[3] }
       ],
@@ -1547,7 +1547,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 60, rep: 40,
       partisanSub: "Goodwin won with 60% in 2024.",
       demos: [
-        { label: "White", pct: 69.66, color: DEMO_COLORS[0] },
+        { label: "White", pct: 63.24, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 15.97, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 12.39, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 4.14, color: DEMO_COLORS[3] }
@@ -1580,7 +1580,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 83, rep: 17,
       partisanSub: "Howard won with 83% in 2024.",
       demos: [
-        { label: "White", pct: 71.66, color: DEMO_COLORS[0] },
+        { label: "White", pct: 59.37, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 24.96, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 7.24, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 3.85, color: DEMO_COLORS[3] }
@@ -1613,7 +1613,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Hinojosa won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 68.37, color: DEMO_COLORS[0] },
+        { label: "White", pct: 56.82, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 28.04, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 6.42, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 4.62, color: DEMO_COLORS[3] }
@@ -1646,8 +1646,8 @@ const TX_HOUSE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Talarico won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 45.28, color: DEMO_COLORS[0] },
-        { label: "Hispanic / Latino", pct: 39.94, color: DEMO_COLORS[1] },
+        { label: "Hispanic / Latino", pct: 39.94, color: DEMO_COLORS[0] },
+        { label: "White", pct: 31.08, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 14.61, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 10.45, color: DEMO_COLORS[3] }
       ],
@@ -1680,7 +1680,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Flores won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 53.60, color: DEMO_COLORS[0] },
-        { label: "White", pct: 50.91, color: DEMO_COLORS[1] },
+        { label: "White", pct: 33.14, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 7.25, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.28, color: DEMO_COLORS[3] }
       ],
@@ -1712,7 +1712,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 44, rep: 56,
       partisanSub: "Davila won with 56% in 2024.",
       demos: [
-        { label: "White", pct: 63.38, color: DEMO_COLORS[0] },
+        { label: "White", pct: 54.78, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 25.40, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 8.34, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 6.93, color: DEMO_COLORS[3] }
@@ -1745,7 +1745,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 23, rep: 77,
       partisanSub: "Virdell won with 77% in 2024.",
       demos: [
-        { label: "White", pct: 71.87, color: DEMO_COLORS[0] },
+        { label: "White", pct: 57.64, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 36.98, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 1.91, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.78, color: DEMO_COLORS[3] }
@@ -1778,7 +1778,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 39, rep: 61,
       partisanSub: "Buckley won with 61% in 2024.",
       demos: [
-        { label: "White", pct: 47.72, color: DEMO_COLORS[0] },
+        { label: "White", pct: 40.04, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 27.85, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 24.27, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.07, color: DEMO_COLORS[3] }
@@ -1811,7 +1811,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 43, rep: 57,
       partisanSub: "Hickland won with 57% in 2024.",
       demos: [
-        { label: "White", pct: 56.29, color: DEMO_COLORS[0] },
+        { label: "White", pct: 46.03, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 27.31, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 18.90, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.83, color: DEMO_COLORS[3] }
@@ -1844,7 +1844,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 31, rep: 69,
       partisanSub: "Curry won with 69% in 2024.",
       demos: [
-        { label: "White", pct: 69.63, color: DEMO_COLORS[0] },
+        { label: "White", pct: 61.48, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 23.91, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 9.62, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.79, color: DEMO_COLORS[3] }
@@ -1877,7 +1877,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 42, rep: 58,
       partisanSub: "Hayes won with 58% in 2024.",
       demos: [
-        { label: "White", pct: 61.72, color: DEMO_COLORS[0] },
+        { label: "White", pct: 53.87, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 21.60, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 13.05, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 6.84, color: DEMO_COLORS[3] }
@@ -1910,7 +1910,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 18, rep: 82,
       partisanSub: "Kerwin won with 82% in 2024.",
       demos: [
-        { label: "White", pct: 76.31, color: DEMO_COLORS[0] },
+        { label: "White", pct: 66.85, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 24.26, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 4.74, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.06, color: DEMO_COLORS[3] }
@@ -1943,7 +1943,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 19, rep: 81,
       partisanSub: "Slawson won with 81% in 2024.",
       demos: [
-        { label: "White", pct: 74.61, color: DEMO_COLORS[0] },
+        { label: "White", pct: 68.45, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 18.14, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 6.55, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.29, color: DEMO_COLORS[3] }
@@ -1976,7 +1976,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Olcott won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 84.25, color: DEMO_COLORS[0] },
+        { label: "White", pct: 78.50, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 15.50, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 1.67, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.82, color: DEMO_COLORS[3] }
@@ -2009,7 +2009,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 40, rep: 60,
       partisanSub: "Richardson won with 60% in 2024.",
       demos: [
-        { label: "White", pct: 56.27, color: DEMO_COLORS[0] },
+        { label: "White", pct: 50.87, color: DEMO_COLORS[0] },
         { label: "Asian", pct: 20.94, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 13.71, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 9.66, color: DEMO_COLORS[3] }
@@ -2042,7 +2042,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 22, rep: 78,
       partisanSub: "Luther won with 78% in 2024.",
       demos: [
-        { label: "White", pct: 79.60, color: DEMO_COLORS[0] },
+        { label: "White", pct: 73.29, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 14.96, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 5.64, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.06, color: DEMO_COLORS[3] }
@@ -2075,7 +2075,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 44, rep: 56,
       partisanSub: "Bumgarner won with 56% in 2024.",
       demos: [
-        { label: "White", pct: 58.63, color: DEMO_COLORS[0] },
+        { label: "White", pct: 51.21, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 22.95, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 12.26, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 9.53, color: DEMO_COLORS[3] }
@@ -2108,7 +2108,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 37, rep: 63,
       partisanSub: "Hopper won with 63% in 2024.",
       demos: [
-        { label: "White", pct: 72.19, color: DEMO_COLORS[0] },
+        { label: "White", pct: 63.96, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 21.51, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 7.79, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.60, color: DEMO_COLORS[3] }
@@ -2141,7 +2141,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 40, rep: 60,
       partisanSub: "Little won with 60% in 2024.",
       demos: [
-        { label: "White", pct: 59.03, color: DEMO_COLORS[0] },
+        { label: "White", pct: 53.25, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 19.72, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 12.37, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 10.21, color: DEMO_COLORS[3] }
@@ -2174,7 +2174,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 39, rep: 61,
       partisanSub: "Shaheen won with 61% in 2024.",
       demos: [
-        { label: "White", pct: 58.28, color: DEMO_COLORS[0] },
+        { label: "White", pct: 53.98, color: DEMO_COLORS[0] },
         { label: "Asian", pct: 19.16, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 13.21, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 9.11, color: DEMO_COLORS[3] }
@@ -2207,7 +2207,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 40, rep: 60,
       partisanSub: "Leach won with 60% in 2024.",
       demos: [
-        { label: "White", pct: 62.11, color: DEMO_COLORS[0] },
+        { label: "White", pct: 54.10, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 18.73, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 12.66, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 10.98, color: DEMO_COLORS[3] }
@@ -2240,7 +2240,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 13, rep: 87,
       partisanSub: "Spiller won with 87% in 2024.",
       demos: [
-        { label: "White", pct: 80.83, color: DEMO_COLORS[0] },
+        { label: "White", pct: 73.44, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 20.07, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 2.49, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.56, color: DEMO_COLORS[3] }
@@ -2273,7 +2273,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 21, rep: 79,
       partisanSub: "Frank won with 79% in 2024.",
       demos: [
-        { label: "White", pct: 75.64, color: DEMO_COLORS[0] },
+        { label: "White", pct: 65.71, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 20.15, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 8.20, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.89, color: DEMO_COLORS[3] }
@@ -2306,7 +2306,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 52, rep: 48,
       partisanSub: "Plesa won with 52% in 2024.",
       demos: [
-        { label: "White", pct: 51.07, color: DEMO_COLORS[0] },
+        { label: "White", pct: 46.77, color: DEMO_COLORS[0] },
         { label: "Asian", pct: 22.75, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 15.60, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 11.38, color: DEMO_COLORS[3] }
@@ -2339,7 +2339,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 19, rep: 81,
       partisanSub: "Lambert won with 81% in 2024.",
       demos: [
-        { label: "White", pct: 70.96, color: DEMO_COLORS[0] },
+        { label: "White", pct: 62.13, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 25.03, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 7.54, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.78, color: DEMO_COLORS[3] }
@@ -2372,7 +2372,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Darby won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 69.53, color: DEMO_COLORS[0] },
+        { label: "White", pct: 52.45, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 39.77, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 3.97, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.19, color: DEMO_COLORS[3] }
@@ -2405,7 +2405,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 29, rep: 71,
       partisanSub: "Isaac won with 71% in 2024.",
       demos: [
-        { label: "White", pct: 76.27, color: DEMO_COLORS[0] },
+        { label: "White", pct: 67.44, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 25.32, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 2.21, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.71, color: DEMO_COLORS[3] }
@@ -2439,7 +2439,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "JR won with 52% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 82.45, color: DEMO_COLORS[0] },
-        { label: "White", pct: 46.90, color: DEMO_COLORS[1] },
+        { label: "White", pct: 13.87, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 1.59, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.73, color: DEMO_COLORS[3] }
       ],
@@ -2472,7 +2472,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Gonzalez won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 90.20, color: DEMO_COLORS[0] },
-        { label: "White", pct: 38.84, color: DEMO_COLORS[1] },
+        { label: "White", pct: 6.02, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 2.31, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.42, color: DEMO_COLORS[3] }
       ],
@@ -2505,8 +2505,8 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Lalani won with 57% in 2024.",
       demos: [
         { label: "Asian", pct: 30.09, color: DEMO_COLORS[0] },
-        { label: "White", pct: 28.49, color: DEMO_COLORS[1] },
-        { label: "Black / African American", pct: 23.54, color: DEMO_COLORS[2] },
+        { label: "Black / African American", pct: 23.54, color: DEMO_COLORS[1] },
+        { label: "White", pct: 22.26, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino", pct: 21.56, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -2538,7 +2538,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Perez won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 87.94, color: DEMO_COLORS[0] },
-        { label: "White", pct: 37.27, color: DEMO_COLORS[1] },
+        { label: "White", pct: 8.01, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 2.13, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.93, color: DEMO_COLORS[3] }
       ],
@@ -2571,7 +2571,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Moody won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 73.90, color: DEMO_COLORS[0] },
-        { label: "White", pct: 39.87, color: DEMO_COLORS[1] },
+        { label: "White", pct: 17.80, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 3.99, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.41, color: DEMO_COLORS[3] }
       ],
@@ -2604,7 +2604,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Ordaz won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 79.19, color: DEMO_COLORS[0] },
-        { label: "White", pct: 39.89, color: DEMO_COLORS[1] },
+        { label: "White", pct: 12.72, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 4.63, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.30, color: DEMO_COLORS[3] }
       ],
@@ -2637,7 +2637,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "JR won with 59% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 82.99, color: DEMO_COLORS[0] },
-        { label: "White", pct: 45.67, color: DEMO_COLORS[1] },
+        { label: "White", pct: 14.46, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 1.07, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.71, color: DEMO_COLORS[3] }
       ],
@@ -2670,7 +2670,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Landgraf won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 61.79, color: DEMO_COLORS[0] },
-        { label: "White", pct: 54.23, color: DEMO_COLORS[1] },
+        { label: "White", pct: 30.60, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 5.13, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.24, color: DEMO_COLORS[3] }
       ],
@@ -2702,8 +2702,8 @@ const TX_HOUSE_DISTRICTS = [
       dem: 17, rep: 83,
       partisanSub: "Craddick won with 83% in 2024.",
       demos: [
-        { label: "White", pct: 59.99, color: DEMO_COLORS[0] },
-        { label: "Hispanic / Latino", pct: 45.49, color: DEMO_COLORS[1] },
+        { label: "Hispanic / Latino", pct: 45.49, color: DEMO_COLORS[0] },
+        { label: "White", pct: 43.52, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 7.07, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.99, color: DEMO_COLORS[3] }
       ],
@@ -2735,7 +2735,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Burrows won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 70.80, color: DEMO_COLORS[0] },
+        { label: "White", pct: 57.03, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 35.23, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 3.98, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.22, color: DEMO_COLORS[3] }
@@ -2768,7 +2768,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 36, rep: 64,
       partisanSub: "Tepper won with 64% in 2024.",
       demos: [
-        { label: "White", pct: 62.37, color: DEMO_COLORS[0] },
+        { label: "White", pct: 45.16, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 39.90, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 9.63, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.95, color: DEMO_COLORS[3] }
@@ -2801,7 +2801,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Kitzman won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 57.32, color: DEMO_COLORS[0] },
+        { label: "White", pct: 47.04, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 29.00, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 14.42, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 7.41, color: DEMO_COLORS[3] }
@@ -2834,7 +2834,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Smithee won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 74.17, color: DEMO_COLORS[0] },
+        { label: "White", pct: 60.37, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 32.19, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 3.27, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.52, color: DEMO_COLORS[3] }
@@ -2867,7 +2867,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 21, rep: 79,
       partisanSub: "Fairly won with 79% in 2024.",
       demos: [
-        { label: "White", pct: 64.93, color: DEMO_COLORS[0] },
+        { label: "White", pct: 45.74, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 40.04, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 7.51, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.61, color: DEMO_COLORS[3] }
@@ -2900,8 +2900,8 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "King won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 67.63, color: DEMO_COLORS[0] },
-        { label: "Hispanic / Latino", pct: 48.37, color: DEMO_COLORS[1] },
+        { label: "Hispanic / Latino", pct: 48.37, color: DEMO_COLORS[0] },
+        { label: "White", pct: 45.33, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 3.48, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.63, color: DEMO_COLORS[3] }
       ],
@@ -2933,7 +2933,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 39, rep: 61,
       partisanSub: "Noble won with 61% in 2024.",
       demos: [
-        { label: "White", pct: 58.54, color: DEMO_COLORS[0] },
+        { label: "White", pct: 51.88, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 17.80, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 12.70, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 12.25, color: DEMO_COLORS[3] }
@@ -2967,7 +2967,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "JR won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 64.69, color: DEMO_COLORS[0] },
-        { label: "White", pct: 35.57, color: DEMO_COLORS[1] },
+        { label: "White", pct: 18.12, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 12.85, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.57, color: DEMO_COLORS[3] }
       ],
@@ -2999,7 +2999,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Lowe won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 63.69, color: DEMO_COLORS[0] },
+        { label: "White", pct: 55.35, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 26.49, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 8.27, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 6.25, color: DEMO_COLORS[3] }
@@ -3032,8 +3032,8 @@ const TX_HOUSE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Bhojani won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 36.02, color: DEMO_COLORS[0] },
-        { label: "Hispanic / Latino", pct: 34.19, color: DEMO_COLORS[1] },
+        { label: "Hispanic / Latino", pct: 34.19, color: DEMO_COLORS[0] },
+        { label: "White", pct: 26.77, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 25.98, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 9.08, color: DEMO_COLORS[3] }
       ],
@@ -3065,7 +3065,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 39, rep: 61,
       partisanSub: "Schatzline won with 61% in 2024.",
       demos: [
-        { label: "White", pct: 59.37, color: DEMO_COLORS[0] },
+        { label: "White", pct: 53.04, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 21.37, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 12.38, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 8.65, color: DEMO_COLORS[3] }
@@ -3098,7 +3098,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 44, rep: 56,
       partisanSub: "Tinderholt won with 56% in 2024.",
       demos: [
-        { label: "White", pct: 60.56, color: DEMO_COLORS[0] },
+        { label: "White", pct: 52.98, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 23.88, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 13.46, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 5.64, color: DEMO_COLORS[3] }
@@ -3133,7 +3133,7 @@ const TX_HOUSE_DISTRICTS = [
       demos: [
         { label: "Hispanic / Latino", pct: 39.02, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 37.07, color: DEMO_COLORS[1] },
-        { label: "White", pct: 29.38, color: DEMO_COLORS[2] },
+        { label: "White", pct: 18.63, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.00, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -3164,7 +3164,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 43, rep: 57,
       partisanSub: "Cook won with 57% in 2024.",
       demos: [
-        { label: "White", pct: 58.77, color: DEMO_COLORS[0] },
+        { label: "White", pct: 51.91, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 19.57, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 19.33, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 4.58, color: DEMO_COLORS[3] }
@@ -3197,7 +3197,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 42, rep: 58,
       partisanSub: "Mcqueeney won with 58% in 2024.",
       demos: [
-        { label: "White", pct: 64.32, color: DEMO_COLORS[0] },
+        { label: "White", pct: 56.40, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 24.08, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 12.37, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.93, color: DEMO_COLORS[3] }
@@ -3230,7 +3230,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 34, rep: 66,
       partisanSub: "Capriglione won with 66% in 2024.",
       demos: [
-        { label: "White", pct: 71.43, color: DEMO_COLORS[0] },
+        { label: "White", pct: 65.83, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 13.80, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 9.61, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 5.66, color: DEMO_COLORS[3] }
@@ -3263,7 +3263,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 37, rep: 63,
       partisanSub: "Geren won with 63% in 2024.",
       demos: [
-        { label: "White", pct: 64.32, color: DEMO_COLORS[0] },
+        { label: "White", pct: 53.27, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 29.48, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 12.50, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.88, color: DEMO_COLORS[3] }
@@ -3298,7 +3298,7 @@ const TX_HOUSE_DISTRICTS = [
       demos: [
         { label: "Hispanic / Latino", pct: 50.56, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 34.63, color: DEMO_COLORS[1] },
-        { label: "White", pct: 28.54, color: DEMO_COLORS[2] },
+        { label: "White", pct: 11.54, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.67, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -3329,9 +3329,9 @@ const TX_HOUSE_DISTRICTS = [
       dem: 65, rep: 35,
       partisanSub: "Turner won with 65% in 2024.",
       demos: [
-        { label: "White", pct: 32.88, color: DEMO_COLORS[0] },
-        { label: "Black / African American", pct: 31.21, color: DEMO_COLORS[1] },
-        { label: "Hispanic / Latino", pct: 29.05, color: DEMO_COLORS[2] },
+        { label: "Black / African American", pct: 31.21, color: DEMO_COLORS[0] },
+        { label: "Hispanic / Latino", pct: 29.05, color: DEMO_COLORS[1] },
+        { label: "White", pct: 26.33, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 10.15, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -3362,9 +3362,9 @@ const TX_HOUSE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Ramos won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 35.07, color: DEMO_COLORS[0] },
-        { label: "Hispanic / Latino", pct: 33.56, color: DEMO_COLORS[1] },
-        { label: "Black / African American", pct: 26.67, color: DEMO_COLORS[2] },
+        { label: "Hispanic / Latino", pct: 33.56, color: DEMO_COLORS[0] },
+        { label: "Black / African American", pct: 26.67, color: DEMO_COLORS[1] },
+        { label: "White", pct: 25.83, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 10.31, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -3396,7 +3396,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Anchia won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 59.90, color: DEMO_COLORS[0] },
-        { label: "White", pct: 46.53, color: DEMO_COLORS[1] },
+        { label: "White", pct: 23.97, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 8.96, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 5.64, color: DEMO_COLORS[3] }
       ],
@@ -3429,7 +3429,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Gonzalez won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 69.84, color: DEMO_COLORS[0] },
-        { label: "White", pct: 37.97, color: DEMO_COLORS[1] },
+        { label: "White", pct: 15.58, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 11.40, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.82, color: DEMO_COLORS[3] }
       ],
@@ -3462,7 +3462,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Meza won with 55% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 52.91, color: DEMO_COLORS[0] },
-        { label: "White", pct: 39.76, color: DEMO_COLORS[1] },
+        { label: "White", pct: 18.15, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 13.71, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 12.81, color: DEMO_COLORS[3] }
       ],
@@ -3494,7 +3494,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 39, rep: 61,
       partisanSub: "Patterson won with 61% in 2024.",
       demos: [
-        { label: "White", pct: 60.13, color: DEMO_COLORS[0] },
+        { label: "White", pct: 54.92, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 15.92, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 13.85, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 10.04, color: DEMO_COLORS[3] }
@@ -3528,7 +3528,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Garcia won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 63.37, color: DEMO_COLORS[0] },
-        { label: "White", pct: 38.97, color: DEMO_COLORS[1] },
+        { label: "White", pct: 17.99, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 14.33, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.52, color: DEMO_COLORS[3] }
       ],
@@ -3560,7 +3560,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 42, rep: 58,
       partisanSub: "Meyer won with 58% in 2024.",
       demos: [
-        { label: "White", pct: 80.14, color: DEMO_COLORS[0] },
+        { label: "White", pct: 76.39, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 10.09, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 4.81, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 4.73, color: DEMO_COLORS[3] }
@@ -3595,7 +3595,7 @@ const TX_HOUSE_DISTRICTS = [
       demos: [
         { label: "Black / African American", pct: 50.19, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 31.48, color: DEMO_COLORS[1] },
-        { label: "White", pct: 24.39, color: DEMO_COLORS[2] },
+        { label: "White", pct: 14.27, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.29, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -3628,7 +3628,7 @@ const TX_HOUSE_DISTRICTS = [
       demos: [
         { label: "Hispanic / Latino", pct: 55.77, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 36.24, color: DEMO_COLORS[1] },
-        { label: "White", pct: 25.51, color: DEMO_COLORS[2] },
+        { label: "White", pct: 6.89, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.61, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -3661,7 +3661,7 @@ const TX_HOUSE_DISTRICTS = [
       demos: [
         { label: "Black / African American", pct: 47.01, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 35.88, color: DEMO_COLORS[1] },
-        { label: "White", pct: 22.77, color: DEMO_COLORS[2] },
+        { label: "White", pct: 12.65, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.98, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -3692,7 +3692,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 46, rep: 54,
       partisanSub: "Button won with 54% in 2024.",
       demos: [
-        { label: "White", pct: 60.20, color: DEMO_COLORS[0] },
+        { label: "White", pct: 53.94, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 16.96, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 13.49, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 11.04, color: DEMO_COLORS[3] }
@@ -3726,7 +3726,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Bowers won with 57% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 37.04, color: DEMO_COLORS[0] },
-        { label: "White", pct: 36.18, color: DEMO_COLORS[1] },
+        { label: "White", pct: 25.69, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 25.37, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 7.53, color: DEMO_COLORS[3] }
       ],
@@ -3758,7 +3758,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 63, rep: 37,
       partisanSub: "Bryant won with 63% in 2024.",
       demos: [
-        { label: "White", pct: 55.80, color: DEMO_COLORS[0] },
+        { label: "White", pct: 45.95, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 30.73, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 14.32, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 5.34, color: DEMO_COLORS[3] }
@@ -3791,7 +3791,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 54, rep: 46,
       partisanSub: "Hernandez won with 54% in 2024.",
       demos: [
-        { label: "White", pct: 41.65, color: DEMO_COLORS[0] },
+        { label: "White", pct: 33.13, color: DEMO_COLORS[0] },
         { label: "Asian", pct: 27.10, color: DEMO_COLORS[1] },
         { label: "Hispanic / Latino", pct: 22.24, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 13.65, color: DEMO_COLORS[3] }
@@ -3825,7 +3825,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Fischer won with 66% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 62.01, color: DEMO_COLORS[0] },
-        { label: "White", pct: 43.09, color: DEMO_COLORS[1] },
+        { label: "White", pct: 20.91, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 7.39, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 7.31, color: DEMO_COLORS[3] }
       ],
@@ -3858,7 +3858,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Cortez won with 58% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 69.26, color: DEMO_COLORS[0] },
-        { label: "White", pct: 46.91, color: DEMO_COLORS[1] },
+        { label: "White", pct: 19.02, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 6.40, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.45, color: DEMO_COLORS[3] }
       ],
@@ -3891,7 +3891,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "III won with 52% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 63.21, color: DEMO_COLORS[0] },
-        { label: "White", pct: 51.46, color: DEMO_COLORS[1] },
+        { label: "White", pct: 26.78, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 6.30, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.66, color: DEMO_COLORS[3] }
       ],
@@ -3924,7 +3924,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Campos won with 64% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 68.84, color: DEMO_COLORS[0] },
-        { label: "White", pct: 46.58, color: DEMO_COLORS[1] },
+        { label: "White", pct: 17.81, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 9.85, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.92, color: DEMO_COLORS[3] }
       ],
@@ -3957,7 +3957,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Gervin-hawkins won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 50.80, color: DEMO_COLORS[0] },
-        { label: "White", pct: 40.49, color: DEMO_COLORS[1] },
+        { label: "White", pct: 22.58, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 21.33, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.51, color: DEMO_COLORS[3] }
       ],
@@ -3989,7 +3989,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 47, rep: 53,
       partisanSub: "Lahood won with 53% in 2024.",
       demos: [
-        { label: "White", pct: 60.88, color: DEMO_COLORS[0] },
+        { label: "White", pct: 47.98, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 38.10, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 5.82, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.71, color: DEMO_COLORS[3] }
@@ -4022,7 +4022,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 42, rep: 58,
       partisanSub: "Dorazio won with 58% in 2024.",
       demos: [
-        { label: "White", pct: 63.19, color: DEMO_COLORS[0] },
+        { label: "White", pct: 48.74, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 38.53, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 5.47, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 4.11, color: DEMO_COLORS[3] }
@@ -4056,7 +4056,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Bernal won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 68.35, color: DEMO_COLORS[0] },
-        { label: "White", pct: 47.00, color: DEMO_COLORS[1] },
+        { label: "White", pct: 23.75, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 4.14, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.50, color: DEMO_COLORS[3] }
       ],
@@ -4089,7 +4089,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Garcia won with 62% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 70.78, color: DEMO_COLORS[0] },
-        { label: "White", pct: 44.95, color: DEMO_COLORS[1] },
+        { label: "White", pct: 15.66, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 9.14, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.33, color: DEMO_COLORS[3] }
       ],
@@ -4122,7 +4122,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Lopez won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 65.60, color: DEMO_COLORS[0] },
-        { label: "White", pct: 49.14, color: DEMO_COLORS[1] },
+        { label: "White", pct: 23.54, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 4.99, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.27, color: DEMO_COLORS[3] }
       ],
@@ -4154,7 +4154,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Harless won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 50.46, color: DEMO_COLORS[0] },
+        { label: "White", pct: 42.09, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 27.29, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 16.81, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 10.19, color: DEMO_COLORS[3] }
@@ -4187,7 +4187,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 39, rep: 61,
       partisanSub: "Cunningham won with 61% in 2024.",
       demos: [
-        { label: "White", pct: 55.74, color: DEMO_COLORS[0] },
+        { label: "White", pct: 45.09, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 29.82, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 16.96, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.28, color: DEMO_COLORS[3] }
@@ -4220,8 +4220,8 @@ const TX_HOUSE_DISTRICTS = [
       dem: 32, rep: 68,
       partisanSub: "Cain won with 68% in 2024.",
       demos: [
-        { label: "White", pct: 56.98, color: DEMO_COLORS[0] },
-        { label: "Hispanic / Latino", pct: 42.66, color: DEMO_COLORS[1] },
+        { label: "Hispanic / Latino", pct: 42.66, color: DEMO_COLORS[0] },
+        { label: "White", pct: 42.65, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 9.90, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.73, color: DEMO_COLORS[3] }
       ],
@@ -4253,7 +4253,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 39, rep: 61,
       partisanSub: "Paul won with 61% in 2024.",
       demos: [
-        { label: "White", pct: 61.67, color: DEMO_COLORS[0] },
+        { label: "White", pct: 50.38, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 28.53, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 10.07, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 7.42, color: DEMO_COLORS[3] }
@@ -4286,7 +4286,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 31, rep: 69,
       partisanSub: "Oliverson won with 69% in 2024.",
       demos: [
-        { label: "White", pct: 62.54, color: DEMO_COLORS[0] },
+        { label: "White", pct: 53.70, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 24.26, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 9.74, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 8.54, color: DEMO_COLORS[3] }
@@ -4321,7 +4321,7 @@ const TX_HOUSE_DISTRICTS = [
       demos: [
         { label: "Hispanic / Latino", pct: 50.73, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 35.07, color: DEMO_COLORS[1] },
-        { label: "White", pct: 19.42, color: DEMO_COLORS[2] },
+        { label: "White", pct: 6.73, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 6.00, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -4352,7 +4352,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 41, rep: 59,
       partisanSub: "Schofield won with 59% in 2024.",
       demos: [
-        { label: "White", pct: 49.71, color: DEMO_COLORS[0] },
+        { label: "White", pct: 41.14, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 28.46, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 12.65, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 12.18, color: DEMO_COLORS[3] }
@@ -4385,7 +4385,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Deayala won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 53.41, color: DEMO_COLORS[0] },
+        { label: "White", pct: 48.35, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 19.62, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 16.45, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 12.02, color: DEMO_COLORS[3] }
@@ -4418,7 +4418,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 61, rep: 39,
       partisanSub: "Johnson won with 61% in 2024.",
       demos: [
-        { label: "White", pct: 62.88, color: DEMO_COLORS[0] },
+        { label: "White", pct: 57.94, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 15.13, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 13.83, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 7.87, color: DEMO_COLORS[3] }
@@ -4452,8 +4452,8 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Rosenthal won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 45.79, color: DEMO_COLORS[0] },
-        { label: "White", pct: 33.05, color: DEMO_COLORS[1] },
-        { label: "Black / African American", pct: 20.25, color: DEMO_COLORS[2] },
+        { label: "Black / African American", pct: 20.25, color: DEMO_COLORS[1] },
+        { label: "White", pct: 20.12, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 9.38, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -4484,7 +4484,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 62, rep: 38,
       partisanSub: "III won with 62% in 2024.",
       demos: [
-        { label: "White", pct: 55.59, color: DEMO_COLORS[0] },
+        { label: "White", pct: 46.01, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 25.98, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 14.02, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 9.05, color: DEMO_COLORS[3] }
@@ -4518,8 +4518,8 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Wu won with 76% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 59.06, color: DEMO_COLORS[0] },
-        { label: "White", pct: 24.04, color: DEMO_COLORS[1] },
-        { label: "Black / African American", pct: 16.27, color: DEMO_COLORS[2] },
+        { label: "Black / African American", pct: 16.27, color: DEMO_COLORS[1] },
+        { label: "White", pct: 13.58, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 9.04, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -4550,8 +4550,8 @@ const TX_HOUSE_DISTRICTS = [
       dem: 43, rep: 57,
       partisanSub: "Hull won with 57% in 2024.",
       demos: [
-        { label: "White", pct: 45.90, color: DEMO_COLORS[0] },
-        { label: "Hispanic / Latino", pct: 43.23, color: DEMO_COLORS[1] },
+        { label: "Hispanic / Latino", pct: 43.23, color: DEMO_COLORS[0] },
+        { label: "White", pct: 35.53, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 10.13, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 8.06, color: DEMO_COLORS[3] }
       ],
@@ -4585,7 +4585,7 @@ const TX_HOUSE_DISTRICTS = [
       demos: [
         { label: "Hispanic / Latino", pct: 44.20, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 35.66, color: DEMO_COLORS[1] },
-        { label: "White", pct: 26.59, color: DEMO_COLORS[2] },
+        { label: "White", pct: 12.60, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 5.14, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -4617,8 +4617,8 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Walle won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 82.30, color: DEMO_COLORS[0] },
-        { label: "White", pct: 34.52, color: DEMO_COLORS[1] },
-        { label: "Black / African American", pct: 9.77, color: DEMO_COLORS[2] },
+        { label: "Black / African American", pct: 9.77, color: DEMO_COLORS[1] },
+        { label: "White", pct: 5.83, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.74, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -4651,7 +4651,7 @@ const TX_HOUSE_DISTRICTS = [
       demos: [
         { label: "Hispanic / Latino", pct: 49.32, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 40.49, color: DEMO_COLORS[1] },
-        { label: "White", pct: 20.98, color: DEMO_COLORS[2] },
+        { label: "White", pct: 5.54, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.62, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -4684,7 +4684,7 @@ const TX_HOUSE_DISTRICTS = [
       demos: [
         { label: "Hispanic / Latino", pct: 45.82, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 36.60, color: DEMO_COLORS[1] },
-        { label: "White", pct: 26.30, color: DEMO_COLORS[2] },
+        { label: "White", pct: 13.39, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.40, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -4716,8 +4716,8 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Hernandez won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 77.57, color: DEMO_COLORS[0] },
-        { label: "White", pct: 30.68, color: DEMO_COLORS[1] },
-        { label: "Black / African American", pct: 10.47, color: DEMO_COLORS[2] },
+        { label: "Black / African American", pct: 10.47, color: DEMO_COLORS[1] },
+        { label: "White", pct: 9.46, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.57, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -4749,7 +4749,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Perez won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 76.11, color: DEMO_COLORS[0] },
-        { label: "White", pct: 39.95, color: DEMO_COLORS[1] },
+        { label: "White", pct: 13.03, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 6.01, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.34, color: DEMO_COLORS[3] }
       ],
@@ -4782,7 +4782,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Morales won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 60.45, color: DEMO_COLORS[0] },
-        { label: "White", pct: 41.83, color: DEMO_COLORS[1] },
+        { label: "White", pct: 25.14, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 9.31, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.21, color: DEMO_COLORS[3] }
       ],
@@ -4816,7 +4816,7 @@ const TX_HOUSE_DISTRICTS = [
       demos: [
         { label: "Black / African American", pct: 42.56, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 30.11, color: DEMO_COLORS[1] },
-        { label: "White", pct: 24.15, color: DEMO_COLORS[2] },
+        { label: "White", pct: 17.54, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 7.19, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -4849,7 +4849,7 @@ const TX_HOUSE_DISTRICTS = [
       demos: [
         { label: "Hispanic / Latino", pct: 38.50, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 32.20, color: DEMO_COLORS[1] },
-        { label: "White", pct: 31.90, color: DEMO_COLORS[2] },
+        { label: "White", pct: 20.33, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 6.55, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -4881,7 +4881,7 @@ const TX_HOUSE_DISTRICTS = [
       partisanSub: "Shaw won with 55% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 57.47, color: DEMO_COLORS[0] },
-        { label: "White", pct: 34.06, color: DEMO_COLORS[1] },
+        { label: "White", pct: 19.00, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 13.39, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 8.37, color: DEMO_COLORS[3] }
       ],
@@ -4915,8 +4915,8 @@ const TX_HOUSE_DISTRICTS = [
       demos: [
         { label: "Hispanic / Latino", pct: 38.11, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 27.28, color: DEMO_COLORS[1] },
-        { label: "White", pct: 23.76, color: DEMO_COLORS[2] },
-        { label: "Asian", pct: 18.24, color: DEMO_COLORS[3] }
+        { label: "Asian", pct: 18.24, color: DEMO_COLORS[2] },
+        { label: "White", pct: 13.88, color: DEMO_COLORS[3] }
       ],
       issues: [],
       memoHeadline: "",
@@ -4946,7 +4946,7 @@ const TX_HOUSE_DISTRICTS = [
       dem: 46, rep: 54,
       partisanSub: "Bridges won with 54% in 2024.",
       demos: [
-        { label: "White", pct: 53.13, color: DEMO_COLORS[0] },
+        { label: "White", pct: 43.17, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 30.94, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 16.62, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 6.01, color: DEMO_COLORS[3] }
@@ -4982,7 +4982,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Hughes won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 70.04, color: DEMO_COLORS[0] },
+        { label: "White", pct: 63.44, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 16.32, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 15.38, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.05, color: DEMO_COLORS[3] }
@@ -5015,7 +5015,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 38, rep: 62,
       partisanSub: "Hall won with 62% in 2024.",
       demos: [
-        { label: "White", pct: 56.28, color: DEMO_COLORS[0] },
+        { label: "White", pct: 47.01, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 28.90, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 13.26, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 6.99, color: DEMO_COLORS[3] }
@@ -5048,7 +5048,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 23, rep: 77,
       partisanSub: "Nichols won with 77% in 2024.",
       demos: [
-        { label: "White", pct: 66.74, color: DEMO_COLORS[0] },
+        { label: "White", pct: 60.90, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 18.35, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 15.78, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.38, color: DEMO_COLORS[3] }
@@ -5081,7 +5081,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 30, rep: 70,
       partisanSub: "Creighton won with 70% in 2024.",
       demos: [
-        { label: "White", pct: 62.86, color: DEMO_COLORS[0] },
+        { label: "White", pct: 51.46, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 29.72, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 12.04, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.41, color: DEMO_COLORS[3] }
@@ -5114,7 +5114,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 28, rep: 72,
       partisanSub: "Schwertner won with 72% in 2024.",
       demos: [
-        { label: "White", pct: 64.65, color: DEMO_COLORS[0] },
+        { label: "White", pct: 54.76, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 27.20, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 10.02, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 4.26, color: DEMO_COLORS[3] }
@@ -5148,8 +5148,8 @@ const TX_SENATE_DISTRICTS = [
       partisanSub: "Alvarado won with 63% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 71.98, color: DEMO_COLORS[0] },
-        { label: "White", pct: 33.42, color: DEMO_COLORS[1] },
-        { label: "Black / African American", pct: 13.52, color: DEMO_COLORS[2] },
+        { label: "Black / African American", pct: 13.52, color: DEMO_COLORS[1] },
+        { label: "White", pct: 10.71, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.50, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -5180,7 +5180,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 37, rep: 63,
       partisanSub: "Bettencourt won with 63% in 2024.",
       demos: [
-        { label: "White", pct: 52.04, color: DEMO_COLORS[0] },
+        { label: "White", pct: 42.85, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 31.15, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 13.02, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 9.06, color: DEMO_COLORS[3] }
@@ -5213,7 +5213,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 41, rep: 59,
       partisanSub: "Paxton won with 59% in 2024.",
       demos: [
-        { label: "White", pct: 60.92, color: DEMO_COLORS[0] },
+        { label: "White", pct: 54.69, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 16.58, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 13.95, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 10.30, color: DEMO_COLORS[3] }
@@ -5246,7 +5246,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 40, rep: 60,
       partisanSub: "Hancock won with 60% in 2024.",
       demos: [
-        { label: "White", pct: 60.04, color: DEMO_COLORS[0] },
+        { label: "White", pct: 51.21, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 28.80, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 10.76, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 5.60, color: DEMO_COLORS[3] }
@@ -5279,7 +5279,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 38, rep: 62,
       partisanSub: "King won with 62% in 2024.",
       demos: [
-        { label: "White", pct: 58.58, color: DEMO_COLORS[0] },
+        { label: "White", pct: 48.82, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 29.42, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 16.03, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.74, color: DEMO_COLORS[3] }
@@ -5312,7 +5312,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Middleton won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 57.95, color: DEMO_COLORS[0] },
+        { label: "White", pct: 47.31, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 29.97, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 12.81, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 6.65, color: DEMO_COLORS[3] }
@@ -5345,7 +5345,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 39, rep: 61,
       partisanSub: "Parker won with 61% in 2024.",
       demos: [
-        { label: "White", pct: 62.83, color: DEMO_COLORS[0] },
+        { label: "White", pct: 54.96, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 21.04, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 11.88, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 8.25, color: DEMO_COLORS[3] }
@@ -5380,7 +5380,7 @@ const TX_SENATE_DISTRICTS = [
       demos: [
         { label: "Hispanic / Latino", pct: 39.31, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 37.89, color: DEMO_COLORS[1] },
-        { label: "White", pct: 20.08, color: DEMO_COLORS[2] },
+        { label: "White", pct: 11.40, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 9.23, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -5411,7 +5411,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 100, rep: 0,
       partisanSub: "Eckhardt won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 59.21, color: DEMO_COLORS[0] },
+        { label: "White", pct: 47.70, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 30.83, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 9.02, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 8.15, color: DEMO_COLORS[3] }
@@ -5445,7 +5445,7 @@ const TX_SENATE_DISTRICTS = [
       partisanSub: "Cook won with 62% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 40.92, color: DEMO_COLORS[0] },
-        { label: "White", pct: 40.07, color: DEMO_COLORS[1] },
+        { label: "White", pct: 28.04, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 20.42, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 7.60, color: DEMO_COLORS[3] }
       ],
@@ -5478,7 +5478,7 @@ const TX_SENATE_DISTRICTS = [
       partisanSub: "Johnson won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 49.08, color: DEMO_COLORS[0] },
-        { label: "White", pct: 42.51, color: DEMO_COLORS[1] },
+        { label: "White", pct: 26.09, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 16.46, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 5.93, color: DEMO_COLORS[3] }
       ],
@@ -5510,7 +5510,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 36, rep: 64,
       partisanSub: "Huffman won with 64% in 2024.",
       demos: [
-        { label: "White", pct: 52.79, color: DEMO_COLORS[0] },
+        { label: "White", pct: 44.10, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 28.53, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 11.98, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 11.82, color: DEMO_COLORS[3] }
@@ -5543,7 +5543,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 34, rep: 66,
       partisanSub: "Kolkhorst won with 66% in 2024.",
       demos: [
-        { label: "White", pct: 49.53, color: DEMO_COLORS[0] },
+        { label: "White", pct: 39.14, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 30.19, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 15.29, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 12.32, color: DEMO_COLORS[3] }
@@ -5577,7 +5577,7 @@ const TX_SENATE_DISTRICTS = [
       partisanSub: "Gutierrez won with 55% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 65.95, color: DEMO_COLORS[0] },
-        { label: "White", pct: 48.61, color: DEMO_COLORS[1] },
+        { label: "White", pct: 22.06, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 7.62, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.25, color: DEMO_COLORS[3] }
       ],
@@ -5610,7 +5610,7 @@ const TX_SENATE_DISTRICTS = [
       partisanSub: "Hinojosa won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 82.63, color: DEMO_COLORS[0] },
-        { label: "White", pct: 44.28, color: DEMO_COLORS[1] },
+        { label: "White", pct: 13.19, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 1.91, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.61, color: DEMO_COLORS[3] }
       ],
@@ -5643,7 +5643,7 @@ const TX_SENATE_DISTRICTS = [
       partisanSub: "Zaffirini won with 62% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 68.71, color: DEMO_COLORS[0] },
-        { label: "White", pct: 50.60, color: DEMO_COLORS[1] },
+        { label: "White", pct: 24.38, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 3.45, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.47, color: DEMO_COLORS[3] }
       ],
@@ -5675,7 +5675,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 26, rep: 74,
       partisanSub: "Birdwell won with 74% in 2024.",
       demos: [
-        { label: "White", pct: 58.94, color: DEMO_COLORS[0] },
+        { label: "White", pct: 51.26, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 25.39, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 15.77, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.93, color: DEMO_COLORS[3] }
@@ -5710,7 +5710,7 @@ const TX_SENATE_DISTRICTS = [
       demos: [
         { label: "Hispanic / Latino", pct: 39.59, color: DEMO_COLORS[0] },
         { label: "Black / African American", pct: 37.48, color: DEMO_COLORS[1] },
-        { label: "White", pct: 30.63, color: DEMO_COLORS[2] },
+        { label: "White", pct: 17.85, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.99, color: DEMO_COLORS[3] }
       ],
       issues: [],
@@ -5741,7 +5741,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 36, rep: 64,
       partisanSub: "Flores won with 64% in 2024.",
       demos: [
-        { label: "White", pct: 62.00, color: DEMO_COLORS[0] },
+        { label: "White", pct: 52.31, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 26.33, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 11.96, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 4.75, color: DEMO_COLORS[3] }
@@ -5774,7 +5774,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 36, rep: 64,
       partisanSub: "Campbell won with 64% in 2024.",
       demos: [
-        { label: "White", pct: 68.95, color: DEMO_COLORS[0] },
+        { label: "White", pct: 58.78, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 29.26, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 4.28, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.81, color: DEMO_COLORS[3] }
@@ -5808,7 +5808,7 @@ const TX_SENATE_DISTRICTS = [
       partisanSub: "Menéndez won with 67% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 65.92, color: DEMO_COLORS[0] },
-        { label: "White", pct: 45.54, color: DEMO_COLORS[1] },
+        { label: "White", pct: 20.63, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 8.01, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.21, color: DEMO_COLORS[3] }
       ],
@@ -5841,7 +5841,7 @@ const TX_SENATE_DISTRICTS = [
       partisanSub: "Hinojosa won with 49% in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 83.67, color: DEMO_COLORS[0] },
-        { label: "White", pct: 50.37, color: DEMO_COLORS[1] },
+        { label: "White", pct: 13.57, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 1.05, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.75, color: DEMO_COLORS[3] }
       ],
@@ -5873,7 +5873,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 0, rep: 100,
       partisanSub: "Perry won unopposed in 2024.",
       demos: [
-        { label: "White", pct: 69.44, color: DEMO_COLORS[0] },
+        { label: "White", pct: 55.20, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 34.01, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 6.17, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.72, color: DEMO_COLORS[3] }
@@ -5907,7 +5907,7 @@ const TX_SENATE_DISTRICTS = [
       partisanSub: "Blanco won unopposed in 2024.",
       demos: [
         { label: "Hispanic / Latino", pct: 81.99, color: DEMO_COLORS[0] },
-        { label: "White", pct: 39.93, color: DEMO_COLORS[1] },
+        { label: "White", pct: 12.05, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 3.23, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.25, color: DEMO_COLORS[3] }
       ],
@@ -5939,7 +5939,7 @@ const TX_SENATE_DISTRICTS = [
       dem: 46, rep: 54,
       partisanSub: "Bridges won with 54% in 2024.",
       demos: [
-        { label: "White", pct: 65.56, color: DEMO_COLORS[0] },
+        { label: "White", pct: 58.99, color: DEMO_COLORS[0] },
         { label: "Hispanic / Latino", pct: 18.28, color: DEMO_COLORS[1] },
         { label: "Asian", pct: 9.21, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 8.95, color: DEMO_COLORS[3] }
@@ -5972,8 +5972,8 @@ const TX_SENATE_DISTRICTS = [
       dem: 47, rep: 53,
       partisanSub: "Wilson won with 53% in 2024.",
       demos: [
-        { label: "White", pct: 63.86, color: DEMO_COLORS[0] },
-        { label: "Hispanic / Latino", pct: 45.37, color: DEMO_COLORS[1] },
+        { label: "Hispanic / Latino", pct: 45.37, color: DEMO_COLORS[0] },
+        { label: "White", pct: 45.20, color: DEMO_COLORS[1] },
         { label: "Black / African American", pct: 5.31, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.86, color: DEMO_COLORS[3] }
       ],

@@ -28,6 +28,7 @@ const CENSUS_VARS = [
   "B02001_005E", // Asian alone
   "B03001_001E", // Total population (Hispanic/Latino universe)
   "B03001_003E", // Hispanic or Latino
+  "B03002_003E", // Non-Hispanic White alone
   "B15003_001E", // Population 25+ (education universe)
   "B15003_022E", // Bachelor's degree
   "B15003_023E", // Master's degree
@@ -78,8 +79,9 @@ async function fetchCensusData(districtNum, chamber) {
   const white         = get("B02001_002E");
   const black         = get("B02001_003E");
   const asian         = get("B02001_005E");
-  const hispanicTotal = get("B03001_001E");
-  const hispanic      = get("B03001_003E");
+  const hispanicTotal    = get("B03001_001E");
+  const hispanic         = get("B03001_003E");
+  const nonHispanicWhite = get("B03002_003E");
   const edu25plus     = get("B15003_001E");
   const bachelors     = get("B15003_022E");
   const masters       = get("B15003_023E");
@@ -102,10 +104,11 @@ async function fetchCensusData(districtNum, chamber) {
     collegePct:    pctOf(collegeGrad, edu25plus),
     renterRatePct: pctOf(renterOccupied, totalUnits),
     race: {
-      whitePct:    pctOf(white, totalPop),
-      blackPct:    pctOf(black, totalPop),
-      asianPct:    pctOf(asian, totalPop),
-      hispanicPct: pctOf(hispanic, hispanicTotal),
+      whitePct:            pctOf(white, totalPop),
+      nonHispanicWhitePct: pctOf(nonHispanicWhite, totalPop),
+      blackPct:            pctOf(black, totalPop),
+      asianPct:            pctOf(asian, totalPop),
+      hispanicPct:         pctOf(hispanic, hispanicTotal),
     },
   };
 }
