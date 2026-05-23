@@ -1,0 +1,3880 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Oklahoma House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48862,
+        "medianAge": 39.2,
+        "totalPopulation": 38534,
+        "collegePct": 15.64,
+        "renterRatePct": 27.33,
+        "race": {
+          "whitePct": 62.09,
+          "nonHispanicWhitePct": 60.98,
+          "blackPct": 7,
+          "asianPct": 1,
+          "hispanicPct": 5.83
+        }
+      },
+      "election": {
+        "winner": "EDDY DEMPSEY",
+        "party": "REP",
+        "pct": 86.26,
+        "unopposed": false
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Oklahoma House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49795,
+        "medianAge": 40.6,
+        "totalPopulation": 39676,
+        "collegePct": 15.15,
+        "renterRatePct": 29,
+        "race": {
+          "whitePct": 62.39,
+          "nonHispanicWhitePct": 60.83,
+          "blackPct": 2.06,
+          "asianPct": 0.69,
+          "hispanicPct": 4.85
+        }
+      },
+      "election": {
+        "winner": "JIM OLSEN",
+        "party": "REP",
+        "pct": 58.24,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Oklahoma House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51671,
+        "medianAge": 37.5,
+        "totalPopulation": 39869,
+        "collegePct": 14.77,
+        "renterRatePct": 28.92,
+        "race": {
+          "whitePct": 72,
+          "nonHispanicWhitePct": 69.61,
+          "blackPct": 1.4,
+          "asianPct": 0.65,
+          "hispanicPct": 8.93
+        }
+      },
+      "election": {
+        "winner": "Rick West",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Oklahoma House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51902,
+        "medianAge": 36.3,
+        "totalPopulation": 39567,
+        "collegePct": 28.92,
+        "renterRatePct": 37.75,
+        "race": {
+          "whitePct": 47.7,
+          "nonHispanicWhitePct": 45.74,
+          "blackPct": 1.46,
+          "asianPct": 0.77,
+          "hispanicPct": 8.71
+        }
+      },
+      "election": {
+        "winner": "BOB ED CULVER",
+        "party": "REP",
+        "pct": 67.86,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Oklahoma House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56884,
+        "medianAge": 46.9,
+        "totalPopulation": 39017,
+        "collegePct": 19.64,
+        "renterRatePct": 24.26,
+        "race": {
+          "whitePct": 62.9,
+          "nonHispanicWhitePct": 61.98,
+          "blackPct": 0.32,
+          "asianPct": 1.1,
+          "hispanicPct": 3.98
+        }
+      },
+      "election": {
+        "winner": "Josh West",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Oklahoma House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62213,
+        "medianAge": 40,
+        "totalPopulation": 39787,
+        "collegePct": 16.99,
+        "renterRatePct": 24.34,
+        "race": {
+          "whitePct": 67.2,
+          "nonHispanicWhitePct": 65.92,
+          "blackPct": 1.82,
+          "asianPct": 1.52,
+          "hispanicPct": 3.48
+        }
+      },
+      "election": {
+        "winner": "Rusty Cornwell",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Oklahoma House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49620,
+        "medianAge": 39.8,
+        "totalPopulation": 38715,
+        "collegePct": 15.09,
+        "renterRatePct": 29.63,
+        "race": {
+          "whitePct": 65.64,
+          "nonHispanicWhitePct": 64.65,
+          "blackPct": 0.92,
+          "asianPct": 0.68,
+          "hispanicPct": 5.15
+        }
+      },
+      "election": {
+        "winner": "Steve Bashore",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Oklahoma House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69328,
+        "medianAge": 38.2,
+        "totalPopulation": 38948,
+        "collegePct": 19.77,
+        "renterRatePct": 22.29,
+        "race": {
+          "whitePct": 70.77,
+          "nonHispanicWhitePct": 69.03,
+          "blackPct": 0.53,
+          "asianPct": 0.85,
+          "hispanicPct": 4.76
+        }
+      },
+      "election": {
+        "winner": "Tom Gann",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Oklahoma House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75710,
+        "medianAge": 37.5,
+        "totalPopulation": 40327,
+        "collegePct": 26.99,
+        "renterRatePct": 28.24,
+        "race": {
+          "whitePct": 70.36,
+          "nonHispanicWhitePct": 68.19,
+          "blackPct": 1.62,
+          "asianPct": 1.51,
+          "hispanicPct": 6.54
+        }
+      },
+      "election": {
+        "winner": "Mark Lepak",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Oklahoma House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55099,
+        "medianAge": 40.9,
+        "totalPopulation": 38935,
+        "collegePct": 21.53,
+        "renterRatePct": 26.36,
+        "race": {
+          "whitePct": 71.21,
+          "nonHispanicWhitePct": 68.82,
+          "blackPct": 1.51,
+          "asianPct": 1.46,
+          "hispanicPct": 6.37
+        }
+      },
+      "election": {
+        "winner": "JUDD STROM",
+        "party": "REP",
+        "pct": 64.11,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Oklahoma House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82642,
+        "medianAge": 39.2,
+        "totalPopulation": 42037,
+        "collegePct": 33.33,
+        "renterRatePct": 23.64,
+        "race": {
+          "whitePct": 73.32,
+          "nonHispanicWhitePct": 72.3,
+          "blackPct": 2.81,
+          "asianPct": 2.84,
+          "hispanicPct": 5.55
+        }
+      },
+      "election": {
+        "winner": "John Kane",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Oklahoma House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84622,
+        "medianAge": 39.6,
+        "totalPopulation": 40392,
+        "collegePct": 29.32,
+        "renterRatePct": 14.07,
+        "race": {
+          "whitePct": 72.81,
+          "nonHispanicWhitePct": 71.25,
+          "blackPct": 2.77,
+          "asianPct": 1.63,
+          "hispanicPct": 5.75
+        }
+      },
+      "election": {
+        "winner": "MARK CHAPMAN",
+        "party": "REP",
+        "pct": 79.05,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Oklahoma House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47159,
+        "medianAge": 39,
+        "totalPopulation": 38977,
+        "collegePct": 14.96,
+        "renterRatePct": 33.54,
+        "race": {
+          "whitePct": 53.91,
+          "nonHispanicWhitePct": 51.91,
+          "blackPct": 12.37,
+          "asianPct": 1.04,
+          "hispanicPct": 6.6
+        }
+      },
+      "election": {
+        "winner": "NEIL HAYS",
+        "party": "REP",
+        "pct": 78.83,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Oklahoma House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57942,
+        "medianAge": 38.6,
+        "totalPopulation": 39197,
+        "collegePct": 23.12,
+        "renterRatePct": 34.4,
+        "race": {
+          "whitePct": 58.98,
+          "nonHispanicWhitePct": 57.22,
+          "blackPct": 5.7,
+          "asianPct": 0.74,
+          "hispanicPct": 7.46
+        }
+      },
+      "election": {
+        "winner": "Chris Sneed",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Oklahoma House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49753,
+        "medianAge": 44.4,
+        "totalPopulation": 39500,
+        "collegePct": 15.69,
+        "renterRatePct": 20.98,
+        "race": {
+          "whitePct": 69.9,
+          "nonHispanicWhitePct": 68.98,
+          "blackPct": 1,
+          "asianPct": 0.67,
+          "hispanicPct": 3.2
+        }
+      },
+      "election": {
+        "winner": "TIM TURNER",
+        "party": "REP",
+        "pct": 52.62,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Oklahoma House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55997,
+        "medianAge": 38.4,
+        "totalPopulation": 39173,
+        "collegePct": 20.57,
+        "renterRatePct": 29.08,
+        "race": {
+          "whitePct": 63.96,
+          "nonHispanicWhitePct": 62.28,
+          "blackPct": 7.57,
+          "asianPct": 0.71,
+          "hispanicPct": 4.71
+        }
+      },
+      "election": {
+        "winner": "SCOTT FETGATTER",
+        "party": "REP",
+        "pct": 71.43,
+        "unopposed": false
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Oklahoma House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53138,
+        "medianAge": 39.9,
+        "totalPopulation": 38518,
+        "collegePct": 18.47,
+        "renterRatePct": 28.63,
+        "race": {
+          "whitePct": 68.32,
+          "nonHispanicWhitePct": 66.45,
+          "blackPct": 1.41,
+          "asianPct": 0.75,
+          "hispanicPct": 4.67
+        }
+      },
+      "election": {
+        "winner": "Jim Grego",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Oklahoma House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47826,
+        "medianAge": 39.9,
+        "totalPopulation": 37788,
+        "collegePct": 14.87,
+        "renterRatePct": 28.67,
+        "race": {
+          "whitePct": 64.51,
+          "nonHispanicWhitePct": 61.78,
+          "blackPct": 5.18,
+          "asianPct": 0.51,
+          "hispanicPct": 5.76
+        }
+      },
+      "election": {
+        "winner": "David Smith",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Oklahoma House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47448,
+        "medianAge": 42.2,
+        "totalPopulation": 38003,
+        "collegePct": 15.88,
+        "renterRatePct": 26.85,
+        "race": {
+          "whitePct": 67.53,
+          "nonHispanicWhitePct": 66.04,
+          "blackPct": 4.87,
+          "asianPct": 0.4,
+          "hispanicPct": 5.03
+        }
+      },
+      "election": {
+        "winner": "Justin Humphrey",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Oklahoma House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87030,
+        "medianAge": 39.1,
+        "totalPopulation": 42044,
+        "collegePct": 30.55,
+        "renterRatePct": 25,
+        "race": {
+          "whitePct": 77.52,
+          "nonHispanicWhitePct": 75.18,
+          "blackPct": 3.16,
+          "asianPct": 0.68,
+          "hispanicPct": 6.5
+        }
+      },
+      "election": {
+        "winner": "JONATHAN WILK",
+        "party": "REP",
+        "pct": 75.76,
+        "unopposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Oklahoma House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56679,
+        "medianAge": 38,
+        "totalPopulation": 40213,
+        "collegePct": 25.45,
+        "renterRatePct": 37.5,
+        "race": {
+          "whitePct": 70.01,
+          "nonHispanicWhitePct": 68.15,
+          "blackPct": 2.25,
+          "asianPct": 0.79,
+          "hispanicPct": 7.6
+        }
+      },
+      "election": {
+        "winner": "Cody Maynard",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Oklahoma House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54606,
+        "medianAge": 39.9,
+        "totalPopulation": 39402,
+        "collegePct": 18.15,
+        "renterRatePct": 28.98,
+        "race": {
+          "whitePct": 69,
+          "nonHispanicWhitePct": 67.27,
+          "blackPct": 2.19,
+          "asianPct": 0.35,
+          "hispanicPct": 5.77
+        }
+      },
+      "election": {
+        "winner": "RYAN EAVES",
+        "party": "REP",
+        "pct": 62,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Oklahoma House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64474,
+        "medianAge": 35.2,
+        "totalPopulation": 39196,
+        "collegePct": 19.5,
+        "renterRatePct": 32.03,
+        "race": {
+          "whitePct": 57.16,
+          "nonHispanicWhitePct": 49.47,
+          "blackPct": 7.1,
+          "asianPct": 3.7,
+          "hispanicPct": 24.6
+        }
+      },
+      "election": {
+        "winner": "DERRICK R. HILDEBRANT",
+        "party": "REP",
+        "pct": 71.89,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Oklahoma House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84142,
+        "medianAge": 36.5,
+        "totalPopulation": 38787,
+        "collegePct": 33.81,
+        "renterRatePct": 21.31,
+        "race": {
+          "whitePct": 70.92,
+          "nonHispanicWhitePct": 68.07,
+          "blackPct": 2.56,
+          "asianPct": 2.49,
+          "hispanicPct": 10.05
+        }
+      },
+      "election": {
+        "winner": "Chris Banning",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Oklahoma House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62817,
+        "medianAge": 37.6,
+        "totalPopulation": 39512,
+        "collegePct": 29.47,
+        "renterRatePct": 32.85,
+        "race": {
+          "whitePct": 65.76,
+          "nonHispanicWhitePct": 64.05,
+          "blackPct": 2.42,
+          "asianPct": 1.02,
+          "hispanicPct": 6.08
+        }
+      },
+      "election": {
+        "winner": "RONNY JOHNS",
+        "party": "REP",
+        "pct": 72.72,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Oklahoma House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57234,
+        "medianAge": 36.1,
+        "totalPopulation": 39245,
+        "collegePct": 25.27,
+        "renterRatePct": 37.3,
+        "race": {
+          "whitePct": 71.04,
+          "nonHispanicWhitePct": 68.41,
+          "blackPct": 3.97,
+          "asianPct": 0.52,
+          "hispanicPct": 6.59
+        }
+      },
+      "election": {
+        "winner": "DELL KERBS",
+        "party": "REP",
+        "pct": 62.4,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Oklahoma House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72576,
+        "medianAge": 40.9,
+        "totalPopulation": 37429,
+        "collegePct": 20.57,
+        "renterRatePct": 17.28,
+        "race": {
+          "whitePct": 77.15,
+          "nonHispanicWhitePct": 75.36,
+          "blackPct": 1.69,
+          "asianPct": 1.01,
+          "hispanicPct": 5.71
+        }
+      },
+      "election": {
+        "winner": "Danny Sterling",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Oklahoma House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54772,
+        "medianAge": 40.2,
+        "totalPopulation": 39823,
+        "collegePct": 15.21,
+        "renterRatePct": 25.7,
+        "race": {
+          "whitePct": 67.42,
+          "nonHispanicWhitePct": 65.5,
+          "blackPct": 3.71,
+          "asianPct": 0.93,
+          "hispanicPct": 6.33
+        }
+      },
+      "election": {
+        "winner": "DANNY WILLIAMS",
+        "party": "REP",
+        "pct": 62.13,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Oklahoma House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67459,
+        "medianAge": 40.9,
+        "totalPopulation": 39961,
+        "collegePct": 18.76,
+        "renterRatePct": 21.6,
+        "race": {
+          "whitePct": 76.71,
+          "nonHispanicWhitePct": 74.85,
+          "blackPct": 1.47,
+          "asianPct": 0.24,
+          "hispanicPct": 4.4
+        }
+      },
+      "election": {
+        "winner": "Kyle Hilbert",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Oklahoma House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65116,
+        "medianAge": 39.2,
+        "totalPopulation": 38148,
+        "collegePct": 21,
+        "renterRatePct": 28.24,
+        "race": {
+          "whitePct": 72.28,
+          "nonHispanicWhitePct": 69.15,
+          "blackPct": 3.24,
+          "asianPct": 1.21,
+          "hispanicPct": 6.87
+        }
+      },
+      "election": {
+        "winner": "Mark Lawson",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Oklahoma House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90160,
+        "medianAge": 39.5,
+        "totalPopulation": 40910,
+        "collegePct": 35.54,
+        "renterRatePct": 13.21,
+        "race": {
+          "whitePct": 79.87,
+          "nonHispanicWhitePct": 76.33,
+          "blackPct": 4.49,
+          "asianPct": 0.56,
+          "hispanicPct": 10.23
+        }
+      },
+      "election": {
+        "winner": "Collin Duel",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Oklahoma House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58042,
+        "medianAge": 40.9,
+        "totalPopulation": 38652,
+        "collegePct": 16.12,
+        "renterRatePct": 21.06,
+        "race": {
+          "whitePct": 82.76,
+          "nonHispanicWhitePct": 80.74,
+          "blackPct": 1.6,
+          "asianPct": 0.47,
+          "hispanicPct": 3.9
+        }
+      },
+      "election": {
+        "winner": "JIM SHAW",
+        "party": "REP",
+        "pct": 54.34,
+        "unopposed": false
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Oklahoma House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60791,
+        "medianAge": 37.3,
+        "totalPopulation": 40241,
+        "collegePct": 32.85,
+        "renterRatePct": 30.26,
+        "race": {
+          "whitePct": 75.26,
+          "nonHispanicWhitePct": 73.34,
+          "blackPct": 5.82,
+          "asianPct": 2,
+          "hispanicPct": 6.84
+        }
+      },
+      "election": {
+        "winner": "MOLLY JENKINS",
+        "party": "REP",
+        "pct": 60.41,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Oklahoma House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 40018,
+        "medianAge": 22.9,
+        "totalPopulation": 40533,
+        "collegePct": 52.19,
+        "renterRatePct": 67.71,
+        "race": {
+          "whitePct": 73.38,
+          "nonHispanicWhitePct": 71.55,
+          "blackPct": 5.07,
+          "asianPct": 6.22,
+          "hispanicPct": 6.08
+        }
+      },
+      "election": {
+        "winner": "TRISH RANSON",
+        "party": "DEM",
+        "pct": 58.55,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Oklahoma House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58366,
+        "medianAge": 42.1,
+        "totalPopulation": 38319,
+        "collegePct": 17.58,
+        "renterRatePct": 22.06,
+        "race": {
+          "whitePct": 77.05,
+          "nonHispanicWhitePct": 75.78,
+          "blackPct": 1.4,
+          "asianPct": 0.37,
+          "hispanicPct": 3.26
+        }
+      },
+      "election": {
+        "winner": "Dillon Travis",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Oklahoma House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89169,
+        "medianAge": 41.3,
+        "totalPopulation": 39302,
+        "collegePct": 29.2,
+        "renterRatePct": 11.91,
+        "race": {
+          "whitePct": 81.9,
+          "nonHispanicWhitePct": 78.57,
+          "blackPct": 2.28,
+          "asianPct": 0.7,
+          "hispanicPct": 6.82
+        }
+      },
+      "election": {
+        "winner": "John George",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Oklahoma House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58088,
+        "medianAge": 39.7,
+        "totalPopulation": 39740,
+        "collegePct": 18.96,
+        "renterRatePct": 30.88,
+        "race": {
+          "whitePct": 70.18,
+          "nonHispanicWhitePct": 68.39,
+          "blackPct": 3.13,
+          "asianPct": 0.59,
+          "hispanicPct": 7.55
+        }
+      },
+      "election": {
+        "winner": "KEN LUTTRELL",
+        "party": "REP",
+        "pct": 78.57,
+        "unopposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Oklahoma House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65823,
+        "medianAge": 41.9,
+        "totalPopulation": 40056,
+        "collegePct": 19.92,
+        "renterRatePct": 21.9,
+        "race": {
+          "whitePct": 81.87,
+          "nonHispanicWhitePct": 79.19,
+          "blackPct": 0.71,
+          "asianPct": 0.47,
+          "hispanicPct": 7.6
+        }
+      },
+      "election": {
+        "winner": "JOHN PFEIFFER",
+        "party": "REP",
+        "pct": 84.84,
+        "unopposed": false
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Oklahoma House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101357,
+        "medianAge": 40.3,
+        "totalPopulation": 39117,
+        "collegePct": 50.08,
+        "renterRatePct": 26.09,
+        "race": {
+          "whitePct": 76.15,
+          "nonHispanicWhitePct": 74.5,
+          "blackPct": 7.03,
+          "asianPct": 3.68,
+          "hispanicPct": 7.03
+        }
+      },
+      "election": {
+        "winner": "ERICK HARRIS",
+        "party": "REP",
+        "pct": 75.88,
+        "unopposed": false
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Oklahoma House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58941,
+        "medianAge": 35,
+        "totalPopulation": 39131,
+        "collegePct": 20.44,
+        "renterRatePct": 41,
+        "race": {
+          "whitePct": 71.3,
+          "nonHispanicWhitePct": 66.45,
+          "blackPct": 1.99,
+          "asianPct": 1.64,
+          "hispanicPct": 16.97
+        }
+      },
+      "election": {
+        "winner": "Chad Caldwell",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Oklahoma House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106788,
+        "medianAge": 35.3,
+        "totalPopulation": 43447,
+        "collegePct": 48.69,
+        "renterRatePct": 16,
+        "race": {
+          "whitePct": 70.53,
+          "nonHispanicWhitePct": 68.7,
+          "blackPct": 6.62,
+          "asianPct": 5.1,
+          "hispanicPct": 8.52
+        }
+      },
+      "election": {
+        "winner": "DENISE CROSSWHITE HADER",
+        "party": "REP",
+        "pct": 68.43,
+        "unopposed": false
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Oklahoma House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61537,
+        "medianAge": 39.3,
+        "totalPopulation": 38306,
+        "collegePct": 18.65,
+        "renterRatePct": 28.26,
+        "race": {
+          "whitePct": 79.12,
+          "nonHispanicWhitePct": 73.84,
+          "blackPct": 0.97,
+          "asianPct": 0.19,
+          "hispanicPct": 11.66
+        }
+      },
+      "election": {
+        "winner": "CINDY ROE",
+        "party": "REP",
+        "pct": 53.53,
+        "unopposed": false
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Oklahoma House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77134,
+        "medianAge": 34.9,
+        "totalPopulation": 41474,
+        "collegePct": 30.85,
+        "renterRatePct": 33.85,
+        "race": {
+          "whitePct": 76.48,
+          "nonHispanicWhitePct": 73.47,
+          "blackPct": 3.65,
+          "asianPct": 2.98,
+          "hispanicPct": 9.68
+        }
+      },
+      "election": {
+        "winner": "JAY W. STEAGALL",
+        "party": "REP",
+        "pct": 70.19,
+        "unopposed": false
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Oklahoma House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46354,
+        "medianAge": 24.2,
+        "totalPopulation": 40420,
+        "collegePct": 46.59,
+        "renterRatePct": 67.04,
+        "race": {
+          "whitePct": 70.45,
+          "nonHispanicWhitePct": 66.56,
+          "blackPct": 5.9,
+          "asianPct": 5.55,
+          "hispanicPct": 10.42
+        }
+      },
+      "election": {
+        "winner": "Jared Deck",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Oklahoma House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70793,
+        "medianAge": 30.3,
+        "totalPopulation": 39595,
+        "collegePct": 41.86,
+        "renterRatePct": 41.46,
+        "race": {
+          "whitePct": 73.88,
+          "nonHispanicWhitePct": 71.73,
+          "blackPct": 6.29,
+          "asianPct": 3,
+          "hispanicPct": 6.19
+        }
+      },
+      "election": {
+        "winner": "ANNIE MENZ",
+        "party": "DEM",
+        "pct": 52.4,
+        "unopposed": false
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Oklahoma House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80900,
+        "medianAge": 38.5,
+        "totalPopulation": 40471,
+        "collegePct": 50.36,
+        "renterRatePct": 37.75,
+        "race": {
+          "whitePct": 74.27,
+          "nonHispanicWhitePct": 70.72,
+          "blackPct": 3.33,
+          "asianPct": 4.7,
+          "hispanicPct": 11.03
+        }
+      },
+      "election": {
+        "winner": "JACOB ROSECRANTS",
+        "party": "DEM",
+        "pct": 53.99,
+        "unopposed": false
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Oklahoma House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98406,
+        "medianAge": 37.3,
+        "totalPopulation": 43089,
+        "collegePct": 33.04,
+        "renterRatePct": 18.97,
+        "race": {
+          "whitePct": 75,
+          "nonHispanicWhitePct": 71.94,
+          "blackPct": 2.59,
+          "asianPct": 4.92,
+          "hispanicPct": 10.85
+        }
+      },
+      "election": {
+        "winner": "Brian Hill",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Oklahoma House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54413,
+        "medianAge": 36.9,
+        "totalPopulation": 40606,
+        "collegePct": 20.04,
+        "renterRatePct": 37.48,
+        "race": {
+          "whitePct": 67.53,
+          "nonHispanicWhitePct": 64.78,
+          "blackPct": 7.07,
+          "asianPct": 1.46,
+          "hispanicPct": 9.72
+        }
+      },
+      "election": {
+        "winner": "TAMMY TOWNLEY",
+        "party": "REP",
+        "pct": 60.7,
+        "unopposed": false
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Oklahoma House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61928,
+        "medianAge": 39.6,
+        "totalPopulation": 38006,
+        "collegePct": 16.58,
+        "renterRatePct": 23.71,
+        "race": {
+          "whitePct": 71.72,
+          "nonHispanicWhitePct": 68.74,
+          "blackPct": 1.45,
+          "asianPct": 0.48,
+          "hispanicPct": 13.51
+        }
+      },
+      "election": {
+        "winner": "Josh Cantrell",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Oklahoma House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57728,
+        "medianAge": 40.7,
+        "totalPopulation": 38993,
+        "collegePct": 18.84,
+        "renterRatePct": 27.06,
+        "race": {
+          "whitePct": 79.34,
+          "nonHispanicWhitePct": 76.57,
+          "blackPct": 1.84,
+          "asianPct": 0.52,
+          "hispanicPct": 9.32
+        }
+      },
+      "election": {
+        "winner": "STACY JO ADAMS",
+        "party": "REP",
+        "pct": 61.71,
+        "unopposed": false
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Oklahoma House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76791,
+        "medianAge": 40.4,
+        "totalPopulation": 39423,
+        "collegePct": 21.61,
+        "renterRatePct": 17.92,
+        "race": {
+          "whitePct": 84.15,
+          "nonHispanicWhitePct": 82.12,
+          "blackPct": 0.43,
+          "asianPct": 0.29,
+          "hispanicPct": 6.05
+        }
+      },
+      "election": {
+        "winner": "Brad Boles",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Oklahoma House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57045,
+        "medianAge": 36.6,
+        "totalPopulation": 39292,
+        "collegePct": 21.35,
+        "renterRatePct": 34.85,
+        "race": {
+          "whitePct": 74.41,
+          "nonHispanicWhitePct": 64.1,
+          "blackPct": 6.45,
+          "asianPct": 1.04,
+          "hispanicPct": 21.6
+        }
+      },
+      "election": {
+        "winner": "Gerrid Kendrix",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Oklahoma House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82808,
+        "medianAge": 34.5,
+        "totalPopulation": 40948,
+        "collegePct": 30.42,
+        "renterRatePct": 31.75,
+        "race": {
+          "whitePct": 72.96,
+          "nonHispanicWhitePct": 69.11,
+          "blackPct": 5.21,
+          "asianPct": 3.34,
+          "hispanicPct": 10.82
+        }
+      },
+      "election": {
+        "winner": "JASON BLAIR",
+        "party": "REP",
+        "pct": 62.41,
+        "unopposed": false
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Oklahoma House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62650,
+        "medianAge": 33.9,
+        "totalPopulation": 39047,
+        "collegePct": 24.89,
+        "renterRatePct": 40.53,
+        "race": {
+          "whitePct": 62.41,
+          "nonHispanicWhitePct": 56.89,
+          "blackPct": 8.1,
+          "asianPct": 4.08,
+          "hispanicPct": 18.83
+        }
+      },
+      "election": {
+        "winner": "Kevin West",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Oklahoma House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55118,
+        "medianAge": 37.7,
+        "totalPopulation": 38731,
+        "collegePct": 18.78,
+        "renterRatePct": 32.23,
+        "race": {
+          "whitePct": 82.07,
+          "nonHispanicWhitePct": 76.65,
+          "blackPct": 2.25,
+          "asianPct": 0.73,
+          "hispanicPct": 13.1
+        }
+      },
+      "election": {
+        "winner": "Nick Archer",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Oklahoma House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67041,
+        "medianAge": 38.1,
+        "totalPopulation": 38651,
+        "collegePct": 20.14,
+        "renterRatePct": 31.86,
+        "race": {
+          "whitePct": 77.02,
+          "nonHispanicWhitePct": 72.93,
+          "blackPct": 5.2,
+          "asianPct": 0.58,
+          "hispanicPct": 10.72
+        }
+      },
+      "election": {
+        "winner": "Dick Lowe",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Oklahoma House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58123,
+        "medianAge": 35.2,
+        "totalPopulation": 40181,
+        "collegePct": 26.29,
+        "renterRatePct": 33.76,
+        "race": {
+          "whitePct": 72.4,
+          "nonHispanicWhitePct": 68.02,
+          "blackPct": 4.44,
+          "asianPct": 0.73,
+          "hispanicPct": 16.63
+        }
+      },
+      "election": {
+        "winner": "Anthony Moore",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Oklahoma House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61487,
+        "medianAge": 37.6,
+        "totalPopulation": 38904,
+        "collegePct": 22.83,
+        "renterRatePct": 27.94,
+        "race": {
+          "whitePct": 84.17,
+          "nonHispanicWhitePct": 79.92,
+          "blackPct": 1.42,
+          "asianPct": 0.32,
+          "hispanicPct": 10.98
+        }
+      },
+      "election": {
+        "winner": "CARL NEWTON",
+        "party": "REP",
+        "pct": 79.87,
+        "unopposed": false
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Oklahoma House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68894,
+        "medianAge": 37.3,
+        "totalPopulation": 38453,
+        "collegePct": 21.03,
+        "renterRatePct": 29.5,
+        "race": {
+          "whitePct": 80.77,
+          "nonHispanicWhitePct": 74.59,
+          "blackPct": 2.05,
+          "asianPct": 0.33,
+          "hispanicPct": 14.86
+        }
+      },
+      "election": {
+        "winner": "Mike Dobrinski",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Oklahoma House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86165,
+        "medianAge": 36.2,
+        "totalPopulation": 38865,
+        "collegePct": 33.31,
+        "renterRatePct": 26,
+        "race": {
+          "whitePct": 71.12,
+          "nonHispanicWhitePct": 67.25,
+          "blackPct": 2.9,
+          "asianPct": 3.09,
+          "hispanicPct": 14.65
+        }
+      },
+      "election": {
+        "winner": "MIKE KELLEY",
+        "party": "REP",
+        "pct": 64.77,
+        "unopposed": false
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Oklahoma House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60551,
+        "medianAge": 37,
+        "totalPopulation": 37582,
+        "collegePct": 23.99,
+        "renterRatePct": 26.1,
+        "race": {
+          "whitePct": 63.23,
+          "nonHispanicWhitePct": 53.88,
+          "blackPct": 2.83,
+          "asianPct": 1.5,
+          "hispanicPct": 36.91
+        }
+      },
+      "election": {
+        "winner": "Kenton Patzkowsky",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Oklahoma House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59448,
+        "medianAge": 33.7,
+        "totalPopulation": 39667,
+        "collegePct": 24.85,
+        "renterRatePct": 47.78,
+        "race": {
+          "whitePct": 54.36,
+          "nonHispanicWhitePct": 49.9,
+          "blackPct": 18.98,
+          "asianPct": 3.19,
+          "hispanicPct": 15.05
+        }
+      },
+      "election": {
+        "winner": "DANIEL PAE",
+        "party": "REP",
+        "pct": 56.97,
+        "unopposed": false
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Oklahoma House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68689,
+        "medianAge": 35.3,
+        "totalPopulation": 38409,
+        "collegePct": 23.62,
+        "renterRatePct": 24.81,
+        "race": {
+          "whitePct": 68.1,
+          "nonHispanicWhitePct": 62.57,
+          "blackPct": 8.65,
+          "asianPct": 1.39,
+          "hispanicPct": 14.36
+        }
+      },
+      "election": {
+        "winner": "TREY CALDWELL",
+        "party": "REP",
+        "pct": 81.17,
+        "unopposed": false
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Oklahoma House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47406,
+        "medianAge": 36.4,
+        "totalPopulation": 39055,
+        "collegePct": 21.52,
+        "renterRatePct": 55.69,
+        "race": {
+          "whitePct": 52.69,
+          "nonHispanicWhitePct": 49.77,
+          "blackPct": 18.15,
+          "asianPct": 2.8,
+          "hispanicPct": 15.23
+        }
+      },
+      "election": {
+        "winner": "RANDE WORTHEN",
+        "party": "REP",
+        "pct": 53.81,
+        "unopposed": false
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Oklahoma House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58801,
+        "medianAge": 33.8,
+        "totalPopulation": 38376,
+        "collegePct": 19.88,
+        "renterRatePct": 28.91,
+        "race": {
+          "whitePct": 62.49,
+          "nonHispanicWhitePct": 58.84,
+          "blackPct": 5.32,
+          "asianPct": 0.88,
+          "hispanicPct": 13.52
+        }
+      },
+      "election": {
+        "winner": "TONI HASENBECK",
+        "party": "REP",
+        "pct": 59.92,
+        "unopposed": false
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "Oklahoma House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62222,
+        "medianAge": 39.8,
+        "totalPopulation": 39616,
+        "collegePct": 21.08,
+        "renterRatePct": 27.14,
+        "race": {
+          "whitePct": 74.5,
+          "nonHispanicWhitePct": 72.83,
+          "blackPct": 1.74,
+          "asianPct": 0.51,
+          "hispanicPct": 5.31
+        }
+      },
+      "election": {
+        "winner": "CLAY STAIRES",
+        "party": "REP",
+        "pct": 76.44,
+        "unopposed": false
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "Oklahoma House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88465,
+        "medianAge": 39.1,
+        "totalPopulation": 40052,
+        "collegePct": 49.51,
+        "renterRatePct": 38.1,
+        "race": {
+          "whitePct": 69.01,
+          "nonHispanicWhitePct": 65.74,
+          "blackPct": 7.71,
+          "asianPct": 6.93,
+          "hispanicPct": 8.74
+        }
+      },
+      "election": {
+        "winner": "ROB HALL",
+        "party": "REP",
+        "pct": 50.7,
+        "unopposed": false
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "Oklahoma House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70215,
+        "medianAge": 33.7,
+        "totalPopulation": 39749,
+        "collegePct": 33.54,
+        "renterRatePct": 42.23,
+        "race": {
+          "whitePct": 63.09,
+          "nonHispanicWhitePct": 59.85,
+          "blackPct": 5.44,
+          "asianPct": 6.88,
+          "hispanicPct": 10.94
+        }
+      },
+      "election": {
+        "winner": "MIKE LAY",
+        "party": "REP",
+        "pct": 52.98,
+        "unopposed": false
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "Oklahoma House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105105,
+        "medianAge": 38.5,
+        "totalPopulation": 38808,
+        "collegePct": 58.41,
+        "renterRatePct": 30.89,
+        "race": {
+          "whitePct": 74.94,
+          "nonHispanicWhitePct": 72.7,
+          "blackPct": 4.38,
+          "asianPct": 5.7,
+          "hispanicPct": 6.6
+        }
+      },
+      "election": {
+        "winner": "Mark Tedford",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "Oklahoma House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77257,
+        "medianAge": 42.8,
+        "totalPopulation": 39510,
+        "collegePct": 53.97,
+        "renterRatePct": 38.36,
+        "race": {
+          "whitePct": 75.75,
+          "nonHispanicWhitePct": 74.1,
+          "blackPct": 5.18,
+          "asianPct": 2.37,
+          "hispanicPct": 6.42
+        }
+      },
+      "election": {
+        "winner": "SUZANNE E. SCHREIBER",
+        "party": "DEM",
+        "pct": 56.45,
+        "unopposed": false
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "Oklahoma House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53832,
+        "medianAge": 36.2,
+        "totalPopulation": 40581,
+        "collegePct": 40.78,
+        "renterRatePct": 62.8,
+        "race": {
+          "whitePct": 60.89,
+          "nonHispanicWhitePct": 57.75,
+          "blackPct": 15.28,
+          "asianPct": 4.85,
+          "hispanicPct": 8.96
+        }
+      },
+      "election": {
+        "winner": "Amanda Clinton",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "Oklahoma House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46851,
+        "medianAge": 32.2,
+        "totalPopulation": 39756,
+        "collegePct": 21.48,
+        "renterRatePct": 51.33,
+        "race": {
+          "whitePct": 46.8,
+          "nonHispanicWhitePct": 42.55,
+          "blackPct": 14.4,
+          "asianPct": 2.81,
+          "hispanicPct": 27.4
+        }
+      },
+      "election": {
+        "winner": "MICHELLE McCANE",
+        "party": "DEM",
+        "pct": 72.52,
+        "unopposed": false
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "Oklahoma House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 40666,
+        "medianAge": 35.3,
+        "totalPopulation": 37800,
+        "collegePct": 17.5,
+        "renterRatePct": 48.36,
+        "race": {
+          "whitePct": 25.3,
+          "nonHispanicWhitePct": 21.7,
+          "blackPct": 51.33,
+          "asianPct": 0.46,
+          "hispanicPct": 15.26
+        }
+      },
+      "election": {
+        "winner": "RON STEWART",
+        "party": "DEM",
+        "pct": 52.83,
+        "unopposed": false
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "Oklahoma House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79490,
+        "medianAge": 35.7,
+        "totalPopulation": 40477,
+        "collegePct": 36.86,
+        "renterRatePct": 33.25,
+        "race": {
+          "whitePct": 73.57,
+          "nonHispanicWhitePct": 71.82,
+          "blackPct": 3.19,
+          "asianPct": 1.85,
+          "hispanicPct": 8.4
+        }
+      },
+      "election": {
+        "winner": "MARK VANCUREN",
+        "party": "REP",
+        "pct": 76.17,
+        "unopposed": false
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "Oklahoma House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72112,
+        "medianAge": 32.7,
+        "totalPopulation": 38563,
+        "collegePct": 29.99,
+        "renterRatePct": 47.11,
+        "race": {
+          "whitePct": 54.3,
+          "nonHispanicWhitePct": 45.42,
+          "blackPct": 9.83,
+          "asianPct": 5.72,
+          "hispanicPct": 28.16
+        }
+      },
+      "election": {
+        "winner": "T.J. Marti",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "Oklahoma House District 76",
+      "census": {
+        "censusName": "State House District 76 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86086,
+        "medianAge": 36.8,
+        "totalPopulation": 39448,
+        "collegePct": 32.31,
+        "renterRatePct": 21.21,
+        "race": {
+          "whitePct": 66.68,
+          "nonHispanicWhitePct": 62.74,
+          "blackPct": 7.91,
+          "asianPct": 6.99,
+          "hispanicPct": 10.88
+        }
+      },
+      "election": {
+        "winner": "Ross Ford",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "Oklahoma House District 77",
+      "census": {
+        "censusName": "State House District 77 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48363,
+        "medianAge": 32.7,
+        "totalPopulation": 37560,
+        "collegePct": 13.66,
+        "renterRatePct": 43.96,
+        "race": {
+          "whitePct": 52.42,
+          "nonHispanicWhitePct": 43.31,
+          "blackPct": 8.86,
+          "asianPct": 1.46,
+          "hispanicPct": 33.96
+        }
+      },
+      "election": {
+        "winner": "John Waldron",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "Oklahoma House District 78",
+      "census": {
+        "censusName": "State House District 78 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58554,
+        "medianAge": 37,
+        "totalPopulation": 41143,
+        "collegePct": 31.5,
+        "renterRatePct": 43.72,
+        "race": {
+          "whitePct": 62.66,
+          "nonHispanicWhitePct": 55.03,
+          "blackPct": 10.77,
+          "asianPct": 1.8,
+          "hispanicPct": 21.13
+        }
+      },
+      "election": {
+        "winner": "Meloyde Blancett",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "Oklahoma House District 79",
+      "census": {
+        "censusName": "State House District 79 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56010,
+        "medianAge": 36.3,
+        "totalPopulation": 39968,
+        "collegePct": 30.66,
+        "renterRatePct": 53.75,
+        "race": {
+          "whitePct": 56.88,
+          "nonHispanicWhitePct": 49.87,
+          "blackPct": 13.27,
+          "asianPct": 3.11,
+          "hispanicPct": 22.41
+        }
+      },
+      "election": {
+        "winner": "MELISSA PROVENZANO",
+        "party": "DEM",
+        "pct": 54.58,
+        "unopposed": false
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "Oklahoma House District 80",
+      "census": {
+        "censusName": "State House District 80 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87493,
+        "medianAge": 36.2,
+        "totalPopulation": 41109,
+        "collegePct": 41.19,
+        "renterRatePct": 32.49,
+        "race": {
+          "whitePct": 70.43,
+          "nonHispanicWhitePct": 67.07,
+          "blackPct": 5.51,
+          "asianPct": 3.59,
+          "hispanicPct": 10.03
+        }
+      },
+      "election": {
+        "winner": "Stan May",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "Oklahoma House District 81",
+      "census": {
+        "censusName": "State House District 81 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81526,
+        "medianAge": 32.7,
+        "totalPopulation": 39753,
+        "collegePct": 55.46,
+        "renterRatePct": 41.36,
+        "race": {
+          "whitePct": 76.61,
+          "nonHispanicWhitePct": 72.86,
+          "blackPct": 5.03,
+          "asianPct": 4.53,
+          "hispanicPct": 7.33
+        }
+      },
+      "election": {
+        "winner": "Mike Osburn",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "Oklahoma House District 82",
+      "census": {
+        "censusName": "State House District 82 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116820,
+        "medianAge": 35.4,
+        "totalPopulation": 43193,
+        "collegePct": 60.46,
+        "renterRatePct": 24.89,
+        "race": {
+          "whitePct": 65.42,
+          "nonHispanicWhitePct": 62.22,
+          "blackPct": 10.68,
+          "asianPct": 10.64,
+          "hispanicPct": 6.89
+        }
+      },
+      "election": {
+        "winner": "Nicole Miller",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "Oklahoma House District 83",
+      "census": {
+        "censusName": "State House District 83 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83599,
+        "medianAge": 38.2,
+        "totalPopulation": 36355,
+        "collegePct": 54.71,
+        "renterRatePct": 39.42,
+        "race": {
+          "whitePct": 68.24,
+          "nonHispanicWhitePct": 65.32,
+          "blackPct": 12.98,
+          "asianPct": 4.16,
+          "hispanicPct": 6.82
+        }
+      },
+      "election": {
+        "winner": "ERIC ROBERTS",
+        "party": "REP",
+        "pct": 55.42,
+        "unopposed": false
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "Oklahoma House District 84",
+      "census": {
+        "censusName": "State House District 84 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55162,
+        "medianAge": 33.5,
+        "totalPopulation": 38567,
+        "collegePct": 25.06,
+        "renterRatePct": 45.8,
+        "race": {
+          "whitePct": 63.15,
+          "nonHispanicWhitePct": 52.28,
+          "blackPct": 11.34,
+          "asianPct": 1.91,
+          "hispanicPct": 25.02
+        }
+      },
+      "election": {
+        "winner": "TAMMY WEST",
+        "party": "REP",
+        "pct": 58.18,
+        "unopposed": false
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "Oklahoma House District 85",
+      "census": {
+        "censusName": "State House District 85 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79760,
+        "medianAge": 39.5,
+        "totalPopulation": 38903,
+        "collegePct": 54.43,
+        "renterRatePct": 30.48,
+        "race": {
+          "whitePct": 72.2,
+          "nonHispanicWhitePct": 69.4,
+          "blackPct": 7.8,
+          "asianPct": 2.49,
+          "hispanicPct": 9.14
+        }
+      },
+      "election": {
+        "winner": "CYNDI MUNSON",
+        "party": "DEM",
+        "pct": 60.92,
+        "unopposed": false
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "Oklahoma House District 86",
+      "census": {
+        "censusName": "State House District 86 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50881,
+        "medianAge": 40.6,
+        "totalPopulation": 38494,
+        "collegePct": 15.51,
+        "renterRatePct": 25.91,
+        "race": {
+          "whitePct": 45.47,
+          "nonHispanicWhitePct": 44.52,
+          "blackPct": 0.58,
+          "asianPct": 1.62,
+          "hispanicPct": 5.45
+        }
+      },
+      "election": {
+        "winner": "DAVID HARDIN",
+        "party": "REP",
+        "pct": 77.31,
+        "unopposed": false
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "Oklahoma House District 87",
+      "census": {
+        "censusName": "State House District 87 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50815,
+        "medianAge": 34.8,
+        "totalPopulation": 39966,
+        "collegePct": 27.02,
+        "renterRatePct": 53.19,
+        "race": {
+          "whitePct": 55,
+          "nonHispanicWhitePct": 43.35,
+          "blackPct": 12.8,
+          "asianPct": 3.23,
+          "hispanicPct": 31.75
+        }
+      },
+      "election": {
+        "winner": "ELLYN HEFNER",
+        "party": "DEM",
+        "pct": 61.51,
+        "unopposed": false
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "Oklahoma House District 88",
+      "census": {
+        "censusName": "State House District 88 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59502,
+        "medianAge": 33.8,
+        "totalPopulation": 40473,
+        "collegePct": 40.04,
+        "renterRatePct": 49.29,
+        "race": {
+          "whitePct": 65.34,
+          "nonHispanicWhitePct": 56,
+          "blackPct": 5.31,
+          "asianPct": 4.32,
+          "hispanicPct": 24.89
+        }
+      },
+      "election": {
+        "winner": "ELLEN POGEMILLER",
+        "party": "DEM",
+        "pct": 76.88,
+        "unopposed": false
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "Oklahoma House District 89",
+      "census": {
+        "censusName": "State House District 89 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 39562,
+        "medianAge": 29.8,
+        "totalPopulation": 39534,
+        "collegePct": 6.18,
+        "renterRatePct": 55.8,
+        "race": {
+          "whitePct": 41.96,
+          "nonHispanicWhitePct": 20.72,
+          "blackPct": 8.11,
+          "asianPct": 0.21,
+          "hispanicPct": 65.68
+        }
+      },
+      "election": {
+        "winner": "Arturo Alonso Sandoval",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "Oklahoma House District 90",
+      "census": {
+        "censusName": "State House District 90 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59900,
+        "medianAge": 32.8,
+        "totalPopulation": 38802,
+        "collegePct": 25.74,
+        "renterRatePct": 41.72,
+        "race": {
+          "whitePct": 56.15,
+          "nonHispanicWhitePct": 47.22,
+          "blackPct": 11.84,
+          "asianPct": 5.11,
+          "hispanicPct": 25.56
+        }
+      },
+      "election": {
+        "winner": "EMILY GISE",
+        "party": "REP",
+        "pct": 66.28,
+        "unopposed": false
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "Oklahoma House District 91",
+      "census": {
+        "censusName": "State House District 91 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87417,
+        "medianAge": 40.2,
+        "totalPopulation": 40756,
+        "collegePct": 35.5,
+        "renterRatePct": 23.25,
+        "race": {
+          "whitePct": 66.75,
+          "nonHispanicWhitePct": 63.51,
+          "blackPct": 4.57,
+          "asianPct": 10.6,
+          "hispanicPct": 10.51
+        }
+      },
+      "election": {
+        "winner": "CHRIS KANNADY",
+        "party": "REP",
+        "pct": 83.03,
+        "unopposed": false
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "Oklahoma House District 92",
+      "census": {
+        "censusName": "State House District 92 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44265,
+        "medianAge": 31.4,
+        "totalPopulation": 41229,
+        "collegePct": 12.23,
+        "renterRatePct": 61.81,
+        "race": {
+          "whitePct": 46.94,
+          "nonHispanicWhitePct": 30.82,
+          "blackPct": 9.24,
+          "asianPct": 2.37,
+          "hispanicPct": 49.99
+        }
+      },
+      "election": {
+        "winner": "VACANT",
+        "party": "",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "Oklahoma House District 93",
+      "census": {
+        "censusName": "State House District 93 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48775,
+        "medianAge": 31.2,
+        "totalPopulation": 39363,
+        "collegePct": 8.39,
+        "renterRatePct": 48.96,
+        "race": {
+          "whitePct": 49.56,
+          "nonHispanicWhitePct": 30.55,
+          "blackPct": 8.4,
+          "asianPct": 1.03,
+          "hispanicPct": 51.32
+        }
+      },
+      "election": {
+        "winner": "Mickey Dollens",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "Oklahoma House District 94",
+      "census": {
+        "censusName": "State House District 94 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55222,
+        "medianAge": 33.4,
+        "totalPopulation": 40625,
+        "collegePct": 17.9,
+        "renterRatePct": 43.65,
+        "race": {
+          "whitePct": 51.86,
+          "nonHispanicWhitePct": 44.46,
+          "blackPct": 23.48,
+          "asianPct": 3.11,
+          "hispanicPct": 18.48
+        }
+      },
+      "election": {
+        "winner": "ANDY FUGATE",
+        "party": "DEM",
+        "pct": 60.57,
+        "unopposed": false
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "Oklahoma House District 95",
+      "census": {
+        "censusName": "State House District 95 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64032,
+        "medianAge": 33.2,
+        "totalPopulation": 40307,
+        "collegePct": 26.72,
+        "renterRatePct": 47.8,
+        "race": {
+          "whitePct": 63.48,
+          "nonHispanicWhitePct": 61.2,
+          "blackPct": 16.29,
+          "asianPct": 2.06,
+          "hispanicPct": 9.94
+        }
+      },
+      "election": {
+        "winner": "MAX WOLFLEY",
+        "party": "REP",
+        "pct": 54.01,
+        "unopposed": false
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "Oklahoma House District 96",
+      "census": {
+        "censusName": "State House District 96 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101710,
+        "medianAge": 38.2,
+        "totalPopulation": 40791,
+        "collegePct": 58.13,
+        "renterRatePct": 30.3,
+        "race": {
+          "whitePct": 68.49,
+          "nonHispanicWhitePct": 66.86,
+          "blackPct": 12.47,
+          "asianPct": 5.48,
+          "hispanicPct": 4.22
+        }
+      },
+      "election": {
+        "winner": "PRESTON STINSON",
+        "party": "REP",
+        "pct": 58.76,
+        "unopposed": false
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "Oklahoma House District 97",
+      "census": {
+        "censusName": "State House District 97 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53521,
+        "medianAge": 39.2,
+        "totalPopulation": 38860,
+        "collegePct": 29.01,
+        "renterRatePct": 42.02,
+        "race": {
+          "whitePct": 36.89,
+          "nonHispanicWhitePct": 34.22,
+          "blackPct": 49.9,
+          "asianPct": 1.65,
+          "hispanicPct": 8.32
+        }
+      },
+      "election": {
+        "winner": "Aletia Timmons",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "Oklahoma House District 98",
+      "census": {
+        "censusName": "State House District 98 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78960,
+        "medianAge": 36.7,
+        "totalPopulation": 39671,
+        "collegePct": 30.75,
+        "renterRatePct": 29.16,
+        "race": {
+          "whitePct": 67.92,
+          "nonHispanicWhitePct": 64.43,
+          "blackPct": 4.73,
+          "asianPct": 3.25,
+          "hispanicPct": 13.21
+        }
+      },
+      "election": {
+        "winner": "GABE WOOLLEY",
+        "party": "REP",
+        "pct": 66.67,
+        "unopposed": false
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "Oklahoma House District 99",
+      "census": {
+        "censusName": "State House District 99 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46490,
+        "medianAge": 32.4,
+        "totalPopulation": 38827,
+        "collegePct": 29.77,
+        "renterRatePct": 64.19,
+        "race": {
+          "whitePct": 35.42,
+          "nonHispanicWhitePct": 31.12,
+          "blackPct": 44.55,
+          "asianPct": 1.6,
+          "hispanicPct": 13.4
+        }
+      },
+      "election": {
+        "winner": "AJAY PITTMAN",
+        "party": "DEM",
+        "pct": 53.54,
+        "unopposed": false
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "Oklahoma House District 100",
+      "census": {
+        "censusName": "State House District 100 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63654,
+        "medianAge": 36.3,
+        "totalPopulation": 39852,
+        "collegePct": 34.38,
+        "renterRatePct": 40.12,
+        "race": {
+          "whitePct": 58.57,
+          "nonHispanicWhitePct": 52.87,
+          "blackPct": 16.88,
+          "asianPct": 5.04,
+          "hispanicPct": 15.36
+        }
+      },
+      "election": {
+        "winner": "MARILYN STARK",
+        "party": "REP",
+        "pct": 50.94,
+        "unopposed": false
+      }
+    },
+    "101": {
+      "districtNumber": 101,
+      "districtName": "Oklahoma House District 101",
+      "census": {
+        "censusName": "State House District 101 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80730,
+        "medianAge": 39.1,
+        "totalPopulation": 40087,
+        "collegePct": 29.26,
+        "renterRatePct": 21.22,
+        "race": {
+          "whitePct": 67.94,
+          "nonHispanicWhitePct": 66.06,
+          "blackPct": 12.66,
+          "asianPct": 2.01,
+          "hispanicPct": 5.88
+        }
+      },
+      "election": {
+        "winner": "ROBERT MANGER",
+        "party": "REP",
+        "pct": 52.2,
+        "unopposed": false
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Oklahoma Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52571,
+        "medianAge": 40.7,
+        "totalPopulation": 81125,
+        "collegePct": 16.04,
+        "renterRatePct": 28.38,
+        "race": {
+          "whitePct": 65.35,
+          "nonHispanicWhitePct": 64.29,
+          "blackPct": 1.18,
+          "asianPct": 0.77,
+          "hispanicPct": 4.31
+        }
+      },
+      "election": {
+        "winner": "MICHEAL BERGSTROM",
+        "party": "REP",
+        "pct": 53.38,
+        "unopposed": false
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Oklahoma Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80877,
+        "medianAge": 38,
+        "totalPopulation": 86220,
+        "collegePct": 27.45,
+        "renterRatePct": 22.96,
+        "race": {
+          "whitePct": 70.92,
+          "nonHispanicWhitePct": 69.05,
+          "blackPct": 1.4,
+          "asianPct": 1.95,
+          "hispanicPct": 6.61
+        }
+      },
+      "election": {
+        "winner": "ALLY SEIFRIED",
+        "party": "REP",
+        "pct": 73.67,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Oklahoma Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67075,
+        "medianAge": 40.6,
+        "totalPopulation": 83069,
+        "collegePct": 23.12,
+        "renterRatePct": 20.28,
+        "race": {
+          "whitePct": 64.53,
+          "nonHispanicWhitePct": 63.01,
+          "blackPct": 2.21,
+          "asianPct": 0.84,
+          "hispanicPct": 5.27
+        }
+      },
+      "election": {
+        "winner": "JULIE McINTOSH",
+        "party": "REP",
+        "pct": 78.73,
+        "unopposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Oklahoma Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51441,
+        "medianAge": 42,
+        "totalPopulation": 82041,
+        "collegePct": 16.77,
+        "renterRatePct": 25.46,
+        "race": {
+          "whitePct": 55.8,
+          "nonHispanicWhitePct": 54.88,
+          "blackPct": 0.88,
+          "asianPct": 1.18,
+          "hispanicPct": 4.92
+        }
+      },
+      "election": {
+        "winner": "TOM WOODS",
+        "party": "REP",
+        "pct": 59.55,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Oklahoma Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50164,
+        "medianAge": 38.6,
+        "totalPopulation": 82582,
+        "collegePct": 15.09,
+        "renterRatePct": 27.72,
+        "race": {
+          "whitePct": 67.16,
+          "nonHispanicWhitePct": 65.44,
+          "blackPct": 4.03,
+          "asianPct": 0.87,
+          "hispanicPct": 7.2
+        }
+      },
+      "election": {
+        "winner": "George Burns",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Oklahoma Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50845,
+        "medianAge": 38.9,
+        "totalPopulation": 85389,
+        "collegePct": 20.2,
+        "renterRatePct": 32.85,
+        "race": {
+          "whitePct": 68.39,
+          "nonHispanicWhitePct": 66.72,
+          "blackPct": 3.74,
+          "asianPct": 0.64,
+          "hispanicPct": 6.14
+        }
+      },
+      "election": {
+        "winner": "David Bullard",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Oklahoma Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51024,
+        "medianAge": 40.4,
+        "totalPopulation": 83133,
+        "collegePct": 17.17,
+        "renterRatePct": 29.23,
+        "race": {
+          "whitePct": 67.8,
+          "nonHispanicWhitePct": 65.75,
+          "blackPct": 1.83,
+          "asianPct": 0.76,
+          "hispanicPct": 5.34
+        }
+      },
+      "election": {
+        "winner": "WARREN D HAMILTON",
+        "party": "REP",
+        "pct": 76.89,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Oklahoma Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50558,
+        "medianAge": 41.7,
+        "totalPopulation": 81855,
+        "collegePct": 15.72,
+        "renterRatePct": 26.37,
+        "race": {
+          "whitePct": 64.76,
+          "nonHispanicWhitePct": 63.26,
+          "blackPct": 5.54,
+          "asianPct": 0.68,
+          "hispanicPct": 3.88
+        }
+      },
+      "election": {
+        "winner": "Bryan Logan",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Oklahoma Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51223,
+        "medianAge": 36.1,
+        "totalPopulation": 80999,
+        "collegePct": 23.22,
+        "renterRatePct": 40.17,
+        "race": {
+          "whitePct": 51.25,
+          "nonHispanicWhitePct": 49.05,
+          "blackPct": 7.92,
+          "asianPct": 0.71,
+          "hispanicPct": 8.72
+        }
+      },
+      "election": {
+        "winner": "Avery Frix",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Oklahoma Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61582,
+        "medianAge": 40.7,
+        "totalPopulation": 83146,
+        "collegePct": 20.53,
+        "renterRatePct": 25.12,
+        "race": {
+          "whitePct": 71.34,
+          "nonHispanicWhitePct": 69.69,
+          "blackPct": 1.84,
+          "asianPct": 0.63,
+          "hispanicPct": 5.97
+        }
+      },
+      "election": {
+        "winner": "BILL COLEMAN",
+        "party": "REP",
+        "pct": 74.44,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Oklahoma Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41895,
+        "medianAge": 32.6,
+        "totalPopulation": 77899,
+        "collegePct": 17.04,
+        "renterRatePct": 52.57,
+        "race": {
+          "whitePct": 34.04,
+          "nonHispanicWhitePct": 29.31,
+          "blackPct": 32.82,
+          "asianPct": 1.05,
+          "hispanicPct": 25.38
+        }
+      },
+      "election": {
+        "winner": "REGINA GOODWIN",
+        "party": "DEM",
+        "pct": 83.72,
+        "unopposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Oklahoma Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68519,
+        "medianAge": 39.6,
+        "totalPopulation": 83324,
+        "collegePct": 20.3,
+        "renterRatePct": 24.68,
+        "race": {
+          "whitePct": 75.2,
+          "nonHispanicWhitePct": 72.75,
+          "blackPct": 2.11,
+          "asianPct": 0.64,
+          "hispanicPct": 5.44
+        }
+      },
+      "election": {
+        "winner": "TODD GOLLIHARE",
+        "party": "REP",
+        "pct": 68.83,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Oklahoma Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59038,
+        "medianAge": 38.8,
+        "totalPopulation": 83938,
+        "collegePct": 22.62,
+        "renterRatePct": 31.1,
+        "race": {
+          "whitePct": 69.21,
+          "nonHispanicWhitePct": 66.1,
+          "blackPct": 2.46,
+          "asianPct": 0.71,
+          "hispanicPct": 7.36
+        }
+      },
+      "election": {
+        "winner": "JONATHAN WINGARD",
+        "party": "REP",
+        "pct": 51.77,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Oklahoma Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56614,
+        "medianAge": 39.4,
+        "totalPopulation": 82373,
+        "collegePct": 19.13,
+        "renterRatePct": 29.85,
+        "race": {
+          "whitePct": 68.84,
+          "nonHispanicWhitePct": 66.63,
+          "blackPct": 4.02,
+          "asianPct": 0.78,
+          "hispanicPct": 9.38
+        }
+      },
+      "election": {
+        "winner": "Jerry Alvord",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Oklahoma Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93542,
+        "medianAge": 39.1,
+        "totalPopulation": 83252,
+        "collegePct": 37.76,
+        "renterRatePct": 24.87,
+        "race": {
+          "whitePct": 76.7,
+          "nonHispanicWhitePct": 74.08,
+          "blackPct": 2.88,
+          "asianPct": 2.82,
+          "hispanicPct": 8.75
+        }
+      },
+      "election": {
+        "winner": "LISA STANDRIDGE",
+        "party": "REP",
+        "pct": 61.73,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Oklahoma Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53458,
+        "medianAge": 26.9,
+        "totalPopulation": 83823,
+        "collegePct": 45.35,
+        "renterRatePct": 56.28,
+        "race": {
+          "whitePct": 71.22,
+          "nonHispanicWhitePct": 67.85,
+          "blackPct": 6.18,
+          "asianPct": 4.47,
+          "hispanicPct": 8.98
+        }
+      },
+      "election": {
+        "winner": "Mary B. Boren",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Oklahoma Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65199,
+        "medianAge": 38.9,
+        "totalPopulation": 83554,
+        "collegePct": 22.28,
+        "renterRatePct": 27.65,
+        "race": {
+          "whitePct": 74.26,
+          "nonHispanicWhitePct": 72.14,
+          "blackPct": 2.87,
+          "asianPct": 0.78,
+          "hispanicPct": 6.05
+        }
+      },
+      "election": {
+        "winner": "SHANE JETT",
+        "party": "REP",
+        "pct": 50.08,
+        "unopposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Oklahoma Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77097,
+        "medianAge": 34.7,
+        "totalPopulation": 84771,
+        "collegePct": 31.79,
+        "renterRatePct": 32.73,
+        "race": {
+          "whitePct": 71.39,
+          "nonHispanicWhitePct": 67.01,
+          "blackPct": 6.93,
+          "asianPct": 3.39,
+          "hispanicPct": 12.33
+        }
+      },
+      "election": {
+        "winner": "JACK STEWART",
+        "party": "REP",
+        "pct": 54.8,
+        "unopposed": false
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Oklahoma Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65929,
+        "medianAge": 37.1,
+        "totalPopulation": 80339,
+        "collegePct": 21.27,
+        "renterRatePct": 33.5,
+        "race": {
+          "whitePct": 77.09,
+          "nonHispanicWhitePct": 73.22,
+          "blackPct": 2.01,
+          "asianPct": 1.03,
+          "hispanicPct": 13.2
+        }
+      },
+      "election": {
+        "winner": "Roland Pederson",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Oklahoma Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73506,
+        "medianAge": 40.3,
+        "totalPopulation": 82272,
+        "collegePct": 28.16,
+        "renterRatePct": 19.41,
+        "race": {
+          "whitePct": 77.46,
+          "nonHispanicWhitePct": 74.75,
+          "blackPct": 4.31,
+          "asianPct": 0.75,
+          "hispanicPct": 8.47
+        }
+      },
+      "election": {
+        "winner": "Chuck Hall",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Oklahoma Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47000,
+        "medianAge": 27.6,
+        "totalPopulation": 84566,
+        "collegePct": 35.46,
+        "renterRatePct": 47.96,
+        "race": {
+          "whitePct": 76.47,
+          "nonHispanicWhitePct": 74.37,
+          "blackPct": 3.57,
+          "asianPct": 3.61,
+          "hispanicPct": 6.38
+        }
+      },
+      "election": {
+        "winner": "RANDY GRELLNER",
+        "party": "REP",
+        "pct": 64.58,
+        "unopposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Oklahoma Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101395,
+        "medianAge": 37.3,
+        "totalPopulation": 88195,
+        "collegePct": 47.17,
+        "renterRatePct": 21.75,
+        "race": {
+          "whitePct": 69.84,
+          "nonHispanicWhitePct": 67.59,
+          "blackPct": 8.65,
+          "asianPct": 5.34,
+          "hispanicPct": 9.39
+        }
+      },
+      "election": {
+        "winner": "KRISTEN THOMPSON",
+        "party": "REP",
+        "pct": 63.63,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Oklahoma Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76460,
+        "medianAge": 38.8,
+        "totalPopulation": 88937,
+        "collegePct": 23.02,
+        "renterRatePct": 27.39,
+        "race": {
+          "whitePct": 77.65,
+          "nonHispanicWhitePct": 75.07,
+          "blackPct": 2.61,
+          "asianPct": 0.99,
+          "hispanicPct": 10.23
+        }
+      },
+      "election": {
+        "winner": "Lonnie Paxton",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Oklahoma Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80163,
+        "medianAge": 34.8,
+        "totalPopulation": 85543,
+        "collegePct": 29.15,
+        "renterRatePct": 29.34,
+        "race": {
+          "whitePct": 67.48,
+          "nonHispanicWhitePct": 63.68,
+          "blackPct": 5.3,
+          "asianPct": 5.48,
+          "hispanicPct": 13.43
+        }
+      },
+      "election": {
+        "winner": "Darrell Weaver",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Oklahoma Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83777,
+        "medianAge": 37.5,
+        "totalPopulation": 85459,
+        "collegePct": 42.07,
+        "renterRatePct": 34.49,
+        "race": {
+          "whitePct": 68.44,
+          "nonHispanicWhitePct": 65.36,
+          "blackPct": 5.92,
+          "asianPct": 5.3,
+          "hispanicPct": 10.44
+        }
+      },
+      "election": {
+        "winner": "BRIAN GUTHRIE",
+        "party": "REP",
+        "pct": 67.17,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Oklahoma Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58718,
+        "medianAge": 36.5,
+        "totalPopulation": 79505,
+        "collegePct": 23.01,
+        "renterRatePct": 30.97,
+        "race": {
+          "whitePct": 69.21,
+          "nonHispanicWhitePct": 64.16,
+          "blackPct": 3.54,
+          "asianPct": 0.5,
+          "hispanicPct": 16.24
+        }
+      },
+      "election": {
+        "winner": "DARCY ALLEN JECH",
+        "party": "REP",
+        "pct": 52.29,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Oklahoma Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61373,
+        "medianAge": 36.8,
+        "totalPopulation": 79462,
+        "collegePct": 23.58,
+        "renterRatePct": 26.69,
+        "race": {
+          "whitePct": 74.55,
+          "nonHispanicWhitePct": 67.4,
+          "blackPct": 1.72,
+          "asianPct": 0.86,
+          "hispanicPct": 23.55
+        }
+      },
+      "election": {
+        "winner": "CASEY MURDOCK",
+        "party": "REP",
+        "pct": 51.94,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Oklahoma Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60606,
+        "medianAge": 41.3,
+        "totalPopulation": 81360,
+        "collegePct": 18.78,
+        "renterRatePct": 19.81,
+        "race": {
+          "whitePct": 76.22,
+          "nonHispanicWhitePct": 73.9,
+          "blackPct": 2.84,
+          "asianPct": 0.5,
+          "hispanicPct": 5.18
+        }
+      },
+      "election": {
+        "winner": "GRANT GREEN",
+        "party": "REP",
+        "pct": 76.38,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Oklahoma Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64465,
+        "medianAge": 40.1,
+        "totalPopulation": 81504,
+        "collegePct": 26.37,
+        "renterRatePct": 25.48,
+        "race": {
+          "whitePct": 71.55,
+          "nonHispanicWhitePct": 69.77,
+          "blackPct": 2.09,
+          "asianPct": 1.85,
+          "hispanicPct": 5.59
+        }
+      },
+      "election": {
+        "winner": "JULIE DANIELS",
+        "party": "REP",
+        "pct": 54.97,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Oklahoma Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51494,
+        "medianAge": 32.9,
+        "totalPopulation": 82752,
+        "collegePct": 24.98,
+        "renterRatePct": 48.99,
+        "race": {
+          "whitePct": 58.73,
+          "nonHispanicWhitePct": 45.36,
+          "blackPct": 9.08,
+          "asianPct": 2.07,
+          "hispanicPct": 34.32
+        }
+      },
+      "election": {
+        "winner": "JULIA KIRT",
+        "party": "DEM",
+        "pct": 59.21,
+        "unopposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Oklahoma Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62634,
+        "medianAge": 38.7,
+        "totalPopulation": 81805,
+        "collegePct": 20.23,
+        "renterRatePct": 30.04,
+        "race": {
+          "whitePct": 68.51,
+          "nonHispanicWhitePct": 65.3,
+          "blackPct": 9.63,
+          "asianPct": 1.31,
+          "hispanicPct": 10.65
+        }
+      },
+      "election": {
+        "winner": "SPENCER KERN",
+        "party": "REP",
+        "pct": 50.65,
+        "unopposed": false
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Oklahoma Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57437,
+        "medianAge": 32.5,
+        "totalPopulation": 82276,
+        "collegePct": 25.18,
+        "renterRatePct": 48.6,
+        "race": {
+          "whitePct": 59.77,
+          "nonHispanicWhitePct": 55.16,
+          "blackPct": 13.83,
+          "asianPct": 2.81,
+          "hispanicPct": 15.25
+        }
+      },
+      "election": {
+        "winner": "JOHN MICHAEL MONTGOMERY",
+        "party": "REP",
+        "pct": 67.42,
+        "unopposed": false
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Oklahoma Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81208,
+        "medianAge": 36.1,
+        "totalPopulation": 82016,
+        "collegePct": 34.07,
+        "renterRatePct": 30,
+        "race": {
+          "whitePct": 67.39,
+          "nonHispanicWhitePct": 63.53,
+          "blackPct": 7.51,
+          "asianPct": 4.73,
+          "hispanicPct": 11.12
+        }
+      },
+      "election": {
+        "winner": "CHRISTI GILLESPIE",
+        "party": "REP",
+        "pct": 67.25,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Oklahoma Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59374,
+        "medianAge": 33.5,
+        "totalPopulation": 85150,
+        "collegePct": 21.75,
+        "renterRatePct": 41.85,
+        "race": {
+          "whitePct": 57.92,
+          "nonHispanicWhitePct": 50.14,
+          "blackPct": 8.88,
+          "asianPct": 3.28,
+          "hispanicPct": 25.6
+        }
+      },
+      "election": {
+        "winner": "DANA PRIETO",
+        "party": "REP",
+        "pct": 55.63,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Oklahoma Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70705,
+        "medianAge": 40.1,
+        "totalPopulation": 86715,
+        "collegePct": 45.62,
+        "renterRatePct": 38.56,
+        "race": {
+          "whitePct": 72.3,
+          "nonHispanicWhitePct": 68.22,
+          "blackPct": 6.61,
+          "asianPct": 1.79,
+          "hispanicPct": 12.16
+        }
+      },
+      "election": {
+        "winner": "JO ANNA DOSSETT",
+        "party": "DEM",
+        "pct": 59.18,
+        "unopposed": false
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Oklahoma Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77532,
+        "medianAge": 34.9,
+        "totalPopulation": 82595,
+        "collegePct": 30.73,
+        "renterRatePct": 34.93,
+        "race": {
+          "whitePct": 61.65,
+          "nonHispanicWhitePct": 55.69,
+          "blackPct": 6.82,
+          "asianPct": 4.63,
+          "hispanicPct": 20.36
+        }
+      },
+      "election": {
+        "winner": "JOHN HASTE",
+        "party": "REP",
+        "pct": 58.9,
+        "unopposed": false
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Oklahoma Senate District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63440,
+        "medianAge": 33.8,
+        "totalPopulation": 83491,
+        "collegePct": 31.97,
+        "renterRatePct": 48.65,
+        "race": {
+          "whitePct": 63.23,
+          "nonHispanicWhitePct": 60.58,
+          "blackPct": 7.58,
+          "asianPct": 6.76,
+          "hispanicPct": 9.93
+        }
+      },
+      "election": {
+        "winner": "AARON REINHARDT",
+        "party": "REP",
+        "pct": 69.61,
+        "unopposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Oklahoma Senate District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56381,
+        "medianAge": 37.7,
+        "totalPopulation": 81164,
+        "collegePct": 18.55,
+        "renterRatePct": 31.92,
+        "race": {
+          "whitePct": 77.63,
+          "nonHispanicWhitePct": 69.55,
+          "blackPct": 5.47,
+          "asianPct": 0.8,
+          "hispanicPct": 17.75
+        }
+      },
+      "election": {
+        "winner": "Brent Howard",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Oklahoma Senate District 39",
+      "census": {
+        "censusName": "State Senate District 39 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67984,
+        "medianAge": 39.3,
+        "totalPopulation": 82287,
+        "collegePct": 45.74,
+        "renterRatePct": 43.97,
+        "race": {
+          "whitePct": 67.36,
+          "nonHispanicWhitePct": 63.7,
+          "blackPct": 9.74,
+          "asianPct": 3.12,
+          "hispanicPct": 10.9
+        }
+      },
+      "election": {
+        "winner": "DAVE RADER",
+        "party": "REP",
+        "pct": 56.3,
+        "unopposed": false
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Oklahoma Senate District 40",
+      "census": {
+        "censusName": "State Senate District 40 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68563,
+        "medianAge": 38.3,
+        "totalPopulation": 81827,
+        "collegePct": 44.6,
+        "renterRatePct": 38.24,
+        "race": {
+          "whitePct": 65.93,
+          "nonHispanicWhitePct": 61.35,
+          "blackPct": 12.12,
+          "asianPct": 4.12,
+          "hispanicPct": 11.56
+        }
+      },
+      "election": {
+        "winner": "CARRI HICKS",
+        "party": "DEM",
+        "pct": 56.86,
+        "unopposed": false
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Oklahoma Senate District 41",
+      "census": {
+        "censusName": "State Senate District 41 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115848,
+        "medianAge": 38.3,
+        "totalPopulation": 85059,
+        "collegePct": 60.46,
+        "renterRatePct": 26.17,
+        "race": {
+          "whitePct": 79.16,
+          "nonHispanicWhitePct": 76.61,
+          "blackPct": 4.7,
+          "asianPct": 3.98,
+          "hispanicPct": 5.23
+        }
+      },
+      "election": {
+        "winner": "Adam Pugh",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Oklahoma Senate District 42",
+      "census": {
+        "censusName": "State Senate District 42 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72231,
+        "medianAge": 37,
+        "totalPopulation": 84235,
+        "collegePct": 29.2,
+        "renterRatePct": 33.64,
+        "race": {
+          "whitePct": 67.71,
+          "nonHispanicWhitePct": 65.27,
+          "blackPct": 13.46,
+          "asianPct": 2,
+          "hispanicPct": 7.39
+        }
+      },
+      "election": {
+        "winner": "BRENDA STANLEY",
+        "party": "REP",
+        "pct": 53.43,
+        "unopposed": false
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Oklahoma Senate District 43",
+      "census": {
+        "censusName": "State Senate District 43 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72135,
+        "medianAge": 39.1,
+        "totalPopulation": 85828,
+        "collegePct": 23.47,
+        "renterRatePct": 23.12,
+        "race": {
+          "whitePct": 78.84,
+          "nonHispanicWhitePct": 75.61,
+          "blackPct": 1.91,
+          "asianPct": 0.32,
+          "hispanicPct": 9.66
+        }
+      },
+      "election": {
+        "winner": "KENDAL SACCHIERI",
+        "party": "REP",
+        "pct": 80.49,
+        "unopposed": false
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Oklahoma Senate District 44",
+      "census": {
+        "censusName": "State Senate District 44 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46668,
+        "medianAge": 30.4,
+        "totalPopulation": 84683,
+        "collegePct": 10.74,
+        "renterRatePct": 50.47,
+        "race": {
+          "whitePct": 46.47,
+          "nonHispanicWhitePct": 26.48,
+          "blackPct": 7.26,
+          "asianPct": 1.96,
+          "hispanicPct": 58.06
+        }
+      },
+      "election": {
+        "winner": "Michael Brooks",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Oklahoma Senate District 45",
+      "census": {
+        "censusName": "State Senate District 45 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67868,
+        "medianAge": 36.5,
+        "totalPopulation": 82629,
+        "collegePct": 27.69,
+        "renterRatePct": 37.51,
+        "race": {
+          "whitePct": 64.8,
+          "nonHispanicWhitePct": 57.97,
+          "blackPct": 7,
+          "asianPct": 5.26,
+          "hispanicPct": 19.55
+        }
+      },
+      "election": {
+        "winner": "Paul Rosino",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Oklahoma Senate District 46",
+      "census": {
+        "censusName": "State Senate District 46 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52212,
+        "medianAge": 32.9,
+        "totalPopulation": 84966,
+        "collegePct": 23.29,
+        "renterRatePct": 53.38,
+        "race": {
+          "whitePct": 52.56,
+          "nonHispanicWhitePct": 43.07,
+          "blackPct": 15.44,
+          "asianPct": 3.1,
+          "hispanicPct": 28.72
+        }
+      },
+      "election": {
+        "winner": "MARK MANN",
+        "party": "DEM",
+        "pct": 60.42,
+        "unopposed": false
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Oklahoma Senate District 47",
+      "census": {
+        "censusName": "State Senate District 47 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90901,
+        "medianAge": 35.2,
+        "totalPopulation": 84252,
+        "collegePct": 55.32,
+        "renterRatePct": 34.99,
+        "race": {
+          "whitePct": 64.25,
+          "nonHispanicWhitePct": 61.36,
+          "blackPct": 12.63,
+          "asianPct": 7.91,
+          "hispanicPct": 7.31
+        }
+      },
+      "election": {
+        "winner": "KELLY E. HINES",
+        "party": "REP",
+        "pct": 52.95,
+        "unopposed": false
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Oklahoma Senate District 48",
+      "census": {
+        "censusName": "State Senate District 48 (2022); Oklahoma",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47234,
+        "medianAge": 34.5,
+        "totalPopulation": 81895,
+        "collegePct": 26.98,
+        "renterRatePct": 57.98,
+        "race": {
+          "whitePct": 34.26,
+          "nonHispanicWhitePct": 30.76,
+          "blackPct": 48.32,
+          "asianPct": 1.85,
+          "hispanicPct": 10.68
+        }
+      },
+      "election": {
+        "winner": "NIKKI NICE",
+        "party": "DEM",
+        "pct": 72.67,
+        "unopposed": false
+      }
+    }
+  }
+}

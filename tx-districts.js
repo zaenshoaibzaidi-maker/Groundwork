@@ -10,8 +10,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-1",
     name: "Texas House District 1",
-    city: "Texarkana",
-    region: "East Texas Piney Woods",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Gary Vandeaver",
     incumbentParty: "Republican",
@@ -58,8 +58,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-2",
     name: "Texas House District 2",
-    city: "Greenville",
-    region: "Northeast Texas Farm Country",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Brent A. Money",
     incumbentParty: "Republican",
@@ -106,8 +106,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-3",
     name: "Texas House District 3",
-    city: "Magnolia",
-    region: "Houston Exurbs",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Cecil Bell JR",
     incumbentParty: "Republican",
@@ -154,8 +154,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-4",
     name: "Texas House District 4",
-    city: "Kaufman",
-    region: "East Dallas Exurbs",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Keith Bell",
     incumbentParty: "Republican",
@@ -202,8 +202,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-5",
     name: "Texas House District 5",
-    city: "Mount Pleasant",
-    region: "East Texas Piney Woods",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Cole Hefner",
     incumbentParty: "Republican",
@@ -250,8 +250,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-6",
     name: "Texas House District 6",
-    city: "Longview",
-    region: "East Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Daniel Alders",
     incumbentParty: "Republican",
@@ -298,8 +298,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-7",
     name: "Texas House District 7",
-    city: "Longview",
-    region: "East Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Jay Dean",
     incumbentParty: "Republican",
@@ -346,8 +346,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-8",
     name: "Texas House District 8",
-    city: "Palestine",
-    region: "East Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Cody Harris",
     incumbentParty: "Republican",
@@ -394,8 +394,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-9",
     name: "Texas House District 9",
-    city: "Lufkin",
-    region: "Deep East Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Trent Ashby",
     incumbentParty: "Republican",
@@ -442,8 +442,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-10",
     name: "Texas House District 10",
-    city: "Midlothian",
-    region: "South Dallas Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Brian Harrison",
     incumbentParty: "Republican",
@@ -490,8 +490,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-11",
     name: "Texas House District 11",
-    city: "Jacksonville",
-    region: "East Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Joanne Shofner",
     incumbentParty: "Republican",
@@ -538,8 +538,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-12",
     name: "Texas House District 12",
-    city: "Huntsville",
-    region: "Sam Houston Country",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Trey Wharton",
     incumbentParty: "Republican",
@@ -586,8 +586,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-13",
     name: "Texas House District 13",
-    city: "Hillsboro",
-    region: "Central Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Angelia Orr",
     incumbentParty: "Republican",
@@ -634,8 +634,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-14",
     name: "Texas House District 14",
-    city: "Waco",
-    region: "Central Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Paul Dyson",
     incumbentParty: "Republican",
@@ -682,8 +682,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-15",
     name: "Texas House District 15",
-    city: "The Woodlands",
-    region: "North Houston Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Steve Toth",
     incumbentParty: "Republican",
@@ -730,8 +730,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-16",
     name: "Texas House District 16",
-    city: "Conroe",
-    region: "North Houston Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Will Metcalf",
     incumbentParty: "Republican",
@@ -778,8 +778,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-17",
     name: "Texas House District 17",
-    city: "Bastrop",
-    region: "Austin Exurbs",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Stan Gerdes",
     incumbentParty: "Republican",
@@ -826,8 +826,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-18",
     name: "Texas House District 18",
-    city: "Nacogdoches",
-    region: "Deep East Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Janis Holt",
     incumbentParty: "Republican",
@@ -874,8 +874,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-19",
     name: "Texas House District 19",
-    city: "Bee Cave",
-    region: "West Austin Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Ellen Troxclair",
     incumbentParty: "Republican",
@@ -922,8 +922,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-20",
     name: "Texas House District 20",
-    city: "Georgetown",
-    region: "Austin North Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Terry M. Wilson",
     incumbentParty: "Republican",
@@ -970,8 +970,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-21",
     name: "Texas House District 21",
-    city: "Beaumont",
-    region: "Southeast Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Dade Phelan",
     incumbentParty: "Republican",
@@ -1018,8 +1018,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-22",
     name: "Texas House District 22",
-    city: "Port Arthur",
-    region: "Southeast Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Christian Manuel",
     incumbentParty: "Democrat",
@@ -1066,8 +1066,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-23",
     name: "Texas House District 23",
-    city: "League City",
-    region: "Galveston County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Terri Leo Wilson",
     incumbentParty: "Republican",
@@ -1114,8 +1114,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-24",
     name: "Texas House District 24",
-    city: "Friendswood",
-    region: "Southeast Houston",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Greg Bonnen",
     incumbentParty: "Republican",
@@ -1162,8 +1162,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-25",
     name: "Texas House District 25",
-    city: "Angleton",
-    region: "Brazoria County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Cody Thane Vasut",
     incumbentParty: "Republican",
@@ -1210,8 +1210,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-26",
     name: "Texas House District 26",
-    city: "Sugar Land",
-    region: "Fort Bend County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Matt Morgan",
     incumbentParty: "Republican",
@@ -1258,8 +1258,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-27",
     name: "Texas House District 27",
-    city: "Missouri City",
-    region: "Fort Bend County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Ronald Reynolds",
     incumbentParty: "Democrat",
@@ -1306,8 +1306,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-28",
     name: "Texas House District 28",
-    city: "Richmond",
-    region: "Fort Bend County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Gary Gates",
     incumbentParty: "Republican",
@@ -1354,8 +1354,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-29",
     name: "Texas House District 29",
-    city: "Pearland",
-    region: "Southeast Houston Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Jeffrey Barry",
     incumbentParty: "Republican",
@@ -1402,8 +1402,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-30",
     name: "Texas House District 30",
-    city: "Victoria",
-    region: "Gulf Coast",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Aj Louderback",
     incumbentParty: "Republican",
@@ -1450,8 +1450,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-31",
     name: "Texas House District 31",
-    city: "Rio Grande City",
-    region: "Rio Grande Valley",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Ryan Guillen",
     incumbentParty: "Republican",
@@ -1498,8 +1498,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-32",
     name: "Texas House District 32",
-    city: "Corpus Christi",
-    region: "Coastal Bend",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Todd Hunter",
     incumbentParty: "Republican",
@@ -1546,8 +1546,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-33",
     name: "Texas House District 33",
-    city: "Allen",
-    region: "North Dallas Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Katrina Pierson",
     incumbentParty: "Republican",
@@ -1594,8 +1594,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-34",
     name: "Texas House District 34",
-    city: "Mission",
-    region: "Rio Grande Valley",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Denise Villalobos",
     incumbentParty: "Republican",
@@ -1642,8 +1642,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-35",
     name: "Texas House District 35",
-    city: "Mission",
-    region: "Rio Grande Valley",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Oscar Longoria",
     incumbentParty: "Democrat",
@@ -1690,8 +1690,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-36",
     name: "Texas House District 36",
-    city: "Mission",
-    region: "Rio Grande Valley",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Sergio Muñoz JR",
     incumbentParty: "Democrat",
@@ -1738,8 +1738,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-37",
     name: "Texas House District 37",
-    city: "San Benito",
-    region: "Rio Grande Valley",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Janie Lopez",
     incumbentParty: "Republican",
@@ -1786,8 +1786,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-38",
     name: "Texas House District 38",
-    city: "Brownsville",
-    region: "Rio Grande Valley",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Erin Elizabeth Gamez",
     incumbentParty: "Democrat",
@@ -1834,8 +1834,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-39",
     name: "Texas House District 39",
-    city: "Weslaco",
-    region: "Rio Grande Valley",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Armando \"mando\" Martinez",
     incumbentParty: "Democrat",
@@ -1882,8 +1882,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-40",
     name: "Texas House District 40",
-    city: "Edinburg",
-    region: "Rio Grande Valley",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Terry Canales",
     incumbentParty: "Democrat",
@@ -1930,8 +1930,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-41",
     name: "Texas House District 41",
-    city: "McAllen",
-    region: "Rio Grande Valley",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Bobby Guerra",
     incumbentParty: "Democrat",
@@ -1978,8 +1978,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-42",
     name: "Texas House District 42",
-    city: "Laredo",
-    region: "South Texas Border",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Richard Pena Raymond",
     incumbentParty: "Democrat",
@@ -2026,8 +2026,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-43",
     name: "Texas House District 43",
-    city: "Kingsville",
-    region: "Coastal Bend",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "J.m. Lozano",
     incumbentParty: "Republican",
@@ -2074,8 +2074,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-44",
     name: "Texas House District 44",
-    city: "Corpus Christi",
-    region: "Coastal Bend",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Alan Schoolcraft",
     incumbentParty: "Republican",
@@ -2122,8 +2122,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-45",
     name: "Texas House District 45",
-    city: "Wimberley",
-    region: "Hays County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Erin Zwiener",
     incumbentParty: "Democrat",
@@ -2170,8 +2170,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-46",
     name: "Texas House District 46",
-    city: "Austin",
-    region: "Austin East Side",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Sheryl Cole",
     incumbentParty: "Democrat",
@@ -2218,8 +2218,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-47",
     name: "Texas House District 47",
-    city: "Austin",
-    region: "West Austin",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Vikki Goodwin",
     incumbentParty: "Democrat",
@@ -2266,8 +2266,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-48",
     name: "Texas House District 48",
-    city: "Austin",
-    region: "Central Austin",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Donna Howard",
     incumbentParty: "Democrat",
@@ -2314,8 +2314,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-49",
     name: "Texas House District 49",
-    city: "Austin",
-    region: "University of Texas Area",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Gina Hinojosa",
     incumbentParty: "Democrat",
@@ -2362,8 +2362,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-50",
     name: "Texas House District 50",
-    city: "Austin",
-    region: "East Austin",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "James Talarico",
     incumbentParty: "Democrat",
@@ -2410,8 +2410,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-51",
     name: "Texas House District 51",
-    city: "Austin",
-    region: "East Austin",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Maria Luisa \"lulu\" Flores",
     incumbentParty: "Democrat",
@@ -2458,8 +2458,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-52",
     name: "Texas House District 52",
-    city: "Round Rock",
-    region: "Austin North Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Caroline Harris Davila",
     incumbentParty: "Republican",
@@ -2506,8 +2506,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-53",
     name: "Texas House District 53",
-    city: "Kerrville",
-    region: "Hill Country",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Wes Virdell",
     incumbentParty: "Republican",
@@ -2554,8 +2554,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-54",
     name: "Texas House District 54",
-    city: "Killeen",
-    region: "Fort Cavazos Area",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Brad Buckley",
     incumbentParty: "Republican",
@@ -2602,8 +2602,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-55",
     name: "Texas House District 55",
-    city: "Temple",
-    region: "Central Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Hillary Hickland",
     incumbentParty: "Republican",
@@ -2650,8 +2650,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-56",
     name: "Texas House District 56",
-    city: "Waco",
-    region: "Central Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Pat Curry",
     incumbentParty: "Republican",
@@ -2698,8 +2698,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-57",
     name: "Texas House District 57",
-    city: "Colleyville",
-    region: "DFW Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Richard Hayes",
     incumbentParty: "Republican",
@@ -2746,8 +2746,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-58",
     name: "Texas House District 58",
-    city: "Granbury",
-    region: "North Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Helen Kerwin",
     incumbentParty: "Republican",
@@ -2794,8 +2794,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-59",
     name: "Texas House District 59",
-    city: "Stephenville",
-    region: "Central Texas Ranch Country",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Shelby Slawson",
     incumbentParty: "Republican",
@@ -2842,8 +2842,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-60",
     name: "Texas House District 60",
-    city: "Weatherford",
-    region: "Parker County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Mike Olcott",
     incumbentParty: "Republican",
@@ -2890,8 +2890,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-61",
     name: "Texas House District 61",
-    city: "Plano",
-    region: "Collin County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Keresa Richardson",
     incumbentParty: "Republican",
@@ -2938,8 +2938,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-62",
     name: "Texas House District 62",
-    city: "Sherman",
-    region: "Northeast Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Shelley Luther",
     incumbentParty: "Republican",
@@ -2986,8 +2986,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-63",
     name: "Texas House District 63",
-    city: "Carrollton",
-    region: "DFW Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Ben Bumgarner",
     incumbentParty: "Republican",
@@ -3034,8 +3034,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-64",
     name: "Texas House District 64",
-    city: "Cleburne",
-    region: "Johnson County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Andy Hopper",
     incumbentParty: "Republican",
@@ -3082,8 +3082,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-65",
     name: "Texas House District 65",
-    city: "Frisco",
-    region: "Collin County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Mitch Little",
     incumbentParty: "Republican",
@@ -3130,8 +3130,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-66",
     name: "Texas House District 66",
-    city: "Allen",
-    region: "Collin County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Matt Shaheen",
     incumbentParty: "Republican",
@@ -3178,8 +3178,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-67",
     name: "Texas House District 67",
-    city: "Plano",
-    region: "Collin County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Jeff Leach",
     incumbentParty: "Republican",
@@ -3226,8 +3226,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-68",
     name: "Texas House District 68",
-    city: "Jacksboro",
-    region: "North Texas Ranch Country",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "David Spiller",
     incumbentParty: "Republican",
@@ -3274,8 +3274,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-69",
     name: "Texas House District 69",
-    city: "Wichita Falls",
-    region: "North Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "James B Frank",
     incumbentParty: "Republican",
@@ -3322,8 +3322,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-70",
     name: "Texas House District 70",
-    city: "Allen",
-    region: "Collin County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Mihaela Elizabeth Plesa",
     incumbentParty: "Democrat",
@@ -3370,8 +3370,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-71",
     name: "Texas House District 71",
-    city: "Abilene",
-    region: "West Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Stan Lambert",
     incumbentParty: "Republican",
@@ -3418,8 +3418,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-72",
     name: "Texas House District 72",
-    city: "San Angelo",
-    region: "West Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Drew Darby",
     incumbentParty: "Republican",
@@ -3466,8 +3466,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-73",
     name: "Texas House District 73",
-    city: "New Braunfels",
-    region: "Hill Country",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Carrie Isaac",
     incumbentParty: "Republican",
@@ -3514,8 +3514,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-74",
     name: "Texas House District 74",
-    city: "Eagle Pass",
-    region: "Southwest Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Eddie Morales JR",
     incumbentParty: "Democrat",
@@ -3562,8 +3562,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-75",
     name: "Texas House District 75",
-    city: "Clint",
-    region: "El Paso County Rural",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Mary E. Gonzalez",
     incumbentParty: "Democrat",
@@ -3610,8 +3610,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-76",
     name: "Texas House District 76",
-    city: "Sugar Land",
-    region: "Fort Bend County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Suleman Lalani",
     incumbentParty: "Democrat",
@@ -3658,8 +3658,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-77",
     name: "Texas House District 77",
-    city: "El Paso",
-    region: "El Paso",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Vincent \"vince\" Perez",
     incumbentParty: "Democrat",
@@ -3706,8 +3706,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-78",
     name: "Texas House District 78",
-    city: "El Paso",
-    region: "El Paso",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Joe Moody",
     incumbentParty: "Democrat",
@@ -3754,8 +3754,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-79",
     name: "Texas House District 79",
-    city: "El Paso",
-    region: "El Paso",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Claudia Ordaz",
     incumbentParty: "Democrat",
@@ -3802,8 +3802,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-80",
     name: "Texas House District 80",
-    city: "Uvalde",
-    region: "Southwest Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Don Mclaughlin JR",
     incumbentParty: "Republican",
@@ -3850,8 +3850,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-81",
     name: "Texas House District 81",
-    city: "Odessa",
-    region: "Permian Basin",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Brooks Landgraf",
     incumbentParty: "Republican",
@@ -3898,8 +3898,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-82",
     name: "Texas House District 82",
-    city: "Midland",
-    region: "Permian Basin",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Tom Craddick",
     incumbentParty: "Republican",
@@ -3946,8 +3946,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-83",
     name: "Texas House District 83",
-    city: "Lubbock",
-    region: "South Plains",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Dustin Burrows",
     incumbentParty: "Republican",
@@ -3994,8 +3994,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-84",
     name: "Texas House District 84",
-    city: "Lubbock",
-    region: "South Plains",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Carl H. Tepper",
     incumbentParty: "Republican",
@@ -4042,8 +4042,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-85",
     name: "Texas House District 85",
-    city: "Waller",
-    region: "Houston Exurbs",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Stan Kitzman",
     incumbentParty: "Republican",
@@ -4090,8 +4090,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-86",
     name: "Texas House District 86",
-    city: "Amarillo",
-    region: "Texas Panhandle",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "John Smithee",
     incumbentParty: "Republican",
@@ -4138,8 +4138,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-87",
     name: "Texas House District 87",
-    city: "Amarillo",
-    region: "Texas Panhandle",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Caroline Fairly",
     incumbentParty: "Republican",
@@ -4186,8 +4186,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-88",
     name: "Texas House District 88",
-    city: "Canadian",
-    region: "Texas Panhandle",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Ken King",
     incumbentParty: "Republican",
@@ -4234,8 +4234,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-89",
     name: "Texas House District 89",
-    city: "Lucas",
-    region: "Collin County Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Candy Noble",
     incumbentParty: "Republican",
@@ -4282,8 +4282,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-90",
     name: "Texas House District 90",
-    city: "Fort Worth",
-    region: "Fort Worth Urban Core",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Ramon Romero JR",
     incumbentParty: "Democrat",
@@ -4330,8 +4330,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-91",
     name: "Texas House District 91",
-    city: "Hurst",
-    region: "Mid-Cities",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "David Lowe",
     incumbentParty: "Republican",
@@ -4378,8 +4378,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-92",
     name: "Texas House District 92",
-    city: "Euless",
-    region: "Mid-Cities",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Salman Bhojani",
     incumbentParty: "Democrat",
@@ -4426,8 +4426,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-93",
     name: "Texas House District 93",
-    city: "Fort Worth",
-    region: "North Tarrant County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Nate Schatzline",
     incumbentParty: "Republican",
@@ -4474,8 +4474,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-94",
     name: "Texas House District 94",
-    city: "Arlington",
-    region: "Tarrant County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Tony Tinderholt",
     incumbentParty: "Republican",
@@ -4522,8 +4522,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-95",
     name: "Texas House District 95",
-    city: "Fort Worth",
-    region: "Fort Worth Urban Core",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Nicole Collier",
     incumbentParty: "Democrat",
@@ -4570,8 +4570,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-96",
     name: "Texas House District 96",
-    city: "Mansfield",
-    region: "South Tarrant County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "David Cook",
     incumbentParty: "Republican",
@@ -4618,8 +4618,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-97",
     name: "Texas House District 97",
-    city: "Fort Worth",
-    region: "Tarrant County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "John Mcqueeney",
     incumbentParty: "Republican",
@@ -4666,8 +4666,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-98",
     name: "Texas House District 98",
-    city: "Southlake",
-    region: "Tarrant County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Giovanni Capriglione",
     incumbentParty: "Republican",
@@ -4714,8 +4714,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-99",
     name: "Texas House District 99",
-    city: "Fort Worth",
-    region: "Fort Worth",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Charlie Geren",
     incumbentParty: "Republican",
@@ -4762,8 +4762,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-100",
     name: "Texas House District 100",
-    city: "Dallas",
-    region: "South Dallas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Venton Jones",
     incumbentParty: "Democrat",
@@ -4810,8 +4810,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-101",
     name: "Texas House District 101",
-    city: "Grand Prairie",
-    region: "West Dallas/Tarrant",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Chris Turner",
     incumbentParty: "Democrat",
@@ -4858,8 +4858,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-102",
     name: "Texas House District 102",
-    city: "Dallas",
-    region: "Dallas County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Ana-maria Ramos",
     incumbentParty: "Democrat",
@@ -4906,8 +4906,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-103",
     name: "Texas House District 103",
-    city: "Dallas",
-    region: "West Dallas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Rafael Anchia",
     incumbentParty: "Democrat",
@@ -4954,8 +4954,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-104",
     name: "Texas House District 104",
-    city: "Dallas",
-    region: "South Dallas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Jessica Gonzalez",
     incumbentParty: "Democrat",
@@ -5002,8 +5002,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-105",
     name: "Texas House District 105",
-    city: "Irving",
-    region: "Irving/Carrollton",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Terry Meza",
     incumbentParty: "Democrat",
@@ -5050,8 +5050,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-106",
     name: "Texas House District 106",
-    city: "Frisco",
-    region: "Denton County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Jared Patterson",
     incumbentParty: "Republican",
@@ -5098,8 +5098,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-107",
     name: "Texas House District 107",
-    city: "Garland",
-    region: "East Dallas County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Linda Garcia",
     incumbentParty: "Democrat",
@@ -5146,8 +5146,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-108",
     name: "Texas House District 108",
-    city: "Dallas",
-    region: "Park Cities",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Morgan Meyer",
     incumbentParty: "Republican",
@@ -5194,8 +5194,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-109",
     name: "Texas House District 109",
-    city: "DeSoto",
-    region: "South Dallas County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Aicha Davis",
     incumbentParty: "Democrat",
@@ -5242,8 +5242,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-110",
     name: "Texas House District 110",
-    city: "Dallas",
-    region: "Southeast Dallas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Toni Rose",
     incumbentParty: "Democrat",
@@ -5290,8 +5290,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-111",
     name: "Texas House District 111",
-    city: "Dallas",
-    region: "Southwest Dallas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Yvonne Davis",
     incumbentParty: "Democrat",
@@ -5338,8 +5338,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-112",
     name: "Texas House District 112",
-    city: "Richardson",
-    region: "North Dallas County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Angie Chen Button",
     incumbentParty: "Republican",
@@ -5386,8 +5386,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-113",
     name: "Texas House District 113",
-    city: "Garland",
-    region: "Northeast Dallas County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Rhetta Andrews Bowers",
     incumbentParty: "Democrat",
@@ -5434,8 +5434,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-114",
     name: "Texas House District 114",
-    city: "Dallas",
-    region: "East Dallas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "John Bryant",
     incumbentParty: "Democrat",
@@ -5482,8 +5482,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-115",
     name: "Texas House District 115",
-    city: "Dallas",
-    region: "Far North Dallas",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Cassandra Hernandez",
     incumbentParty: "Democrat",
@@ -5530,8 +5530,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-116",
     name: "Texas House District 116",
-    city: "San Antonio",
-    region: "Central San Antonio",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Trey Martinez Fischer",
     incumbentParty: "Democrat",
@@ -5578,8 +5578,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-117",
     name: "Texas House District 117",
-    city: "San Antonio",
-    region: "Southwest San Antonio",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Philip Cortez",
     incumbentParty: "Democrat",
@@ -5626,8 +5626,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-118",
     name: "Texas House District 118",
-    city: "San Antonio",
-    region: "San Antonio",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "John Lujan III",
     incumbentParty: "Republican",
@@ -5674,8 +5674,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-119",
     name: "Texas House District 119",
-    city: "San Antonio",
-    region: "South San Antonio",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Elizabeth  \"liz\" Campos",
     incumbentParty: "Democrat",
@@ -5722,8 +5722,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-120",
     name: "Texas House District 120",
-    city: "San Antonio",
-    region: "East San Antonio",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Barbara Gervin-hawkins",
     incumbentParty: "Democrat",
@@ -5770,8 +5770,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-121",
     name: "Texas House District 121",
-    city: "San Antonio",
-    region: "North San Antonio",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Marc Lahood",
     incumbentParty: "Republican",
@@ -5818,8 +5818,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-122",
     name: "Texas House District 122",
-    city: "San Antonio",
-    region: "Far North Bexar County",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Mark Dorazio",
     incumbentParty: "Republican",
@@ -5866,8 +5866,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-123",
     name: "Texas House District 123",
-    city: "San Antonio",
-    region: "San Antonio West Side",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Diego Bernal",
     incumbentParty: "Democrat",
@@ -5914,8 +5914,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-124",
     name: "Texas House District 124",
-    city: "San Antonio",
-    region: "West San Antonio",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Josey Garcia",
     incumbentParty: "Democrat",
@@ -5962,8 +5962,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-125",
     name: "Texas House District 125",
-    city: "San Antonio",
-    region: "Northwest San Antonio",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Ray Lopez",
     incumbentParty: "Democrat",
@@ -6010,8 +6010,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-126",
     name: "Texas House District 126",
-    city: "Spring",
-    region: "Northwest Houston",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "E. Sam Harless",
     incumbentParty: "Republican",
@@ -6058,8 +6058,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-127",
     name: "Texas House District 127",
-    city: "Humble",
-    region: "North Houston",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Charles Cunningham",
     incumbentParty: "Republican",
@@ -6106,8 +6106,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-128",
     name: "Texas House District 128",
-    city: "Pasadena",
-    region: "Southeast Houston",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Briscoe Cain",
     incumbentParty: "Republican",
@@ -6154,8 +6154,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-129",
     name: "Texas House District 129",
-    city: "Clear Lake",
-    region: "NASA Corridor",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Dennis Paul",
     incumbentParty: "Republican",
@@ -6202,8 +6202,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-130",
     name: "Texas House District 130",
-    city: "Cypress",
-    region: "Northwest Houston",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Tom Oliverson",
     incumbentParty: "Republican",
@@ -6250,8 +6250,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-131",
     name: "Texas House District 131",
-    city: "Houston",
-    region: "Southwest Houston",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Alma A. Allen",
     incumbentParty: "Democrat",
@@ -6298,8 +6298,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-132",
     name: "Texas House District 132",
-    city: "Katy",
-    region: "West Houston Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Mike Schofield",
     incumbentParty: "Republican",
@@ -6346,8 +6346,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-133",
     name: "Texas House District 133",
-    city: "Houston",
-    region: "Houston Inner Loop",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Mano Deayala",
     incumbentParty: "Republican",
@@ -6394,8 +6394,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-134",
     name: "Texas House District 134",
-    city: "Houston",
-    region: "Houston Medical Center",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Ann Johnson",
     incumbentParty: "Democrat",
@@ -6442,8 +6442,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-135",
     name: "Texas House District 135",
-    city: "Houston",
-    region: "Northwest Houston",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Jon E. Rosenthal",
     incumbentParty: "Democrat",
@@ -6490,8 +6490,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-136",
     name: "Texas House District 136",
-    city: "Cedar Park",
-    region: "Austin North Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "John H. Bucy III",
     incumbentParty: "Democrat",
@@ -6538,8 +6538,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-137",
     name: "Texas House District 137",
-    city: "Houston",
-    region: "Sharpstown",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Gene Wu",
     incumbentParty: "Democrat",
@@ -6586,8 +6586,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-138",
     name: "Texas House District 138",
-    city: "Houston",
-    region: "Spring Branch",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Lacey Hull",
     incumbentParty: "Republican",
@@ -6634,8 +6634,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-139",
     name: "Texas House District 139",
-    city: "Houston",
-    region: "South Houston",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Charlene Ward Johnson",
     incumbentParty: "Democrat",
@@ -6682,8 +6682,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-140",
     name: "Texas House District 140",
-    city: "Houston",
-    region: "North Houston",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Armando Lucio Walle",
     incumbentParty: "Democrat",
@@ -6730,8 +6730,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-141",
     name: "Texas House District 141",
-    city: "Houston",
-    region: "Northeast Houston",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Senfronia Thompson",
     incumbentParty: "Democrat",
@@ -6778,8 +6778,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-142",
     name: "Texas House District 142",
-    city: "Houston",
-    region: "Fifth Ward",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Harold V. Dutton JR",
     incumbentParty: "Democrat",
@@ -6826,8 +6826,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-143",
     name: "Texas House District 143",
-    city: "Houston",
-    region: "East Houston",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Ana Hernandez",
     incumbentParty: "Democrat",
@@ -6874,8 +6874,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-144",
     name: "Texas House District 144",
-    city: "Pasadena",
-    region: "Southeast Houston",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Mary Ann Perez",
     incumbentParty: "Democrat",
@@ -6922,8 +6922,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-145",
     name: "Texas House District 145",
-    city: "Houston",
-    region: "Houston East End",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Christina Morales",
     incumbentParty: "Democrat",
@@ -6970,8 +6970,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-146",
     name: "Texas House District 146",
-    city: "Houston",
-    region: "Third Ward",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Lauren Ashley Simmons",
     incumbentParty: "Democrat",
@@ -7018,8 +7018,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-147",
     name: "Texas House District 147",
-    city: "Houston",
-    region: "Midtown Houston",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Jolanda  Jones",
     incumbentParty: "Democrat",
@@ -7066,8 +7066,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-148",
     name: "Texas House District 148",
-    city: "Houston",
-    region: "Near Northside",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Penny Morales Shaw",
     incumbentParty: "Democrat",
@@ -7114,8 +7114,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-149",
     name: "Texas House District 149",
-    city: "Houston",
-    region: "Alief",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Hubert Vo",
     incumbentParty: "Democrat",
@@ -7162,8 +7162,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-150",
     name: "Texas House District 150",
-    city: "Houston",
-    region: "Northwest Houston",
+    city: "TBD",
+    region: "TBD",
     type: "state house district",
     incumbentName: "Chad Bridges",
     incumbentParty: "Republican",
@@ -7213,8 +7213,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-1",
     name: "Texas Senate District 1",
-    city: "Mineola",
-    region: "East Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Bryan Hughes",
     incumbentParty: "Republican",
@@ -7260,8 +7260,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-2",
     name: "Texas Senate District 2",
-    city: "Rockwall",
-    region: "East DFW Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Bob Hall",
     incumbentParty: "Republican",
@@ -7307,8 +7307,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-3",
     name: "Texas Senate District 3",
-    city: "Jacksonville",
-    region: "Deep East Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Robert Nichols",
     incumbentParty: "Republican",
@@ -7354,8 +7354,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-4",
     name: "Texas Senate District 4",
-    city: "The Woodlands",
-    region: "North Houston Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Brandon Creighton",
     incumbentParty: "Republican",
@@ -7401,8 +7401,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-5",
     name: "Texas Senate District 5",
-    city: "Georgetown",
-    region: "Austin-Bryan Corridor",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Charles Schwertner",
     incumbentParty: "Republican",
@@ -7448,8 +7448,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-6",
     name: "Texas Senate District 6",
-    city: "Houston",
-    region: "Southeast Houston",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Carol Alvarado",
     incumbentParty: "Democrat",
@@ -7495,8 +7495,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-7",
     name: "Texas Senate District 7",
-    city: "Houston",
-    region: "Northwest Houston Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Paul Bettencourt",
     incumbentParty: "Republican",
@@ -7542,8 +7542,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-8",
     name: "Texas Senate District 8",
-    city: "McKinney",
-    region: "Collin County",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Angela Paxton",
     incumbentParty: "Republican",
@@ -7589,8 +7589,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-9",
     name: "Texas Senate District 9",
-    city: "North Richland Hills",
-    region: "Mid-Cities",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Kelly Hancock",
     incumbentParty: "Republican",
@@ -7636,8 +7636,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-10",
     name: "Texas Senate District 10",
-    city: "Weatherford",
-    region: "Parker County",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Phil King",
     incumbentParty: "Republican",
@@ -7683,8 +7683,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-11",
     name: "Texas Senate District 11",
-    city: "Galveston",
-    region: "Galveston County",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Mayes Middleton",
     incumbentParty: "Republican",
@@ -7729,8 +7729,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-12",
     name: "Texas Senate District 12",
-    city: "Southlake",
-    region: "North DFW Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Tan Parker",
     incumbentParty: "Republican",
@@ -7775,8 +7775,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-13",
     name: "Texas Senate District 13",
-    city: "Houston",
-    region: "Southwest Houston",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Borris Miles",
     incumbentParty: "Democrat",
@@ -7821,8 +7821,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-14",
     name: "Texas Senate District 14",
-    city: "Austin",
-    region: "Austin",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Sarah Eckhardt",
     incumbentParty: "Democrat",
@@ -7867,8 +7867,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-15",
     name: "Texas Senate District 15",
-    city: "Houston",
-    region: "Inner Loop Houston",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Molly Cook",
     incumbentParty: "Democrat",
@@ -7913,8 +7913,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-16",
     name: "Texas Senate District 16",
-    city: "Dallas",
-    region: "Dallas",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Nathan Johnson",
     incumbentParty: "Democrat",
@@ -7959,8 +7959,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-17",
     name: "Texas Senate District 17",
-    city: "Sugar Land",
-    region: "Fort Bend County",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Joan Huffman",
     incumbentParty: "Republican",
@@ -8005,8 +8005,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-18",
     name: "Texas Senate District 18",
-    city: "Brenham",
-    region: "Houston Exurbs",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Lois W. Kolkhorst",
     incumbentParty: "Republican",
@@ -8051,8 +8051,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-19",
     name: "Texas Senate District 19",
-    city: "San Antonio",
-    region: "San Antonio / South Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Roland Gutierrez",
     incumbentParty: "Democrat",
@@ -8097,8 +8097,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-20",
     name: "Texas Senate District 20",
-    city: "McAllen",
-    region: "Rio Grande Valley",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Juan \"chuy\" Hinojosa",
     incumbentParty: "Democrat",
@@ -8143,8 +8143,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-21",
     name: "Texas Senate District 21",
-    city: "Laredo",
-    region: "South Texas Border",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Judith Zaffirini",
     incumbentParty: "Democrat",
@@ -8189,8 +8189,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-22",
     name: "Texas Senate District 22",
-    city: "Granbury",
-    region: "Central Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Brian Birdwell",
     incumbentParty: "Republican",
@@ -8213,30 +8213,17 @@ const TX_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 15.77, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.93, color: DEMO_COLORS[3] }
       ],
-      issues: [
-        { name: "Military & Veteran Community", tag: "lean-into", why: "SD-22 spans communities adjacent to Fort Cavazos (formerly Fort Hood) — one of the largest military installations in the world. The 15.77% Black population reflects a significant active-duty and veteran community. Veteran services, military family support, base employment, and defense infrastructure are constituency issues that cross racial lines and are particularly potent in a district this geographically tied to the Army's presence." },
-        { name: "Agricultural & Rural Economy", tag: "lean-into", why: "Central Texas between Fort Worth and Austin is a patchwork of ranching, farming, and small-city economies. At 29.8% college attainment and $73,548 income, this is working-class territory where agricultural policy, rural infrastructure, and water rights have direct economic consequences. A candidate who speaks to rural economy specifics — not as a cultural affiliation but as a policy competency — holds the coalition that produces 74% margins." },
-        { name: "Black Military Community Engagement", tag: "careful", why: "The 15.77% Black population is one of the larger shares in a Central Texas district of this partisan composition, almost certainly reflecting the military-connected communities near Fort Cavazos. This community has distinct needs — military family services, VA access, economic transition support for veterans — that are separate from the broader Black political experience and require engagement on those specific terms." },
-        { name: "Urban Policy Frame", tag: "avoid", why: "Central Texas voters between the major metros have a strong skepticism of Austin and Dallas urban policy frameworks — regulatory, zoning, social. A 74% Republican margin reflects a constituency that actively chose to be outside metropolitan influence zones. Candidates who import urban policy language or priorities into this district — even with good intentions — signal that they don't understand who they're representing." }
-      ],
-      memoHeadline: "Central Texas Military and Agricultural Belt: Fort Cavazos, Working-Class, 74% Republican, and a Significant Black Veteran Community",
-      memoParagraphs: [
-        "SD-22 covers a wide stretch of Central Texas between the Dallas-Fort Worth and Austin metros — communities in McLennan, Bell, Coryell, and surrounding counties where ranching, agriculture, and military employment define the local economy. At 51.3% white, 25.4% Hispanic, and 15.8% Black, the district is more demographically varied than its 74% Republican margin might suggest. The Black population is particularly notable: concentrated in communities adjacent to Fort Cavazos (the renamed Fort Hood), this is a military and veteran community with specific service needs that don't map neatly onto the political assumptions that often accompany majority-Black districts elsewhere.",
-        "The 74% Republican result reflects a genuine ideological preference in this district — rural Central Texas voters are culturally and economically conservative, skeptical of state and federal regulatory overreach, and deeply attached to military and agricultural identities. What holds this coalition together is not racial homogeneity but shared economic interests: property rights, water access, military funding, rural infrastructure, and a government that stays out of local community decisions. Any candidate of either party who fails to speak this language credibly will find the district's wide partisan margin is a ceiling rather than a floor."
-      ],
-      memoBullets: [
-        "Lead with military and veteran community service — Fort Cavazos adjacent communities have specific, winnable issues around VA access, military family support, and base infrastructure",
-        "Demonstrate agricultural policy fluency — water rights, crop insurance, rural roads, and farm economy are not peripheral; they are the district's economic backbone",
-        "Engage the Black military community specifically on veteran services, not through a broader racial political frame that doesn't fit this constituency",
-        "Avoid urban regulatory or social policy framing; this district's voters specifically chose Central Texas to be outside metro policy influence and react accordingly"
-      ]
+      issues: [],
+      memoHeadline: "",
+      memoParagraphs: [],
+      memoBullets: []
     }
   },
   {
     id: "tx-sd-23",
     name: "Texas Senate District 23",
-    city: "Dallas",
-    region: "South Dallas",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Royce West",
     incumbentParty: "Democrat",
@@ -8259,30 +8246,17 @@ const TX_SENATE_DISTRICTS = [
         { label: "White", pct: 17.85, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.99, color: DEMO_COLORS[3] }
       ],
-      issues: [
-        { name: "Housing Affordability & Renter Stability", tag: "lean-into", why: "At 49.7% renter rate and $67,719 median income, SD-23 is a near-majority-renter working-class district in southern Dallas where affordability pressure is an immediate daily reality. Anti-displacement policy, housing investment, and tenant protections are the connective tissue between the district's two largest communities — Hispanic and Black residents who share renter-class economic exposure." },
-        { name: "Economic Mobility & Community Investment", tag: "lean-into", why: "A 29.1% college rate and median age of 33.7 define a young, working-class district actively building economic footholds. Community college access, job training pipelines, and small business investment speak directly to this constituency's economic moment — and are non-partisan enough to hold the district's multiracial working-class coalition together." },
-        { name: "Black-Hispanic Coalition Management", tag: "careful", why: "With Black (37.5%) and Hispanic (39.6%) populations nearly equal — mirroring SD-13 in Houston — SD-23 requires deliberate cross-coalition engagement. These communities share material interests around housing, jobs, and public safety, but have distinct organizational networks, political histories, and leadership structures. A candidate who treats one as the base and the other as an add-on risks fracturing a coalition that is only viable when both are co-invested." },
-        { name: "Coalition Asymmetry or Favoritism", tag: "avoid", why: "The near-parity between Black and Hispanic residents means any perceived tilt — in endorsements, staff composition, policy priorities, or community presence — will register with the community that feels deprioritized. This is not an abstract concern: majority-minority districts with dual large communities have fractured on exactly this fault line when candidates or incumbents fail to maintain authentic relationships with both." }
-      ],
-      memoHeadline: "South Dallas's Near-Equal Black and Hispanic District: 50% Renters, Working-Class, and a Coalition That Must Be Built Daily",
-      memoParagraphs: [
-        "SD-23 covers southern Dallas and southern Dallas County — DeSoto, Cedar Hill, Lancaster, and surrounding communities that make up one of the Dallas metro's most economically working-class corridors. At $67,719 median income, 29.1% college attainment, and 49.7% renter rate, this is a district where the majority of residents are one rent increase or job loss from economic precarity. The district's demographic composition — 39.6% Hispanic, 37.5% Black, 17.9% white — makes it one of the most genuinely biracial majority-minority Senate districts in Texas.",
-        "West's uncontested 2024 result reflects decades of incumbent strength and coalition cultivation, but it should not be read as a mandate for complacency. The near-equal Black and Hispanic communities that sustain this district's Democratic alignment require active, differentiated engagement — not a single 'minority community' outreach strategy. This mirrors the challenge in SD-13 in Houston: when two communities are this close in size and both essential to the coalition, the candidate who governs as if the district belongs to one of them will eventually find out which one can survive without them."
-      ],
-      memoBullets: [
-        "Lead with housing affordability and renter protections — the shared material interest that links Hispanic and Black working-class residents in this district",
-        "Build and maintain separate authentic relationships with Black and Hispanic civic networks; do not conflate them or run a single unified 'community of color' strategy",
-        "Invest in economic mobility programming — community college access, job training, small business support — for a young working-class constituency still building economic stability",
-        "Monitor the near-parity carefully: any perceived favoritism toward one community's priorities, leadership, or presence will register with the other and can fracture the coalition"
-      ]
+      issues: [],
+      memoHeadline: "",
+      memoParagraphs: [],
+      memoBullets: []
     }
   },
   {
     id: "tx-sd-24",
     name: "Texas Senate District 24",
-    city: "Kerrville",
-    region: "Hill Country",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Pete Flores",
     incumbentParty: "Republican",
@@ -8305,30 +8279,17 @@ const TX_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 11.96, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 4.75, color: DEMO_COLORS[3] }
       ],
-      issues: [
-        { name: "Hill Country & Small-City Economy", tag: "lean-into", why: "SD-24 spans the Texas Hill Country and communities south of San Antonio — Kerrville, Seguin, Gonzales, and surrounding small cities where ranching, tourism, manufacturing, and San Antonio exurban growth all intersect. Property rights, water access, and rural infrastructure are the economic survival issues for a constituency that is geographically distinct from both the major metros and the deep rural counties to the west." },
-        { name: "Hispanic Republican Coalition", tag: "lean-into", why: "Pete Flores was the first Hispanic Republican elected to the Texas Senate in over a century — his 64% win on a 52% white, 26% Hispanic district means a meaningful share of Hispanic voters are in his coalition. This cross-over is built on economic conservatism, property rights, and local identity — not ideological purity. Maintaining it requires treating Hispanic constituents as economic co-investors in the district's conservative governance, not as a demographic footnote." },
-        { name: "Suburban San Antonio Growth Pressure", tag: "careful", why: "The district's southern edge increasingly intersects with San Antonio's expanding suburban growth — new residents, higher incomes, and more educated households that don't share the same political priors as the Hill Country base. At 32.8% college attainment averaged across the district, incoming suburban residents may be pulling that number up in ways that introduce suburban drift dynamics into what was historically rural-conservative territory." },
-        { name: "Far-Right Ideological Positioning", tag: "avoid", why: "The Hispanic Republican coalition that makes Flores's 64% possible is built on economic pragmatism, not cultural warfare. Legislators or candidates who tilt too far toward the hardest-right cultural positions — particularly on immigration rhetoric that can feel personally hostile to Hispanic voters — risk converting economic Republicans back into non-voters or Democratic supporters, a loss this district can't sustain at a 52% white majority." }
-      ],
-      memoHeadline: "Hill Country to San Antonio Exurbs: Hispanic Republican Coalition, Property Rights, and a Thin White Majority",
-      memoParagraphs: [
-        "SD-24 spans a wide geographic arc from the Texas Hill Country south through communities approaching San Antonio — a district defined by its distance from metropolitan dominance and its attachment to the rural, small-city Texas identity that still governs much of the state's political culture. At 52.3% white, 26.3% Hispanic, and 12% Black, the district is more diverse than its 64% Republican margin implies, and Pete Flores's career is built on that diversity: as the first Hispanic Republican elected to the Texas Senate in over a century, he demonstrated that conservative economic messaging combined with genuine community presence could build a cross-racial majority in a district the Democrats once held.",
-        "The Hill Country economy — ranching, water rights, limited-growth land use, Hill Country tourism, and the agricultural heritage of the Guadalupe River corridor — is the cultural and economic backbone of the district's base. But the southern portion of the district increasingly touches San Antonio's suburban expansion, bringing new residents with different expectations about government services, schools, and community investment. How the district navigates the tension between its established rural-conservative identity and incoming suburban growth will define its political trajectory over the next decade."
-      ],
-      memoBullets: [
-        "Lead with Hill Country economic identity — property rights, water access, rural infrastructure, and the small-city Texas lifestyle that the base has voted to protect",
-        "Actively cultivate the Hispanic Republican coalition by treating Hispanic constituents as economic co-owners of conservative governance, not as swing voters to be occasionally addressed",
-        "Monitor suburban San Antonio expansion at the district's southern margin as an emerging demographic variable that doesn't share the Hill Country political culture",
-        "Avoid immigration rhetoric or hard-right cultural positioning that can read as personally hostile to the Hispanic community that is essential to the 64% coalition"
-      ]
+      issues: [],
+      memoHeadline: "",
+      memoParagraphs: [],
+      memoBullets: []
     }
   },
   {
     id: "tx-sd-25",
     name: "Texas Senate District 25",
-    city: "New Braunfels",
-    region: "San Antonio North Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Donna Campbell",
     incumbentParty: "Republican",
@@ -8351,30 +8312,17 @@ const TX_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 4.28, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.81, color: DEMO_COLORS[3] }
       ],
-      issues: [
-        { name: "Homeowner Economy & Property Taxes", tag: "lean-into", why: "At 24.9% renter rate — one of the lowest in the Texas Senate — SD-25 is deeply homeowner territory. Combined with $110,286 median income and 40.1 median age (the oldest in this batch), this is an established, property-owning professional community for whom appraisal reform, property tax management, and local government fiscal discipline are first-order political priorities." },
-        { name: "New Braunfels & Comal County Growth Management", tag: "lean-into", why: "The New Braunfels corridor is one of the fastest-growing small cities in the United States. Managing that growth — infrastructure capacity, school investment, water supply, and land use — is the central governance challenge for existing residents who chose these communities for their quality of life and now see it under pressure from development. A candidate who engages growth management concretely wins the homeowner coalition here." },
-        { name: "College-Educated Suburban Drift", tag: "careful", why: "At 50.6% college attainment, SD-25 sits precisely where suburban Texas districts have been showing the most movement toward Democrats. Campbell's 64% holds for now, but the professional-class San Antonio exurban voter — particularly the 29% Hispanic community, which includes significant numbers of college-educated professionals — is not ideologically fixed and can be moved by candidates who offer credible economic governance over cultural combat." },
-        { name: "Culture War Overreach", tag: "avoid", why: "An affluent, 50% college-educated, 40-year-median-age district with a significant Hispanic professional population is the exact constituency that has been punishing Republican legislators for prioritizing social grievance over economic governance. Campbell's 64% reflects economic and lifestyle conservatism — not a mandate for hardline cultural legislation. Candidates who mistake the one for a mandate to pursue the other risk a SD-12-style erosion." }
-      ],
-      memoHeadline: "San Antonio's Affluent Northern Suburbs: $110K Income, 50% College, 25% Renters, and the Drift Zone Warning",
-      memoParagraphs: [
-        "SD-25 covers the affluent communities north and northeast of San Antonio — New Braunfels, Boerne, Schertz, and the Comal and Kendall County corridor that represents the most prosperous tier of the San Antonio metro's suburban expansion. At $110,286 median income, 50.6% college attainment, and 24.9% renter rate, this is the highest-income, most homeowner-dominant district in this batch, and one of the wealthiest in the Texas Senate. The 40.1 median age reflects an established community — these are not young renters building careers; they are older professionals and established families who have made significant economic commitments to the area and vote accordingly.",
-        "The statistical profile places SD-25 squarely in the zone of maximum suburban realignment risk. At 50.6% college attainment and a 29% Hispanic population that includes a significant professional-class cohort, the district has exactly the demographic composition that has been drifting toward Democrats in other Texas metros. Campbell's 64% is a comfortable margin but not an immunizing one: adjacent suburban San Antonio communities have shown movement, and any candidate who mistakes the district's economic conservatism for a mandate to pursue aggressive cultural legislation risks discovering that these voters' conservatism has limits when it starts affecting schools, healthcare, and community governance."
-      ],
-      memoBullets: [
-        "Lead with property taxes, homeowner priorities, and New Braunfels growth management — these are the economic governance issues that animate the district's professional-class homeowner base",
-        "Engage the 29% Hispanic professional community as economic co-investors in the district's conservative governance, not as a cultural minority to be managed",
-        "Treat the 50.6% college attainment as a warning: this is a drift-zone district, and governance credibility is the asset that holds it; ideological posturing is the liability that loses it",
-        "Avoid culture war legislation that alienates the professional-class homeowner coalition — they voted for fiscal conservatism and quality-of-life governance, not social grievance politics"
-      ]
+      issues: [],
+      memoHeadline: "",
+      memoParagraphs: [],
+      memoBullets: []
     }
   },
   {
     id: "tx-sd-26",
     name: "Texas Senate District 26",
-    city: "San Antonio",
-    region: "San Antonio West Side",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "José Menéndez",
     incumbentParty: "Democrat",
@@ -8397,30 +8345,17 @@ const TX_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 8.01, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.21, color: DEMO_COLORS[3] }
       ],
-      issues: [
-        { name: "Housing Affordability & Renter Stability", tag: "lean-into", why: "At 49.6% renter rate and $58,458 median income, SD-26 is a near-majority-renter working-class district where housing cost is the defining economic pressure. Inner San Antonio's West Side and South Side communities have faced growing gentrification pressure from the broader metro's growth — anti-displacement policy and affordable housing investment are direct material concerns, not abstract platforms." },
-        { name: "San Antonio Westside & Southside Community Investment", tag: "lean-into", why: "SD-26 covers the historically under-resourced Hispanic neighborhoods that form the cultural core of San Antonio. Infrastructure investment, school quality, healthcare access, and economic development in these communities are both governance priorities and political identity — candidates who treat Westside and Southside needs as central rather than marginal build durable constituent loyalty." },
-        { name: "Working-Class Hispanic Retention", tag: "careful", why: "Menéndez's 67% is a healthier margin than SD-19's 55%, but the South Texas realignment that has reshaped working-class Hispanic voting behavior is present in San Antonio's inner districts as well. Economic frustration and skepticism of national Democratic cultural positioning have moved voters in demographically similar communities. The 67% is earned through constituent service and local identity — not permanent." },
-        { name: "National Progressive Identity Frame", tag: "avoid", why: "San Antonio's inner Hispanic communities are culturally traditional, family-rooted, and Catholic in character. National Democratic platform priorities that emphasize progressive social positioning over economic security and community investment read as foreign to voters who are choosing candidates on bread-and-butter terms. Leading with national ideology over local constituent service is the fastest path to margin erosion in this district." }
-      ],
-      memoHeadline: "San Antonio's Inner Hispanic Core: Westside and Southside, 50% Renters, 67% Democratic with a Vigilance Requirement",
-      memoParagraphs: [
-        "SD-26 is the San Antonio inner city — the West Side and South Side communities that are the historical and cultural heart of the city's Hispanic majority. At 65.9% Hispanic, $58,458 median income, and 49.6% renter rate, this is a working-class, renter-heavy district where affordable housing, community infrastructure, and economic mobility are the dominant quality-of-life concerns. The 25.7% college attainment and 34.3 median age reflect a young, working-class constituency that is actively building economic footholds rather than maintaining established professional stability.",
-        "Menéndez's 67% is the strongest Democratic margin of the contested San Antonio-area Senate seats, built on deep community presence and Westside/Southside identity rather than ideological positioning. But the same trends eroding Democratic margins in comparable working-class Hispanic districts elsewhere in South Texas are present in San Antonio's inner city — just slower-moving. The 67% is a product of genuine constituent service investment; it will compress if a future candidate or incumbent substitutes national platform messaging for the local economic focus that built it."
-      ],
-      memoBullets: [
-        "Lead with housing affordability and anti-displacement — 50% renters experiencing gentrification pressure is the district's most urgent shared concern",
-        "Anchor community identity messaging in Westside and Southside San Antonio specifically — these neighborhoods have distinct pride and history that rewards candidates who know them on their own terms",
-        "Treat the 67% margin as earned rather than structural — active constituent service and economic responsiveness are the assets that keep working-class Hispanic margins from following the South Texas realignment trajectory",
-        "Keep national Democratic cultural signals out of district messaging; San Antonio's inner city responds to economic security and community investment, not ideological positioning"
-      ]
+      issues: [],
+      memoHeadline: "",
+      memoParagraphs: [],
+      memoBullets: []
     }
   },
   {
     id: "tx-sd-27",
     name: "Texas Senate District 27",
-    city: "Corpus Christi",
-    region: "Coastal Bend",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Adam Hinojosa",
     incumbentParty: "Republican",
@@ -8443,30 +8378,17 @@ const TX_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 1.05, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.75, color: DEMO_COLORS[3] }
       ],
-      issues: [
-        { name: "Economic Development & Working-Class Mobility", tag: "lean-into", why: "At 18.9% college attainment and $54,368 median income — the lowest education rate and near-lowest income of any Texas Senate district — SD-27 is a working-class community where economic mobility, job quality, and workforce development are survival issues. The Republican win in 2024 was built substantially on economic messaging that spoke to this constituency's material frustration; any candidate must address it with policy specifics, not party signals." },
-        { name: "Port of Corpus Christi & Coastal Energy Economy", tag: "lean-into", why: "Corpus Christi anchors the Port of Corpus Christi — one of the largest ports in the United States by tonnage and a central node in Texas's LNG export and petrochemical economy. Energy-sector employment, port infrastructure investment, and industrial job quality are the district's economic backbone and speak directly to a working-class constituency whose economic identity is tied to the port and refining corridor." },
-        { name: "Hispanic Working-Class Crossover Maintenance", tag: "careful", why: "A Republican winning 49% in an 83.67% Hispanic district is the sharpest single data point of South Texas realignment in the Texas Senate. That crossover was built on economic credibility with working-class Hispanic voters — not cultural conservatism alone. Any Republican holding this seat must demonstrate ongoing economic responsiveness to the Hispanic working class; any Democrat seeking to reclaim it must address why those voters crossed over in the first place." },
-        { name: "Cultural Conservatism Over Economic Substance", tag: "avoid", why: "The Republican win here was not a mandate for hard-right cultural legislation — it was a working-class economic revolt. A Republican who governs this district as a culture warrior rather than an economic responsive representative risks losing the Hispanic crossover voters who made the 49% possible. A Democrat who reclaims it only on cultural identity rather than economic substance will face the same erosion cycle that produced the 2024 result." }
-      ],
-      memoHeadline: "The South Texas Realignment in One Number: A Republican Won 49% in an 84% Hispanic District",
-      memoParagraphs: [
-        "SD-27 is the single most dramatic illustration of South Texas's political realignment in the entire Texas Senate. Adam Hinojosa won a district that is 83.67% Hispanic with 49% of the vote — a plurality win in what was for decades an automatic Democratic stronghold. This is Corpus Christi and Nueces County: a working-class Gulf Coast community whose economy is built on the Port of Corpus Christi, petrochemical refining, LNG export, and the industries that cluster around one of the largest tonnage ports in the United States. At 18.9% college attainment and $54,368 median income, this is among the least-educated and lowest-income Senate districts in Texas.",
-        "What the 49% result tells any candidate is not that SD-27 has become a Republican district — it hasn't, demographically. What it tells them is that working-class Hispanic voters in Corpus Christi are willing to cross party lines when they believe a candidate speaks to their economic reality more credibly than the alternative. The Republican win was built on economic messaging about energy jobs, port investment, and frustration with Democratic institutions that felt distant from blue-collar Coastal Bend concerns. That crossover is real and persuadable in either direction — which makes SD-27 the most genuinely competitive district in the Texas Senate and the most consequential test of whether South Texas realignment is a trend or a realignment."
-      ],
-      memoBullets: [
-        "Lead with Port of Corpus Christi and energy economy specifics — the working-class economic identity of this district runs through the port and the refining corridor",
-        "Address economic mobility directly: workforce development, industrial job quality, and access to community college education for the district's 18.9% college attainment base",
-        "For any candidate: the 49% crossover was earned by economic credibility, not demographic assumption — it can be won or lost on those same terms in the next cycle",
-        "Avoid letting the conversation become about cultural identity, partisanship, or national policy frames; this district's swing voters are economic pragmatists responding to material conditions"
-      ]
+      issues: [],
+      memoHeadline: "",
+      memoParagraphs: [],
+      memoBullets: []
     }
   },
   {
     id: "tx-sd-28",
     name: "Texas Senate District 28",
-    city: "Lubbock",
-    region: "West Texas",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Charles Perry",
     incumbentParty: "Republican",
@@ -8489,30 +8411,17 @@ const TX_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 6.17, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.72, color: DEMO_COLORS[3] }
       ],
-      issues: [
-        { name: "Energy Economy & Oil Country Identity", tag: "lean-into", why: "SD-28 anchors the Lubbock-to-Midland corridor of West Texas — one of the most concentrated energy-producing regions in the world. Permian Basin oil and gas employment, energy infrastructure investment, and the economic ripple effects of production cycles are not policy debates in this district; they are the economic heartbeat of the region. Any candidate must speak this language fluently and specifically." },
-        { name: "Agriculture, Water & Rural Infrastructure", tag: "lean-into", why: "West Texas cotton farming, ranching, and the Ogallala Aquifer are interconnected economic and environmental realities that shape daily life for rural communities across the district. Water rights, agricultural policy, and rural infrastructure (roads, broadband, rural healthcare) are the durable constituent service issues that hold the conservative coalition in a district with no serious competition." },
-        { name: "Hispanic Agricultural & Energy Workforce", tag: "careful", why: "At 34% Hispanic — a significant share for West Texas — the district includes the agricultural and energy sector workforce that makes Lubbock and Midland-Odessa function economically. These communities have shown willingness to vote Republican on economic terms, but they require authentic engagement on workforce quality, housing, and educational access rather than being treated as a demographic footnote to a predominantly Anglo political identity." },
-        { name: "Neglecting Constituent Service in Safe Seats", tag: "avoid", why: "Unopposed results breed the assumption that a seat is permanently safe. West Texas Republican seats have survived on incumbency and energy-economy alignment — but the 34% Hispanic working-class community is a potential pressure point if economic conditions shift and the incumbent is perceived as having taken the district for granted. Constituent service in a safe seat is not optional; it is the insurance policy against future competition." }
-      ],
-      memoHeadline: "Lubbock to the Permian Basin: Energy Country, Cotton Farming, and a 34% Hispanic Workforce Community",
-      memoParagraphs: [
-        "SD-28 is West Texas — Lubbock, the South Plains, and the communities reaching toward Midland-Odessa that make up the operational core of one of the world's most productive oil and gas regions. At 55.2% white and 34% Hispanic, the district reflects the demographic reality of West Texas's energy and agricultural economy: an Anglo political establishment built on ranching and cotton farming, underpinned by a large Hispanic workforce community that has been part of the region's economic infrastructure for generations. The $62,217 median income and 25.8% college attainment are working-class numbers in a district where the economy runs on drilling, farming, and the trades — not the professional services of the major metros.",
-        "Perry's uncontested 2024 result reflects the district's political positioning in safe Republican territory, but the 34% Hispanic community is a constituency worth engaging seriously rather than assuming. Lubbock's growing economic diversification — Texas Tech University, healthcare, and technology — is beginning to bring a different professional class into parts of the district, but the core identity remains oil country, and the candidate who holds this seat holds it by demonstrating that they understand and fight for the energy economy that sustains every other economic activity in West Texas."
-      ],
-      memoBullets: [
-        "Lead with Permian Basin energy economy and energy infrastructure — this is the economic identity of the district and the lens through which all other policy is filtered",
-        "Demonstrate specific fluency on agricultural water rights and the Ogallala Aquifer — rural communities here know the difference between candidates who understand the issue and those who are performing understanding",
-        "Engage the 34% Hispanic workforce community on economic terms — job quality, housing, and educational access in energy and agricultural sectors — rather than treating them as a culturally separate constituency",
-        "Maintain active constituent service even without electoral competition; unopposed status is not proof of popularity, it's often proof that no one has yet had reason to mount a challenge"
-      ]
+      issues: [],
+      memoHeadline: "",
+      memoParagraphs: [],
+      memoBullets: []
     }
   },
   {
     id: "tx-sd-29",
     name: "Texas Senate District 29",
-    city: "El Paso",
-    region: "El Paso",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "César J. Blanco",
     incumbentParty: "Democrat",
@@ -8535,30 +8444,17 @@ const TX_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 3.23, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.25, color: DEMO_COLORS[3] }
       ],
-      issues: [
-        { name: "Fort Bliss & Military Economy", tag: "lean-into", why: "El Paso's economy is anchored by Fort Bliss — one of the largest Army installations in the world and the district's single largest employer. Military family services, veteran healthcare, base infrastructure investment, and the economic ripple effects of the installation connect directly with a large portion of the district's population and cross traditional partisan lines." },
-        { name: "Binational El Paso–Ciudad Juárez Economy", tag: "lean-into", why: "El Paso and Ciudad Juárez form one of the most economically integrated binational metro areas in the Western Hemisphere. Cross-border manufacturing (maquiladoras), retail commerce, healthcare, and family ties make US-Mexico economic policy a local issue rather than a national abstraction. Any candidate in SD-29 must speak to the El Paso-specific dimensions of border policy — not as a security debate but as an economic management question." },
-        { name: "El Paso vs. Valley Realignment Dynamics", tag: "careful", why: "El Paso has remained more stable than the Rio Grande Valley in the realignment cycle — partly due to Fort Bliss's stabilizing economic effect and UTEP's university-town influence. But the underlying demographic profile (82% Hispanic, $58K income, 25% college) shares characteristics with districts that have shifted. Blanco's uncontested result should not be read as immunity from the trends reshaping neighboring South Texas communities." },
-        { name: "Treating El Paso as Interchangeable with the Valley", tag: "avoid", why: "El Paso has a distinct political, economic, and cultural identity from the Rio Grande Valley — different military presence, different border economy, different relationship with the interior of Texas, and a different history of Democratic stability. Candidates or outside operatives who import Valley-specific realignment assumptions or Valley-specific messaging into El Paso will find that residents notice and resent the conflation." }
-      ],
-      memoHeadline: "El Paso's Distinctive Border Identity: Fort Bliss, Binational Economy, and a Democratic Stability That Differs From the Valley",
-      memoParagraphs: [
-        "SD-29 is El Paso — the westernmost major Texas city, separated from the rest of the state by hundreds of miles of desert and defined by its position at the juncture of Texas, New Mexico, and Mexico. At 82% Hispanic, $58,458 median income, and 25% college attainment, the district shares demographic characteristics with South Texas border communities — but El Paso's political economy is distinctly its own. Fort Bliss, one of the largest Army installations in the United States, anchors the local economy with a stability that the purely trade-dependent Rio Grande Valley lacks. The University of Texas at El Paso adds an educational and professional-class dimension that has helped inoculate the area against some of the working-class realignment visible elsewhere.",
-        "The El Paso–Ciudad Juárez binational metropolitan area — with a combined population approaching 2.5 million — makes cross-border economic policy a direct local issue in ways that no other Texas Senate district experiences at the same scale. Maquiladora manufacturing, retail cross-border commerce, healthcare access across the border, and the daily economic integration of families who live on both sides create a policy environment where federal immigration and trade decisions land with immediate local economic consequences. Any candidate who engages this dimension with specificity and fluency commands the trust that this district's voters are looking for."
-      ],
-      memoBullets: [
-        "Lead with Fort Bliss and military community investment — the largest employer in the district creates specific, winnable constituent service issues around veteran services, base infrastructure, and military family support",
-        "Engage the El Paso–Ciudad Juárez binational economy with policy specifics; cross-border commerce and manufacturing are local economic survival issues, not national immigration talking points",
-        "Maintain the constituent service depth that has kept El Paso stable relative to the Valley — the stability is earned, not structural, and requires ongoing investment",
-        "Treat El Paso as its own political context, not as an extension of Rio Grande Valley dynamics; residents will notice and reward the distinction"
-      ]
+      issues: [],
+      memoHeadline: "",
+      memoParagraphs: [],
+      memoBullets: []
     }
   },
   {
     id: "tx-sd-30",
     name: "Texas Senate District 30",
-    city: "McKinney",
-    region: "North DFW Suburbs",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Chad Bridges",
     incumbentParty: "Republican",
@@ -8581,30 +8477,17 @@ const TX_SENATE_DISTRICTS = [
         { label: "Asian", pct: 9.21, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 8.95, color: DEMO_COLORS[3] }
       ],
-      issues: [
-        { name: "Property Taxes & Suburban Quality of Life", tag: "lean-into", why: "At $93,740 median income, the district's professional-class suburban homeowners experience property tax pressure as a direct financial grievance. This is the consensus issue that unites the district's white, Asian, and Black professional communities — the common ground where governance credibility is built and where a 54% Republican margin is most defensible." },
-        { name: "Asian and Black Professional Community Engagement", tag: "lean-into", why: "The 9.21% Asian and 8.95% Black populations are unusually balanced for a majority-white Republican-leaning district and almost certainly reflect professional-class suburban families who chose the area for schools and economic opportunity. Both communities are persuadable on economic governance and quality-of-life issues — candidates who engage them specifically rather than defaulting to the white base outperform in tight races." },
-        { name: "54% Margin Fragility", tag: "careful", why: "A 54% Republican win in a $93K income, 40.5% college district is one of the thinnest margins in the Texas Senate and sits precisely in the demographic profile showing the steepest suburban drift toward Democrats statewide. One bad cycle, one credible opponent, or one legislative session defined by culture war rather than economic governance could flip this seat. There is no margin for ideological indulgence here." },
-        { name: "Culture War Legislation", tag: "avoid", why: "The professional-class suburban voters who make SD-30's 54% possible are not cultural warriors — they are economic managers who chose their suburb for schools, safety, and quality of life. Any legislative profile that prioritizes social grievance over fiscal discipline, property tax management, or school quality will register with exactly the Asian and Black professional households whose presence is already a signal of the district's moderate drift." }
-      ],
-      memoHeadline: "The Texas Senate's Thinnest Republican Margin: 54% in a $94K, 40% College Suburban District With a Near-Equal Asian and Black Professional Community",
-      memoParagraphs: [
-        "SD-30 is the most electorally vulnerable Republican-held Senate seat in Texas by margin — Bridges won at 54-46, a result that in any other political environment would trigger serious Democratic investment. The district profile explains why: at $93,740 median income and 40.5% college attainment, this is precisely the suburban Texas demographic category that has been moving most reliably toward Democrats. The 59% white majority is comfortable but not commanding, and the 9.2% Asian and 9% Black communities — almost certainly professional-class suburban families concentrated in established neighborhoods — are not locked into the Republican column.",
-        "What makes SD-30 analytically distinctive is the near-equality of its Asian and Black populations — a combination that is unusual for a majority-white Republican-held district and suggests a specific suburban geography where professional-class minority families have settled alongside the white majority without the political dynamics of majority-minority communities. These are voters who chose the suburb for its economic and educational attributes, and who will evaluate candidates through that lens. A Republican who governs on fiscal management and school quality holds them; a Republican who governs on cultural grievance loses them — and at 54%, losing a small fraction of the professional minority communities turns a thin win into a loss."
-      ],
-      memoBullets: [
-        "Lead with property taxes and fiscal management — the economic governance issues that hold the professional-class homeowner coalition across all four demographic communities",
-        "Invest specifically in Asian and Black professional community engagement; at near-equal 9% each, these communities are not marginal to the coalition — they are part of the margin",
-        "Treat the 54% as a mandate for competent economic governance, not a mandate for ideological positioning; this seat has almost no room for culture war overreach",
-        "Monitor the college-attainment drift actively: at 40.5%, SD-30 is one engaged Democratic opponent away from being a genuine toss-up in 2026"
-      ]
+      issues: [],
+      memoHeadline: "",
+      memoParagraphs: [],
+      memoBullets: []
     }
   },
   {
     id: "tx-sd-31",
     name: "Texas Senate District 31",
-    city: "Odessa",
-    region: "Permian Basin",
+    city: "TBD",
+    region: "TBD",
     type: "state senate district",
     incumbentName: "Randy Wilson",
     incumbentParty: "Republican",
@@ -8627,23 +8510,10 @@ const TX_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 5.31, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.86, color: DEMO_COLORS[3] }
       ],
-      issues: [
-        { name: "Energy Economy & Industrial Employment", tag: "lean-into", why: "SD-31 covers communities in the West Texas and Permian Basin orbit where oil, gas, and industrial employment define the working economy. At 21.9% college attainment and $71,695 median income, this is a working-class district where energy-sector job quality, industrial investment, and the economic cycles of production directly govern household income and community stability. Economic credibility here runs through the energy sector." },
-        { name: "Hispanic Working-Class Economic Crossover", tag: "lean-into", why: "A Republican winning 53% in a district that is 45.37% Hispanic requires Hispanic working-class crossover votes — there is no other path to the math. That crossover is built on economic messaging about jobs, energy, and frustration with institutions that feel distant from working-class concerns. Any candidate who holds or reclaims this seat must speak directly and credibly to Hispanic working-class economic priorities — not as a cultural outreach strategy but as the central economic argument." },
-        { name: "Near-Parity Demographic Balance", tag: "careful", why: "With Hispanic (45.37%) and white (45.20%) populations separated by less than one percentage point, SD-31 is the most demographically balanced Texas Senate district. A swing of two or three percentage points in Hispanic voter behavior — in either direction — changes the outcome. Any candidate who campaigns as if this is an Anglo-majority or Hispanic-majority district is misreading the map. It is neither; it is a genuinely 50-50 demographic contest requiring both communities to be addressed on their own terms." },
-        { name: "Immigration Rhetoric & Anti-Hispanic Signaling", tag: "avoid", why: "At 45% Hispanic in a 53-47 competitive district, any rhetoric or policy position that reads as hostile to the Hispanic community directly threatens the Republican coalition. Wilson's win required Hispanic crossover voters; losing even a fraction of them back to Democrats — or to non-participation — erases the margin. This is the district in the Texas Senate where the cost of anti-Hispanic signaling is most immediately quantifiable in electoral arithmetic." }
-      ],
-      memoHeadline: "Texas Senate's Most Demographically Balanced District: 45% Hispanic, 45% White, 53-47 Republican, and Every Vote Is the Margin",
-      memoParagraphs: [
-        "SD-31 is the most demographically balanced Senate district in Texas — 45.37% Hispanic and 45.20% white, separated by less than two-tenths of a percentage point. Randy Wilson won it at 53-47, one of the two thinnest Republican margins in the chamber alongside SD-30. This is working-class West Texas or South Texas energy country: 21.9% college attainment, $71,695 income, 32.2% renters. The economic identity is built on oil, gas, and the industrial employment that flows from it — not the professional-class suburban economy that characterizes the other thin-margin Senate districts.",
-        "The 53% Republican win in a district this Hispanic is the direct product of South Texas realignment: working-class Hispanic voters who have been persuaded, in this cycle, that Republican economic messaging speaks more credibly to their material conditions than the Democratic alternative. That persuasion is fragile and reversible. The margin is 53-47 — approximately 3 percentage points of Hispanic crossover voters represent the entire difference between winning and losing. In SD-31, more than in any other Texas Senate district, the political math is naked: any candidate who can hold the demographic coalition that voted for them while peeling off three to five percent of the opposing coalition wins. No other strategic calculation matters more."
-      ],
-      memoBullets: [
-        "Make the energy economy and industrial job quality the center of all economic messaging — this working-class district runs on oil and gas, and credibility here is built or lost on that ground",
-        "Engage the Hispanic working-class community on economic terms specifically — job quality, housing, workforce training — not through cultural affiliation or party identity",
-        "Campaign as if this is a 50-50 demographic district, because it is: any strategy premised on mobilizing one community to overcome the other will underperform a strategy that speaks to both",
-        "Avoid any rhetoric or policy position that signals hostility to Hispanic voters; at 45% Hispanic and 53-47 Republican, even a small shift in Hispanic participation or preference ends the Republican majority in this seat"
-      ]
+      issues: [],
+      memoHeadline: "",
+      memoParagraphs: [],
+      memoBullets: []
     }
   }
 ];
