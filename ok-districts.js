@@ -10,8 +10,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-1",
     name: "Oklahoma House District 1",
-    city: "TBD",
-    region: "TBD",
+    city: "Grove",
+    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Eddy Dempsey",
     incumbentParty: "Republican",
@@ -56,8 +56,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-2",
     name: "Oklahoma House District 2",
-    city: "TBD",
-    region: "TBD",
+    city: "Miami",
+    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Jim Olsen",
     incumbentParty: "Republican",
@@ -102,8 +102,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-3",
     name: "Oklahoma House District 3",
-    city: "TBD",
-    region: "TBD",
+    city: "Wagoner",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Rick West",
     incumbentParty: "Republican",
@@ -148,8 +148,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-4",
     name: "Oklahoma House District 4",
-    city: "TBD",
-    region: "TBD",
+    city: "Tahlequah",
+    region: "Eastern Oklahoma",
     type: "state house district",
     incumbentName: "Bob Ed Culver",
     incumbentParty: "Republican",
@@ -194,8 +194,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-5",
     name: "Oklahoma House District 5",
-    city: "TBD",
-    region: "TBD",
+    city: "Pryor",
+    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Josh West",
     incumbentParty: "Republican",
@@ -240,8 +240,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-6",
     name: "Oklahoma House District 6",
-    city: "TBD",
-    region: "TBD",
+    city: "Vinita",
+    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Rusty Cornwell",
     incumbentParty: "Republican",
@@ -286,8 +286,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-7",
     name: "Oklahoma House District 7",
-    city: "TBD",
-    region: "TBD",
+    city: "Stilwell",
+    region: "Eastern Oklahoma",
     type: "state house district",
     incumbentName: "Steve Bashore",
     incumbentParty: "Republican",
@@ -332,8 +332,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-8",
     name: "Oklahoma House District 8",
-    city: "TBD",
-    region: "TBD",
+    city: "Inola",
+    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Tom Gann",
     incumbentParty: "Republican",
@@ -378,8 +378,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-9",
     name: "Oklahoma House District 9",
-    city: "TBD",
-    region: "TBD",
+    city: "Catoosa",
+    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Mark Lepak",
     incumbentParty: "Republican",
@@ -424,8 +424,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-10",
     name: "Oklahoma House District 10",
-    city: "TBD",
-    region: "TBD",
+    city: "Bartlesville",
+    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Judd Strom",
     incumbentParty: "Republican",
@@ -470,8 +470,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-11",
     name: "Oklahoma House District 11",
-    city: "TBD",
-    region: "TBD",
+    city: "Owasso",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "John Kane",
     incumbentParty: "Republican",
@@ -516,8 +516,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-12",
     name: "Oklahoma House District 12",
-    city: "TBD",
-    region: "TBD",
+    city: "Nowata",
+    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Mark Chapman",
     incumbentParty: "Republican",
@@ -562,8 +562,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-13",
     name: "Oklahoma House District 13",
-    city: "TBD",
-    region: "TBD",
+    city: "Muskogee",
+    region: "Eastern Oklahoma",
     type: "state house district",
     incumbentName: "Neil Hays",
     incumbentParty: "Republican",
@@ -608,8 +608,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-14",
     name: "Oklahoma House District 14",
-    city: "TBD",
-    region: "TBD",
+    city: "Checotah",
+    region: "Eastern Oklahoma",
     type: "state house district",
     incumbentName: "Chris Sneed",
     incumbentParty: "Republican",
@@ -654,8 +654,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-15",
     name: "Oklahoma House District 15",
-    city: "TBD",
-    region: "TBD",
+    city: "Okmulgee",
+    region: "Eastern Oklahoma",
     type: "state house district",
     incumbentName: "Tim Turner",
     incumbentParty: "Republican",
@@ -700,8 +700,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-16",
     name: "Oklahoma House District 16",
-    city: "TBD",
-    region: "TBD",
+    city: "Wilburton",
+    region: "Eastern Oklahoma",
     type: "state house district",
     incumbentName: "Scott Fetgatter",
     incumbentParty: "Republican",
@@ -746,8 +746,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-17",
     name: "Oklahoma House District 17",
-    city: "TBD",
-    region: "TBD",
+    city: "Antlers",
+    region: "Southeastern Oklahoma",
     type: "state house district",
     incumbentName: "Jim Grego",
     incumbentParty: "Republican",
@@ -792,8 +792,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-18",
     name: "Oklahoma House District 18",
-    city: "TBD",
-    region: "TBD",
+    city: "Durant",
+    region: "Southeastern Oklahoma",
     type: "state house district",
     incumbentName: "David Smith",
     incumbentParty: "Republican",
@@ -838,8 +838,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-19",
     name: "Oklahoma House District 19",
-    city: "TBD",
-    region: "TBD",
+    city: "Idabel",
+    region: "Southeastern Oklahoma",
     type: "state house district",
     incumbentName: "Justin Humphrey",
     incumbentParty: "Republican",
@@ -884,8 +884,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-20",
     name: "Oklahoma House District 20",
-    city: "TBD",
-    region: "TBD",
+    city: "Jenks",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Jonathan Wilk",
     incumbentParty: "Republican",
@@ -930,8 +930,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-21",
     name: "Oklahoma House District 21",
-    city: "TBD",
-    region: "TBD",
+    city: "Ada",
+    region: "South-Central Oklahoma",
     type: "state house district",
     incumbentName: "Cody Maynard",
     incumbentParty: "Republican",
@@ -976,8 +976,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-22",
     name: "Oklahoma House District 22",
-    city: "TBD",
-    region: "TBD",
+    city: "McAlester",
+    region: "Southeastern Oklahoma",
     type: "state house district",
     incumbentName: "Ryan Eaves",
     incumbentParty: "Republican",
@@ -1022,8 +1022,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-23",
     name: "Oklahoma House District 23",
-    city: "TBD",
-    region: "TBD",
+    city: "Muskogee",
+    region: "Eastern Oklahoma",
     type: "state house district",
     incumbentName: "Derrick R. Hildebrant",
     incumbentParty: "Republican",
@@ -1068,8 +1068,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-24",
     name: "Oklahoma House District 24",
-    city: "TBD",
-    region: "TBD",
+    city: "Broken Arrow",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Chris Banning",
     incumbentParty: "Republican",
@@ -1114,8 +1114,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-25",
     name: "Oklahoma House District 25",
-    city: "TBD",
-    region: "TBD",
+    city: "Sallisaw",
+    region: "Eastern Oklahoma",
     type: "state house district",
     incumbentName: "Ronny Johns",
     incumbentParty: "Republican",
@@ -1160,8 +1160,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-26",
     name: "Oklahoma House District 26",
-    city: "TBD",
-    region: "TBD",
+    city: "Claremore",
+    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Dell Kerbs",
     incumbentParty: "Republican",
@@ -1206,8 +1206,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-27",
     name: "Oklahoma House District 27",
-    city: "TBD",
-    region: "TBD",
+    city: "Chouteau",
+    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Danny Sterling",
     incumbentParty: "Republican",
@@ -1252,8 +1252,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-28",
     name: "Oklahoma House District 28",
-    city: "TBD",
-    region: "TBD",
+    city: "Hugo",
+    region: "Southeastern Oklahoma",
     type: "state house district",
     incumbentName: "Danny Williams",
     incumbentParty: "Republican",
@@ -1298,8 +1298,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-29",
     name: "Oklahoma House District 29",
-    city: "TBD",
-    region: "TBD",
+    city: "Pawnee",
+    region: "North-Central Oklahoma",
     type: "state house district",
     incumbentName: "Kyle Hilbert",
     incumbentParty: "Republican",
@@ -1344,8 +1344,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-30",
     name: "Oklahoma House District 30",
-    city: "TBD",
-    region: "TBD",
+    city: "Henryetta",
+    region: "Eastern Oklahoma",
     type: "state house district",
     incumbentName: "Mark Lawson",
     incumbentParty: "Republican",
@@ -1390,8 +1390,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-31",
     name: "Oklahoma House District 31",
-    city: "TBD",
-    region: "TBD",
+    city: "Bixby",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Collin Duel",
     incumbentParty: "Republican",
@@ -1436,8 +1436,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-32",
     name: "Oklahoma House District 32",
-    city: "TBD",
-    region: "TBD",
+    city: "Tishomingo",
+    region: "South-Central Oklahoma",
     type: "state house district",
     incumbentName: "Jim Shaw",
     incumbentParty: "Republican",
@@ -1482,8 +1482,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-33",
     name: "Oklahoma House District 33",
-    city: "TBD",
-    region: "TBD",
+    city: "Moore",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Molly Jenkins",
     incumbentParty: "Republican",
@@ -1528,8 +1528,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-34",
     name: "Oklahoma House District 34",
-    city: "TBD",
-    region: "TBD",
+    city: "Stillwater",
+    region: "North-Central Oklahoma",
     type: "state house district",
     incumbentName: "Trish Ranson",
     incumbentParty: "Democrat",
@@ -1574,8 +1574,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-35",
     name: "Oklahoma House District 35",
-    city: "TBD",
-    region: "TBD",
+    city: "Pawhuska",
+    region: "North-Central Oklahoma",
     type: "state house district",
     incumbentName: "Dillon Travis",
     incumbentParty: "Republican",
@@ -1620,8 +1620,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-36",
     name: "Oklahoma House District 36",
-    city: "TBD",
-    region: "TBD",
+    city: "Edmond",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "John George",
     incumbentParty: "Republican",
@@ -1666,8 +1666,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-37",
     name: "Oklahoma House District 37",
-    city: "TBD",
-    region: "TBD",
+    city: "Guthrie",
+    region: "North-Central Oklahoma",
     type: "state house district",
     incumbentName: "Ken Luttrell",
     incumbentParty: "Republican",
@@ -1712,8 +1712,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-38",
     name: "Oklahoma House District 38",
-    city: "TBD",
-    region: "TBD",
+    city: "Cushing",
+    region: "North-Central Oklahoma",
     type: "state house district",
     incumbentName: "John Pfeiffer",
     incumbentParty: "Republican",
@@ -1758,8 +1758,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-39",
     name: "Oklahoma House District 39",
-    city: "TBD",
-    region: "TBD",
+    city: "Edmond",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Erick Harris",
     incumbentParty: "Republican",
@@ -1804,8 +1804,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-40",
     name: "Oklahoma House District 40",
-    city: "TBD",
-    region: "TBD",
+    city: "Lawton",
+    region: "Southwestern Oklahoma",
     type: "state house district",
     incumbentName: "Chad Caldwell",
     incumbentParty: "Republican",
@@ -1850,8 +1850,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-41",
     name: "Oklahoma House District 41",
-    city: "TBD",
-    region: "TBD",
+    city: "Edmond",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Denise Crosswhite Hader",
     incumbentParty: "Republican",
@@ -1896,8 +1896,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-42",
     name: "Oklahoma House District 42",
-    city: "TBD",
-    region: "TBD",
+    city: "Lawton",
+    region: "Southwestern Oklahoma",
     type: "state house district",
     incumbentName: "Cindy Roe",
     incumbentParty: "Republican",
@@ -1942,8 +1942,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-43",
     name: "Oklahoma House District 43",
-    city: "TBD",
-    region: "TBD",
+    city: "Moore",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Jay W. Steagall",
     incumbentParty: "Republican",
@@ -1988,8 +1988,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-44",
     name: "Oklahoma House District 44",
-    city: "TBD",
-    region: "TBD",
+    city: "Norman",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Jared Deck",
     incumbentParty: "Democrat",
@@ -2034,8 +2034,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-45",
     name: "Oklahoma House District 45",
-    city: "TBD",
-    region: "TBD",
+    city: "Norman",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Annie Menz",
     incumbentParty: "Democrat",
@@ -2080,8 +2080,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-46",
     name: "Oklahoma House District 46",
-    city: "TBD",
-    region: "TBD",
+    city: "Norman",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Jacob Rosecrants",
     incumbentParty: "Democrat",
@@ -2126,8 +2126,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-47",
     name: "Oklahoma House District 47",
-    city: "TBD",
-    region: "TBD",
+    city: "Edmond",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Brian Hill",
     incumbentParty: "Republican",
@@ -2172,8 +2172,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-48",
     name: "Oklahoma House District 48",
-    city: "TBD",
-    region: "TBD",
+    city: "Seminole",
+    region: "Central Oklahoma",
     type: "state house district",
     incumbentName: "Tammy Townley",
     incumbentParty: "Republican",
@@ -2218,8 +2218,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-49",
     name: "Oklahoma House District 49",
-    city: "TBD",
-    region: "TBD",
+    city: "Chickasha",
+    region: "Southwestern Oklahoma",
     type: "state house district",
     incumbentName: "Josh Cantrell",
     incumbentParty: "Republican",
@@ -2264,8 +2264,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-50",
     name: "Oklahoma House District 50",
-    city: "TBD",
-    region: "TBD",
+    city: "Holdenville",
+    region: "South-Central Oklahoma",
     type: "state house district",
     incumbentName: "Stacy Jo Adams",
     incumbentParty: "Republican",
@@ -2310,8 +2310,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-51",
     name: "Oklahoma House District 51",
-    city: "TBD",
-    region: "TBD",
+    city: "Alva",
+    region: "Western Oklahoma",
     type: "state house district",
     incumbentName: "Brad Boles",
     incumbentParty: "Republican",
@@ -2356,8 +2356,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-52",
     name: "Oklahoma House District 52",
-    city: "TBD",
-    region: "TBD",
+    city: "Ponca City",
+    region: "North-Central Oklahoma",
     type: "state house district",
     incumbentName: "Gerrid Kendrix",
     incumbentParty: "Republican",
@@ -2402,8 +2402,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-53",
     name: "Oklahoma House District 53",
-    city: "TBD",
-    region: "TBD",
+    city: "Yukon",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Jason Blair",
     incumbentParty: "Republican",
@@ -2448,8 +2448,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-54",
     name: "Oklahoma House District 54",
-    city: "TBD",
-    region: "TBD",
+    city: "Lawton",
+    region: "Southwestern Oklahoma",
     type: "state house district",
     incumbentName: "Kevin West",
     incumbentParty: "Republican",
@@ -2494,8 +2494,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-55",
     name: "Oklahoma House District 55",
-    city: "TBD",
-    region: "TBD",
+    city: "Elk City",
+    region: "Western Oklahoma",
     type: "state house district",
     incumbentName: "Nick Archer",
     incumbentParty: "Republican",
@@ -2540,8 +2540,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-56",
     name: "Oklahoma House District 56",
-    city: "TBD",
-    region: "TBD",
+    city: "Drumright",
+    region: "North-Central Oklahoma",
     type: "state house district",
     incumbentName: "Dick Lowe",
     incumbentParty: "Republican",
@@ -2587,8 +2587,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-57",
     name: "Oklahoma House District 57",
-    city: "TBD",
-    region: "TBD",
+    city: "Weatherford",
+    region: "Western Oklahoma",
     type: "state house district",
     incumbentName: "Anthony Moore",
     incumbentParty: "Republican",
@@ -2634,8 +2634,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-58",
     name: "Oklahoma House District 58",
-    city: "TBD",
-    region: "TBD",
+    city: "Woodward",
+    region: "Western Oklahoma",
     type: "state house district",
     incumbentName: "Carl Newton",
     incumbentParty: "Republican",
@@ -2681,8 +2681,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-59",
     name: "Oklahoma House District 59",
-    city: "TBD",
-    region: "TBD",
+    city: "Beaver",
+    region: "Panhandle",
     type: "state house district",
     incumbentName: "Mike Dobrinski",
     incumbentParty: "Republican",
@@ -2728,8 +2728,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-60",
     name: "Oklahoma House District 60",
-    city: "TBD",
-    region: "TBD",
+    city: "Enid",
+    region: "Northwestern Oklahoma",
     type: "state house district",
     incumbentName: "Mike Kelley",
     incumbentParty: "Republican",
@@ -2774,8 +2774,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-61",
     name: "Oklahoma House District 61",
-    city: "TBD",
-    region: "TBD",
+    city: "Guymon",
+    region: "Panhandle",
     type: "state house district",
     incumbentName: "Kenton Patzkowsky",
     incumbentParty: "Republican",
@@ -2821,8 +2821,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-62",
     name: "Oklahoma House District 62",
-    city: "TBD",
-    region: "TBD",
+    city: "Lawton",
+    region: "Southwestern Oklahoma",
     type: "state house district",
     incumbentName: "Daniel Pae",
     incumbentParty: "Republican",
@@ -2868,8 +2868,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-63",
     name: "Oklahoma House District 63",
-    city: "TBD",
-    region: "TBD",
+    city: "Altus",
+    region: "Southwestern Oklahoma",
     type: "state house district",
     incumbentName: "Trey Caldwell",
     incumbentParty: "Republican",
@@ -2915,8 +2915,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-64",
     name: "Oklahoma House District 64",
-    city: "TBD",
-    region: "TBD",
+    city: "Lawton",
+    region: "Southwestern Oklahoma",
     type: "state house district",
     incumbentName: "Rande Worthen",
     incumbentParty: "Republican",
@@ -2962,8 +2962,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-65",
     name: "Oklahoma House District 65",
-    city: "TBD",
-    region: "TBD",
+    city: "Anadarko",
+    region: "Southwestern Oklahoma",
     type: "state house district",
     incumbentName: "Toni Hasenbeck",
     incumbentParty: "Republican",
@@ -3009,8 +3009,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-66",
     name: "Oklahoma House District 66",
-    city: "TBD",
-    region: "TBD",
+    city: "Collinsville",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Clay Staires",
     incumbentParty: "Republican",
@@ -3055,8 +3055,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-67",
     name: "Oklahoma House District 67",
-    city: "TBD",
-    region: "TBD",
+    city: "Broken Arrow",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Rob Hall",
     incumbentParty: "Republican",
@@ -3102,8 +3102,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-68",
     name: "Oklahoma House District 68",
-    city: "TBD",
-    region: "TBD",
+    city: "Tulsa",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Mike Lay",
     incumbentParty: "Republican",
@@ -3149,8 +3149,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-69",
     name: "Oklahoma House District 69",
-    city: "TBD",
-    region: "TBD",
+    city: "Jenks",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Mark Tedford",
     incumbentParty: "Republican",
@@ -3196,8 +3196,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-70",
     name: "Oklahoma House District 70",
-    city: "TBD",
-    region: "TBD",
+    city: "Tulsa",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Suzanne E. Schreiber",
     incumbentParty: "Democrat",
@@ -3243,8 +3243,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-71",
     name: "Oklahoma House District 71",
-    city: "TBD",
-    region: "TBD",
+    city: "Tulsa",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Amanda Clinton",
     incumbentParty: "Democrat",
@@ -3290,8 +3290,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-72",
     name: "Oklahoma House District 72",
-    city: "TBD",
-    region: "TBD",
+    city: "Tulsa",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Michelle Mccane",
     incumbentParty: "Democrat",
@@ -3337,8 +3337,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-73",
     name: "Oklahoma House District 73",
-    city: "TBD",
-    region: "TBD",
+    city: "Tulsa",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Ron Stewart",
     incumbentParty: "Democrat",
@@ -3384,8 +3384,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-74",
     name: "Oklahoma House District 74",
-    city: "TBD",
-    region: "TBD",
+    city: "Broken Arrow",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Mark Vancuren",
     incumbentParty: "Republican",
@@ -3431,8 +3431,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-75",
     name: "Oklahoma House District 75",
-    city: "TBD",
-    region: "TBD",
+    city: "Tulsa",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "T.j. Marti",
     incumbentParty: "Republican",
@@ -3478,8 +3478,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-76",
     name: "Oklahoma House District 76",
-    city: "TBD",
-    region: "TBD",
+    city: "Bixby",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Ross Ford",
     incumbentParty: "Republican",
@@ -3525,8 +3525,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-77",
     name: "Oklahoma House District 77",
-    city: "TBD",
-    region: "TBD",
+    city: "Tulsa",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "John Waldron",
     incumbentParty: "Democrat",
@@ -3572,8 +3572,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-78",
     name: "Oklahoma House District 78",
-    city: "TBD",
-    region: "TBD",
+    city: "Tulsa",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Meloyde Blancett",
     incumbentParty: "Democrat",
@@ -3619,8 +3619,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-79",
     name: "Oklahoma House District 79",
-    city: "TBD",
-    region: "TBD",
+    city: "Tulsa",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Melissa Provenzano",
     incumbentParty: "Democrat",
@@ -3666,8 +3666,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-80",
     name: "Oklahoma House District 80",
-    city: "TBD",
-    region: "TBD",
+    city: "Broken Arrow",
+    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Stan May",
     incumbentParty: "Republican",
@@ -3713,8 +3713,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-81",
     name: "Oklahoma House District 81",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Mike Osburn",
     incumbentParty: "Republican",
@@ -3760,8 +3760,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-82",
     name: "Oklahoma House District 82",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Nicole Miller",
     incumbentParty: "Republican",
@@ -3807,8 +3807,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-83",
     name: "Oklahoma House District 83",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Eric Roberts",
     incumbentParty: "Republican",
@@ -3854,8 +3854,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-84",
     name: "Oklahoma House District 84",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Tammy West",
     incumbentParty: "Republican",
@@ -3901,8 +3901,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-85",
     name: "Oklahoma House District 85",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Cyndi Munson",
     incumbentParty: "Democrat",
@@ -3948,8 +3948,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-86",
     name: "Oklahoma House District 86",
-    city: "TBD",
-    region: "TBD",
+    city: "Shawnee",
+    region: "Central Oklahoma",
     type: "state house district",
     incumbentName: "David Hardin",
     incumbentParty: "Republican",
@@ -3995,8 +3995,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-87",
     name: "Oklahoma House District 87",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Ellyn Hefner",
     incumbentParty: "Democrat",
@@ -4042,8 +4042,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-88",
     name: "Oklahoma House District 88",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Ellen Pogemiller",
     incumbentParty: "Democrat",
@@ -4089,8 +4089,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-89",
     name: "Oklahoma House District 89",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Arturo Alonso Sandoval",
     incumbentParty: "Democrat",
@@ -4136,8 +4136,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-90",
     name: "Oklahoma House District 90",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Emily Gise",
     incumbentParty: "Republican",
@@ -4183,8 +4183,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-91",
     name: "Oklahoma House District 91",
-    city: "TBD",
-    region: "TBD",
+    city: "Edmond",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Chris Kannady",
     incumbentParty: "Republican",
@@ -4230,8 +4230,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-92",
     name: "Oklahoma House District 92",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Vacant",
     incumbentParty: "TBD",
@@ -4277,8 +4277,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-93",
     name: "Oklahoma House District 93",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Mickey Dollens",
     incumbentParty: "Democrat",
@@ -4324,8 +4324,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-94",
     name: "Oklahoma House District 94",
-    city: "TBD",
-    region: "TBD",
+    city: "Del City",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Andy Fugate",
     incumbentParty: "Democrat",
@@ -4371,8 +4371,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-95",
     name: "Oklahoma House District 95",
-    city: "TBD",
-    region: "TBD",
+    city: "Moore",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Max Wolfley",
     incumbentParty: "Republican",
@@ -4418,8 +4418,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-96",
     name: "Oklahoma House District 96",
-    city: "TBD",
-    region: "TBD",
+    city: "Edmond",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Preston Stinson",
     incumbentParty: "Republican",
@@ -4465,8 +4465,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-97",
     name: "Oklahoma House District 97",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Aletia Timmons",
     incumbentParty: "Democrat",
@@ -4512,8 +4512,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-98",
     name: "Oklahoma House District 98",
-    city: "TBD",
-    region: "TBD",
+    city: "Yukon",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Gabe Woolley",
     incumbentParty: "Republican",
@@ -4559,8 +4559,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-99",
     name: "Oklahoma House District 99",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Ajay Pittman",
     incumbentParty: "Democrat",
@@ -4606,8 +4606,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-100",
     name: "Oklahoma House District 100",
-    city: "TBD",
-    region: "TBD",
+    city: "Edmond",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Marilyn Stark",
     incumbentParty: "Republican",
@@ -4653,8 +4653,8 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-101",
     name: "Oklahoma House District 101",
-    city: "TBD",
-    region: "TBD",
+    city: "Midwest City",
+    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Robert Manger",
     incumbentParty: "Republican",
@@ -4703,8 +4703,8 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-1",
     name: "Oklahoma Senate District 1",
-    city: "TBD",
-    region: "TBD",
+    city: "Pryor",
+    region: "Northeastern Oklahoma",
     type: "state senate district",
     incumbentName: "Micheal Bergstrom",
     incumbentParty: "Republican",
@@ -4727,17 +4727,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 1.18, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.77, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "AIAN Tribal Community Engagement", tag: "lean-into", why: "The four reported demographic categories account for only 70.5% of SD-1's population — the ~29.5% AIAN gap is the defining electoral variable in a 53-47 seat. Northeastern Oklahoma is the heartland of Cherokee Nation, the Ottawa County tribal nations (Miami Tribe, Quapaw Nation, Eastern Shawnee, Wyandotte, and others), and Muscogee Nation territory. In a seat this competitive, tribal voter mobilization and candidate preference are arithmetically sufficient to determine the outcome. A senator who cannot engage these nations as institutional partners — with fluency on tribal sovereignty, healthcare access, and economic development — is ceding the constituency that determines whether this seat is held or lost." },
+        { name: "Working-Class Rural Economic Security", tag: "lean-into", why: "At $52,571 median income and 16.0% college attainment, SD-1 is working-class rural northeastern Oklahoma where agriculture, small business, tourism (Grand Lake, local recreation), and tribal enterprise employment are the primary economic drivers. Rural hospital viability, access to specialists, job quality, and the conditions that keep working-age adults from relocating to Tulsa or Oklahoma City are the kitchen-table concerns that generate political engagement at this income level. A candidate who delivers specific, tangible results on rural economic infrastructure — not just positions — earns the trust of a constituency that evaluates governance by daily lived experience." },
+        { name: "The 47% Opposition as the Primary Strategic Signal", tag: "careful", why: "A 53-47 result in a deeply red state is not a normal partisan outcome — it is a specific signal that nearly half the district's voters have concluded the current representation is not serving their interests. In northeastern Oklahoma tribal territory, the 47% is almost certainly concentrated in the AIAN community, in healthcare-frustrated rural households, and in economically stressed working-class families for whom the Republican majority's legislative priorities have not delivered tangible improvements. Understanding the precise composition of the opposition — whether primarily tribal, healthcare-driven, or economic — is the most important strategic intelligence any candidate in this seat needs before committing to a campaign approach." },
+        { name: "Treating 53% as a Stable Floor", tag: "avoid", why: "A 53% Republican result in the first senate district sequence is the thinnest majority in the sixteen districts — and it is held by a combination of low tribal turnout and working-class white voters who are themselves evaluating the incumbent on economic delivery. Any candidate or incumbent who campaigns this seat as though the 53% is structurally secure, runs primarily to base mobilization, or neglects the specific concerns of the AIAN community and healthcare-stressed rural households is arithmetically wrong. This seat can flip on a single cycle of increased tribal participation or economic dissatisfaction, and the electoral record demonstrates it." },
+        { name: "Generic Conservative Positioning Without Local Economic Specificity", tag: "avoid", why: "In a district where 16% of adults have college degrees and $52,571 is the median household income, abstract conservative ideology — tax policy, regulatory rollback, national culture-war positioning — does not translate into the material improvements that working-class northeastern Oklahoma families need. This constituency evaluates their senator on rural hospital survival, road quality, job availability, and whether tribal communities are receiving the economic development partnership they were promised. A campaign organized around statewide Republican talking points rather than northeastern Oklahoma-specific economic concerns is underperforming in this seat's primary decision-making language." }
+      ],
+      memoHeadline: "Northeastern Oklahoma's Senate Swing Seat: 53-47, a 30% Tribal Majority, Working-Class Rural Economy, and the Most Genuinely Competitive Senate District in the Sequence",
+      memoParagraphs: [
+        "SD-1 is the most competitive senate district in this sixteen-district sequence — and one of the few genuinely competitive seats in Oklahoma's heavily Republican upper chamber. The 53-47 margin is not a comfortable hold; it is an active competitive challenge requiring sustained constituent engagement and specific policy delivery. At $52,571 median income and 16.0% college attainment, the district's white majority is working-class rural northeastern Oklahoma — a constituency that evaluates representation through the lens of daily economic conditions: rural hospital access, job availability, agricultural viability, and the condition of the roads. These voters are not locked by ideology; they are locked by economic outcomes, and a candidate who delivers visible local results outperforms the partisan default.",
+        "The ~29.5% AIAN gap — the largest in this opening block of senate districts — is the defining swing variable. Northeastern Oklahoma is home to Cherokee Nation, the eight federally recognized Ottawa County tribal nations, and adjacent Muscogee Nation territory, collectively representing tens of thousands of tribal citizens in this district. When these communities mobilize around specific issues — tribal sovereignty, Indian Health Service access, economic development partnership, rural healthcare — they have demonstrated the capacity to determine the outcome of competitive races in this geography. At 53-47, a shift of three to four percentage points in AIAN voter participation or candidate preference flips this seat. Any campaign strategy that does not place tribal community engagement at the center of its constituent outreach is not taking the district's electoral arithmetic seriously."
+      ],
+      memoBullets: [
+        "Treat tribal community engagement as the electoral priority it is: the ~29.5% AIAN gap in a 53-47 seat means tribal voter preference and turnout are mathematically the margin — engage Cherokee Nation, the Ottawa County nations, and Muscogee Nation leadership as institutional partners with specific policy commitments on sovereignty, healthcare, and economic development",
+        "Lead with working-class rural economic specificity: rural hospital viability, agricultural infrastructure, job quality, and road conditions are the material concerns of $52,571-income rural northeastern Oklahoma — deliver tangible local results rather than statewide conservative positioning",
+        "Analyze the 47% opposition to understand its specific composition: whether it is concentrated among tribal communities, healthcare-frustrated rural households, or economically stressed working-class families determines which specific policy responses are most likely to convert opposition voters or prevent base erosion",
+        "Never campaign this seat as if 53% is a structural floor — in a district where the AIAN community is the swing constituency and working-class rural voters evaluate on economic delivery, a single cycle of tribal mobilization or economic dissatisfaction is sufficient to flip the outcome"
+      ]
     }
   },
   {
     id: "ok-sd-2",
     name: "Oklahoma Senate District 2",
-    city: "TBD",
-    region: "TBD",
+    city: "Owasso",
+    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "Ally Seifried",
     incumbentParty: "Republican",
@@ -4760,17 +4774,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Asian", pct: 1.95, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 1.40, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Affluent Suburban Homeowner Economy", tag: "lean-into", why: "At $80,877 median income and 23.0% renter rate, SD-2 is a predominantly homeowner, working-professional constituency in the Tulsa metropolitan fringe whose economic expectations center on property values, school quality, road infrastructure, and the business conditions that sustain professional careers. The 27.4% college attainment and 38.0 median age reflect an established professional community making long-term household investments. At this income level, the constituency evaluates their senator on specific, tangible governance outputs — whether schools are funded, roads maintained, and the suburban economy remains a destination rather than a departure point for working families." },
+        { name: "AIAN Community Engagement in the Tulsa Metro Fringe", tag: "lean-into", why: "The four reported demographic categories sum to only 79.0% of SD-2's population — the ~21% AIAN gap reflects Cherokee Nation and Muscogee (Creek) Nation citizens in the Tulsa metropolitan fringe, territory where both nations operate government services, healthcare facilities, and economic enterprises. Even in an affluent suburban district with a 74-26 Republican margin, tribal citizens are a substantive constituency with specific expectations around tribal-state economic development, healthcare access, and the legislative relationship that determines whether tribal institutions can operate effectively. A senator who engages tribal government leadership as institutional peers builds the full-district constituent relationship that a comfortable margin can allow to atrophy." },
+        { name: "Professional-Class Minority Community Expectations", tag: "careful", why: "With 6.61% Hispanic, 1.95% Asian, and 1.40% Black in a district at $80.9K median income, these are professional-class minority families whose governance expectations are calibrated to their economic status: school quality, economic opportunity, and the community conditions that motivated their choice of this suburban community. Their political support for the Republican majority in SD-2 is held by specific policy alignments — principally around economic conditions and community quality — that can be disrupted by legislative action or national party dynamics that signal disregard for professional minority communities. Active constituent engagement that demonstrates specific responsiveness to these communities is what converts a demographic presence into a durable coalition component." },
+        { name: "Taking the 74% Republican Margin as Permission for Minimal Engagement", tag: "avoid", why: "A 74-26 result in the Tulsa metro fringe reflects a strong but not immovable Republican constituency. The district's 27.4% college attainment means a meaningful educated professional class is tracking their senator's performance on substantive policy outcomes — school funding, infrastructure, economic development — and can organize a primary challenge or shift their preference when those outcomes don't materialize. Passive incumbency in an affluent suburban district, where constituents have high expectations and the resources to act on them, builds organizational conditions for competitive opposition over time." },
+        { name: "Neglecting the ~21% AIAN Constituency as Electorally Invisible", tag: "avoid", why: "A 21% AIAN gap in a 74-26 Republican district can appear electorally irrelevant — but in the Cherokee Nation and Muscogee Nation fringe of Tulsa metro, tribal citizens are not passive. They vote, they organize, and their civic engagement is connected to tribal government institutional interests that the state legislature directly affects through legislation on gaming compacts, tribal jurisdiction, and economic development. A senator who treats the AIAN community as electorally invisible is not only neglecting a fifth of their constituents — they are building the conditions for organized opposition in a future cycle when tribal mobilization around a specific legislative grievance could make a 74% margin look temporary." }
+      ],
+      memoHeadline: "Affluent Tulsa Fringe Suburb: $81K Homeowner Majority, a 21% AIAN Gap in Cherokee and Creek Territory, and a Professional-Class Constituency That Tracks What Its Senator Actually Delivers",
+      memoParagraphs: [
+        "SD-2 is an affluent Tulsa-area suburban senate district — $80,877 median income, 23.0% renter rate, and 38.0 median age profile a community of established homeowner families who have made long-term economic commitments to their suburban community. The 27.4% college attainment reflects a working-professional constituency with real governance expectations: school quality, infrastructure investment, and the economic conditions that sustain professional careers in the Tulsa metropolitan fringe. Ally Seifried's 74-26 Republican result is comfortable by the standards of this sixteen-district sequence, but it is held by a constituency that evaluates on substance and has the resources and organization to act when a representative stops delivering.",
+        "The defining demographic complexity the partisan margin obscures is the ~21% AIAN gap — the gap between the four reported census categories and 100% that in this Tulsa metro fringe geography represents Cherokee Nation and Muscogee (Creek) Nation citizens. Together with 6.61% Hispanic, 1.95% Asian, and 1.40% Black professional-class minority families, approximately 30% of the district's residents belong to communities whose governance expectations are substantive and specific. A senator who builds authentic relationships with tribal institutional leadership and serves the district's minority professional communities with specific policy responsiveness is building a governing record that sustains a 74% margin over time; one who coasts on the comfortable result is building the organizational conditions for competitive opposition."
+      ],
+      memoBullets: [
+        "Lead with homeowner economy stewardship: school funding, infrastructure investment, and the professional business conditions that sustain $80.9K-income careers are the primary constituent service obligations for an established suburban homeowner majority",
+        "Engage Cherokee Nation and Muscogee Nation tribal citizens in the ~21% AIAN population with institutional authenticity — tribal governments operating in the Tulsa metro fringe are governing partners with specific expectations about the state-tribal legislative relationship",
+        "Build specific relationships with the 6.61% Hispanic, 1.95% Asian, and 1.40% Black professional communities — at this income level, these are discerning constituents whose suburban alignment is a policy relationship requiring active maintenance",
+        "Resist the complacency that a 74% margin can breed in an affluent district: a 27.4% college-attainment constituency tracks outcomes and can generate organized competition when a representative stops delivering the substantive governance this community moved here expecting"
+      ]
     }
   },
   {
     id: "ok-sd-3",
     name: "Oklahoma Senate District 3",
-    city: "TBD",
-    region: "TBD",
+    city: "Eufaula",
+    region: "Eastern Oklahoma",
     type: "state senate district",
     incumbentName: "Julie Mcintosh",
     incumbentParty: "Republican",
@@ -4793,17 +4821,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 2.21, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.84, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Rural Agricultural Economy & Infrastructure", tag: "lean-into", why: "At $67,075 median income — the highest among the eastern Oklahoma rural senate districts in this sequence — SD-3 is a working-agricultural district where farming, ranching, and rural small business are the primary economic foundations. The 40.6 median age and 20.3% renter rate confirm an older, established homeowner community with deep roots in the land and the local economy. A senator who delivers active stewardship of rural infrastructure, agricultural water rights, and the state investment that keeps rural communities viable is performing the primary governance function this constituency has come to expect from representation at this level." },
+        { name: "AIAN Community Engagement in Eastern Oklahoma Tribal Territory", tag: "lean-into", why: "The four reported demographic categories sum to only 71.3% of SD-3's population — the ~28.7% AIAN gap reflects the substantial tribal citizenry of eastern Oklahoma's tribal nations operating in this district. Even in a 79-21 Republican district, the tribal community is a governing constituency with expectations around tribal sovereignty, economic development partnership, and the state-tribal relationship that a senator's legislative record directly affects. Building authentic, ongoing engagement with tribal institutional leaders — not ceremonial acknowledgment at election time — is both a governance obligation and the strategic work that prevents a comfortable margin from becoming vulnerable when tribal mobilization eventually responds to legislative neglect." },
+        { name: "The 21% Opposition as a Governing Signal", tag: "careful", why: "In a district as heavily Republican as 79-21, the 21% opposition is not a competitive threat in the near term — but it is a governing signal that one in five residents has specifically concluded the current representation is not serving their interests. In eastern Oklahoma tribal territory, this 21% is almost certainly concentrated in the AIAN community and in economically frustrated rural households for whom specific local concerns — healthcare access, road quality, rural hospital viability — are not being adequately addressed. Understanding the composition of this opposition and specifically responding to its underlying concerns is the work that prevents a comfortable majority from gradually contracting over time." },
+        { name: "Treating the Large AIAN Community as Politically Invisible", tag: "avoid", why: "A ~28.7% AIAN gap in eastern Oklahoma represents a genuine governing constituency — not a demographic footnote. Tribal citizens in this geography include rural agricultural families, tribal enterprise workers, and government employees whose daily economic lives are directly affected by state legislation on tribal compacts, healthcare funding, and economic development. A senator who treats the AIAN community as electorally irrelevant because they do not appear in the partisan result is governing an abstraction of the district, not the actual community of voters and residents who live here and whose institutional relationships with tribal government give them specific legislative expectations." },
+        { name: "Taking an Older, Established Homeowner Community's Needs for Granted", tag: "avoid", why: "The 40.6 median age and 20.3% renter rate signal an older, rooted homeowner community — and older, rooted homeowners have specific, pressing needs around rural healthcare viability, Medicare sustainability, and senior services that become more urgent with every passing legislative session. These are not abstract concerns: rural hospital closures and the loss of local specialist access directly affect the quality and length of life for an aging rural constituency. A senator who treats the comfortable homeowner majority as a settled coalition requiring minimal service is building the conditions for economic frustration that, while slow to manifest electorally in a 79% district, is real and accumulating." }
+      ],
+      memoHeadline: "Eastern Oklahoma's Rural Senate Core: $67K Working Agricultural Community, a 29% Tribal Citizenry, and the Governance Work a 79% Margin Can Allow to Atrophy",
+      memoParagraphs: [
+        "SD-3 is rural eastern Oklahoma agricultural territory — $67,075 median income, 40.6 median age, and 20.3% renter rate profile an established homeowner community with deep ties to land, livestock, and the rural economy. The 79-21 Republican result is among the most comfortable in this opening block of sixteen senate districts, reflecting a constituency that is culturally and economically conservative, property-rights-oriented, and whose partisan loyalty tracks closely with the rural agricultural community's historical relationship with the Republican Party in Oklahoma. The 23.1% college attainment reflects a working-agricultural constituency rather than a professional credential class — this is a district of people who fix equipment, manage land, and run small businesses, and whose expectations of their senator center on tangible rural infrastructure and economic outcomes.",
+        "The defining complexity beneath the comfortable margin is the ~28.7% AIAN gap — the difference between the four reported census categories and 100% that in eastern Oklahoma tribal territory represents the substantial citizenry of tribal nations whose governments, healthcare systems, and economic enterprises are active institutional presences in this district. Nearly three in ten residents are tribal citizens whose state legislative relationship is affected by every session's decisions on tribal compacts, healthcare funding, and economic development. Julie McIntosh's 79% margin reflects a period of relatively low tribal political mobilization around state legislative contests — but tribal civic infrastructure in eastern Oklahoma is real and capable of organizing when legislative neglect reaches a threshold. A senator who builds genuine, ongoing engagement with tribal institutional leadership is converting a comfortable margin into a genuine community mandate."
+      ],
+      memoBullets: [
+        "Deliver active stewardship of rural agricultural infrastructure: at $67K income and 40.6 median age, this farming and ranching constituency evaluates their senator on tangible results — road quality, water rights, rural hospital viability — not statewide conservative positioning",
+        "Build authentic relationships with eastern Oklahoma's tribal nations and the ~29% AIAN community: tribal citizens are nearly three in ten residents, and a governing record that engages them as institutional partners rather than demographic afterthoughts is the foundation of a genuinely secure majority",
+        "Address aging rural healthcare specifically: the 40.6 median age signals a constituency for whom rural hospital viability, Medicare sustainability, and specialist access are not peripheral concerns but primary quality-of-life determinants that the senator's record should demonstrate awareness of",
+        "Do not allow 79% to become permission for passive stewardship — the combination of a large AIAN community and an aging rural population with urgent service needs is the governance landscape that, if neglected, builds the organizational conditions for a serious future challenge"
+      ]
     }
   },
   {
     id: "ok-sd-4",
     name: "Oklahoma Senate District 4",
-    city: "TBD",
-    region: "TBD",
+    city: "Stilwell",
+    region: "Eastern Oklahoma",
     type: "state senate district",
     incumbentName: "Tom Woods",
     incumbentParty: "Republican",
@@ -4826,17 +4868,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Asian", pct: 1.18, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 0.88, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "AIAN Tribal Community Engagement — The Electoral Majority", tag: "lean-into", why: "The four reported demographic categories account for only 61.9% of SD-4's population — the ~38.1% AIAN gap is the largest in this opening sixteen-district block, and in eastern Oklahoma tribal territory it represents Muscogee (Creek) Nation, Cherokee Nation, and adjacent tribal citizens who together constitute by far the district's largest demographic community. At 60-40 Republican, the AIAN community is not peripheral — it is the constituency that determines whether Tom Woods' margin holds or contracts. A senator who cannot engage these nations as governing partners with specific fluency on tribal sovereignty, Indian Health Service access, and economic development is holding a 60% majority on the assumption that tribal voters remain at low mobilization levels, which is a fragile strategic premise." },
+        { name: "Older Working-Class Economic Security", tag: "lean-into", why: "At $51,441 income and 42.0 median age — the oldest in this sixteen-district sequence — SD-4 is aging, working-class eastern Oklahoma where Medicare sustainability, rural hospital viability, and senior services are not campaign messaging but daily financial and physical survival concerns. At 74.5% homeownership, these are asset-holding but income-constrained households for whom rising healthcare costs represent the primary economic threat to their ability to remain in their homes and communities. A senator who delivers specific, tangible legislative results on rural healthcare access and the state funding that keeps rural hospitals open is performing the most important constituent service function for this constituency." },
+        { name: "The 40% Opposition in the Context of the AIAN Majority", tag: "careful", why: "A 40% opposition in a district where the AIAN community alone accounts for ~38% of residents is an analytically specific pattern: the 40% opposition is not primarily a white working-class dissent — it is almost certainly driven by tribal voter participation among a community whose legislative interests are frequently at odds with the Oklahoma Republican caucus's positions on tribal compacts, gaming, and state-tribal jurisdiction. Understanding that the 40% is predominantly a tribal civic expression rather than a white working-class economic protest changes the strategic calculus entirely: it means the AIAN community is already engaged at a meaningful level, and increasing that engagement further is sufficient to make this seat competitive." },
+        { name: "Running a White-Majority Coalition Strategy in a Near-Majority-AIAN District", tag: "avoid", why: "At 54.88% White and ~38.1% AIAN, SD-4 has the smallest white majority and the largest tribal constituency of any Republican-held senate district in this sequence. A campaign strategy that targets primarily the white homeowner majority without substantive tribal community engagement is not building the coalition to hold a 60-40 seat — it is betting that AIAN voter turnout remains suppressed. That bet fails the moment tribal nations mobilize around a specific state legislative grievance, and the history of eastern Oklahoma politics includes multiple examples of that mobilization changing outcomes in similarly competitive districts." },
+        { name: "Treating the Aging Rural Population's Healthcare Needs as a Background Condition", tag: "avoid", why: "At 42.0 median age and $51,441 income, the rural healthcare access question is not a background concern for SD-4 — it is the defining economic vulnerability for a constituency where rural hospitals have been closing across eastern Oklahoma and specialist access requires hours of travel. A senator who treats rural hospital viability as a budgetary abstraction rather than an active constituent emergency is misreading the degree to which this issue — more than any other — determines whether older working-class eastern Oklahoma voters feel represented or abandoned by their state government." }
+      ],
+      memoHeadline: "Eastern Oklahoma's Largest AIAN Gap: 60-40, 38% Tribal Majority, an Aging Working-Class Constituency, and the Senate Seat Most Vulnerable to Tribal Mobilization in This Sequence",
+      memoParagraphs: [
+        "SD-4 is analytically the most complex senate district in this opening sixteen-district block. At 54.88% White and with a ~38.1% AIAN gap — the largest in the sequence — this is a district where the tribal community is not a minority constituency but effectively the single largest demographic group. In eastern Oklahoma, this gap represents Muscogee (Creek) Nation and Cherokee Nation citizens whose governments, healthcare systems, and economic enterprises are the dominant institutional presences in the district's geography. Tom Woods' 60-40 Republican result depends on a level of tribal voter participation that has historically been below the AIAN community's potential mobilization capacity — a structural vulnerability in any seat where the largest demographic group is routinely under-represented in the electoral result.",
+        "The 42.0 median age is the oldest in the sixteen-district sequence, and at $51,441 income this is a district where the daily economic reality of aging rural Oklahoma is most sharply felt: rising healthcare costs, rural hospital closures, and the gradual contraction of the local services that make aging in place possible. The combination of an enormous AIAN swing constituency and an aging white working-class electorate under economic pressure from healthcare costs creates two simultaneous strategic obligations: active tribal community engagement to prevent the AIAN majority from becoming a mobilized opposition, and specific, tangible healthcare and rural service delivery to retain the working-class white homeowner base. Meeting both obligations at once is what holding a 60-40 margin in this geography requires."
+      ],
+      memoBullets: [
+        "Treat the ~38% AIAN gap as the electoral reality it is: Muscogee and Cherokee Nation citizens are the district's largest demographic group, and a 60-40 Republican hold that depends on low tribal turnout is a structurally precarious position that requires active, authentic tribal community engagement to stabilize",
+        "Deliver specific legislative results on rural healthcare: at 42.0 median age and $51.4K income, rural hospital viability and Medicare sustainability are the primary economic survival concerns of the district's aging working-class majority — position statements do not substitute for legislative outcomes here",
+        "Understand the 40% opposition as primarily a tribal civic expression rather than a white working-class protest, and respond to the tribal community's specific legislative concerns on sovereignty, healthcare access, and economic development with substantive policy commitments",
+        "Avoid a coalition strategy that consolidates only the white homeowner majority — at 54.88% White and ~38% AIAN, holding 60% without tribal engagement is betting on suppressed minority turnout, which is not a durable strategic foundation"
+      ]
     }
   },
   {
     id: "ok-sd-5",
     name: "Oklahoma Senate District 5",
-    city: "TBD",
-    region: "TBD",
+    city: "Atoka",
+    region: "Southeastern Oklahoma",
     type: "state senate district",
     incumbentName: "George Burns",
     incumbentParty: "Republican",
@@ -4859,17 +4915,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 4.03, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.87, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Rural Economic Development & Workforce Opportunity", tag: "lean-into", why: "At $50,164 median income and 15.1% college attainment — the lowest in this sixteen-district sequence — SD-5 is working-class southeastern Oklahoma where job quality, wage adequacy, and rural economic opportunity are the primary material concerns. The 38.6 median age and 27.7% renter rate reflect a mid-career working-class constituency that has not yet completed its transition to homeownership, in part because rural southeastern Oklahoma's economy has not produced the sustained wage growth that makes homeownership accessible at this income level. Tangible legislative results on rural job creation, workforce training pipelines, and small business conditions are the primary measures of constituent service here." },
+        { name: "AIAN Tribal Community Engagement — Choctaw Nation Territory", tag: "lean-into", why: "The four reported demographic categories sum to 77.5% of SD-5's population — the ~22.5% AIAN gap in southeastern Oklahoma reflects the citizenry of the Choctaw Nation of Oklahoma, which headquartered in Durant and encompasses much of this geography, and other tribal nations operating in this area. The Choctaw Nation is one of the largest employers in southeastern Oklahoma, operating healthcare facilities, casinos, government services, and economic development programs that constitute a significant portion of the district's economic foundation. A senator who engages the Choctaw Nation and other tribal governments as genuine institutional partners — not periodic acknowledgments — is governing the district's economic and civic reality, not a filtered version of it." },
+        { name: "Black and Hispanic Community Constituent Service", tag: "careful", why: "With 7.20% Hispanic and 4.03% Black, SD-5 has meaningful minority communities in a rural southeastern Oklahoma context where these populations' concerns can become invisible when the dominant narrative is about the white working-class majority and the AIAN tribal community. In a district where combined visible minority presence exceeds 11%, specific engagement on economic mobility, healthcare access, and community investment for both communities — distinct from the broader rural economic development agenda — is both a governance obligation and a latent electoral variable that the unopposed status masks." },
+        { name: "Passive Incumbency Because the Seat Is Unopposed", tag: "avoid", why: "An unopposed Republican result in southeastern Oklahoma does not reflect the absence of constituent needs — it reflects the absence of organized opposition in this cycle. At $50,164 income and 15.1% college attainment, this is a constituency with urgent material needs around economic opportunity, healthcare access, and rural service delivery. These needs accumulate into organizational capacity for a challenge — primary or general — when chronically unaddressed. A senator who governs this district as if the unopposed status is a mandate rather than an obligation is building exactly the conditions of neglect that a motivated challenger will eventually exploit." },
+        { name: "Treating the District's Diversity as Invisible Behind the White Majority", tag: "avoid", why: "The combined ~22.5% AIAN gap, 7.2% Hispanic, and 4.0% Black communities mean that approximately a third of SD-5's residents belong to minority communities whose governance expectations are distinct from and in some cases in tension with the white working-class majority's priorities. A senator who governs exclusively for the 65% white majority is governing an abstraction — and is missing the Choctaw Nation's institutional significance as the district's major economic player, the Hispanic community's workforce and housing concerns, and the Black community's specific engagement needs around economic equity." }
+      ],
+      memoHeadline: "Working-Class Southeastern Oklahoma: $50K Income, 15% College, Choctaw Nation Territory, and a Diverse Minority Population Requiring Substantive Engagement Beyond the Unopposed Result",
+      memoParagraphs: [
+        "SD-5 is working-class southeastern Oklahoma at its most economically constrained — $50,164 median income and 15.1% college attainment are the lowest figures in this sixteen-district sequence, reflecting a constituency where rural economic opportunity, wage adequacy, and access to healthcare and services are immediate survival concerns rather than background policy preferences. The 38.6 median age and 27.7% renter rate signal a mid-career working-class community that has not yet completed its economic ascent to homeownership, in a district economy that has not generated the sustained employment quality needed to make that transition realistic. George Burns' unopposed Republican result reflects a district where organizing against the incumbent is structurally difficult — not where constituent satisfaction is high.",
+        "The district's demographic complexity runs deeper than the white majority figure suggests. The ~22.5% AIAN gap reflects Choctaw Nation citizens — a constituency whose tribal government is one of the most significant economic institutions in southeastern Oklahoma, employing thousands and operating healthcare facilities that many district residents depend on. The 7.20% Hispanic and 4.03% Black communities add minority constituencies with distinct economic mobility and housing concerns that the dominant rural white working-class narrative can obscure. A senator who builds specific, authentic relationships with the Choctaw Nation, the Hispanic community, and the Black community — alongside delivering tangible economic development results for the white working-class majority — is building the full-constituency governing record that makes an unopposed seat genuinely secure rather than simply unchallenged in any given cycle."
+      ],
+      memoBullets: [
+        "Engage the Choctaw Nation and the ~22.5% AIAN community as the significant economic and civic institution it is in southeastern Oklahoma: tribal employment, healthcare, and economic development are not peripheral concerns but the backbone of this district's economic survival",
+        "Lead with rural economic development specifics: at $50.2K income and 15.1% college attainment, workforce training, job quality, and rural infrastructure investment are the material concerns that determine whether this constituency feels served or neglected",
+        "Serve the 7.2% Hispanic and 4% Black communities with specific constituent attention — combined these communities represent more than 11% of the district, and their economic mobility and healthcare access concerns deserve more than acknowledgment",
+        "Treat the unopposed result as an obligation rather than a mandate: urgent material needs at this income and education level accumulate into organizational capacity for a primary challenge when a senator governs as if the absence of opposition means the absence of constituency expectations"
+      ]
     }
   },
   {
     id: "ok-sd-6",
     name: "Oklahoma Senate District 6",
-    city: "TBD",
-    region: "TBD",
+    city: "McAlester",
+    region: "Southeastern Oklahoma",
     type: "state senate district",
     incumbentName: "David Bullard",
     incumbentParty: "Republican",
@@ -4892,17 +4962,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 3.74, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.64, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Rural Economic Development & Workforce Investment", tag: "lean-into", why: "At $50,845 income and 20.2% college attainment, SD-6 is working-class southeastern Oklahoma where rural job quality, workforce development, and the economic conditions that give working-age adults reason to stay in the district are the primary material concerns. The 38.9 median age and 32.9% renter rate — higher than most of the rural districts in this sequence — indicate a meaningful renter population in a district economy that has not generated sufficient homeownership opportunity. Tangible legislative investment in rural economic infrastructure, employer recruitment, and workforce training programs directly affects whether this district's working-age population stays and builds lives here or continues to migrate to Oklahoma City or Tulsa." },
+        { name: "AIAN Community Partnership in Choctaw Nation Territory", tag: "lean-into", why: "The ~22.8% AIAN gap in southeastern Oklahoma reflects Choctaw Nation citizens and other tribal members whose tribal government is one of the region's dominant economic institutions — operating healthcare, gaming, manufacturing, and government service enterprises that employ thousands across southeastern Oklahoma. The Choctaw Nation is not a constituency to be managed; it is a governing partner whose economic development programs, healthcare facilities, and governmental operations are directly affected by the state legislative relationship. A senator who engages tribal leadership with genuine fluency on the state-tribal compact relationship, healthcare funding, and economic development partnership is building the constituent engagement that the district's largest institutional actor requires." },
+        { name: "The Renter Constituency's Economic Concerns", tag: "careful", why: "At 32.9% renter rate in a district at $50,845 income, roughly a third of residents face housing cost pressures that a homeowner-majority narrative can obscure. Working-class renters in rural southeastern Oklahoma are not an urban constituency — they are agricultural workers, service-sector employees, and young families for whom the gap between wages and housing costs represents a material barrier to economic stability. A senator who engages the renter constituency's specific concerns — wage adequacy, housing affordability, and the economic conditions that make homeownership achievable — is serving a significant portion of the district whose needs the dominant Republican homeowner coalition can overlook." },
+        { name: "Passive Incumbency in an Unopposed Seat", tag: "avoid", why: "An unopposed result in working-class southeastern Oklahoma does not reflect constituent satisfaction — it reflects the organizational difficulty of challenging an incumbent in a low-resources, low-visibility state senate race. At $50,845 income and with a district economy that has not delivered sustained wage growth, constituent frustration with the status quo is real and present even when it does not take electoral form. A senator who interprets the absence of a challenger as validation of the current approach is misreading the district — the needs are urgent, and passive representation of a working-class constituency eventually creates the conditions for a primary challenge or a general-election mobilization effort." },
+        { name: "Governing Only for the White Working-Class Majority", tag: "avoid", why: "The combined ~22.8% AIAN, 6.14% Hispanic, and 3.74% Black communities constitute roughly a third of SD-6's residents — a minority coalition whose combined economic and governance concerns cannot be absorbed into a single rural working-class narrative. The Choctaw Nation's institutional significance, the Hispanic community's workforce and housing concerns, and the Black community's economic mobility needs each require specific legislative attention. A senator who consolidates exclusively around the white majority is governing less than two-thirds of the district and building the organizational vacuum that motivated opposition eventually fills." }
+      ],
+      memoHeadline: "Southeastern Oklahoma's Working-Class Senate District: $51K Income, 33% Renters, Choctaw Nation Territory, and a Diverse Minority Population That Deserves More Than an Unopposed Result",
+      memoParagraphs: [
+        "SD-6 is southeastern Oklahoma working-class territory whose economic profile — $50,845 income, 20.2% college attainment, 32.9% renter rate — reflects a constituency where economic mobility has been constrained and where working-age adults navigate a rural job market that has not generated the sustained wage growth needed to achieve homeownership at scale. The 38.9 median age and renter rate suggest a meaningful cohort of working families who are mid-career but not yet settled — economically speaking, still in transit between where they are and where they hoped to be. David Bullard's unopposed Republican result reflects a district without organized opposition this cycle, not a district without urgent material needs.",
+        "The district's demographic complexity — ~22.8% AIAN gap, 6.14% Hispanic, 3.74% Black — means that roughly a third of SD-6's residents belong to minority communities whose governance expectations are distinct from the white working-class majority's priorities. The Choctaw Nation is the dominant economic force in southeastern Oklahoma, and tribal citizens in this geography have specific institutional expectations of their state senator around the compact relationship, healthcare funding, and economic development partnership that passive incumbency cannot satisfy. A senator who engages the Choctaw Nation and the district's Hispanic and Black communities with specific, authentic constituent service — alongside delivering tangible rural economic development outcomes for the working-class majority — is building the full-district governing record that makes an unopposed seat durably secure."
+      ],
+      memoBullets: [
+        "Engage the Choctaw Nation and the ~23% AIAN community with genuine institutional fluency: the Nation is a dominant economic force in southeastern Oklahoma, and a senator's relationship with tribal government leadership directly affects the district's economic and healthcare landscape",
+        "Lead on rural economic development and workforce investment: at $50.8K income and 32.9% renter rate, the most important constituent service is creating the conditions — employer recruitment, workforce training, infrastructure — that make economic mobility achievable for working-class families in this district",
+        "Serve the 6.14% Hispanic and 3.74% Black communities with specific attention to their economic mobility and housing concerns — combined with the AIAN gap, minority communities represent roughly a third of the district, and their needs do not disappear because the seat is unopposed",
+        "Treat the unopposed margin as a governance obligation: working-class southeastern Oklahoma has urgent economic and healthcare needs that, if chronically unaddressed, build the organizational conditions for a motivated challenger who runs specifically on the incumbent's service record"
+      ]
     }
   },
   {
     id: "ok-sd-7",
     name: "Oklahoma Senate District 7",
-    city: "TBD",
-    region: "TBD",
+    city: "Poteau",
+    region: "Southeastern Oklahoma",
     type: "state senate district",
     incumbentName: "Warren D Hamilton",
     incumbentParty: "Republican",
@@ -4925,17 +5009,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 1.83, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.76, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Rural Healthcare & Aging Population Services", tag: "lean-into", why: "At 40.4 median age and $51,024 income, SD-7 is a district of older working-class rural Oklahomans for whom healthcare access is not a policy abstraction — it is a daily practical challenge. Rural hospital viability, access to specialists, Medicare sustainability, and the state's funding relationship with rural healthcare providers are the policy inputs that directly determine whether SD-7 residents can manage chronic illness, recover from injury, and age in place in their communities. A senator who secures specific legislative results on rural hospital funding and Medicaid coverage for working-age uninsured adults is performing the most consequential constituent service this district's demographic profile demands." },
+        { name: "AIAN Community Engagement in Southeastern Oklahoma Tribal Territory", tag: "lean-into", why: "The four reported demographic categories account for 73.7% of SD-7's population — the ~26.3% AIAN gap reflects the significant tribal citizenry of southeastern Oklahoma, including Choctaw Nation and Chickasaw Nation members whose governments operate healthcare, gaming, government services, and economic development enterprises across this region. These tribal institutions are not peripheral to the district's economy — they are among its most significant employers and healthcare providers. A senator who cannot engage tribal leadership with institutional fluency on the state-tribal relationship, compact negotiations, and economic development partnership is governing without the trust of approximately one in four constituents." },
+        { name: "The 23% Opposition in a Rural Conservative District", tag: "careful", why: "In a deeply conservative rural district like SD-7, a 23% opposition share is not a negligible rounding error — it is a specific constituency whose concerns are not being addressed by the current legislative representation. In southeastern Oklahoma tribal territory at this income level, the 23% is most likely concentrated among AIAN community members and economically frustrated rural households for whom healthcare access and rural service delivery are unresolved material grievances. Understanding precisely what is driving that 23% — and addressing those underlying concerns with specific legislative action — is the work that prevents a comfortable 77% margin from gradually contracting toward competitive." },
+        { name: "Treating the AIAN Community as Electorally Irrelevant Because the Margin Is Comfortable", tag: "avoid", why: "A 77-23 Republican result in a district where ~26% of residents are tribal citizens reflects low AIAN voter participation in this cycle's legislative contest, not tribal community satisfaction with the status quo. Southeastern Oklahoma's tribal nations — Choctaw and Chickasaw particularly — have demonstrated civic organizing capacity around specific state legislative issues, and a senator whose record signals indifference or hostility to tribal institutional interests is building the conditions for organized opposition that a future cycle's mobilization could translate into a competitive race. Governing around the AIAN community in a district where they are one in four residents is governing a fiction." },
+        { name: "Passive Stewardship of an Aging Rural Constituency With Acute Healthcare Needs", tag: "avoid", why: "At 40.4 median age and $51,024 income in southeastern Oklahoma, the constituency's need for active, specific healthcare advocacy is urgent — not an eventual concern. Rural hospital closures, specialist access deserts, and Medicare funding pressures are active current events in this geography, and a senator who responds to these crises with position statements rather than legislative results will find that the aging working-class constituency's political patience erodes faster than the partisan margin suggests. This is the district profile that, nationally, has demonstrated the capacity to shift against incumbents who are perceived as delivering for institutions rather than for families." }
+      ],
+      memoHeadline: "Southeastern Oklahoma's Rural Senate District: $51K Working-Class, 40-Year Median Age, 26% Tribal Citizenry, and an Aging Constituency That Needs Healthcare Delivery More Than Conservative Positioning",
+      memoParagraphs: [
+        "SD-7 is southeastern Oklahoma working-class rural territory — $51,024 income, 40.4 median age, 29.2% renter rate — whose demographic profile sits at the intersection of two urgent governance challenges: the healthcare access crisis facing older working-class rural families, and the governing obligation to the ~26.3% AIAN community whose tribal governments are among the district's most significant economic and healthcare institutions. Warren D Hamilton's 77-23 Republican result is a comfortable majority in partisan terms, but the underlying demographic realities — an aging constituency under economic and healthcare pressure, and a large tribal community whose institutional interests are directly affected by state legislation — require active governance rather than passive incumbency.",
+        "The district's southeastern Oklahoma geography places it within Choctaw Nation and Chickasaw Nation territory, where tribal healthcare facilities, government services, and economic development programs are not supplementary to the local economy but foundational to it. For working-class rural families in SD-7, the tribal healthcare system is often the most accessible and affordable option — making tribal-state healthcare funding and the compact relationship a direct constituent service issue that extends beyond the AIAN community to white and other rural households who depend on tribal facilities. A senator who builds the genuine institutional relationship with tribal governments that this constituency's healthcare reality demands, while also delivering specific rural hospital and senior service advocacy for the aging white majority, is performing the full constituent service function that this district's complex profile requires."
+      ],
+      memoBullets: [
+        "Lead with rural healthcare advocacy: at 40.4 median age and $51K income, rural hospital viability, Medicare sustainability, and specialist access are the most direct measures of constituent service for an aging working-class district facing the contraction of rural healthcare infrastructure",
+        "Engage Choctaw Nation and Chickasaw Nation tribal governments as institutional partners: the ~26% AIAN community is served by tribal healthcare and government services that the state-tribal relationship directly affects, and authentic engagement with tribal leadership is both a governance obligation and an electoral investment",
+        "Take the 23% opposition seriously as a governing signal: in this district, it reflects specific constituencies — tribal members and healthcare-frustrated rural households — whose concerns, if addressed specifically, strengthen rather than threaten the senator's majority",
+        "Do not treat the AIAN community as electorally invisible behind the 77% majority — southeastern Oklahoma tribal nations have civic organizing capacity, and a legislative record that signals indifference to tribal institutional interests is building conditions for future competitive opposition"
+      ]
     }
   },
   {
     id: "ok-sd-8",
     name: "Oklahoma Senate District 8",
-    city: "TBD",
-    region: "TBD",
+    city: "Wilburton",
+    region: "Southeastern Oklahoma",
     type: "state senate district",
     incumbentName: "Bryan Logan",
     incumbentParty: "Republican",
@@ -4958,17 +5056,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Hispanic / Latino", pct: 3.88, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.68, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Aging Rural Population Healthcare & Economic Security", tag: "lean-into", why: "At 41.7 median age — the oldest in this sixteen-district sequence — and $50,558 income, SD-8 is the most sharply aging working-class rural district in this block. Rural hospital viability, Medicare sustainability, specialist access, and senior services are not background policy concerns here — they are the immediate quality-of-life determinants for a population at the oldest end of the age distribution in a district economy that has not generated the income levels that make private healthcare manageable. Every rural hospital closure, every specialist who stops serving the area, every Medicare cut translates directly into daily hardship for a constituency that is disproportionately dependent on public healthcare infrastructure." },
+        { name: "AIAN Community Engagement in Southeastern Oklahoma", tag: "lean-into", why: "The ~26.6% AIAN gap reflects a significant tribal constituency in southeastern Oklahoma — Choctaw Nation and Chickasaw Nation territory where tribal governments operate the healthcare facilities, government services, and economic enterprises that rural households in this district often depend on for services the private market does not provide. At 41.7 median age, the overlap between the aging white working-class population's healthcare needs and the tribal healthcare infrastructure that serves much of southeastern Oklahoma creates a specific governing opportunity: a senator who secures strong state-tribal healthcare partnership is simultaneously serving both major community interests in the district." },
+        { name: "Black Community Constituent Service", tag: "careful", why: "At 5.54% Black — the highest Black community share among the southeastern Oklahoma senate districts in this sequence — SD-8 has a meaningful African American constituency in a rural context where the community's specific concerns around economic mobility, educational access, and community investment can be overwhelmed by the dominant rural working-class and tribal narratives. At 41.7 median age, the Black community in this district includes both older adults navigating the same healthcare and retirement security pressures as the white majority and younger households facing rural economic opportunity constraints. Specific engagement with this community — not absorption into a broader minority appeal — is both a governance obligation and a signal of representational quality." },
+        { name: "Passive Incumbency With an Aging, Low-Income Constituency That Has Acute Service Needs", tag: "avoid", why: "The combination of Oklahoma's oldest median-age senate district in this block, a $50,558 income floor, and 15.7% college attainment means the urgency of constituent need in SD-8 is among the highest in the sequence. Rural hospital closures, prescription drug cost increases, and the loss of local specialists are active ongoing crises for an aging working-class population. A senator who responds to these crises with position statements rather than specific legislative results — rural hospital funding appropriations, Medicaid coverage expansions, senior service allocations — is not performing the constituent service function this demographic profile demands." },
+        { name: "Treating the Unopposed Result as Voter Satisfaction", tag: "avoid", why: "Bryan Logan won unopposed in 2024 in a district with the oldest median age and one of the lowest incomes in the sequence — not because constituents are content, but because organizing against an incumbent in a rural Oklahoma state senate race is structurally difficult and resource-intensive. The economic frustrations of working-class rural households at $50,558 income, the healthcare access anxiety of a 41.7-year median-age constituency, and the governance expectations of a ~27% AIAN community are all real and persistent regardless of whether they manifest in electoral opposition. Interpreting the unopposed result as constituency approval is a misreading of what the absence of opposition actually means in this district type." }
+      ],
+      memoHeadline: "Oklahoma's Oldest Senate District in This Block: 41.7 Median Age, $50K Working-Class, 27% Tribal Citizens, and a Healthcare Crisis That Demands Active Legislative Intervention",
+      memoParagraphs: [
+        "SD-8 has the oldest median age in this sixteen-district sequence — 41.7 years — in a working-class rural southeastern Oklahoma district at $50,558 median income and 15.7% college attainment. The combination of age and income creates the sharpest healthcare access vulnerability of any district in this block: these are older working-class rural Oklahomans for whom rural hospital closures, specialist access deserts, and Medicare funding pressures are daily practical crises, not policy abstractions. Bryan Logan's unopposed result does not reflect satisfied constituents — it reflects the organizational barriers to challenging an incumbent in a low-profile rural senate race. The constituent needs are urgent regardless of the electoral margin.",
+        "The district's 5.54% Black community is the highest share among the southeastern Oklahoma senate districts in this sequence, reflecting specific historical and community circumstances that warrant individual constituent engagement rather than absorption into a broader rural working-class narrative. The ~26.6% AIAN gap adds Choctaw Nation and Chickasaw Nation citizens whose tribal healthcare infrastructure is a critical resource for the district's aging population — the overlap between what the tribal health system provides and what the white working-class majority needs from rural healthcare access creates a governing alignment opportunity: strengthening the state-tribal healthcare partnership is both good tribal constituent service and good rural healthcare policy. A senator who recognizes and leverages this alignment is governing with the sophistication this district's complex demography requires."
+      ],
+      memoBullets: [
+        "Prioritize rural healthcare advocacy above all other legislative activity: at 41.7 median age and $50.6K income, the most important constituent service a senator can perform in SD-8 is securing state resources for rural hospitals, specialist access, and Medicare sustainability — these are survival issues for the district's aging majority",
+        "Build the state-tribal healthcare partnership: the Choctaw and Chickasaw Nations' healthcare infrastructure serves both tribal and non-tribal rural households in this district, and strengthening the state's funding relationship with tribal health systems is both good AIAN constituent service and good rural healthcare policy",
+        "Engage the 5.54% Black community specifically on economic mobility and community investment — the largest Black community share in the southeastern Oklahoma senate sequence deserves substantive representation, not acknowledgment alongside other minority communities",
+        "Do not interpret an unopposed result at 41.7 median age and $50.6K income as voter satisfaction — the constituent needs in this district are among the most urgent in the sequence, and passive incumbency in the face of an active rural healthcare crisis is a governance failure regardless of the electoral margin"
+      ]
     }
   },
   {
     id: "ok-sd-9",
     name: "Oklahoma Senate District 9",
-    city: "TBD",
-    region: "TBD",
+    city: "Muskogee",
+    region: "Eastern Oklahoma",
     type: "state senate district",
     incumbentName: "Avery Frix",
     incumbentParty: "Republican",
@@ -4991,17 +5103,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 7.92, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.71, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "AIAN Tribal Community Engagement — Majority-Minority Governing Reality", tag: "lean-into", why: "The four reported demographic categories account for only 66.4% of SD-9's population — the ~33.6% AIAN gap is the second largest in this sequence, and combined with 49.05% White, 8.72% Hispanic, and 7.92% Black residents, it means White residents are less than half the district and the combined minority communities constitute the clear majority. In eastern Oklahoma tribal territory — likely Muscogee (Creek) Nation and Cherokee Nation jurisdiction — the AIAN community is not a minority constituency but effectively the district's largest single demographic group. A Republican senator who holds this seat unopposed while representing a majority-minority district is doing so on the structural difficulty of organizing opposition, not on cross-racial constituent service. Authentic tribal community engagement is the foundational governance obligation this demographic profile requires." },
+        { name: "Young Renter Community Economic Opportunity", tag: "lean-into", why: "At 36.1 median age and 40.2% renter rate — both younger and more renter-heavy than neighboring southeastern Oklahoma senate districts — SD-9 has a meaningful population of working-age adults who have not yet transitioned to homeownership, in a district economy that has not consistently produced the wages that make that transition feasible. The 23.2% college attainment is somewhat higher than neighboring rural districts, suggesting a constituency with educational attainment aspirations that the local economy is not fully rewarding. Rural economic development, workforce training investment, and the policy conditions that make this district a place where young working adults can build stable economic lives are the specific legislative priorities that address this constituency's most pressing material concerns." },
+        { name: "Black and Hispanic Community Constituent Service", tag: "careful", why: "With 7.92% Black and 8.72% Hispanic — each community at roughly 8-9% of the district's population — SD-9 has the largest combined Black-Hispanic community presence of any of the southeastern Oklahoma senate districts in this sequence. In a district where the AIAN community already commands significant governance attention, the Black and Hispanic communities' specific concerns around economic mobility, housing affordability, and community investment can be further obscured. Each community deserves specific, distinct constituent engagement — not absorption into a general minority community appeal — and the combination of their sizes means that together with the AIAN majority, White residents are a clear demographic minority whose political dominance reflects electoral structure rather than demographic weight." },
+        { name: "Governing as if the District Is Majority White", tag: "avoid", why: "SD-9 has the most starkly inverted relationship between demographic composition and political representation of any district in this sequence: White residents at 49.05% are a demographic minority, yet the district returned a Republican unopposed. A governing approach that consolidates around the white working-class majority while treating the AIAN, Black, and Hispanic communities as peripheral constituencies is governing a demographic fiction. When the combined minority community's organizational capacity eventually matches its demographic weight — as has happened in other eastern Oklahoma districts during periods of tribal mobilization — a Republican senator whose constituent service record does not extend authentically to these communities will find the seat suddenly competitive." },
+        { name: "Treating the High Renter Rate as a Non-Priority Because the Rural Identity Is Dominant", tag: "avoid", why: "A 40.2% renter rate in a rural eastern Oklahoma district at $51,223 income signals something specific: this is not a homeowner-dominated agricultural community but a district with a substantial working-class renter population that includes tribal enterprise workers, service-sector employees, and young families navigating a constrained rural housing market. Housing cost stability, renter protections, and the economic conditions that enable the transition from renting to homeownership are real constituent concerns for four in ten of this district's households — concerns that the dominant rural conservative narrative of property rights and agricultural economy can structurally ignore at the cost of alienating a significant constituency." }
+      ],
+      memoHeadline: "Eastern Oklahoma's Majority-Minority Republican Seat: 49% White, 34% AIAN Gap, 8% Black and 9% Hispanic — A Demographic Reality That an Unopposed Margin Cannot Substitute for Constituent Service",
+      memoParagraphs: [
+        "SD-9 is analytically one of the most striking districts in this sequence: at 49.05% White, the district's reported white population is below 50%, and with a ~33.6% AIAN gap, 8.72% Hispanic, and 7.92% Black community, the combined minority population approaches or exceeds two-thirds of the district's residents. Avery Frix's Republican unopposed result reflects not cross-racial electoral success but rather the structural difficulty of organizing opposition in a rural eastern Oklahoma state senate district — a very different phenomenon. In eastern Oklahoma tribal territory, the AIAN community of approximately one in three residents is connected to tribal governments whose institutional interests are directly affected by state legislative decisions on compacts, healthcare, and economic development.",
+        "The district's 36.1 median age and 40.2% renter rate — both younger and more renter-heavy than the neighboring southeastern Oklahoma senate districts — add an economic mobility dimension to the governing complexity. Working-age adults in SD-9 are navigating a rural economy that has not consistently produced homeownership-enabling wages, and the combination of tribal enterprise employment, agricultural work, and service-sector jobs creates a diverse economic landscape whose specific policy needs — workforce development, rural economic investment, housing affordability — require active legislative engagement. A senator who builds authentic relationships with the AIAN majority, the Black and Hispanic communities, and the young renter constituency is governing the district that actually exists here; one who governs for the 49% white minority is governing a minority coalition with a majority vote."
+      ],
+      memoBullets: [
+        "Recognize and govern to the demographic reality: SD-9 is majority-minority in all but the electoral result, and the ~34% AIAN gap combined with 9% Hispanic and 8% Black means that authentic constituent engagement with these communities is not optional — it is the governing obligation of representing an eastern Oklahoma district where White residents are less than half the population",
+        "Engage Muscogee (Creek) Nation and Cherokee Nation tribal governments as the primary institutional partners they are: in a district this close to majority-AIAN, the tribal community's governance expectations around compacts, healthcare funding, and economic development directly determine whether the seat remains unchallenged or becomes competitive",
+        "Address the 40.2% renter population's economic concerns: rural housing affordability and economic opportunity for working-age adults who have not transitioned to homeownership are the material concerns of four in ten households, and they require specific legislative attention alongside the dominant agricultural and property-rights agenda",
+        "Serve the 7.92% Black and 8.72% Hispanic communities with specific constituent engagement — each community is large enough to constitute a real constituency with distinct economic and governance concerns, and their combined presence means minority communities outside the AIAN population approach a fifth of the district"
+      ]
     }
   },
   {
     id: "ok-sd-10",
     name: "Oklahoma Senate District 10",
-    city: "TBD",
-    region: "TBD",
+    city: "Shawnee",
+    region: "Central Oklahoma",
     type: "state senate district",
     incumbentName: "Bill Coleman",
     incumbentParty: "Republican",
@@ -5024,17 +5150,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 1.84, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.63, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Agricultural & Rural Economy Stewardship", tag: "lean-into", why: "At $61,582 median income — the highest among the eastern and southeastern Oklahoma rural senate districts in this sequence — SD-10 has a relative economic advantage that is directly tied to its agricultural and rural business base. The 40.7 median age and 25.1% renter rate confirm an established, homeowner-dominant community with deep investment in land and the rural economy. Water rights, farming infrastructure, rural road maintenance, and the state business conditions that keep agricultural operations viable are the active governance priorities that maintain this district's comparative economic position relative to its neighbors. A senator who delivers specific agricultural and rural economic outcomes — not just conservative positioning — earns the durable loyalty of a constituency that evaluates on results." },
+        { name: "AIAN Community Engagement in Central/Western Oklahoma Tribal Territory", tag: "lean-into", why: "The ~21.9% AIAN gap — with the four reported categories summing to only 78.1% of the district's population — reflects a substantial tribal citizenry in central/western Oklahoma territory, including Muscogee (Creek) Nation, Citizen Potawatomi Nation, and other tribal nations operating government services, healthcare facilities, and economic enterprises across this geography. At 74-26 Republican, the tribal community is a governing constituency whose expectations around tribal sovereignty, economic development, and healthcare access do not disappear because they are underrepresented in the partisan result. A senator who builds authentic engagement with tribal institutional leadership is governing the full district; one who treats the AIAN community as electorally invisible is governing approximately 78% of it." },
+        { name: "Aging Homeowner Economic Security", tag: "careful", why: "At 40.7 median age — tied with SD-1 for the older end of this sequence's age distribution — and $61,582 income, SD-10's homeowner majority faces the specific economic pressures of middle-aged rural Oklahomans: rising healthcare costs against fixed or slowly growing incomes, rural hospital access concerns, and the economic security of households that have their wealth in property rather than in retirement savings. These are voters who hold their partisan alignment through specific economic conditions, and a senator whose record on rural healthcare funding and agricultural support is demonstrably active will find their loyalty reinforced; one who prioritizes abstract conservative policy over tangible local outcomes will eventually find the alignment tested." },
+        { name: "Taking the 74% Republican Majority as a Signal to Coast", tag: "avoid", why: "A 74-26 result in central/western Oklahoma is a comfortable but not immovable majority in a district where agricultural conditions, water rights, and rural service delivery are the specific policy levers that determine constituent satisfaction. The 20.5% college attainment means this is not a highly credentialed constituency that will analyze legislative scorecards in detail — but it is a community that knows when their roads are deteriorating, when their hospital has closed, and when their crops are struggling under unfavorable state-level conditions. Passive incumbency that does not actively steward these specific concerns will find that a 74% majority can erode toward competitive in a cycle when local conditions create organized dissatisfaction." },
+        { name: "Neglecting the ~22% AIAN Constituency in a Homeowner-Dominant District", tag: "avoid", why: "A 69.69% White homeowner majority in a 74-26 Republican district can create the illusion that the AIAN community is electorally marginal. But in central/western Oklahoma where multiple tribal nations operate economic and healthcare enterprises that directly serve both tribal and non-tribal rural households, the state-tribal relationship is not a peripheral cultural issue — it is an economic governance question with direct consequences for the district's healthcare infrastructure and employment base. A senator whose record does not reflect serious, ongoing engagement with tribal institutional interests is building a governance deficit that tribal civic organizing can convert into electoral opposition when motivated by a specific legislative grievance." }
+      ],
+      memoHeadline: "Central/Western Oklahoma Agricultural Senate District: $62K Rural Economy, 41-Year Median Age, a 22% Tribal Community, and a Homeowner Constituency Evaluating Its Senator on Specific Agricultural Results",
+      memoParagraphs: [
+        "SD-10 is central/western Oklahoma's agricultural senate district — at $61,582 median income, the district's relative economic advantage over its eastern and southeastern neighbors is tied directly to its agricultural foundation and the homeowner majority's investment in the rural land economy. The 40.7 median age and 25.1% renter rate confirm an established, rooted homeowner community with a conservative land-and-property orientation and specific expectations about what their senator delivers on water rights, farming infrastructure, and rural road maintenance. Bill Coleman's 74-26 Republican result reflects a district that is reliably Republican in partisan terms, but whose specific policy evaluations center on whether the senator is actively advocating for the agricultural and rural conditions that sustain the community's economic base.",
+        "The ~21.9% AIAN gap — representing tribal citizens of Muscogee Nation, Citizen Potawatomi Nation, and other tribal governments operating in this geography — adds a governing obligation that the partisan result obscures. These tribal governments operate healthcare facilities, economic enterprises, and government services that both tribal and non-tribal rural households rely on. The state-tribal relationship — compact negotiations, healthcare funding, economic development partnership — is a direct policy lever that affects rural healthcare access for everyone in the district, not only tribal members. A senator who can engage this constituency with institutional fluency while delivering specific agricultural results for the homeowner majority is building the full-district governing record that makes a 74% majority durably secure."
+      ],
+      memoBullets: [
+        "Lead with agricultural economy stewardship: at $61.6K income and 25.1% renter rate, the agricultural and rural business community's specific legislative needs — water rights, farming infrastructure, rural road investment — are the primary measures of whether this senator is delivering for the district's economic foundation",
+        "Engage tribal nations in the ~22% AIAN community as institutional partners: the tribal governments operating healthcare and economic enterprises in this central/western Oklahoma geography are a governing reality that affects both tribal and non-tribal households' access to services",
+        "Serve the aging homeowner majority's healthcare and economic security concerns: at 40.7 median age, rural hospital viability and Medicare sustainability are the economic security issues that a working-professional homeowner constituency at $61.6K income evaluates alongside agricultural conditions",
+        "Do not treat 74% as a signal to minimize active constituent service — this is a homeowner-dominant constituency that evaluates on specific local results, and passive representation of agricultural and rural concerns will eventually find expression in primary dissatisfaction or lower-turnout cycles"
+      ]
     }
   },
   {
     id: "ok-sd-11",
     name: "Oklahoma Senate District 11",
-    city: "TBD",
-    region: "TBD",
+    city: "Tulsa",
+    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "Regina Goodwin",
     incumbentParty: "Democrat",
@@ -5057,17 +5197,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Hispanic / Latino", pct: 25.38, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.05, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Black Community Economic Development & Material Conditions", tag: "lean-into", why: "At 32.82% Black — a plurality of the district — SD-11 is a majority-minority north Tulsa senate district whose governing center of gravity is the African American community's economic conditions. At $41,895 median income and 52.6% renter rate, this community faces the sharpest concentration of economic distress in the sixteen-district sequence: poverty-adjacent incomes, renter-dominated housing, and a 32.6-year median age that places this constituency in the economic vulnerability of early adult formation. Specific, measurable legislative outcomes on economic development, job quality, Medicaid access, and neighborhood investment in north Tulsa are the primary standards by which a senator here will be evaluated — both by constituents and in the historical record of what representation at this moment actually delivered." },
+        { name: "Latino Community Housing & Economic Opportunity", tag: "lean-into", why: "At 25.38% Hispanic — the second largest community in the district — SD-11's Latino constituency faces economic conditions nearly identical to those of the Black majority: low income, high renter rate, young median age, and the specific material challenges of a working-class immigrant and first-generation community in Tulsa's most economically distressed senate district. Housing cost stability, wage floor legislation, language-accessible healthcare and government services, and the economic infrastructure for working-class Latino families are the specific legislative priorities that address this community's daily material reality. In a district where Black and Latino residents together comprise nearly 60% of the population, serving both communities with authentic specificity is the core governance obligation." },
+        { name: "The Coalition Between Black and Hispanic Communities", tag: "careful", why: "SD-11's defining governance challenge is that two large minority communities — 32.8% Black and 25.4% Hispanic — share a district with overlapping but distinct legislative needs. Their combined economic conditions are similar, but the specific forms their challenges take diverge: the Black community's concerns include historical neighborhood disinvestment, public safety equity, and intergenerational wealth gaps rooted in specific Tulsa history; the Hispanic community's concerns center more directly on immigration-adjacent economic insecurity, language access, and first-generation upward mobility barriers. A senator who addresses both communities with genuine specificity — not a single merged 'minority agenda' — is providing real representation; one who treats them as interchangeable is providing acknowledgment." },
+        { name: "Governing the District's Poverty as an Inevitable Background Condition", tag: "avoid", why: "North Tulsa's concentrated economic distress is not an immutable fact — it is the result of specific historical and structural conditions, including the 1921 Tulsa Race Massacre's destruction of the Greenwood District, decades of disinvestment, and policy failures at multiple levels of government. A senator who governs this district as if poverty and economic constraint are simply the district's permanent condition rather than addressable through specific policy interventions — economic development investment, Medicaid expansion, affordable housing production, workforce training — is failing the explicit governing obligation that an 84-16 safe seat confers: the freedom to advocate loudly and specifically for this constituency's economic needs without electoral risk." },
+        { name: "Treating 84% as Permission for Legislative Passivity", tag: "avoid", why: "An 84-16 Democratic margin in north Tulsa is the strongest partisan result in this senate sequence — and it is matched by the most urgent concentrated constituent need. The 84% coalition has given their senator the most politically secure seat in this sequence specifically so they can take risks, advocate loudly, and deliver results for a constituency that Oklahoma's political structure has historically underserved. Passive representation — legislative positioning without specific policy outcomes on economic development, housing, and healthcare for the Black and Hispanic communities — is not just a governance failure; it is a misuse of the one resource this constituency has: political safety to fight." }
+      ],
+      memoHeadline: "North Tulsa's Senate Seat: Black Plurality, 25% Hispanic, $42K Income, 53% Renters, and a Safe 84% Margin That Is an Obligation to Deliver — Not a License to Coast",
+      memoParagraphs: [
+        "SD-11 is the most economically distressed and demographically concentrated majority-minority district in this sixteen-senate-district sequence. At $41,895 median income — the lowest in the sequence — 52.6% renter rate, and 32.6 median age, this is north Tulsa's working-class and poor communities: young, renter-dominated, economically constrained, and demographically defined by the Black plurality (32.8%) and Hispanic near-plurality (25.4%) that together constitute nearly 60% of the district's population. Regina Goodwin's 84-16 Democratic margin is the most decisive in the sequence, reflecting a safe urban minority-majority seat whose political security is as complete as any in Oklahoma — and whose constituent needs are as urgent as any in the state.",
+        "The district's concentration of economic need is not accidental. North Tulsa carries specific historical weight — the 1921 Tulsa Race Massacre destroyed what was known as 'Black Wall Street' in the Greenwood District, and the economic consequences of that event and subsequent decades of disinvestment are embedded in the current demographics. A senator who represents this community with that historical context in mind — who governs not just for immediate policy wins but for the structural economic development that rebuilds north Tulsa's economic foundation — is serving the full depth of what representation here requires. The 84% majority confers political safety; that safety is the resource for ambitious, specific advocacy on economic development, Medicaid access, affordable housing, and neighborhood investment."
+      ],
+      memoBullets: [
+        "Lead with specific, measurable economic development: at $41.9K income and 52.6% renter rate, the district's primary need is concrete legislative investment in north Tulsa's economic infrastructure — job quality, workforce development, affordable housing production, and neighborhood investment — not position statements on poverty",
+        "Serve the Black community and the Hispanic community with distinct specificity: combined they are 58% of the district, but their legislative needs diverge in important ways — historical disinvestment and public safety equity for the former, housing stability and language-accessible services for the latter",
+        "Use the 84% safe margin as political capital, not as a reward for minimal effort: political safety is the resource for ambitious advocacy, and a senator who does not deploy it aggressively on behalf of north Tulsa's working-class and poor communities is squandering the district's most valuable asset",
+        "Address the Tulsa Greenwood legacy explicitly and concretely — this constituency's economic distress has specific historical roots, and legislative advocacy that acknowledges and addresses those roots with specific economic development commitments is the standard the district's history sets for its senator"
+      ]
     }
   },
   {
     id: "ok-sd-12",
     name: "Oklahoma Senate District 12",
-    city: "TBD",
-    region: "TBD",
+    city: "Claremore",
+    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "Todd Gollihare",
     incumbentParty: "Republican",
@@ -5090,17 +5244,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 2.11, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.64, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Suburban Homeowner Economy & Community Quality", tag: "lean-into", why: "At $68,519 median income and 24.7% renter rate, SD-12 is a Tulsa-area suburban senate district with a predominantly homeowner constituency whose economic expectations center on property values, school district quality, infrastructure maintenance, and the community conditions that sustain a working-middle-class standard of living. The 39.6 median age and 20.3% college attainment reflect an established working-professional community with moderate educational credentialing and high economic expectations relative to their income level. A senator who actively stewards school funding, road infrastructure, and the business conditions that sustain suburban employment is delivering the primary constituent service this homeowner-majority constituency has come to expect." },
+        { name: "AIAN Community Engagement in the Tulsa Metro Fringe", tag: "lean-into", why: "The ~19.1% AIAN gap — the four reported categories summing to 80.9% of the population — reflects Cherokee Nation and Muscogee (Creek) Nation citizens in the Tulsa metropolitan fringe whose tribal governments operate healthcare, economic development, and government services that are institutional presences in this district's geography. Even in a homeowner-dominant 69-31 Republican district, tribal citizens are a governing constituency with substantive expectations about the state-tribal relationship, economic development partnership, and healthcare access. A senator who builds authentic engagement with tribal leadership in this Tulsa fringe geography is governing the full district rather than the 73% of it that the white homeowner majority represents." },
+        { name: "The 31% Opposition as a Governing Intelligence Signal", tag: "careful", why: "A 31% opposition share in a Tulsa-area suburban senate district is not a competitive threat in the near term, but it is a governing intelligence map of which communities and concerns are not being adequately served by the current representation. In a district where approximately 19% of residents are tribal citizens and roughly 8% are Hispanic, Black, or Asian, the 31% is likely concentrated in these minority communities alongside economically frustrated suburban households. Understanding the specific composition of the opposition — and responding with substantive policy attention to the underlying concerns — prevents a comfortable 69% majority from gradually contracting over successive cycles as minority communities build organizational capacity." },
+        { name: "Using the White Homeowner Majority as the Exclusive Governing Coalition", tag: "avoid", why: "At 72.75% White in a Tulsa suburban district, the homeowner majority is dominant — but the ~19% AIAN gap and 8% combined Hispanic, Black, and Asian communities mean that roughly 27% of the district belongs to minority communities whose governance expectations are not addressed by a homeowner-economy-only agenda. The Cherokee Nation and Muscogee Nation citizens in this geography are not peripheral agricultural workers — at Tulsa suburban income levels, many are professional-class families with sophisticated governance expectations. Governing exclusively for the white majority is governing less than three-quarters of the district." },
+        { name: "Passive Incumbency in a Comfortable Suburban Majority", tag: "avoid", why: "A 69-31 result in the Tulsa metro fringe reflects a stable Republican suburban coalition, but the 20.3% college attainment means this constituency is tracking whether their senator delivers on specific local outcomes rather than following legislative scorecards in detail. Infrastructure conditions, school funding adequacy, and the community-level quality of life that motivated families to choose this suburban community are the practical governance stakes that determine whether 69% is a durable majority or a coalition that erodes when the conditions that sustain it are not actively maintained. Passive incumbency in a suburban district this established will eventually find expression in primary dissatisfaction." }
+      ],
+      memoHeadline: "Tulsa Suburban Senate District: $68K Homeowner Majority, a 19% Cherokee and Creek Tribal Community, and a 69% Republican Coalition Held by Active Suburban Stewardship",
+      memoParagraphs: [
+        "SD-12 is a Tulsa-area suburban senate district — $68,519 median income, 24.7% renter rate, 39.6 median age — whose homeowner-dominant profile reflects a working-middle-class constituency that has invested in suburban community through property ownership and whose governance expectations center on the school, infrastructure, and economic conditions that sustain that investment. Todd Gollihare's 69-31 Republican result is a comfortable majority reflecting a district that reliably votes Republican in suburban senate contests, but one that is held by specific suburban quality-of-life conditions rather than by ideological lockstep. The 72.75% white majority is the district's dominant constituency, but the ~19% AIAN gap adds a governing obligation that the partisan result can allow to atrophy.",
+        "The Tulsa metropolitan fringe geography places SD-12 within Cherokee Nation and Muscogee (Creek) Nation jurisdiction, where tribal citizens — approximately one in five residents — have specific expectations of their state senator on the tribal-state compact relationship, healthcare funding, and economic development partnership. At the Tulsa suburban income level, many of these tribal citizens are professional-class families whose governance expectations are calibrated to their economic status rather than to reservation-community conditions. The additional 5.44% Hispanic, 2.11% Black, and 0.64% Asian communities bring the minority proportion to approximately 27% of the district — a constituency the 69% Republican margin can lead a senator to underserve while the majority coalition is comfortable."
+      ],
+      memoBullets: [
+        "Lead with suburban homeowner economy stewardship: school funding, infrastructure maintenance, and the community quality-of-life conditions that sustain $68.5K-income suburban families are the primary constituent service obligations for a homeowner-dominant Tulsa metro fringe district",
+        "Engage Cherokee Nation and Muscogee Nation tribal citizens in the ~19% AIAN community as institutional partners: tribal governments operating in the Tulsa metropolitan fringe are governing partners with specific expectations that authentic engagement — not ceremonial acknowledgment — can satisfy",
+        "Treat the 31% opposition as a constituency map: its composition — likely concentrated in tribal communities and minority households — identifies the specific governance gaps that, if addressed, strengthen rather than undermine the Republican majority",
+        "Resist passive incumbency in a comfortable suburban majority: at 20.3% college attainment, this constituency tracks whether local conditions are improving, and a senator who does not actively deliver on school funding, infrastructure, and community quality will find the 69% eroding toward competitive over time"
+      ]
     }
   },
   {
     id: "ok-sd-13",
     name: "Oklahoma Senate District 13",
-    city: "TBD",
-    region: "TBD",
+    city: "Sapulpa",
+    region: "Eastern Oklahoma",
     type: "state senate district",
     incumbentName: "Jonathan Wingard",
     incumbentParty: "Republican",
@@ -5123,17 +5291,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 2.46, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.71, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "The 48% Opposition as the Central Strategic Fact", tag: "lean-into", why: "A 52-48 Republican result is the second most competitive senate margin in this sixteen-district sequence, and in the context of Oklahoma's deeply red political landscape, it is effectively a tied race. The 48% opposition in a district with $59,038 income and 22.6% college attainment cannot be explained by demographics alone — it reflects a specific coalition of economically frustrated working-class households, AIAN community voters, and rural moderates whose specific concerns are not being adequately addressed. Identifying and directly responding to each component of the opposition — not consolidating around the existing 52% base — is the foundational strategic work for any candidate seeking to hold this seat in the next cycle." },
+        { name: "AIAN Community Engagement as the Electoral Margin", tag: "lean-into", why: "The ~23.4% AIAN gap in a 52-48 district is mathematically the margin. In the context of this district's geography, the tribal community represents a swing constituency that at current mobilization levels produces enough opposition to make this effectively a tied seat — and at higher mobilization levels is sufficient to flip it. A senator whose record demonstrates authentic engagement with tribal governments on sovereignty, healthcare access, and economic development partnership is not only performing a governance obligation but is actively managing the primary electoral variable that determines whether 52% holds. Genuine tribal community engagement in SD-13 is simultaneously the right governance approach and the most important electoral strategy." },
+        { name: "Working-Class Economic Anxiety as a Cross-Partisan Swing Issue", tag: "careful", why: "At $59,038 income and 31.1% renter rate, SD-13 has a meaningful working-class renter constituency whose economic pressures — housing affordability, wage adequacy, healthcare access — are shared across racial lines. The 48% opposition likely includes not only AIAN voters but also white working-class households for whom the Republican majority's legislative priorities have not translated into tangible economic improvements. In a 52-48 seat, these economically frustrated white working-class voters are a swing constituency that either party can attract with specific, credible policy commitments on rural economic conditions and healthcare access." },
+        { name: "Running a Base-Only Mobilization Strategy in a Near-Tied Seat", tag: "avoid", why: "A 52-48 result is not a base that can be consolidated into a safe majority — it is a narrow plurality held by suppressed opposition turnout and minimal crossover. Any senator who campaigns this seat through partisan base mobilization alone — without substantive engagement of the AIAN community's specific concerns and specific policy responses to working-class economic anxiety — is betting that the opposition's 48% is a structural ceiling. It is not: it is a floor held down by the organizational difficulty of challenging an incumbent, and a motivated challenger with strong tribal community support could make this the most competitive senate race in Oklahoma." },
+        { name: "Treating 52% as a Comfortable Majority That Validates the Status Quo", tag: "avoid", why: "A 52% Republican result in a senate district is not a majority — it is a plurality of contested voters in a seat where 48% actively chose an alternative. A senator who governs this district as though the 52% represents a mandate for the current approach is misreading the district's fundamental political reality. The AIAN community, the working-class renter constituency, and the economically anxious rural households that comprise the 48% are not a rounding error — they are a near-majority whose concerns, if addressed specifically and credibly, are available to either party. This seat demands active, substantive constituent engagement across all communities, not the confident passivity that a comfortable margin might permit." }
+      ],
+      memoHeadline: "Oklahoma Senate's Near-Tied Seat: 52-48, 23% AIAN Swing Constituency, Working-Class Renters Under Economic Pressure, and a Republican Hold One Mobilization Cycle Away from Flipping",
+      memoParagraphs: [
+        "SD-13 is the second most competitive senate district in this sixteen-district sequence — a 52-48 Republican result that, in Oklahoma's deeply conservative political environment, is effectively a tied race. Jonathan Wingard's margin is held by a combination of low AIAN voter participation and a working-class constituency that, while culturally conservative, has not seen the economic improvements in rural and suburban Oklahoma that would translate to decisive Republican endorsement. At $59,038 income and 31.1% renter rate, the district's economic profile places a significant portion of residents in the working-class economic anxiety zone — households for whom rural healthcare access, housing affordability, and job quality are unresolved material concerns.",
+        "The ~23.4% AIAN gap is the mathematical key to SD-13's competitiveness. Tribal citizens represent approximately one in four residents, and in a 52-48 seat, a shift of three to four percentage points in AIAN voter participation or candidate preference is sufficient to flip the outcome. A senator who builds genuine, ongoing engagement with tribal governments — not campaign-season outreach but a sustained governing relationship on the specific issues of sovereignty, healthcare, and economic development — is actively managing the primary variable that determines whether this seat is held. Simultaneously, the district's working-class economic anxiety — felt across racial lines by renters and low-to-moderate income households — is the issue most capable of converting the 48% opposition into support or driving the 52% base toward disengagement if not addressed with specific policy results."
+      ],
+      memoBullets: [
+        "Treat the 48% opposition as the primary strategic intelligence: understand its precise composition — AIAN community mobilization, white working-class economic frustration, or both — and respond to each component with specific policy commitments rather than base-consolidation messaging",
+        "Engage tribal governments in the ~23% AIAN community with authentic, year-round constituent service: in a 52-48 seat, tribal voter preference and turnout are mathematically the margin, and the engagement that builds durable tribal community support requires a governing record, not campaign acknowledgments",
+        "Address working-class economic anxiety with specific local results: at $59K income and 31.1% renter rate, rural healthcare access, housing affordability, and job quality are the swing issues that move votes across racial lines in this near-tied district",
+        "Never campaign this seat as if 52% is a structural floor — it is a fragile plurality held by suppressed opposition turnout, and a motivated challenger with strong tribal community support is capable of flipping it in a single competitive cycle"
+      ]
     }
   },
   {
     id: "ok-sd-14",
     name: "Oklahoma Senate District 14",
-    city: "TBD",
-    region: "TBD",
+    city: "Chandler",
+    region: "Central Oklahoma",
     type: "state senate district",
     incumbentName: "Jerry Alvord",
     incumbentParty: "Republican",
@@ -5156,17 +5338,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 4.02, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.78, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Hispanic Community Economic Opportunity & Constituent Service", tag: "lean-into", why: "At 9.38% Hispanic — the highest Hispanic community share in this sixteen-district senate sequence — SD-14 has a Latino constituency large enough to constitute a real electoral and governance variable even in an unopposed Republican district. In a central Oklahoma context at $56,614 income and 29.9% renter rate, this community faces specific material challenges: workforce access, housing cost stability, and the economic infrastructure for working-class and first-generation families navigating the Oklahoma labor market. A senator who builds authentic, specific engagement with the Hispanic community on economic opportunity, healthcare access, and language-accessible services is both fulfilling a governance obligation and converting a latent constituency into an active supporter base." },
+        { name: "Rural and Suburban Working-Class Economic Development", tag: "lean-into", why: "At $56,614 income and 19.1% college attainment, SD-14 is a working-class district that sits between rural and suburban Oklahoma City orbit — a constituency where rural economic conditions, infrastructure quality, and the availability of quality employment are the primary governance stakes. The 39.4 median age and 29.9% renter rate indicate a mid-career working-class community for whom the trajectory of the local economy directly determines whether economic stability is achievable. A senator who delivers specific, measurable results on rural economic development, workforce investment, and the infrastructure that makes this district a destination rather than a departure point for working-age adults is performing the primary constituent service this economic profile demands." },
+        { name: "Black Community Constituent Service", tag: "careful", why: "At 4.02% Black — meaningful for a central Oklahoma senate district of this character — SD-14 has an African American constituency whose specific concerns around economic equity, community investment, and public safety cannot be absorbed into the broader minority-community or rural working-class narrative. In a district where the Hispanic community's larger size may attract the dominant minority community attention, the Black community deserves specific, individual engagement on the distinct historical and structural dimensions of their economic circumstances. In an unopposed seat, the absence of opposition can make it easier for a senator to provide acknowledgment rather than specific constituent service to minority communities — and the 4% Black community's concerns deserve more than acknowledgment." },
+        { name: "Taking the Unopposed Result as License for Minority Community Neglect", tag: "avoid", why: "An unopposed Republican result in a district with 9.38% Hispanic, 4.02% Black, and ~19% AIAN combined means that roughly 32% of SD-14's residents belong to minority communities whose governance expectations are not reflected in the partisan result. The absence of opposition reflects the organizational difficulty of challenging an incumbent in a state senate race — not constituent satisfaction across minority communities. A senator who treats the unopposed margin as validation of the current governance approach for all 32% of minority residents is governing approximately two-thirds of the district while ignoring a third." },
+        { name: "Governing Only for the White Working-Class Majority in a District This Diverse", tag: "avoid", why: "At 66.63% White in a district with the sequence's largest Hispanic share (9.38%), a 4% Black community, and ~19% AIAN gap, approximately one-third of SD-14's residents are minority community members. A senator whose constituent service, policy priorities, and governing relationships are organized exclusively around the white majority is not building the diverse coalition that a changing district demographic landscape will eventually require. The Hispanic community at 9.38% has the size and community infrastructure to organize electorally when motivated by a specific economic grievance or by the presence of a credible candidate — and the absence of such organization now is not a signal of political acquiescence." }
+      ],
+      memoHeadline: "Central Oklahoma Senate District: Oklahoma's Largest Hispanic Share in This Sequence at 9.4%, $57K Working-Class, 4% Black, and a One-Third Minority Population Deserving More Than an Unopposed Result",
+      memoParagraphs: [
+        "SD-14 carries the largest Hispanic community share of any district in this sixteen-senate-district sequence — 9.38% in a central Oklahoma working-class district at $56,614 income and 29.9% renter rate. In the context of Oklahoma's senate districts, this is a significant Latino constituency whose economic circumstances — working-class income, moderate renter rate, and the specific challenges of first-generation and immigrant communities navigating the Oklahoma labor and housing markets — create a specific constituent service obligation that an unopposed result does not discharge. Jerry Alvord's unopposed Republican victory reflects the organizational barriers to challenging a state senate incumbent, not the political preferences of one-third of the district's residents who belong to minority communities.",
+        "The ~19.2% AIAN gap adds a tribal community dimension that is consistent with central Oklahoma geography — this territory likely includes Citizen Potawatomi Nation, Chickasaw Nation, and other tribal nations operating government services and economic enterprises in the region. Combined with 9.38% Hispanic and 4.02% Black, the minority communities account for approximately 32% of the district's population — a substantial constituency whose collective governance expectations should not be collapsed into a single minority appeal but engaged with the specificity that each community's distinct history and circumstances require. A senator who builds individual, authentic relationships with the Hispanic community, the Black community, and the AIAN tribal nations operating in this district is building the full-district governing record that makes an unopposed seat genuinely secure rather than simply unchallenged."
+      ],
+      memoBullets: [
+        "Lead with Hispanic community engagement: at 9.38% — the highest in this senate sequence — the Latino constituency's economic mobility, housing stability, and language-accessible services concerns are a specific governance obligation that deserves individual legislative attention, not absorption into a broader rural working-class agenda",
+        "Deliver on working-class economic development: at $56.6K income and 29.9% renter rate, workforce investment, rural infrastructure, and the economic conditions that make homeownership achievable are the primary constituent service measures for the majority of this district's households",
+        "Serve the 4.02% Black community with specific constituent attention on economic equity and community investment — do not allow the Hispanic community's larger size to make the African American community invisible in constituent service",
+        "Recognize that the unopposed result does not represent the political preferences of the one-third minority population: tribal nations, the Hispanic community, and the Black community have governance expectations that the absence of organized opposition does not discharge"
+      ]
     }
   },
   {
     id: "ok-sd-15",
     name: "Oklahoma Senate District 15",
-    city: "TBD",
-    region: "TBD",
+    city: "Norman",
+    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Lisa Standridge",
     incumbentParty: "Republican",
@@ -5189,17 +5385,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 2.88, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.82, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Affluent Professional Homeowner Economy", tag: "lean-into", why: "At $93,542 median income — the highest in this sixteen-district senate sequence — and 24.9% renter rate, SD-15 is Oklahoma's most affluent senate constituency in this block: a professional and executive class of homeowners whose economic expectations center on top-tier school quality, infrastructure, and the policy conditions that sustain the professional and corporate employment their household incomes depend on. The 37.8% college attainment confirms a constituency with professional credentials and calibrated governance expectations. Active stewardship of the OKC suburban infrastructure, education funding quality, and the business climate that keeps senior-professional employers in the Oklahoma City metro directly maintains the economic conditions that make this district what it is." },
+        { name: "Professional-Class Hispanic and Asian Community Engagement", tag: "lean-into", why: "With 8.75% Hispanic and 2.82% Asian at $93,542 median income, SD-15 has professional-class minority families whose governance expectations are calibrated to their economic status — not the working-class minority concerns that dominate lower-income districts. At this income level, these are physicians, engineers, attorneys, and senior professionals for whom school quality, economic equity in professional advancement, and the cultural and community conditions of their suburban home are the specific governance concerns. Their political support in a Republican district is a specific policy alignment that active, authentic constituent engagement maintains — and that national party dynamics, if not locally counterbalanced by a senator's personal record, can disrupt." },
+        { name: "The 38% Democratic Opposition in an Affluent Educated District", tag: "careful", why: "A 38% Democratic opposition share in a district with $93,542 income and 37.8% college attainment is analytically significant — in the national context where highly educated, affluent suburban voters have been shifting toward Democrats, SD-15's 38% is a specific signal that a segment of this highly credentialed suburban constituency has concluded the Republican Party's current direction does not serve their specific professional and community values. These are not economically frustrated working-class voters — they are educated professionals choosing Democratic candidates, and the trend that produces them is structural. Understanding what specific issues drive the 38% and developing a local legislative record that demonstrates responsiveness to educated professional concerns is the strategic work that holds this coalition together." },
+        { name: "Governing Primarily on Tax Cuts and Regulatory Relief as the Full Policy Agenda", tag: "avoid", why: "At $93,542 income and 37.8% college attainment, SD-15's constituency has moved beyond single-issue fiscal conservatism. These are professionals who want effective government: schools that perform at levels consistent with the property taxes they pay, infrastructure that supports a metro lifestyle, and a business climate that retains the employers whose professional jobs constitute their economic foundation. A senator whose primary agenda is tax reduction and regulatory rollback — without matching attention to institutional quality and service delivery — is out of step with a constituency that is paying premium property taxes and expecting commensurate outcomes. The 38% Democratic opposition likely includes professional moderates who have concluded precisely that." },
+        { name: "Treating the ~11.5% AIAN Gap as Electorally and Governmentally Irrelevant", tag: "avoid", why: "Even in the most affluent senate district in this sequence, the ~11.5% AIAN gap reflects tribal citizens — likely including Chickasaw Nation and Citizen Potawatomi Nation members in the Oklahoma City metro fringe — whose governance expectations around the state-tribal relationship are substantive. At $93.5K median income, many of these are professional-class tribal families with sophisticated expectations of their state senator. A senator who treats the tribal community as a rural or low-income constituency irrelevant to an affluent suburban district is misreading both the demographic reality and the quality of engagement this professional-class AIAN constituency expects." }
+      ],
+      memoHeadline: "Oklahoma's Most Affluent Senate District in This Sequence: $93.5K Income, 37.8% College, 38% Educated Democratic Opposition, and a Professional-Class Constituency That Holds Its Senator to Institutional Standards",
+      memoParagraphs: [
+        "SD-15 is Oklahoma's most economically elite senate constituency in this sixteen-district block — $93,542 median income, 37.8% college attainment, and 24.9% renter rate profile a predominantly homeowner, professional and executive community in the Oklahoma City metro area whose governance expectations are the highest in the sequence. The 39.1 median age and homeowner-dominant composition confirm an established professional community that has made long-term economic commitments to this suburban community and expects government to deliver the institutional quality — school performance, infrastructure, public safety — commensurate with the premium property taxes these households pay. Lisa Standridge's 62-38 Republican result is the strongest in the OKC metro block but not the strongest in the sequence, reflecting a district where educated professional moderates are an active and growing Democratic constituency.",
+        "The 38% Democratic opposition is the most analytically important fact about SD-15's competitive landscape. In the national context of suburban professional realignment, where college-educated, high-income voters have been shifting toward Democrats across multiple election cycles, this district's 38% is a structural signal that a subset of SD-15's highly credentialed constituency is evaluating the Republican Party on grounds that are producing Democratic votes. The district's 8.75% Hispanic and 2.82% Asian professional-class minority communities are part of this dynamic — professional families whose Republican support is held by specific policy alignments around economic conditions and community quality, not by partisan identity. A senator who holds these communities through active, substantive constituent engagement while delivering the institutional governance quality this affluent constituency demands is managing both the existing majority and the competitive pressure that will grow over time."
+      ],
+      memoBullets: [
+        "Lead with institutional quality as the primary constituent service standard: at $93.5K income and 37.8% college, this constituency expects schools to perform, infrastructure to be maintained, and the state business climate to sustain senior-professional employment — and they will evaluate their senator against this standard every legislative session",
+        "Engage the 8.75% Hispanic and 2.82% Asian professional communities with substantive personal constituent service: at this income level, minority professionals have high governance expectations and their Republican alignment is a specific policy relationship requiring active maintenance, not assumption",
+        "Take the 38% Democratic opposition seriously as a structural trend: educated suburban professionals shifting toward Democrats is a national pattern with local expression in SD-15, and holding the educated moderate component of the Republican coalition requires a legislative record that demonstrates responsiveness to professional-class governance concerns",
+        "Resist passive incumbency in the most affluent district in the sequence: a 37.8% college-attainment constituency tracks legislative outcomes with professional precision, and a senator whose record does not match the institutional quality this community expects will find the 38% growing toward competitive over successive cycles"
+      ]
     }
   },
   {
     id: "ok-sd-16",
     name: "Oklahoma Senate District 16",
-    city: "TBD",
-    region: "TBD",
+    city: "Stillwater",
+    region: "North-Central Oklahoma",
     type: "state senate district",
     incumbentName: "Mary B. Boren",
     incumbentParty: "Democrat",
@@ -5222,17 +5432,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 6.18, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 4.47, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "University Economy, Higher Education Funding & Talent Retention", tag: "lean-into", why: "With 45.4% college attainment, a 26.9 median age, and 56.3% renter rate, SD-16 is almost certainly a university district — the youngest median age in the sixteen-district sequence and the highest renter rate together profile a constituency dominated by students, graduate researchers, faculty, and early-career academic and professional workers. University funding, tuition affordability, research investment, and the policy conditions that make Oklahoma a competitive destination for academic talent are the governing priorities that this constituency evaluates its senator on first. A senator whose legislative record demonstrates active stewardship of higher education funding and the university-adjacent economy is speaking the primary governance language of this district." },
+        { name: "Housing Affordability & Student-Renter Economic Conditions", tag: "lean-into", why: "At 56.3% renter rate — the highest in this sixteen-district sequence — and $53,458 median income, housing cost is the defining material concern for the majority of SD-16 residents. In a university district, this renter majority includes students paying rent while investing in education, graduate researchers on stipends that leave little margin for rising housing costs, and early-career faculty and staff navigating a market shaped by the university's enrollment cycles. Renter protections, housing affordability policy, and the conditions that prevent a university-adjacent housing market from pricing out the constituency that makes the district what it is are the kitchen-table economic issues that the 45.4% college attainment rate does not insulate residents from." },
+        { name: "Diverse Student and Faculty Community Engagement", tag: "careful", why: "With 8.98% Hispanic, 6.18% Black, and 4.47% Asian — each community meaningful in a university context — SD-16 has a diverse multicultural constituency that includes international students, faculty and researchers from diverse backgrounds, and students of color navigating both the academic environment and Oklahoma's political and cultural landscape. In a university district, these communities have specific concerns around campus climate, immigration policy for international students, economic access and financial aid, and the cultural and institutional environment that makes the university a welcoming or hostile place for diverse scholars. A senator whose legislative record demonstrates awareness of these specific concerns — not just multicultural acknowledgment — is building the full-constituency relationship this diverse academic community requires." },
+        { name: "Passive Incumbency in a University District That Is Organized and Capable of Primary Challenges", tag: "avoid", why: "A 45.4% college-attainment constituency in an unopposed Democratic university district is not a passive base — it is one of the most politically engaged, organizationally sophisticated constituencies in the state. Faculty governance structures, graduate student organizing, student government, and faculty senate bodies create an organizational infrastructure that can generate a credible primary challenge when a senator's legislative record fails to match the district's governance expectations. An unopposed result in a university district means the current senator does not face organized opposition in this cycle — it does not mean the district's expectations are being met or that a primary challenge is impossible." },
+        { name: "Treating the High College Rate as Automatic Democratic Loyalty", tag: "avoid", why: "The 45.4% college attainment and safe Democratic margin in SD-16 can create the false impression that this constituency's loyalty is automatic and unconditional. Highly educated university-community voters are among the most willing to organize primary challenges, the most attentive to legislative records, and the most capable of holding their senator to specific substantive standards on higher education funding, housing policy, and the issues that affect their daily professional and economic lives. A senator who conflates safe partisan margins with assured constituent approval is misreading a constituency that evaluates on substance — and whose disillusionment expresses itself through primary campaigns, not party switching." }
+      ],
+      memoHeadline: "Oklahoma's University Senate District: Youngest Median Age in the Sequence at 26.9, 45% College, 56% Renters, and a Democratic Safe Seat Whose Constituency Holds Its Senator to the Highest Substantive Standards",
+      memoParagraphs: [
+        "SD-16 is Oklahoma's university senate district — the demographic fingerprint is unmistakable: 45.4% college attainment and 26.9 median age are the highest and lowest of those respective measures in the sequence, and the 56.3% renter rate is the highest of any district in the entire sixteen-district block. This constituency is dominated by students, graduate researchers, faculty, staff, and early-career professionals connected to a major university — almost certainly the University of Oklahoma in Norman — whose daily economic and professional lives are shaped by higher education funding, research investment, and the housing market in a university-adjacent community. Mary B. Boren's unopposed Democratic result reflects a safe blue university district where the partisan alignment is as reliable as any in Oklahoma.",
+        "The district's diversity — 8.98% Hispanic, 6.18% Black, 4.47% Asian — reflects the multicultural character of a university community that includes international students, faculty of diverse backgrounds, and students of color navigating both the academic environment and Oklahoma's broader political landscape. These communities have specific governance concerns that extend beyond the general higher education funding agenda: immigration policy affects international students and their families; campus climate and economic access matter to students and faculty of color; and the housing market that affects all renters in the district bears especially heavily on graduate student stipends and early-career faculty salaries. A senator who engages these specific concerns — not just the aggregate university funding agenda — is representing the full complexity of what a university community actually is."
+      ],
+      memoBullets: [
+        "Lead with higher education funding and the university economy: the 45.4% college attainment and 26.9 median age define this as a constituency whose primary governance concern is whether Oklahoma's investment in university quality and research is sufficient to make this district's professional community competitive and sustainable",
+        "Address housing affordability and renter conditions with specific legislative outcomes: the 56.3% renter rate makes housing cost the primary material concern for the majority of residents, and in a university context this means student housing, graduate stipend adequacy, and the conditions that prevent a university market from pricing out the constituency that makes it what it is",
+        "Engage the Hispanic, Black, and Asian university community with specificity on campus climate, immigration policy for students and researchers, and the economic access conditions that determine whether diverse scholars thrive or leave for more welcoming institutional environments",
+        "Do not mistake an unopposed result for passive constituent satisfaction: a 45.4% college-attainment constituency has the organizational infrastructure — faculty governance, graduate student organizing, student government — to generate a credible primary challenge when a senator's legislative record fails to match the district's substantive governance expectations"
+      ]
     }
   },
   {
     id: "ok-sd-17",
     name: "Oklahoma Senate District 17",
-    city: "TBD",
-    region: "TBD",
+    city: "Seminole",
+    region: "Central Oklahoma",
     type: "state senate district",
     incumbentName: "Shane Jett",
     incumbentParty: "Republican",
@@ -5255,17 +5479,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 2.87, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.78, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "The 50-50 Margin Is an Active Electoral Emergency", tag: "lean-into", why: "Shane Jett's 50% result in a state where Republicans routinely win Oklahoma Senate seats by 60-70% or more is not a margin — it is a statistical dead heat that signals a near-total loss of electoral cushion in a district where structural advantage should deliver comfortable wins. Every component of the constituency matters at 50-50: working-class white homeowners, the Hispanic community, and especially the ~18% Native American population are each individually sufficient to swing the outcome. Any campaign strategy designed for comfortable base mobilization rather than a genuine fight for every available vote will lose the next cycle." },
+        { name: "AIAN Community as the Decisive Electoral Variable", tag: "lean-into", why: "The ~18.16% AIAN gap in central Oklahoma tribal territory means that roughly one in five SD-17 residents is Native American — a community whose participation rate and candidate preference is numerically sufficient to determine the outcome in a 50-50 race. Understanding what specific governance failures, issues, or candidate contrasts drove the 50% result requires direct engagement with tribal nation leadership in this district. A candidate who builds authentic relationships with the tribal nations operating here — delivering on healthcare access, economic development partnership, and constituent service — is building the coalition math that makes 50% into something durable." },
+        { name: "Working-Class White Homeowner Economic Security", tag: "careful", why: "At $65,199 income, 27.6% renter rate, and 38.9 median age, the white plurality constituency is working-class and homeowner-dominant — a community whose governance priorities center on rural economic stability, healthcare access, and property rights. These voters produce the Republican base in SD-17, and understanding what specifically eroded their support to a 50% result is the critical diagnostic work. Whether the erosion reflects economic frustration, a specific local governance failure, or simply a strong opponent, the white working-class constituency's concerns need direct, substantive answers rather than cultural identity appeals alone." },
+        { name: "Treating 50% as a Stable Republican Floor", tag: "avoid", why: "A 50% result in Oklahoma is not a floor — it is the edge of a cliff. Any incumbent or challenger who campaigns this seat as a moderate Republican hold rather than a genuinely contested race is arithmetically wrong about the competitive landscape. The combination of a large AIAN swing community, a Hispanic constituency that is growing politically, and economic conditions at $65,199 income that leave working-class households evaluable on delivery means that SD-17 requires a full-constituency campaign strategy, not the consolidation approach that works in safe Republican territory." },
+        { name: "Running a Generic Rural Conservative Campaign in Tribal Territory", tag: "avoid", why: "The ~18% AIAN community in central Oklahoma tribal territory means SD-17 is not a standard rural conservative district — it is tribal-jurisdiction territory where sovereignty, Indian Health Service access, and economic development partnership are governance priorities for nearly one in five constituents. A campaign that imports standard rural conservative messaging without acknowledging the tribal governance dimension is addressing about 72% of the constituency while ignoring the 18% whose mobilization produced the 50% result. This is not a cultural accommodation — it is the basic electoral arithmetic of a tied seat." }
+      ],
+      memoHeadline: "Oklahoma's Most Competitive Senate Seat at Exactly 50-50: Tribal Territory, $65K Working-Class Homeowners, and a ~18% AIAN Community That Is Literally the Margin",
+      memoParagraphs: [
+        "SD-17 produced the most dramatic electoral result in this sixteen-district sequence: a literal 50-50 tie in a state where Republicans routinely dominate Senate races. Shane Jett's 50% result is not a margin — it is a statistical dead heat that signals either a surge in Democratic-aligned constituency mobilization, a specific local accountability issue that nearly ended his tenure, or both. At $65,199 median income, 22.3% college attainment, 38.9 median age, and 27.6% renter rate, this is a working-class, homeowner-dominant district whose demographic profile looks like a comfortable rural Republican seat — and yet it is not. The gap between that expectation and the actual 50% result is the most important analytical question about SD-17, and the answer almost certainly involves the district's ~18.16% AIAN population in central Oklahoma tribal territory.",
+        "The approximately 18% Native American population is numerically sufficient to determine the outcome in a 50-50 race — meaning the tribal community's participation level and candidate preference is the literal swing variable. Any candidate who wants to hold this seat durably must build authentic, ongoing relationships with the tribal nations governing this territory and deliver specific constituent service on healthcare access, economic development, and sovereignty rather than relying on the tribal community's continued disengagement from the electoral process. Simultaneously, the working-class white majority constituency has economic concerns that the 50% result suggests have not been fully addressed — rural healthcare, infrastructure, and job quality at $65,199 income are the material issues that produced the Republican base and the anxiety that nearly eliminated it. SD-17 requires a full-constituency approach that is unusual by Oklahoma Senate standards."
+      ],
+      memoBullets: [
+        "Treat the 50-50 result as an active electoral emergency — there is no safe floor in this seat, and any campaign strategy designed for comfortable Republican hold rather than a genuine fight for every constituency will lose in the next cycle",
+        "Build direct, authentic relationships with tribal nation leadership; the ~18% AIAN gap is numerically the margin in a 50-50 race, and tribal community mobilization or demobilization is the single variable most capable of changing the outcome",
+        "Diagnose what specifically drove the erosion to 50%: whether it is concentrated among economically frustrated white homeowners, mobilized Native American voters, or both determines the specific policy delivery and constituent service strategy required to restore the margin",
+        "Do not campaign this as a standard rural conservative district — the AIAN swing community and the 50-50 result make SD-17 one of Oklahoma's most genuinely competitive Senate seats, requiring full-constituency engagement, not base consolidation"
+      ]
     }
   },
   {
     id: "ok-sd-18",
     name: "Oklahoma Senate District 18",
-    city: "TBD",
-    region: "TBD",
+    city: "Moore",
+    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Jack Stewart",
     incumbentParty: "Republican",
@@ -5288,17 +5526,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 6.93, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.39, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Diverse Suburban Professional Economy", tag: "lean-into", why: "At $77,097 median income and 31.8% college attainment, with a 34.7 median age and 32.7% renter rate, SD-18 is a moderate-income suburban professional district with younger households — a constituency that evaluates its representative on economic stability, school quality, and the policy conditions that affect working professional families. This is not a working-class rural constituency or an elite professional one; it is the broad middle band of suburban Oklahoma where governance delivery on healthcare portability, infrastructure quality, and suburban growth management determines political loyalty. The district's relative youth and moderate renter rate reflect a community still in the process of household formation, where economic security is an active concern rather than an established fact." },
+        { name: "Hispanic and Black Community Engagement as the Swing Factor", tag: "lean-into", why: "At 12.33% Hispanic and 6.93% Black — plus the ~10.34% AIAN gap — SD-18 has a combined minority community of roughly 30% that is the decisive variable in a 55-45 competitive race. These communities are not electorally locked into the 45% Democratic column; their mobilization level and candidate preferences have driven the margin to 55% and could narrow it further if the Republican incumbent does not deliver specific, substantive constituent service on economic mobility, healthcare access, and community investment. A 55-45 result in a diverse suburban district tells you the minority communities are already participating — the question is how their preferences evolve." },
+        { name: "The 45% Democratic Opposition in a Diverse Suburban District", tag: "careful", why: "In a moderately educated ($77K income, 31.8% college) suburban district with meaningful minority communities, the 45% opposition is not concentrated among ideological progressives — it reflects a mix of minority community voters, professional moderates, and younger suburban households who evaluate on economic performance and governance quality. Understanding whether the 45% is stable, growing, or shrinking across cycles is the analytical question that determines whether this is a 55-45 seat that could slip to 52-48 or one that can be expanded to 60-40 with the right governing record." },
+        { name: "Treating 55% as a Safe Suburban Republican Hold", tag: "avoid", why: "A 55-45 result in a diverse, moderate-income suburban district is not comfortable territory — it is a competitive seat whose current margin depends on specific governing choices. In the OKC metro suburban corridor, demographic diversification trends are moving against the Republican base in ways that require active constituent engagement to manage, not passive assumption that the homeowner majority will sustain the margin indefinitely. Each election cycle that passes without meaningful engagement of the Hispanic, Black, and AIAN communities is a cycle in which the 45% has the opportunity to grow." },
+        { name: "Governing Exclusively for the White Professional Majority", tag: "avoid", why: "With 12.33% Hispanic, 6.93% Black, and ~10.34% AIAN — together roughly 30% of the district — SD-18's non-white constituencies are large enough that governance calibrated exclusively to the white professional majority is incomplete representation of the actual community. These are not marginal communities in a safe district; they are the swing constituencies in a 55-45 race whose political preferences and turnout levels are the determinants of whether Stewart holds the seat or loses it to a challenger who engages them more credibly." }
+      ],
+      memoHeadline: "Competitive OKC Suburban Senate at 55-45: $77K Income, 12.3% Hispanic, 6.9% Black, and a ~30% Combined Minority Community That Is the Decisive Swing Variable",
+      memoParagraphs: [
+        "SD-18 is a competitive suburban Oklahoma City Senate district whose 55-45 result reflects genuine electoral contestation rather than a dominant-party hold. At $77,097 median income, 31.8% college attainment, 34.7 median age, and 32.7% renter rate, this is a moderate-income professional suburban constituency still in the process of household formation — younger than the settled homeowner communities that produce the largest Republican margins, and more evaluative on economic performance and governance delivery. The 67.01% white demographic majority coexists with a 12.33% Hispanic community, 6.93% Black residents, 3.39% Asian Americans, and the approximately 10.34% of residents in the AIAN gap — a combined non-white population of roughly 30% that is the decisive swing constituency in a competitive race.",
+        "Jack Stewart's 55-45 result is one of the more competitive outcomes in this sixteen-district sequence, and the demographic structure of the district explains why: diverse suburban districts in the OKC metro have been experiencing demographic change that creates electoral fluidity. The 45% Democratic opposition is not a rounding error — it represents a real coalition of minority community voters and professional moderates whose preferences will determine whether 55% is a floor or a ceiling. Any candidate who delivers substantive governance on the economic concerns of the Hispanic, Black, and young professional constituencies — economic mobility, housing stability, healthcare access, suburban infrastructure — can expand the margin; one who relies on white suburban homeowner consolidation alone will find the 55% steadily eroding as the demographic composition continues to diversify."
+      ],
+      memoBullets: [
+        "Engage the 12.33% Hispanic and 6.93% Black communities with substantive constituent service and policy investment; these are the decisive swing constituencies in a 55-45 race, and their mobilization level and candidate preferences are the variables most directly linked to whether the margin holds or contracts",
+        "Govern on suburban professional economic security: $77K income, 31.8% college, and a younger constituency at 34.7 median age reward specific governance delivery on infrastructure, healthcare portability, and school quality over cultural identity appeals",
+        "Treat the 45% opposition as a constituency map — understand where it is concentrated and what drives it, then offer concrete policy responses rather than dismissing it as the partisan baseline in a district this competitive",
+        "Engage the ~10% AIAN community with tribal governance specifics; even in a suburban context, Native American residents have governance expectations around economic development and constituent service that require authentic engagement rather than assumption of partisan alignment"
+      ]
     }
   },
   {
     id: "ok-sd-19",
     name: "Oklahoma Senate District 19",
-    city: "TBD",
-    region: "TBD",
+    city: "Yukon",
+    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Roland Pederson",
     incumbentParty: "Republican",
@@ -5321,17 +5573,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 2.01, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.03, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Hispanic Community Engagement at 13.20%", tag: "lean-into", why: "At 13.20% Hispanic — the second-largest reported minority community in the district and larger than the statewide average for suburban Oklahoma — SD-19 has a significant Latino constituency whose economic concerns around wages, housing, and healthcare access require specific constituent service and policy attention. In an uncontested district, Hispanic community engagement is often the first thing to be deprioritized; it is also typically the first community an organized challenger targets when building an opposition coalition. The 13.2% represents a constituency with the scale to generate a competitive race if it were organized and motivated by unmet governance expectations." },
+        { name: "Suburban Growth Management and Infrastructure", tag: "lean-into", why: "At $65,929 income, 33.5% renter rate, and 37.1 median age — with the renter rate higher than homeowner-dominant rural districts but lower than urban cores — SD-19 sits in the suburban transition zone where growth pressure from the OKC metro creates active governance challenges around infrastructure capacity, road investment, and school enrollment. A representative who engages these suburban growth questions proactively builds the constituent relationship with a community that is actively being shaped by development decisions. At $65,929 income, these are households for whom infrastructure and service quality have direct household budget implications." },
+        { name: "AIAN Community at ~10.54%", tag: "careful", why: "The ~10.54% AIAN gap in a district this size represents a tribal constituency with specific governance expectations around sovereignty, healthcare access, and economic development partnership that persist regardless of the absence of electoral competition. In central Oklahoma, the tribal nations operating in this territory are institutional actors with organized government-to-government expectations of their state senator. An uncontested result does not diminish this obligation — and a senator who neglects tribal constituent service is building the organizational relationship that a challenger can exploit by simply providing what the incumbent has not." },
+        { name: "Treating Unopposed Status as a Governance Mandate", tag: "avoid", why: "The absence of a 2024 opponent is an organizational accident, not a democratic endorsement of the incumbent's performance across all constituency groups. At 13.20% Hispanic and ~10.54% AIAN, SD-19 has minority communities whose civic engagement levels have not been tested by a credible challenger — meaning the governing vacuum that exists in uncontested seats is particularly wide. The first organized candidate who builds genuine Hispanic and AIAN community relationships in SD-19 has the potential to turn an uncontested seat into a competitive one within a single cycle." },
+        { name: "Generic Suburban Republican Positioning That Ignores Minority Constituency Needs", tag: "avoid", why: "A district with 13.20% Hispanic and ~10.54% AIAN — roughly one in four residents from these two communities — requires specific engagement with the governance concerns of both groups, not a standard suburban Republican platform calibrated exclusively to white homeowner priorities. The combined 23.74% Hispanic-plus-AIAN population is a structural constituency with sufficient scale to organize a competitive challenge if their policy and constituent service needs go unaddressed across multiple legislative sessions." }
+      ],
+      memoHeadline: "OKC Metro Suburban Senate Unopposed: 13.2% Hispanic, ~10.5% AIAN, and the Civic Engagement Gap That Makes an Uncontested Seat a Future Organizing Target",
+      memoParagraphs: [
+        "SD-19 is an uncontested Republican suburban Senate district in the OKC metro orbit — but its demographic composition makes the absence of competition a product of organizational circumstances rather than structural Republican dominance. At $65,929 median income, 21.3% college attainment, 37.1 median age, and 33.5% renter rate, this is a middle-income suburban community in the growth corridor between OKC and its surrounding municipalities. The 73.22% white demographic majority coexists with a 13.20% Hispanic community — significantly larger than most comparable suburban Oklahoma districts — plus a 2.01% Black community and approximately 10.54% of residents in the AIAN gap. Together, the Hispanic and AIAN communities alone represent roughly a quarter of the district's population.",
+        "Roland Pederson's unopposed 2024 result tells us less about the district's competitive potential than about the absence of organized opposition. In a district where one in four residents is either Hispanic or Native American, the organizing infrastructure for a competitive race exists within the community if someone invests in it. The 13.20% Hispanic community in particular represents a constituency whose economic concerns around wages, housing, and healthcare are real and specific, and whose political mobilization has not been tested by a credible candidate campaign. An incumbent who delivers specific, sustained constituent service to both the Hispanic and AIAN communities is building the best defense against the eventual organized challenger; one who treats uncontested status as a signal to coast is creating the governance vacuum that makes the challenge possible."
+      ],
+      memoBullets: [
+        "Engage the 13.20% Hispanic community with specific constituent service on wages, housing, and healthcare — the second-largest minority community in the district has the scale to generate a competitive race if organized, and the governing relationship built now is the best insurance against that possibility",
+        "Deliver active tribal governance engagement for the ~10.54% AIAN community; even in an uncontested suburban district, Native American residents have specific expectations around tribal-state relations and constituent service that require direct engagement, not passive assumption of alignment",
+        "Invest in suburban growth management as a governance priority — at 33.5% renter rate and $65,929 income, this is a community where infrastructure investment, road capacity, and school quality have direct household budget implications that active representation can address",
+        "Do not interpret unopposed status as governance mandate; the combined 23.74% Hispanic and AIAN population represents a constituency large enough to anchor a competitive race if motivated by unmet service needs — the defensive work is delivering for them now"
+      ]
     }
   },
   {
     id: "ok-sd-20",
     name: "Oklahoma Senate District 20",
-    city: "TBD",
-    region: "TBD",
+    city: "Guthrie",
+    region: "North-Central Oklahoma",
     type: "state senate district",
     incumbentName: "Chuck Hall",
     incumbentParty: "Republican",
@@ -5354,17 +5620,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 4.31, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.75, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Aging Homeowner Community Economic Security", tag: "lean-into", why: "At 40.3-year median age and 80.6% homeownership (19.4% renter rate), SD-20 is one of the most homeowner-dominant districts in this sequence — an established, settled community where property interests, healthcare access, and the economic conditions that sustain long-rooted household stability are the primary governance concerns. At $73,506 income with 28.2% college attainment, this is a working-middle-class homeowner constituency for whom rising healthcare costs and rural service decline are direct financial threats rather than abstract policy debates. Medicare sustainability, rural hospital viability, and property appraisal fairness are the governance deliverables this constituency defends." },
+        { name: "Agricultural and Rural Economic Stewardship", tag: "lean-into", why: "A district with 19.4% renters, 40.3 median age, and $73,506 income in north-central Oklahoma almost certainly includes substantial agricultural and rural economic activity — farming, ranching, and the small-business ecosystem that supports rural communities. Water rights, agricultural infrastructure, rural road investment, and the state policies that determine whether small farming operations remain viable are the governance inputs that matter to a constituency with this economic profile. An active legislator who advocates specifically for rural infrastructure and agricultural viability builds the constituent relationship that makes an uncontested district organizationally secure rather than accidentally uncontested." },
+        { name: "AIAN Community at ~11.72%", tag: "careful", why: "The ~11.72% AIAN gap in a homeowner-dominant district with a 40.3 median age represents Native American residents — likely including established families and property owners — whose tribal governance expectations around economic development, healthcare, and sovereignty persist regardless of the surrounding community's political uniformity. In north-central Oklahoma tribal territory, the tribal nations operating here are institutional actors whose government-to-government expectations of their state senator are specific and substantive. Treating tribal constituent service as a peripheral obligation in an uncontested district is creating the organizational vacuum that a future challenger can fill." },
+        { name: "Unopposed Complacency in the Absence of Electoral Pressure", tag: "avoid", why: "An uncontested result in a homeowner-dominant, moderately educated suburban-rural district can create the false impression that constituency service is optional rather than obligatory. The 8.47% Hispanic and 4.31% Black communities in SD-20 have specific governance needs that are often the first to be deprioritized when there is no electoral pressure to maintain engagement. The combination of demographic diversity and uncontested status creates a constituency service gap that, if left unaddressed over multiple sessions, provides the organizational raw material for a future challenge." },
+        { name: "Treating North-Central Oklahoma as Demographically and Electorally Static", tag: "avoid", why: "The 8.47% Hispanic community in SD-20 represents a growing demographic presence in a district whose profile might otherwise suggest a static rural constituency. Demographic growth in the Hispanic community, combined with the ~11.72% AIAN gap, means the district's political composition is not fixed. A senator who governs exclusively for the white homeowner majority — ignoring the governance needs of Hispanic and Native American residents — is treating a changing constituency as though it were demographically frozen, and is building the political conditions for disruption in a future contested cycle." }
+      ],
+      memoHeadline: "North-Central Oklahoma's Mature Homeowner District: $73K Income, 40.3 Median Age, 80% Homeownership, Unopposed Status, and Real Constituent Service Needs Across ~23% Non-White Residents",
+      memoParagraphs: [
+        "SD-20 is a mature, homeowner-dominant Oklahoma Senate district with an economic and demographic profile that makes it among the most settled and stability-oriented in this sixteen-seat sequence. At $73,506 median income, 28.2% college attainment, 40.3 median age, and 19.4% renter rate — the lowest renter rate in this sequence — this is an established community of long-rooted homeowners whose governance priorities center on protecting property values, maintaining access to rural healthcare, and sustaining the agricultural and small-business economy that supports household income. Chuck Hall's uncontested 2024 result reflects the absence of organized opposition in a district this stable, not the absence of constituent needs that a legislator must actively address.",
+        "The demographic composition of SD-20 is more complex than the uncontested result suggests. The 8.47% Hispanic community represents a growing presence in north-central Oklahoma, and the approximately 11.72% AIAN gap places the district in tribal territory with specific governance expectations around sovereignty, healthcare, and economic development. Together, these communities represent roughly 24% of the district's population — one in four residents whose governance needs are not reflected in the partisan result. The aging homeowner majority's economic security concerns — Medicare sustainability, rural hospital access, and property appraisal fairness — are the dominant constituency management priorities, but they must be addressed alongside authentic engagement of the Hispanic and AIAN communities whose organizational potential will eventually be tested by a motivated challenger."
+      ],
+      memoBullets: [
+        "Lead with aging homeowner economic security: Medicare sustainability, rural hospital viability, and property appraisal fairness are the governance priorities of a 40.3-median-age, 80.6%-homeowner constituency whose household stability depends on specific state policy outcomes",
+        "Engage agricultural and rural economic stewardship actively — water rights, rural road investment, and small farming viability are the governance inputs that sustain the rural economic base and the constituency relationship that makes an uncontested district organizationally durable",
+        "Deliver specific constituent service to the 8.47% Hispanic and ~11.72% AIAN communities; these are not negligible populations — together they represent roughly one in four residents whose governance expectations require active engagement rather than assumption of passive loyalty",
+        "Resist the organizational atrophy of uncontested status; the combination of minority community presence and senior homeowner service needs means this district has real governance obligations that the absence of an opponent does not eliminate"
+      ]
     }
   },
   {
     id: "ok-sd-21",
     name: "Oklahoma Senate District 21",
-    city: "TBD",
-    region: "TBD",
+    city: "Broken Arrow",
+    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "Randy Grellner",
     incumbentParty: "Republican",
@@ -5387,17 +5667,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Asian", pct: 3.61, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 3.57, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "University Community and Student-Adjacent Economy", tag: "lean-into", why: "The 27.6-year median age — the youngest in this sixteen-district sequence by a wide margin — combined with 35.5% college attainment and 48% renter rate is the unmistakable signature of a university-town district. Higher education funding, student housing affordability, and the workforce pipeline from university to regional economy are the governance issues that directly affect the dominant constituency. A legislator who engages the university administration, faculty, and student community on specific policy questions — research funding, tuition levels, housing supply near campus — is governing for the majority of residents rather than for the surrounding rural community that produces the Republican base." },
+        { name: "AIAN Community Engagement at ~12.07%", tag: "lean-into", why: "The ~12.07% AIAN gap in a university-town district adds a constituency dimension that can be obscured by the campus-focused demographic narrative. Native American students, staff, and permanent community members represent roughly one in eight residents, and tribal-state governance issues — Indian Health Service access, tribal scholarship programs, and economic development — intersect with the university community's interests in ways that create a natural coalition-building opportunity. An authentic engagement with tribal nation leadership and Native American students builds a constituency relationship that is distinct from the generic campus progressive coalition and potentially more durable." },
+        { name: "The 35% Democratic Opposition in a University District", tag: "careful", why: "A 35% Democratic share in a university-town district that is surrounded by conservative rural territory reflects the structural split between campus and community. The 35% opposition is almost certainly concentrated among students, faculty, and university-adjacent professional workers — a constituency that could grow its vote share with better mobilization infrastructure, more compelling candidates, or higher turnout in election cycles with strong downballot engagement. The 35% is not a ceiling in a district this young; it is a floor that reflects incomplete student turnout, and any cycle that significantly improves student mobilization will put pressure on the 65%." },
+        { name: "Governing Only for the Conservative Rural Community That Produces the 65%", tag: "avoid", why: "In a district where the median age is 27.6 and 48% of residents rent, the Republican base's geographic concentration in the surrounding rural territory should not define the entire governing agenda. Students and young university-adjacent workers are the numerical majority of the actual district population, and their concerns around housing costs, higher education funding, and early-career economic access are real governance priorities that deserve active legislative attention alongside the rural economy concerns of the surrounding community. A senator who governs exclusively for the conservative rural majority is governing for about half the people who actually live in the district." },
+        { name: "Treating University Populations as Apolitically Transient", tag: "avoid", why: "University communities have demonstrated the capacity to organize and mobilize when motivated by specific issues — student debt, housing costs, healthcare access, and education funding are all activating concerns for a constituency that votes at lower rates partly out of habit rather than indifference. A senator who treats the 27.6-median-age, 48%-renter constituency as too transient to be worth governing for is creating the organizational vacuum that a focused campus-and-community organizing effort could fill. University communities have swung competitive seats in other states when engaged seriously, and Oklahoma's university districts are not structurally immune to that dynamic." }
+      ],
+      memoHeadline: "Oklahoma's University Senate District at 65% Republican: 27.6-Year Median Age, 48% Renters, 35% Democratic Opposition, and a Student Community Whose Mobilization Could Fundamentally Reshape the Seat",
+      memoParagraphs: [
+        "SD-21 is Oklahoma's most distinctive Senate district by demographic profile: a 27.6-year median age, 48.0% renter rate, and 35.5% college attainment in a Republican-held seat are the statistical signature of a university-town district where the dominant constituency is students, graduate researchers, and young university-adjacent professionals rather than the established homeowners who anchor rural Republican majorities elsewhere. At $47,000 median income — the lowest in this sequence — and with a renter majority, the material concerns of this constituency differ fundamentally from the property-protection, rural-economy priorities of standard Oklahoma Republican districts. Randy Grellner's 65-35 result reflects the structural split between the conservative rural surrounding community that votes reliably and the younger campus community that votes at lower rates.",
+        "The 35% Democratic opposition in SD-21 is not a rounding error — it is a structural floor based on incomplete student mobilization that could become a ceiling-buster in any cycle where campus turnout significantly improves. The ~12.07% AIAN gap adds a tribal community dimension that includes both Native American students at the university and permanent community members with specific tribal governance expectations. A senator who governs for the full constituency — addressing university housing, higher education funding, and the early-career economic concerns of a 27.6-year-old median-age constituency alongside the rural economic needs of the surrounding community — builds a broader coalition than one who treats the campus community as too transient to be worth governing for. University communities in other states have proven capable of shifting competitive districts when engaged seriously, and SD-21's demographic profile makes it one of the seats most capable of that shift in Oklahoma."
+      ],
+      memoBullets: [
+        "Engage the university community directly on higher education funding, student housing affordability, and the workforce pipeline from campus to regional employment — the 27.6-year median age and 48% renter rate confirm these are the dominant material concerns of the constituency majority",
+        "Cultivate authentic relationships with the AIAN community in the district — both Native American students at the university and tribal community members who are permanent residents have specific governance expectations around sovereignty, Indian Health, and scholarship access that deserve direct engagement",
+        "Treat the 35% Democratic opposition as a mobilization signal, not a partisan floor — in a district this young, any cycle with significantly higher student turnout or a compelling campus-focused candidate will test whether 65% is a structural Republican hold or a product of demographic participation gaps",
+        "Govern for the 48%-renter, 27.6-year-old constituency on housing costs and early-career economic access alongside rural economy priorities; a senator seen as exclusively serving the surrounding rural conservative community is leaving the district's numerical majority unrepresented"
+      ]
     }
   },
   {
     id: "ok-sd-22",
     name: "Oklahoma Senate District 22",
-    city: "TBD",
-    region: "TBD",
+    city: "Edmond",
+    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Kristen Thompson",
     incumbentParty: "Republican",
@@ -5420,17 +5714,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 8.65, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 5.34, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Affluent Professional Community Governance", tag: "lean-into", why: "At $101,395 median income and 47.2% college attainment — both the highest in this sixteen-district sequence — SD-22 is Oklahoma's wealthiest, most credentialed Senate constituency: a community whose governance expectations center on school district excellence, property value protection, fiscal discipline, and the regulatory environment that sustains high-income professional households and the businesses that employ them. This constituency evaluates its senator on policy competency and specific outcomes, not cultural identity signaling, and will tolerate governance failures on homeowner priorities that a lower-income community might overlook. Delivering tangibly on the concerns of a $101K-income homeowner majority requires a senator with both policy fluency and the legislative effectiveness to translate it into outcomes." },
+        { name: "Minority Professional Community Engagement", tag: "lean-into", why: "With 9.39% Hispanic, 8.65% Black, and 5.34% Asian — together 23.38% of the district's reported demographics — plus the ~9.03% AIAN gap, SD-22 has a substantial minority professional community that is unusual by Oklahoma standards: these are not working-class minority communities in an economically distressed district. They are professionals, entrepreneurs, and property owners whose concerns around business environment, educational equity, and professional regulatory conditions are sophisticated and specific. Engaging them as peers rather than underserved constituencies is both more accurate and more politically effective — and their organizational capacity in a $101K-income community means neglect has faster consequences than in districts where minority communities lack economic resources." },
+        { name: "The 36% Democratic Opposition in a High-Income District", tag: "careful", why: "A 36% Democratic share in an affluent, highly educated Oklahoma Senate district reflects professional moderates — doctors, attorneys, professors, and corporate professionals — who are Republican-adjacent on economic policy but evaluate governance on quality, evidence, and competency. This constituency is the most organizationally capable opposition in the sequence: well-resourced, professionally networked, and capable of funding and supporting competitive challengers when governance falls short of their expectations. Understanding what specifically generates the 36% in a $101K district — whether driven by the minority professional community, younger professionals, or socially moderate white professionals — is the intelligence that determines whether 64% is sustainable or drifting toward 60%." },
+        { name: "Policy Incompetency in a 47.2% College-Educated Constituency", tag: "avoid", why: "A district where nearly half the adults hold college degrees evaluates its senator on evidence-based policy reasoning, legislative effectiveness, and the ability to deliver specific outcomes. Positions that read as culturally performative, ideologically extreme, or analytically thin will lose credibility with a constituency that includes significant numbers of professionals who apply rigorous standards to their own work and expect the same from their representatives. In a $101K-income, 47.2%-college district, the fastest path to an organized primary challenge or a credible general election opponent is a governance record that the professional community finds intellectually beneath the district's standards." },
+        { name: "Treating Minority Professional Families as Background Demographics", tag: "avoid", why: "In a high-income district where the 23.38% reported minority communities and ~9% AIAN gap represent professionals and property owners rather than working-class constituencies, passive disengagement from their governance concerns has organizational consequences faster than in economically constrained districts. Hispanic, Black, and Asian professionals in a $101K-income community have the resources, networks, and civic capacity to organize and fund competitive races when they conclude their senator is not serving them. The 36% already-existing opposition in this district gives them an electoral infrastructure to work within." }
+      ],
+      memoHeadline: "Oklahoma's Wealthiest Senate District at $101K: 47.2% College-Educated, 23% Reported Minority Professionals, and a 64-36 Margin That Demands Policy Competency to Hold",
+      memoParagraphs: [
+        "SD-22 is Oklahoma's wealthiest and most credentialed Senate district: at $101,395 median household income — the highest in this sixteen-district sequence — and 47.2% college attainment, this is a community of established professional households that holds its senator to standards of policy competency and governance effectiveness that are higher than anywhere else in the sequence. The 37.3 median age and 21.8% renter rate confirm an established, predominantly homeowner community that has achieved significant economic success and expects its state senator to protect the conditions that sustain it — school district quality, appraisal fairness, fiscal discipline, and the professional business environment that generates the district's exceptional income. The 64-36 Republican result is strong by Oklahoma standards but reflects the presence of a significant professional-class opposition concentrated among the district's diverse minority communities and socially moderate white professionals.",
+        "The demographic composition of SD-22 is unusually diverse for a high-income Oklahoma Senate district: 9.39% Hispanic, 8.65% Black, and 5.34% Asian Americans — together 23.38% of reported demographics, plus the ~9.03% AIAN gap — represent a minority professional community whose governance expectations are as sophisticated as the white professional majority's. These are not communities seeking redistributive policy or social services advocacy; they are professionals and property owners whose concerns around educational equity, business environment, and professional regulatory conditions are substantive and specific. In a district this affluent and this educated, political neglect of the minority professional community produces organized responses faster than in economically constrained districts where minority communities have fewer organizational resources."
+      ],
+      memoBullets: [
+        "Govern on policy competency — the 47.2% college attainment and $101K income produce a constituency that evaluates governance on evidence, specific outcomes, and legislative effectiveness; positions that read as culturally performative or analytically thin will generate organized opposition in a district this credentialed",
+        "Engage Hispanic (9.39%), Black (8.65%), and Asian (5.34%) professional communities as economic peers; in a $101K district, these are professionals and entrepreneurs whose governance expectations center on business environment, educational equity, and professional regulatory conditions — not social services advocacy",
+        "Treat the 36% Democratic opposition as a professionally networked, resource-capable constituency — in a high-income, highly educated district, the opposition has the organizational and financial capacity to recruit and fund credible challengers when governance falls short",
+        "Protect the district's homeowner and professional economic foundation: school district quality, appraisal fairness, and fiscal discipline are the governance deliverables the dominant $101K-income homeowner coalition defends and will hold their senator accountable for delivering"
+      ]
     }
   },
   {
     id: "ok-sd-23",
     name: "Oklahoma Senate District 23",
-    city: "TBD",
-    region: "TBD",
+    city: "Mustang",
+    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Lonnie Paxton",
     incumbentParty: "Republican",
@@ -5453,17 +5761,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 2.61, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.99, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Suburban-Rural Homeowner Community Priorities", tag: "lean-into", why: "At $76,460 income, 27.4% renter rate, and 38.8 median age, SD-23 is a moderate-income, homeowner-dominant suburban-to-rural community whose governance priorities center on property value stability, rural infrastructure, and the economic conditions that sustain working-middle-class households. The combination of moderate income and lower renter rate signals an established community that has made long-term place commitments and expects its representative to defend the conditions — school quality, road infrastructure, rural healthcare access — that those commitments depend on. Active representation on suburban infrastructure and rural economic stability is the governance agenda most aligned with this constituency's material interests." },
+        { name: "Hispanic Community Engagement at 10.23%", tag: "lean-into", why: "At 10.23% Hispanic, SD-23 has a significant Latino community — larger than the typical rural Oklahoma baseline — whose economic concerns around agricultural and service-sector employment, housing, and healthcare access require specific constituent service and policy attention. In an uncontested district, Hispanic community engagement is typically the first governance obligation to be deprioritized and the most available target for an organized challenger who invests in it. The 10.23% is large enough, combined with the ~11.1% AIAN gap, to constitute a substantial minority coalition if those communities are motivated by unmet governance expectations." },
+        { name: "AIAN Community at ~11.1%", tag: "careful", why: "The ~11.1% AIAN gap in a moderate-income suburban-rural district represents Native American residents whose tribal governance expectations around sovereignty, healthcare, and economic development do not diminish because the district went uncontested. In central Oklahoma's tribal territory, the nations operating here are institutional actors whose government-to-government expectations of their state senator include substantive engagement on tribal-state issues, not ceremonial acknowledgment. A senator who delivers active tribal constituent service in an uncontested district is building the organizational relationship that the ~11% community will eventually use to evaluate whether the seat is worth contesting." },
+        { name: "Treating Uncontested Status as Low-Maintenance Governance", tag: "avoid", why: "A combined Hispanic and AIAN community of roughly 21.33% represents more than one in five SD-23 residents whose governance needs require active attention regardless of the electoral calendar. The absence of a 2024 opponent is an organizational circumstance, not a democratic mandate for reduced engagement. A senator who treats uncontested status as permission to provide less constituent service to minority communities is building the exact governance deficit that a motivated first-time challenger can exploit by simply being more present and responsive than the incumbent." },
+        { name: "Allowing the Suburban-Rural Balance to Drift Without Active Management", tag: "avoid", why: "At $76,460 income and a 27.4% renter rate that is lower than urban districts but higher than purely rural ones, SD-23 sits at the suburban-rural transition zone where growth pressures from the OKC metro edge are actively reshaping community character. Road infrastructure, school enrollment capacity, and housing development decisions are live governance questions in this transition zone that require active legislative engagement — and a representative who treats these as background conditions rather than active governance responsibilities will face a community that concludes growth is happening to them rather than for them." }
+      ],
+      memoHeadline: "OKC Metro-Adjacent Senate Unopposed: $76K Homeowners, 10.2% Hispanic, ~11% AIAN, and the One-in-Five Minority Residents Whose Needs Are the Best Defense Against a Future Challenge",
+      memoParagraphs: [
+        "SD-23 is an uncontested Republican Senate district in the Oklahoma City metropolitan orbit — a moderate-income, homeowner-dominant community at $76,460 income, 38.8 median age, and 27.4% renter rate that presents the profile of an established suburban-to-rural constituency with stable governance priorities. The 75.07% white majority coexists with a 10.23% Hispanic community and approximately 11.1% of residents in the AIAN gap — together more than one in five residents from these two minority communities — whose governance needs are not reflected in the uncontested electoral result. Lonnie Paxton's unopposed 2024 outcome reflects the absence of organized opposition, not the universal endorsement of governance that ignores minority constituency service.",
+        "The strategic vulnerability in SD-23 is the combination of uncontested status with a meaningful minority community presence. In a district where Hispanic and AIAN residents together represent roughly 21% of the population, the organizational raw material for a competitive challenge exists if someone invests in engaging those communities around specific unmet governance needs. The homeowner majority's priorities — property stability, rural infrastructure, healthcare access — are the active constituency management agenda, but they must be addressed alongside authentic engagement of the Hispanic and AIAN communities whose expectations have simply not been tested by electoral competition. A senator who treats the uncontested result as a mandate for passive governance is creating the conditions for an eventual challenge."
+      ],
+      memoBullets: [
+        "Deliver active constituent service to the 10.23% Hispanic community: their economic concerns around wages, housing, and healthcare access are real and specific, and the first organized challenger who engages them credibly converts an uncontested seat into a competitive one",
+        "Engage the ~11% AIAN community with tribal governance specifics — sovereignty, healthcare access, and economic development are the institutional expectations that tribal nation leadership brings to their relationship with their state senator, regardless of the electoral calendar",
+        "Lead on suburban-rural infrastructure: at the OKC metro transition zone, road capacity, school enrollment, and rural healthcare access are the active governance questions where legislative investment builds the constituent relationship with the homeowner majority",
+        "Resist governance complacency in an uncontested seat; the combined 21% Hispanic and AIAN population represents a future competitive foundation if their governance expectations go unmet across multiple legislative sessions"
+      ]
     }
   },
   {
     id: "ok-sd-24",
     name: "Oklahoma Senate District 24",
-    city: "TBD",
-    region: "TBD",
+    city: "Moore",
+    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Darrell Weaver",
     incumbentParty: "Republican",
@@ -5486,17 +5808,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Asian", pct: 5.48, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 5.30, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Diverse Suburban Professional Community", tag: "lean-into", why: "At $80,163 income and 29.1% college attainment, with 13.43% Hispanic, 5.48% Asian, and 5.30% Black residents — plus the ~12.11% AIAN gap — SD-24 is the most demographically diverse uncontested Republican district in this sequence. The combined non-white population of roughly 37% includes professional and entrepreneurial minority families whose concerns around business environment, educational equity, and suburban quality of life are sophisticated and specific. Engaging these communities as constituent stakeholders rather than passive demographics is both a governance obligation and the strategic investment that prevents an uncontested seat from becoming a future competitive one." },
+        { name: "Hispanic Community Investment at 13.43%", tag: "lean-into", why: "At 13.43% Hispanic — the largest single reported minority community in SD-24 — the Latino constituency requires specific, substantive engagement on the concerns that directly affect working and professional Hispanic families: housing affordability at $80,163 district median income, educational quality and access, healthcare coverage, and the small-business regulatory environment. The 13.43% is large enough, combined with the district's overall diversity, that authentic Hispanic community engagement is the single most available investment for building a coalition that makes an uncontested seat organizationally durable rather than accidentally uncompetitive." },
+        { name: "The ~12.11% AIAN Gap in a Diverse Suburban District", tag: "careful", why: "Even in a relatively affluent ($80,163 income) suburban district, the ~12.11% AIAN gap represents Native American residents with tribal governance expectations around sovereignty, healthcare access, and economic development that do not diminish because the district is suburban or uncontested. In the OKC metro orbit, tribal citizens include professionals, property owners, and enterprise workers whose political engagement depends on whether their senator treats their tribal-state governance interests as substantive priorities or peripheral acknowledgments. Active tribal constituent service in this context means engaging tribal nation leadership on economic development and policy partnership, not ceremonial recognition." },
+        { name: "Treating the Combined ~37% Non-White Population as Demographically Low-Risk", tag: "avoid", why: "A district where Hispanic (13.43%), Asian (5.48%), Black (5.30%), and AIAN (~12.11%) communities together represent roughly 36-37% of residents is not a demographically homogeneous district that can be governed from a white-majority-only perspective without consequence. In an OKC metro suburban district at $80,163 income, minority communities have the economic resources and professional networks to organize effectively when motivated by governance failures. An uncontested result achieved without minority community engagement is a seat with structural vulnerability in any future cycle where those communities are better mobilized." },
+        { name: "Governance Atrophy Under Uncontested Status", tag: "avoid", why: "The diversity of SD-24 — one of the most demographically complex uncontested Republican Senate seats in Oklahoma — makes the absence of 2024 competition an organizational circumstance that could change rapidly rather than a structural feature of the district. An incumbent who treats uncontested status as permission to reduce constituent engagement across minority communities is building the governance deficit that the first credible challenger will diagnose and exploit by simply providing what the incumbent has not. The defense against future competition is active constituent service delivered now, when no electoral pressure exists to motivate it." }
+      ],
+      memoHeadline: "Suburban OKC's Most Diverse Uncontested Republican Senate Seat: $80K Income, 13.4% Hispanic, 5.5% Asian, ~12% AIAN, and the 37% Non-White Population That Makes Passive Governance Strategically Dangerous",
+      memoParagraphs: [
+        "SD-24 is the most demographically diverse uncontested Republican Senate district in this sixteen-seat sequence. At $80,163 median income, 29.1% college attainment, and 34.8 median age, this is a moderate-to-upper-income suburban community with a genuinely multi-ethnic composition: 13.43% Hispanic, 5.48% Asian, 5.30% Black, and approximately 12.11% of residents in the AIAN gap — together roughly 36-37% of the district's population from non-white communities. Darrell Weaver's uncontested 2024 result reflects the absence of organized opposition, not the political uniformity of a constituency where more than one in three residents belongs to a minority community.",
+        "The strategic vulnerability of SD-24 is the combination of high demographic diversity with uncontested status: the organizational raw material for competitive opposition exists within the community, but it has not been mobilized. The 13.43% Hispanic community in particular is large enough to anchor a competitive coalition if engaged around specific economic and quality-of-life concerns, and the $80,163 district median income means this is a community where minority professional and entrepreneurial families have the resources and networks to fund and support a credible candidate. An incumbent who treats the uncontested result as governance permission rather than governance opportunity — actively building constituent relationships with Hispanic, Asian, Black, and AIAN communities — is creating the deficit that makes future competition possible."
+      ],
+      memoBullets: [
+        "Invest in Hispanic community engagement as the primary minority constituency strategy — at 13.43%, the largest reported minority group, and large enough to anchor a competitive coalition if organized around unmet governance needs",
+        "Engage Asian (5.48%) and Black (5.30%) professional communities with specific outreach on business environment, educational equity, and suburban quality of life — at $80K income, these are professionals and entrepreneurs whose governance expectations are sophisticated and whose organizational capacity is substantial",
+        "Deliver active tribal constituent service for the ~12% AIAN community; tribal governance expectations around sovereignty and economic development are substantive priorities that require direct engagement with tribal nation leadership, not ceremonial acknowledgment",
+        "Treat uncontested status as the opportunity to build constituent relationships that make future competition futile rather than permission to reduce engagement — SD-24's demographic diversity means it can become competitive rapidly if minority community expectations go unmet"
+      ]
     }
   },
   {
     id: "ok-sd-25",
     name: "Oklahoma Senate District 25",
-    city: "TBD",
-    region: "TBD",
+    city: "Edmond",
+    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Brian Guthrie",
     incumbentParty: "Republican",
@@ -5519,17 +5855,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 5.92, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 5.30, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Educated Suburban Professional Governance Agenda", tag: "lean-into", why: "At $83,777 income and 42.1% college attainment — the second-highest in this sequence after SD-22 — SD-25 is a high-education, professional-class suburban district that evaluates its senator on policy competency, legislative effectiveness, and specific outcomes rather than cultural identity. The 34.5% renter rate indicates a mix of established homeowners and active younger professionals — a constituency that includes both the property-protection priorities of settled households and the economic mobility concerns of professionals still building toward homeownership. A senator who governs with analytical rigor and delivers specific results on the economic and institutional quality concerns of this constituency is building the credential that sustains a dominant margin in an educated district." },
+        { name: "Minority Professional Community Engagement at ~34% Combined", tag: "lean-into", why: "With 10.44% Hispanic, 5.92% Black, and 5.30% Asian residents — together 21.66% of reported demographics — plus the ~12.98% AIAN gap, SD-25 has a combined minority population of roughly 34-35%. In a high-income, high-education suburban district, these are professional and entrepreneurial families whose governance expectations center on educational equity, business environment, and professional regulatory conditions. The 33% Democratic opposition in a district this educated and affluent almost certainly reflects this minority professional community's collective engagement, and their capacity for organized political action is proportional to their economic resources and professional networks." },
+        { name: "The 33% Democratic Opposition Among Professional Moderates", tag: "careful", why: "In a 42.1%-college, $83,777-income district, the 33% Democratic opposition is not a working-class progressive constituency — it is a collection of professional moderates, minority community voters, and socially liberal white professionals who evaluate candidates on policy quality. This is the most organizationally capable 33% in any competitive context: professionally networked, resource-capable, and accustomed to making evidence-based judgments. Understanding specifically what drives the 33% — whether concentrated in the minority professional community, among younger renters, or among specific professional sectors — is the analytical work that determines whether the margin can be expanded or whether it is inexorably contracting." },
+        { name: "Policy Incompetency in a 42.1% College District", tag: "avoid", why: "A district where more than four in ten adults hold college degrees applies the same evaluative standards to legislative performance that professionals apply to their own work: analytical rigor, evidence-based reasoning, and measurable outcomes. Positions that read as ideologically performative rather than substantively defensible will lose credibility faster in SD-25 than in lower-education districts — and in a district where 33% already votes Democratic, the constituency for a primary challenge or a credible general election opponent is present and professionally capable of executing one." },
+        { name: "Governing for the White Professional Majority While the ~34% Minority Community Is Underserved", tag: "avoid", why: "With a combined non-white population of roughly 34-35%, SD-25's minority communities are too large to govern around without electoral consequence in a district where 33% already opposes the incumbent. A representative who addresses the educational equity, business environment, and professional concerns of Hispanic, Black, Asian, and AIAN residents is building a broader coalition; one who calibrates governance exclusively to the white professional majority is contributing to the 33% opposition's future growth rather than its containment." }
+      ],
+      memoHeadline: "Educated OKC Suburban District at 67-33: $83K Income, 42.1% College, ~34% Combined Minority Population, and a Professional-Class Opposition That Evaluates on Policy Quality",
+      memoParagraphs: [
+        "SD-25 is a highly educated, moderate-to-high-income suburban Oklahoma City Senate district — at $83,777 median income and 42.1% college attainment, the second-most credentialed district in this sequence. The 37.5 median age and 34.5% renter rate reflect a mix of established homeowners and active younger professionals whose governance priorities span both property-protection concerns and economic mobility expectations. The demographic composition is meaningfully diverse: 10.44% Hispanic, 5.92% Black, and 5.30% Asian residents, plus approximately 12.98% of the population in the AIAN gap, together representing roughly 34-35% of the district from non-white communities. Brian Guthrie's 67-33 result is comfortable for Oklahoma but not dominant, and the 33% opposition in a district this educated and affluent is a professionally organized constituency.",
+        "The defining strategic challenge in SD-25 is sustaining a 67% majority in an educated suburban district with a substantial and professionally capable minority community. At $83,777 income and 42.1% college attainment, both the white professional majority and the minority professional communities bring high governance expectations that require policy competency rather than identity positioning. The 33% opposition is concentrated among voters who evaluate on evidence and outcomes rather than party loyalty — making the margin sensitive to governance quality in ways that safe rural districts are not. A senator who delivers on educational quality, professional economic conditions, and substantive minority community engagement will outperform in SD-25; one who governs by cultural signaling rather than policy substance will watch 67% contract toward 60% as the professional opposition grows."
+      ],
+      memoBullets: [
+        "Govern on policy competency — the 42.1% college attainment means this constituency evaluates governance on analytical rigor, evidence-based positions, and specific measurable outcomes; ideologically performative governance will generate organized opposition in a district with this much professional capacity",
+        "Engage Hispanic (10.44%), Black (5.92%), and Asian (5.30%) professional communities directly on educational equity, business environment, and suburban quality of life — in a $83K-income district, these are professionals and entrepreneurs whose governance expectations are sophisticated and whose political capacity is proportional to their economic resources",
+        "Treat the 33% Democratic opposition as a professionally networked constituency worth understanding — in a 42.1%-college district, the opposition has the analytical and financial capacity to recruit and support credible challengers when governance quality falls short",
+        "Engage the ~13% AIAN community with tribal governance specifics; even in an affluent suburban context, tribal nation citizens have substantive expectations around sovereignty and economic development that require direct engagement rather than assumption of alignment"
+      ]
     }
   },
   {
     id: "ok-sd-26",
     name: "Oklahoma Senate District 26",
-    city: "TBD",
-    region: "TBD",
+    city: "Woodward",
+    region: "Western Oklahoma",
     type: "state senate district",
     incumbentName: "Darcy Allen Jech",
     incumbentParty: "Republican",
@@ -5552,17 +5902,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 3.54, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.50, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Hispanic Community as the Decisive Swing Constituency", tag: "lean-into", why: "At 16.24% Hispanic in a 52-48 race, the Latino community is the single largest swing constituency in SD-26 — a group whose mobilization level and candidate preference is arithmetically sufficient to determine the outcome. At $58,718 income and 23.0% college attainment, this is a working-class Hispanic community whose concerns around agricultural and service-sector employment, housing affordability, and healthcare access are the governance priorities most capable of generating either loyalty or defection. A senator who delivers specific, tangible constituent service on these issues — not symbolic recognition but actual policy outcomes — is building the coalition math that makes 52% survivable in a future contested cycle." },
+        { name: "AIAN Community Mobilization at ~15.56%", tag: "lean-into", why: "The ~15.56% AIAN gap combined with the 16.24% Hispanic community means that SD-26 has a combined Hispanic-plus-AIAN community of roughly 31.8% — more than three times the margin in a 52-48 race. In central Oklahoma tribal territory, the Native American community's electoral engagement is the decisive variable that can shift a 52-48 seat in either direction. A senator who builds authentic, sustained relationships with tribal nation leadership and delivers on tribal constituent service is building the governing coalition that makes 52% into something more durable; one who relies on white working-class base consolidation alone is sitting on an extremely thin margin with no structural cushion." },
+        { name: "White Working-Class Economic Anxiety at $58,718 Income", tag: "careful", why: "The white majority in SD-26 is working-class — at $58,718 income and 23.0% college attainment, these are households where rural healthcare costs, job quality, and infrastructure decline are real financial pressures. Understanding what specifically generates the 48% opposition requires distinguishing between economically frustrated white voters, mobilized Hispanic voters, and Native American voters — because each community's concerns require different policy responses. The white working-class base's economic anxiety is the foundation of the 52%, but it is not sufficient to sustain that margin if it erodes from specific governance failures while other communities are simultaneously mobilizing." },
+        { name: "Treating 52% as a Stable Republican Hold in Central Oklahoma", tag: "avoid", why: "A 52-48 result in central Oklahoma is not a stable Republican hold — it is a tied race in a state where the structural partisan advantage should deliver 65-35 or better. The combination of 16.24% Hispanic, ~15.56% AIAN, and only 3.54% Black in a 52-48 race signals that the Hispanic and tribal communities are already participating at meaningful rates and their preferences are close to decisive. Any campaign strategy that treats this seat as a low-maintenance Republican hold rather than an active fight for every constituency will lose the next credible challenge." },
+        { name: "Running a White-Plurality-Only Campaign in a District Where Minorities Are the Margin", tag: "avoid", why: "With Hispanic and AIAN communities together representing roughly 32% of SD-26's population — more than the Republican margin by any arithmetic — a campaign strategy calibrated exclusively to the white working-class majority is mathematically insufficient to hold the seat in the next competitive cycle. These communities are already present in the electoral result; they are not dormant potential opposition waiting to be awakened. The 48% opposition in a district this demographically structured almost certainly includes significant Hispanic and tribal participation, and a candidate who does not specifically address those communities' governance concerns is running a campaign for 52% of a constituency that can only deliver 52%." }
+      ],
+      memoHeadline: "Central Oklahoma's Competitive Senate Seat: 52-48, 16.2% Hispanic, ~15.6% AIAN, and a Combined Minority Population of ~32% That Is the Decisive Electoral Variable",
+      memoParagraphs: [
+        "SD-26 is one of four genuinely competitive seats in this sixteen-district sequence and the most demographically complex: a 52-48 result in a working-class central Oklahoma Senate district with 16.24% Hispanic, ~15.56% AIAN, and 3.54% Black communities. At $58,718 median income and 23.0% college attainment, this is working-class territory where economic security issues — rural healthcare, job quality, agricultural stability — drive the Republican base among white homeowners. But the combined Hispanic and AIAN population of roughly 32% means that minority community mobilization levels and candidate preferences are not peripheral to the electoral math — they are the electoral math. Darcy Allen Jech's 52% is an extraordinarily thin margin in a state where structural Republican advantage is overwhelming in most districts.",
+        "The strategic challenge in SD-26 is holding 52% in a district where the minority communities are already large enough to determine the outcome and already participating at rates that confirm their engagement. A senator who builds authentic, sustained relationships with both the Hispanic community and tribal nation leadership — delivering on healthcare, economic development, and constituent service for each — is building the governing record that makes 52% survivable. One who relies on white working-class base consolidation without addressing the minority community's specific governance needs is relying on holding the line with 64% of the population while the other 32% assesses their options. In central Oklahoma tribal territory with a working-class Hispanic community this large, that is not a defensible strategy for a seat this thin."
+      ],
+      memoBullets: [
+        "Build direct, substantive relationships with the 16.24% Hispanic community — at this population size in a 52-48 race, Hispanic mobilization and candidate preference is the arithmetic determinant of the outcome; specific constituent service on wages, housing, and healthcare is the governing investment that makes the difference",
+        "Engage tribal nation leadership and the ~15.56% AIAN community authentically; combined with the Hispanic community, these populations represent roughly 32% of the district — more than three times the 4-point margin — and their governance expectations require active delivery, not symbolic acknowledgment",
+        "Diagnose the working-class white constituency's specific economic concerns at $58,718 income; rural healthcare, infrastructure, and job quality are the issues that built the 52% base and the gaps that could erode it if unaddressed alongside minority community engagement",
+        "Treat every cycle in SD-26 as a contested election — with a 52-48 baseline in central Oklahoma tribal territory, there is no structural cushion, and any campaign that treats this as a safe Republican hold rather than an active competitive fight will not survive the next credible challenger"
+      ]
     }
   },
   {
     id: "ok-sd-27",
     name: "Oklahoma Senate District 27",
-    city: "TBD",
-    region: "TBD",
+    city: "Perry",
+    region: "North-Central Oklahoma",
     type: "state senate district",
     incumbentName: "Casey Murdock",
     incumbentParty: "Republican",
@@ -5585,17 +5949,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 1.72, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.86, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Hispanic Community as the Electoral Majority Determinant", tag: "lean-into", why: "At 23.55% Hispanic in a 52-48 race, the Latino community is the single largest swing constituency in Oklahoma Senate geography — a group whose mobilization level and candidate preference is numerically decisive in every competitive cycle for this seat. At $61,373 income in western Oklahoma, this is a working-class Hispanic community with a strong presence in agricultural and service-sector employment whose concerns around wages, healthcare access, and community investment are the governance priorities most capable of generating either loyalty or defection. A senator who delivers specific, sustained constituent service on these issues is building the coalition math that can make 52% into 55%; one who treats the 23.55% as a background demographic is sitting on the thinnest possible margin with the community most capable of eliminating it." },
+        { name: "Rural-Agricultural Working-Class Economic Security", tag: "lean-into", why: "At $61,373 income and 23.6% college attainment with 26.7% renter rate, SD-27 is working-class western Oklahoma where agricultural economy, rural infrastructure, and job quality are the material foundations of household stability. Both the white majority constituency and the Hispanic community share economic pressures around healthcare access, rural road infrastructure, and the state policies that affect agricultural viability. A senator who delivers specific outcomes on rural economic security — water rights, agricultural infrastructure, rural hospital access — builds the cross-community coalition that is the only sustainable path to holding a 52-48 seat without structural partisan advantage." },
+        { name: "The White Working-Class Base's Relationship to the 52% Margin", tag: "careful", why: "The 67.40% white working-class majority produces the Republican base in SD-27, but in a 52-48 race their economic concerns — specifically around healthcare costs, rural economic decline, and infrastructure quality at $61,373 income — are not being fully met at the level that a comfortable 65-35 margin would suggest. Understanding whether the 48% opposition is driven primarily by Hispanic mobilization, white economic frustration, or a combination of both is the diagnostic intelligence that determines whether the incumbent's governing approach is building toward a more durable margin or running on structural partisan loyalty that is eroding." },
+        { name: "Ignoring the Hispanic Community's Political Trajectory in Western Oklahoma", tag: "avoid", why: "A 23.55% Hispanic community in western Oklahoma is not a marginal demographic footnote — it is the constituency most actively reshaping the district's electoral math. In agricultural western Oklahoma, the Hispanic working-class community has been growing both in population and in civic engagement, and a 23.55% presence in a 52-48 district confirms that growth is already having electoral consequences. A senator who treats this community as politically passive, non-participatory, or naturally Republican-leaning is misreading the political trajectory of a community that is already responsible for the margin being as thin as it is." },
+        { name: "Treating Western Oklahoma Rural Identity as a Stable Electoral Lock", tag: "avoid", why: "Western Oklahoma's strong cultural conservatism creates the structural Republican baseline in SD-27, but cultural identity alone does not sustain a 52% margin in a district where the Hispanic community is large enough to determine outcomes. The rural conservative white voter's alignment with Republicans is not unconditional — at $61,373 income, economic security concerns around healthcare, infrastructure, and agricultural viability can motivate defection when governance fails to deliver. The combination of a large Hispanic swing community and an economically stressed white working-class base means SD-27 requires active constituent delivery across both communities, not reliance on cultural conservatism as an electoral substitute for governance." }
+      ],
+      memoHeadline: "Western Oklahoma's Competitive Senate Seat: 23.55% Hispanic, 52-48 Republican, and a Growing Latino Community Whose Mobilization Is Already Rewriting the District's Electoral Math",
+      memoParagraphs: [
+        "SD-27 is one of the most revealing competitive Senate seats in this sequence: a 52-48 result in western Oklahoma where the structural cultural conservatism of the region should produce comfortable Republican margins, but a 23.55% Hispanic community has grown to the scale where its mobilization is already determining the outcome. At $61,373 median income and 23.6% college attainment with 26.7% renter rate, this is working-class western Oklahoma where agricultural economy, rural infrastructure, and healthcare access are the material concerns that drive both white conservative and Hispanic working-class voters. Casey Murdock's 52% result is the most explicit evidence that the Latino community in this district is not politically passive — at nearly a quarter of the population, it is already a decisive constituency whose preferences produced a four-point margin rather than a dominant one.",
+        "The strategic challenge in SD-27 is holding 52% in a district where the community most capable of eliminating the margin is also the fastest-growing demographic. A senator who builds specific, authentic relationships with the Hispanic community — on wages, healthcare access, housing affordability, and agricultural working-family concerns — is building the governing record that makes the seat survivable in a future high-mobilization cycle. One who relies on the white working-class conservative base alone is governing for 67% of the population while the other 23% assesses whether their interests are being represented — and at 23.55%, their collective assessment is the margin. The agricultural context creates a natural shared agenda between white farming families and Hispanic agricultural workers whose economic concerns overlap substantially, making a cross-community economic security message the most natural coalition-building opportunity in this district."
+      ],
+      memoBullets: [
+        "Build direct, authentic relationships with the 23.55% Hispanic community — the largest single swing constituency in western Oklahoma Senate geography, and at this population size in a 52-48 race, the community whose mobilization level and candidate preference determines the outcome each cycle",
+        "Lead with rural-agricultural economic security as the cross-community agenda: water rights, agricultural infrastructure, rural hospital access, and the economic conditions that sustain working farming and ranching families are concerns shared by white conservative and Hispanic agricultural workers alike",
+        "Understand the specific drivers of the 48% opposition — whether concentrated in Hispanic communities, economically frustrated white working-class households, or both — because the governing response to each requires different policy delivery",
+        "Do not treat western Oklahoma rural identity as an electoral substitute for governance; cultural conservatism produces a structural baseline but not a 52-48 cushion — this seat requires active constituent delivery across both communities every cycle, not base consolidation"
+      ]
     }
   },
   {
     id: "ok-sd-28",
     name: "Oklahoma Senate District 28",
-    city: "TBD",
-    region: "TBD",
+    city: "Bartlesville",
+    region: "Northeastern Oklahoma",
     type: "state senate district",
     incumbentName: "Grant Green",
     incumbentParty: "Republican",
@@ -5618,17 +5996,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 2.84, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.50, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Aging Rural Working-Class Economic Security", tag: "lean-into", why: "At 41.3-year median age — the oldest in this sixteen-district sequence — and 80.2% homeownership (19.8% renter rate) with $60,606 income and 18.8% college attainment, SD-28 is a mature, working-class, homeowner-dominant rural district where economic security concerns are existential rather than abstract. Healthcare costs at this age and income level, rural hospital viability, Medicare sustainability, and the agricultural and small-business economy that sustains household income are the material governance priorities that determine whether long-rooted rural families can maintain stability. An active senator who advocates specifically for rural healthcare infrastructure and agricultural economic stability is governing for the community that actually produces the 76% margin." },
+        { name: "AIAN Community Governance at ~17.58%", tag: "lean-into", why: "The ~17.58% AIAN gap in rural central-to-western Oklahoma means that nearly one in five SD-28 residents is Native American — a community embedded in tribal territory whose governance expectations around sovereignty, Indian Health Service access, and economic development are substantive and specific. At a 76-24 Republican result, the tribal community's electoral disengagement from the result does not diminish its status as a constituency with real governance needs. A senator who builds authentic relationships with tribal nation leadership and delivers on constituent service for Native American residents is governing for the full district — and building the organizational relationship that insulates against future AIAN electoral mobilization." },
+        { name: "The 24% Democratic Opposition in a Rural District", tag: "careful", why: "A 24% Democratic share in rural Oklahoma with low college attainment and high homeownership is not driven by urban progressive voters — it almost certainly represents a combination of Native American voters whose tribal governance interests are not being served, economically frustrated white working-class households, and minority community members who have specific unmet needs. Understanding the geographic and demographic composition of the 24% is the strategic intelligence that tells whether the 76% is structurally stable or dependent on the continued electoral disengagement of the AIAN community and other minority constituents." },
+        { name: "Treating the 76% as a Mandate for Passive Rural Representation", tag: "avoid", why: "A 76% Republican margin in an Oklahoma Senate district can mask governance deficits that accumulate over time without electoral pressure to correct them. At $60,606 income and 18.8% college attainment, the white working-class majority's economic concerns are real and specific — and if healthcare costs continue rising, rural hospitals continue closing, and agricultural conditions continue stressing farm household incomes, the 76% can narrow without the incumbent ever understanding why. Proactive constituent delivery on rural economic security is the governance investment that prevents an unexplained margin erosion." },
+        { name: "Governing Around the ~18% AIAN Community's Governance Needs", tag: "avoid", why: "In a rural district where nearly one in five residents is Native American, a representative who governs exclusively for the white rural majority is governing an incomplete picture of the actual community. The tribal nations operating in this territory have government-to-government expectations of their state senator that include engagement on sovereignty, economic development, and healthcare access. A senator who treats the AIAN community as a census footnote rather than a governing constituency is creating the organizational vacuum that a motivated challenger can fill by simply showing up consistently where the incumbent has not." }
+      ],
+      memoHeadline: "Rural Oklahoma's Mature Republican District: 76-24, 41.3 Median Age, $60K Working Class, and a ~18% AIAN Community Whose Disengagement Is Not the Same as Indifference",
+      memoParagraphs: [
+        "SD-28 is rural Oklahoma's most mature and homeowner-dominant Senate district in this sequence — at 41.3-year median age, 80.2% homeownership, $60,606 income, and only 18.8% college attainment, this is a deeply rooted working-class rural community where agricultural economy, rural healthcare, and the stability of established household life are the primary governance concerns. Grant Green's 76-24 result reflects a constituency that is culturally and economically conservative and that rewards representation aligned with rural working-class values and material needs. The white majority's 73.90% demographic dominance coexists with the approximately 17.58% of residents in the AIAN gap — nearly one in five people in the district — whose civic engagement does not appear in the partisan result but whose governance expectations are real and specific.",
+        "The ~17.58% AIAN community in central-to-western Oklahoma tribal territory is the governance challenge that a dominant margin can obscure. These are tribal citizens of one or more nations whose government operates healthcare, economic enterprises, and community services within the district — and whose expectations of their state senator include substantive engagement on the tribal-state relationship, Indian Health Service access, and economic development partnership. The 24% Democratic opposition in a heavily Republican rural district is likely concentrated among Native American voters and economically frustrated white working-class households for whom healthcare costs and rural service decline are unresolved material concerns. A senator who actively serves both the white rural majority's economic security needs and the AIAN community's governance expectations is building a 76% that is durable rather than a 76% that reflects uneven civic participation."
+      ],
+      memoBullets: [
+        "Lead on rural healthcare and aging community security — at 41.3 median age and $60,606 income, rural hospital viability, Medicare sustainability, and healthcare affordability are the economic survival issues for a constituency where aging in place requires that rural services remain accessible",
+        "Build direct relationships with tribal nation leadership and the ~17.58% AIAN community; their disengagement from the 76-24 result is not indifference — it is unmet governance expectations, and the senator who addresses those expectations is building against the risk that future mobilization reshapes the margin",
+        "Advocate actively for agricultural and rural economic stability: water rights, farming infrastructure, and rural road investment are the governance inputs that sustain the working-class homeowner economy that produces the Republican base in SD-28",
+        "Treat the 24% opposition as a constituency diagnostic — understand whether it is concentrated in the AIAN community, among economically frustrated white rural households, or both, then offer specific policy responses rather than treating it as an irreducible partisan floor"
+      ]
     }
   },
   {
     id: "ok-sd-29",
     name: "Oklahoma Senate District 29",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Julie Daniels",
     incumbentParty: "Republican",
@@ -5651,17 +6043,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 2.09, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.85, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "AIAN Swing Community at ~20.7% as the Electoral Key", tag: "lean-into", why: "The ~20.7% AIAN gap in a 55-45 race means the Native American community constitutes roughly one in five SD-29 residents — and at this population size in this competitive a district, their mobilization level and candidate preference is the decisive electoral variable. In northeastern Oklahoma tribal territory, the tribal nations operating here have both the organizational infrastructure and the political history to swing competitive Senate seats when specific issues motivate community-wide engagement. A senator who builds authentic, sustained relationships with tribal nation leadership and delivers on healthcare, economic development, and sovereignty concerns is building the governing record that makes 55% survivable; one who does not is relying on the AIAN community's continued electoral disengagement as a structural feature of the district." },
+        { name: "Aging Homeowner Economic Security", tag: "lean-into", why: "At 40.1-year median age and 25.5% renter rate with $64,465 income, SD-29 is a predominantly homeowner community approaching middle age where healthcare cost exposure, Medicare sustainability, and rural hospital access are direct financial concerns for established households. This is the constituency that produces the Republican base and whose economic security concerns are most amenable to specific policy delivery. A senator who advocates visibly and effectively for rural healthcare infrastructure, property tax fairness, and the economic conditions that sustain established homeowner households at $64,465 income is building the constituent loyalty that makes 55% a floor rather than a ceiling." },
+        { name: "The 45% Democratic Opposition in a Northeastern Oklahoma District", tag: "careful", why: "A 45% Democratic share in northeastern Oklahoma signals active tribal community political participation — in this part of the state, the tribal nations' civic infrastructure and GOTV capacity has a documented history of moving competitive races. The 45% is not a collection of urban progressives; it is a coalition of Native American voters, economic-concerns-driven white rural households, and minority community members whose engagement has already pushed the margin to 55%. Understanding whether the 45% is growing, stable, or shrinking relative to previous cycles is the analytical work that tells whether this seat is drifting toward 50-50 or moving back toward comfortable Republican territory." },
+        { name: "Treating 55% as a Structural Northeast Oklahoma Republican Hold", tag: "avoid", why: "A 55-45 result in northeastern Oklahoma tribal territory is one the AIAN community's organizational activation away from becoming a tied race. The documented capacity of northeastern Oklahoma tribal nations to mobilize their citizens around specific legislative and electoral issues means the 55% margin is not structural — it is the current equilibrium of a constituency whose largest swing component has demonstrated the ability to shift outcomes in competitive cycles. A senator who campaigns and governs as though 55% is stable and safe is misreading the district's competitive dynamics in the way that produces sudden, unexpected electoral losses." },
+        { name: "Ignoring the AIAN Community's Governance Expectations Between Elections", tag: "avoid", why: "In northeastern Oklahoma tribal territory, the relationship between a state senator and tribal nation governments is a year-round governance relationship, not a campaign-season outreach obligation. The tribal nations operating in this district have government-to-government interactions with state government that continue regardless of the electoral calendar, and their assessment of their senator's performance is based on the quality of those year-round interactions, not on whether the senator showed up at tribal events before an election. A senator who treats tribal engagement as periodic rather than continuous is building a governing relationship that will be assessed negatively at exactly the moment it matters most." }
+      ],
+      memoHeadline: "Northeast Oklahoma's AIAN Swing Seat: 55-45 Republican, ~20.7% AIAN Gap, Aging Homeowner Base, and a Tribal Community That Is the Decisive Electoral Variable",
+      memoParagraphs: [
+        "SD-29 is a competitive northeastern Oklahoma Senate district whose 55-45 result is best understood through the lens of its approximately 20.7% AIAN gap — the largest in any district in this sequence outside the extraordinarily AIAN-heavy rural districts. The 69.77% white majority, $64,465 income, 40.1 median age, and 25.5% renter rate describe an established, homeowner-dominant community whose Republican alignment is deep and whose economic security concerns are real. But nearly one in five residents is Native American — tribal citizens of northeastern Oklahoma's numerous tribal nations who have both the organizational infrastructure and the political history to swing competitive Senate seats. Julie Daniels' 55-45 margin exists within the tribal community's capacity to change the outcome, not outside it.",
+        "The 45% Democratic opposition in SD-29 is not a collection of random partisan voters — it is a coalition anchored in the AIAN community's civic engagement and supplemented by economic-concerns-driven white rural households for whom healthcare costs and rural service quality are unresolved material concerns. The northeast Oklahoma tribal nations' documented capacity for electoral mobilization around specific issues means the 45% is a political floor that can become a majority in any cycle where tribal engagement is high and the candidate choice is clear. A senator who builds the year-round governing relationship with tribal nation leadership — delivering substantively on healthcare, economic development, and sovereignty — and who simultaneously addresses the aging homeowner majority's economic security concerns is building a 55% that reflects actual constituent satisfaction rather than the AIAN community's temporary disengagement."
+      ],
+      memoBullets: [
+        "Build a year-round governing relationship with tribal nation leadership — in northeastern Oklahoma tribal territory, the relationship with tribal governments is a continuous governance obligation, not a pre-election outreach effort; a senator assessed positively on this relationship year-round has the structural defense against tribal electoral mobilization",
+        "Deliver on aging homeowner economic security: at 40.1 median age and $64,465 income, rural hospital viability, Medicare sustainability, and property tax fairness are the material concerns of the dominant constituency whose loyalty sustains the 55%",
+        "Understand the 45% opposition as primarily anchored in tribal community engagement — in northeastern Oklahoma, tribal nations have the organizational infrastructure to move Senate races, and the 45% is their current floor, not their ceiling",
+        "Treat every cycle in SD-29 as a competitive election requiring AIAN community engagement — the ~20.7% AIAN gap in a 55-45 race is the electoral arithmetic that makes this seat permanently competitive, and any campaign strategy that does not engage the tribal community is running without the coalition insurance the margin requires"
+      ]
     }
   },
   {
     id: "ok-sd-30",
     name: "Oklahoma Senate District 30",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Julia Kirt",
     incumbentParty: "Democrat",
@@ -5684,17 +6090,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 9.08, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.07, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Hispanic Community as the Coalition Foundation at 34.32%", tag: "lean-into", why: "At 34.32% Hispanic — more than one in three residents — SD-30 has the largest single minority community in this sixteen-district sequence, and the Latino constituency is the foundational building block of the Democratic coalition that produces the 59% result. At $51,494 income in an urban OKC context, this is a working-class Hispanic community whose concerns around housing stability, wage quality, healthcare access, and immigration-related constituent services are the primary governance priorities that require specific, sustained delivery from their senator. A representative who treats the 34.32% as a reliable base rather than a constituency requiring active investment will find the coalition's turnout and enthusiasm declining at the margins precisely when it matters most." },
+        { name: "Housing Stability in a 49% Renter District", tag: "lean-into", why: "A 49.0% renter rate at $51,494 median income in urban OKC means that nearly half the district's households are navigating cost-burden risk from market rent levels that consume a disproportionate share of working-class income. Affordable housing policy, tenant protections, and anti-displacement investment are the material concerns that define daily household decision-making for the majority-renter constituency. In a district this young (32.9 median age), housing stability is not only an economic issue but a community stability issue — the conditions that allow working-class families to build roots in a neighborhood rather than being displaced by market forces affect the civic cohesion that the Democratic coalition depends on." },
+        { name: "Black Community Engagement at 9.08%", tag: "careful", why: "With 9.08% Black residents in a district where the dominant electoral narrative centers on the 34.32% Hispanic community, African American constituents' concerns around economic mobility, neighborhood investment, public safety, and educational access risk becoming invisible in both governance and campaign strategy. Black residents are a substantial constituency — nearly one in ten SD-30 residents — whose distinct governance priorities require specific attention rather than absorption into the generalized minority-community frame. In a 59-41 district, the Black community's turnout and enthusiasm is part of the coalition math, not an afterthought of it." },
+        { name: "Coalition Complacency Based on a 59% Majority", tag: "avoid", why: "A 59-41 Democratic result in an urban OKC district with 49% renters and a 34% Hispanic community reflects high Democratic alignment that requires active maintenance through policy delivery, not passive assumption of partisan loyalty. Urban Democratic majorities in diverse, renter-heavy districts are sustained by whether government delivers specific, tangible improvements to the material conditions of working-class and minority constituencies. Reduced turnout in the Hispanic and Black communities — produced by governance indifference rather than partisan defection — is how 59% contracts toward 50% without the opposition ever improving its candidate quality." },
+        { name: "Centering White Progressive Preferences While the Hispanic and Black Coalition Is the Majority of the Coalition", tag: "avoid", why: "The 59% Democratic coalition in SD-30 is built primarily on Hispanic (34.32%) and Black (9.08%) community participation, not on white progressive mobilization. A governing approach calibrated to white progressive constituency preferences — on issues, messaging, and policy priorities — can misalign with the material concerns of the Hispanic and Black communities whose turnout is the mathematical foundation of the majority. In a district this diverse, the governing agenda must be driven by what the majority communities actually need, not by the preferences of the demographic minority within the coalition." }
+      ],
+      memoHeadline: "OKC's Diverse Urban Democratic Senate Seat: 34.32% Hispanic, 49% Renters, $51K Income, and a 59% Majority Built on Multiethnic Constituent Delivery",
+      memoParagraphs: [
+        "SD-30 is an urban Oklahoma City Senate district with the largest Hispanic community of any district in this sixteen-seat sequence and one of the most genuinely diverse demographic compositions: 45.36% white, 34.32% Hispanic, 9.08% Black, and approximately 9.17% in the AIAN gap, with only 2.07% Asian. At $51,494 median income, 32.9-year median age, and 49.0% renter rate, this is a young, economically precarious, majority-renter constituency where housing affordability, wage quality, and healthcare access are the material concerns that determine whether the Democratic coalition is activated or passive in any given cycle. Julia Kirt's 59-41 result reflects the Democratic alignment of a diverse urban district with strong minority community participation — but 59% in a diverse, renter-heavy district is a service contract, not a mandate.",
+        "The governing challenge in SD-30 is maintaining and building a multiethnic coalition that requires specific, simultaneous delivery to multiple communities. The 34.32% Hispanic community needs active constituent service on housing, wages, and economic mobility; the 9.08% Black community needs specific engagement on neighborhood investment, economic access, and educational quality distinct from the Hispanic community agenda; and the working-class white community at 45.36% needs economic security delivery that demonstrates the Democratic coalition is governing for working-class households across racial lines. The 41% Republican opposition in a district this blue is not going away — it represents the upper bound of what base Republican voters can achieve in this demographic context — but a Democratic coalition that coasts on partisan identity rather than governance delivery will find that 59% contracts one community's turnout disengagement at a time."
+      ],
+      memoBullets: [
+        "Lead with housing stability as the district's defining governance issue — 49% renters at $51,494 income means affordable housing, tenant protection, and anti-displacement are the material concerns that define daily life for nearly half the district's households; specific policy outcomes here determine coalition turnout more than any positioning issue",
+        "Engage the 34.32% Hispanic community with specific constituent service on wages, housing, and economic mobility — the largest minority group in the sequence and the foundational building block of the 59% coalition; generalized progressive positioning is not a substitute for community-specific delivery",
+        "Invest specific constituent service in the 9.08% Black community; in a district where the dominant demographic story is the large Hispanic community, Black residents' distinct concerns about economic opportunity, neighborhood investment, and representation require deliberate attention rather than assumption of coalition loyalty",
+        "Treat the 59% as a service contract — urban Democratic majorities are sustained through governance delivery, not partisan identity; the coalition's turnout depends on whether Hispanic, Black, and working-class white constituencies see government actively improving their material conditions cycle over cycle"
+      ]
     }
   },
   {
     id: "ok-sd-31",
     name: "Oklahoma Senate District 31",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Spencer Kern",
     incumbentParty: "Republican",
@@ -5717,17 +6137,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 9.63, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.31, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Black and Hispanic Community Mobilization as the Electoral Arithmetic", tag: "lean-into", why: "At 9.63% Black and 10.65% Hispanic — together 20.28% — in a 51-49 race, these two communities are not swing constituencies that could influence the outcome; they are the mathematical determinants of it. In a district decided by one percentage point, a shift of two points in either community's turnout or candidate preference changes who holds the seat. A senator who builds authentic, sustained relationships with both communities — delivering on the economic mobility, neighborhood investment, healthcare access, and constituent service that each group specifically needs — is building the coalition math that makes 51% into something survivable; one who relies exclusively on the white majority's conservative alignment is holding a one-point margin with no structural cushion." },
+        { name: "AIAN Community Engagement at ~13.11% in the Most Competitive Seat", tag: "lean-into", why: "The ~13.11% AIAN gap in a 51-49 race means that roughly one in seven SD-31 residents is Native American — and at this level of competitiveness, any shift in the AIAN community's engagement changes the outcome. Combined with the 9.63% Black and 10.65% Hispanic communities, SD-31 has a combined non-white population of roughly 33% that is simultaneously the most diverse minority composition and the most decisive swing constituency in this sequence. A senator who builds the year-round governing relationship with tribal nation leadership — delivering on healthcare, economic development, and sovereignty — alongside authentic engagement with Black and Hispanic constituencies is building the only coalition architecture that can hold a seat this thin." },
+        { name: "White Working-Class Economic Security as the Base Maintenance Priority", tag: "careful", why: "At $62,634 income and 20.2% college attainment, the 65.30% white plurality in SD-31 is working-class and economically evaluative — a constituency whose Republican alignment is sustained by specific governance delivery on rural economic security, healthcare access, and infrastructure quality rather than by cultural identity alone. At 51-49, the white working-class base cannot afford defection: a shift of even three to four percentage points in white working-class participation or candidate preference, combined with minority community mobilization, crosses the margin. Understanding whether the 49% opposition includes economically frustrated white voters or is concentrated entirely in minority communities is the analytical work that determines whether the base requires economic delivery repair." },
+        { name: "Treating 51% as a Republican Floor in Oklahoma", tag: "avoid", why: "A 51-49 result is not a floor in any context — it is a one-point margin that, in the next competitive cycle, will be determined by marginal changes in turnout and candidate preference across all constituency groups. In a district with 9.63% Black, 10.65% Hispanic, and ~13.11% AIAN communities whose combined mobilization has already pushed the margin to 51%, any structural assumption of Republican permanence is analytically indefensible. SD-31 is Oklahoma's most competitive Senate seat by electoral margin, and it must be governed and campaigned as such every cycle." },
+        { name: "Running a Single-Community Campaign in a Multi-Minority District", tag: "avoid", why: "SD-31's electoral arithmetic requires simultaneous engagement of Black, Hispanic, and AIAN communities alongside the white working-class base — a campaign or governing approach calibrated to any one of these communities to the exclusion of others is mathematically insufficient for a one-point margin. The Black community's specific concerns around economic mobility and neighborhood investment, the Hispanic community's priorities around housing and wages, and the AIAN community's tribal governance expectations each require distinct policy delivery; collapsing them into a single minority-outreach narrative treats different constituencies as interchangeable and underperforms with all of them simultaneously." }
+      ],
+      memoHeadline: "Oklahoma's Most Competitive Senate Seat at 51-49: 9.6% Black, 10.7% Hispanic, ~13% AIAN, and a Combined ~33% Non-White Population That Is Literally the Margin",
+      memoParagraphs: [
+        "SD-31 is the single most competitive Oklahoma Senate seat in this sixteen-district sequence: a 51-49 result decided by one percentage point in a district with the most complex minority community composition of any competitive seat in the state. At $62,634 income, 20.2% college attainment, 38.7 median age, and 30.0% renter rate, this is working-class Oklahoma where the economic security concerns of white rural households, Black urban families, and Hispanic working-class residents create overlapping but distinct governance demands. Spencer Kern holds this seat by a margin so thin that the category of 'swing constituency' is not meaningful — every community is a swing community when the margin is one point.",
+        "The combined non-white population of roughly 33% — 9.63% Black, 10.65% Hispanic, ~13.11% AIAN — is the decisive electoral constituency in SD-31 in a direct, mathematical sense. These communities' participation rates and candidate preferences have already produced a 51-49 result; a marginal increase in any one of their engagement levels or a shift in candidate preference among any of them is sufficient to flip the seat. A senator who holds SD-31 durably does so by building authentic, sustained governance relationships with all three minority communities simultaneously while delivering on the white working-class base's economic security concerns — a four-community coalition maintenance challenge that requires the most intensive constituent engagement in this sequence. There is no governing shortcut in a one-point Senate seat."
+      ],
+      memoBullets: [
+        "Govern for all four communities simultaneously — Black (9.63%), Hispanic (10.65%), AIAN (~13.11%), and white working-class; at 51-49, a shift in any one community's turnout or preference flips the seat, and a governing strategy that prioritizes any one constituency to the exclusion of others is mathematically insufficient",
+        "Build year-round relationships with tribal nation leadership and authentic constituent service for the ~13% AIAN community; in a one-point margin, tribal electoral mobilization is the single variable most capable of changing the outcome, and the governing relationship determines whether that mobilization is for or against the incumbent",
+        "Deliver specific constituent service to the 9.63% Black community on economic mobility, neighborhood investment, and healthcare access — distinct from the Hispanic community's priorities around housing and wages; collapsing them into a unified minority outreach underperforms with both",
+        "Treat every cycle as the most competitive election in Oklahoma — with a 51-49 baseline and a combined ~33% non-white population that is already determining outcomes, SD-31 has no structural cushion and requires the full-constituency governing approach of a candidate who understands the arithmetic"
+      ]
     }
   },
   {
     id: "ok-sd-32",
     name: "Oklahoma Senate District 32",
-    city: "TBD",
-    region: "TBD",
+    city: "Broken Arrow",
+    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "John Michael Montgomery",
     incumbentParty: "Republican",
@@ -5750,17 +6184,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 13.83, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.81, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Black and Hispanic Community Engagement in a Diverse Young District", tag: "lean-into", why: "At 13.83% Black and 15.25% Hispanic — together 29.08% of reported demographics — SD-32 has a substantial dual-minority community in a district where the white majority at 55.16% is already a slim plurality. The 13.83% Black community is the second-largest single Black community in any district in this sequence, and in a district this young (32.5 median age) and renter-heavy (48.6%), the economic concerns of Black and Hispanic residents around housing affordability, wage quality, healthcare access, and economic mobility are both the most pressing material issues and the most available organizing frame for building genuine constituent relationships. A senator who delivers specific, substantive service to these communities is governing for the communities that are not yet showing up in the electoral result — and building against the day when they do." },
+        { name: "Youth and Renter Economic Investment", tag: "lean-into", why: "The 32.5-year median age and 48.6% renter rate signal a constituency dominated by young adults in the early stages of career and family formation who are navigating real economic pressures around housing, healthcare, and employment quality at $57,437 income. These constraints are shared across the district's White, Hispanic, and Black communities and create a natural unifying agenda around economic security that cuts across demographic lines. A senator who governs with specific investment in the early-career economic concerns of a 32.5-year-old median-age constituency — housing affordability, workforce development, healthcare access — is speaking to the dominant material reality of the district's population regardless of race." },
+        { name: "The 33% Democratic Opposition Is the Majority Population", tag: "careful", why: "In a district where white residents constitute 55.16% but non-white residents collectively constitute roughly 44.84% of reported demographics (plus the ~12.95% AIAN gap), the 33% Democratic opposition almost certainly reflects differential voter turnout rather than the minority community's political preferences. The 67% Republican majority in SD-32 is a product of who participates in elections, not who lives in the district; at 32.5-year median age and 48.6% renter rate in a diverse urban district, younger and renter constituencies historically turn out at lower rates than older homeowners. Any shift in minority civic engagement or young adult turnout would materially alter the electoral result." },
+        { name: "Treating the 67% as Demographic Permanence in a 32.5-Year-Old Diverse Renter District", tag: "avoid", why: "A diverse, young, majority-renter district that votes 67% Republican is almost certainly a product of differential turnout, not of minority community political preference. The 13.83% Black and 15.25% Hispanic communities at 32.5 median age and 48.6% renter rate have the demographic profile of communities that are organizationally underrepresented in the electoral result. The 67% is one effective organizing cycle — a credible candidate, a mobilizing issue, a sustained registration and GOTV effort — away from becoming 60%, and the direction of demographic change in this district is not toward greater Republican dominance." },
+        { name: "Governing Exclusively for the White Plurality While the ~44% Reported Minority Is Underserved", tag: "avoid", why: "With 13.83% Black, 15.25% Hispanic, and 2.81% Asian residents — together 31.89% of reported demographics — plus the ~12.95% AIAN gap, roughly 44-45% of SD-32's residents are non-white. A governing approach calibrated exclusively to the 55.16% white plurality is governing for a slim majority while ignoring the economic mobility, housing stability, and constituent service needs of nearly half the district's population. In a district this young and this renter-heavy, the communities most underserved by passive governance have the highest potential participation rate upside in future competitive cycles." }
+      ],
+      memoHeadline: "Young Diverse OKC District at 67% Republican: 13.8% Black, 15.3% Hispanic, 32.5-Year Median Age, 48.6% Renters, and a Republican Majority Built on Differential Turnout",
+      memoParagraphs: [
+        "SD-32 presents the same demographic paradox as the most analytically interesting House districts in this sequence: a young, diverse, majority-renter constituency — 32.5-year median age, 48.6% renter rate, 13.83% Black, 15.25% Hispanic, ~12.95% AIAN — producing a 67-33 Republican result that reflects who participates in elections rather than who lives in the district. At $57,437 income and 25.2% college attainment, this is a working-to-middle-class constituency whose economic pressures around housing affordability, job quality, and healthcare access are the dominant material concerns of daily life. John Michael Montgomery's 67% result is almost certainly a product of the white homeowner plurality (55.16%) voting at substantially higher rates than Black, Hispanic, and renter constituencies — a participation differential that is structurally fragile rather than permanently baked into the district's political identity.",
+        "The strategic challenge SD-32 presents is different for each side of the political divide. For the Republican incumbent, the 33% Democratic opposition in a district this demographically favorable to greater opposition is either an opportunity to expand the coalition by genuinely serving minority communities, or a warning about the direction of travel if differential turnout narrows over future cycles. For a potential Democratic challenger, the district's demographic composition — nearly 45% reported minority, youngest median age in this sequence, renter majority — represents one of the most promising organizing opportunities in the OKC metro if sustained investment in Black, Hispanic, and young adult civic engagement is made. A cross-community economic security message around housing, wages, and healthcare access is the unifying agenda for a constituency this diverse at this income level."
+      ],
+      memoBullets: [
+        "Engage the 13.83% Black and 15.25% Hispanic communities with specific constituent service on economic mobility, housing affordability, and healthcare access — together nearly 30% of the district's reported population, these are the communities whose current low electoral participation is the primary variable sustaining the 67% margin",
+        "Build around early-career economic security: the 32.5 median age and 48.6% renter rate identify a constituency where housing stability, workforce development, and healthcare access are the dominant material concerns across White, Hispanic, and Black communities alike — this is the unifying agenda",
+        "Treat the 33% Democratic opposition as a population map, not a partisan floor — in a district this demographically diverse, the 33% reflects organizational underrepresentation of minority and younger communities rather than their political preferences, and the direction of change is toward greater opposition if those communities begin participating at rates proportional to their population share",
+        "Deliver the constituent service infrastructure that builds across-community loyalty: a 13.8% Black and 15.3% Hispanic community at $57K income and 48.6% renter rate has intensive housing, navigation, and economic service needs — the representative who meets those needs actively is building the only coalition architecture that can sustain a majority in a district this diverse"
+      ]
     }
   },
   {
     id: "ok-sd-33",
     name: "Oklahoma Senate District 33",
-    city: "TBD",
-    region: "TBD",
+    city: "Tulsa",
+    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "Christi Gillespie",
     incumbentParty: "Republican",
@@ -5783,17 +6231,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 7.51, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 4.73, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Housing Costs & Homeownership", tag: "lean-into", why: "SD-33's $81,208 median income families are house-rich and cash-squeezed in Broken Arrow's growing suburban corridor. Rising mortgage rates and property taxes are kitchen-table anxieties for the young working families who define this district's electorate. Gillespie should lead on property tax relief, infrastructure investment, and policies that keep homeownership attainable for the next generation of buyers. This is the issue that most directly speaks to why the district's median-age-36 families moved here in the first place." },
+        { name: "Public Safety & Neighborhood Quality", tag: "lean-into", why: "Suburban families in SD-33 chose this district partly for its safety profile and community feel, and maintaining that reputation is a governing obligation for Gillespie. Any increase in property crime or traffic safety concerns will immediately activate the homeowning majority that delivers her margins. Proactive engagement with local law enforcement and neighborhood associations on public safety investment is both good governance and smart politics. This is the issue where incumbents in growing suburban districts earn or lose long-term trust." },
+        { name: "Education Quality & School Investment", tag: "careful", why: "SD-33's 34.1% college-educated parent base pays close attention to school quality and is sophisticated enough to distinguish between substantive education investment and culture-war performance. School-choice messaging should be anchored in outcomes and parental flexibility rather than attacks on public schools, since many district families are satisfied with Broken Arrow Public Schools. Curriculum and library-content battles carry real downside risk among the district's Asian and younger professional voters. Gillespie should focus on funding adequacy and teacher quality rather than ideological battles." },
+        { name: "Immigration Enforcement Rhetoric", tag: "avoid", why: "SD-33's 11.12% Hispanic community includes families who are neighbors, coworkers, and small business owners in the Broken Arrow corridor — hostile immigration rhetoric alienates this constituency and signals cultural hostility to Asian voters (4.73%) who track anti-minority sentiment closely. A district this diverse does not need the political cost of anti-immigration positioning to deliver a 67% Republican result. The base does not require it and the swing voters punish it." },
+        { name: "Abortion & Social Issue Overreach", tag: "avoid", why: "The district's Asian community, younger professional renters, and college-educated moderates are all sensitive to Republican overreach on reproductive rights and personal liberty issues. A 67-33 result built on turnout differentials does not reflect ideological homogeneity — significant portions of SD-33's population would vote differently if mobilized on social issues. Gillespie should stay focused on economic and governance issues and leave the culture-war positioning to safer districts." }
+      ],
+      memoHeadline: "Broken Arrow's Diverse Growing Suburb Votes 67-33 on Turnout Discipline — Gillespie's Real Job Is Keeping the Coalition Together as Demographics Shift.",
+      memoParagraphs: [
+        "SD-33 produced a 67-33 Republican result despite a demographic profile that includes 11% Hispanic, 7.5% Black, and nearly 5% Asian residents — numbers that would be competitive in most states. The explanation is differential voter turnout: the White homeowning majority that dominates the electorate participates at substantially higher rates than younger, renter, and minority residents. At 36.1 median age and $81,208 household income, this is a district of young working families who bought recently and are deeply invested in local schools, neighborhood quality, and the economic trajectory of Broken Arrow's eastern suburban corridor.",
+        "Gillespie's strategic imperative is to hold the turnout coalition together while quietly growing it before demographics catch up. The 34.1% college-educated share and 30% renter rate indicate a secondary population of white-collar professionals and younger residents who could drift Democratic if economic anxiety rises or if Republicans overreach on social issues. The path to sustained majority runs through kitchen-table economics — mortgage costs, property taxes, and job quality — while avoiding culture-war battles where the district's diversity creates real downside risk."
+      ],
+      memoBullets: [
+        "Lead every communication with housing costs and neighborhood quality — the district's $81K income families are house-rich and cash-squeezed, and economic competence is the core of Gillespie's coalition.",
+        "Invest in targeted outreach to the 11% Hispanic community through church networks and local business events — even a modest turnout increase in this population is worth more than more persuasion of already-committed R voters.",
+        "Avoid high-profile positioning on abortion or LGBTQ+ issues — the district's Asian and younger professional voters include significant swing persuadables who will defect on cultural flashpoints.",
+        "Frame education messaging around outcomes and school quality rather than culture-war framing — a 34% college-educated parent base is attentive to educational substance and will see through ideological performance."
+      ]
     }
   },
   {
     id: "ok-sd-34",
     name: "Oklahoma Senate District 34",
-    city: "TBD",
-    region: "TBD",
+    city: "Tulsa",
+    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "Dana Prieto",
     incumbentParty: "Republican",
@@ -5816,17 +6278,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 8.88, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.28, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Working-Class Economic Security", tag: "lean-into", why: "At $59,374 median income with 21.8% college attainment, SD-34 is a working-class district where job quality, wages, and cost of living dominate every other concern. Prieto should lead on economic messaging that speaks directly to the financial stress of families navigating inflation, high renter rates (41.9%), and limited professional advancement pathways. Small business support, workforce training, and wage protection are the issues where a Republican can credibly cross the partisan divide in a majority-minority district." },
+        { name: "Public Safety & Community Stability", tag: "lean-into", why: "Working-class families in majority-minority districts consistently rank public safety among their top priorities — crime, traffic safety, and neighborhood stability are daily concerns that Prieto can address through constituent-responsive governance. A visible, responsive public safety record builds cross-racial credibility with both White homeowners and the Hispanic and Black families who share economic stakes in stable neighborhoods. This is the issue where Prieto can demonstrate that Republican representation delivers tangible results for all constituents." },
+        { name: "Immigration & Border Policy", tag: "careful", why: "Prieto's personal heritage gives her standing with Hispanic voters that a generic Anglo Republican would not have, but immigration enforcement rhetoric remains a live wire in a 25.6% Hispanic district. The community includes families with mixed documentation status, and language signaling hostility to immigrants risks alienating the very voters whose crossover support makes Prieto's 56% possible. She should speak to border security in economic and public safety terms rather than enforcement-and-deportation framing." },
+        { name: "Cultural Wedge Issues", tag: "avoid", why: "A majority-minority district that Republicans hold by 12 points has almost no tolerance for ideological culture-war positioning — the Hispanic and Black communities who make up over 34% of this district are politically engaged enough to punish explicit hostility. Prieto's brand must be practical economic problem-solver, not partisan culture warrior, or the coalition that currently stays home activates against her." },
+        { name: "Voter Registration Complacency", tag: "avoid", why: "SD-34's 56-44 margin is structurally fragile — a well-funded Democratic voter registration and turnout drive targeting the 25.6% Hispanic and 8.9% Black communities could flip this seat without moving a single persuadable White voter. Prieto must treat every cycle as competitive regardless of the previous result and invest continuously in community relationships rather than coasting between elections." }
+      ],
+      memoHeadline: "A Majority-Minority Working-Class District Republicans Hold on Name and Turnout — Hispanic Voter Registration Is the Existential Threat to Prieto's Seat.",
+      memoParagraphs: [
+        "SD-34 is a demographic paradox: only 50% White with 25.6% Hispanic and 8.9% Black residents, yet Prieto won 56-44 in 2024. The explanation lies in differential voter registration and turnout — the White minority of this district votes at substantially higher rates than its much younger and more economically stressed Hispanic and Black communities. At 33.5 median age and $59,374 household income, this is a working-class district where economic precarity suppresses civic participation: 41.9% renters and 21.8% college attainment indicate a population cycling through economic instability. Prieto's personal Hispanic heritage almost certainly produced crossover support that a generic Anglo Republican would not have achieved.",
+        "For Prieto, the strategic mission is two-part: maximize turnout among the White homeowning base while maintaining the Hispanic crossover vote that makes the margin possible. The 56-44 result is genuinely competitive — a 4-point shift in underlying turnout patterns flips this seat. Democrats who invest in voter registration infrastructure in the Hispanic community represent the most credible threat to Prieto's tenure. She must avoid anti-immigrant or culturally hostile positioning while leading on economic messaging around jobs, affordable housing, and small business that speaks to the working families who define this district."
+      ],
+      memoBullets: [
+        "Maintain active presence in Hispanic community events, faith communities, and small business networks — Prieto's name advantage is an asset that requires ongoing relational investment to preserve.",
+        "Lead on economic messaging focused on wages, housing costs, and small business support — the district's $59K working-class families are motivated by pocketbook concerns above all else.",
+        "Avoid immigration enforcement rhetoric that distances Hispanic voters — this is a constituency Prieto cannot afford to lose even partially without giving up the seat.",
+        "Monitor voter registration trends in Hispanic-majority precincts closely — a surge in new registrants is the leading indicator of a credible D challenge and requires immediate mobilization response."
+      ]
     }
   },
   {
     id: "ok-sd-35",
     name: "Oklahoma Senate District 35",
-    city: "TBD",
-    region: "TBD",
+    city: "Tulsa",
+    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "Jo Anna Dossett",
     incumbentParty: "Democrat",
@@ -5849,17 +6325,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 6.61, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.79, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Education Funding & Public Schools", tag: "lean-into", why: "SD-35's 45.6% college-educated Tulsa electorate cares deeply about education funding, teacher quality, and the trajectory of Tulsa Public Schools — Dossett should lead on this issue as both a policy priority and a coalition-unifying message. Educated professional Democrats in inner Tulsa respond to evidence-based arguments about school investment and oppose voucher schemes that drain public school resources. This is the issue where Dossett's credentials and policy depth are most visible and most valued by her base." },
+        { name: "Healthcare Access & Affordability", tag: "lean-into", why: "Inner Tulsa's mix of renting professionals, Hispanic families, and Native American residents all face healthcare access barriers that Dossett can address through Medicaid expansion advocacy, hospital funding, and prescription drug cost legislation. At 40.1 median age, this is a district old enough to have personal healthcare cost experiences and young enough to be future-oriented about coverage. Healthcare is the rare issue that unites educated White progressives, the 12% Hispanic community, and the estimated 11% AIAN population in a single policy coalition." },
+        { name: "Economic Development vs. Community Displacement", tag: "careful", why: "Tulsa's urban renewal history and ongoing gentrification create tensions between economic development advocacy and displacement concerns in the district's minority communities. Dossett must navigate development-positive messaging carefully to avoid appearing as a champion of policies that benefit incoming affluent residents at the expense of established Hispanic and Native American neighborhoods. Growth and equity framing should explicitly address displacement risk and community benefit agreements to keep the coalition unified." },
+        { name: "National Progressive Branding", tag: "avoid", why: "Even at 59-41, SD-35 contains enough moderate and independent voters that overt identification with national progressive figures or platforms risks activating Republican turnout beyond the district's structural D floor. Dossett's brand should be Tulsa-specific community advocate, not national progressive — Oklahoma voters across the spectrum are sensitive to outside political influence and reward locally-rooted representation." },
+        { name: "Turnout Complacency", tag: "avoid", why: "A 59-41 margin in a non-presidential year can produce complacent supporter turnout — educated urban Democrats are among the most cycle-sensitive voters, participating at high rates in presidential years and dropping off sharply in off-cycle elections. Dossett must invest continuously in voter engagement infrastructure to prevent a base-turnout gap from compressing the margin in an adverse cycle." }
+      ],
+      memoHeadline: "Inner Tulsa's Educated Progressive Core — Dossett's Mission Is Turnout Depth and Coalition Maintenance, Not Persuasion.",
+      memoParagraphs: [
+        "SD-35 is the intellectual and political center of Tulsa's Democratic coalition. At 45.6% college-educated and a 59-41 partisan margin, this is a district defined by professional urban voters who lean Democratic on economic equity, environmental quality, and social inclusion. The 40.1 median age and 38.6% renter rate indicate a mix of established professionals who have put down roots and a younger educated cohort that moves frequently — both groups that require consistent voter contact and engagement. The estimated 11.2% AIAN gap points to a meaningful Native American population embedded within Cherokee and Creek nation territories encompassing this part of Tulsa, a community with distinct policy priorities around tribal sovereignty and economic development.",
+        "Dossett's strategic position is strong but requires active maintenance. The 59-41 margin depends on consistent mobilization of a coalition that includes educated White progressives, the district's 12% Hispanic community, and Native American voters who identify with Democratic governance. The district's $70,705 median income and high educational attainment mean voters here respond to evidence-based policy arguments on healthcare, education funding, and economic development — not raw populism. The primary risk is complacency-driven turnout drop in a non-presidential cycle, which is a structurally predictable threat for any urban Democratic district."
+      ],
+      memoBullets: [
+        "Prioritize voter contact in high-renter precincts and apartment-dense neighborhoods where the transient portion of the electorate needs consistent re-engagement each election cycle.",
+        "Lead on education funding, healthcare access, and economic equity — these are the policy issues that most activate SD-35's professional Democratic coalition without triggering ideological friction.",
+        "Invest in Native American community outreach through tribal liaisons and council networks — the estimated 11% AIAN population votes Democratic when mobilized and is systematically underrepresented in standard turnout models.",
+        "Monitor Republican candidate quality closely — a credentialed, moderate-sounding challenger could erode the 59-41 margin among the district's persuadable professional independents who are the most cycle-sensitive voters."
+      ]
     }
   },
   {
     id: "ok-sd-36",
     name: "Oklahoma Senate District 36",
-    city: "TBD",
-    region: "TBD",
+    city: "Sand Springs",
+    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "John Haste",
     incumbentParty: "Republican",
@@ -5882,17 +6372,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 6.82, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 4.63, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Economic Growth & Suburban Development", tag: "lean-into", why: "SD-36's young working families at $77,532 median income are in the thick of building financial security — homeownership, local job quality, and neighborhood infrastructure are daily concerns. Haste should lead on economic growth messaging that speaks to this upwardly mobile demographic: new business investment, infrastructure improvements, and policies that keep the district's suburban corridor attractive for families. This is the issue that most directly speaks to why residents chose this area and what they expect from their representative." },
+        { name: "Public Safety & Family-Friendly Community", tag: "lean-into", why: "A 34.9-median-age district of young families is acutely attentive to neighborhood safety, school quality, and community character. Public safety investment and visible constituent responsiveness on quality-of-life issues are the foundational obligations for an incumbent representing a growing suburban area. At 30.7% college attainment, this electorate evaluates effectiveness over ideology — results-oriented safety and community messaging lands with both the White homeowning base and the diverse minority communities who share the same family-safety concerns." },
+        { name: "Hispanic Community Engagement", tag: "careful", why: "At 20.36%, SD-36 has one of the largest Hispanic populations of any Republican-held Senate district — and this community is large enough to meaningfully alter the 59-41 margin if mobilized or if Haste loses even modest crossover support. He must navigate immigration-adjacent policy discussions carefully, avoiding enforcement rhetoric while framing border security in economic and safety terms. Active engagement with Hispanic faith communities and business owners is structural to his coalition's durability, not optional outreach." },
+        { name: "Anti-Immigrant Rhetoric", tag: "avoid", why: "A district that is 20% Hispanic cannot sustain Republican margins if the Hispanic community feels culturally targeted or politically unwelcome. Haste's 59-41 result depends on a turnout differential that will compress if hostile rhetoric activates registration and turnout drives in the Hispanic community. The math does not require nativist positioning to win, and it imposes real electoral costs to indulge it." },
+        { name: "Social Issue Culture Wars", tag: "avoid", why: "SD-36's young, diverse suburban profile — 20% Hispanic, 6.8% Black, 4.6% Asian, estimated 12.5% AIAN — means the district has meaningful exposure to cultural backlash if Republicans overreach on abortion, education censorship, or LGBTQ+ issues. The 59-41 margin is secure only as long as cultural hostility does not activate the district's minority communities at higher rates than the White homeowning base can absorb." }
+      ],
+      memoHeadline: "A Young, Diverse Tulsa Suburb Republicans Hold at 59-41 — Haste's 20% Hispanic Community Is the Long-Term Margin Variable.",
+      memoParagraphs: [
+        "SD-36 delivered a 59-41 Republican result in a district that is 20% Hispanic, 6.8% Black, and 4.6% Asian — a combined reported minority share exceeding 31%, plus an estimated 12.5% AIAN community. The arithmetic only works because White homeowners in this growing Tulsa suburban corridor turn out at rates substantially exceeding the district's younger, more transient minority communities. At 34.9 median age and $77,532 household income, this is a district of young families making mortgage payments and watching school quality and public services closely. The 30.7% college rate points to a working-professional rather than credentialed-elite electorate that evaluates incumbents on practical results.",
+        "Haste's strategic position is secure in the near term but requires vigilance over the demographic horizon. The 20.36% Hispanic share is among the largest in a Republican-held Senate district, and as this community ages into higher civic participation rates, the partisan math shifts. The district's young median age and significant renter population suggest continued demographic churn. Haste should anchor his brand to economic growth, public safety, and effective local governance while maintaining genuine relationships with Hispanic business and faith communities before a competitive election forces transactional outreach."
+      ],
+      memoBullets: [
+        "Invest in Spanish-language constituent communications and regular presence at Hispanic community events — the 20% Hispanic population is the most consequential swing variable in this district's long-term trajectory.",
+        "Lead on local economic growth, infrastructure, and school quality messaging — the district's young working families are motivated by tangible neighborhood improvements, not ideology.",
+        "Build AIAN community relationships through tribal government liaisons — the estimated 12.5% Native American population is an underengaged constituency that can move margins in a close race.",
+        "Monitor voter registration trends in Hispanic and AIAN precincts quarterly — even a 3-4 point registration surge in these communities would compress the 59-41 margin into genuinely competitive territory."
+      ]
     }
   },
   {
     id: "ok-sd-37",
     name: "Oklahoma Senate District 37",
-    city: "TBD",
-    region: "TBD",
+    city: "Tulsa",
+    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "Aaron Reinhardt",
     incumbentParty: "Republican",
@@ -5915,17 +6419,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 7.58, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 6.76, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Economic Opportunity & Workforce Development", tag: "lean-into", why: "SD-37's young (33.8 median age), renter-heavy (48.6%) district is dominated by workers in the early and middle stages of their careers who care most about job quality, wages, and professional advancement pathways. Reinhardt should lead on workforce development, business growth, and economic opportunity messaging that speaks to this upwardly mobile but economically stressed population. At $63,440 median income with nearly half the district renting, the gap between current reality and the aspiration for homeownership is the defining emotional tension of the electorate." },
+        { name: "Community Investment & Infrastructure", tag: "lean-into", why: "High-renter districts often suffer from under-investment in community infrastructure relative to homeowner-dominated areas — Reinhardt can build genuine cross-racial credibility by championing parks, transit, public facilities, and road quality that benefit renters and homeowners alike. Visible infrastructure delivery is the most effective way for an incumbent to demonstrate effectiveness to a young, mobile electorate without deep partisan roots. This is also the issue where Reinhardt can make inroads with Asian, Black, and Hispanic residents who share the same infrastructure needs." },
+        { name: "Asian Community Engagement", tag: "careful", why: "At 6.76%, SD-37 has one of the highest Asian shares in Oklahoma's Senate — likely reflecting a university-adjacent or tech-corridor concentration. This community is politically persuadable, responds to substantive governance, and is sensitive to anti-minority rhetoric from Republicans nationally. Reinhardt should actively cultivate relationships with Asian professional organizations, academic communities, and business networks — not because this community currently threatens his margins, but because engaging them proactively is far cheaper than trying to win them back after they organize against him." },
+        { name: "Culture-War Social Positioning", tag: "avoid", why: "A 48.6% renter district with 6.76% Asian, 7.58% Black, and 9.93% Hispanic residents has significant exposure to cultural backlash if Republican social issue rhetoric grows hostile. Reinhardt's 70-30 result masks enormous latent Democratic potential held in check only by low minority turnout — any messaging that activates that population on cultural grounds risks destroying a structural advantage that requires careful management." },
+        { name: "Turnout Complacency", tag: "avoid", why: "The 70-30 margin is a function of who votes, not who lives here — an organized voter registration drive among the district's 48.6% renter population would rapidly compress that margin. Reinhardt should never interpret a large margin as a license to coast: the conditions that produce the result are precisely the conditions most susceptible to reversal by organized opposition." }
+      ],
+      memoHeadline: "A High-Renter, Diverse District That Votes 70-30 Republican Because Minority Renters Don't Show Up — Turnout Differential Is Reinhardt's Entire Strategic Advantage.",
+      memoParagraphs: [
+        "SD-37 presents a sharp demographic-partisan paradox: 48.6% renters, 33.8 median age, and a 60.58% White share alongside 6.76% Asian, 7.58% Black, and 9.93% Hispanic — yet Reinhardt won 70-30. The structural explanation is clear: the young, mobile, minority-heavy renter population participates at dramatically lower rates than the White homeowning minority who dominate actual ballots cast. The 6.76% Asian community is among the highest in Oklahoma's Senate, suggesting proximity to a university or professional tech corridor. The estimated 15.15% AIAN gap adds a significant Native American layer to an already complex demographic mosaic that is far more diverse than the election result implies.",
+        "Reinhardt's 70-30 result is a function of who votes, not who lives here — and that distinction is both the source of his strength and the nature of his vulnerability. An organized voter registration and turnout drive targeting the district's 48.6% renter population — especially young Asian, Black, and Hispanic communities — would compress this margin rapidly. The strategic response is preemptive: deliver tangible results on economic opportunity and community infrastructure, build genuine relationships with Asian professional and academic communities, and maintain high name recognition as the effective local incumbent rather than the ideological warrior."
+      ],
+      memoBullets: [
+        "Maintain active constituent presence in apartment-dense precincts and professional housing corridors — the transient renter majority rarely activates, but proximity to community life builds loyalty among those who do show up.",
+        "Engage Asian community organizations, academic institutions, and professional networks proactively — at 6.76%, this constituency is large enough to move the margin if organized, and it responds well to substantive governance.",
+        "Frame all economic messaging around workforce development, career pathways, and startup support — the district's young renter population cares about economic opportunity more than any other issue.",
+        "Track new voter registration data quarterly — a spike in young or minority registrations is the leading indicator that Reinhardt's structural advantage is being actively contested."
+      ]
     }
   },
   {
     id: "ok-sd-38",
     name: "Oklahoma Senate District 38",
-    city: "TBD",
-    region: "TBD",
+    city: "Alva",
+    region: "Western Oklahoma",
     type: "state senate district",
     incumbentName: "Brent Howard",
     incumbentParty: "Republican",
@@ -5948,17 +6466,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 5.47, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.80, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Rural Infrastructure & Agriculture", tag: "lean-into", why: "SD-38 is quintessential western Oklahoma agricultural territory — roads, water rights, broadband access, and rural hospital viability are the governing concerns that most directly affect the district's scattered working-class population. Howard must champion these issues relentlessly because they represent the practical difference between a functioning rural community and one in accelerating decline. Farm bill impacts, commodity prices, and rural banking access are the bread-and-butter policy issues that keep rural R voters engaged and satisfied with their representation." },
+        { name: "Economic Stability for Working Families", tag: "lean-into", why: "At $56,381 median income and 18.6% college attainment, SD-38 is among Oklahoma's most economically vulnerable districts — families here are working-class in the truest sense, dependent on stable employment in agriculture, energy, and local service industries. Howard should lead on workforce stability, small business support, and rural economic development that speaks directly to the financial reality of this constituency. This is not an ideological message but a practical governance obligation that the district's voters will hold him to." },
+        { name: "Agricultural Labor & Hispanic Workforce", tag: "careful", why: "The 17.75% Hispanic community in SD-38 is almost certainly concentrated in agricultural labor, meat processing, and ranch support industries — the economic backbone of the district's farming base. Immigration enforcement rhetoric that threatens this workforce directly harms the employers who are pillars of the local business community and political base. Howard must navigate border security discussions in economic and public safety terms, explicitly protecting the agricultural labor pipeline that western Oklahoma's economy depends on." },
+        { name: "Urban Cultural Issues", tag: "avoid", why: "Rural western Oklahoma voters are pragmatists who care about local economic survival, infrastructure delivery, and community stability — national culture-war debates about urban social issues are largely irrelevant to their daily lives. Howard should resist the temptation to engage OKC or Tulsa-focused ideological battles and keep his public positioning anchored to the practical rural priorities that motivated his voters." },
+        { name: "Anti-Immigrant Positioning", tag: "avoid", why: "With 17.75% Hispanic residents integral to the agricultural economy, explicit hostility to immigrant communities creates direct business risk for the farming and ranching employers who define the district's economic backbone. Even voters who support border security in the abstract will turn against a representative whose rhetoric destabilizes the labor supply that their livelihoods depend on." }
+      ],
+      memoHeadline: "Rural Western Oklahoma's Agricultural Stronghold — Howard's Job Is Infrastructure Delivery and Protecting the Hispanic Workforce That Keeps Farms Running.",
+      memoParagraphs: [
+        "SD-38 is quintessential rural western Oklahoma: 18.6% college attainment, $56,381 household income, and an agricultural economic base reflected in the 17.75% Hispanic share — almost certainly a working population concentrated in meat processing, farming, and ranch support rather than professional immigration. Howard's unopposed 2024 result reflects both the depth of Republican dominance in this territory and the absence of Democratic organizational infrastructure capable of fielding a credible challenger. The 0.80% Asian share is the lowest in the Senate, confirming this is among the most geographically and economically isolated districts in the state.",
+        "Howard's strategic challenge is not electoral survival — it is governance relevance. Rural districts with low educational attainment and working-class economies are acutely sensitive to agricultural policy, water rights, rural hospital access, and broadband infrastructure. The 17.75% Hispanic workforce is the lifeblood of the agricultural economy that makes this district function, and immigration enforcement overreach could destabilize local employers and create political backlash among business owners even in a heavily R district. Howard should position as the practical rural problem-solver who delivers on infrastructure and agricultural support, not the culture-war ideologue."
+      ],
+      memoBullets: [
+        "Lead on rural infrastructure priorities — broadband, roads, rural hospital access, and water rights are the governing issues that matter most to this district's scattered, working-class electorate.",
+        "Maintain active relationships with agricultural employers and the Hispanic workforce community — a hostile posture toward the agricultural labor base alienates the business constituency that underpins the local economy.",
+        "Avoid urban-culture-war positioning that is irrelevant to rural constituents — this district's voters are pragmatists who care about local economic survival, not national ideological battles.",
+        "Monitor rural hospital and healthcare access issues closely — the district's low-income population is acutely vulnerable to rural facility closures that could activate rare D-leaning voters in an otherwise safe seat."
+      ]
     }
   },
   {
     id: "ok-sd-39",
     name: "Oklahoma Senate District 39",
-    city: "TBD",
-    region: "TBD",
+    city: "Tulsa",
+    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "Dave Rader",
     incumbentParty: "Republican",
@@ -5981,17 +6513,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 9.74, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.12, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Education Funding & Policy", tag: "lean-into", why: "SD-39's 45.7% college-educated electorate is among the most attentive education policy constituencies in Oklahoma's Senate — these are professionals who value evidence-based investment in schools, teacher quality, and educational outcomes. Rader should lead on education funding adequacy and workforce pipeline development that resonates with both the parent base and the professional community invested in Tulsa-area economic competitiveness. This is the issue where substantive credibility matters most and ideological performance is most visible and damaging." },
+        { name: "Economic Competence & Fiscal Policy", tag: "lean-into", why: "A 56-44 competitive district with 45.7% college attainment is dominated by professionals who evaluate their representative on demonstrated competence rather than partisan loyalty — fiscal responsibility, economic growth policy, and effective governance are the markers this electorate uses to assess incumbents. Rader should position as the reasonable, effective policy craftsman rather than the ideological warrior, which is both electorally optimal and substantively credible given the district's profile. The 44% renter rate means housing affordability is an economic issue that Rader must have a credible position on." },
+        { name: "Minority Community Engagement", tag: "careful", why: "With 9.74% Black, 10.90% Hispanic, and an estimated 12.54% AIAN community, over 33% of SD-39 residents belong to groups that vote Democratic at high rates — and the 56-44 margin leaves almost no buffer if minority turnout increases even modestly. Rader should develop genuine ongoing relationships with Black and Native American community leaders, not transactional election-year outreach. Even a small crossover shift in these communities meaningfully buffers his margin against a Democratic surge." },
+        { name: "Abortion & Reproductive Rights", tag: "avoid", why: "In a district with 45.7% college attainment and a significant professional female voter base, Republican overreach on abortion is the single most dangerous issue for Rader's re-election. Educated suburban professionals — particularly women — have swung toward Democrats nationally on reproductive rights, and SD-39's 56-44 result gives him no margin for this kind of issue-driven defection." },
+        { name: "Anti-Education or Voucher Extremism", tag: "avoid", why: "Promoting school vouchers or privatization schemes that drain Tulsa-area public schools of resources alienates the 45.7% college-educated parent base that is the backbone of Rader's professional moderate coalition. This is the constituency most attentive to education policy quality and most likely to punish a representative who sides with ideology over institutional investment." }
+      ],
+      memoHeadline: "Tulsa's Highly Educated Swing District at 56-44 — Credential-Class Professionals and Three Minority Communities Are the Margin-Setting Variables.",
+      memoParagraphs: [
+        "SD-39 is one of Oklahoma's most genuinely competitive Senate districts: a 56-44 Republican margin where 45.7% of adults hold college degrees, 44% are renters, and three substantial minority communities — 10.9% Hispanic, 9.74% Black, and an estimated 12.54% AIAN — coexist with the White professional majority. The high educational attainment is the defining political fact: college-educated voters are the most persuadable constituency in the modern electorate, split across parties by profession, gender, and cultural values rather than income. Rader's 56-44 result suggests he is winning the educated White majority but losing college-educated minority voters by wide enough margins to keep the race genuinely close.",
+        "The 44% renter rate is an anomaly for a competitive R-held district — it indicates a significant younger professional population that has not yet settled into homeownership and may be genuinely persuadable on housing costs and economic opportunity. Democrats who focus on pocketbook economic messaging and healthcare access — rather than national progressive cultural signaling — could compress this margin further. For Rader, the strategic imperative is to hold the professional moderate center: demonstrate fiscal competence, support education funding that satisfies the parent electorate, and avoid social issue battles that alienate the growing portion of credentialed independents."
+      ],
+      memoBullets: [
+        "Prioritize constituent services and local problem-solving visibility — the district's educated professional base evaluates incumbents on competence, not partisan loyalty, making responsive governance the most reliable retention strategy.",
+        "Lead on education funding, workforce development, and economic growth messaging — 45.7% college attainment means voters here expect substantive policy engagement, not bumper-sticker politics.",
+        "Invest in outreach to the 9.74% Black community and 12.54% AIAN population — even modest crossover support from these communities is arithmetic gold in a 56-44 district.",
+        "Monitor housing cost trends and renter-protection issues — the 44% renter rate creates a D opening if Rader is perceived as indifferent to housing affordability, which is a real material concern for nearly half the district."
+      ]
     }
   },
   {
     id: "ok-sd-40",
     name: "Oklahoma Senate District 40",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Carri Hicks",
     incumbentParty: "Democrat",
@@ -6014,17 +6560,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Hispanic / Latino", pct: 11.56, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 4.12, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Economic Equity & Opportunity", tag: "lean-into", why: "SD-40's three-community coalition of Black, Hispanic, and White progressive voters is united most reliably by economic equity concerns — wages, housing affordability, healthcare access, and education investment speak to all three constituencies simultaneously. Hicks should lead on economic equity messaging that is specific enough to be credible without triggering internal coalition friction. At $68,563 median income and 38.2% renters, the district has real economic stress that responds to substantive policy advocacy rather than symbolic gestures." },
+        { name: "Education Investment & Access", tag: "lean-into", why: "With 44.6% college-educated adults and a diverse family population, SD-40 voters are deeply attentive to K-12 funding, higher education access, and the teacher workforce pipeline. Education investment is a genuine cross-coalition issue that unites White progressive professionals, Black parents invested in historically underfunded OKC schools, and Hispanic families pursuing educational pathways. Hicks's advocacy on education funding is both policy substance and political glue for a coalition that requires active maintenance." },
+        { name: "Public Safety Framing", tag: "careful", why: "Public safety is an issue where SD-40's diverse coalition can develop internal tensions — Black voters are sensitive to police accountability and racial disparities in enforcement, while White professionals and some Hispanic voters prioritize crime reduction and neighborhood stability. Hicks must frame public safety discussions in terms of community safety investment and equitable enforcement rather than either pure law-and-order or pure police-reform positioning, or risk fracturing the coalition on an issue Republicans will use aggressively." },
+        { name: "National Progressive Branding", tag: "avoid", why: "The educated White professional segment of SD-40's coalition is the most persuadable and the most sensitive to national progressive brand associations that feel culturally out-of-step with Oklahoma political culture. Hicks should stay anchored to OKC-specific community advocacy and resist alignment with national Democratic figures or platforms that could activate crossover anxiety among the moderate professional voters who are the most swing-capable part of the 57-43 coalition." },
+        { name: "Coalition Favoritism", tag: "avoid", why: "A three-community Democratic coalition breaks down when any constituent group perceives that another is receiving preferential treatment or political priority. Hicks must demonstrate consistent, visible responsiveness to Black civic organizations, Hispanic faith and business communities, and White progressive advocacy networks simultaneously — the perception of favoritism can suppress turnout or encourage protest votes from the disadvantaged community." }
+      ],
+      memoHeadline: "OKC's Diverse, Educated Democratic Anchor — Hicks Must Sustain a Three-Community Coalition of Black, Hispanic, and White Professionals at 57-43.",
+      memoParagraphs: [
+        "SD-40 is the demographic model of Oklahoma City's emerging Democratic coalition: 61.35% White but with 12.12% Black, 11.56% Hispanic, and 4.12% Asian sharing a district with a professional majority — 44.6% college-educated at $68,563 median income. Hicks won 57-43, a margin that reflects a genuine coalition rather than a single-community base, and her strategic challenge is maintaining the three-legged stool: educated White progressives, Black voters who anchor the D base, and Hispanic voters who are more persuadable but tend Democratic when economically stressed. The estimated 10.85% AIAN population adds a fourth Native American community layer that votes Democratic when engaged.",
+        "The 38.2% renter rate signals ongoing demographic churn — new residents arriving in OKC's urbanizing corridor may carry different partisan priors than the established coalition. Hicks's brand as a policy-focused, community-engaged incumbent is her core asset, and she should keep it anchored to economic equity, education access, and healthcare — the issues that unite her diverse coalition. The risk is a Republican challenger who runs on public safety and economic competence with crossover appeal to the White professional segment, where even a modest defection compresses the 57-43 margin into genuinely vulnerable territory."
+      ],
+      memoBullets: [
+        "Sustain active engagement with all three anchor communities simultaneously — Black churches and civic organizations, Hispanic business and faith networks, and educated White progressive voter circles — contact with one does not substitute for the others.",
+        "Lead on economic equity, healthcare access, and education investment — these are the cross-coalition issues that hold Hicks's diverse alliance together without triggering internal friction.",
+        "Invest in AIAN voter outreach through tribal liaison networks — the estimated 10.85% Native American population votes Democratic when mobilized and is underrepresented in current turnout models.",
+        "Monitor public safety messaging carefully — a high-profile crime issue in OKC media can shift the White professional segment, which is the most persuadable part of the 57-43 coalition and most sensitive to security framing."
+      ]
     }
   },
   {
     id: "ok-sd-41",
     name: "Oklahoma Senate District 41",
-    city: "TBD",
-    region: "TBD",
+    city: "Edmond",
+    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Adam Pugh",
     incumbentParty: "Republican",
@@ -6047,17 +6607,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 4.70, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.98, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Fiscal Discipline & Economic Competitiveness", tag: "lean-into", why: "SD-41's $115,848 median income and 60.5% college-educated professional class expects their senator to be a genuine policy shaper on fiscal responsibility and business climate — not a symbolic vote but a substantive architect of Oklahoma's economic framework. Pugh should lead on tax policy, business regulation, and workforce pipeline development that demonstrates institutional influence within the Republican caucus. This electorate rewards senators who demonstrably shape outcomes and punishes those who just take positions." },
+        { name: "Education Quality & Investment", tag: "lean-into", why: "Edmond's professional class is among the most attentive education policy constituencies in Oklahoma — 60.5% college attainment means these are parents who personally benefited from educational investment and are determined to preserve it for their children. Pugh must lead on education funding adequacy and Edmond/NW OKC school quality outcomes while resisting ideological overreach that frames education investment as suspect. This is the issue where the district's professional base has the strongest, most personal opinions." },
+        { name: "Social Issue Moderation", tag: "careful", why: "Educated suburban professionals in high-income districts are the electorate most sensitive to Republican overreach on abortion, education censorship, and LGBTQ+ issues — and SD-41's 60.5% college attainment puts it squarely in the zone where these issues can produce defections. Pugh must use his institutional standing to visibly moderate these issues within the caucus, because his professional base is sophisticated enough to evaluate not just his personal vote but his role in enabling or blocking extremist legislation." },
+        { name: "Culture-War Performance", tag: "avoid", why: "SD-41's affluent professional class has no patience for ideological performance that substitutes for substantive policy results — this electorate came from a background of meritocracy and professional accountability and expects the same from their elected representative. Pugh should resist the temptation to engage in culture-war positioning that plays well on statewide conservative media but earns eye-rolls from the credentialed professionals who define his district." },
+        { name: "Complacency After Unopposed Win", tag: "avoid", why: "Running unopposed signals structural Republican dominance but also carries a risk: a cycle of zero constituent engagement because 'there's no race' creates vulnerability when a credentialed, moderate-sounding challenger eventually materializes. SD-41's professional class is sophisticated enough to deliver a surprise if they decide Pugh is not delivering at the level this district deserves." }
+      ],
+      memoHeadline: "Oklahoma's Wealthiest Suburban District Runs Itself — Edmond's $115K Professional Class Demands Competent, Low-Drama Governance and Real Caucus Influence.",
+      memoParagraphs: [
+        "SD-41 is the most economically powerful district in Oklahoma's Senate: $115,848 median household income and 60.5% college-educated adults in the Edmond/northwest OKC corridor that concentrates the state's professional leadership class — executives, doctors, lawyers, and entrepreneurs who fund campaigns and shape the business community's priorities. Pugh ran unopposed in 2024, reflecting both the district's Republican dominance and his standing as an incumbent who has made himself indispensable to this constituency. The 76.61% White share, 26.2% renter rate, and homeowning majority indicate a settled, established community whose primary political anxieties are fiscal discipline, school quality, and property values.",
+        "Pugh's strategic challenge is not electoral — it is institutional influence. A district this affluent and credentialed expects its senator to be a policy shaper within the Republican caucus, not merely a vote. The 60.5% college-educated constituency is also the most likely to defect on social issues: educated suburban professionals have trended toward Democrats nationally when Republicans overreach on abortion, education censorship, or personal liberty. Pugh's long-term positioning requires visibly moderating influence on these issues within the caucus while delivering on the fiscal and educational priorities that drive his base."
+      ],
+      memoBullets: [
+        "Lead on fiscal responsibility, education funding, and business climate — the district's professional class demands substantive policy results, not ideological performance.",
+        "Maintain a visibly moderate posture on social issues — 60.5% college-educated suburban professionals are sensitive to Republican overreach on abortion, education, and personal liberty, and will stay home or defect if pushed too far.",
+        "Invest in constituent communication that emphasizes legislative effectiveness — this electorate rewards senators who demonstrably shape outcomes within the chamber, not those who just take positions.",
+        "Watch for well-funded independent or Democratic challenger investments — a credentialed, moderate-sounding opponent in a presidential cycle could attract enough college-educated crossover to make this district unexpectedly interesting."
+      ]
     }
   },
   {
     id: "ok-sd-42",
     name: "Oklahoma Senate District 42",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Brenda Stanley",
     incumbentParty: "Republican",
@@ -6080,17 +6654,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Hispanic / Latino", pct: 7.39, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.00, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Economic Delivery & Jobs", tag: "lean-into", why: "At 53-47, Stanley has almost no margin for error — her survival depends on demonstrating that Republican representation delivers tangible economic results for all constituents, not just the White homeowning base. Job quality, local business investment, and public safety are the issues where she can build enough cross-racial credibility to hold the seat. Every infrastructure improvement, business opening, and constituent service win is a margin-maintenance investment in a district this competitive." },
+        { name: "Public Safety & Neighborhood Stability", tag: "lean-into", why: "In a working-to-middle-class district that includes a substantial Black community (13.46%), public safety is a cross-racial priority — both White homeowners and Black families want safe neighborhoods, and Stanley can lead on this issue without the racial hostility framing that would damage her with minority voters. Community-oriented policing, infrastructure investment, and visible responsiveness to neighborhood concerns are the public safety pillars that can build genuine credibility across the district's racial divide." },
+        { name: "Black Community Engagement", tag: "careful", why: "At 13.46%, the Black community in SD-42 is the single most determinative variable in Stanley's electoral future — if this community turns out at even modestly higher rates against her, the seat flips. Stanley must develop genuine ongoing relationships with Black church leaders, civic organizations, and business owners, demonstrating responsive constituent service rather than election-year tokenism. Even incremental crossover support or turnout suppression among Black voters is arithmetic gold in a 53-47 seat." },
+        { name: "Racially Hostile Rhetoric", tag: "avoid", why: "A district with 13.46% Black and 11.9% AIAN communities is structurally positioned to flip if those constituencies activate politically — any rhetoric that signals racial hostility or prioritizes the White base at the expense of minority communities risks precisely that activation. Stanley must be conspicuously absent from culture-war battles that read as anti-Black or anti-minority to the communities she needs to at least partially win over." },
+        { name: "National Republican Brand Alignment", tag: "avoid", why: "Tight association with the most extreme elements of the national Republican brand — particularly on race-adjacent issues — will accelerate Black voter registration and turnout in SD-42 in ways that directly threaten Stanley's 53-47 margin. In a district this competitive, the national political environment is not background noise but a direct electoral variable that local incumbents must actively manage." }
+      ],
+      memoHeadline: "Oklahoma's Most Vulnerable Republican-Held Senate Seat at 53-47 — 13% Black Community and 12% AIAN Gap Make This District a D Takeover Target.",
+      memoParagraphs: [
+        "SD-42 is the most structurally vulnerable Republican-held Senate seat in Oklahoma: Brenda Stanley won just 53-47 in 2024, and the demographic math explains why. With 13.46% Black residents and an estimated 11.88% AIAN population, over 25% of SD-42's community belongs to groups that vote Democratic at 85%+ rates when fully mobilized. The remaining 7.39% Hispanic community adds a third potential D-leaning constituency. Stanley holds the seat because the White homeowning majority at 65.27% turns out consistently while Black, AIAN, and Hispanic voters remain underregistered and disengaged — but this advantage is structurally fragile. A well-funded Democratic turnout program targeting just the Black and AIAN communities could flip this seat without moving a single persuadable White voter.",
+        "Stanley's strategic position requires walking a difficult line: delivering results that keep her moderate White suburban base satisfied while avoiding rhetoric that further alienates the Black and minority communities who already oppose her by wide margins. The 29.2% college rate and $72,231 income indicate a working-to-middle-class district where economic issues dominate — public safety, job quality, property taxes. Stanley should lead aggressively on economic delivery while maintaining genuine constituent relationships in Black and minority communities, because even incremental crossover support in those communities strengthens her buffer against a surge in D turnout."
+      ],
+      memoBullets: [
+        "Execute the most aggressive constituent services operation in this district's history — at 53-47, every single constituent interaction is a margin-maintenance investment.",
+        "Develop active relationships with Black church leaders, civic organizations, and business owners — at 13.46%, even a small crossover or turnout-suppression shift in this community is determinative.",
+        "Lead on economic issues that cross racial lines — job quality, public safety, property taxes — and explicitly reject framing that signals cultural hostility to minority communities.",
+        "Monitor Democratic voter registration investments in this district closely — a targeted registration drive among Black and AIAN voters is the single most credible threat to Stanley's seat."
+      ]
     }
   },
   {
     id: "ok-sd-43",
     name: "Oklahoma Senate District 43",
-    city: "TBD",
-    region: "TBD",
+    city: "Ponca City",
+    region: "North-Central Oklahoma",
     type: "state senate district",
     incumbentName: "Kendal Sacchieri",
     incumbentParty: "Republican",
@@ -6113,17 +6701,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 1.91, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.32, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Rural Infrastructure & Practical Governance", tag: "lean-into", why: "SD-43's 23.1% renter rate and 39.1 median age indicate a homeowning, settled constituency whose patience for ideological performance is low and whose expectations of practical infrastructure delivery is high. Roads, water systems, rural broadband, and agricultural support are the governing imperatives for a district that produces 80-20 Republican margins — this electorate gives that loyalty in exchange for effective representation, not just partisan alignment. Sacchieri should lead on practical rural priorities and visible constituent delivery." },
+        { name: "Agricultural & Small Business Economy", tag: "lean-into", why: "With 23.5% college attainment and $72,135 median income, SD-43 is a working-class rural district whose economy rests on agriculture, small business, and energy sector employment. Sacchieri should champion farm policy, small business support, and rural economic development as the core of her legislative agenda — these are the issues that most directly affect her constituents' financial security and the most natural Republican territory in which to demonstrate governing value." },
+        { name: "Hispanic Community Respect", tag: "careful", why: "The 9.66% Hispanic community in SD-43 is likely involved in agriculture and small business in this predominantly rural district — families who have often been in Oklahoma for generations and who have genuine economic stakes in the community's success. Immigration enforcement rhetoric that targets this community damages relationships with agricultural employers who depend on this workforce and creates unnecessary friction with a constituency that is not a political threat at this population share. Sacchieri can earn durable loyalty from Hispanic families through respectful constituent service without any political cost." },
+        { name: "National Ideological Performance", tag: "avoid", why: "Deep-red rural districts produce large Republican margins from voters who are pragmatists about governance, not ideologues — they vote R because it aligns with their cultural values and economic interests, but they are sophisticated evaluators of whether their representative actually delivers. Sacchieri should resist the temptation to become a purely ideological figure who wins big but delivers little; the districts that produce 80-20 margins expect something substantive in return for that loyalty." },
+        { name: "Urban-Focused Policy Battles", tag: "avoid", why: "Rural SD-43 constituents are largely indifferent to the cultural debates that dominate OKC and Tulsa political media — positioning on LGBTQ+ issues, urban transit, or higher education disputes is irrelevant to a district whose daily concerns are crop prices, road conditions, and healthcare access. Sacchieri should keep her public positioning anchored in rural priorities and resist the pull toward statewide ideological battles that eat legislative capital without delivering district benefit." }
+      ],
+      memoHeadline: "Deep-Red Rural Oklahoma Where Republican Identity Is Cultural Bedrock — Sacchieri's Job Is Delivering Practical Results for Homeowners and Farmers.",
+      memoParagraphs: [
+        "SD-43 is structurally one of Oklahoma's safest Republican districts: an 80-20 margin, 75.61% White, 23.1% renter rate indicating a homeowning majority, and 23.5% college attainment reflecting a working-class rural constituency with deep Republican cultural identity. The 9.66% Hispanic community and estimated 12.5% AIAN population represent the only meaningful minority communities in this otherwise homogenous district — the 1.91% Black and 0.32% Asian shares are among the lowest in the state. Sacchieri holds this seat as a representative of deeply rooted Oklahoma conservative values: personal responsibility, property rights, agricultural heritage, and skepticism of government expansion.",
+        "The strategic challenge in a seat this safe is not winning — it is governing effectively enough to maintain respect from a constituency that has high expectations of cultural alignment and practical delivery. Rural Oklahomans in low-college districts are sophisticated evaluators of whether their representative understands agricultural economics, rural healthcare access, and local infrastructure priorities. Sacchieri must resist the temptation to become a purely ideological figure who wins big but delivers little; the districts that produce 80-20 margins expect something substantive in return for that loyalty."
+      ],
+      memoBullets: [
+        "Make rural infrastructure — roads, broadband, water rights, and agricultural support — the centerpiece of every legislative session, as this constituency judges representatives primarily on practical delivery.",
+        "Maintain visible relationships with the 9.66% Hispanic community and the 12.5% AIAN population — these communities are small but present, and respectful engagement costs nothing while a hostile posture creates unnecessary friction.",
+        "Avoid national ideological positioning that substitutes for local problem-solving — 80-20 districts breed false invulnerability; constituent expectations of results do not decline just because re-election is easy.",
+        "Stay close to agricultural and business community priorities — farm bill impacts, commodity prices, and rural banking access are the bread-and-butter issues that keep rural R voters engaged and satisfied."
+      ]
     }
   },
   {
     id: "ok-sd-44",
     name: "Oklahoma Senate District 44",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Michael Brooks",
     incumbentParty: "Democrat",
@@ -6146,17 +6748,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 7.26, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.96, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Economic Survival & Worker Protections", tag: "lean-into", why: "SD-44's 58% Hispanic majority at $46,668 median income is engaged in working-class occupations — food service, construction, manufacturing, and retail — where wage protection, worker rights, and economic stability are not policy abstractions but daily survival realities. Brooks should lead relentlessly on minimum wage, worker protection, and economic security legislation that directly affects the financial lives of his constituents. This is the issue where a Democratic incumbent in a majority-Hispanic district earns the trust that produces uncontested re-election cycles." },
+        { name: "Healthcare Access & Affordability", tag: "lean-into", why: "At 10.7% college attainment and $46,668 household income, the uninsured and underinsured rate in SD-44 is almost certainly among the highest of any Oklahoma Senate district — healthcare access is an acute, personal economic concern for families who cannot afford a medical crisis. Brooks should fight for Medicaid expansion, community health center funding, and prescription drug access with the specific urgency of a representative whose constituents face these barriers daily. Healthcare advocacy in this district is not symbolic; it is material." },
+        { name: "Education Pathways & Attainment", tag: "careful", why: "The 10.7% college attainment rate in SD-44 reflects economic constraint, not lack of ambition — families in this district want educational pathways for their children but face cost, language, and time barriers that conventional college-access programs do not address. Brooks should champion vocational training, community college access, and bilingual education pathways rather than purely four-year university messaging, which can feel tone-deaf to families focused on immediate economic survival. Getting the framing right on education is critical to converting constituents' aspirations into policy support." },
+        { name: "English-Only Communication", tag: "avoid", why: "In a 58% Hispanic majority district, constituent communications, town halls, and advocacy materials that are only available in English structurally exclude the majority of the community from civic participation. Brooks must invest in Spanish-language constituent services, bilingual staff, and Spanish-language media partnerships as the baseline of responsible representation — not as an optional add-on." },
+        { name: "Turnout Neglect", tag: "avoid", why: "An unopposed result in a community this young (30.4 median age) and this economically stressed (50.5% renters at $46K income) requires active voter engagement infrastructure — not because the partisan outcome is in doubt, but because the community's political power in the legislature scales with its demonstrated turnout numbers. Brooks's leverage in Austin depends on his ability to show high constituent participation, and he cannot build that without sustained organizational investment." }
+      ],
+      memoHeadline: "Oklahoma City's Majority-Hispanic District Is the Youngest and Most Economically Stressed Senate Seat — Brooks's Mandate Is Economic Advocacy, Not Electoral Strategy.",
+      memoParagraphs: [
+        "SD-44 is demographically unlike any other Oklahoma Senate district: 58.06% Hispanic makes it the only majority-Hispanic seat in the chamber, and the economic statistics are correspondingly stark — $46,668 median household income (lowest in the Senate), 10.7% college attainment (also the lowest), 30.4 median age (the youngest), and 50.5% renter rate. This is the Capitol Hill corridor of south Oklahoma City: a community of working-class Hispanic families in food service, construction, manufacturing, and service industries who navigate economic precarity with a strong family and faith community foundation. Brooks runs unopposed because Democratic identity in this district is nearly universal among the activated voter base, but actual turnout rates among the young renter majority are among the lowest in the state.",
+        "Brooks's strategic responsibility is less about winning than about being a genuine advocate for a community whose economic circumstances demand specific, tangible policy outcomes. The 58% Hispanic majority needs a senator who fights for wage protection, immigrant family support, affordable healthcare, housing stability, and access to education beyond high school — the 10.7% college rate is not a fixed fact but an outcome of economic constraint that policy can address. The defining measure of success in SD-44 is whether constituent lives materially improve, not whether the district's partisan margin holds; it will hold regardless."
+      ],
+      memoBullets: [
+        "Lead on economic survival issues — minimum wage, worker protections, healthcare access, and housing affordability — these are the specific concerns that most directly affect the 58% Hispanic working-class majority.",
+        "Invest in constituent navigation services that help families access government programs, healthcare, legal aid, and education pathways — practical help builds deep loyalty and is the most direct demonstration of what Democratic representation delivers.",
+        "Partner with Spanish-language media, Catholic parishes, and community organizations for every communication — English-only outreach structurally misses the majority of this district.",
+        "Push for education investment and college pathway programs — the generational lever for this community is educational attainment, and the constituency that benefits will remember who fought for it."
+      ]
     }
   },
   {
     id: "ok-sd-45",
     name: "Oklahoma Senate District 45",
-    city: "TBD",
-    region: "TBD",
+    city: "Del City",
+    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Paul Rosino",
     incumbentParty: "Republican",
@@ -6179,17 +6795,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 7.00, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 5.26, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Economic Growth & Small Business", tag: "lean-into", why: "SD-45's diverse, working-to-middle-class district at $67,868 median income is most united by economic growth and small business opportunity — issues that resonate across racial lines and allow Rosino to build genuine credibility with Hispanic, Black, and Asian communities simultaneously. Leading on workforce development, business support, and local economic investment is both the strongest Republican territory and the most effective cross-racial outreach strategy available in a district this diverse." },
+        { name: "Public Safety & Neighborhood Quality", tag: "lean-into", why: "With 37.5% renters across multiple racial communities, SD-45 has diverse families who all share a stake in safe neighborhoods and quality public services — public safety is the issue that most effectively crosses the district's racial divide. Rosino should lead on community-oriented safety investment that is conspicuously non-racialized in framing, emphasizing the shared stake all families have in neighborhood stability regardless of their background. This approach builds cross-racial credibility that is critical for a Republican in a 42% minority district." },
+        { name: "Hispanic & Asian Community Engagement", tag: "careful", why: "At 19.55% Hispanic and 5.26% Asian, SD-45 has substantial minority communities that are large enough to determine the outcome of a contested election — Rosino's unopposed status reflects the absence of a D challenger, not demographic immunity. He must use this unopposed cycle to build genuine relationships with Hispanic faith communities, business owners, and civic organizations as well as Asian professional networks and cultural associations. Transactional outreach in an election year is far less effective than ongoing constituent presence built over years." },
+        { name: "Immigration Enforcement Rhetoric", tag: "avoid", why: "A district that is 19.55% Hispanic and 7% Black has no tolerance for anti-immigrant rhetoric that signals cultural hostility to nearly a quarter of the community — Rosino cannot build the cross-racial relationships his long-term electoral position requires while simultaneously associating himself with enforcement-and-deportation language. Border security discussions should be framed in economic and safety terms." },
+        { name: "Complacency After Unopposed Win", tag: "avoid", why: "An unopposed cycle in a 42% minority district should not be interpreted as structural Republican dominance — it is an opportunity to build the community relationships that will either prevent a contested race in the future or make one winnable if it occurs. Rosino should invest as if he were running against a credible opponent, because the demographic conditions to produce one clearly exist." }
+      ],
+      memoHeadline: "An Unopposed Republican Holds a Genuinely Diverse OKC District — Long-Term Demographics Demand Active Cross-Community Investment Before a Contested Race Emerges.",
+      memoParagraphs: [
+        "SD-45 is deceptively competitive in demographic terms despite Paul Rosino's unopposed 2024 result. At 57.97% White, with 19.55% Hispanic, 7% Black, and 5.26% Asian communities alongside an estimated 10.22% AIAN population, nearly 42% of SD-45 residents belong to minority communities that traditionally lean Democratic. Rosino's uncontested status reflects a temporary absence of Democratic organizational capacity rather than durable Republican dominance — a credible, well-funded D challenger could make this race genuinely competitive by activating the existing minority population at higher rates. The 37.5% renter rate and 27.7% college attainment indicate a younger, working-class district that has not yet developed strong civic engagement infrastructure.",
+        "Rosino's strategic imperative is clear: use the breathing room of an unopposed cycle to build genuine relationships across the district's diverse communities before a contested election makes those relationships politically transactional and therefore less believable. The 19.55% Hispanic community is the most consequential target — at this population share, even a modest increase in R crossover support creates a durable buffer against Democratic mobilization. Rosino should lead on economic growth, public safety, and workforce development issues that resonate across racial lines while maintaining visible constituent presence in Hispanic, Black, and Asian community spaces throughout the full term."
+      ],
+      memoBullets: [
+        "Use the unopposed cycle to invest in cross-community relationship building — Hispanic, Black, and Asian community events, faith institutions, and business networks should see Rosino regularly, not just in election years.",
+        "Lead on economic growth, small business support, and workforce development — these are the issues that generate genuine crossover appeal among working-class Hispanic and Black voters.",
+        "Develop Spanish-language constituent communications and a visible presence in Hispanic community corridors — 19.55% Hispanic is too large a constituency to address through English-only outreach.",
+        "Treat the 5.26% Asian community as a growth constituency — Asian voters are among the most persuadable in the state and respond strongly to substantive policy engagement and consistent constituent respect."
+      ]
     }
   },
   {
     id: "ok-sd-46",
     name: "Oklahoma Senate District 46",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Mark Mann",
     incumbentParty: "Democrat",
@@ -6212,17 +6842,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 15.44, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.10, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Housing Stability & Renter Protections", tag: "lean-into", why: "At 53.4% renters and $52,212 median income, housing stability is the most acutely felt economic issue in SD-46 — eviction risk, rising rents, and the absence of affordable ownership pathways are daily anxieties for the majority of constituents. Mann should lead aggressively on renter protections, affordable housing investment, and anti-displacement policy as both genuine advocacy and the most direct way to demonstrate that Democratic representation delivers material improvements for working-class families. This issue cuts across the district's three major minority communities simultaneously." },
+        { name: "Economic Equity & Worker Rights", tag: "lean-into", why: "SD-46's majority-minority, working-class constituency — 28.72% Hispanic, 15.44% Black, estimated 9.67% AIAN — is most united by economic survival concerns: wage growth, worker protections, healthcare access, and job quality. Mann should lead on economic equity legislation that speaks simultaneously to all three communities' shared economic stake without requiring coalition members to subordinate their specific cultural priorities. At 32.9 median age, this is a young workforce that has decades of economic vulnerability ahead and is looking for a champion who understands that reality." },
+        { name: "Three-Community Coalition Maintenance", tag: "careful", why: "SD-46's coalition of Hispanic, Black, and Native American voters is powerful when unified but fragile when any group perceives favoritism or neglect. Mann must maintain distinct, visible relationships with Hispanic parish and business communities, Black civic and church organizations, and AIAN tribal liaison networks simultaneously — a single community outreach strategy will feel generic and patronizing to all three. Coalition maintenance requires the discipline to show up in each community consistently, not just during election cycles." },
+        { name: "English-Only Constituent Services", tag: "avoid", why: "In a district with a 28.72% Hispanic majority and substantial working-class population, constituent communications and services available only in English structurally exclude a major portion of the community from effective representation. Mann must invest in Spanish-language capacity — bilingual staff, translated materials, Spanish-language media partnerships — as the baseline obligation of representing SD-46's community." },
+        { name: "National Progressive Brand Overreach", tag: "avoid", why: "SD-46's working-class majority is economically progressive but culturally complex — the Hispanic and Black communities in this district are often socially conservative on faith and family issues even as they support economic equity policies. Mann should keep his brand anchored to specific OKC South community advocacy rather than national progressive cultural positioning that can feel alien to the faith-centered working-class families who make up the coalition's backbone." }
+      ],
+      memoHeadline: "South OKC's Majority-Minority District — Three Distinct Minority Communities Requiring Three Distinct Engagement Strategies at 60-40.",
+      memoParagraphs: [
+        "SD-46 is Oklahoma City's most demographically complex Senate district: White residents are a minority at 43.07%, with 28.72% Hispanic, 15.44% Black, and an estimated 9.67% AIAN community alongside 3.10% Asian. Mann won 60-40, a margin that reflects the combined weight of these communities when mobilized together — but each constituency has distinct cultural priorities, organizational infrastructure, and mobilization needs that cannot be addressed through a single unified strategy. At 32.9 median age, $52,212 income, and 53.4% renter rate, this is a young, economically stressed district where household economic survival dominates every other concern.",
+        "Mann's governing challenge is coalition maintenance across genuinely different communities that share economic precarity but diverge on cultural identity and specific policy priorities. Hispanic families are concentrated in service industries and acutely sensitive to immigration enforcement, wage protection, and education access; Black voters are anchored in civil rights tradition and respond to racial justice, public safety equity, and economic opportunity; Native American voters prioritize tribal sovereignty, healthcare, and economic development. Mann must demonstrate active responsiveness to all three constituencies without allowing the coalition to fracture over resource allocation or perceived favoritism."
+      ],
+      memoBullets: [
+        "Maintain dedicated constituent engagement programs for each of the three anchor minority communities — a single unified outreach strategy will feel generic to all three and genuinely serve none.",
+        "Lead on housing stability and renter protections as the district's most urgent shared concern — at 53.4% renters, housing security is the issue the majority of constituents experience most acutely.",
+        "Partner with Black churches and civic organizations, Hispanic parishes and community groups, and tribal liaison networks as distinct communication channels — effective constituent communication in SD-46 is multilingual and multi-institutional.",
+        "Develop Spanish-language constituent services as a baseline obligation — 28.72% Hispanic in a working-class district means English-only outreach structurally excludes the community Mann is elected to serve."
+      ]
     }
   },
   {
     id: "ok-sd-47",
     name: "Oklahoma Senate District 47",
-    city: "TBD",
-    region: "TBD",
+    city: "Norman",
+    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Kelly E. Hines",
     incumbentParty: "Republican",
@@ -6245,17 +6889,31 @@ const OK_SENATE_DISTRICTS = [
         { label: "Asian", pct: 7.91, color: DEMO_COLORS[2] },
         { label: "Hispanic / Latino", pct: 7.31, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Economic Competence & Policy Substance", tag: "lean-into", why: "SD-47's $90,901 median income and 55.3% college attainment define an electorate that evaluates representatives on substantive policy performance — fiscal responsibility, economic growth, and workforce competitiveness are the issues that most reliably hold the professional majority while demonstrating credibility to the district's diverse minority communities. Hines must position as a genuine policy craftsman rather than a partisan warrior, because 55% college attainment means nearly every voter in this district can spot the difference between substantive governance and ideological performance." },
+        { name: "Education & Healthcare Investment", tag: "lean-into", why: "In a district with 55.3% college attainment, 12.63% Black residents, and 7.91% Asian residents, education and healthcare are the cross-coalition issues that most effectively bridge the partisan divide. Educated White professionals want quality schools and accessible healthcare for their families; Black families want equitable access to the same resources; Asian professionals are often directly employed in healthcare and education sectors. Hines should lead on funding adequacy and quality outcomes for both sectors as the surest path to broad coalition maintenance in a 53-47 district." },
+        { name: "Black & Asian Community Engagement", tag: "careful", why: "At 12.63% Black and 7.91% Asian — the highest Asian share in Oklahoma's Senate — SD-47 has minority communities large enough to determine the outcome of a close election. Hines must develop genuine, year-round relationships with Black civic and church leadership and with Asian professional, academic, and business communities — not transactional election-year outreach. In a 53-47 district, the candidate who is better known and more trusted in these communities wins, and that trust is built over years of consistent constituent presence, not months of campaign activity." },
+        { name: "Abortion & Reproductive Rights", tag: "avoid", why: "In a district with 55.3% college attainment and a significant professional female voter base, Republican overreach on abortion is the single most dangerous electoral issue for Hines. Educated suburban professionals — particularly college-educated women — have swung decisively toward Democrats on reproductive rights, and SD-47's 53-47 margin gives her no room for this type of issue-driven defection. Hines must find ways to distance herself from the most extreme anti-abortion legislation without triggering a primary challenge from the right." },
+        { name: "Anti-Minority Cultural Positioning", tag: "avoid", why: "A district that is 12.63% Black, 7.91% Asian, and 7.31% Hispanic — over 27% combined reported minority share plus an estimated 10.8% AIAN — has significant exposure to cultural backlash if Republican rhetoric signals hostility toward minority communities. Hines's 53-47 result rests on a coalition that includes enough minority crossover or abstention to hold the margin; rhetoric that activates these communities against her eliminates the buffer entirely." }
+      ],
+      memoHeadline: "Oklahoma's Most Educated Competitive Senate Seat at 53-47 — 12% Black, 8% Asian, and 55% College Attainment Make Every Issue a High-Stakes Calculation for Hines.",
+      memoParagraphs: [
+        "SD-47 is among the most strategically complex districts in Oklahoma's Senate: a 53-47 Republican margin in a district with $90,901 median income, 55.3% college attainment, 12.63% Black residents, 7.91% Asian residents — the highest share in any Oklahoma Senate district — and 7.31% Hispanic, plus an estimated 10.79% AIAN gap. Hines holds the seat at the absolute margin, and the demographic composition tells you why: the White professional majority leans Republican, but the substantial Black community votes Democratic at 85%+ rates, the Asian community is genuinely persuadable and trends Democratic with education levels, and the Hispanic community is similarly swing-capable. This is a district where the outcome is determined by which coalition is better organized.",
+        "The 55.3% college attainment rate is the critical variable: educated professionals in high-income districts are the electorate most sensitive to Republican overreach on social issues. Hines's 53-47 result suggests she is performing near the ceiling of what a generic Republican can achieve here without alienating the professional moderates and minority communities whose participation could tip the outcome. Her strategic imperatives are to demonstrate substantive policy competence on economic and education issues, maintain a visible and respectful relationship with the Black and Asian communities whose turnout determines the race, and avoid social-issue positioning that alienates the educated professional segment."
+      ],
+      memoBullets: [
+        "Build genuine ongoing relationships with Black civic and church leadership — at 12.63%, a shift of even 3-4 points of Black crossover support meaningfully buffers the 53-47 margin against a Democratic surge.",
+        "Engage Asian professional, academic, and business communities with substantive policy conversations — at 7.91%, the Asian community in SD-47 is uniquely large and responsive to competent governance; ignoring them is a strategic error.",
+        "Lead on education, economic competence, and healthcare access — the 55.3% college-educated electorate evaluates policy substance, not performance, and will reward or punish based on demonstrated legislative outcomes.",
+        "Maintain a carefully moderate posture on abortion and social issues — the combination of educated professionals, a substantial Black community, and a large Asian community makes SD-47 far more sensitive to Republican cultural overreach than most Oklahoma districts."
+      ]
     }
   },
   {
     id: "ok-sd-48",
     name: "Oklahoma Senate District 48",
-    city: "TBD",
-    region: "TBD",
+    city: "Oklahoma City",
+    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Nikki Nice",
     incumbentParty: "Democrat",
@@ -6278,10 +6936,24 @@ const OK_SENATE_DISTRICTS = [
         { label: "Hispanic / Latino", pct: 10.68, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.85, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Housing Stability & Anti-Displacement", tag: "lean-into", why: "At 58.0% renters and $47,234 median income, housing stability is the most acutely urgent economic issue in SD-48 — eviction, rising rents, and the long-term displacement of NE OKC's Black community are existential concerns that Nice must fight against with the full force of her office. Renter protections, affordable housing investment, and anti-gentrification advocacy are not peripheral policy choices but the central obligation of a representative whose district majority lives in housing insecurity. This is the issue where advocacy translates most directly into constituent trust and community loyalty." },
+        { name: "Economic Justice & Community Investment", tag: "lean-into", why: "NE OKC's Black community has experienced decades of disinvestment, redlining legacy effects, and economic exclusion that manifest in the district's $47,234 median income — among the lowest in the Senate — and its 27.0% college attainment rate. Nice should lead on economic justice legislation, community development investment, and wealth-building access for Black families as the governing mission of her representation. Business development in NE OKC, access to capital for Black entrepreneurs, and workforce development pathways are the policy levers that translate political power into community advancement." },
+        { name: "Hispanic Community Engagement", tag: "careful", why: "The 10.68% Hispanic community in SD-48 is a significant secondary constituency whose support is not automatic and requires ongoing cultivation — Hispanic voters share economic precarity with the district's Black majority but have distinct cultural priorities around immigration, language access, and faith community. Nice should develop visible relationships with Hispanic parish networks and community organizations, demonstrating that Democratic representation serves all of the district's minority communities rather than treating Hispanic residents as an afterthought to the Black political base." },
+        { name: "Turnout Neglect", tag: "avoid", why: "A 73-27 margin in a community with 58% renters and a 30.4-median-age population requires active organizational investment to sustain — young, economically stressed renters are among the least reliable voters in the electorate, and a D stronghold can see its effective margin shrink significantly in off-cycle elections through base turnout atrophy. Nice must invest in ongoing voter engagement infrastructure rather than treating the safe-seat margin as a permanent guarantee." },
+        { name: "Symbolic Advocacy Without Delivery", tag: "avoid", why: "SD-48's 48.32% Black community has experienced enough political promises that are not backed by material results to be sophisticated evaluators of the gap between advocacy and delivery. Nice must pair her public advocacy on racial justice and economic equity with demonstrable constituent services, tangible legislative wins, and visible community investment that constituents can point to as evidence that their representation produces real change. The margin will hold but the trust erodes if delivery does not follow." }
+      ],
+      memoHeadline: "OKC's Near-Majority Black District at 73-27 — 58% Renters and Decades of Disinvestment Make Housing and Economic Justice the Governing Mission, Not Just the Campaign Message.",
+      memoParagraphs: [
+        "SD-48 is Oklahoma City's anchor Black community district: 48.32% Black residents, $47,234 median income, 58.0% renter rate (the highest in the Senate), and a 73-27 Democratic margin that reflects near-universal civic alignment between the community and the Democratic Party. Nikki Nice runs this district as a community anchor, not merely a politician — the NE OKC geography she represents encompasses neighborhoods shaped by decades of disinvestment, urban renewal displacement, and economic exclusion that make policy responsiveness a moral as well as political obligation. The 27% college attainment rate and 34.5 median age indicate a younger-than-average district with substantial educational and economic upside if investment follows.",
+        "Nice's strategic challenge is governing, not campaigning: the 73-27 margin is sustainable as long as the Black community maintains its confidence that Democratic representation translates into material progress. The 58% renter rate is the most urgent policy signal in the district — housing stability, anti-displacement investment, and tenant protections are not peripheral issues but existential concerns for the majority of constituents. The 10.68% Hispanic community adds a significant secondary constituency that responds to economic advocacy and is culturally compatible with the district's Democratic coalition. The estimated 8.39% AIAN gap adds a third community layer that bridges Black and Native civic traditions in NE OKC."
+      ],
+      memoBullets: [
+        "Lead aggressively on housing stability, renter protections, and anti-displacement investment — at 58% renters, housing security is the issue the constituency experiences most acutely, and visible advocacy here is the most direct path to constituent trust.",
+        "Maintain deep organizational presence in NE OKC's Black civic institutions — churches, historically Black fraternities and sororities, civil rights organizations, and community development groups are the operational backbone of voter engagement in this district.",
+        "Engage the 10.68% Hispanic community through Spanish-language outreach, faith partnerships, and economic advocacy that demonstrates cross-community solidarity rather than treating Hispanic constituents as secondary.",
+        "Fight for public investment in NE OKC — infrastructure, parks, business development, and school resources in historically disinvested communities are both good governance and the most powerful demonstration of what Democratic representation actually delivers."
+      ]
     }
   }
 ];
