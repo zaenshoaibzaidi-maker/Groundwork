@@ -1,0 +1,6142 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Georgia House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53769,
+        "medianAge": 42.5,
+        "totalPopulation": 57925,
+        "collegePct": 19.12,
+        "renterRatePct": 26.76,
+        "race": {
+          "whitePct": 89.52,
+          "nonHispanicWhitePct": 88.47,
+          "blackPct": 4.54,
+          "asianPct": 0.87,
+          "hispanicPct": 3.23
+        }
+      },
+      "election": {
+        "winner": "Mike Cameron",
+        "party": "REP",
+        "pct": 80.34,
+        "unopposed": false
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Georgia House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71275,
+        "medianAge": 39.8,
+        "totalPopulation": 64234,
+        "collegePct": 23.12,
+        "renterRatePct": 22.08,
+        "race": {
+          "whitePct": 87.94,
+          "nonHispanicWhitePct": 84.99,
+          "blackPct": 2.84,
+          "asianPct": 1.16,
+          "hispanicPct": 8.08
+        }
+      },
+      "election": {
+        "winner": "Steve Tarvin",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Georgia House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69250,
+        "medianAge": 40.7,
+        "totalPopulation": 59886,
+        "collegePct": 23.69,
+        "renterRatePct": 27.06,
+        "race": {
+          "whitePct": 87.93,
+          "nonHispanicWhitePct": 87.11,
+          "blackPct": 2.36,
+          "asianPct": 1.79,
+          "hispanicPct": 4.31
+        }
+      },
+      "election": {
+        "winner": "Mitchell Horner",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Georgia House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57573,
+        "medianAge": 35.1,
+        "totalPopulation": 58200,
+        "collegePct": 16.05,
+        "renterRatePct": 37.57,
+        "race": {
+          "whitePct": 61.04,
+          "nonHispanicWhitePct": 42.27,
+          "blackPct": 3.62,
+          "asianPct": 1.23,
+          "hispanicPct": 51.73
+        }
+      },
+      "election": {
+        "winner": "Kasey Carpenter",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Georgia House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63204,
+        "medianAge": 38.6,
+        "totalPopulation": 60469,
+        "collegePct": 18.04,
+        "renterRatePct": 28.74,
+        "race": {
+          "whitePct": 81.51,
+          "nonHispanicWhitePct": 76.98,
+          "blackPct": 3.77,
+          "asianPct": 1.18,
+          "hispanicPct": 15.24
+        }
+      },
+      "election": {
+        "winner": "Matt Barton",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Georgia House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69725,
+        "medianAge": 39.7,
+        "totalPopulation": 59028,
+        "collegePct": 16.79,
+        "renterRatePct": 22.96,
+        "race": {
+          "whitePct": 86.2,
+          "nonHispanicWhitePct": 79.96,
+          "blackPct": 1.03,
+          "asianPct": 0.51,
+          "hispanicPct": 15.71
+        }
+      },
+      "election": {
+        "winner": "Jason T. Ridley",
+        "party": "REP",
+        "pct": 85.3,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Georgia House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65901,
+        "medianAge": 52.4,
+        "totalPopulation": 60118,
+        "collegePct": 24.22,
+        "renterRatePct": 19.51,
+        "race": {
+          "whitePct": 90.6,
+          "nonHispanicWhitePct": 88.31,
+          "blackPct": 0.7,
+          "asianPct": 0.38,
+          "hispanicPct": 7.73
+        }
+      },
+      "election": {
+        "winner": "Johnny Chastain",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Georgia House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65302,
+        "medianAge": 52.9,
+        "totalPopulation": 60435,
+        "collegePct": 26.5,
+        "renterRatePct": 20.02,
+        "race": {
+          "whitePct": 92.35,
+          "nonHispanicWhitePct": 91.7,
+          "blackPct": 1.61,
+          "asianPct": 0.31,
+          "hispanicPct": 3.29
+        }
+      },
+      "election": {
+        "winner": "Stan Gunter",
+        "party": "REP",
+        "pct": 84.83,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Georgia House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79617,
+        "medianAge": 38.6,
+        "totalPopulation": 62373,
+        "collegePct": 32.4,
+        "renterRatePct": 22.75,
+        "race": {
+          "whitePct": 89.24,
+          "nonHispanicWhitePct": 87.63,
+          "blackPct": 1.82,
+          "asianPct": 0.97,
+          "hispanicPct": 6.43
+        }
+      },
+      "election": {
+        "winner": "William S. Wade",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Georgia House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63791,
+        "medianAge": 42.9,
+        "totalPopulation": 60462,
+        "collegePct": 26.66,
+        "renterRatePct": 25.09,
+        "race": {
+          "whitePct": 82.19,
+          "nonHispanicWhitePct": 79.46,
+          "blackPct": 2.85,
+          "asianPct": 1.85,
+          "hispanicPct": 13.19
+        }
+      },
+      "election": {
+        "winner": "Victor Anderson",
+        "party": "REP",
+        "pct": 82.94,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Georgia House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96303,
+        "medianAge": 41.3,
+        "totalPopulation": 64985,
+        "collegePct": 31.01,
+        "renterRatePct": 17.13,
+        "race": {
+          "whitePct": 89.54,
+          "nonHispanicWhitePct": 88.31,
+          "blackPct": 0.97,
+          "asianPct": 1.9,
+          "hispanicPct": 5.91
+        }
+      },
+      "election": {
+        "winner": "Rick Jasperse",
+        "party": "REP",
+        "pct": 82.78,
+        "unopposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Georgia House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56473,
+        "medianAge": 39,
+        "totalPopulation": 59379,
+        "collegePct": 16.49,
+        "renterRatePct": 32.27,
+        "race": {
+          "whitePct": 80.93,
+          "nonHispanicWhitePct": 78.52,
+          "blackPct": 8.32,
+          "asianPct": 1.11,
+          "hispanicPct": 8.54
+        }
+      },
+      "election": {
+        "winner": "Eddie Lumsden",
+        "party": "REP",
+        "pct": 81.69,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Georgia House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59321,
+        "medianAge": 37.9,
+        "totalPopulation": 59576,
+        "collegePct": 27.54,
+        "renterRatePct": 41.8,
+        "race": {
+          "whitePct": 66.67,
+          "nonHispanicWhitePct": 63.35,
+          "blackPct": 18.22,
+          "asianPct": 1.01,
+          "hispanicPct": 13.62
+        }
+      },
+      "election": {
+        "winner": "Katie Dempsey",
+        "party": "REP",
+        "pct": 69.73,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Georgia House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81270,
+        "medianAge": 40.1,
+        "totalPopulation": 60286,
+        "collegePct": 23.1,
+        "renterRatePct": 16.24,
+        "race": {
+          "whitePct": 83.42,
+          "nonHispanicWhitePct": 80.07,
+          "blackPct": 8.1,
+          "asianPct": 0.37,
+          "hispanicPct": 8.11
+        }
+      },
+      "election": {
+        "winner": "Mitchell L. Scoggins",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Georgia House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79293,
+        "medianAge": 36.9,
+        "totalPopulation": 60531,
+        "collegePct": 24.02,
+        "renterRatePct": 33.39,
+        "race": {
+          "whitePct": 74.73,
+          "nonHispanicWhitePct": 70.46,
+          "blackPct": 12.52,
+          "asianPct": 1.25,
+          "hispanicPct": 11.84
+        }
+      },
+      "election": {
+        "winner": "Matthew Gambill",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Georgia House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69218,
+        "medianAge": 37.8,
+        "totalPopulation": 61592,
+        "collegePct": 20.06,
+        "renterRatePct": 27.9,
+        "race": {
+          "whitePct": 78.52,
+          "nonHispanicWhitePct": 74.18,
+          "blackPct": 11.08,
+          "asianPct": 0.9,
+          "hispanicPct": 11.66
+        }
+      },
+      "election": {
+        "winner": "Trey Kelley",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Georgia House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92934,
+        "medianAge": 36.3,
+        "totalPopulation": 60531,
+        "collegePct": 27.75,
+        "renterRatePct": 19.58,
+        "race": {
+          "whitePct": 62.84,
+          "nonHispanicWhitePct": 60.28,
+          "blackPct": 23.61,
+          "asianPct": 2.24,
+          "hispanicPct": 8.47
+        }
+      },
+      "election": {
+        "winner": "Martin Momtahan",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Georgia House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71633,
+        "medianAge": 39.5,
+        "totalPopulation": 61092,
+        "collegePct": 17.44,
+        "renterRatePct": 24.68,
+        "race": {
+          "whitePct": 88.05,
+          "nonHispanicWhitePct": 87,
+          "blackPct": 6.58,
+          "asianPct": 0.68,
+          "hispanicPct": 2.5
+        }
+      },
+      "election": {
+        "winner": "Tyler Paul Smith",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Georgia House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94886,
+        "medianAge": 37,
+        "totalPopulation": 62181,
+        "collegePct": 27.74,
+        "renterRatePct": 24.04,
+        "race": {
+          "whitePct": 64.8,
+          "nonHispanicWhitePct": 62.19,
+          "blackPct": 21.67,
+          "asianPct": 1.24,
+          "hispanicPct": 9.21
+        }
+      },
+      "election": {
+        "winner": "Joseph Gullett",
+        "party": "REP",
+        "pct": 57.31,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Georgia House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113231,
+        "medianAge": 39.7,
+        "totalPopulation": 63534,
+        "collegePct": 41.86,
+        "renterRatePct": 27.71,
+        "race": {
+          "whitePct": 73.65,
+          "nonHispanicWhitePct": 70.37,
+          "blackPct": 12.34,
+          "asianPct": 1.06,
+          "hispanicPct": 11.85
+        }
+      },
+      "election": {
+        "winner": "Charlice Byrd",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Georgia House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115128,
+        "medianAge": 42.1,
+        "totalPopulation": 59006,
+        "collegePct": 41.84,
+        "renterRatePct": 11.56,
+        "race": {
+          "whitePct": 85.98,
+          "nonHispanicWhitePct": 83.53,
+          "blackPct": 3.7,
+          "asianPct": 2.22,
+          "hispanicPct": 7.14
+        }
+      },
+      "election": {
+        "winner": "Brad Thomas",
+        "party": "REP",
+        "pct": 74.98,
+        "unopposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Georgia House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102383,
+        "medianAge": 37.7,
+        "totalPopulation": 60824,
+        "collegePct": 37.91,
+        "renterRatePct": 20.84,
+        "race": {
+          "whitePct": 65.85,
+          "nonHispanicWhitePct": 61.91,
+          "blackPct": 14.72,
+          "asianPct": 5.25,
+          "hispanicPct": 13.84
+        }
+      },
+      "election": {
+        "winner": "Jordan Ridley",
+        "party": "REP",
+        "pct": 60.55,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Georgia House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96138,
+        "medianAge": 39.7,
+        "totalPopulation": 60722,
+        "collegePct": 33.6,
+        "renterRatePct": 28.51,
+        "race": {
+          "whitePct": 76.04,
+          "nonHispanicWhitePct": 70.37,
+          "blackPct": 5.91,
+          "asianPct": 0.76,
+          "hispanicPct": 19.93
+        }
+      },
+      "election": {
+        "winner": "Mandi Ballinger",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Georgia House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 147129,
+        "medianAge": 38.1,
+        "totalPopulation": 59877,
+        "collegePct": 62.34,
+        "renterRatePct": 15.56,
+        "race": {
+          "whitePct": 61.73,
+          "nonHispanicWhitePct": 58.09,
+          "blackPct": 4.74,
+          "asianPct": 19.44,
+          "hispanicPct": 12.15
+        }
+      },
+      "election": {
+        "winner": "Carter Barrett",
+        "party": "REP",
+        "pct": 67.48,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Georgia House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 176104,
+        "medianAge": 42.2,
+        "totalPopulation": 58544,
+        "collegePct": 73.65,
+        "renterRatePct": 13.59,
+        "race": {
+          "whitePct": 52.32,
+          "nonHispanicWhitePct": 50.63,
+          "blackPct": 6.9,
+          "asianPct": 31.6,
+          "hispanicPct": 7.24
+        }
+      },
+      "election": {
+        "winner": "Todd Jones",
+        "party": "REP",
+        "pct": 61.01,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Georgia House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 128549,
+        "medianAge": 40.5,
+        "totalPopulation": 59712,
+        "collegePct": 55.45,
+        "renterRatePct": 16.51,
+        "race": {
+          "whitePct": 67.43,
+          "nonHispanicWhitePct": 64.56,
+          "blackPct": 3.25,
+          "asianPct": 16.62,
+          "hispanicPct": 11.33
+        }
+      },
+      "election": {
+        "winner": "Lauren Wylie McDonald, III",
+        "party": "REP",
+        "pct": 70.77,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Georgia House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81266,
+        "medianAge": 43,
+        "totalPopulation": 58615,
+        "collegePct": 28.41,
+        "renterRatePct": 25.4,
+        "race": {
+          "whitePct": 83.52,
+          "nonHispanicWhitePct": 80.83,
+          "blackPct": 5.55,
+          "asianPct": 1.45,
+          "hispanicPct": 9.57
+        }
+      },
+      "election": {
+        "winner": "Lee Hawkins",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Georgia House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108194,
+        "medianAge": 40.1,
+        "totalPopulation": 61348,
+        "collegePct": 39.46,
+        "renterRatePct": 17.32,
+        "race": {
+          "whitePct": 79.53,
+          "nonHispanicWhitePct": 76.67,
+          "blackPct": 4.34,
+          "asianPct": 3.15,
+          "hispanicPct": 12.3
+        }
+      },
+      "election": {
+        "winner": "Brent Cox",
+        "party": "REP",
+        "pct": 78.29,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Georgia House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63664,
+        "medianAge": 31.8,
+        "totalPopulation": 62345,
+        "collegePct": 20.35,
+        "renterRatePct": 53.2,
+        "race": {
+          "whitePct": 50.62,
+          "nonHispanicWhitePct": 36.12,
+          "blackPct": 8.85,
+          "asianPct": 2.62,
+          "hispanicPct": 48.32
+        }
+      },
+      "election": {
+        "winner": "Matt Dubnik",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Georgia House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101482,
+        "medianAge": 40,
+        "totalPopulation": 61380,
+        "collegePct": 31.78,
+        "renterRatePct": 20.38,
+        "race": {
+          "whitePct": 70.97,
+          "nonHispanicWhitePct": 65.47,
+          "blackPct": 8.56,
+          "asianPct": 2.28,
+          "hispanicPct": 21.03
+        }
+      },
+      "election": {
+        "winner": "Derrick McCollum",
+        "party": "REP",
+        "pct": 73,
+        "unopposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Georgia House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89734,
+        "medianAge": 35.7,
+        "totalPopulation": 64264,
+        "collegePct": 26.79,
+        "renterRatePct": 18.41,
+        "race": {
+          "whitePct": 73.57,
+          "nonHispanicWhitePct": 66.41,
+          "blackPct": 7.6,
+          "asianPct": 2.13,
+          "hispanicPct": 20.8
+        }
+      },
+      "election": {
+        "winner": "Emory West Dunahoo, Jr.",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Georgia House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61630,
+        "medianAge": 41.4,
+        "totalPopulation": 60015,
+        "collegePct": 15.21,
+        "renterRatePct": 26.1,
+        "race": {
+          "whitePct": 81.27,
+          "nonHispanicWhitePct": 79.78,
+          "blackPct": 6.94,
+          "asianPct": 1.49,
+          "hispanicPct": 8.34
+        }
+      },
+      "election": {
+        "winner": "Chris Erwin",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Georgia House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55605,
+        "medianAge": 43.2,
+        "totalPopulation": 61024,
+        "collegePct": 16.55,
+        "renterRatePct": 24.08,
+        "race": {
+          "whitePct": 81.49,
+          "nonHispanicWhitePct": 80.41,
+          "blackPct": 11,
+          "asianPct": 1.23,
+          "hispanicPct": 4.33
+        }
+      },
+      "election": {
+        "winner": "Alan Powell",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Georgia House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 141234,
+        "medianAge": 42.2,
+        "totalPopulation": 61848,
+        "collegePct": 56.96,
+        "renterRatePct": 8.76,
+        "race": {
+          "whitePct": 65.71,
+          "nonHispanicWhitePct": 64.68,
+          "blackPct": 17.75,
+          "asianPct": 4.39,
+          "hispanicPct": 9.54
+        }
+      },
+      "election": {
+        "winner": "Devan Seabaugh",
+        "party": "REP",
+        "pct": 57.65,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Georgia House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77496,
+        "medianAge": 32.5,
+        "totalPopulation": 59569,
+        "collegePct": 43.61,
+        "renterRatePct": 46.19,
+        "race": {
+          "whitePct": 55.52,
+          "nonHispanicWhitePct": 53.09,
+          "blackPct": 23.51,
+          "asianPct": 4.02,
+          "hispanicPct": 13.72
+        }
+      },
+      "election": {
+        "winner": "Lisa Gayle Campbell",
+        "party": "DEM",
+        "pct": 60.79,
+        "unopposed": false
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Georgia House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 125020,
+        "medianAge": 42.9,
+        "totalPopulation": 57614,
+        "collegePct": 52.76,
+        "renterRatePct": 9.14,
+        "race": {
+          "whitePct": 68.45,
+          "nonHispanicWhitePct": 66.51,
+          "blackPct": 17.01,
+          "asianPct": 3.25,
+          "hispanicPct": 7.55
+        }
+      },
+      "election": {
+        "winner": "Ginny Ehrhart",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Georgia House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77138,
+        "medianAge": 35.7,
+        "totalPopulation": 59184,
+        "collegePct": 45.86,
+        "renterRatePct": 45.64,
+        "race": {
+          "whitePct": 45.51,
+          "nonHispanicWhitePct": 41.96,
+          "blackPct": 28.96,
+          "asianPct": 5.11,
+          "hispanicPct": 18.92
+        }
+      },
+      "election": {
+        "winner": "Mary Frances Williams",
+        "party": "DEM",
+        "pct": 55.71,
+        "unopposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Georgia House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88007,
+        "medianAge": 38.4,
+        "totalPopulation": 61491,
+        "collegePct": 32.92,
+        "renterRatePct": 24.1,
+        "race": {
+          "whitePct": 28.19,
+          "nonHispanicWhitePct": 25.55,
+          "blackPct": 53.44,
+          "asianPct": 1.1,
+          "hispanicPct": 16.32
+        }
+      },
+      "election": {
+        "winner": "David Wilkerson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Georgia House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79602,
+        "medianAge": 37.5,
+        "totalPopulation": 60611,
+        "collegePct": 37.09,
+        "renterRatePct": 31.31,
+        "race": {
+          "whitePct": 27.22,
+          "nonHispanicWhitePct": 22.02,
+          "blackPct": 51.71,
+          "asianPct": 2.36,
+          "hispanicPct": 22.06
+        }
+      },
+      "election": {
+        "winner": "Terry Cummings",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Georgia House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108005,
+        "medianAge": 36.5,
+        "totalPopulation": 62152,
+        "collegePct": 67.02,
+        "renterRatePct": 49.15,
+        "race": {
+          "whitePct": 48.15,
+          "nonHispanicWhitePct": 47.14,
+          "blackPct": 32.35,
+          "asianPct": 7.51,
+          "hispanicPct": 6.71
+        }
+      },
+      "election": {
+        "winner": "Kimberly R. New",
+        "party": "REP",
+        "pct": 59.35,
+        "unopposed": false
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Georgia House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76623,
+        "medianAge": 35,
+        "totalPopulation": 61118,
+        "collegePct": 28.97,
+        "renterRatePct": 37.32,
+        "race": {
+          "whitePct": 27.78,
+          "nonHispanicWhitePct": 21.76,
+          "blackPct": 38.63,
+          "asianPct": 2.89,
+          "hispanicPct": 32.37
+        }
+      },
+      "election": {
+        "winner": "Michael Smith",
+        "party": "DEM",
+        "pct": 70.02,
+        "unopposed": false
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Georgia House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81806,
+        "medianAge": 32.6,
+        "totalPopulation": 59353,
+        "collegePct": 53.49,
+        "renterRatePct": 64.07,
+        "race": {
+          "whitePct": 38.15,
+          "nonHispanicWhitePct": 35.72,
+          "blackPct": 32.65,
+          "asianPct": 8.23,
+          "hispanicPct": 19.16
+        }
+      },
+      "election": {
+        "winner": "Gabriel Sanchez",
+        "party": "DEM",
+        "pct": 63.31,
+        "unopposed": false
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Georgia House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78830,
+        "medianAge": 33.9,
+        "totalPopulation": 57669,
+        "collegePct": 52.48,
+        "renterRatePct": 52.04,
+        "race": {
+          "whitePct": 45.89,
+          "nonHispanicWhitePct": 43.89,
+          "blackPct": 21.95,
+          "asianPct": 7.86,
+          "hispanicPct": 15.89
+        }
+      },
+      "election": {
+        "winner": "Solomon Adesanya",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Georgia House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103746,
+        "medianAge": 38.7,
+        "totalPopulation": 62483,
+        "collegePct": 45.03,
+        "renterRatePct": 22.9,
+        "race": {
+          "whitePct": 69.45,
+          "nonHispanicWhitePct": 67.45,
+          "blackPct": 9.56,
+          "asianPct": 4.76,
+          "hispanicPct": 11.35
+        }
+      },
+      "election": {
+        "winner": "Don L. Parsons",
+        "party": "REP",
+        "pct": 56.87,
+        "unopposed": false
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Georgia House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 167134,
+        "medianAge": 44.5,
+        "totalPopulation": 56827,
+        "collegePct": 76.53,
+        "renterRatePct": 7.47,
+        "race": {
+          "whitePct": 75.73,
+          "nonHispanicWhitePct": 74.07,
+          "blackPct": 3.74,
+          "asianPct": 11.26,
+          "hispanicPct": 6.47
+        }
+      },
+      "election": {
+        "winner": "Sharon Cooper",
+        "party": "REP",
+        "pct": 57.46,
+        "unopposed": false
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Georgia House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 141883,
+        "medianAge": 40.6,
+        "totalPopulation": 58640,
+        "collegePct": 64.85,
+        "renterRatePct": 9.51,
+        "race": {
+          "whitePct": 75.4,
+          "nonHispanicWhitePct": 72.4,
+          "blackPct": 7.45,
+          "asianPct": 7.44,
+          "hispanicPct": 7.49
+        }
+      },
+      "election": {
+        "winner": "John Carson",
+        "party": "REP",
+        "pct": 58.88,
+        "unopposed": false
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Georgia House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 148563,
+        "medianAge": 39.8,
+        "totalPopulation": 59774,
+        "collegePct": 72.74,
+        "renterRatePct": 27.75,
+        "race": {
+          "whitePct": 59.45,
+          "nonHispanicWhitePct": 57.08,
+          "blackPct": 11.51,
+          "asianPct": 16.11,
+          "hispanicPct": 11.11
+        }
+      },
+      "election": {
+        "winner": "Jan Jones",
+        "party": "REP",
+        "pct": 61.58,
+        "unopposed": false
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Georgia House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 136456,
+        "medianAge": 40.5,
+        "totalPopulation": 65842,
+        "collegePct": 64.39,
+        "renterRatePct": 24.91,
+        "race": {
+          "whitePct": 57.82,
+          "nonHispanicWhitePct": 54.45,
+          "blackPct": 12.92,
+          "asianPct": 10.17,
+          "hispanicPct": 16.97
+        }
+      },
+      "election": {
+        "winner": "Scott Hilton",
+        "party": "REP",
+        "pct": 54.87,
+        "unopposed": false
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Georgia House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 157902,
+        "medianAge": 45.5,
+        "totalPopulation": 56414,
+        "collegePct": 73.06,
+        "renterRatePct": 19.75,
+        "race": {
+          "whitePct": 71.3,
+          "nonHispanicWhitePct": 69.3,
+          "blackPct": 6.06,
+          "asianPct": 13.39,
+          "hispanicPct": 6.61
+        }
+      },
+      "election": {
+        "winner": "Chuck Martin",
+        "party": "REP",
+        "pct": 59.5,
+        "unopposed": false
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Georgia House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 158270,
+        "medianAge": 42.2,
+        "totalPopulation": 58034,
+        "collegePct": 70.47,
+        "renterRatePct": 23.96,
+        "race": {
+          "whitePct": 44.67,
+          "nonHispanicWhitePct": 42.67,
+          "blackPct": 11.02,
+          "asianPct": 34.66,
+          "hispanicPct": 5.14
+        }
+      },
+      "election": {
+        "winner": "Michelle Au",
+        "party": "DEM",
+        "pct": 55.35,
+        "unopposed": false
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Georgia House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95860,
+        "medianAge": 38,
+        "totalPopulation": 57482,
+        "collegePct": 65.29,
+        "renterRatePct": 45.46,
+        "race": {
+          "whitePct": 57.46,
+          "nonHispanicWhitePct": 53.44,
+          "blackPct": 22.11,
+          "asianPct": 5.46,
+          "hispanicPct": 11.71
+        }
+      },
+      "election": {
+        "winner": "Esther Panitch",
+        "party": "DEM",
+        "pct": 58.06,
+        "unopposed": false
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Georgia House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112278,
+        "medianAge": 36.7,
+        "totalPopulation": 60572,
+        "collegePct": 74.02,
+        "renterRatePct": 51.33,
+        "race": {
+          "whitePct": 54.47,
+          "nonHispanicWhitePct": 52.65,
+          "blackPct": 18.24,
+          "asianPct": 17.23,
+          "hispanicPct": 6.96
+        }
+      },
+      "election": {
+        "winner": "Shea Roberts",
+        "party": "DEM",
+        "pct": 61.65,
+        "unopposed": false
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Georgia House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 121589,
+        "medianAge": 41.4,
+        "totalPopulation": 58184,
+        "collegePct": 73.26,
+        "renterRatePct": 32.25,
+        "race": {
+          "whitePct": 71.81,
+          "nonHispanicWhitePct": 69.09,
+          "blackPct": 11.44,
+          "asianPct": 4.17,
+          "hispanicPct": 8.66
+        }
+      },
+      "election": {
+        "winner": "Deborah Silcox",
+        "party": "REP",
+        "pct": 51.92,
+        "unopposed": false
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Georgia House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 110554,
+        "medianAge": 34.8,
+        "totalPopulation": 61081,
+        "collegePct": 77.26,
+        "renterRatePct": 55.27,
+        "race": {
+          "whitePct": 65.8,
+          "nonHispanicWhitePct": 63.61,
+          "blackPct": 17.15,
+          "asianPct": 6.55,
+          "hispanicPct": 11.45
+        }
+      },
+      "election": {
+        "winner": "Betsy Holland",
+        "party": "DEM",
+        "pct": 59.67,
+        "unopposed": false
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Georgia House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81025,
+        "medianAge": 36.2,
+        "totalPopulation": 57389,
+        "collegePct": 54,
+        "renterRatePct": 51.18,
+        "race": {
+          "whitePct": 35.17,
+          "nonHispanicWhitePct": 33.99,
+          "blackPct": 54.11,
+          "asianPct": 2.82,
+          "hispanicPct": 7.15
+        }
+      },
+      "election": {
+        "winner": "Inga S. Willis",
+        "party": "DEM",
+        "pct": 77.86,
+        "unopposed": false
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Georgia House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73534,
+        "medianAge": 29.3,
+        "totalPopulation": 61249,
+        "collegePct": 58.63,
+        "renterRatePct": 58.74,
+        "race": {
+          "whitePct": 33.37,
+          "nonHispanicWhitePct": 30.23,
+          "blackPct": 47.3,
+          "asianPct": 10.19,
+          "hispanicPct": 7.06
+        }
+      },
+      "election": {
+        "winner": "Bryce Berry",
+        "party": "DEM",
+        "pct": 83.78,
+        "unopposed": false
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Georgia House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107057,
+        "medianAge": 35.4,
+        "totalPopulation": 59402,
+        "collegePct": 76.9,
+        "renterRatePct": 54.98,
+        "race": {
+          "whitePct": 65.12,
+          "nonHispanicWhitePct": 63.52,
+          "blackPct": 17.15,
+          "asianPct": 6.89,
+          "hispanicPct": 7.75
+        }
+      },
+      "election": {
+        "winner": "Stacey Evans",
+        "party": "DEM",
+        "pct": 78.87,
+        "unopposed": false
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Georgia House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66498,
+        "medianAge": 33.7,
+        "totalPopulation": 59536,
+        "collegePct": 49.81,
+        "renterRatePct": 59.44,
+        "race": {
+          "whitePct": 28.14,
+          "nonHispanicWhitePct": 26.86,
+          "blackPct": 60.84,
+          "asianPct": 4.77,
+          "hispanicPct": 4.12
+        }
+      },
+      "election": {
+        "winner": "Park Elizabeth Cannon",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Georgia House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49823,
+        "medianAge": 33.5,
+        "totalPopulation": 58942,
+        "collegePct": 44.42,
+        "renterRatePct": 68.88,
+        "race": {
+          "whitePct": 20.62,
+          "nonHispanicWhitePct": 19.22,
+          "blackPct": 68.78,
+          "asianPct": 3.52,
+          "hispanicPct": 5.41
+        }
+      },
+      "election": {
+        "winner": "Phil Olaleye",
+        "party": "DEM",
+        "pct": 90.81,
+        "unopposed": false
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Georgia House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71021,
+        "medianAge": 35.4,
+        "totalPopulation": 60868,
+        "collegePct": 51.35,
+        "renterRatePct": 47.71,
+        "race": {
+          "whitePct": 27.74,
+          "nonHispanicWhitePct": 26.51,
+          "blackPct": 63.16,
+          "asianPct": 1.85,
+          "hispanicPct": 4.98
+        }
+      },
+      "election": {
+        "winner": "Sheila Jones",
+        "party": "DEM",
+        "pct": 71.58,
+        "unopposed": false
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Georgia House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72687,
+        "medianAge": 35,
+        "totalPopulation": 61497,
+        "collegePct": 38.56,
+        "renterRatePct": 42.41,
+        "race": {
+          "whitePct": 17.59,
+          "nonHispanicWhitePct": 13.19,
+          "blackPct": 69.57,
+          "asianPct": 1.63,
+          "hispanicPct": 13.42
+        }
+      },
+      "election": {
+        "winner": "Mekyah McQueen",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Georgia House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60995,
+        "medianAge": 34.8,
+        "totalPopulation": 60981,
+        "collegePct": 38.93,
+        "renterRatePct": 57.03,
+        "race": {
+          "whitePct": 18.58,
+          "nonHispanicWhitePct": 17.22,
+          "blackPct": 72.14,
+          "asianPct": 1.31,
+          "hispanicPct": 7.27
+        }
+      },
+      "election": {
+        "winner": "Tanya F. Miller",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Georgia House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60019,
+        "medianAge": 34.7,
+        "totalPopulation": 56446,
+        "collegePct": 34.1,
+        "renterRatePct": 52.24,
+        "race": {
+          "whitePct": 20.24,
+          "nonHispanicWhitePct": 18.09,
+          "blackPct": 64.72,
+          "asianPct": 3,
+          "hispanicPct": 11.27
+        }
+      },
+      "election": {
+        "winner": "Kim Joy Schofield",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Georgia House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92338,
+        "medianAge": 37.7,
+        "totalPopulation": 57437,
+        "collegePct": 27.96,
+        "renterRatePct": 21.34,
+        "race": {
+          "whitePct": 54.78,
+          "nonHispanicWhitePct": 52.84,
+          "blackPct": 32.28,
+          "asianPct": 2.59,
+          "hispanicPct": 7.74
+        }
+      },
+      "election": {
+        "winner": "Sylvia Wayfer Baker",
+        "party": "DEM",
+        "pct": 69.23,
+        "unopposed": false
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Georgia House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103956,
+        "medianAge": 38.1,
+        "totalPopulation": 62111,
+        "collegePct": 41.22,
+        "renterRatePct": 15.46,
+        "race": {
+          "whitePct": 30.55,
+          "nonHispanicWhitePct": 28.25,
+          "blackPct": 62.4,
+          "asianPct": 1.1,
+          "hispanicPct": 5.9
+        }
+      },
+      "election": {
+        "winner": "Robert Dawson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "Georgia House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79784,
+        "medianAge": 37.7,
+        "totalPopulation": 58866,
+        "collegePct": 31.3,
+        "renterRatePct": 33.48,
+        "race": {
+          "whitePct": 33.94,
+          "nonHispanicWhitePct": 31.16,
+          "blackPct": 52.88,
+          "asianPct": 1.1,
+          "hispanicPct": 9.36
+        }
+      },
+      "election": {
+        "winner": "Kimberly Alexander",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "Georgia House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83715,
+        "medianAge": 36.4,
+        "totalPopulation": 61458,
+        "collegePct": 37.21,
+        "renterRatePct": 34.76,
+        "race": {
+          "whitePct": 32.02,
+          "nonHispanicWhitePct": 29.32,
+          "blackPct": 58.45,
+          "asianPct": 0.82,
+          "hispanicPct": 9.79
+        }
+      },
+      "election": {
+        "winner": "Lydia Glaize",
+        "party": "DEM",
+        "pct": 66.49,
+        "unopposed": false
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "Georgia House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83405,
+        "medianAge": 36.6,
+        "totalPopulation": 61770,
+        "collegePct": 41.56,
+        "renterRatePct": 34.83,
+        "race": {
+          "whitePct": 32.18,
+          "nonHispanicWhitePct": 30.17,
+          "blackPct": 56.72,
+          "asianPct": 1.53,
+          "hispanicPct": 7.38
+        }
+      },
+      "election": {
+        "winner": "Derrick L. Jackson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "Georgia House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86460,
+        "medianAge": 39.6,
+        "totalPopulation": 58225,
+        "collegePct": 35.14,
+        "renterRatePct": 24.32,
+        "race": {
+          "whitePct": 24.15,
+          "nonHispanicWhitePct": 23.02,
+          "blackPct": 64.76,
+          "asianPct": 2.99,
+          "hispanicPct": 5.76
+        }
+      },
+      "election": {
+        "winner": "Debra Bazemore",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "Georgia House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70350,
+        "medianAge": 36.6,
+        "totalPopulation": 58419,
+        "collegePct": 27.55,
+        "renterRatePct": 39.06,
+        "race": {
+          "whitePct": 60.15,
+          "nonHispanicWhitePct": 55.77,
+          "blackPct": 28.06,
+          "asianPct": 2.16,
+          "hispanicPct": 10.32
+        }
+      },
+      "election": {
+        "winner": "Lynn Smith",
+        "party": "REP",
+        "pct": 63.38,
+        "unopposed": false
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "Georgia House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76955,
+        "medianAge": 35.5,
+        "totalPopulation": 61674,
+        "collegePct": 19.66,
+        "renterRatePct": 25.83,
+        "race": {
+          "whitePct": 66.16,
+          "nonHispanicWhitePct": 63.3,
+          "blackPct": 23.13,
+          "asianPct": 0.77,
+          "hispanicPct": 9.91
+        }
+      },
+      "election": {
+        "winner": "Justin 'Jutt' Howard",
+        "party": "REP",
+        "pct": 66.95,
+        "unopposed": false
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "Georgia House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63387,
+        "medianAge": 35.1,
+        "totalPopulation": 60488,
+        "collegePct": 25.2,
+        "renterRatePct": 37.47,
+        "race": {
+          "whitePct": 69.88,
+          "nonHispanicWhitePct": 67.87,
+          "blackPct": 21.08,
+          "asianPct": 1.24,
+          "hispanicPct": 6.23
+        }
+      },
+      "election": {
+        "winner": "David Huddleston",
+        "party": "REP",
+        "pct": 75.49,
+        "unopposed": false
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "Georgia House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112806,
+        "medianAge": 43.1,
+        "totalPopulation": 62787,
+        "collegePct": 48.73,
+        "renterRatePct": 17.72,
+        "race": {
+          "whitePct": 71.17,
+          "nonHispanicWhitePct": 69.68,
+          "blackPct": 14.6,
+          "asianPct": 5.6,
+          "hispanicPct": 7.5
+        }
+      },
+      "election": {
+        "winner": "Josh Bonner",
+        "party": "REP",
+        "pct": 66.88,
+        "unopposed": false
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "Georgia House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89128,
+        "medianAge": 41.5,
+        "totalPopulation": 56844,
+        "collegePct": 30.49,
+        "renterRatePct": 18.99,
+        "race": {
+          "whitePct": 65.89,
+          "nonHispanicWhitePct": 63.16,
+          "blackPct": 24.08,
+          "asianPct": 1.57,
+          "hispanicPct": 7.03
+        }
+      },
+      "election": {
+        "winner": "Robert Flournoy, Jr.",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "Georgia House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60644,
+        "medianAge": 31.3,
+        "totalPopulation": 62679,
+        "collegePct": 20.6,
+        "renterRatePct": 47.84,
+        "race": {
+          "whitePct": 10.5,
+          "nonHispanicWhitePct": 8.67,
+          "blackPct": 71.68,
+          "asianPct": 1.77,
+          "hispanicPct": 15.93
+        }
+      },
+      "election": {
+        "winner": "Eric W. Bell, II",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "Georgia House District 76",
+      "census": {
+        "censusName": "State House District 76 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59382,
+        "medianAge": 33.5,
+        "totalPopulation": 58118,
+        "collegePct": 21,
+        "renterRatePct": 37.09,
+        "race": {
+          "whitePct": 14.32,
+          "nonHispanicWhitePct": 9.07,
+          "blackPct": 61.92,
+          "asianPct": 9.94,
+          "hispanicPct": 16.05
+        }
+      },
+      "election": {
+        "winner": "Sandra Givens Scott",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "Georgia House District 77",
+      "census": {
+        "censusName": "State House District 77 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51585,
+        "medianAge": 34.5,
+        "totalPopulation": 56217,
+        "collegePct": 21.18,
+        "renterRatePct": 52.22,
+        "race": {
+          "whitePct": 9.03,
+          "nonHispanicWhitePct": 6.33,
+          "blackPct": 70.84,
+          "asianPct": 5.2,
+          "hispanicPct": 13.74
+        }
+      },
+      "election": {
+        "winner": "Rhonda Burnough",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "Georgia House District 78",
+      "census": {
+        "censusName": "State House District 78 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75999,
+        "medianAge": 36,
+        "totalPopulation": 61413,
+        "collegePct": 26.83,
+        "renterRatePct": 33.49,
+        "race": {
+          "whitePct": 14.39,
+          "nonHispanicWhitePct": 11.91,
+          "blackPct": 71.72,
+          "asianPct": 4.64,
+          "hispanicPct": 8.45
+        }
+      },
+      "election": {
+        "winner": "Demetrius Douglas",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "Georgia House District 79",
+      "census": {
+        "censusName": "State House District 79 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49228,
+        "medianAge": 31.8,
+        "totalPopulation": 59903,
+        "collegePct": 17.3,
+        "renterRatePct": 62.03,
+        "race": {
+          "whitePct": 7.95,
+          "nonHispanicWhitePct": 4.15,
+          "blackPct": 73.28,
+          "asianPct": 5.23,
+          "hispanicPct": 16.58
+        }
+      },
+      "election": {
+        "winner": "Yasmin Neal",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "Georgia House District 80",
+      "census": {
+        "censusName": "State House District 80 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89338,
+        "medianAge": 35.7,
+        "totalPopulation": 60997,
+        "collegePct": 56.95,
+        "renterRatePct": 42.33,
+        "race": {
+          "whitePct": 49.69,
+          "nonHispanicWhitePct": 45.05,
+          "blackPct": 13.59,
+          "asianPct": 13.37,
+          "hispanicPct": 25.21
+        }
+      },
+      "election": {
+        "winner": "Long Tran",
+        "party": "DEM",
+        "pct": 59.61,
+        "unopposed": false
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "Georgia House District 81",
+      "census": {
+        "censusName": "State House District 81 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83910,
+        "medianAge": 37.2,
+        "totalPopulation": 55556,
+        "collegePct": 56.34,
+        "renterRatePct": 42.76,
+        "race": {
+          "whitePct": 48.36,
+          "nonHispanicWhitePct": 43.95,
+          "blackPct": 20.14,
+          "asianPct": 7.04,
+          "hispanicPct": 24.6
+        }
+      },
+      "election": {
+        "winner": "Noelle Kahaian",
+        "party": "REP",
+        "pct": 57.01,
+        "unopposed": false
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "Georgia House District 82",
+      "census": {
+        "censusName": "State House District 82 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108176,
+        "medianAge": 35,
+        "totalPopulation": 56683,
+        "collegePct": 76.85,
+        "renterRatePct": 45.09,
+        "race": {
+          "whitePct": 66.05,
+          "nonHispanicWhitePct": 63.01,
+          "blackPct": 15.05,
+          "asianPct": 9.84,
+          "hispanicPct": 7.53
+        }
+      },
+      "election": {
+        "winner": "Karen I. Mathiak",
+        "party": "REP",
+        "pct": 62.95,
+        "unopposed": false
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "Georgia House District 83",
+      "census": {
+        "censusName": "State House District 83 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96239,
+        "medianAge": 33,
+        "totalPopulation": 57819,
+        "collegePct": 62.73,
+        "renterRatePct": 56.2,
+        "race": {
+          "whitePct": 49.94,
+          "nonHispanicWhitePct": 44.56,
+          "blackPct": 14.45,
+          "asianPct": 6.59,
+          "hispanicPct": 30.9
+        }
+      },
+      "election": {
+        "winner": "Karen Lupton",
+        "party": "DEM",
+        "pct": 63.12,
+        "unopposed": false
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "Georgia House District 84",
+      "census": {
+        "censusName": "State House District 84 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75863,
+        "medianAge": 42.4,
+        "totalPopulation": 56953,
+        "collegePct": 41.81,
+        "renterRatePct": 29,
+        "race": {
+          "whitePct": 23.38,
+          "nonHispanicWhitePct": 22.6,
+          "blackPct": 67.57,
+          "asianPct": 1.19,
+          "hispanicPct": 3.15
+        }
+      },
+      "election": {
+        "winner": "Mary Margaret Oliver",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "Georgia House District 85",
+      "census": {
+        "censusName": "State House District 85 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60882,
+        "medianAge": 34.8,
+        "totalPopulation": 58738,
+        "collegePct": 33.69,
+        "renterRatePct": 51.9,
+        "race": {
+          "whitePct": 18.3,
+          "nonHispanicWhitePct": 17.53,
+          "blackPct": 58.83,
+          "asianPct": 10.66,
+          "hispanicPct": 7.68
+        }
+      },
+      "election": {
+        "winner": "Karla L. Drenner",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "Georgia House District 86",
+      "census": {
+        "censusName": "State House District 86 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67284,
+        "medianAge": 32.6,
+        "totalPopulation": 60636,
+        "collegePct": 29.87,
+        "renterRatePct": 47.88,
+        "race": {
+          "whitePct": 12.91,
+          "nonHispanicWhitePct": 12.08,
+          "blackPct": 75.45,
+          "asianPct": 6.86,
+          "hispanicPct": 3.39
+        }
+      },
+      "election": {
+        "winner": "Imani Barnes",
+        "party": "DEM",
+        "pct": 79.99,
+        "unopposed": false
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "Georgia House District 87",
+      "census": {
+        "censusName": "State House District 87 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62644,
+        "medianAge": 36.7,
+        "totalPopulation": 60924,
+        "collegePct": 30.24,
+        "renterRatePct": 40.63,
+        "race": {
+          "whitePct": 12.7,
+          "nonHispanicWhitePct": 11.19,
+          "blackPct": 72.15,
+          "asianPct": 5.42,
+          "hispanicPct": 7.17
+        }
+      },
+      "election": {
+        "winner": "Viola Davis",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "Georgia House District 88",
+      "census": {
+        "censusName": "State House District 88 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65390,
+        "medianAge": 38.2,
+        "totalPopulation": 58469,
+        "collegePct": 35.53,
+        "renterRatePct": 41.44,
+        "race": {
+          "whitePct": 16.06,
+          "nonHispanicWhitePct": 15.42,
+          "blackPct": 64.15,
+          "asianPct": 8.56,
+          "hispanicPct": 9.83
+        }
+      },
+      "election": {
+        "winner": "Billy Mitchell",
+        "party": "DEM",
+        "pct": 80.14,
+        "unopposed": false
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "Georgia House District 89",
+      "census": {
+        "censusName": "State House District 89 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90291,
+        "medianAge": 37.9,
+        "totalPopulation": 55603,
+        "collegePct": 48.36,
+        "renterRatePct": 31.43,
+        "race": {
+          "whitePct": 31.19,
+          "nonHispanicWhitePct": 30.12,
+          "blackPct": 57.92,
+          "asianPct": 2.31,
+          "hispanicPct": 5.71
+        }
+      },
+      "election": {
+        "winner": "Omari Crawford",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "Georgia House District 90",
+      "census": {
+        "censusName": "State House District 90 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88848,
+        "medianAge": 36.7,
+        "totalPopulation": 62134,
+        "collegePct": 49.66,
+        "renterRatePct": 30.64,
+        "race": {
+          "whitePct": 31.99,
+          "nonHispanicWhitePct": 30.6,
+          "blackPct": 56.43,
+          "asianPct": 1.97,
+          "hispanicPct": 6.8
+        }
+      },
+      "election": {
+        "winner": "Saira Draper",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "Georgia House District 91",
+      "census": {
+        "censusName": "State House District 91 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70219,
+        "medianAge": 42.3,
+        "totalPopulation": 58367,
+        "collegePct": 24.43,
+        "renterRatePct": 26.76,
+        "race": {
+          "whitePct": 23.5,
+          "nonHispanicWhitePct": 21.48,
+          "blackPct": 63.39,
+          "asianPct": 1,
+          "hispanicPct": 9.37
+        }
+      },
+      "election": {
+        "winner": "Angela Moore",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "Georgia House District 92",
+      "census": {
+        "censusName": "State House District 92 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80075,
+        "medianAge": 37.8,
+        "totalPopulation": 60869,
+        "collegePct": 32.72,
+        "renterRatePct": 32.6,
+        "race": {
+          "whitePct": 22.52,
+          "nonHispanicWhitePct": 20.68,
+          "blackPct": 67.48,
+          "asianPct": 1.6,
+          "hispanicPct": 5.76
+        }
+      },
+      "election": {
+        "winner": "Rhonda S. Taylor",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "Georgia House District 93",
+      "census": {
+        "censusName": "State House District 93 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59870,
+        "medianAge": 37.9,
+        "totalPopulation": 61925,
+        "collegePct": 26.33,
+        "renterRatePct": 49.61,
+        "race": {
+          "whitePct": 21.05,
+          "nonHispanicWhitePct": 17.64,
+          "blackPct": 65.19,
+          "asianPct": 2.21,
+          "hispanicPct": 11.8
+        }
+      },
+      "election": {
+        "winner": "Doreen Carter",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "Georgia House District 94",
+      "census": {
+        "censusName": "State House District 94 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79658,
+        "medianAge": 37.3,
+        "totalPopulation": 61905,
+        "collegePct": 35.49,
+        "renterRatePct": 26.86,
+        "race": {
+          "whitePct": 17.79,
+          "nonHispanicWhitePct": 17.13,
+          "blackPct": 68.27,
+          "asianPct": 3.63,
+          "hispanicPct": 7.13
+        }
+      },
+      "election": {
+        "winner": "Karen Bennett",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "Georgia House District 95",
+      "census": {
+        "censusName": "State House District 95 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86234,
+        "medianAge": 38.6,
+        "totalPopulation": 63477,
+        "collegePct": 36.18,
+        "renterRatePct": 17.27,
+        "race": {
+          "whitePct": 21.06,
+          "nonHispanicWhitePct": 19.31,
+          "blackPct": 65.16,
+          "asianPct": 1.65,
+          "hispanicPct": 10.49
+        }
+      },
+      "election": {
+        "winner": "Dar'shun Kendrick",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "Georgia House District 96",
+      "census": {
+        "censusName": "State House District 96 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63482,
+        "medianAge": 32.7,
+        "totalPopulation": 57640,
+        "collegePct": 33.64,
+        "renterRatePct": 60.97,
+        "race": {
+          "whitePct": 26.62,
+          "nonHispanicWhitePct": 20.01,
+          "blackPct": 21.31,
+          "asianPct": 16.52,
+          "hispanicPct": 39.47
+        }
+      },
+      "election": {
+        "winner": "Arlene Beckles",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "Georgia House District 97",
+      "census": {
+        "censusName": "State House District 97 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79930,
+        "medianAge": 36.1,
+        "totalPopulation": 61384,
+        "collegePct": 46.88,
+        "renterRatePct": 50.9,
+        "race": {
+          "whitePct": 35.91,
+          "nonHispanicWhitePct": 32.31,
+          "blackPct": 27.9,
+          "asianPct": 14.18,
+          "hispanicPct": 21.52
+        }
+      },
+      "election": {
+        "winner": "Ruwa Romman",
+        "party": "DEM",
+        "pct": 58.84,
+        "unopposed": false
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "Georgia House District 98",
+      "census": {
+        "censusName": "State House District 98 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54867,
+        "medianAge": 32.1,
+        "totalPopulation": 52761,
+        "collegePct": 21.95,
+        "renterRatePct": 65.84,
+        "race": {
+          "whitePct": 18.39,
+          "nonHispanicWhitePct": 10.97,
+          "blackPct": 19.14,
+          "asianPct": 11.14,
+          "hispanicPct": 56.95
+        }
+      },
+      "election": {
+        "winner": "Marvin Lim",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "Georgia House District 99",
+      "census": {
+        "censusName": "State House District 99 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 117362,
+        "medianAge": 40.8,
+        "totalPopulation": 56425,
+        "collegePct": 60.18,
+        "renterRatePct": 27.03,
+        "race": {
+          "whitePct": 42.95,
+          "nonHispanicWhitePct": 41.75,
+          "blackPct": 13.99,
+          "asianPct": 33.68,
+          "hispanicPct": 6.45
+        }
+      },
+      "election": {
+        "winner": "Matt Reeves",
+        "party": "REP",
+        "pct": 51.07,
+        "unopposed": false
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "Georgia House District 100",
+      "census": {
+        "censusName": "State House District 100 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 132667,
+        "medianAge": 39.3,
+        "totalPopulation": 61169,
+        "collegePct": 54.5,
+        "renterRatePct": 15.3,
+        "race": {
+          "whitePct": 58.5,
+          "nonHispanicWhitePct": 56.47,
+          "blackPct": 9.13,
+          "asianPct": 20.15,
+          "hispanicPct": 10.81
+        }
+      },
+      "election": {
+        "winner": "David Clark",
+        "party": "REP",
+        "pct": 62.38,
+        "unopposed": false
+      }
+    },
+    "101": {
+      "districtNumber": 101,
+      "districtName": "Georgia House District 101",
+      "census": {
+        "censusName": "State House District 101 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99619,
+        "medianAge": 35.6,
+        "totalPopulation": 62539,
+        "collegePct": 38.95,
+        "renterRatePct": 24.51,
+        "race": {
+          "whitePct": 38.97,
+          "nonHispanicWhitePct": 33.64,
+          "blackPct": 21.75,
+          "asianPct": 15.45,
+          "hispanicPct": 24.23
+        }
+      },
+      "election": {
+        "winner": "Scott Holcomb",
+        "party": "DEM",
+        "pct": 72.12,
+        "unopposed": false
+      }
+    },
+    "102": {
+      "districtNumber": 102,
+      "districtName": "Georgia House District 102",
+      "census": {
+        "censusName": "State House District 102 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77510,
+        "medianAge": 34.2,
+        "totalPopulation": 60874,
+        "collegePct": 32.55,
+        "renterRatePct": 33.75,
+        "race": {
+          "whitePct": 31.31,
+          "nonHispanicWhitePct": 27.31,
+          "blackPct": 37.06,
+          "asianPct": 10.37,
+          "hispanicPct": 20.1
+        }
+      },
+      "election": {
+        "winner": "Gabe Okoye",
+        "party": "DEM",
+        "pct": 65.88,
+        "unopposed": false
+      }
+    },
+    "103": {
+      "districtNumber": 103,
+      "districtName": "Georgia House District 103",
+      "census": {
+        "censusName": "State House District 103 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89515,
+        "medianAge": 37,
+        "totalPopulation": 63449,
+        "collegePct": 36.99,
+        "renterRatePct": 27.03,
+        "race": {
+          "whitePct": 52.1,
+          "nonHispanicWhitePct": 49.41,
+          "blackPct": 16.94,
+          "asianPct": 10.99,
+          "hispanicPct": 19.34
+        }
+      },
+      "election": {
+        "winner": "Soo Hong",
+        "party": "REP",
+        "pct": 60.55,
+        "unopposed": false
+      }
+    },
+    "104": {
+      "districtNumber": 104,
+      "districtName": "Georgia House District 104",
+      "census": {
+        "censusName": "State House District 104 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101443,
+        "medianAge": 37.3,
+        "totalPopulation": 60608,
+        "collegePct": 34.09,
+        "renterRatePct": 15.09,
+        "race": {
+          "whitePct": 62.32,
+          "nonHispanicWhitePct": 58.82,
+          "blackPct": 18.22,
+          "asianPct": 6.12,
+          "hispanicPct": 12.83
+        }
+      },
+      "election": {
+        "winner": "Chuck Efstration",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "105": {
+      "districtNumber": 105,
+      "districtName": "Georgia House District 105",
+      "census": {
+        "censusName": "State House District 105 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95989,
+        "medianAge": 37.7,
+        "totalPopulation": 62122,
+        "collegePct": 35.14,
+        "renterRatePct": 22.34,
+        "race": {
+          "whitePct": 40.79,
+          "nonHispanicWhitePct": 36.24,
+          "blackPct": 28.24,
+          "asianPct": 10.52,
+          "hispanicPct": 22.54
+        }
+      },
+      "election": {
+        "winner": "Sandy Donatucci",
+        "party": "REP",
+        "pct": 50.13,
+        "unopposed": false
+      }
+    },
+    "106": {
+      "districtNumber": 106,
+      "districtName": "Georgia House District 106",
+      "census": {
+        "censusName": "State House District 106 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98266,
+        "medianAge": 37.3,
+        "totalPopulation": 63600,
+        "collegePct": 40.87,
+        "renterRatePct": 16.58,
+        "race": {
+          "whitePct": 39.3,
+          "nonHispanicWhitePct": 36.62,
+          "blackPct": 35.75,
+          "asianPct": 9.39,
+          "hispanicPct": 14.89
+        }
+      },
+      "election": {
+        "winner": "Shelly Hutchinson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "107": {
+      "districtNumber": 107,
+      "districtName": "Georgia House District 107",
+      "census": {
+        "censusName": "State House District 107 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79000,
+        "medianAge": 32.9,
+        "totalPopulation": 62350,
+        "collegePct": 29.37,
+        "renterRatePct": 38.84,
+        "race": {
+          "whitePct": 27.28,
+          "nonHispanicWhitePct": 22.18,
+          "blackPct": 29.1,
+          "asianPct": 14.75,
+          "hispanicPct": 32.54
+        }
+      },
+      "election": {
+        "winner": "Sam Park",
+        "party": "DEM",
+        "pct": 60.4,
+        "unopposed": false
+      }
+    },
+    "108": {
+      "districtNumber": 108,
+      "districtName": "Georgia House District 108",
+      "census": {
+        "censusName": "State House District 108 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94857,
+        "medianAge": 38.4,
+        "totalPopulation": 57876,
+        "collegePct": 43.19,
+        "renterRatePct": 17.68,
+        "race": {
+          "whitePct": 36.99,
+          "nonHispanicWhitePct": 34.85,
+          "blackPct": 18.99,
+          "asianPct": 16.08,
+          "hispanicPct": 24.1
+        }
+      },
+      "election": {
+        "winner": "Jasmine Clark",
+        "party": "DEM",
+        "pct": 53.86,
+        "unopposed": false
+      }
+    },
+    "109": {
+      "districtNumber": 109,
+      "districtName": "Georgia House District 109",
+      "census": {
+        "censusName": "State House District 109 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57549,
+        "medianAge": 32,
+        "totalPopulation": 61215,
+        "collegePct": 26.09,
+        "renterRatePct": 59.05,
+        "race": {
+          "whitePct": 19.77,
+          "nonHispanicWhitePct": 11.34,
+          "blackPct": 33.08,
+          "asianPct": 14.47,
+          "hispanicPct": 38.92
+        }
+      },
+      "election": {
+        "winner": "Dewey L. McClain",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "110": {
+      "districtNumber": 110,
+      "districtName": "Georgia House District 110",
+      "census": {
+        "censusName": "State House District 110 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92887,
+        "medianAge": 35.4,
+        "totalPopulation": 63013,
+        "collegePct": 36.99,
+        "renterRatePct": 20.76,
+        "race": {
+          "whitePct": 34.37,
+          "nonHispanicWhitePct": 28.6,
+          "blackPct": 50.27,
+          "asianPct": 2.95,
+          "hispanicPct": 14.83
+        }
+      },
+      "election": {
+        "winner": "Segun Adeyina",
+        "party": "DEM",
+        "pct": 65.3,
+        "unopposed": false
+      }
+    },
+    "111": {
+      "districtNumber": 111,
+      "districtName": "Georgia House District 111",
+      "census": {
+        "censusName": "State House District 111 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98974,
+        "medianAge": 37.9,
+        "totalPopulation": 59801,
+        "collegePct": 30.91,
+        "renterRatePct": 16.19,
+        "race": {
+          "whitePct": 62.36,
+          "nonHispanicWhitePct": 58.73,
+          "blackPct": 23.35,
+          "asianPct": 3.38,
+          "hispanicPct": 11.28
+        }
+      },
+      "election": {
+        "winner": "Rey Martinez",
+        "party": "REP",
+        "pct": 61.54,
+        "unopposed": false
+      }
+    },
+    "112": {
+      "districtNumber": 112,
+      "districtName": "Georgia House District 112",
+      "census": {
+        "censusName": "State House District 112 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74122,
+        "medianAge": 39.3,
+        "totalPopulation": 61061,
+        "collegePct": 22.21,
+        "renterRatePct": 22.65,
+        "race": {
+          "whitePct": 72,
+          "nonHispanicWhitePct": 70.75,
+          "blackPct": 20.99,
+          "asianPct": 1.22,
+          "hispanicPct": 3.87
+        }
+      },
+      "election": {
+        "winner": "Bruce Williamson",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "113": {
+      "districtNumber": 113,
+      "districtName": "Georgia House District 113",
+      "census": {
+        "censusName": "State House District 113 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71131,
+        "medianAge": 35.2,
+        "totalPopulation": 65001,
+        "collegePct": 20.41,
+        "renterRatePct": 27.49,
+        "race": {
+          "whitePct": 30.15,
+          "nonHispanicWhitePct": 28.92,
+          "blackPct": 57.47,
+          "asianPct": 1.16,
+          "hispanicPct": 8.59
+        }
+      },
+      "election": {
+        "winner": "Sharon Henderson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "114": {
+      "districtNumber": 114,
+      "districtName": "Georgia House District 114",
+      "census": {
+        "censusName": "State House District 114 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80708,
+        "medianAge": 38.9,
+        "totalPopulation": 59890,
+        "collegePct": 26.89,
+        "renterRatePct": 24.79,
+        "race": {
+          "whitePct": 68.71,
+          "nonHispanicWhitePct": 68.09,
+          "blackPct": 24.3,
+          "asianPct": 1.18,
+          "hispanicPct": 3.44
+        }
+      },
+      "election": {
+        "winner": "Tim Fleming",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "115": {
+      "districtNumber": 115,
+      "districtName": "Georgia House District 115",
+      "census": {
+        "censusName": "State House District 115 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79891,
+        "medianAge": 32.9,
+        "totalPopulation": 61340,
+        "collegePct": 28.06,
+        "renterRatePct": 31.62,
+        "race": {
+          "whitePct": 31.75,
+          "nonHispanicWhitePct": 30.35,
+          "blackPct": 56.44,
+          "asianPct": 1.96,
+          "hispanicPct": 5.1
+        }
+      },
+      "election": {
+        "winner": "Regina Lewis-Ward",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "116": {
+      "districtNumber": 116,
+      "districtName": "Georgia House District 116",
+      "census": {
+        "censusName": "State House District 116 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80674,
+        "medianAge": 38.9,
+        "totalPopulation": 60991,
+        "collegePct": 32.26,
+        "renterRatePct": 35.02,
+        "race": {
+          "whitePct": 27.64,
+          "nonHispanicWhitePct": 24,
+          "blackPct": 57.49,
+          "asianPct": 6.73,
+          "hispanicPct": 8.26
+        }
+      },
+      "election": {
+        "winner": "El-Mahdi Holly",
+        "party": "DEM",
+        "pct": 81.63,
+        "unopposed": false
+      }
+    },
+    "117": {
+      "districtNumber": 117,
+      "districtName": "Georgia House District 117",
+      "census": {
+        "censusName": "State House District 117 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95124,
+        "medianAge": 37.6,
+        "totalPopulation": 65654,
+        "collegePct": 29.76,
+        "renterRatePct": 15.32,
+        "race": {
+          "whitePct": 49.72,
+          "nonHispanicWhitePct": 48.15,
+          "blackPct": 37.93,
+          "asianPct": 1.58,
+          "hispanicPct": 10.41
+        }
+      },
+      "election": {
+        "winner": "Mary Ann Santos",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "118": {
+      "districtNumber": 118,
+      "districtName": "Georgia House District 118",
+      "census": {
+        "censusName": "State House District 118 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67025,
+        "medianAge": 40.7,
+        "totalPopulation": 60896,
+        "collegePct": 18.4,
+        "renterRatePct": 20.99,
+        "race": {
+          "whitePct": 68.07,
+          "nonHispanicWhitePct": 67.43,
+          "blackPct": 24.94,
+          "asianPct": 0.26,
+          "hispanicPct": 4.43
+        }
+      },
+      "election": {
+        "winner": "Clint Crowe",
+        "party": "REP",
+        "pct": 66.78,
+        "unopposed": false
+      }
+    },
+    "119": {
+      "districtNumber": 119,
+      "districtName": "Georgia House District 119",
+      "census": {
+        "censusName": "State House District 119 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79910,
+        "medianAge": 37.2,
+        "totalPopulation": 61836,
+        "collegePct": 22.93,
+        "renterRatePct": 21.27,
+        "race": {
+          "whitePct": 68.31,
+          "nonHispanicWhitePct": 64.49,
+          "blackPct": 13.11,
+          "asianPct": 3.62,
+          "hispanicPct": 14.9
+        }
+      },
+      "election": {
+        "winner": "Holt Persinger",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "120": {
+      "districtNumber": 120,
+      "districtName": "Georgia House District 120",
+      "census": {
+        "censusName": "State House District 120 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70397,
+        "medianAge": 36.9,
+        "totalPopulation": 58534,
+        "collegePct": 46.55,
+        "renterRatePct": 40.17,
+        "race": {
+          "whitePct": 75.8,
+          "nonHispanicWhitePct": 73.57,
+          "blackPct": 12.36,
+          "asianPct": 4.03,
+          "hispanicPct": 5.36
+        }
+      },
+      "election": {
+        "winner": "Houston Gaines",
+        "party": "REP",
+        "pct": 61.29,
+        "unopposed": false
+      }
+    },
+    "121": {
+      "districtNumber": 121,
+      "districtName": "Georgia House District 121",
+      "census": {
+        "censusName": "State House District 121 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83667,
+        "medianAge": 34.2,
+        "totalPopulation": 59352,
+        "collegePct": 56.81,
+        "renterRatePct": 39.98,
+        "race": {
+          "whitePct": 77.24,
+          "nonHispanicWhitePct": 74.77,
+          "blackPct": 10.07,
+          "asianPct": 3.72,
+          "hispanicPct": 8.3
+        }
+      },
+      "election": {
+        "winner": "Marcus A. Wiedower",
+        "party": "REP",
+        "pct": 61.13,
+        "unopposed": false
+      }
+    },
+    "122": {
+      "districtNumber": 122,
+      "districtName": "Georgia House District 122",
+      "census": {
+        "censusName": "State House District 122 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41102,
+        "medianAge": 25.4,
+        "totalPopulation": 61473,
+        "collegePct": 37.72,
+        "renterRatePct": 62.77,
+        "race": {
+          "whitePct": 48.81,
+          "nonHispanicWhitePct": 45.43,
+          "blackPct": 32.38,
+          "asianPct": 4.13,
+          "hispanicPct": 14.45
+        }
+      },
+      "election": {
+        "winner": "Spencer Frye",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "123": {
+      "districtNumber": 123,
+      "districtName": "Georgia House District 123",
+      "census": {
+        "censusName": "State House District 123 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53702,
+        "medianAge": 42.5,
+        "totalPopulation": 59548,
+        "collegePct": 18.62,
+        "renterRatePct": 27.89,
+        "race": {
+          "whitePct": 65.05,
+          "nonHispanicWhitePct": 64.06,
+          "blackPct": 24.5,
+          "asianPct": 1.43,
+          "hispanicPct": 5.98
+        }
+      },
+      "election": {
+        "winner": "Rob Leverett",
+        "party": "REP",
+        "pct": 73.22,
+        "unopposed": false
+      }
+    },
+    "124": {
+      "districtNumber": 124,
+      "districtName": "Georgia House District 124",
+      "census": {
+        "censusName": "State House District 124 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70677,
+        "medianAge": 45,
+        "totalPopulation": 60027,
+        "collegePct": 33.2,
+        "renterRatePct": 25.11,
+        "race": {
+          "whitePct": 62.47,
+          "nonHispanicWhitePct": 60.73,
+          "blackPct": 27.44,
+          "asianPct": 1.63,
+          "hispanicPct": 7.34
+        }
+      },
+      "election": {
+        "winner": "Trey Rhodes",
+        "party": "REP",
+        "pct": 65.74,
+        "unopposed": false
+      }
+    },
+    "125": {
+      "districtNumber": 125,
+      "districtName": "Georgia House District 125",
+      "census": {
+        "censusName": "State House District 125 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81547,
+        "medianAge": 35.2,
+        "totalPopulation": 60653,
+        "collegePct": 29.52,
+        "renterRatePct": 26.04,
+        "race": {
+          "whitePct": 62.95,
+          "nonHispanicWhitePct": 59.53,
+          "blackPct": 24.02,
+          "asianPct": 2.28,
+          "hispanicPct": 8.81
+        }
+      },
+      "election": {
+        "winner": "Gary Richardson",
+        "party": "REP",
+        "pct": 64.5,
+        "unopposed": false
+      }
+    },
+    "126": {
+      "districtNumber": 126,
+      "districtName": "Georgia House District 126",
+      "census": {
+        "censusName": "State House District 126 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54757,
+        "medianAge": 38.2,
+        "totalPopulation": 62930,
+        "collegePct": 17.21,
+        "renterRatePct": 25.83,
+        "race": {
+          "whitePct": 37.82,
+          "nonHispanicWhitePct": 36.58,
+          "blackPct": 54.8,
+          "asianPct": 0.81,
+          "hispanicPct": 4.26
+        }
+      },
+      "election": {
+        "winner": "L.C. Myles, Jr.",
+        "party": "DEM",
+        "pct": 57.92,
+        "unopposed": false
+      }
+    },
+    "127": {
+      "districtNumber": 127,
+      "districtName": "Georgia House District 127",
+      "census": {
+        "censusName": "State House District 127 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81840,
+        "medianAge": 40.8,
+        "totalPopulation": 55981,
+        "collegePct": 42.97,
+        "renterRatePct": 32.12,
+        "race": {
+          "whitePct": 72.6,
+          "nonHispanicWhitePct": 68.83,
+          "blackPct": 13.73,
+          "asianPct": 6.18,
+          "hispanicPct": 7.23
+        }
+      },
+      "election": {
+        "winner": "Mark Newton",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "128": {
+      "districtNumber": 128,
+      "districtName": "Georgia House District 128",
+      "census": {
+        "censusName": "State House District 128 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45383,
+        "medianAge": 42.8,
+        "totalPopulation": 58384,
+        "collegePct": 16.15,
+        "renterRatePct": 29.72,
+        "race": {
+          "whitePct": 43.91,
+          "nonHispanicWhitePct": 42.98,
+          "blackPct": 52.49,
+          "asianPct": 0.3,
+          "hispanicPct": 1.83
+        }
+      },
+      "election": {
+        "winner": "Mack Jackson",
+        "party": "DEM",
+        "pct": 50.09,
+        "unopposed": false
+      }
+    },
+    "129": {
+      "districtNumber": 129,
+      "districtName": "Georgia House District 129",
+      "census": {
+        "censusName": "State House District 129 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42039,
+        "medianAge": 36.3,
+        "totalPopulation": 52930,
+        "collegePct": 27.45,
+        "renterRatePct": 61.57,
+        "race": {
+          "whitePct": 34.84,
+          "nonHispanicWhitePct": 33.75,
+          "blackPct": 53.65,
+          "asianPct": 2.49,
+          "hispanicPct": 4.76
+        }
+      },
+      "election": {
+        "winner": "Karlton L. Howard",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "130": {
+      "districtNumber": 130,
+      "districtName": "Georgia House District 130",
+      "census": {
+        "censusName": "State House District 130 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47244,
+        "medianAge": 34.9,
+        "totalPopulation": 65852,
+        "collegePct": 13.32,
+        "renterRatePct": 46.49,
+        "race": {
+          "whitePct": 29.87,
+          "nonHispanicWhitePct": 29.07,
+          "blackPct": 61.91,
+          "asianPct": 0.48,
+          "hispanicPct": 3.97
+        }
+      },
+      "election": {
+        "winner": "Lynn Gladney",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "131": {
+      "districtNumber": 131,
+      "districtName": "Georgia House District 131",
+      "census": {
+        "censusName": "State House District 131 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 117759,
+        "medianAge": 38,
+        "totalPopulation": 62620,
+        "collegePct": 43.33,
+        "renterRatePct": 13.39,
+        "race": {
+          "whitePct": 71.07,
+          "nonHispanicWhitePct": 68.27,
+          "blackPct": 13.99,
+          "asianPct": 4.7,
+          "hispanicPct": 7.27
+        }
+      },
+      "election": {
+        "winner": "Rob Clifton",
+        "party": "REP",
+        "pct": 65.06,
+        "unopposed": false
+      }
+    },
+    "132": {
+      "districtNumber": 132,
+      "districtName": "Georgia House District 132",
+      "census": {
+        "censusName": "State House District 132 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58182,
+        "medianAge": 33.4,
+        "totalPopulation": 56301,
+        "collegePct": 21.79,
+        "renterRatePct": 43.41,
+        "race": {
+          "whitePct": 32.84,
+          "nonHispanicWhitePct": 30.79,
+          "blackPct": 55.85,
+          "asianPct": 2.12,
+          "hispanicPct": 7.48
+        }
+      },
+      "election": {
+        "winner": "Brian L. Prince",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "133": {
+      "districtNumber": 133,
+      "districtName": "Georgia House District 133",
+      "census": {
+        "censusName": "State House District 133 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58014,
+        "medianAge": 36.9,
+        "totalPopulation": 58268,
+        "collegePct": 21.17,
+        "renterRatePct": 31.57,
+        "race": {
+          "whitePct": 57.89,
+          "nonHispanicWhitePct": 57.04,
+          "blackPct": 36.33,
+          "asianPct": 1.39,
+          "hispanicPct": 2.76
+        }
+      },
+      "election": {
+        "winner": "Danny Mathis",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "134": {
+      "districtNumber": 134,
+      "districtName": "Georgia House District 134",
+      "census": {
+        "censusName": "State House District 134 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56448,
+        "medianAge": 35.9,
+        "totalPopulation": 61758,
+        "collegePct": 17.27,
+        "renterRatePct": 37.39,
+        "race": {
+          "whitePct": 57.53,
+          "nonHispanicWhitePct": 56.09,
+          "blackPct": 35.79,
+          "asianPct": 0.31,
+          "hispanicPct": 3.87
+        }
+      },
+      "election": {
+        "winner": "Robert L. Dickey, III",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "135": {
+      "districtNumber": 135,
+      "districtName": "Georgia House District 135",
+      "census": {
+        "censusName": "State House District 135 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62697,
+        "medianAge": 40.1,
+        "totalPopulation": 61579,
+        "collegePct": 18.08,
+        "renterRatePct": 28.66,
+        "race": {
+          "whitePct": 71.71,
+          "nonHispanicWhitePct": 70.58,
+          "blackPct": 23.19,
+          "asianPct": 0.57,
+          "hispanicPct": 2.04
+        }
+      },
+      "election": {
+        "winner": "Beth Camp",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "136": {
+      "districtNumber": 136,
+      "districtName": "Georgia House District 136",
+      "census": {
+        "censusName": "State House District 136 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70124,
+        "medianAge": 39,
+        "totalPopulation": 58372,
+        "collegePct": 22.27,
+        "renterRatePct": 27.13,
+        "race": {
+          "whitePct": 64.38,
+          "nonHispanicWhitePct": 63.21,
+          "blackPct": 28.88,
+          "asianPct": 1.46,
+          "hispanicPct": 3.42
+        }
+      },
+      "election": {
+        "winner": "David Jenkins",
+        "party": "REP",
+        "pct": 68.45,
+        "unopposed": false
+      }
+    },
+    "137": {
+      "districtNumber": 137,
+      "districtName": "Georgia House District 137",
+      "census": {
+        "censusName": "State House District 137 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55444,
+        "medianAge": 37.4,
+        "totalPopulation": 63573,
+        "collegePct": 22.8,
+        "renterRatePct": 34.41,
+        "race": {
+          "whitePct": 38.35,
+          "nonHispanicWhitePct": 36.75,
+          "blackPct": 52.6,
+          "asianPct": 1.88,
+          "hispanicPct": 5.57
+        }
+      },
+      "election": {
+        "winner": "Debbie G. Buckner",
+        "party": "DEM",
+        "pct": 59.68,
+        "unopposed": false
+      }
+    },
+    "138": {
+      "districtNumber": 138,
+      "districtName": "Georgia House District 138",
+      "census": {
+        "censusName": "State House District 138 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79950,
+        "medianAge": 42.5,
+        "totalPopulation": 58057,
+        "collegePct": 35.11,
+        "renterRatePct": 23.77,
+        "race": {
+          "whitePct": 72.42,
+          "nonHispanicWhitePct": 71.52,
+          "blackPct": 19.35,
+          "asianPct": 1.5,
+          "hispanicPct": 4.03
+        }
+      },
+      "election": {
+        "winner": "Vance C. Smith, Jr.",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "139": {
+      "districtNumber": 139,
+      "districtName": "Georgia House District 139",
+      "census": {
+        "censusName": "State House District 139 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75615,
+        "medianAge": 38,
+        "totalPopulation": 59336,
+        "collegePct": 40.23,
+        "renterRatePct": 39.05,
+        "race": {
+          "whitePct": 65.67,
+          "nonHispanicWhitePct": 63.52,
+          "blackPct": 18.88,
+          "asianPct": 4.58,
+          "hispanicPct": 8.26
+        }
+      },
+      "election": {
+        "winner": "Carmen Rice",
+        "party": "REP",
+        "pct": 64.13,
+        "unopposed": false
+      }
+    },
+    "140": {
+      "districtNumber": 140,
+      "districtName": "Georgia House District 140",
+      "census": {
+        "censusName": "State House District 140 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 36761,
+        "medianAge": 34.6,
+        "totalPopulation": 55267,
+        "collegePct": 18.91,
+        "renterRatePct": 67.35,
+        "race": {
+          "whitePct": 29.56,
+          "nonHispanicWhitePct": 27.59,
+          "blackPct": 58.73,
+          "asianPct": 1.17,
+          "hispanicPct": 8.36
+        }
+      },
+      "election": {
+        "winner": "Tremaine Teddy Reese",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "141": {
+      "districtNumber": 141,
+      "districtName": "Georgia House District 141",
+      "census": {
+        "censusName": "State House District 141 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55188,
+        "medianAge": 33.1,
+        "totalPopulation": 59223,
+        "collegePct": 25.77,
+        "renterRatePct": 50.74,
+        "race": {
+          "whitePct": 28.73,
+          "nonHispanicWhitePct": 27.1,
+          "blackPct": 55.96,
+          "asianPct": 1.6,
+          "hispanicPct": 8.98
+        }
+      },
+      "election": {
+        "winner": "Carolyn F. Hugley",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "142": {
+      "districtNumber": 142,
+      "districtName": "Georgia House District 142",
+      "census": {
+        "censusName": "State House District 142 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50977,
+        "medianAge": 36.2,
+        "totalPopulation": 61401,
+        "collegePct": 22.6,
+        "renterRatePct": 46.99,
+        "race": {
+          "whitePct": 30.65,
+          "nonHispanicWhitePct": 29.51,
+          "blackPct": 59.76,
+          "asianPct": 1.94,
+          "hispanicPct": 4.75
+        }
+      },
+      "election": {
+        "winner": "Miriam Paris",
+        "party": "DEM",
+        "pct": 60.53,
+        "unopposed": false
+      }
+    },
+    "143": {
+      "districtNumber": 143,
+      "districtName": "Georgia House District 143",
+      "census": {
+        "censusName": "State House District 143 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 38980,
+        "medianAge": 35.2,
+        "totalPopulation": 57935,
+        "collegePct": 19.87,
+        "renterRatePct": 52.1,
+        "race": {
+          "whitePct": 30.5,
+          "nonHispanicWhitePct": 29.76,
+          "blackPct": 62.11,
+          "asianPct": 1.34,
+          "hispanicPct": 3.49
+        }
+      },
+      "election": {
+        "winner": "Anissa Jones",
+        "party": "DEM",
+        "pct": 61.9,
+        "unopposed": false
+      }
+    },
+    "144": {
+      "districtNumber": 144,
+      "districtName": "Georgia House District 144",
+      "census": {
+        "censusName": "State House District 144 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82487,
+        "medianAge": 40.4,
+        "totalPopulation": 59298,
+        "collegePct": 36.94,
+        "renterRatePct": 35.03,
+        "race": {
+          "whitePct": 59.96,
+          "nonHispanicWhitePct": 58.44,
+          "blackPct": 30.88,
+          "asianPct": 2.87,
+          "hispanicPct": 4.46
+        }
+      },
+      "election": {
+        "winner": "Dale Washburn",
+        "party": "REP",
+        "pct": 74.46,
+        "unopposed": false
+      }
+    },
+    "145": {
+      "districtNumber": 145,
+      "districtName": "Georgia House District 145",
+      "census": {
+        "censusName": "State House District 145 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59208,
+        "medianAge": 39.5,
+        "totalPopulation": 58735,
+        "collegePct": 19.27,
+        "renterRatePct": 33.35,
+        "race": {
+          "whitePct": 54.5,
+          "nonHispanicWhitePct": 51.78,
+          "blackPct": 36.26,
+          "asianPct": 1.22,
+          "hispanicPct": 7.13
+        }
+      },
+      "election": {
+        "winner": "Tangie Herring",
+        "party": "DEM",
+        "pct": 50.5,
+        "unopposed": false
+      }
+    },
+    "146": {
+      "districtNumber": 146,
+      "districtName": "Georgia House District 146",
+      "census": {
+        "censusName": "State House District 146 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96875,
+        "medianAge": 36.8,
+        "totalPopulation": 62356,
+        "collegePct": 38.1,
+        "renterRatePct": 24.23,
+        "race": {
+          "whitePct": 64.1,
+          "nonHispanicWhitePct": 61.63,
+          "blackPct": 24.42,
+          "asianPct": 2.74,
+          "hispanicPct": 5.94
+        }
+      },
+      "election": {
+        "winner": "Shaw Blackmon",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "147": {
+      "districtNumber": 147,
+      "districtName": "Georgia House District 147",
+      "census": {
+        "censusName": "State House District 147 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79559,
+        "medianAge": 36.6,
+        "totalPopulation": 61370,
+        "collegePct": 31.91,
+        "renterRatePct": 35.84,
+        "race": {
+          "whitePct": 51.34,
+          "nonHispanicWhitePct": 49.59,
+          "blackPct": 32.49,
+          "asianPct": 4,
+          "hispanicPct": 7.57
+        }
+      },
+      "election": {
+        "winner": "Bethany Ballard",
+        "party": "REP",
+        "pct": 56.92,
+        "unopposed": false
+      }
+    },
+    "148": {
+      "districtNumber": 148,
+      "districtName": "Georgia House District 148",
+      "census": {
+        "censusName": "State House District 148 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56774,
+        "medianAge": 40.2,
+        "totalPopulation": 59989,
+        "collegePct": 19.87,
+        "renterRatePct": 33.45,
+        "race": {
+          "whitePct": 57.55,
+          "nonHispanicWhitePct": 55.84,
+          "blackPct": 35,
+          "asianPct": 1.46,
+          "hispanicPct": 4.84
+        }
+      },
+      "election": {
+        "winner": "Noel W. Williams, Jr.",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "149": {
+      "districtNumber": 149,
+      "districtName": "Georgia House District 149",
+      "census": {
+        "censusName": "State House District 149 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50655,
+        "medianAge": 41.5,
+        "totalPopulation": 57769,
+        "collegePct": 14.18,
+        "renterRatePct": 24.68,
+        "race": {
+          "whitePct": 60.56,
+          "nonHispanicWhitePct": 59.47,
+          "blackPct": 33.58,
+          "asianPct": 0.29,
+          "hispanicPct": 4.77
+        }
+      },
+      "election": {
+        "winner": "Floyd Griffin",
+        "party": "DEM",
+        "pct": 54,
+        "unopposed": false
+      }
+    },
+    "150": {
+      "districtNumber": 150,
+      "districtName": "Georgia House District 150",
+      "census": {
+        "censusName": "State House District 150 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44431,
+        "medianAge": 39.2,
+        "totalPopulation": 59048,
+        "collegePct": 17.56,
+        "renterRatePct": 42.72,
+        "race": {
+          "whitePct": 38.57,
+          "nonHispanicWhitePct": 36.92,
+          "blackPct": 52.55,
+          "asianPct": 1.11,
+          "hispanicPct": 6.38
+        }
+      },
+      "election": {
+        "winner": "Patty Marie Stinson",
+        "party": "DEM",
+        "pct": 53.24,
+        "unopposed": false
+      }
+    },
+    "151": {
+      "districtNumber": 151,
+      "districtName": "Georgia House District 151",
+      "census": {
+        "censusName": "State House District 151 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48218,
+        "medianAge": 36.5,
+        "totalPopulation": 58205,
+        "collegePct": 19.3,
+        "renterRatePct": 36.02,
+        "race": {
+          "whitePct": 47.94,
+          "nonHispanicWhitePct": 45.23,
+          "blackPct": 42.45,
+          "asianPct": 1.08,
+          "hispanicPct": 7.83
+        }
+      },
+      "election": {
+        "winner": "Mike Cheokas",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "152": {
+      "districtNumber": 152,
+      "districtName": "Georgia House District 152",
+      "census": {
+        "censusName": "State House District 152 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71114,
+        "medianAge": 39,
+        "totalPopulation": 60251,
+        "collegePct": 24.34,
+        "renterRatePct": 26.71,
+        "race": {
+          "whitePct": 65.33,
+          "nonHispanicWhitePct": 64.71,
+          "blackPct": 26.09,
+          "asianPct": 1.67,
+          "hispanicPct": 3.18
+        }
+      },
+      "election": {
+        "winner": "William J. 'Bill' Yearta",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "153": {
+      "districtNumber": 153,
+      "districtName": "Georgia House District 153",
+      "census": {
+        "censusName": "State House District 153 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46670,
+        "medianAge": 34.5,
+        "totalPopulation": 59426,
+        "collegePct": 23.15,
+        "renterRatePct": 59.4,
+        "race": {
+          "whitePct": 23.07,
+          "nonHispanicWhitePct": 22.56,
+          "blackPct": 70.94,
+          "asianPct": 0.81,
+          "hispanicPct": 3.51
+        }
+      },
+      "election": {
+        "winner": "David Sampson",
+        "party": "DEM",
+        "pct": 67.09,
+        "unopposed": false
+      }
+    },
+    "154": {
+      "districtNumber": 154,
+      "districtName": "Georgia House District 154",
+      "census": {
+        "censusName": "State House District 154 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44352,
+        "medianAge": 43.2,
+        "totalPopulation": 57661,
+        "collegePct": 16.12,
+        "renterRatePct": 36.44,
+        "race": {
+          "whitePct": 39.28,
+          "nonHispanicWhitePct": 38.89,
+          "blackPct": 56.24,
+          "asianPct": 0.58,
+          "hispanicPct": 2.33
+        }
+      },
+      "election": {
+        "winner": "Gerald E. Greene",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "155": {
+      "districtNumber": 155,
+      "districtName": "Georgia House District 155",
+      "census": {
+        "censusName": "State House District 155 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50316,
+        "medianAge": 41.1,
+        "totalPopulation": 58811,
+        "collegePct": 16.34,
+        "renterRatePct": 33.23,
+        "race": {
+          "whitePct": 57.96,
+          "nonHispanicWhitePct": 57.36,
+          "blackPct": 36.84,
+          "asianPct": 0.79,
+          "hispanicPct": 2.93
+        }
+      },
+      "election": {
+        "winner": "Matt Hatchett",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "156": {
+      "districtNumber": 156,
+      "districtName": "Georgia House District 156",
+      "census": {
+        "censusName": "State House District 156 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47524,
+        "medianAge": 38.4,
+        "totalPopulation": 60064,
+        "collegePct": 15.97,
+        "renterRatePct": 33.57,
+        "race": {
+          "whitePct": 62.12,
+          "nonHispanicWhitePct": 57.66,
+          "blackPct": 28.65,
+          "asianPct": 0.55,
+          "hispanicPct": 9.3
+        }
+      },
+      "election": {
+        "winner": "Leesa Hagan",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "157": {
+      "districtNumber": 157,
+      "districtName": "Georgia House District 157",
+      "census": {
+        "censusName": "State House District 157 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47900,
+        "medianAge": 38.6,
+        "totalPopulation": 61380,
+        "collegePct": 13.26,
+        "renterRatePct": 32.12,
+        "race": {
+          "whitePct": 62.32,
+          "nonHispanicWhitePct": 61.01,
+          "blackPct": 23.12,
+          "asianPct": 0.54,
+          "hispanicPct": 11.75
+        }
+      },
+      "election": {
+        "winner": "William 'Bill' Werkheiser",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "158": {
+      "districtNumber": 158,
+      "districtName": "Georgia House District 158",
+      "census": {
+        "censusName": "State House District 158 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52376,
+        "medianAge": 37.9,
+        "totalPopulation": 58995,
+        "collegePct": 19.47,
+        "renterRatePct": 41.64,
+        "race": {
+          "whitePct": 60.18,
+          "nonHispanicWhitePct": 59.23,
+          "blackPct": 31.04,
+          "asianPct": 0.69,
+          "hispanicPct": 5.51
+        }
+      },
+      "election": {
+        "winner": "Butch Parrish",
+        "party": "REP",
+        "pct": 72.89,
+        "unopposed": false
+      }
+    },
+    "159": {
+      "districtNumber": 159,
+      "districtName": "Georgia House District 159",
+      "census": {
+        "censusName": "State House District 159 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71440,
+        "medianAge": 38.5,
+        "totalPopulation": 59534,
+        "collegePct": 23.18,
+        "renterRatePct": 26.1,
+        "race": {
+          "whitePct": 66.91,
+          "nonHispanicWhitePct": 65.54,
+          "blackPct": 24.84,
+          "asianPct": 0.28,
+          "hispanicPct": 5
+        }
+      },
+      "election": {
+        "winner": "Jon G. Burns",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "160": {
+      "districtNumber": 160,
+      "districtName": "Georgia House District 160",
+      "census": {
+        "censusName": "State House District 160 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58442,
+        "medianAge": 27.5,
+        "totalPopulation": 60652,
+        "collegePct": 25.54,
+        "renterRatePct": 44.81,
+        "race": {
+          "whitePct": 66.88,
+          "nonHispanicWhitePct": 65.85,
+          "blackPct": 23.28,
+          "asianPct": 1.72,
+          "hispanicPct": 5.16
+        }
+      },
+      "election": {
+        "winner": "Lehman Franklin",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "161": {
+      "districtNumber": 161,
+      "districtName": "Georgia House District 161",
+      "census": {
+        "censusName": "State House District 161 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88370,
+        "medianAge": 36.1,
+        "totalPopulation": 65017,
+        "collegePct": 31.78,
+        "renterRatePct": 31.59,
+        "race": {
+          "whitePct": 62.03,
+          "nonHispanicWhitePct": 59.41,
+          "blackPct": 26.81,
+          "asianPct": 1.5,
+          "hispanicPct": 7.99
+        }
+      },
+      "election": {
+        "winner": "Bill Hitchens",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "162": {
+      "districtNumber": 162,
+      "districtName": "Georgia House District 162",
+      "census": {
+        "censusName": "State House District 162 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64410,
+        "medianAge": 32.7,
+        "totalPopulation": 60698,
+        "collegePct": 30.17,
+        "renterRatePct": 48.29,
+        "race": {
+          "whitePct": 37.48,
+          "nonHispanicWhitePct": 34.83,
+          "blackPct": 46,
+          "asianPct": 3.85,
+          "hispanicPct": 11.82
+        }
+      },
+      "election": {
+        "winner": "Carl W. Gilliard",
+        "party": "DEM",
+        "pct": 66.2,
+        "unopposed": false
+      }
+    },
+    "163": {
+      "districtNumber": 163,
+      "districtName": "Georgia House District 163",
+      "census": {
+        "censusName": "State House District 163 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51885,
+        "medianAge": 35.6,
+        "totalPopulation": 61954,
+        "collegePct": 32.65,
+        "renterRatePct": 58.03,
+        "race": {
+          "whitePct": 40.02,
+          "nonHispanicWhitePct": 37.36,
+          "blackPct": 49.37,
+          "asianPct": 3.15,
+          "hispanicPct": 8.12
+        }
+      },
+      "election": {
+        "winner": "Anne Allen Westbrook",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "164": {
+      "districtNumber": 164,
+      "districtName": "Georgia House District 164",
+      "census": {
+        "censusName": "State House District 164 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87992,
+        "medianAge": 37.1,
+        "totalPopulation": 63854,
+        "collegePct": 37.71,
+        "renterRatePct": 38.4,
+        "race": {
+          "whitePct": 56.88,
+          "nonHispanicWhitePct": 53.84,
+          "blackPct": 24.39,
+          "asianPct": 3.03,
+          "hispanicPct": 11.59
+        }
+      },
+      "election": {
+        "winner": "Ron Stephens",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "165": {
+      "districtNumber": 165,
+      "districtName": "Georgia House District 165",
+      "census": {
+        "censusName": "State House District 165 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53411,
+        "medianAge": 34.4,
+        "totalPopulation": 57349,
+        "collegePct": 30.1,
+        "renterRatePct": 51.32,
+        "race": {
+          "whitePct": 35.59,
+          "nonHispanicWhitePct": 34.72,
+          "blackPct": 55.85,
+          "asianPct": 1.87,
+          "hispanicPct": 4.8
+        }
+      },
+      "election": {
+        "winner": "Edna Jackson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "166": {
+      "districtNumber": 166,
+      "districtName": "Georgia House District 166",
+      "census": {
+        "censusName": "State House District 166 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113629,
+        "medianAge": 46.4,
+        "totalPopulation": 59785,
+        "collegePct": 54.88,
+        "renterRatePct": 14.45,
+        "race": {
+          "whitePct": 84.14,
+          "nonHispanicWhitePct": 83.4,
+          "blackPct": 5.67,
+          "asianPct": 2.82,
+          "hispanicPct": 3
+        }
+      },
+      "election": {
+        "winner": "Jesse L. Petrea",
+        "party": "REP",
+        "pct": 71.66,
+        "unopposed": false
+      }
+    },
+    "167": {
+      "districtNumber": 167,
+      "districtName": "Georgia House District 167",
+      "census": {
+        "censusName": "State House District 167 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63282,
+        "medianAge": 36.7,
+        "totalPopulation": 62231,
+        "collegePct": 18.6,
+        "renterRatePct": 29.94,
+        "race": {
+          "whitePct": 61.69,
+          "nonHispanicWhitePct": 60.49,
+          "blackPct": 22.81,
+          "asianPct": 1.3,
+          "hispanicPct": 9.78
+        }
+      },
+      "election": {
+        "winner": "Buddy Deloach",
+        "party": "REP",
+        "pct": 70.57,
+        "unopposed": false
+      }
+    },
+    "168": {
+      "districtNumber": 168,
+      "districtName": "Georgia House District 168",
+      "census": {
+        "censusName": "State House District 168 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59120,
+        "medianAge": 29.6,
+        "totalPopulation": 61135,
+        "collegePct": 19.71,
+        "renterRatePct": 47.3,
+        "race": {
+          "whitePct": 39.92,
+          "nonHispanicWhitePct": 37.53,
+          "blackPct": 44.67,
+          "asianPct": 1.81,
+          "hispanicPct": 11.04
+        }
+      },
+      "election": {
+        "winner": "Al Williams",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "169": {
+      "districtNumber": 169,
+      "districtName": "Georgia House District 169",
+      "census": {
+        "censusName": "State House District 169 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49016,
+        "medianAge": 38.4,
+        "totalPopulation": 57429,
+        "collegePct": 14.13,
+        "renterRatePct": 34.75,
+        "race": {
+          "whitePct": 61.52,
+          "nonHispanicWhitePct": 58.17,
+          "blackPct": 29.95,
+          "asianPct": 0.37,
+          "hispanicPct": 9.34
+        }
+      },
+      "election": {
+        "winner": "Angie O'Steen",
+        "party": "REP",
+        "pct": 74.75,
+        "unopposed": false
+      }
+    },
+    "170": {
+      "districtNumber": 170,
+      "districtName": "Georgia House District 170",
+      "census": {
+        "censusName": "State House District 170 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52109,
+        "medianAge": 37.6,
+        "totalPopulation": 61304,
+        "collegePct": 17.5,
+        "renterRatePct": 36.85,
+        "race": {
+          "whitePct": 64.63,
+          "nonHispanicWhitePct": 61.91,
+          "blackPct": 23.34,
+          "asianPct": 1.09,
+          "hispanicPct": 10.33
+        }
+      },
+      "election": {
+        "winner": "Jaclyn Dixon Ford",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "171": {
+      "districtNumber": 171,
+      "districtName": "Georgia House District 171",
+      "census": {
+        "censusName": "State House District 171 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52561,
+        "medianAge": 40,
+        "totalPopulation": 58450,
+        "collegePct": 13.7,
+        "renterRatePct": 34.94,
+        "race": {
+          "whitePct": 52.44,
+          "nonHispanicWhitePct": 50.55,
+          "blackPct": 40.12,
+          "asianPct": 0.36,
+          "hispanicPct": 6.84
+        }
+      },
+      "election": {
+        "winner": "Joe Campbell",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "172": {
+      "districtNumber": 172,
+      "districtName": "Georgia House District 172",
+      "census": {
+        "censusName": "State House District 172 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51547,
+        "medianAge": 37.3,
+        "totalPopulation": 61276,
+        "collegePct": 16.3,
+        "renterRatePct": 36.71,
+        "race": {
+          "whitePct": 58.25,
+          "nonHispanicWhitePct": 55.03,
+          "blackPct": 24.91,
+          "asianPct": 0.7,
+          "hispanicPct": 16.71
+        }
+      },
+      "election": {
+        "winner": "Charles 'Chas' Cannon",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "173": {
+      "districtNumber": 173,
+      "districtName": "Georgia House District 173",
+      "census": {
+        "censusName": "State House District 173 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56484,
+        "medianAge": 38.8,
+        "totalPopulation": 58666,
+        "collegePct": 21.71,
+        "renterRatePct": 40.13,
+        "race": {
+          "whitePct": 56.15,
+          "nonHispanicWhitePct": 54.19,
+          "blackPct": 37.1,
+          "asianPct": 0.68,
+          "hispanicPct": 6.67
+        }
+      },
+      "election": {
+        "winner": "Darlene K. Taylor",
+        "party": "REP",
+        "pct": 65.47,
+        "unopposed": false
+      }
+    },
+    "174": {
+      "districtNumber": 174,
+      "districtName": "Georgia House District 174",
+      "census": {
+        "censusName": "State House District 174 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49327,
+        "medianAge": 39.2,
+        "totalPopulation": 60037,
+        "collegePct": 12.12,
+        "renterRatePct": 25.31,
+        "race": {
+          "whitePct": 71.04,
+          "nonHispanicWhitePct": 68.94,
+          "blackPct": 17.78,
+          "asianPct": 0.92,
+          "hispanicPct": 8.89
+        }
+      },
+      "election": {
+        "winner": "John Corbett",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "175": {
+      "districtNumber": 175,
+      "districtName": "Georgia House District 175",
+      "census": {
+        "censusName": "State House District 175 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70805,
+        "medianAge": 36,
+        "totalPopulation": 61573,
+        "collegePct": 27.81,
+        "renterRatePct": 24.64,
+        "race": {
+          "whitePct": 66.89,
+          "nonHispanicWhitePct": 64.72,
+          "blackPct": 23.18,
+          "asianPct": 2.39,
+          "hispanicPct": 6.32
+        }
+      },
+      "election": {
+        "winner": "John LaHood",
+        "party": "REP",
+        "pct": 71.95,
+        "unopposed": false
+      }
+    },
+    "176": {
+      "districtNumber": 176,
+      "districtName": "Georgia House District 176",
+      "census": {
+        "censusName": "State House District 176 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47599,
+        "medianAge": 36.1,
+        "totalPopulation": 60383,
+        "collegePct": 16.17,
+        "renterRatePct": 36.57,
+        "race": {
+          "whitePct": 66.09,
+          "nonHispanicWhitePct": 63.49,
+          "blackPct": 22.66,
+          "asianPct": 1.36,
+          "hispanicPct": 9.34
+        }
+      },
+      "election": {
+        "winner": "James D. Burchett",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "177": {
+      "districtNumber": 177,
+      "districtName": "Georgia House District 177",
+      "census": {
+        "censusName": "State House District 177 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44651,
+        "medianAge": 28.6,
+        "totalPopulation": 58465,
+        "collegePct": 24.43,
+        "renterRatePct": 60.7,
+        "race": {
+          "whitePct": 34.55,
+          "nonHispanicWhitePct": 32.92,
+          "blackPct": 56,
+          "asianPct": 1.23,
+          "hispanicPct": 7.32
+        }
+      },
+      "election": {
+        "winner": "Dexter Sharper",
+        "party": "DEM",
+        "pct": 62.11,
+        "unopposed": false
+      }
+    },
+    "178": {
+      "districtNumber": 178,
+      "districtName": "Georgia House District 178",
+      "census": {
+        "censusName": "State House District 178 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53698,
+        "medianAge": 41.1,
+        "totalPopulation": 58642,
+        "collegePct": 14.49,
+        "renterRatePct": 25.71,
+        "race": {
+          "whitePct": 78.24,
+          "nonHispanicWhitePct": 76.53,
+          "blackPct": 14.7,
+          "asianPct": 0.19,
+          "hispanicPct": 5.82
+        }
+      },
+      "election": {
+        "winner": "Steven Meeks",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "179": {
+      "districtNumber": 179,
+      "districtName": "Georgia House District 179",
+      "census": {
+        "censusName": "State House District 179 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65259,
+        "medianAge": 43,
+        "totalPopulation": 60521,
+        "collegePct": 31.52,
+        "renterRatePct": 39.04,
+        "race": {
+          "whitePct": 61.27,
+          "nonHispanicWhitePct": 58.72,
+          "blackPct": 27.64,
+          "asianPct": 0.77,
+          "hispanicPct": 8.11
+        }
+      },
+      "election": {
+        "winner": "Rick Townsend",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "180": {
+      "districtNumber": 180,
+      "districtName": "Georgia House District 180",
+      "census": {
+        "censusName": "State House District 180 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73762,
+        "medianAge": 35.2,
+        "totalPopulation": 61219,
+        "collegePct": 23.95,
+        "renterRatePct": 34.4,
+        "race": {
+          "whitePct": 71.04,
+          "nonHispanicWhitePct": 68.74,
+          "blackPct": 18.13,
+          "asianPct": 1.88,
+          "hispanicPct": 7.23
+        }
+      },
+      "election": {
+        "winner": "Steven Sainz",
+        "party": "REP",
+        "pct": 69.35,
+        "unopposed": false
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Georgia Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80064,
+        "medianAge": 35.6,
+        "totalPopulation": 197066,
+        "collegePct": 36.79,
+        "renterRatePct": 33.42,
+        "race": {
+          "whitePct": 59.24,
+          "nonHispanicWhitePct": 57.51,
+          "blackPct": 25.25,
+          "asianPct": 2.62,
+          "hispanicPct": 8.98
+        }
+      },
+      "election": {
+        "winner": "Ben Watson",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Georgia Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59724,
+        "medianAge": 33.9,
+        "totalPopulation": 190393,
+        "collegePct": 31.09,
+        "renterRatePct": 52.81,
+        "race": {
+          "whitePct": 38.11,
+          "nonHispanicWhitePct": 35.9,
+          "blackPct": 50.15,
+          "asianPct": 2.74,
+          "hispanicPct": 8.56
+        }
+      },
+      "election": {
+        "winner": "Derek Mallow",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Georgia Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64727,
+        "medianAge": 40,
+        "totalPopulation": 193996,
+        "collegePct": 23.52,
+        "renterRatePct": 31.71,
+        "race": {
+          "whitePct": 67.71,
+          "nonHispanicWhitePct": 65.73,
+          "blackPct": 21.66,
+          "asianPct": 1.23,
+          "hispanicPct": 7.18
+        }
+      },
+      "election": {
+        "winner": "Mike Hodges",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Georgia Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69426,
+        "medianAge": 34.9,
+        "totalPopulation": 194540,
+        "collegePct": 28.22,
+        "renterRatePct": 35.77,
+        "race": {
+          "whitePct": 65.95,
+          "nonHispanicWhitePct": 64.24,
+          "blackPct": 23.37,
+          "asianPct": 1.19,
+          "hispanicPct": 6.6
+        }
+      },
+      "election": {
+        "winner": "Billy Hickman",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Georgia Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59812,
+        "medianAge": 31.9,
+        "totalPopulation": 187913,
+        "collegePct": 23.53,
+        "renterRatePct": 57.58,
+        "race": {
+          "whitePct": 24.53,
+          "nonHispanicWhitePct": 16.7,
+          "blackPct": 27,
+          "asianPct": 10.23,
+          "hispanicPct": 44.13
+        }
+      },
+      "election": {
+        "winner": "Sheikh Rahman",
+        "party": "DEM",
+        "pct": 67.61,
+        "unopposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Georgia Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104267,
+        "medianAge": 35.7,
+        "totalPopulation": 189536,
+        "collegePct": 70.49,
+        "renterRatePct": 49.25,
+        "race": {
+          "whitePct": 59,
+          "nonHispanicWhitePct": 57.35,
+          "blackPct": 21.37,
+          "asianPct": 7.4,
+          "hispanicPct": 8.46
+        }
+      },
+      "election": {
+        "winner": "Matt Brass",
+        "party": "REP",
+        "pct": 72.31,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Georgia Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94103,
+        "medianAge": 37,
+        "totalPopulation": 190553,
+        "collegePct": 48.71,
+        "renterRatePct": 38.94,
+        "race": {
+          "whitePct": 38.53,
+          "nonHispanicWhitePct": 34.67,
+          "blackPct": 21.11,
+          "asianPct": 20.86,
+          "hispanicPct": 19.12
+        }
+      },
+      "election": {
+        "winner": "Nabilah Islam Parkes",
+        "party": "DEM",
+        "pct": 55.02,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Georgia Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53576,
+        "medianAge": 33.6,
+        "totalPopulation": 192887,
+        "collegePct": 22.51,
+        "renterRatePct": 39.03,
+        "race": {
+          "whitePct": 59.68,
+          "nonHispanicWhitePct": 57.62,
+          "blackPct": 30.41,
+          "asianPct": 1.53,
+          "hispanicPct": 7.45
+        }
+      },
+      "election": {
+        "winner": "Russ Goodman",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Georgia Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89926,
+        "medianAge": 36.7,
+        "totalPopulation": 199477,
+        "collegePct": 38.25,
+        "renterRatePct": 23.57,
+        "race": {
+          "whitePct": 31.98,
+          "nonHispanicWhitePct": 29.18,
+          "blackPct": 31.3,
+          "asianPct": 13.43,
+          "hispanicPct": 22.23
+        }
+      },
+      "election": {
+        "winner": "Nikki Merritt",
+        "party": "DEM",
+        "pct": 59.95,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Georgia Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75010,
+        "medianAge": 40,
+        "totalPopulation": 187769,
+        "collegePct": 28.5,
+        "renterRatePct": 30.42,
+        "race": {
+          "whitePct": 20.95,
+          "nonHispanicWhitePct": 19.04,
+          "blackPct": 68.02,
+          "asianPct": 3.28,
+          "hispanicPct": 6.26
+        }
+      },
+      "election": {
+        "winner": "Emanuel D. Jones",
+        "party": "DEM",
+        "pct": 85.31,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Georgia Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52851,
+        "medianAge": 39,
+        "totalPopulation": 189542,
+        "collegePct": 17.33,
+        "renterRatePct": 35.89,
+        "race": {
+          "whitePct": 57.92,
+          "nonHispanicWhitePct": 55.52,
+          "blackPct": 31.91,
+          "asianPct": 0.65,
+          "hispanicPct": 9.85
+        }
+      },
+      "election": {
+        "winner": "Sam Watson",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Georgia Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45316,
+        "medianAge": 38.7,
+        "totalPopulation": 186926,
+        "collegePct": 19.26,
+        "renterRatePct": 45.18,
+        "race": {
+          "whitePct": 33.99,
+          "nonHispanicWhitePct": 32.97,
+          "blackPct": 59.75,
+          "asianPct": 0.81,
+          "hispanicPct": 3.93
+        }
+      },
+      "election": {
+        "winner": "Freddie Powell Sims",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Georgia Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56049,
+        "medianAge": 38.9,
+        "totalPopulation": 187921,
+        "collegePct": 18.48,
+        "renterRatePct": 34.57,
+        "race": {
+          "whitePct": 63.34,
+          "nonHispanicWhitePct": 60.75,
+          "blackPct": 27.51,
+          "asianPct": 1.15,
+          "hispanicPct": 7.4
+        }
+      },
+      "election": {
+        "winner": "Carden H. Summers",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Georgia Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106491,
+        "medianAge": 37.6,
+        "totalPopulation": 193760,
+        "collegePct": 66.94,
+        "renterRatePct": 46.19,
+        "race": {
+          "whitePct": 57.3,
+          "nonHispanicWhitePct": 53.89,
+          "blackPct": 18.63,
+          "asianPct": 8.4,
+          "hispanicPct": 13.6
+        }
+      },
+      "election": {
+        "winner": "Josh McLaurin",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Georgia Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46383,
+        "medianAge": 34.5,
+        "totalPopulation": 186105,
+        "collegePct": 21.29,
+        "renterRatePct": 51.07,
+        "race": {
+          "whitePct": 34.97,
+          "nonHispanicWhitePct": 33.3,
+          "blackPct": 53.23,
+          "asianPct": 1.31,
+          "hispanicPct": 7.71
+        }
+      },
+      "election": {
+        "winner": "Ed Harbison",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Georgia Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84981,
+        "medianAge": 40.9,
+        "totalPopulation": 197237,
+        "collegePct": 34.27,
+        "renterRatePct": 25.25,
+        "race": {
+          "whitePct": 65.69,
+          "nonHispanicWhitePct": 63.78,
+          "blackPct": 23.33,
+          "asianPct": 2.59,
+          "hispanicPct": 6.1
+        }
+      },
+      "election": {
+        "winner": "Marty Harbin",
+        "party": "REP",
+        "pct": 65.77,
+        "unopposed": false
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Georgia Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84600,
+        "medianAge": 37.1,
+        "totalPopulation": 196463,
+        "collegePct": 26.88,
+        "renterRatePct": 23.84,
+        "race": {
+          "whitePct": 55.83,
+          "nonHispanicWhitePct": 54.55,
+          "blackPct": 33.84,
+          "asianPct": 1.53,
+          "hispanicPct": 5.9
+        }
+      },
+      "election": {
+        "winner": "Gail Davenport",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Georgia Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72584,
+        "medianAge": 39.9,
+        "totalPopulation": 191731,
+        "collegePct": 28.08,
+        "renterRatePct": 31.34,
+        "race": {
+          "whitePct": 58.17,
+          "nonHispanicWhitePct": 56.36,
+          "blackPct": 31.6,
+          "asianPct": 2.16,
+          "hispanicPct": 5.81
+        }
+      },
+      "election": {
+        "winner": "John F. Kennedy",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Georgia Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50316,
+        "medianAge": 37.9,
+        "totalPopulation": 196029,
+        "collegePct": 13.59,
+        "renterRatePct": 32.26,
+        "race": {
+          "whitePct": 63.57,
+          "nonHispanicWhitePct": 61.24,
+          "blackPct": 24.65,
+          "asianPct": 0.49,
+          "hispanicPct": 10.19
+        }
+      },
+      "election": {
+        "winner": "Blake Tillery",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Georgia Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69971,
+        "medianAge": 39,
+        "totalPopulation": 196693,
+        "collegePct": 25.05,
+        "renterRatePct": 28.28,
+        "race": {
+          "whitePct": 60.27,
+          "nonHispanicWhitePct": 59,
+          "blackPct": 30.88,
+          "asianPct": 1.88,
+          "hispanicPct": 4.65
+        }
+      },
+      "election": {
+        "winner": "Larry Walker",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Georgia Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120018,
+        "medianAge": 40.8,
+        "totalPopulation": 196729,
+        "collegePct": 52.96,
+        "renterRatePct": 22.86,
+        "race": {
+          "whitePct": 73.06,
+          "nonHispanicWhitePct": 70.27,
+          "blackPct": 6.86,
+          "asianPct": 7.28,
+          "hispanicPct": 11.71
+        }
+      },
+      "election": {
+        "winner": "Brandon Beach",
+        "party": "REP",
+        "pct": 70.35,
+        "unopposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Georgia Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52244,
+        "medianAge": 34.9,
+        "totalPopulation": 190743,
+        "collegePct": 24.64,
+        "renterRatePct": 50.25,
+        "race": {
+          "whitePct": 31.6,
+          "nonHispanicWhitePct": 30.09,
+          "blackPct": 57.88,
+          "asianPct": 1.87,
+          "hispanicPct": 5.76
+        }
+      },
+      "election": {
+        "winner": "Harold V. Jones, III",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Georgia Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59605,
+        "medianAge": 38.2,
+        "totalPopulation": 194848,
+        "collegePct": 18.55,
+        "renterRatePct": 29.65,
+        "race": {
+          "whitePct": 55.93,
+          "nonHispanicWhitePct": 53.69,
+          "blackPct": 35.6,
+          "asianPct": 1.05,
+          "hispanicPct": 5.58
+        }
+      },
+      "election": {
+        "winner": "Max Burns",
+        "party": "REP",
+        "pct": 61.84,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Georgia Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80053,
+        "medianAge": 42.3,
+        "totalPopulation": 195531,
+        "collegePct": 32.26,
+        "renterRatePct": 21.39,
+        "race": {
+          "whitePct": 69.65,
+          "nonHispanicWhitePct": 67.7,
+          "blackPct": 18.9,
+          "asianPct": 3.44,
+          "hispanicPct": 5.82
+        }
+      },
+      "election": {
+        "winner": "Lee Anderson",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Georgia Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67880,
+        "medianAge": 39.3,
+        "totalPopulation": 196163,
+        "collegePct": 24.36,
+        "renterRatePct": 24.84,
+        "race": {
+          "whitePct": 58.4,
+          "nonHispanicWhitePct": 57.11,
+          "blackPct": 34.05,
+          "asianPct": 1.15,
+          "hispanicPct": 4.91
+        }
+      },
+      "election": {
+        "winner": "Ricky \"Rick\" Williams",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Georgia Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43400,
+        "medianAge": 36.7,
+        "totalPopulation": 190612,
+        "collegePct": 15.93,
+        "renterRatePct": 45.28,
+        "race": {
+          "whitePct": 35.8,
+          "nonHispanicWhitePct": 34.29,
+          "blackPct": 56.81,
+          "asianPct": 1.04,
+          "hispanicPct": 4.46
+        }
+      },
+      "election": {
+        "winner": "David E. Lucas, Sr.",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Georgia Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131105,
+        "medianAge": 39,
+        "totalPopulation": 198903,
+        "collegePct": 52.38,
+        "renterRatePct": 15.99,
+        "race": {
+          "whitePct": 70.46,
+          "nonHispanicWhitePct": 67.69,
+          "blackPct": 4.43,
+          "asianPct": 12.16,
+          "hispanicPct": 11.35
+        }
+      },
+      "election": {
+        "winner": "Greg Dolezal",
+        "party": "REP",
+        "pct": 73.27,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Georgia Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91273,
+        "medianAge": 39.4,
+        "totalPopulation": 195816,
+        "collegePct": 31.96,
+        "renterRatePct": 22.38,
+        "race": {
+          "whitePct": 69.58,
+          "nonHispanicWhitePct": 66.77,
+          "blackPct": 20.07,
+          "asianPct": 2.06,
+          "hispanicPct": 7.68
+        }
+      },
+      "election": {
+        "winner": "Donzella James",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Georgia Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71128,
+        "medianAge": 39.3,
+        "totalPopulation": 191051,
+        "collegePct": 30.82,
+        "renterRatePct": 33.22,
+        "race": {
+          "whitePct": 61.51,
+          "nonHispanicWhitePct": 59.84,
+          "blackPct": 27.92,
+          "asianPct": 2.84,
+          "hispanicPct": 5.64
+        }
+      },
+      "election": {
+        "winner": "Randy Robertson",
+        "party": "REP",
+        "pct": 65.23,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Georgia Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73444,
+        "medianAge": 36.1,
+        "totalPopulation": 193758,
+        "collegePct": 22.31,
+        "renterRatePct": 29.59,
+        "race": {
+          "whitePct": 68.76,
+          "nonHispanicWhitePct": 66.53,
+          "blackPct": 21.62,
+          "asianPct": 1.09,
+          "hispanicPct": 7.39
+        }
+      },
+      "election": {
+        "winner": "Timothy J. Bearden",
+        "party": "REP",
+        "pct": 65.05,
+        "unopposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Georgia Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87223,
+        "medianAge": 37,
+        "totalPopulation": 198550,
+        "collegePct": 25.26,
+        "renterRatePct": 23.41,
+        "race": {
+          "whitePct": 67.79,
+          "nonHispanicWhitePct": 64.76,
+          "blackPct": 19.94,
+          "asianPct": 1.38,
+          "hispanicPct": 9.54
+        }
+      },
+      "election": {
+        "winner": "Jason Anavitarte",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Georgia Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102387,
+        "medianAge": 38.7,
+        "totalPopulation": 195762,
+        "collegePct": 43.75,
+        "renterRatePct": 28.31,
+        "race": {
+          "whitePct": 66.59,
+          "nonHispanicWhitePct": 63.88,
+          "blackPct": 14.44,
+          "asianPct": 4.72,
+          "hispanicPct": 11.63
+        }
+      },
+      "election": {
+        "winner": "Kay Kirkpatrick",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Georgia Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75356,
+        "medianAge": 35.3,
+        "totalPopulation": 196911,
+        "collegePct": 32.97,
+        "renterRatePct": 38.92,
+        "race": {
+          "whitePct": 29.7,
+          "nonHispanicWhitePct": 25.25,
+          "blackPct": 41.83,
+          "asianPct": 2.39,
+          "hispanicPct": 26.85
+        }
+      },
+      "election": {
+        "winner": "Michael Doc Rhett",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Georgia Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55453,
+        "medianAge": 33.9,
+        "totalPopulation": 187748,
+        "collegePct": 22.12,
+        "renterRatePct": 49.92,
+        "race": {
+          "whitePct": 13.1,
+          "nonHispanicWhitePct": 10.05,
+          "blackPct": 68.63,
+          "asianPct": 4.2,
+          "hispanicPct": 14.89
+        }
+      },
+      "election": {
+        "winner": "Kenya Wicks",
+        "party": "DEM",
+        "pct": 81.95,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Georgia Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79312,
+        "medianAge": 35.7,
+        "totalPopulation": 199289,
+        "collegePct": 34.42,
+        "renterRatePct": 37.56,
+        "race": {
+          "whitePct": 18.14,
+          "nonHispanicWhitePct": 15.66,
+          "blackPct": 71.59,
+          "asianPct": 0.82,
+          "hispanicPct": 8.94
+        }
+      },
+      "election": {
+        "winner": "Jason Esteves",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Georgia Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75695,
+        "medianAge": 33.7,
+        "totalPopulation": 191741,
+        "collegePct": 53.85,
+        "renterRatePct": 58.76,
+        "race": {
+          "whitePct": 36.48,
+          "nonHispanicWhitePct": 34.56,
+          "blackPct": 48.92,
+          "asianPct": 4.51,
+          "hispanicPct": 8.41
+        }
+      },
+      "election": {
+        "winner": "Nan Orrock",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Georgia Senate District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108777,
+        "medianAge": 39.6,
+        "totalPopulation": 193759,
+        "collegePct": 49.34,
+        "renterRatePct": 20.07,
+        "race": {
+          "whitePct": 63.21,
+          "nonHispanicWhitePct": 61.04,
+          "blackPct": 19.3,
+          "asianPct": 4.01,
+          "hispanicPct": 10.84
+        }
+      },
+      "election": {
+        "winner": "Ed Setzler",
+        "party": "REP",
+        "pct": 57.48,
+        "unopposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Georgia Senate District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74382,
+        "medianAge": 36.3,
+        "totalPopulation": 199486,
+        "collegePct": 44.62,
+        "renterRatePct": 45.05,
+        "race": {
+          "whitePct": 22.06,
+          "nonHispanicWhitePct": 19.85,
+          "blackPct": 62.73,
+          "asianPct": 3.66,
+          "hispanicPct": 10.27
+        }
+      },
+      "election": {
+        "winner": "RaShaun Kemp",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Georgia Senate District 39",
+      "census": {
+        "censusName": "State Senate District 39 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68910,
+        "medianAge": 32.8,
+        "totalPopulation": 189863,
+        "collegePct": 49.62,
+        "renterRatePct": 54.96,
+        "race": {
+          "whitePct": 25.26,
+          "nonHispanicWhitePct": 23.83,
+          "blackPct": 62.54,
+          "asianPct": 4.8,
+          "hispanicPct": 5.47
+        }
+      },
+      "election": {
+        "winner": "Sonya Halpern",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Georgia Senate District 40",
+      "census": {
+        "censusName": "State Senate District 40 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88034,
+        "medianAge": 35,
+        "totalPopulation": 192713,
+        "collegePct": 59.08,
+        "renterRatePct": 50.13,
+        "race": {
+          "whitePct": 47.93,
+          "nonHispanicWhitePct": 43.64,
+          "blackPct": 18.82,
+          "asianPct": 11.2,
+          "hispanicPct": 22.73
+        }
+      },
+      "election": {
+        "winner": "Sally Harrell",
+        "party": "DEM",
+        "pct": 62.64,
+        "unopposed": false
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Georgia Senate District 41",
+      "census": {
+        "censusName": "State Senate District 41 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65901,
+        "medianAge": 36,
+        "totalPopulation": 195778,
+        "collegePct": 33.47,
+        "renterRatePct": 43.57,
+        "race": {
+          "whitePct": 19.66,
+          "nonHispanicWhitePct": 18.44,
+          "blackPct": 64.21,
+          "asianPct": 7.49,
+          "hispanicPct": 5.9
+        }
+      },
+      "election": {
+        "winner": "Kim Jackson",
+        "party": "DEM",
+        "pct": 81.82,
+        "unopposed": false
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Georgia Senate District 42",
+      "census": {
+        "censusName": "State Senate District 42 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99906,
+        "medianAge": 36.2,
+        "totalPopulation": 184798,
+        "collegePct": 63.62,
+        "renterRatePct": 41.58,
+        "race": {
+          "whitePct": 52.09,
+          "nonHispanicWhitePct": 49.89,
+          "blackPct": 27.16,
+          "asianPct": 6.38,
+          "hispanicPct": 11.67
+        }
+      },
+      "election": {
+        "winner": "Brian Strickland",
+        "party": "REP",
+        "pct": 58.24,
+        "unopposed": false
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Georgia Senate District 43",
+      "census": {
+        "censusName": "State Senate District 43 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70980,
+        "medianAge": 37.5,
+        "totalPopulation": 199514,
+        "collegePct": 27.3,
+        "renterRatePct": 34.93,
+        "race": {
+          "whitePct": 24.88,
+          "nonHispanicWhitePct": 22.65,
+          "blackPct": 62.66,
+          "asianPct": 1.49,
+          "hispanicPct": 8.88
+        }
+      },
+      "election": {
+        "winner": "Tonya P. Anderson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Georgia Senate District 44",
+      "census": {
+        "censusName": "State Senate District 44 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69069,
+        "medianAge": 35.8,
+        "totalPopulation": 189652,
+        "collegePct": 28.07,
+        "renterRatePct": 34.69,
+        "race": {
+          "whitePct": 15.62,
+          "nonHispanicWhitePct": 12.71,
+          "blackPct": 68.69,
+          "asianPct": 4.79,
+          "hispanicPct": 10.53
+        }
+      },
+      "election": {
+        "winner": "Elena Parent",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Georgia Senate District 45",
+      "census": {
+        "censusName": "State Senate District 45 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97129,
+        "medianAge": 37.7,
+        "totalPopulation": 196221,
+        "collegePct": 36.29,
+        "renterRatePct": 21.66,
+        "race": {
+          "whitePct": 53.3,
+          "nonHispanicWhitePct": 50.34,
+          "blackPct": 19.2,
+          "asianPct": 10.96,
+          "hispanicPct": 16.24
+        }
+      },
+      "election": {
+        "winner": "Clint Dixon",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Georgia Senate District 46",
+      "census": {
+        "censusName": "State Senate District 46 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81015,
+        "medianAge": 33.3,
+        "totalPopulation": 191379,
+        "collegePct": 40.84,
+        "renterRatePct": 32.44,
+        "race": {
+          "whitePct": 67.55,
+          "nonHispanicWhitePct": 65.3,
+          "blackPct": 19.16,
+          "asianPct": 3.92,
+          "hispanicPct": 7.84
+        }
+      },
+      "election": {
+        "winner": "Bill Cowsert",
+        "party": "REP",
+        "pct": 63.67,
+        "unopposed": false
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Georgia Senate District 47",
+      "census": {
+        "censusName": "State Senate District 47 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66576,
+        "medianAge": 35.6,
+        "totalPopulation": 196250,
+        "collegePct": 32.19,
+        "renterRatePct": 35.94,
+        "race": {
+          "whitePct": 68.17,
+          "nonHispanicWhitePct": 65.07,
+          "blackPct": 17.26,
+          "asianPct": 2.73,
+          "hispanicPct": 11.75
+        }
+      },
+      "election": {
+        "winner": "Frank Ginn",
+        "party": "REP",
+        "pct": 62.61,
+        "unopposed": false
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Georgia Senate District 48",
+      "census": {
+        "censusName": "State Senate District 48 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 158019,
+        "medianAge": 41.3,
+        "totalPopulation": 188726,
+        "collegePct": 67.13,
+        "renterRatePct": 16.99,
+        "race": {
+          "whitePct": 51.62,
+          "nonHispanicWhitePct": 49.76,
+          "blackPct": 8.87,
+          "asianPct": 29.55,
+          "hispanicPct": 7.7
+        }
+      },
+      "election": {
+        "winner": "Shawn Still",
+        "party": "REP",
+        "pct": 53.58,
+        "unopposed": false
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Georgia Senate District 49",
+      "census": {
+        "censusName": "State Senate District 49 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78176,
+        "medianAge": 38.6,
+        "totalPopulation": 195258,
+        "collegePct": 27.72,
+        "renterRatePct": 31.42,
+        "race": {
+          "whitePct": 68.19,
+          "nonHispanicWhitePct": 60.44,
+          "blackPct": 6.94,
+          "asianPct": 2.08,
+          "hispanicPct": 26.92
+        }
+      },
+      "election": {
+        "winner": "Drew Echols",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Georgia Senate District 50",
+      "census": {
+        "censusName": "State Senate District 50 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61375,
+        "medianAge": 42.5,
+        "totalPopulation": 191388,
+        "collegePct": 21.14,
+        "renterRatePct": 24.93,
+        "race": {
+          "whitePct": 81.76,
+          "nonHispanicWhitePct": 78.93,
+          "blackPct": 4.94,
+          "asianPct": 1.42,
+          "hispanicPct": 11.62
+        }
+      },
+      "election": {
+        "winner": "Bo Hatchett",
+        "party": "REP",
+        "pct": 83.98,
+        "unopposed": false
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Georgia Senate District 51",
+      "census": {
+        "censusName": "State Senate District 51 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71578,
+        "medianAge": 47,
+        "totalPopulation": 195583,
+        "collegePct": 26.7,
+        "renterRatePct": 20.84,
+        "race": {
+          "whitePct": 90.98,
+          "nonHispanicWhitePct": 89.38,
+          "blackPct": 1.19,
+          "asianPct": 0.59,
+          "hispanicPct": 5.79
+        }
+      },
+      "election": {
+        "winner": "Steve Gooch",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Georgia Senate District 52",
+      "census": {
+        "censusName": "State Senate District 52 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71245,
+        "medianAge": 38.4,
+        "totalPopulation": 194013,
+        "collegePct": 23.45,
+        "renterRatePct": 30.48,
+        "race": {
+          "whitePct": 76.71,
+          "nonHispanicWhitePct": 73.15,
+          "blackPct": 11.61,
+          "asianPct": 0.87,
+          "hispanicPct": 10.43
+        }
+      },
+      "election": {
+        "winner": "Chuck Hufstetler",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Georgia Senate District 53",
+      "census": {
+        "censusName": "State Senate District 53 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59977,
+        "medianAge": 40.9,
+        "totalPopulation": 191028,
+        "collegePct": 20.79,
+        "renterRatePct": 26.46,
+        "race": {
+          "whitePct": 87.54,
+          "nonHispanicWhitePct": 86.46,
+          "blackPct": 4.71,
+          "asianPct": 1.13,
+          "hispanicPct": 4.37
+        }
+      },
+      "election": {
+        "winner": "Colton Moore",
+        "party": "REP",
+        "pct": 78.77,
+        "unopposed": false
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Georgia Senate District 54",
+      "census": {
+        "censusName": "State Senate District 54 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64558,
+        "medianAge": 37.5,
+        "totalPopulation": 192832,
+        "collegePct": 17.81,
+        "renterRatePct": 30.21,
+        "race": {
+          "whitePct": 76.01,
+          "nonHispanicWhitePct": 66.25,
+          "blackPct": 3.01,
+          "asianPct": 1.19,
+          "hispanicPct": 27.19
+        }
+      },
+      "election": {
+        "winner": "Chuck Payne",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Georgia Senate District 55",
+      "census": {
+        "censusName": "State Senate District 55 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81312,
+        "medianAge": 37,
+        "totalPopulation": 197560,
+        "collegePct": 36.11,
+        "renterRatePct": 21.91,
+        "race": {
+          "whitePct": 21.64,
+          "nonHispanicWhitePct": 18.98,
+          "blackPct": 63.33,
+          "asianPct": 3.61,
+          "hispanicPct": 10.67
+        }
+      },
+      "election": {
+        "winner": "Randal Mangham",
+        "party": "DEM",
+        "pct": 75.97,
+        "unopposed": false
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Georgia Senate District 56",
+      "census": {
+        "censusName": "State Senate District 56 (2022); Georgia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 129730,
+        "medianAge": 41.8,
+        "totalPopulation": 186097,
+        "collegePct": 60.83,
+        "renterRatePct": 14.83,
+        "race": {
+          "whitePct": 77.67,
+          "nonHispanicWhitePct": 74.89,
+          "blackPct": 6.31,
+          "asianPct": 6.07,
+          "hispanicPct": 7.75
+        }
+      },
+      "election": {
+        "winner": "John Albers",
+        "party": "REP",
+        "pct": 61.23,
+        "unopposed": false
+      }
+    }
+  }
+}
