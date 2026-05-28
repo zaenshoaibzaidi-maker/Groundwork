@@ -10,8 +10,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-1",
     name: "Texas House District 1",
-    city: "TBD",
-    region: "TBD",
+    city: "Texarkana",
+    region: "East Texas Piney Woods",
     type: "state house district",
     incumbentName: "Gary Vandeaver",
     incumbentParty: "Republican",
@@ -35,11 +35,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.03, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Timber & Forestry Economy", tag: "Economy", why: "Northeast Texas's pine timber industry is the primary private-sector employer across Bowie and adjacent counties; timber markets, forest management policy, pulp and paper mill operations, and logging employment are the economic variables that working families in this district track most directly." },
-        { name: "Texarkana Binational Economy & Arkansas Border Dynamics", tag: "Economy", why: "Texarkana straddles the Texas-Arkansas state line, creating a unique economic environment where sales tax differentials, retail competition, and cross-border employment shape local commerce in ways that no other Texas House district experiences; economic development policy must account for the Arkansas side as much as the Texas side." },
-        { name: "Black Community Investment & Constituent Service", tag: "Equity", why: "At 19.56% Black — the highest of any district in this Northeast Texas batch — HD-1 has a significant African American community concentrated in Texarkana and rural Bowie County whose public services, healthcare access, and economic opportunity expectations must be part of any serious governing agenda." },
-        { name: "Rural Healthcare & Regional Hospital Access", tag: "Healthcare", why: "CHRISTUS St. Michael Health System in Texarkana anchors regional healthcare for a wide multi-county area; hospital funding, specialist access, and rural clinic capacity across Bowie, Cass, and Red River counties are quality-of-life priorities for a district whose older median age (40.2) generates elevated healthcare demand." },
-        { name: "Manufacturing & Industrial Job Retention", tag: "Economy", why: "Northeast Texas's small manufacturing base — defense-related, food processing, and light industrial — provides above-median wages for a non-degreed workforce; plant retention, workforce training, and industrial recruitment are economic development priorities for a district where 20.2% college attainment makes manufacturing the most accessible path to stable employment." }
+        { name: "Timber & Forest Products Economy", tag: "lean-into", why: "The Piney Woods economy runs on timber, logging, and wood products manufacturing — industries that directly employ working-class households earning a median $57,600. Candidates who speak to specific Bowie and Titus county mill operations, forest management policy, and timber market conditions earn far more credibility than those running on generic rural-economy rhetoric." },
+        { name: "Texarkana Cross-Border Infrastructure", tag: "lean-into", why: "As a state-line city split between Texas and Arkansas, Texarkana residents navigate dual-state commutes, healthcare systems, and tax structures daily. Concrete legislative action on I-30 corridor improvements, cross-state healthcare access, and Texarkana metro economic development speaks directly to how constituents actually live — and distinguishes a legislator from one simply representing a map line." },
+        { name: "Rural Hospital & Healthcare Access", tag: "careful", why: "At 40.2 median age with a largely working-class income base, healthcare access in Bowie County and surrounding rural areas is a genuine pressure point — particularly for the 19.56% Black constituency that often experiences provider shortages most acutely. Acknowledging rural hospital strain without triggering Medicaid expansion debates requires specific facility-level framing rather than system-level policy language." },
+        { name: "Generic Law-and-Order Posturing Over Service", tag: "avoid", why: "In a district won without opposition, substituting broad public-safety messaging for constituent service creates quiet vulnerability with the 20% Black community in Texarkana. Voters who feel their representative addresses crime rhetoric but not economic infrastructure, healthcare gaps, or appraisal pressures have documented capacity to organize around challenger candidates in subsequent cycles." },
+        { name: "Dismissing Arkansas Spillover as Non-Issue", tag: "avoid", why: "Framing Texarkana as simply an East Texas district — ignoring the cross-state employment, retail, and healthcare flows that define daily life for thousands of residents — signals representational distance. Constituents who cross the state line for work or medical care every week notice when their legislator treats those realities as invisible in Austin." }
       ],
       memoHeadline: "Texarkana and the Piney Woods: Timber Country, a State-Line City, and 20% Black Constituency at the Arkansas Border",
       memoParagraphs: [
@@ -58,8 +58,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-2",
     name: "Texas House District 2",
-    city: "TBD",
-    region: "TBD",
+    city: "Greenville",
+    region: "Northeast Texas Farm Country",
     type: "state house district",
     incumbentName: "Brent A. Money",
     incumbentParty: "Republican",
@@ -83,11 +83,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 0.86, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Agriculture & Rural Economy", tag: "Agriculture", why: "The Hunt County and surrounding area that HD-2 covers is a mix of cattle, row crops, and small-farm agriculture; commodity markets, farm program access, rural tax valuations, and agricultural infrastructure are the economic concerns of a constituency where working the land is both livelihood and cultural identity." },
-        { name: "Property Rights & Rural Land Use", tag: "Economy", why: "Northeast Texas landowners are increasingly in the path of pipeline projects, solar farm development, and transmission line expansion; eminent domain protections, fair easement compensation, and landowner sovereignty against encroachment are the property rights issues most organizationally active in this district." },
-        { name: "Rural Healthcare & Hospital Access", tag: "Healthcare", why: "Greenville and Hunt County's healthcare infrastructure serves a wide rural catchment; hospital financial sustainability, primary care access in smaller communities, and the growing gap in specialist availability are quality-of-life concerns for a district whose 39.2 median age creates elevated health service demand." },
-        { name: "Manufacturing & Workforce Economy", tag: "Economy", why: "Light manufacturing, food processing, and distribution facilities employ a significant share of Hunt County's non-agricultural workforce; job retention, workforce training, and plant recruitment are economic development priorities for a 20.4% college-attainment district where industrial employment is the primary path to above-median wages." },
-        { name: "Public Education & Rural School Funding", tag: "Education", why: "Small and mid-size school districts across HD-2's rural counties depend heavily on state funding formulas; equitable school finance, teacher recruitment and retention in rural communities, and college readiness programs that expand opportunity beyond the immediate labor market are consistent legislative priorities." }
+        { name: "Agricultural Land & Property Rights", tag: "lean-into", why: "Northeast Texas farm country — Hunt, Hopkins, and Rains counties — runs on agricultural land ownership and the regulatory frameworks that protect it. At 71.85% White and 20.4% college attainment, this is a constituency where property rights, eminent domain, and water rights disputes are personal, not theoretical. Candidates who cite specific local easement pressures and pipeline corridor fights speak directly to what landowners are actually watching in Austin." },
+        { name: "Greenville Industrial Base & Workforce", tag: "lean-into", why: "Greenville's Hunt County economy includes manufacturing and distribution operations that anchor the $68,747 median income in an otherwise rural district. Specific advocacy for workforce training pipelines, community college alignment, and industrial recruitment targeting — not generic job-creation language — earns credibility with employers and employees navigating a low-college-attainment labor market." },
+        { name: "Hispanic Agricultural Workforce Conditions", tag: "careful", why: "At 17.79% Hispanic, a substantial share of the district's population is embedded in the agricultural workforce that underpins the economy dominant-constituency voters care about most. Addressing working conditions, wage stability, and rural service access for this community without triggering nativist backlash in an 81% Republican district requires concrete, service-oriented framing rather than either silence or broad advocacy language." },
+        { name: "Urban Policy Imports From Dallas Media Market", tag: "avoid", why: "Although HD-2 sits within the broader DFW media footprint, constituent identity is firmly Northeast Texas rural — not suburban Dallas. Candidates who borrow Dallas-area housing, transit, or demographic-equity messaging in a 74% White, 26% renter-or-lower-income rural district signal representational misalignment and invite the kind of primary challenger that an 81% margin makes structurally easy to ignore until it isn't." },
+        { name: "Federal Farm Program Criticism Without Alternative", tag: "avoid", why: "In a district where farm income and USDA program participation directly affect household stability across Hunt and Hopkins counties, criticizing federal agricultural support without naming a concrete replacement creates a credibility gap with the landowners and operators who are this district's core political infrastructure. Fiscal-conservatism framing that touches farm subsidies without careful carve-outs will cost relationships that take years to rebuild." }
       ],
       memoHeadline: "Greenville and Northeast Texas Farm Country: 81% Republican, Rural Economy, and Property Rights Politics",
       memoParagraphs: [
@@ -106,8 +106,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-3",
     name: "Texas House District 3",
-    city: "TBD",
-    region: "TBD",
+    city: "Magnolia",
+    region: "Houston Exurbs",
     type: "state house district",
     incumbentName: "Cecil Bell JR",
     incumbentParty: "Republican",
@@ -131,11 +131,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 2.44, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Suburban Growth & Community Character", tag: "Infrastructure", why: "Montgomery County's Magnolia corridor is among the fastest-growing exurban areas in Texas; managing the pace of residential and commercial development — road capacity, school district expansion, and the preservation of the rural character that attracted residents — is the defining governance tension for a district being reshaped by Houston metro spillover." },
-        { name: "Property Taxes & Homeowner Appraisal Relief", tag: "Economy", why: "At $100,216 median income with only 24.4% renters, HD-3 is a predominantly homeowning district where Montgomery County's appreciation-driven appraisal increases have produced tax bills that feel significant even at high incomes; property tax relief is the most universally mobilizing homeowner policy issue." },
-        { name: "Hispanic Community Growth & Constituent Engagement", tag: "Equity", why: "At 31.19% Hispanic — the highest share in this Northeast-to-exurb batch — HD-3's growing Latino community represents nearly a third of the district population; constituent services, bilingual outreach, and policy attention to the economic and educational priorities of these families are increasingly important for any candidate seeking to represent the district's full constituency." },
-        { name: "Transportation & I-45/Highway Connectivity", tag: "Infrastructure", why: "The Magnolia and Montgomery County exurban corridor is road-dependent and commuter-heavy; highway capacity on the routes connecting these communities to Houston employment centers affects daily quality of life and economic access for a district where most professional employment requires a substantial commute." },
-        { name: "Public Education & Rapidly Growing School District", tag: "Education", why: "Montgomery County school districts are among the fastest-growing in Texas, straining classroom capacity, teacher recruitment, and facility infrastructure; 32.4% college-attainment parents in a growth-zone district have high expectations for school quality that must be maintained alongside rapid enrollment expansion." }
+        { name: "Montgomery County Growth Infrastructure", tag: "lean-into", why: "HD-3 is in the middle of one of the fastest-growing exurban corridors in Texas — Magnolia and the western Montgomery County edge absorbing Houston overflow at pace. At $100,216 median income and 37.7 median age, this is a constituency of young, high-earning families who moved here for space and are now living through the road, school, and water infrastructure strain that growth outpaces. Specific Magnolia-area mobility and utility capacity commitments outperform generic anti-regulation messaging." },
+        { name: "Homeowner Appraisal & Property Tax Relief", tag: "lean-into", why: "At $100K median income with only 24.4% renters, this is an overwhelmingly owner-occupied district where appraisal increases on fast-appreciating Montgomery County properties are felt directly. Constituents earning well above state median are still watching their tax bills outpace income growth in a market where values have surged. Concrete appraisal cap and homestead relief language tied to Montgomery County assessment trends lands with specificity." },
+        { name: "Hispanic Community Infrastructure Needs", tag: "careful", why: "At 31.19% Hispanic — a share that rivals the White population — HD-3 is not a homogeneous exurban district despite its income profile. Hispanic families in western Montgomery County include both established homeowners and working-class households serving the construction and service sectors that growth itself depends on. A representative who governs only for the income-top tier of a multiethnic district builds long-term structural fragility into a seat currently held without opposition." },
+        { name: "Anti-Growth Slow-Development Messaging", tag: "avoid", why: "In a district where residents largely chose Montgomery County precisely because of its growth trajectory — lower density, newer housing stock, proximity to Houston opportunity — framing development restriction as a constituency win misreads the electorate. Voters here want growth managed well, not stopped; candidates who borrow slow-growth language from urban preservation movements will find it lands as opposition to the community's own identity." },
+        { name: "Treating District as Fully White Suburban", tag: "avoid", why: "Messaging architecture built entirely around White homeowner priorities in a district that is nearly one-third Hispanic misreads the actual constituency and leaves constituent service gaps that challengers can exploit. At 31% Hispanic in a fast-growing county, the community's infrastructure, school, and economic access concerns are not a secondary issue — they are a core district reality that a representative running unopposed can afford to ignore only until they cannot." }
       ],
       memoHeadline: "Montgomery County's Growth Frontier: $100K Income, 31% Hispanic, and Houston Exurban Expansion at Full Speed",
       memoParagraphs: [
@@ -154,8 +154,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-4",
     name: "Texas House District 4",
-    city: "TBD",
-    region: "TBD",
+    city: "Kaufman",
+    region: "East Dallas Exurbs",
     type: "state house district",
     incumbentName: "Keith Bell",
     incumbentParty: "Republican",
@@ -179,11 +179,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.49, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Dallas Exurban Growth & Infrastructure", tag: "Infrastructure", why: "The Kaufman and Forney corridor is absorbing Dallas metro sprawl at an accelerating pace; road capacity, school district expansion, and utility infrastructure investment are the most visible state-level policy impacts on residents who chose the area for affordability and are now watching that affordability pressured by the growth following them." },
-        { name: "Property Taxes & Exurban Homeowner Relief", tag: "Economy", why: "At $80,677 median income with only 23.1% renters, the district's large homeowner majority is experiencing significant Kaufman County appraisal increases driven by Dallas metro appreciation spillover; property tax relief is the most broadly mobilizing homeowner policy issue across all three of the district's racial communities." },
-        { name: "Diverse Community Engagement — Hispanic & Black Constituents", tag: "Equity", why: "At 24% Hispanic and 14% Black, minority communities together account for 38% of the district; in a 70-30 seat, these populations are not yet determining electoral outcomes — but they are a major share of the constituency and deserve active policy representation beyond election-season outreach." },
-        { name: "Public Education & School District Capacity", tag: "Education", why: "Kaufman County school districts are managing rapid enrollment growth driven by Dallas exurban expansion; school quality, facility capacity, and equitable resource distribution across a demographically diverse student body are the education policy concerns that parents across the district's three major racial communities share." },
-        { name: "Economic Development & Local Job Access", tag: "Economy", why: "Many HD-4 residents commute long distances to Dallas employment; attracting employers to the Kaufman County corridor — logistics, distribution, and light manufacturing are the most realistic recruitment targets — reduces commute burden and builds a local tax base that can fund the infrastructure growth demands." }
+        { name: "Kaufman County Growth & Road Infrastructure", tag: "lean-into", why: "Kaufman County is absorbing Dallas exurban expansion at a pace that has outstripped road, utility, and school capacity — a direct daily-life pressure for households at $80,677 median income who moved here for affordability and are now commuting on infrastructure built for a smaller population. Specific US-175 and SH-34 corridor improvements, alongside Kaufman ISD capacity, are the concrete deliverables that distinguish a legislator from a placeholder." },
+        { name: "Working Homeowner Property Tax Burden", tag: "lean-into", why: "At $80,677 median income with 76.9% owner-occupancy in a district where home values have risen sharply alongside Dallas metro growth, Kaufman County homeowners are watching appraisal-driven tax increases erode the affordability that attracted them in the first place. Property tax relief framing tied to actual Kaufman County appraisal district data — not abstract statewide figures — speaks to the specific economic anxiety this community is living." },
+        { name: "Multiethnic Community Service Equity", tag: "careful", why: "At 57% White, 23.75% Hispanic, and 14.22% Black, HD-4 is genuinely three-community in its demographics — unusual for a 70% Republican district. A representative who delivers constituent service and infrastructure investment visibly across Forney, Terrell, and Kaufman's diverse neighborhoods holds the seat structurally; one who governs only toward the margin creates a latent mobilization opportunity in a district where demographic change is accelerating." },
+        { name: "Dallas Urban Policy Transplanted to Exurbs", tag: "avoid", why: "Kaufman County voters chose this district specifically by leaving or bypassing Dallas — importing Dallas-identified housing density, equity, or transit frameworks into a rural-exurban constituency that defines itself partly in contrast to urban Texas will trigger the exact backlash a 70% margin can survive once but not indefinitely as Hispanic and younger-voter shares grow." },
+        { name: "Ignoring Black Community Infrastructure Gaps", tag: "avoid", why: "At 14.22% Black — concentrated in Terrell and parts of Kaufman — the district has a constituency whose infrastructure and service access concerns are specific and documentable. Running a constituent-service operation that is visibly absent in majority-Black precincts in a district with a 70% Republican ceiling converts latent Democratic base voters into an activation target for any organized challenger willing to do the door-knock work." }
       ],
       memoHeadline: "Kaufman County's Dallas Exurb: Three-Community Demographics, Rapid Growth, and a 70% Republican Hold",
       memoParagraphs: [
@@ -202,8 +202,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-5",
     name: "Texas House District 5",
-    city: "TBD",
-    region: "TBD",
+    city: "Mount Pleasant",
+    region: "East Texas Piney Woods",
     type: "state house district",
     incumbentName: "Cole Hefner",
     incumbentParty: "Republican",
@@ -227,11 +227,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 0.87, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Timber & Forestry Industry Economy", tag: "Economy", why: "The Piney Woods of Northeast Texas — Titus, Camp, Morris, and Wood counties — are defined by pine timber production and the mills, logging operations, and wood products manufacturers that process it; timber market conditions, forest management policy, and mill employment are the economic variables most directly tied to working-family livelihoods across the district." },
-        { name: "Agriculture & Rural Livestock Economy", tag: "Agriculture", why: "Cattle ranching, poultry, and row crop farming supplement the timber economy across HD-5's rural counties; farm program access, livestock market conditions, rural tax valuations, and drought support are the agricultural policy priorities that reach the district's working ranching and farming families." },
-        { name: "Rural Healthcare & Hospital Sustainability", tag: "Healthcare", why: "With a median age of 41.2 — among the older in Northeast Texas — HD-5's communities have elevated healthcare demand against limited local provider infrastructure; hospital financial sustainability in Mount Pleasant and primary care access across Titus, Camp, and Morris counties are persistent quality-of-life concerns." },
-        { name: "Property Rights & Energy Infrastructure", tag: "Economy", why: "Northeast Texas's rural landowners are facing increasing pressure from pipeline routing, transmission line expansion, and energy development projects; eminent domain protections, fair easement compensation, and the right to refuse or negotiate on equal footing are the property rights issues most politically activated in this district." },
-        { name: "Manufacturing & Industrial Job Retention", tag: "Economy", why: "Food processing, wood products manufacturing, and light industrial operations provide above-average wages for a 19.7% college-attainment workforce; retaining existing plants, supporting expansions, and recruiting compatible industrial employers are the economic development priorities with the most direct household income impact for working families." }
+        { name: "Rural Healthcare Facility Survival", tag: "lean-into", why: "At 41.2 median age — the oldest in this district set — HD-5 has a constituency that depends on proximate hospital and specialty care access in Titus, Morris, and Camp counties where rural facility closures are a documented statewide trend. Specific advocacy for Titus Regional Medical Center capacity and rural EMS funding, named by facility and county, demonstrates constituent-service awareness that abstract healthcare rhetoric cannot match." },
+        { name: "Timber & Agricultural Economic Base", tag: "lean-into", why: "Mount Pleasant sits in the heart of East Texas timber and agricultural country — industries that directly underpin the $64,359 median income in a district with only 19.7% college attainment. Piney Woods forest management, timber harvest access on state and federal land, and agricultural water rights are the economic policy concerns that define working-household stability here, and candidates who cite Northeast Texas Lumber Association and Titus County Ag Extension data signal genuine engagement." },
+        { name: "Hispanic Workforce Economic Inclusion", tag: "careful", why: "At 19.31% Hispanic — a substantial share in a predominantly rural district — the community is embedded in the poultry processing, agriculture, and construction sectors that power the local economy. Addressing workforce conditions, healthcare access, and wage stability for this constituency without activating nativist primary pressure in an unopposed Republican seat requires service-oriented, locally-specific framing tied to East Texas employers rather than broad immigration or labor policy language." },
+        { name: "Austin Culture-War Agenda Over Local Economy", tag: "avoid", why: "In a district won without opposition at 41 median age and $64K median income, constituents prioritizing healthcare facility access, timber market conditions, and property taxes will notice a representative whose Austin record consists primarily of social-issue positioning. An older, economically-stressed constituency is not politically inert — it is simply waiting for a candidate who makes rural services the centerpiece, and that candidate will eventually arrive." },
+        { name: "Treating Low Attainment as Low Engagement", tag: "avoid", why: "At 19.7% college attainment, HD-5 constituents are not disengaged — they are economically specific and will identify quickly when a legislator's policy priorities track business-association interests rather than timber worker, farmer, and rural healthcare user concerns. Messaging calibrated to Chamber-of-Commerce audiences rather than the actual working-class economic reality of Titus and Morris counties reads as representational distance, not conservative alignment." }
       ],
       memoHeadline: "Mount Pleasant and the Piney Woods: Timber Country, Rural Healthcare Pressure, and 41-Year-Old East Texas",
       memoParagraphs: [
@@ -250,8 +250,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-6",
     name: "Texas House District 6",
-    city: "TBD",
-    region: "TBD",
+    city: "Longview",
+    region: "East Texas",
     type: "state house district",
     incumbentName: "Daniel Alders",
     incumbentParty: "Republican",
@@ -298,8 +298,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-7",
     name: "Texas House District 7",
-    city: "TBD",
-    region: "TBD",
+    city: "Longview",
+    region: "East Texas",
     type: "state house district",
     incumbentName: "Jay Dean",
     incumbentParty: "Republican",
@@ -346,8 +346,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-8",
     name: "Texas House District 8",
-    city: "TBD",
-    region: "TBD",
+    city: "Palestine",
+    region: "East Texas",
     type: "state house district",
     incumbentName: "Cody Harris",
     incumbentParty: "Republican",
@@ -394,8 +394,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-9",
     name: "Texas House District 9",
-    city: "TBD",
-    region: "TBD",
+    city: "Lufkin",
+    region: "Deep East Texas",
     type: "state house district",
     incumbentName: "Trent Ashby",
     incumbentParty: "Republican",
@@ -442,8 +442,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-10",
     name: "Texas House District 10",
-    city: "TBD",
-    region: "TBD",
+    city: "Midlothian",
+    region: "South Dallas Suburbs",
     type: "state house district",
     incumbentName: "Brian Harrison",
     incumbentParty: "Republican",
@@ -490,8 +490,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-11",
     name: "Texas House District 11",
-    city: "TBD",
-    region: "TBD",
+    city: "Jacksonville",
+    region: "East Texas",
     type: "state house district",
     incumbentName: "Joanne Shofner",
     incumbentParty: "Republican",
@@ -538,8 +538,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-12",
     name: "Texas House District 12",
-    city: "TBD",
-    region: "TBD",
+    city: "Huntsville",
+    region: "Sam Houston Country",
     type: "state house district",
     incumbentName: "Trey Wharton",
     incumbentParty: "Republican",
@@ -586,8 +586,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-13",
     name: "Texas House District 13",
-    city: "TBD",
-    region: "TBD",
+    city: "Hillsboro",
+    region: "Central Texas",
     type: "state house district",
     incumbentName: "Angelia Orr",
     incumbentParty: "Republican",
@@ -634,8 +634,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-14",
     name: "Texas House District 14",
-    city: "TBD",
-    region: "TBD",
+    city: "Waco",
+    region: "Central Texas",
     type: "state house district",
     incumbentName: "Paul Dyson",
     incumbentParty: "Republican",
@@ -682,8 +682,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-15",
     name: "Texas House District 15",
-    city: "TBD",
-    region: "TBD",
+    city: "The Woodlands",
+    region: "North Houston Suburbs",
     type: "state house district",
     incumbentName: "Steve Toth",
     incumbentParty: "Republican",
@@ -730,8 +730,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-16",
     name: "Texas House District 16",
-    city: "TBD",
-    region: "TBD",
+    city: "Conroe",
+    region: "North Houston Suburbs",
     type: "state house district",
     incumbentName: "Will Metcalf",
     incumbentParty: "Republican",
@@ -778,8 +778,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-17",
     name: "Texas House District 17",
-    city: "TBD",
-    region: "TBD",
+    city: "Bastrop",
+    region: "Austin Exurbs",
     type: "state house district",
     incumbentName: "Stan Gerdes",
     incumbentParty: "Republican",
@@ -826,8 +826,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-18",
     name: "Texas House District 18",
-    city: "TBD",
-    region: "TBD",
+    city: "Nacogdoches",
+    region: "Deep East Texas",
     type: "state house district",
     incumbentName: "Janis Holt",
     incumbentParty: "Republican",
@@ -874,8 +874,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-19",
     name: "Texas House District 19",
-    city: "TBD",
-    region: "TBD",
+    city: "Bee Cave",
+    region: "West Austin Suburbs",
     type: "state house district",
     incumbentName: "Ellen Troxclair",
     incumbentParty: "Republican",
@@ -922,8 +922,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-20",
     name: "Texas House District 20",
-    city: "TBD",
-    region: "TBD",
+    city: "Georgetown",
+    region: "Austin North Suburbs",
     type: "state house district",
     incumbentName: "Terry M. Wilson",
     incumbentParty: "Republican",
@@ -970,8 +970,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-21",
     name: "Texas House District 21",
-    city: "TBD",
-    region: "TBD",
+    city: "Beaumont",
+    region: "Southeast Texas",
     type: "state house district",
     incumbentName: "Dade Phelan",
     incumbentParty: "Republican",
@@ -1018,8 +1018,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-22",
     name: "Texas House District 22",
-    city: "TBD",
-    region: "TBD",
+    city: "Port Arthur",
+    region: "Southeast Texas",
     type: "state house district",
     incumbentName: "Christian Manuel",
     incumbentParty: "Democrat",
@@ -1066,8 +1066,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-23",
     name: "Texas House District 23",
-    city: "TBD",
-    region: "TBD",
+    city: "League City",
+    region: "Galveston County",
     type: "state house district",
     incumbentName: "Terri Leo Wilson",
     incumbentParty: "Republican",
@@ -1114,8 +1114,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-24",
     name: "Texas House District 24",
-    city: "TBD",
-    region: "TBD",
+    city: "Friendswood",
+    region: "Southeast Houston",
     type: "state house district",
     incumbentName: "Greg Bonnen",
     incumbentParty: "Republican",
@@ -1162,8 +1162,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-25",
     name: "Texas House District 25",
-    city: "TBD",
-    region: "TBD",
+    city: "Angleton",
+    region: "Brazoria County",
     type: "state house district",
     incumbentName: "Cody Thane Vasut",
     incumbentParty: "Republican",
@@ -1210,8 +1210,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-26",
     name: "Texas House District 26",
-    city: "TBD",
-    region: "TBD",
+    city: "Sugar Land",
+    region: "Fort Bend County",
     type: "state house district",
     incumbentName: "Matt Morgan",
     incumbentParty: "Republican",
@@ -1258,8 +1258,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-27",
     name: "Texas House District 27",
-    city: "TBD",
-    region: "TBD",
+    city: "Missouri City",
+    region: "Fort Bend County",
     type: "state house district",
     incumbentName: "Ronald Reynolds",
     incumbentParty: "Democrat",
@@ -1306,8 +1306,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-28",
     name: "Texas House District 28",
-    city: "TBD",
-    region: "TBD",
+    city: "Richmond",
+    region: "Fort Bend County",
     type: "state house district",
     incumbentName: "Gary Gates",
     incumbentParty: "Republican",
@@ -1354,8 +1354,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-29",
     name: "Texas House District 29",
-    city: "TBD",
-    region: "TBD",
+    city: "Pearland",
+    region: "Southeast Houston Suburbs",
     type: "state house district",
     incumbentName: "Jeffrey Barry",
     incumbentParty: "Republican",
@@ -1402,8 +1402,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-30",
     name: "Texas House District 30",
-    city: "TBD",
-    region: "TBD",
+    city: "Victoria",
+    region: "Gulf Coast",
     type: "state house district",
     incumbentName: "Aj Louderback",
     incumbentParty: "Republican",
@@ -1450,8 +1450,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-31",
     name: "Texas House District 31",
-    city: "TBD",
-    region: "TBD",
+    city: "Rio Grande City",
+    region: "Rio Grande Valley",
     type: "state house district",
     incumbentName: "Ryan Guillen",
     incumbentParty: "Republican",
@@ -1498,8 +1498,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-32",
     name: "Texas House District 32",
-    city: "TBD",
-    region: "TBD",
+    city: "Corpus Christi",
+    region: "Coastal Bend",
     type: "state house district",
     incumbentName: "Todd Hunter",
     incumbentParty: "Republican",
@@ -1546,8 +1546,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-33",
     name: "Texas House District 33",
-    city: "TBD",
-    region: "TBD",
+    city: "Allen",
+    region: "North Dallas Suburbs",
     type: "state house district",
     incumbentName: "Katrina Pierson",
     incumbentParty: "Republican",
@@ -1594,8 +1594,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-34",
     name: "Texas House District 34",
-    city: "TBD",
-    region: "TBD",
+    city: "Mission",
+    region: "Rio Grande Valley",
     type: "state house district",
     incumbentName: "Denise Villalobos",
     incumbentParty: "Republican",
@@ -1642,8 +1642,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-35",
     name: "Texas House District 35",
-    city: "TBD",
-    region: "TBD",
+    city: "Mission",
+    region: "Rio Grande Valley",
     type: "state house district",
     incumbentName: "Oscar Longoria",
     incumbentParty: "Democrat",
@@ -1690,8 +1690,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-36",
     name: "Texas House District 36",
-    city: "TBD",
-    region: "TBD",
+    city: "Mission",
+    region: "Rio Grande Valley",
     type: "state house district",
     incumbentName: "Sergio Muñoz JR",
     incumbentParty: "Democrat",
@@ -1715,11 +1715,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 0.73, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "International Trade & Port Economy", tag: "Economy", why: "HD-36 anchors a major Laredo-area trade corridor; cross-border commerce is the primary economic engine and any policy disruption ripples immediately through local jobs." },
-        { name: "Workforce Development & Career Pathways", tag: "Education", why: "Only 19.8% of adults hold a college degree in a district where median age is 31.8 — expanding vocational training and community college access addresses the district's employment gap directly." },
-        { name: "Healthcare Access in a Border Community", tag: "Healthcare", why: "Border communities face provider shortages and coverage gaps; with household incomes near $51K and a young population, cost and proximity are the defining barriers to care." },
-        { name: "Housing Affordability & Homeownership", tag: "Housing", why: "A 29.2% renter rate in a low-income district signals limited pathways to homeownership; expanding down-payment assistance and affordable housing stock is a top constituent concern." },
-        { name: "Bilingual Education & Dual Language Programs", tag: "Education", why: "In a district that is 93% Hispanic and adjacent to a major international crossing, bilingual proficiency is an economic asset — investment in dual-language pipelines pays workforce dividends." }
+        { name: "International Trade & Bridge Economy", tag: "lean-into", why: "HD-36 anchors a border trade corridor where international commercial crossings directly generate local employment, retail activity, and municipal revenue at $50,791 median income. Specific advocacy for bridge wait-time reduction, commercial port-of-entry staffing, and USMCA supply chain continuity speaks to the exact economic mechanism that sustains Mission and Laredo-area households — and differentiates a legislator from one speaking about border issues in the abstract." },
+        { name: "Young Family Economic Infrastructure", tag: "lean-into", why: "At 31.8 median age in a 93.48% Hispanic district, HD-36 is a young-family constituency facing early-childhood education, workforce entry, and first-time housing pressures simultaneously. Community college access, pre-K expansion, and affordable homeownership pathways in Webb and Hidalgo county markets are the concrete deliverables this demographic is actively seeking — and a legislator with senior enough standing to deliver them holds a durable constituency advantage." },
+        { name: "Renter Housing Cost Pressure", tag: "careful", why: "At 29.2% renters on a $50,791 median income, housing affordability is a live financial stress for nearly a third of the district's households. Addressing renter conditions without triggering landlord-community pushback in a border economy where housing supply and construction labor are both constrained requires specific local market framing — Laredo and Mission rental cost data — rather than statewide tenant-protection language." },
+        { name: "Nationalizing Border Security as Primary Frame", tag: "avoid", why: "In a 93% Hispanic district where the border is the economic engine, not a crisis metaphor, adopting the national Republican border-security framing — even as a defensive posture — signals alignment with a political project that treats this community's home as a problem to be solved by outsiders. Constituents here distinguish sharply between legislators who manage the border as a trade and community asset and those who manage it as a messaging vehicle." },
+        { name: "Ignoring District's Uncontested Margin Risk", tag: "avoid", why: "Running unopposed creates a constituency-service complacency risk that is specific and documented in Valley districts — when economic conditions deteriorate and a credible challenger eventually emerges, the absence of a maintained service infrastructure becomes immediately visible. At $50,791 median income with a young, growing population, the gap between constituent need and delivered service is wide enough that organizational neglect during uncontested cycles creates genuine future exposure." }
       ],
       memoHeadline: "A Laredo-Area Trade Hub Anchored by Youth and Border Connectivity",
       memoParagraphs: [
@@ -1738,8 +1738,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-37",
     name: "Texas House District 37",
-    city: "TBD",
-    region: "TBD",
+    city: "San Benito",
+    region: "Rio Grande Valley",
     type: "state house district",
     incumbentName: "Janie Lopez",
     incumbentParty: "Republican",
@@ -1763,11 +1763,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 0.73, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "South Texas Realignment & Hispanic Voter Engagement", tag: "Political Landscape", why: "A Republican winning 55% in a district that is 82% Hispanic is a defining data point — this is ground zero for the realignment reshaping South Texas, and both parties must understand what drove it." },
-        { name: "Public Safety & Border Security", tag: "Public Safety", why: "Border security has become the most potent wedge issue in South Texas realignment; constituents want both secure crossings and humane policy, and the candidate who threads that needle holds the district." },
-        { name: "Economic Development & Small Business", tag: "Economy", why: "With median income at $56,479 and 20.6% college attainment, the district's working families are looking for economic agency — small business support, trade stability, and local job creation are the kitchen-table issues." },
-        { name: "Healthcare Access & Family Services", tag: "Healthcare", why: "Provider shortages and insurance coverage gaps are acute in a district where 31.7% rent and incomes are modest; healthcare cost is a consistent top-five concern in South Texas polling." },
-        { name: "Education Quality & College Readiness", tag: "Education", why: "A district where only one in five adults holds a degree needs a clear post-secondary pipeline — whether that's four-year college, community college, or vocational certification, investing in the next generation is the district's most durable issue." }
+        { name: "South Texas Small Business Economy", tag: "lean-into", why: "San Benito and the lower Valley corridor have a dense small-business and trade-dependent economy operating at $56,479 median income — exactly the constituency that moved toward Republicans in the 2024 cycle. Concrete advocacy for small-business regulatory relief, commercial property tax fairness, and SBA access in Cameron County speaks to the economic aspirations of the upwardly-mobile Hispanic families whose votes produced the 55% result." },
+        { name: "Border Trade Infrastructure Investment", tag: "lean-into", why: "In a district where commercial border crossings generate direct household economic activity, specific commitments on Brownsville-area port-of-entry capacity, FM road improvements serving agricultural and trade corridors, and supply-chain continuity resonate with constituents who understand trade infrastructure as personal income — not as policy abstraction. HD-37's Republican shift was driven partly by voters who want a legislator who can deliver, not just position." },
+        { name: "Realignment Voter Retention vs. Base Mobilization", tag: "careful", why: "The 55-45 result in an 82% Hispanic district reflects a specific, performance-oriented swing constituency that has not made a permanent partisan commitment. Holding those voters requires visible economic delivery — not cultural-conservative signaling that appeals to Anglo base voters in other districts but reads as misaligned here. The calibration challenge is maintaining Republican coalition credibility without losing the swing-Hispanic voter whose economic concerns drove the shift." },
+        { name: "Anti-Immigration Enforcement Framing in Hispanic District", tag: "avoid", why: "HD-37's Republican shift was an economic realignment, not a cultural-conservative mandate — and the 82% Hispanic district drew a sharp distinction between economic governance and immigration enforcement identity politics. Candidates who import border-enforcement rhetoric calibrated for Anglo-majority districts into San Benito will accelerate Democratic remobilization among the very voters whose performance anxiety about economic conditions produced the swing." },
+        { name: "Treating 55% as a Safe Margin", tag: "avoid", why: "A 55-45 result in an 82% Hispanic district is a conditional mandate with a measurable expiration date tied to economic delivery. Messaging or governing behavior that signals the seat is structurally safe — reduced constituent service, Austin-focused positioning, infrequent Valley presence — will be read immediately by a Democratic opposition that knows exactly which precincts need 200 additional turnout to flip the result." }
       ],
       memoHeadline: "South Texas Realignment in Full View: A 55-45 Swing Seat in an 82% Hispanic District",
       memoParagraphs: [
@@ -1786,8 +1786,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-38",
     name: "Texas House District 38",
-    city: "TBD",
-    region: "TBD",
+    city: "Brownsville",
+    region: "Rio Grande Valley",
     type: "state house district",
     incumbentName: "Erin Elizabeth Gamez",
     incumbentParty: "Democrat",
@@ -1811,11 +1811,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 0.28, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Affordability & Renter Protections", tag: "Housing", why: "A 41.7% renter rate — among the highest in the RGV — means nearly half of households lack the wealth-building and stability benefits of homeownership; renter protections and affordable housing supply are urgent constituent needs." },
-        { name: "Youth Economic Opportunity & Job Training", tag: "Economy", why: "A median age of 30.8 in a low-income district ($46,881) signals a large cohort of young workers navigating a limited local job market — career pathway investment is both economic and civic development." },
-        { name: "Healthcare Access for Low-Income Families", tag: "Healthcare", why: "HD-38's household income is the lowest in this cluster; cost-of-care barriers and Medicaid coverage gaps hit hardest in communities where incomes are furthest from the state median." },
-        { name: "Public Education Investment & School Quality", tag: "Education", why: "With 20.9% college attainment but very young demographics, the district's schools are the clearest leverage point for breaking the intergenerational cycle of low educational attainment." },
-        { name: "Border Infrastructure & Port Economy", tag: "Economy", why: "Laredo-adjacent districts depend on the cross-border economy for jobs and commerce; infrastructure investment at ports of entry creates ripple effects throughout the local service and logistics sectors." }
+        { name: "Renter Affordability & Housing Stability", tag: "lean-into", why: "At 41.7% renters on a $46,881 median income — the lowest income in this district set — HD-38 has the most acute housing-cost pressure of any district analyzed here. Brownsville renter households are spending disproportionate shares of income on housing in a market where supply has not kept pace with population. Specific Brownsville Housing Authority capacity, Section 8 waitlist reduction, and code enforcement against substandard rental stock are concrete deliverables that speak directly to this district's dominant housing reality." },
+        { name: "Young Family Economic & Education Access", tag: "lean-into", why: "At 30.8 median age in a 94% Hispanic district with $46,881 median income, HD-38 is a young working-family constituency where early education, workforce credentialing, and first-generation college access are the economic mobility levers with the most direct household impact. UT Rio Grande Valley and TSC enrollment support, alongside pre-K funding for Brownsville ISD, are the kinds of specific institutional investments that a legislator running unopposed has the space to champion aggressively." },
+        { name: "Wage & Labor Conditions for Working-Class Households", tag: "careful", why: "In a district where 41.7% of households rent at $46,881 median income, wage adequacy for service, healthcare, and trade-sector workers is a live constituency concern — but labor-advocacy framing that invokes union organizing or statewide wage-floor legislation can complicate relationships with local employers and small-business owners who are also constituency stakeholders. Specific Brownsville employer-sector wage data framing outperforms categorical labor-movement language." },
+        { name: "Governing as If Uncontested Means Unaccountable", tag: "avoid", why: "In a district with $46,881 median income and 41.7% renters, the gap between constituent economic stress and institutional service delivery is wide enough that visible neglect — infrequent district presence, slow casework response, Austin-focused positioning — creates the exact conditions under which primary challengers build constituency. Brownsville voters in HD-38 are not politically passive; they are economically stressed and will respond to a challenger who makes service delivery the contrast." },
+        { name: "Abstract Poverty-Framing Over Concrete Delivery", tag: "avoid", why: "Framing HD-38 constituents as a poverty-defined community rather than a working, young, economically-aspirational Hispanic constituency misreads district identity and patronizes the electorate. Brownsville families at $46K median income are navigating specific housing, education, and wage pressures — not waiting to be described as disadvantaged. Messaging that leads with need rather than capacity and aspiration signals representational distance even in a district with no active opposition." }
       ],
       memoHeadline: "High Renters, Low Incomes, Young Families: HD-38's Core Challenge Is Economic Stability",
       memoParagraphs: [
@@ -1834,8 +1834,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-39",
     name: "Texas House District 39",
-    city: "TBD",
-    region: "TBD",
+    city: "Weslaco",
+    region: "Rio Grande Valley",
     type: "state house district",
     incumbentName: "Armando \"mando\" Martinez",
     incumbentParty: "Democrat",
@@ -1859,11 +1859,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 0.09, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Workforce Development & Low-Wage Economy", tag: "Economy", why: "HD-39's median income of $47,155 and college attainment rate of just 15% — the lowest in this cluster — point to a workforce largely without post-secondary credentials in a market that increasingly demands them." },
-        { name: "Youth Civic Investment & Voter Engagement", tag: "Civic Engagement", why: "The district's median age of 29.5 is among the youngest in Texas; young Hispanic voters are the base, but with low attainment and economic precarity, civic engagement requires active cultivation rather than passive assumption." },
-        { name: "Public Education & Post-Secondary Access", tag: "Education", why: "At 15% college attainment, only one in seven adults holds a degree — expanding dual-credit, community college access, and early college high school programs is the most direct path to economic mobility." },
-        { name: "Healthcare Affordability & Rural Provider Access", tag: "Healthcare", why: "Hidalgo County communities like Weslaco face healthcare provider gaps and insurance cost barriers; Medicaid expansion debates and local clinic funding have direct, immediate impact on constituents." },
-        { name: "Agricultural Economy & Water Policy", tag: "Agriculture", why: "The lower RGV is still substantially agricultural; water rights, irrigation infrastructure, and crop price policy affect a meaningful segment of the economic base and connect to broader Rio Grande basin issues." }
+        { name: "Workforce Training & Entry-Level Economic Access", tag: "lean-into", why: "At 29.5 median age — the youngest in this analysis — and only 15.0% college attainment, HD-39 is a constituency of young workers navigating a labor market without four-year credentials. South Texas College workforce programs, industry certification pathways, and apprenticeship access in Weslaco and Hidalgo County speak directly to the economic mobility question that defines this community's near-term trajectory. Generic education talking points are invisible here; specific credential-to-employment pipeline investments are not." },
+        { name: "Agricultural & Trade Sector Job Quality", tag: "lean-into", why: "Weslaco sits in the heart of the Rio Grande Valley agricultural corridor, and at 92.22% Hispanic with $47,155 median income, the district's working households are embedded in farming, packing, and trade logistics operations that are the actual economic base. Specific advocacy on agricultural worker wage conditions, cooling and safety standards, and USDA program access in Hidalgo County signals constituency alignment that abstract economic messaging cannot replicate." },
+        { name: "Eroding 61% Margin in Young Constituency", tag: "careful", why: "A 61% Democratic margin in a 92% Hispanic, $47K-income district that has watched Valley seats shift Republican is not a structural guarantee — it is a performance covenant. The youngest district in this set has the highest exposure to economic-frustration realignment, and the calibration challenge is demonstrating visible economic delivery specifically to a young-adult constituency that is still forming partisan attachments and has shown willingness to vote differently when economic conditions disappoint." },
+        { name: "Importing Valley Elite Political Framing", tag: "avoid", why: "HD-39 at 15.0% college attainment and 29.5 median age is not the institutionally-connected, college-educated Valley constituency that some legislative offices are built around. Messaging calibrated to higher-education-advocacy, professional-class Rio Grande Valley audiences — or Austin-facing policy positioning — reads as misaligned in Weslaco precincts where the working-class economic concerns are immediate and the patience for representational abstraction is limited." },
+        { name: "Treating Youth Demographics as Guaranteed Turnout", tag: "avoid", why: "The youngest district in this analysis has the most volatile turnout profile — young voters who are economically stressed and politically unanchored are the precise demographic that stays home when a representative feels distant and mobilizes for a challenger when one makes a credible economic case. A 61% margin built on a low-turnout young-voter base is a margin that requires active constituency maintenance, not a structural asset that survives neglect." }
       ],
       memoHeadline: "The RGV's Youngest District: Workforce, Education, and a 61% Margin Worth Monitoring",
       memoParagraphs: [
@@ -1882,8 +1882,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-40",
     name: "Texas House District 40",
-    city: "TBD",
-    region: "TBD",
+    city: "Edinburg",
+    region: "Rio Grande Valley",
     type: "state house district",
     incumbentName: "Terry Canales",
     incumbentParty: "Democrat",
@@ -1907,11 +1907,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 0.93, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Transportation Infrastructure & RGV Connectivity", tag: "Infrastructure", why: "HD-40 is home to one of the Legislature's most senior transportation voices; road quality, highway expansion, and regional connectivity are high-visibility issues that directly shape economic access for a sprawling South Texas district." },
-        { name: "Housing Affordability & Renter Stability", tag: "Housing", why: "With 35.1% of households renting and median income at $52,412, housing cost is a front-of-mind concern — the district needs both rental market protections and affordable homeownership pathways." },
-        { name: "Youth Investment & Generational Opportunity", tag: "Education", why: "A median age of 29.4 signals a very young constituency; investing in education pipelines, youth employment programs, and mentorship infrastructure builds both the district's economic future and its civic base." },
-        { name: "Economic Development & Regional Job Creation", tag: "Economy", why: "The Edinburg/Hidalgo County area is growing rapidly; channeling that growth into quality local jobs rather than just population expansion is the district's defining economic challenge." },
-        { name: "Healthcare & Community Clinic Access", tag: "Healthcare", why: "Federally qualified health centers and community clinics are lifelines in an area where provider-to-patient ratios are among the lowest in the state; funding and expanding these facilities is a persistent constituent priority." }
+        { name: "Statewide Infrastructure Delivery for District", tag: "lean-into", why: "Terry Canales's senior legislative standing in a fast-growing Edinburg district creates a genuine constituent-service advantage that most Valley legislators cannot match — the capacity to move specific infrastructure investments through the Texas House on behalf of Hidalgo County. At 29.4 median age and $52,412 median income, this is a constituency of young families who will directly benefit from road, water, and broadband infrastructure over a 20-year horizon, and Canales's leverage is the mechanism for delivering it." },
+        { name: "Edinburg Economic Development & Workforce", tag: "lean-into", why: "At 35.1% renters in a young, growing community anchored by UTRGV and a rapidly expanding healthcare and commercial sector, HD-40's economic development agenda is concrete and localized. Edinburg EDC investments, UTRGV-to-employment pipeline development, and medical sector expansion in Hidalgo County are the specific growth mechanisms that speak to a constituency whose economic aspirations are outrunning current income levels at $52,412 median." },
+        { name: "Renter Affordability in High-Growth Market", tag: "careful", why: "At 35.1% renters in a district experiencing rapid growth, housing cost pressure is a live financial reality for more than a third of HD-40 households — and growth-driven rent increases in Edinburg's expanding market are compressing budgets for young families and students. Acknowledging renter pressures without alienating the homeowner and landlord community that is also a constituency stakeholder requires specific Edinburg market data framing rather than statewide tenant-protection language." },
+        { name: "Austin Insider Positioning Over Valley Presence", tag: "avoid", why: "Senior legislative leverage is a constituency asset only when it is visibly translated into local deliverables — a representative whose Austin profile grows while district office responsiveness and Edinburg presence decline inverts the value proposition for constituents at $52,412 median income who care about specific water, road, and school outcomes. In a 35% renter district with a young population, the perception of representational distance from local concerns converts leverage into liability." },
+        { name: "Assuming Uncontested Status as Permanent", tag: "avoid", why: "Running unopposed in a Valley district that has watched HD-37 and adjacent seats shift to 55% Republican margins is not evidence of structural safety — it reflects the current absence of an organized challenger, not the impossibility of one. At 29.4 median age and $52,412 median income, HD-40's constituency includes economically-frustrated young voters whose partisan attachments are not fixed, and the conditions that produced swing elsewhere in the Valley are present here in measurable form." }
       ],
       memoHeadline: "Terry Canales and the Infrastructure Agenda: A Young, Growing District with Senior Legislative Leverage",
       memoParagraphs: [
@@ -1930,8 +1930,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-41",
     name: "Texas House District 41",
-    city: "TBD",
-    region: "TBD",
+    city: "McAllen",
+    region: "Rio Grande Valley",
     type: "state house district",
     incumbentName: "Bobby Guerra",
     incumbentParty: "Democrat",
@@ -1955,11 +1955,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 0.80, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "South Texas Realignment & Hispanic Voter Retention", tag: "Political Landscape", why: "A 53% margin in a district that is 86% Hispanic is a five-alarm signal — the McAllen-area realignment is compressing Democratic margins in a seat that should be far safer, and 2026 will test whether the trend continues." },
-        { name: "Housing Affordability & Renter Stability", tag: "Housing", why: "With 41.4% of households renting and a young median age of 33.8, the district has a large population of families who are cost-burdened and building no equity — housing supply and affordability are the defining quality-of-life issue." },
-        { name: "Economic Development & Professional Job Creation", tag: "Economy", why: "At $62,244 median income and 32.9% college attainment, HD-41 is more educated and prosperous than its RGV neighbors, but residents still need professional employment opportunities that match their credentials locally rather than requiring relocation." },
-        { name: "Healthcare Access & Insurance Coverage", tag: "Healthcare", why: "The RGV consistently ranks among the least-insured regions in the country; covering the working families in a district with high renter rates and moderate incomes is both urgent policy and a reliable voter-activation issue." },
-        { name: "Public Education & School District Quality", tag: "Education", why: "Strong local schools are the clearest signal that a community is investing in its future; in a district with a very young population, K-12 quality and funding equity drive turnout among parents." }
+        { name: "Healthcare Access in the Valley", tag: "lean-into", why: "At $62,244 median income and 41.4% renters in a border metro with historically thin hospital infrastructure, healthcare affordability is a kitchen-table issue for McAllen families. HD-41's 86% Hispanic constituency has direct experience with cross-border care patterns and uninsured gaps that generic statewide health messaging never addresses. Candidates who speak to specific Hidalgo County provider shortages and Medicaid access earn immediate credibility." },
+        { name: "Border Economy and Local Jobs", tag: "lean-into", why: "McAllen's retail, logistics, and trade economy is directly tied to binational commerce across the Hidalgo-Reynosa corridor, and at 33.8 median age the workforce is young and actively job-seeking. A 53% margin in an 86% Hispanic district signals competitive pressure, meaning economic delivery — not ideology — is what retains persuadable voters. Specific framing around McAllen metro employment sectors outperforms abstract growth talking points." },
+        { name: "Renter Affordability and Housing Costs", tag: "careful", why: "At 41.4% renters and $62,244 median income, a large share of HD-41 households is acutely sensitive to rent increases in a Valley market where housing costs have risen faster than wages. This requires calibration — full ownership of housing policy invites scrutiny of legislative delivery, while ignoring it cedes ground to challengers in a 53-47 seat. Framing around tenant stability and first-time buyer pathways rather than broad housing reform is the durable approach." },
+        { name: "Immigration Enforcement Rhetoric as Latino Identity Attack", tag: "avoid", why: "In a district that is 86% Hispanic and borders Mexico, any framing that conflates border security with criminalization of Latino identity — even obliquely — reads as a direct attack on the community fabric of McAllen. The 53-47 margin demonstrates that persuadable voters are choosing on economic and service delivery grounds, not partisan loyalty. Candidates who allow immigration rhetoric to overshadow local economic and healthcare messaging will lose the exact swing voters who made 2024 competitive." },
+        { name: "Top-Down Austin Policy Over Valley Priorities", tag: "avoid", why: "HD-41's competitiveness comes from a constituency that expects representatives to fight specifically for McAllen and Hidalgo County, not to serve as a downstream relay for Austin legislative priorities. Messaging that leads with state caucus positioning rather than local infrastructure, healthcare, and trade concerns signals to Valley voters that their district is being taken for granted. At a 53% hold, that perception is enough to flip the seat." }
       ],
       memoHeadline: "HD-41: A 53% Margin in an 86% Hispanic District — McAllen's Competitive Alert",
       memoParagraphs: [
@@ -1978,8 +1978,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-42",
     name: "Texas House District 42",
-    city: "TBD",
-    region: "TBD",
+    city: "Laredo",
+    region: "South Texas Border",
     type: "state house district",
     incumbentName: "Richard Pena Raymond",
     incumbentParty: "Democrat",
@@ -2003,11 +2003,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 0.56, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "International Trade & Laredo Port Economy", tag: "Economy", why: "Laredo is the busiest inland port in North America; trade policy, bridge infrastructure, and customs efficiency directly determine employment and commerce for the majority of HD-42 constituents." },
-        { name: "Housing Affordability & Renter Protections", tag: "Housing", why: "A 40.3% renter rate in a city where most families earn under $67K signals a housing market that is not delivering stability for working-class residents — affordability programs and renter protections are consistently high-priority constituent requests." },
-        { name: "Healthcare Access & Community Health Investment", tag: "Healthcare", why: "Laredo's healthcare infrastructure has historically been stretched thin relative to its population; expanding clinic capacity, provider recruitment, and Medicaid coverage are foundational quality-of-life issues." },
-        { name: "Workforce Development & Bilingual Economy", tag: "Economy", why: "HD-42's 25.3% college attainment and young median age create demand for vocational training, apprenticeship programs, and community college pathways that connect to the region's trade and logistics economy." },
-        { name: "Infrastructure & Water Resources", tag: "Infrastructure", why: "Webb County's rapid growth has strained roads, utilities, and water infrastructure; binational water-sharing agreements for the Rio Grande add a unique policy dimension that few other Texas districts face." }
+        { name: "Laredo Trade and Port Economy", tag: "lean-into", why: "The World Trade Bridge makes Laredo the nation's busiest inland port, and the Webb County economy is structurally tied to cross-border freight, customs brokerage, and logistics employment. At $66,363 median income with 94.2% Hispanic constituency, trade disruption — tariffs, bridge capacity, federal policy shifts — lands directly on household stability. Candidates who speak to specific port infrastructure and trade volume data earn constituency authority no generic jobs message can replicate." },
+        { name: "Working-Class Renter Housing Costs", tag: "lean-into", why: "At 40.3% renters and only 25.3% college attainment, a large share of HD-42 households lacks the wealth buffers that absorb rent increases in a growing border city. Laredo's housing market has tightened as logistics and warehousing investment drives demand without commensurate affordable supply. Specific framing around Webb County rental affordability — not statewide housing abstraction — connects to the daily economic reality of a young, majority-renter constituency." },
+        { name: "Federal Border Policy Spillover Effects", tag: "careful", why: "In a 94.2% Hispanic district that lives the border economy daily, federal immigration and trade policy shifts create real disruptions that constituents expect their state representative to address. But a state legislator's actual leverage over federal border policy is limited, and overclaiming creates accountability risk in an unopposed seat where expectations are high. Calibrated messaging — focused on what state tools exist to buffer federal volatility — is more durable than either avoidance or full ownership." },
+        { name: "Treating Unopposed Status as a Mandate for Inaction", tag: "avoid", why: "Running unopposed in 2024 reflects Laredo's political geography, not a blank check on constituent service. Webb County's young population — median age 31.8 — and large renter share create conditions where housing and economic frustration can surface quickly if the district feels underserved. Messaging or a legislative record that appears to coast on structural advantage, rather than actively delivering on trade infrastructure and housing, creates the conditions for a future primary challenge." },
+        { name: "Poverty Framing That Defines Laredo as Dependent", tag: "avoid", why: "Laredo operates one of the most economically consequential trade corridors in North America, and its residents understand that context. Messaging that leads with poverty statistics or positions the district as a recipient of state charity rather than an economic engine actively misreads the community's self-identity. In a 94.2% Hispanic district with deep local pride in the port economy, deficit framing generates backlash rather than sympathy." }
       ],
       memoHeadline: "Laredo's Legislative Anchor: Trade, Housing, and Growth at the Nation's Busiest Inland Port",
       memoParagraphs: [
@@ -2026,8 +2026,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-43",
     name: "Texas House District 43",
-    city: "TBD",
-    region: "TBD",
+    city: "Kingsville",
+    region: "Coastal Bend",
     type: "state house district",
     incumbentName: "J.m. Lozano",
     incumbentParty: "Republican",
@@ -2051,11 +2051,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.28, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Oil & Gas Economy & Energy Jobs", tag: "Economy", why: "The Coastal Bend and South Texas brush country that HD-43 spans has significant oil and gas activity; energy sector stability and production policy are directly tied to employment and local tax revenue." },
-        { name: "Agricultural Economy & Rural Infrastructure", tag: "Agriculture", why: "Ranching, cattle, and row crops are economic anchors in a district that covers large rural stretches between the coast and the brush country; farm policy, water rights, and rural road maintenance are core constituent issues." },
-        { name: "Public Safety & Border Proximity", tag: "Public Safety", why: "HD-43's position between South Texas and the Gulf Coast puts border security and law enforcement investment on the political radar, even for communities not directly on the border." },
-        { name: "Workforce Development & Low-Attainment Communities", tag: "Education", why: "At 16.6% college attainment — among the lowest in the state — the district's workforce is primarily non-degreed; vocational training, apprenticeship programs, and community college access are the most practical economic interventions available." },
-        { name: "Healthcare Access in Rural Communities", tag: "Healthcare", why: "Rural Coastal Bend communities frequently lose hospitals and primary care providers to market consolidation; maintaining access to healthcare is a perennial challenge that affects all demographics in the district." }
+        { name: "Agriculture and Ranching Economy", tag: "lean-into", why: "HD-43 spans Coastal Bend counties where cattle ranching, row crops, and coastal agriculture are core economic identities, and at 16.6% college attainment the workforce is predominantly trades and land-based. A 67-33 Republican coalition in a 63% Hispanic district reflects cultural conservatism around property, land rights, and rural self-reliance — values that cut across demographic lines when candidates speak to them specifically. Framing around water rights, agricultural property taxes, and rural infrastructure speaks to both Anglo and Hispanic landowner constituencies simultaneously." },
+        { name: "Oil and Gas Employment in the Coastal Bend", tag: "lean-into", why: "The Corpus Christi and Kingsville region anchors refinery, pipeline, and petrochemical employment that touches household income across HD-43 regardless of college credential level. At $60,343 median income, energy sector wages represent premium compensation in the local market, and any regulatory or market threat to those jobs lands immediately on family budgets. Candidates who name specific Coastal Bend employers and local energy infrastructure — not abstract energy independence talking points — earn lasting credibility." },
+        { name: "Hispanic Conservative Voter Identity", tag: "careful", why: "The 67-33 result in a 63% Hispanic district reflects a genuine conservative realignment among South Texas Hispanic voters — not a messaging trick. Acknowledging this coalition authentically, rather than treating it as a demographic anomaly to explain away, is the durable approach for a representative seeking to hold this margin. Overplaying cultural wedge issues risks alienating the portion of that coalition whose conservatism is economic and values-based rather than partisan." },
+        { name: "Urban Liberal Policy Frames in a Rural Conservative District", tag: "avoid", why: "Kingsville and the Coastal Bend rural communities have a distinct political identity from San Antonio or Austin, and messaging that imports urban progressive framing on energy, land use, or social issues reads as cultural disconnection in a 67% Republican district. The realigned Hispanic conservative coalition in HD-43 is specifically rejecting that frame — candidates who echo it, even in moderated form, hand challengers a ready-made contrast. Local cultural and economic identity, not state party alignment, is the winning communication register." },
+        { name: "Demographic Determinism Messaging", tag: "avoid", why: "Arguing that a 63% Hispanic district should vote differently based on demographic expectation is a losing frame that has already been tested and rejected in the Coastal Bend. The 2024 results demonstrate that HD-43 voters are making choices on economic performance, values, and local representation — not ethnic solidarity with a statewide partisan label. Any messaging strategy that leans on demographic assumptions rather than constituent service will accelerate rather than reverse the current alignment." }
       ],
       memoHeadline: "Coastal Bend Realignment: A 67% Republican Coalition Across a 63% Hispanic District",
       memoParagraphs: [
@@ -2074,8 +2074,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-44",
     name: "Texas House District 44",
-    city: "TBD",
-    region: "TBD",
+    city: "Corpus Christi",
+    region: "Coastal Bend",
     type: "state house district",
     incumbentName: "Alan Schoolcraft",
     incumbentParty: "Republican",
@@ -2099,11 +2099,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.62, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & Homeowner Relief", tag: "Economy", why: "With the highest median income in this batch ($89,348) and a low 22.4% renter rate, HD-44 is an owner-dominated district where property tax burden is a perennial top-tier political issue — especially as home values in Central Texas have surged." },
-        { name: "Economic Development & Business Climate", tag: "Economy", why: "A district with $89K median income and 29.1% college attainment has a professional workforce that cares about the regulatory and tax environment; pro-business policy framing resonates strongly in this demographic." },
-        { name: "Public Education & School District Quality", tag: "Education", why: "In a district where 7.8% of residents are Black and 39.7% are Hispanic alongside a white plurality, school quality and funding equity are issues that cross demographic lines and drive parental engagement at all income levels." },
-        { name: "Public Safety & Law Enforcement Investment", tag: "Public Safety", why: "Homeowner-majority communities with moderate-to-high incomes consistently prioritize neighborhood safety and adequate law enforcement funding; this is among the most reliable Republican coalition issues in this district profile." },
-        { name: "Infrastructure & Growth Management", tag: "Infrastructure", why: "Central Texas growth corridors face road capacity and utility strain as population expands; managing growth without sacrificing quality of life is a unifying concern across party lines in high-income, high-homeownership communities." }
+        { name: "Property Tax Relief for High-Value Homeowners", tag: "lean-into", why: "At $89,348 median income and only 22.4% renters, HD-44 is one of the most homeowner-dominant districts in the Coastal Bend, and appraisal increases on Corpus Christi's higher-value homes create acute tax burden conversations at every neighborhood gathering. The 65-35 Republican coalition is anchored in a property-owning professional class that evaluates representation partly on concrete tax outcomes. Specific framing around Nueces County appraisal trends and homestead exemption mechanics outperforms generic tax relief commitments." },
+        { name: "Coastal Energy and Port Infrastructure", tag: "lean-into", why: "The Port of Corpus Christi is one of the largest oil export facilities in the United States, and at 29.1% college attainment the district has a substantial professional-technical workforce tied to energy, petrochemicals, and maritime logistics. HD-44's high-income profile reflects premium energy sector wages, and candidates who speak to specific port expansion, LNG infrastructure, and refinery employment in Nueces County earn credibility that generic energy talking points cannot buy. Infrastructure investment that protects and expands this employment base is the clearest economic case a representative can make." },
+        { name: "Coastal Flooding and Insurance Costs", tag: "careful", why: "Corpus Christi homeowners face rising flood insurance premiums and storm vulnerability that are economically real regardless of how constituents frame the underlying causes. In a 65% Republican district, leading with climate change language triggers resistance, but ignoring coastal infrastructure and insurance cost concerns ignores a genuine financial pressure on the high-homeownership base. Framing around infrastructure hardening, insurance market stability, and coastal resilience — not climate policy — is the calibration that keeps this issue productive." },
+        { name: "Social Issue Culture War Campaigns Over Local Economic Delivery", tag: "avoid", why: "HD-44's Republican coalition is built on economic stability, property ownership, and professional-class identity in Corpus Christi — not primarily on social wedge mobilization. Campaigns that substitute national culture war messaging for concrete positions on property taxes, port infrastructure, and local economic growth risk signaling to a high-income, high-education constituency that their economic interests are being subordinated to Austin political priorities. At 29.1% college attainment, the district has enough analytical voters to notice when substance is replaced with performance." },
+        { name: "Ignoring the 39% Hispanic Constituency", tag: "avoid", why: "At 39.7% Hispanic in a 65-35 district, HD-44 contains a substantial minority community whose economic concerns — including workforce access to port and energy jobs — overlap significantly with the broader constituency's interests. Messaging that speaks exclusively to the Anglo professional homeowner base while providing no visible constituent service to nearly 40% of residents creates a mobilization opportunity for challengers and signals poor representation to a community that influences competitive margins. Full-constituency service is both the ethical and the structurally durable approach." }
       ],
       memoHeadline: "High-Income, High-Homeownership, High-Republican: HD-44's Property-Owner Coalition",
       memoParagraphs: [
@@ -2122,8 +2122,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-45",
     name: "Texas House District 45",
-    city: "TBD",
-    region: "TBD",
+    city: "Wimberley",
+    region: "Hays County",
     type: "state house district",
     incumbentName: "Erin Zwiener",
     incumbentParty: "Democrat",
@@ -2147,11 +2147,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.87, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Affordability & Suburban Growth Pressure", tag: "Housing", why: "Hays County is one of the fastest-growing counties in the US; land costs, housing supply shortfalls, and rent increases have made affordability the central quality-of-life concern for a district where 39.5% of households rent." },
-        { name: "Transportation & Commuter Infrastructure", tag: "Infrastructure", why: "HD-45 sits in the I-35 corridor between Austin and San Antonio — a commuter-heavy geography where traffic congestion, transit access, and highway capacity affect daily life for tens of thousands of working residents." },
-        { name: "Environmental Conservation & Water Resources", tag: "Environment", why: "The Hill Country aquifer system and Wimberley-area natural landscapes are defining features of this district; water policy, aquifer protection, and development regulation are both environmental and economic issues for constituents." },
-        { name: "Education Funding & School Quality", tag: "Education", why: "At 38.9% college attainment and with a young median age of 31.8, HD-45 has a highly educated, parent-age population that is intensely engaged in school quality, curriculum, and district funding debates." },
-        { name: "Economic Opportunity & Small Business Support", tag: "Economy", why: "The Hays County growth corridor has attracted a diverse small-business economy alongside its residential expansion; supporting local entrepreneurs and ensuring that rapid growth serves residents rather than just developers is a cross-partisan economic message." }
+        { name: "Rapid Growth Infrastructure in Hays County", tag: "lean-into", why: "Wimberley and the broader Hays County corridor is among the fastest-growing areas in Texas, and at median age 31.8 with $80,353 income, HD-45 residents are actively navigating school capacity, road congestion, and utility strain that outpaces current infrastructure investment. A 57-43 Democratic hold in a rapidly changing district means constituents are rewarding visible infrastructure responsiveness over ideological positioning. Specific commitments to Hays County transportation, school funding, and utility infrastructure are the most direct path to protecting this margin." },
+        { name: "Housing Affordability for Young Families", tag: "lean-into", why: "At 39.5% renters and a young median age in a district where home prices have escalated dramatically alongside the Austin metro's expansion, HD-45's working families face a housing cost squeeze that is locally specific and politically urgent. The 38.9% college attainment rate means many residents are professional-class earners who expected to transition to homeownership and are finding it structurally blocked. Candidates who connect Hays County's specific land costs, zoning patterns, and affordability gap to actionable state policy earn sustained support from the district's dominant age cohort." },
+        { name: "Environmental Protections for Hill Country Aquifer", tag: "careful", why: "The Edwards Aquifer and Barton Springs watershed run through HD-45, and protecting water quality is a unifying concern for both the progressive wing of the district and the longer-tenured rural property owners who depend on groundwater. Full ownership of broad environmental regulatory expansion risks the 43% conservative minority; ignoring the issue alienates the college-educated progressive base that drives the 57% coalition. Framing around water resource protection and aquifer sustainability — not climate regulation — is the calibration that holds the coalition together." },
+        { name: "Austin-Branded Progressive Policy in Rural Hays County", tag: "avoid", why: "HD-45 is not Austin — it includes Wimberley, Kyle, and Buda communities with significant conservative and independent voter populations who chose a 57-43 outcome, not a 73-27 one. Messaging that imports Central Austin progressive branding or speaks to urban density and transit priorities as if Hays County were an Austin urban district misreads the constituency and provides the Republican challenger with a ready contrast. The 57% coalition is built on local growth management and family economics, not statewide ideological alignment." },
+        { name: "Treating Hispanic Voters as a Monolithic Base", tag: "avoid", why: "At 43.83% Hispanic in a competitive district, HD-45's Latino constituency spans economic profiles, nativity status, and political orientations — including a meaningful share of conservative Hispanic homeowners who are part of the Republican 43%. Messaging that assumes uniform progressive alignment among Hispanic residents, or that leads with identity-based appeals rather than economic and infrastructure substance, misreads a community that is itself internally competitive. Economic delivery on housing and infrastructure speaks to Latino voters across the spectrum more effectively than demographic targeting." }
       ],
       memoHeadline: "Hays County's Swing Seat: High Education, Rapid Growth, and a 57-43 Democratic Hold",
       memoParagraphs: [
@@ -2170,8 +2170,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-46",
     name: "Texas House District 46",
-    city: "TBD",
-    region: "TBD",
+    city: "Austin",
+    region: "Austin East Side",
     type: "state house district",
     incumbentName: "Sheryl Cole",
     incumbentParty: "Democrat",
@@ -2195,11 +2195,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 5.58, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Affordability & Anti-Displacement", tag: "Housing", why: "HD-46 is one of the most racially diverse districts in Austin, and displacement pressure from rising rents and development is the dominant concern for its Hispanic, Black, and working-class white residents who fear being priced out of the city they built." },
-        { name: "Racial Equity & Economic Opportunity", tag: "Equity", why: "With nearly four racial communities each holding double-digit representation — Hispanic 39%, White 35%, Black 16%, Asian 6% — the district's policy agenda must speak to differential economic outcomes across those communities in concrete, measurable terms." },
-        { name: "Public Education & School Quality", tag: "Education", why: "A diverse, parent-age district with 45.3% college attainment cares deeply about K-12 quality, school funding equity, and ensuring that children of all backgrounds have access to strong schools regardless of zip code." },
-        { name: "Healthcare Access & Mental Health Services", tag: "Healthcare", why: "Urban Austin communities across income levels face provider access and mental health resource gaps; the district's diversity means differential access barriers require targeted, community-specific solutions." },
-        { name: "Transportation & Urban Mobility", tag: "Infrastructure", why: "Central Austin's transportation network — transit access, bike infrastructure, pedestrian safety — is a daily-life issue for a mixed-income, renter-and-owner district where many residents do not rely on a single car commute." }
+        { name: "Displacement and Gentrification on Austin's East Side", tag: "lean-into", why: "HD-46's four-community coalition — 39% Hispanic, 35% White, 16% Black, 5% Asian — is united most acutely by the experience of East Austin displacement, where long-term residents of color have been priced out by a decade of rapid appreciation. At $104,361 median income the district average masks deep internal inequality between arriving affluent renters and established working-class homeowners. Candidates who name specific East Austin neighborhoods, cite local displacement data, and connect to tenant protection and anti-displacement tools speak directly to the condition that built this coalition." },
+        { name: "Equity in Austin Economic Opportunity", tag: "lean-into", why: "At 45.3% college attainment and $104,361 median income, HD-46 includes significant professional-class residents, but 15.94% Black and 39.14% Hispanic communities experience Austin's tech and professional economy unevenly. Workforce pipeline, small business access, and minority contracting in a city with a dominant technology sector are concrete economic equity issues that resonate across this coalition. Framing economic opportunity around specific East Austin business corridors and community wealth-building — not abstract equity language — is where this district's majority is." },
+        { name: "Renter Protections Versus Austin Housing Supply", tag: "careful", why: "At 31.4% renters in a district with significant homeownership, HD-46 contains both constituencies, and Austin's housing debate pits tenant protection advocates against supply-side density proponents in ways that divide the 73% coalition internally. Full ownership of either position — anti-displacement regulation or market-rate density expansion — risks one wing of a coalition that requires all four communities to hold 73%. Messaging that centers community voice in housing decisions, rather than prescribing a single solution, is the calibration that preserves coalition coherence." },
+        { name: "Generic Progressive Branding Over Local Community Specificity", tag: "avoid", why: "In a 73-27 district where four distinct communities share a seat, messaging that leads with statewide or national progressive identity rather than specific East Austin community concerns signals to each subgroup that their particular experience is being flattened. Black East Austin residents, established Hispanic homeowners, and recent professional arrivals have different relationships with gentrification and economic opportunity that demand specific acknowledgment. Candidates who deliver one-size progressive messaging to a coalition built on distinct community experiences will eventually fracture the 73% margin." },
+        { name: "Overstating State Legislative Power Over Austin City Policy", tag: "avoid", why: "Austin's affordability and displacement crisis is driven by city zoning, state preemption, and market forces that operate well beyond a single state representative's leverage. In a 45.3% college-attainment district, constituents are analytically capable of identifying when a representative overclaims credit or responsibility for outcomes driven by other levels of government. Promising specific displacement relief or affordability outcomes that depend on city or federal action, rather than state legislative tools, creates an accountability gap that challengers will exploit in a safe seat where intra-coalition competition is the real political risk." }
       ],
       memoHeadline: "Austin's Most Diverse District: A Four-Community Coalition Built on Equity and Affordability",
       memoParagraphs: [
@@ -2218,8 +2218,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-47",
     name: "Texas House District 47",
-    city: "TBD",
-    region: "TBD",
+    city: "Austin",
+    region: "West Austin",
     type: "state house district",
     incumbentName: "Vikki Goodwin",
     incumbentParty: "Democrat",
@@ -2243,11 +2243,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 4.14, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Education Quality & Public School Investment", tag: "Education", why: "With 69.2% college attainment — the highest in this batch — HD-47's electorate is intensely invested in school quality, curriculum standards, and funding equity; education policy debates mobilize this district more than almost any other single issue." },
-        { name: "Property Taxes & High-Income Affordability Pressure", tag: "Economy", why: "Even at $139,756 median income, rapid appreciation in West Austin real estate has produced property tax burdens that feel acute to long-tenured homeowners; appraisal caps and school district tax rates are live political issues." },
-        { name: "Environmental Conservation & Hill Country Preservation", tag: "Environment", why: "The western Austin suburbs border the Hill Country and the Edwards Aquifer recharge zone; responsible development, water conservation, and natural land preservation are priorities for a high-education electorate that values environmental stewardship." },
-        { name: "Technology Economy & Innovation Policy", tag: "Economy", why: "A district that is 63% white and 12% Asian with $139K median income reflects Austin's tech professional class; workforce policy, broadband infrastructure, and innovation-friendly regulation are issues this electorate follows with informed interest." },
-        { name: "Women's Healthcare & Reproductive Rights", tag: "Healthcare", why: "HD-47's high-education, predominantly white professional demographic shows elevated salience for reproductive rights and healthcare access policy; this issue drove significant suburban swing toward Democrats in 2022–24 and remains mobilizing." }
+        { name: "Public Education Quality and Funding", tag: "lean-into", why: "At 69.2% college attainment and $139,756 median income, HD-47's West Austin professional families are deeply invested in public school quality, curriculum, and funding adequacy — and are analytically equipped to evaluate legislative records on education. The 60-40 Democratic hold in a high-income district reflects, in part, a constituency that has rejected the GOP's school voucher push as a threat to Austin ISD and Eanes ISD funding. Candidates who speak specifically to Travis County school finance, special education funding, and educator retention earn durable loyalty from the district's dominant voter profile." },
+        { name: "Healthcare and Reproductive Rights Policy", tag: "lean-into", why: "In a 60-40 district with a highly educated, high-income, majority-White professional constituency, reproductive healthcare access and maternal care policy are among the highest-salience issues driving Democratic performance in West Austin. The 40-year median age means a substantial share of constituents have direct or recent family experience with the state's abortion restrictions. Specific framing around physician liability, maternal mortality outcomes, and healthcare provider departures from Texas — not abstract rights language — resonates with a constituency that evaluates policy analytically." },
+        { name: "Property Taxes in High-Value West Austin", tag: "careful", why: "At $139,756 median income in a high-value Austin real estate market, HD-47 homeowners face among the most acute appraisal-driven property tax burdens in Texas. Acknowledging this concern is necessary for a representative serving a homeowner-dominant constituency, but it requires calibration — tax relief mechanisms that primarily benefit high-value property owners can conflict with the progressive governance expectations of a 60% Democratic coalition. Framing around appraisal cap reform and circuit-breaker protections, rather than across-the-board relief, threads this needle." },
+        { name: "Affluence-Blind Populist Messaging in a $140K District", tag: "avoid", why: "HD-47's constituency is among the wealthiest in Texas, and messaging calibrated for working-class economic anxiety — cost-of-living framing centered on paycheck pressure — lands as inauthentically as it is in a district where the median household earns $139,756. At 69.2% college attainment, these voters are attuned to message-audience misalignment and will discount a candidate who appears to have copy-pasted working-class economic messaging without adjustment. The West Austin professional coalition responds to policy sophistication and institutional competence, not economic grievance." },
+        { name: "Treating the 40% Republican Minority as Irrelevant", tag: "avoid", why: "A 60-40 margin in a high-income, high-education district is structurally fragile if the representative governs only for the 60%. The Republican 40% in West Austin includes fiscal conservatives and libertarian-leaning professionals who chose a Democratic candidate for specific reasons — education policy, reproductive healthcare, civic tone — rather than partisan loyalty. Messaging or a legislative record that signals indifference to the 40%, rather than demonstrating broad constituency service, provides the precise contrast a well-funded Republican challenger needs to make the race competitive." }
       ],
       memoHeadline: "West Austin's Affluent Swing Seat: 69% College-Educated, $140K Income, and a 60-40 Democratic Hold",
       memoParagraphs: [
@@ -2266,8 +2266,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-48",
     name: "Texas House District 48",
-    city: "TBD",
-    region: "TBD",
+    city: "Austin",
+    region: "Central Austin",
     type: "state house district",
     incumbentName: "Donna Howard",
     incumbentParty: "Democrat",
@@ -2291,11 +2291,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 3.85, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Affordability & Renter Protections", tag: "Housing", why: "A 43.6% renter rate in a district with $106K median income reveals the paradox of central Austin: professional-class renters who earn well but cannot afford to buy in one of the nation's hottest real estate markets." },
-        { name: "Public Education & University of Texas Policy", tag: "Education", why: "Central Austin's proximity to UT Austin makes higher education funding, tuition policy, and university governance salient issues that mobilize students, faculty, and the professional families who live adjacent to campus." },
-        { name: "Women's Healthcare & Reproductive Rights", tag: "Healthcare", why: "HD-48's highly educated, predominantly white professional electorate has shown among the highest salience for reproductive rights of any demographic in Texas; this issue was a primary driver of the district's strong Democratic margins post-Dobbs." },
-        { name: "Mental Health Services & Healthcare Access", tag: "Healthcare", why: "Donna Howard has a long record on healthcare policy; the district's high-density urban population, including large student and young professional communities, has significant demand for mental health services and preventive care." },
-        { name: "Urban Transportation & Mobility", tag: "Infrastructure", why: "Central Austin residents experience daily the gap between the city's growth and its transportation infrastructure; transit investment, pedestrian safety, and reducing car dependency are high-priority issues for a dense urban electorate." }
+        { name: "Renter Protections in a High-Cost Urban Core", tag: "lean-into", why: "At 43.6% renters and $106,767 median income, HD-48 contains a substantial professional renter class in Central Austin who are earning well but still structurally excluded from homeownership in one of the most expensive urban markets in Texas. This is not a low-income renter constituency — it is a high-credential, high-expectation constituency experiencing housing insecurity as a policy failure rather than a personal one. Candidates who speak to Austin's specific rental market dynamics, tenant protections, and ownership barriers earn credibility with a constituency that understands why these problems exist." },
+        { name: "State Preemption of Austin Local Authority", tag: "lean-into", why: "At 66.3% college attainment and 83-17 Democratic margin, HD-48's constituency is among the most analytically engaged in Texas, and the Legislature's ongoing preemption of Austin's local governance — on land use, labor standards, and public health — is a live and visceral concern. Candidates who specifically defend Central Austin's ability to govern itself, naming actual preemption bills and their local effects, speak directly to the institutional and civic identity of this district. Generic federalism talking points are insufficient for a constituency that reads the session calendar." },
+        { name: "Austin Housing Supply Versus Neighborhood Preservation", tag: "careful", why: "HD-48's high-renter, high-education constituency contains both density advocates who want aggressive upzoning and established homeowners who value Central Austin neighborhood character. In an 83-17 district where the real political competition is in future primaries, staking out a rigid position on density versus preservation risks intra-coalition friction that a primary challenger can exploit. Framing around community-led planning processes and housing affordability outcomes — rather than a specific supply or preservation doctrine — is the calibration that maintains the full 83%." },
+        { name: "Safe-Seat Complacency Messaging", tag: "avoid", why: "Running in an 83-17 district with 66.3% college attainment creates the specific risk of messaging that signals the representative is focused on statewide or national positioning rather than Central Austin constituent service. High-education voters in safe Democratic seats are the most likely to launch or support primary challenges when they perceive their representative is taking the seat as a career vehicle rather than a service mandate. Constituent service visibility — specific, local, named — is the only durable protection against primary exposure in a district like this." },
+        { name: "Performative Progressive Positioning Without Legislative Specificity", tag: "avoid", why: "At 66.3% college attainment, HD-48's constituency will evaluate a representative's record against actual legislative outcomes — not rhetorical alignment. Messaging that leads with ideological identity, social media engagement, or symbolic legislative gestures without tying them to specific Central Austin outcomes will be read by this constituency as performance rather than governance. In a district where the 17% Republican share is irrelevant and primary accountability is the real discipline, substantive delivery on housing, preemption, and education is the only viable communication strategy." }
       ],
       memoHeadline: "Central Austin's Deep Blue Anchor: 83% Democratic, High Education, and a High-Renter Paradox",
       memoParagraphs: [
@@ -2314,8 +2314,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-49",
     name: "Texas House District 49",
-    city: "TBD",
-    region: "TBD",
+    city: "Austin",
+    region: "University of Texas Area",
     type: "state house district",
     incumbentName: "Gina Hinojosa",
     incumbentParty: "Democrat",
@@ -2339,11 +2339,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 4.62, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Student & Renter Housing Affordability", tag: "Housing", why: "HD-49's 62.4% renter rate — the highest in this Austin cluster — reflects its UT Austin-adjacent geography; students, graduate researchers, and young professionals face the most acute cost-burden in a market where rents have doubled alongside university enrollment." },
-        { name: "Higher Education Funding & UT Austin Policy", tag: "Education", why: "The University of Texas at Austin is the economic and cultural anchor of this district; funding levels, tuition costs, graduate stipends, and research investment are not abstract policy questions — they are the daily reality of a majority of constituents." },
-        { name: "Women's Healthcare & Reproductive Rights", tag: "Healthcare", why: "A highly educated, young, urban district with significant student and young professional populations shows among the highest salience for reproductive rights in the state; Hinojosa has been a leading legislative voice on this issue." },
-        { name: "Public Transportation & Student Mobility", tag: "Infrastructure", why: "In a district where fewer than 4 in 10 adults own their home and many are students or young renters, car-free or car-light transportation — bus rapid transit, bike infrastructure, scooter access — is not a lifestyle preference but an economic necessity." },
-        { name: "Economic Equity & Living Wage", tag: "Economy", why: "Despite $85,724 median income, the district's large student and graduate worker population earns far below that figure; living wage legislation, graduate student stipend policy, and protection for gig and service workers address the real income distribution of this constituency." }
+        { name: "Student and Young Renter Housing Crisis", tag: "lean-into", why: "At 62.4% renters and median age 32.5, HD-49 is the most renter-intensive district in this analysis, centered on the UT Austin campus where housing costs have escalated dramatically relative to student and young professional incomes. The $85,724 median income masks a bimodal distribution between established professional households and cost-burdened students and recent graduates. Candidates who cite specific West Campus and Hyde Park rental market data — not statewide affordability abstractions — demonstrate that they understand whose daily reality they are representing." },
+        { name: "University Research and Innovation Economy", tag: "lean-into", why: "UT Austin anchors a research, technology commercialization, and innovation ecosystem in HD-49 that connects directly to state economic competitiveness, and at 65.1% college attainment the constituency has both professional stake in and analytical understanding of higher education funding policy. State legislative decisions on UT appropriations, research funding, and university governance land immediately and specifically on this constituency. Candidates who speak to specific UT Austin program stakes — not generic higher education talking points — earn credibility with a constituency that lives inside the institution." },
+        { name: "State Interference in University Governance", tag: "careful", why: "The Legislature's recent moves on DEI programs, tenure policy, and university governance are live concerns for HD-49's UT-connected constituency, but a state representative's direct leverage over higher education policy is limited and must be honestly represented. Full ownership of outcomes that depend on legislative majorities the district cannot deliver alone sets up an accountability gap; silence on the issue alienates the core constituency. Framing around specific defensive legislative actions — what bills were blocked, what amendments were fought — is more credible than promising outcomes a minority representative cannot guarantee." },
+        { name: "Tokenistic Student Outreach Without Structural Housing Commitment", tag: "avoid", why: "In a 62.4% renter district centered on a major university, candidates who make visible gestures toward student engagement without concrete commitments on housing affordability, tenant protections, and affordability policy will be identified and called out by a 65.1% college-attainment constituency that is specifically equipped to recognize symbolic versus substantive politics. Running unopposed does not reduce this accountability — it increases the expectation of proactive delivery. Student-adjacent messaging that leads with campus presence rather than housing and economic policy specifics will generate cynicism rather than loyalty." },
+        { name: "Treating UT Students as Reliable Base Voters Without Engagement", tag: "avoid", why: "Student voter turnout is structurally volatile — driven by registration logistics, ballot access, and perceived relevance — and assuming that a 65.1% college-attainment district adjacent to UT will deliver without active constituency engagement is a structural error in an unopposed seat. The complacency of uncontested incumbency is specifically legible to a young, analytically sophisticated constituency that will disengage rather than reward passive representation. Voter registration, housing policy visibility, and consistent campus presence are maintenance requirements, not optional outreach strategies." }
       ],
       memoHeadline: "UT Austin's Home District: 62% Renters, 65% College-Educated, and a Housing Crisis in Plain Sight",
       memoParagraphs: [
@@ -2362,8 +2362,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-50",
     name: "Texas House District 50",
-    city: "TBD",
-    region: "TBD",
+    city: "Austin",
+    region: "East Austin",
     type: "state house district",
     incumbentName: "James Talarico",
     incumbentParty: "Democrat",
@@ -2387,11 +2387,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 10.45, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Justice & Renter Protections", tag: "Housing", why: "HD-50's 61.3% renter rate in a racially diverse urban district creates the sharpest possible alignment between housing policy and racial equity — the communities most vulnerable to displacement are also the communities most represented in this district." },
-        { name: "Racial Equity & Economic Opportunity", tag: "Equity", why: "With Hispanic 40%, White 31%, Black 15%, and Asian 10% — one of the most diverse districts in Texas — HD-50 demands a policy agenda that explicitly addresses differential economic outcomes across communities rather than defaulting to race-neutral framing." },
-        { name: "Public Education Reform & School Funding", tag: "Education", why: "Talarico has been one of the most active voices on education policy in the House; a district with 42.4% college attainment and a very young median age of 33.5 has both the educational background and the parental stake to make school quality a top electoral issue." },
-        { name: "Healthcare Access & Mental Health Services", tag: "Healthcare", why: "A diverse urban district with moderate income ($76,336) and a very high renter rate has significant uninsured and underinsured populations; community health centers, Medicaid access, and mental health services are essential infrastructure for this constituency." },
-        { name: "Criminal Justice Reform & Community Safety", tag: "Public Safety", why: "Urban communities with significant populations of color have nuanced, data-informed expectations around public safety — investing in violence prevention, mental health response, and community policing while ensuring accountability is the policy space where this district engages most deeply." }
+        { name: "Affordable Housing for East Austin's Working Communities", tag: "lean-into", why: "At 61.3% renters across a four-community district — 40% Hispanic, 31% White, 15% Black, 10% Asian — HD-50's housing crisis is the single issue that most directly and universally affects the constituency's daily economic stability. At $76,336 median income, the district earns significantly less than neighboring HD-48 while facing comparable Austin rental market pressures, meaning cost burden is proportionally more severe. Candidates who speak to specific East Austin displacement patterns, community land trust models, and anti-displacement tools rather than abstract housing policy earn trust from a constituency that has watched its neighborhood transform." },
+        { name: "Economic Equity Across Four Communities", tag: "lean-into", why: "HD-50's 10.45% Asian population — among the highest in this set — alongside its Black, Hispanic, and White constituencies creates a district where workforce access, small business support, and economic mobility across all four communities is a governing responsibility, not a demographic talking point. At 42.4% college attainment and $76,336 median income, the district has significant professional capacity alongside working-class households who need tangible economic pathways. Specific East Austin economic development framing — naming actual business corridors and workforce pipeline gaps — is the register that holds a four-community coalition together." },
+        { name: "Progressive Policy Pace Versus Coalition Coherence", tag: "careful", why: "HD-50's four-community composition includes constituencies with meaningfully different relationships to progressive policy priorities — established Hispanic homeowners, Black community institutions, newer Asian immigrant households, and recent Anglo arrivals — whose priorities do not always align on policy sequencing or emphasis. In an unopposed seat where the real accountability is internal coalition coherence rather than partisan competition, advancing a unified progressive agenda without fracturing the coalition requires active constituent engagement across all four communities. Visible listening and co-authorship processes are as important as substantive positions." },
+        { name: "Treating the District as a Progressive Policy Laboratory", tag: "avoid", why: "HD-50's four communities have each earned specific visibility and responsive governance — they are not a politically convenient coalition to showcase progressive policy experiments. Messaging that frames the district's diversity as an asset for a statewide or national legislative profile, rather than as a governing responsibility requiring community-specific service, will be read by long-term East Austin residents as the same extractive dynamic that preceded gentrification. The district's political character is built on community rootedness, not ideological ambition." },
+        { name: "Single-Community Messaging That Renders Others Invisible", tag: "avoid", why: "With four distinct communities sharing a single seat at roughly comparable population shares, any communication strategy that primarily reflects one community's voice, aesthetic, or policy language will signal neglect to the other three. At 61.3% renters across all four groups, housing is the one issue where universal framing works — but workforce, economic development, and cultural representation require explicit multi-community acknowledgment. Representatives who allow any one constituency to perceive itself as the real base of a nominally diverse district are building the conditions for coalition fracture in a future primary." }
       ],
       memoHeadline: "Austin's Most Diverse Urban District: 61% Renters, Four Communities, and a Progressive Policy Agenda",
       memoParagraphs: [
@@ -2410,8 +2410,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-51",
     name: "Texas House District 51",
-    city: "TBD",
-    region: "TBD",
+    city: "Austin",
+    region: "East Austin",
     type: "state house district",
     incumbentName: "Maria Luisa \"lulu\" Flores",
     incumbentParty: "Democrat",
@@ -2435,11 +2435,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 3.28, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Anti-Displacement & Cultural Preservation", tag: "Housing", why: "East Austin's historically Hispanic neighborhoods are among the most actively gentrifying urban corridors in the state; longtime residents face rising rents, property tax surges, and the erasure of cultural institutions that anchor community identity." },
-        { name: "Renter Protections & Affordable Housing Supply", tag: "Housing", why: "A 55.3% renter rate in a majority-Hispanic district under intense development pressure means displacement risk is distributed across the majority of households; renter stability programs and affordable unit preservation are urgent priorities." },
-        { name: "Economic Equity & Wage Growth", tag: "Economy", why: "HD-51's $81,532 median income masks a wide internal gap between longtime Hispanic working-class residents and the incoming professional class; policies that raise wages and protect lower-income residents from cost-of-living increases address the real income distribution of the district." },
-        { name: "Public Education & Bilingual Programs", tag: "Education", why: "A Hispanic-majority district with a young median age of 33 has a large school-age population; bilingual education quality, school funding equity, and college readiness programs are central to both constituent service and intergenerational economic mobility." },
-        { name: "Urban Transportation & Pedestrian Safety", tag: "Infrastructure", why: "East Austin communities are dense, walkable by Austin standards, and heavily renter-occupied — transit access, pedestrian infrastructure, and bike connectivity are quality-of-life investments that disproportionately benefit residents who do not own cars." }
+        { name: "Renter Protections and Displacement", tag: "lean-into", why: "At 55.3% renters in a 53.6% Hispanic district, East Austin is the epicenter of Austin's gentrification crisis. Median income of $81,532 sounds suburban but masks sharp household-by-household displacement pressure as long-term Latino residents face rent increases and no-cause evictions. Candidates who name specific East Austin zip code trends and developer subsidy patterns earn trust that generic affordability language never will." },
+        { name: "Hispanic Community Economic Stability", tag: "lean-into", why: "East Austin's Hispanic majority built the cultural and economic identity of the district across generations, and that community now faces structural displacement from the city it shaped. At 42.7% college attainment, the district has a knowledge-economy layer, but working-class Latino households in the 78702 and 78721 corridors experience a different Austin entirely. Constituent credibility here is earned by naming specific community institutions, business corridors, and cultural anchors under development pressure." },
+        { name: "Anti-Displacement vs. Development Revenue", tag: "careful", why: "Austin's city budget depends heavily on property tax revenue generated by the same development that displaces long-term East Austin residents, creating a genuine tension for any legislator who also wants city services funded. Acknowledging this tradeoff directly — rather than treating displacement and development as fully separable — is more credible to a 42.7%-college-attainment electorate than simple anti-developer framing. Candidates who hold this complexity earn more durable trust than those who resolve it too cleanly in either direction." },
+        { name: "Austin Exceptionalism Framing", tag: "avoid", why: "Messaging that treats Austin as a tech-boom success story erases the lived experience of the 55% of HD-51 households who rent in a market where median rent has outpaced $81,532 median income. A framing that celebrates Austin's growth without anchoring that narrative to displacement and working-class Latino erasure reads as representing the new arrivals, not the constituency that made East Austin what it is." },
+        { name: "State-Level Culture War Prioritization", tag: "avoid", why: "In an unopposed 100-0 seat, the structural risk is not an electoral challenge but a constituent trust gap — specifically, the perception that a legislator is performing Austin progressive identity in Austin rather than fighting Austin's specific state-legislature battles on housing preemption, tenant protection, and anti-displacement funding. Voters in a 53.6% Hispanic renter-majority district will distinguish between a representative who fights for East Austin at the Capitol and one who uses East Austin as a platform for statewide profile-building." }
       ],
       memoHeadline: "East Austin Under Pressure: Hispanic-Majority, 55% Renters, and the Gentrification Frontline",
       memoParagraphs: [
@@ -2458,8 +2458,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-52",
     name: "Texas House District 52",
-    city: "TBD",
-    region: "TBD",
+    city: "Round Rock",
+    region: "Austin North Suburbs",
     type: "state house district",
     incumbentName: "Caroline Harris Davila",
     incumbentParty: "Republican",
@@ -2483,11 +2483,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 6.93, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & Homeowner Relief", tag: "Economy", why: "With $126,742 median income and only 20.1% renters, HD-52 is an overwhelmingly homeowner district where surging Williamson County property appraisals have made tax relief one of the most broadly felt and politically mobilizing issues." },
-        { name: "Education Quality & School District Governance", tag: "Education", why: "At 47% college attainment, this is a highly credentialed district where school board performance, curriculum quality, and funding equity are closely watched; parental engagement in education policy is among the highest in the Austin metro area." },
-        { name: "Suburban Growth & Infrastructure Investment", tag: "Infrastructure", why: "The Round Rock and Cedar Park corridor is one of the fastest-growing suburban areas in Texas; road capacity, utility infrastructure, and managing the pace of residential and commercial development are immediate constituent concerns." },
-        { name: "Technology Economy & Employer Recruitment", tag: "Economy", why: "Williamson County has aggressively recruited major technology employers; constituents in this professional-class district track corporate investment, broadband policy, and pro-business regulation as indicators of the region's continued prosperity." },
-        { name: "Public Safety & Suburban Quality of Life", tag: "Public Safety", why: "Homeowner-majority suburban districts consistently rank public safety and quality schools as their top quality-of-life determinants; law enforcement funding and neighborhood safety are reliable mobilizers in this income bracket." }
+        { name: "Property Tax Relief for High-Value Homeowners", tag: "lean-into", why: "At $126,742 median income with 79.9% homeownership in Williamson County's fastest-growing corridor, appraisal volatility is the kitchen-table issue even for high earners. Round Rock and Georgetown homeowners have watched valuations surge 40-60% over five years while income growth has not kept pace proportionately, making appraisal cap reform a genuine cross-income concern rather than just a talking point. Candidates who cite actual Williamson County appraisal district data and specific school district tax rate trends outperform generic anti-tax messaging." },
+        { name: "Infrastructure Keeping Pace With Growth", tag: "lean-into", why: "HD-52 sits in one of Texas's most rapidly expanding suburban corridors, where road capacity, water infrastructure, and school facilities are visibly lagging population growth that the private market has already priced into housing. At 47% college attainment, this is a constituency that reads infrastructure as competence and fiscal responsibility, not just spending. Specific IH-35 corridor congestion data and Williamson County utility district expansion timelines give this issue immediate local credibility." },
+        { name: "Hispanic Community at 25% Share", tag: "careful", why: "At 25.4% Hispanic in a 56-44 Republican seat, Latino residents are large enough to be a genuine constituency but not yet determinative in margin — making full-constituency service both the right approach and the politically smart hedge as the district's growth demographics continue shifting. Messaging that treats HD-52 as a White suburban seat while 1-in-4 residents are Hispanic understates both the current constituent base and the long-term electoral math in a Williamson County corridor that flipped competitive in the last decade." },
+        { name: "Tech Sector Overidentification", tag: "avoid", why: "Framing HD-52 primarily as an Austin tech-economy suburb misreads a district where Dell, healthcare, and distribution-sector employment are as economically significant as software jobs, and where a 56-44 margin in a $126K-income district reflects suburban homeowner conservatism more than tech-economy liberalism. Candidates who lean into Austin tech adjacency as a selling point rather than Williamson County homeowner and growth concerns risk signaling they represent the wrong side of the 183-A corridor." },
+        { name: "Partisan Polarization as Primary Identity", tag: "avoid", why: "In a 56-44 seat with $126,742 median income and 47% college attainment, the marginal voter is a suburban professional homeowner whose primary concern is local competence — schools, roads, property taxes — not ideological affiliation. Candidates who run on statewide culture-war positioning rather than Williamson County-specific infrastructure and fiscal management hand challengers a credibility argument in exactly the high-education suburban precinct where the 56-44 margin gets decided." }
       ],
       memoHeadline: "North Austin's Highest-Income Suburb: A 56-44 Republican Hold in Williamson County's Growth Corridor",
       memoParagraphs: [
@@ -2506,8 +2506,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-53",
     name: "Texas House District 53",
-    city: "TBD",
-    region: "TBD",
+    city: "Kerrville",
+    region: "Hill Country",
     type: "state house district",
     incumbentName: "Wes Virdell",
     incumbentParty: "Republican",
@@ -2531,11 +2531,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 0.78, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Rural Economy & Ranching Support", tag: "Agriculture", why: "HD-53 spans the Hill Country and its ranching economy — cattle, sheep, goat, and deer hunting are not lifestyle choices but livelihoods; land management policy, livestock markets, and rural tax structures are the economic backbone of the district." },
-        { name: "Water Rights & Edwards Aquifer Policy", tag: "Environment", why: "The Hill Country sits atop the Edwards Aquifer and at the headwaters of multiple river systems; water rights allocation, groundwater conservation district authority, and drought policy are existential issues for ranchers, small towns, and the region's tourism economy." },
-        { name: "Rural Healthcare & Senior Services", tag: "Healthcare", why: "HD-53's median age of 45.8 — among the oldest of any Texas House district — creates acute demand for primary care, specialty services, and senior support infrastructure in communities that have lost hospitals and struggle to retain physicians." },
-        { name: "Property Rights & Land Use", tag: "Economy", why: "Property rights are a foundational political value in Hill Country culture; eminent domain, easement disputes, and development encroachment from the Austin metro's westward growth are issues that activate even politically disengaged rural landowners." },
-        { name: "Tourism Economy & Small Business", tag: "Economy", why: "The Hill Country's wine country, hunting ranches, and natural attractions drive a significant tourism economy; small business support, short-term rental policy, and rural infrastructure investment shape how effectively that economic asset is converted into community prosperity." }
+        { name: "Water Rights and Ranch Land Security", tag: "lean-into", why: "In a district spanning the Edwards Plateau and Hill Country at median age 45.8, water rights are not an environmental abstraction — they are the economic survival condition for ranching and agricultural operations that have been in families for generations. Candidates who can speak to specific Guadalupe River Authority decisions, Trinity Aquifer draw-down rates, and Kerr County groundwater conservation district politics earn credibility that Austin-framed water policy never will. At 77% Republican margin, this is a trust issue, not a persuasion issue." },
+        { name: "Rural Healthcare Access and Hospital Viability", tag: "lean-into", why: "At median age 45.8 — the oldest district in this set — HD-53 has a disproportionately high share of residents approaching or in retirement, making Peterson Regional Medical Center in Kerrville and rural clinic access a personal, not abstract, concern. At $68,410 median income and only 25.4% college attainment, out-of-pocket healthcare costs and rural hospital funding gaps land directly on household balance sheets. Candidates who name specific Kerr and Bandera county facility pressures outperform those who speak only to statewide Medicaid framing." },
+        { name: "Hispanic Agricultural Labor at 37%", tag: "careful", why: "At 36.98% Hispanic, a significant share of HD-53's population is embedded in the agricultural and service labor economy that sustains Hill Country ranching operations — yet the 77% Republican margin reflects an electorate whose dominant voice is Anglo landowner. Acknowledging the full constituency without triggering the identity-politics reflex in a deeply conservative rural district requires grounding Hispanic constituent concerns in economic terms — labor availability, agricultural workforce stability — rather than demographic advocacy framing." },
+        { name: "Austin Growth Encroachment Framing", tag: "avoid", why: "While exurban pressure from the Austin metro is real in parts of HD-53, messaging that frames the district primarily as a growth-management battleground against Austin misreads a constituency whose core identity is ranching autonomy and property rights, not suburban resistance. Candidates who run against Austin rather than for Hill Country-specific land, water, and rural healthcare interests substitute an enemy for a platform in a district where 77% of voters already know what they're for." },
+        { name: "Generic Rural Conservative Boilerplate", tag: "avoid", why: "A 77-23 margin in a low-income, older, ranching district creates the structural risk of a representative who speaks in statewide conservative talking points rather than Kerrville- and Kerr County-specific constituent issues. Voters in a district where $68,410 median income means healthcare costs and water rights are live household concerns can distinguish between a legislator who shows up on their specific issues and one who is simply the default Republican in a safe seat." }
       ],
       memoHeadline: "Hill Country's Oldest District: Ranching, Water Rights, and a 77% Republican Mandate",
       memoParagraphs: [
@@ -2554,8 +2554,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-54",
     name: "Texas House District 54",
-    city: "TBD",
-    region: "TBD",
+    city: "Killeen",
+    region: "Fort Cavazos Area",
     type: "state house district",
     incumbentName: "Brad Buckley",
     incumbentParty: "Republican",
@@ -2579,11 +2579,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 3.07, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Military Family Support & Veteran Services", tag: "Veterans", why: "HD-54's proximity to Fort Cavazos (formerly Fort Hood) means military families constitute a large share of the population; housing allowances, school quality on and off base, deployment support, and transition services for veterans are first-order constituent concerns." },
-        { name: "Affordable Housing & Rental Market Stability", tag: "Housing", why: "A 47.8% renter rate in a district with $61,057 median income signals significant cost burden for military junior enlisted families and civilian workers who rent near the base; housing affordability is the most acute economic pressure in Killeen and Copperas Cove." },
-        { name: "Public Education & School District Quality", tag: "Education", why: "Military families move frequently and prioritize school quality as a top factor in evaluating a duty station; consistent, well-funded schools in the Killeen ISD catchment area are a military readiness issue as much as a local policy one." },
-        { name: "Healthcare Access & VA Services", tag: "Healthcare", why: "With a large active-duty and veteran population, access to military health system facilities, VA care, and community-based behavioral health services is a defining quality-of-life issue — and a perennial underfunding concern." },
-        { name: "Economic Development & Civilian Job Creation", tag: "Economy", why: "Killeen's economy is heavily dependent on Fort Cavazos; diversifying the local employment base to support both veteran transitions and civilian families who are not affiliated with the military is a long-term economic resilience priority." }
+        { name: "Fort Cavazos Economic and Housing Stability", tag: "lean-into", why: "Fort Cavazos is the economic anchor of HD-54, and at 47.8% renters with $61,057 median income, the district's housing market is directly shaped by military pay scales, BAH rates, and on-post housing availability. Candidates who engage specific Killeen-area rental market conditions — not just generic veteran support language — and who understand how BAH gaps affect off-post military families earn credibility across all three demographic communities in this district. Fort Hood/Cavazos rebranding and base expansion decisions are live constituency concerns that reward specific knowledge." },
+        { name: "Veterans' Benefits and Transition Services", tag: "lean-into", why: "In a district anchored by the largest active-duty installation in the United States, veteran transition services, VA benefits navigation, and post-service employment pathways are not peripheral issues — they are the central economic mobility question for a significant share of 30.8 median-age households. At 24.4% college attainment, many separating service members face credential gap challenges entering the civilian labor market in the Killeen-Temple corridor. Candidates who name specific Central Texas VA facility capacity and Vet Center access issues outperform those who speak only to general military appreciation." },
+        { name: "Tri-Racial District Constituent Service", tag: "careful", why: "At 40% White, 28% Black, and 24% Hispanic, HD-54 has no demographic majority, and military community culture creates cross-racial shared interests — unit cohesion, base benefits, housing — that can be messaged around rather than balkanized by racial identity framing. Candidates who organize constituent service around military-family and working-class economic concerns rather than racial constituency politics earn broader trust in a 61-39 Republican seat where a unified tri-racial coalition of renters and working-class families is the structural path to competitiveness." },
+        { name: "Partisan Racial Identity Wedge Messaging", tag: "avoid", why: "In a district where 28% Black and 24% Hispanic residents share ZIP codes with 40% White neighbors in a military-community context that emphasizes shared service identity, messaging that leans into racial political identity — in either direction — disrupts the cross-racial working-class framing that actually reflects the district's lived reality. Candidates who speak to race as the primary political organizing principle rather than military-family economic conditions alienate exactly the constituency that makes a 61-39 seat competitive." },
+        { name: "Base Closure or Military Reduction Rhetoric", tag: "avoid", why: "Any framing — however indirect — that raises doubt about Fort Cavazos's mission, scope, or funding is politically catastrophic in a district where the installation is the primary economic engine for renters, homeowners, service workers, and small businesses alike. At $61,057 median income with 47.8% renters, Fort Cavazos payroll and contractor spending are the difference between household stability and economic stress across Bell County — candidates who allow themselves to be framed as ambivalent on base interests lose all three demographic communities simultaneously." }
       ],
       memoHeadline: "Fort Cavazos Country: A Tri-Racial Military District with 47.8% Renters and a 61% Republican Hold",
       memoParagraphs: [
@@ -2602,8 +2602,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-55",
     name: "Texas House District 55",
-    city: "TBD",
-    region: "TBD",
+    city: "Temple",
+    region: "Central Texas",
     type: "state house district",
     incumbentName: "Hillary Hickland",
     incumbentParty: "Republican",
@@ -2627,11 +2627,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 2.83, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Healthcare Access & Medical Economy", tag: "Healthcare", why: "Temple is home to Baylor Scott & White's flagship hospital — one of the largest medical complexes in Texas — making healthcare jobs, access, and cost a defining economic and quality-of-life issue for an unusually large share of constituents who work in or depend on the medical sector." },
-        { name: "Military & Veteran Support", tag: "Veterans", why: "HD-55's position adjacent to Fort Cavazos and the Central Texas VA facility means military families and veterans constitute a substantial constituency whose needs in healthcare, housing, and employment transition overlap with but differ from the broader population." },
-        { name: "Affordable Housing & Renter Stability", tag: "Housing", why: "At 39.9% renters with a $71,230 median income in a tri-racial district, housing cost is a shared concern across communities; the growing Temple-Belton corridor is seeing development pressure that risks outpacing local affordability." },
-        { name: "Economic Development & Job Diversification", tag: "Economy", why: "The Killeen-Temple-Belton corridor has grown significantly but remains economically concentrated around healthcare and the military; diversifying into manufacturing, logistics, and technology creates both resilience and opportunity for working families." },
-        { name: "Public Education & Workforce Pipeline", tag: "Education", why: "A tri-racial district with 29.8% college attainment and a young median age of 33.3 needs a strong K-12 to community college to workforce pipeline; Temple College and Central Texas College serve as the primary post-secondary institutions for a population that is not four-year-college-bound." }
+        { name: "Medical Economy Jobs and Baylor Scott Access", tag: "lean-into", why: "Temple's Baylor Scott & White Medical Center is the economic spine of HD-55, and at 29.8% college attainment with $71,230 median income, healthcare employment is the primary professional ladder for working-class households across the Temple-Belton corridor. Candidates who speak to specific BSW expansion decisions, nursing workforce pipeline issues, and McLennan and Bell county rural clinic access earn immediate local credibility. This is not generic healthcare talking points territory — it is a local employer conversation." },
+        { name: "Property Tax Pressure on Mid-Income Homeowners", tag: "lean-into", why: "At $71,230 median income with a 57-43 Republican margin, HD-55's 60% homeowner base has absorbed appraisal increases that outpace wage growth in a district where median income is solidly working-to-middle class rather than affluent. Bell County appraisal trends since 2020 have been acute enough that property tax relief functions as a cross-racial economic issue in a 46% White, 27% Hispanic, 19% Black district where homeownership represents a household's primary asset. Specific Temple-Belton exemption and cap mechanics resonate more than statewide reform framing." },
+        { name: "Military and Healthcare Worker Overlap", tag: "careful", why: "HD-55 sits between Fort Cavazos and BSW Temple, creating a large dual-income household sector where military and healthcare employment intersect — and where VA versus private insurance access, spousal employment, and housing near both institutions are live concerns. Messaging that speaks to either the military or the medical community in isolation misses the household reality for a significant share of the district's 57-43 competitive electorate. Candidates who hold both communities simultaneously, rather than treating them as separate audiences, earn broader trust." },
+        { name: "Treating 19% Black Share as Mobilization Math Only", tag: "avoid", why: "At 18.9% Black in a 57-43 Republican seat with genuine competitive texture, African American residents in Temple are a constituency to serve year-round, not a turnout calculation activated only in competitive cycles. Candidates — in either party — who engage Black Temple voters only as electoral leverage rather than as constituents with specific healthcare employment, housing, and economic mobility concerns will lose credibility with a community that can distinguish between representation and extraction." },
+        { name: "Culture War Framing Over Local Economic Issues", tag: "avoid", why: "In a 57-43 seat where the marginal voter is a working-class homeowner in a medical or military household at $71,230 median income, statewide culture-war positioning substitutes poorly for Temple-specific economic concerns. The 14-point Republican margin is narrower than surrounding Central Texas districts precisely because this constituency contains a diverse working-class base that responds to economic competence — candidates who run on ideology rather than BSW jobs, Bell County appraisals, and military family stability cede the economic credibility argument." }
       ],
       memoHeadline: "Temple-Belton's Tri-Racial Medical and Military District: A 57-43 Republican Seat with Real Competitive Texture",
       memoParagraphs: [
@@ -2650,8 +2650,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-56",
     name: "Texas House District 56",
-    city: "TBD",
-    region: "TBD",
+    city: "Waco",
+    region: "Central Texas",
     type: "state house district",
     incumbentName: "Pat Curry",
     incumbentParty: "Republican",
@@ -2675,11 +2675,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.79, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Manufacturing Economy & Workforce Development", tag: "Economy", why: "The Waco area's economy is anchored by manufacturing — aerospace, food processing, and logistics — and a workforce that is primarily non-degreed; connecting residents to quality manufacturing jobs through training programs is the district's most direct economic intervention." },
-        { name: "Higher Education & Baylor University Partnership", tag: "Education", why: "Baylor University's presence in the district creates both economic opportunity and civic tension; leveraging the university's research capacity and talent pipeline for local workforce development while addressing the town-gown dynamic is an underutilized policy asset." },
-        { name: "Healthcare Access & Hospital System Investment", tag: "Healthcare", why: "Waco's Ascension Providence and Baylor Scott & White facilities serve a broad catchment area; hospital funding, insurance coverage for working families, and specialist access are healthcare issues with direct constituency impact." },
-        { name: "Racial Equity & Community Investment", tag: "Equity", why: "With a 10% Black population and 24% Hispanic community in a 69% Republican district, the political majority does not reflect the district's demographic complexity; infrastructure investment and public services in historically underserved neighborhoods are quality-of-life issues that cross partisan lines." },
-        { name: "Economic Development & Downtown Revitalization", tag: "Economy", why: "Waco has experienced significant commercial revival driven by tourism and small business investment; supporting that momentum with targeted incentives, infrastructure, and small business assistance extends economic benefits beyond the downtown core to working-class neighborhoods." }
+        { name: "Manufacturing and Industrial Employment Base", tag: "lean-into", why: "Waco's manufacturing sector — anchored by L3Harris, Coca-Cola bottling, and regional industrial employers — provides the working-class employment backbone for a district at $72,039 median income and 31.4% college attainment. Candidates who speak to specific McLennan County manufacturing employer pressures, workforce pipeline gaps, and Texas State Technical College alignment earn credibility that generic economic development language never achieves. This is a district where plant-level employment decisions land directly on household stability." },
+        { name: "Baylor University Economic and Community Role", tag: "lean-into", why: "Baylor's expansion and Waco's associated revitalization have reshaped the district's economic geography, creating both opportunity and displacement pressure at $72,039 median income with 35.8% renters. Candidates who acknowledge Baylor's economic contribution while engaging the university's relationship to surrounding working-class Waco neighborhoods — rather than treating the university purely as a civic asset — demonstrate the local fluency that a 69-31 seat's constituent service demands. Baylor is too central to Waco to be either ignored or treated as unambiguously positive." },
+        { name: "Hispanic Community at 24% Share", tag: "careful", why: "At 23.91% Hispanic in a district with 35.8% renters and a $72,039 median income, Waco's Latino community is large enough to represent a genuine constituency while the 69-31 Republican margin reflects a dominant Anglo conservative electorate. Full-constituency service in Waco requires engaging East Waco and South Waco Hispanic neighborhoods on housing and economic access terms — not identity politics framing — in a district where the risk is that 24% of residents feel unrepresented by a legislator focused primarily on the 69% coalition." },
+        { name: "Austin or Dallas Metro Framing", tag: "avoid", why: "Waco has a distinct economic and cultural identity separate from the Austin-Dallas corridor it sits between, and candidates who position HD-56 as a suburb of either metro misread a district where local manufacturing employment, Baylor's independent civic role, and McLennan County homeowner concerns define constituent priorities. A 69-31 margin in a Waco-anchored district reflects local identity pride — residents who believe their representative sees Waco as a destination rather than a waypoint reward that framing with durable loyalty." },
+        { name: "Generic University Town Progressive Messaging", tag: "avoid", why: "Despite Baylor's presence, HD-56 is not a university-town progressive district — it is a 69-31 Republican seat at $72,039 median income where the dominant constituency is working-class and middle-class homeowners, not college-educated young professionals. Candidates who read Baylor's presence as an invitation for higher-education or knowledge-economy progressive framing misidentify the actual electorate, which is McLennan County homeowners and manufacturing workers who vote on property taxes, industrial jobs, and local competence rather than university-adjacent cultural signaling." }
       ],
       memoHeadline: "Waco's Central Texas Crossroads: Manufacturing, a Major University, and a 69% Republican Hold",
       memoParagraphs: [
@@ -2698,8 +2698,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-57",
     name: "Texas House District 57",
-    city: "TBD",
-    region: "TBD",
+    city: "Colleyville",
+    region: "DFW Suburbs",
     type: "state house district",
     incumbentName: "Richard Hayes",
     incumbentParty: "Republican",
@@ -2723,11 +2723,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 6.84, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & Homeowner Relief", tag: "Economy", why: "At $119,041 median income with only 21.8% renters, HD-57 is a homeowner-majority district where surging DFW-area property appraisals have made tax relief the most broadly felt financial concern regardless of party affiliation." },
-        { name: "Public Education & School District Quality", tag: "Education", why: "A 43.1% college-attainment electorate in a racially diverse suburb tracks school board decisions, curriculum quality, and per-pupil funding with high engagement; education is both a parenting priority and a property-value determinant for this demographic." },
-        { name: "Suburban Growth & Infrastructure", tag: "Infrastructure", why: "The DFW suburban corridor is experiencing intense residential and commercial growth; road capacity, utility systems, and managing development pace are immediate quality-of-life concerns for established homeowners and new arrivals alike." },
-        { name: "Economic Opportunity & Workforce Diversity", tag: "Economy", why: "A district that is 13% Black and 7% Asian alongside a white plurality has a workforce diversity that creates both economic strength and the expectation that economic development policy will deliver broadly — not just to the dominant demographic." },
-        { name: "Women's Healthcare & Reproductive Rights", tag: "Healthcare", why: "HD-57's 42% Democratic base is concentrated among college-educated suburban women and minority communities for whom reproductive rights and healthcare access are among the most motivating electoral issues in post-Dobbs Texas." }
+        { name: "High-Income Suburban Tax and Fiscal Competence", tag: "lean-into", why: "At $119,041 median income in a Colleyville-anchored DFW suburb with 78.2% homeownership, HD-57's electorate is paying premium property taxes on premium appraisals and expects fiscal competence and structural reform — not just anti-tax sentiment. Tarrant County appraisal trends since 2020 have been steep enough that specific school district tax rate mechanics and appraisal cap structures are genuine kitchen-table issues for this income bracket. Candidates who engage the technicalities of how AISD and GCISD tax rates interact with state compression earn credibility in a 43.1%-college-attainment electorate." },
+        { name: "Diverse Suburban Community Representation", tag: "lean-into", why: "HD-57 is one of the most genuinely four-community districts in DFW, with 54% White, 22% Hispanic, 13% Black, and 7% Asian residents in an affluent suburban context that creates shared economic interests across demographics. At $119,041 median income, the constituency is not divided by economic precarity but by the expectation of full representation — a 58-42 Republican seat where minority communities at 46% combined represent a real constituency, not a symbolic one. Candidates who hold all four communities as genuine constituents rather than treating the non-White 46% as a separate audience build durable margins." },
+        { name: "Suburban Identity vs. DFW Regional Growth", tag: "careful", why: "Colleyville and the surrounding communities have a strong incorporated municipal identity that can sit in tension with regional DFW growth pressures — toll roads, density, commercial development — creating a constituency that values both prosperity and the preservation of the suburban character that $119,041 median income households purchased into. Candidates must hold both growth competence and community character concerns without collapsing into either pure development advocacy or NIMBY-coded opposition, in a district where 43.1% college attainment means voters will notice the inconsistency." },
+        { name: "Treating Minority Voters as Locked Democratic Votes", tag: "avoid", why: "In an affluent suburb where Black and Hispanic households are disproportionately middle-to-upper income professionals — not low-income Democratic base voters — messaging that assumes racial voting patterns from lower-income urban contexts will misfire badly. HD-57's 13% Black and 22% Hispanic residents at $119,041 district median income are more likely to be Republican-competitive swing voters than predictably partisan, and candidates who speak to their economic and community concerns directly rather than through racial political identity framing earn the constituency that decides 58-42 margins." },
+        { name: "DFW Culture War Suburban Backlash Positioning", tag: "avoid", why: "A 58-42 margin in a diverse, high-income, highly-educated suburb reflects a constituency that is Republican by fiscal preference, not by cultural warfare enthusiasm — and candidates who run on school culture-war issues or demographic-threat framing risk alienating exactly the moderate, high-income homeowners with minority neighbors and colleagues who constitute the swing 10-15% that makes the margin. Colleyville-area voters who chose the district precisely for its demographic diversity will not reward candidates who treat that diversity as a political liability." }
       ],
       memoHeadline: "DFW's Competitive Diverse Suburb: A 58-42 Republican Seat with $119K Income and Four-Community Demographics",
       memoParagraphs: [
@@ -2746,8 +2746,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-58",
     name: "Texas House District 58",
-    city: "TBD",
-    region: "TBD",
+    city: "Granbury",
+    region: "North Texas",
     type: "state house district",
     incumbentName: "Helen Kerwin",
     incumbentParty: "Republican",
@@ -2771,11 +2771,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.06, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Agriculture & Rural Economy", tag: "Agriculture", why: "North Central Texas's mix of cattle ranching, horse country, and dryland farming defines the economic identity of HD-58; farm policy, livestock markets, and rural tax structures are first-order issues for a constituency where agriculture is both livelihood and cultural identity." },
-        { name: "Property Rights & Land Use", tag: "Economy", why: "Rural North Texas landowners guard property rights with political intensity; pipeline easements, eminent domain proceedings, and encroaching residential development from the DFW exurbs are direct threats to the agricultural landscape that constituents are organized to resist." },
-        { name: "Rural Healthcare & Hospital Access", tag: "Healthcare", why: "Small hospitals and rural health clinics are closing across North Texas at a faster rate than in urban areas; primary care access, emergency response capacity, and specialist availability are acute concerns in communities far from major medical centers." },
-        { name: "Water Rights & Groundwater Conservation", tag: "Environment", why: "North Central Texas aquifer systems face competing demands from municipal growth, agricultural irrigation, and industrial use; groundwater conservation district policy and water rights adjudication are issues rural landowners follow with the same attention urban constituents give housing policy." },
-        { name: "Energy Production & Rural Infrastructure", tag: "Economy", why: "The Palo Pinto and Parker County areas retain oil and gas production activity alongside wind energy development; energy policy, mineral rights, and rural electric grid reliability are economic issues with direct constituent impact." }
+        { name: "Rural Property Rights and Land Use Autonomy", tag: "lean-into", why: "At 82% Republican with 66.85% White and a median income of $81,855, HD-58 is anchored in Parker, Palo Pinto, and Somervell county ranch and rural property culture where landowner autonomy — against pipeline easements, eminent domain, and exurban development pressure — is the defining political value. Granbury-area landowners have watched DFW exurban expansion press against their property boundaries for a decade, making land-use and property-rights legislation a trust-building issue rather than an abstract one. Candidates who engage specific Parker County easement disputes and ERCOT infrastructure corridor fights earn credibility that cannot be bought with generic property rights language." },
+        { name: "Rural Hospital and Healthcare Access", tag: "lean-into", why: "Lake Granbury Medical Center and rural clinic access across Parker and Palo Pinto counties are live concerns for a district with 37.4 median age and $81,855 median income that masks the vulnerability of older rural households dependent on regional healthcare infrastructure. At 23.6% college attainment, healthcare cost and access issues land directly on household balance sheets in communities where the nearest Level II trauma center requires a significant drive. Candidates who name specific facility capacity and rural EMS response time data in Parker County earn immediate local credibility." },
+        { name: "DFW Exurban Growth Pressure", tag: "careful", why: "HD-58's Parker County anchor is being reshaped by DFW exurban growth that brings higher property values — and tax revenue — alongside traffic, density, and rural character loss that existing residents resist. At $81,855 median income with 74.9% homeownership, many residents benefit financially from appreciation while resenting the cultural transformation it brings, creating a genuine tension that rewards candidates who acknowledge the tradeoff honestly rather than resolving it as purely good or purely bad for Granbury-area communities." },
+        { name: "Environmental Regulation Framing on Water", tag: "avoid", why: "Water quality and supply concerns in the Brazos River corridor and Possum Kingdom Lake area are real constituency issues, but framing them in environmental regulatory language triggers immediate resistance in an 82-18 district where regulatory skepticism is foundational to political identity. Candidates who raise legitimate water infrastructure and supply concerns through property rights and rural community sustainability framing — rather than environmental protection language — reach the same policy destination without triggering the ideological reflex that shuts down the conversation." },
+        { name: "Suburban Growth Boosterism", tag: "avoid", why: "In an 82-18 district where the dominant political culture is rural landowner conservatism rather than suburban growth optimism, candidates who position Parker County as a DFW growth opportunity rather than a rural community worth protecting on its own terms misread the constituency entirely. Granbury voters who chose exurban Hood County specifically to avoid the suburbs do not reward representatives who celebrate the urbanization following them — and at 82% Republican margin, the risk is not electoral but constituent trust erosion that makes a safe seat feel unrepresented." }
       ],
       memoHeadline: "North Central Texas Ranch Country: 82% Republican, Property Rights, and Rural Healthcare Pressure",
       memoParagraphs: [
@@ -2794,8 +2794,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-59",
     name: "Texas House District 59",
-    city: "TBD",
-    region: "TBD",
+    city: "Stephenville",
+    region: "Central Texas Ranch Country",
     type: "state house district",
     incumbentName: "Shelby Slawson",
     incumbentParty: "Republican",
@@ -2819,11 +2819,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.29, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Cattle Ranching & Agricultural Economy", tag: "Agriculture", why: "HD-59 encompasses Erath County — the top dairy-producing county in Texas — alongside adjacent beef cattle and farming communities; livestock policy, feed costs, dairy market support, and rural tax structures are the district's primary economic concerns." },
-        { name: "Rural Healthcare & Physician Retention", tag: "Healthcare", why: "Small towns across this district — Stephenville, Comanche, Hamilton — are navigating physician shortages and hospital financial stress; recruiting and retaining healthcare providers in rural communities is both a quality-of-life imperative and a political talking point." },
-        { name: "Property Rights & Eminent Domain", tag: "Economy", why: "Rural Central Texas landowners are on the front lines of pipeline routes, transmission line easements, and solar farm lease negotiations; property rights protection is the issue where constituent passion is most intense and where candidate positioning matters most." },
-        { name: "Public Education & Rural School Funding", tag: "Education", why: "Small-town school districts in Erath, Comanche, and Hamilton counties depend heavily on state funding formulas that do not always reflect the cost of educating rural populations; equitable funding and teacher recruitment and retention are persistent challenges." },
-        { name: "Water Resources & Agricultural Irrigation", tag: "Environment", why: "Central Texas water availability — for irrigation, livestock, and small municipal systems — is increasingly contested as population growth to the east increases demand on shared aquifer and river resources; groundwater conservation policy directly affects agricultural viability." }
+        { name: "Dairy and Ranching Economy Specifics", tag: "lean-into", why: "Erath County is the top dairy-producing county in Texas, and HD-59's agricultural economy is not generic rural Texas but a specific livestock and dairy operation ecosystem facing feed costs, labor availability, and water supply pressures that require specific legislative knowledge. At $72,500 median income and 26.5% college attainment in an 81-19 Republican district, the electorate's economic identity is inseparable from agricultural enterprise — candidates who engage USDA dairy program mechanics, Bosque River water rights, and Stephenville-area processing infrastructure earn trust that no other issue can buy." },
+        { name: "Rural Infrastructure and Road Maintenance", tag: "lean-into", why: "At 31% renters in a rural-small-city district with Tarleton State University anchoring Stephenville, the infrastructure needs of HD-59 span FM road maintenance for agricultural operations, broadband connectivity for rural households, and the county road capacity that dairy and ranching logistics demand. Candidates who speak to specific TxDOT formula funding gaps for Erath, Comanche, and Somervell county road systems earn immediate credibility in a constituency where agricultural operations depend on infrastructure that Austin-formula funding chronically underserves." },
+        { name: "Tarleton State University Community Role", tag: "careful", why: "Tarleton's presence in Stephenville creates an educational and economic asset that matters to rural workforce development and family economic mobility — but in an 81-19 Republican district at 26.5% college attainment, higher education advocacy can read as elite-coded in communities where most residents work in agriculture, trades, or services. Candidates who engage Tarleton as a workforce and agricultural sciences resource rather than a liberal arts institution anchor position the university as a community asset rather than a cultural gap, reaching the rural electorate more effectively." },
+        { name: "Generic Rural Conservative Symbolism", tag: "avoid", why: "An 81-19 margin creates structural incentive for a representative to perform rural Texas identity through cultural signaling rather than engaging the specific dairy economy, water rights, and infrastructure mechanics that Erath County constituents actually need legislated. Voters in a district where dairy operations face concrete federal program and water law decisions can distinguish between a legislator who shows up on the Bosque River groundwater district fight and one who is simply the safe Republican vote — and the latter creates vulnerability to a primary challenger who can claim the specific knowledge the incumbent lacks." },
+        { name: "Urban Policy Import Into Rural Context", tag: "avoid", why: "In a district spanning Erath, Comanche, Eastland, and surrounding counties where the political culture is defined by agricultural independence and rural self-sufficiency, candidates who bring Austin or DFW policy frameworks — on housing, transportation, or economic development — into a rural agricultural context signal they do not understand where they are. At $72,500 median income and 81% Republican margin, HD-59 voters reward deep local knowledge of dairy country economics and penalize representatives who seem to be solving a different constituency's problems." }
       ],
       memoHeadline: "Erath County and Central Texas Ranching: 81% Republican, Dairy Country, and Rural Infrastructure Needs",
       memoParagraphs: [
@@ -2842,8 +2842,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-60",
     name: "Texas House District 60",
-    city: "TBD",
-    region: "TBD",
+    city: "Weatherford",
+    region: "Parker County",
     type: "state house district",
     incumbentName: "Mike Olcott",
     incumbentParty: "Republican",
@@ -2867,11 +2867,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 0.82, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & Exurban Homeowner Relief", tag: "Economy", why: "Parker County's rapid growth has driven property appraisals sharply upward; for the district's large homeowner majority — only 20.2% rent — tax relief is the most universally felt financial pressure and the most reliable political mobilizer." },
-        { name: "Exurban Growth & Rural Character Preservation", tag: "Infrastructure", why: "Weatherford and Parker County are absorbing DFW spillover growth at an accelerating pace; managing that growth to preserve the rural and small-town character that attracted residents in the first place is the defining tension in local governance." },
-        { name: "Property Rights & Land Use Control", tag: "Economy", why: "As suburban development approaches from the east, HD-60's large landowner constituency is acutely sensitive to zoning encroachment, pipeline routes, and any regulation perceived as diminishing private property sovereignty." },
-        { name: "Public Safety & Rural Law Enforcement", tag: "Public Safety", why: "A predominantly white, high-income, homeowner exurban community consistently prioritizes law enforcement funding and public safety as its top quality-of-life issue; this is the most reliable mobilizing concern in this demographic profile." },
-        { name: "Agriculture & Equine Economy", tag: "Agriculture", why: "Parker County is one of Texas's premier equine counties — horse ranches, breeding operations, and equestrian facilities are significant economic contributors; ag tax valuation, horse industry support, and rural road maintenance are issues with specific local traction." }
+        { name: "Rural Identity Against DFW Sprawl", tag: "lean-into", why: "Parker County is being pressed by DFW exurban growth from the east while its electorate — 78.5% White, 80% homeowners, unopposed Republican — defines itself by the rural and small-city character of Weatherford and surrounding communities. At $92,546 median income with a median age of 39.6, this is an established homeowner constituency that has watched Aledo and eastern Parker County subdivide rapidly, making land-use control, rural road capacity, and community character preservation the live local issue. Candidates who engage specific Parker County Commissioners Court development decisions and TxDOT FM road capacity data earn trust no DFW growth boosterism can match." },
+        { name: "Property Tax Relief on Rising Appraisals", tag: "lean-into", why: "Parker County's combination of proximity to DFW and rural homeowner culture has produced appraisal increases that hit 80% homeowner households hard even at $92,546 median income — because the income growth that makes DFW suburbs feel fine has not accompanied the exurban appreciation in Weatherford and Aledo ZIP codes. Candidates who speak to specific Parker County Appraisal District trends, homestead exemption mechanics, and school district tax rate compression — not just statewide property tax relief — earn the credibility that matters in an unopposed seat where constituent trust is the only accountability mechanism." },
+        { name: "Hispanic Community at 15.5% Share", tag: "careful", why: "At 15.5% Hispanic in an otherwise 78.5% White district with a 100-0 unopposed margin, Parker County's Latino residents are a real constituency whose agricultural and service-sector labor is embedded in the rural economy the district celebrates — yet they are invisible in the political framing that an unopposed Republican seat generates. Full-constituency service does not require demographic advocacy framing; it requires a representative who shows up for Weatherford-area Hispanic households on healthcare access, housing, and labor concerns rather than treating 15% of residents as politically irrelevant because they cannot affect the margin." },
+        { name: "DFW Suburb Growth Boosterism", tag: "avoid", why: "Positioning HD-60 as a DFW growth opportunity district — welcoming development, density, and suburban expansion as economic assets — directly contradicts the political identity of a constituency that moved to Parker County specifically to avoid the suburban trajectory of Tarrant County to the east. Candidates who celebrate growth rather than manage its pressure on rural character and homeowner stability signal to the 100-0 constituency that they represent the developers and newcomers rather than the established Weatherford homeowner community that defines the district's political culture." },
+        { name: "Absentee or Austin-Focused Representation", tag: "avoid", why: "In an unopposed 100-0 seat, the structural risk is not a general election challenge but a primary challenger who can credibly argue the incumbent is collecting a safe seat rather than fighting Parker County battles at the Capitol. At $92,546 median income with 80% homeownership and visible DFW development pressure, Weatherford-area constituents can identify the difference between a representative who engages specific Parker County appraisal, land-use, and rural infrastructure fights and one who holds the seat without genuine local accountability — and that gap is exactly where an insurgent primary campaign finds its opening." }
       ],
       memoHeadline: "Parker County Exurb: 78% White, 80% Homeowners, and DFW Growth Pressing Against Rural Identity",
       memoParagraphs: [
@@ -2890,8 +2890,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-61",
     name: "Texas House District 61",
-    city: "TBD",
-    region: "TBD",
+    city: "Plano",
+    region: "Collin County",
     type: "state house district",
     incumbentName: "Keresa Richardson",
     incumbentParty: "Republican",
@@ -2915,11 +2915,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 9.66, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Technology Economy & Innovation Policy", tag: "Economy", why: "HD-61's $150,188 median income and 21% Asian population reflect Collin County's technology corridor — one of the densest concentrations of tech employment in the Sun Belt; constituents track broadband policy, corporate investment, and tech-sector regulation with professional precision." },
-        { name: "Property Taxes & Appraisal Reform", tag: "Economy", why: "Even at $150K median income, the surge in Collin County property values has produced appraisal bills that homeowners in this district follow closely; tax relief and appraisal cap legislation are among the most consistently discussed policy topics regardless of party." },
-        { name: "Public Education & School District Excellence", tag: "Education", why: "At 60.6% college attainment, HD-61 has one of the most credentialed electorates in the Texas House; school board decisions, curriculum quality, and per-pupil funding are tracked with sophisticated engagement by parents who chose this district specifically for its schools." },
-        { name: "Asian American Community Engagement & Policy", tag: "Equity", why: "With 21% Asian residents — among the highest proportions in any Texas House district — HD-61's Asian community has distinct policy priorities around education equity, immigration, and civil rights that have historically been underserved by both parties' standard outreach models." },
-        { name: "Women's Healthcare & Reproductive Rights", tag: "Healthcare", why: "The college-educated professional women who anchor the district's 40% Democratic coalition are among the most politically activated by reproductive rights in post-Dobbs Texas; this issue is a primary driver of the suburban realignment narrowing Republican margins in Collin County." }
+        { name: "Tech Sector Job Security", tag: "lean-into", why: "At $150,188 median income and 60.6% college attainment, HD-61 households are concentrated in high-skill tech, finance, and professional services jobs tied to Collin County's corporate corridor. Tariff exposure, H-1B policy shifts, and corporate relocation decisions directly affect this constituency's livelihood. Candidates who speak to Plano-specific employer pressures — not generic pro-business platitudes — signal they understand what's actually at stake for this zip code." },
+        { name: "Collin County School Quality", tag: "lean-into", why: "With a median age of 37.1 and 20.94% Asian residents — a demographic that indexes heavily toward school quality as a primary political motivator — Plano ISD performance, gifted programming, and district funding are live electoral concerns. Families at $150K income chose this district specifically for its schools; candidates who demonstrate granular knowledge of Plano ISD budget pressures and curriculum standards earn disproportionate credibility with the district's most engaged voters." },
+        { name: "High-Income Property Tax Burden", tag: "careful", why: "At $150,188 median income, property tax relief resonates, but generic homeowner messaging risks landing as advocacy for the already-comfortable in a district where 22.6% rent and income inequality within the district is real. Framing relief around appraisal transparency and rate compression — rather than blanket cuts — captures homeowner support without alienating the rental households who represent over one in five residents." },
+        { name: "Culture-War Messaging in a Credentialed District", tag: "avoid", why: "At 60.6% college attainment, HD-61 is among the most educated legislative districts in Texas. Candidates who lead with culture-war framing — school content fights, DEI attacks, anti-immigration rhetoric — risk activating the suburban college-educated voter backlash that has eroded Republican margins across similar Collin County seats. The 60-40 hold is real but not structural; it narrows when the message repels the credentialed professionals who make up this district's electoral core." },
+        { name: "Treating Asian Voters as Politically Inert", tag: "avoid", why: "At 20.94% Asian — one of the highest concentrations in any Texas House district — ignoring this community's specific concerns around education equity, immigration policy, and professional workforce issues is a structural error, not merely a missed opportunity. Asian voter turnout in Collin County high-income suburbs has increased measurably in recent cycles; a Republican candidate who governs as if the 50.87% white majority is the only constituency worth courting accelerates the demographic erosion already visible in the district's trend line." }
       ],
       memoHeadline: "Collin County's Tech Corridor: $150K Income, 21% Asian, and a 60-40 Republican Hold Under Pressure",
       memoParagraphs: [
@@ -2938,8 +2938,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-62",
     name: "Texas House District 62",
-    city: "TBD",
-    region: "TBD",
+    city: "Sherman",
+    region: "Northeast Texas",
     type: "state house district",
     incumbentName: "Shelley Luther",
     incumbentParty: "Republican",
@@ -2963,11 +2963,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.06, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Manufacturing & Workforce Economy", tag: "Economy", why: "Northeast Texas's economy is anchored by light manufacturing, food processing, and distribution — industries that employ a largely non-degreed workforce; job retention, wage growth, and plant expansion are the kitchen-table economics of the district's working families." },
-        { name: "Rural Healthcare & Hospital Sustainability", tag: "Healthcare", why: "Small and mid-size hospital systems in the Greenville and Sulphur Springs corridor face financial pressure and specialist shortages; primary care access and emergency capacity are declining in communities that have few alternatives." },
-        { name: "Agriculture & Small Farm Support", tag: "Agriculture", why: "Northeast Texas's mix of cattle ranching, hay production, and truck farming anchors a significant share of the rural economy; farm policy, agricultural tax valuations, and rural infrastructure investment are consistent constituent concerns." },
-        { name: "Property Rights & Rural Land Use", tag: "Economy", why: "A 73% white, primarily rural and small-city district is politically galvanized by any perceived threat to landowner sovereignty — pipeline routes, solar farm lease pressure, and state or federal environmental mandates on private land activate an already-organized constituency." },
-        { name: "Public Safety & Community Character", tag: "Public Safety", why: "Northeast Texas small towns prioritize law enforcement funding, drug trafficking interdiction along rural routes, and the preservation of the community character that residents associate with lower-crime, close-knit environments." }
+        { name: "Manufacturing and Industrial Jobs", tag: "lean-into", why: "At $69,793 median income and 23.2% college attainment, HD-62's Sherman-area economy depends on manufacturing, logistics, and industrial employers — including the significant semiconductor investment Texas Instruments has made in Grayson County. Candidates who speak to workforce training pipelines, shift-work household economics, and keeping existing plant employers competitive earn credibility that generic job-creation rhetoric cannot. This constituency can identify the difference between a candidate who knows the local plant and one who doesn't." },
+        { name: "Agricultural Land and Water Rights", tag: "lean-into", why: "In a 78-22 district anchored in Northeast Texas farm country, land ownership, water access, and agricultural regulatory burden are not peripheral issues — they are identity issues. At 73% white and with deep rural roots across Grayson and adjacent counties, this constituency expects a representative who speaks the language of property rights and ag sovereignty without prompting. Specific familiarity with Red River basin water disputes and eminent domain pressures from infrastructure corridors signals genuine representation." },
+        { name: "Healthcare Access in Rural Counties", tag: "careful", why: "At $69,793 median income across a geographically dispersed district, hospital closures and provider shortages are a lived reality for HD-62 households, not a policy abstraction. The careful path acknowledges rural healthcare access as a constituent service issue — not a government expansion argument — and focuses on workforce incentives, rural hospital stabilization funding, and telehealth infrastructure. Framing this as market-aligned rural infrastructure rather than healthcare entitlement is the only messaging that works in a 78-22 Republican district." },
+        { name: "Semiconductor Boom Overpromising", tag: "avoid", why: "Grayson County's TI investment is real, but HD-62 residents at $69,793 median income and 23.2% college attainment are skeptical of economic promises that have historically bypassed working-class households. Candidates who front-load semiconductor talking points without addressing wage access, local hiring pipelines, and housing affordability for the existing workforce sound like they're speaking to investors rather than constituents. The backlash from overpromising economic transformation to communities that have heard it before is concrete and measurable in a district this lopsided — it suppresses turnout among the base." },
+        { name: "Urban Policy Solutions to Rural Problems", tag: "avoid", why: "In a 78-22 district that is 73% white with deeply rural and small-city character across Sherman, Denison, and surrounding farm communities, applying DFW-derived policy frames to Northeast Texas problems signals a fundamental misread of the constituency. Candidates who cite urban housing models, metropolitan transit frameworks, or suburban school policy templates when discussing HD-62 challenges lose the room immediately — this constituency is highly attuned to whether a representative understands that rural Northeast Texas operates on different economics and expectations than the Metroplex corridor 60 miles south." }
       ],
       memoHeadline: "Northeast Texas Small Cities and Farm Country: 78% Republican, Manufacturing Economy, Rural Roots",
       memoParagraphs: [
@@ -2986,8 +2986,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-63",
     name: "Texas House District 63",
-    city: "TBD",
-    region: "TBD",
+    city: "Carrollton",
+    region: "DFW Suburbs",
     type: "state house district",
     incumbentName: "Ben Bumgarner",
     incumbentParty: "Republican",
@@ -3011,11 +3011,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 9.53, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Affordability & Apartment Market Pressure", tag: "Housing", why: "A 41.8% renter rate in a $103K-income district is the defining economic paradox of HD-63 — professional-class households earning well above the state median are still renting in a competitive apartment market driven by corporate campus proximity and rapid suburban growth." },
-        { name: "Property Taxes & Homeowner Investment", tag: "Economy", why: "For the 58% of households who do own, surging Collin or Denton County appraisals have produced tax increases that feel acute even at six-figure incomes; tax relief measures are among the most broadly supported legislative actions in this income bracket." },
-        { name: "School District Quality & Education Investment", tag: "Education", why: "With 48.6% college attainment and a racially diverse parent-age population, HD-63's electorate evaluates school board performance, curriculum standards, and district funding with the rigor of an informed constituency that has chosen its community partly based on school quality." },
-        { name: "Suburban Growth & Infrastructure Capacity", tag: "Infrastructure", why: "The Collin-Denton suburban corridor is absorbing residential and commercial growth at a pace that strains roads, utilities, and public services; infrastructure investment and development planning are immediate quality-of-life concerns for both renters and owners." },
-        { name: "Diverse Community Engagement & Equity", tag: "Equity", why: "Four communities — white, Hispanic, Asian, and Black — each hold meaningful demographic weight in a 56-44 district; the candidate who builds genuine cross-community credibility, rather than relying on one coalition, holds the strongest path to a durable majority." }
+        { name: "Renter Cost Burden in DFW", tag: "lean-into", why: "At 41.8% renters in a district with $103,339 median income, housing cost pressure is the defining household economic concern — not an edge issue. Carrollton renters are not low-income; they are workforce professionals priced out of ownership in a metro where rental rates have outpaced income growth since 2020. Candidates who connect this directly to local zoning, apartment supply, and DFW regional housing policy earn credibility that generic affordability messaging does not." },
+        { name: "Diverse Small Business Corridor", tag: "lean-into", why: "At 22.95% Hispanic and 12.26% Asian, HD-63's commercial landscape reflects genuine small-business diversity concentrated along Carrollton's established commercial corridors. Regulatory burdens, permitting friction, and access to small-business capital programs are concrete concerns for this constituency. Candidates who demonstrate familiarity with Carrollton's actual business community — not just corporate DFW — connect authentically with a significant voter segment across both parties." },
+        { name: "Workforce Housing vs. Neighborhood Character", tag: "careful", why: "The 56-44 margin in a 41.8% renter district means the coalition contains both homeowners protective of neighborhood character and renters urgently needing supply relief — constituencies with structurally competing interests on density and development. Calibrating housing policy to acknowledge both pressures, rather than defaulting entirely to owner-side framing, is the difference between a coalition that holds and one that fractures at the margins." },
+        { name: "Immigration Enforcement Rhetoric in a Diverse Suburb", tag: "avoid", why: "In a district that is 22.95% Hispanic and 12.26% Asian — with a combined non-white population approaching 50% — hardline immigration enforcement messaging does not play as a base motivator; it plays as a threat to neighbors, coworkers, and family members. The 56-44 margin is narrow enough that any framing that reads as targeting the district's own demographic composition can flip persuadable households that currently lean Republican." },
+        { name: "Suburban Complacency Messaging on Margin", tag: "avoid", why: "Running a low-engagement, base-turnout campaign in a 56-44 district with 41.8% renters — a segment with lower baseline turnout but high mobilization potential — assumes a structural advantage that does not exist here. Candidates who campaign as if the district is safe rather than genuinely competitive give a well-organized challenger exactly the turnout gap they need to close a six-point margin in a single cycle." }
       ],
       memoHeadline: "DFW's Most Competitive Diverse Suburb: 56-44 Republican, $103K Income, and a 42% Renter Paradox",
       memoParagraphs: [
@@ -3034,8 +3034,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-64",
     name: "Texas House District 64",
-    city: "TBD",
-    region: "TBD",
+    city: "Cleburne",
+    region: "Johnson County",
     type: "state house district",
     incumbentName: "Andy Hopper",
     incumbentParty: "Republican",
@@ -3059,11 +3059,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 2.60, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Affordability & Renter Access", tag: "Housing", why: "At 40.5% renters with a $76,511 median income, HD-64 has a large working-and-middle-class renter population for whom housing cost is an immediate financial pressure rather than an abstract policy concern — affordable unit supply and renter market stability are tangible constituent needs." },
-        { name: "Workforce Development & Blue-Collar Economy", tag: "Economy", why: "HD-64's $76,511 median income and 33% college attainment describe a mixed blue-collar and white-collar workforce; connecting residents to quality trades jobs, apprenticeship programs, and workforce certifications is the most direct path to economic mobility in this district." },
-        { name: "Public Education & School District Quality", tag: "Education", why: "A relatively young district (median age 33.9) with a significant Hispanic population has a large school-age cohort; K-12 quality, dual-language programs, and school funding equity are constituent priorities that reach across the white and Hispanic majority communities." },
-        { name: "Suburban Growth & Community Infrastructure", tag: "Infrastructure", why: "The outer DFW suburban ring is absorbing growth that strains roads, schools, and utilities faster than infrastructure can keep pace; managing development while maintaining quality of life is the governance challenge most visible to constituents in their daily commutes and neighborhoods." },
-        { name: "Public Safety & Neighborhood Stability", tag: "Public Safety", why: "Working-and-middle-class suburban communities prioritize neighborhood safety and police funding; with a 63% Republican electorate and significant non-white minority communities, public safety framing must be credible across demographic lines to build a durable coalition." }
+        { name: "Working-Family Cost-of-Living Relief", tag: "lean-into", why: "At $76,511 median income and 40.5% renters in Johnson County's Cleburne-area communities, HD-64 households face the dual pressure of rising outer-DFW rents and stagnant wage growth relative to Metroplex cost inflation. At a median age of 33.9 — the youngest in this district set — this is a constituency of young families whose financial situation is not yet stable. Candidates who address grocery costs, utility rates, and rental market pressure in concrete Johnson County terms resonate with households actively managing monthly shortfalls." },
+        { name: "Trade and Vocational Job Pathways", tag: "lean-into", why: "At 33% college attainment in a district that sits at the edge of the DFW industrial and construction economy, skilled trades represent the realistic income ceiling for a large share of HD-64 households. Candidates who champion apprenticeship access, community college trade programs, and employer partnerships with Hill College and Tarrant County College South speak to what economic mobility actually looks like for a 63-37 Republican base that is working-class in composition. Abstract workforce development rhetoric is not the same as knowing the specific trade pipeline gaps in Johnson County." },
+        { name: "Hispanic Community in a 21% District", tag: "careful", why: "At 21.51% Hispanic in a 63-37 seat, the Latino community in Cleburne and surrounding Johnson County cities is large enough to influence competitive elections but is not a swing bloc in the current configuration. The careful path for a Republican is genuine constituent service — Spanish-language outreach, small business access, and school services — without overreach into immigration framing that alienates the broader base. For a Democrat, activating this community requires addressing economic concerns first; cultural identity framing alone does not move persuadable Hispanic voters in outer-ring suburban districts." },
+        { name: "Outer-Suburb Identity as DFW Overflow", tag: "avoid", why: "Johnson County residents who chose Cleburne and Burleson over the core Metroplex did so with intention — lower costs, space, and distance from urban density are part of the identity of this community, not incidental. Candidates who frame HD-64 as a DFW suburb primarily defined by its proximity to Fort Worth rather than its own small-city and rural character misread the constituency's self-conception. At 33.9 median age and 40.5% renters, many residents are building households here specifically because it is not the Metroplex, and messaging that subordinates Johnson County identity to DFW regionalism reads as tone-deaf." },
+        { name: "Social Services Expansion Framing", tag: "avoid", why: "In a 63-37 Republican district at $76,511 median income, messaging that frames housing affordability or healthcare access through a government-expansion or safety-net lens collapses the potential coalition even among renter households who are genuinely struggling. The working-class base here holds a self-reliance political identity that coexists with real financial stress — candidates who speak to cost-of-living through market, regulatory, and tax mechanisms rather than program access find the same voters receptive. Framing economic pain as a case for expanded government services activates cultural resistance that overrides economic self-interest in this specific district." }
       ],
       memoHeadline: "Outer DFW Suburb: Working-Class and Middle-Class Families, 40% Renters, and a 63% Republican Base",
       memoParagraphs: [
@@ -3082,8 +3082,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-65",
     name: "Texas House District 65",
-    city: "TBD",
-    region: "TBD",
+    city: "Frisco",
+    region: "Collin County",
     type: "state house district",
     incumbentName: "Mitch Little",
     incumbentParty: "Republican",
@@ -3107,11 +3107,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 10.21, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & Homeowner Economic Pressure", tag: "Economy", why: "At $112,396 median income with 61% homeownership, HD-65's property-owning majority faces the same Collin-Denton County appraisal surge that has made tax relief the dominant pocketbook issue across DFW's high-income suburbs regardless of party." },
-        { name: "School District Excellence & Curriculum Governance", tag: "Education", why: "With 51.5% college attainment and a racially diverse parent-age population, HD-65's electorate brings sophisticated engagement to school board decisions, advanced curriculum offerings, and school district funding — these are issues where candidate knowledge is tested against a high-information audience." },
-        { name: "Suburban Housing Supply & Affordability", tag: "Housing", why: "A 38.8% renter rate in a $112K-income district signals a tight ownership market; high-income renters who cannot or have not yet purchased are a growing constituency with distinct expectations about housing policy that differ from both traditional renters and established homeowners." },
-        { name: "Diversity, Community Integration & Civic Engagement", tag: "Equity", why: "With Asian 12% and Black 10% alongside a white plurality, HD-65 mirrors the demographic trajectory of the broader Collin-Denton tech corridor; ensuring that economic and civic opportunities are distributed equitably across communities is both a policy priority and a coalition-building imperative." },
-        { name: "Suburban Growth & Quality-of-Life Infrastructure", tag: "Infrastructure", why: "Frisco and McKinney are among the fastest-growing cities in the United States; managing the pace of that growth — school capacity, road networks, park access, and utility systems — is the defining governance challenge for a district where new residents arrive faster than infrastructure can scale." }
+        { name: "Frisco Growth Infrastructure Costs", tag: "lean-into", why: "Frisco and McKinney are among the fastest-growing cities in the United States, and HD-65 residents at $112,396 median income are experiencing the direct fiscal consequences — school overcrowding, road congestion, and utility capacity strains funded through property tax escalation. Candidates who speak specifically to Collin County MUD financing structures, school bond pressures, and highway expansion timelines demonstrate the local fluency that distinguishes a credible representative from a generic conservative in a competitive suburban seat." },
+        { name: "Quality Schools Amid Rapid Growth", tag: "lean-into", why: "At 51.5% college attainment and a median age of 37.4, HD-65 is dominated by families who relocated to Frisco and McKinney specifically for school district quality. Frisco ISD and McKinney ISD capacity constraints, teacher retention under rapid enrollment growth, and gifted/advanced program availability are primary household concerns. Candidates who engage with district-specific education challenges — not just state funding formulas — earn the trust of this district's most politically active demographic." },
+        { name: "Property Tax Relief at High Valuations", tag: "careful", why: "At $112,396 median income with rapid appreciation in Frisco-area home values, property tax relief resonates broadly — but framing it as a homeowner-only issue ignores the 38.8% of residents who rent and face indirect cost pass-through. Relief messaging calibrated around appraisal cap reform and rate compression rather than blanket exemption expansion speaks to the economic reality of a district where ownership is aspiration as much as current status." },
+        { name: "Anti-Growth Positioning in a Boom District", tag: "avoid", why: "Frisco is a city that has built its identity around growth, economic development, and the amenities — sports venues, retail corridors, corporate headquarters — that come with it. Candidates who position themselves as growth skeptics or who emphasize development restriction risk alienating the civic identity of a community that chose Frisco because of what it is becoming. In a 60-40 district, cultural alignment with local optimism matters as much as policy positioning." },
+        { name: "Ignoring Hispanic and Black Residents as Constituency", tag: "avoid", why: "At 19.72% Hispanic and 10.21% Black, minority residents account for nearly 30% of HD-65. Governing exclusively through a white homeowner lens — skipping targeted outreach, dismissing service equity concerns in newer or denser parts of the district — forfeits constituent credibility with a population segment large enough to shift the margin in a cycle where the 60-40 hold comes under structural pressure from demographic change." }
       ],
       memoHeadline: "Frisco-McKinney Corridor: $112K Income, 51% College, Four Communities, and a 60-40 Hold Worth Watching",
       memoParagraphs: [
@@ -3130,8 +3130,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-66",
     name: "Texas House District 66",
-    city: "TBD",
-    region: "TBD",
+    city: "Allen",
+    region: "Collin County",
     type: "state house district",
     incumbentName: "Matt Shaheen",
     incumbentParty: "Republican",
@@ -3155,11 +3155,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 9.11, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Technology Economy & Innovation Ecosystem", tag: "Economy", why: "HD-66's $126,343 median income and 63.3% college attainment are the fingerprints of Collin County's technology employment corridor; residents work at or adjacent to major corporate campuses and follow innovation policy, broadband infrastructure, and corporate tax climate with professional-grade interest." },
-        { name: "Property Taxes & Appraisal Burden", tag: "Economy", why: "Even at $126K median income, the rapid appreciation of Collin County real estate has pushed property tax bills to levels that generate consistent constituent complaints; appraisal cap reform and school district levy management are the policy specifics this electorate tracks closely." },
-        { name: "School Quality & Advanced Academic Programs", tag: "Education", why: "At 63.3% college attainment — among the highest in the Texas House — HD-66's parent electorate has exceptionally high expectations for district curriculum, advanced coursework, and college readiness outcomes; any perceived weakening of school quality triggers immediate organized response." },
-        { name: "Asian American Civic Engagement & Policy", tag: "Equity", why: "With 19.16% Asian residents, the district's Indian American, Chinese American, and Korean American communities represent a politically significant constituency whose concerns about education equity, immigration, and civil rights are increasingly translating into organized electoral power." },
-        { name: "Housing Market & High-Income Renter Access", tag: "Housing", why: "A 43.1% renter rate at $126K median income is a paradox that defines the district's housing politics: these are not low-income renters but corporate relocatees, dual-income tech households, and young professionals who have not entered a market where ownership is extraordinarily competitive." }
+        { name: "Tech Workforce and Corporate Allen Economy", tag: "lean-into", why: "At 63.3% college attainment and $126,343 median income, HD-66 is anchored in the professional and technology employment base that runs through Allen, Plano, and Collin County's corporate corridor. Candidates who speak to specific pressures on this workforce — H-1B processing backlogs, federal contract exposure, semiconductor supply chain policy — signal genuine fluency with what this constituency's households actually depend on professionally." },
+        { name: "Collin County School District Performance", tag: "lean-into", why: "With 19.16% Asian residents and a 63.3% college attainment rate — the highest in this district set — school quality is not a secondary concern but the primary one for a large share of HD-66 households. Allen ISD program depth, gifted education funding, and competitive academic standing relative to other Collin County districts are live issues. Candidates with specific knowledge of Allen ISD budget pressures outperform those who speak only in state-level education abstractions." },
+        { name: "High-Earner Property Tax Appraisal Exposure", tag: "careful", why: "At $126,343 median income in a high-appreciation Collin County market, property tax appraisal growth is a genuine household concern — but at 43.1% renters, nearly half the district does not own property and has different economic priorities. Relief framing that centers homeowners exclusively risks reading as advocacy for the upper half of the income distribution in a district where a substantial renter population has legitimate affordability pressures of its own." },
+        { name: "Social Conservative Litmus Tests in a 63% College District", tag: "avoid", why: "HD-66's 63.3% college attainment rate is among the highest of any Republican-held district in Texas. Leading with socially conservative litmus-test messaging — on abortion restriction specifics, LGBTQ legislative priorities, or book ban framing — triggers backlash among exactly the credentialed suburban voters whose continued Republican alignment is what makes a 61-39 margin possible. The hold is built on fiscal and governance credibility, not cultural warfare." },
+        { name: "Dismissing Asian Community Civic Concerns", tag: "avoid", why: "At 19.16% Asian, HD-66 has one of the highest Asian population shares of any Republican-held Texas House district. Treating this community's concerns — around immigration pathways for high-skilled workers, education equity, and professional licensing — as peripheral rather than central to the district's identity accelerates the political realignment that has already moved similar demographics toward Democratic candidates in comparable suburban seats nationally." }
       ],
       memoHeadline: "Collin County's Tech Corridor: $126K Income, 63% College, 19% Asian, and a 61-39 Republican Hold",
       memoParagraphs: [
@@ -3178,8 +3178,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-67",
     name: "Texas House District 67",
-    city: "TBD",
-    region: "TBD",
+    city: "Plano",
+    region: "Collin County",
     type: "state house district",
     incumbentName: "Jeff Leach",
     incumbentParty: "Republican",
@@ -3203,11 +3203,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 10.98, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & Homeowner Relief", tag: "Economy", why: "HD-67's homeowning majority at $103K median income is experiencing the same Collin County appraisal surge as neighboring seats; tax relief legislation is the single most broadly supported issue across the district's white and minority homeowner communities alike." },
-        { name: "Public Education & School District Governance", tag: "Education", why: "At 45.6% college attainment with a racially diverse parent-age electorate, school board decisions, curriculum standards, and per-pupil funding equity are closely watched across all four of the district's demographic communities." },
-        { name: "Judicial Policy & Rule of Law", tag: "Governance", why: "Jeff Leach has a long record on judiciary committee work in the Texas House; constituents who follow civil justice, courts, and legal policy are represented by one of the chamber's more knowledgeable legislators in this space, and that legislative identity shapes constituent expectations." },
-        { name: "Minority Community Engagement & Economic Opportunity", tag: "Equity", why: "With Hispanic 19%, Asian 13%, and Black 11% — together nearly 43% of the district — HD-67 cannot be governed credibly without specific policy attention to the economic and civic concerns of its three minority communities." },
-        { name: "Suburban Growth & Infrastructure Investment", tag: "Infrastructure", why: "The Plano and Allen corridor is maturing as a suburb while continuing to absorb new residential and commercial development; road capacity, utility infrastructure, and park access are quality-of-life issues that affect all residents regardless of tenure." }
+        { name: "Plano-Allen Established Homeowner Economy", tag: "lean-into", why: "HD-67's established suburban core — spanning Plano, Allen, and adjacent communities — is populated by mid-to-upper-income homeowners at $103,565 median income who have watched property appraisals outpace income growth in Collin County's maturing market. These are not recent arrivals chasing growth; they are settled households facing concrete fiscal pressure from tax escalation on appreciated values. Specific Collin County appraisal trend data and rate compression proposals resonate more than abstract tax relief rhetoric." },
+        { name: "Workforce and Professional Services Employment", tag: "lean-into", why: "At 45.6% college attainment — lower than adjacent HD-66 but still representing a predominantly professional workforce — HD-67 households are concentrated in the corporate and professional services employment base anchored in Plano's Legacy West and Allen's US-75 corridor. Policy affecting employer stability, healthcare costs, and professional credential portability registers as a direct pocketbook concern for a district where household income depends on sustained white-collar employment." },
+        { name: "Renter Affordability in an Ownership District", tag: "careful", why: "At 35.5% renters in a district with $103,565 median income, the rental population is substantial but often invisible in a political conversation dominated by homeowner concerns. Acknowledging cost pressure on renter households — without abandoning the property tax and appraisal messaging that anchors homeowner support — requires specific framing around supply and affordability rather than rent control approaches that would alienate the district's ownership majority." },
+        { name: "Nationalized Messaging That Ignores Local Service", tag: "avoid", why: "In a 60-40 district with 10.98% Black and 18.73% Hispanic residents — a combined minority population approaching 30% — defaulting to nationalized partisan messaging over demonstrable local constituent service creates an opening for challengers who can credibly claim the representative is governing for the base, not the district. The margin exists because this is a high-information electorate; at 45.6% college attainment, voters notice when their representative is performing for Austin rather than Plano." },
+        { name: "Ignoring Hispanic and Black Constituent Priorities", tag: "avoid", why: "At 18.73% Hispanic and 10.98% Black, nearly 30% of HD-67 residents belong to minority communities that are growing as a share of the district's overall population. A representative who governs as if constituent service ends at the white homeowner majority — skipping engagement with these communities on healthcare access, employment equity, and school quality concerns — builds the demographic conditions for a competitive challenger in a district where the trend line is already moving toward greater diversity." }
       ],
       memoHeadline: "Plano-Allen's Established Suburban Core: Four-Community Demographics and a 60-40 Republican Hold",
       memoParagraphs: [
@@ -3226,8 +3226,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-68",
     name: "Texas House District 68",
-    city: "TBD",
-    region: "TBD",
+    city: "Jacksboro",
+    region: "North Texas Ranch Country",
     type: "state house district",
     incumbentName: "David Spiller",
     incumbentParty: "Republican",
@@ -3251,11 +3251,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 0.56, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Oil & Gas Production & Energy Rights", tag: "Economy", why: "Northwest Texas and the area around Jacksboro sits within the Bend Arch-Fort Worth Basin producing region; oil and gas royalties, mineral rights protection, and energy-sector employment are direct economic concerns for a constituency that lives with extraction infrastructure in its backyard." },
-        { name: "Agriculture & Ranching Economy", tag: "Agriculture", why: "Cattle ranching and dryland farming are the dominant land uses across Jack, Wise, Young, and adjacent counties; livestock market conditions, ranch tax valuations, drought support, and rural infrastructure are the foundational economic issues of the district." },
-        { name: "Property Rights & Rural Land Sovereignty", tag: "Economy", why: "An 87% Republican district in rural North Texas has property rights at the center of its political identity; pipeline routing, eminent domain proceedings, wind and solar lease pressure on ranch land, and state land-use regulation are the issues that generate the most organized constituent response." },
-        { name: "Rural Healthcare & Emergency Services", tag: "Healthcare", why: "Communities in Jack and Wise counties are far from major medical centers; rural hospital financial sustainability, emergency response capacity, and primary care access are acute needs in a district whose older-than-average population (median age 42.1) has elevated healthcare demand." },
-        { name: "Water Rights & Drought Resilience", tag: "Environment", why: "North Texas ranch and farm country depends on groundwater and surface water rights for agricultural viability; groundwater conservation district governance, drought assistance programs, and inter-basin water transfer policy are followed with the same intensity as commodity markets." }
+        { name: "Property Rights and Eminent Domain", tag: "lean-into", why: "In a 87-13 district anchored in North Texas ranch country across Jack, Wise, and Young counties, land ownership is not a policy issue — it is the foundational cultural and economic identity of the constituency. Pipeline easements, transmission line corridors, and renewable energy lease pressure have made eminent domain reform an immediate concern for ranching families who measure their property in sections, not lots. Candidates who can speak to specific TxDOT corridor projects, pipeline operator negotiation tactics, and landowner compensation law earn constituency trust that no other issue can substitute for." },
+        { name: "Agricultural Economy and Rural Livelihoods", tag: "lean-into", why: "At $63,421 median income and 21.6% college attainment across a geographically vast rural district, farming, ranching, and oil and gas extraction are the primary economic engines. Candidates who speak to USDA program implementation, drought assistance access, cattle market structure, and agricultural input costs — not in broad terms but in terms specific to North Texas ranch operations — demonstrate the local knowledge that 87-13 constituencies expect as a baseline from their representatives. The margin reflects earned trust; maintaining it requires ongoing substantive agricultural engagement." },
+        { name: "Hispanic Community in Rural District", tag: "careful", why: "At 20.07% Hispanic across a district that is 87% Republican and 73% white, the Latino population — concentrated in agricultural labor, small towns, and ranch-adjacent communities — is a constituent service obligation that the dominant political margin can cause a representative to overlook. The careful path provides genuine representation on school access, healthcare navigation, and local economic concerns without framing that triggers cultural backlash from the broader base. Rural Hispanic communities in North Texas are not ideologically monolithic and respond to constituent service quality more than partisan signaling." },
+        { name: "Renewable Energy as Economic Threat", tag: "avoid", why: "West and North Texas ranch families are already hosting wind and solar installations at scale — landowners in HD-68's counties have signed lease agreements because the income is real and the land use is compatible with ranching. Candidates who campaign against renewable energy development as culturally or economically threatening misread a constituency that is simultaneously pro-oil and actively leasing land to wind developers. The winning framing is property rights and landowner sovereignty over energy decisions — not opposing renewables, which alienates the ranchers who are already cashing the checks." },
+        { name: "Urban Policy Templates in Rural Context", tag: "avoid", why: "In an 87-13 district spanning hundreds of square miles of North Texas ranch and small-town communities at $63,421 median income, policy language derived from urban or suburban legislative contexts — housing density, transit access, metropolitan workforce development — signals complete unfamiliarity with the constituency. Jacksboro, Bowie, and Mineral Wells operate on fundamentally different economic and infrastructure realities than any DFW-adjacent community. Candidates who cannot communicate in the specific economic vocabulary of agricultural property, rural healthcare access, and small-town service gaps are heard as outsiders regardless of their party affiliation." }
       ],
       memoHeadline: "Rural North Texas Ranch and Oil Country: 87% Republican, Property Rights, and Agricultural Sovereignty",
       memoParagraphs: [
@@ -3274,8 +3274,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-69",
     name: "Texas House District 69",
-    city: "TBD",
-    region: "TBD",
+    city: "Wichita Falls",
+    region: "North Texas",
     type: "state house district",
     incumbentName: "James B Frank",
     incumbentParty: "Republican",
@@ -3299,11 +3299,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.89, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Military Base Support & Sheppard AFB", tag: "Veterans", why: "Sheppard Air Force Base in Wichita Falls is one of the largest Air Force training bases in the world and the dominant economic engine of the district; base funding, military family services, and veteran transition support are first-order constituent concerns with direct state-level policy implications." },
-        { name: "Oil & Gas Economy & Energy Jobs", tag: "Economy", why: "Wichita County sits within North Texas's oil-producing region, and energy-sector employment is a significant part of the local economy; mineral rights, royalty income, and oil field job conditions are issues constituents follow alongside national energy policy." },
-        { name: "Rural Healthcare & Hospital Access", tag: "Healthcare", why: "Wichita Falls serves as the regional healthcare hub for a wide rural catchment area; United Regional Health Care System's financial sustainability, specialist availability, and rural clinic access across adjacent counties are constituency-wide quality-of-life concerns." },
-        { name: "Agriculture & Red River Valley Economy", tag: "Agriculture", why: "The Red River Valley counties surrounding Wichita Falls sustain cattle, wheat, and cotton operations whose viability depends on commodity prices, water rights, and drought assistance programs that state and federal policy directly shapes." },
-        { name: "Economic Diversification & Workforce Investment", tag: "Economy", why: "A district with $62,050 median income and 23.6% college attainment has a workforce that is not well-positioned for the credential-intensive economy; diversifying beyond military and energy dependence through manufacturing recruitment and workforce training is the district's most pressing long-term economic challenge." }
+        { name: "Sheppard AFB and Military Economy", tag: "lean-into", why: "Sheppard Air Force Base is Wichita Falls' largest employer and the economic anchor of the entire HD-69 regional economy, supporting both direct military employment and a substantial contractor, retail, and service sector. Candidates who engage specifically on base mission preservation, BRAC vulnerability, housing allowance adequacy for enlisted families, and the economic multiplier effect of Sheppard on surrounding Wichita County communities speak to the single most important economic institution in the district. Generic defense-spending support is not a substitute for knowing Sheppard's specific training mission and workforce composition." },
+        { name: "Oil and Gas Industry Economic Foundation", tag: "lean-into", why: "North Texas oil and gas production, along with the refining and petrochemical support economy, underpins a significant share of HD-69 household incomes at $62,050 median — a district where energy-sector employment is one of the few pathways to above-median wages without a four-year degree. At 23.6% college attainment, candidates who address drilling permit streamlining, royalty owner rights, and oilfield workforce training speak directly to how working-class North Texas families access economic stability. The constituency can identify the difference between a candidate who knows the Permian Basin plays affecting North Texas and one who doesn't." },
+        { name: "Rural Regional Healthcare Access", tag: "careful", why: "Wichita Falls functions as a regional hub for an expansive area of rural North Texas where hospital closures and provider shortages are endemic — HD-69 residents, including military families and oil-sector workers, depend on United Regional Health Care System in a way that makes healthcare access a live economic concern even in a 79-21 Republican district. The careful framing focuses on rural hospital stabilization, physician recruitment incentives, and telehealth infrastructure as market and workforce solutions — not Medicaid expansion arguments, which close off the conversation in this constituency before it begins." },
+        { name: "Anti-Military Base Rhetoric or Indifference", tag: "avoid", why: "In a district where Sheppard AFB anchors the regional economy and military households represent a significant share of Wichita Falls voters, any messaging that signals indifference to base operations, military benefits, or veteran services — even as a side effect of fiscal austerity framing — triggers disproportionate electoral backlash. At 79-21 Republican, the base-vote coalition includes a high concentration of active-duty families, veterans, and retirees who treat military institutional support as a non-negotiable threshold issue. Candidates who allow any ambiguity on Sheppard's importance to the district pay for it immediately." },
+        { name: "Wichita Falls as Declining City Narrative", tag: "avoid", why: "At $62,050 median income in a city that has faced genuine economic transition pressures, framing Wichita Falls through a lens of decline, population loss, or regional irrelevance — even implicitly, through excessive emphasis on its challenges — activates community defensiveness that closes constituent relationships. HD-69 residents who chose to stay and build lives in Wichita Falls are not waiting for a representative to validate their city's struggles; they want a champion for specific investments and policy tools that strengthen what exists. The distinction between honest problem-solving and deficit-framing is one this constituency notices." }
       ],
       memoHeadline: "Wichita Falls: Air Force Base City, Oil Country, and a Regional Hub for Rural North Texas",
       memoParagraphs: [
@@ -3322,8 +3322,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-70",
     name: "Texas House District 70",
-    city: "TBD",
-    region: "TBD",
+    city: "Allen",
+    region: "Collin County",
     type: "state house district",
     incumbentName: "Mihaela Elizabeth Plesa",
     incumbentParty: "Democrat",
@@ -3347,11 +3347,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 11.38, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Affordability & High-Income Renter Crisis", tag: "Housing", why: "HD-70's 51.8% renter rate at $95,674 median income is the defining economic paradox of the district — a majority of households earning well above the state median are renting in a market where ownership has become inaccessible, creating a constituency with shared economic anxiety despite above-average incomes." },
-        { name: "Asian American Political Power & Community Priorities", tag: "Equity", why: "At 22.75% Asian — the highest in this five-district batch — HD-70's Indian American, Chinese American, Korean American, and Vietnamese American communities are the pivotal constituency that helped flip the seat Democratic; their specific concerns around education equity, immigration, civil rights, and economic opportunity must be central to any governing agenda." },
-        { name: "Public Education & School District Excellence", tag: "Education", why: "With 59% college attainment and a racially diverse parent-age electorate, the district's schools are evaluated with extraordinary rigor; school board governance, advanced curriculum access, and equitable funding across the district's diverse communities are the education issues where constituent engagement is most intense." },
-        { name: "Women's Healthcare & Reproductive Rights", tag: "Healthcare", why: "The college-educated professional women who anchored Plesa's 52% victory are among the most activated constituencies on reproductive rights in post-Dobbs Texas; this issue was central to the suburban realignment that flipped HD-70 and remains the most reliable motivator for the coalition that holds the seat." },
-        { name: "Suburban Growth & Renter-Owner Balance", tag: "Infrastructure", why: "The Collin County communities in HD-70 are growing at rates that strain both housing supply and public infrastructure; managing that growth in a way that serves the district's majority-renter, majority-minority constituency — rather than solely the homeowner base — is the defining governance challenge of the district's new political alignment." }
+        { name: "Majority-Minority Constituent Service Record", tag: "lean-into", why: "HD-70's coalition — 22.75% Asian, 15.6% Hispanic, 11.38% Black, with white voters at 46.77% — is one of the most demographically complex in Texas and the explicit foundation of the 2024 Democratic flip. Candidates who demonstrate concrete constituent service to each of these communities — not symbolic outreach but actual policy follow-through on immigration, education, and economic equity — reinforce the coalition that produced a 52-48 win in a district that was not structurally expected to flip." },
+        { name: "Renter Housing Costs and Supply", tag: "lean-into", why: "At 51.8% renters — majority renter in a Collin County seat — HD-70 has a housing cost profile radically different from adjacent Republican-held districts. With $95,674 median income, these are not low-income renters but workforce professionals who cannot access ownership in a high-appreciation market. Candidates who translate state-level housing supply and zoning reform into concrete local impact on Allen and Collin County rental costs speak directly to the material condition of the majority of this district's households." },
+        { name: "Fiscal Credibility with a Persuadable 48%", tag: "careful", why: "The 52-48 margin means nearly half the district voted Republican in 2024; at 59% college attainment and $95,674 median income, a portion of that 48% is persuadable on fiscal and governance credibility rather than ideologically fixed. Messaging that defaults to national Democratic framing over local fiscal responsibility and service delivery risks losing exactly the credentialed suburban voter who switched parties on performance rather than identity — the marginal voter this seat's Democratic hold actually depends on." },
+        { name: "Taking the Asian Voter Coalition for Granted", tag: "avoid", why: "At 22.75% Asian — the highest share among this district set — HD-70's Democratic coalition is structurally dependent on continued Asian voter support in a community that has historically been swing, not reliably Democratic. Treating this vote share as structurally locked in by ignoring specific policy concerns around education access, immigration processing backlogs, and professional workforce issues risks the same coalition erosion that has affected Democratic Asian outreach in comparable suburban seats. The 52-48 margin is too thin to absorb that complacency." },
+        { name: "Nationalizing the Seat as a Progressive Symbol", tag: "avoid", why: "HD-70 flipped in a high-income, high-education Collin County suburb — not because of national progressive enthusiasm but because of specific local conditions around housing costs, demographic change, and candidate quality. Framing the seat as a national progressive beachhead or leading with national Democratic brand messaging invites a backlash from the very persuadable, non-ideological suburban voters whose defection from the Republican column made the flip possible. This seat is held by governing competently, not by nationalizing it." }
       ],
       memoHeadline: "Texas's Suburban Flip: HD-70's 52-48 Democrat Victory in a Majority-Minority, 52% Renter Collin County Seat",
       memoParagraphs: [
@@ -3370,8 +3370,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-71",
     name: "Texas House District 71",
-    city: "TBD",
-    region: "TBD",
+    city: "Abilene",
+    region: "West Texas",
     type: "state house district",
     incumbentName: "Stan Lambert",
     incumbentParty: "Republican",
@@ -3395,11 +3395,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.78, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Military Base Support & Dyess AFB", tag: "Veterans", why: "Dyess Air Force Base is Abilene's largest employer and a defining economic institution; base mission continuity, military family services, and veteran transition support are first-order constituent concerns that give the district a direct stake in federal defense appropriations." },
-        { name: "Oil & Gas Economy & Permian Basin Proximity", tag: "Economy", why: "Taylor County sits at the eastern edge of Permian Basin economic influence; energy-sector employment, royalty income, and oil field supply chain jobs connect a significant share of working families to the health of the West Texas oil economy." },
-        { name: "Higher Education & Workforce Pipeline", tag: "Education", why: "Abilene hosts Abilene Christian University, Hardin-Simmons University, and McMurry University — three distinct institutions serving different student populations; leveraging that educational capacity for local workforce development is an underutilized economic asset." },
-        { name: "Rural & Small-City Healthcare Access", tag: "Healthcare", why: "Abilene serves as the regional healthcare hub for a wide West Texas catchment area; hospital system investment, specialist recruitment, and rural clinic access across adjacent counties are constituency-wide concerns well beyond Taylor County's borders." },
-        { name: "Agriculture & West Texas Ranch Economy", tag: "Agriculture", why: "The counties surrounding Abilene sustain cattle, cotton, and dryland grain operations whose economic viability depends on commodity prices, drought conditions, and state support for agricultural infrastructure that keeps family operations viable." }
+        { name: "Dyess AFB and Military Economic Base", tag: "lean-into", why: "Dyess Air Force Base is the single largest employer in the Abilene economy and a structural anchor for HD-71's household income at $64,924 median. Base mission retention, BRAC exposure, housing allowance adequacy for military families, and veteran transition services are concrete policy concerns with direct local economic stakes. Candidates who speak to specific Dyess mission priorities and West Texas military community needs — not generic support-the-troops rhetoric — earn credibility with a constituency that can distinguish genuine engagement from performative patriotism." },
+        { name: "West Texas Agricultural and Ranch Economy", tag: "lean-into", why: "Beyond Abilene's city core, HD-71 encompasses significant West Texas ranchland and dryland farming operations where water access, drought policy, agricultural lending, and land tax treatment are primary economic concerns. At $64,924 median income in a district with substantial rural acreage, the agricultural economy is not peripheral — it is the foundation of wealth and livelihood for a meaningful share of constituents. Specific engagement with Taylor and Callahan county ag conditions outperforms generic rural Texas framing." },
+        { name: "Hispanic Constituent Engagement in an 81% District", tag: "careful", why: "At 25.03% Hispanic in a district where the Republican margin is 81-19, it is tempting to govern as if minority community engagement is electorally irrelevant — but Abilene's Hispanic population is concentrated in specific neighborhoods with real service gaps in healthcare access, workforce training, and school quality. Ignoring these gaps while holding an overwhelming margin does not cost votes in the short term; it builds the long-term conditions for a credible challenger who can organize around demonstrated neglect." },
+        { name: "Abstract Budget Conservatism Over Local Service Delivery", tag: "avoid", why: "At $64,924 median income and 25.3% college attainment, HD-71 households depend on state-delivered services — Medicaid, rural hospital funding, veterans' benefits, workforce programs — at rates that make pure fiscal austerity messaging land as a threat rather than a promise. Candidates who campaign on cutting government spending without carving out explicit protection for the specific programs West Texas working families actually use risk alienating the base they are assuming is structurally locked in." },
+        { name: "University Community as Political Afterthought", tag: "avoid", why: "Abilene Christian University, Hardin-Simmons, and McMurry University collectively represent a significant population of students, faculty, and staff whose concerns — higher education funding, research investment, workforce pipeline development — are distinct from the district's dominant agricultural and military framing. Treating these institutions as scenery rather than constituency forfeits the civic goodwill and earned-media credibility that comes from genuine engagement with Abilene's university corridor, a locally visible omission in a mid-sized city where everyone knows everyone." }
       ],
       memoHeadline: "Abilene: Air Force City, University Town, and West Texas Regional Hub at 81% Republican",
       memoParagraphs: [
@@ -3418,8 +3418,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-72",
     name: "Texas House District 72",
-    city: "TBD",
-    region: "TBD",
+    city: "San Angelo",
+    region: "West Texas",
     type: "state house district",
     incumbentName: "Drew Darby",
     incumbentParty: "Republican",
@@ -3443,11 +3443,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.19, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Oil & Gas Production & Permian Basin Economy", tag: "Economy", why: "San Angelo sits at the eastern edge of the Permian Basin's economic influence zone; energy-sector employment, royalty income, oilfield supply and services, and the fiscal health of Tom Green County are all tethered to West Texas crude production." },
-        { name: "Agriculture: Sheep, Goats & Wool Economy", tag: "Agriculture", why: "Tom Green County and adjacent counties make this district the center of the U.S. sheep, goat, and mohair industry; livestock market conditions, predator control programs, and wool and mohair price supports are constituency-specific policy issues that no other Texas district has to the same degree." },
-        { name: "Water Rights & West Texas Scarcity", tag: "Environment", why: "Water is the defining constraint on West Texas agriculture and municipal growth; aquifer depletion, river compact enforcement, and inter-basin transfer policy are existential issues for a region where rainfall is unreliable and aquifer levels are in long-term decline." },
-        { name: "Rural Healthcare & Regional Medical Access", tag: "Healthcare", why: "Shannon Medical Center in San Angelo serves a catchment area spanning dozens of West Texas counties; hospital financial sustainability and rural clinic access across Tom Green, Concho, Menard, and surrounding counties is a quality-of-life issue for tens of thousands of constituents." },
-        { name: "Economic Diversification & West Texas Development", tag: "Economy", why: "San Angelo's economy has historically cycled with oil prices and agricultural markets; diversifying the local economic base through manufacturing, healthcare, and higher education investment reduces the structural volatility that working families experience when either sector contracts." }
+        { name: "Permian Basin Oil and Water Economy", tag: "lean-into", why: "San Angelo sits at the intersection of the Permian Basin oil economy and the Concho River watershed, where water rights, produced water disposal, and groundwater district policy are as economically consequential as oil prices themselves. At $66,005 median income with 22.3% college attainment, HD-72 households are directly tied to the boom-bust cycles of extraction and the structural question of whether West Texas water remains available for agriculture, ranching, and city growth simultaneously. Candidates who demonstrate specific knowledge of Tom Green County groundwater politics and Permian Basin regulatory conditions earn constituency trust that ideology alone cannot buy." },
+        { name: "Sheep, Wool, and Agricultural Heritage Economy", tag: "lean-into", why: "San Angelo is the Sheep Capital of America — not a metaphor but an economic identity built around wool production, livestock auctions, and the agricultural supply chain that supports ranching operations across the Concho Valley. USDA program access, livestock insurance, predator management policy, and drought relief mechanisms are concrete policy concerns for a constituency where agricultural income supplements or anchors household finances across a wide geographic area. Generic rural Texas messaging does not substitute for actual knowledge of the wool and mohair economy." },
+        { name: "39.77% Hispanic Population in an Unopposed District", tag: "careful", why: "Running unopposed does not dissolve the political reality that nearly 40% of HD-72 residents are Hispanic — a constituency share large enough to become a structural threat if it organizes around demonstrated neglect. San Angelo's Hispanic community has specific concerns around healthcare access, immigration enforcement impacts on agricultural labor, and school quality in predominantly Hispanic neighborhoods. Governing as if the absence of electoral competition eliminates the need for constituent engagement is a miscalculation that tends to become visible when a credible challenger eventually emerges." },
+        { name: "Lecturing on Fiscal Ideology While Rural Hospitals Close", tag: "avoid", why: "At $66,005 median income and 31.3% renters in a rural West Texas district, abstract fiscal conservatism messaging rings hollow when Shannon Medical Center and regional healthcare access are live concerns for households with limited alternatives. Candidates who campaign on cutting state spending without explicitly protecting rural hospital funding and Medicaid coverage for working families are communicating a set of priorities that does not match what this district's households actually need from state government." },
+        { name: "Treating Unopposed Status as Governance Permission", tag: "avoid", why: "Running unopposed is an electoral outcome, not a mandate to ignore constituent service. In a district where 39.77% of residents are Hispanic and median income sits at $66,005, the absence of a challenger in one cycle does not reflect the absence of unmet needs or political grievance. Representatives who conflate lack of electoral competition with constituent satisfaction — reducing casework, skipping local engagement, prioritizing Austin visibility over Tom Green County presence — are building the conditions for a contested race in a subsequent cycle." }
       ],
       memoHeadline: "San Angelo and the Sheep Capital of America: Oil, Wool, Water Rights, and Unopposed Republican Alignment",
       memoParagraphs: [
@@ -3466,8 +3466,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-73",
     name: "Texas House District 73",
-    city: "TBD",
-    region: "TBD",
+    city: "New Braunfels",
+    region: "Hill Country",
     type: "state house district",
     incumbentName: "Carrie Isaac",
     incumbentParty: "Republican",
@@ -3491,11 +3491,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.71, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Growth Management & Community Character", tag: "Infrastructure", why: "Comal County has been one of the fastest-growing counties in the United States for consecutive years; managing the pace and character of that growth — preserving the Hill Country environment and small-town quality of life that attracted residents — is the defining governance tension for a district being reshaped in real time." },
-        { name: "Property Taxes & Long-Tenured Homeowner Relief", tag: "Economy", why: "At $101K median income with only 22.2% renters and a median age of 42.9, HD-73's established homeowner majority has been hit hard by appreciation-driven appraisal increases; tax relief for long-tenured residents who did not benefit from selling into the hot market is a politically urgent issue." },
-        { name: "Water Resources & Hill Country Conservation", tag: "Environment", why: "The Edwards Aquifer recharge zone and the Guadalupe River system underlie Comal County's natural landscape and its booming tourism economy; balancing development pressure against aquifer protection and river flow preservation is the most consequential land-use policy question facing the district." },
-        { name: "Education Quality & Growing School District Capacity", tag: "Education", why: "Comal ISD has been among the fastest-growing school districts in Texas, straining facility capacity and teacher recruitment; school quality maintenance during explosive enrollment growth is a top-of-mind parental concern in a district with 44.7% college attainment." },
-        { name: "Transportation & I-35 Corridor Congestion", tag: "Infrastructure", why: "New Braunfels sits on the I-35 corridor between San Antonio and Austin — one of the most congested highway stretches in Texas; commuter infrastructure, highway expansion, and regional transit planning are daily-life issues for a district full of San Antonio and Austin commuters." }
+        { name: "Growth Management and Infrastructure Costs", tag: "lean-into", why: "Comal County has been among the fastest-growing counties in the United States for a decade, and HD-73 residents at $101,381 median income are directly experiencing the fiscal consequences — escalating property taxes, school overcrowding, and highway infrastructure that cannot keep pace with residential development. Candidates who speak specifically to New Braunfels ISD capacity strains, Comal County MUD financing, and IH-35 corridor congestion demonstrate the local fluency that distinguishes a credible representative from one who is simply benefiting from structural Republican advantage." },
+        { name: "Hill Country Water Rights and Conservation", tag: "lean-into", why: "The Edwards Aquifer, Guadalupe River water rights, and Hill Country groundwater district governance are not abstract environmental concerns in HD-73 — they are property rights and economic survival issues for ranching families, river tourism operators, and municipalities competing for the same finite resource under explosive population growth. At 67.44% white and 42.9 median age, this district's long-tenured homeowners and landowners index heavily toward water policy as a property and heritage concern, not merely a regulatory one." },
+        { name: "Hispanic Community as Growth Constituency", tag: "careful", why: "At 25.32% Hispanic in a district experiencing rapid growth, New Braunfels's Latino community is not a static demographic — it is an expanding population with specific concerns around construction workforce conditions, school access in newer developments, and healthcare availability in a county where medical infrastructure has not kept pace with residential growth. Acknowledging this constituency's role in the district's economic expansion — rather than governing exclusively through the lens of established homeowners — is both more accurate and more durable as a long-term electoral strategy." },
+        { name: "Anti-Development Positioning in a Growth Identity District", tag: "avoid", why: "New Braunfels's civic and political identity is built around managed growth optimism — residents chose this corridor because of what it offers, not despite what it is becoming. Candidates who position themselves as broadly anti-development risk alienating the real estate, construction, and commercial interests that form the backbone of Comal County's donor and civic class, while also contradicting the implicit social contract that brought the district's substantial transplant population here in the first place." },
+        { name: "River Tourism and Heritage as Electoral Irrelevance", tag: "avoid", why: "The Guadalupe River corridor, Gruene Hall, and New Braunfels's German heritage tourism economy are not just cultural amenities — they are economic anchors for small business owners, hospitality workers, and property values throughout the district. Candidates who fail to engage with river access policy, short-term rental regulation, and water quality as economic development issues — rather than treating them as niche environmental concerns — miss the constituency that most visibly defines New Braunfels's identity to itself and to the rest of Texas." }
       ],
       memoHeadline: "New Braunfels and Comal County: Growth-Paradox Politics in the Fastest-Growing Corner of Texas",
       memoParagraphs: [
@@ -3514,8 +3514,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-74",
     name: "Texas House District 74",
-    city: "TBD",
-    region: "TBD",
+    city: "Eagle Pass",
+    region: "Southwest Texas",
     type: "state house district",
     incumbentName: "Eddie Morales JR",
     incumbentParty: "Democrat",
@@ -3539,11 +3539,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 0.73, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "South Texas & Far West Texas Realignment", tag: "Political Landscape", why: "A 52-48 Democratic margin in a district that is 82% Hispanic — stretching from Eagle Pass through Big Bend country — places HD-74 among the most acutely realigning seats in the state; both parties must understand which communities are shifting and why, and what specific economic anxieties are driving the movement." },
-        { name: "Border Economy & International Trade", tag: "Economy", why: "Eagle Pass is a major commercial port of entry; border crossing operations, trade flow efficiency, and the economic consequences of border security policy directly affect the livelihoods of working families in Maverick County and the surrounding border communities." },
-        { name: "Oil & Gas Economy — Permian Edge & Eagle Ford", tag: "Economy", why: "HD-74's vast geographic footprint encompasses portions of the Eagle Ford Shale and Permian Basin edge where oil and gas activity employs a significant share of the district's non-border workforce; energy sector conditions are a direct economic variable for many constituents." },
-        { name: "Rural Healthcare & Remote Community Access", tag: "Healthcare", why: "Brewster, Presidio, and Jeff Davis counties are among the most remote in the contiguous United States; healthcare access — distance to providers, emergency response times, and specialty care availability — is among the most acute quality-of-life deficits in a district where driving two hours for a doctor's appointment is routine." },
-        { name: "Public Safety & Border Community Security", tag: "Public Safety", why: "Border communities distinguish sharply between the security concerns of their daily lives — property crime, trafficking, cartel activity in remote areas — and the national political narratives about the border; constituents want practical local safety investment, not rhetoric." }
+        { name: "Border Economy and Trade Infrastructure", tag: "lean-into", why: "Eagle Pass is a primary commercial crossing point between the United States and Mexico, and HD-74's $57,825 median income economy is directly tied to cross-border trade, trucking logistics, and the retail and service industries that depend on binational commerce. The 2023 border closure by Governor Abbott cost Eagle Pass businesses hundreds of millions in direct economic damage. Candidates who frame border policy through the lens of local economic harm — not federal immigration politics — speak to what 82% Hispanic district residents actually experienced as a concrete household and business crisis." },
+        { name: "Rural Healthcare Access in South Texas", tag: "lean-into", why: "At $57,825 median income and 20.4% college attainment across a geographically vast district, HD-74 communities face rural healthcare access gaps that are among the most acute in Texas. Medicaid enrollment, rural hospital viability in Maverick and Val Verde counties, maternal health outcomes in a district with a 32.1 median age, and federally qualified health center funding are not peripheral concerns — they are the primary quality-of-life policy questions for a predominantly working-class Hispanic constituency with limited private insurance options." },
+        { name: "Border Security Rhetorical Navigation", tag: "careful", why: "The 52-48 margin reflects genuine political realignment pressure in a district that was safely Democratic a decade ago, and part of that pressure comes from border security as a visceral local concern — not in the way national media frames it, but as a lived community safety and economic stability issue for Eagle Pass and Del Rio residents. Candidates who dismiss security concerns entirely cede ground to Republican framing; those who engage security as inseparable from economic viability and community dignity speak to how this district actually experiences the border." },
+        { name: "National Democratic Brand in a Realigning Border District", tag: "avoid", why: "HD-74 held at 52-48 in 2024, but the broader trend across South Texas border districts has been significant Democratic erosion driven by working-class Hispanic voters who feel the national Democratic brand does not reflect their economic priorities or cultural values. Candidates who lead with national Democratic messaging — on social policy, climate framing, or coastal progressive priorities — rather than local economic and service delivery issues risk accelerating the realignment that already brought this seat to a four-point margin." },
+        { name: "Framing Border Crossing as Crisis Narrative", tag: "avoid", why: "In a district that is 82.45% Hispanic and economically dependent on the Eagle Pass crossing, adopting crisis-frame border rhetoric — even softened versions of it — reads to constituents as a characterization of their own families, communities, and economic lifelines as threats rather than assets. The 52-48 margin was not built on this framing; it was built despite it. Candidates who borrow Republican border crisis language to appear moderate lose the trust of the core constituency while failing to persuade the voters they are trying to reach." }
       ],
       memoHeadline: "Far West Texas Frontier: 52-48 Democrat in 82% Hispanic Territory — the Realignment at Its Most Remote",
       memoParagraphs: [
@@ -3562,8 +3562,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-75",
     name: "Texas House District 75",
-    city: "TBD",
-    region: "TBD",
+    city: "Clint",
+    region: "El Paso County Rural",
     type: "state house district",
     incumbentName: "Mary E. Gonzalez",
     incumbentParty: "Democrat",
@@ -3587,11 +3587,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 0.42, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Binational Economy & El Paso–Juárez Trade", tag: "Economy", why: "The El Paso–Ciudad Juárez metro is one of the largest binational communities in the world; cross-border commerce, maquiladora supply chain connections, and international trade policy have direct, daily impact on the employment and household incomes of HD-75 constituents." },
-        { name: "Homeownership & Housing Stability", tag: "Housing", why: "At just 16.3% renters — extraordinarily low for a 90% Hispanic district with modest incomes — HD-75 has a strong homeownership culture; policies that protect existing owners from predatory practices, expand homeownership pathways, and address housing quality are the relevant interventions, not rental market programs." },
-        { name: "Workforce Development & Manufacturing Pipeline", tag: "Economy", why: "El Paso's manufacturing sector — fed by maquiladora supply chains and logistics operations — is the primary employer of working-class families in the district; workforce training, apprenticeship programs, and community college access connected to the manufacturing sector are the most direct economic opportunity investments." },
-        { name: "Healthcare Access & Colonias Infrastructure", tag: "Healthcare", why: "Portions of the El Paso County rural areas that HD-75 encompasses include colonias — unincorporated communities with inadequate water, sewage, and healthcare infrastructure; colonias funding and community health investment are state-level policy priorities with direct constituency impact." },
-        { name: "Public Education & Bilingual Workforce Readiness", tag: "Education", why: "In a 90% Hispanic district where Spanish and English are both daily languages, bilingual education, dual-language program investment, and college readiness pathways that prepare students for El Paso's binational economy are both cultural commitments and workforce development strategies." }
+        { name: "Binational Economic Infrastructure Access", tag: "lean-into", why: "HD-75 covers Clint and rural El Paso County where cross-border commerce, agriculture, and international trade corridors define the local economy. At 20.9% college attainment and $66,796 median income, residents depend on binational supply chains and port-of-entry efficiency for household stability. Candidates who speak specifically to Fabens and Clint-area agricultural operations and bridge-access bottlenecks — not generic trade abstractions — speak to lived economic reality." },
+        { name: "Rural El Paso Homeowner Appraisals", tag: "lean-into", why: "At 83.7% homeownership in a predominantly Hispanic rural district, property appraisal increases hit HD-75 harder than nearly any El Paso-area seat. Working-class homeowners in Clint and Anthony have watched valuations rise without matching income growth, making targeted relief a concrete local win. Citing specific El Paso County appraisal trends for rural ZIP codes outperforms any generic homeowner-relief framing." },
+        { name: "Colonias Infrastructure and Water Access", tag: "careful", why: "Rural El Paso County contains colonias communities with documented gaps in water, wastewater, and road infrastructure that directly affect HD-75 constituents. This issue demands specific, project-level commitments rather than rhetorical sympathy — residents know the difference between representation and performance. Overpromising state-level fixes without tracking actual appropriations and delivery timelines erodes credibility in a community that has heard this before." },
+        { name: "Portraying Border as Security Crisis Only", tag: "avoid", why: "In a district that is 90.2% Hispanic and where binational family and economic ties are daily life, framing the border exclusively as a security or migration crisis alienates the constituent base. HD-75 residents experience the border as a source of livelihood, family connection, and community identity — not primarily as a threat narrative. Candidates who adopt enforcement-first border rhetoric imported from non-border districts signal that they are representing Austin or national media, not Clint." },
+        { name: "Rural Neglect Framing Without Delivery", tag: "avoid", why: "In an uncontested district where Gonzalez ran without opposition in 2024, performative 'rural neglect' rhetoric that lists grievances without specific legislative deliverables reads as incumbent complacency. HD-75 constituents at 20.9% college attainment are not impressed by abstract advocacy — they track whether the colonia water project moved, whether the farm-to-market road got funded. Grievance messaging without accountability to specific outcomes in rural El Paso County registers as taking a safe seat for granted." }
       ],
       memoHeadline: "El Paso's Border Homeowners: 90% Hispanic, 16% Renters, and a Binational Economy as Daily Life",
       memoParagraphs: [
@@ -3610,8 +3610,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-76",
     name: "Texas House District 76",
-    city: "TBD",
-    region: "TBD",
+    city: "Sugar Land",
+    region: "Fort Bend County",
     type: "state house district",
     incumbentName: "Suleman Lalani",
     incumbentParty: "Democrat",
@@ -3635,11 +3635,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Hispanic / Latino", pct: 21.56, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Multi-Community Governance & Racial Equity", tag: "Equity", why: "HD-76 has no racial majority — Asian 30%, Black 24%, White 22%, Hispanic 22% — making it the most demographically balanced district in the Texas House; governing credibly requires specific, sustained engagement with all four communities rather than relying on any single coalition bloc." },
-        { name: "Property Taxes & Fort Bend Homeowner Relief", tag: "Economy", why: "With $99,804 median income and only 24.9% renters, the district is predominantly homeowning; Fort Bend County's surging property values have produced appraisal bills that are felt acutely across the district's multi-racial homeowner majority regardless of party affiliation." },
-        { name: "Public Education & School District Excellence", tag: "Education", why: "Fort Bend ISD is one of the most diverse school districts in the nation; a 45.9% college-attainment electorate with children in a multi-racial school system evaluates curriculum equity, advanced program access, and school quality with exceptional sophistication and intensity." },
-        { name: "Asian American & South Asian Community Priorities", tag: "Equity", why: "At 30% Asian — the highest in any Texas House district — HD-76's South Asian, Chinese American, Korean American, and Vietnamese American communities have distinct priorities around immigration, civil rights, and education equity that require specific legislative attention rather than generic minority outreach." },
-        { name: "Healthcare Access & Diverse Community Health Needs", tag: "Healthcare", why: "A four-community district with differentially distributed healthcare access barriers — insurance coverage gaps, cultural competency in care, and language access — needs healthcare policy that addresses the specific needs of each community rather than a one-size approach." }
+        { name: "High-Skill Workforce and STEM Economy", tag: "lean-into", why: "At 45.9% college attainment and $99,804 median income, Sugar Land and Fort Bend County's professional class is anchored in energy, healthcare, and technology sectors concentrated along the US-59 and Fort Bend county corridors. HD-76's Asian and South Asian professional community in particular has deep ties to energy-sector engineering and healthcare systems employment. Candidates who speak to specific Fort Bend employer expansions, workforce credential pipelines, and professional immigration pathways earn credibility across all four demographic communities." },
+        { name: "Suburban School Quality and Funding", tag: "lean-into", why: "Fort Bend ISD serves a majority-minority, high-expectation parent base across HD-76's four demographic communities — Asian, Black, White, and Hispanic households at comparable shares all have skin in public school performance. At a median age of 36.4 with significant family-formation-stage households, education quality consistently polls as the top local priority. District-specific FBISD performance data and state funding equity arguments land concretely in ways that generic education talking points do not." },
+        { name: "Competitive Margin in a Wealthy Swing Seat", tag: "careful", why: "Lalani's 57-43 margin in 2024 means HD-76 is competitive enough that any 5-point coalition erosion from any of its four demographic communities is a structural threat. The district's four roughly equal demographic groups — Asian at 30%, Black at 24%, White at 22%, Hispanic at 22% — means no single community can be deprioritized without costing votes. Every policy framing must be tested against whether it signals responsiveness to all four constituencies, not just the one that delivered the largest share of the 2024 margin." },
+        { name: "Single-Ethnicity Constituency Messaging", tag: "avoid", why: "Tailoring outreach and messaging primarily to any one of HD-76's four demographic communities — even the plurality Asian bloc — signals to the remaining 70% of the district that the representative has a preferred constituency. At $99,804 median income, all four communities are politically engaged and organizationally active, making targeted ethnic appeals visible and punishable across coalition boundaries. In the most demographically balanced seat in the Texas House, the candidate who governs as a coalition representative outperforms the one who campaigns as a community champion for one group." },
+        { name: "National Culture-War Positioning", tag: "avoid", why: "In a 57-43 district anchored by high-education, high-income suburban professionals across four racial communities, national culture-war framing — in either direction — activates the 43% Republican base without delivering new votes. Fort Bend County's professional class at 45.9% college attainment evaluates candidates on local competency, school quality, and property tax management, not on national partisan alignment. Candidates who import national ideological framing into Sugar Land constituent communication substitute media profile for local credibility in a district that punishes that tradeoff." }
       ],
       memoHeadline: "Fort Bend's Four-Community District: The Most Demographically Balanced Seat in the Texas House",
       memoParagraphs: [
@@ -3658,8 +3658,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-77",
     name: "Texas House District 77",
-    city: "TBD",
-    region: "TBD",
+    city: "El Paso",
+    region: "El Paso",
     type: "state house district",
     incumbentName: "Vincent \"vince\" Perez",
     incumbentParty: "Democrat",
@@ -3683,11 +3683,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 0.93, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Economic Opportunity & Poverty Reduction", tag: "Economy", why: "HD-77's $39,273 median income is the lowest of any Texas House district in the batch — a level where the gap between household needs and household resources is not an abstraction but a daily constraint; wages, worker protections, and anti-poverty program access are the most urgent economic interventions available." },
-        { name: "Renter Protections & Affordable Housing", tag: "Housing", why: "At 52.5% renters in a low-income district, the majority of households have no property equity as a financial buffer; habitability standards, eviction protection, and affordable unit preservation are the housing policy levers with the most direct quality-of-life impact." },
-        { name: "Healthcare Access & Community Clinic Investment", tag: "Healthcare", why: "Low-income El Paso communities are heavily dependent on federally qualified health centers and community clinics; their funding levels, hours, and scope of services — including behavioral health and dental care — are the healthcare infrastructure that this constituency cannot afford to lose." },
-        { name: "Public Education & Student Support Services", tag: "Education", why: "At 18.1% college attainment, the district's schools are the primary pathway to economic mobility; school quality, wraparound student support services, and college access programs that reduce cost barriers are the most consequential public investments available to working families here." },
-        { name: "Workforce Development & Living Wage", tag: "Economy", why: "El Paso's low-wage service and retail economy traps workers in jobs that cannot sustain a household at $39K median income; raising the wage floor through state or city policy and connecting workers to training programs that lead to higher-wage employment are the two levers most within legislative reach." }
+        { name: "Renter Stabilization and Affordable Housing", tag: "lean-into", why: "At 52.5% renters and $39,273 median income — the lowest in El Paso's delegation — HD-77 is the most cost-burdened renter district in the region. Housing cost increases directly threaten residential stability for a majority of constituents who have no equity buffer against displacement. Candidates who engage specifically with El Paso Housing Authority waitlists, rent burden rates in central El Paso ZIP codes, and state preemption barriers to local tenant protections demonstrate that they understand where the district's economic pain actually lives." },
+        { name: "Workforce Pathway and Job Training Access", tag: "lean-into", why: "At 18.1% college attainment, HD-77 has the lowest educational credential rate among El Paso districts, and $39,273 median income reflects the wage consequences. EPCC and workforce board pipeline access, barrier removal for trade licensing, and employer partnership programs targeting central El Paso are direct-service wins that compound over a legislative career. Generic workforce talking points land poorly; specific EPCC enrollment data and local employer wage ladders land as constituent service." },
+        { name: "Immigration Enforcement and Family Separation", tag: "careful", why: "In an 87.9% Hispanic district at the El Paso border, immigration enforcement policy is not an abstract national debate — it is a community safety and family stability question with direct local consequences. The issue demands consistent, specific, and personally committed advocacy rather than carefully hedged legislative language that reads as distancing. Constituents in this income bracket who are directly exposed to enforcement consequences will distinguish between representatives who own this issue and those who perform proximity to it." },
+        { name: "Poverty as Individual Failure Framing", tag: "avoid", why: "In the lowest-income Texas House district at $39,273 median income with 52.5% renters, any messaging that implies poverty outcomes reflect individual choices rather than structural conditions will be received as contempt by the constituent base. HD-77 residents experience wage suppression, housing cost burden, and credential barriers as systemic — and they are correct. Candidates who import bootstrap or self-sufficiency rhetorical frames into this district signal that they have not spent time in it." },
+        { name: "Border Security Theater Over Service Delivery", tag: "avoid", why: "At $39,273 median income in a district where the immediate material concerns are rent, wages, and healthcare, security-focused border rhetoric functions as a distraction from constituent priorities rather than a response to them. HD-77 constituents are not looking for their representative to perform border toughness — they are looking for someone who can navigate state systems to deliver housing, healthcare, and workforce resources to central El Paso. Representatives who substitute security positioning for service delivery in this district lose credibility with the people who have the least margin for error." }
       ],
       memoHeadline: "El Paso's Lowest-Income District: $39K Median, 52% Renters, and the Full Weight of Urban Poverty",
       memoParagraphs: [
@@ -3706,8 +3706,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-78",
     name: "Texas House District 78",
-    city: "TBD",
-    region: "TBD",
+    city: "El Paso",
+    region: "El Paso",
     type: "state house district",
     incumbentName: "Joe Moody",
     incumbentParty: "Democrat",
@@ -3731,11 +3731,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 2.41, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Criminal Justice Reform & Public Safety", tag: "Public Safety", why: "Joe Moody has built one of the Texas House's most substantive records on criminal justice reform; his district's mixed-income, majority-Hispanic El Paso community has a direct stake in pretrial detention policy, sentencing reform, and law enforcement accountability as quality-of-life issues." },
-        { name: "Fort Bliss & Military Community Support", tag: "Veterans", why: "Fort Bliss — one of the largest military installations in the Army — anchors a significant portion of El Paso's economy and population; military family services, veteran transition support, and base investment are issues where El Paso legislators have direct constituent stakes." },
-        { name: "Binational Economy & El Paso–Juárez Commerce", tag: "Economy", why: "El Paso's economic identity is inseparable from its relationship with Ciudad Juárez; cross-border trade, bridge efficiency, maquiladora supply chain connections, and binational workforce policy affect the livelihoods of a significant share of HD-78's working families." },
-        { name: "Higher Education & UTEP Investment", tag: "Education", why: "The University of Texas at El Paso is El Paso's primary four-year institution; UTEP research funding, student financial aid access, and workforce development partnerships with local employers are education policy priorities with direct economic impact on a 36% college-attainment district still building its credential base." },
-        { name: "Housing Affordability & Neighborhood Stability", tag: "Housing", why: "With 33.2% renters and a moderate $70,428 median income, housing cost burden affects a significant share of working families; maintaining affordable rental stock and expanding homeownership pathways in established El Paso neighborhoods is the housing agenda most relevant to this community." }
+        { name: "Fort Bliss Economic and Veteran Community", tag: "lean-into", why: "Fort Bliss is the dominant employer anchor for HD-78, generating a substantial veteran, active-duty family, and defense-contractor workforce constituency within the district. At $70,428 median income and 36% college attainment, many HD-78 households are mid-career military-connected professionals with specific interests in VA healthcare access, base housing policy, and defense employment transitions. Candidates with Fort Bliss-specific knowledge — not generic support-the-troops language — earn credibility with a constituency that can tell the difference immediately." },
+        { name: "Binational Commerce and Trade Access", tag: "lean-into", why: "HD-78's mixed-income El Paso constituency at 73.9% Hispanic includes a significant professional and business class engaged in cross-border commerce, international logistics, and binational family economic activity. At 36% college attainment, a meaningful share of the district is positioned in trade, healthcare, legal, and professional service sectors that depend on El Paso-Juárez integration. Port of Entry efficiency, customs processing, and binational professional licensing reciprocity are specific, high-return issues for this constituency that generic economic development language misses." },
+        { name: "Criminal Justice Reform in a Military District", tag: "careful", why: "Moody's criminal justice platform is a defining identity for HD-78, but in a district with significant Fort Bliss military-connected households, reform framing requires calibration between urban justice equity concerns and military-community law-and-order expectations. The 33.2% renter share and urban El Paso demographics support reform advocacy; the Fort Bliss-connected constituency segment requires specific framing around effectiveness, accountability, and community safety outcomes rather than decarceration language. The issue is winnable across both community segments with precise messaging — and losable with imprecise messaging." },
+        { name: "Anti-Military or Base-Critical Positioning", tag: "avoid", why: "In a district where Fort Bliss shapes a substantial share of employment, housing, and community identity, any framing that reads as critical of military presence, base operations, or defense spending will fracture a key constituency segment regardless of intent. HD-78 households with Fort Bliss connections are not a peripheral demographic — they are central to the district's $70,428 median income and its community social fabric. Candidates who adopt national progressive rhetoric about defense spending without carving out explicit Fort Bliss community support language will pay for it in this specific district." },
+        { name: "Treating White and Non-Hispanic Voters as Margin", tag: "avoid", why: "At 17.8% White, 4% Black, and 2.4% Asian, HD-78 has the most diverse non-Hispanic share of any El Paso district, and these communities are concentrated in higher-income, higher-education household segments given the Fort Bliss professional and business corridor. Governing as if the 73.9% Hispanic majority is the only constituency worth engaging signals to nearly a quarter of the district that their concerns are decorative rather than substantive. In a district held unopposed, incumbent credibility depends on genuine multi-community service rather than demographic assumptions." }
       ],
       memoHeadline: "El Paso's Criminal Justice Voice: Fort Bliss, Binational Commerce, and a Mixed-Income Urban District",
       memoParagraphs: [
@@ -3754,8 +3754,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-79",
     name: "Texas House District 79",
-    city: "TBD",
-    region: "TBD",
+    city: "El Paso",
+    region: "El Paso",
     type: "state house district",
     incumbentName: "Claudia Ordaz",
     incumbentParty: "Democrat",
@@ -3779,11 +3779,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.30, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Affordability & Renter Stability", tag: "Housing", why: "HD-79's 42.4% renter rate — the highest among El Paso's House districts — reflects a community with significant housing cost pressure relative to $61,299 median income; rental market affordability, habitability standards, and pathways to homeownership are the defining housing concerns." },
-        { name: "Fort Bliss Economy & Military Family Services", tag: "Veterans", why: "Fort Bliss's footprint extends into HD-79's geography, contributing both to the district's 4.6% Black population (reflecting the Army's diverse enlisted force) and to the elevated renter rate among military families on short-duration assignments; military family support and base economic investment are constituency priorities." },
-        { name: "Healthcare Access & Women's Health Services", tag: "Healthcare", why: "A 79% Hispanic district with a young median age of 32.8 has a large family-formation-age population; maternal health, reproductive healthcare access, pediatric services, and community health clinic investment are front-of-mind concerns for the district's core constituency." },
-        { name: "Economic Development & Job Quality", tag: "Economy", why: "At $61,299 median income in a relatively low-cost city, the district's economic challenge is job quality rather than cost of living; connecting residents to higher-wage employment through workforce training and employer recruitment is the primary economic mobility lever." },
-        { name: "Public Education & Youth Investment", tag: "Education", why: "A young median age of 32.8 and 26.5% college attainment signal a district full of school-age children whose educational trajectory will determine the community's economic future; K-12 quality, bilingual education, and college readiness programs are central to both constituent service and long-term civic investment." }
+        { name: "Military Family Housing and Stability", tag: "lean-into", why: "The Fort Bliss corridor defines HD-79's residential and economic character, and at 42.4% renters with a median age of 32.8, the district is heavily populated by young military families cycling through El Paso on assignment timelines. Rental cost burdens, base housing waitlists, and the transition services infrastructure for separating service members are live constituent concerns that a Fort Bliss-specific policy voice can own. Candidates who demonstrate knowledge of specific Fort Bliss housing and family support programs earn loyalty from a constituency that moves frequently and values reliable local representation." },
+        { name: "Young Family Economic Opportunity", tag: "lean-into", why: "At median age 32.8 and $61,299 household income with 42.4% renters, HD-79 is a young, working-age district where economic mobility — credential attainment, wage growth, small business formation — is the defining constituent aspiration. EPCC workforce pathways, entrepreneurship support for the El Paso corridor's Hispanic small business community, and childcare access for dual-income young families translate directly into constituent service wins. Generic economic growth language falls flat; UTEP and EPCC partnership outcomes and Fort Bliss-area employer wage data make the case concretely." },
+        { name: "Border Enforcement and Military Community Overlap", tag: "careful", why: "HD-79's Fort Bliss military identity and 79.2% Hispanic border community identity create an audience that holds both strong military support and strong family-ties-to-Mexico realities simultaneously. Immigration enforcement policy is experienced personally by many HD-79 constituents, including families of active-duty service members, creating a tension that demands explicit acknowledgment rather than compartmentalization. Candidates who can hold both the military-community pride and the border-family-impact reality in the same message — rather than code-switching between audiences — build the broadest and most durable coalition in this district." },
+        { name: "Renter Vulnerability Without Policy Specificity", tag: "avoid", why: "With 42.4% renters at $61,299 median income, housing cost acknowledgment without specific legislative follow-through reads as patronizing rather than representative in HD-79. Young military families and working-class renters in this corridor can identify the difference between a representative who has tracked their specific housing cost burden and one who has memorized a statistic for campaign season. Naming renter hardship without identifying actual bills, appropriations, or regulatory interventions that the candidate has championed or will champion will be rejected by a constituency with direct experience of the problem." },
+        { name: "Nationalized Culture-War Anti-Military Rhetoric", tag: "avoid", why: "In a district where Fort Bliss defines neighborhood identity, family schedules, and a significant share of household income at 42.4% renters in the base corridor, any national-progressive framing that signals skepticism about military institutions will alienate the constituency's dominant community anchor. HD-79's young Hispanic military families are not separable from the base — Fort Bliss is not a background fact in this district, it is the organizing institution of daily life for a substantial plurality of constituents. Candidates who import national defense-skeptic language into this specific El Paso district trade short-term ideological signaling for long-term constituency credibility." }
       ],
       memoHeadline: "El Paso's Fort Bliss Corridor: 42% Renters, Young Families, and a Military-Border Community Identity",
       memoParagraphs: [
@@ -3802,8 +3802,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-80",
     name: "Texas House District 80",
-    city: "TBD",
-    region: "TBD",
+    city: "Uvalde",
+    region: "Southwest Texas",
     type: "state house district",
     incumbentName: "Don Mclaughlin JR",
     incumbentParty: "Republican",
@@ -3827,11 +3827,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 0.71, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "South Texas Realignment & Rural Hispanic Politics", tag: "Political Landscape", why: "A 59% Republican margin in a district that is 83% Hispanic and spans Uvalde, Kinney, Val Verde, and surrounding counties is one of the most striking realignment results in the state; the specific economic anxieties, border security concerns, and community-level dynamics driving this shift require district-by-district analysis rather than statewide assumptions." },
-        { name: "Ranching Economy & Agricultural Support", tag: "Agriculture", why: "Southwest Texas's economy is built on cattle ranching, hunting leases, and the agricultural supply chain that supports both; livestock markets, ranch tax valuations, drought support, and predator control programs are the primary economic policy concerns of working ranching families across the district's wide footprint." },
-        { name: "Border Security & Community Safety", tag: "Public Safety", why: "Communities in Kinney and Val Verde counties have experienced elevated cartel-related activity and cross-border trafficking; constituents distinguish sharply between their specific, local public safety concerns and national political rhetoric — practical, locally-grounded border security investment is what they are asking for." },
-        { name: "Workforce Development & Education Access", tag: "Education", why: "At 13.2% college attainment — the lowest of any district in this batch — the gap between the district's workforce credentials and a modern economy's requirements is acute; community college access, vocational training, and dual-credit programs in rural high schools are the most direct interventions available." },
-        { name: "Rural Healthcare & Emergency Services", tag: "Healthcare", why: "Uvalde's proximity to San Antonio provides some specialist access, but the surrounding rural counties — Kinney, Real, Edwards — have extremely limited primary care infrastructure; hospital sustainability and emergency response capacity across a geographically vast and remote district are persistent quality-of-life deficits." }
+        { name: "Water Access and Ranching Viability", tag: "lean-into", why: "Southwest Texas agriculture and ranching depend on increasingly stressed water infrastructure across Uvalde, Kinney, and Val Verde counties. At $56,395 median income and 13.2% college attainment, rural livelihoods are directly tied to Edwards Aquifer allocation fights and drought resilience programs. Candidates who speak to specific local water district battles and ranch-scale impacts earn credibility that generic rural messaging cannot." },
+        { name: "Border Economy and Legal Trade", tag: "lean-into", why: "Del Rio and Eagle Pass proximity makes cross-border commerce a daily economic reality for Southwest Texas households, not an abstract policy debate. In an 83% Hispanic district at $56,395 median income, families on both sides of the economic ledger — retail, agriculture, trucking — feel trade flow disruptions immediately. Specific framing around legal commerce, port-of-entry efficiency, and local business impact outperforms generic border security rhetoric with this constituency." },
+        { name: "Uvalde School Shooting Civic Wounds", tag: "careful", why: "Robb Elementary remains an open civic wound in the district's anchor city, and any candidate — regardless of party — who handles it dismissively or politically will face immediate local backlash. In a community that is 83% Hispanic and politically realigning rightward, this issue requires genuine constituent acknowledgment, not messaging strategy, and the distinction is visible to voters who lived through it." },
+        { name: "Anti-Hispanic Cultural Messaging", tag: "avoid", why: "In an 83% Hispanic district that nonetheless votes 59% Republican, the realignment is economic and anti-establishment — not a cultural endorsement of nativist framing. Candidates who import statewide border-security rhetoric that implicitly targets Hispanic identity will fracture the coalition that delivered the margin, because these voters rejected the left without endorsing contempt for their own communities." },
+        { name: "Treating Uvalde as Only One Issue", tag: "avoid", why: "Reducing constituent engagement in Uvalde to a single-issue response to the 2022 shooting — whether performative sympathy or studied avoidance — signals that the representative does not understand the city's broader economic and civic needs. At 13.2% college attainment and $56,395 income, Uvalde families have pressing concerns around healthcare access, property taxes, and agricultural survival that demand the same specific attention." }
       ],
       memoHeadline: "Uvalde and Southwest Texas: 59% Republican in an 83% Hispanic District, and the Realignment's Rural Dimension",
       memoParagraphs: [
@@ -3850,8 +3850,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-81",
     name: "Texas House District 81",
-    city: "TBD",
-    region: "TBD",
+    city: "Odessa",
+    region: "Permian Basin",
     type: "state house district",
     incumbentName: "Brooks Landgraf",
     incumbentParty: "Republican",
@@ -3875,11 +3875,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.24, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Permian Basin Oil & Gas Economy", tag: "Economy", why: "Odessa is the service and labor capital of the Permian Basin — the world's most productive oil field; drilling activity, oilfield employment, royalty income, and the supply chain of manufacturers and service companies that support extraction are the economic variables the entire district tracks with daily attention." },
-        { name: "Workforce Development & Oilfield Training", tag: "Education", why: "At 16% college attainment in a district where most well-paying jobs are in oilfield trades, the most direct economic investment is connecting the district's young, predominantly Hispanic workforce to the certifications and skills that lead to drilling, completion, and pipeline careers." },
-        { name: "Water Rights & Permian Basin Scarcity", tag: "Environment", why: "Oil extraction in the Permian Basin is extraordinarily water-intensive; the competing demands of drilling operations, municipal supply, and agricultural use are pushing regional aquifers toward long-term depletion, making water rights one of the most consequential policy issues in West Texas." },
-        { name: "Healthcare Access & Boom-Town Infrastructure", tag: "Healthcare", why: "Odessa's population has surged and contracted with oil price cycles, consistently straining healthcare infrastructure that cannot scale as fast as the workforce; hospital capacity, primary care access, and behavioral health services are persistent deficits in boom-and-bust communities." },
-        { name: "Housing Affordability & Oilfield Worker Costs", tag: "Housing", why: "Permian Basin boom cycles drive housing costs to levels that strain oilfield workers' budgets even at above-average wages; affordable workforce housing and the 33.8% renter population's stability are issues that directly affect worker recruitment and retention in a tight labor market." }
+        { name: "Permian Basin Boom-Bust Worker Stability", tag: "lean-into", why: "Odessa is the Permian Basin's labor capital — the city where rig workers, pipe fitters, and service crews live and cycle through boom and bust. At $71,674 median income with 33.8% renters and 62% Hispanic workforce, volatility in oil prices translates directly into household insecurity faster here than in executive-class Midland. Candidates who speak to specific Ector County workforce protections, housing cost spikes during booms, and job transition programs during downturns earn trust that generic energy-prosperity messaging does not." },
+        { name: "Working-Class Healthcare in Energy Country", tag: "lean-into", why: "Odessa's oil-field workforce faces occupational injury, irregular employer coverage, and a regional healthcare system under chronic strain. With 62% Hispanic residents at a median income just above the state working-class threshold and 16% college attainment, coverage gaps and rural hospital capacity are felt at the household level. Specific references to Medical Center Hospital pressures and Ector County coverage gaps outperform abstract healthcare platform commitments." },
+        { name: "Rental Housing Costs During Oil Surges", tag: "careful", why: "At 33.8% renters in a boom-bust energy economy, Odessa's renter class experiences price spikes that outpace wages whenever rig counts rise. Acknowledging that the same energy prosperity that drives Republican support also prices working families out of housing requires calibration — championing the industry while naming the affordability pressure it creates is the credible position for this constituency." },
+        { name: "Treating Odessa as Identical to Midland", tag: "avoid", why: "Conflating Odessa with its higher-income neighbor Midland — using executive-class energy prosperity framing in a blue-collar labor city — signals a misread of the constituency. Ector County residents know the distinction: Midland has the corporate offices, Odessa has the workers who bear the cycle's downside, and messaging that erases that difference lands as representing someone else's district." },
+        { name: "Uncontested Seat as License for Absence", tag: "avoid", why: "Running unopposed in 2024 creates a structural temptation to deprioritize constituent service in a 62% Hispanic, working-class district that has not yet seen a competitive challenger. Odessa's demographic and economic profile — young, renter-heavy, majority Hispanic — is precisely the composition that mobilizes when residents feel their representative is performing for Austin rather than serving Ector County, and a dormant electorate is not a permanent one." }
       ],
       memoHeadline: "Odessa: The Permian Basin's Labor Capital, 62% Hispanic, and the Boom-Bust Policy Cycle",
       memoParagraphs: [
@@ -3898,8 +3898,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-82",
     name: "Texas House District 82",
-    city: "TBD",
-    region: "TBD",
+    city: "Midland",
+    region: "Permian Basin",
     type: "state house district",
     incumbentName: "Tom Craddick",
     incumbentParty: "Republican",
@@ -3923,11 +3923,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.99, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Permian Basin Energy Production & Regulation", tag: "Economy", why: "Midland is the executive and engineering capital of the Permian Basin — the world's most productive oil field; energy policy, production regulation, pipeline infrastructure, and federal leasing decisions are followed here with the expertise of an industry that has made Midland County one of the highest per-capita income places in the United States." },
-        { name: "Property Taxes & Boom-Cycle Appraisals", tag: "Economy", why: "Midland's oil economy produces surges in property values and local tax revenue that create appraisal burdens for homeowners even at relatively high incomes; the boom-bust dynamic means tax relief policy must account for both the up-cycle burden and the down-cycle fiscal stress." },
-        { name: "Water Rights & Permian Aquifer Policy", tag: "Environment", why: "The Permian Basin's explosive production growth has created extraordinary water demand that is depleting regional aquifers faster than any other activity in West Texas history; water rights policy, produced-water recycling regulation, and long-term aquifer protection are Midland's most consequential long-term policy challenge." },
-        { name: "Economic Diversification Beyond Oil & Gas", tag: "Economy", why: "Midland's periodic bust cycles — when oil prices collapse and unemployment spikes overnight — expose the structural risk of a single-commodity economy; diversification into technology, manufacturing, and professional services is the long-term strategy to stabilize a community whose fortunes are otherwise determined in Vienna and Riyadh." },
-        { name: "Infrastructure & Boom-Town Growth Management", tag: "Infrastructure", why: "Midland's roads, schools, and utilities have repeatedly been overwhelmed by boom-cycle population surges; infrastructure investment that can absorb rapid growth without failing during bust-cycle revenue contractions is the governance challenge unique to extraction-economy cities." }
+        { name: "Permian Basin Energy Policy Leadership", tag: "lean-into", why: "Midland is the corporate and executive capital of the Permian Basin, and HD-82 at $90,974 median income and 29.5% college attainment reflects a constituency with direct financial stakes in production regulation, pipeline infrastructure, and federal leasing policy. Craddick's institutional seniority makes this a district where substantive energy policy engagement — specific to Midland Basin geology, royalty structures, and operator economics — is expected, not optional." },
+        { name: "Executive Housing and Infrastructure Growth", tag: "lean-into", why: "Midland's oil-economy prosperity has driven population and commercial growth that strains municipal infrastructure, roads, and professional-class housing supply. At $90,974 median income with 31.7% renters, this is a constituency that includes both equity-holding homeowners and higher-income renters experiencing Permian growth pressures. Specific engagement with Midland County infrastructure capacity and development planning speaks to a district managing success, not scarcity." },
+        { name: "Hispanic Majority in a High-Income District", tag: "careful", why: "At 45.5% Hispanic in a district that votes 83% Republican, Midland's Latino professional and working-class residents are not a monolithic constituency to be assumed or ignored. Constituent service that addresses both the executive-class Anglo majority and the Hispanic families in Midland's workforce — including those without the income buffers of the district's median — requires deliberate engagement rather than demographic assumption." },
+        { name: "Treating the 83% as Permanent and Effortless", tag: "avoid", why: "Craddick's 83% margin reflects institutional incumbency advantage as much as ideological alignment, and governing as if that margin requires no maintenance risks constituent drift in a district with 45.5% Hispanic residents and a significant renter population. A challenger who focuses on healthcare access, housing costs, and oil-field worker stability in the non-executive half of Midland's economy would find material to work with that an absentee representative leaves on the table." },
+        { name: "Anti-Fossil Fuel Rhetoric, Even as Counterpoint", tag: "avoid", why: "In a district where the oil industry is not just employment but civic identity and household wealth, framing energy positions as a response to environmental critique — even to rebut it — imports a frame that Midland voters do not use and do not respect. Speaking to energy policy through production economics, infrastructure investment, and operator stability speaks to how this constituency actually understands the industry." }
       ],
       memoHeadline: "Midland: The Permian Basin's Executive Capital, Tom Craddick's 83% District, and West Texas's Economic Engine",
       memoParagraphs: [
@@ -3946,8 +3946,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-83",
     name: "Texas House District 83",
-    city: "TBD",
-    region: "TBD",
+    city: "Lubbock",
+    region: "South Plains",
     type: "state house district",
     incumbentName: "Dustin Burrows",
     incumbentParty: "Republican",
@@ -3971,11 +3971,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.22, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Cotton & Dryland Agriculture Economy", tag: "Agriculture", why: "Lubbock and the South Plains are the center of the U.S. cotton industry; cotton prices, federal farm programs, crop insurance, and irrigation policy from the Ogallala Aquifer determine the economic viability of the district's agricultural majority — the most important and most locally specific policy issues in the district." },
-        { name: "Ogallala Aquifer Conservation & Water Policy", tag: "Environment", why: "The Ogallala Aquifer underlies the South Plains and is being depleted by agricultural irrigation at a rate that threatens the long-term viability of dryland farming in the region; water conservation policy, irrigation efficiency investment, and aquifer drawdown management are among the most consequential long-term decisions affecting the district's economic future." },
-        { name: "Texas Tech University & Education Economy", tag: "Education", why: "Texas Tech University is Lubbock's dominant economic and cultural institution; university research funding, student enrollment, and the talent pipeline from Tech into local and state industry are issues where Burrows's legislative position as Speaker Pro Tem gives the district unusual access and influence." },
-        { name: "Wind Energy & South Plains Transition", tag: "Economy", why: "The South Plains is one of the most productive wind energy regions in the world; wind farm development, transmission infrastructure, and the integration of wind revenue into agricultural landowner income are transforming the region's economic base alongside its traditional cotton identity." },
-        { name: "Property Rights & Agricultural Land Use", tag: "Economy", why: "South Plains landowners navigate competing pressures from agricultural operations, wind lease negotiations, pipeline routing, and solar farm development; property rights protection and fair compensation in lease and easement negotiations are issues that organize an already-engaged agricultural constituency." }
+        { name: "Ogallala Aquifer and Agricultural Future", tag: "lean-into", why: "The Ogallala Aquifer's depletion rate is an existential economic issue for Lubbock's South Plains cotton economy, and at $74,395 median income in a district with deep agricultural roots, water policy is not an environmental abstraction — it is a generational solvency question for farm families. Candidates who engage specifically with the Texas Water Development Board's South Plains projections and local irrigation district pressures are speaking the language of this constituency's actual economic anxiety." },
+        { name: "Texas Tech Research and Regional Economy", tag: "lean-into", why: "Texas Tech University is the district's anchor institution, and at 29.6% college attainment — above the state working-class average — HD-83 has a constituency that connects university research, healthcare through the TTU Health Sciences Center, and regional job creation as a linked ecosystem. Supporting Tech's funding and economic development role speaks to both the professional class and the service-economy households that depend on the university's regional footprint." },
+        { name: "Cotton Economy Trade Exposure", tag: "careful", why: "Lubbock-area cotton production is acutely sensitive to export markets, and trade policy disruptions — particularly with China — translate directly into Lubbock County farm income. In a district that votes reliably Republican, agricultural trade vulnerability requires acknowledging the tension between party-aligned tariff politics and local producer economics without alienating either the ideological base or the farm constituency." },
+        { name: "Lubbock as Generic West Texas Placeholder", tag: "avoid", why: "Treating HD-83 as interchangeable West Texas Republican territory — using statewide partisan messaging without specific reference to cotton agriculture, water scarcity, and Texas Tech's economic role — signals to Lubbock voters that their representative is performing for party rather than place. At 57% White and 35% Hispanic with deep agricultural identity, this constituency rewards specificity and punishes generic conservative boilerplate that ignores what actually drives Lubbock County's economy." },
+        { name: "Dismissing Hispanic Constituent Concerns", tag: "avoid", why: "At 35% Hispanic in a district that runs unopposed, Lubbock's Latino community — concentrated in agriculture, service, and trade sectors — represents a constituency whose service gaps can become a challenger's opening if ignored long enough. Governing only for the 57% White majority in a district where a third of residents are Hispanic and economically essential to the agriculture that defines the region creates structural vulnerability that an uncontested margin obscures but does not eliminate." }
       ],
       memoHeadline: "Lubbock and the South Plains: Cotton Country, the Ogallala Aquifer, and Texas Tech at the Center",
       memoParagraphs: [
@@ -3994,8 +3994,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-84",
     name: "Texas House District 84",
-    city: "TBD",
-    region: "TBD",
+    city: "Lubbock",
+    region: "South Plains",
     type: "state house district",
     incumbentName: "Carl H. Tepper",
     incumbentParty: "Republican",
@@ -4019,11 +4019,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 2.95, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Student Housing Affordability & University Cost", tag: "Housing", why: "At 54.9% renters with a median age of 28.9, HD-84 is dominated by Texas Tech students and recent graduates for whom housing cost, lease terms, and off-campus affordability are the most immediate financial pressures of daily life." },
-        { name: "Higher Education Funding & Student Financial Aid", tag: "Education", why: "Texas Tech's tuition levels, financial aid access, and graduate program funding directly affect the economic circumstances of the district's largest constituency; state higher education appropriations are not abstract budget items here — they are the tuition bills and loan burdens of tens of thousands of constituents." },
-        { name: "Youth Economic Opportunity & Early-Career Support", tag: "Economy", why: "A 28.9 median age means the district's dominant policy constituency is in its first years of adult economic life; internship pipelines, entry-level job markets, and student loan affordability are the economic issues that shape whether young residents stay in Lubbock after graduation or leave the state." },
-        { name: "Public Safety & Campus-Adjacent Community", tag: "Public Safety", why: "Campus-adjacent urban communities have specific public safety needs around nighttime economy, mental health crisis response, and the overlap between student population and permanent residential neighborhoods; both student safety and neighborhood stability require investment in services that standard suburban policing models underserve." },
-        { name: "Civic Engagement & Young Voter Mobilization", tag: "Civic Engagement", why: "A district with a 28.9 median age and a large student population is structurally low-turnout; the political candidate who invests in genuine civic engagement infrastructure — not just election-year registration drives — has the most to gain from activating a constituency that both parties have historically neglected between election cycles." }
+        { name: "Renter Affordability Near Texas Tech", tag: "lean-into", why: "At 54.9% renters — the highest renter share in Texas — and $54,586 median income, HD-84 is the state's most renter-dominant district, and the Lubbock rental market near Texas Tech is defined by landlord pricing power against a transient student and low-income permanent resident population. Specific engagement with Lubbock County appraisal impacts on rent pass-through, predatory lease practices, and housing code enforcement speaks to the lived reality of more than half this district's households." },
+        { name: "Student and Young Voter Economic Stakes", tag: "lean-into", why: "At 28.9 median age — the youngest district in Texas — HD-84 has a constituency whose primary economic concerns are student debt load, entry-level job availability in the Lubbock market, and the transition from university to workforce housing. At 30.9% college attainment in a Tech-adjacent district, candidates who speak specifically to Lubbock's post-graduation retention problem and the gap between Texas Tech's institutional footprint and its graduates' local economic opportunity earn attention in a constituency that could be mobilized but has not been." },
+        { name: "Mobilizing a Dormant Student Electorate", tag: "careful", why: "Texas Tech's student body represents a latent voter pool that could meaningfully shift a 64-36 margin if systematically registered and turned out, and this creates a dual-edged dynamic for any candidate. Ignoring students forfeits constituent service credibility; over-investing in student mobilization infrastructure alerts the opposing party to a vulnerability and triggers counter-organizing in a district where the 36% Democratic baseline already reflects unrecalized potential." },
+        { name: "Homeowner-Centric Property Tax Messaging", tag: "avoid", why: "In a district where 54.9% of residents rent, framing property tax relief as the central economic issue imports a homeowner political vocabulary that is irrelevant or actively alienating to the majority of HD-84 households. Renter families at $54,586 median income experience property tax increases only as rent hikes passed through by landlords — messaging that celebrates homeowner relief without addressing that transmission mechanism speaks past the district's actual majority." },
+        { name: "Treating Minority Students as Low-Turnout Non-Factor", tag: "avoid", why: "At 39.9% Hispanic and 9.6% Black in the state's youngest and most renter-heavy district, the assumption that minority students and young residents will not organize or vote is a structural bet that has historically held but is not guaranteed. A 36% Democratic baseline in a district with this demographic composition reflects mobilization failure, not preference alignment, and a candidate or organizing effort that closes that gap would find the 64% Republican margin far less durable than it appears." }
       ],
       memoHeadline: "Texas Tech's Home District: The Youngest Seat in Texas, 55% Renters, and a Dormant Student Electorate",
       memoParagraphs: [
@@ -4042,8 +4042,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-85",
     name: "Texas House District 85",
-    city: "TBD",
-    region: "TBD",
+    city: "Waller",
+    region: "Houston Exurbs",
     type: "state house district",
     incumbentName: "Stan Kitzman",
     incumbentParty: "Republican",
@@ -4067,11 +4067,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 7.41, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Suburban & Exurban Growth Management", tag: "Infrastructure", why: "HD-85 sits in the Houston metropolitan growth zone, absorbing residential expansion from the west side of the metro; road capacity, utility infrastructure, and school district capacity are straining under population increases that the local tax base has not kept pace with funding." },
-        { name: "Property Taxes & Homeowner Relief", tag: "Economy", why: "At 23.8% renters, HD-85 is a predominantly homeowning district; the surge in Houston-adjacent property values has produced appraisal increases that feel acute to established homeowners and drive demand for state-level tax relief regardless of party affiliation." },
-        { name: "Racial Diversity & Community Integration", tag: "Equity", why: "With White 47%, Hispanic 29%, Black 14%, and Asian 7%, the district has a meaningfully diverse population for what is primarily a suburban and agricultural geography; ensuring that economic development and public services reach all four communities equitably is both a policy priority and a coalition-building necessity." },
-        { name: "Agricultural Heritage & Rural Land Preservation", tag: "Agriculture", why: "The district's western counties retain significant agricultural activity — cattle, row crops, and timber — that is being pressured by Houston exurban residential development; preserving agricultural tax valuations and rural land use options against development encroachment is an active constituency concern." },
-        { name: "Economic Development & Regional Job Access", tag: "Economy", why: "HD-85's position in the Houston metropolitan orbit means many residents commute long distances for professional employment; attracting employers closer to the district, investing in local workforce training, and improving transportation connectivity are the economic development priorities most directly within legislative reach." }
+        { name: "Exurban Infrastructure & Road Capacity", tag: "lean-into", why: "Waller County and the western Houston exurbs are absorbing rapid residential growth along US-290 and I-10 corridors, creating measurable road congestion and utility strain that directly affects the 76% owner-occupied households. At $77,304 median income, commute costs and infrastructure gaps are kitchen-table issues, not abstractions. Candidates who can cite specific FM road bottlenecks or Waller County subdivision drainage failures speak the local language." },
+        { name: "Agricultural Land Preservation vs. Development", tag: "lean-into", why: "HD-85's agricultural heritage — rice farms, cattle operations, and rural tracts in Waller County — is under direct pressure from Houston metro expansion pushing westward. At 47% White and 29% Hispanic with deep roots in farm-dependent communities, the tension between landowner development upside and community character loss is a genuine and specific local concern. Championing tools like ag-use exemption protection or right-to-farm protections earns credibility across both communities." },
+        { name: "Hispanic Community Growth & Civic Investment", tag: "careful", why: "At 29% Hispanic in a district that is growing rapidly, and in Waller County communities like Hempstead where Latino residents are a major demographic anchor, this constituency cannot be treated as peripheral to an unopposed Republican seat. Acknowledging specific service gaps — bilingual county services, school capacity in fast-growing subdivisions — without defaulting to immigration-frame politics is the calibration required here." },
+        { name: "Anti-Development Absolutism in a Growth District", tag: "avoid", why: "Framing all residential development as a threat in a district where new households are the primary economic driver — and where 77% of residents are owners who benefit from rising property values — alienates the growth-oriented constituency that defines this exurb. At $77,304 median income, many HD-85 residents moved here specifically for new-construction affordability relative to inner Houston, and messaging that sounds like an established-resident veto of newcomers reads as exclusionary." },
+        { name: "Houston Urban Policy Nationalization", tag: "avoid", why: "Importing Houston city-politics messaging — debates about HPD, city council controversies, or urban density fights — into a district that self-identifies as distinctly exurban and separate from the city misreads the constituency. HD-85 residents, including its 14% Black and 7% Asian communities, largely chose Waller County and western Harris County to avoid urban-core dynamics, and candidates who treat this as a Houston district rather than a frontier-growth district forfeit the local identity that holds the coalition together." }
       ],
       memoHeadline: "Houston's Western Growth Frontier: Four-Community Demographics, Agricultural Heritage, and Exurban Expansion",
       memoParagraphs: [
@@ -4090,8 +4090,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-86",
     name: "Texas House District 86",
-    city: "TBD",
-    region: "TBD",
+    city: "Amarillo",
+    region: "Texas Panhandle",
     type: "state house district",
     incumbentName: "John Smithee",
     incumbentParty: "Republican",
@@ -4115,11 +4115,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.52, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Beef Cattle Industry & Feedlot Economy", tag: "Agriculture", why: "Amarillo and the Texas Panhandle constitute the center of the U.S. fed-beef industry; the feedlots, meatpacking plants, and cattle supply chain that ring the city are the economic backbone of the region, making livestock policy, feed costs, and USDA market rules primary constituency concerns." },
-        { name: "Natural Gas & Petrochemical Production", tag: "Economy", why: "The Panhandle's Hugoton natural gas field and associated petrochemical operations employ a significant share of the district's workforce; energy policy, pipeline infrastructure, and the regulatory environment for gas extraction and processing are locally consequential issues." },
-        { name: "Pantex Plant & Nuclear Security Economy", tag: "Economy", why: "The Pantex Plant near Amarillo is the primary U.S. nuclear weapons assembly and disassembly facility; it is one of the Panhandle's largest employers and most unique economic assets — federal appropriations, plant mission continuity, and worker safety are constituency concerns with no parallel in any other Texas House district." },
-        { name: "Water Rights & Ogallala Depletion", tag: "Environment", why: "Amarillo sits above the northern Ogallala Aquifer, which supplies municipal and agricultural water across the Panhandle; aquifer depletion from agricultural irrigation, municipal demand growth, and industrial use is a long-term existential concern that no short-term policy has adequately addressed." },
-        { name: "Healthcare Access & Regional Medical Hub", tag: "Healthcare", why: "Amarillo serves as the healthcare capital of the Texas Panhandle and eastern New Mexico, drawing patients from a vast, sparsely populated region; hospital system investment, specialist recruitment, and rural clinic support across dozens of surrounding counties are constituency-wide priorities." }
+        { name: "Pantex & Defense Economic Anchoring", tag: "lean-into", why: "Pantex Plant in Carson County is the nation's primary nuclear weapons assembly and disassembly facility, employing thousands of Amarillo-area workers at above-median wages and anchoring Potter and Randall county household stability. At $76,725 median income in a district with 28.5% college attainment, Pantex represents exactly the kind of high-skill, high-wage federal employment that doesn't require a four-year degree. Candidates who speak specifically to Pantex contract continuity, workforce pipelines, and national security investment earn immediate credibility." },
+        { name: "Beef & Agribusiness Supply Chain", tag: "lean-into", why: "Amarillo is the self-described Beef Capital of the World, with JBS and Tyson operations, feedlot concentration, and agricultural supply chain infrastructure that runs through the Panhandle economy. At 32% Hispanic with significant meatpacking workforce representation, and with ranching families throughout the district's rural reaches, this industry is both economic engine and cultural identity. Specific engagement with packing plant working conditions, cattle market consolidation concerns, and water availability for feedlots distinguishes local champions from Austin outsiders." },
+        { name: "Hispanic Workforce Integration & Wages", tag: "careful", why: "At 32% Hispanic in a 100% Republican district, Amarillo's Latino community — heavily represented in meatpacking, construction, and service industries — experiences wage and workplace conditions that aren't resolved by partisan alignment alone. Acknowledging labor market realities in the beef processing sector without triggering immigration-frame responses from the Anglo majority requires specific economic framing: workforce wages, occupational safety, and employer accountability language that sidesteps wedge politics." },
+        { name: "Wind Energy Framed Against Fossil Jobs", tag: "avoid", why: "The Texas Panhandle hosts significant wind generation infrastructure, but framing renewable energy as a replacement for or competitor to oil-and-gas and Pantex employment in a district where these sectors define household income creates an unnecessary economic identity conflict. At 28.5% college attainment, voters here are attuned to industry-threat messaging, and candidates who conflate energy transition with local job loss — even inadvertently — will be held accountable for that framing." },
+        { name: "Treating Amarillo as a Generic Red District", tag: "avoid", why: "The 0D-100R margin and unopposed status creates a structural temptation to run on national conservative messaging rather than Pantex contracts, beef markets, and Randall County growth pressures. At 32% Hispanic and 31% renters, a third of this district has specific local economic vulnerabilities that generic culture-war framing doesn't address — and constituent neglect in an unopposed seat creates the conditions for a primary challenge from someone willing to do the local work." }
       ],
       memoHeadline: "Amarillo: Beef Capital, Pantex, and the Panhandle's Political and Economic Hub at 100% Republican",
       memoParagraphs: [
@@ -4138,8 +4138,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-87",
     name: "Texas House District 87",
-    city: "TBD",
-    region: "TBD",
+    city: "Amarillo",
+    region: "Texas Panhandle",
     type: "state house district",
     incumbentName: "Caroline Fairly",
     incumbentParty: "Republican",
@@ -4163,11 +4163,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 3.61, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Meatpacking & Agricultural Labor Economy", tag: "Economy", why: "HD-87's working-class communities in and around Amarillo are heavily connected to the meatpacking and agricultural processing industries that anchor the Panhandle economy; wages, working conditions, food processing safety, and labor market access are the economic issues most directly felt by the district's diverse workforce." },
-        { name: "Workforce Development & Trade Credentials", tag: "Education", why: "At 17.6% college attainment and $56,299 median income, the district's workforce is overwhelmingly non-degreed; vocational training, industrial certifications, and community college partnerships with Panhandle employers are the economic mobility investments with the most direct constituency impact." },
-        { name: "Housing Affordability & Working-Class Renter Stability", tag: "Housing", why: "With 37.7% renters at low household incomes, the district has a large population of cost-burdened working families; housing affordability, habitability standards, and pathways to ownership are the housing policy concerns most relevant to a community where wages have not kept pace with rent increases." },
-        { name: "Healthcare Access & Working-Family Insurance", tag: "Healthcare", why: "Low-income working families in meatpacking and agricultural processing jobs often lack adequate employer-provided healthcare; Medicaid access, community clinic funding, and cost-of-care assistance are the healthcare interventions with the most direct quality-of-life impact for the district's working population." },
-        { name: "Public Education & Bilingual Programs", tag: "Education", why: "In a district that is 40% Hispanic with a young median age, bilingual education quality, dual-language program investment, and school funding equity are both cultural commitments and economic opportunity investments for the next generation of Panhandle workers." }
+        { name: "Meatpacking Wages & Workplace Safety", tag: "lean-into", why: "HD-87 covers Amarillo's working-class communities where JBS and Tyson meatpacking employment is a primary economic reality for a substantial share of the 40% Hispanic constituency. At $56,299 median income — $20,000 below HD-86 — and 37.7% renters, household budgets here are directly tied to plant wages, shift structures, and injury rates. Candidates who engage specifically on line-speed safety rules, workers' comp access, and wage floor pressures in the processing sector speak to the lived economics of this district." },
+        { name: "Rental Housing Affordability in Amarillo", tag: "lean-into", why: "At 37.7% renters and $56,299 median income, HD-87 is the most economically stressed of Amarillo's two house districts, and rental cost burdens are acute when Amarillo's market tightens with regional growth. Specific engagement on renter protections, eviction process timelines, and Section 8 availability in Potter County — rather than generic housing rhetoric — reflects the material reality of a district where more than a third of households do not own. This framing also reaches the 7.5% Black community concentrated in lower-income Amarillo neighborhoods." },
+        { name: "Immigration Enforcement vs. Workforce Reality", tag: "careful", why: "In a 40% Hispanic district anchored in meatpacking — an industry with documented undocumented workforce participation nationally — immigration enforcement messaging creates direct anxiety in the constituent base regardless of legal status. At 79% Republican margin, the Anglo plurality supports enforcement postures, but the Hispanic workforce majority includes citizens, legal residents, and mixed-status families who hear those positions personally. The calibration required is economic frame first: workforce stability, industry continuity, and local employer accountability." },
+        { name: "Poverty-Framing of the Constituent Base", tag: "avoid", why: "At $56,299 median income and 17.6% college attainment, HD-87 is legitimately working-class, but messaging that positions these communities as recipients of charity or government rescue rather than workers deserving fair wages and functional public services triggers both dignity resistance and political backlash. Meatpacking workers and their families have strong occupational identity, and paternalistic framing — even well-intentioned — reads as condescension from Austin representatives who've never worked a plant floor." },
+        { name: "National Culture War Issues Over Local Economics", tag: "avoid", why: "A 79% Republican district with 40% Hispanic population at $56,299 income represents a constituency whose Republican alignment is rooted in cultural and religious conservatism, not economic satisfaction — and candidates who prioritize national partisan signaling over meatpacking wages, rental costs, and Potter County service delivery will face eventual constituent erosion as economic pressures compound. Substituting culture-war rhetoric for constituent service in a district this economically vulnerable creates conditions for a credible challenge." }
       ],
       memoHeadline: "Amarillo's Working-Class Communities: 40% Hispanic, Meatpacking Economy, and 79% Republican",
       memoParagraphs: [
@@ -4186,8 +4186,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-88",
     name: "Texas House District 88",
-    city: "TBD",
-    region: "TBD",
+    city: "Canadian",
+    region: "Texas Panhandle",
     type: "state house district",
     incumbentName: "Ken King",
     incumbentParty: "Republican",
@@ -4211,11 +4211,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 0.63, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Cotton, Grain & Dryland Agriculture", tag: "Agriculture", why: "The South Plains and Panhandle rural counties that HD-88 encompasses are among the most productive cotton, grain sorghum, and wheat growing regions in the country; federal farm programs, crop insurance, and commodity price policy are the primary economic variables for the agricultural families that dominate the district's rural communities." },
-        { name: "Oil & Gas Production — Anadarko & Permian Fringe", tag: "Economy", why: "The district's eastern counties sit within the Anadarko Basin's Texas extension, and its southern counties touch the Permian Basin fringe; oil and gas royalty income, production employment, and pipeline infrastructure are economic factors that reach agricultural landowners and working families alike." },
-        { name: "Water Rights & Ogallala Conservation", tag: "Environment", why: "The Ogallala Aquifer underlies the entire district and is being depleted by agricultural irrigation at a rate that threatens long-term farming viability across the South Plains; water conservation districts, irrigation efficiency mandates, and aquifer drawdown policy are the most consequential long-term legislative decisions affecting the district." },
-        { name: "Rural Healthcare & Clinic Access", tag: "Healthcare", why: "The vast rural territory of HD-88 — covering multiple counties across the Panhandle and South Plains — has extremely limited healthcare infrastructure; hospital sustainability in small county seats and the absence of specialty care within reasonable driving distance are persistent quality-of-life deficits." },
-        { name: "Rural Electric Grid & Energy Infrastructure", tag: "Infrastructure", why: "Remote Panhandle and South Plains communities depend on rural electric cooperatives for power delivery; grid reliability, storm hardening, and the integration of the region's abundant wind energy into a stable rural grid are infrastructure priorities unique to this vast, sparsely populated territory." }
+        { name: "Ranch & Agricultural Water Rights", tag: "lean-into", why: "HD-88 spans an enormous swath of Panhandle and South Plains ranch country where groundwater depletion from the Ogallala Aquifer is an existential threat to cattle operations, dryland farming, and feedlot infrastructure. At 48% Hispanic and 45% White with deep agricultural roots in both communities, water availability for irrigation and livestock is not a policy abstraction — it determines whether family operations survive another generation. Candidates who engage specifically on Ogallala conservation districts, groundwater authority jurisdiction, and producer flexibility earn cross-demographic credibility." },
+        { name: "Rural Healthcare Access Across Vast Territory", tag: "lean-into", why: "At $60,613 median income and 16.1% college attainment across one of Texas's largest geographic districts, residents in communities like Canadian, Pampa, and Borger face hospital closure threats and EMS response time failures that urban legislators don't encounter. The 48% Hispanic constituency disproportionately lacks employer-sponsored insurance, making rural clinic and critical access hospital funding a cross-racial economic concern. Specific engagement on Hemphill County Hospital District capacity or Pampa Regional's service gaps signals genuine representation." },
+        { name: "Hispanic Majority Without Democratic Alignment", tag: "careful", why: "HD-88's near-majority Hispanic constituency votes Republican at rates that reflect the region's ranching and agricultural cultural identity, not a political misalignment to be exploited or ignored. This constituency has specific economic concerns — ag labor, rural healthcare, water — that aren't addressed by either the Anglo rancher frame or the urban Hispanic Democratic frame. Candidates who govern as if the Hispanic plurality is politically irrelevant because it votes Republican forfeit the constituent-service relationship that makes an unopposed seat structurally stable." },
+        { name: "Urban Conservative Messaging in Ranch Country", tag: "avoid", why: "Importing Amarillo suburban or Dallas exurban conservative messaging — school choice vouchers, corporate tax incentives, urban infrastructure — into a district whose economy is cattle, wheat, oil, and natural gas misreads the constituency's priorities at every level. At 16.1% college attainment and $60,613 income across communities where the nearest major hospital may be an hour away, voters here are evaluating candidates on Ogallala water, ranch succession, and rural road maintenance — not suburban policy frameworks." },
+        { name: "Treating Agricultural Communities as Monolithic", tag: "avoid", why: "With 48% Hispanic and 45% White in a district that spans Canadian to Lamesa, the assumption that 'ranch country' means a uniform Anglo conservative constituency misses the specific economic roles — and concerns — of Hispanic ranching families, agricultural laborers, and small-town business owners who are majority-minority in several HD-88 communities. Messaging that defaults to the Anglo rancher as the sole constituent archetype creates visibility gaps that compound into service failures over a legislative term." }
       ],
       memoHeadline: "Panhandle and South Plains Ranch Country: 48% Hispanic, Unopposed Republican, and Vast Agricultural Territory",
       memoParagraphs: [
@@ -4234,8 +4234,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-89",
     name: "Texas House District 89",
-    city: "TBD",
-    region: "TBD",
+    city: "Lucas",
+    region: "Collin County Suburbs",
     type: "state house district",
     incumbentName: "Candy Noble",
     incumbentParty: "Republican",
@@ -4259,11 +4259,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 12.25, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & High-Income Homeowner Relief", tag: "Economy", why: "At $116,766 median income and only 18.3% renters, HD-89 is among the most homeowner-dominated high-income districts in the DFW suburbs; Collin County's surging property values have generated appraisal bills that are both financially significant and politically mobilizing across the district's diverse homeowner majority." },
-        { name: "School District Excellence & Equity", tag: "Education", why: "A 45.3% college-attainment district with 12.7% Black and 12.25% Asian populations alongside a white plurality has a parent electorate that evaluates school quality through both excellence and equity lenses; advanced curriculum access, resource distribution across campuses, and achievement gap data are closely tracked across all four communities." },
-        { name: "Black & Asian Community Engagement", tag: "Equity", why: "Together 25% of the district, the Black and Asian communities represent a substantial constituency whose priorities — around civil rights, education equity, immigration, and economic opportunity — have historically been underserved by the standard homeowner-focused messaging that dominates suburban Republican politics." },
-        { name: "Suburban Growth & Infrastructure", tag: "Infrastructure", why: "The DFW northern suburban corridor continues absorbing residential and corporate development at a pace that strains roads, utilities, and school capacity; managing that growth to maintain the quality of life that attracted residents is the governance challenge where state policy most visibly affects daily experience." },
-        { name: "Women's Healthcare & Reproductive Rights", tag: "Healthcare", why: "HD-89's 39% Democratic base — concentrated among college-educated suburban women and minority communities — is most reliably activated by reproductive rights and healthcare access; this issue drove the suburban realignment that narrowed Republican margins across Collin County and remains the most consistent mobilizer for the district's opposition coalition." }
+        { name: "High-Income Suburb Property Tax Relief", tag: "lean-into", why: "At $116,766 median income in Collin County's Lucas and Allen communities, HD-89 homeowners are disproportionately affected by appraisal volatility because their homes — often $500,000-plus — generate large absolute tax bills even when effective rates are moderate. At 18.3% renters, this is overwhelmingly an owner-occupied constituency, and Collin County appraisal increases have outpaced even income growth at this level. Candidates who engage on appraisal cap mechanics and AISD and Lovejoy ISD tax rates outperform those offering generic relief promises." },
+        { name: "Collin County School Quality & Overcrowding", tag: "lean-into", why: "At 45.3% college attainment and $116,766 median income, HD-89 parents are deeply invested in school district performance, and rapid population growth in Allen and Lucas is straining capacity in districts that were recently exemplary. The district's 12.25% Asian population — concentrated in high-education immigrant households — has particularly high school quality expectations and will reward specific engagement on overcrowding timelines, teacher retention, and gifted program continuity. Generic education rhetoric doesn't move this constituency; facility bonds and curriculum specifics do." },
+        { name: "Suburban Diversity & Inclusion Signaling", tag: "careful", why: "With 12.7% Black and 12.25% Asian constituencies in a $117K income district that voted 39% Democratic, HD-89's minority communities are politically engaged, economically integrated, and attuned to representation gaps. In a 61-39 seat, the margin is not guaranteed — and candidates who govern as if minority constituents in Collin County's affluent suburbs are reliably irrelevant to the Republican coalition misread a district where Black and Asian household income tracks closely with the White median. Constituent service visibility in these communities is margin maintenance." },
+        { name: "Culture War Education Rhetoric in High-Attainment District", tag: "avoid", why: "At 45.3% college attainment — among the highest in the Houston-Dallas exurb corridor — HD-89 parents who are professionally credentialed respond poorly to school board culture-war framing that implies book removal, DEI elimination, or curriculum restriction as primary education priorities. This district's 39% Democratic baseline is largely constituted by exactly these high-education suburban voters, and messaging that prioritizes ideological education battles over Allen ISD capacity, gifted programs, and school finance will accelerate their mobilization against the Republican incumbent." },
+        { name: "Treating This as a Safe Republican Seat", tag: "avoid", why: "A 61-39 margin in Collin County — a county that was 80-20 Republican a decade ago — reflects a structural competitiveness trend that an unopposed 2024 result obscures rather than reverses. With 25% combined Black and Asian constituencies that skew toward Democratic alignment nationally, and a high-education White suburban population that has moved significantly leftward, candidates who campaign on partisan identity rather than Collin County-specific constituent service are misreading the trajectory of this district." }
       ],
       memoHeadline: "Collin County's Diverse High-Income Suburb: $117K Income, 25% Black and Asian, and a 61-39 Hold",
       memoParagraphs: [
@@ -4282,8 +4282,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-90",
     name: "Texas House District 90",
-    city: "TBD",
-    region: "TBD",
+    city: "Fort Worth",
+    region: "Fort Worth Urban Core",
     type: "state house district",
     incumbentName: "Ramon Romero JR",
     incumbentParty: "Democrat",
@@ -4307,11 +4307,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 2.57, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Affordability & Renter Protections", tag: "Housing", why: "With 43.7% renters at $61,791 median income in Fort Worth's working-class urban neighborhoods, the district has a large population of cost-burdened families for whom rent increases, eviction risk, and habitability failures are immediate financial crises rather than policy abstractions." },
-        { name: "Workforce Development & Economic Mobility", tag: "Economy", why: "At 17.4% college attainment, the district's workforce is primarily non-degreed and working in service, construction, and light manufacturing sectors; connecting residents to vocational training, apprenticeship programs, and higher-wage employment is the most direct economic mobility investment available." },
-        { name: "Healthcare Access & Uninsured Working Families", tag: "Healthcare", why: "Low-income working families in Fort Worth's Hispanic and Black urban neighborhoods face high rates of uninsurance and underinsurance; community health clinic funding, Medicaid access, and cost-of-care assistance are the healthcare interventions with the most direct quality-of-life impact." },
-        { name: "Public Education & Student Support Services", tag: "Education", why: "Fort Worth ISD schools serving this community face funding equity challenges and elevated student need; wraparound services — food security, mental health counseling, and after-school programs — address the barriers to learning that extend beyond the classroom for children in low-income households." },
-        { name: "Community Safety & Neighborhood Investment", tag: "Public Safety", why: "Urban Fort Worth working-class neighborhoods have specific public safety needs around violence prevention, mental health crisis response, and the quality of community-police relations; residents want effective safety investment that does not come at the cost of civil rights or community trust." }
+        { name: "Renter Protections & Eviction Prevention", tag: "lean-into", why: "At 43.7% renters and $61,791 median income in Fort Worth's urban core, housing instability is the most immediate economic threat facing HD-90 constituents — and the 65% Hispanic and 13% Black communities that define this district are disproportionately rent-burdened relative to income. Specific engagement on Tarrant County eviction filing rates, Just Cause eviction frameworks, and rental assistance program accessibility in Fort Worth's west side distinguishes legislative representation from symbolic presence. This is the constituency's most urgent material concern." },
+        { name: "Workforce Development & Living Wage Jobs", tag: "lean-into", why: "At $61,791 median income and 17.4% college attainment, HD-90 is a working-class district where the gap between available jobs and living-wage employment is the central economic reality. Fort Worth's industrial, logistics, and service sectors employ this constituency heavily, and specific advocacy for apprenticeship programs, community college workforce partnerships with Tarrant County College, and targeted hiring pipelines in nearby job centers speaks to constituents' actual upward mobility constraints. Generic workforce messaging without institutional specificity underperforms in a community that has heard it before." },
+        { name: "Immigration Enforcement Impact on Constituents", tag: "careful", why: "In a 65% Hispanic district at $61,791 median income, federal immigration enforcement creates direct anxiety in mixed-status families, affects school enrollment, and shapes whether constituents engage with public services at all. A Democratic representative in an uncontested seat must navigate federal-state policy limits while providing constituent service visibility — legal aid referrals, know-your-rights information, and explicit acknowledgment of community fear — without overpromising state-level authority that doesn't exist." },
+        { name: "Abstract Progressive Policy Over Local Service", tag: "avoid", why: "At $61,791 income, 43.7% renters, and a constituency navigating Fort Worth's west-side service gaps, an HD-90 representative who prioritizes statewide or national progressive positioning over Tarrant County eviction court reform, Fort Worth utility affordability, and west-side infrastructure investment will be perceived as having forgotten who they represent. An unopposed Democratic seat in a community with this level of material need is retained through constituent service visibility, not legislative brand-building in Austin." },
+        { name: "Treating Low Turnout as Constituent Disengagement", tag: "avoid", why: "HD-90's working-class, majority-Hispanic, majority-renter constituency has structural turnout barriers — shift work, language access, registration churn from housing instability — that are not expressions of political indifference. Candidates who interpret low turnout as license to reduce constituent service, skip community events, or deprioritize Spanish-language communication misread a district where turnout is a function of accessibility, not apathy, and where the community's trust in representation has to be earned through presence." }
       ],
       memoHeadline: "Fort Worth's Working-Class Urban Core: 65% Hispanic, 13% Black, 44% Renters, and an Economic Opportunity Gap",
       memoParagraphs: [
@@ -4330,8 +4330,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-91",
     name: "Texas House District 91",
-    city: "TBD",
-    region: "TBD",
+    city: "Hurst",
+    region: "Mid-Cities",
     type: "state house district",
     incumbentName: "David Lowe",
     incumbentParty: "Republican",
@@ -4355,11 +4355,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 6.25, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & Tarrant County Homeowner Relief", tag: "Economy", why: "At $81,412 median income with 63.3% homeownership, HD-91's established suburban families have experienced significant Tarrant County appraisal increases; property tax relief is the most broadly shared and politically reliable issue across the district's diverse homeowner base." },
-        { name: "Public Safety & Suburban Neighborhood Stability", tag: "Public Safety", why: "Suburban Tarrant County communities consistently rank neighborhood safety among their top quality-of-life priorities; law enforcement funding, emergency response capacity, and community policing investments are the issues where candidates are most directly evaluated by homeowner-majority electorates." },
-        { name: "Suburban Growth & Infrastructure Capacity", tag: "Infrastructure", why: "The Tarrant County suburban ring continues absorbing DFW metro growth; road capacity, school district expansion, and utility infrastructure investment are the visible, daily-experience issues where state-level funding decisions most directly affect constituent quality of life." },
-        { name: "School District Quality & Funding Equity", tag: "Education", why: "At 28.1% college attainment with a racially diverse school-age population — 26% Hispanic, 8% Black, 6% Asian — the district has an electorate that cares deeply about school quality for their children even if they are not themselves college graduates; funding equity across Tarrant County school districts is a perennial tension." },
-        { name: "Workforce Development & Economic Opportunity", tag: "Economy", why: "A district with 28.1% college attainment and 36.7% renters has a substantial working-class population navigating a tight labor market; connecting residents to vocational training, community college programs, and higher-wage employment pathways is the economic development investment that reaches the most families." }
+        { name: "Mid-Cities Commuter Infrastructure", tag: "lean-into", why: "Hurst sits in the heart of the DFW Mid-Cities corridor where SH-183, SH-121, and Loop 820 congestion directly affects household time and commute costs for a district with $81,412 median income and a predominantly owner-occupied, working-professional constituency. At 37% of residents as renters in apartment-heavy Mid-Cities zones, both owner and renter households depend on road and highway access since no meaningful transit alternative exists. Specific engagement on TxDOT project timelines and Tarrant County arterial investments earns immediate local credibility." },
+        { name: "Small Business & Retail Economy Stability", tag: "lean-into", why: "Hurst and the surrounding Mid-Cities communities have an established retail and small-business corridor — particularly along Pipeline Road and the North East Mall area — that faces post-pandemic vacancy pressures and competition from e-commerce. At $81,412 median income and 28.1% college attainment, this district's middle-income households support local commercial corridors that are sensitive to property tax increases passed through to commercial tenants. Candidates who speak to Tarrant County commercial appraisal pressures on small employers differentiate themselves from generic tax-cut messaging." },
+        { name: "Tarrant County's Growing Minority Communities", tag: "careful", why: "At 26.5% Hispanic, 8.3% Black, and 6.25% Asian in a district that is 55% White, HD-91's minority communities represent a substantial and growing constituency share in a seat held without opposition. In a Tarrant County that is increasingly competitive at the county level, the constituent service relationship with non-White households in Hurst and neighboring Mid-Cities communities matters for long-term seat stability — and candidates who govern only to the White homeowner majority risk visibility gaps that compound over multiple terms." },
+        { name: "Anti-Urban Transit Messaging That Ignores Congestion", tag: "avoid", why: "In a district where commute congestion is a daily lived reality and no viable transit alternative exists, messaging that frames public transit opposition as a core conservative value — rather than offering specific road capacity solutions — leaves constituents without answers to a problem they experience on SH-183 every morning. At $81,412 median income, HD-91 households are not demanding light rail, but they are demanding that their representative have a concrete answer to Mid-Cities traffic that goes beyond partisan anti-transit framing." },
+        { name: "Treating Unopposed Status as Mandate for Minimal Engagement", tag: "avoid", why: "Winning without opposition in a district that is 45% minority and 37% renter does not reflect constituency satisfaction — it reflects an opposition recruitment failure. At 26.5% Hispanic and 8.3% Black, there are constituent communities in HD-91 whose service needs are not automatically met by an incumbent who doesn't face electoral pressure, and the Tarrant County competitive environment means that a credible challenger in 2026 would have a structural story to tell about neglect if the representative governs to the 55% White homeowner base exclusively." }
       ],
       memoHeadline: "Tarrant County's Diverse Suburban Middle: Four Communities, Homeowner Politics, and Unopposed Republican Alignment",
       memoParagraphs: [
@@ -4378,8 +4378,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-92",
     name: "Texas House District 92",
-    city: "TBD",
-    region: "TBD",
+    city: "Euless",
+    region: "Mid-Cities",
     type: "state house district",
     incumbentName: "Salman Bhojani",
     incumbentParty: "Democrat",
@@ -4403,11 +4403,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 9.08, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Renter Protections & Apartment Housing Stability", tag: "Housing", why: "HD-92's 69.1% renter rate — one of the highest of any Texas House district — defines the district's political identity; the majority of households rent, making habitability standards, eviction protections, and affordable unit preservation the most broadly felt and most urgently needed housing policy interventions." },
-        { name: "Diverse Community Integration & Civic Engagement", tag: "Equity", why: "With four communities each holding between 9% and 34% of the population — Hispanic, white, Black, and Asian in near-equal measure — HD-92 is one of the most demographically complex constituencies in Tarrant County; governing it credibly requires specific, culturally informed engagement with each community rather than a generic majority-coalition approach." },
-        { name: "Economic Opportunity & Working-Family Support", tag: "Economy", why: "At $60,964 median income in a 69% renter district, many working families are cost-burdened relative to their housing expenses; wages, worker protections, and job quality in the Mid-Cities employment corridor are economic issues with direct household impact." },
-        { name: "Healthcare Access & Immigrant Community Services", tag: "Healthcare", why: "The Mid-Cities area includes significant immigrant and refugee communities — including one of the largest Nepali diaspora communities in the United States — whose healthcare access is shaped by language barriers, immigration status considerations, and insurance coverage gaps that standard healthcare programs do not fully address." },
-        { name: "Public Education & Multilingual Programs", tag: "Education", why: "A district this demographically diverse, with significant immigrant community populations, has extraordinary demand for multilingual education, English language acquisition programs, and culturally responsive schooling that serves children arriving with a wide range of linguistic backgrounds." }
+        { name: "Renter Rights & Affordability in Euless", tag: "lean-into", why: "At 69.1% renters — the highest renter concentration in the Mid-Cities — HD-92's constituency is uniquely exposed to eviction, rent increases, and housing instability relative to any other Tarrant County district. At $60,964 median income split among four near-equal racial communities, rent burden is a shared material concern that crosses the Hispanic, White, Black, and Asian constituencies simultaneously. Specific engagement on Euless rental market conditions, Tarrant County eviction court timelines, and state-level tenant protection legislation is the district's most unifying economic issue." },
+        { name: "Multiracial Community Services & Representation", tag: "lean-into", why: "HD-92's near-equal four-way racial distribution — 34% Hispanic, 27% White, 26% Black, 9% Asian — in a single Mid-Cities district is demographically rare in Texas, and the historic nature of this representation carries real constituent expectations for visibility across all communities. At 32.7% college attainment and $60,964 income, these communities share working-class economic pressures but have distinct service access concerns — language access, transit, healthcare — that require specific rather than generic constituent engagement." },
+        { name: "Coalition Tension Among Four Communities", tag: "careful", why: "In a district where no single racial group exceeds 35%, every policy priority is potentially a coalition management exercise — and a representative perceived as primarily championing one community's interests at the expense of the others will create visibility gaps that a future challenger can exploit. At $60,964 median income across four communities with distinct cultural institutions, employment concentrations, and service needs in Euless, Bedford, and Hurst, constituent service must be demonstrably cross-community to hold the coalition that created this seat." },
+        { name: "Identity-Only Representation Without Economic Delivery", tag: "avoid", why: "HD-92's historic status as a newly diverse district creates a temptation to anchor representation in symbolic firsts and identity visibility rather than the material concerns — 69% renter housing instability, $60,964 income pressure, healthcare access — that drove the constituency's political engagement. At 43.7% renters next door in HD-90 and even higher here, constituents measure representation by whether their eviction risk, utility costs, and clinic access improved — not by legislative press releases about historic milestones." },
+        { name: "Progressive Austin Brand-Building Over Euless Service", tag: "avoid", why: "An unopposed Democratic representative in a 69% renter, four-community working-class district who prioritizes statewide progressive positioning over Euless-specific housing, transit, and healthcare constituent work will be perceived as having moved on from the community that created the seat. At $60,964 median income and 32.7% college attainment, HD-92 constituents are evaluating their representative on whether Tarrant County rental assistance reached their neighborhood, not on their Austin committee assignments." }
       ],
       memoHeadline: "Mid-Cities' Most Diverse District: 69% Renters, Four Near-Equal Communities, and Historic Representation",
       memoParagraphs: [
@@ -4426,8 +4426,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-93",
     name: "Texas House District 93",
-    city: "TBD",
-    region: "TBD",
+    city: "Fort Worth",
+    region: "North Tarrant County",
     type: "state house district",
     incumbentName: "Nate Schatzline",
     incumbentParty: "Republican",
@@ -4451,11 +4451,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 8.65, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & Affluent Homeowner Relief", tag: "Economy", why: "At $106,685 median income and a modest 31.8% renter rate, HD-93 is a high-income, predominantly homeowning district where Tarrant County's surging appraisals have generated property tax bills that feel significant even at above-average incomes — making tax relief the most consistently mobilizing homeowner issue." },
-        { name: "Public Education & School District Quality", tag: "Education", why: "With 41.9% college attainment and a racially diverse parent population, the district's electorate tracks school board governance, curriculum quality, and per-pupil funding with high engagement; school quality is both a property-value determinant and a personal parental priority for a well-educated, competitive suburban community." },
-        { name: "Suburban Growth & Community Infrastructure", tag: "Infrastructure", why: "North Tarrant County communities are experiencing continued residential and commercial development; managing growth to preserve quality of life — road capacity, school expansion, park access, and utility reliability — is the governance challenge most visible to constituents in their daily experience." },
-        { name: "Diverse Community Engagement & Economic Equity", tag: "Equity", why: "With Black 12% and Asian 9% alongside a white plurality, HD-93 has meaningful minority community populations whose concerns around economic opportunity, civil rights, and education equity must be part of any credible governing agenda — not merely coalition afterthoughts." },
-        { name: "Women's Healthcare & Reproductive Rights", tag: "Healthcare", why: "The 39% Democratic base in HD-93 is concentrated among college-educated suburban women and minority communities for whom reproductive rights and healthcare access are among the most motivating issues in post-Dobbs Texas; these voters have driven the Tarrant County suburban realignment and represent the most reliable competitive margin-moving constituency." }
+        { name: "High-Income Suburb Property Tax & Appraisal", tag: "lean-into", why: "At $106,685 median income in North Tarrant County communities like Keller and Watauga, HD-93 homeowners face significant absolute property tax bills driven by Tarrant County appraisal increases on homes that have appreciated substantially in the post-2020 market. At 18% renters, this is an ownership-heavy constituency where property tax is the dominant fiscal grievance, and candidates who engage specifically on Tarrant Appraisal District review processes and ISD tax rates in Keller and Birdville ISDs outperform generic relief messaging." },
+        { name: "DFW Tech & Professional Job Market Access", tag: "lean-into", why: "At 41.9% college attainment and $106,685 income, HD-93 is populated by professional and technical workers who commute into DFW's employment centers and have strong opinions about workforce development, broadband infrastructure, and business regulatory environment as they affect professional-sector employers. The district's 8.65% Asian community — concentrated in tech and engineering households — and the broader high-education majority respond to specific engagement on Texas business climate, non-compete reform, and professional licensing as economic issues rather than partisan abstractions." },
+        { name: "Competitive Margin & Suburban Voter Expectations", tag: "careful", why: "A 61-39 result in North Tarrant County — a historically safe Republican area — reflects the same suburban education-realignment trend visible across Tarrant and Collin counties, and the 39% Democratic baseline includes high-education White voters, the majority of the 12.4% Black constituency, and a significant share of the 8.65% Asian community. Candidates who treat this as structurally safe will be outworked by a challenger who identifies the college-educated suburban mobility pattern and campaigns specifically to constituents whose economic concerns — healthcare costs, childcare, professional tax policy — are not being addressed." },
+        { name: "Culture War Framing in a High-Education District", tag: "avoid", why: "At 41.9% college attainment, HD-93's majority professional-class constituency responds poorly to culture-war education messaging — book bans, DEI elimination, gender-related school policy — that reads as ideological rather than practical to households focused on Keller ISD academic quality and college preparation. This is the same suburban education dynamic that has already moved similar Tarrant County districts leftward, and candidates who prioritize partisan cultural signaling over school finance, facility capacity, and teacher pay will accelerate that realignment." },
+        { name: "Ignoring Minority Community Constituent Needs", tag: "avoid", why: "With 12.4% Black, 8.65% Asian, and 21.4% Hispanic constituencies in a 61-39 seat, HD-93's non-White residents constitute more than 40% of the district and skew toward Democratic alignment at rates that make them directly relevant to the margin. Governing exclusively to the White homeowner majority while providing no constituent service visibility to minority communities in North Tarrant County — which have measurable healthcare, transit, and service access concerns — forfeits exactly the cross-demographic credibility that holds a competitive seat." }
       ],
       memoHeadline: "North Tarrant County's Competitive Suburb: $107K Income, Four Communities, and a 61-39 Republican Hold",
       memoParagraphs: [
@@ -4474,8 +4474,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-94",
     name: "Texas House District 94",
-    city: "TBD",
-    region: "TBD",
+    city: "Arlington",
+    region: "Tarrant County",
     type: "state house district",
     incumbentName: "Tony Tinderholt",
     incumbentParty: "Republican",
@@ -4499,11 +4499,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 5.64, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Arlington Economic Identity & Major Venue Investment", tag: "Economy", why: "Arlington hosts AT&T Stadium, Globe Life Field, and Six Flags — a major entertainment and sports economy that defines the city's regional identity; tax increment financing, venue district policy, and the economic development strategy around these assets are locally consequential decisions that shape employment and tax base for the entire community." },
-        { name: "University of Texas at Arlington & Education Economy", tag: "Education", why: "UT Arlington is one of the largest universities in Texas, with nearly 45,000 students; its research capacity, graduate programs, and workforce pipeline are economic assets that connect the district's education policy to its employment base in ways that few suburban Texas districts can claim." },
-        { name: "Public Transportation & Mobility Gap", tag: "Infrastructure", why: "Arlington is the largest U.S. city without a major fixed-route public transit system — a fact that shapes the daily mobility of working families, students, and residents without cars; transit investment and last-mile connectivity are quality-of-life and economic access issues with unusually direct constituency impact." },
-        { name: "Property Taxes & Diverse Homeowner Relief", tag: "Economy", why: "With $82,472 median income and a white plurality alongside 24% Hispanic and 13% Black communities, HD-94's homeowner base is racially diverse; Tarrant County appraisal increases are felt across communities, making tax relief a genuinely cross-demographic mobilizing issue." },
-        { name: "Community Safety & Neighborhood Investment", tag: "Public Safety", why: "Arlington's urban character — denser than most DFW suburbs, with significant renter populations and diverse neighborhoods — creates specific public safety challenges around traffic, violence prevention, and mental health crisis response that require investment calibrated to an urban rather than a purely suburban context." }
+        { name: "UT Arlington Workforce & Research Economy", tag: "lean-into", why: "UT Arlington's 40,000-student campus sits in HD-94 and anchors a research, healthcare, and professional workforce pipeline that directly affects the district's $82,472 median income trajectory. At 37.3% college attainment, this district has the educational infrastructure to sustain professional-sector job growth, and candidates who engage specifically on UTA research partnerships, healthcare workforce development, and technology commercialization speak to an economic asset most constituents underutilize politically. UT Arlington is the district's most distinctive economic leverage point." },
+        { name: "Arlington Sports & Entertainment Economic Development", tag: "lean-into", why: "Arlington's entertainment district — Globe Life Field, AT&T Stadium, and Texas Live — generates significant sales tax revenue and local employment while creating infrastructure demands that the city manages without the transit connections that similar districts elsewhere have built. At $82,472 median income and 37.2% renters, HD-94 households benefit from entertainment-sector employment and tourism spending, and candidates who engage on maximizing Arlington's economic return from these assets — event traffic, hospitality jobs, stadium district ancillary development — speak to a genuinely local economic story." },
+        { name: "Transit Absence in a Dense, Diverse District", tag: "careful", why: "Arlington is the largest U.S. city without a fixed public transit system, and at 37.2% renters with 23.9% Hispanic and 13.5% Black constituencies who are more likely to lack vehicle access, this gap has specific economic consequences for the residents who can least absorb them. In a 56-44 seat, acknowledging transit infrastructure as an economic access issue — framed around workforce mobility and employer connectivity rather than urban-liberal transit ideology — is the calibration required to address a real constituent need without triggering the partisan framing that kills the conversation in a competitive Republican district." },
+        { name: "National Partisan Identity Over Arlington-Specific Concerns", tag: "avoid", why: "In a 56-44 district where the 44% Democratic baseline is constituted substantially by UTA-adjacent educated voters, Hispanic residents in southeast Arlington, and Black households throughout the district, messaging that prioritizes national Republican brand signals over UT Arlington funding, Arlington transit access, and Tarrant County healthcare infrastructure leaves the competitive margin's concerns unaddressed. At $82,472 median income with 37% renters, this is a constituency with specific local economic pressures that generic partisan messaging doesn't resolve." },
+        { name: "Dismissing the 44% Democratic Constituency", tag: "avoid", why: "A 56-44 margin in Arlington — a city with a major research university, a substantial Hispanic working-class community, and a Black constituency that exceeds 13% — means that a representative who governs as if the minority coalition is politically irrelevant will face a structurally viable challenger in every cycle. The specific risk is ignoring constituent service requests from UTA-area renters, southeast Arlington Hispanic households, and Black community organizations whose mobilization determines whether 44% becomes 48% in the next competitive cycle." }
       ],
       memoHeadline: "Arlington: Sports Venues, UT Arlington, No Transit, and a 56-44 Republican Seat Under Competitive Pressure",
       memoParagraphs: [
@@ -4522,8 +4522,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-95",
     name: "Texas House District 95",
-    city: "TBD",
-    region: "TBD",
+    city: "Fort Worth",
+    region: "Fort Worth Urban Core",
     type: "state house district",
     incumbentName: "Nicole Collier",
     incumbentParty: "Democrat",
@@ -4547,11 +4547,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 3.00, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Racial Equity & Economic Opportunity", tag: "Equity", why: "With Hispanic 39% and Black 37% together constituting 76% of the district, HD-95 is one of the most thoroughly majority-minority constituencies in Tarrant County; policies that explicitly address the differential economic outcomes experienced by Black and Hispanic families — in wages, wealth-building, and public investment — are the defining policy commitments of this district." },
-        { name: "Housing Affordability & Anti-Displacement", tag: "Housing", why: "At 49.3% renters and $57,605 median income, half the district's households are cost-burdened renters in Fort Worth neighborhoods where development pressure and rent increases are threatening the stability of established Black and Hispanic communities; affordable unit preservation and anti-displacement policy are urgent constituency needs." },
-        { name: "Healthcare Access & Community Health Investment", tag: "Healthcare", why: "Low-income Black and Hispanic communities experience higher rates of uninsurance, chronic disease, and healthcare access barriers; community health clinic funding, Medicaid access, and targeted chronic disease management programs are the healthcare interventions with the most direct impact on the district's core population." },
-        { name: "Criminal Justice Reform & Community Safety", tag: "Public Safety", why: "Fort Worth's majority-minority urban neighborhoods have a specific and nuanced relationship with the criminal justice system; constituents want effective community safety alongside meaningful accountability, reform of pretrial detention practices, and investment in violence prevention programs that address root causes rather than symptoms." },
-        { name: "Public Education & Opportunity Gap Closure", tag: "Education", why: "At 19% college attainment in a district with a young median age of 32.2, Fort Worth ISD schools serving this community are the primary institutions responsible for changing the trajectory; wraparound services, college access programs, and targeted investment in high-need schools are the education policy priorities with the most direct constituency impact." }
+        { name: "Workforce Pipelines Over Degrees", tag: "lean-into", why: "At 19% college attainment in a majority-minority Fort Worth urban core, credential-based workforce policy leaves most residents behind. Championing trade certification, community college access, and employer partnerships at Tarrant County College resonates directly with the 81% of constituents who built careers without four-year degrees. Generic 'education investment' framing misses the specific economic ladder this district actually uses." },
+        { name: "Renter Protections and Housing Stability", tag: "lean-into", why: "At 49.3% renters and $57,605 median income, nearly half of HD-95 households are exposed to Fort Worth's rising lease market with limited legal recourse. Eviction prevention, tenant rights enforcement, and affordable unit preservation are not aspirational policy here — they are immediate household stability issues for a district where a bad lease cycle can erase years of economic progress." },
+        { name: "Coalition Equity Between Black and Hispanic Constituents", tag: "careful", why: "With Hispanic and Black residents nearly tied at 39% and 37%, governing visibly for one community while the other receives less responsive service is a structural vulnerability in an unopposed seat. Both communities have distinct institutional anchors, service gaps, and political histories in Fort Worth that require separate, specific attention — not unified messaging that flattens real differences in need." },
+        { name: "Symbolic Progressivism Without Service Delivery", tag: "avoid", why: "Running unopposed does not eliminate constituent accountability in a district where $57,605 median income means residents track tangible outcomes — jobs, housing, schools, safety — not legislative branding. Emphasizing ideological positioning or statewide movement politics over measurable Fort Worth Near Southside and Stop Six service results invites the kind of disengagement that erodes turnout in safe seats over successive cycles." },
+        { name: "Treating District as Single Voting Bloc", tag: "avoid", why: "At 39% Hispanic and 37% Black with a median age of 32.2, HD-95 is not a monolithic constituency — it is two distinct communities with overlapping but non-identical priorities around policing, immigration enforcement exposure, economic mobility, and city services. Messaging that conflates these populations into a single 'community of color' narrative reads as inattentive to both groups and undercuts the coalition maintenance an unopposed seat still requires." }
       ],
       memoHeadline: "Fort Worth's Near-Equal Biracial District: Hispanic 39%, Black 37%, and the Work of Urban Equity Politics",
       memoParagraphs: [
@@ -4570,8 +4570,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-96",
     name: "Texas House District 96",
-    city: "TBD",
-    region: "TBD",
+    city: "Mansfield",
+    region: "South Tarrant County",
     type: "state house district",
     incumbentName: "David Cook",
     incumbentParty: "Republican",
@@ -4595,11 +4595,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 4.58, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & Diverse Homeowner Relief", tag: "Economy", why: "At $102,230 median income with only 27.2% renters, HD-96 is a homeowner-majority district where Tarrant County appraisal increases are felt across white, Hispanic, and Black homeowning families alike; tax relief is the most broadly shared issue that crosses the district's racial communities." },
-        { name: "Diverse Community Engagement — Near-Equal Hispanic & Black Populations", tag: "Equity", why: "At 19.57% Hispanic and 19.33% Black — nearly identical shares — HD-96 has one of the most evenly balanced biracial minority constituencies in Tarrant County; together they represent 39% of the district, and any candidate who governs without specific investment in both communities cannot credibly claim to represent the full constituency." },
-        { name: "Public Education & School Quality", tag: "Education", why: "A 36.6%-college-attainment, racially diverse parent electorate evaluates school quality with intensity across all three of the district's primary communities; curriculum equity, advanced program access, and school district funding are issues where candidate knowledge signals genuine commitment rather than campaign-season talking points." },
-        { name: "Suburban Growth & Infrastructure Investment", tag: "Infrastructure", why: "The Mansfield corridor of south Tarrant County continues absorbing DFW metro growth; road capacity, school district expansion, and utility infrastructure are the service delivery challenges where state-level funding decisions most directly affect what residents experience daily." },
-        { name: "Women's Healthcare & Reproductive Rights", tag: "Healthcare", why: "The 43% Democratic base in HD-96 is concentrated among college-educated suburban women and minority communities for whom reproductive rights and healthcare access are the most reliable electoral motivators; this is the issue most likely to move the competitive margin in either direction in 2026." }
+        { name: "Mansfield Homeowner Property Tax Relief", tag: "lean-into", why: "At $102,230 median income with 72.8% homeownership, Mansfield and South Tarrant County residents have watched appraisal-driven tax increases outpace income growth in a fast-appreciating suburban market. Candidates who cite specific Tarrant County appraisal district trends and connect legislative action to actual Mansfield household budgets outperform those offering generic relief rhetoric in a district where homeownership is the dominant economic identity." },
+        { name: "Public School Quality and Local Control", tag: "lean-into", why: "Mansfield ISD serves a racially diverse student population in a 36.6% college-attainment suburb where school quality is a primary driver of housing and residency decisions. Families across all four demographic groups in HD-96 have direct skin in the game on school funding, curriculum, and campus safety — making locally-grounded education advocacy a unifying issue rather than a partisan flashpoint when framed around Mansfield-specific outcomes." },
+        { name: "Suburban Diversity and Economic Inclusion", tag: "careful", why: "With Hispanic and Black residents each near 19% in a 57-43 Republican district, minority constituents are a meaningful share of a winnable coalition without being the majority. Acknowledging South Tarrant workforce equity and business development opportunities for these communities earns credibility among swing households without alienating the white majority that currently provides the Republican margin." },
+        { name: "Culture War Framing in Diverse Public Schools", tag: "avoid", why: "In a district where Mansfield ISD enrolls substantial Black and Hispanic student populations, aggressive culture-war messaging around curriculum or school library content risks directly alienating the parents of nearly 40% of the district's own constituents. A 57-43 margin is not structurally safe enough to absorb the backlash from minority families who read such messaging as targeting their children's educational experience." },
+        { name: "Hard Immigration Enforcement Messaging", tag: "avoid", why: "At 19.57% Hispanic in a competitive suburban district, aggressive immigration enforcement rhetoric does measurable electoral damage by converting persuadable Hispanic homeowners — many of whom are citizens and longtime Mansfield residents — into motivated opposition voters. The specific risk is not discussing border policy but using enforcement-first framing that signals indifference to a community that represents nearly one in five district residents." }
       ],
       memoHeadline: "Mansfield's Competitive Diverse Suburb: Near-Equal Hispanic and Black Populations at 57-43 Republican",
       memoParagraphs: [
@@ -4618,8 +4618,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-97",
     name: "Texas House District 97",
-    city: "TBD",
-    region: "TBD",
+    city: "Fort Worth",
+    region: "Tarrant County",
     type: "state house district",
     incumbentName: "John Mcqueeney",
     incumbentParty: "Republican",
@@ -4643,11 +4643,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 3.93, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Affordability & Renter-Owner Balance", tag: "Housing", why: "At 39.9% renters in a $83,853-income district, HD-97 has a substantial working-and-middle-class renter population for whom housing cost is an immediate financial concern rather than an abstract policy debate; the policy agenda must speak to both the homeowner majority and the significant renter minority who face different economic pressures from the same housing market." },
-        { name: "Property Taxes & Homeowner Relief", tag: "Economy", why: "The district's homeowning majority has experienced Tarrant County's broader appraisal surge; property tax relief is the most consistently mobilizing economic issue for established homeowners and the metric by which many constituents evaluate the effectiveness of their state-level representation." },
-        { name: "Diverse Community Engagement & Equity", tag: "Equity", why: "With Hispanic 24%, Black 12%, and Asian 4% together accounting for 40% of the district, HD-97 cannot be credibly governed by relying solely on its white majority; specific policy investment in minority community economic opportunity, school equity, and constituent services is both a governing obligation and a political necessity for a seat won at 58%." },
-        { name: "Public Education & School District Quality", tag: "Education", why: "A 43.8% college-attainment district with a racially diverse student body has a parent electorate that tracks school quality, curriculum equity, and advanced program access with sophisticated engagement; school district governance is an issue where candidate knowledge is tested and where missteps generate organized constituent response." },
-        { name: "Economic Development & Job Quality in Fort Worth", tag: "Economy", why: "Fort Worth's continued economic expansion into the district creates both opportunity and displacement pressure; ensuring that new employment growth in the area produces accessible, quality jobs for working families across the district's demographic communities — not just for corporate relocatees — is the economic development framing that reaches the broadest constituency." }
+        { name: "Renter Affordability in Fort Worth Suburbs", tag: "lean-into", why: "At 39.9% renters and $83,853 median income, HD-97 has a substantial renter share for a competitive suburban district — residents who face Fort Worth-area lease increases without the appraisal cap protections homeowners receive. Framing housing cost relief as a middle-class stability issue rather than a low-income program speaks directly to the working professional households that make this a 58-42 rather than a safely Republican seat." },
+        { name: "Small Business and Service Economy Jobs", tag: "lean-into", why: "At 43.8% college attainment in a diverse Fort Worth suburb, HD-97's workforce spans professional services, healthcare, retail, and skilled trades — sectors sensitive to regulatory costs, permitting burdens, and workforce availability. Candidates who speak to specific Tarrant County permitting timelines, healthcare workforce pipelines, and small employer concerns earn credibility with the district's broad middle-income economic identity rather than speaking exclusively to either blue-collar or white-collar priorities." },
+        { name: "Hispanic and Black Constituent Service Visibility", tag: "careful", why: "With Hispanic residents at 24% and Black residents at 12% in a 58-42 district, minority communities represent a meaningful share of the coalition that determines whether this seat remains competitive. Visible responsiveness to West Fort Worth and diverse suburban service concerns — not performative outreach — is what prevents the Democratic challenger from consolidating a minority-plus-renter coalition that could close a 16-point gap." },
+        { name: "Dismissing Renter Concerns as Non-Constituent", tag: "avoid", why: "In a 58-42 district where 39.9% of households rent, treating property-owner priorities as the only legitimate legislative focus signals to nearly four in ten residents that their housing instability is not a representative's concern. Fort Worth suburban renters in this income range are not low-turnout — they are the margin-defining voters a challenger would need to consolidate to make HD-97 genuinely competitive." },
+        { name: "Generic Conservative Messaging Ignoring Demographic Mix", tag: "avoid", why: "At 56% white with 24% Hispanic, 12% Black, and 4% Asian in a district the Democratic candidate took 42% of, broad partisan base-mobilization messaging that speaks only to the majority demographic leaves the door open for a challenger who does the constituent-service work across all four communities. The specific risk is running a campaign that wins the primary while slowly softening the general election margin in a district that is not structurally safe." }
       ],
       memoHeadline: "Fort Worth's Competitive Diverse Suburb: 58-42 Republican, 40% Renters, and Four Communities to Serve",
       memoParagraphs: [
@@ -4666,8 +4666,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-98",
     name: "Texas House District 98",
-    city: "TBD",
-    region: "TBD",
+    city: "Southlake",
+    region: "Tarrant County",
     type: "state house district",
     incumbentName: "Giovanni Capriglione",
     incumbentParty: "Republican",
@@ -4691,11 +4691,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 5.66, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & Luxury-Market Appraisal Pressure", tag: "Economy", why: "At $142,151 median income — among the highest of any Texas House district — HD-98's homeowning majority has seen Southlake and Keller property values surge to levels where even high-income households feel appraisal-driven tax increases as a genuine financial burden; sophisticated, specific appraisal reform proposals are the expected standard from this electorate." },
-        { name: "Public Education Quality & School Governance", tag: "Education", why: "At 60.5% college attainment, HD-98's parent electorate is among the most credentialed in the state and brings extraordinary rigor to school board governance, curriculum decisions, and academic outcomes; the district's schools are a primary reason families chose to live here, and any perceived compromise in quality generates immediate organized political response." },
-        { name: "Technology Economy & Innovation Policy", tag: "Economy", why: "The Southlake-Keller corridor attracts technology executives, entrepreneurs, and senior professionals whose interest in innovation policy, corporate tax climate, and broadband infrastructure reflects the sophistication of a professional class that follows economic policy with the same precision they apply to their own industries." },
-        { name: "Environmental Conservation & Lake Grapevine Quality", tag: "Environment", why: "Lake Grapevine and the surrounding natural landscape are quality-of-life assets that HD-98's affluent homeowners have invested in both financially and culturally; water quality protection, shoreline development policy, and open space preservation are issues that activate an organized, well-resourced constituency." },
-        { name: "Asian American Community Engagement", tag: "Equity", why: "At 9.61% Asian — meaningful for a predominantly white affluent suburb — the district's South Asian and East Asian professional families have distinct priorities around education equity, immigration policy, and civil rights that the standard wealthy-suburban Republican outreach model does not adequately address." }
+        { name: "High-Income Tax Burden and Appraisal Reform", tag: "lean-into", why: "At $142,151 median income and 65% homeownership in Southlake and Keller, HD-98 residents face some of the highest absolute property tax bills in Tarrant County — even as they have the income to absorb them, they view appraisal-driven increases as a structural injustice. Candidates who engage the specifics of Tarrant CAD methodology and propose legislatively durable appraisal caps speak the language of a 60.5% college-attainment constituency that will fact-check generic tax-cut promises." },
+        { name: "Education Quality and Parental Authority", tag: "lean-into", why: "Southlake Carroll ISD is nationally known as a flashpoint for parental-rights debates, and HD-98's 60.5% college-attainment, high-income demographic has strong views on school quality, curriculum transparency, and local control. In a 66-34 district where education drove substantial civic mobilization in recent cycles, candidates who demonstrate fluency with the specific Southlake and Keller ISD debates — not just statewide talking points — earn durable credibility with this highly engaged constituency." },
+        { name: "Asian Community Economic and Civic Standing", tag: "careful", why: "At 9.61% Asian in one of Texas's wealthiest suburbs, HD-98 has a significant high-income Asian professional community whose political engagement has grown substantially since the Southlake CRT debates. Messaging that overlooks or tokenizes this community — which includes many high-attainment families with children in the same ISDs that drove the parental-rights movement — risks converting engaged swing voters into organized opposition in a district where even a 66-34 margin can narrow." },
+        { name: "Populist Anti-Wealth Framing of Tax Policy", tag: "avoid", why: "In a $142,151-income district where residents have built substantial wealth through homeownership and professional careers, framing property tax relief as aid to struggling families rather than principled opposition to government overreach misreads the constituency entirely. Southlake and Keller voters respond to liberty and structural-fairness arguments — not economic-distress framing that implies they are vulnerable rather than simply overtaxed." },
+        { name: "Treating HD-98 as a Base-Mobilization District", tag: "avoid", why: "At 66-34 with $142K income and 60.5% college attainment, HD-98 contains a large share of highly educated, high-information voters who actively evaluate policy positions rather than vote on partisan loyalty alone. Running a purely base-mobilization campaign that substitutes red-meat rhetoric for substantive engagement with Southlake and Keller policy concerns risks the same high-information backlash that has made similar wealthy suburban districts nationally competitive over the past two cycles." }
       ],
       memoHeadline: "Southlake and Keller: $142K Income, 61% College, and Texas's Wealthiest Tarrant County Suburb",
       memoParagraphs: [
@@ -4714,8 +4714,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-99",
     name: "Texas House District 99",
-    city: "TBD",
-    region: "TBD",
+    city: "Fort Worth",
+    region: "Fort Worth",
     type: "state house district",
     incumbentName: "Charlie Geren",
     incumbentParty: "Republican",
@@ -4739,11 +4739,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.88, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Affordability & Renter Economic Pressure", tag: "Housing", why: "With 41.5% renters at $77,197 median income, HD-99 has a large working-and-middle-class renter population navigating a tight Fort Worth rental market; housing supply, renter protections, and homeownership pathway investment are the housing policy interventions most relevant to this constituency." },
-        { name: "Hispanic Community Investment & Economic Opportunity", tag: "Equity", why: "At 29.48% Hispanic — approaching nearly a third of the district — the Latino community in HD-99 has a significant constituency stake in economic opportunity, school quality, and public services; at 63-37 Republican, this community is not yet deciding elections, but it is a major share of the population that deserves active policy investment." },
-        { name: "Property Taxes & Working-Class Homeowner Relief", tag: "Economy", why: "HD-99's homeowning majority earns $77K median income in a market where property appreciation has produced appraisal increases that strain working-class household budgets; tax relief framed specifically for working-and-middle-class homeowners — not just affluent ones — reaches the broadest share of the district's constituency." },
-        { name: "Workforce Development & Job Quality", tag: "Economy", why: "At 29.9% college attainment, the district's workforce is majority non-degreed; vocational training, apprenticeship access, and job quality in Fort Worth's construction, services, and manufacturing sectors are the economic mobility investments that reach the most working families." },
-        { name: "Public Education & Diverse School District Quality", tag: "Education", why: "A district with nearly 43% combined Hispanic and Black students requires school funding equity and culturally responsive education investment; curriculum quality, bilingual program access, and equitable resource distribution across schools are the education policy issues most broadly shared across the district's three principal communities." }
+        { name: "Working-Class Property Tax and Cost Pressure", tag: "lean-into", why: "At $77,197 median income with 58.5% homeownership in a diverse Fort Worth suburb, HD-99 homeowners face a specific affordability squeeze: rising appraisals in a market where incomes have not kept pace with property value growth. Candidates who connect Tarrant County CAD trends to the actual budget math of a $77K household — not abstract tax-relief principles — earn credibility with the white working-class and Hispanic homeowner communities that anchor the Republican coalition here." },
+        { name: "Blue-Collar Workforce and Trade Economy", tag: "lean-into", why: "At 29.9% college attainment, HD-99's workforce is concentrated in skilled trades, construction, logistics, and service sectors that drive Fort Worth's physical economy. Championing apprenticeship programs, trade certification, and employer partnerships at specific Fort Worth-area contractors and logistics hubs — rather than credential-focused workforce development — speaks to the economic reality of the 70% of residents who built careers outside four-year degrees." },
+        { name: "Hispanic Constituent Responsiveness in a GOP District", tag: "careful", why: "At 29.48% Hispanic in a 63-37 district, Fort Worth's west side and working-class Hispanic communities represent a constituency large enough to erode the margin if service gaps accumulate and a challenger does visible outreach work. Immigration enforcement rhetoric calibrated for a different district profile can convert economically conservative Hispanic homeowners in this income range into motivated opposition — the specific risk is not policy position but tone and targeting." },
+        { name: "Suburban Renter Disengagement as Safe-Seat Assumption", tag: "avoid", why: "At 41.5% renters in a 63-37 district, treating the renter share as low-turnout background noise rather than a mobilizable constituency creates the conditions for a challenger to consolidate housing-cost frustration into a competitive race. Fort Worth suburban renters at $77K median income are not ideologically fixed — a candidate who speaks specifically to Tarrant County lease market pressures can move this population in a district where the margin is not structurally insurmountable." },
+        { name: "Base-Only Messaging That Ignores the 29% Hispanic Share", tag: "avoid", why: "Running a campaign whose imagery, outreach calendar, and policy emphasis treats HD-99 as a homogeneous white conservative district when nearly three in ten residents are Hispanic sends a visible signal of non-representation that accumulates over election cycles. The specific messaging risk is Spanish-language absence combined with enforcement-forward immigration framing — a combination that registers as deliberate exclusion rather than policy difference among the Fort Worth Hispanic homeowner households Charlie Geren's coalition currently retains." }
       ],
       memoHeadline: "Fort Worth's Diverse Working-Class Suburb: 29% Hispanic, 41% Renters, and Charlie Geren's 63-37 Hold",
       memoParagraphs: [
@@ -4762,8 +4762,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-100",
     name: "Texas House District 100",
-    city: "TBD",
-    region: "TBD",
+    city: "Dallas",
+    region: "South Dallas",
     type: "state house district",
     incumbentName: "Venton Jones",
     incumbentParty: "Democrat",
@@ -4787,11 +4787,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.67, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Justice & Anti-Displacement", tag: "Housing", why: "With 58.4% renters at $53,629 median income — the lowest in this batch — HD-100 has a majority-renter, low-income constituency for whom housing instability is not a policy abstraction but a daily financial reality; eviction protection, affordable unit preservation, and displacement prevention in Dallas's gentrifying urban core are the most urgently needed housing interventions." },
-        { name: "Economic Opportunity & Living Wage", tag: "Economy", why: "A district with 18.1% college attainment and $53,629 median income has a workforce concentrated in low-wage service, retail, and construction sectors; raising the wage floor, protecting worker rights, and connecting residents to higher-wage employment through vocational training are the economic interventions with the most direct household income impact." },
-        { name: "Healthcare Access & Community Clinic Investment", tag: "Healthcare", why: "Low-income Black and Hispanic families in Dallas's inner city face disproportionate rates of uninsurance, chronic disease, and limited healthcare access; federally qualified health center funding, Medicaid access, and community health investment are the healthcare policy levers that most directly serve this constituency's needs." },
-        { name: "Public Education & Student Wraparound Services", tag: "Education", why: "Dallas ISD schools serving this community face compounding challenges of poverty-related barriers to learning alongside funding equity deficits; school quality investments must include wraparound services — food security, mental health support, after-school programming — that address the full range of obstacles facing children in low-income households." },
-        { name: "Criminal Justice Reform & Community Safety", tag: "Public Safety", why: "Dallas's majority-minority urban communities have specific and complex relationships with the criminal justice system; the district needs investment in both community safety — violence prevention, mental health crisis response — and systemic accountability — pretrial detention reform, civil rights protection — that treats both as inseparable rather than competing priorities." }
+        { name: "Renter Rights and Anti-Displacement Policy", tag: "lean-into", why: "At 58.4% renters and $53,629 median income in inner Dallas, HD-100 households are among the most exposed to displacement pressure in the DFW metro — facing lease escalation, substandard conditions, and eviction with limited legal infrastructure to push back. Championing specific Dallas-area tenant protection legislation, eviction diversion funding, and affordable unit preservation speaks directly to the immediate housing insecurity that shapes daily life for the majority of constituents in this district." },
+        { name: "Low-Wage Worker Economic Protections", tag: "lean-into", why: "At 18.1% college attainment and $53,629 median income, HD-100's workforce is concentrated in service, logistics, healthcare support, and construction sectors where wage theft, scheduling instability, and benefit access are live concerns rather than abstract policy debates. Candidates who engage specific Dallas County employer practices and advocate for enforcement mechanisms — not just minimum wage symbolism — earn credibility with a constituency that has direct experience with the gap between legal protections and actual workplace conditions." },
+        { name: "Black and Hispanic Equity Across Both Communities", tag: "careful", why: "At 50.56% Hispanic and 34.63% Black, HD-100 is a majority-Hispanic district where Black residents represent a third of the constituency with distinct histories, institutional anchors, and service needs in South Dallas. Governing visibly for the majority community while the substantial Black constituency receives less responsive attention — on policing, economic development, and healthcare access — is the structural fault line that can fracture an otherwise safe Democratic coalition." },
+        { name: "Aspirational Policy Framing Disconnected from $53K Incomes", tag: "avoid", why: "In a district where median income is $53,629 and 58% of households rent, framing legislative work primarily around statewide or national progressive agenda items — rather than tangible South Dallas housing, wage, and healthcare outcomes — reads as disconnected from the immediate material pressures constituents face. The specific risk is occupying an unopposed seat with visibility work that does not translate to measurable service delivery improvements that residents in this income range can actually feel." },
+        { name: "Treating Unopposed Status as Constituency Mandate", tag: "avoid", why: "Running without opposition does not signal satisfaction — in HD-100 it reflects the structural Democratic lock on an urban majority-minority district, not an earned verdict on constituent service. Using that unopposed status to reduce outreach frequency, skip town halls in South Dallas neighborhoods, or deprioritize casework for the 58% renter majority will eventually produce the kind of disengagement and primary vulnerability that restructures safe seats when a credible challenger decides the incumbent is taking the district for granted." }
       ],
       memoHeadline: "Inner Dallas's Majority-Minority District: Hispanic 51%, Black 35%, 58% Renters, and the Work of Urban Justice",
       memoParagraphs: [
@@ -4810,8 +4810,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-101",
     name: "Texas House District 101",
-    city: "TBD",
-    region: "TBD",
+    city: "Grand Prairie",
+    region: "West Dallas/Tarrant",
     type: "state house district",
     incumbentName: "Chris Turner",
     incumbentParty: "Democrat",
@@ -4835,11 +4835,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 10.15, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Multi-Community Governance & Racial Equity", tag: "Equity", why: "HD-101 has four communities within a 5-point range of each other — Black 31%, Hispanic 29%, White 26%, Asian 10% — making it one of the most demographically balanced districts in the DFW metro; governing credibly requires specific, sustained investment in all four communities rather than any single-coalition strategy." },
-        { name: "Economic Opportunity & Workforce Development", tag: "Economy", why: "At $88,422 median income across a four-community constituency, income distribution is not uniform — differential economic outcomes by race require targeted workforce training, employer diversity investment, and small business support programs that reach each community proportionally rather than treating the median as representative." },
-        { name: "Housing Affordability & Renter Stability", tag: "Housing", why: "With 33.5% renters at a moderate-income level, the district has a meaningful working-class renter population for whom housing cost is an immediate financial pressure; affordable unit preservation and renter protections are relevant alongside the homeowner property-tax agenda." },
-        { name: "Public Education & Equity Across Communities", tag: "Education", why: "A four-community, 32.9%-college-attainment district has a diverse parent electorate that evaluates school quality through both excellence and equity lenses; advanced program access, equitable resource distribution, and culturally responsive education are issues that cross demographic lines." },
-        { name: "Healthcare Access & Community Health Investment", tag: "Healthcare", why: "The Grand Prairie area's diverse communities face differentially distributed healthcare access gaps; insurance coverage, community clinic investment, and culturally competent care are healthcare priorities that require community-specific rather than generic solutions to reach all four constituencies." }
+        { name: "Grand Prairie Multiracial Economic Development", tag: "lean-into", why: "At $88,422 median income in a four-community district with Black 31%, Hispanic 29%, White 26%, and Asian 10%, Grand Prairie's economic identity is genuinely diverse — spanning manufacturing, logistics, retail, and professional services along the I-20 corridor. Candidates who speak to specific Grand Prairie employer pipelines, workforce certification infrastructure, and small business ecosystem across all four communities earn the cross-demographic credibility that sustains a 65-35 margin in a district where no single group commands a majority." },
+        { name: "Homeowner Affordability in a Diverse Suburb", tag: "lean-into", why: "At $88,422 median income with 66.5% homeownership across a racially diverse suburban district, HD-101 residents share a common pressure point in rising Tarrant and Dallas county appraisals that cut across demographic lines. Framing property tax relief as a shared middle-class concern — citing actual Grand Prairie appraisal trends — unifies the four-community coalition around a tangible pocketbook issue rather than requiring separate demographic messaging for each group." },
+        { name: "Asian Community Visibility at 10% Share", tag: "careful", why: "At 10.15% Asian — the highest Asian share among these Fort Worth-area districts — HD-101 has a substantial community whose specific civic priorities around economic opportunity, education quality, and small business support are frequently omitted from outreach calendars in majority-minority Democratic districts. Intentional engagement with Grand Prairie's Asian community earns coalition depth in a 65-35 district and builds the kind of multi-generational political relationship that stabilizes a diverse seat against future competitive pressure." },
+        { name: "Single-Community Advocacy Framing in Four-Way District", tag: "avoid", why: "In a district where no community exceeds 31% and all four groups are politically meaningful, any messaging architecture that centers one community's priorities — whether through imagery, endorsement strategy, or policy emphasis — visibly signals to the other three that they are secondary constituents. The specific risk in HD-101 is not ideological misalignment but coalition fracture: a challenger who does methodical outreach across all four communities can assemble a competitive coalition from the neglected share of a fractured incumbency." },
+        { name: "Dallas-Centric Urban Identity Framing", tag: "avoid", why: "HD-101 spans Grand Prairie into both Dallas and Tarrant counties, and its residents identify with a mid-suburban economic identity distinct from inner Dallas's urban-core politics. Messaging that imports South or East Dallas urban equity framing — rather than speaking to Grand Prairie's specific I-20 corridor economy, mixed suburban housing market, and Tarrant/Dallas county service structures — reads as representing a different district and misses the specific material concerns of a middle-income four-community suburb." }
       ],
       memoHeadline: "Grand Prairie's Four-Community Democratic District: Black 31%, Hispanic 29%, White 26%, Asian 10% at 65%",
       memoParagraphs: [
@@ -4858,8 +4858,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-102",
     name: "Texas House District 102",
-    city: "TBD",
-    region: "TBD",
+    city: "Dallas",
+    region: "Dallas County",
     type: "state house district",
     incumbentName: "Ana-maria Ramos",
     incumbentParty: "Democrat",
@@ -4883,11 +4883,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 10.31, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Renter Protections & Housing Stability", tag: "Housing", why: "HD-102's 63.8% renter rate — among the highest in the DFW batch — means the majority of households rent in a market where Dallas-area rents have surged significantly; habitability standards, eviction protection, and affordable unit preservation are the housing interventions with the most direct impact on the daily lives of the district's majority constituency." },
-        { name: "Four-Community Equity & Civic Inclusion", tag: "Equity", why: "With Hispanic 34%, Black 27%, White 26%, and Asian 10% — all within an 8-point spread — HD-102 has the most evenly distributed four-community demographic profile of any Dallas-area district; governing requires simultaneous, specific engagement with each group rather than reliance on any single community as an anchor." },
-        { name: "Economic Opportunity & Working-Family Support", tag: "Economy", why: "At $60,982 median income across a majority-renter, four-community district, many working families are navigating wage stagnation alongside rising housing costs; living wage advocacy, worker protections, and job training programs that are accessible to residents across all four communities are the economic interventions with the broadest reach." },
-        { name: "Healthcare Access & Immigrant Community Services", tag: "Healthcare", why: "A diverse urban district with significant immigrant-origin populations — within the Hispanic, Black, and Asian communities — faces healthcare access barriers that include language, immigration status, and cultural factors alongside cost; community health clinics and culturally competent care are the infrastructure this constituency depends on." },
-        { name: "Public Education & Multilingual Programs", tag: "Education", why: "A district with 32.4% college attainment across four linguistic communities has strong demand for multilingual education, English language acquisition support, and school quality investment that serves children arriving with diverse linguistic and cultural backgrounds without sorting them into lower-quality educational tracks." }
+        { name: "Renter Protections in Dallas's Most Renter-Dense District", tag: "lean-into", why: "At 63.8% renters and $60,982 median income, HD-102 is one of the most renter-concentrated districts in the DFW metro — a majority of constituents live in apartments or rental housing with direct exposure to Dallas County's rising lease market and limited tenant legal infrastructure. Championing eviction prevention resources, habitability enforcement, and affordable unit preservation with specific reference to Dallas apartment corridor conditions is not aspirational policy — it is direct representation of the majority household experience in this district." },
+        { name: "Workforce Mobility for Four-Community Coalition", tag: "lean-into", why: "With Hispanic 33.6%, Black 26.7%, White 25.8%, and Asian 10.3% in a 32.4% college-attainment district, HD-102's workforce spans a wide range of credential levels and sector exposure. Advocating for community college access, certification programs, and employer pipeline partnerships that serve Dallas County's multiracial working population earns credibility across all four communities precisely because economic mobility is a universal concern in a $60,982-income district where no single group holds a demographic majority." },
+        { name: "Coalition Balance Across Four Near-Equal Communities", tag: "careful", why: "With all four demographic groups within a 10-point range of each other, HD-102 is the most evenly balanced district in this set — and that balance is the coalition's structural vulnerability as much as its strength. Governance that responds visibly and specifically to each community's distinct service needs, rather than flattening them into a unified 'diverse Dallas' narrative, is what sustains an unopposed seat when any one community could provide a primary challenger with a credible base." },
+        { name: "Homeowner-Centric Policy Messaging in a 64% Renter District", tag: "avoid", why: "In a district where 63.8% of households rent, legislative messaging that centers property tax relief, appraisal caps, or homeownership incentives as the primary economic frame speaks directly past the majority of constituents. The specific risk is not opposing those policies but allowing them to dominate the public record in a district where most voters are asking whether their representative understands that they do not own the place they live." },
+        { name: "Monolithic Minority Messaging Across Distinct Communities", tag: "avoid", why: "In a district with four near-equal demographic groups — including a 10% Asian share that is among the highest in Dallas County — messaging that addresses 'communities of color' as a unified constituency with identical priorities reads as inattentive to all of them. The specific risk is that Hispanic, Black, and Asian residents in Dallas have distinct economic anchor institutions, immigration exposure profiles, and neighborhood-level concerns that require separate responsiveness, not a single coalition-maintenance narrative." }
       ],
       memoHeadline: "Dallas's Most Evenly Balanced District: Four Communities, 64% Renters, and a Majority Built on Coalition",
       memoParagraphs: [
@@ -4906,8 +4906,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-103",
     name: "Texas House District 103",
-    city: "TBD",
-    region: "TBD",
+    city: "Dallas",
+    region: "West Dallas",
     type: "state house district",
     incumbentName: "Rafael Anchia",
     incumbentParty: "Democrat",
@@ -4931,11 +4931,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 5.64, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Anti-Displacement & Affordable Housing Preservation", tag: "Housing", why: "West Dallas and Oak Cliff's historically Hispanic neighborhoods are under active gentrification pressure; the 61.1% renter rate at $70,513 median income means the majority of constituents face displacement risk as development pushes land values and rents upward faster than working-family incomes can absorb." },
-        { name: "Bilingual Services & Cultural Community Investment", tag: "Equity", why: "In a district that is 60% Hispanic with significant immigrant and Spanish-dominant communities, bilingual public services, Spanish-language constituent outreach, and investment in cultural institutions that anchor community identity are both governing obligations and essential tools for democratic participation." },
-        { name: "Economic Opportunity & Wage Growth", tag: "Economy", why: "At $70,513 median income and 61% renters, working families in HD-103 are navigating a wage-growth deficit relative to rising housing and living costs; living wage advocacy, worker protections in the service and construction sectors, and job training programs connected to Dallas's growing economy are the most direct economic mobility interventions." },
-        { name: "Energy Policy & Climate Equity", tag: "Environment", why: "Rafael Anchia has built one of the Texas House's most substantive records on energy policy and climate legislation; his district's working-class Hispanic communities are disproportionately exposed to environmental burdens from industrial facilities in the Dallas urban core, making environmental equity a specific constituency concern beyond the broader energy policy debate." },
-        { name: "Healthcare Access & Community Clinic Investment", tag: "Healthcare", why: "The West Dallas and Oak Cliff Hispanic community's healthcare access is shaped by insurance coverage gaps, language barriers, and proximity to providers; community health center funding and culturally competent care are the infrastructure that working-class immigrant and low-income families depend on most directly." }
+        { name: "Anti-Displacement and Gentrification Resistance", tag: "lean-into", why: "At 61.1% renters and $70,513 median income in West Dallas and Oak Cliff, HD-103 is experiencing some of the most acute gentrification pressure in the DFW metro — with longtime Hispanic residents facing displacement as property values rise along the Trinity Groves and Bishop Arts corridors. Candidates who engage specific West Dallas zoning decisions, affordable unit loss rates, and anti-displacement policy tools with direct reference to Oak Cliff neighborhood conditions earn the kind of constituent trust that sustains an unopposed seat against future challenge." },
+        { name: "Hispanic Cultural Economy and Small Business", tag: "lean-into", why: "At 59.9% Hispanic, HD-103 anchors one of Fort Worth and Dallas's most significant Hispanic cultural and commercial corridors — with small businesses, cultural institutions, and neighborhood economic life that are simultaneously the district's identity and its most gentrification-vulnerable assets. Championing specific West Dallas and Oak Cliff small business infrastructure, commercial displacement protections, and cultural preservation funding speaks directly to what this community has built and what it stands to lose." },
+        { name: "White 24% Gentrifier-Displacement Tension", tag: "careful", why: "At 23.97% white in a rapidly gentrifying district, HD-103 contains a growing share of newer higher-income residents whose housing interests are structurally in tension with the displacement pressures facing longtime Hispanic renters. Addressing this tension directly — acknowledging that neighborhood change has costs distributed unequally by income and tenure — is more durable than either ignoring the white constituency or framing all growth as threat, particularly at 34.5% college attainment where many residents hold both concerns simultaneously." },
+        { name: "Development-Positive Framing That Ignores Displacement Costs", tag: "avoid", why: "In a 61.1%-renter district where Hispanic residents at $70,513 median income are watching West Dallas property values price out the community that built the neighborhood, messaging that celebrates development investment without acknowledging displacement costs reads as alignment with the interests of incoming capital over existing constituents. The specific risk is not opposing growth but using growth-positive language borrowed from Dallas city hall that HD-103 residents recognize as the same framing used to justify decisions that removed their neighbors." },
+        { name: "Generic Progressive Framing Without West Dallas Specificity", tag: "avoid", why: "Running unopposed in a 60% Hispanic district does not eliminate the need for constituent-specific advocacy — Oak Cliff and West Dallas residents are politically attentive enough to distinguish between a representative who knows the specific zoning battles, school overcrowding conditions, and infrastructure gaps in their neighborhoods and one who deploys progressive positioning as a substitute for localized service. The risk is not ideological misalignment but the accumulated credibility deficit of representing a culturally specific district with generic coalition-politics language." }
       ],
       memoHeadline: "West Dallas and Oak Cliff: 60% Hispanic, 61% Renters, and Gentrification Pressure on a Cultural Anchor District",
       memoParagraphs: [
@@ -4954,8 +4954,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-104",
     name: "Texas House District 104",
-    city: "TBD",
-    region: "TBD",
+    city: "Dallas",
+    region: "South Dallas",
     type: "state house district",
     incumbentName: "Jessica Gonzalez",
     incumbentParty: "Democrat",
@@ -4979,11 +4979,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.82, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Stability & Renter Protections", tag: "Housing", why: "At 42.9% renters and $63,369 median income in a 70% Hispanic district, a large share of working families face cost burden and displacement risk as Dallas-area rents rise faster than wages in South Dallas and Oak Cliff neighborhoods; habitability enforcement, eviction protection, and affordable unit preservation are the most direct housing interventions." },
-        { name: "Workforce Development & Economic Mobility", tag: "Economy", why: "With only 17.5% college attainment — the lowest of this five-district batch — the district's workforce is almost entirely non-degreed; vocational training, apprenticeship programs, and community college access that lead to above-median wages are the economic mobility investments with the highest per-household impact in a district where four-year credential barriers affect the majority." },
-        { name: "Bilingual Education & School Investment", tag: "Education", why: "A 70% Hispanic district with 17.5% college attainment and a young median age of 32.2 has a large school-age population whose educational trajectory will determine the community's economic future; bilingual education quality, dual-language programs, and college readiness pathways that reduce cost barriers are the education policy priorities most directly tied to long-term constituency prosperity." },
-        { name: "Healthcare Access & Uninsured Working Families", tag: "Healthcare", why: "South Dallas and Oak Cliff Hispanic communities face high rates of uninsurance among working families in service and construction sectors without employer-provided coverage; community health clinic funding, Medicaid enrollment assistance, and maternal health investment are the healthcare interventions with the most direct constituency impact." },
-        { name: "Immigration Services & Community Protection", tag: "Equity", why: "A 70% Hispanic district with significant immigrant-origin families has direct constituency stakes in immigration enforcement policy, immigration legal service access, and community protection programs; how state and local government engages with federal immigration enforcement directly shapes the safety and civic participation of a major share of the district's residents." }
+        { name: "Credential Access for 70% Hispanic Workforce", tag: "lean-into", why: "At 17.5% college attainment in a 69.84% Hispanic district, HD-104's workforce credential gap is the defining structural barrier to economic mobility — and it is a specific policy problem, not a cultural one. Championing Dallas County community college access, bilingual workforce certification programs, and employer partnerships that meet workers where they are speaks directly to the 82.5% of constituents who have built lives outside four-year degrees and who recognize the difference between credential-system reform and education symbolism." },
+        { name: "Working-Class Housing Stability in South Dallas", tag: "lean-into", why: "At $63,369 median income with 42.9% renters and 57.1% homeowners, HD-104 has a large working-class homeowner base that faces appraisal-driven tax pressure alongside a substantial renter population exposed to South Dallas's rising lease market. Candidates who speak to both pressures — citing actual Dallas County appraisal trends affecting working-class South Dallas homeowners and the specific rental market conditions renters face — earn broader constituent trust than those who speak only to owners in a district where nearly half of households rent." },
+        { name: "Immigration Enforcement Impact on Working Families", tag: "careful", why: "In a 69.84% Hispanic district at $63,369 median income, federal immigration enforcement operations have direct economic and family-stability consequences for a significant share of constituents and their social networks — regardless of individual documentation status. Addressing this as a constituent-service and economic-stability issue rather than purely as an ideological positioning question is essential in a district where enforcement actions directly affect workforce participation, school attendance, and neighborhood economic activity in measurable ways." },
+        { name: "Credential-Deficit Framing That Pathologizes Constituents", tag: "avoid", why: "In a 17.5%-college-attainment district, discussing the credential gap as a cultural or motivational failure — rather than a structural access problem created by cost, language barriers, and schedule incompatibility — lands as condescension to a working-class Hispanic constituency that has built the South Dallas economy through labor rather than degrees. The specific risk is language that positions low attainment as a community deficit requiring outside intervention rather than a policy-addressable barrier requiring systemic reform." },
+        { name: "Statewide Democratic Brand Over South Dallas Specificity", tag: "avoid", why: "Running unopposed in a 70% Hispanic working-class district does not substitute for constituent-specific legislative work — and messaging that emphasizes party alignment, statewide coalition politics, or national Democratic agenda items over tangible South Dallas housing, workforce, and school outcomes accumulates as a credibility deficit over time. The specific risk is that HD-104's constituents at $63,369 income are outcome-oriented: they measure representation by whether their specific neighborhood conditions improve, not by their representative's ideological positioning in Austin." }
       ],
       memoHeadline: "South Dallas's Working-Class Hispanic District: 70% Hispanic, 17.5% College, and the Credential Gap as Policy Challenge",
       memoParagraphs: [
@@ -5002,8 +5002,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-105",
     name: "Texas House District 105",
-    city: "TBD",
-    region: "TBD",
+    city: "Irving",
+    region: "Irving/Carrollton",
     type: "state house district",
     incumbentName: "Terry Meza",
     incumbentParty: "Democrat",
@@ -5027,11 +5027,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 12.81, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Affordability & High-Renter-Rate Politics", tag: "Housing", why: "At 60.1% renters — the majority of the district — housing cost, habitability, and renter stability are not secondary concerns but the primary economic reality for most households; affordable unit preservation, supply expansion, and eviction protections reach more of the district's constituency than any other single policy intervention." },
-        { name: "Asian American Community Engagement & Policy", tag: "Equity", why: "At 12.81% Asian — including significant South Asian, Vietnamese, and Korean communities in the Irving and Carrollton corridor — HD-105 has one of the largest Asian constituencies among Dallas-area competitive districts; their specific priorities around immigration, education equity, and civil rights are the policy differentiators that most directly shape the competitive margin." },
-        { name: "Diverse Coalition Building — Four Communities", tag: "Equity", why: "With Hispanic 53%, White 18%, Black 14%, and Asian 13% — and a 55-45 competitive margin — HD-105 is a district where the winning coalition must draw from all four communities; no single group can deliver a majority, and the candidate who builds specific, sustained relationships across the full demographic spectrum holds the structural advantage." },
-        { name: "Economic Opportunity & Job Access in the Irving Corridor", tag: "Economy", why: "The Irving-Carrollton corridor hosts significant commercial and corporate employment; ensuring that working families across the district's four communities have access to quality local jobs — through employer recruitment, workforce training, and transit connectivity — is the economic development framing that reaches the broadest constituency." },
-        { name: "Public Education & Multilingual School Investment", tag: "Education", why: "A district with significant Hispanic, Asian, and immigrant-origin populations has extraordinary demand for multilingual education, dual-language programs, and English acquisition support; school quality investment that serves children across multiple linguistic backgrounds is both a constituency expectation and a long-term economic mobility investment." }
+        { name: "Renter Cost Crisis in Irving", tag: "lean-into", why: "At 60.1% renters and $70,369 median income, HD-105 is one of the most renter-dominant competitive seats in DFW. Irving and Carrollton renters face lease renewal pressure without the homestead exemption protections that anchor neighboring districts. Candidates who speak to specific Irving apartment cost trends and displacement risk — not generic affordability rhetoric — differentiate on the issue that affects three in five households." },
+        { name: "Immigrant and Working-Family Economic Access", tag: "lean-into", why: "At 52.9% Hispanic and 12.8% Asian in a 32.6-year-median-age district, HD-105 is anchored by working-age immigrant and first-generation families navigating workforce credential gaps at 30.8% college attainment. Irving's logistics, hospitality, and commercial corridor employment is the economic engine for these households. Candidates who connect workforce training, small business access, and wage floors to the lived experience of Irving's Las Colinas and multicultural commercial corridors earn the constituent trust that explains Meza's 55% hold." },
+        { name: "Asian Community Policy Priorities", tag: "careful", why: "At 12.8% Asian — concentrated across Carrollton's established South Asian and Vietnamese communities — this bloc is large enough to determine outcomes in a 55-45 seat. Asian voters in HD-105 span a wide range of policy orientations and cannot be assumed to track with Hispanic Democratic lean. Candidates who ignore this community or treat it as a monolith risk undervoting in precisely the precincts where the margin is decided." },
+        { name: "Treating Irving as a Single-Community District", tag: "avoid", why: "HD-105 spans Irving and Carrollton precincts with distinct demographic and economic characters — Irving's hospitality and logistics workforce, Carrollton's established Asian and Hispanic neighborhoods, and the Las Colinas commercial district. Messaging calibrated only to one community's experience reads as unfamiliarity with the district's actual geography to voters in the others, which in a 55-45 seat is a structural vulnerability." },
+        { name: "Republican-Coded Economic Framing on Business", tag: "avoid", why: "In a 55-45 district where 60% are renters earning $70K, pro-business framing that leads with deregulation or employer-side tax relief without addressing renter cost burdens signals constituency misalignment to the household majority. Irving's working-class renter bloc — not its commercial landlord base — delivered Meza's margin, and messaging that conflates business health with household stability will be read as switching sides by the voters who made the difference." }
       ],
       memoHeadline: "Irving-Carrollton's Competitive Four-Community Seat: 55-45 Democrat, 60% Renters, and 13% Asian Swing Vote",
       memoParagraphs: [
@@ -5050,8 +5050,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-106",
     name: "Texas House District 106",
-    city: "TBD",
-    region: "TBD",
+    city: "Frisco",
+    region: "Denton County",
     type: "state house district",
     incumbentName: "Jared Patterson",
     incumbentParty: "Republican",
@@ -5075,11 +5075,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 10.04, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & High-Income Homeowner Relief", tag: "Economy", why: "At $130,979 median income with only 21.7% renters, HD-106 is a homeowner-dominant district where Denton and Collin county appraisal surges have produced tax bills that are financially significant even at above-average incomes; specific, credible appraisal reform proposals are the expected standard from this high-information electorate." },
-        { name: "Technology Economy & Innovation Policy", tag: "Economy", why: "The Flower Mound and Frisco-area corridor houses technology executives, engineers, and senior professionals who follow innovation policy, corporate tax climate, and broadband infrastructure with expert-level attention; economic policy credibility for this constituency requires technical fluency, not just talking-point familiarity." },
-        { name: "School District Excellence & Governance", tag: "Education", why: "At 54.3% college attainment, HD-106's parent electorate brings sophisticated engagement to school board decisions, curriculum standards, and district funding; families who chose the Lewisville and Frisco school districts specifically for their academic reputations evaluate candidates on substantive education policy knowledge." },
-        { name: "Asian American Community Engagement", tag: "Equity", why: "At 13.85% Asian — including significant South Asian, Korean, and Chinese American communities in the Denton County corridor — HD-106's Asian constituency has distinct priorities around immigration policy, education equity, and civil rights that the standard affluent-suburb Republican outreach model does not adequately address." },
-        { name: "Suburban Growth & Infrastructure Investment", tag: "Infrastructure", why: "The Flower Mound and Frisco corridor continues absorbing DFW growth at rates that strain road capacity, school district expansion, and utility systems; managing that growth to maintain the community quality that attracted residents is the infrastructure governance challenge most visible to constituents daily." }
+        { name: "Frisco-Area Tech Sector Employment", tag: "lean-into", why: "At $130,979 median income and 54.3% college attainment, HD-106 is home to a high-density professional workforce employed in Frisco's expanding tech, finance, and corporate campus corridor. These constituents track policy on workforce investment, broadband infrastructure, and state business climate with professional fluency. Candidates who engage the specific Denton County employer landscape — not generic pro-business talking points — earn credibility with voters who can tell the difference." },
+        { name: "School Quality and Property Investment", tag: "lean-into", why: "In a 21.7% renter district where homeownership is the dominant household form at a $131K income level, public school quality is directly tied to property values and the reason families chose Frisco over adjacent suburbs. HD-106's 14% Asian community — many concentrated in high-achieving school corridors — makes education funding and school performance a cross-demographic priority that extends well beyond the white homeowner majority." },
+        { name: "Suburban Parental Rights Overreach Positioning", tag: "careful", why: "In a 54.3% college-attainment district, the credentialed professional parent bloc that drives Frisco turnout distinguishes between supporting parental input in schools and culture-war legislative overreach. Patterson's 61% hold does not mean this community is uniformly receptive to the most aggressive parental rights framing — in a district where 14% are Asian and professional women are a swing demographic, calibration to local school quality concerns over state-level culture signaling is required." },
+        { name: "Dismissing Suburban Infrastructure Needs as Solved", tag: "avoid", why: "Frisco's rapid growth has generated real constituent pressure on roads, water infrastructure, and school capacity that a 61-39 margin can tempt a representative to deprioritize in favor of Statehouse positioning. Voters paying $131K household incomes in property taxes and HOA assessments expect visible infrastructure returns. Candidates who campaign on Austin-facing ideology rather than Denton County service delivery will face constituent performance accountability in a district affluent enough to fund a primary challenger." },
+        { name: "Treating Asian Residents as Politically Irrelevant", tag: "avoid", why: "At 13.85% Asian in a 61-39 district, the Asian professional community in HD-106 is not the decisive margin — but it is large enough to shift a competitive cycle and represents a segment with high civic participation rates, strong school engagement, and above-median income. Candidates who assume the Republican structural advantage makes minority community outreach unnecessary forgo the constituent service credibility that keeps safe seats safe when national headwinds shift." }
       ],
       memoHeadline: "Denton County's Affluent Tech Corridor: $131K Income, 54% College, 14% Asian, and a 61-39 Republican Hold",
       memoParagraphs: [
@@ -5098,8 +5098,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-107",
     name: "Texas House District 107",
-    city: "TBD",
-    region: "TBD",
+    city: "Garland",
+    region: "East Dallas County",
     type: "state house district",
     incumbentName: "Linda Garcia",
     incumbentParty: "Democrat",
@@ -5123,11 +5123,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 2.52, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Workforce Development & Credential Pipeline", tag: "Education", why: "At 13.7% college attainment — among the lowest in the Dallas County batch — HD-107's workforce is almost entirely non-degreed; vocational training, apprenticeship programs, and community college access that lead directly to above-median wages are the economic mobility investments with the highest per-household impact in a district where credential barriers affect the vast majority." },
-        { name: "Housing Stability & Renter Affordability", tag: "Housing", why: "With 38% renters at $65,616 median income in a 63% Hispanic district experiencing Dallas-area cost pressure, working families face housing cost burden that constrains every other economic decision; affordable unit preservation and renter protections are the housing interventions most relevant to the district's majority constituency." },
-        { name: "Bilingual Education & School Investment", tag: "Education", why: "A 63% Hispanic district with 13.7% college attainment and a very young median age of 31.7 has a large school-age population whose trajectory will determine the community's economic future; bilingual education quality, dual-language programs, and post-secondary readiness investment that reduces cost barriers are the school policy priorities most directly tied to constituent prosperity." },
-        { name: "Healthcare Access & Working-Family Coverage", tag: "Healthcare", why: "Low-income working families in Garland and eastern Dallas County face elevated rates of uninsurance in service and construction sector jobs without employer-provided benefits; community health clinic funding, Medicaid enrollment, and maternal health investment address the healthcare gaps most acutely felt in this working-class community." },
-        { name: "Immigration Community Services & Protection", tag: "Equity", why: "A 63% Hispanic district with significant immigrant-origin families has direct constituency stakes in immigration legal service access, enforcement policy, and community protection programs; the safety and civic participation of a major share of the district's residents depends on how state and local government engages with these issues." }
+        { name: "Workforce Credential Access for Garland Workers", tag: "lean-into", why: "At 13.7% college attainment — the second-lowest in this district set — HD-107 is a district where the credential gap is not an abstraction but a daily wage and job-quality ceiling. Garland's manufacturing, warehousing, and service sector workforce is composed largely of working-age Hispanic adults for whom community college access, apprenticeship pathways, and English-language workforce programs determine household mobility. Candidates who name specific DCCCD campuses, employer partnerships, and certification pathways outperform those who speak to education generically." },
+        { name: "Healthcare Access for Uninsured Workers", tag: "lean-into", why: "At 63.4% Hispanic and $65,616 median income with a very young median age of 31.7, HD-107 has one of the highest uninsured rate risk profiles in Dallas County. Garland's working-class immigrant households are disproportionately employed in sectors without employer-sponsored coverage. Candidates who engage the specific Medicaid expansion debate, federally qualified health center access in East Dallas County, and uncompensated care pressures at local ERs connect to the healthcare reality most constituents live." },
+        { name: "Immigration Enforcement and Family Security", tag: "careful", why: "In a 63.4% Hispanic district at a 31.7 median age, immigration enforcement anxiety is not a fringe concern — it is a present-tense household stability question for a significant share of constituents and their extended families. The issue requires authentic engagement without overclaiming state-level authority that Texas legislators do not hold, because constituents who have followed the debate know the difference between federal jurisdiction and local policy levers." },
+        { name: "Unopposed Margin Treated as Permission to Govern Distantly", tag: "avoid", why: "Running unopposed in 2024 reflects constituency alignment, not immunity from constituent accountability. In a low-income, low-credential district where residents navigate housing, healthcare, and workforce barriers daily, a representative perceived as invisible — focused on Austin coalition politics over Garland casework — will face organized primary opposition before facing a Republican. The 100-0 margin is a constituent service mandate, not a governance blank check." },
+        { name: "English-Only or Credential-Dense Constituent Communication", tag: "avoid", why: "At 63.4% Hispanic and 13.7% college attainment, constituent communications designed for a credentialed English-dominant audience — complex policy documents, jargon-heavy press releases, English-only town halls — actively exclude the majority of the district. This isn't a messaging preference issue; in HD-107, language and literacy accessibility in constituent services is a direct test of whether the representative is actually governing the community they were elected to serve." }
       ],
       memoHeadline: "Eastern Dallas County's Working-Class Hispanic District: 63% Hispanic, 13.7% College, and the Credential Gap as Central Challenge",
       memoParagraphs: [
@@ -5146,8 +5146,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-108",
     name: "Texas House District 108",
-    city: "TBD",
-    region: "TBD",
+    city: "Dallas",
+    region: "Park Cities",
     type: "state house district",
     incumbentName: "Morgan Meyer",
     incumbentParty: "Republican",
@@ -5171,11 +5171,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 4.73, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Women's Healthcare & Reproductive Rights", tag: "Healthcare", why: "At 78.4% college attainment, HD-108 has the highest credential concentration of any Texas House district; this electorate's college-educated professional women are among the most politically activated constituencies in the state on reproductive rights and healthcare access, and this issue is the primary driver of the 42% Democratic base and the competitive margin." },
-        { name: "Education Quality & School Governance", tag: "Education", why: "A 78% college-attainment district applies extraordinary scrutiny to school quality decisions; Highland Park ISD is one of the most prestigious public school systems in Texas, and curriculum governance, funding equity, and district leadership decisions are evaluated with the rigor of a constituency whose members often have advanced professional expertise in the relevant policy areas." },
-        { name: "Property Taxes & Ultra-High-Value Appraisals", tag: "Economy", why: "The Park Cities and adjacent Dallas neighborhoods have some of the highest property values in Texas; even at $142,312 median income, appraisal-driven tax increases on multi-million-dollar properties represent substantial financial burdens that homeowners in this district follow closely and evaluate representatives on their ability to address." },
-        { name: "Urban Neighborhood Planning & Historic Preservation", tag: "Infrastructure", why: "The M-Streets, Uptown, and Lower Greenville neighborhoods adjacent to the Park Cities have strong organized constituencies around historic preservation, neighborhood character, and development review; urban planning decisions that affect neighborhood density, tree canopy, and commercial development are intensely contested and locally specific." },
-        { name: "Financial Services & Professional Economy", tag: "Economy", why: "Highland Park and University Park are home to a high concentration of attorneys, investment bankers, corporate executives, and financial professionals; policy positions on financial regulation, corporate governance, and the professional services economy are followed with personal economic interest by a constituency whose livelihoods are directly connected to these policy domains." }
+        { name: "High-Net-Worth Property Tax Relief", tag: "lean-into", why: "At $142,312 median income and 76.4% college attainment in the Park Cities and adjacent Dallas neighborhoods, property tax burden is not an affordability crisis but a wealth-preservation and investment-return concern for owner-occupied households at high appraisal values. Constituents in University Park and Highland Park track appraisal district decisions and homestead exemption cap debates with professional fluency. Candidates who engage the specific Dallas Central Appraisal District trends affecting high-value homes — not generic tax relief framing — signal competence to voters who manage these numbers themselves." },
+        { name: "Education Quality and Public School Investment", tag: "lean-into", why: "In the most credentialed district in this set at 78.4%, HD-108's homeowner constituents have made explicit investments in school-district-adjacent real estate. Highland Park ISD's performance is a direct asset value input for Park Cities homeowners. Candidates who engage the specific school finance formula, voucher program impacts on HPISD, and talent retention in public school administration speak to the constituency's actual concern — not just statewide education politics." },
+        { name: "Suburban Reproductive Rights Backlash Among Women Voters", tag: "careful", why: "In a 58-42 district at 78.4% college attainment, the credentialed professional women who are a significant household presence in the Park Cities represent the exact demographic that has swung suburban Texas seats on abortion policy since 2022. HD-108's Republican hold is real but not unconditional — Meyer's 58% in 2024 leaves meaningful room for erosion on candidate-quality or social issue overreach. Positioning requires distinguishing between the district's fiscal conservatism and its limits on social conservative overreach." },
+        { name: "Downscale Economic Populist Framing", tag: "avoid", why: "In a $142K median income district that is 76.4% college educated and 76.4% white, economic messaging built on working-class grievance, anti-elite resentment, or populist redistribution framing reads as constituency misidentification to voters who are themselves the professional class. HD-108 constituents respond to competence, fiscal discipline, and service-delivery language — not the economic anxiety framing calibrated to lower-income districts in the same metro." },
+        { name: "Treating the 42% Democratic Margin as Negligible", tag: "avoid", why: "Meyer's 58% hold in a 78.4%-college district with a 39.5% renter share — unusual for the Park Cities demographic profile — reflects an opposition coalition that is both educated and engaged. Candidates who campaign without acknowledging the credentialed Democratic minority as a constituency service obligation, or who govern with open contempt for the 42%, risk activating the exact high-participation voter bloc most capable of funding and organizing a viable challenger cycle." }
       ],
       memoHeadline: "The Park Cities and Dallas's Most Credentialed District: 78.4% College, $142K Income, and a 58-42 Hold",
       memoParagraphs: [
@@ -5194,8 +5194,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-109",
     name: "Texas House District 109",
-    city: "TBD",
-    region: "TBD",
+    city: "DeSoto",
+    region: "South Dallas County",
     type: "state house district",
     incumbentName: "Aicha Davis",
     incumbentParty: "Democrat",
@@ -5219,11 +5219,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.29, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Economic Opportunity & Wealth-Building Access", tag: "Economy", why: "HD-109's $73,788 median income across a Black-majority district in the DeSoto and southern Dallas County corridor reflects a community that has built working-to-middle-class economic stability while facing documented barriers to the wealth-building opportunities — homeownership, investment access, and business development — that convert income into generational prosperity." },
-        { name: "Public Education & School Quality", tag: "Education", why: "Southern Dallas County school districts — DeSoto, Lancaster, Cedar Hill — serve a predominantly Black and Hispanic student body whose educational outcomes determine the community's economic trajectory; school funding equity, teacher retention, and college readiness programs are the education policy investments that the district's 23.7%-college-attainment parent community prioritizes most." },
-        { name: "Healthcare Access & Chronic Disease Management", tag: "Healthcare", why: "Black communities in southern Dallas County face disproportionate rates of chronic conditions — hypertension, diabetes, cardiovascular disease — that are both a legacy of healthcare access inequities and an ongoing cost burden; community clinic investment, preventive care programs, and Medicaid access are the healthcare interventions with the most direct constituency impact." },
-        { name: "Community Safety & Criminal Justice", tag: "Public Safety", why: "A Black-majority community in the Dallas metro area has specific and nuanced expectations around public safety — both effective crime prevention and accountability within the criminal justice system; investment in violence prevention, mental health crisis response, and community policing alongside civilian oversight are the public safety priorities this constituency evaluates candidates on." },
-        { name: "Housing Stability & Homeownership Investment", tag: "Housing", why: "With 29.7% renters in a community with a relatively moderate income, HD-109 has both an owner and renter constituency with complementary housing policy needs; homeownership preservation programs, anti-predatory lending protections, and affordable rental stability serve the district's two housing constituencies simultaneously." }
+        { name: "Southern Dallas County Infrastructure Investment", tag: "lean-into", why: "DeSoto and Lancaster sit in a Southern Dallas County corridor that has absorbed significant residential growth while competing for commercial development, road investment, and public transit access against better-resourced northern suburbs. At $73,788 median income and 50.2% Black majority, these communities have historically received disproportionately less regional infrastructure investment relative to tax contribution. Candidates who can point to specific DeSoto and Lancaster project wins — not general equity rhetoric — demonstrate the constituent service credibility this community expects." },
+        { name: "Black Homeownership and Wealth Building", tag: "lean-into", why: "At 70.3% owner-occupied households and a 50.2% Black majority, HD-109 has one of the highest homeownership rates in the district set — reflecting a community that has explicitly invested in suburban Dallas County stability. Property appraisal equity, homestead exemption access, and neighborhood commercial development directly affect wealth accumulation for the district's primary constituency. Candidates who engage the specific appraisal gap and commercial disinvestment patterns in DeSoto and Lancaster precincts speak to homeowners who are tracking these numbers." },
+        { name: "Hispanic-Black Coalition Governance Balance", tag: "careful", why: "At 31.5% Hispanic — now nearly a third of the district — HD-109 is no longer a singularly Black constituency district. DeSoto and Lancaster's Hispanic growth reflects both family formation migration and economic displacement from Northern Dallas County. A governing approach calibrated entirely to Black community institutions and priorities, without intentional outreach to the growing Hispanic service and workforce community, leaves a significant and growing constituency without a representative voice." },
+        { name: "Running Unopposed as Absence of Accountability", tag: "avoid", why: "Davis's unopposed 2024 result reflects entrenched community support, but in a $73,788 median income district with 23.7% college attainment, constituents who rely on the representative for school-district advocacy, development approvals, and state agency navigation notice representative visibility and responsiveness. Governing as if no general election means no performance standard will generate the primary challenger conditions that have ended unopposed incumbencies in demographically similar Dallas County districts." },
+        { name: "Poverty-Crisis Framing for a Working Homeowner District", tag: "avoid", why: "At $73,788 median income and 70.3% homeownership, DeSoto and Lancaster residents are middle-class suburban homeowners — not residents of economically distressed urban communities. Messaging that frames Southern Dallas County as a poverty zone rather than a working-class homeownership community that has been systemically underserved misidentifies the constituency and insults the asset-building identity that defines the district's community character." }
       ],
       memoHeadline: "Southern Dallas County's Black-Majority District: DeSoto, Lancaster, and the Southern Dallas Community Coalition",
       memoParagraphs: [
@@ -5242,8 +5242,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-110",
     name: "Texas House District 110",
-    city: "TBD",
-    region: "TBD",
+    city: "Dallas",
+    region: "Southeast Dallas",
     type: "state house district",
     incumbentName: "Toni Rose",
     incumbentParty: "Democrat",
@@ -5267,11 +5267,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 0.61, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Economic Opportunity & Poverty Reduction", tag: "Economy", why: "At $51,073 median income and 8.9% college attainment — the lowest credential attainment of any Texas House district — HD-110's working families are navigating an economy that increasingly prices out non-credentialed workers; raising the wage floor, protecting worker rights, and building vocational training pathways are the economic interventions that can most directly shift household economic outcomes." },
-        { name: "Credential Pipeline & Vocational Education", tag: "Education", why: "With 8.9% of adults holding four-year degrees, the district's educational challenge is not college access in the traditional sense but building a robust vocational, trades, and community college credential pathway that leads to living wages for the 91% of working-age adults who entered the workforce without a four-year degree." },
-        { name: "Housing Stability & Anti-Displacement", tag: "Housing", why: "At 39.3% renters in a low-income majority-minority community near the Dallas urban core, displacement risk is real and accelerating as Dallas's growth pressure extends into southeastern neighborhoods; eviction protection, affordable unit preservation, and anti-displacement policy are urgently needed quality-of-life interventions." },
-        { name: "Healthcare Access & Community Clinic Investment", tag: "Healthcare", why: "A low-income, majority-minority community with 8.9% college attainment faces the full range of healthcare access barriers — uninsurance, cost, proximity, and language; community health center funding, Medicaid enrollment, and maternal and child health investment are the healthcare infrastructure most depended upon by families who cannot absorb out-of-pocket medical costs." },
-        { name: "Criminal Justice Reform & Community Safety", tag: "Public Safety", why: "Southeast Dallas's Hispanic and Black communities need public safety investment that is both effective and accountable — violence prevention programs, mental health crisis response, and community-controlled oversight alongside law enforcement accountability; candidates who engage this issue with specificity and nuance build the trust that generic law-and-order framing cannot." }
+        { name: "Economic Development for Low-Income Communities", tag: "lean-into", why: "At $51,073 median income — the lowest in this district set — and 8.9% college attainment, HD-110's Southeast Dallas corridor is among the most economically distressed urban districts in Texas. The specific absence of grocery retail, healthcare facilities, quality employment, and commercial development in the Rylie, Urbandale, and Pleasant Grove neighborhoods is a documented constituent experience, not a demographic inference. Candidates who can name specific development gaps, zoning barriers, and TIRZ allocation inequities speak to a community that has watched other Dallas neighborhoods benefit from the same city government." },
+        { name: "Public Safety Without Criminalization", tag: "lean-into", why: "In a 55.8% Hispanic, 36.2% Black district at the lowest income level in the set, community safety is a genuine constituent priority — but the specific concern is safety from both street violence and over-policing. Southeast Dallas neighborhoods have experienced both. Candidates who hold both dimensions simultaneously, engaging specific Dallas Police District 9 response time inequities alongside community violence intervention funding, speak to the actual safety conversation in Pleasant Grove and Rylie rather than defaulting to either law-and-order or defund framing." },
+        { name: "Engaging the District's Linguistic Diversity", tag: "careful", why: "At 55.8% Hispanic in a district with 8.9% college attainment, a substantial share of HD-110 constituents are Spanish-dominant or bilingual working adults navigating government services in a second language. Constituent communication and town hall formats that do not account for this linguistic reality functionally exclude the district majority. This is not a marketing preference — it is a baseline accessibility condition for representing the community." },
+        { name: "Safe-Seat Abstention from Constituent Services", tag: "avoid", why: "Running unopposed reflects the absence of Republican viability in HD-110, not constituent indifference to representation quality. In a district where households face intersecting barriers — low wages, uninsurance, inadequate transit, no nearby grocery — the representative's case navigation and state agency intervention functions are direct household quality-of-life inputs. A representative who treats the 100-0 margin as permission to focus on Austin coalition politics over Southeast Dallas casework will face organized primary accountability from community institutions that track these service gaps closely." },
+        { name: "Generic Urban Poverty Rhetoric Without Local Specificity", tag: "avoid", why: "HD-110 constituents have heard generalized poverty-district advocacy language from multiple cycles of representation without seeing commensurate investment in Pleasant Grove infrastructure, healthcare access, or commercial development. In a district with 8.9% college attainment where community knowledge is experiential rather than credential-based, residents have a precise, granular understanding of what has and hasn't been delivered. Abstracted equity language without named, located, specific deliverables reads as performative to a community that has been performing the audience role for decades." }
       ],
       memoHeadline: "Southeast Dallas's Most Economically Distressed District: 8.9% College Attainment, Hispanic 56%, Black 36%",
       memoParagraphs: [
@@ -5290,8 +5290,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-111",
     name: "Texas House District 111",
-    city: "TBD",
-    region: "TBD",
+    city: "Dallas",
+    region: "Southwest Dallas",
     type: "state house district",
     incumbentName: "Yvonne Davis",
     incumbentParty: "Democrat",
@@ -5315,11 +5315,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.98, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Racial Equity & Dual-Community Governance", tag: "Equity", why: "At Black 47% and Hispanic 36%, HD-111 is a near-equally biracial majority-minority district where the governing agenda must speak with specific fidelity to both communities' economic and civic priorities — not treating either as an afterthought to the other's majority claim." },
-        { name: "Housing Stability & Renter Protections", tag: "Housing", why: "With 42.9% renters at $65,108 median income in southwest Dallas, a large share of working families are cost-burdened and vulnerable to displacement as Dallas development pressure extends into historically affordable southwestern neighborhoods; eviction protection and affordable unit preservation are the most direct housing interventions." },
-        { name: "Economic Opportunity & Wage Growth", tag: "Economy", why: "At $65,108 median income across a community where credential barriers and wage stagnation constrain household economic mobility, living wage advocacy, worker protections, and job training programs accessible to both Black and Hispanic working families are the economic investments with the broadest constituency reach." },
-        { name: "Healthcare Access & Health Equity", tag: "Healthcare", why: "Black and Hispanic communities in southwest Dallas face disproportionate rates of uninsurance and chronic disease burden; community clinic funding, Medicaid access, and targeted chronic disease prevention programs address the most acute health equity gaps in a district where both communities experience differential healthcare access barriers." },
-        { name: "Public Education & School Quality", tag: "Education", why: "A 26.4%-college-attainment district with a young median age of 36 has a large school-age population whose educational outcomes are the district's most consequential intergenerational investment; school funding equity, wraparound student services, and bilingual program quality are the education priorities that reach both communities' families." }
+        { name: "Dual-Community Economic Stability", tag: "lean-into", why: "At 47% Black and 35.9% Hispanic in Southwest Dallas, HD-111 represents two communities with overlapping but distinct economic pressures — Black households navigating homeownership stability in Southwest Dallas neighborhoods and Hispanic working families concentrated in the service and construction sectors. At $65,108 median income and 42.9% renters, both communities carry housing cost vulnerability. Candidates who can speak to the specific Southwest Dallas neighborhood development, job access, and housing affordability conditions affecting both communities simultaneously build the cross-demographic coalition that Davis's incumbency reflects." },
+        { name: "Workforce Pathways Without Four-Year Degree", tag: "lean-into", why: "At 26.4% college attainment, the majority of HD-111 working adults are navigating the Dallas labor market without a bachelor's degree. Southwest Dallas's proximity to the industrial, logistics, and healthcare workforce corridor makes vocational credentialing, apprenticeship access, and community college completion directly relevant to household income mobility. Candidates who engage specific Dallas College campuses, employer partnerships in the Southwest Dallas zip codes, and occupational licensing reform speak to where constituents actually work." },
+        { name: "Intra-Community Resource Allocation Tensions", tag: "careful", why: "In a near-biracial majority district at 47% Black and 35.9% Hispanic, community institutions, advocacy organizations, and neighborhood associations from both groups compete for the same limited city investment, nonprofit funding, and representative attention. A governing posture that is perceived by either community as systematically prioritizing the other generates the internal district tension that produces primary challenges. Genuine dual-community constituent service — not symbolic inclusion — is the requirement in HD-111." },
+        { name: "Defaulting to Black Community Framing That Excludes Hispanic Residents", tag: "avoid", why: "Davis's Southwest Dallas district is not a Black-majority district — at 47% Black and 35.9% Hispanic, Hispanic residents constitute more than a third of the constituency. Town halls, communications, and policy priorities structured entirely around historically Black Southwest Dallas neighborhood associations and institutions without equivalent engagement with the district's growing Hispanic working-family population signals constituency narrowing that a well-organized primary challenger can exploit by activating underrepresented Hispanic precincts." },
+        { name: "Treating 42.9% Renters as Secondary Constituency", tag: "avoid", why: "At 42.9% renters in a $65,108 income district, nearly half of HD-111 households have no homestead exemption buffer against displacement, lease-renewal cost increases, or landlord disinvestment. Policy platforms calibrated to homeowner priorities — property tax relief, neighborhood association concerns, owner equity — without equivalent attention to renter protections, habitability enforcement, and affordable unit preservation speak past the household majority in the district's lowest-income precincts." }
       ],
       memoHeadline: "Southwest Dallas's Near-Biracial Majority District: Black 47%, Hispanic 36%, and Dual-Community Policy Demands",
       memoParagraphs: [
@@ -5338,8 +5338,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-112",
     name: "Texas House District 112",
-    city: "TBD",
-    region: "TBD",
+    city: "Richardson",
+    region: "North Dallas County",
     type: "state house district",
     incumbentName: "Angie Chen Button",
     incumbentParty: "Republican",
@@ -5363,11 +5363,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 11.04, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & High-Income Homeowner Relief", tag: "Economy", why: "At $106,527 median income with only 30.4% renters, HD-112 is a homeowner-majority district where Dallas County appraisal increases have produced substantial tax bills that the district's affluent homeowner electorate tracks as a primary financial concern and evaluates representatives on their ability to deliver legislative relief." },
-        { name: "Asian American Representation & Policy", tag: "Equity", why: "With 11.04% Asian residents, HD-112 has one of the larger Asian constituencies in the Dallas County delegation; Angie Chen Button's identity as an Asian American Republican gives the district a distinctive representative profile, but her 54% margin means the district's Asian community's specific priorities — immigration, civil rights, education equity — shape the competitive balance." },
-        { name: "School District Quality & Governance", tag: "Education", why: "At 49.6% college attainment in a racially diverse community, the Richardson and Northeast Dallas area parent electorate evaluates school board governance, curriculum quality, and district funding with high sophistication; school district decisions are closely watched across all four of the district's demographic communities." },
-        { name: "Women's Healthcare & Reproductive Rights", tag: "Healthcare", why: "HD-112's 46% Democratic base — concentrated among college-educated suburban women, Black, and Asian voters — is most reliably activated by reproductive rights; at 54-46, this is the most competitive Republican-held Dallas County seat, and reproductive rights is the issue most likely to move the margin in either direction in 2026." },
-        { name: "Diverse Community Engagement", tag: "Equity", why: "With Hispanic 17%, Black 13%, and Asian 11% together accounting for 41% of the district's population, HD-112 cannot be governed credibly as a white-majority suburb; specific, sustained engagement with all three minority communities is the structural political requirement for holding a 54% margin that one community shift can flip." }
+        { name: "Richardson Tech and Professional Employer Base", tag: "lean-into", why: "At $106,527 median income and 49.6% college attainment, HD-112's Richardson workforce is anchored by the Telecom Corridor's legacy employer base and the professional services sector that has grown around it. In a 54-46 seat, the professional homeowner bloc — tracking broadband infrastructure, workforce development investment, and state business regulatory climate — is precisely the constituency whose single-digit swing determines the outcome. Candidates who engage the specific Richardson employer landscape outperform those who deliver generic pro-business positioning." },
+        { name: "Property Tax Relief for Mid-High Income Homeowners", tag: "lean-into", why: "At $106,527 income and 69.6% homeownership in a district where appraisals on Richardson's established neighborhoods have risen sharply, property tax burden is a genuine constituent pressure point for the homeowner majority. Richardson homeowners are not at a displacement threshold, but they are income-constrained relative to their assessed wealth and are politically activated by the gap between appraisal growth and take-home pay. Specific Collin/Dallas county appraisal trend data earns more credibility than formula tax-relief commitments." },
+        { name: "Suburban Reproductive Rights Crossover Pressure", tag: "careful", why: "In a 54-46 district at 49.6% college attainment, Button's six-point margin is well within the range that abortion policy positioning has moved in comparable North Texas suburban seats since 2022. Richardson's professional women — white and Asian, homeowning and renting — represent a swing demographic that responds to candidate positioning on reproductive healthcare access with high electoral follow-through. Holding the margin in HD-112 requires calibration on social issues that doesn't exist in safer Republican seats." },
+        { name: "Culture-War Signaling Over Local Service", tag: "avoid", why: "In the most competitive Dallas County Republican seat at 54-46, a representative who deploys statewide culture-war messaging — school content battles, DEI elimination, transgender sports framing — as a primary constituent communication signal risks accelerating the suburban college-educated drift that has already moved HD-112 from safe to toss-up. Richardson's 49.6%-college professional constituency responds to infrastructure, business climate, and tax policy — not to the base-activation framing that wins by 25 points in deep-red districts." },
+        { name: "Treating Minority Bloc as Non-Swing in a Toss-Up", tag: "avoid", why: "At 11% Asian, 13.5% Black, and 17% Hispanic, HD-112's minority communities collectively exceed 40% of the district in a 54-46 seat. These are not monolithic voting blocs, and they are not reliably Republican — but a well-organized Democratic challenger in a favorable national environment who invests in Asian and Black Richardson precincts that a Republican incumbent has underserved can assemble the 5-point swing that flips the seat. Treating minority outreach as optional in HD-112 mistakes structural margin for immunity." }
       ],
       memoHeadline: "Richardson's Toss-Up: 54-46 Republican, $106K Income, and the Most Competitive Dallas County Seat",
       memoParagraphs: [
@@ -5386,8 +5386,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-113",
     name: "Texas House District 113",
-    city: "TBD",
-    region: "TBD",
+    city: "Garland",
+    region: "Northeast Dallas County",
     type: "state house district",
     incumbentName: "Rhetta Andrews Bowers",
     incumbentParty: "Democrat",
@@ -5411,11 +5411,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 7.53, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Four-Community Coalition Building", tag: "Equity", why: "HD-113's four communities — Hispanic 37%, White 26%, Black 25%, Asian 8% — sit within a 12-point range, making it one of the most genuinely balanced multi-racial districts in the DFW metro; the 57% Democratic majority is a coalition result requiring active investment in all four communities, not a demographic lock." },
-        { name: "Housing Affordability & Renter Stability", tag: "Housing", why: "At 35% renters in a $77,427-income Garland district, a meaningful share of working and middle-class families are cost-burdened relative to their housing expenses; affordable unit preservation and renter protections serve the district's diverse renter population across all four communities." },
-        { name: "Workforce Development & Economic Mobility", tag: "Economy", why: "At 24.4% college attainment across four communities, the district's workforce is majority non-degreed; vocational training, apprenticeship programs, and community college access connected to Garland's manufacturing and logistics employment base are the economic mobility investments with the broadest constituency reach." },
-        { name: "Public Education & Equity Across Garland ISD", tag: "Education", why: "Garland ISD serves one of the most diverse student bodies in Texas — one that reflects HD-113's four-community composition; school funding equity, multilingual education, and equitable resource distribution across campuses are the education policy issues that reach all four communities' parents simultaneously." },
-        { name: "Healthcare Access & Community Clinic Investment", tag: "Healthcare", why: "A four-community, moderate-income district has differentially distributed healthcare access barriers across its Hispanic, Black, Asian, and white populations; community clinic investment, Medicaid enrollment, and culturally competent care serve the portions of each community that face coverage or language access gaps." }
+        { name: "Garland's Four-Community Economic Equity", tag: "lean-into", why: "HD-113's Garland precincts contain one of the most racially balanced competitive Democratic districts in Texas — 37% Hispanic, 25.4% Black, 25.7% White, 7.5% Asian — at $77,427 median income and 24.4% college attainment. This is a working-class multiracial district where economic concerns — wage levels, healthcare access, working-hours flexibility, and employer quality — are shared across communities in ways that allow cross-demographic coalition messaging. Candidates who name specific Garland economic conditions, not abstract equity frameworks, earn the constituency credibility that Bowers's 57% reflects." },
+        { name: "Public School Quality Across Garland ISD", tag: "lean-into", why: "With a 34.7-year median age and all four major demographic communities represented in significant shares, Garland ISD school quality is a universal constituent concern in HD-113 — parent engagement cuts across race and income in ways that few other policy issues do. At 24.4% college attainment, a large share of parents are navigating school systems for children who will face the same credential gap they did. Candidates who engage specific GISD campus performance, funding equity, and workforce pipeline outcomes speak to the parental concern that drives midterm turnout in this district." },
+        { name: "Hispanic-Black-White Coalition Maintenance", tag: "careful", why: "HD-113's 57% Democratic margin rests on simultaneous activation of communities that do not always share political priorities — Hispanic families concentrated in South Garland, Black households in established Northeast neighborhoods, and white working-class voters in older Garland precincts. Any governing posture or primary campaign pressure that drives one community's engagement at the perceived expense of another's representation introduces the internal coalition fragmentation that is the primary vulnerability in a 57-43 seat with genuine demographic complexity." },
+        { name: "Progressive Urban Framing in a Garland Working-Class District", tag: "avoid", why: "At 24.4% college attainment and $77,427 median income, HD-113's working-class Garland constituency is not the credentialed progressive urban base that responds to defund, abolition, or structural equity policy framing. Bowers's 57% was built on a multiracial working-class coalition whose economic concerns are concrete and whose social instincts are communitarian rather than ideologically progressive. Candidates who import Dallas urban left messaging into Garland precincts signal constituency misreading to exactly the white and Hispanic working-class voters whose crossover makes the margin." },
+        { name: "Asian Voter Bloc Treated as Negligible in a 57-43 Seat", tag: "avoid", why: "At 7.5% Asian in a 14-point Democratic district, Garland's established Asian community — including significant Vietnamese and South Asian households — is not the decisive swing bloc in a strong Democratic cycle. But in a midterm environment where Garland's multiracial coalition needs consistent activation across all communities, Asian precincts that feel systematically deprioritized will underperform. In a 57-43 seat, a 3-4 point underperformance in engaged minority precincts is the difference between comfortable and uncomfortable." }
       ],
       memoHeadline: "Garland's Four-Community Democratic District: Hispanic 37%, Black 25%, White 26%, Asian 8% at 57%",
       memoParagraphs: [
@@ -5434,8 +5434,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-114",
     name: "Texas House District 114",
-    city: "TBD",
-    region: "TBD",
+    city: "Dallas",
+    region: "East Dallas",
     type: "state house district",
     incumbentName: "John Bryant",
     incumbentParty: "Democrat",
@@ -5459,11 +5459,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 5.34, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Renter Protections & Housing Affordability", tag: "Housing", why: "HD-114's 67.2% renter rate — one of the highest in the Dallas County delegation — at $79,139 median income and 54.1% college attainment describes a constituency of educated, moderate-income renters who are not low-income by Texas standards but who are being priced out of ownership in one of Dallas's most desirable and rapidly appreciating urban corridors; supply expansion, renter protections, and ownership pathway programs are the housing interventions most relevant to this constituency." },
-        { name: "Urban Neighborhood Planning & Anti-Displacement", tag: "Infrastructure", why: "East Dallas neighborhoods — Lakewood, the M-Streets, Lower Greenville — are experiencing intense development pressure and displacement of established residents as Dallas's affluent core expands eastward; neighborhood character preservation, historic protection, and anti-displacement programs are the urban planning issues that activate the district's well-organized residential constituencies." },
-        { name: "Hispanic Community Investment & Bilingual Services", tag: "Equity", why: "At 30.73% Hispanic, the district's Latino community is the largest minority constituency and brings specific policy priorities around bilingual services, immigration community protection, and economic opportunity that require active policy investment rather than passive symbolic acknowledgment." },
-        { name: "Women's Healthcare & Reproductive Rights", tag: "Healthcare", why: "An educated, urban, majority-renter district skewing young (median age 33.4) has a large population of professional and working women for whom reproductive rights and healthcare access are among the most motivating political issues; this issue contributes substantially to the 63% Democratic margin." },
-        { name: "Urban Transportation & Mobility", tag: "Infrastructure", why: "East Dallas's walkable neighborhoods and proximity to DART light rail make transit investment, pedestrian safety, and bike infrastructure quality-of-life priorities for a high-density urban constituency where a significant share of residents live car-light or car-free; transit connectivity affects both daily commutes and neighborhood economic vitality." }
+        { name: "Renter Affordability in a High-Income Urban District", tag: "lean-into", why: "At 67.2% renters and $79,139 median income — one of the most unusual high-income, high-renter combinations in the Dallas metro — HD-114 contains the East Dallas paradox: educated, employed residents who cannot or choose not to own in a market where purchasing entry has moved beyond reach. The 54.1% college attainment renter bloc in Lakewood, Lower Greenville, and East Dallas neighborhoods is politically activated on rent escalation, lease nonrenewal, and condo-conversion displacement in ways that translate directly to primary and general election turnout. Candidates who name specific East Dallas neighborhood housing pressures — not generic affordability talking points — own this issue." },
+        { name: "Urban Infrastructure and Neighborhood Investment", tag: "lean-into", why: "HD-114's East Dallas precincts — Lakewood, Junius Heights, Lower Greenville, Casa Linda — contain some of Dallas's most engaged neighborhood associations, and at 54.1% college attainment these are residents who track TxDOT project decisions, Dallas streetscape funding, and trail connectivity with policy sophistication. Bryant's 63% margin includes a high-participation credentialed urban core that expects visible infrastructure return on engagement. Candidates who can point to specific East Dallas project wins and funding secured outperform those who deliver neighborhood meeting presence without deliverables." },
+        { name: "Hispanic Renters in a Predominantly White Urban District", tag: "careful", why: "At 30.7% Hispanic alongside 46% white in a 67.2% renter district, HD-114 contains a substantial working-class Hispanic renter population whose housing and economic pressures differ significantly from the high-earning white renters who dominate neighborhood association and civic participation spaces. Constituent services, office accessibility, and policy emphasis that are calibrated entirely to the credentialed renter profile miss the Hispanic working-family renters concentrated in East Dallas's southern precincts who experience the same displacement risk with fewer income buffers." },
+        { name: "Homeowner-Centric Property Tax Messaging", tag: "avoid", why: "In a 67.2% renter district, leading with homeowner property tax relief as the signature housing issue actively signals constituency misidentification to two-thirds of HD-114 households who receive no benefit from homestead exemption increases. Bryant's 63% coalition is built overwhelmingly on renter households — educated, politically engaged, and capable of identifying when their representative's policy emphasis treats them as a secondary constituent class. East Dallas renters do not see property tax relief as their issue, and candidates who lead with it confirm that they don't know who they're representing." },
+        { name: "Progressive Credentialed Base Assumed to Be Monolithic", tag: "avoid", why: "HD-114's 54.1% college attainment and 63% Democratic margin does not mean the district is ideologically unified on every progressive policy axis. The white homeowner minority in Lakewood and Casa Linda, the Hispanic working-class renters in the district's southern precincts, and the young renter bloc in Lower Greenville have distinct priorities within the Democratic coalition. Candidates who treat Bryant's margin as a blank check for any progressive position without distinguishing between the coalition's actual policy variation will generate the intra-coalition friction that primary challengers in credentialed urban districts are well-equipped to exploit." }
       ],
       memoHeadline: "East Dallas's Educated Urban District: 67% Renters, 54% College, and a High-Income Renter Paradox at 63%",
       memoParagraphs: [
@@ -5482,8 +5482,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-115",
     name: "Texas House District 115",
-    city: "TBD",
-    region: "TBD",
+    city: "Dallas",
+    region: "Far North Dallas",
     type: "state house district",
     incumbentName: "Cassandra Hernandez",
     incumbentParty: "Democrat",
@@ -5507,11 +5507,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 13.65, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Asian American Political Power & Community Priorities", tag: "Equity", why: "At 27.10% Asian — the second-highest proportion of any Texas House district — HD-115's South Asian, Chinese American, Korean American, and Vietnamese American communities are the pivotal political constituency that defines the district's competitive character; their specific concerns around immigration, education equity, and civil rights must be central to any governing agenda that holds the 54% margin." },
-        { name: "Housing Affordability & High-Renter Market Pressure", tag: "Housing", why: "With 63.1% renters at $94,265 median income, HD-115 has a majority professional-class renter population navigating a competitive Far North Dallas apartment market where rents have risen sharply alongside the area's corporate campus development; housing supply expansion and renter market stability are the policy interventions most broadly needed." },
-        { name: "Immigration Policy & Community Protection", tag: "Equity", why: "The district's large South Asian and other Asian immigrant-origin communities — alongside Hispanic families — have direct stakes in immigration enforcement policy, visa processing, and community protection programs; how candidates engage immigration issues signals their genuine accountability to the communities that constitute the largest share of the district's competitive coalition." },
-        { name: "Women's Healthcare & Reproductive Rights", tag: "Healthcare", why: "A 54-46 Democratic seat with 59.1% college attainment has a large population of educated professional women for whom reproductive rights are among the most motivating political priorities; this issue is a primary driver of the narrow Democratic margin and the most reliable mobilizer for the coalition that holds the seat." },
-        { name: "Public Education & Diverse School District Quality", tag: "Education", why: "In a four-community district with 59.1% college attainment and significant immigrant-origin Asian and Hispanic families, school quality, multilingual education, and equitable advanced program access are education priorities that reach all four communities' parents through both professional expectations and immigrant community educational investment values." }
+        { name: "Renter Protections in High-Cost Dallas", tag: "lean-into", why: "At 63.1% renters and $94,265 median income, Far North Dallas residents are middle-income households priced out of ownership in one of Texas's fastest-appreciating submarkets. Specific framing around lease transparency, eviction protections, and affordability pressures in the Addison-Farmers Branch-Richardson corridor earns direct constituency credibility with the district's majority renter base." },
+        { name: "Asian-American Economic and Civic Representation", tag: "lean-into", why: "At 27.1% Asian — one of the highest concentrations in any Texas House district — HD-115 has a constituency that remains underrepresented in direct legislative advocacy relative to its economic footprint. Candidates who name specific communities — South Asian business corridors, Vietnamese commercial districts along the Greenville and Belt Line corridors — and speak to immigration-tied professional concerns outperform those who treat this population as a monolithic add-on." },
+        { name: "Suburban School Quality and Funding", tag: "careful", why: "At 59.1% college attainment and 35.3 median age, HD-115 households are deeply invested in school quality but span Richardson ISD, Dallas ISD, and Carrollton-Farmers Branch — jurisdictions with different funding pressures and demographic compositions. Messaging must speak to outcomes and equity without triggering the culture-war framing that activates the district's 46% Republican margin in a 54-46 seat." },
+        { name: "Single-Issue Immigration Enforcement Messaging", tag: "avoid", why: "In a district that is 22% Hispanic and 27% Asian — with large first- and second-generation immigrant households — immigration enforcement framing designed for Anglo-majority rural districts triggers defensive mobilization rather than persuasion. HD-115's 54-46 margin is held through multiracial coalition turnout; rhetoric that implies demographic threat to any of those communities reduces the enthusiasm differential that makes this seat winnable." },
+        { name: "Generic Suburban Affordability Abstractions", tag: "avoid", why: "HD-115 voters at $94K income and 59% college attainment are sophisticated consumers of policy messaging and reject vague commitments to 'lower costs' that lack mechanism. Candidates who speak abstractly about affordability without naming specific Bexar — sorry, specific Dallas County appraisal trends, specific rental market data in the Addison or Far North Dallas zip codes, or specific legislative vehicles forfeit the credibility premium this educated district rewards." }
       ],
       memoHeadline: "Far North Dallas's Competitive Four-Community Seat: 27% Asian, 63% Renters, and a 54-46 Democratic Hold",
       memoParagraphs: [
@@ -5530,8 +5530,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-116",
     name: "Texas House District 116",
-    city: "TBD",
-    region: "TBD",
+    city: "San Antonio",
+    region: "Central San Antonio",
     type: "state house district",
     incumbentName: "Trey Martinez Fischer",
     incumbentParty: "Democrat",
@@ -5555,11 +5555,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 7.31, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Renter Protections & Anti-Displacement", tag: "Housing", why: "HD-116's 66.4% renter rate at $54,194 median income — with many renters near UTSA and San Antonio's urban core — means housing cost is the most immediate daily financial pressure for the majority of the district's households; eviction protection, affordable unit preservation, and renter stability programs are the most broadly needed housing interventions." },
-        { name: "Higher Education Access & UTSA Partnership", tag: "Education", why: "The University of Texas at San Antonio anchors the district's intellectual and economic development potential; UTSA tuition affordability, student financial aid access, and research partnerships with San Antonio employers are higher education policy priorities that reach a significant share of the district's young, college-enrolled constituency." },
-        { name: "Economic Opportunity & Living Wage", tag: "Economy", why: "At $54,194 median income in a 62% Hispanic, high-renter district, many working families are navigating wages that do not keep pace with San Antonio's rising cost of living; living wage advocacy, worker protections in the service and retail sectors, and job training programs connected to San Antonio's growing economy are the direct economic interventions that reach the most households." },
-        { name: "Healthcare Access & Community Clinic Investment", tag: "Healthcare", why: "Working-class and student communities in central San Antonio face elevated rates of uninsurance and limited primary care access; community health clinic funding, Medicaid enrollment, and reproductive healthcare access are the healthcare policy priorities with the most direct constituency impact." },
-        { name: "Urban Transportation & Mobility", tag: "Infrastructure", why: "A 66% renter, young-median-age district with a large student and working population has significant demand for car-light transportation — VIA Metropolitan Transit bus service, pedestrian safety, and bike infrastructure — that determines economic access and neighborhood quality of life for residents without reliable personal vehicles." }
+        { name: "Renter Stability in Low-Income San Antonio", tag: "lean-into", why: "At 66.4% renters and $54,194 median income — nearly $40K below the Texas median for a college-town-adjacent urban district — HD-116 households face acute displacement risk as San Antonio's central core gentrifies. Specific reference to Bexar County eviction filing rates, rent burden in the 78204-78207 zip codes, and the absence of local renter protections under state preemption frames this as a structural injustice, not a lifestyle issue." },
+        { name: "Hispanic Economic Mobility and Wage Access", tag: "lean-into", why: "At 62% Hispanic and 32.4% college attainment, the district's workforce is concentrated in service, healthcare, and trade sectors where wage floors and employer practices determine household trajectory. Fischer's 66% margin reflects earned trust; sustaining it requires specific advocacy on minimum wage preemption, workforce credentialing access, and the San Antonio metro labor market — not generic economic messaging." },
+        { name: "Healthcare Access for Uninsured Residents", tag: "careful", why: "With $54K median income, high renter density, and significant undocumented and uninsured household shares common in 62% Hispanic central-city districts, healthcare access is an urgent constituent need that intersects with immigration-status sensitivities. Advocacy must be framed through community health infrastructure and coverage gap language rather than federal program expansions that invite immigration-status attacks in a district that borders competitive territory." },
+        { name: "Ideological Purity Over Service Delivery", tag: "avoid", why: "HD-116's 66-34 margin reflects a service-oriented Democratic coalition, not ideological intensity — at 31.6 median age and $54K income, constituents are measuring representatives on tangible outcomes for working households. Representatives who substitute Austin-floor rhetoric for local service delivery messaging on evictions, wages, and healthcare risk activating low-turnout patterns in a district where enthusiasm is structurally required to hold 66-point margins." },
+        { name: "Gentrification Framing Without Resident Agency", tag: "avoid", why: "Central San Antonio's development pressure is real, but messaging that frames long-time Hispanic residents purely as displacement victims — without centering their economic agency, ownership aspirations, and civic power — flattens the constituency and depresses the forward-looking coalition that Fischer has built. In a 62% Hispanic district with deep multi-generational community identity on the West and South sides, deficit framing backfires against candidates who deploy it carelessly." }
       ],
       memoHeadline: "Central San Antonio's Urban Democratic Anchor: 62% Hispanic, 66% Renters, Trey Martinez Fischer at 66%",
       memoParagraphs: [
@@ -5578,8 +5578,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-117",
     name: "Texas House District 117",
-    city: "TBD",
-    region: "TBD",
+    city: "San Antonio",
+    region: "Southwest San Antonio",
     type: "state house district",
     incumbentName: "Philip Cortez",
     incumbentParty: "Democrat",
@@ -5603,11 +5603,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 2.45, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Homeownership & Working-Class Property Investment", tag: "Housing", why: "At only 31% renters with $73,680 median income, HD-117's working-class Hispanic community has a strong homeownership culture; protecting established homeowners from predatory lending, surging appraisals, and displacement pressure through targeted relief programs is the most relevant housing policy for this ownership-oriented constituency." },
-        { name: "Workforce Development & Economic Mobility", tag: "Economy", why: "At 24.1% college attainment in a 69% Hispanic district, the majority of working adults entered the workforce without a four-year degree; vocational training, apprenticeship programs, and community college access tied to San Antonio's growing healthcare, construction, and logistics sectors are the economic mobility investments that reach the most working families." },
-        { name: "San Antonio Realignment Awareness", tag: "Political Landscape", why: "HD-117's 58% Democratic margin in a 69% Hispanic district must be read against the broader San Antonio realignment context; while 58% is not alarming, the trend across Bexar County's Hispanic working-class neighborhoods toward Republican candidates is real, and maintaining margin requires active constituent service and economic delivery rather than demographic assumptions." },
-        { name: "Healthcare Access & Family Services", tag: "Healthcare", why: "Working-class Hispanic families in southwest San Antonio face healthcare cost and access barriers including high rates of uninsurance among service-sector workers; community clinic funding, Medicaid access, and maternal and child health investment are the most directly impactful healthcare interventions for this constituency." },
-        { name: "Public Education & School Quality", tag: "Education", why: "At 24.1% college attainment with a young median age of 32.2, the district has a large school-age population whose trajectory is the community's most important intergenerational investment; school funding equity, bilingual education quality, and college readiness programs that reduce cost barriers are the education priorities most tied to constituent prosperity." }
+        { name: "Working-Class Homeownership Protection", tag: "lean-into", why: "At 69% of residents, HD-117 homeowners at $73,680 median income face appraisal-driven cost increases on homes that represent their primary — often only — wealth asset. Southwest Bexar County homeowners have seen values rise faster than wages in the Southside ISD and Southwest ISD corridors; specific citation of Bexar County appraisal trends and homestead exemption mechanics earns trust that abstract 'property tax relief' language does not." },
+        { name: "Trade and Skilled Workforce Pipeline", tag: "lean-into", why: "At 24.1% college attainment and 69% Hispanic, the district's workforce is disproportionately trade-credentialed or seeking certification through Alamo Colleges and workforce programs. Cortez's 58-42 margin in a district that moved Republican statewide reflects working-family loyalty that must be sustained through specific advocacy for apprenticeship funding, dual-credit expansion, and employer partnerships in construction, healthcare support, and logistics sectors dominant in Southwest San Antonio." },
+        { name: "Military and JBSA Economic Integration", tag: "careful", why: "Southwest San Antonio's proximity to Lackland AFB and JBSA creates a significant veteran and active-duty household share in a district that also has working-class households skeptical of defense contractor prioritization over neighborhood services. Candidates who honor military service identity without subordinating civilian workforce and school-quality concerns to base-economy talking points navigate this tension; those who treat them as equivalent flatten a constituency that distinguishes between the two." },
+        { name: "Nationalizing the Race in a Local Economy District", tag: "avoid", why: "HD-117's 58-42 margin in a 69% Hispanic district that has trended Republican statewide is fragile precisely because it is held on local credibility, not partisan loyalty. Campaign messaging that pivots to Washington-focused attacks or national Democratic brand association — rather than Southwest San Antonio homeownership, workforce training, and school quality — hands opponents the 'out of touch' contrast that has flipped comparable San Antonio-area seats in recent cycles." },
+        { name: "Assuming Uniform Hispanic Democratic Alignment", tag: "avoid", why: "In a district that has already moved Republican at the presidential level while holding Democratic legislative margins, treating 69% Hispanic composition as a structural guarantee rather than an earned-trust relationship invites the same rightward shift seen in HD-118 and comparable Bexar County precincts. Candidates who skip Southwest San Antonio constituent service, reduce Spanish-language outreach, or substitute demographic assumptions for campaign infrastructure risk losing the working-class homeowner share that the 58-42 margin depends on." }
       ],
       memoHeadline: "Southwest San Antonio's Working-Class Hispanic District: 69% Hispanic, 58-42, and Homeownership at the Center",
       memoParagraphs: [
@@ -5626,8 +5626,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-118",
     name: "Texas House District 118",
-    city: "TBD",
-    region: "TBD",
+    city: "San Antonio",
+    region: "San Antonio",
     type: "state house district",
     incumbentName: "John Lujan III",
     incumbentParty: "Republican",
@@ -5651,11 +5651,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.66, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "San Antonio Realignment & Hispanic Voter Dynamics", tag: "Political Landscape", why: "HD-118 is the clearest expression of the San Antonio realignment — a Republican winning 52% in a district that is 63% Hispanic with a significant homeowner base; understanding which specific communities, economic anxieties, and candidate qualities are driving this shift is the foundational political intelligence requirement for both parties." },
-        { name: "Homeownership & Working-Class Economic Stability", tag: "Housing", why: "With only 28.3% renters and $72,717 median income, HD-118 is a homeowner-dominant working-class district; property tax relief, anti-predatory lending protections, and homeownership pathway investment speak to the economic identity and financial interests of the majority constituency." },
-        { name: "Public Safety & Border-Adjacent Security", tag: "Public Safety", why: "San Antonio-area working-class communities have specific public safety concerns around cartel activity, human trafficking corridors, and local crime that are distinct from the abstract national border security debate; practical, locally-grounded safety investment — law enforcement resources, community crime prevention, and emergency response — is what this constituency is asking for." },
-        { name: "Economic Development & Job Quality", tag: "Economy", why: "At 23.5% college attainment and $72,717 median income, the district's workforce is primarily non-degreed and working in construction, services, military support, and light manufacturing; job quality, apprenticeship access, and local employer recruitment are the economic development priorities with the most direct household income impact." },
-        { name: "Hispanic Constituent Engagement & Service Record", tag: "Political Landscape", why: "In a 63% Hispanic district won by a Republican at 52%, the margin is determined by constituent service credibility, name recognition, and economic delivery — not partisan messaging; any candidate competing here must demonstrate sustained, specific, in-person engagement with Hispanic working families rather than relying on either demographic assumptions or national partisan themes." }
+        { name: "Hispanic Working-Family Economic Priorities", tag: "lean-into", why: "At 63% Hispanic and $72,717 median income with 71.7% homeownership, HD-118 is a working-class Hispanic homeowner district where economic concerns — property taxes, wages, healthcare costs — drive vote choice more than partisan identity. The 52-48 Republican result in a majority-Hispanic district reflects economic-credibility deficits on the left rather than ideological conversion; candidates who lead with specific Bexar County cost-of-living data and employer-sector pressures have the clearest path to flipping this margin." },
+        { name: "Property Tax Relief for Modest-Value Homes", tag: "lean-into", why: "With 71.7% homeownership at $72K median income, HD-118 homeowners hold homes whose appraisal increases directly strain household budgets with limited income buffer. Unlike wealthier North Bexar districts, these are working-family properties where a $2,000 tax bill increase is materially significant; specific Bexar County appraisal data and homestead exemption mechanics earn credibility that generic relief promises do not." },
+        { name: "Public Safety Framing in Majority-Hispanic Neighborhoods", tag: "careful", why: "HD-118's Republican shift has been partially driven by public safety concerns in a district where Hispanic working families hold both policing accountability and neighborhood security as genuine priorities. Democratic candidates who dismiss crime concerns as Republican dog-whistling lose the persuadable middle; Republican candidates who use enforcement language coded to demographic anxiety in a 63% Hispanic district alienate the base. Both must speak to specific SAPD district-level response data and community investment simultaneously." },
+        { name: "Progressive Cultural Messaging in a Swing District", tag: "avoid", why: "HD-118 is the sharpest example in the San Antonio delegation of Hispanic working-class realignment; the 52-48 Republican result in a 63% Hispanic district is driven by Catholic social conservatism and economic-credibility gaps, not enthusiasm for the Republican cultural agenda. Democratic candidates who import Austin or national progressive cultural framing — particularly on education content, gender policy, or immigration process — accelerate the realignment by confirming the 'out of step with our community' contrast Republicans are actively running." },
+        { name: "Treating This as a Safe Democratic Lean Seat", tag: "avoid", why: "The 52-48 Republican result in 2024 in a district with a 63% Hispanic majority is a structural alarm, not a one-cycle anomaly. Republican candidates who campaign on demographic destiny rather than constituent service equally misread the district — Hispanic working families in this corridor have demonstrated they will punish representatives of either party who take them for granted. Any operational assumption of structural safety — reduced canvassing, lower Spanish-language investment, fewer town halls south of Loop 410 — will produce a continued margin shift." }
       ],
       memoHeadline: "San Antonio's Most Competitive Seat: 52-48 Republican in a 63% Hispanic District, the Realignment Made Concrete",
       memoParagraphs: [
@@ -5674,8 +5674,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-119",
     name: "Texas House District 119",
-    city: "TBD",
-    region: "TBD",
+    city: "San Antonio",
+    region: "South San Antonio",
     type: "state house district",
     incumbentName: "Elizabeth  \"liz\" Campos",
     incumbentParty: "Democrat",
@@ -5699,11 +5699,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.92, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Workforce Development & Vocational Training", tag: "Education", why: "At 18.4% college attainment — one of the lower figures in the San Antonio delegation — HD-119's workforce is almost entirely non-degreed; vocational training, apprenticeship programs, and community college partnerships with San Antonio's construction, healthcare support, and logistics employers are the economic investments that most directly shift household income for working families." },
-        { name: "Housing Affordability & Renter Stability", tag: "Housing", why: "With 37.8% renters at $61,137 median income in a working-class south San Antonio community, a significant share of households face housing cost pressure; affordable unit preservation, habitability enforcement, and homeownership pathway investment address the housing concerns of both the renter and owner segments of the district's population." },
-        { name: "Healthcare Access & Community Health Investment", tag: "Healthcare", why: "South and west San Antonio's working-class Hispanic communities face elevated rates of uninsurance among service and construction sector workers; community health clinic funding, Medicaid enrollment, and maternal and child health investment are the healthcare priorities with the most direct constituency impact in a district with modest incomes and limited employer-provided coverage." },
-        { name: "Bilingual Education & School Quality", tag: "Education", why: "A 69% Hispanic district with 18.4% college attainment and a young median age of 35 has a large school-age population for whom bilingual education quality, dual-language programs, and post-secondary readiness investment are the school policy priorities most tied to the community's long-term economic trajectory." },
-        { name: "Military Community Support", tag: "Veterans", why: "San Antonio's identity as Military City USA extends into the south and west side communities that HD-119 covers; military family services, veteran transition support, and the economic multiplier of military base investment are issues with specific local traction in communities with disproportionately high rates of military service." }
+        { name: "Military Family Economic Infrastructure", tag: "lean-into", why: "South San Antonio's identity is inseparable from Lackland AFB and JBSA-Randolph, with a significant active-duty, veteran, and military-family household share in a district at $61,137 median income. Campos's 64-36 margin reflects a coalition that includes both civilian working families and military households; specific advocacy on VA healthcare access, base-community investment, and veteran employment pipelines in South Bexar County speaks to both without requiring either to subordinate their priorities." },
+        { name: "Working-Class Job Quality and Wage Floors", tag: "lean-into", why: "At 18.4% college attainment — the lowest in the San Antonio delegation — and 69% Hispanic, HD-119's workforce is concentrated in sectors where wage floors, employer practices, and credentialing access determine economic trajectory. South San Antonio's commercial and industrial corridors off I-35 and US-90 are the specific economic geography to reference; candidates who can name actual employers and sector pressures in these corridors demonstrate local knowledge that earns constituent trust." },
+        { name: "Education Attainment Without Credential Elitism", tag: "careful", why: "At 18.4% college attainment in a district where military and trade credentials are the dominant economic pathway, education advocacy must center workforce credentialing, vocational training, and community college access — not four-year degree attainment as the singular measure of opportunity. Framing that privileges BA pathways risks alienating the majority of South San Antonio households whose economic lives are built on non-degree credentials and military service records." },
+        { name: "Abstract Social Justice Framing Over Material Needs", tag: "avoid", why: "HD-119's working-class Hispanic base at $61K income and 37.8% renters is responsive to material economic advocacy — wages, healthcare costs, housing stability — and disengages from ideological framing that substitutes identity language for policy specificity. Campos holds 64% on constituent-service credibility; challengers or allied candidates who replace that posture with movement rhetoric risk the low-turnout vulnerability that 18.4% college attainment districts carry when the message doesn't match daily economic reality." },
+        { name: "Anti-Military Rhetoric or Benefit-Cutting Adjacency", tag: "avoid", why: "In a South San Antonio district where military identity is a genuine community value — not a partisan signal — any messaging that implies skepticism of military institutions, adjacency to budget arguments that touch veteran benefits, or failure to explicitly honor service culture will be weaponized by opponents in a district where the military is an economic anchor and a source of intergenerational family pride, not a political abstraction." }
       ],
       memoHeadline: "South San Antonio's Working-Class Hispanic District: 69% Hispanic, 18.4% College, and San Antonio's Military Identity",
       memoParagraphs: [
@@ -5722,8 +5722,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-120",
     name: "Texas House District 120",
-    city: "TBD",
-    region: "TBD",
+    city: "San Antonio",
+    region: "East San Antonio",
     type: "state house district",
     incumbentName: "Barbara Gervin-hawkins",
     incumbentParty: "Democrat",
@@ -5747,11 +5747,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 2.51, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Dual-Community Governance — Hispanic & Black San Antonio", tag: "Equity", why: "With Hispanic 51% and Black 21% together constituting 72% of the district, HD-120 requires specific, simultaneous governing investment in both communities' distinct economic and civic priorities — neither can be treated as an afterthought to the other's majority claim, and the policy agenda that serves both builds the most durable Democratic coalition." },
-        { name: "Housing Stability & Renter Affordability", tag: "Housing", why: "At 42.6% renters with $60,244 median income, nearly half the district's households are renting in a San Antonio market where rents have risen significantly in recent years; eviction protection, affordable unit preservation, and homeownership pathways serve the district's renter majority while protecting the asset value of its established homeowner community." },
-        { name: "Economic Opportunity & Workforce Investment", tag: "Economy", why: "At 22.4% college attainment, the majority of the district's workforce is non-degreed and working in service, construction, and public sector jobs; vocational training, apprenticeship access, and living wage advocacy are the economic mobility investments that most directly shift household economic outcomes for both Black and Hispanic working families." },
-        { name: "Criminal Justice & Community Safety", tag: "Public Safety", why: "East and northeast San Antonio's mixed Hispanic-Black community has specific expectations around community safety — both effective crime prevention and accountability in criminal justice — that require investment in violence prevention, mental health crisis response, and community-police relations alongside systemic accountability measures." },
-        { name: "Public Education & Equity Across Both Communities", tag: "Education", why: "A district with significant Hispanic and Black student populations in Northside ISD and other Bexar County school districts needs school funding equity, culturally responsive education, and bilingual program quality that serve both communities' children without prioritizing one over the other." }
+        { name: "Black and Hispanic Community Economic Equity", tag: "lean-into", why: "At 21% Black and 51% Hispanic, HD-120 is the most demographically dual-anchored district in the San Antonio delegation, with both communities concentrated in East San Antonio corridors that have experienced disinvestment while adjacent areas gentrified. Gervin-Hawkins's unopposed status reflects deep community trust built through specific constituent service; the legislative agenda that sustains that trust names actual economic gaps in the 78202, 78219, and 78220 zip codes rather than speaking in demographic generalities." },
+        { name: "Neighborhood Infrastructure and Disinvestment Repair", tag: "lean-into", why: "East San Antonio's residential and commercial corridors along East Commerce, Rigsby, and the I-10 East corridor carry visible infrastructure deficits that $60,244 median income households cannot self-fund their way out of. At 42.6% renters in a district with significant older housing stock, the material case for state investment in East Bexar County infrastructure — roads, drainage, broadband, park quality — is both politically safe and constituent-service essential for an unopposed incumbent." },
+        { name: "Cross-Community Coalition Maintenance", tag: "careful", why: "At 51% Hispanic and 21% Black in a single district, HD-120 requires active coalition maintenance rather than assumption of unified interest — the two communities have distinct institutional histories in San Antonio, different relationships to SAISD and specific East Side employers, and different mobility priorities at $60K median income. Gervin-Hawkins's success reflects deliberate cross-community constituent service; successors or allied candidates who assume demographic convergence without doing the relational work risk fracturing the coalition that makes the seat structurally uncontested." },
+        { name: "Treating Unopposed Status as Constituency Indifference", tag: "avoid", why: "An unopposed win does not indicate disengaged voters — it reflects a credibility wall built through years of specific constituent service in East San Antonio. Candidates who interpret uncontested margins as permission to reduce town-hall presence, constituent casework investment, or Spanish- and community-language outreach in the 78202-78220 corridors will discover that the same community accountability that produced an uncontested race can produce a primary challenger when service gaps become visible." },
+        { name: "Gentrification Adjacency Without Displacement Advocacy", tag: "avoid", why: "East San Antonio is on the receiving end of displacement pressure from downtown San Antonio's westward and eastward expansion, and both Black and Hispanic long-term residents are acutely aware of what happened to comparable neighborhoods in the Pearl and Southtown corridors. Candidates who acknowledge development without naming anti-displacement tools — community land trusts, renter stabilization advocacy, homeowner assistance for existing residents — will be read as complicit in the same processes that erased adjacent communities, which is politically toxic in a district where community rootedness is the central identity." }
       ],
       memoHeadline: "East San Antonio's Hispanic-Black District: 51% Hispanic, 21% Black, and the Gervin Legacy in Northeast San Antonio",
       memoParagraphs: [
@@ -5770,8 +5770,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-121",
     name: "Texas House District 121",
-    city: "TBD",
-    region: "TBD",
+    city: "San Antonio",
+    region: "North San Antonio",
     type: "state house district",
     incumbentName: "Marc Lahood",
     incumbentParty: "Republican",
@@ -5795,11 +5795,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 3.71, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & Professional-Class Homeowner Relief", tag: "Economy", why: "At $93,834 median income with significant homeownership, north San Antonio's professional community has seen Bexar County appraisals rise substantially; tax relief proposals that address the specific financial impact on upper-middle-class homeowners — not just the very wealthy — are the most broadly mobilizing homeowner economic issue." },
-        { name: "Women's Healthcare & Reproductive Rights", tag: "Healthcare", why: "HD-121's 47% Democratic base is anchored by college-educated professional women for whom reproductive rights are among the most motivating political issues in post-Dobbs Texas; at 53-47, this is the issue most likely to shift the competitive margin, and any ambiguity in candidate positioning registers immediately with this highly engaged electorate." },
-        { name: "School District Quality & Governance", tag: "Education", why: "At 50.7% college attainment in a racially diverse professional community, the district's parent electorate evaluates school board decisions, curriculum standards, and district funding with exceptional sophistication; school quality is both a personal parenting priority and a property value determinant for a community that chose its location partly based on school performance." },
-        { name: "Hispanic Community Engagement & Realignment Context", tag: "Equity", why: "At 38.10% Hispanic in a 53% Republican district, the district's growing Latino professional and working-class community is the competitive variable that both parties must specifically and authentically engage; the San Antonio realignment's reach into north Bexar County professional communities shapes whether the 53% margin holds or continues compressing." },
-        { name: "Suburban Growth & North Bexar Infrastructure", tag: "Infrastructure", why: "North San Antonio's continued residential and commercial expansion strains Loop 1604 and highway corridors, school district capacity, and utility infrastructure; managing that growth in a way that preserves quality of life is the governance challenge where state-level investment decisions most directly affect this community's daily experience." }
+        { name: "Professional-Class Property Tax and Housing Costs", tag: "lean-into", why: "At $93,834 median income and 50.7% college attainment in Far North San Antonio — Stone Oak, Shavano Park, and the 1604 corridor — homeowners with significant equity are nonetheless feeling the compounding effect of Bexar County appraisal increases on upper-middle-income households. This is not a sympathetic-victim message; it is a fairness and fiscal predictability argument that resonates with professional households who do the math and find the system structurally misaligned with income growth." },
+        { name: "Business Climate and Professional Sector Growth", tag: "lean-into", why: "HD-121's workforce at 50.7% college attainment and $94K income is concentrated in healthcare, finance, technology, and professional services — sectors where regulatory environment, workforce pipeline, and infrastructure investment determine employer decisions. Lahood's 53-47 margin in a seat that is nearly 38% Hispanic means the business-climate argument must be made in terms that speak to both Anglo professional households and the Hispanic professional tier that is the district's fastest-growing demographic." },
+        { name: "Hispanic Professional Voter Retention", tag: "careful", why: "HD-121's 38.1% Hispanic population is disproportionately professional-class — the North Bexar County demographic shift has brought college-educated Hispanic households into a district that remains 53-47 Republican. This cohort is more persuadable than working-class Hispanic voters in HD-117 or HD-119; Republican candidates who ignore Hispanic civic and professional priorities and Democratic candidates who assume this group defaults left both misread a constituency that votes on economic competence and institutional respect." },
+        { name: "Hard-Right Cultural Messaging in a Suburban Professional District", tag: "avoid", why: "At 50.7% college attainment and 53-47 margin, HD-121 is held by a Republican majority that includes significant numbers of college-educated suburban voters who have already punished hard-right social messaging in comparable Texas suburban districts. Culture-war primacy on abortion, curriculum fights, or LGBTQ policy framing in a district this close — with this educational profile — reliably converts low-propensity Democratic voters into motivated ones, which is how a 53-47 seat becomes 51-49 and then flips." },
+        { name: "Ignoring the District's Democratic Near-Majority", tag: "avoid", why: "A 53-47 Republican margin in a $94K income, 50.7% college district is not a structural lock — it is a one-cycle swing away from flipping, as comparable North Bexar and North Texas suburban districts have demonstrated since 2018. Republican incumbents who govern to the primary and ignore the 47% that includes persuadable Hispanics and college-educated swing voters create the exact opponent-contrast opportunity that turns near-misses into losses when a strong Democratic recruit emerges in a higher-turnout cycle." }
       ],
       memoHeadline: "North San Antonio's Tightest Seat: 53-47 Republican, $94K Income, and the Realignment at the Professional Tier",
       memoParagraphs: [
@@ -5818,8 +5818,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-122",
     name: "Texas House District 122",
-    city: "TBD",
-    region: "TBD",
+    city: "San Antonio",
+    region: "Far North Bexar County",
     type: "state house district",
     incumbentName: "Mark Dorazio",
     incumbentParty: "Republican",
@@ -5843,11 +5843,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 4.11, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & Luxury-Tier Homeowner Appraisals", tag: "Economy", why: "At $130,950 median income and only 22.9% renters, HD-122 is among the most homeowner-dominant, highest-income districts in Bexar County; Stone Oak and north Bexar County property values have appreciated sharply, producing appraisal-driven tax bills that sophisticated homeowners track closely and evaluate legislators on their ability to address through appraisal cap reform." },
-        { name: "School District Excellence & Curriculum Governance", tag: "Education", why: "At 59.8% college attainment, the district's parent electorate brings exceptional credentialing to school board governance, curriculum decisions, and per-pupil funding expectations; the quality of North East and Northside ISD schools is a primary reason families chose this community, and any perceived compromise in that quality generates organized political response." },
-        { name: "Hill Country Conservation & Environmental Quality", tag: "Environment", why: "The far north Bexar County communities that HD-122 encompasses sit adjacent to the Texas Hill Country and the Edwards Aquifer recharge zone; responsible development, natural land preservation, and aquifer protection are quality-of-life issues that activate an organized, well-resourced constituency of established homeowners who invested in this community for its natural setting." },
-        { name: "Hispanic Professional Community Engagement", tag: "Equity", why: "At 38.53% Hispanic in the wealthiest suburban tier of Bexar County, the district has a significant and growing Latino professional community whose policy priorities — school quality, property taxes, economic opportunity — often overlap with the white majority but whose civil rights and immigration concerns are distinct; specific, sustained engagement builds the margin credibility that a 58-42 seat requires." },
-        { name: "Suburban Growth & Community Character Preservation", tag: "Infrastructure", why: "Far north Bexar County communities are absorbing significant residential development as San Antonio expands northward; managing that growth to preserve the Hill Country character, open space, and infrastructure quality that attracted residents is the land use governance challenge most actively contested in this community." }
+        { name: "Affluent Suburb Fiscal Responsibility Agenda", tag: "lean-into", why: "At $130,950 median income and 59.8% college attainment — the wealthiest district in the San Antonio delegation — HD-122 households in the Dominion, Stone Oak, and far-northwest Bexar corridors are sophisticated fiscal policy consumers who respond to specific arguments about state budget efficiency, appraisal cap mechanics, and debt management. Generic tax-cut rhetoric underperforms; mechanism-specific fiscal advocacy that respects the district's analytical capacity earns durable credibility." },
+        { name: "High-Earning Hispanic Professional Community", tag: "lean-into", why: "At 38.5% Hispanic in a $131K income, 60% college district, HD-122 contains one of Texas's largest concentrations of high-income Hispanic professional households — a constituency with distinct priorities around business formation, estate planning, dual-income household policy, and educational investment that neither generic Hispanic outreach nor Anglo-default professional messaging adequately addresses. Candidates who specifically name this constituency's economic interests earn cross-demographic credibility that the 58-42 margin does not require but structural durability does." },
+        { name: "Education Quality Versus Education Culture Wars", tag: "careful", why: "At $131K income and 60% college attainment, HD-122 parents are intensely invested in Northside ISD and North East ISD school quality — and the district's professional-class Hispanic households are specifically attentive to curriculum and college-prep outcomes. The culture-war education framing that plays in lower-income, lower-attainment Republican districts creates anxiety rather than enthusiasm in a wealthy, credentialed suburb where parents measure school quality in AP pass rates and college acceptance outcomes, not in book-removal counts." },
+        { name: "Populist Anti-Establishment Economic Messaging", tag: "avoid", why: "In a district with $131K median income and the highest college attainment in the San Antonio delegation, economic populism framed against 'elites,' 'big business,' or 'the establishment' creates cognitive dissonance rather than resonance — these households are the professional tier that populist messaging implicitly targets. Dorazio's 58-42 margin is held by a constituency that wants competent, fiscally serious representation, not anti-institutional rhetoric that describes their own economic position as the problem." },
+        { name: "Assuming the 58-42 Margin Requires No Hispanic Outreach", tag: "avoid", why: "HD-122's 38.5% Hispanic population at the professional income tier is not a captured Republican constituency — it is a persuadable bloc that responds to specific economic and civic respect signals. Candidates who treat the 58-42 margin as demographic destiny rather than earned preference, skipping Spanish-language outreach, Hispanic chamber engagement, and specific professional-community advocacy, risk the same suburban Hispanic drift that has narrowed Republican margins in comparable North Texas and Harris County professional districts." }
       ],
       memoHeadline: "Far North Bexar County's Wealthy Suburb: $131K Income, 60% College, and a Near-Equal White-Hispanic Professional Community",
       memoParagraphs: [
@@ -5866,8 +5866,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-123",
     name: "Texas House District 123",
-    city: "TBD",
-    region: "TBD",
+    city: "San Antonio",
+    region: "San Antonio West Side",
     type: "state house district",
     incumbentName: "Diego Bernal",
     incumbentParty: "Democrat",
@@ -5891,11 +5891,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.50, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Renter Protections & Housing Affordability", tag: "Housing", why: "With 56.4% renters at $54,678 median income, the majority of HD-123's households rent in a San Antonio market where cost pressure has intensified; eviction protection, habitability enforcement, affordable unit preservation, and ownership pathway programs are the housing interventions most needed by the district's majority renter constituency." },
-        { name: "Public Education Policy & School Funding Equity", tag: "Education", why: "Diego Bernal has built one of the Texas House's most substantive legislative records on education policy; his district's 29.7% college attainment and large school-age Hispanic population give that policy work direct local stakes — school funding equity, dual-language programs, and post-secondary readiness investment are the education priorities with the most direct constituency impact." },
-        { name: "Economic Opportunity & Living Wage", tag: "Economy", why: "At $54,678 median income in a 68% Hispanic, majority-renter district, working families are navigating wage stagnation against San Antonio's rising cost of living; living wage advocacy, worker protections in the service and construction sectors, and job training programs tied to the local economy are the economic interventions that most directly shift household outcomes." },
-        { name: "Healthcare Access & Reproductive Rights", tag: "Healthcare", why: "The district's working-class Hispanic community faces elevated rates of uninsurance and limited primary care access; community clinic funding, Medicaid enrollment, and reproductive healthcare access are healthcare priorities with broad constituency impact, and the latter is a mobilizing issue for the young women who constitute a large share of the district's working adult population." },
-        { name: "Immigration Community Services & Protection", tag: "Equity", why: "A 68% Hispanic district with significant immigrant-origin families has direct stakes in immigration legal service access, enforcement policy, and community protection programs; constituent engagement on these issues signals whether a candidate is genuinely accountable to the full community, including those whose civic participation is shaped by immigration status considerations." }
+        { name: "Renter Protections and Affordability Advocacy", tag: "lean-into", why: "At 56.4% renters and $54,678 median income — the combination that defines housing-cost vulnerability — HD-123's West Side San Antonio households face displacement risk in a market where state preemption blocks local renter protections. Bernal's legislative record on tenant rights and education policy gives this district a specific hook that most San Antonio delegates lack; reinforcing that record with citation of actual Bexar County eviction data and rent-burden statistics in the 78201-78207 zip codes sustains the trust that makes the seat uncontested." },
+        { name: "Education Pipeline and Community College Access", tag: "lean-into", why: "Bernal's tenure has been defined by education policy, and in a 68% Hispanic district at 29.7% college attainment with 56% renters, the education-to-economic-mobility pipeline is the central structural argument for constituent investment. Specific advocacy for Alamo Colleges funding, dual-credit expansion in Edgewood and South San Antonio ISDs, and workforce credentialing for non-degree households speaks directly to where West Side families are positioned — between K-12 completion and economic self-sufficiency — in ways that generic education rhetoric does not." },
+        { name: "Gentrification on the Near West Side", tag: "careful", why: "San Antonio's near West Side is experiencing development pressure from downtown expansion, and HD-123's 56.4% renter rate makes displacement a live material risk rather than an abstract concern. Advocacy must name anti-displacement tools — community benefits agreements, affordable housing preservation, homeowner assistance — without positioning against all development in a district where longtime residents also want neighborhood investment. The framing challenge is distinguishing community-controlled investment from market-driven displacement, not opposing investment itself." },
+        { name: "Legislative Accomplishment Without Local Grounding", tag: "avoid", why: "Bernal's education policy profile is a genuine legislative asset, but messaging that emphasizes Austin-floor accomplishments without connecting them back to specific West Side school outcomes, specific Bexar County affordability metrics, and specific constituent-service results in the 78201-78228 corridors risks the incumbent-distance perception that motivates primary challengers in low-income urban districts. Uncontested margins require the same constituent-grounding that competitive margins do — the absence of opposition is not evidence of satisfaction." },
+        { name: "Treating 68% Hispanic as Monolithic Political Identity", tag: "avoid", why: "HD-123's West Side Hispanic community spans multi-generational families, recent immigrants, homeowners, renters, Catholic institutional networks, and secular progressive organizations — a range that resists single-message activation. Candidates who flatten this diversity into a generic Hispanic identity appeal, substituting demographic assumption for the relational work of West Side civic engagement, will find that the community organizations, parish networks, and neighborhood associations that actually move West Side turnout are unmoved by identity messaging disconnected from material advocacy." }
       ],
       memoHeadline: "San Antonio's Education Policy District: 68% Hispanic, 56% Renters, and Diego Bernal's Legislative Record",
       memoParagraphs: [
@@ -5914,8 +5914,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-124",
     name: "Texas House District 124",
-    city: "TBD",
-    region: "TBD",
+    city: "San Antonio",
+    region: "West San Antonio",
     type: "state house district",
     incumbentName: "Josey Garcia",
     incumbentParty: "Democrat",
@@ -5939,11 +5939,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 2.33, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Youth Economic Opportunity & Early-Career Investment", tag: "Economy", why: "HD-124's median age of 31.4 — among the youngest in the San Antonio delegation — means the district's dominant constituency is in its first decade of adult economic life; internship pipelines, entry-level job market quality, vocational training, and student debt management are the economic issues that shape whether young families build their future in this community or leave." },
-        { name: "Housing Affordability & Working-Family Stability", tag: "Housing", why: "With 43.7% renters at $63,629 median income in a very young district, a large share of households are renting while building toward ownership; affordable unit preservation, renter protections, and homeownership pathway programs serve both the immediate renter majority and the aspirational working-family homeownership goal." },
-        { name: "Public Education & School Investment for Young Families", tag: "Education", why: "A district with a 31.4 median age has a very large school-age population whose parents are making school quality the primary community evaluation criterion; bilingual education, K-12 funding equity, and college readiness programs that reduce cost barriers are the education investments most tied to young working-family priorities." },
-        { name: "Healthcare Access & Maternal & Child Health", tag: "Healthcare", why: "A young district with a large family-formation-age population has elevated demand for maternal health, pediatric care, and reproductive healthcare access; community clinic investment and Medicaid coverage for working mothers and young children address the most acute healthcare needs of the district's dominant demographic." },
-        { name: "Civic Engagement & Youth Political Investment", tag: "Civic Engagement", why: "The youngest-median-age districts have structurally lower voter turnout; the candidate who builds sustained civic engagement infrastructure — not just election-season registration drives — activates a constituency whose political potential far exceeds its current electoral participation rate." }
+        { name: "Young Family Economic Stability", tag: "lean-into", why: "At 31.4 median age — the youngest district in the San Antonio delegation — and 71% Hispanic with $63,629 median income, HD-124 is a district of young working families building their first economic foothold in West San Antonio. Garcia's 62-38 margin reflects a constituency in the wealth-building phase of life; specific advocacy for first-time homebuyer assistance, childcare cost reduction, and entry-level wage floors in the construction, healthcare, and service sectors dominant west of Loop 410 speaks directly to where constituent households actually are." },
+        { name: "West Side Job Access and Employer Investment", tag: "lean-into", why: "HD-124's proximity to USAA, Lackland AFB, and the West Side industrial corridors along US-90 and Highway 151 creates specific employer-sector pressure points that a 71% Hispanic, 43.7% renter district at $63K income can speak to concretely. Candidates who reference actual employers, commute patterns, and workforce credentialing gaps in the specific West Bexar economic geography earn a credibility premium over those offering generic job-creation messaging." },
+        { name: "Housing Affordability for Young Renters and First-Time Buyers", tag: "careful", why: "At 43.7% renters in a district with a 31.4 median age, HD-124 has both a significant renter constituency experiencing affordability pressure and a young homeownership-aspiring population whose mobility depends on entry-level purchase access. Advocacy must speak to both without subordinating one to the other — renter protections that ignore the homeownership pipeline, or homeownership assistance that ignores current renter cost burdens, each alienates half of the district's housing-insecure constituency." },
+        { name: "National Party Branding Over West Side Constituent Service", tag: "avoid", why: "HD-124's 62-38 margin in a 71% Hispanic district that has shown rightward movement in comparable Bexar County precincts is sustained by local credibility, not national partisan enthusiasm — at 20.8% college attainment and 31.4 median age, this is a constituency that measures representatives on tangible outcomes for young working families, not on legislative floor alignment with national Democratic priorities. Candidates who campaign on party identity rather than specific West San Antonio economic advocacy accelerate the realignment dynamic already visible in neighboring HD-118." },
+        { name: "Deficit Framing of Young Hispanic Community", tag: "avoid", why: "In the youngest district in the San Antonio delegation, messaging that leads with poverty rates, dropout statistics, or disadvantage narratives — rather than economic aspiration, community investment, and upward-mobility policy — is politically counterproductive with a constituency that identifies with forward progress, not structural victimhood. West Side San Antonio families at 31.4 median age are building, not just surviving; candidates who speak to that ambition with specific tools rather than sympathetic framing earn the enthusiasm advantage that 62-point margins require to hold." }
       ],
       memoHeadline: "West San Antonio's Youngest District: 31.4 Median Age, 71% Hispanic, and Working Families Building Their Future",
       memoParagraphs: [
@@ -5962,8 +5962,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-125",
     name: "Texas House District 125",
-    city: "TBD",
-    region: "TBD",
+    city: "San Antonio",
+    region: "Northwest San Antonio",
     type: "state house district",
     incumbentName: "Ray Lopez",
     incumbentParty: "Democrat",
@@ -5987,11 +5987,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 3.27, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Homeownership & Working-Class Economic Stability", tag: "Housing", why: "At 34% renters with $72,610 median income, HD-125 has a majority homeowner community that values the economic stability and wealth-building that ownership provides; protecting established homeowners from predatory practices, property tax pressure, and appraisal surges while expanding ownership pathways for the renter population are the housing priorities most relevant to this constituency." },
-        { name: "Economic Development & Quality Job Creation", tag: "Economy", why: "Northwest San Antonio's working-and-middle-class community at $72,610 median income and 29.8% college attainment needs quality local employment opportunities — in construction, healthcare, manufacturing, and logistics — that provide above-median wages without requiring four-year credentials; local employer recruitment and workforce training are the economic development investments that reach the most working families." },
-        { name: "Healthcare Access & Family Health Services", tag: "Healthcare", why: "Working-class and middle-class Hispanic families in northwest San Antonio face healthcare cost and access barriers; community clinic funding, Medicaid access, and maternal and family health investment are the healthcare priorities with the most direct constituency impact for a district whose 34.1 median age means a large population of adults with young families and significant healthcare utilization." },
-        { name: "Public Education & School Quality", tag: "Education", why: "At 29.8% college attainment in a 65% Hispanic community with a young median age of 34.1, the district has a large school-age population whose educational trajectory is the community's most important intergenerational investment; school funding equity, bilingual education quality, and college readiness programs are the education policy priorities most tied to long-term constituent prosperity." },
-        { name: "San Antonio Realignment Vigilance", tag: "Political Landscape", why: "HD-125's unopposed 2024 result does not immunize the district from the broader San Antonio realignment trend; working-class northwest San Antonio has demographic and economic characteristics that make it susceptible to the same political pressures shifting adjacent competitive seats, and active constituent investment is the maintenance strategy that protects the seat." }
+        { name: "Homeownership Costs for Hispanic Families", tag: "lean-into", why: "At 66% Hispanic and a homeowner majority, HD-125 residents are experiencing Bexar County appraisal increases on median incomes of $72,610 — a direct squeeze on working-middle-class family wealth. Candidates who cite specific Northwest San Antonio appraisal trends and connect relief to generational homeownership goals resonate far more than abstract tax-cut rhetoric in this community." },
+        { name: "Workforce Training and Trade Pathways", tag: "lean-into", why: "At 29.8% college attainment, a significant share of HD-125 workers build household stability through trades, technical certifications, and employer-based advancement rather than four-year degrees. Championing Alamo Colleges access, apprenticeship expansion, and wage floors in Northwest San Antonio's construction and service sectors speaks directly to how this district actually earns its living." },
+        { name: "Renter Affordability in a Homeowner District", tag: "careful", why: "With 34% renters in a district that politically identifies as a homeowning community, rental cost pressures affect a substantial household share that can feel invisible in the dominant narrative. Acknowledging both ownership aspiration and rental-market strain — without appearing to prioritize developer interests over residents — requires specific calibration to avoid alienating either third of the constituency." },
+        { name: "Framing District as Safely Democratic", tag: "avoid", why: "Running unopposed in 2024 does not mean the district is structurally locked — HD-125 sits in the middle of a documented statewide Hispanic realignment, and Northwest San Antonio's working-middle-class homeowners are precisely the demographic Republicans have been targeting. Messaging that assumes cultural or partisan loyalty without delivering on appraisal relief, wages, and local services creates exactly the opening that realignment research identifies." },
+        { name: "Identity Politics Over Economic Delivery", tag: "avoid", why: "In a 66% Hispanic district where median income is $72,610 and homeownership is the dominant household aspiration, leading with ethnic solidarity framing instead of material outcomes on taxes, jobs, and housing costs reads as taking the community for granted. HD-125 voters who feel their representative is performing identity rather than delivering on kitchen-table issues are increasingly willing to consider alternatives." }
       ],
       memoHeadline: "Northwest San Antonio's Working-Middle-Class Hispanic District: 66% Hispanic, Homeowner Majority, Realignment Watch",
       memoParagraphs: [
@@ -6010,8 +6010,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-126",
     name: "Texas House District 126",
-    city: "TBD",
-    region: "TBD",
+    city: "Spring",
+    region: "Northwest Houston",
     type: "state house district",
     incumbentName: "E. Sam Harless",
     incumbentParty: "Republican",
@@ -6035,11 +6035,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 10.19, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Four-Community Governance & Majority-Minority Representation", tag: "Equity", why: "With no single racial group exceeding 43% — white 42%, Hispanic 27%, Black 17%, Asian 10% — HD-126 is a majority-minority district where every governing decision must account for four distinct communities; specific, sustained engagement with each group is the structural requirement for credible representation rather than a political extra." },
-        { name: "Property Taxes & Diverse Homeowner Relief", tag: "Economy", why: "At $88,526 median income with 34.4% renters, the district's diverse homeowner majority has experienced significant Harris County appraisal increases; tax relief framed for working-and-middle-class homeowners across all four racial communities is the most broadly mobilizing economic issue." },
-        { name: "Energy Economy & Petrochemical Employment", tag: "Economy", why: "Northwest Harris County's proximity to the Houston Energy Corridor and petrochemical infrastructure means energy sector employment is a significant economic factor; refinery jobs, pipeline operations, and the supply chain industries that support them are livelihood issues that cross racial lines in a diverse working-to-professional-class district." },
-        { name: "School District Quality & Multicultural Education", tag: "Education", why: "At 41.3% college attainment across a four-community, majority-minority district, the parent electorate has both the educational background and the demographic diversity to demand school quality that serves children across cultural and linguistic backgrounds; multilingual education and equitable resource distribution are the education priorities that reach all four communities' families." },
-        { name: "Community Growth & Infrastructure Investment", tag: "Infrastructure", why: "Northwest Harris County's rapid residential and commercial expansion — drawing Houston metro spillover — strains road capacity, school facilities, and utility systems; state infrastructure investment and growth management policy are the governance tools most visible in the daily life of a district still building its suburban character." }
+        { name: "Suburban Infrastructure and Traffic Relief", tag: "lean-into", why: "Spring and Northwest Harris County's rapid growth has outpaced road capacity and drainage infrastructure, and at $88,526 median income, commuting costs and flood risk are live household concerns. Candidates who cite specific Spring-area corridor bottlenecks and TxDOT project timelines — rather than generic infrastructure support — earn credibility with a constituency that experiences these failures daily." },
+        { name: "Top-Rated Schools Protecting Property Values", tag: "lean-into", why: "At 41.3% college attainment and $88,526 median income, HD-126 homeowners have made substantial investments premised on school district quality in Spring ISD and Klein ISD zones. Defending local school funding structures, opposing unfunded mandates, and resisting curriculum disruptions that affect ratings directly speaks to the asset-protection logic driving this suburban homeowner coalition." },
+        { name: "Minority Community Service Gaps", tag: "careful", why: "At 27% Hispanic, 17% Black, and 10% Asian, HD-126 is majority-minority despite its unopposed Republican hold — and all three communities have specific unmet needs around healthcare access, small business support, and infrastructure equity. Ignoring service delivery to 57% of constituents while governing only for the plurality-white homeowner base risks generating organized opposition in a district where the demographic math already does not favor complacency." },
+        { name: "Treating This as a Safe White-Suburban District", tag: "avoid", why: "HD-126's white plurality is 42% — not a majority — and the combined Hispanic, Black, and Asian population exceeds 54% of the district. Messaging that assumes a traditional majority-white suburban coalition as the only relevant constituency misreads the actual demographic composition and forfeits constituent-service credibility with a majority of residents." },
+        { name: "Partisan Culture War Messaging Over Local Delivery", tag: "avoid", why: "In a diverse $88K-income suburb where four distinct communities coexist, statewide partisan culture-war framing substitutes poorly for tangible local results on flooding, school quality, and traffic. Spring-area voters at this income level have high service expectations and cross-demographic relationships that make performative partisan signaling a poor replacement for demonstrable constituent work." }
       ],
       memoHeadline: "Northwest Harris County's Majority-Minority Suburb: Four Communities, $89K Income, and Unopposed Republican Hold",
       memoParagraphs: [
@@ -6058,8 +6058,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-127",
     name: "Texas House District 127",
-    city: "TBD",
-    region: "TBD",
+    city: "Humble",
+    region: "North Houston",
     type: "state house district",
     incumbentName: "Charles Cunningham",
     incumbentParty: "Republican",
@@ -6083,11 +6083,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 3.28, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & Homeowner Economic Pressure", tag: "Economy", why: "At $104,168 median income and only 21.6% renters, HD-127 is a predominantly homeowning district where Harris County appraisal increases have generated substantial tax bills for Spring and north Harris County families; property tax relief is the most broadly mobilizing homeowner issue across all three of the district's major racial communities." },
-        { name: "Diverse Community Engagement — Three-Community Governance", tag: "Equity", why: "With white 45%, Hispanic 30%, and Black 17% together approaching a 93% combined share, HD-127's three major communities each bring distinct policy priorities; specific, sustained outreach to all three — not just the white plurality — is the structural requirement for governing a district whose minority communities together constitute 47% of the population." },
-        { name: "Suburban Growth & North Harris County Infrastructure", tag: "Infrastructure", why: "The Spring and north Harris County corridor continues absorbing Houston metro growth; road capacity, school district expansion, and utility infrastructure are the most visible state-level policy impacts on residents who chose this community for its quality of life and are watching that quality strain under continued development." },
-        { name: "Public Education & School District Quality", tag: "Education", why: "At 39.5% college attainment in a racially diverse suburban community, the parent electorate evaluates school board governance and curriculum quality with meaningful engagement across all three racial communities; equitable resource distribution across Spring ISD campuses is an issue where diverse communities have historically diverged in their assessments of fairness." },
-        { name: "Energy Economy & Petrochemical Sector Employment", tag: "Economy", why: "North Harris County's proximity to the Houston energy corridor means petrochemical and energy sector employment is economically significant across the district; pipeline policy, refinery operations, and the energy supply chain affect working families across racial communities whose livelihoods are tied to Houston's dominant industry." }
+        { name: "Homeowner Equity and Appraisal Relief", tag: "lean-into", why: "At $104,168 median income and only 21.6% renters, HD-127 is among the most heavily homeowning districts in Harris County — and Humble-area homeowners have watched appraisals outpace income growth. Specific North Harris County appraisal data and school district tax rate comparisons give candidates concrete material to champion rather than generic property tax talking points." },
+        { name: "Public Safety in Growing Suburban Corridors", tag: "lean-into", why: "North Harris County's rapid residential growth has stressed local law enforcement capacity along the US-59 and Beltway 8 corridors, and at 36.9 median age with high homeownership, this is a community invested in neighborhood stability. Candidates who speak to Humble-area constable funding, traffic enforcement, and unincorporated Harris County response times are addressing a real and specific constituency concern." },
+        { name: "Hispanic Community Economic Inclusion", tag: "careful", why: "At 30% Hispanic in a 61-39 district, Latino residents are a substantial constituency whose economic mobility — workforce advancement, small business access, homeownership pipelines — determines long-term district stability. Acknowledging this community's economic stake without triggering backlash from the 45% white homeowner base requires issue framing around shared growth rather than targeted programming." },
+        { name: "Nationalized Messaging Ignoring Local Economic Specifics", tag: "avoid", why: "HD-127's $104K median income reflects a working professional and skilled-trade household base that expects substantive engagement with North Harris County's actual economic pressures — energy sector employment, infrastructure investment, school district funding. Candidates who substitute state or national partisan messaging for local economic command signal to these voters that they are managing optics rather than serving the district." },
+        { name: "Ignoring Black and Hispanic Residents as Peripheral", tag: "avoid", why: "At 17% Black and 30% Hispanic, non-white residents constitute nearly half the district — and in a 61-39 seat, constituent service failures in these communities can be converted into organized Democratic turnout. Governing as if the margin is the totality of the constituency forfeits the service credibility that maintains structural Republican advantage in North Harris County over time." }
       ],
       memoHeadline: "North Harris County's Diverse Suburban Homeowner District: 61-39 Republican, Three Communities, $104K Income",
       memoParagraphs: [
@@ -6106,8 +6106,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-128",
     name: "Texas House District 128",
-    city: "TBD",
-    region: "TBD",
+    city: "Pasadena",
+    region: "Southeast Houston",
     type: "state house district",
     incumbentName: "Briscoe Cain",
     incumbentParty: "Republican",
@@ -6131,11 +6131,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.73, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Petrochemical Economy & Refinery Worker Livelihoods", tag: "Economy", why: "The Pasadena-Deer Park corridor is the industrial core of the Houston Ship Channel's petrochemical complex — one of the largest in the world; refinery employment, plant safety, pipeline operations, and the logistics supply chain employ a substantial share of both the Hispanic and white working populations, making energy sector conditions the primary economic variable in the district." },
-        { name: "Environmental Quality & Industrial Community Health", tag: "Environment", why: "Living and working adjacent to one of the nation's most concentrated industrial zones creates specific environmental health concerns — air quality, water quality, and industrial accident risk — that are felt across the district's communities regardless of whether residents work in the plants or live in the surrounding neighborhoods." },
-        { name: "Workforce Development & Blue-Collar Credential Pipeline", tag: "Education", why: "At 19.5% college attainment — among the lowest in the Harris County batch — HD-128's workforce is overwhelmingly non-degreed and working in refinery operations, trades, logistics, and manufacturing where industrial certifications, welding credentials, and safety training are the relevant career credentials; vocational programs that directly connect to Ship Channel employer needs have the highest per-household economic return." },
-        { name: "Public Safety & Industrial Community Security", tag: "Public Safety", why: "Industrial corridors have specific public safety profiles — chemical plant incidents, hazardous materials transport, and the security challenges of dense working-class communities adjacent to major industrial facilities; emergency response capacity, industrial safety regulation, and community notification systems are public safety priorities unique to this geography." },
-        { name: "Hispanic Community Political Realignment Context", tag: "Political Landscape", why: "A 68% Republican margin in a district that is 42.66% Hispanic — nearly the same share as white — is one of the most striking realignment results in Harris County; the working-class Ship Channel Hispanic community's political shift toward Republican candidates mirrors South Texas realignment dynamics and reflects economic identity around energy sector employment, cultural conservatism, and border security concerns." }
+        { name: "Petrochemical Industry Job Protection", tag: "lean-into", why: "Pasadena and Deer Park sit directly on the Houston Ship Channel, and at 19.5% college attainment and $79,203 median income, refinery and chemical plant employment is the primary vehicle for working-class household stability in HD-128. Candidates who speak to specific Ship Channel employer pressures, refinery turnaround employment cycles, and environmental permitting timelines earn immediate credibility this district rewards above all else." },
+        { name: "Industrial Safety and Community Health", tag: "lean-into", why: "The 2019 Deer Park ITC fire and ongoing Ship Channel emissions are not abstract policy issues for HD-128 residents — they are lived experiences affecting air quality, school closures, and property values in communities where 42% are Hispanic and 43% are white working-class. Candidates who cite specific Pasadena-area monitoring failures and refinery fence-line community protections demonstrate they represent the neighborhood, not just the employer." },
+        { name: "Hispanic Working-Class Economic Concerns", tag: "careful", why: "At 42.66% Hispanic — nearly equal to the 42.65% white population — HD-128 is among the most evenly balanced biracial districts in the Houston metro, yet it votes 68-32 Republican. The Hispanic working-class share in this district has significant economic overlap with white neighbors around Ship Channel employment and homeownership, but specific outreach gaps can be exploited when a challenger frames service delivery failures in Spanish-language media." },
+        { name: "Environmental Regulation as Job Threat Framing", tag: "avoid", why: "In a district where families simultaneously depend on petrochemical employment and breathe fence-line air, positioning all environmental regulation as an attack on jobs misreads the actual constituency. Pasadena and Deer Park residents who watched their children stay home during the ITC fire do not experience environmental accountability as anti-worker — dismissing their safety concerns while defending industry wholesale costs credibility with a constituency that holds both positions simultaneously." },
+        { name: "Abstract Conservative Ideology Over Industry Specifics", tag: "avoid", why: "At 19.5% college attainment and $79,203 median income, HD-128 voters are not ideologically oriented — they are economically oriented around Ship Channel employment, homeownership costs, and neighborhood safety. Candidates who lead with statehouse culture-war positioning instead of demonstrable advocacy for Pasadena refinery jobs and Deer Park school funding signal they are representing a party rather than a place." }
       ],
       memoHeadline: "Pasadena-Deer Park's Ship Channel District: Equal Hispanic-White, 68% Republican, and the Petrochemical Working Class",
       memoParagraphs: [
@@ -6154,8 +6154,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-129",
     name: "Texas House District 129",
-    city: "TBD",
-    region: "TBD",
+    city: "Clear Lake",
+    region: "NASA Corridor",
     type: "state house district",
     incumbentName: "Dennis Paul",
     incumbentParty: "Republican",
@@ -6179,11 +6179,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 7.42, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Aerospace Economy & NASA-Johnson Space Center", tag: "Economy", why: "The Clear Lake corridor adjacent to Johnson Space Center is one of the most unique economic geographies in Texas — a hub of aerospace engineering, federal contractor employment, and the high-tech supply chain that supports NASA operations; space policy, federal R&D investment, and aerospace employer retention are issues with direct local economic stakes found in few other Texas House districts." },
-        { name: "Property Taxes & Suburban Homeowner Relief", tag: "Economy", why: "At $93,587 median income with a white majority and significant professional homeowner base, Harris County's appraisal increases have generated substantial tax bills in the Clear Lake and Southeast Harris County communities; tax relief is the most broadly mobilizing homeowner issue for a constituency that includes both longtime Clear Lake homeowners and newer arrivals from Houston's urban core." },
-        { name: "Asian American Community Engagement", tag: "Equity", why: "At 10.07% Asian — including significant South Asian, Chinese American, and Vietnamese American communities in the NASA corridor — HD-129 has a meaningful Asian constituency whose priorities around immigration, education equity, and civil rights require specific outreach rather than generic suburban messaging; many of these families work in the aerospace and engineering sectors that define the district's economic identity." },
-        { name: "Coastal Infrastructure & Flood Resilience", tag: "Infrastructure", why: "Southeast Harris County's proximity to Galveston Bay and its history of hurricane and flooding damage — including Harvey's devastating 2017 impact — makes coastal flood resilience, stormwater infrastructure, and emergency management policy distinctively important in a district whose geography creates recurring vulnerability." },
-        { name: "School District Quality & STEM Education", tag: "Education", why: "A district anchored by aerospace and engineering employment has a parent electorate that places extraordinary value on STEM education quality, advanced academic programs, and the college pipeline that feeds the NASA-corridor professional economy; school district investment in science, mathematics, and engineering education is both a community value and an economic development strategy." }
+        { name: "Aerospace and NASA Corridor Economy", tag: "lean-into", why: "Clear Lake's identity is inseparable from NASA Johnson Space Center, and at $93,587 median income and 39.8% college attainment, the district's professional class is heavily concentrated in aerospace, engineering, and defense contracting. Candidates who speak to specific JSC workforce threats, commercial space transition economics, and STEM pipeline investments at Clear Creek ISD demonstrate they understand what actually drives household stability here." },
+        { name: "High-Skilled Workforce Retention and Compensation", tag: "lean-into", why: "At 38.6% renters in a $93K-income district, a significant share of HD-129's aerospace and technical workforce is renting — facing lease cost increases that are outpacing even professional salaries in Southeast Harris County. Connecting housing affordability directly to workforce retention in the NASA corridor frames the issue in terms this specific constituency recognizes rather than generic rental-market rhetoric." },
+        { name: "Growing Hispanic and Asian Professional Communities", tag: "careful", why: "At 28.5% Hispanic and 10% Asian, HD-129's non-white professional population is substantial and growing in Clear Lake's engineering and medical sectors. These communities are economically aligned with the district's aerospace identity but have specific civic engagement and representation expectations that, if unmet by the incumbent, create organized persuadable constituencies in a 61-39 seat." },
+        { name: "Treating Clear Lake as Generic Houston Suburb", tag: "avoid", why: "Clear Lake has a distinct civic identity built around NASA, UHCL, and the bay — and its residents actively reject being lumped into undifferentiated Houston suburban messaging. Candidates who do not specifically name JSC, commercial space, or Galveston Bay quality in their outreach signal unfamiliarity with a constituency that considers its community categorically different from Katy or Cypress." },
+        { name: "Anti-Science or Anti-Federal Research Positioning", tag: "avoid", why: "In a district anchored by NASA's federal research mission, where a large share of the professional workforce holds federal contracts or employment, positioning against federal science investment — even as coded fiscal conservatism — threatens the economic foundation of the constituency. At 39.8% college attainment with an engineering-heavy professional base, this is among the few Houston suburban districts where anti-federal-research rhetoric has direct household income implications." }
       ],
       memoHeadline: "Clear Lake and the NASA Corridor: Aerospace Economy, $94K Income, and Southeast Harris County's Distinctive Identity",
       memoParagraphs: [
@@ -6202,8 +6202,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-130",
     name: "Texas House District 130",
-    city: "TBD",
-    region: "TBD",
+    city: "Cypress",
+    region: "Northwest Houston",
     type: "state house district",
     incumbentName: "Tom Oliverson",
     incumbentParty: "Republican",
@@ -6227,11 +6227,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 8.54, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & Affluent Homeowner Appraisals", tag: "Economy", why: "At $116,126 median income and only 21.2% renters, HD-130 is one of the most homeowner-dominant districts in northwest Harris County; Cypress-area property values have appreciated significantly, and the district's professional homeowning majority evaluates representatives primarily on their ability to deliver meaningful appraisal relief and property tax reduction." },
-        { name: "Healthcare Policy & Medical Professional Community", tag: "Healthcare", why: "Tom Oliverson's background as a physician gives the district a distinctive representative profile on healthcare policy; the Cypress and northwest Harris County medical community — hospitals, clinics, and the large population of medical professionals who live in this corridor — has specific policy interests in healthcare regulation, insurance markets, and Medicaid policy that Oliverson's expertise connects to directly." },
-        { name: "School District Excellence & Curriculum Quality", tag: "Education", why: "At 45.4% college attainment in an affluent, professionally diverse suburban community, the Cy-Fair ISD catchment area parent electorate evaluates school board governance, curriculum standards, and per-pupil funding with the rigor of an informed constituency that chose this community partly based on school quality; any perceived compromise in district performance generates immediate organized response." },
-        { name: "Suburban Growth & Northwest Corridor Infrastructure", tag: "Infrastructure", why: "The Cypress corridor is one of the fastest-growing suburban areas in Harris County; road capacity on Hwy 290 and the Grand Parkway, school district facility expansion, and utility systems are the infrastructure challenges where state funding decisions most directly affect the daily quality of life of residents who are experiencing growth faster than infrastructure can scale." },
-        { name: "Diverse Community Engagement", tag: "Equity", why: "With Hispanic 24%, Black 10%, and Asian 9% together accounting for 43% of the district, HD-130 is meaningfully diverse for a 69% Republican seat; specific constituent investment in all three minority communities — whose combined population approaches nearly half the district — is both a governing obligation and a long-term political consideration as demographic trends continue." }
+        { name: "Cypress Infrastructure and Flood Mitigation", tag: "lean-into", why: "At $116,126 median income and 78.8% homeownership, Cypress homeowners have made the largest residential investments in Northwest Harris County — and post-Harvey flood risk remains a live appraisal and insurance threat. Candidates who cite specific Cypress Creek watershed project timelines and Harris County Flood Control funding gaps demonstrate local stewardship of the district's primary asset-protection concern." },
+        { name: "Property Tax Relief for High-Value Homeowners", tag: "lean-into", why: "At $116K median income with homeownership above 78%, HD-130 homeowners face some of the highest absolute dollar appraisal increases in Harris County — and Cypress residents with $400K-plus homes feel appraisal cap limitations acutely. Specific Cypress-area appraisal data and homestead exemption mechanics give candidates substantive material that outperforms generic tax-relief commitments with a constituency that reads fine print." },
+        { name: "Majority-Minority Suburb Shifting Demographics", tag: "careful", why: "At 46% combined Hispanic, Black, and Asian population in a 69-31 district, HD-130's non-white constituencies are growing faster than the political alignment suggests — and at $116K median income, these are not economically marginal communities. A physician-representative who delivers credibly on healthcare, education, and infrastructure for all four demographic communities can maintain structural advantage; one who governs only for the 54% white majority risks accelerating the timeline on a competitive race." },
+        { name: "Healthcare Policy Without Local Physician Grounding", tag: "avoid", why: "With a physician as the district's representative, Cypress constituents have elevated expectations for healthcare policy specificity — vague talking points on insurance markets or Medicaid that ignore the Cy-Fair area's specific provider capacity and uninsured working-class population will be measured against a standard most candidates don't face. Generic partisan healthcare messaging from a medical professional reads as willful evasion to a 45.4%-college district that can evaluate the gap." },
+        { name: "Culture War Positioning Over Local Economic Substance", tag: "avoid", why: "HD-130's $116K-income professional homeowner base is among the most economically sophisticated in Harris County, and constituents at this income level expect legislative productivity on taxes, infrastructure, and regulation — not performative statehouse combat. In a district where the Republican hold is structurally strong, substituting statewide culture-war positioning for local delivery is the specific pattern that converts a 69-31 district into a competitive one over two cycles." }
       ],
       memoHeadline: "Cypress and Northwest Harris County: $116K Income, Physician-Representative, and a 69% Republican Homeowner Coalition",
       memoParagraphs: [
@@ -6250,8 +6250,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-131",
     name: "Texas House District 131",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "Southwest Houston",
     type: "state house district",
     incumbentName: "Alma A. Allen",
     incumbentParty: "Democrat",
@@ -6275,11 +6275,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 6.00, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Dual-Community Governance — Hispanic & Black Southwest Houston", tag: "Equity", why: "At Hispanic 51% and Black 35%, HD-131 is a near-equal biracial majority-minority district where the governing agenda must invest simultaneously and specifically in both communities' economic and civic priorities; at a combined 86% share, the quality of that dual-community investment determines constituent trust across the entire district." },
-        { name: "Housing Stability & Renter Protections", tag: "Housing", why: "With 53.4% renters at $52,871 median income in southwest Houston's working-class neighborhoods, the majority of households face housing cost pressure in a market that has experienced rent increases even in historically affordable areas; eviction protection, habitability enforcement, and affordable unit preservation are the most urgently needed housing interventions." },
-        { name: "Economic Opportunity & Poverty Reduction", tag: "Economy", why: "At $52,871 median income across a 51% Hispanic and 35% Black district with only 20.4% college attainment, working families are navigating an economy that provides limited credential-based mobility; living wage advocacy, worker protections in the service sectors where both communities are concentrated, and job training programs are the economic interventions that most directly shift household outcomes." },
-        { name: "Public Education & School Quality", tag: "Education", why: "Alma Allen has a long legislative focus on education policy; her district's 20.4% college attainment and large school-age population across both Hispanic and Black communities give that work direct local stakes — school funding equity, bilingual programs for the Hispanic majority, and post-secondary readiness investment are the education priorities most tied to the district's long-term economic trajectory." },
-        { name: "Healthcare Access & Community Clinic Investment", tag: "Healthcare", why: "Low-income Hispanic and Black families in southwest Houston face differential but overlapping healthcare access barriers — uninsurance, cost, language, and proximity — that community health clinic funding, Medicaid enrollment, and culturally competent care address most directly for both communities simultaneously." }
+        { name: "Renter Protections and Housing Stability", tag: "lean-into", why: "At 53.4% renters and $52,871 median income, HD-131 is one of the most renter-dominant districts in Houston — and Southwest Houston's Black and Hispanic working-class renters face eviction pressure, habitability failures, and displacement from gentrifying corridors with limited legal recourse. Candidates who cite specific Sharpstown and Gulfton area eviction filing rates and connect them to statewide tenant protection gaps speak directly to the lived experience of a majority of this district's households." },
+        { name: "Healthcare Access for Uninsured Working-Class Residents", tag: "lean-into", why: "At $52,871 median income with 50.7% Hispanic and 35.1% Black residents, HD-131 has among the highest uninsured rates in Harris County — and proximity to the Texas Medical Center does not translate into access for Southwest Houston's working poor. Medicaid expansion, community health center funding, and specific Sharpstown-area clinic capacity are not abstract policy positions here; they are the difference between constituents receiving or forgoing care." },
+        { name: "Black-Hispanic Coalition Tensions on Service Priorities", tag: "careful", why: "At 51% Hispanic and 35% Black, HD-131's two dominant communities have significant economic overlap but distinct civic organizations, service priorities, and political leadership relationships that require active coalition maintenance. A representative who is perceived as attentive to one community's institutional networks while neglecting the other's — on issues like school siting, clinic placement, or neighborhood investment — risks fracturing the coalition that makes an unopposed hold structurally sustainable." },
+        { name: "Symbolic Legislative Positioning Without Local Delivery", tag: "avoid", why: "In a 53%-renter, $52K-income district where housing instability and healthcare gaps are immediate household crises, messaging that prioritizes statehouse symbolic victories over tangible local service outcomes is visible and punishing. SW Houston's working-class communities evaluate representatives on whether roads get fixed, clinics stay funded, and tenants get help — a senior Democratic voice that substitutes statewide profile for constituency service loses the trust this district's demographics make look automatic." },
+        { name: "Framing Poverty as Individual Failure", tag: "avoid", why: "At $52,871 median income in a district where more than half of residents rent and a combined 86% are Hispanic or Black, framing economic precarity as personal responsibility rather than structural — whether in healthcare, housing, or employment — is received as contempt for the constituency's lived circumstances. HD-131 voters are not economically struggling because of choices; they are navigating a labor market, housing market, and healthcare system that HD-131's demographics reveal to be structurally misaligned with their interests." }
       ],
       memoHeadline: "Southwest Houston's Biracial Working-Class District: Hispanic 51%, Black 35%, and Alma Allen's Senior Democratic Voice",
       memoParagraphs: [
@@ -6298,8 +6298,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-132",
     name: "Texas House District 132",
-    city: "TBD",
-    region: "TBD",
+    city: "Katy",
+    region: "West Houston Suburbs",
     type: "state house district",
     incumbentName: "Mike Schofield",
     incumbentParty: "Republican",
@@ -6323,11 +6323,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 12.18, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & Homeowner Relief", tag: "Economy", why: "At $109,394 median income and 29.1% renters, HD-132 is a predominantly homeowning, high-income district where Harris County appraisal increases have produced substantial tax bills; property tax relief is the primary homeowner economic concern and the issue on which the district's professional-class majority evaluates legislative effectiveness most directly." },
-        { name: "Four-Community Engagement in a Majority-Minority Suburb", tag: "Equity", why: "With no racial majority — white 41%, Hispanic 28%, Asian 13%, Black 12% — HD-132 is a genuinely majority-minority Houston suburb where effective governance requires specific investment in all four communities rather than treating the white plurality as the governing base with the other communities as accommodated constituencies." },
-        { name: "School District Quality & Multicultural Education", tag: "Education", why: "Katy ISD's rapid growth and demographic diversification make school quality, equitable resource distribution, and multilingual education investment active policy concerns across all four of the district's communities; at 48.6% college attainment, the parent electorate evaluates district performance with sophisticated, cross-community engagement." },
-        { name: "Asian & Black Community Engagement", tag: "Equity", why: "At Asian 12.65% and Black 12.18% — nearly equal shares — the district's South Asian, East Asian, and Black communities together constitute 25% of the population and have distinct priorities around immigration, civil rights, and economic equity that require specific, culturally informed outreach rather than generic minority messaging." },
-        { name: "Suburban Growth & West Houston Infrastructure", tag: "Infrastructure", why: "The Katy and west Harris County corridor is absorbing intense residential and commercial development; highway capacity on I-10 and the Grand Parkway, school district facility expansion, and utility infrastructure are the infrastructure challenges where state funding decisions most directly affect the daily quality of life of a rapidly growing community." }
+        { name: "Top-Tier School District Performance", tag: "lean-into", why: "At 48.6% college attainment and $109,394 median income, Katy ISD quality is the primary driver of HD-132 homeownership decisions — and constituents who paid Katy-area premiums to access those schools have a direct financial stake in maintaining funding structures and resisting mandates that degrade performance ratings. Specific Katy ISD accountability metrics and legislative funding threats give candidates substantive local material that generic education talking points cannot replicate." },
+        { name: "High-Income Homeowner Tax Burden Relief", tag: "lean-into", why: "At $109K median income with 70.9% homeownership, HD-132 homeowners face substantial absolute dollar property tax liabilities on Katy-area homes — and appraisal increases have outpaced even this income level. Candidates who connect specific Fort Bend and Harris County appraisal district data to actionable legislative relief demonstrate they are managing the district's primary household financial concern rather than performing it." },
+        { name: "Majority-Minority District With Republican Hold", tag: "careful", why: "With no racial majority — 41% white, 28% Hispanic, 13% Asian, 12% Black — HD-132 is structurally dependent on cross-racial Republican coalition maintenance that requires active constituent service across all four communities. At 48.6% college attainment, these are highly informed voters who will evaluate service delivery records rather than simply respond to partisan signals, making the 59-41 margin more fragile than it appears in a single-cycle landslide." },
+        { name: "Treating Katy as Culturally Homogeneous", tag: "avoid", why: "HD-132's Katy suburb is one of the most demographically diverse communities in Texas — with large South Asian, Latin American, and West African immigrant professional populations embedded in the same school districts and HOA structures as Anglo homeowners. Messaging that invokes a homogeneous 'Katy community' identity invisible to 59% of the district's non-white residents signals that the representative is not actually governing the place that exists." },
+        { name: "Culture War Wedge Issues Over Economic Specifics", tag: "avoid", why: "In a four-community, $109K-income suburb where the Republican hold depends on cross-racial homeowner coalition maintenance, deploying culture-war wedge issues that fracture any of the four demographic communities risks converting a 59-41 district into a 52-48 one quickly. Katy's majority-minority professional homeowner base has enough economic alignment to sustain Republican voting — but not enough cultural homogeneity to survive aggressive identity-based political combat without coalition damage." }
       ],
       memoHeadline: "Katy's Majority-Minority High-Income Suburb: No Racial Majority, $109K Income, and a 59-41 Republican Hold",
       memoParagraphs: [
@@ -6346,8 +6346,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-133",
     name: "Texas House District 133",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "Houston Inner Loop",
     type: "state house district",
     incumbentName: "Mano Deayala",
     incumbentParty: "Republican",
@@ -6371,11 +6371,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 12.02, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Affordability & High-Education Renter Market", tag: "Housing", why: "HD-133's 56.5% renter rate at $85,888 median income and 65% college attainment describes a community of educated professional renters navigating an upscale Houston inner-loop apartment market where rents have risen significantly; supply expansion, renter stability programs, and ownership pathway support are the housing interventions most relevant to a constituency that earns well but cannot readily enter the ownership market." },
-        { name: "Urban Neighborhood Quality & Planning", tag: "Infrastructure", why: "Houston's inner-loop and near-loop corridors are experiencing intense development activity; neighborhood character, walkability, green space access, and the management of high-density development adjacent to established residential areas are the urban planning priorities that activate organized, well-informed constituent groups in this high-education district." },
-        { name: "Diverse Community Engagement", tag: "Equity", why: "With white 48%, Hispanic 20%, Black 16%, and Asian 12% — all within a 36-point range — HD-133 has a genuinely diverse four-community composition that requires specific investment across all groups; the combined minority population of 48% is nearly equal to the white plurality, and governing the district as a white-majority suburb misreads its demographic reality." },
-        { name: "Professional Economy & Business Climate", tag: "Economy", why: "Houston's Galleria and Greenway Plaza corridors anchor a professional services economy — finance, law, consulting, and corporate headquarters — whose constituents follow business regulation, corporate tax climate, and economic development policy with professional-grade interest; this electorate evaluates economic policy positions with the analytical precision of the industries they work in." },
-        { name: "Women's Healthcare & Reproductive Rights", tag: "Healthcare", why: "A 65% college-attainment district with a significant population of professional women is among the most politically activated electorates on reproductive rights in post-Dobbs Texas; even in an unopposed Republican seat, this issue represents the most significant structural vulnerability for any future competitive challenge." }
+        { name: "Renter Rights in High-Cost Inner Loop", tag: "lean-into", why: "At 56.5% renters in Houston's Inner Loop, HD-133's majority-renter population faces the full weight of lease escalation, building quality failures, and displacement from gentrifying corridors with almost no state-level protection. In a 65%-college district where renters are not low-income but are nonetheless financially exposed, substantive engagement with lease transparency, habitability enforcement, and rent-impact disclosure speaks to a constituency sophisticated enough to know what protection gaps exist." },
+        { name: "Urban Infrastructure and Transit Investment", tag: "lean-into", why: "Inner Loop Houston's professional renter population — at $85,888 median income and 65% college attainment — has made deliberate location choices premised on walkability, commute time, and urban amenity access. Candidates who speak to specific METRORail expansion, protected bike infrastructure, and Inner Loop road maintenance funding earn credibility with a constituency that experiences Houston's infrastructure gaps as daily quality-of-life failures rather than abstract policy debates." },
+        { name: "Diverse Professional Community Representation", tag: "careful", why: "At 48% white, 20% Hispanic, 16% Black, and 12% Asian, HD-133's Inner Loop professional corridor is genuinely multiracial — and an unopposed Republican in a majority-minority, 65%-college, 56%-renter district faces an unusual legitimacy challenge. Maintaining constituent service credibility across all four communities without triggering partisan backlash from the district's ideologically mixed professional base requires active engagement rather than governing only for the plurality-white homeowner minority." },
+        { name: "Conservative Ideological Positioning in a Credentialed Diverse District", tag: "avoid", why: "HD-133's 65% college attainment and multiracial professional composition make it one of the most demographically anomalous unopposed Republican seats in Texas — and hard-right positioning on social issues, regulatory rollback, or minority community concerns in this district will generate organized opposition where none currently exists. Running unopposed does not mean constituents are ideologically aligned; it means opposition has not yet been resourced." },
+        { name: "Ignoring Renter Majority as Non-Property-Owning Periphery", tag: "avoid", why: "At 56.5% renters with $85,888 median income and 65% college attainment, HD-133's renters are not a marginal constituency — they are the majority and they are economically powerful. A representative who governs exclusively toward homeowners and business interests while treating the renter majority as outside the constituency's political core is misreading which constituency will fund and organize an opposition campaign when one emerges." }
       ],
       memoHeadline: "Houston's Inner-Loop Professional Corridor: 65% College, 56.5% Renters, Diverse, and Unopposed Republican",
       memoParagraphs: [
@@ -6394,8 +6394,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-134",
     name: "Texas House District 134",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "Houston Medical Center",
     type: "state house district",
     incumbentName: "Ann Johnson",
     incumbentParty: "Democrat",
@@ -6419,11 +6419,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 7.87, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Women's Healthcare & Reproductive Rights", tag: "Healthcare", why: "At 78.4% college attainment, HD-134 is tied for the highest-credential electorate of any Texas House district; the college-educated professional women who define this community are among the most politically activated constituencies in the state on reproductive rights, and this issue is the single most important driver of the 61% Democratic margin and the governing identity of the seat." },
-        { name: "Housing Affordability & Professional Renter Paradox", tag: "Housing", why: "A 53.7% renter rate at $119,234 median income describes Houston's version of a paradox seen in other major Texas metros: highly compensated professionals who earn well above the median are still renting in an inner-loop market where purchase prices have outpaced even high incomes; supply expansion, renter stability, and ownership pathway programs address this constituency's specific housing predicament." },
-        { name: "Urban Planning, Historic Preservation & Neighborhood Character", tag: "Infrastructure", why: "The Rice Village, West University Place, and Upper Kirby neighborhoods that HD-134 encompasses have organized, sophisticated constituencies around historic preservation, development review, and neighborhood character; urban planning decisions that affect density, tree canopy, and commercial development are intensely contested and closely watched by a high-information electorate." },
-        { name: "Texas Medical Center Economy & Healthcare Policy", tag: "Healthcare", why: "The Texas Medical Center — the world's largest medical complex — anchors the district's economic and intellectual identity; hospital policy, medical research funding, healthcare regulation, and the employment conditions of medical professionals are policy issues with direct local constituency stakes that few other Texas House districts can claim." },
-        { name: "Asian American Community Engagement", tag: "Equity", why: "At 13.83% Asian — including significant South Asian medical professionals, Chinese American academics, and Vietnamese American families in the inner-loop corridors — the district's Asian community has specific priorities around immigration, civil rights, and education equity that require culturally specific engagement rather than generic coalition-of-color outreach." }
+        { name: "Medical Center and Biomedical Research Funding", tag: "lean-into", why: "The Texas Medical Center is the world's largest medical complex and the economic and civic anchor of HD-134 — and at 78.4% college attainment with heavy healthcare and research employment concentration, constituents have professional stakes in NIH funding, graduate medical education financing, and biomedical research infrastructure that go beyond general healthcare policy. Candidates who cite specific TMC funding threats and Texas research competitiveness data are speaking the district's professional language." },
+        { name: "Housing Costs for High-Earning Renters", tag: "lean-into", why: "At 53.7% renters, $119,234 median income, and 78.4% college attainment, HD-134 contains Houston's densest concentration of high-earning professional renters — physicians, researchers, lawyers, and engineers who are financially exposed to Inner Loop lease escalation despite household incomes most districts don't approach. Framing housing affordability as a workforce and quality-of-life issue rather than a poverty issue speaks accurately to this constituency's specific experience." },
+        { name: "Reproductive Rights and Healthcare Access", tag: "careful", why: "In a 78.4%-college, 57.9%-white professional district with heavy female healthcare workforce representation, abortion restrictions and reproductive healthcare access have direct professional and personal salience that exceeds most Texas districts. HD-134 is precisely the seat where Democrats can speak directly to post-Dobbs clinical impacts on TMC physicians and patients — but calibration between mobilizing the base and maintaining the 61% hold requires substantive policy specificity rather than maximalist framing." },
+        { name: "Populist Economic Messaging Misaligned With District Income", tag: "avoid", why: "At $119,234 median income and 78.4% college attainment, HD-134 is among the most affluent Democratic districts in Texas — and messaging built around economic precarity, working-class solidarity, or redistributive framing misreads the constituency. These voters support progressive policy because of civic values and professional ethics, not economic grievance, and campaigns that import populist framing from lower-income Democratic districts sound foreign and poorly researched in Rice Village and West University Place." },
+        { name: "Anti-Expertise or Anti-Institutional Positioning", tag: "avoid", why: "In a district where more than three-quarters of adults hold college degrees and the dominant employer is the world's largest medical research complex, positioning against scientific institutions, public health expertise, or credentialed professional authority — even as coded political independence — triggers immediate and organized backlash. HD-134's professional class does not treat expertise skepticism as authenticity; they treat it as disqualifying, and they have the resources to act on that judgment." }
       ],
       memoHeadline: "Houston's Most Credentialed Democratic District: 78.4% College, $119K Income, the Medical Center, and a 61% Hold",
       memoParagraphs: [
@@ -6442,8 +6442,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-135",
     name: "Texas House District 135",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "Northwest Houston",
     type: "state house district",
     incumbentName: "Jon E. Rosenthal",
     incumbentParty: "Democrat",
@@ -6467,11 +6467,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 9.38, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Hispanic Community Investment & Economic Opportunity", tag: "Equity", why: "At 45.79% Hispanic — the district's largest single community — and $86,868 median income, HD-135's Latino population spans a wide economic range from working-class service workers to middle-class homeowners; economic opportunity programs, bilingual services, and constituent engagement that meets this community's specific priorities are the foundational governing obligations of the district's Democratic representative." },
-        { name: "Homeownership & Property Economic Stability", tag: "Housing", why: "At only 26.1% renters with $86,868 median income, HD-135 is a predominantly homeowning district; protecting established homeowners from appraisal pressure, predatory lending, and displacement in a market experiencing spillover growth from Houston's core are the housing policy priorities most relevant to the district's owner-majority constituency." },
-        { name: "Diverse Four-Community Engagement", tag: "Equity", why: "With Hispanic 46%, Black 20%, White 20%, and Asian 9% — no community exceeding 46% — HD-135 is another genuinely majority-minority Houston-area district where governing credibly requires specific, simultaneous investment in all four communities' policy priorities rather than relying on any single demographic as the political anchor." },
-        { name: "Workforce Development & Economic Mobility", tag: "Economy", why: "At 30.9% college attainment in a district with a Hispanic plurality and significant Black community, the majority of working-age adults are non-degreed; vocational training, apprenticeship programs, and community college access tied to northwest Harris County's growing employment base are the economic mobility investments that most directly improve household outcomes." },
-        { name: "School Quality & Bilingual Education", tag: "Education", why: "A four-community district with a 46% Hispanic majority and a young median age of 33.2 has a large school-age population across multiple linguistic backgrounds; bilingual education, dual-language programs, and equitable school district investment are the education priorities that reach all four communities' families while specifically serving the district's largest constituency." }
+        { name: "Hispanic Homeownership and Appraisal Burdens", tag: "lean-into", why: "At 73.9% majority-minority and 26.1% renters, HD-135 is predominantly a homeowner district where Hispanic families represent the largest ownership bloc. Northwest Houston appraisal increases have outpaced $86,868 median income growth, making property tax relief a direct kitchen-table issue rather than an abstract policy commitment. Candidates who cite Harris County appraisal district trends in Spring Branch and Carverdale neighborhoods speak to lived experience, not ideology." },
+        { name: "Workforce Pipeline for Working Families", tag: "lean-into", why: "At 30.9% college attainment in a district with four distinct demographic communities, credential-to-career pathways at Houston Community College and nearby technical programs are more relevant than four-year university access for most HD-135 households. Northwest Houston's logistics, construction, and healthcare sectors employ significant shares of the 45% Hispanic workforce, and connecting workforce investment to specific local employers earns credibility that generic education talking points do not." },
+        { name: "Neighborhood Infrastructure Equity Gaps", tag: "careful", why: "Northwest Houston's majority-minority communities have documented disparities in drainage, road quality, and park access relative to adjacent whiter Harris County precincts — a legitimate grievance that resonates across all four demographic communities. However, framing this purely as racial inequity rather than constituent service delivery risks alienating the 20% white homeowner bloc that shares infrastructure frustrations but responds differently to equity-centered language." },
+        { name: "Treating Asian Residents as Model Minority Afterthought", tag: "avoid", why: "At 9.38% Asian in a district where multiethnic coalition-building is the only governance model, folding the Asian community into symbolic inclusion while skipping language-accessible outreach and ignoring Vietnamese, Chinese, and South Asian small business concerns forfeits real constituent trust. In an unopposed seat, the risk isn't electoral — it's the slow erosion of cross-community service credibility that eventually produces a primary challenger." },
+        { name: "Single-Community Governance in a Four-Community District", tag: "avoid", why: "With Hispanic 46%, Black 20%, White 20%, and Asian 9% populations, any constituent service posture that visibly prioritizes one community's concerns over others — in casework, town halls, or legislative focus — will be noticed and remembered in a district where no single group holds majority alone. Running unopposed creates a temptation to neglect outreach to non-base communities, but in a district this demographically balanced, perceived neglect compounds across election cycles." }
       ],
       memoHeadline: "Northwest Houston's Majority-Minority Homeowner District: Hispanic 46%, Four Communities, and a 26% Renter Rate",
       memoParagraphs: [
@@ -6490,8 +6490,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-136",
     name: "Texas House District 136",
-    city: "TBD",
-    region: "TBD",
+    city: "Cedar Park",
+    region: "Austin North Suburbs",
     type: "state house district",
     incumbentName: "John H. Bucy III",
     incumbentParty: "Democrat",
@@ -6515,11 +6515,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 9.05, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Affordability & High-Income Renter Pressure", tag: "Housing", why: "A 51.4% renter rate at $94,247 median income in the Cedar Park and Round Rock tech corridor reflects the same ownership market paradox found in Austin's inner districts: technology professionals earn well above the state median but face a housing market where purchase prices in the most desirable communities remain out of reach; supply expansion, renter market stability, and ownership pathway programs are the most relevant housing interventions." },
-        { name: "Technology Economy & Innovation Policy", tag: "Economy", why: "Williamson County's Cedar Park and Round Rock corridor hosts major technology campuses — including significant semiconductor and consumer electronics operations — whose workers make up a large share of HD-136's professional population; broadband infrastructure, tech-sector tax policy, and corporate investment climate are economic issues this electorate follows with professional expertise." },
-        { name: "Asian American Community Engagement", tag: "Equity", why: "At 14.02% Asian — reflecting the South Asian, East Asian, and Southeast Asian technology professionals and families who have settled in the Round Rock and Cedar Park corridor — HD-136 has a significant and growing Asian constituency whose priorities around immigration, education equity, and civil rights require specific, sustained outreach rather than generic suburban engagement." },
-        { name: "School District Quality & Tech Workforce Pipeline", tag: "Education", why: "At 50.6% college attainment, HD-136's parent electorate evaluates school board governance, STEM curriculum quality, and college readiness programs with exceptional rigor; Round Rock ISD's reputation is a primary reason families chose these communities, and the district's technology economy identity makes STEM education investment an economic development strategy as much as a parenting priority." },
-        { name: "Suburban Growth & Williamson County Infrastructure", tag: "Infrastructure", why: "Cedar Park and Round Rock have been among the fastest-growing communities in Texas for over a decade; road capacity, school district expansion, and utility infrastructure strain persistently under development pressure that state funding formulas have not always kept pace with." }
+        { name: "Renter Cost Burdens in Tech Corridor", tag: "lean-into", why: "At 51.4% renters and $94,247 median income, HD-136 is a high-earning district where housing costs still consume disproportionate household income — Cedar Park and Round Rock rents have tracked Austin metro inflation without commensurate protections. A 62% Democrat who speaks specifically to Williamson County rent trajectories, lease renewal pressures, and the absence of state-level renter protections connects to the majority of constituents more directly than homeowner-centric property tax messaging." },
+        { name: "Tech Workforce Job Security and Benefits", tag: "lean-into", why: "With 50.6% college attainment and a tech-corridor economy anchored by employers along US-183 and the 45 corridor, HD-136 has substantial exposure to tech sector layoff cycles, contractor classification questions, and benefit portability concerns that surfaced visibly in 2022-2024. Candidates who speak to specific Williamson County tech employer pressures — not generic innovation cheerleading — earn credibility with a highly educated constituency that can evaluate policy specifics." },
+        { name: "Asian Community Political Integration", tag: "careful", why: "At 14% Asian in a 62-38 district, the Asian community represents a meaningful share of the competitive margin and includes both heavily Democratic South Asian tech workers and more politically diverse East Asian and Southeast Asian households. Outreach that assumes uniform political alignment — rather than engaging the actual policy priorities of Cedar Park's Taiwanese, Indian, and Korean communities specifically — misreads a constituency that tracks closely and votes at high rates." },
+        { name: "Austin Identity Politics Transplanted North", tag: "avoid", why: "HD-136 voters chose a Democrat at 62%, but Cedar Park and Round Rock are not Austin — they are suburban homeowner and renter communities where progressive cultural signaling imported from Travis County messaging consistently underperforms the district's actual policy concerns around housing costs, school quality, and job security. Candidates who campaign as Austin Democrats in a Williamson County suburb risk alienating the 25% Hispanic and 14% Asian voters whose priorities are economic and practical, not ideologically expressive." },
+        { name: "Ignoring Republican-Leaning Homeowners as Lost Cause", tag: "avoid", why: "In a 62-38 district with $94K median income and substantial homeownership, the 38% Republican vote is not monolithic opposition — it includes fiscally conservative homeowners with real concerns about appraisal increases, school district spending, and local traffic that a constituent-service-focused Democrat can partially address. Treating the entire Republican-leaning quarter of the district as unpersuadable forfeits both legislative credibility and the margin buffer that keeps a 62% win from becoming a 55% vulnerability." }
       ],
       memoHeadline: "Cedar Park-Round Rock's Tech Corridor Democrat: $94K Income, 51% Renters, 14% Asian, at 62%",
       memoParagraphs: [
@@ -6538,8 +6538,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-137",
     name: "Texas House District 137",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "Sharpstown",
     type: "state house district",
     incumbentName: "Gene Wu",
     incumbentParty: "Democrat",
@@ -6563,11 +6563,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 9.04, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Renter Protections & Housing Crisis Infrastructure", tag: "Housing", why: "HD-137's 81.7% renter rate — the highest of any Texas House district in this project — is not merely a statistical outlier but a total description of how this community lives; nearly every household rents in a dense southwest Houston apartment market where habitability failures, eviction risk, and affordability pressure are daily realities for working families earning $47,659 median income." },
-        { name: "Economic Opportunity & Living Wage", tag: "Economy", why: "At $47,659 median income with 81.7% renters and 26.8% college attainment, working families in the Sharpstown and Westchase corridor are among the most economically precarious in Houston; raising the wage floor, protecting worker rights in the service and retail sectors, and expanding job training access are the economic interventions that most directly improve household stability." },
-        { name: "Immigrant Community Services & Protection", tag: "Equity", why: "The Sharpstown and Westchase area of southwest Houston is one of the most internationally diverse communities in the United States, home to significant immigrant populations from Latin America, Africa, Southeast Asia, and South Asia; immigration legal service access, community protection programs, and language-accessible public services are the policy investments that most directly serve the district's core constituency." },
-        { name: "Healthcare Access & Community Clinic Investment", tag: "Healthcare", why: "An 81.7%-renter, $47K-income district with major immigrant-origin populations faces the full range of healthcare access barriers — uninsurance, cost, language, and immigration status — that only comprehensive community health clinic investment and Medicaid enrollment assistance can adequately address." },
-        { name: "Public Education & Multilingual Programs", tag: "Education", why: "The extraordinary linguistic diversity of southwest Houston's Sharpstown area — with significant Spanish, Vietnamese, Chinese, and African language-speaking communities alongside English speakers — demands multilingual education, English acquisition programs, and school investment that serves children arriving with the full range of linguistic and cultural backgrounds." }
+        { name: "Renter Protections for Sharpstown's Households", tag: "lean-into", why: "At 81.7% renters and $47,659 median income, HD-137 is the highest-renter district in the Texas House, and Sharpstown's apartment stock has documented issues with habitability, lease enforcement, and eviction practices that directly affect the 59% Hispanic and 16% Black renter majority. Legislative focus on tenant remedies, habitability enforcement, and eviction diversion programs connects to the lived reality of virtually every household in this district in a way no other issue category matches." },
+        { name: "Immigrant and Mixed-Status Family Economic Security", tag: "lean-into", why: "Sharpstown's international community includes large Central American, Vietnamese, and South Asian populations, many in households with mixed immigration status where workforce participation, banking access, and public benefit eligibility create specific economic vulnerabilities at $47K median income. A candidate who speaks to consular services, workforce credential recognition for foreign-trained workers, and Sharpstown's small business corridor directly addresses the dominant economic reality of a 76-24 district with 26.8% college attainment." },
+        { name: "Public School Overcrowding and Quality", tag: "careful", why: "With a median age of 31.7 and high renter density, HD-137 has significant school-age population pressure on HISD campuses in the Sharpstown cluster that serve predominantly low-income, English-learner, and immigrant families. School quality messaging requires calibration because HISD's state-intervention history and ongoing controversy make institutional defense politically complicated, while constituent need for better-resourced local schools is unambiguous and genuine." },
+        { name: "Homeownership Aspiration Messaging in a Renter District", tag: "avoid", why: "Centering economic messaging on homeownership pathways, property tax relief, or first-time buyer programs in a district that is 81.7% renter signals a fundamental disconnect from constituent reality — at $47K median income, homeownership is not the proximate economic concern for the vast majority of HD-137 households. Candidates who default to homeownership framing import a middle-class economic framework that does not fit Sharpstown's actual household structure and reads as inattentive to constituents." },
+        { name: "Crime Alarmism Targeting Immigrant Communities", tag: "avoid", why: "In a 59% Hispanic, 76-24 district with significant undocumented and mixed-status population, public safety messaging that foregrounds immigration enforcement, 'criminal alien' framing, or implies that Sharpstown's diversity is a source of disorder will alienate the overwhelming constituency and suppress the constituent trust required for effective casework. Safety concerns in the district are real and should be addressed through community investment and policing accountability framing, not enforcement rhetoric that criminalizes the district's demographic identity." }
       ],
       memoHeadline: "Houston's Highest-Renter District: 81.7% Renters, $47K Income, and Sharpstown's International Community",
       memoParagraphs: [
@@ -6586,8 +6586,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-138",
     name: "Texas House District 138",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "Spring Branch",
     type: "state house district",
     incumbentName: "Lacey Hull",
     incumbentParty: "Republican",
@@ -6611,11 +6611,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Black / African American", pct: 8.06, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Hispanic Community Engagement & Economic Opportunity", tag: "Equity", why: "At 43.23% Hispanic — the district's largest single community — the Latino population in the Spring Branch and northwest Houston corridor represents the primary constituency in a district where no group commands a majority; specific economic opportunity programs, bilingual services, and constituent engagement that speaks to the Hispanic community's priorities are the baseline requirement for governing a 57% Republican seat that is structurally more competitive than the margin suggests." },
-        { name: "Housing Affordability & Renter-Owner Balance", tag: "Housing", why: "With 40.7% renters at $86,031 median income, HD-138 has a significant working-and-middle-class renter population for whom housing cost is an immediate financial pressure alongside a homeowning majority that faces its own appraisal and tax burden concerns; effective housing policy must address both constituencies' distinct but parallel pressures." },
-        { name: "Property Taxes & Homeowner Relief", tag: "Economy", why: "Harris County appraisal increases at $86,031 median income in the Spring Branch corridor have produced tax bills that reach across the district's homeowner majority; property tax relief is the most broadly mobilizing economic issue for the white, Hispanic, and Asian homeowners who together define the majority of the district's political identity." },
-        { name: "Asian Community Engagement & Policy", tag: "Equity", why: "At 10.13% Asian — reflecting significant Vietnamese American, Indian American, and Chinese American communities in the northwest Houston corridor — HD-138 has a meaningful Asian constituency whose priorities around immigration, education equity, and civil rights require specific outreach rather than generic suburban messaging." },
-        { name: "School District Quality & Multicultural Education", tag: "Education", why: "Spring Branch ISD serves one of the most linguistically and culturally diverse student bodies in Houston; at 42.4% college attainment across a four-community district, the parent electorate evaluates school quality, bilingual programs, and equitable resource distribution with engaged expectations that cross racial lines." }
+        { name: "Spring Branch Hispanic Business and Workforce Growth", tag: "lean-into", why: "At 43% Hispanic in a 57-43 Republican district, Spring Branch's Latino community represents the largest single demographic bloc and the core of the competitive margin — and Spring Branch's commercial corridors along Long Point and Westview have significant Hispanic entrepreneurship that is economically consequential beyond electoral politics. A Republican candidate who delivers visible constituent service to Hispanic business owners, not just Anglo homeowners, defends the seat structurally rather than relying on margin alone." },
+        { name: "Homeowner Property Tax Relief in $86K District", tag: "lean-into", why: "At $86,031 median income and 59.3% homeownership, HD-138 has a substantial owner-occupant base in Harris County where appraisal increases have been sharp and visible. Spring Branch and Memorial-area homeowners across all four demographic communities share appraisal frustration, and a Republican who can claim specific legislative wins on appraisal caps or exemption increases has a durable constituent-service message that crosses the district's racial diversity." },
+        { name: "Spring Branch ISD Funding and Quality", tag: "careful", why: "Spring Branch ISD serves a 43% Hispanic, 42% economically disadvantaged student body in a district where Anglo homeowners hold significant political weight and have historically defined the SBISD identity — creating tension between the district's funding needs for its majority low-income, English-learner student population and the perception among conservative homeowners that school spending is misaligned with their priorities. Any candidate must navigate between SBISD's genuine resource needs and the conservative homeowner constituency that resists increased school taxation." },
+        { name: "Declaring Spring Branch a Conservative Stronghold", tag: "avoid", why: "A 57-43 margin in a 43% Hispanic, majority-minority district is not a mandate — it is a narrow competitive advantage that depends on holding enough Hispanic and Asian voters to supplement the white conservative base, and messaging that positions the seat as safely Republican obscures the coalition work required to maintain it. Treating the district as red turf rather than a genuine competitive seat leads to complacency on constituent service and outreach that a well-funded Democratic challenger with strong Spring Branch community ties can directly exploit." },
+        { name: "Anti-Immigration Enforcement Rhetoric in a 43% Hispanic District", tag: "avoid", why: "With 43% Hispanic residents and a significant Spring Branch immigrant community, enforcement-heavy immigration messaging — including rhetoric about workplace raids, deportation operations, or 'securing the border' as a primary local issue — directly threatens the constituent relationships with Hispanic homeowners and workers whose support is structurally necessary to hold a 57-43 seat. A Republican who loses 10 points of Hispanic support in this district does not have a margin to absorb it." }
       ],
       memoHeadline: "Spring Branch's Majority-Hispanic Competitive Seat: 57-43 Republican with Four Communities and No Racial Majority",
       memoParagraphs: [
@@ -6634,8 +6634,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-139",
     name: "Texas House District 139",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "South Houston",
     type: "state house district",
     incumbentName: "Charlene Ward Johnson",
     incumbentParty: "Democrat",
@@ -6659,11 +6659,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 5.14, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Biracial Community Governance — Hispanic & Black Houston", tag: "Equity", why: "At Hispanic 44% and Black 36%, HD-139 requires governing investment simultaneously in both communities' specific economic and civic priorities; with combined 80% majority-minority status and distinct histories in Houston's civic and political landscape, effective representation of this district means holding both communities' specific policy expectations as co-equal governing obligations." },
-        { name: "Housing Stability & Renter Protections", tag: "Housing", why: "With 41.9% renters at $59,467 median income in a working-class south Houston community, a large share of households faces housing cost burden and displacement risk as Houston's urban growth extends into historically affordable neighborhoods; eviction protection, habitability enforcement, and affordable unit preservation serve the district's majority-minority renter population most directly." },
-        { name: "Economic Opportunity & Workforce Development", tag: "Economy", why: "At 24.6% college attainment across a predominantly Hispanic and Black working-class community, the majority of adults are non-degreed; vocational training, apprenticeship programs, and community college access tied to Houston's growing economy are the economic investments that most directly improve household outcomes for working families in both communities." },
-        { name: "Healthcare Access & Community Health Investment", tag: "Healthcare", why: "Hispanic and Black communities in south Houston face differential but overlapping healthcare access barriers — uninsurance, cost, language, and proximity — that community health clinic funding and Medicaid enrollment assistance address most effectively for both communities' working families simultaneously." },
-        { name: "Criminal Justice & Community Safety", tag: "Public Safety", why: "A Black-majority-component, majority-minority south Houston district has specific and informed expectations around community safety — both effective crime prevention and accountability within the criminal justice system; investment in violence prevention, mental health crisis response, and community-police relations are the public safety priorities this constituency evaluates most carefully." }
+        { name: "Dual-Community Economic Development Priority", tag: "lean-into", why: "At 44% Hispanic and 36% Black in a district where both communities are economically distinct — different employment sectors, different neighborhood concentrations, different small business ecosystems — constituent credibility requires demonstrating visible investment in both South Houston's Hispanic commercial corridors and the Black community's institutional anchors simultaneously. An unopposed incumbent who can document specific legislative wins tied to named South Houston and Sunnyside neighborhood projects earns loyalty that survives future competition." },
+        { name: "Healthcare Access at $59K Median Income", tag: "lean-into", why: "At $59,467 median income with 24.6% college attainment, HD-139 households sit in the coverage gap where employer-sponsored insurance is inconsistent and marketplace premiums are not affordable — Harris County's safety-net system at Ben Taub and Harris Health clinics is the de facto primary care infrastructure for a significant share of constituents. Candidates who speak specifically to Harris Health System access, community health center funding, and Medicaid expansion as a concrete South Houston issue outperform those who use national healthcare framing." },
+        { name: "Navigating Hispanic-Black Resource Allocation Tensions", tag: "careful", why: "In a near-biracial district where both communities have legitimate claims to constituent service investment, any visible pattern of prioritizing one community's neighborhood needs, organizational partnerships, or legislative focus over the other will generate friction that is politically costly in a district where an unopposed seat depends on broad cross-community trust. Explicit coalition-building — co-branded projects, joint town halls, shared legislative victories — is the calibration mechanism that prevents perceived favoritism from becoming a primary vulnerability." },
+        { name: "Campaigning Only to the Black Political Base", tag: "avoid", why: "In a district that is 44% Hispanic — exceeding the 36% Black population — a governing posture built primarily around Black political institutions, pastors, and civic organizations while treating Hispanic community outreach as secondary creates a structural legitimacy gap that accumulates across terms. South Houston's Hispanic community has its own civic infrastructure, advocacy organizations, and neighborhood leadership that expect commensurate engagement, not subordinate-coalition treatment." },
+        { name: "Generic Progressive Poverty Framing", tag: "avoid", why: "At $59,467 median income, HD-139 is not a poverty district — it is a working-class district with specific economic pressures around healthcare, housing, and job quality that residents experience as practical daily concerns rather than systemic injustice narratives. Policy framing that foregrounds structural oppression or national progressive identity over specific South Houston service delivery issues reads as disconnected from a constituency that evaluates representation on tangible local outcomes." }
       ],
       memoHeadline: "South Houston's Near-Biracial District: Hispanic 44%, Black 36%, and the Demands of Dual-Community Governance",
       memoParagraphs: [
@@ -6682,8 +6682,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-140",
     name: "Texas House District 140",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "North Houston",
     type: "state house district",
     incumbentName: "Armando Lucio Walle",
     incumbentParty: "Democrat",
@@ -6707,11 +6707,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.74, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Credential Pipeline & Vocational Education", tag: "Education", why: "At 6.6% college attainment — the second-lowest of any Texas House district — HD-140's foundational policy challenge is building a vocational and trades credential pipeline that leads the district's working-age adults to above-median wages without the four-year degree requirements that effectively exclude 93% of the constituency from credential-gated economic opportunity." },
-        { name: "Economic Opportunity & Poverty Reduction", tag: "Economy", why: "At $46,855 median income with 6.6% college attainment and 82% Hispanic workforce concentration in north Houston's construction, service, and industrial sectors, working families need wage floor increases, worker protections, and job training programs that reach people where they are — in trades, logistics, and service work — rather than aspiring upward to credential-gated professional employment." },
-        { name: "Immigration Community Services & Protection", tag: "Equity", why: "North Houston's Near Northside and adjacent communities are home to a large immigrant-origin population whose civic participation, economic activity, and daily security are shaped by immigration enforcement policy; immigration legal services, community protection programs, and language-accessible public services are the constituent investments that most directly affect the safety and stability of a community where immigration status is a daily consideration for many families." },
-        { name: "Housing Stability & Renter Affordability", tag: "Housing", why: "At 39.7% renters and $46,855 median income in a working-class north Houston community, nearly 4 in 10 households face housing cost pressure in a market that has seen Houston-wide rent increases; eviction protection, habitability enforcement, and affordable unit preservation are the housing interventions with the most direct quality-of-life impact for working families earning at or near the district's modest median." },
-        { name: "Healthcare Access & Uninsured Working Families", tag: "Healthcare", why: "North Houston's majority-Hispanic working-class communities face among the highest uninsurance rates in the city; community health clinic funding, Medicaid enrollment assistance, and bilingual healthcare access are the most acute unmet constituency needs in a district where the healthcare cost of a single emergency can destabilize a household financial situation with no margin." }
+        { name: "Workforce Credentials Without College Requirements", tag: "lean-into", why: "At 6.6% college attainment — the second-lowest in the Texas House — HD-140's 82% Hispanic workforce needs credential pathways through San Jacinto College's North Houston campus and HCC programs that do not presuppose four-year attainment as the entry point for economic mobility. Candidates who fight specifically for trade apprenticeships, stackable credentials, and employer-based training programs tied to North Houston's construction, logistics, and petrochemical sectors speak to the actual economic survival mechanism for this constituency." },
+        { name: "Colonia and Unincorporated Area Infrastructure", tag: "lean-into", why: "North Houston's HD-140 includes unincorporated Harris County pockets and lower-income Hispanic neighborhoods with documented deficits in drainage, paved roads, water quality, and code enforcement that are felt acutely at $46,855 median income and amplified by the flooding cycles that recur across north Harris County. Naming specific subdivisions and infrastructure failures — not generic urban infrastructure language — signals that a representative knows the geography of constituent hardship." },
+        { name: "Spanish-Language Government Services Access", tag: "careful", why: "In an 82% Hispanic district with 6.6% college attainment, meaningful constituent access to state and county services requires effective Spanish-language communication, translation at government offices, and culturally competent casework — but raising this as a legislative priority can invite nativist backlash in Austin that reduces the representative's effectiveness on other priorities. The calibration is between visible constituent service delivery in Spanish and the political cost of making language access a public advocacy fight in the current Texas legislative climate." },
+        { name: "College-Access Messaging as Economic Aspiration", tag: "avoid", why: "In a district where 6.6% of residents hold college degrees and $46,855 median income means most families are managing survival economics, centering economic uplift messaging around university access and four-year degree attainment speaks to a future constituency, not the present one — and implies that residents' current economic circumstances reflect an education deficit rather than structural labor market conditions. Workforce dignity messaging that honors the trades and non-degree career paths active in this community is substantively and politically superior." },
+        { name: "Immigration Enforcement as a Local Law-and-Order Issue", tag: "avoid", why: "In an 82% Hispanic district with $46K median income and a substantial immigrant workforce, any candidate posture that accepts, normalizes, or fails to actively oppose state or federal immigration enforcement activity in North Houston workplaces and neighborhoods will be understood as a betrayal of the constituency's basic security interests. The risk is not just electoral — it is the destruction of the casework trust relationships that define effective representation for a community with significant mixed-status household exposure." }
       ],
       memoHeadline: "North Houston's Second-Lowest-Credential District: 6.6% College, 82% Hispanic, and the Credential Gap as Survival Policy",
       memoParagraphs: [
@@ -6730,8 +6730,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-141",
     name: "Texas House District 141",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "Northeast Houston",
     type: "state house district",
     incumbentName: "Senfronia Thompson",
     incumbentParty: "Democrat",
@@ -6755,11 +6755,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.62, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Crisis & Renter Stability", tag: "Housing", why: "With 61.6% renters at $44,408 median income, the majority of HD-141's households rent at income levels where any rent increase or eviction event can trigger a cascade of financial and housing instability; eviction protection, habitability enforcement, and affordable unit preservation are the most urgent housing interventions in a district where the poverty-renter combination creates acute vulnerability." },
-        { name: "Economic Poverty & Living Wage", tag: "Economy", why: "At $44,408 median income — among the lowest in the Houston delegation — with only 12.5% college attainment, HD-141's working families are navigating an economy that provides subsistence but rarely stability; raising the wage floor, protecting worker rights, and expanding access to job training programs that lead to living wages are the economic interventions with the most direct household impact." },
-        { name: "Biracial Community Investment — Hispanic & Black Houston", tag: "Equity", why: "At Hispanic 49% and Black 40%, the district is a near-equal biracial majority-minority community whose governance requires simultaneous, specific investment in both communities' distinct policy priorities — a legacy of Senfronia Thompson's decades-long tenure representing Houston's most historically significant African American neighborhoods alongside the growing Hispanic community." },
-        { name: "Healthcare Access & Community Clinic Investment", tag: "Healthcare", why: "Low-income Black and Hispanic families in north Houston face the full range of healthcare access barriers — uninsurance, cost, language, proximity, and chronic disease burden — that comprehensive community health clinic funding and Medicaid enrollment assistance are the only realistic policies to address at the scale required." },
-        { name: "Public Education & School Quality", tag: "Education", why: "At 12.5% college attainment in a community with a very young median age of 30.7, the district's schools are the primary institutions responsible for changing the economic trajectory of the next generation; school funding equity, bilingual education, and wraparound student services that address the barriers to learning created by household poverty are the education investments most tied to the district's long-term economic future." }
+        { name: "Near-Biracial Anti-Poverty Service Delivery", tag: "lean-into", why: "At $44,408 median income with 49% Hispanic and 40% Black populations, HD-141 is among the most economically vulnerable districts in the Texas House, and effective representation is measured by constituent-level outcomes in food security, utility assistance, benefits enrollment, and emergency casework rather than legislative floor activity alone. Senfronia Thompson's institutional legacy means constituents have a high baseline expectation for constituent service responsiveness that any successor must match through visible, specific Northeast Houston presence." },
+        { name: "Houston Flooding Resilience and Drainage Equity", tag: "lean-into", why: "Northeast Houston's low-income, majority-minority communities are documented to receive slower drainage investment and face higher flood repetition rates than majority-white Harris County precincts at equivalent income levels — a disparity that is concrete, measurable, and directly tied to the Harris County Flood Control District's project prioritization. At 61.6% renters, flooding consequences fall disproportionately on HD-141 households who cannot self-insure or relocate, making this the rare infrastructure issue that is simultaneously a racial equity and a constituent survival argument." },
+        { name: "Balancing Hispanic and Black Community Priorities", tag: "careful", why: "At near-equal 49% Hispanic and 40% Black population shares, HD-141 requires genuine dual-community governance rather than a base-plus-outreach model — and in a district defined by Senfronia Thompson's historic Black political leadership, any successor who is perceived as prioritizing Hispanic constituents over Black institutional partners will face significant community credibility challenges, and vice versa. The calibration requires visible, documented investment in both communities' specific neighborhood concerns simultaneously, not sequential attention." },
+        { name: "Leveraging Thompson Legacy Without Owning It", tag: "avoid", why: "Senfronia Thompson's decades of representation have created specific constituent expectations, community relationships, and institutional loyalties in Northeast Houston that a successor cannot claim through association — invoking the Thompson legacy to establish credibility without demonstrating independent constituent service competence reads as borrowed authority and will be tested quickly by both Hispanic and Black community leaders who knew the difference between incumbency and institutional trust. The risk is being seen as a placeholder rather than a representative." },
+        { name: "Means-Testing Framing for Safety-Net Programs", tag: "avoid", why: "In a district where median income is $44,408 and 61.6% of residents rent, safety-net programs — SNAP, Medicaid, CHIP, utility assistance — are not peripheral concerns for vulnerable subgroups but are active household budget factors for a majority of constituents. Any legislative language or framing that positions means-testing, work requirements, or benefit eligibility reform as reasonable policy calibration will be understood by HD-141 voters as a direct material threat, not an abstract fiscal debate." }
       ],
       memoHeadline: "Senfronia Thompson's Historic District: Near-Equal Biracial, $44K Income, and Decades of Democratic Representation in Houston's Most Vulnerable Community",
       memoParagraphs: [
@@ -6778,8 +6778,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-142",
     name: "Texas House District 142",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "Fifth Ward",
     type: "state house district",
     incumbentName: "Harold V. Dutton JR",
     incumbentParty: "Democrat",
@@ -6803,11 +6803,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 2.40, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Biracial Community Governance — Hispanic & Black Northeast Houston", tag: "Equity", why: "At Hispanic 46% and Black 37%, HD-142 requires specific, simultaneous policy investment in both communities' distinct priorities; the Fifth Ward and Kashmere Gardens area's historically Black civic identity coexists with a growing Hispanic majority in communities that both deserve specific legislative attention rather than a merged 'minority community' framing." },
-        { name: "Public Education & School Reform", tag: "Education", why: "Harold Dutton has maintained one of the Texas House's most sustained focuses on education policy throughout his tenure; his district's 20.6% college attainment and large school-age biracial population give that legislative focus direct local stakes — school funding equity, accountability policy, and post-secondary readiness are the education priorities most consequentially tied to the district's economic future." },
-        { name: "Economic Opportunity & Workforce Development", tag: "Economy", why: "At $64,465 median income with only 20.6% college attainment across a predominantly Black and Hispanic working community, the majority of adults are non-degreed; vocational training, apprenticeship access, and job quality in the construction, manufacturing, and logistics sectors where both communities are concentrated are the economic mobility investments with the most direct household impact." },
-        { name: "Housing Stability & Renter Protections", tag: "Housing", why: "With 36.5% renters at moderate incomes in northeast Houston communities that face ongoing development pressure, working families across both the Black homeowner community and the Hispanic renter population face distinct but related housing challenges; homeowner preservation programs and renter protections serve each community's specific housing circumstances." },
-        { name: "Healthcare Access & Community Health", tag: "Healthcare", why: "Northeast Houston's Hispanic and Black working-class communities face elevated rates of uninsurance in construction and service-sector employment and chronic disease disparities that require community clinic investment, Medicaid enrollment, and targeted health equity programs specific to each community's differentially distributed health burdens." }
+        { name: "Fifth Ward Legacy Investment and Displacement Prevention", tag: "lean-into", why: "Fifth Ward is one of Houston's most historically significant Black communities, now under documented gentrification pressure as Houston's Inner Loop land values rise — and at 36.6% Black with $64,465 median income, the tension between neighborhood investment and displacement is the defining constituency concern for the community Harold Dutton has represented for decades. Legislative and municipal focus on anti-displacement tools, community land trusts, and HISD-anchored neighborhood stabilization speak to what Fifth Ward constituents understand as the central threat to their community's survival." },
+        { name: "Education Quality as Economic Mobility Infrastructure", tag: "lean-into", why: "Harold Dutton's legislative identity is defined by education policy, and in a 46% Hispanic, 37% Black district at 20.6% college attainment, HISD school quality in the Fifth Ward and Northeast Houston clusters is the most direct lever for constituent economic mobility across both communities. Candidates who speak to specific HISD campus conditions, bilingual education access, and vocational pathway expansion in named HD-142 schools connect Dutton's legislative legacy to present constituent needs in a credible, specific way." },
+        { name: "Gentrification Pressure on Hispanic Renters", tag: "careful", why: "At 36.5% renters and 45.8% Hispanic population in a district adjacent to Houston's rapidly appreciating East End and Near Northside markets, displacement risk is not hypothetical — but it operates differently across Black Fifth Ward homeowners defending legacy property and Hispanic renters with fewer legal tools and less institutional advocacy infrastructure. Addressing both displacement dynamics simultaneously requires distinguishing between the specific mechanisms threatening each community rather than using a single anti-gentrification frame that speaks fully to neither." },
+        { name: "Treating the District as a Safe-Seat Sinecure", tag: "avoid", why: "In a district with a demographic composition that has shifted substantially — now 46% Hispanic compared to the Black-plurality constituency that originally defined the seat — running on legacy credential and institutional relationships without demonstrating active responsiveness to Hispanic community priorities creates a growing legitimacy gap. An unopposed 2024 result should not be read as constituency satisfaction; it reflects the absence of a challenger, not the absence of constituent concerns about representation quality." },
+        { name: "Framing Education Reform as Community Threat", tag: "avoid", why: "Dutton's record on education — including his support for charter schools and accountability measures that drew criticism from teachers' unions — is genuinely complex, and any successor who resolves that complexity by defaulting to full opposition to education reform risks alienating Hispanic parents in a district where HISD underperformance in neighborhood schools is a lived grievance, not an abstract policy debate. Reflexive anti-reform framing reads as protecting institutional interests over constituent children in a 20.6% college-attainment community." }
       ],
       memoHeadline: "Fifth Ward and Northeast Houston: Harold Dutton's Education-Focused Biracial District at 46% Hispanic, 37% Black",
       memoParagraphs: [
@@ -6826,8 +6826,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-143",
     name: "Texas House District 143",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "East Houston",
     type: "state house district",
     incumbentName: "Ana Hernandez",
     incumbentParty: "Democrat",
@@ -6851,11 +6851,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 1.57, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Environmental Justice & Ship Channel Industrial Burden", tag: "Environment", why: "HD-143's east Houston communities in Galena Park, Jacinto City, and the East End are adjacent to the Houston Ship Channel's petrochemical corridor — one of the nation's most concentrated industrial zones; residents bear a disproportionate share of air pollution, chemical releases, and industrial accident risk that constitutes one of the most acute environmental justice situations in Texas." },
-        { name: "Workforce Development & Credential Pipeline", tag: "Education", why: "At 11.0% college attainment — among the lowest in the Houston delegation — HD-143's workforce is almost entirely non-degreed; vocational training connected to the petrochemical and construction sectors that dominate east Houston employment, and community college programs accessible to working adults, are the credential investments with the highest per-household economic return." },
-        { name: "Housing Stability & Renter Affordability", tag: "Housing", why: "With 41.7% renters at $54,649 median income, a large share of east Houston's Hispanic working families face housing cost pressure in a market that has experienced rent increases even in historically affordable east-of-downtown corridors; eviction protection and affordable unit preservation are the housing interventions most urgently needed." },
-        { name: "Immigration Community Services & Protection", tag: "Equity", why: "East Houston's Galena Park, Jacinto City, and East End communities have significant immigrant-origin Hispanic populations whose daily security and civic participation are shaped by immigration enforcement policy; immigration legal services, community protection programs, and language-accessible constituent services are the policy investments that most directly affect working families' safety and stability." },
-        { name: "Healthcare Access & Environmental Health Programs", tag: "Healthcare", why: "Communities adjacent to the Ship Channel face elevated rates of respiratory disease, childhood asthma, and cancer associated with industrial pollution exposure; healthcare investment in HD-143 must include both standard access programs and specific environmental health monitoring and medical intervention for pollution-related chronic conditions." }
+        { name: "Ship Channel Industrial Jobs", tag: "lean-into", why: "HD-143's economy runs on the Houston Ship Channel and East Houston industrial corridor — refining, petrochemical, and freight logistics jobs that households at $54,649 median income depend on directly. At 11% college attainment, these are the trades and shift-work positions that define financial stability for the overwhelming majority of the district. Candidates who name specific employers and facilities in Harrisburg and Galena Park earn credibility that generic 'good jobs' language cannot replicate." },
+        { name: "Environmental Health in Fenceline Communities", tag: "lean-into", why: "At 78% Hispanic and sitting directly adjacent to one of the most polluted industrial corridors in the country, HD-143 residents experience disproportionate air and water quality burdens that are daily lived realities, not abstract policy debates. Asthma rates, refinery flaring events, and toxic site proximity are constituent-service issues for this district, not ideological ones. Framing environmental investment as health protection — not climate politics — connects to kitchen-table concerns at every income level." },
+        { name: "Workforce Credentials Without Four-Year Degrees", tag: "careful", why: "At 11% college attainment, HD-143 has a genuine workforce pipeline gap that community college and vocational investment can address — but framing it as 'education reform' risks implying current workers are deficient rather than underserved. The opportunity is to champion accessible credentialing and apprenticeship pathways tied to the district's industrial employer base, not generic college-completion messaging that lands as culturally tone-deaf to households where four-year degrees were never the pathway." },
+        { name: "Performative Solidarity Without Service Delivery", tag: "avoid", why: "In an unopposed 100-0 district with 41.7% renters and a median income below $55,000, constituent expectations center on tangible service — helping families navigate housing, jobs, and environmental complaints — not symbolic representation. Leaning into cultural or identity-based messaging as a substitute for responsive casework and local infrastructure investment risks the mobilization deficit that turns safe seats into contested ones when a credible challenger emerges." },
+        { name: "English-Only Outreach in 78% Hispanic District", tag: "avoid", why: "With 77.6% Hispanic residents and a significant Spanish-dominant household share in a low-college-attainment community, outreach infrastructure that does not include Spanish-language materials and bilingual staff signals institutional neglect, not political neutrality. This is not a translation courtesy — it is the basic threshold for constituent access in a district where English-only communication systematically excludes a majority of the people a representative is supposed to serve." }
       ],
       memoHeadline: "East Houston's Industrial Corridor: 78% Hispanic, Ship Channel Pollution Burden, and 11% College Attainment",
       memoParagraphs: [
@@ -6874,8 +6874,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-144",
     name: "Texas House District 144",
-    city: "TBD",
-    region: "TBD",
+    city: "Pasadena",
+    region: "Southeast Houston",
     type: "state house district",
     incumbentName: "Mary Ann Perez",
     incumbentParty: "Democrat",
@@ -6899,11 +6899,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 3.34, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Petrochemical Environmental Justice & Community Health", tag: "Environment", why: "Like its neighboring east Houston districts, HD-144 sits in the industrial shadow of the Houston Ship Channel; communities in this southeast Harris County and east Houston corridor bear disproportionate air and water pollution burdens from refinery operations, chemical plants, and industrial transportation that directly affect the health of 76% Hispanic working families with the least political leverage to demand remediation." },
-        { name: "Workforce Development & Industrial Credential Pipeline", tag: "Education", why: "At 11.8% college attainment, the district's workforce is overwhelmingly non-degreed and working in industrial, construction, and service jobs; vocational certifications, CDL programs, and industrial safety credentials connected to east Harris County's petrochemical and logistics employers are the credential investments that most directly translate into higher wages without requiring four-year degree barriers." },
-        { name: "Housing Affordability & Renter Stability", tag: "Housing", why: "With 46.6% renters at $59,705 median income in a predominantly Hispanic east Houston corridor, nearly half the district's households rent in a market where southeast Harris County and east Houston's historically affordable apartment stock has seen increasing cost pressure; eviction protection and affordable unit preservation serve the renter majority's most immediate housing security needs." },
-        { name: "Immigration Services & Community Protection", tag: "Equity", why: "A 76% Hispanic district in the east Houston and southeast Harris County industrial corridor has significant immigrant-origin working families for whom immigration enforcement policy shapes daily decisions about employment, healthcare, and civic participation; immigration legal services and community protection programs are constituency essentials, not optional policy additions." },
-        { name: "Transportation & Industrial Corridor Connectivity", tag: "Infrastructure", why: "East and southeast Harris County's working-class Hispanic communities depend on road access and public transit connectivity to reach industrial employment centers along the Ship Channel corridor; transportation investment that serves working families without personal vehicles — who disproportionately rely on public transit to access jobs — is both an equity investment and an economic development tool." }
+        { name: "Pasadena Industrial Employment Base", tag: "lean-into", why: "HD-144's economic core is the petrochemical and industrial cluster running through Pasadena and southeast Harris County along the Ship Channel — the sector that generates the wages sustaining $59,705 median household income in a district with 11.8% college attainment. Candidates who speak to specific refinery, chemical plant, and port logistics employment pressures — OSHA enforcement, shift-work benefits, contractor job quality — connect where abstract economic messaging does not. This constituency rewards representatives who understand their actual workplaces." },
+        { name: "Property Taxes on Working Homeowners", tag: "lean-into", why: "At $59,705 median income with 53.4% of residents owning their homes, Pasadena-area homeowners have watched Harris County appraisals climb significantly faster than wage growth in the industrial corridor. Property tax relief framed specifically around Harris County appraisal trends and working-class homeowner burdens — not commercial real estate or abstract tax philosophy — is a direct pocketbook message for the majority homeowning share of HD-144. The 46.6% renter cohort also benefits from landlord cost-pass-through framing." },
+        { name: "Industrial Environmental Exposure", tag: "careful", why: "Southeast Harris County's industrial density creates genuine air quality and toxic exposure burdens that resident families experience directly, but the same industrial base employs a significant share of the district's workforce. Acknowledging health concerns without threatening the jobs that sustain the community requires a specific 'cleaner operations, not plant closures' framing — regulatory modernization and corporate accountability rather than anti-industry rhetoric that workers in the district would rightly hear as a threat to their paychecks." },
+        { name: "Anti-Industry Environmental Framing", tag: "avoid", why: "In a district where the petrochemical and refining sector directly employs a substantial share of 76% Hispanic working-class households, messaging that frames industrial operations as the enemy rather than a target for safety and accountability improvement will be heard as a jobs threat. HD-144 constituents can hold both concerns — they want cleaner air and they need their plant jobs — and a candidate who forces a false choice between environmental advocacy and economic survival loses both arguments simultaneously." },
+        { name: "Spanish-Language Service as Optional Outreach", tag: "avoid", why: "With 76.1% Hispanic residents and 11.8% college attainment indicating a substantial Spanish-dominant household population in Pasadena and southeast Houston, treating Spanish-language constituent services as supplemental rather than foundational signals that the majority of the district is being served at a lower tier. Casework, town halls, and communications infrastructure that default to English-first in a district where that leaves the majority underserved will be felt as absence of representation, not as neutrality." }
       ],
       memoHeadline: "Southeast Harris County's Working-Class Hispanic Corridor: 76% Hispanic, Industrial Environment, and 11.8% College Attainment",
       memoParagraphs: [
@@ -6922,8 +6922,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-145",
     name: "Texas House District 145",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "Houston East End",
     type: "state house district",
     incumbentName: "Christina Morales",
     incumbentParty: "Democrat",
@@ -6947,11 +6947,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 3.21, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Anti-Displacement & Cultural Preservation", tag: "Housing", why: "The East End, Second Ward, and Magnolia Park neighborhoods that HD-145 encompasses are among Houston's most historically significant Hispanic communities — and among its most actively gentrifying; longtime Hispanic residents face rising rents and property tax pass-throughs driven by incoming development and higher-income in-migration, making anti-displacement the most urgent organizing issue in a community where cultural identity and residential stability are inseparable." },
-        { name: "Renter Protections & Housing Affordability", tag: "Housing", why: "With 49.8% renters at $68,471 median income in neighborhoods experiencing active gentrification, the near-majority renter population faces cost pressure that threatens the displacement of established working-class Hispanic families; eviction protection, habitability enforcement, and affordable unit preservation are the housing interventions most urgently needed to keep the community intact." },
-        { name: "Hispanic Community Investment & Anti-Gentrification Policy", tag: "Equity", why: "At 60% Hispanic with 25% white and rising — reflecting the in-migration that is reshaping East End demographics — HD-145 is in the active process of demographic change; policies that specifically protect and invest in the Hispanic community's economic stability, cultural institutions, and civic infrastructure are the most direct tools for preserving the community's character against displacement pressure." },
-        { name: "Economic Opportunity & Working-Family Wages", tag: "Economy", why: "At $68,471 median income, HD-145 is more economically moderate than its eastern Houston neighbors, but 34.4% college attainment means a majority of working adults are non-degreed; workforce training, apprenticeship programs, and living wage advocacy serve the working-class majority who are economically productive but vulnerable to the cost increases that gentrification accelerates." },
-        { name: "Urban Planning & Neighborhood Identity", tag: "Infrastructure", why: "The Second Ward and East End's historic urban fabric — murals, community centers, cultural festivals, and the physical built environment of Houston's oldest Hispanic neighborhood — is actively threatened by commercial redevelopment; urban planning policies around historic preservation, community benefit agreements for new development, and neighborhood character protection are the tools most available for preserving what makes these communities distinctive." }
+        { name: "Anti-Displacement and Tenant Protections", tag: "lean-into", why: "HD-145's East End sits at the front edge of Houston gentrification pressure — 60% Hispanic at $68,471 median income with nearly half the district renting at 49.8%, watching white in-migration push 25.14% and rising while longtime Latino families face rent increases and buyout pressure. This is not a theoretical housing policy issue; it is the defining lived experience of the district's majority community. Candidates who can speak to specific East End neighborhood displacement patterns and name concrete tenant-protection mechanisms earn the trust that generic affordability language cannot." },
+        { name: "East End Small Business Infrastructure", tag: "lean-into", why: "The East End's Hispanic commercial corridor — restaurants, construction trades, service businesses — represents both economic identity and livelihood for the district's majority community at a moment when rising property values threaten small business tenants alongside residential ones. At 34.4% college attainment, a significant share of HD-145's economic mobility runs through entrepreneurship rather than credentialed employment. Supporting small business access to capital, commercial lease stability, and corridor investment is a direct constituent-priority message for this district." },
+        { name: "Gentrification's Cross-Demographic Appeal", tag: "careful", why: "HD-145's 25% and growing white resident share includes both long-term progressively aligned Houstonians who support anti-displacement goals and newer arrivals whose presence is itself part of the displacement dynamic. Framing anti-displacement work in purely ethno-racial terms risks alienating white residents who could be policy allies, while framing it as racially neutral risks losing the Hispanic community trust that is the district's political foundation. The calibration is to center the harm — economic displacement of longtime residents — rather than exclusively the demography." },
+        { name: "Pro-Development Messaging Without Displacement Guardrails", tag: "avoid", why: "In a district where gentrification is the central community concern, any framing that celebrates rising property values, new investment, or neighborhood 'revitalization' without explicitly naming displacement protection as the condition of support will be read by the majority Hispanic renting community as the representative siding with developers over constituents. East End residents have watched enough of Houston's inner loop transform to know what unchecked development looks like — and they will punish a representative who appears to welcome it." },
+        { name: "Treating Rising White Residents as the New Base", tag: "avoid", why: "As HD-145's white population grows with gentrification, a tactical pivot toward newer, higher-income, college-educated in-migrants at the expense of the 60% Hispanic working-class majority — in programming, messaging, or policy prioritization — would signal to the community that their representative is managing the transition rather than resisting it. The district's political foundation is the Latino community that built the East End, and candidates who appear to be auditioning for a different district's future constituency undermine the representation relationship that sustains electoral stability." }
       ],
       memoHeadline: "Houston's East End on the Gentrification Frontline: 60% Hispanic, 25% White and Rising, and Anti-Displacement as the Central Fight",
       memoParagraphs: [
@@ -6970,8 +6970,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-146",
     name: "Texas House District 146",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "Third Ward",
     type: "state house district",
     incumbentName: "Lauren Ashley Simmons",
     incumbentParty: "Democrat",
@@ -6995,11 +6995,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 7.19, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Housing Stability & Renter Protections", tag: "Housing", why: "At 64.1% renters and $56,740 median income across a majority-minority urban district, the majority of households rent in communities that have experienced increasing cost pressure as Houston's Third Ward and Midtown corridors attract development investment; eviction protection, habitability enforcement, and affordable unit preservation are the most urgently needed housing interventions for a constituency where renting is the norm and financial margins are slim." },
-        { name: "Black Community Economic Opportunity", tag: "Equity", why: "With a 42.56% Black plurality in a district adjacent to Texas Southern University and historically significant African American neighborhoods, investment in Black economic opportunity — business development, homeownership pathways, and employment pipeline programs — is both a policy priority and a governing obligation that speaks to the community's specific history of economic exclusion in Houston." },
-        { name: "Racial Equity & Biracial Coalition Governance", tag: "Equity", why: "At Black 43% and Hispanic 30%, the district requires specific, simultaneous investment in both communities' policy priorities; the growing Hispanic population in formerly majority-Black Third Ward and Sunnyside neighborhoods creates a biracial governing dynamic that requires sustained dual-community engagement rather than defaulting to the Black plurality as the sole constituency." },
-        { name: "Healthcare Access & Community Health Investment", tag: "Healthcare", why: "The Texas Medical Center's proximity to HD-146 does not automatically translate into healthcare access for the district's low-income Black and Hispanic residents; uninsurance, cost, and provider proximity gaps remain acute for working families whose household incomes do not cover out-of-pocket medical costs, and community clinic investment is the most direct remedy." },
-        { name: "Criminal Justice Reform & Community Safety", tag: "Public Safety", why: "A Black-plurality urban district in Houston has specific and sophisticated expectations around criminal justice — both effective public safety and meaningful accountability; violence prevention, mental health crisis response, and community-police relations investment alongside systemic reform are the public safety commitments this constituency evaluates most carefully." }
+        { name: "Renter Protections in Gentrifying Neighborhoods", tag: "lean-into", why: "At 64.1% renters — among the highest in the Texas House — Third Ward and Midtown households are overwhelmingly subject to market rent pressures in one of Houston's fastest-appreciating corridors. At $56,740 median income, displacement risk is immediate and concrete, not theoretical. Candidates who speak to specific Third Ward eviction patterns, lease renewal pressures, and the mechanics of renter protections demonstrate constituent-service understanding that broader housing affordability language fails to deliver." },
+        { name: "Third Ward Economic and Cultural Legacy", tag: "lean-into", why: "HD-146's Third Ward is a nationally significant historic Black Houston community — the home of Emancipation Park, Prairie View A&M's Houston presence, and decades of African American entrepreneurship — that is undergoing rapid demographic and commercial transformation as Midtown development pressure moves east. At 42.6% Black with $56,740 median income, the district's majority community has a direct economic stake in preserving institutional anchors and supporting Black-owned businesses as neighborhood economics shift. This is constituent-service infrastructure, not symbolism." },
+        { name: "Higher-Income Progressive Newcomer Priorities", tag: "careful", why: "At 37.7% college attainment and with Midtown's higher-income in-migrant population growing, HD-146 includes residents whose priorities — transit, urban amenities, bike infrastructure — differ meaningfully from the 64.1% renter majority facing displacement on $56,740 median income. Engaging the policy agenda of newer, higher-income residents without allowing it to crowd out the economic stabilization and anti-displacement work that the majority community requires is the central calibration challenge of this district." },
+        { name: "Symbolic Racial Justice Messaging Over Material Policy", tag: "avoid", why: "In a 78% Democratic district where 64% of residents rent and median income is $56,740, substituting rhetorical commitment to racial equity for concrete action on rent burdens, eviction, and neighborhood displacement will register as inadequate representation rather than political courage. Third Ward's majority Black constituency has experienced enough cycles of symbolic recognition without material protection to distinguish between a representative who champions the community and one who champions the framing of the community." },
+        { name: "Ignoring the 30% Hispanic Constituency", tag: "avoid", why: "At 30.1% Hispanic, HD-146 has a substantial Latino constituency whose housing, economic, and healthcare concerns often parallel but are not identical to the district's Black majority — and whose mobilization is part of what sustains a 78% Democratic hold. Governing as though the district is a single-community Black political district while delivering no specific outreach, casework responsiveness, or policy attention to the Latino 30% creates a service gap that challengers can exploit and that erodes the coalition margins that make the seat structurally safe." }
       ],
       memoHeadline: "Third Ward and Midtown Houston: Black 43%, Hispanic 30%, 64% Renters, and a 78% Democratic Hold",
       memoParagraphs: [
@@ -7018,8 +7018,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-147",
     name: "Texas House District 147",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "Midtown Houston",
     type: "state house district",
     incumbentName: "Jolanda  Jones",
     incumbentParty: "Democrat",
@@ -7043,11 +7043,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 6.55, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Renter Protections & Housing Affordability", tag: "Housing", why: "At 58.6% renters and $70,518 median income in Houston's Midtown and Museum District adjacent communities, the majority of households rent in neighborhoods experiencing intense development and rising rents as the Inner Loop's desirability has spread south and east; eviction protection, supply expansion, and affordable unit preservation serve the majority-renter constituency most directly." },
-        { name: "Four-Community Governance in Urban Houston", tag: "Equity", why: "With Hispanic 38.5%, Black 32.2%, White 20.3%, and Asian 6.6% — four communities each holding substantial shares in a genuinely diverse urban district — HD-147's governing agenda must speak with specific fidelity to all four communities rather than treating the two largest as the only constituencies that matter." },
-        { name: "Economic Opportunity & Living Wage", tag: "Economy", why: "At $70,518 median income across a diverse, majority-renter urban community, working families in HD-147 need wages that keep pace with Houston's rising cost of living; living wage advocacy, worker protections in service and retail sectors, and job training programs that reach all four communities are the economic interventions with the broadest constituency reach." },
-        { name: "Texas Medical Center & Healthcare Access", tag: "Healthcare", why: "The proximity of the Texas Medical Center gives HD-147 a distinctive healthcare economic identity — many residents work in or near the world's largest medical complex — while the district's working-class renter majority simultaneously faces significant healthcare access barriers; community clinic investment and Medicaid enrollment address the access gap between the Medical Center's proximity and the cost barriers that prevent its utilization." },
-        { name: "Urban Transportation & Mobility", tag: "Infrastructure", why: "A 58.6%-renter urban district with a young median age of 32.9 and significant car-light population has strong demand for public transit, pedestrian safety, and bike infrastructure that reduce transportation costs and expand economic access for residents who cannot or choose not to depend on personal vehicles." }
+        { name: "Renter Affordability and Displacement Risk", tag: "lean-into", why: "At 58.6% renters with a median income of $70,518 in a rapidly appreciating Midtown and inner-loop Houston corridor, the majority of HD-147 households face direct exposure to rent increases, lease instability, and displacement pressure from development activity. The district's demographic mix — 38.5% Hispanic, 32.2% Black, 20.3% White — means renter precarity cuts across every community the representative serves. Constituent credibility requires naming specific neighborhood rent trends and advancing concrete tenant-protection mechanisms, not just housing affordability as a value." },
+        { name: "Workforce Housing Near Employment Centers", tag: "lean-into", why: "At $70,518 median income and 39.8% college attainment, HD-147 includes a significant share of working and mid-income households who earn above poverty but remain priced out of ownership in inner Houston's escalating market. The district's proximity to Houston's medical center, downtown employment, and major transit corridors makes workforce housing production — not just low-income subsidy — a direct economic concern for the constituent majority. Candidates who connect housing supply to job accessibility rather than only to poverty relief speak to a broader share of the district." },
+        { name: "Managing Multi-Community Coalition Priorities", tag: "careful", why: "With Hispanic, Black, and White communities each exceeding 20% of the district and a 75% Democratic hold requiring all three, HD-147 has no single-community path to political stability. Policy prioritization that visibly elevates one community's concerns while treating others as secondary will fracture the coalition that the 75-25 margin depends on — but false equivalence that pretends all communities face identical pressures earns no one's trust. The calibration is coalition-building through shared economic interests — renter protection, transit, healthcare access — rather than identity-specific framing." },
+        { name: "National Progressive Brand Over Local Service Identity", tag: "avoid", why: "In a 75-25 district with a 25-point Republican undercurrent that could narrow under the right conditions, a representative whose public identity is primarily defined by national progressive positioning — rather than Midtown and inner-loop Houston constituent service — gives the opposition a local-versus-national contrast that can peel off moderate Democrats. HD-147's multi-community, majority-renter constituency wants a representative who fights for their specific housing, healthcare, and economic concerns, and national brand-building that substitutes for that is visible to the voters who decide the margin." },
+        { name: "Treating 20% White Residents as the Agenda Drivers", tag: "avoid", why: "At 20.3% White in a district that is 38.5% Hispanic and 32.2% Black, a policy and outreach posture that disproportionately responds to the priorities of higher-income white in-migrants — urban amenity investment, development facilitation, certain tech-sector policy concerns — at the expense of the majority communities' renter, economic, and healthcare pressures will be recognized and resented. The 75% Democratic hold is built on the Hispanic and Black majority coalition, and any visible pivot in service orientation that privileges the white minority risks the mobilization deficit that turns a safe-ish seat competitive." }
       ],
       memoHeadline: "Houston's Midtown Urban Four-Community District: Hispanic 38%, Black 32%, 59% Renters, and a 75% Democratic Hold",
       memoParagraphs: [
@@ -7066,8 +7066,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-148",
     name: "Texas House District 148",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "Near Northside",
     type: "state house district",
     incumbentName: "Penny Morales Shaw",
     incumbentParty: "Democrat",
@@ -7091,11 +7091,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 8.37, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Hispanic Community Investment & Realignment Awareness", tag: "Equity", why: "At 57.47% Hispanic, the district's majority Latino community is the primary political and policy constituency; at 55-45 Democratic, the margin is narrow enough that active, specific investment in Hispanic constituent service, economic opportunity, and community engagement is the most critical margin-maintenance strategy — not demographic assumption." },
-        { name: "Housing Stability & Majority-Renter Market", tag: "Housing", why: "With 52.2% renters at $66,543 median income, the majority of HD-148's households rent in an inner Houston and Heights-adjacent market where rents have increased significantly; eviction protection, affordable unit preservation, and homeownership pathway programs serve the majority renter constituency most directly in a community where ownership aspirations are high but market access is limited." },
-        { name: "Asian Community Engagement", tag: "Equity", why: "At 8.37% Asian — significant for a Houston urban district at this income level — the district has a meaningful Vietnamese American, Indian American, and other Asian constituency whose priorities around immigration, civil rights, and economic opportunity require specific outreach rather than generic coalition-of-color messaging; this community's engagement can determine the competitive margin in a 55-45 seat." },
-        { name: "Economic Opportunity & Workforce Development", tag: "Economy", why: "At 25.3% college attainment in a 57% Hispanic majority district, the majority of working adults are non-degreed; vocational training, apprenticeship access, and living wage advocacy connected to Houston's growing construction, healthcare, and logistics sectors are the economic mobility investments that most directly improve household outcomes for the working majority." },
-        { name: "Immigration Community Services & Protection", tag: "Equity", why: "A 57% Hispanic district with a significant immigrant-origin population has direct constituency stakes in immigration enforcement policy, legal service access, and community protection programs; the safety and economic participation of a major share of the district's Hispanic majority depends on how state and local government engages with these issues, and candidate positioning matters." }
+        { name: "Working-Class Hispanic Economic Stability", tag: "lean-into", why: "HD-148's Near Northside is a 57% Hispanic working-class corridor at $66,543 median income and 25.3% college attainment — a constituency where construction, trades, logistics, and service sector employment directly determines household financial stability. Candidates who speak to specific near-north Houston employer conditions, contractor job quality, and workforce opportunity rather than generic economic growth messaging earn credibility with a constituency that can distinguish between policy attention and political performance. In a 55-45 seat, that credibility determines turnout." },
+        { name: "Neighborhood Infrastructure and Quality of Life", tag: "lean-into", why: "Near Northside's proximity to downtown Houston and active development pressure means infrastructure investment — roads, drainage, parks, school facilities — is a live constituent concern in a 52.2% renter district where people experience neighborhood change as both opportunity and displacement threat. At a 55-45 margin, the representative who visibly delivers neighborhood improvements that working-class Hispanic and Black families can name and see outperforms the one who delivers only ideological positioning. Constituent service at the block level is electoral strategy in this district." },
+        { name: "Gentrification and Development Pressure", tag: "careful", why: "Near Northside is experiencing active development investment driven by proximity to downtown, which creates real housing cost pressure for the 52.2% renter majority at $66,543 median income while also generating the infrastructure and services improvements that residents want. The political challenge is neither opposing development entirely — which is economically unrealistic — nor welcoming it without displacement guardrails, which would alienate the majority Hispanic working-class community. This requires a specific 'community benefits and anti-displacement conditions' framing rather than a binary position." },
+        { name: "Taking the Hispanic Majority for Granted", tag: "avoid", why: "In a 55-45 seat where the margin is functionally the Hispanic community's turnout and enthusiasm, any visible signal that the representative is not actively working for the 57% Hispanic constituency — in casework responsiveness, Spanish-language access, or policy prioritization — creates the mobilization gap that flips a marginal seat. Near Northside's competitive margin means there is no structural safety net if constituent-service credibility erodes, and a Republican opponent who works the district harder than the incumbent holds will find the 45% base sufficient to win." },
+        { name: "Ideology-First Messaging in a Swing District", tag: "avoid", why: "At 55-45, HD-148 is the most competitive Democratic-held district in this cluster, and it has an 8.4% Asian and 19% White constituency alongside the Hispanic majority that does not move as a bloc on ideological lines. Leading with progressive movement identity rather than constituent-service and local-economic framing gives Republican challengers the moderate-contrast opportunity that converts swing voters in near-north Houston. The winning message in this district is 'fighting for Near Northside families' with specific deliverables, not party-brand positioning." }
       ],
       memoHeadline: "Near Northside's Competitive Hispanic Seat: 55-45 Democrat, 57% Hispanic, and a Margin That Requires Active Maintenance",
       memoParagraphs: [
@@ -7114,8 +7114,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-149",
     name: "Texas House District 149",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "Alief",
     type: "state house district",
     incumbentName: "Hubert Vo",
     incumbentParty: "Democrat",
@@ -7139,11 +7139,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "White", pct: 13.88, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Vietnamese American & Asian Community Representation", tag: "Equity", why: "At 18.24% Asian — one of the highest proportions in any Texas House district — HD-149 is home to one of the largest Vietnamese American communities in Houston and in Texas; Hubert Vo's historic status as the first Vietnamese American elected to the Texas legislature gives the district a specific identity around Vietnamese American civic participation, immigration policy, and economic opportunity that the community's political organizations have built over decades." },
-        { name: "Four-Community Coalition Building", tag: "Equity", why: "With Hispanic 38%, Black 27%, Asian 18%, and White 14% — no group exceeding 38% — HD-149 is a genuine four-community majority-minority district where the 57% Democratic coalition requires active investment in all four communities; the competitive 43% Republican opposition means any community's disengagement is potentially margin-changing." },
-        { name: "Housing Affordability & Renter Stability", tag: "Housing", why: "At 52.3% renters and $61,155 median income in Alief and the southwest Houston corridor, the majority of households rent in a community where affordability has been stressed by Harris County's broader market trends; eviction protection, habitability enforcement, and affordable unit preservation reach all four communities' renter populations through a shared economic concern." },
-        { name: "Immigrant Community Services — Vietnamese & Broader Asian Diaspora", tag: "Equity", why: "Alief's Vietnamese American community, alongside other Southeast Asian immigrant families, has specific needs around immigration legal services, language-accessible public programs, and community protection that require sustained, culturally informed investment; this community helped elect the first Vietnamese American Texas legislator and expects specific policy accountability in return." },
-        { name: "Economic Opportunity & Workforce Development", tag: "Economy", why: "At 27.4% college attainment across four communities, HD-149's workforce spans multiple credential levels — from the highly credentialed Asian professional community to the non-degreed Hispanic and Black working-class majority; economic opportunity programs must serve this full range, with vocational training for the working-class majority and professional advancement support for the credential-holding minority." }
+        { name: "Alief's Multi-Community Economic Concerns", tag: "lean-into", why: "HD-149's Alief is one of the most genuinely diverse districts in the Texas House — 38% Hispanic, 27% Black, 18% Asian, 14% White — at $61,155 median income and 52.3% renting, meaning economic stability concerns are broadly shared across every community in the district. Small business ownership, workforce access, and housing cost are cross-community issues that allow a representative to build a coalition message without prioritizing any single group. Candidates who name specific Alief commercial corridors and employer concentrations speak to all four communities simultaneously." },
+        { name: "Vietnamese American and Asian Community Legacy", tag: "lean-into", why: "Hubert Vo's 20-year tenure in HD-149 built political infrastructure around the Vietnamese American community and the broader Asian diaspora that makes up 18.2% of the district — a share that meaningfully exceeds typical Asian American district representation statewide. Maintaining and deepening that community's engagement through specific cultural, business, and immigration-related constituent service preserves the coalition architecture that has sustained the seat at 57-43. Candidates who understand Alief's Vietnamese and pan-Asian commercial and civic institutions are seen as legitimate heirs to that legacy; those who treat Asian residents as a minor demographic footnote are not." },
+        { name: "Coalition Balance Across Four Communities", tag: "careful", why: "A 57-43 seat with four distinct communities — each between 14% and 38% of the district — has no single-community majority path. Policy and outreach choices that visibly privilege one community's priorities risk suppressing enthusiasm among the other three in a district where the margin depends on sustained multi-community mobilization. The careful balance is shared economic framing — housing, small business, workforce — that resonates across communities without requiring identity-specific prioritization that would register as favoritism in a district this diverse." },
+        { name: "Ignoring Black Community Constituent Concerns", tag: "avoid", why: "At 27.3% Black in a district where Asian and Hispanic communities receive more visible political attention, failing to deliver equivalent casework responsiveness, policy attention, and outreach infrastructure to Alief's African American community creates a suppression dynamic that narrows the 57-43 margin from below. Black voters who feel their community is being served at a lower tier than other constituencies in the same district do not need to vote Republican to change the outcome — reduced turnout and enthusiasm is sufficient, and in a competitive seat, that is disqualifying." },
+        { name: "Single-Community Identity as District Identity", tag: "avoid", why: "While HD-149's Vietnamese American political legacy is real and valuable, framing the district's identity primarily through any single community's story — whether Asian, Hispanic, or Black — will signal to the other three communities that they are guests in someone else's political home rather than co-owners of the representation relationship. Alief's multi-community character is the district's defining feature, and candidates who lean into that diversity as a genuine governing philosophy rather than a demographic checklist build the cross-community trust that sustains a competitive Democratic hold." }
       ],
       memoHeadline: "Alief's Four-Community District: Hubert Vo's Vietnamese American Legacy, 18% Asian, and a 57% Democratic Hold",
       memoParagraphs: [
@@ -7162,8 +7162,8 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-150",
     name: "Texas House District 150",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "Northwest Houston",
     type: "state house district",
     incumbentName: "Chad Bridges",
     incumbentParty: "Republican",
@@ -7187,11 +7187,11 @@ const TX_HOUSE_DISTRICTS = [
         { label: "Asian", pct: 6.01, color: DEMO_COLORS[3] }
       ],
       issues: [
-        { name: "Property Taxes & High-Income Homeowner Relief", tag: "Economy", why: "At $101,654 median income and only 29% renters, HD-150 is a predominantly homeowning district where Harris County appraisal increases have generated substantial tax bills; property tax reform is the most universally mobilizing economic issue across the district's white, Hispanic, and Black homeowning majority." },
-        { name: "Diverse Community Engagement — Three-Community Majority-Minority", tag: "Equity", why: "With no racial majority — white 43%, Hispanic 31%, Black 17% — and a combined minority population of 54%, HD-150 is a genuinely majority-minority suburban district; governing credibly requires specific investment in all three major communities rather than treating the white plurality as the governing base with the other communities as accommodated constituencies." },
-        { name: "Suburban Growth & Northwest Houston Infrastructure", tag: "Infrastructure", why: "HD-150's suburban Houston geography — absorbing northwest Harris County growth pressure — strains road capacity, school district facilities, and utility infrastructure; state-level transportation and school funding decisions are the most visible policy impacts on constituent daily life in a corridor where growth has consistently outpaced infrastructure investment." },
-        { name: "School District Quality & Equity", tag: "Education", why: "At 40.4% college attainment across a racially diverse suburban community, the parent electorate evaluates school board governance, curriculum standards, and equitable resource distribution across a diverse student population; school quality is both a property value driver and a personal parenting priority that reaches across all three of the district's racial communities." },
-        { name: "Women's Healthcare & Reproductive Rights", tag: "Healthcare", why: "The 46% Democratic base in HD-150 — concentrated among college-educated suburban women and minority communities — is most reliably activated by reproductive rights and healthcare access; at 54-46, this is the most competitive Republican-held seat in the northwest Houston suburban ring, and this issue is the most consistent margin-moving factor for the opposition coalition." }
+        { name: "Suburban Homeowner Tax and Cost Burdens", tag: "lean-into", why: "At $101,654 median income and 71% homeownership, HD-150's northwest Houston suburban households are the highest-income district in this cluster — and the ones most exposed to the compounding costs of property tax appraisals, HOA obligations, and insurance premium escalation that have defined the Texas suburban ownership experience since 2020. Candidates who speak to specific Harris County northwest appraisal trends and the mechanics of relief — not just the abstract principle of lower taxes — earn credibility with an ownership-oriented constituency that is genuinely price-squeezed despite above-average incomes." },
+        { name: "Northwest Houston Suburban Growth Infrastructure", tag: "lean-into", why: "HD-150 is on Houston's active northwest suburban frontier — population growth, school capacity, road congestion, and utility infrastructure are live daily-quality-of-life concerns for a district at $101,654 median income and 40.4% college attainment where residents moved to the suburbs specifically for quality of life and are watching it strain under growth pressure. At a 54-46 Republican margin, delivering visible infrastructure responsiveness is the difference between a persuadable seat and a structurally competitive one for either party." },
+        { name: "Non-White Majority in a Republican-Leaning Frame", tag: "careful", why: "HD-150 has no racial majority — 43% White, 31% Hispanic, 17% Black, 6% Asian — in a district that currently holds a 54-46 Republican lean. The careful challenge is that Republican messaging defaults that implicitly or explicitly treat whiteness as the baseline constituency risk suppressing non-white moderate and independent voters who constitute a majority of the district and whose alienation is the most plausible path to a competitive Democrat. Constituent service and economic messaging that genuinely includes the 57% non-white majority is not ideological — it is the structural requirement for maintaining the Republican hold." },
+        { name: "Hard-Right Cultural Messaging in a Majority Non-White District", tag: "avoid", why: "In a district where no racial group constitutes a majority and 31% of residents are Hispanic alongside 17% Black and 6% Asian, culture-war messaging that resonates primarily with the white 43% plurality — particularly any framing that signals hostility to immigrant communities, minority economic concerns, or non-white cultural institutions — hands Democratic challengers a direct persuasion argument with the majority of the district's residents. The 54-46 margin is narrow enough that a six-point swing among non-white moderate voters flips the seat without requiring any Republican-to-Democrat conversion." },
+        { name: "Treating HD-150 as a Safe Republican Seat", tag: "avoid", why: "A 54-46 margin is a competitive district by any standard definition, and northwest Houston's demographic trajectory — growing Hispanic and Asian populations alongside college-educated in-migration — puts the 54% ceiling under secular pressure. A Republican incumbent who campaigns as though structural safety exists, skips constituent service in non-white communities, or allows the opposition to outwork them in the district's diverse suburban precincts is the most plausible explanation for how this seat becomes genuinely competitive. Complacency in a six-point margin district is the mechanism of loss." }
       ],
       memoHeadline: "The Final District: HD-150's 54-46 Republican Hold, No Racial Majority, and Houston's Northwest Suburban Frontier",
       memoParagraphs: [
@@ -7213,8 +7213,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-1",
     name: "Texas Senate District 1",
-    city: "TBD",
-    region: "TBD",
+    city: "Mineola",
+    region: "East Texas",
     type: "state senate district",
     incumbentName: "Bryan Hughes",
     incumbentParty: "Republican",
@@ -7260,8 +7260,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-2",
     name: "Texas Senate District 2",
-    city: "TBD",
-    region: "TBD",
+    city: "Rockwall",
+    region: "East DFW Suburbs",
     type: "state senate district",
     incumbentName: "Bob Hall",
     incumbentParty: "Republican",
@@ -7307,8 +7307,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-3",
     name: "Texas Senate District 3",
-    city: "TBD",
-    region: "TBD",
+    city: "Jacksonville",
+    region: "Deep East Texas",
     type: "state senate district",
     incumbentName: "Robert Nichols",
     incumbentParty: "Republican",
@@ -7354,8 +7354,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-4",
     name: "Texas Senate District 4",
-    city: "TBD",
-    region: "TBD",
+    city: "The Woodlands",
+    region: "North Houston Suburbs",
     type: "state senate district",
     incumbentName: "Brandon Creighton",
     incumbentParty: "Republican",
@@ -7401,8 +7401,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-5",
     name: "Texas Senate District 5",
-    city: "TBD",
-    region: "TBD",
+    city: "Georgetown",
+    region: "Austin-Bryan Corridor",
     type: "state senate district",
     incumbentName: "Charles Schwertner",
     incumbentParty: "Republican",
@@ -7448,8 +7448,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-6",
     name: "Texas Senate District 6",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "Southeast Houston",
     type: "state senate district",
     incumbentName: "Carol Alvarado",
     incumbentParty: "Democrat",
@@ -7495,8 +7495,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-7",
     name: "Texas Senate District 7",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "Northwest Houston Suburbs",
     type: "state senate district",
     incumbentName: "Paul Bettencourt",
     incumbentParty: "Republican",
@@ -7542,8 +7542,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-8",
     name: "Texas Senate District 8",
-    city: "TBD",
-    region: "TBD",
+    city: "McKinney",
+    region: "Collin County",
     type: "state senate district",
     incumbentName: "Angela Paxton",
     incumbentParty: "Republican",
@@ -7589,8 +7589,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-9",
     name: "Texas Senate District 9",
-    city: "TBD",
-    region: "TBD",
+    city: "North Richland Hills",
+    region: "Mid-Cities",
     type: "state senate district",
     incumbentName: "Kelly Hancock",
     incumbentParty: "Republican",
@@ -7636,8 +7636,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-10",
     name: "Texas Senate District 10",
-    city: "TBD",
-    region: "TBD",
+    city: "Weatherford",
+    region: "Parker County",
     type: "state senate district",
     incumbentName: "Phil King",
     incumbentParty: "Republican",
@@ -7683,8 +7683,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-11",
     name: "Texas Senate District 11",
-    city: "TBD",
-    region: "TBD",
+    city: "Galveston",
+    region: "Galveston County",
     type: "state senate district",
     incumbentName: "Mayes Middleton",
     incumbentParty: "Republican",
@@ -7729,8 +7729,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-12",
     name: "Texas Senate District 12",
-    city: "TBD",
-    region: "TBD",
+    city: "Southlake",
+    region: "North DFW Suburbs",
     type: "state senate district",
     incumbentName: "Tan Parker",
     incumbentParty: "Republican",
@@ -7775,8 +7775,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-13",
     name: "Texas Senate District 13",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "Southwest Houston",
     type: "state senate district",
     incumbentName: "Borris Miles",
     incumbentParty: "Democrat",
@@ -7821,8 +7821,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-14",
     name: "Texas Senate District 14",
-    city: "TBD",
-    region: "TBD",
+    city: "Austin",
+    region: "Austin",
     type: "state senate district",
     incumbentName: "Sarah Eckhardt",
     incumbentParty: "Democrat",
@@ -7867,8 +7867,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-15",
     name: "Texas Senate District 15",
-    city: "TBD",
-    region: "TBD",
+    city: "Houston",
+    region: "Inner Loop Houston",
     type: "state senate district",
     incumbentName: "Molly Cook",
     incumbentParty: "Democrat",
@@ -7913,8 +7913,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-16",
     name: "Texas Senate District 16",
-    city: "TBD",
-    region: "TBD",
+    city: "Dallas",
+    region: "Dallas",
     type: "state senate district",
     incumbentName: "Nathan Johnson",
     incumbentParty: "Democrat",
@@ -7959,8 +7959,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-17",
     name: "Texas Senate District 17",
-    city: "TBD",
-    region: "TBD",
+    city: "Sugar Land",
+    region: "Fort Bend County",
     type: "state senate district",
     incumbentName: "Joan Huffman",
     incumbentParty: "Republican",
@@ -8005,8 +8005,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-18",
     name: "Texas Senate District 18",
-    city: "TBD",
-    region: "TBD",
+    city: "Brenham",
+    region: "Houston Exurbs",
     type: "state senate district",
     incumbentName: "Lois W. Kolkhorst",
     incumbentParty: "Republican",
@@ -8051,8 +8051,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-19",
     name: "Texas Senate District 19",
-    city: "TBD",
-    region: "TBD",
+    city: "San Antonio",
+    region: "San Antonio / South Texas",
     type: "state senate district",
     incumbentName: "Roland Gutierrez",
     incumbentParty: "Democrat",
@@ -8097,8 +8097,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-20",
     name: "Texas Senate District 20",
-    city: "TBD",
-    region: "TBD",
+    city: "McAllen",
+    region: "Rio Grande Valley",
     type: "state senate district",
     incumbentName: "Juan \"chuy\" Hinojosa",
     incumbentParty: "Democrat",
@@ -8143,8 +8143,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-21",
     name: "Texas Senate District 21",
-    city: "TBD",
-    region: "TBD",
+    city: "Laredo",
+    region: "South Texas Border",
     type: "state senate district",
     incumbentName: "Judith Zaffirini",
     incumbentParty: "Democrat",
@@ -8189,8 +8189,8 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-22",
     name: "Texas Senate District 22",
-    city: "TBD",
-    region: "TBD",
+    city: "Granbury",
+    region: "Central Texas",
     type: "state senate district",
     incumbentName: "Brian Birdwell",
     incumbentParty: "Republican",
@@ -8213,17 +8213,31 @@ const TX_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 15.77, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.93, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Military & Veteran Community Service", tag: "lean-into", why: "Fort Cavazos anchors SD-22's economy and identity — the adjacent military and veteran community has specific, winnable issues around VA access, base infrastructure, and military family support. At the Senate level, where appropriations and committee power matter more than floor votes, fighting for Fort Cavazos's mission and funding is the most concrete deliverable the district's representative can produce." },
+        { name: "Agriculture & Property Rights", tag: "lean-into", why: "Ranching, farming, and rural land ownership form the economic and cultural backbone of SD-22's communities in McLennan, Coryell, and Bell counties. Water rights, crop insurance, rural road infrastructure, and protection against eminent domain pressure from pipeline and transmission line easements are not peripheral concerns — they are the operational reality of the district's base communities and the issues on which constituent expectations are highest." },
+        { name: "Black Military Veteran Constituency", tag: "careful", why: "The 15.8% Black population in SD-22 is concentrated in military-adjacent communities near Fort Cavazos, not in urban political cores with the expectations of majority-Black metro districts. This community's concerns center on veteran services, VA healthcare access, and military family economic support — not the broader racial political frames applied elsewhere. A Republican who engages them on those specific terms builds durable credibility with a constituency that has more political flexibility than its geography suggests." },
+        { name: "Urban Regulatory Importation", tag: "avoid", why: "SD-22's voters specifically chose Central Texas's rural and small-city identity as an alternative to metro policy environments. Legislative priorities that read as imported from Austin, Dallas, or Washington — regulatory frameworks, progressive social policy, or urban-model governance — will be interpreted as cultural intrusion by a constituency that explicitly built its political identity in opposition to those environments." },
+        { name: "Partisan Grievance Over Local Delivery", tag: "avoid", why: "The 74% Republican result reflects a coalition built on shared economic interests across racial lines, not purely on cultural resentment. Aggressive cultural grievance messaging that prioritizes Austin political battles over local infrastructure, veteran services, and agricultural economy risks alienating the working-class Black and Hispanic constituents whose economic alignment with the Republican base sustains the district's wide margin." }
+      ],
+      memoHeadline: "Central Texas Military and Agricultural Belt: Fort Cavazos, Working-Class, 74% Republican, and a Significant Black Veteran Community",
+      memoParagraphs: [
+        "SD-22 covers a wide stretch of Central Texas between the Dallas-Fort Worth and Austin metros — communities in McLennan, Bell, Coryell, and surrounding counties where ranching, agriculture, and military employment define the local economy. At 51.3% white, 25.4% Hispanic, and 15.8% Black, the district is more demographically varied than its 74% Republican margin might suggest. The Black population is particularly notable: concentrated in communities adjacent to Fort Cavazos (the renamed Fort Hood), this is a military and veteran community with specific service needs that don't map neatly onto the political assumptions that often accompany majority-Black districts elsewhere.",
+        "The 74% Republican result reflects a genuine ideological preference in this district — rural Central Texas voters are culturally and economically conservative, skeptical of state and federal regulatory overreach, and deeply attached to military and agricultural identities. What holds this coalition together is not racial homogeneity but shared economic interests: property rights, water access, military funding, rural infrastructure, and a government that stays out of local community decisions. Any candidate of either party who fails to speak this language credibly will find the district's wide partisan margin is a ceiling rather than a floor."
+      ],
+      memoBullets: [
+        "Lead with military and veteran community service — Fort Cavazos adjacent communities have specific, winnable issues around VA access, military family support, and base infrastructure",
+        "Demonstrate agricultural policy fluency — water rights, crop insurance, rural roads, and farm economy are not peripheral; they are the district's economic backbone",
+        "Engage the Black military community specifically on veteran services, not through a broader racial political frame that doesn't fit this constituency",
+        "Avoid urban regulatory or social policy framing; this district's voters specifically chose Central Texas to be outside metro policy influence and react accordingly"
+      ]
     }
   },
   {
     id: "tx-sd-23",
     name: "Texas Senate District 23",
-    city: "TBD",
-    region: "TBD",
+    city: "Dallas",
+    region: "South Dallas",
     type: "state senate district",
     incumbentName: "Royce West",
     incumbentParty: "Democrat",
@@ -8246,17 +8260,31 @@ const TX_SENATE_DISTRICTS = [
         { label: "White", pct: 17.85, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 2.99, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Housing Affordability & Renter Protections", tag: "lean-into", why: "At 49.7% renter rate, SD-23's working-class Hispanic and Black residents face gentrification pressure as Dallas metro expansion moves south through DeSoto, Cedar Hill, and Lancaster. Housing stability is the shared material concern that crosses the district's racial lines — a candidate who legislates on behalf of South Dallas renters builds the biracial constituency trust that holds this coalition together." },
+        { name: "Economic Mobility & Workforce Investment", tag: "lean-into", why: "At $67,719 income and 29.1% college attainment, the majority of SD-23 residents are working-class families building economic footholds rather than maintaining established professional stability. Investment in community college access, job training, and small business development speaks to the aspirational economic identity of a young district (33.7 median age) where opportunity infrastructure is the most wanted government product." },
+        { name: "Black-Hispanic Coalition Management", tag: "careful", why: "SD-23 is one of the rare Texas Senate districts where the Black (37.5%) and Hispanic (39.6%) communities are near-equal in size — and both are essential to the Democratic coalition. A candidate who governs as if one community owns the district will find the other community's engagement declining. The balance requires active, differentiated relationships with separate civic networks rather than a single 'communities of color' strategy, and it must be maintained with equal discipline in an uncontested year as in a competitive one." },
+        { name: "National Progressive Cultural Positioning", tag: "avoid", why: "South Dallas's working-class Black and Hispanic communities are economically aspirational and culturally traditional — they want investment in housing, jobs, and schools, not a legislator whose profile is built on national progressive identity politics. Candidates who foreground ideological signaling over constituent service risk the same coalition erosion that has affected comparable working-class minority communities in competitive Texas districts." },
+        { name: "Treating the Uncontested Result as a Mandate", tag: "avoid", why: "West's 2024 uncontested result reflects incumbent strength and coalition cultivation, not immunity from future challenge. The same economic pressures that have made comparable working-class minority districts competitive elsewhere in Texas are present here. Treating the margin as structural rather than earned — by reducing constituent engagement or substituting Austin political presence for local community presence — creates the vulnerability that produces a competitive race." }
+      ],
+      memoHeadline: "South Dallas's Near-Equal Black and Hispanic District: 50% Renters, Working-Class, and a Coalition That Must Be Built Daily",
+      memoParagraphs: [
+        "SD-23 covers southern Dallas and southern Dallas County — DeSoto, Cedar Hill, Lancaster, and surrounding communities that make up one of the Dallas metro's most economically working-class corridors. At $67,719 median income, 29.1% college attainment, and 49.7% renter rate, this is a district where the majority of residents are one rent increase or job loss from economic precarity. The district's demographic composition — 39.6% Hispanic, 37.5% Black, 17.9% white — makes it one of the most genuinely biracial majority-minority Senate districts in Texas.",
+        "West's uncontested 2024 result reflects decades of incumbent strength and coalition cultivation, but it should not be read as a mandate for complacency. The near-equal Black and Hispanic communities that sustain this district's Democratic alignment require active, differentiated engagement — not a single 'minority community' outreach strategy. This mirrors the challenge in SD-13 in Houston: when two communities are this close in size and both essential to the coalition, the candidate who governs as if the district belongs to one of them will eventually find out which one can survive without them."
+      ],
+      memoBullets: [
+        "Lead with housing affordability and renter protections — the shared material interest that links Hispanic and Black working-class residents in this district",
+        "Build and maintain separate authentic relationships with Black and Hispanic civic networks; do not conflate them or run a single unified 'community of color' strategy",
+        "Invest in economic mobility programming — community college access, job training, small business support — for a young working-class constituency still building economic stability",
+        "Monitor the near-parity carefully: any perceived favoritism toward one community's priorities, leadership, or presence will register with the other and can fracture the coalition"
+      ]
     }
   },
   {
     id: "tx-sd-24",
     name: "Texas Senate District 24",
-    city: "TBD",
-    region: "TBD",
+    city: "Kerrville",
+    region: "Hill Country",
     type: "state senate district",
     incumbentName: "Pete Flores",
     incumbentParty: "Republican",
@@ -8279,17 +8307,31 @@ const TX_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 11.96, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 4.75, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Hill Country Property Rights & Water Access", tag: "lean-into", why: "Ranching, rural land ownership, and water rights form the economic foundation and cultural identity of SD-24's Hill Country communities. Pipeline and transmission line easements, solar farm lease pressure, and Edwards Aquifer allocation are high-stakes issues where Senate-level engagement creates genuine constituency value. Only a candidate with genuine command of these frameworks earns the trust of the Guadalupe River corridor communities that are the district's political core." },
+        { name: "Hispanic Republican Coalition Cultivation", tag: "lean-into", why: "Flores built SD-24's 64% coalition by treating Hispanic constituents as economic co-owners of conservative governance rather than swing voters to be occasionally addressed. The 26.3% Hispanic community is not monolithic — it includes Hill Country ranching families and suburban San Antonio arrivals with different economic profiles. A candidate who maintains that model sustains the coalition; a candidate who takes Hispanic Republican support for granted loses the margin that makes 64% possible." },
+        { name: "Suburban San Antonio Expansion", tag: "careful", why: "The southern edge of SD-24 increasingly touches San Antonio's suburban growth corridor, bringing residents whose expectations around school quality, infrastructure investment, and homeowner services differ from the Hill Country political culture that dominates the district. This demographic pressure is not yet decisive, but it is directional — managing the boundary between established rural-conservative identity and incoming suburban governance expectations is the political management challenge that will define the district's next decade." },
+        { name: "Hard-Right Immigration Rhetoric", tag: "avoid", why: "SD-24's 26.3% Hispanic community includes families whose presence in this district predates its political configuration by generations. Immigration messaging that signals cultural hostility or treats Hispanic voters as the subject of the policy rather than the audience for it will fracture the cross-racial coalition that holds 64%. Flores's success was built on precisely the opposite approach, and any deviation from that template is a direct coalition liability." },
+        { name: "Urban Regulatory Importation", tag: "avoid", why: "Hill Country voters chose this district as a specific alternative to metro governance environments. Environmental regulations, land use frameworks, or social policy positions that read as exported from Austin or San Antonio will be interpreted as a threat to the rural property rights identity that anchors the district's base — the same identity that generates the 64% margin." }
+      ],
+      memoHeadline: "Hill Country to San Antonio Exurbs: Hispanic Republican Coalition, Property Rights, and a Thin White Majority",
+      memoParagraphs: [
+        "SD-24 spans a wide geographic arc from the Texas Hill Country south through communities approaching San Antonio — a district defined by its distance from metropolitan dominance and its attachment to the rural, small-city Texas identity that still governs much of the state's political culture. At 52.3% white, 26.3% Hispanic, and 12% Black, the district is more diverse than its 64% Republican margin implies, and Pete Flores's career is built on that diversity: as the first Hispanic Republican elected to the Texas Senate in over a century, he demonstrated that conservative economic messaging combined with genuine community presence could build a cross-racial majority in a district the Democrats once held.",
+        "The Hill Country economy — ranching, water rights, limited-growth land use, Hill Country tourism, and the agricultural heritage of the Guadalupe River corridor — is the cultural and economic backbone of the district's base. But the southern portion of the district increasingly touches San Antonio's suburban expansion, bringing new residents with different expectations about government services, schools, and community investment. How the district navigates the tension between its established rural-conservative identity and incoming suburban growth will define its political trajectory over the next decade."
+      ],
+      memoBullets: [
+        "Lead with Hill Country economic identity — property rights, water access, rural infrastructure, and the small-city Texas lifestyle that the base has voted to protect",
+        "Actively cultivate the Hispanic Republican coalition by treating Hispanic constituents as economic co-owners of conservative governance, not as swing voters to be occasionally addressed",
+        "Monitor suburban San Antonio expansion at the district's southern margin as an emerging demographic variable that doesn't share the Hill Country political culture",
+        "Avoid immigration rhetoric or hard-right cultural positioning that can read as personally hostile to the Hispanic community that is essential to the 64% coalition"
+      ]
     }
   },
   {
     id: "tx-sd-25",
     name: "Texas Senate District 25",
-    city: "TBD",
-    region: "TBD",
+    city: "New Braunfels",
+    region: "San Antonio North Suburbs",
     type: "state senate district",
     incumbentName: "Donna Campbell",
     incumbentParty: "Republican",
@@ -8312,17 +8354,31 @@ const TX_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 4.28, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.81, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Property Tax Relief & Homeowner Governance", tag: "lean-into", why: "At $110,286 median income, 50.6% college attainment, and 24.9% renter rate, SD-25 is dominated by professional-class homeowners who built their financial lives around the value proposition of suburban Texas — quality schools, manageable tax environments, and government that stays out of private economic decisions. Property tax reform and fiscal management are not partisan issues here; they are the core governance deliverables this constituency voted to protect." },
+        { name: "Growth Management & Infrastructure Investment", tag: "lean-into", why: "New Braunfels is among the fastest-growing cities in the United States, and Comal and Kendall County expansion creates real infrastructure pressures on roads, water, and school capacity. A candidate who demonstrates genuine command of growth management — not just opposition to growth, but governance of it — addresses the quality-of-life concern that most directly affects the established professional-class homeowners who are the district's political core." },
+        { name: "Professional-Class Drift Zone", tag: "careful", why: "At 50.6% college attainment and $110K income, SD-25 has exactly the demographic profile that has drifted most reliably toward Democrats in Texas and nationally. The 29% Hispanic professional cohort adds a further drift variable — educated minority homeowners who chose this suburb for its economic attributes are not bound by cultural conservatism. Campbell's 64% is comfortable but not immunizing: any candidate who mistakes economic conservatism for a mandate to pursue cultural legislation will discover that the professional-class homeowner's tolerance has a price point." },
+        { name: "Culture War Legislative Priorities", tag: "avoid", why: "SD-25's professional homeowners voted for fiscal governance, school quality, and quality-of-life management — not for ideological signal legislation. Education policy that reads as curriculum policing, healthcare restrictions that affect professional-class families, or social grievance politics that generates Austin-versus-suburbs conflict are the specific liabilities that convert a comfortable 64% majority into a competitive race." },
+        { name: "Downplaying the Hispanic Professional Community", tag: "avoid", why: "The 29.3% Hispanic population in SD-25 is not a border or agricultural community — it is a professional-class suburban cohort whose political alignment with the Republican Party is contingent on being treated as economic co-investors rather than cultural minorities. Rhetoric or policy positions that signal the district's conservatism is primarily white-cultural rather than economically principled will cost the margin that makes 64% possible." }
+      ],
+      memoHeadline: "San Antonio's Affluent Northern Suburbs: $110K Income, 50% College, 25% Renters, and the Drift Zone Warning",
+      memoParagraphs: [
+        "SD-25 covers the affluent communities north and northeast of San Antonio — New Braunfels, Boerne, Schertz, and the Comal and Kendall County corridor that represents the most prosperous tier of the San Antonio metro's suburban expansion. At $110,286 median income, 50.6% college attainment, and 24.9% renter rate, this is the highest-income, most homeowner-dominant district in this batch, and one of the wealthiest in the Texas Senate. The 40.1 median age reflects an established community — these are not young renters building careers; they are older professionals and established families who have made significant economic commitments to the area and vote accordingly.",
+        "The statistical profile places SD-25 squarely in the zone of maximum suburban realignment risk. At 50.6% college attainment and a 29% Hispanic population that includes a significant professional-class cohort, the district has exactly the demographic composition that has been drifting toward Democrats in other Texas metros. Campbell's 64% is a comfortable margin but not an immunizing one: adjacent suburban San Antonio communities have shown movement, and any candidate who mistakes the district's economic conservatism for a mandate to pursue aggressive cultural legislation risks discovering that these voters' conservatism has limits when it starts affecting schools, healthcare, and community governance."
+      ],
+      memoBullets: [
+        "Lead with property taxes, homeowner priorities, and New Braunfels growth management — these are the economic governance issues that animate the district's professional-class homeowner base",
+        "Engage the 29% Hispanic professional community as economic co-investors in the district's conservative governance, not as a cultural minority to be managed",
+        "Treat the 50.6% college attainment as a warning: this is a drift-zone district, and governance credibility is the asset that holds it; ideological posturing is the liability that loses it",
+        "Avoid culture war legislation that alienates the professional-class homeowner coalition — they voted for fiscal conservatism and quality-of-life governance, not social grievance politics"
+      ]
     }
   },
   {
     id: "tx-sd-26",
     name: "Texas Senate District 26",
-    city: "TBD",
-    region: "TBD",
+    city: "San Antonio",
+    region: "San Antonio West Side",
     type: "state senate district",
     incumbentName: "José Menéndez",
     incumbentParty: "Democrat",
@@ -8345,17 +8401,31 @@ const TX_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 8.01, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 3.21, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Housing Affordability & Anti-Displacement", tag: "lean-into", why: "At 49.6% renter rate in San Antonio's inner city, the Westside and Southside communities of SD-26 are experiencing direct gentrification pressure as downtown expansion moves outward. Housing stability — rental assistance, anti-displacement protections, and affordable housing investment — is the most urgent shared material concern of a majority-renter, working-class district where displacement is not a future risk but a current reality for the 65.9% Hispanic community that is the district's foundation." },
+        { name: "Westside & Southside Economic Development", tag: "lean-into", why: "SD-26's inner-city communities are the historical and cultural heart of San Antonio's Hispanic majority but have historically received less economic investment than the city's northern growth corridors. Targeted neighborhood commercial development, small business access, and community infrastructure on the Westside and Southside speaks to the economic aspirations of a young (34.3 median age), working-class constituency that is actively building stability in communities it is rooted in." },
+        { name: "South Texas Realignment Transmission", tag: "careful", why: "The working-class Hispanic realignment visible in the Rio Grande Valley and Coastal Bend has not arrived in San Antonio's inner city at comparable scale — but the trend exists here too, moving slower. Menéndez's 67% is built on deep constituent service investment and genuine Westside identity. A candidate who substitutes national Democratic platform messaging for that local economic focus invites the same erosion process that has compressed margins in comparable working-class Hispanic communities elsewhere in South Texas." },
+        { name: "National Democratic Cultural Signaling", tag: "avoid", why: "San Antonio's Westside and Southside are working-class, predominantly Catholic, and culturally traditional communities whose Democratic alignment is built on economic security and community investment — not ideological affinity with the national Democratic Party. Candidates whose profile foregrounds progressive cultural positioning rather than housing, jobs, and neighborhood stability risk accelerating the slow realignment that the 67% margin currently holds at bay." },
+        { name: "Treating the Inner City as a Safe Bank", tag: "avoid", why: "The 67% margin requires active maintenance. Any reduction in constituent service or local economic focus — in favor of Austin political presence or national platform visibility — gives working-class Hispanic voters the economic grievance that Republican messaging is specifically designed to exploit. The 67% is earned, not structural, and it compresses if it stops being earned." }
+      ],
+      memoHeadline: "San Antonio's Inner Hispanic Core: Westside and Southside, 50% Renters, 67% Democratic with a Vigilance Requirement",
+      memoParagraphs: [
+        "SD-26 is the San Antonio inner city — the West Side and South Side communities that are the historical and cultural heart of the city's Hispanic majority. At 65.9% Hispanic, $58,458 median income, and 49.6% renter rate, this is a working-class, renter-heavy district where affordable housing, community infrastructure, and economic mobility are the dominant quality-of-life concerns. The 25.7% college attainment and 34.3 median age reflect a young, working-class constituency that is actively building economic footholds rather than maintaining established professional stability.",
+        "Menéndez's 67% is the strongest Democratic margin of the contested San Antonio-area Senate seats, built on deep community presence and Westside/Southside identity rather than ideological positioning. But the same trends eroding Democratic margins in comparable working-class Hispanic districts elsewhere in South Texas are present in San Antonio's inner city — just slower-moving. The 67% is a product of genuine constituent service investment; it will compress if a future candidate or incumbent substitutes national platform messaging for the local economic focus that built it."
+      ],
+      memoBullets: [
+        "Lead with housing affordability and anti-displacement — 50% renters experiencing gentrification pressure is the district's most urgent shared concern",
+        "Anchor community identity messaging in Westside and Southside San Antonio specifically — these neighborhoods have distinct pride and history that rewards candidates who know them on their own terms",
+        "Treat the 67% margin as earned rather than structural — active constituent service and economic responsiveness are the assets that keep working-class Hispanic margins from following the South Texas realignment trajectory",
+        "Keep national Democratic cultural signals out of district messaging; San Antonio's inner city responds to economic security and community investment, not ideological positioning"
+      ]
     }
   },
   {
     id: "tx-sd-27",
     name: "Texas Senate District 27",
-    city: "TBD",
-    region: "TBD",
+    city: "Corpus Christi",
+    region: "Coastal Bend",
     type: "state senate district",
     incumbentName: "Adam Hinojosa",
     incumbentParty: "Republican",
@@ -8378,17 +8448,31 @@ const TX_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 1.05, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 0.75, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Port of Corpus Christi & Energy Economy", tag: "lean-into", why: "SD-27's economic identity is inseparable from the Port of Corpus Christi — one of the highest-tonnage ports in the United States — and the petrochemical refining and LNG export infrastructure clustered around it. Any candidate of either party must speak with technical and economic fluency to port investment, refining capacity, export policy, and the blue-collar industrial employment that sustains working-class Coastal Bend communities at $54,368 median income and 18.9% college attainment." },
+        { name: "Workforce Development & Economic Mobility", tag: "lean-into", why: "At 18.9% college attainment — among the lowest of any Texas Senate district — SD-27 has the largest gap between educational access and economic aspiration in the chamber. Investment in Del Mar College, workforce training aligned to energy and maritime industries, and industrial certification programs speaks to the economic mobility goals of the district's young working-class population (32.3 median age) in terms they will recognize as genuine rather than performative." },
+        { name: "The 49% Coalition Is Fragile in Both Directions", tag: "careful", why: "Hinojosa's plurality win in an 84% Hispanic district was built on economic messaging credibility, not on a structural conversion of Hispanic voters to Republican identity. That margin can move three to five percent in either direction based on whether voters believe their economic interests are being served. A Republican who stops delivering on port infrastructure and energy jobs loses the margin; a Democrat who fails to offer credible blue-collar economic alternatives loses the crossover opportunity. Neither side holds this district on assumption." },
+        { name: "Cultural Conservative Signaling to an 84% Hispanic Constituency", tag: "avoid", why: "SD-27's Hispanic working-class majority responded to economic messaging about jobs and frustration with institutions that felt distant — not to social conservatism. Any shift toward cultural positioning — immigration enforcement rhetoric, social policy that reads as anti-Hispanic, or Austin political priorities over Coastal Bend economic ones — reverses the crossover coalition immediately and removes the Republican path to a majority in this district." },
+        { name: "Demographic Assumption in Either Direction", tag: "avoid", why: "A Republican who treats the 49% as permanent realignment will underinvest in the economic delivery that produced it. A Democrat who treats the 84% Hispanic majority as an automatic return without aggressive economic credibility will find the crossover repeats. This district punishes any candidate who runs on demographic assumption rather than active constituency engagement on material economic terms." }
+      ],
+      memoHeadline: "The South Texas Realignment in One Number: A Republican Won 49% in an 84% Hispanic District",
+      memoParagraphs: [
+        "SD-27 is the single most dramatic illustration of South Texas's political realignment in the entire Texas Senate. Adam Hinojosa won a district that is 83.67% Hispanic with 49% of the vote — a plurality win in what was for decades an automatic Democratic stronghold. This is Corpus Christi and Nueces County: a working-class Gulf Coast community whose economy is built on the Port of Corpus Christi, petrochemical refining, LNG export, and the industries that cluster around one of the largest tonnage ports in the United States. At 18.9% college attainment and $54,368 median income, this is among the least-educated and lowest-income Senate districts in Texas.",
+        "What the 49% result tells any candidate is not that SD-27 has become a Republican district — it hasn't, demographically. What it tells them is that working-class Hispanic voters in Corpus Christi are willing to cross party lines when they believe a candidate speaks to their economic reality more credibly than the alternative. The Republican win was built on economic messaging about energy jobs, port investment, and frustration with Democratic institutions that felt distant from blue-collar Coastal Bend concerns. That crossover is real and persuadable in either direction — which makes SD-27 the most genuinely competitive district in the Texas Senate and the most consequential test of whether South Texas realignment is a trend or a realignment."
+      ],
+      memoBullets: [
+        "Lead with Port of Corpus Christi and energy economy specifics — the working-class economic identity of this district runs through the port and the refining corridor",
+        "Address economic mobility directly: workforce development, industrial job quality, and access to community college education for the district's 18.9% college attainment base",
+        "For any candidate: the 49% crossover was earned by economic credibility, not demographic assumption — it can be won or lost on those same terms in the next cycle",
+        "Avoid letting the conversation become about cultural identity, partisanship, or national policy frames; this district's swing voters are economic pragmatists responding to material conditions"
+      ]
     }
   },
   {
     id: "tx-sd-28",
     name: "Texas Senate District 28",
-    city: "TBD",
-    region: "TBD",
+    city: "Lubbock",
+    region: "West Texas",
     type: "state senate district",
     incumbentName: "Charles Perry",
     incumbentParty: "Republican",
@@ -8411,17 +8495,31 @@ const TX_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 6.17, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.72, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Permian Basin Energy Economy & Infrastructure", tag: "lean-into", why: "SD-28 covers West Texas energy country from Lubbock to the South Plains and into communities approaching Midland-Odessa. Oil, gas, and the industrial infrastructure supporting the Permian Basin are not just the economic foundation of the district — they are the political identity through which all other policy is filtered. A candidate who demonstrates genuine command of energy regulation, pipeline capacity, and the workforce issues of the drilling economy holds this seat; one who cannot speak this language credibly does not." },
+        { name: "Agricultural Water Rights & Ogallala Aquifer", tag: "lean-into", why: "Cotton farming across the South Plains is directly dependent on Ogallala Aquifer drawdown rates that the Texas Legislature governs. For ranching and farming communities in SD-28, this is not an environmental issue — it is the question of whether their economic model survives the next generation. Candidates who understand groundwater conservation districts, irrigation efficiency investment, and the long-term sustainability of dryland farming demonstrate a depth of engagement that this constituency recognizes immediately." },
+        { name: "34% Hispanic Workforce Community Engagement", tag: "careful", why: "The Hispanic community in SD-28 is a generational workforce community — present in the oil fields, farms, and trades of West Texas for decades — not a politically organized opposition. Perry's uncontested result reflects the absence of organized challenge, not evidence that this community has been fully engaged. A candidate who invests in housing access, educational opportunity, and economic mobility for the 34% Hispanic workforce community builds durable cross-racial support; one who takes them for granted creates the opening for a future challenge." },
+        { name: "Energy Transition Positioning", tag: "avoid", why: "In a district whose economy runs entirely on oil and gas, any candidate perceived as sympathetic to energy transition policy, renewable energy mandates, or federal environmental regulatory frameworks will lose the trust of the working-class oil field community instantly. This is not a district where environmental credibility is an asset; it is a district where environmental positioning is interpreted as an existential economic threat to every household in SD-28." },
+        { name: "Metro Policy Importation", tag: "avoid", why: "Lubbock is a West Texas city with a distinct political and economic culture. Governance frameworks, regulatory approaches, or social policy positions that read as imported from the Dallas-Fort Worth or Austin policy environments will register as culturally foreign to a constituency that specifically identifies with the independence and economic pragmatism of West Texas's non-metro political tradition." }
+      ],
+      memoHeadline: "Lubbock to the Permian Basin: Energy Country, Cotton Farming, and a 34% Hispanic Workforce Community",
+      memoParagraphs: [
+        "SD-28 is West Texas — Lubbock, the South Plains, and the communities reaching toward Midland-Odessa that make up the operational core of one of the world's most productive oil and gas regions. At 55.2% white and 34% Hispanic, the district reflects the demographic reality of West Texas's energy and agricultural economy: an Anglo political establishment built on ranching and cotton farming, underpinned by a large Hispanic workforce community that has been part of the region's economic infrastructure for generations. The $62,217 median income and 25.8% college attainment are working-class numbers in a district where the economy runs on drilling, farming, and the trades — not the professional services of the major metros.",
+        "Perry's uncontested 2024 result reflects the district's political positioning in safe Republican territory, but the 34% Hispanic community is a constituency worth engaging seriously rather than assuming. Lubbock's growing economic diversification — Texas Tech University, healthcare, and technology — is beginning to bring a different professional class into parts of the district, but the core identity remains oil country, and the candidate who holds this seat holds it by demonstrating that they understand and fight for the energy economy that sustains every other economic activity in West Texas."
+      ],
+      memoBullets: [
+        "Lead with Permian Basin energy economy and energy infrastructure — this is the economic identity of the district and the lens through which all other policy is filtered",
+        "Demonstrate specific fluency on agricultural water rights and the Ogallala Aquifer — rural communities here know the difference between candidates who understand the issue and those who are performing understanding",
+        "Engage the 34% Hispanic workforce community on economic terms — job quality, housing, and educational access in energy and agricultural sectors — rather than treating them as a culturally separate constituency",
+        "Maintain active constituent service even without electoral competition; unopposed status is not proof of popularity, it's often proof that no one has yet had reason to mount a challenge"
+      ]
     }
   },
   {
     id: "tx-sd-29",
     name: "Texas Senate District 29",
-    city: "TBD",
-    region: "TBD",
+    city: "El Paso",
+    region: "El Paso",
     type: "state senate district",
     incumbentName: "César J. Blanco",
     incumbentParty: "Democrat",
@@ -8444,17 +8542,31 @@ const TX_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 3.23, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.25, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Fort Bliss & Military Community Investment", tag: "lean-into", why: "Fort Bliss is the largest employer in El Paso and one of the most significant Army installations in the United States. At the Senate level, the most concrete deliverable a candidate can produce for this district is visible advocacy for base infrastructure, veteran services, VA healthcare access, and military family economic support — in a city where these directly affect a substantial portion of the working population and define the local economy's stability anchor." },
+        { name: "El Paso–Ciudad Juárez Binational Economy", tag: "lean-into", why: "The El Paso–Juárez metropolitan area is one of the largest binational urban regions in the world, and SD-29's economic life is inseparable from cross-border trade, maquiladora manufacturing, retail commerce, and family economic integration across the border. A candidate who speaks with policy fluency to border crossing infrastructure, customs processing capacity, and the direct economic consequences of federal trade and immigration decisions — through the local economic lens, not the national security frame — commands the trust El Paso voters are looking for." },
+        { name: "El Paso's Distinctive Stability vs. Valley Realignment Patterns", tag: "careful", why: "El Paso has held its Democratic alignment more stably than the Rio Grande Valley through recent cycles, supported by Fort Bliss's economic anchor and UTEP's professional-class contribution. But the working-class Hispanic realignment trend is not absent from El Paso — it is slower-moving. An unopposed result does not mean the trend has bypassed this district; it means no well-funded candidate has yet tested it. The stability is maintained by delivering on local economic specifics, not by assuming that demographic composition protects the margin." },
+        { name: "Treating El Paso as a Rio Grande Valley Extension", tag: "avoid", why: "El Paso's political culture, economic structure, and geographic identity are distinct from South Texas in ways that residents are acutely aware of. Candidates who apply Valley political templates, Valley policy framing, or Valley identity language to El Paso signal that they don't know the district. El Paso voters reward candidates who treat the city as its own context; they respond with indifference to candidates who treat it as a generic border community." },
+        { name: "National Immigration Frame as Primary Policy Identity", tag: "avoid", why: "El Paso's direct experience with border policy is hyper-local — specific crossings, specific commercial relationships, specific families and employers on both sides of the river. Candidates whose immigration positioning is built primarily around national political narratives — from either the restrictionist or open-borders direction — rather than El Paso's specific economic and community experience will lose the trust of a community that lives the policy rather than debating it." }
+      ],
+      memoHeadline: "El Paso's Distinctive Border Identity: Fort Bliss, Binational Economy, and a Democratic Stability That Differs From the Valley",
+      memoParagraphs: [
+        "SD-29 is El Paso — the westernmost major Texas city, separated from the rest of the state by hundreds of miles of desert and defined by its position at the juncture of Texas, New Mexico, and Mexico. At 82% Hispanic, $58,458 median income, and 25% college attainment, the district shares demographic characteristics with South Texas border communities — but El Paso's political economy is distinctly its own. Fort Bliss, one of the largest Army installations in the United States, anchors the local economy with a stability that the purely trade-dependent Rio Grande Valley lacks. The University of Texas at El Paso adds an educational and professional-class dimension that has helped inoculate the area against some of the working-class realignment visible elsewhere.",
+        "The El Paso–Ciudad Juárez binational metropolitan area — with a combined population approaching 2.5 million — makes cross-border economic policy a direct local issue in ways that no other Texas Senate district experiences at the same scale. Maquiladora manufacturing, retail cross-border commerce, healthcare access across the border, and the daily economic integration of families who live on both sides create a policy environment where federal immigration and trade decisions land with immediate local economic consequences. Any candidate who engages this dimension with specificity and fluency commands the trust that this district's voters are looking for."
+      ],
+      memoBullets: [
+        "Lead with Fort Bliss and military community investment — the largest employer in the district creates specific, winnable constituent service issues around veteran services, base infrastructure, and military family support",
+        "Engage the El Paso–Ciudad Juárez binational economy with policy specifics; cross-border commerce and manufacturing are local economic survival issues, not national immigration talking points",
+        "Maintain the constituent service depth that has kept El Paso stable relative to the Valley — the stability is earned, not structural, and requires ongoing investment",
+        "Treat El Paso as its own political context, not as an extension of Rio Grande Valley dynamics; residents will notice and reward the distinction"
+      ]
     }
   },
   {
     id: "tx-sd-30",
     name: "Texas Senate District 30",
-    city: "TBD",
-    region: "TBD",
+    city: "McKinney",
+    region: "North DFW Suburbs",
     type: "state senate district",
     incumbentName: "Chad Bridges",
     incumbentParty: "Republican",
@@ -8477,17 +8589,31 @@ const TX_SENATE_DISTRICTS = [
         { label: "Asian", pct: 9.21, color: DEMO_COLORS[2] },
         { label: "Black / African American", pct: 8.95, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Property Taxes & Fiscal Management", tag: "lean-into", why: "At $93,740 median income and 40.5% college attainment, SD-30's professional-class homeowners voted for fiscal conservatism and economic governance — not cultural positioning. Property tax relief, school district funding efficiency, and fiscal management of North DFW's rapid growth are the governance deliverables that hold the coalition across all four demographic communities in this district and represent the clearest mandate the 54% result carries." },
+        { name: "Asian & Black Professional Community Engagement", tag: "lean-into", why: "The near-equal 9.2% Asian and 9% Black communities in SD-30 are almost certainly professional-class suburban families who chose the McKinney and Collin County corridor for its educational and economic attributes. At 54%, these communities are not marginal to the coalition — they are part of the margin itself. A candidate who invests specifically in understanding and addressing the constituent priorities of both professional minority communities builds the coalition breadth that converts a thin win into a durable one." },
+        { name: "College-Attainment Drift Zone", tag: "careful", why: "At 40.5% college attainment, SD-30 sits squarely in the demographic zone of maximum suburban realignment risk. National data consistently shows that college-educated suburban voters are the constituency most responsive to culture war overreach. A Republican who governs on fiscal management and school quality holds this district; one who uses the seat for ideological legislation gives a well-funded Democratic opponent the exact coalition needed to flip it. The 46% Democratic floor from 2024 does not require growth — only the conversion of a small fraction of marginal Republican voters." },
+        { name: "Culture War Legislation", tag: "avoid", why: "SD-30's professional homeowners chose North DFW suburbs for quality schools, economic stability, and community governance — not for ideological signal legislation from Austin. Education policy that reads as curriculum policing, social policy that affects professional-class families, or partisan culture war priorities will register with exactly the professional-class voters whose defection converts 54% into a Democratic win. This is the single largest electoral risk in the district, and it has no upside." },
+        { name: "Treating the 54% as Safe", tag: "avoid", why: "At a 54-46 margin, SD-30 is one strong Democratic recruitment cycle away from being a genuine toss-up. Any candidate who governs as if the margin is larger than it is — by reducing constituent engagement, pursuing ideological priorities over fiscal management, or ignoring the specific priorities of the district's minority professional communities — will find that the math at this margin is entirely unforgiving." }
+      ],
+      memoHeadline: "The Texas Senate's Thinnest Republican Margin: 54% in a $94K, 40% College Suburban District With a Near-Equal Asian and Black Professional Community",
+      memoParagraphs: [
+        "SD-30 is the most electorally vulnerable Republican-held Senate seat in Texas by margin — Bridges won at 54-46, a result that in any other political environment would trigger serious Democratic investment. The district profile explains why: at $93,740 median income and 40.5% college attainment, this is precisely the suburban Texas demographic category that has been moving most reliably toward Democrats. The 59% white majority is comfortable but not commanding, and the 9.2% Asian and 9% Black communities — almost certainly professional-class suburban families concentrated in established neighborhoods — are not locked into the Republican column.",
+        "What makes SD-30 analytically distinctive is the near-equality of its Asian and Black populations — a combination that is unusual for a majority-white Republican-held district and suggests a specific suburban geography where professional-class minority families have settled alongside the white majority without the political dynamics of majority-minority communities. These are voters who chose the suburb for its economic and educational attributes, and who will evaluate candidates through that lens. A Republican who governs on fiscal management and school quality holds them; a Republican who governs on cultural grievance loses them — and at 54%, losing a small fraction of the professional minority communities turns a thin win into a loss."
+      ],
+      memoBullets: [
+        "Lead with property taxes and fiscal management — the economic governance issues that hold the professional-class homeowner coalition across all four demographic communities",
+        "Invest specifically in Asian and Black professional community engagement; at near-equal 9% each, these communities are not marginal to the coalition — they are part of the margin",
+        "Treat the 54% as a mandate for competent economic governance, not a mandate for ideological positioning; this seat has almost no room for culture war overreach",
+        "Monitor the college-attainment drift actively: at 40.5%, SD-30 is one engaged Democratic opponent away from being a genuine toss-up in 2026"
+      ]
     }
   },
   {
     id: "tx-sd-31",
     name: "Texas Senate District 31",
-    city: "TBD",
-    region: "TBD",
+    city: "Odessa",
+    region: "Permian Basin",
     type: "state senate district",
     incumbentName: "Randy Wilson",
     incumbentParty: "Republican",
@@ -8510,10 +8636,24 @@ const TX_SENATE_DISTRICTS = [
         { label: "Black / African American", pct: 5.31, color: DEMO_COLORS[2] },
         { label: "Asian", pct: 1.86, color: DEMO_COLORS[3] }
       ],
-      issues: [],
-      memoHeadline: "",
-      memoParagraphs: [],
-      memoBullets: []
+      issues: [
+        { name: "Permian Basin Energy Economy & Industrial Employment", tag: "lean-into", why: "SD-31 runs on oil and gas. At 21.9% college attainment and $71,695 income, this is a working-class industrial district where the energy economy is not a political preference — it is the employment and economic survival mechanism for nearly every household across the district's 45% Hispanic and 45% white communities equally. A candidate of either party who demonstrates genuine command of energy production policy, pipeline infrastructure, and refinery employment earns credibility that no other policy position can substitute." },
+        { name: "Working-Class Economic Mobility Across Both Communities", tag: "lean-into", why: "At 45% Hispanic and 45% white with 21.9% college attainment, SD-31's working-class economic profile describes both communities equally — this is not a district where economic need maps onto one demographic. Workforce training, housing affordability, and community college access in Odessa and Midland are shared material interests that a candidate who addresses both communities simultaneously can build into a cross-racial economic coalition that no narrower strategy can match." },
+        { name: "53-47 Hispanic Crossover Margin", tag: "careful", why: "Wilson's win required approximately three to five percent of Hispanic voters to cross party lines on economic credibility. That crossover is fragile in both directions: a Republican who fails to deliver on energy jobs and economic security loses those voters back; a Democrat who invests credibly in blue-collar economic messaging gains them. At 45% Hispanic, any shift of two or three points in Hispanic turnout or preference changes the outcome. Every policy decision in this district operates against the backdrop of a margin this thin." },
+        { name: "Rhetoric Hostile to the Hispanic Community", tag: "avoid", why: "At 45% Hispanic, SD-31's Republican win is mathematically dependent on Hispanic crossover. Any policy position, campaign rhetoric, or governing signal that reads as culturally hostile to Hispanic voters — immigration enforcement framing, rhetoric that conflates energy economy interests with Anglo-only identity, or positioning that treats the 45% Hispanic community as an opposing bloc rather than a constituent one — ends the crossover coalition immediately and likely permanently." },
+        { name: "Energy Economy Ambiguity", tag: "avoid", why: "In a district this dependent on oil and gas, any perceived hesitation on energy economy issues — whether from environmental positioning, regulatory acceptance, or non-committal language about Texas's energy future — will be read as a threat to the industrial employment that sustains every household in Odessa and Midland. Hispanic and white working-class voters in SD-31 share this concern equally; a candidate who gives energy transition advocates any reason to claim them as sympathetic loses the core economic compact that holds the 53-47 coalition together." }
+      ],
+      memoHeadline: "Texas Senate's Most Demographically Balanced District: 45% Hispanic, 45% White, 53-47 Republican, and Every Vote Is the Margin",
+      memoParagraphs: [
+        "SD-31 is the most demographically balanced Senate district in Texas — 45.37% Hispanic and 45.20% white, separated by less than two-tenths of a percentage point. Randy Wilson won it at 53-47, one of the two thinnest Republican margins in the chamber alongside SD-30. This is working-class West Texas or South Texas energy country: 21.9% college attainment, $71,695 income, 32.2% renters. The economic identity is built on oil, gas, and the industrial employment that flows from it — not the professional-class suburban economy that characterizes the other thin-margin Senate districts.",
+        "The 53% Republican win in a district this Hispanic is the direct product of South Texas realignment: working-class Hispanic voters who have been persuaded, in this cycle, that Republican economic messaging speaks more credibly to their material conditions than the Democratic alternative. That persuasion is fragile and reversible. The margin is 53-47 — approximately 3 percentage points of Hispanic crossover voters represent the entire difference between winning and losing. In SD-31, more than in any other Texas Senate district, the political math is naked: any candidate who can hold the demographic coalition that voted for them while peeling off three to five percent of the opposing coalition wins. No other strategic calculation matters more."
+      ],
+      memoBullets: [
+        "Make the energy economy and industrial job quality the center of all economic messaging — this working-class district runs on oil and gas, and credibility here is built or lost on that ground",
+        "Engage the Hispanic working-class community on economic terms specifically — job quality, housing, workforce training — not through cultural affiliation or party identity",
+        "Campaign as if this is a 50-50 demographic district, because it is: any strategy premised on mobilizing one community to overcome the other will underperform a strategy that speaks to both",
+        "Avoid any rhetoric or policy position that signals hostility to Hispanic voters; at 45% Hispanic and 53-47 Republican, even a small shift in Hispanic participation or preference ends the Republican majority in this seat"
+      ]
     }
   }
 ];

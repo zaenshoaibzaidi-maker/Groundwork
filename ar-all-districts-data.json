@@ -1,0 +1,3516 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Arkansas House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53017,
+        "medianAge": 42.4,
+        "totalPopulation": 30962,
+        "collegePct": 15.96,
+        "renterRatePct": 24.54,
+        "race": {
+          "whitePct": 93.82,
+          "nonHispanicWhitePct": 93.52,
+          "blackPct": 0.08,
+          "asianPct": 0.08,
+          "hispanicPct": 1.21
+        }
+      },
+      "election": {
+        "winner": "Jeremy Wooldridge",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Arkansas House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 40782,
+        "medianAge": 44.9,
+        "totalPopulation": 31466,
+        "collegePct": 14.56,
+        "renterRatePct": 21.64,
+        "race": {
+          "whitePct": 90,
+          "nonHispanicWhitePct": 89.5,
+          "blackPct": 0.82,
+          "asianPct": 0.49,
+          "hispanicPct": 2.26
+        }
+      },
+      "election": {
+        "winner": "Trey Steimel",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Arkansas House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47404,
+        "medianAge": 51.8,
+        "totalPopulation": 31338,
+        "collegePct": 18.67,
+        "renterRatePct": 25.72,
+        "race": {
+          "whitePct": 92.61,
+          "nonHispanicWhitePct": 91.42,
+          "blackPct": 0.21,
+          "asianPct": 0.46,
+          "hispanicPct": 2.64
+        }
+      },
+      "election": {
+        "winner": "Stetson Painter",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Arkansas House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47722,
+        "medianAge": 52,
+        "totalPopulation": 30186,
+        "collegePct": 16.23,
+        "renterRatePct": 18.19,
+        "race": {
+          "whitePct": 93.87,
+          "nonHispanicWhitePct": 92.33,
+          "blackPct": 0.41,
+          "asianPct": 0.85,
+          "hispanicPct": 2.58
+        }
+      },
+      "election": {
+        "winner": "Jason Nazarenko",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Arkansas House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54313,
+        "medianAge": 42.1,
+        "totalPopulation": 31082,
+        "collegePct": 17.19,
+        "renterRatePct": 31.31,
+        "race": {
+          "whitePct": 94.29,
+          "nonHispanicWhitePct": 92.7,
+          "blackPct": 0.24,
+          "asianPct": 0.29,
+          "hispanicPct": 3.35
+        }
+      },
+      "election": {
+        "winner": "Ron McNair",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Arkansas House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55899,
+        "medianAge": 46.1,
+        "totalPopulation": 29706,
+        "collegePct": 20.43,
+        "renterRatePct": 22.07,
+        "race": {
+          "whitePct": 79.63,
+          "nonHispanicWhitePct": 78.14,
+          "blackPct": 0.28,
+          "asianPct": 0.71,
+          "hispanicPct": 9.75
+        }
+      },
+      "election": {
+        "winner": "Harlan Breaux",
+        "party": "REP",
+        "pct": 66.18,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Arkansas House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79069,
+        "medianAge": 38.6,
+        "totalPopulation": 30620,
+        "collegePct": 25.05,
+        "renterRatePct": 23.72,
+        "race": {
+          "whitePct": 61.03,
+          "nonHispanicWhitePct": 49.97,
+          "blackPct": 0.22,
+          "asianPct": 0.74,
+          "hispanicPct": 32.97
+        }
+      },
+      "election": {
+        "winner": "Brit McKenzie",
+        "party": "REP",
+        "pct": 66.46,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Arkansas House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91078,
+        "medianAge": 39.5,
+        "totalPopulation": 29796,
+        "collegePct": 31.05,
+        "renterRatePct": 22.84,
+        "race": {
+          "whitePct": 71.57,
+          "nonHispanicWhitePct": 68.28,
+          "blackPct": 1.37,
+          "asianPct": 1.02,
+          "hispanicPct": 16.73
+        }
+      },
+      "election": {
+        "winner": "Representative Austin McCollum",
+        "party": "REP",
+        "pct": 76.3,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Arkansas House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59566,
+        "medianAge": 29.8,
+        "totalPopulation": 29928,
+        "collegePct": 10.36,
+        "renterRatePct": 64.99,
+        "race": {
+          "whitePct": 36.29,
+          "nonHispanicWhitePct": 19.8,
+          "blackPct": 4.54,
+          "asianPct": 2.3,
+          "hispanicPct": 52.71
+        }
+      },
+      "election": {
+        "winner": "Diana Gonzales Worthen",
+        "party": "DEM",
+        "pct": 54.89,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Arkansas House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107704,
+        "medianAge": 37.4,
+        "totalPopulation": 33289,
+        "collegePct": 49.73,
+        "renterRatePct": 30.54,
+        "race": {
+          "whitePct": 72.53,
+          "nonHispanicWhitePct": 70.22,
+          "blackPct": 2.81,
+          "asianPct": 4.67,
+          "hispanicPct": 8.92
+        }
+      },
+      "election": {
+        "winner": "Mindy McAlindon",
+        "party": "REP",
+        "pct": 56.52,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Arkansas House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67655,
+        "medianAge": 33.1,
+        "totalPopulation": 30378,
+        "collegePct": 22.07,
+        "renterRatePct": 36.79,
+        "race": {
+          "whitePct": 47.92,
+          "nonHispanicWhitePct": 41.13,
+          "blackPct": 0.89,
+          "asianPct": 0.93,
+          "hispanicPct": 40.63
+        }
+      },
+      "election": {
+        "winner": "Rebecca Burkes",
+        "party": "REP",
+        "pct": 59.15,
+        "unopposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Arkansas House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74395,
+        "medianAge": 46.2,
+        "totalPopulation": 30595,
+        "collegePct": 30.33,
+        "renterRatePct": 17.18,
+        "race": {
+          "whitePct": 82.43,
+          "nonHispanicWhitePct": 81.23,
+          "blackPct": 0.73,
+          "asianPct": 2.08,
+          "hispanicPct": 4.98
+        }
+      },
+      "election": {
+        "winner": "Hope Hendren Duke",
+        "party": "REP",
+        "pct": 72.74,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Arkansas House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98103,
+        "medianAge": 31.6,
+        "totalPopulation": 30421,
+        "collegePct": 55.37,
+        "renterRatePct": 57.52,
+        "race": {
+          "whitePct": 56.82,
+          "nonHispanicWhitePct": 52.99,
+          "blackPct": 2.69,
+          "asianPct": 16.96,
+          "hispanicPct": 12.26
+        }
+      },
+      "election": {
+        "winner": "R. Scott Richardson",
+        "party": "REP",
+        "pct": 58.41,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Arkansas House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106160,
+        "medianAge": 31.1,
+        "totalPopulation": 33129,
+        "collegePct": 39.23,
+        "renterRatePct": 40.1,
+        "race": {
+          "whitePct": 61.01,
+          "nonHispanicWhitePct": 57.3,
+          "blackPct": 5.23,
+          "asianPct": 6.55,
+          "hispanicPct": 14.65
+        }
+      },
+      "election": {
+        "winner": "Nick Burkes",
+        "party": "REP",
+        "pct": 65.22,
+        "unopposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Arkansas House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69291,
+        "medianAge": 34,
+        "totalPopulation": 30429,
+        "collegePct": 25.95,
+        "renterRatePct": 54.41,
+        "race": {
+          "whitePct": 57.38,
+          "nonHispanicWhitePct": 48.29,
+          "blackPct": 1.58,
+          "asianPct": 3.7,
+          "hispanicPct": 34.17
+        }
+      },
+      "election": {
+        "winner": "John P. Carr",
+        "party": "REP",
+        "pct": 56.62,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Arkansas House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 127801,
+        "medianAge": 35,
+        "totalPopulation": 30717,
+        "collegePct": 50,
+        "renterRatePct": 15.36,
+        "race": {
+          "whitePct": 72.65,
+          "nonHispanicWhitePct": 69.23,
+          "blackPct": 0.91,
+          "asianPct": 2.32,
+          "hispanicPct": 13.2
+        }
+      },
+      "election": {
+        "winner": "Representative Kendon Underwood",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Arkansas House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69183,
+        "medianAge": 35.9,
+        "totalPopulation": 29838,
+        "collegePct": 25.81,
+        "renterRatePct": 32.99,
+        "race": {
+          "whitePct": 64.62,
+          "nonHispanicWhitePct": 59.19,
+          "blackPct": 0.71,
+          "asianPct": 2.31,
+          "hispanicPct": 18.32
+        }
+      },
+      "election": {
+        "winner": "Randy Torres",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Arkansas House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89824,
+        "medianAge": 34.9,
+        "totalPopulation": 31431,
+        "collegePct": 45.15,
+        "renterRatePct": 27.74,
+        "race": {
+          "whitePct": 68.8,
+          "nonHispanicWhitePct": 66.02,
+          "blackPct": 2.09,
+          "asianPct": 2,
+          "hispanicPct": 15.34
+        }
+      },
+      "election": {
+        "winner": "Robin Lundstrum",
+        "party": "REP",
+        "pct": 64.42,
+        "unopposed": false
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Arkansas House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68348,
+        "medianAge": 35,
+        "totalPopulation": 31074,
+        "collegePct": 37.74,
+        "renterRatePct": 54.59,
+        "race": {
+          "whitePct": 61.21,
+          "nonHispanicWhitePct": 56.48,
+          "blackPct": 3.13,
+          "asianPct": 3.65,
+          "hispanicPct": 24.9
+        }
+      },
+      "election": {
+        "winner": "Representative Steve Unger",
+        "party": "REP",
+        "pct": 55.82,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Arkansas House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90832,
+        "medianAge": 37.1,
+        "totalPopulation": 32058,
+        "collegePct": 54.65,
+        "renterRatePct": 36.71,
+        "race": {
+          "whitePct": 79.64,
+          "nonHispanicWhitePct": 77.77,
+          "blackPct": 4.17,
+          "asianPct": 2.87,
+          "hispanicPct": 7.21
+        }
+      },
+      "election": {
+        "winner": "Representative Denise Garner",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Arkansas House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 33621,
+        "medianAge": 22.9,
+        "totalPopulation": 30712,
+        "collegePct": 39.15,
+        "renterRatePct": 80.83,
+        "race": {
+          "whitePct": 70.93,
+          "nonHispanicWhitePct": 67.39,
+          "blackPct": 6.37,
+          "asianPct": 3.6,
+          "hispanicPct": 8.45
+        }
+      },
+      "election": {
+        "winner": "Representative Nicole Clowney",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Arkansas House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75294,
+        "medianAge": 28.4,
+        "totalPopulation": 29933,
+        "collegePct": 41.3,
+        "renterRatePct": 43.83,
+        "race": {
+          "whitePct": 76.5,
+          "nonHispanicWhitePct": 75.21,
+          "blackPct": 4.52,
+          "asianPct": 2.18,
+          "hispanicPct": 8.84
+        }
+      },
+      "election": {
+        "winner": "David Whitaker",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Arkansas House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66685,
+        "medianAge": 38.4,
+        "totalPopulation": 29099,
+        "collegePct": 25.78,
+        "renterRatePct": 25.7,
+        "race": {
+          "whitePct": 75.59,
+          "nonHispanicWhitePct": 73.27,
+          "blackPct": 0.88,
+          "asianPct": 2.15,
+          "hispanicPct": 6.72
+        }
+      },
+      "election": {
+        "winner": "Kendra Moore",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Arkansas House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61238,
+        "medianAge": 42.7,
+        "totalPopulation": 28718,
+        "collegePct": 18.9,
+        "renterRatePct": 18.96,
+        "race": {
+          "whitePct": 87.59,
+          "nonHispanicWhitePct": 85.47,
+          "blackPct": 1.02,
+          "asianPct": 0.65,
+          "hispanicPct": 4.53
+        }
+      },
+      "election": {
+        "winner": "Brad Hall",
+        "party": "REP",
+        "pct": 82.91,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Arkansas House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69545,
+        "medianAge": 41.7,
+        "totalPopulation": 29625,
+        "collegePct": 24.84,
+        "renterRatePct": 14.35,
+        "race": {
+          "whitePct": 85.42,
+          "nonHispanicWhitePct": 84.45,
+          "blackPct": 0.31,
+          "asianPct": 0.99,
+          "hispanicPct": 4.9
+        }
+      },
+      "election": {
+        "winner": "Chad Puryear",
+        "party": "REP",
+        "pct": 70.65,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Arkansas House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52863,
+        "medianAge": 39.7,
+        "totalPopulation": 31698,
+        "collegePct": 12.05,
+        "renterRatePct": 24.89,
+        "race": {
+          "whitePct": 77.15,
+          "nonHispanicWhitePct": 74.84,
+          "blackPct": 0.18,
+          "asianPct": 1.12,
+          "hispanicPct": 8.95
+        }
+      },
+      "election": {
+        "winner": "James Eaton",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Arkansas House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45978,
+        "medianAge": 48.1,
+        "totalPopulation": 31212,
+        "collegePct": 16.93,
+        "renterRatePct": 25.43,
+        "race": {
+          "whitePct": 89.87,
+          "nonHispanicWhitePct": 89.31,
+          "blackPct": 0.78,
+          "asianPct": 0.28,
+          "hispanicPct": 2.2
+        }
+      },
+      "election": {
+        "winner": "Steven Walker",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Arkansas House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51414,
+        "medianAge": 44.5,
+        "totalPopulation": 29799,
+        "collegePct": 12.73,
+        "renterRatePct": 22.77,
+        "race": {
+          "whitePct": 93.31,
+          "nonHispanicWhitePct": 92.5,
+          "blackPct": 0.59,
+          "asianPct": 0.6,
+          "hispanicPct": 2.01
+        }
+      },
+      "election": {
+        "winner": "Bart Schulz",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Arkansas House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57670,
+        "medianAge": 41.1,
+        "totalPopulation": 30437,
+        "collegePct": 16.49,
+        "renterRatePct": 24.05,
+        "race": {
+          "whitePct": 81.31,
+          "nonHispanicWhitePct": 78.26,
+          "blackPct": 13.02,
+          "asianPct": 0.11,
+          "hispanicPct": 4.91
+        }
+      },
+      "election": {
+        "winner": "Rick McClure",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Arkansas House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68053,
+        "medianAge": 37.7,
+        "totalPopulation": 31414,
+        "collegePct": 25.75,
+        "renterRatePct": 28.6,
+        "race": {
+          "whitePct": 84.83,
+          "nonHispanicWhitePct": 84.31,
+          "blackPct": 8.14,
+          "asianPct": 0.04,
+          "hispanicPct": 2.23
+        }
+      },
+      "election": {
+        "winner": "Fran Cavenaugh",
+        "party": "REP",
+        "pct": 80.61,
+        "unopposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Arkansas House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55776,
+        "medianAge": 36.2,
+        "totalPopulation": 31186,
+        "collegePct": 16.39,
+        "renterRatePct": 43,
+        "race": {
+          "whitePct": 88.27,
+          "nonHispanicWhitePct": 86.74,
+          "blackPct": 3.28,
+          "asianPct": 0.49,
+          "hispanicPct": 4.93
+        }
+      },
+      "election": {
+        "winner": "Jimmy Gazaway",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Arkansas House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44591,
+        "medianAge": 33.7,
+        "totalPopulation": 31394,
+        "collegePct": 27.69,
+        "renterRatePct": 46.26,
+        "race": {
+          "whitePct": 62.96,
+          "nonHispanicWhitePct": 61.38,
+          "blackPct": 24.89,
+          "asianPct": 0.69,
+          "hispanicPct": 8
+        }
+      },
+      "election": {
+        "winner": "Jack Ladyman",
+        "party": "REP",
+        "pct": 58.61,
+        "unopposed": false
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Arkansas House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58613,
+        "medianAge": 36.1,
+        "totalPopulation": 29860,
+        "collegePct": 19.42,
+        "renterRatePct": 31.78,
+        "race": {
+          "whitePct": 89.17,
+          "nonHispanicWhitePct": 88.09,
+          "blackPct": 4.56,
+          "asianPct": 0.42,
+          "hispanicPct": 3.47
+        }
+      },
+      "election": {
+        "winner": "Jon Milligan",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Arkansas House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52538,
+        "medianAge": 36.6,
+        "totalPopulation": 29725,
+        "collegePct": 14.52,
+        "renterRatePct": 43.82,
+        "race": {
+          "whitePct": 46.71,
+          "nonHispanicWhitePct": 45.48,
+          "blackPct": 45.78,
+          "asianPct": 0.57,
+          "hispanicPct": 4.46
+        }
+      },
+      "election": {
+        "winner": "Joey Carr",
+        "party": "REP",
+        "pct": 62.01,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Arkansas House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53514,
+        "medianAge": 34.6,
+        "totalPopulation": 30006,
+        "collegePct": 16.06,
+        "renterRatePct": 43.05,
+        "race": {
+          "whitePct": 36.79,
+          "nonHispanicWhitePct": 35.5,
+          "blackPct": 52.54,
+          "asianPct": 0.8,
+          "hispanicPct": 3.92
+        }
+      },
+      "election": {
+        "winner": "Jessie McGruder",
+        "party": "DEM",
+        "pct": 50.65,
+        "unopposed": false
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Arkansas House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45445,
+        "medianAge": 33.4,
+        "totalPopulation": 30586,
+        "collegePct": 16.38,
+        "renterRatePct": 50.34,
+        "race": {
+          "whitePct": 68.97,
+          "nonHispanicWhitePct": 67.7,
+          "blackPct": 16.81,
+          "asianPct": 1.12,
+          "hispanicPct": 9.5
+        }
+      },
+      "election": {
+        "winner": "Representative Johnny Rye",
+        "party": "REP",
+        "pct": 67.86,
+        "unopposed": false
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Arkansas House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47840,
+        "medianAge": 40.6,
+        "totalPopulation": 30527,
+        "collegePct": 15.91,
+        "renterRatePct": 33.62,
+        "race": {
+          "whitePct": 66.17,
+          "nonHispanicWhitePct": 65.98,
+          "blackPct": 26,
+          "asianPct": 0.05,
+          "hispanicPct": 2.6
+        }
+      },
+      "election": {
+        "winner": "Representative Steve Hollowell",
+        "party": "REP",
+        "pct": 72.43,
+        "unopposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Arkansas House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59089,
+        "medianAge": 37.6,
+        "totalPopulation": 32103,
+        "collegePct": 28.54,
+        "renterRatePct": 37.41,
+        "race": {
+          "whitePct": 81.4,
+          "nonHispanicWhitePct": 79.98,
+          "blackPct": 11.06,
+          "asianPct": 1.89,
+          "hispanicPct": 3.84
+        }
+      },
+      "election": {
+        "winner": "Dwight Tosh",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Arkansas House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44634,
+        "medianAge": 40.7,
+        "totalPopulation": 29922,
+        "collegePct": 11.98,
+        "renterRatePct": 31.95,
+        "race": {
+          "whitePct": 82.71,
+          "nonHispanicWhitePct": 81.85,
+          "blackPct": 8.24,
+          "asianPct": 0.19,
+          "hispanicPct": 3.22
+        }
+      },
+      "election": {
+        "winner": "Wayne Long",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Arkansas House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53528,
+        "medianAge": 35.2,
+        "totalPopulation": 31499,
+        "collegePct": 16.93,
+        "renterRatePct": 35.57,
+        "race": {
+          "whitePct": 82.95,
+          "nonHispanicWhitePct": 80.45,
+          "blackPct": 1.7,
+          "asianPct": 1.07,
+          "hispanicPct": 10.97
+        }
+      },
+      "election": {
+        "winner": "Shad Pearce",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Arkansas House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52570,
+        "medianAge": 49.7,
+        "totalPopulation": 31851,
+        "collegePct": 17.48,
+        "renterRatePct": 21.89,
+        "race": {
+          "whitePct": 93.05,
+          "nonHispanicWhitePct": 91.45,
+          "blackPct": 0.32,
+          "asianPct": 0.3,
+          "hispanicPct": 2.78
+        }
+      },
+      "election": {
+        "winner": "Alyssa Brown",
+        "party": "REP",
+        "pct": 79.32,
+        "unopposed": false
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Arkansas House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66737,
+        "medianAge": 40.8,
+        "totalPopulation": 29349,
+        "collegePct": 24.56,
+        "renterRatePct": 18.35,
+        "race": {
+          "whitePct": 92.14,
+          "nonHispanicWhitePct": 90.32,
+          "blackPct": 2.3,
+          "asianPct": 0.34,
+          "hispanicPct": 3.07
+        }
+      },
+      "election": {
+        "winner": "Representative Stephen Meeks",
+        "party": "REP",
+        "pct": 80.05,
+        "unopposed": false
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Arkansas House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48340,
+        "medianAge": 43.1,
+        "totalPopulation": 30331,
+        "collegePct": 16.53,
+        "renterRatePct": 26.68,
+        "race": {
+          "whitePct": 85.9,
+          "nonHispanicWhitePct": 84.26,
+          "blackPct": 7.8,
+          "asianPct": 0.59,
+          "hispanicPct": 4.42
+        }
+      },
+      "election": {
+        "winner": "Representative Rick Beck",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Arkansas House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55732,
+        "medianAge": 40,
+        "totalPopulation": 28213,
+        "collegePct": 20.18,
+        "renterRatePct": 21.19,
+        "race": {
+          "whitePct": 92.29,
+          "nonHispanicWhitePct": 90.72,
+          "blackPct": 0.85,
+          "asianPct": 0.2,
+          "hispanicPct": 4.29
+        }
+      },
+      "election": {
+        "winner": "Stan Berry",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Arkansas House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50841,
+        "medianAge": 40.6,
+        "totalPopulation": 31766,
+        "collegePct": 18.95,
+        "renterRatePct": 26.31,
+        "race": {
+          "whitePct": 85.5,
+          "nonHispanicWhitePct": 79.79,
+          "blackPct": 1.45,
+          "asianPct": 2.56,
+          "hispanicPct": 12.2
+        }
+      },
+      "election": {
+        "winner": "Aaron M. Pilkington",
+        "party": "REP",
+        "pct": 76.77,
+        "unopposed": false
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Arkansas House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53059,
+        "medianAge": 43.9,
+        "totalPopulation": 30290,
+        "collegePct": 15.69,
+        "renterRatePct": 21.86,
+        "race": {
+          "whitePct": 87.62,
+          "nonHispanicWhitePct": 86.51,
+          "blackPct": 1.53,
+          "asianPct": 1.41,
+          "hispanicPct": 3.43
+        }
+      },
+      "election": {
+        "winner": "Jon S. Eubanks",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Arkansas House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67406,
+        "medianAge": 41.6,
+        "totalPopulation": 29100,
+        "collegePct": 21.77,
+        "renterRatePct": 18.36,
+        "race": {
+          "whitePct": 87.96,
+          "nonHispanicWhitePct": 86.95,
+          "blackPct": 0.82,
+          "asianPct": 0.67,
+          "hispanicPct": 4.94
+        }
+      },
+      "election": {
+        "winner": "Lee Johnson",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Arkansas House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59239,
+        "medianAge": 35.5,
+        "totalPopulation": 30672,
+        "collegePct": 19.19,
+        "renterRatePct": 35.51,
+        "race": {
+          "whitePct": 70.75,
+          "nonHispanicWhitePct": 66.98,
+          "blackPct": 3.23,
+          "asianPct": 2.77,
+          "hispanicPct": 17.59
+        }
+      },
+      "election": {
+        "winner": "Ryan A. Rose",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Arkansas House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 39250,
+        "medianAge": 32.8,
+        "totalPopulation": 29410,
+        "collegePct": 8.95,
+        "renterRatePct": 56.55,
+        "race": {
+          "whitePct": 41.03,
+          "nonHispanicWhitePct": 37.09,
+          "blackPct": 9.93,
+          "asianPct": 7.08,
+          "hispanicPct": 37.93
+        }
+      },
+      "election": {
+        "winner": "Representative Jay Richardson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Arkansas House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52844,
+        "medianAge": 38.8,
+        "totalPopulation": 28944,
+        "collegePct": 28.09,
+        "renterRatePct": 49.7,
+        "race": {
+          "whitePct": 73.78,
+          "nonHispanicWhitePct": 71.26,
+          "blackPct": 8.57,
+          "asianPct": 2.4,
+          "hispanicPct": 9.88
+        }
+      },
+      "election": {
+        "winner": "Zack Gramlich",
+        "party": "REP",
+        "pct": 63.96,
+        "unopposed": false
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Arkansas House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72635,
+        "medianAge": 38.9,
+        "totalPopulation": 32283,
+        "collegePct": 37.87,
+        "renterRatePct": 33.4,
+        "race": {
+          "whitePct": 76.47,
+          "nonHispanicWhitePct": 73.95,
+          "blackPct": 3.12,
+          "asianPct": 6.81,
+          "hispanicPct": 8.07
+        }
+      },
+      "election": {
+        "winner": "Cindy Crawford",
+        "party": "REP",
+        "pct": 68.23,
+        "unopposed": false
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Arkansas House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52909,
+        "medianAge": 39.5,
+        "totalPopulation": 29470,
+        "collegePct": 13.54,
+        "renterRatePct": 28.99,
+        "race": {
+          "whitePct": 80.39,
+          "nonHispanicWhitePct": 76.36,
+          "blackPct": 1.78,
+          "asianPct": 1.68,
+          "hispanicPct": 16.25
+        }
+      },
+      "election": {
+        "winner": "Marcus E. Richmond",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Arkansas House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50884,
+        "medianAge": 31.2,
+        "totalPopulation": 29564,
+        "collegePct": 30.22,
+        "renterRatePct": 40.09,
+        "race": {
+          "whitePct": 75.99,
+          "nonHispanicWhitePct": 70.58,
+          "blackPct": 4.19,
+          "asianPct": 1.86,
+          "hispanicPct": 17.61
+        }
+      },
+      "election": {
+        "winner": "Matt Duffield",
+        "party": "REP",
+        "pct": 73.39,
+        "unopposed": false
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Arkansas House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60666,
+        "medianAge": 40.2,
+        "totalPopulation": 30367,
+        "collegePct": 26.76,
+        "renterRatePct": 30.76,
+        "race": {
+          "whitePct": 85.49,
+          "nonHispanicWhitePct": 83.88,
+          "blackPct": 6.33,
+          "asianPct": 0.96,
+          "hispanicPct": 4.6
+        }
+      },
+      "election": {
+        "winner": "Mary Bentley",
+        "party": "REP",
+        "pct": 69.65,
+        "unopposed": false
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Arkansas House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54779,
+        "medianAge": 26.3,
+        "totalPopulation": 31908,
+        "collegePct": 45.2,
+        "renterRatePct": 59.54,
+        "race": {
+          "whitePct": 70.8,
+          "nonHispanicWhitePct": 69.13,
+          "blackPct": 19.33,
+          "asianPct": 2.11,
+          "hispanicPct": 6.29
+        }
+      },
+      "election": {
+        "winner": "Matt Brown",
+        "party": "REP",
+        "pct": 58.5,
+        "unopposed": false
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Arkansas House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61771,
+        "medianAge": 33.2,
+        "totalPopulation": 30666,
+        "collegePct": 31.89,
+        "renterRatePct": 48.08,
+        "race": {
+          "whitePct": 72.72,
+          "nonHispanicWhitePct": 69.42,
+          "blackPct": 16.85,
+          "asianPct": 0.95,
+          "hispanicPct": 8.61
+        }
+      },
+      "election": {
+        "winner": "Steve Magie",
+        "party": "DEM",
+        "pct": 53.82,
+        "unopposed": false
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Arkansas House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69547,
+        "medianAge": 42.2,
+        "totalPopulation": 29873,
+        "collegePct": 21.88,
+        "renterRatePct": 13.96,
+        "race": {
+          "whitePct": 94.47,
+          "nonHispanicWhitePct": 92.86,
+          "blackPct": 0.62,
+          "asianPct": 0.08,
+          "hispanicPct": 2.99
+        }
+      },
+      "election": {
+        "winner": "Representative Cameron Cooper",
+        "party": "REP",
+        "pct": 84.74,
+        "unopposed": false
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Arkansas House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52435,
+        "medianAge": 33.7,
+        "totalPopulation": 32411,
+        "collegePct": 28.24,
+        "renterRatePct": 40.81,
+        "race": {
+          "whitePct": 82.71,
+          "nonHispanicWhitePct": 79.13,
+          "blackPct": 9.56,
+          "asianPct": 0.97,
+          "hispanicPct": 5.91
+        }
+      },
+      "election": {
+        "winner": "Les Eaves",
+        "party": "REP",
+        "pct": 75.52,
+        "unopposed": false
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Arkansas House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69101,
+        "medianAge": 35.9,
+        "totalPopulation": 29597,
+        "collegePct": 19.76,
+        "renterRatePct": 29.6,
+        "race": {
+          "whitePct": 89.79,
+          "nonHispanicWhitePct": 86.88,
+          "blackPct": 2.03,
+          "asianPct": 1.27,
+          "hispanicPct": 5.47
+        }
+      },
+      "election": {
+        "winner": "State Rep. Jim Wooten",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Arkansas House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57773,
+        "medianAge": 40.9,
+        "totalPopulation": 32825,
+        "collegePct": 15.97,
+        "renterRatePct": 22.49,
+        "race": {
+          "whitePct": 83.42,
+          "nonHispanicWhitePct": 81.85,
+          "blackPct": 9.6,
+          "asianPct": 0.19,
+          "hispanicPct": 3.91
+        }
+      },
+      "election": {
+        "winner": "Roger D. Lynch",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Arkansas House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53817,
+        "medianAge": 42.6,
+        "totalPopulation": 30071,
+        "collegePct": 15.52,
+        "renterRatePct": 32.56,
+        "race": {
+          "whitePct": 68.18,
+          "nonHispanicWhitePct": 66.56,
+          "blackPct": 27.52,
+          "asianPct": 0.27,
+          "hispanicPct": 2.95
+        }
+      },
+      "election": {
+        "winner": "Representative Jeremiah Moore",
+        "party": "REP",
+        "pct": 77.79,
+        "unopposed": false
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Arkansas House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 40466,
+        "medianAge": 42.6,
+        "totalPopulation": 28415,
+        "collegePct": 11.8,
+        "renterRatePct": 40.23,
+        "race": {
+          "whitePct": 41.32,
+          "nonHispanicWhitePct": 40.01,
+          "blackPct": 54.61,
+          "asianPct": 0.56,
+          "hispanicPct": 2.13
+        }
+      },
+      "election": {
+        "winner": "Mark D. McElroy",
+        "party": "REP",
+        "pct": 53.65,
+        "unopposed": false
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Arkansas House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45239,
+        "medianAge": 39.3,
+        "totalPopulation": 29647,
+        "collegePct": 14.66,
+        "renterRatePct": 47.31,
+        "race": {
+          "whitePct": 41.15,
+          "nonHispanicWhitePct": 39.71,
+          "blackPct": 53.22,
+          "asianPct": 0.36,
+          "hispanicPct": 2.72
+        }
+      },
+      "election": {
+        "winner": "Mayor Lincoln Barnett",
+        "party": "DEM",
+        "pct": 54.83,
+        "unopposed": false
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Arkansas House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44968,
+        "medianAge": 40.3,
+        "totalPopulation": 29680,
+        "collegePct": 21.1,
+        "renterRatePct": 39.25,
+        "race": {
+          "whitePct": 25.94,
+          "nonHispanicWhitePct": 25.47,
+          "blackPct": 68.16,
+          "asianPct": 0.19,
+          "hispanicPct": 3.55
+        }
+      },
+      "election": {
+        "winner": "Ken Ferguson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Arkansas House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 38990,
+        "medianAge": 37.5,
+        "totalPopulation": 29900,
+        "collegePct": 13.94,
+        "renterRatePct": 43.35,
+        "race": {
+          "whitePct": 24.87,
+          "nonHispanicWhitePct": 24.55,
+          "blackPct": 69.72,
+          "asianPct": 0.8,
+          "hispanicPct": 2.41
+        }
+      },
+      "election": {
+        "winner": "Glenn Barnes",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "Arkansas House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42298,
+        "medianAge": 35.5,
+        "totalPopulation": 28740,
+        "collegePct": 23.03,
+        "renterRatePct": 41.68,
+        "race": {
+          "whitePct": 32.88,
+          "nonHispanicWhitePct": 31.94,
+          "blackPct": 54.61,
+          "asianPct": 0.98,
+          "hispanicPct": 6.84
+        }
+      },
+      "election": {
+        "winner": "Mark W. Perry",
+        "party": "DEM",
+        "pct": 70.24,
+        "unopposed": false
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "Arkansas House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73908,
+        "medianAge": 38.2,
+        "totalPopulation": 34085,
+        "collegePct": 32.42,
+        "renterRatePct": 35.14,
+        "race": {
+          "whitePct": 55.9,
+          "nonHispanicWhitePct": 54.41,
+          "blackPct": 35.88,
+          "asianPct": 1.58,
+          "hispanicPct": 3.77
+        }
+      },
+      "election": {
+        "winner": "Representative Karilyn Brown",
+        "party": "REP",
+        "pct": 52.23,
+        "unopposed": false
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "Arkansas House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76619,
+        "medianAge": 36.9,
+        "totalPopulation": 30891,
+        "collegePct": 25.67,
+        "renterRatePct": 28.34,
+        "race": {
+          "whitePct": 85.75,
+          "nonHispanicWhitePct": 84.01,
+          "blackPct": 3.96,
+          "asianPct": 1.51,
+          "hispanicPct": 5.53
+        }
+      },
+      "election": {
+        "winner": "Brian S. Evans",
+        "party": "REP",
+        "pct": 78.2,
+        "unopposed": false
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "Arkansas House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59967,
+        "medianAge": 38.6,
+        "totalPopulation": 30298,
+        "collegePct": 24.28,
+        "renterRatePct": 32.04,
+        "race": {
+          "whitePct": 74.53,
+          "nonHispanicWhitePct": 72.4,
+          "blackPct": 13.98,
+          "asianPct": 1.73,
+          "hispanicPct": 5.77
+        }
+      },
+      "election": {
+        "winner": "David Ray",
+        "party": "REP",
+        "pct": 71.25,
+        "unopposed": false
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "Arkansas House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81059,
+        "medianAge": 42.7,
+        "totalPopulation": 28570,
+        "collegePct": 40.05,
+        "renterRatePct": 28.63,
+        "race": {
+          "whitePct": 72.86,
+          "nonHispanicWhitePct": 71.38,
+          "blackPct": 19.37,
+          "asianPct": 1,
+          "hispanicPct": 3.42
+        }
+      },
+      "election": {
+        "winner": "Carlton Wing",
+        "party": "DEM",
+        "pct": 50.97,
+        "unopposed": false
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "Arkansas House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70156,
+        "medianAge": 37.6,
+        "totalPopulation": 29494,
+        "collegePct": 43.3,
+        "renterRatePct": 41.9,
+        "race": {
+          "whitePct": 62.13,
+          "nonHispanicWhitePct": 60.71,
+          "blackPct": 27.49,
+          "asianPct": 2.22,
+          "hispanicPct": 4.43
+        }
+      },
+      "election": {
+        "winner": "Brandon Achor",
+        "party": "REP",
+        "pct": 55.68,
+        "unopposed": false
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "Arkansas House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 36099,
+        "medianAge": 35.3,
+        "totalPopulation": 29584,
+        "collegePct": 19.76,
+        "renterRatePct": 63.14,
+        "race": {
+          "whitePct": 32.05,
+          "nonHispanicWhitePct": 29.25,
+          "blackPct": 55.06,
+          "asianPct": 0.47,
+          "hispanicPct": 11.45
+        }
+      },
+      "election": {
+        "winner": "Tracy Steele",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "Arkansas House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86658,
+        "medianAge": 38.5,
+        "totalPopulation": 30860,
+        "collegePct": 68.2,
+        "renterRatePct": 39.25,
+        "race": {
+          "whitePct": 75.33,
+          "nonHispanicWhitePct": 74.04,
+          "blackPct": 13.79,
+          "asianPct": 4.53,
+          "hispanicPct": 3.5
+        }
+      },
+      "election": {
+        "winner": "Representative Andrew Collins",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "Arkansas House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68845,
+        "medianAge": 38.6,
+        "totalPopulation": 30205,
+        "collegePct": 57.83,
+        "renterRatePct": 48.29,
+        "race": {
+          "whitePct": 67.53,
+          "nonHispanicWhitePct": 66.93,
+          "blackPct": 22.11,
+          "asianPct": 1.73,
+          "hispanicPct": 4.26
+        }
+      },
+      "election": {
+        "winner": "Representative Tippi McCullough",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "Arkansas House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89876,
+        "medianAge": 39.5,
+        "totalPopulation": 29923,
+        "collegePct": 63.31,
+        "renterRatePct": 39.66,
+        "race": {
+          "whitePct": 69.48,
+          "nonHispanicWhitePct": 67.95,
+          "blackPct": 17.55,
+          "asianPct": 8.33,
+          "hispanicPct": 2.48
+        }
+      },
+      "election": {
+        "winner": "Representative Ashley Hudson",
+        "party": "DEM",
+        "pct": 64.9,
+        "unopposed": false
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "Arkansas House District 76",
+      "census": {
+        "censusName": "State House District 76 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 36441,
+        "medianAge": 33.3,
+        "totalPopulation": 28402,
+        "collegePct": 23.15,
+        "renterRatePct": 54.11,
+        "race": {
+          "whitePct": 23.05,
+          "nonHispanicWhitePct": 22.02,
+          "blackPct": 67.59,
+          "asianPct": 1.43,
+          "hispanicPct": 5.49
+        }
+      },
+      "election": {
+        "winner": "Representative Joy C. Springer",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "Arkansas House District 77",
+      "census": {
+        "censusName": "State House District 77 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49488,
+        "medianAge": 33.2,
+        "totalPopulation": 31031,
+        "collegePct": 29.08,
+        "renterRatePct": 48.77,
+        "race": {
+          "whitePct": 27.39,
+          "nonHispanicWhitePct": 24.43,
+          "blackPct": 51.5,
+          "asianPct": 2.75,
+          "hispanicPct": 19.44
+        }
+      },
+      "election": {
+        "winner": "Fred Allen",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "Arkansas House District 78",
+      "census": {
+        "censusName": "State House District 78 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106832,
+        "medianAge": 46.4,
+        "totalPopulation": 27915,
+        "collegePct": 47.27,
+        "renterRatePct": 12.57,
+        "race": {
+          "whitePct": 85.25,
+          "nonHispanicWhitePct": 84.29,
+          "blackPct": 5.59,
+          "asianPct": 1.81,
+          "hispanicPct": 4.15
+        }
+      },
+      "election": {
+        "winner": "Representative Keith Brooks",
+        "party": "REP",
+        "pct": 67.25,
+        "unopposed": false
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "Arkansas House District 79",
+      "census": {
+        "censusName": "State House District 79 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47415,
+        "medianAge": 32.4,
+        "totalPopulation": 31600,
+        "collegePct": 23.53,
+        "renterRatePct": 45.4,
+        "race": {
+          "whitePct": 23.67,
+          "nonHispanicWhitePct": 16.57,
+          "blackPct": 57.42,
+          "asianPct": 0.03,
+          "hispanicPct": 22.53
+        }
+      },
+      "election": {
+        "winner": "Tara Shephard",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "Arkansas House District 80",
+      "census": {
+        "censusName": "State House District 80 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44511,
+        "medianAge": 38.2,
+        "totalPopulation": 30210,
+        "collegePct": 16.04,
+        "renterRatePct": 41.83,
+        "race": {
+          "whitePct": 35.2,
+          "nonHispanicWhitePct": 31.95,
+          "blackPct": 51.02,
+          "asianPct": 0.2,
+          "hispanicPct": 13.91
+        }
+      },
+      "election": {
+        "winner": "Denise Ennett",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "Arkansas House District 81",
+      "census": {
+        "censusName": "State House District 81 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77377,
+        "medianAge": 36.9,
+        "totalPopulation": 32878,
+        "collegePct": 27.83,
+        "renterRatePct": 19.36,
+        "race": {
+          "whitePct": 69.54,
+          "nonHispanicWhitePct": 66.01,
+          "blackPct": 15.05,
+          "asianPct": 1.33,
+          "hispanicPct": 12.61
+        }
+      },
+      "election": {
+        "winner": "RJ Hawk",
+        "party": "REP",
+        "pct": 60.2,
+        "unopposed": false
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "Arkansas House District 82",
+      "census": {
+        "censusName": "State House District 82 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60738,
+        "medianAge": 36.9,
+        "totalPopulation": 29320,
+        "collegePct": 24.02,
+        "renterRatePct": 38.18,
+        "race": {
+          "whitePct": 79.34,
+          "nonHispanicWhitePct": 77.62,
+          "blackPct": 12.26,
+          "asianPct": 0.57,
+          "hispanicPct": 4.95
+        }
+      },
+      "election": {
+        "winner": "Tony Furman",
+        "party": "REP",
+        "pct": 67.5,
+        "unopposed": false
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "Arkansas House District 83",
+      "census": {
+        "censusName": "State House District 83 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83052,
+        "medianAge": 46.7,
+        "totalPopulation": 31106,
+        "collegePct": 35.13,
+        "renterRatePct": 21.35,
+        "race": {
+          "whitePct": 89.75,
+          "nonHispanicWhitePct": 87.97,
+          "blackPct": 2.18,
+          "asianPct": 1.82,
+          "hispanicPct": 4.27
+        }
+      },
+      "election": {
+        "winner": "Paul Childress",
+        "party": "REP",
+        "pct": 75.1,
+        "unopposed": false
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "Arkansas House District 84",
+      "census": {
+        "censusName": "State House District 84 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51344,
+        "medianAge": 41.9,
+        "totalPopulation": 29334,
+        "collegePct": 25.01,
+        "renterRatePct": 36.93,
+        "race": {
+          "whitePct": 78.61,
+          "nonHispanicWhitePct": 71.24,
+          "blackPct": 12.27,
+          "asianPct": 0.83,
+          "hispanicPct": 11.01
+        }
+      },
+      "election": {
+        "winner": "Les Warren",
+        "party": "REP",
+        "pct": 67.79,
+        "unopposed": false
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "Arkansas House District 85",
+      "census": {
+        "censusName": "State House District 85 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56230,
+        "medianAge": 50.6,
+        "totalPopulation": 29051,
+        "collegePct": 22.24,
+        "renterRatePct": 22.42,
+        "race": {
+          "whitePct": 90.26,
+          "nonHispanicWhitePct": 89.31,
+          "blackPct": 2.09,
+          "asianPct": 0.24,
+          "hispanicPct": 4.56
+        }
+      },
+      "election": {
+        "winner": "Richard McGrew",
+        "party": "REP",
+        "pct": 75.61,
+        "unopposed": false
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "Arkansas House District 86",
+      "census": {
+        "censusName": "State House District 86 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48206,
+        "medianAge": 45.2,
+        "totalPopulation": 30821,
+        "collegePct": 17.41,
+        "renterRatePct": 19.42,
+        "race": {
+          "whitePct": 90.62,
+          "nonHispanicWhitePct": 88.58,
+          "blackPct": 0.55,
+          "asianPct": 0.27,
+          "hispanicPct": 5.63
+        }
+      },
+      "election": {
+        "winner": "John Maddox",
+        "party": "REP",
+        "pct": 87.82,
+        "unopposed": false
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "Arkansas House District 87",
+      "census": {
+        "censusName": "State House District 87 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50278,
+        "medianAge": 38.6,
+        "totalPopulation": 28616,
+        "collegePct": 14.39,
+        "renterRatePct": 27.65,
+        "race": {
+          "whitePct": 65.43,
+          "nonHispanicWhitePct": 62.15,
+          "blackPct": 10.99,
+          "asianPct": 0.23,
+          "hispanicPct": 20.93
+        }
+      },
+      "election": {
+        "winner": "DeAnn Vaught",
+        "party": "REP",
+        "pct": 84.05,
+        "unopposed": false
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "Arkansas House District 88",
+      "census": {
+        "censusName": "State House District 88 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48442,
+        "medianAge": 40.3,
+        "totalPopulation": 30041,
+        "collegePct": 14.24,
+        "renterRatePct": 29.54,
+        "race": {
+          "whitePct": 55.54,
+          "nonHispanicWhitePct": 52.59,
+          "blackPct": 28.71,
+          "asianPct": 0.6,
+          "hispanicPct": 15.02
+        }
+      },
+      "election": {
+        "winner": "Dolly Henley",
+        "party": "REP",
+        "pct": 71.49,
+        "unopposed": false
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "Arkansas House District 89",
+      "census": {
+        "censusName": "State House District 89 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49329,
+        "medianAge": 43.4,
+        "totalPopulation": 28500,
+        "collegePct": 16.87,
+        "renterRatePct": 24.69,
+        "race": {
+          "whitePct": 79.02,
+          "nonHispanicWhitePct": 76.4,
+          "blackPct": 15.04,
+          "asianPct": 0.06,
+          "hispanicPct": 5.86
+        }
+      },
+      "election": {
+        "winner": "Justin Gonzales",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "Arkansas House District 90",
+      "census": {
+        "censusName": "State House District 90 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61339,
+        "medianAge": 37.4,
+        "totalPopulation": 29869,
+        "collegePct": 27.37,
+        "renterRatePct": 29.5,
+        "race": {
+          "whitePct": 82.01,
+          "nonHispanicWhitePct": 81.09,
+          "blackPct": 11.78,
+          "asianPct": 0.63,
+          "hispanicPct": 3.11
+        }
+      },
+      "election": {
+        "winner": "Representative Richard Womack",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "Arkansas House District 91",
+      "census": {
+        "censusName": "State House District 91 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55023,
+        "medianAge": 44.2,
+        "totalPopulation": 31210,
+        "collegePct": 29.49,
+        "renterRatePct": 37.97,
+        "race": {
+          "whitePct": 79.09,
+          "nonHispanicWhitePct": 74.84,
+          "blackPct": 11.02,
+          "asianPct": 1.18,
+          "hispanicPct": 8.19
+        }
+      },
+      "election": {
+        "winner": "Bruce Cozart",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "Arkansas House District 92",
+      "census": {
+        "censusName": "State House District 92 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72330,
+        "medianAge": 40.8,
+        "totalPopulation": 29864,
+        "collegePct": 21.63,
+        "renterRatePct": 20.56,
+        "race": {
+          "whitePct": 89.95,
+          "nonHispanicWhitePct": 88.25,
+          "blackPct": 4.22,
+          "asianPct": 0.67,
+          "hispanicPct": 3.88
+        }
+      },
+      "election": {
+        "winner": "Julie Mayberry",
+        "party": "REP",
+        "pct": 84.79,
+        "unopposed": false
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "Arkansas House District 93",
+      "census": {
+        "censusName": "State House District 93 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61581,
+        "medianAge": 41.1,
+        "totalPopulation": 28432,
+        "collegePct": 20.17,
+        "renterRatePct": 21.75,
+        "race": {
+          "whitePct": 81.56,
+          "nonHispanicWhitePct": 81.08,
+          "blackPct": 9.95,
+          "asianPct": 0.83,
+          "hispanicPct": 3.23
+        }
+      },
+      "election": {
+        "winner": "Mike Holcomb",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "Arkansas House District 94",
+      "census": {
+        "censusName": "State House District 94 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 40161,
+        "medianAge": 37.3,
+        "totalPopulation": 29884,
+        "collegePct": 19.66,
+        "renterRatePct": 37.7,
+        "race": {
+          "whitePct": 58.55,
+          "nonHispanicWhitePct": 56.51,
+          "blackPct": 30.78,
+          "asianPct": 0.43,
+          "hispanicPct": 8.7
+        }
+      },
+      "election": {
+        "winner": "Jeff Wardlaw",
+        "party": "REP",
+        "pct": 65.55,
+        "unopposed": false
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "Arkansas House District 95",
+      "census": {
+        "censusName": "State House District 95 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43230,
+        "medianAge": 42.7,
+        "totalPopulation": 28719,
+        "collegePct": 13.94,
+        "renterRatePct": 29.54,
+        "race": {
+          "whitePct": 59.9,
+          "nonHispanicWhitePct": 57.4,
+          "blackPct": 34.63,
+          "asianPct": 0.1,
+          "hispanicPct": 6.22
+        }
+      },
+      "election": {
+        "winner": "Representative Howard M. Beaty, Jr.",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "Arkansas House District 96",
+      "census": {
+        "censusName": "State House District 96 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47259,
+        "medianAge": 46.9,
+        "totalPopulation": 29400,
+        "collegePct": 14.73,
+        "renterRatePct": 21.36,
+        "race": {
+          "whitePct": 68.81,
+          "nonHispanicWhitePct": 67.35,
+          "blackPct": 27.24,
+          "asianPct": 0.12,
+          "hispanicPct": 3.18
+        }
+      },
+      "election": {
+        "winner": "Sonia Eubanks Barker",
+        "party": "REP",
+        "pct": 72.81,
+        "unopposed": false
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "Arkansas House District 97",
+      "census": {
+        "censusName": "State House District 97 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52033,
+        "medianAge": 38.8,
+        "totalPopulation": 29354,
+        "collegePct": 19.93,
+        "renterRatePct": 29.87,
+        "race": {
+          "whitePct": 60.28,
+          "nonHispanicWhitePct": 57.34,
+          "blackPct": 33.64,
+          "asianPct": 1.07,
+          "hispanicPct": 5.32
+        }
+      },
+      "election": {
+        "winner": "Matthew J. Shepherd",
+        "party": "REP",
+        "pct": 69.5,
+        "unopposed": false
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "Arkansas House District 98",
+      "census": {
+        "censusName": "State House District 98 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45347,
+        "medianAge": 42.8,
+        "totalPopulation": 30705,
+        "collegePct": 14.56,
+        "renterRatePct": 30.36,
+        "race": {
+          "whitePct": 49.95,
+          "nonHispanicWhitePct": 48.87,
+          "blackPct": 46.07,
+          "asianPct": 0.4,
+          "hispanicPct": 2.2
+        }
+      },
+      "election": {
+        "winner": "Wade Andrews",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "Arkansas House District 99",
+      "census": {
+        "censusName": "State House District 99 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55610,
+        "medianAge": 36.9,
+        "totalPopulation": 29361,
+        "collegePct": 18.86,
+        "renterRatePct": 22.25,
+        "race": {
+          "whitePct": 78.04,
+          "nonHispanicWhitePct": 76.18,
+          "blackPct": 16.68,
+          "asianPct": 0.28,
+          "hispanicPct": 3.9
+        }
+      },
+      "election": {
+        "winner": "Lane Jean",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "Arkansas House District 100",
+      "census": {
+        "censusName": "State House District 100 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44629,
+        "medianAge": 37.2,
+        "totalPopulation": 29877,
+        "collegePct": 16.21,
+        "renterRatePct": 43.67,
+        "race": {
+          "whitePct": 58.11,
+          "nonHispanicWhitePct": 56.54,
+          "blackPct": 34.78,
+          "asianPct": 1.09,
+          "hispanicPct": 3.98
+        }
+      },
+      "election": {
+        "winner": "Carol Dalby",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Arkansas Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48700,
+        "medianAge": 41.1,
+        "totalPopulation": 82333,
+        "collegePct": 17.76,
+        "renterRatePct": 28.97,
+        "race": {
+          "whitePct": 67.43,
+          "nonHispanicWhitePct": 65.85,
+          "blackPct": 24.52,
+          "asianPct": 0.3,
+          "hispanicPct": 6.15
+        }
+      },
+      "election": {
+        "winner": "Ben Gilmore",
+        "party": "REP",
+        "pct": 77.36,
+        "unopposed": false
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Arkansas Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53068,
+        "medianAge": 42.1,
+        "totalPopulation": 83619,
+        "collegePct": 17.66,
+        "renterRatePct": 26.77,
+        "race": {
+          "whitePct": 64.7,
+          "nonHispanicWhitePct": 62.87,
+          "blackPct": 30.2,
+          "asianPct": 0.54,
+          "hispanicPct": 3.87
+        }
+      },
+      "election": {
+        "winner": "Matt Stone",
+        "party": "REP",
+        "pct": 67.76,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Arkansas Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47471,
+        "medianAge": 37.8,
+        "totalPopulation": 84221,
+        "collegePct": 17.61,
+        "renterRatePct": 31.22,
+        "race": {
+          "whitePct": 64.58,
+          "nonHispanicWhitePct": 62.26,
+          "blackPct": 27.89,
+          "asianPct": 0.42,
+          "hispanicPct": 6.47
+        }
+      },
+      "election": {
+        "winner": "Steve Crowell",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Arkansas Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49433,
+        "medianAge": 39.2,
+        "totalPopulation": 85339,
+        "collegePct": 15.64,
+        "renterRatePct": 31.04,
+        "race": {
+          "whitePct": 66.41,
+          "nonHispanicWhitePct": 64.48,
+          "blackPct": 20.17,
+          "asianPct": 0.54,
+          "hispanicPct": 10.81
+        }
+      },
+      "election": {
+        "winner": "Jimmy Hickey, Jr.",
+        "party": "REP",
+        "pct": 80.74,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Arkansas Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53127,
+        "medianAge": 44,
+        "totalPopulation": 84842,
+        "collegePct": 15.91,
+        "renterRatePct": 22.59,
+        "race": {
+          "whitePct": 87.94,
+          "nonHispanicWhitePct": 85.9,
+          "blackPct": 0.95,
+          "asianPct": 0.83,
+          "hispanicPct": 7.5
+        }
+      },
+      "election": {
+        "winner": "Terry Rice",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Arkansas Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53979,
+        "medianAge": 49.1,
+        "totalPopulation": 88229,
+        "collegePct": 25.4,
+        "renterRatePct": 30.61,
+        "race": {
+          "whitePct": 83.1,
+          "nonHispanicWhitePct": 79.89,
+          "blackPct": 8.35,
+          "asianPct": 0.72,
+          "hispanicPct": 6.86
+        }
+      },
+      "election": {
+        "winner": "Matt McKee",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Arkansas Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68383,
+        "medianAge": 41.7,
+        "totalPopulation": 85550,
+        "collegePct": 23.01,
+        "renterRatePct": 20.86,
+        "race": {
+          "whitePct": 85.98,
+          "nonHispanicWhitePct": 82.83,
+          "blackPct": 7.17,
+          "asianPct": 0.48,
+          "hispanicPct": 5.5
+        }
+      },
+      "election": {
+        "winner": "Alan Clark",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Arkansas Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45302,
+        "medianAge": 40,
+        "totalPopulation": 83293,
+        "collegePct": 17.38,
+        "renterRatePct": 36.48,
+        "race": {
+          "whitePct": 38.48,
+          "nonHispanicWhitePct": 37.89,
+          "blackPct": 55.44,
+          "asianPct": 0.55,
+          "hispanicPct": 3.14
+        }
+      },
+      "election": {
+        "winner": "Stephanie Flowers",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Arkansas Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46078,
+        "medianAge": 37.7,
+        "totalPopulation": 83856,
+        "collegePct": 14.86,
+        "renterRatePct": 45.71,
+        "race": {
+          "whitePct": 37.08,
+          "nonHispanicWhitePct": 35.81,
+          "blackPct": 56.02,
+          "asianPct": 0.59,
+          "hispanicPct": 3.07
+        }
+      },
+      "election": {
+        "winner": "Reginald Murdock",
+        "party": "DEM",
+        "pct": 53.51,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Arkansas Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49169,
+        "medianAge": 41.4,
+        "totalPopulation": 86971,
+        "collegePct": 14.54,
+        "renterRatePct": 31.56,
+        "race": {
+          "whitePct": 71.02,
+          "nonHispanicWhitePct": 70.21,
+          "blackPct": 22.13,
+          "asianPct": 0.23,
+          "hispanicPct": 2.5
+        }
+      },
+      "election": {
+        "winner": "Ronald Caldwell",
+        "party": "REP",
+        "pct": 72.49,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Arkansas Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69163,
+        "medianAge": 36.3,
+        "totalPopulation": 88808,
+        "collegePct": 22.93,
+        "renterRatePct": 30.85,
+        "race": {
+          "whitePct": 78.8,
+          "nonHispanicWhitePct": 76.63,
+          "blackPct": 11.38,
+          "asianPct": 1.54,
+          "hispanicPct": 5.43
+        }
+      },
+      "election": {
+        "winner": "Ricky Hill",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Arkansas Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41924,
+        "medianAge": 36.3,
+        "totalPopulation": 86937,
+        "collegePct": 22.49,
+        "renterRatePct": 54.75,
+        "race": {
+          "whitePct": 33.96,
+          "nonHispanicWhitePct": 32.24,
+          "blackPct": 54.18,
+          "asianPct": 0.99,
+          "hispanicPct": 8.44
+        }
+      },
+      "election": {
+        "winner": "Representative Jamie Scott",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Arkansas Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77425,
+        "medianAge": 40.5,
+        "totalPopulation": 86680,
+        "collegePct": 38.73,
+        "renterRatePct": 28.42,
+        "race": {
+          "whitePct": 66.27,
+          "nonHispanicWhitePct": 64.85,
+          "blackPct": 25.48,
+          "asianPct": 1.3,
+          "hispanicPct": 4.03
+        }
+      },
+      "election": {
+        "winner": "Jane English",
+        "party": "REP",
+        "pct": 52.45,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Arkansas Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82231,
+        "medianAge": 38.9,
+        "totalPopulation": 88419,
+        "collegePct": 61.13,
+        "renterRatePct": 40.67,
+        "race": {
+          "whitePct": 71.12,
+          "nonHispanicWhitePct": 69.97,
+          "blackPct": 18.07,
+          "asianPct": 3.98,
+          "hispanicPct": 3.86
+        }
+      },
+      "election": {
+        "winner": "Clarke Tucker",
+        "party": "DEM",
+        "pct": 63.5,
+        "unopposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Arkansas Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46766,
+        "medianAge": 32.8,
+        "totalPopulation": 90483,
+        "collegePct": 25.99,
+        "renterRatePct": 48.33,
+        "race": {
+          "whitePct": 25.83,
+          "nonHispanicWhitePct": 21.41,
+          "blackPct": 56.52,
+          "asianPct": 1.19,
+          "hispanicPct": 18.19
+        }
+      },
+      "election": {
+        "winner": "Representative Fred Love",
+        "party": "DEM",
+        "pct": 86.15,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Arkansas Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76183,
+        "medianAge": 37.6,
+        "totalPopulation": 90389,
+        "collegePct": 31.64,
+        "renterRatePct": 28.24,
+        "race": {
+          "whitePct": 77.88,
+          "nonHispanicWhitePct": 75.35,
+          "blackPct": 11.01,
+          "asianPct": 1.95,
+          "hispanicPct": 7.37
+        }
+      },
+      "election": {
+        "winner": "Kim Hammer",
+        "party": "REP",
+        "pct": 75.72,
+        "unopposed": false
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Arkansas Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64312,
+        "medianAge": 33.6,
+        "totalPopulation": 91527,
+        "collegePct": 41.31,
+        "renterRatePct": 46.71,
+        "race": {
+          "whitePct": 72.75,
+          "nonHispanicWhitePct": 70.81,
+          "blackPct": 16.31,
+          "asianPct": 2.15,
+          "hispanicPct": 6.1
+        }
+      },
+      "election": {
+        "winner": "Mark Johnson",
+        "party": "REP",
+        "pct": 58.23,
+        "unopposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Arkansas Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53932,
+        "medianAge": 39.1,
+        "totalPopulation": 87787,
+        "collegePct": 19.84,
+        "renterRatePct": 30.89,
+        "race": {
+          "whitePct": 88.81,
+          "nonHispanicWhitePct": 86.16,
+          "blackPct": 3.96,
+          "asianPct": 0.64,
+          "hispanicPct": 4.82
+        }
+      },
+      "election": {
+        "winner": "Jonathan Dismang",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Arkansas Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53242,
+        "medianAge": 37.5,
+        "totalPopulation": 86161,
+        "collegePct": 15.45,
+        "renterRatePct": 36.54,
+        "race": {
+          "whitePct": 73.51,
+          "nonHispanicWhitePct": 72.69,
+          "blackPct": 18.64,
+          "asianPct": 0.38,
+          "hispanicPct": 4.25
+        }
+      },
+      "election": {
+        "winner": "Dave Wallace",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Arkansas Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57891,
+        "medianAge": 34.1,
+        "totalPopulation": 87789,
+        "collegePct": 29.96,
+        "renterRatePct": 43.91,
+        "race": {
+          "whitePct": 68.72,
+          "nonHispanicWhitePct": 67.13,
+          "blackPct": 20.38,
+          "asianPct": 1.3,
+          "hispanicPct": 6.76
+        }
+      },
+      "election": {
+        "winner": "Dan Sullivan",
+        "party": "REP",
+        "pct": 60.9,
+        "unopposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Arkansas Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53424,
+        "medianAge": 39,
+        "totalPopulation": 86828,
+        "collegePct": 16.07,
+        "renterRatePct": 32.51,
+        "race": {
+          "whitePct": 90.68,
+          "nonHispanicWhitePct": 89.9,
+          "blackPct": 1.57,
+          "asianPct": 0.3,
+          "hispanicPct": 2.89
+        }
+      },
+      "election": {
+        "winner": "Blake Johnson",
+        "party": "REP",
+        "pct": 83.85,
+        "unopposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Arkansas Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51328,
+        "medianAge": 42.9,
+        "totalPopulation": 85321,
+        "collegePct": 15.28,
+        "renterRatePct": 25.91,
+        "race": {
+          "whitePct": 89.56,
+          "nonHispanicWhitePct": 88.25,
+          "blackPct": 0.98,
+          "asianPct": 0.57,
+          "hispanicPct": 5.01
+        }
+      },
+      "election": {
+        "winner": "John Payton",
+        "party": "REP",
+        "pct": 82.23,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Arkansas Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48126,
+        "medianAge": 49.5,
+        "totalPopulation": 87671,
+        "collegePct": 17.03,
+        "renterRatePct": 21.46,
+        "race": {
+          "whitePct": 92.68,
+          "nonHispanicWhitePct": 91.54,
+          "blackPct": 0.54,
+          "asianPct": 0.57,
+          "hispanicPct": 2.4
+        }
+      },
+      "election": {
+        "winner": "Scott Flippo",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Arkansas Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57666,
+        "medianAge": 42.3,
+        "totalPopulation": 87337,
+        "collegePct": 20.56,
+        "renterRatePct": 19.46,
+        "race": {
+          "whitePct": 91.41,
+          "nonHispanicWhitePct": 89.86,
+          "blackPct": 1.83,
+          "asianPct": 0.28,
+          "hispanicPct": 3.34
+        }
+      },
+      "election": {
+        "winner": "Missy Thomas Irvin",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Arkansas Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53547,
+        "medianAge": 37.8,
+        "totalPopulation": 88721,
+        "collegePct": 22.43,
+        "renterRatePct": 29.47,
+        "race": {
+          "whitePct": 82.78,
+          "nonHispanicWhitePct": 79.14,
+          "blackPct": 4.56,
+          "asianPct": 0.9,
+          "hispanicPct": 10.96
+        }
+      },
+      "election": {
+        "winner": "Breanne Davis",
+        "party": "REP",
+        "pct": 74.22,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Arkansas Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55181,
+        "medianAge": 40.8,
+        "totalPopulation": 86700,
+        "collegePct": 19.51,
+        "renterRatePct": 25.32,
+        "race": {
+          "whitePct": 86.06,
+          "nonHispanicWhitePct": 83.09,
+          "blackPct": 1.26,
+          "asianPct": 2.04,
+          "hispanicPct": 7.49
+        }
+      },
+      "election": {
+        "winner": "Gary Stubblefield",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Arkansas Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51494,
+        "medianAge": 36.2,
+        "totalPopulation": 85294,
+        "collegePct": 24.9,
+        "renterRatePct": 48.35,
+        "race": {
+          "whitePct": 60.52,
+          "nonHispanicWhitePct": 57.58,
+          "blackPct": 8.03,
+          "asianPct": 5.62,
+          "hispanicPct": 20.51
+        }
+      },
+      "election": {
+        "winner": "Justin Boyd",
+        "party": "REP",
+        "pct": 63.57,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Arkansas Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53101,
+        "medianAge": 44.2,
+        "totalPopulation": 84350,
+        "collegePct": 17.78,
+        "renterRatePct": 26.39,
+        "race": {
+          "whitePct": 82.93,
+          "nonHispanicWhitePct": 80.9,
+          "blackPct": 0.29,
+          "asianPct": 0.85,
+          "hispanicPct": 7.95
+        }
+      },
+      "election": {
+        "winner": "Bryan B. King",
+        "party": "REP",
+        "pct": 75.96,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Arkansas Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63114,
+        "medianAge": 40,
+        "totalPopulation": 86125,
+        "collegePct": 21.99,
+        "renterRatePct": 22.72,
+        "race": {
+          "whitePct": 82.53,
+          "nonHispanicWhitePct": 80.18,
+          "blackPct": 1.04,
+          "asianPct": 1.22,
+          "hispanicPct": 7.47
+        }
+      },
+      "election": {
+        "winner": "Jim Petty",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Arkansas Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57304,
+        "medianAge": 28.9,
+        "totalPopulation": 87099,
+        "collegePct": 50.66,
+        "renterRatePct": 59.71,
+        "race": {
+          "whitePct": 75.47,
+          "nonHispanicWhitePct": 72.97,
+          "blackPct": 5.51,
+          "asianPct": 3.11,
+          "hispanicPct": 7.42
+        }
+      },
+      "election": {
+        "winner": "Greg Leding",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Arkansas Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65672,
+        "medianAge": 33.2,
+        "totalPopulation": 87389,
+        "collegePct": 23.96,
+        "renterRatePct": 46.74,
+        "race": {
+          "whitePct": 48.53,
+          "nonHispanicWhitePct": 39.52,
+          "blackPct": 2.58,
+          "asianPct": 2.34,
+          "hispanicPct": 38.92
+        }
+      },
+      "election": {
+        "winner": "Representative Clint Penzo",
+        "party": "REP",
+        "pct": 60.13,
+        "unopposed": false
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Arkansas Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75653,
+        "medianAge": 37.2,
+        "totalPopulation": 86342,
+        "collegePct": 23.66,
+        "renterRatePct": 31.83,
+        "race": {
+          "whitePct": 59.65,
+          "nonHispanicWhitePct": 51.01,
+          "blackPct": 1.05,
+          "asianPct": 1.1,
+          "hispanicPct": 31.78
+        }
+      },
+      "election": {
+        "winner": "Joshua Bryant",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Arkansas Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101664,
+        "medianAge": 33.1,
+        "totalPopulation": 86316,
+        "collegePct": 47.8,
+        "renterRatePct": 39.04,
+        "race": {
+          "whitePct": 66.18,
+          "nonHispanicWhitePct": 62.4,
+          "blackPct": 1.71,
+          "asianPct": 8.48,
+          "hispanicPct": 14.11
+        }
+      },
+      "election": {
+        "winner": "Bart Hester",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Arkansas Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99846,
+        "medianAge": 38.5,
+        "totalPopulation": 89151,
+        "collegePct": 42.17,
+        "renterRatePct": 26.63,
+        "race": {
+          "whitePct": 72.99,
+          "nonHispanicWhitePct": 70.61,
+          "blackPct": 3.08,
+          "asianPct": 4.01,
+          "hispanicPct": 9.19
+        }
+      },
+      "election": {
+        "winner": "Jim Dotson",
+        "party": "REP",
+        "pct": 63.87,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Arkansas Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Arkansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73336,
+        "medianAge": 34.2,
+        "totalPopulation": 84774,
+        "collegePct": 28.87,
+        "renterRatePct": 30.28,
+        "race": {
+          "whitePct": 72.2,
+          "nonHispanicWhitePct": 69.27,
+          "blackPct": 1.17,
+          "asianPct": 2.29,
+          "hispanicPct": 11.6
+        }
+      },
+      "election": {
+        "winner": "Tyler Dees",
+        "party": "REP",
+        "pct": 73.68,
+        "unopposed": false
+      }
+    }
+  }
+}
