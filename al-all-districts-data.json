@@ -1,0 +1,3646 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Alabama House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61536,
+        "medianAge": 40.3,
+        "totalPopulation": 48912,
+        "collegePct": 26.36,
+        "renterRatePct": 32.83,
+        "race": {
+          "whitePct": 85.69,
+          "nonHispanicWhitePct": 85.02,
+          "blackPct": 7.77,
+          "asianPct": 0.47,
+          "hispanicPct": 3.12
+        }
+      },
+      "election": {
+        "winner": "Phillip Pettus",
+        "party": "REP",
+        "pct": 97.01,
+        "unopposed": true
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Alabama House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70003,
+        "medianAge": 42.4,
+        "totalPopulation": 51119,
+        "collegePct": 26.4,
+        "renterRatePct": 20.18,
+        "race": {
+          "whitePct": 86.25,
+          "nonHispanicWhitePct": 85.37,
+          "blackPct": 4.98,
+          "asianPct": 0.87,
+          "hispanicPct": 4.82
+        }
+      },
+      "election": {
+        "winner": "Ben Harrison",
+        "party": "REP",
+        "pct": 80.28,
+        "unopposed": true
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Alabama House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47588,
+        "medianAge": 37.4,
+        "totalPopulation": 50275,
+        "collegePct": 21.85,
+        "renterRatePct": 40.69,
+        "race": {
+          "whitePct": 70.28,
+          "nonHispanicWhitePct": 69.48,
+          "blackPct": 20.99,
+          "asianPct": 0.68,
+          "hispanicPct": 4.55
+        }
+      },
+      "election": {
+        "winner": "Kerry \"Bubba\" Underwood",
+        "party": "REP",
+        "pct": 65.3,
+        "unopposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Alabama House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94958,
+        "medianAge": 38.9,
+        "totalPopulation": 50356,
+        "collegePct": 47.61,
+        "renterRatePct": 25.15,
+        "race": {
+          "whitePct": 74.42,
+          "nonHispanicWhitePct": 71.52,
+          "blackPct": 13.78,
+          "asianPct": 3.1,
+          "hispanicPct": 8.45
+        }
+      },
+      "election": {
+        "winner": "Parker Duncan Moore",
+        "party": "REP",
+        "pct": 97.11,
+        "unopposed": true
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Alabama House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80409,
+        "medianAge": 41.9,
+        "totalPopulation": 52200,
+        "collegePct": 28.82,
+        "renterRatePct": 26.41,
+        "race": {
+          "whitePct": 77.55,
+          "nonHispanicWhitePct": 75.13,
+          "blackPct": 13.13,
+          "asianPct": 0.73,
+          "hispanicPct": 7.49
+        }
+      },
+      "election": {
+        "winner": "Danny F. Crawford",
+        "party": "REP",
+        "pct": 98.04,
+        "unopposed": true
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Alabama House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91551,
+        "medianAge": 41.9,
+        "totalPopulation": 50398,
+        "collegePct": 35.31,
+        "renterRatePct": 11.11,
+        "race": {
+          "whitePct": 73.49,
+          "nonHispanicWhitePct": 72.37,
+          "blackPct": 17.98,
+          "asianPct": 1.46,
+          "hispanicPct": 3.78
+        }
+      },
+      "election": {
+        "winner": "Andy Whitt",
+        "party": "REP",
+        "pct": 80.11,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Alabama House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60345,
+        "medianAge": 44,
+        "totalPopulation": 46370,
+        "collegePct": 15.76,
+        "renterRatePct": 18.65,
+        "race": {
+          "whitePct": 74.51,
+          "nonHispanicWhitePct": 73.67,
+          "blackPct": 14.05,
+          "asianPct": 0.45,
+          "hispanicPct": 3.15
+        }
+      },
+      "election": {
+        "winner": "Ernie Yarbrough",
+        "party": "REP",
+        "pct": 76.48,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Alabama House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60934,
+        "medianAge": 39.3,
+        "totalPopulation": 47810,
+        "collegePct": 18.01,
+        "renterRatePct": 38.4,
+        "race": {
+          "whitePct": 59.45,
+          "nonHispanicWhitePct": 56.42,
+          "blackPct": 23.03,
+          "asianPct": 0.47,
+          "hispanicPct": 17.21
+        }
+      },
+      "election": {
+        "winner": "Terri Collins",
+        "party": "REP",
+        "pct": 84.76,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Alabama House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63172,
+        "medianAge": 40.9,
+        "totalPopulation": 45381,
+        "collegePct": 23.28,
+        "renterRatePct": 20.67,
+        "race": {
+          "whitePct": 89.12,
+          "nonHispanicWhitePct": 88.01,
+          "blackPct": 3.72,
+          "asianPct": 0.59,
+          "hispanicPct": 3.75
+        }
+      },
+      "election": {
+        "winner": "Scott Stadthagen",
+        "party": "REP",
+        "pct": 91.83,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Alabama House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81056,
+        "medianAge": 39.3,
+        "totalPopulation": 49879,
+        "collegePct": 50.36,
+        "renterRatePct": 40.29,
+        "race": {
+          "whitePct": 63.72,
+          "nonHispanicWhitePct": 60.94,
+          "blackPct": 21.97,
+          "asianPct": 4.19,
+          "hispanicPct": 8.15
+        }
+      },
+      "election": {
+        "winner": "David Cole",
+        "party": "REP",
+        "pct": 51.59,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Alabama House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55247,
+        "medianAge": 40.2,
+        "totalPopulation": 49557,
+        "collegePct": 15.7,
+        "renterRatePct": 21.93,
+        "race": {
+          "whitePct": 88.25,
+          "nonHispanicWhitePct": 86.14,
+          "blackPct": 1.13,
+          "asianPct": 0.97,
+          "hispanicPct": 8.28
+        }
+      },
+      "election": {
+        "winner": "Randall Shedd",
+        "party": "REP",
+        "pct": 99.34,
+        "unopposed": true
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Alabama House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63975,
+        "medianAge": 42.9,
+        "totalPopulation": 47184,
+        "collegePct": 21.42,
+        "renterRatePct": 26.26,
+        "race": {
+          "whitePct": 92.84,
+          "nonHispanicWhitePct": 92,
+          "blackPct": 1.18,
+          "asianPct": 0.08,
+          "hispanicPct": 3.14
+        }
+      },
+      "election": {
+        "winner": "Corey Harbison",
+        "party": "REP",
+        "pct": 85.35,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Alabama House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57078,
+        "medianAge": 40.4,
+        "totalPopulation": 48748,
+        "collegePct": 17.01,
+        "renterRatePct": 23.89,
+        "race": {
+          "whitePct": 86.89,
+          "nonHispanicWhitePct": 85.79,
+          "blackPct": 6.4,
+          "asianPct": 0.57,
+          "hispanicPct": 4.32
+        }
+      },
+      "election": {
+        "winner": "Matt Woods",
+        "party": "REP",
+        "pct": 94.29,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Alabama House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54800,
+        "medianAge": 43.7,
+        "totalPopulation": 47365,
+        "collegePct": 13.93,
+        "renterRatePct": 16.33,
+        "race": {
+          "whitePct": 93.77,
+          "nonHispanicWhitePct": 93.61,
+          "blackPct": 1.89,
+          "asianPct": 0.11,
+          "hispanicPct": 1.61
+        }
+      },
+      "election": {
+        "winner": "Timothy (Tim) Wadsworth",
+        "party": "REP",
+        "pct": 99.32,
+        "unopposed": true
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Alabama House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100036,
+        "medianAge": 39.5,
+        "totalPopulation": 50175,
+        "collegePct": 45.76,
+        "renterRatePct": 17.6,
+        "race": {
+          "whitePct": 61.71,
+          "nonHispanicWhitePct": 60.32,
+          "blackPct": 28.78,
+          "asianPct": 3.13,
+          "hispanicPct": 4.98
+        }
+      },
+      "election": {
+        "winner": "Leigh Hulsey",
+        "party": "REP",
+        "pct": 63.65,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Alabama House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65797,
+        "medianAge": 42.7,
+        "totalPopulation": 45558,
+        "collegePct": 18,
+        "renterRatePct": 16.22,
+        "race": {
+          "whitePct": 88.61,
+          "nonHispanicWhitePct": 87.66,
+          "blackPct": 7.37,
+          "asianPct": 0.2,
+          "hispanicPct": 2.12
+        }
+      },
+      "election": {
+        "winner": "Kyle South",
+        "party": "REP",
+        "pct": 99.26,
+        "unopposed": true
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Alabama House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48584,
+        "medianAge": 43,
+        "totalPopulation": 47869,
+        "collegePct": 12.03,
+        "renterRatePct": 27.59,
+        "race": {
+          "whitePct": 89.15,
+          "nonHispanicWhitePct": 87.95,
+          "blackPct": 5.34,
+          "asianPct": 0.25,
+          "hispanicPct": 3.76
+        }
+      },
+      "election": {
+        "winner": "Tracy Estes",
+        "party": "REP",
+        "pct": 99.39,
+        "unopposed": true
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Alabama House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54257,
+        "medianAge": 39.9,
+        "totalPopulation": 46116,
+        "collegePct": 16.26,
+        "renterRatePct": 25.63,
+        "race": {
+          "whitePct": 80.44,
+          "nonHispanicWhitePct": 78.47,
+          "blackPct": 4.07,
+          "asianPct": 0.1,
+          "hispanicPct": 14.86
+        }
+      },
+      "election": {
+        "winner": "Jamie Kiel",
+        "party": "REP",
+        "pct": 94.85,
+        "unopposed": false
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Alabama House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60491,
+        "medianAge": 32,
+        "totalPopulation": 55550,
+        "collegePct": 33.39,
+        "renterRatePct": 40.95,
+        "race": {
+          "whitePct": 38.83,
+          "nonHispanicWhitePct": 38.05,
+          "blackPct": 52.42,
+          "asianPct": 1.06,
+          "hispanicPct": 5.57
+        }
+      },
+      "election": {
+        "winner": "Laura Hall",
+        "party": "DEM",
+        "pct": 96.44,
+        "unopposed": true
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Alabama House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105961,
+        "medianAge": 45.8,
+        "totalPopulation": 49362,
+        "collegePct": 60.73,
+        "renterRatePct": 21.69,
+        "race": {
+          "whitePct": 85.24,
+          "nonHispanicWhitePct": 84.4,
+          "blackPct": 3.99,
+          "asianPct": 2.42,
+          "hispanicPct": 5.25
+        }
+      },
+      "election": {
+        "winner": "James Lomax",
+        "party": "REP",
+        "pct": 96.49,
+        "unopposed": true
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Alabama House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99760,
+        "medianAge": 41,
+        "totalPopulation": 53367,
+        "collegePct": 45.42,
+        "renterRatePct": 20.2,
+        "race": {
+          "whitePct": 75.14,
+          "nonHispanicWhitePct": 73.55,
+          "blackPct": 14.15,
+          "asianPct": 2.43,
+          "hispanicPct": 3.88
+        }
+      },
+      "election": {
+        "winner": "Rex Reynolds",
+        "party": "REP",
+        "pct": 95.95,
+        "unopposed": true
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Alabama House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93951,
+        "medianAge": 40.8,
+        "totalPopulation": 50138,
+        "collegePct": 35.84,
+        "renterRatePct": 12.85,
+        "race": {
+          "whitePct": 83.61,
+          "nonHispanicWhitePct": 82.79,
+          "blackPct": 8.33,
+          "asianPct": 0.96,
+          "hispanicPct": 2.71
+        }
+      },
+      "election": {
+        "winner": "Ritchie Whorton",
+        "party": "REP",
+        "pct": 98.08,
+        "unopposed": true
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Alabama House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49559,
+        "medianAge": 43.2,
+        "totalPopulation": 50132,
+        "collegePct": 15.46,
+        "renterRatePct": 25.59,
+        "race": {
+          "whitePct": 88.59,
+          "nonHispanicWhitePct": 88.16,
+          "blackPct": 3.19,
+          "asianPct": 0.3,
+          "hispanicPct": 3.49
+        }
+      },
+      "election": {
+        "winner": "Mike Kirkland",
+        "party": "REP",
+        "pct": 97.11,
+        "unopposed": true
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Alabama House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51457,
+        "medianAge": 40.8,
+        "totalPopulation": 49823,
+        "collegePct": 15.78,
+        "renterRatePct": 22.81,
+        "race": {
+          "whitePct": 84.79,
+          "nonHispanicWhitePct": 81.65,
+          "blackPct": 1.48,
+          "asianPct": 0.21,
+          "hispanicPct": 12.1
+        }
+      },
+      "election": {
+        "winner": "Nathaniel Ledbetter",
+        "party": "REP",
+        "pct": 99.23,
+        "unopposed": true
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Alabama House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108391,
+        "medianAge": 37.8,
+        "totalPopulation": 51075,
+        "collegePct": 58.8,
+        "renterRatePct": 28.7,
+        "race": {
+          "whitePct": 65.53,
+          "nonHispanicWhitePct": 63.63,
+          "blackPct": 17.38,
+          "asianPct": 6.06,
+          "hispanicPct": 7.62
+        }
+      },
+      "election": {
+        "winner": "Phillip K. Rigsby",
+        "party": "REP",
+        "pct": 57.88,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Alabama House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56764,
+        "medianAge": 35,
+        "totalPopulation": 49237,
+        "collegePct": 17.45,
+        "renterRatePct": 29.34,
+        "race": {
+          "whitePct": 74.89,
+          "nonHispanicWhitePct": 67.25,
+          "blackPct": 3.04,
+          "asianPct": 0.32,
+          "hispanicPct": 27.16
+        }
+      },
+      "election": {
+        "winner": "Brock Colvin",
+        "party": "REP",
+        "pct": 88.36,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Alabama House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67095,
+        "medianAge": 42,
+        "totalPopulation": 49475,
+        "collegePct": 24.82,
+        "renterRatePct": 20.15,
+        "race": {
+          "whitePct": 89.23,
+          "nonHispanicWhitePct": 87.33,
+          "blackPct": 2.18,
+          "asianPct": 0.96,
+          "hispanicPct": 6.04
+        }
+      },
+      "election": {
+        "winner": "Wes Kitchens",
+        "party": "REP",
+        "pct": 89.17,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Alabama House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44064,
+        "medianAge": 41.3,
+        "totalPopulation": 49539,
+        "collegePct": 14.37,
+        "renterRatePct": 40.58,
+        "race": {
+          "whitePct": 60.22,
+          "nonHispanicWhitePct": 59.4,
+          "blackPct": 28.21,
+          "asianPct": 0.88,
+          "hispanicPct": 8
+        }
+      },
+      "election": {
+        "winner": "Mack N Butler",
+        "party": "REP",
+        "pct": 95.77,
+        "unopposed": true
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Alabama House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60879,
+        "medianAge": 43.8,
+        "totalPopulation": 48194,
+        "collegePct": 18.52,
+        "renterRatePct": 13.59,
+        "race": {
+          "whitePct": 91.61,
+          "nonHispanicWhitePct": 90.92,
+          "blackPct": 4.12,
+          "asianPct": 0.22,
+          "hispanicPct": 1.88
+        }
+      },
+      "election": {
+        "winner": "Mark A. Gidley",
+        "party": "REP",
+        "pct": 93.94,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Alabama House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62895,
+        "medianAge": 42.8,
+        "totalPopulation": 43613,
+        "collegePct": 17.62,
+        "renterRatePct": 14.6,
+        "race": {
+          "whitePct": 91.27,
+          "nonHispanicWhitePct": 89.74,
+          "blackPct": 4.12,
+          "asianPct": 0.48,
+          "hispanicPct": 3.1
+        }
+      },
+      "election": {
+        "winner": "Craig Lipscomb",
+        "party": "REP",
+        "pct": 99.26,
+        "unopposed": true
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Alabama House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72381,
+        "medianAge": 38.1,
+        "totalPopulation": 49244,
+        "collegePct": 16.78,
+        "renterRatePct": 23.24,
+        "race": {
+          "whitePct": 73.42,
+          "nonHispanicWhitePct": 72.98,
+          "blackPct": 21.33,
+          "asianPct": 0.15,
+          "hispanicPct": 2.41
+        }
+      },
+      "election": {
+        "winner": "Troy B. Stubbs",
+        "party": "REP",
+        "pct": 98.81,
+        "unopposed": true
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Alabama House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 39593,
+        "medianAge": 40.5,
+        "totalPopulation": 43915,
+        "collegePct": 11.84,
+        "renterRatePct": 38.27,
+        "race": {
+          "whitePct": 38.52,
+          "nonHispanicWhitePct": 37.72,
+          "blackPct": 55.15,
+          "asianPct": 0.59,
+          "hispanicPct": 2.77
+        }
+      },
+      "election": {
+        "winner": "Barbara Bigsby Boyd",
+        "party": "DEM",
+        "pct": 55.66,
+        "unopposed": false
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Alabama House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53322,
+        "medianAge": 43.9,
+        "totalPopulation": 44996,
+        "collegePct": 14.85,
+        "renterRatePct": 29.27,
+        "race": {
+          "whitePct": 66.87,
+          "nonHispanicWhitePct": 66.6,
+          "blackPct": 27.66,
+          "asianPct": 0.3,
+          "hispanicPct": 2.62
+        }
+      },
+      "election": {
+        "winner": "Ben Robbins",
+        "party": "REP",
+        "pct": 72.68,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Alabama House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62354,
+        "medianAge": 41.2,
+        "totalPopulation": 44899,
+        "collegePct": 15.89,
+        "renterRatePct": 19.43,
+        "race": {
+          "whitePct": 89.79,
+          "nonHispanicWhitePct": 85.39,
+          "blackPct": 1.31,
+          "asianPct": 0.07,
+          "hispanicPct": 9.57
+        }
+      },
+      "election": {
+        "winner": "David Standridge",
+        "party": "REP",
+        "pct": 99.32,
+        "unopposed": true
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Alabama House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59524,
+        "medianAge": 40.5,
+        "totalPopulation": 48793,
+        "collegePct": 17.89,
+        "renterRatePct": 21.65,
+        "race": {
+          "whitePct": 77.25,
+          "nonHispanicWhitePct": 76.33,
+          "blackPct": 14.99,
+          "asianPct": 0.45,
+          "hispanicPct": 4.19
+        }
+      },
+      "election": {
+        "winner": "Steve Hurst",
+        "party": "REP",
+        "pct": 98.66,
+        "unopposed": true
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Alabama House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70984,
+        "medianAge": 42.6,
+        "totalPopulation": 51486,
+        "collegePct": 24.06,
+        "renterRatePct": 21.31,
+        "race": {
+          "whitePct": 77.93,
+          "nonHispanicWhitePct": 77.04,
+          "blackPct": 15.49,
+          "asianPct": 1.04,
+          "hispanicPct": 3.65
+        }
+      },
+      "election": {
+        "winner": "Randy Wood",
+        "party": "REP",
+        "pct": 98.19,
+        "unopposed": true
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Alabama House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58421,
+        "medianAge": 46.1,
+        "totalPopulation": 47273,
+        "collegePct": 25.24,
+        "renterRatePct": 20.52,
+        "race": {
+          "whitePct": 73.06,
+          "nonHispanicWhitePct": 70.55,
+          "blackPct": 21.12,
+          "asianPct": 0.59,
+          "hispanicPct": 3.81
+        }
+      },
+      "election": {
+        "winner": "Bob Fincher",
+        "party": "REP",
+        "pct": 98.73,
+        "unopposed": true
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Alabama House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58769,
+        "medianAge": 39.2,
+        "totalPopulation": 49634,
+        "collegePct": 17.77,
+        "renterRatePct": 23.18,
+        "race": {
+          "whitePct": 66.44,
+          "nonHispanicWhitePct": 64.81,
+          "blackPct": 27.42,
+          "asianPct": 0.49,
+          "hispanicPct": 5
+        }
+      },
+      "election": {
+        "winner": "Debbie Hamby Wood",
+        "party": "REP",
+        "pct": 88.01,
+        "unopposed": false
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Alabama House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50570,
+        "medianAge": 41.6,
+        "totalPopulation": 47347,
+        "collegePct": 13.11,
+        "renterRatePct": 22.11,
+        "race": {
+          "whitePct": 82.88,
+          "nonHispanicWhitePct": 80.39,
+          "blackPct": 2.4,
+          "asianPct": 0.17,
+          "hispanicPct": 13.51
+        }
+      },
+      "election": {
+        "winner": "Ginny Shaver",
+        "party": "REP",
+        "pct": 98.99,
+        "unopposed": true
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Alabama House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57167,
+        "medianAge": 37.2,
+        "totalPopulation": 48326,
+        "collegePct": 23.95,
+        "renterRatePct": 29.83,
+        "race": {
+          "whitePct": 82.15,
+          "nonHispanicWhitePct": 81.07,
+          "blackPct": 12.52,
+          "asianPct": 0.67,
+          "hispanicPct": 3.62
+        }
+      },
+      "election": {
+        "winner": "Chad Robertson",
+        "party": "REP",
+        "pct": 82.84,
+        "unopposed": false
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Alabama House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81634,
+        "medianAge": 39.4,
+        "totalPopulation": 50481,
+        "collegePct": 29.04,
+        "renterRatePct": 17.9,
+        "race": {
+          "whitePct": 74.54,
+          "nonHispanicWhitePct": 73.35,
+          "blackPct": 17.81,
+          "asianPct": 0.54,
+          "hispanicPct": 5.46
+        }
+      },
+      "election": {
+        "winner": "Corley Ellis",
+        "party": "REP",
+        "pct": 74.99,
+        "unopposed": false
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Alabama House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65220,
+        "medianAge": 40.2,
+        "totalPopulation": 50828,
+        "collegePct": 16.94,
+        "renterRatePct": 21.03,
+        "race": {
+          "whitePct": 85.15,
+          "nonHispanicWhitePct": 83.38,
+          "blackPct": 8.57,
+          "asianPct": 0.42,
+          "hispanicPct": 4.71
+        }
+      },
+      "election": {
+        "winner": "Van Smith",
+        "party": "REP",
+        "pct": 92.75,
+        "unopposed": false
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Alabama House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105539,
+        "medianAge": 43.3,
+        "totalPopulation": 49461,
+        "collegePct": 63.86,
+        "renterRatePct": 23.99,
+        "race": {
+          "whitePct": 78.07,
+          "nonHispanicWhitePct": 77.07,
+          "blackPct": 10.22,
+          "asianPct": 4.38,
+          "hispanicPct": 4.34
+        }
+      },
+      "election": {
+        "winner": "Arnold Mooney",
+        "party": "REP",
+        "pct": 74.28,
+        "unopposed": false
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Alabama House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88017,
+        "medianAge": 39.5,
+        "totalPopulation": 49043,
+        "collegePct": 35.44,
+        "renterRatePct": 14.95,
+        "race": {
+          "whitePct": 70.06,
+          "nonHispanicWhitePct": 69.03,
+          "blackPct": 21.77,
+          "asianPct": 2.27,
+          "hispanicPct": 4.26
+        }
+      },
+      "election": {
+        "winner": "Danny Garrett",
+        "party": "REP",
+        "pct": 83.84,
+        "unopposed": false
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Alabama House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96439,
+        "medianAge": 42.1,
+        "totalPopulation": 48336,
+        "collegePct": 44.65,
+        "renterRatePct": 16.39,
+        "race": {
+          "whitePct": 79.82,
+          "nonHispanicWhitePct": 77.77,
+          "blackPct": 11.25,
+          "asianPct": 0.5,
+          "hispanicPct": 7.23
+        }
+      },
+      "election": {
+        "winner": "Susan Dubose",
+        "party": "REP",
+        "pct": 85.56,
+        "unopposed": false
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Alabama House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 128731,
+        "medianAge": 35.4,
+        "totalPopulation": 49737,
+        "collegePct": 74.74,
+        "renterRatePct": 21.78,
+        "race": {
+          "whitePct": 82.42,
+          "nonHispanicWhitePct": 81.34,
+          "blackPct": 8.55,
+          "asianPct": 3.94,
+          "hispanicPct": 3.43
+        }
+      },
+      "election": {
+        "winner": "David Faulkner",
+        "party": "REP",
+        "pct": 96.8,
+        "unopposed": true
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Alabama House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79434,
+        "medianAge": 36.8,
+        "totalPopulation": 50617,
+        "collegePct": 49.58,
+        "renterRatePct": 41.88,
+        "race": {
+          "whitePct": 65.29,
+          "nonHispanicWhitePct": 62.96,
+          "blackPct": 23.71,
+          "asianPct": 4.85,
+          "hispanicPct": 6.56
+        }
+      },
+      "election": {
+        "winner": "Mike Shaw",
+        "party": "REP",
+        "pct": 64.04,
+        "unopposed": false
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Alabama House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118816,
+        "medianAge": 40.6,
+        "totalPopulation": 42007,
+        "collegePct": 69.19,
+        "renterRatePct": 34.35,
+        "race": {
+          "whitePct": 85.26,
+          "nonHispanicWhitePct": 84.68,
+          "blackPct": 7.24,
+          "asianPct": 3.3,
+          "hispanicPct": 2.55
+        }
+      },
+      "election": {
+        "winner": "Jim Carns",
+        "party": "REP",
+        "pct": 84.66,
+        "unopposed": false
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Alabama House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70342,
+        "medianAge": 37.7,
+        "totalPopulation": 51040,
+        "collegePct": 26.2,
+        "renterRatePct": 17.6,
+        "race": {
+          "whitePct": 77.02,
+          "nonHispanicWhitePct": 71.39,
+          "blackPct": 12.41,
+          "asianPct": 0.79,
+          "hispanicPct": 12.56
+        }
+      },
+      "election": {
+        "winner": "Russell Bedsole",
+        "party": "REP",
+        "pct": 97.55,
+        "unopposed": true
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Alabama House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87420,
+        "medianAge": 39.3,
+        "totalPopulation": 49223,
+        "collegePct": 23.22,
+        "renterRatePct": 16.21,
+        "race": {
+          "whitePct": 82.77,
+          "nonHispanicWhitePct": 82.23,
+          "blackPct": 11.38,
+          "asianPct": 0.46,
+          "hispanicPct": 2.58
+        }
+      },
+      "election": {
+        "winner": "Jim Hill",
+        "party": "REP",
+        "pct": 98.53,
+        "unopposed": true
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Alabama House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81046,
+        "medianAge": 40.3,
+        "totalPopulation": 43876,
+        "collegePct": 24.96,
+        "renterRatePct": 15.27,
+        "race": {
+          "whitePct": 79.88,
+          "nonHispanicWhitePct": 79.39,
+          "blackPct": 13.28,
+          "asianPct": 0.7,
+          "hispanicPct": 2.97
+        }
+      },
+      "election": {
+        "winner": "Allen Treadaway",
+        "party": "REP",
+        "pct": 98.61,
+        "unopposed": true
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Alabama House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48581,
+        "medianAge": 31.9,
+        "totalPopulation": 50328,
+        "collegePct": 33.51,
+        "renterRatePct": 50.98,
+        "race": {
+          "whitePct": 28.67,
+          "nonHispanicWhitePct": 26.03,
+          "blackPct": 62.81,
+          "asianPct": 0.98,
+          "hispanicPct": 7.94
+        }
+      },
+      "election": {
+        "winner": "John W. Rogers Jr.",
+        "party": "DEM",
+        "pct": 99.14,
+        "unopposed": true
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Alabama House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41925,
+        "medianAge": 29.8,
+        "totalPopulation": 50698,
+        "collegePct": 28.55,
+        "renterRatePct": 60.39,
+        "race": {
+          "whitePct": 35.32,
+          "nonHispanicWhitePct": 30.44,
+          "blackPct": 50.79,
+          "asianPct": 1.41,
+          "hispanicPct": 13.93
+        }
+      },
+      "election": {
+        "winner": "Anthony Daniels",
+        "party": "DEM",
+        "pct": 97.37,
+        "unopposed": true
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Alabama House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47169,
+        "medianAge": 37.6,
+        "totalPopulation": 43759,
+        "collegePct": 36.04,
+        "renterRatePct": 52.69,
+        "race": {
+          "whitePct": 38.06,
+          "nonHispanicWhitePct": 36.57,
+          "blackPct": 56.49,
+          "asianPct": 0.83,
+          "hispanicPct": 4.38
+        }
+      },
+      "election": {
+        "winner": "Neil Rafferty",
+        "party": "DEM",
+        "pct": 98.88,
+        "unopposed": true
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Alabama House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41831,
+        "medianAge": 33,
+        "totalPopulation": 44602,
+        "collegePct": 39.52,
+        "renterRatePct": 63.92,
+        "race": {
+          "whitePct": 30.64,
+          "nonHispanicWhitePct": 30,
+          "blackPct": 59.78,
+          "asianPct": 3.31,
+          "hispanicPct": 4.18
+        }
+      },
+      "election": {
+        "winner": "Fred \"Coach\" Plump",
+        "party": "DEM",
+        "pct": 99.34,
+        "unopposed": true
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Alabama House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48832,
+        "medianAge": 35.9,
+        "totalPopulation": 47425,
+        "collegePct": 31.03,
+        "renterRatePct": 44.08,
+        "race": {
+          "whitePct": 29.52,
+          "nonHispanicWhitePct": 28.18,
+          "blackPct": 60,
+          "asianPct": 2.75,
+          "hispanicPct": 6.99
+        }
+      },
+      "election": {
+        "winner": "Ontario J. Tillman",
+        "party": "DEM",
+        "pct": 90.65,
+        "unopposed": false
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Alabama House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56833,
+        "medianAge": 40.1,
+        "totalPopulation": 46685,
+        "collegePct": 19.11,
+        "renterRatePct": 27.31,
+        "race": {
+          "whitePct": 30.03,
+          "nonHispanicWhitePct": 28.74,
+          "blackPct": 60.74,
+          "asianPct": 0.2,
+          "hispanicPct": 7.51
+        }
+      },
+      "election": {
+        "winner": "Patrick Sellers",
+        "party": "DEM",
+        "pct": 64.88,
+        "unopposed": false
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Alabama House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53023,
+        "medianAge": 34.5,
+        "totalPopulation": 45308,
+        "collegePct": 22.76,
+        "renterRatePct": 39.88,
+        "race": {
+          "whitePct": 25.62,
+          "nonHispanicWhitePct": 23.99,
+          "blackPct": 66.99,
+          "asianPct": 0.57,
+          "hispanicPct": 5.83
+        }
+      },
+      "election": {
+        "winner": "Rolanda Hollis",
+        "party": "DEM",
+        "pct": 98.61,
+        "unopposed": true
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Alabama House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43040,
+        "medianAge": 40.1,
+        "totalPopulation": 43424,
+        "collegePct": 16.55,
+        "renterRatePct": 47.38,
+        "race": {
+          "whitePct": 18.81,
+          "nonHispanicWhitePct": 17.37,
+          "blackPct": 72.95,
+          "asianPct": 0.25,
+          "hispanicPct": 8.11
+        }
+      },
+      "election": {
+        "winner": "Mary Moore",
+        "party": "DEM",
+        "pct": 99.19,
+        "unopposed": true
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Alabama House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52485,
+        "medianAge": 41.4,
+        "totalPopulation": 47764,
+        "collegePct": 21.56,
+        "renterRatePct": 33.47,
+        "race": {
+          "whitePct": 29.84,
+          "nonHispanicWhitePct": 29.33,
+          "blackPct": 63.86,
+          "asianPct": 0.5,
+          "hispanicPct": 1.68
+        }
+      },
+      "election": {
+        "winner": "Juandalynn Givan",
+        "party": "DEM",
+        "pct": 89.36,
+        "unopposed": false
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Alabama House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74351,
+        "medianAge": 39.4,
+        "totalPopulation": 45693,
+        "collegePct": 28.81,
+        "renterRatePct": 24.69,
+        "race": {
+          "whitePct": 77.16,
+          "nonHispanicWhitePct": 75.6,
+          "blackPct": 18.34,
+          "asianPct": 0.32,
+          "hispanicPct": 4.59
+        }
+      },
+      "election": {
+        "winner": "Ron Bolton",
+        "party": "REP",
+        "pct": 89,
+        "unopposed": false
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Alabama House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74493,
+        "medianAge": 35.8,
+        "totalPopulation": 49358,
+        "collegePct": 22.41,
+        "renterRatePct": 17.8,
+        "race": {
+          "whitePct": 71.12,
+          "nonHispanicWhitePct": 69.46,
+          "blackPct": 21.42,
+          "asianPct": 0.42,
+          "hispanicPct": 6.09
+        }
+      },
+      "election": {
+        "winner": "Bill Lamb",
+        "party": "REP",
+        "pct": 73.93,
+        "unopposed": false
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Alabama House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56832,
+        "medianAge": 22.7,
+        "totalPopulation": 50916,
+        "collegePct": 55.31,
+        "renterRatePct": 56.68,
+        "race": {
+          "whitePct": 71.25,
+          "nonHispanicWhitePct": 68.38,
+          "blackPct": 19.65,
+          "asianPct": 3.88,
+          "hispanicPct": 6
+        }
+      },
+      "election": {
+        "winner": "Cynthia Lee Almond",
+        "party": "REP",
+        "pct": 66.15,
+        "unopposed": false
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Alabama House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60223,
+        "medianAge": 37.8,
+        "totalPopulation": 57272,
+        "collegePct": 20.79,
+        "renterRatePct": 23.69,
+        "race": {
+          "whitePct": 76.87,
+          "nonHispanicWhitePct": 74.95,
+          "blackPct": 11.88,
+          "asianPct": 1.09,
+          "hispanicPct": 7.57
+        }
+      },
+      "election": {
+        "winner": "Donna Givens",
+        "party": "REP",
+        "pct": 90.29,
+        "unopposed": false
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Alabama House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53801,
+        "medianAge": 44.4,
+        "totalPopulation": 46628,
+        "collegePct": 16.72,
+        "renterRatePct": 18.19,
+        "race": {
+          "whitePct": 64.72,
+          "nonHispanicWhitePct": 64.08,
+          "blackPct": 28.94,
+          "asianPct": 0.31,
+          "hispanicPct": 1.36
+        }
+      },
+      "election": {
+        "winner": "Brett Easterbrook",
+        "party": "REP",
+        "pct": 72.71,
+        "unopposed": false
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "Alabama House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53160,
+        "medianAge": 44.2,
+        "totalPopulation": 49562,
+        "collegePct": 17.48,
+        "renterRatePct": 24.11,
+        "race": {
+          "whitePct": 73.48,
+          "nonHispanicWhitePct": 72.94,
+          "blackPct": 19.95,
+          "asianPct": 0.28,
+          "hispanicPct": 2.08
+        }
+      },
+      "election": {
+        "winner": "Alan Baker",
+        "party": "REP",
+        "pct": 99.06,
+        "unopposed": true
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "Alabama House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 36615,
+        "medianAge": 40.3,
+        "totalPopulation": 44629,
+        "collegePct": 17.17,
+        "renterRatePct": 37.69,
+        "race": {
+          "whitePct": 27.93,
+          "nonHispanicWhitePct": 27.63,
+          "blackPct": 69.96,
+          "asianPct": 0.52,
+          "hispanicPct": 0.8
+        }
+      },
+      "election": {
+        "winner": "Prince Chestnut",
+        "party": "DEM",
+        "pct": 98.53,
+        "unopposed": true
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "Alabama House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 39886,
+        "medianAge": 43.5,
+        "totalPopulation": 46516,
+        "collegePct": 11.48,
+        "renterRatePct": 31.04,
+        "race": {
+          "whitePct": 42.98,
+          "nonHispanicWhitePct": 42.9,
+          "blackPct": 53.74,
+          "asianPct": 0.22,
+          "hispanicPct": 0.44
+        }
+      },
+      "election": {
+        "winner": "Thomas E. \"Action\" Jackson",
+        "party": "DEM",
+        "pct": 51.47,
+        "unopposed": false
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "Alabama House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46224,
+        "medianAge": 40.5,
+        "totalPopulation": 49054,
+        "collegePct": 16.16,
+        "renterRatePct": 22.79,
+        "race": {
+          "whitePct": 44.18,
+          "nonHispanicWhitePct": 42.76,
+          "blackPct": 52.45,
+          "asianPct": 0.31,
+          "hispanicPct": 2.36
+        }
+      },
+      "election": {
+        "winner": "Kelvin J. Lawrence",
+        "party": "DEM",
+        "pct": 55.21,
+        "unopposed": false
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "Alabama House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50125,
+        "medianAge": 32.4,
+        "totalPopulation": 48543,
+        "collegePct": 28.33,
+        "renterRatePct": 55.76,
+        "race": {
+          "whitePct": 33.36,
+          "nonHispanicWhitePct": 32.12,
+          "blackPct": 59.28,
+          "asianPct": 2.01,
+          "hispanicPct": 5.9
+        }
+      },
+      "election": {
+        "winner": "Christopher John England",
+        "party": "DEM",
+        "pct": 97.02,
+        "unopposed": true
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "Alabama House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43879,
+        "medianAge": 37.8,
+        "totalPopulation": 48666,
+        "collegePct": 20.11,
+        "renterRatePct": 37.02,
+        "race": {
+          "whitePct": 41.57,
+          "nonHispanicWhitePct": 39.58,
+          "blackPct": 53.18,
+          "asianPct": 0.24,
+          "hispanicPct": 4.87
+        }
+      },
+      "election": {
+        "winner": "Artis \"AJ\" McCampbell",
+        "party": "DEM",
+        "pct": 97.87,
+        "unopposed": true
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "Alabama House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46799,
+        "medianAge": 40.3,
+        "totalPopulation": 49524,
+        "collegePct": 18.51,
+        "renterRatePct": 27.24,
+        "race": {
+          "whitePct": 35.68,
+          "nonHispanicWhitePct": 35.23,
+          "blackPct": 59.93,
+          "asianPct": 1.05,
+          "hispanicPct": 1.27
+        }
+      },
+      "election": {
+        "winner": "Curtis L. Travis",
+        "party": "DEM",
+        "pct": 81.99,
+        "unopposed": true
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "Alabama House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87838,
+        "medianAge": 38.9,
+        "totalPopulation": 48994,
+        "collegePct": 42.62,
+        "renterRatePct": 16.65,
+        "race": {
+          "whitePct": 72.66,
+          "nonHispanicWhitePct": 68.02,
+          "blackPct": 13.99,
+          "asianPct": 1.41,
+          "hispanicPct": 13.3
+        }
+      },
+      "election": {
+        "winner": "Kenneth Paschal",
+        "party": "REP",
+        "pct": 96.76,
+        "unopposed": true
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "Alabama House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53335,
+        "medianAge": 37.5,
+        "totalPopulation": 46442,
+        "collegePct": 31.92,
+        "renterRatePct": 44.96,
+        "race": {
+          "whitePct": 32.69,
+          "nonHispanicWhitePct": 31.61,
+          "blackPct": 60.05,
+          "asianPct": 1.65,
+          "hispanicPct": 4.56
+        }
+      },
+      "election": {
+        "winner": "Phillip Ensler",
+        "party": "DEM",
+        "pct": 60.08,
+        "unopposed": false
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "Alabama House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109995,
+        "medianAge": 39.6,
+        "totalPopulation": 48427,
+        "collegePct": 49.82,
+        "renterRatePct": 16.76,
+        "race": {
+          "whitePct": 65.15,
+          "nonHispanicWhitePct": 64.17,
+          "blackPct": 21.64,
+          "asianPct": 8.14,
+          "hispanicPct": 3.42
+        }
+      },
+      "election": {
+        "winner": "Reed Ingram",
+        "party": "REP",
+        "pct": 97.3,
+        "unopposed": true
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "Alabama House District 76",
+      "census": {
+        "censusName": "State House District 76 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58522,
+        "medianAge": 36.7,
+        "totalPopulation": 44790,
+        "collegePct": 36.85,
+        "renterRatePct": 42.7,
+        "race": {
+          "whitePct": 18.57,
+          "nonHispanicWhitePct": 18.36,
+          "blackPct": 72.52,
+          "asianPct": 3.11,
+          "hispanicPct": 3.9
+        }
+      },
+      "election": {
+        "winner": "Patrice \"Penni\" McClammy",
+        "party": "DEM",
+        "pct": 90.66,
+        "unopposed": false
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "Alabama House District 77",
+      "census": {
+        "censusName": "State House District 77 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44566,
+        "medianAge": 36,
+        "totalPopulation": 46058,
+        "collegePct": 28.23,
+        "renterRatePct": 51.31,
+        "race": {
+          "whitePct": 31.32,
+          "nonHispanicWhitePct": 28.98,
+          "blackPct": 59.24,
+          "asianPct": 0.63,
+          "hispanicPct": 7.77
+        }
+      },
+      "election": {
+        "winner": "Tashina Morris",
+        "party": "DEM",
+        "pct": 98.07,
+        "unopposed": true
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "Alabama House District 78",
+      "census": {
+        "censusName": "State House District 78 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56352,
+        "medianAge": 34.7,
+        "totalPopulation": 45756,
+        "collegePct": 28.51,
+        "renterRatePct": 47.89,
+        "race": {
+          "whitePct": 25.84,
+          "nonHispanicWhitePct": 24.7,
+          "blackPct": 67.15,
+          "asianPct": 2.62,
+          "hispanicPct": 3.34
+        }
+      },
+      "election": {
+        "winner": "Kenyatte Hassell",
+        "party": "DEM",
+        "pct": 97.76,
+        "unopposed": true
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "Alabama House District 79",
+      "census": {
+        "censusName": "State House District 79 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71776,
+        "medianAge": 28.1,
+        "totalPopulation": 53243,
+        "collegePct": 65.9,
+        "renterRatePct": 44.09,
+        "race": {
+          "whitePct": 69.33,
+          "nonHispanicWhitePct": 68.33,
+          "blackPct": 14.41,
+          "asianPct": 10.45,
+          "hispanicPct": 4.24
+        }
+      },
+      "election": {
+        "winner": "Joe Lovvorn",
+        "party": "REP",
+        "pct": 81.24,
+        "unopposed": false
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "Alabama House District 80",
+      "census": {
+        "censusName": "State House District 80 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61999,
+        "medianAge": 37.7,
+        "totalPopulation": 52008,
+        "collegePct": 24.89,
+        "renterRatePct": 31.84,
+        "race": {
+          "whitePct": 68.5,
+          "nonHispanicWhitePct": 66.54,
+          "blackPct": 22.31,
+          "asianPct": 1.17,
+          "hispanicPct": 5.36
+        }
+      },
+      "election": {
+        "winner": "Chris E. Blackshear",
+        "party": "REP",
+        "pct": 97.57,
+        "unopposed": true
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "Alabama House District 81",
+      "census": {
+        "censusName": "State House District 81 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60355,
+        "medianAge": 44.3,
+        "totalPopulation": 46480,
+        "collegePct": 22.26,
+        "renterRatePct": 22.63,
+        "race": {
+          "whitePct": 68.98,
+          "nonHispanicWhitePct": 68.1,
+          "blackPct": 23.06,
+          "asianPct": 0.93,
+          "hispanicPct": 3.26
+        }
+      },
+      "election": {
+        "winner": "Ed Oliver",
+        "party": "REP",
+        "pct": 98.83,
+        "unopposed": true
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "Alabama House District 82",
+      "census": {
+        "censusName": "State House District 82 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 36672,
+        "medianAge": 25.8,
+        "totalPopulation": 44402,
+        "collegePct": 31.14,
+        "renterRatePct": 49.07,
+        "race": {
+          "whitePct": 40.4,
+          "nonHispanicWhitePct": 39.44,
+          "blackPct": 52.09,
+          "asianPct": 2,
+          "hispanicPct": 3.64
+        }
+      },
+      "election": {
+        "winner": "Pebblin Walker Warren",
+        "party": "DEM",
+        "pct": 71.06,
+        "unopposed": false
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "Alabama House District 83",
+      "census": {
+        "censusName": "State House District 83 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47009,
+        "medianAge": 38.3,
+        "totalPopulation": 46518,
+        "collegePct": 23.66,
+        "renterRatePct": 42.5,
+        "race": {
+          "whitePct": 41.95,
+          "nonHispanicWhitePct": 39.83,
+          "blackPct": 52.19,
+          "asianPct": 0.97,
+          "hispanicPct": 5.5
+        }
+      },
+      "election": {
+        "winner": "Jeremy Gray",
+        "party": "DEM",
+        "pct": 95.74,
+        "unopposed": true
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "Alabama House District 84",
+      "census": {
+        "censusName": "State House District 84 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47274,
+        "medianAge": 38.9,
+        "totalPopulation": 48658,
+        "collegePct": 12.94,
+        "renterRatePct": 28.37,
+        "race": {
+          "whitePct": 38.7,
+          "nonHispanicWhitePct": 36.94,
+          "blackPct": 53.73,
+          "asianPct": 0.39,
+          "hispanicPct": 6.53
+        }
+      },
+      "election": {
+        "winner": "Berry Forte",
+        "party": "DEM",
+        "pct": 96.42,
+        "unopposed": true
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "Alabama House District 85",
+      "census": {
+        "censusName": "State House District 85 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43859,
+        "medianAge": 40.1,
+        "totalPopulation": 46366,
+        "collegePct": 19.08,
+        "renterRatePct": 40.46,
+        "race": {
+          "whitePct": 50.63,
+          "nonHispanicWhitePct": 49.68,
+          "blackPct": 44.13,
+          "asianPct": 0.67,
+          "hispanicPct": 2.87
+        }
+      },
+      "election": {
+        "winner": "Rick Rehm",
+        "party": "REP",
+        "pct": 54.03,
+        "unopposed": false
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "Alabama House District 86",
+      "census": {
+        "censusName": "State House District 86 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56738,
+        "medianAge": 42,
+        "totalPopulation": 46702,
+        "collegePct": 17.9,
+        "renterRatePct": 31.06,
+        "race": {
+          "whitePct": 73.7,
+          "nonHispanicWhitePct": 71.86,
+          "blackPct": 19.52,
+          "asianPct": 0.79,
+          "hispanicPct": 4.41
+        }
+      },
+      "election": {
+        "winner": "Paul W. Lee",
+        "party": "REP",
+        "pct": 98.47,
+        "unopposed": true
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "Alabama House District 87",
+      "census": {
+        "censusName": "State House District 87 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64833,
+        "medianAge": 42.3,
+        "totalPopulation": 48947,
+        "collegePct": 21.83,
+        "renterRatePct": 23.56,
+        "race": {
+          "whitePct": 83.18,
+          "nonHispanicWhitePct": 80.43,
+          "blackPct": 9.02,
+          "asianPct": 0.99,
+          "hispanicPct": 5.08
+        }
+      },
+      "election": {
+        "winner": "Jeff Sorrells",
+        "party": "REP",
+        "pct": 99.25,
+        "unopposed": true
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "Alabama House District 88",
+      "census": {
+        "censusName": "State House District 88 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74588,
+        "medianAge": 38.5,
+        "totalPopulation": 46022,
+        "collegePct": 37.85,
+        "renterRatePct": 32.45,
+        "race": {
+          "whitePct": 69.11,
+          "nonHispanicWhitePct": 66.56,
+          "blackPct": 22.56,
+          "asianPct": 1.71,
+          "hispanicPct": 5.04
+        }
+      },
+      "election": {
+        "winner": "Jerry Starnes",
+        "party": "REP",
+        "pct": 86.23,
+        "unopposed": false
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "Alabama House District 89",
+      "census": {
+        "censusName": "State House District 89 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53999,
+        "medianAge": 31.8,
+        "totalPopulation": 45898,
+        "collegePct": 26.33,
+        "renterRatePct": 38.5,
+        "race": {
+          "whitePct": 60.95,
+          "nonHispanicWhitePct": 58.79,
+          "blackPct": 29.85,
+          "asianPct": 1.84,
+          "hispanicPct": 5.77
+        }
+      },
+      "election": {
+        "winner": "Marcus B. Paramore",
+        "party": "REP",
+        "pct": 98.06,
+        "unopposed": true
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "Alabama House District 90",
+      "census": {
+        "censusName": "State House District 90 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49431,
+        "medianAge": 43.2,
+        "totalPopulation": 45236,
+        "collegePct": 16.16,
+        "renterRatePct": 26.22,
+        "race": {
+          "whitePct": 62.77,
+          "nonHispanicWhitePct": 62.27,
+          "blackPct": 31.86,
+          "asianPct": 0.98,
+          "hispanicPct": 2.12
+        }
+      },
+      "election": {
+        "winner": "Chris Sells",
+        "party": "REP",
+        "pct": 98.8,
+        "unopposed": true
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "Alabama House District 91",
+      "census": {
+        "censusName": "State House District 91 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65984,
+        "medianAge": 38.1,
+        "totalPopulation": 47728,
+        "collegePct": 22.29,
+        "renterRatePct": 32.13,
+        "race": {
+          "whitePct": 69.08,
+          "nonHispanicWhitePct": 65.08,
+          "blackPct": 18.43,
+          "asianPct": 1.01,
+          "hispanicPct": 10.32
+        }
+      },
+      "election": {
+        "winner": "Rhett Marques",
+        "party": "REP",
+        "pct": 98.53,
+        "unopposed": true
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "Alabama House District 92",
+      "census": {
+        "censusName": "State House District 92 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50338,
+        "medianAge": 42.2,
+        "totalPopulation": 46270,
+        "collegePct": 16.06,
+        "renterRatePct": 25.05,
+        "race": {
+          "whitePct": 80.94,
+          "nonHispanicWhitePct": 80.1,
+          "blackPct": 13.13,
+          "asianPct": 0.38,
+          "hispanicPct": 2.17
+        }
+      },
+      "election": {
+        "winner": "Matthew Hammett",
+        "party": "REP",
+        "pct": 86.76,
+        "unopposed": false
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "Alabama House District 93",
+      "census": {
+        "censusName": "State House District 93 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55423,
+        "medianAge": 40.9,
+        "totalPopulation": 46360,
+        "collegePct": 22.5,
+        "renterRatePct": 36.45,
+        "race": {
+          "whitePct": 67.41,
+          "nonHispanicWhitePct": 65.9,
+          "blackPct": 24.04,
+          "asianPct": 1.44,
+          "hispanicPct": 4.76
+        }
+      },
+      "election": {
+        "winner": "Steve Clouse",
+        "party": "REP",
+        "pct": 98.18,
+        "unopposed": true
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "Alabama House District 94",
+      "census": {
+        "censusName": "State House District 94 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85589,
+        "medianAge": 47.6,
+        "totalPopulation": 49939,
+        "collegePct": 44.09,
+        "renterRatePct": 15.67,
+        "race": {
+          "whitePct": 87.25,
+          "nonHispanicWhitePct": 86.46,
+          "blackPct": 4.37,
+          "asianPct": 0.4,
+          "hispanicPct": 5.49
+        }
+      },
+      "election": {
+        "winner": "Jennifer Fidler",
+        "party": "REP",
+        "pct": 88.38,
+        "unopposed": false
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "Alabama House District 95",
+      "census": {
+        "censusName": "State House District 95 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72677,
+        "medianAge": 52.2,
+        "totalPopulation": 50321,
+        "collegePct": 33.21,
+        "renterRatePct": 26.24,
+        "race": {
+          "whitePct": 86.63,
+          "nonHispanicWhitePct": 84.96,
+          "blackPct": 2.87,
+          "asianPct": 1.4,
+          "hispanicPct": 5.84
+        }
+      },
+      "election": {
+        "winner": "Frances Holk-Jones",
+        "party": "REP",
+        "pct": 85.08,
+        "unopposed": false
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "Alabama House District 96",
+      "census": {
+        "censusName": "State House District 96 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93063,
+        "medianAge": 39.6,
+        "totalPopulation": 48698,
+        "collegePct": 42.38,
+        "renterRatePct": 26.47,
+        "race": {
+          "whitePct": 78.97,
+          "nonHispanicWhitePct": 77.13,
+          "blackPct": 11.54,
+          "asianPct": 1.31,
+          "hispanicPct": 5.65
+        }
+      },
+      "election": {
+        "winner": "Matt Simpson",
+        "party": "REP",
+        "pct": 97.69,
+        "unopposed": true
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "Alabama House District 97",
+      "census": {
+        "censusName": "State House District 97 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43704,
+        "medianAge": 38.9,
+        "totalPopulation": 44650,
+        "collegePct": 25.52,
+        "renterRatePct": 52.2,
+        "race": {
+          "whitePct": 39.74,
+          "nonHispanicWhitePct": 39.44,
+          "blackPct": 55.23,
+          "asianPct": 0.54,
+          "hispanicPct": 1.38
+        }
+      },
+      "election": {
+        "winner": "Adline Clarke",
+        "party": "DEM",
+        "pct": 97,
+        "unopposed": true
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "Alabama House District 98",
+      "census": {
+        "censusName": "State House District 98 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47637,
+        "medianAge": 40.6,
+        "totalPopulation": 48227,
+        "collegePct": 18.15,
+        "renterRatePct": 32.26,
+        "race": {
+          "whitePct": 39.16,
+          "nonHispanicWhitePct": 39.01,
+          "blackPct": 57.2,
+          "asianPct": 0.54,
+          "hispanicPct": 1.45
+        }
+      },
+      "election": {
+        "winner": "Napoleon Bracy, Jr.",
+        "party": "DEM",
+        "pct": 95.84,
+        "unopposed": true
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "Alabama House District 99",
+      "census": {
+        "censusName": "State House District 99 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59187,
+        "medianAge": 40.2,
+        "totalPopulation": 45523,
+        "collegePct": 26.17,
+        "renterRatePct": 33.21,
+        "race": {
+          "whitePct": 34.94,
+          "nonHispanicWhitePct": 34.26,
+          "blackPct": 59.71,
+          "asianPct": 1.33,
+          "hispanicPct": 2.55
+        }
+      },
+      "election": {
+        "winner": "Sam Jones",
+        "party": "DEM",
+        "pct": 95.94,
+        "unopposed": true
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "Alabama House District 100",
+      "census": {
+        "censusName": "State House District 100 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83529,
+        "medianAge": 37.9,
+        "totalPopulation": 48473,
+        "collegePct": 29.44,
+        "renterRatePct": 17.8,
+        "race": {
+          "whitePct": 75.78,
+          "nonHispanicWhitePct": 74.54,
+          "blackPct": 16.93,
+          "asianPct": 1.75,
+          "hispanicPct": 3.9
+        }
+      },
+      "election": {
+        "winner": "Mark Shirey",
+        "party": "REP",
+        "pct": 85.17,
+        "unopposed": false
+      }
+    },
+    "101": {
+      "districtNumber": 101,
+      "districtName": "Alabama House District 101",
+      "census": {
+        "censusName": "State House District 101 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60470,
+        "medianAge": 32.7,
+        "totalPopulation": 44892,
+        "collegePct": 42.05,
+        "renterRatePct": 43.1,
+        "race": {
+          "whitePct": 66.95,
+          "nonHispanicWhitePct": 65.03,
+          "blackPct": 23.37,
+          "asianPct": 2.5,
+          "hispanicPct": 5.66
+        }
+      },
+      "election": {
+        "winner": "Chris Pringle",
+        "party": "REP",
+        "pct": 97.87,
+        "unopposed": true
+      }
+    },
+    "102": {
+      "districtNumber": 102,
+      "districtName": "Alabama House District 102",
+      "census": {
+        "censusName": "State House District 102 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60605,
+        "medianAge": 37.6,
+        "totalPopulation": 50148,
+        "collegePct": 14.18,
+        "renterRatePct": 20.33,
+        "race": {
+          "whitePct": 77.59,
+          "nonHispanicWhitePct": 76.81,
+          "blackPct": 14.52,
+          "asianPct": 0.88,
+          "hispanicPct": 1.69
+        }
+      },
+      "election": {
+        "winner": "Shane Stringer",
+        "party": "REP",
+        "pct": 98.8,
+        "unopposed": true
+      }
+    },
+    "103": {
+      "districtNumber": 103,
+      "districtName": "Alabama House District 103",
+      "census": {
+        "censusName": "State House District 103 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44228,
+        "medianAge": 33.9,
+        "totalPopulation": 46331,
+        "collegePct": 20.76,
+        "renterRatePct": 58.43,
+        "race": {
+          "whitePct": 31.07,
+          "nonHispanicWhitePct": 30.6,
+          "blackPct": 61.44,
+          "asianPct": 1.93,
+          "hispanicPct": 4.9
+        }
+      },
+      "election": {
+        "winner": "Barbara Drummond",
+        "party": "DEM",
+        "pct": 96.49,
+        "unopposed": true
+      }
+    },
+    "104": {
+      "districtNumber": 104,
+      "districtName": "Alabama House District 104",
+      "census": {
+        "censusName": "State House District 104 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61188,
+        "medianAge": 39.6,
+        "totalPopulation": 47472,
+        "collegePct": 32.1,
+        "renterRatePct": 36.86,
+        "race": {
+          "whitePct": 61.01,
+          "nonHispanicWhitePct": 59.8,
+          "blackPct": 25.65,
+          "asianPct": 5.47,
+          "hispanicPct": 4.77
+        }
+      },
+      "election": {
+        "winner": "Margie Wilcox",
+        "party": "REP",
+        "pct": 81.27,
+        "unopposed": false
+      }
+    },
+    "105": {
+      "districtNumber": 105,
+      "districtName": "Alabama House District 105",
+      "census": {
+        "censusName": "State House District 105 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65888,
+        "medianAge": 43.6,
+        "totalPopulation": 46581,
+        "collegePct": 18.49,
+        "renterRatePct": 15.98,
+        "race": {
+          "whitePct": 79.43,
+          "nonHispanicWhitePct": 78.56,
+          "blackPct": 10.52,
+          "asianPct": 3.51,
+          "hispanicPct": 3.45
+        }
+      },
+      "election": {
+        "winner": "Chip Brown",
+        "party": "REP",
+        "pct": 90.16,
+        "unopposed": false
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Alabama Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68664,
+        "medianAge": 41.5,
+        "totalPopulation": 149179,
+        "collegePct": 27.68,
+        "renterRatePct": 26.39,
+        "race": {
+          "whitePct": 84.81,
+          "nonHispanicWhitePct": 83.55,
+          "blackPct": 7.96,
+          "asianPct": 0.77,
+          "hispanicPct": 4.16
+        }
+      },
+      "election": {
+        "winner": "Tim Melson",
+        "party": "REP",
+        "pct": 97.94,
+        "unopposed": true
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Alabama Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94666,
+        "medianAge": 35.7,
+        "totalPopulation": 158590,
+        "collegePct": 50.76,
+        "renterRatePct": 32.87,
+        "race": {
+          "whitePct": 60.76,
+          "nonHispanicWhitePct": 58.24,
+          "blackPct": 26.75,
+          "asianPct": 3.88,
+          "hispanicPct": 6.95
+        }
+      },
+      "election": {
+        "winner": "Tom Butler",
+        "party": "REP",
+        "pct": 55.52,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Alabama Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72345,
+        "medianAge": 39.9,
+        "totalPopulation": 151037,
+        "collegePct": 29.62,
+        "renterRatePct": 28.07,
+        "race": {
+          "whitePct": 71.94,
+          "nonHispanicWhitePct": 69.69,
+          "blackPct": 16.06,
+          "asianPct": 1.36,
+          "hispanicPct": 9.32
+        }
+      },
+      "election": {
+        "winner": "Arthur Orr",
+        "party": "REP",
+        "pct": 86.49,
+        "unopposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Alabama Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57015,
+        "medianAge": 42.3,
+        "totalPopulation": 142290,
+        "collegePct": 16.82,
+        "renterRatePct": 23.82,
+        "race": {
+          "whitePct": 91.37,
+          "nonHispanicWhitePct": 90.51,
+          "blackPct": 1.61,
+          "asianPct": 0.46,
+          "hispanicPct": 4.25
+        }
+      },
+      "election": {
+        "winner": "Garlan Gudger",
+        "party": "REP",
+        "pct": 99.2,
+        "unopposed": true
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Alabama Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61471,
+        "medianAge": 41.8,
+        "totalPopulation": 136225,
+        "collegePct": 17.91,
+        "renterRatePct": 19.29,
+        "race": {
+          "whitePct": 88.75,
+          "nonHispanicWhitePct": 87.85,
+          "blackPct": 6.61,
+          "asianPct": 0.29,
+          "hispanicPct": 2.8
+        }
+      },
+      "election": {
+        "winner": "Greg J Reed",
+        "party": "REP",
+        "pct": 99.19,
+        "unopposed": true
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Alabama Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55486,
+        "medianAge": 41,
+        "totalPopulation": 147189,
+        "collegePct": 18.03,
+        "renterRatePct": 29.06,
+        "race": {
+          "whitePct": 74.86,
+          "nonHispanicWhitePct": 73.72,
+          "blackPct": 12.51,
+          "asianPct": 0.36,
+          "hispanicPct": 8.12
+        }
+      },
+      "election": {
+        "winner": "Larry Stutts",
+        "party": "REP",
+        "pct": 86.73,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Alabama Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74668,
+        "medianAge": 40.8,
+        "totalPopulation": 151290,
+        "collegePct": 42.9,
+        "renterRatePct": 31.14,
+        "race": {
+          "whitePct": 63.57,
+          "nonHispanicWhitePct": 62.14,
+          "blackPct": 25.49,
+          "asianPct": 1.68,
+          "hispanicPct": 6.74
+        }
+      },
+      "election": {
+        "winner": "Sam Givhan",
+        "party": "REP",
+        "pct": 62.65,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Alabama Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60536,
+        "medianAge": 41,
+        "totalPopulation": 152196,
+        "collegePct": 22.24,
+        "renterRatePct": 21.05,
+        "race": {
+          "whitePct": 81.92,
+          "nonHispanicWhitePct": 80.12,
+          "blackPct": 7.57,
+          "asianPct": 0.57,
+          "hispanicPct": 6.68
+        }
+      },
+      "election": {
+        "winner": "Steve Livingston",
+        "party": "REP",
+        "pct": 98.21,
+        "unopposed": true
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Alabama Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61342,
+        "medianAge": 39.2,
+        "totalPopulation": 150584,
+        "collegePct": 25.66,
+        "renterRatePct": 27.77,
+        "race": {
+          "whitePct": 80.34,
+          "nonHispanicWhitePct": 75.97,
+          "blackPct": 4.72,
+          "asianPct": 1.01,
+          "hispanicPct": 14.75
+        }
+      },
+      "election": {
+        "winner": "Clay Scofield",
+        "party": "REP",
+        "pct": 98.3,
+        "unopposed": true
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Alabama Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52416,
+        "medianAge": 41.8,
+        "totalPopulation": 150653,
+        "collegePct": 15.95,
+        "renterRatePct": 24.87,
+        "race": {
+          "whitePct": 79.34,
+          "nonHispanicWhitePct": 78.18,
+          "blackPct": 11.08,
+          "asianPct": 0.51,
+          "hispanicPct": 7.25
+        }
+      },
+      "election": {
+        "winner": "Andrew Jones",
+        "party": "REP",
+        "pct": 98.17,
+        "unopposed": true
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Alabama Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70992,
+        "medianAge": 40.8,
+        "totalPopulation": 150530,
+        "collegePct": 19.47,
+        "renterRatePct": 20.81,
+        "race": {
+          "whitePct": 73.84,
+          "nonHispanicWhitePct": 73.09,
+          "blackPct": 20.17,
+          "asianPct": 0.47,
+          "hispanicPct": 2.86
+        }
+      },
+      "election": {
+        "winner": "Lance Bell",
+        "party": "REP",
+        "pct": 98.41,
+        "unopposed": true
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Alabama Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55630,
+        "medianAge": 39.8,
+        "totalPopulation": 149470,
+        "collegePct": 20.32,
+        "renterRatePct": 30.08,
+        "race": {
+          "whitePct": 70.67,
+          "nonHispanicWhitePct": 69.68,
+          "blackPct": 22.71,
+          "asianPct": 0.68,
+          "hispanicPct": 3.97
+        }
+      },
+      "election": {
+        "winner": "Keith Kelley",
+        "party": "REP",
+        "pct": 73.61,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Alabama Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58793,
+        "medianAge": 41,
+        "totalPopulation": 150996,
+        "collegePct": 21.32,
+        "renterRatePct": 22.88,
+        "race": {
+          "whitePct": 71.55,
+          "nonHispanicWhitePct": 69.96,
+          "blackPct": 22.05,
+          "asianPct": 0.67,
+          "hispanicPct": 4.21
+        }
+      },
+      "election": {
+        "winner": "Randy Price",
+        "party": "REP",
+        "pct": 98.15,
+        "unopposed": true
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Alabama Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76478,
+        "medianAge": 37.5,
+        "totalPopulation": 143022,
+        "collegePct": 31.77,
+        "renterRatePct": 18.94,
+        "race": {
+          "whitePct": 75.48,
+          "nonHispanicWhitePct": 71.39,
+          "blackPct": 14.52,
+          "asianPct": 1.1,
+          "hispanicPct": 9.82
+        }
+      },
+      "election": {
+        "winner": "April Weaver",
+        "party": "REP",
+        "pct": 97.4,
+        "unopposed": true
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Alabama Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107452,
+        "medianAge": 41.3,
+        "totalPopulation": 133213,
+        "collegePct": 56.24,
+        "renterRatePct": 22.34,
+        "race": {
+          "whitePct": 82.59,
+          "nonHispanicWhitePct": 81.22,
+          "blackPct": 8.54,
+          "asianPct": 1.77,
+          "hispanicPct": 5.4
+        }
+      },
+      "election": {
+        "winner": "Dan Roberts",
+        "party": "REP",
+        "pct": 85.55,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Alabama Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98760,
+        "medianAge": 38.1,
+        "totalPopulation": 144326,
+        "collegePct": 59.13,
+        "renterRatePct": 32.02,
+        "race": {
+          "whitePct": 72.56,
+          "nonHispanicWhitePct": 71.07,
+          "blackPct": 16.48,
+          "asianPct": 4.57,
+          "hispanicPct": 5.25
+        }
+      },
+      "election": {
+        "winner": "J.T. \"Jabo\" Waggoner",
+        "party": "REP",
+        "pct": 96.11,
+        "unopposed": true
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Alabama Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77525,
+        "medianAge": 41.5,
+        "totalPopulation": 133338,
+        "collegePct": 23.72,
+        "renterRatePct": 16.06,
+        "race": {
+          "whitePct": 84.07,
+          "nonHispanicWhitePct": 82.3,
+          "blackPct": 8.86,
+          "asianPct": 0.67,
+          "hispanicPct": 4.89
+        }
+      },
+      "election": {
+        "winner": "Shay Shelnutt",
+        "party": "REP",
+        "pct": 90.95,
+        "unopposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Alabama Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47182,
+        "medianAge": 33.6,
+        "totalPopulation": 140357,
+        "collegePct": 41.11,
+        "renterRatePct": 55.65,
+        "race": {
+          "whitePct": 38.09,
+          "nonHispanicWhitePct": 36.2,
+          "blackPct": 53.12,
+          "asianPct": 2.63,
+          "hispanicPct": 5.93
+        }
+      },
+      "election": {
+        "winner": "Rodger M. Smitherman",
+        "party": "DEM",
+        "pct": 98.78,
+        "unopposed": true
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Alabama Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55566,
+        "medianAge": 40.4,
+        "totalPopulation": 139466,
+        "collegePct": 19.64,
+        "renterRatePct": 28.31,
+        "race": {
+          "whitePct": 31.11,
+          "nonHispanicWhitePct": 30.13,
+          "blackPct": 61.57,
+          "asianPct": 0.61,
+          "hispanicPct": 5.38
+        }
+      },
+      "election": {
+        "winner": "Merika Coleman",
+        "party": "DEM",
+        "pct": 86.52,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Alabama Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52897,
+        "medianAge": 37.9,
+        "totalPopulation": 136593,
+        "collegePct": 23.11,
+        "renterRatePct": 39.37,
+        "race": {
+          "whitePct": 26.79,
+          "nonHispanicWhitePct": 25.41,
+          "blackPct": 64.81,
+          "asianPct": 0.75,
+          "hispanicPct": 5.76
+        }
+      },
+      "election": {
+        "winner": "Linda Coleman-Madison",
+        "party": "DEM",
+        "pct": 98.54,
+        "unopposed": true
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Alabama Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62675,
+        "medianAge": 31.7,
+        "totalPopulation": 147573,
+        "collegePct": 31.6,
+        "renterRatePct": 37.78,
+        "race": {
+          "whitePct": 68.72,
+          "nonHispanicWhitePct": 66.35,
+          "blackPct": 23.62,
+          "asianPct": 1.7,
+          "hispanicPct": 6.19
+        }
+      },
+      "election": {
+        "winner": "Gerald Allen",
+        "party": "REP",
+        "pct": 65.97,
+        "unopposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Alabama Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56592,
+        "medianAge": 40.1,
+        "totalPopulation": 140883,
+        "collegePct": 17.27,
+        "renterRatePct": 24,
+        "race": {
+          "whitePct": 73.08,
+          "nonHispanicWhitePct": 72.29,
+          "blackPct": 18.69,
+          "asianPct": 0.37,
+          "hispanicPct": 3.51
+        }
+      },
+      "election": {
+        "winner": "Greg Albritton",
+        "party": "REP",
+        "pct": 98.79,
+        "unopposed": true
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Alabama Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 40410,
+        "medianAge": 42.2,
+        "totalPopulation": 138722,
+        "collegePct": 14.59,
+        "renterRatePct": 31.13,
+        "race": {
+          "whitePct": 39.96,
+          "nonHispanicWhitePct": 39.71,
+          "blackPct": 57.19,
+          "asianPct": 0.47,
+          "hispanicPct": 0.78
+        }
+      },
+      "election": {
+        "winner": "Robert L. Stewart",
+        "party": "DEM",
+        "pct": 53.39,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Alabama Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48098,
+        "medianAge": 37.7,
+        "totalPopulation": 143624,
+        "collegePct": 22.19,
+        "renterRatePct": 36.12,
+        "race": {
+          "whitePct": 36.46,
+          "nonHispanicWhitePct": 35.71,
+          "blackPct": 58.23,
+          "asianPct": 0.98,
+          "hispanicPct": 3.08
+        }
+      },
+      "election": {
+        "winner": "Bobby Singleton",
+        "party": "DEM",
+        "pct": 82.04,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Alabama Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76974,
+        "medianAge": 39.2,
+        "totalPopulation": 148615,
+        "collegePct": 35.64,
+        "renterRatePct": 26.51,
+        "race": {
+          "whitePct": 61.62,
+          "nonHispanicWhitePct": 61.02,
+          "blackPct": 29.05,
+          "asianPct": 4.24,
+          "hispanicPct": 2.83
+        }
+      },
+      "election": {
+        "winner": "Will Barfoot",
+        "party": "REP",
+        "pct": 85.27,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Alabama Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48363,
+        "medianAge": 36,
+        "totalPopulation": 146510,
+        "collegePct": 26.74,
+        "renterRatePct": 48.19,
+        "race": {
+          "whitePct": 23.16,
+          "nonHispanicWhitePct": 21.61,
+          "blackPct": 69.68,
+          "asianPct": 1.02,
+          "hispanicPct": 5.48
+        }
+      },
+      "election": {
+        "winner": "Kirk Hatcher",
+        "party": "DEM",
+        "pct": 98.47,
+        "unopposed": true
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Alabama Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58016,
+        "medianAge": 33.6,
+        "totalPopulation": 149907,
+        "collegePct": 41.4,
+        "renterRatePct": 36.18,
+        "race": {
+          "whitePct": 67.79,
+          "nonHispanicWhitePct": 66.28,
+          "blackPct": 22.17,
+          "asianPct": 4.68,
+          "hispanicPct": 4.15
+        }
+      },
+      "election": {
+        "winner": "Jay Hovey",
+        "party": "REP",
+        "pct": 70.17,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Alabama Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44634,
+        "medianAge": 38.8,
+        "totalPopulation": 145393,
+        "collegePct": 16.71,
+        "renterRatePct": 38.8,
+        "race": {
+          "whitePct": 40.25,
+          "nonHispanicWhitePct": 38.88,
+          "blackPct": 53.05,
+          "asianPct": 0.56,
+          "hispanicPct": 4.57
+        }
+      },
+      "election": {
+        "winner": "Billy Beasley",
+        "party": "DEM",
+        "pct": 80.72,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Alabama Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59465,
+        "medianAge": 41.7,
+        "totalPopulation": 143002,
+        "collegePct": 20.87,
+        "renterRatePct": 30.9,
+        "race": {
+          "whitePct": 73.63,
+          "nonHispanicWhitePct": 71.55,
+          "blackPct": 18.11,
+          "asianPct": 1.11,
+          "hispanicPct": 5.16
+        }
+      },
+      "election": {
+        "winner": "Donnie Chesteen",
+        "party": "REP",
+        "pct": 81.36,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Alabama Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63746,
+        "medianAge": 40.1,
+        "totalPopulation": 136929,
+        "collegePct": 23.26,
+        "renterRatePct": 26.53,
+        "race": {
+          "whitePct": 68.35,
+          "nonHispanicWhitePct": 66.79,
+          "blackPct": 24.07,
+          "asianPct": 0.93,
+          "hispanicPct": 4.41
+        }
+      },
+      "election": {
+        "winner": "Clyde Chambliss, Jr.",
+        "party": "REP",
+        "pct": 97.98,
+        "unopposed": true
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Alabama Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56425,
+        "medianAge": 37.8,
+        "totalPopulation": 138362,
+        "collegePct": 21.7,
+        "renterRatePct": 31.46,
+        "race": {
+          "whitePct": 71.78,
+          "nonHispanicWhitePct": 69.51,
+          "blackPct": 19.49,
+          "asianPct": 1.08,
+          "hispanicPct": 5.76
+        }
+      },
+      "election": {
+        "winner": "Josh Carnley",
+        "party": "REP",
+        "pct": 98.88,
+        "unopposed": true
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Alabama Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78810,
+        "medianAge": 46.1,
+        "totalPopulation": 153562,
+        "collegePct": 38.23,
+        "renterRatePct": 23.85,
+        "race": {
+          "whitePct": 83.43,
+          "nonHispanicWhitePct": 81.88,
+          "blackPct": 6.69,
+          "asianPct": 1.21,
+          "hispanicPct": 6.08
+        }
+      },
+      "election": {
+        "winner": "Chris Elliott",
+        "party": "REP",
+        "pct": 98.16,
+        "unopposed": true
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Alabama Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45893,
+        "medianAge": 38.4,
+        "totalPopulation": 137087,
+        "collegePct": 23.87,
+        "renterRatePct": 45.5,
+        "race": {
+          "whitePct": 30.92,
+          "nonHispanicWhitePct": 30.43,
+          "blackPct": 64.03,
+          "asianPct": 0.88,
+          "hispanicPct": 2.61
+        }
+      },
+      "election": {
+        "winner": "Vivian Davis Figures",
+        "party": "DEM",
+        "pct": 66.95,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Alabama Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65313,
+        "medianAge": 36.2,
+        "totalPopulation": 139592,
+        "collegePct": 27.64,
+        "renterRatePct": 31.96,
+        "race": {
+          "whitePct": 67.69,
+          "nonHispanicWhitePct": 66.4,
+          "blackPct": 24.17,
+          "asianPct": 1.68,
+          "hispanicPct": 3.64
+        }
+      },
+      "election": {
+        "winner": "Jack Williams",
+        "party": "REP",
+        "pct": 97.56,
+        "unopposed": true
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Alabama Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Alabama",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66745,
+        "medianAge": 40.7,
+        "totalPopulation": 133948,
+        "collegePct": 25.97,
+        "renterRatePct": 26.23,
+        "race": {
+          "whitePct": 71.13,
+          "nonHispanicWhitePct": 70.09,
+          "blackPct": 18.4,
+          "asianPct": 3.8,
+          "hispanicPct": 3.97
+        }
+      },
+      "election": {
+        "winner": "David Sessions",
+        "party": "REP",
+        "pct": 85.3,
+        "unopposed": false
+      }
+    }
+  }
+}
