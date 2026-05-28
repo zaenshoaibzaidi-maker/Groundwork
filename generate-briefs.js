@@ -11,7 +11,7 @@ const Anthropic = require('@anthropic-ai/sdk');
 const fs   = require('fs');
 const path = require('path');
 
-const MODEL = 'claude-sonnet-4-6';
+const MODEL = 'claude-haiku-4-5-20251001';
 
 // ── Validate CLI args ─────────────────────────────────────────────────────────
 
@@ -272,10 +272,30 @@ function injectBriefIntoSrc(src, id, brief, existingDashboard) {
   return src.slice(0, objStart) + newObj + src.slice(objEnd);
 }
 
+// ── Concurrency helpers ───────────────────────────────────────────────────────
+
+const CONCURRENCY = 5;
+
+// Runs `tasks` through `worker` with at most `limit` simultaneous calls.
+// Uses a shared queue consumed by `limit` long-running async workers so that
+// a new task starts as soon as any slot opens — identical to the fetch scripts.
+async function runWithConcurrency(tasks, limit, worker) {
+  const queue = [...tasks];
+  async function drain() {
+    while (queue.length > 0) {
+      const task = queue.shift();
+      if (task) await worker(task);
+    }
+  }
+  await Promise.all(Array.from({ length: Math.min(limit, tasks.length) }, drain));
+}
+
 // ── Main ──────────────────────────────────────────────────────────────────────
 
 async function main() {
-  let fileSrc = fs.readFileSync(filePath, 'utf8');
+  const isDryRun = process.argv.includes('--dry-run');
+
+  const fileSrc = fs.readFileSync(filePath, 'utf8');
   const emptyDistricts = findEmptyDistricts(fileSrc);
 
   if (emptyDistricts.length === 0) {
@@ -283,12 +303,41 @@ async function main() {
     return;
   }
 
-  console.log(`Found ${emptyDistricts.length} district(s) with empty issues. Generating briefs...\n`);
+  if (isDryRun) {
+    console.log(`Found ${emptyDistricts.length} district(s) with empty issues.`);
+    console.log(`[DRY RUN] Simulating concurrency=${CONCURRENCY} — no API calls or writes.\n`);
+
+    let inFlight = 0;
+    let maxSeen  = 0;
+
+    await runWithConcurrency(emptyDistricts, CONCURRENCY, async ({ id }) => {
+      inFlight++;
+      maxSeen = Math.max(maxSeen, inFlight);
+      console.log(`  [start] ${id}  (in-flight: ${inFlight})`);
+      // Simulate variable API latency so slots don't all finish together
+      await new Promise(r => setTimeout(r, 40 + Math.random() * 80));
+      inFlight--;
+      console.log(`  [ end ] ${id}  (in-flight: ${inFlight})`);
+    });
+
+    console.log(`\n[DRY RUN] Max observed concurrency: ${maxSeen} / ${CONCURRENCY} (expected ≤ ${CONCURRENCY})`);
+    console.log(`[DRY RUN] ${emptyDistricts.length} district(s) would be processed.`);
+    console.log('\nAll done.');
+    return;
+  }
+
+  console.log(`Found ${emptyDistricts.length} district(s) with empty issues.`);
+  console.log(`Generating briefs (concurrency=${CONCURRENCY})...\n`);
 
   const client = new Anthropic.default({ apiKey: process.env.ANTHROPIC_API_KEY });
 
-  for (const { id, dashboard } of emptyDistricts) {
-    process.stdout.write(`Generating brief for ${id}... `);
+  // Writes must be serialized: each write re-reads the file by position, so two
+  // simultaneous writes would corrupt each other.  We chain each write onto this
+  // promise so they execute one at a time regardless of when API calls finish.
+  let writeChain = Promise.resolve();
+
+  await runWithConcurrency(emptyDistricts, CONCURRENCY, async ({ id, dashboard }) => {
+    console.log(`[${id}] generating...`);
     try {
       const response = await client.messages.create({
         model: MODEL,
@@ -300,16 +349,27 @@ async function main() {
       const jsonStr = raw.replace(/^```(?:json)?\n?/i, '').replace(/\n?```$/i, '').trim();
       const brief   = JSON.parse(jsonStr);
 
-      // Re-read before each write so positions are always fresh
-      fileSrc = fs.readFileSync(filePath, 'utf8');
-      fileSrc = injectBriefIntoSrc(fileSrc, id, brief, dashboard);
-      fs.writeFileSync(filePath, fileSrc, 'utf8');
+      // Capture for the closure; enqueue the write and wait for it so this slot
+      // doesn't release until the write is committed (keeps progress accurate).
+      const savedId        = id;
+      const savedBrief     = brief;
+      const savedDashboard = dashboard;
+      writeChain = writeChain.then(() => {
+        // Re-read before every write so positions are always fresh
+        let src = fs.readFileSync(filePath, 'utf8');
+        src = injectBriefIntoSrc(src, savedId, savedBrief, savedDashboard);
+        fs.writeFileSync(filePath, src, 'utf8');
+        console.log(`[${savedId}] written`);
+      });
+      await writeChain;
 
-      console.log('done');
     } catch (err) {
-      console.log(`ERROR — ${err.message}`);
+      console.log(`[${id}] ERROR — ${err.message}`);
     }
-  }
+  });
+
+  // Ensure the last queued write finishes before we exit
+  await writeChain;
 
   console.log('\nAll done.');
 }

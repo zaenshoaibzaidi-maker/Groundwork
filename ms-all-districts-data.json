@@ -1,0 +1,4530 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Mississippi House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50531,
+        "medianAge": 42.2,
+        "totalPopulation": 22215,
+        "collegePct": 17.5,
+        "renterRatePct": 20.37,
+        "race": {
+          "whitePct": 93.42,
+          "nonHispanicWhitePct": 92.73,
+          "blackPct": 1.77,
+          "asianPct": 0.24,
+          "hispanicPct": 1.59
+        }
+      },
+      "election": {
+        "winner": "Lester E. 'Bubba' Carpenter",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Mississippi House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46296,
+        "medianAge": 42.9,
+        "totalPopulation": 23655,
+        "collegePct": 19.89,
+        "renterRatePct": 39.9,
+        "race": {
+          "whitePct": 76.89,
+          "nonHispanicWhitePct": 76.38,
+          "blackPct": 14.7,
+          "asianPct": 0.01,
+          "hispanicPct": 4.61
+        }
+      },
+      "election": {
+        "winner": "Brad Mattox",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Mississippi House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50584,
+        "medianAge": 37.8,
+        "totalPopulation": 26368,
+        "collegePct": 17.59,
+        "renterRatePct": 21.65,
+        "race": {
+          "whitePct": 83.09,
+          "nonHispanicWhitePct": 82.56,
+          "blackPct": 8.01,
+          "asianPct": 2.17,
+          "hispanicPct": 2.6
+        }
+      },
+      "election": {
+        "winner": "William Tracy Arnold",
+        "party": "REP",
+        "pct": 80.19,
+        "unopposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Mississippi House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50236,
+        "medianAge": 39.5,
+        "totalPopulation": 22687,
+        "collegePct": 16.08,
+        "renterRatePct": 24.31,
+        "race": {
+          "whitePct": 76.78,
+          "nonHispanicWhitePct": 76.7,
+          "blackPct": 14.03,
+          "asianPct": 0.16,
+          "hispanicPct": 4.85
+        }
+      },
+      "election": {
+        "winner": "Joseph F. 'Jody' Steverson",
+        "party": "REP",
+        "pct": 88.34,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Mississippi House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54341,
+        "medianAge": 41.4,
+        "totalPopulation": 22870,
+        "collegePct": 13.7,
+        "renterRatePct": 25.99,
+        "race": {
+          "whitePct": 38.92,
+          "nonHispanicWhitePct": 38.71,
+          "blackPct": 56.38,
+          "asianPct": 0.13,
+          "hispanicPct": 1.89
+        }
+      },
+      "election": {
+        "winner": "John Faulkner",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Mississippi House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100879,
+        "medianAge": 37,
+        "totalPopulation": 25032,
+        "collegePct": 26.78,
+        "renterRatePct": 17.73,
+        "race": {
+          "whitePct": 55.51,
+          "nonHispanicWhitePct": 53.85,
+          "blackPct": 35.25,
+          "asianPct": 2.43,
+          "hispanicPct": 5.43
+        }
+      },
+      "election": {
+        "winner": "Justin Keen",
+        "party": "REP",
+        "pct": 58.7,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Mississippi House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89193,
+        "medianAge": 39.9,
+        "totalPopulation": 26997,
+        "collegePct": 30.05,
+        "renterRatePct": 21.59,
+        "race": {
+          "whitePct": 66.87,
+          "nonHispanicWhitePct": 65.83,
+          "blackPct": 25.58,
+          "asianPct": 1.43,
+          "hispanicPct": 4.3
+        }
+      },
+      "election": {
+        "winner": "Kimberly Remak",
+        "party": "REP",
+        "pct": 60.08,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Mississippi House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66548,
+        "medianAge": 38.8,
+        "totalPopulation": 23936,
+        "collegePct": 21.59,
+        "renterRatePct": 23.99,
+        "race": {
+          "whitePct": 72.66,
+          "nonHispanicWhitePct": 69.94,
+          "blackPct": 23.76,
+          "asianPct": 0.08,
+          "hispanicPct": 3.47
+        }
+      },
+      "election": {
+        "winner": "Trey Lamar",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Mississippi House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 38537,
+        "medianAge": 37.1,
+        "totalPopulation": 24313,
+        "collegePct": 16.1,
+        "renterRatePct": 48.09,
+        "race": {
+          "whitePct": 26.85,
+          "nonHispanicWhitePct": 26.66,
+          "blackPct": 69.63,
+          "asianPct": 0.23,
+          "hispanicPct": 2.23
+        }
+      },
+      "election": {
+        "winner": "Cedric Burnett",
+        "party": "DEM",
+        "pct": 71.2,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Mississippi House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69434,
+        "medianAge": 42.2,
+        "totalPopulation": 25546,
+        "collegePct": 39.5,
+        "renterRatePct": 26.2,
+        "race": {
+          "whitePct": 72.08,
+          "nonHispanicWhitePct": 71.63,
+          "blackPct": 21.37,
+          "asianPct": 1.01,
+          "hispanicPct": 3.22
+        }
+      },
+      "election": {
+        "winner": "Josh Hawkins",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Mississippi House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 36380,
+        "medianAge": 38.6,
+        "totalPopulation": 22729,
+        "collegePct": 13.32,
+        "renterRatePct": 40.3,
+        "race": {
+          "whitePct": 33.49,
+          "nonHispanicWhitePct": 33.28,
+          "blackPct": 62.57,
+          "asianPct": 0.51,
+          "hispanicPct": 0.6
+        }
+      },
+      "election": {
+        "winner": "Lataisha M. Jackson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Mississippi House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62415,
+        "medianAge": 22.7,
+        "totalPopulation": 26469,
+        "collegePct": 53.1,
+        "renterRatePct": 50.77,
+        "race": {
+          "whitePct": 66.17,
+          "nonHispanicWhitePct": 64.58,
+          "blackPct": 25.82,
+          "asianPct": 3.46,
+          "hispanicPct": 3.59
+        }
+      },
+      "election": {
+        "winner": "Clay Deweese",
+        "party": "REP",
+        "pct": 62.25,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Mississippi House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49259,
+        "medianAge": 40.3,
+        "totalPopulation": 22552,
+        "collegePct": 21.11,
+        "renterRatePct": 20.02,
+        "race": {
+          "whitePct": 76.47,
+          "nonHispanicWhitePct": 75.71,
+          "blackPct": 18.07,
+          "asianPct": 0.48,
+          "hispanicPct": 3.64
+        }
+      },
+      "election": {
+        "winner": "Steve Massengill",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Mississippi House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57820,
+        "medianAge": 38.4,
+        "totalPopulation": 24602,
+        "collegePct": 17.89,
+        "renterRatePct": 25.7,
+        "race": {
+          "whitePct": 73.86,
+          "nonHispanicWhitePct": 73.64,
+          "blackPct": 18.37,
+          "asianPct": 0.12,
+          "hispanicPct": 5.45
+        }
+      },
+      "election": {
+        "winner": "Sam J. Creekmore IV",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Mississippi House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53616,
+        "medianAge": 35.4,
+        "totalPopulation": 23334,
+        "collegePct": 16.9,
+        "renterRatePct": 34.1,
+        "race": {
+          "whitePct": 69.12,
+          "nonHispanicWhitePct": 68.72,
+          "blackPct": 18.12,
+          "asianPct": 0,
+          "hispanicPct": 9.05
+        }
+      },
+      "election": {
+        "winner": "Beth Luther Waldo",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Mississippi House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42633,
+        "medianAge": 34.2,
+        "totalPopulation": 24198,
+        "collegePct": 16.04,
+        "renterRatePct": 48.9,
+        "race": {
+          "whitePct": 28.21,
+          "nonHispanicWhitePct": 28.14,
+          "blackPct": 65.1,
+          "asianPct": 0.28,
+          "hispanicPct": 3.51
+        }
+      },
+      "election": {
+        "winner": "Rickey W. Thompson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Mississippi House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75851,
+        "medianAge": 38.8,
+        "totalPopulation": 24254,
+        "collegePct": 37.48,
+        "renterRatePct": 26.33,
+        "race": {
+          "whitePct": 62.66,
+          "nonHispanicWhitePct": 61.75,
+          "blackPct": 28.91,
+          "asianPct": 1.37,
+          "hispanicPct": 5.62
+        }
+      },
+      "election": {
+        "winner": "Shane Aguirre",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Mississippi House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77118,
+        "medianAge": 39,
+        "totalPopulation": 23724,
+        "collegePct": 30.31,
+        "renterRatePct": 22.01,
+        "race": {
+          "whitePct": 76.4,
+          "nonHispanicWhitePct": 75.94,
+          "blackPct": 15.58,
+          "asianPct": 1.87,
+          "hispanicPct": 1.62
+        }
+      },
+      "election": {
+        "winner": "Jerry R. Turner",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Mississippi House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68850,
+        "medianAge": 38.4,
+        "totalPopulation": 25529,
+        "collegePct": 20.21,
+        "renterRatePct": 21.56,
+        "race": {
+          "whitePct": 85.32,
+          "nonHispanicWhitePct": 84.94,
+          "blackPct": 10.73,
+          "asianPct": 0.38,
+          "hispanicPct": 2.11
+        }
+      },
+      "election": {
+        "winner": "Randy P. Boyd",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Mississippi House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67302,
+        "medianAge": 36.8,
+        "totalPopulation": 22076,
+        "collegePct": 21.52,
+        "renterRatePct": 29.28,
+        "race": {
+          "whitePct": 51.92,
+          "nonHispanicWhitePct": 49.68,
+          "blackPct": 38.79,
+          "asianPct": 2.08,
+          "hispanicPct": 6.12
+        }
+      },
+      "election": {
+        "winner": "Rodney Hall",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Mississippi House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59137,
+        "medianAge": 40.7,
+        "totalPopulation": 24446,
+        "collegePct": 16.15,
+        "renterRatePct": 18.75,
+        "race": {
+          "whitePct": 90.18,
+          "nonHispanicWhitePct": 89.28,
+          "blackPct": 7.57,
+          "asianPct": 0.46,
+          "hispanicPct": 1.06
+        }
+      },
+      "election": {
+        "winner": "Donnie Bell",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Mississippi House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49951,
+        "medianAge": 38.9,
+        "totalPopulation": 24881,
+        "collegePct": 16.28,
+        "renterRatePct": 25.62,
+        "race": {
+          "whitePct": 65.3,
+          "nonHispanicWhitePct": 64.07,
+          "blackPct": 30.57,
+          "asianPct": 0.35,
+          "hispanicPct": 3.69
+        }
+      },
+      "election": {
+        "winner": "Jon Lancaster",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Mississippi House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52525,
+        "medianAge": 40.6,
+        "totalPopulation": 24035,
+        "collegePct": 16.46,
+        "renterRatePct": 21.89,
+        "race": {
+          "whitePct": 76.43,
+          "nonHispanicWhitePct": 75.99,
+          "blackPct": 18.26,
+          "asianPct": 0.01,
+          "hispanicPct": 4.26
+        }
+      },
+      "election": {
+        "winner": "Andrew 'Andy' Stepp",
+        "party": "REP",
+        "pct": 71.91,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Mississippi House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120418,
+        "medianAge": 36.8,
+        "totalPopulation": 22477,
+        "collegePct": 40.73,
+        "renterRatePct": 1.91,
+        "race": {
+          "whitePct": 65.82,
+          "nonHispanicWhitePct": 64.65,
+          "blackPct": 25.56,
+          "asianPct": 1.54,
+          "hispanicPct": 4.5
+        }
+      },
+      "election": {
+        "winner": "Jeffery S. Hale",
+        "party": "REP",
+        "pct": 67.34,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Mississippi House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68890,
+        "medianAge": 38.5,
+        "totalPopulation": 23782,
+        "collegePct": 21.54,
+        "renterRatePct": 26.57,
+        "race": {
+          "whitePct": 57.77,
+          "nonHispanicWhitePct": 54.55,
+          "blackPct": 31.73,
+          "asianPct": 1.03,
+          "hispanicPct": 9.23
+        }
+      },
+      "election": {
+        "winner": "Dan Eubanks",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Mississippi House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 37100,
+        "medianAge": 36.9,
+        "totalPopulation": 22066,
+        "collegePct": 15.63,
+        "renterRatePct": 47.5,
+        "race": {
+          "whitePct": 21.57,
+          "nonHispanicWhitePct": 21.45,
+          "blackPct": 73.33,
+          "asianPct": 0.24,
+          "hispanicPct": 2.27
+        }
+      },
+      "election": {
+        "winner": "Orlando W. Paden",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Mississippi House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47160,
+        "medianAge": 38.8,
+        "totalPopulation": 24814,
+        "collegePct": 14.62,
+        "renterRatePct": 31.7,
+        "race": {
+          "whitePct": 28.7,
+          "nonHispanicWhitePct": 25.36,
+          "blackPct": 63.58,
+          "asianPct": 0.18,
+          "hispanicPct": 7.08
+        }
+      },
+      "election": {
+        "winner": "Kenji L. Holloway",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Mississippi House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92200,
+        "medianAge": 38.8,
+        "totalPopulation": 26567,
+        "collegePct": 37.98,
+        "renterRatePct": 12.46,
+        "race": {
+          "whitePct": 84.28,
+          "nonHispanicWhitePct": 83.73,
+          "blackPct": 10.32,
+          "asianPct": 0.88,
+          "hispanicPct": 1.72
+        }
+      },
+      "election": {
+        "winner": "W. I. 'Doc' Harris Jr.",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Mississippi House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 35041,
+        "medianAge": 36.2,
+        "totalPopulation": 24436,
+        "collegePct": 26.08,
+        "renterRatePct": 42.28,
+        "race": {
+          "whitePct": 27.27,
+          "nonHispanicWhitePct": 27.22,
+          "blackPct": 66.91,
+          "asianPct": 0.29,
+          "hispanicPct": 2.93
+        }
+      },
+      "election": {
+        "winner": "Robert L. Sanders",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Mississippi House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 38381,
+        "medianAge": 37.4,
+        "totalPopulation": 24495,
+        "collegePct": 14,
+        "renterRatePct": 42.71,
+        "race": {
+          "whitePct": 29.87,
+          "nonHispanicWhitePct": 29.6,
+          "blackPct": 66.67,
+          "asianPct": 0.1,
+          "hispanicPct": 1
+        }
+      },
+      "election": {
+        "winner": "Tracey T. Rosebud",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Mississippi House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42590,
+        "medianAge": 36.7,
+        "totalPopulation": 23711,
+        "collegePct": 23.3,
+        "renterRatePct": 37.71,
+        "race": {
+          "whitePct": 26.36,
+          "nonHispanicWhitePct": 26.36,
+          "blackPct": 69.68,
+          "asianPct": 1.09,
+          "hispanicPct": 1.92
+        }
+      },
+      "election": {
+        "winner": "Otis L. Anthony II",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Mississippi House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 30005,
+        "medianAge": 32.4,
+        "totalPopulation": 22530,
+        "collegePct": 15.56,
+        "renterRatePct": 50.05,
+        "race": {
+          "whitePct": 12.42,
+          "nonHispanicWhitePct": 12.39,
+          "blackPct": 84.19,
+          "asianPct": 0.21,
+          "hispanicPct": 2.4
+        }
+      },
+      "election": {
+        "winner": "Solomon Curtis Osborne",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Mississippi House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60361,
+        "medianAge": 36.3,
+        "totalPopulation": 23677,
+        "collegePct": 20.39,
+        "renterRatePct": 33.69,
+        "race": {
+          "whitePct": 61.9,
+          "nonHispanicWhitePct": 61.46,
+          "blackPct": 28.72,
+          "asianPct": 1.09,
+          "hispanicPct": 3.49
+        }
+      },
+      "election": {
+        "winner": "Jim Estrada",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Mississippi House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50495,
+        "medianAge": 41.5,
+        "totalPopulation": 25480,
+        "collegePct": 20.37,
+        "renterRatePct": 29.72,
+        "race": {
+          "whitePct": 63.52,
+          "nonHispanicWhitePct": 62.91,
+          "blackPct": 32.63,
+          "asianPct": 0.07,
+          "hispanicPct": 1.21
+        }
+      },
+      "election": {
+        "winner": "Kevin Horan",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Mississippi House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52500,
+        "medianAge": 40.7,
+        "totalPopulation": 21895,
+        "collegePct": 19.96,
+        "renterRatePct": 24.42,
+        "race": {
+          "whitePct": 68.57,
+          "nonHispanicWhitePct": 68.22,
+          "blackPct": 27.99,
+          "asianPct": 0.5,
+          "hispanicPct": 1.32
+        }
+      },
+      "election": {
+        "winner": "Joey Hood",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Mississippi House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 40506,
+        "medianAge": 41.2,
+        "totalPopulation": 24827,
+        "collegePct": 17.11,
+        "renterRatePct": 30.59,
+        "race": {
+          "whitePct": 31.37,
+          "nonHispanicWhitePct": 31.29,
+          "blackPct": 65.93,
+          "asianPct": 0.19,
+          "hispanicPct": 0.21
+        }
+      },
+      "election": {
+        "winner": "Karl Malinski Gibbs",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Mississippi House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73331,
+        "medianAge": 37.3,
+        "totalPopulation": 23513,
+        "collegePct": 25.97,
+        "renterRatePct": 18.76,
+        "race": {
+          "whitePct": 70.94,
+          "nonHispanicWhitePct": 70.61,
+          "blackPct": 25.14,
+          "asianPct": 0.71,
+          "hispanicPct": 1.47
+        }
+      },
+      "election": {
+        "winner": "Andy Boyd",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Mississippi House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 36605,
+        "medianAge": 27.5,
+        "totalPopulation": 23511,
+        "collegePct": 35.39,
+        "renterRatePct": 57.73,
+        "race": {
+          "whitePct": 31.67,
+          "nonHispanicWhitePct": 31.29,
+          "blackPct": 59,
+          "asianPct": 4.12,
+          "hispanicPct": 2.43
+        }
+      },
+      "election": {
+        "winner": "Cheikh A. Taylor",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Mississippi House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60980,
+        "medianAge": 36.8,
+        "totalPopulation": 23880,
+        "collegePct": 31.76,
+        "renterRatePct": 33.37,
+        "race": {
+          "whitePct": 71.31,
+          "nonHispanicWhitePct": 70.4,
+          "blackPct": 19.86,
+          "asianPct": 2.15,
+          "hispanicPct": 3.5
+        }
+      },
+      "election": {
+        "winner": "Dana Underwood McLean",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Mississippi House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56973,
+        "medianAge": 33.6,
+        "totalPopulation": 24058,
+        "collegePct": 18.58,
+        "renterRatePct": 41.72,
+        "race": {
+          "whitePct": 36.57,
+          "nonHispanicWhitePct": 35.48,
+          "blackPct": 54.46,
+          "asianPct": 0.84,
+          "hispanicPct": 7.52
+        }
+      },
+      "election": {
+        "winner": "Hester Jackson-McCray",
+        "party": "DEM",
+        "pct": 65.72,
+        "unopposed": false
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Mississippi House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 33293,
+        "medianAge": 37.9,
+        "totalPopulation": 23172,
+        "collegePct": 19.05,
+        "renterRatePct": 51.03,
+        "race": {
+          "whitePct": 26.87,
+          "nonHispanicWhitePct": 26.82,
+          "blackPct": 69.39,
+          "asianPct": 0.26,
+          "hispanicPct": 1.64
+        }
+      },
+      "election": {
+        "winner": "Kabir Karriem",
+        "party": "DEM",
+        "pct": 79.2,
+        "unopposed": false
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Mississippi House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41207,
+        "medianAge": 41.1,
+        "totalPopulation": 22793,
+        "collegePct": 13.37,
+        "renterRatePct": 28.46,
+        "race": {
+          "whitePct": 32.15,
+          "nonHispanicWhitePct": 31.99,
+          "blackPct": 65.89,
+          "asianPct": 0.03,
+          "hispanicPct": 0.43
+        }
+      },
+      "election": {
+        "winner": "Carl L. Mickens",
+        "party": "DEM",
+        "pct": 88.45,
+        "unopposed": false
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Mississippi House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53261,
+        "medianAge": 22.8,
+        "totalPopulation": 25131,
+        "collegePct": 60.49,
+        "renterRatePct": 49.08,
+        "race": {
+          "whitePct": 77.83,
+          "nonHispanicWhitePct": 77.01,
+          "blackPct": 15.56,
+          "asianPct": 2.01,
+          "hispanicPct": 2.57
+        }
+      },
+      "election": {
+        "winner": "Loyd B. 'Rob' Roberson II",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Mississippi House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56387,
+        "medianAge": 38,
+        "totalPopulation": 25132,
+        "collegePct": 18.08,
+        "renterRatePct": 22.71,
+        "race": {
+          "whitePct": 63.33,
+          "nonHispanicWhitePct": 63.2,
+          "blackPct": 14.89,
+          "asianPct": 0.55,
+          "hispanicPct": 1.01
+        }
+      },
+      "election": {
+        "winner": "C. Scott Bounds",
+        "party": "REP",
+        "pct": 89.74,
+        "unopposed": false
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Mississippi House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42249,
+        "medianAge": 39.9,
+        "totalPopulation": 22273,
+        "collegePct": 17.27,
+        "renterRatePct": 32.63,
+        "race": {
+          "whitePct": 40.88,
+          "nonHispanicWhitePct": 39.69,
+          "blackPct": 52.24,
+          "asianPct": 0.33,
+          "hispanicPct": 2.4
+        }
+      },
+      "election": {
+        "winner": "Keith Jackson",
+        "party": "DEM",
+        "pct": 55.61,
+        "unopposed": false
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Mississippi House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52093,
+        "medianAge": 44.2,
+        "totalPopulation": 24012,
+        "collegePct": 23.41,
+        "renterRatePct": 24.6,
+        "race": {
+          "whitePct": 60.49,
+          "nonHispanicWhitePct": 60.08,
+          "blackPct": 35.9,
+          "asianPct": 0.57,
+          "hispanicPct": 1.38
+        }
+      },
+      "election": {
+        "winner": "Karl Oliver",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Mississippi House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 34129,
+        "medianAge": 37.9,
+        "totalPopulation": 25156,
+        "collegePct": 11.54,
+        "renterRatePct": 35.65,
+        "race": {
+          "whitePct": 24.95,
+          "nonHispanicWhitePct": 20.35,
+          "blackPct": 71.41,
+          "asianPct": 0.2,
+          "hispanicPct": 5.67
+        }
+      },
+      "election": {
+        "winner": "Bryant W. Clark",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Mississippi House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49395,
+        "medianAge": 40.7,
+        "totalPopulation": 24064,
+        "collegePct": 17.44,
+        "renterRatePct": 17.62,
+        "race": {
+          "whitePct": 60.92,
+          "nonHispanicWhitePct": 60.8,
+          "blackPct": 29.72,
+          "asianPct": 0.52,
+          "hispanicPct": 4.88
+        }
+      },
+      "election": {
+        "winner": "Jason White",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Mississippi House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 35890,
+        "medianAge": 38.1,
+        "totalPopulation": 22579,
+        "collegePct": 21.85,
+        "renterRatePct": 47.54,
+        "race": {
+          "whitePct": 21.45,
+          "nonHispanicWhitePct": 21.33,
+          "blackPct": 75.25,
+          "asianPct": 1.47,
+          "hispanicPct": 0.74
+        }
+      },
+      "election": {
+        "winner": "Willie L. Bailey",
+        "party": "DEM",
+        "pct": 84.76,
+        "unopposed": false
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Mississippi House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44623,
+        "medianAge": 39.3,
+        "totalPopulation": 22098,
+        "collegePct": 18.67,
+        "renterRatePct": 38.73,
+        "race": {
+          "whitePct": 28.82,
+          "nonHispanicWhitePct": 28.59,
+          "blackPct": 67.25,
+          "asianPct": 0.09,
+          "hispanicPct": 2.21
+        }
+      },
+      "election": {
+        "winner": "John W. Hines",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Mississippi House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 29648,
+        "medianAge": 37,
+        "totalPopulation": 22000,
+        "collegePct": 16.35,
+        "renterRatePct": 49.9,
+        "race": {
+          "whitePct": 16,
+          "nonHispanicWhitePct": 16,
+          "blackPct": 82.83,
+          "asianPct": 0.05,
+          "hispanicPct": 0.3
+        }
+      },
+      "election": {
+        "winner": "Timaka James-Jones",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Mississippi House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70711,
+        "medianAge": 37.5,
+        "totalPopulation": 26010,
+        "collegePct": 22.21,
+        "renterRatePct": 17.58,
+        "race": {
+          "whitePct": 54.41,
+          "nonHispanicWhitePct": 53.81,
+          "blackPct": 33.07,
+          "asianPct": 0.21,
+          "hispanicPct": 8.41
+        }
+      },
+      "election": {
+        "winner": "Bill Kinkade",
+        "party": "REP",
+        "pct": 60.68,
+        "unopposed": false
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Mississippi House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46667,
+        "medianAge": 40.2,
+        "totalPopulation": 23594,
+        "collegePct": 15.66,
+        "renterRatePct": 22.21,
+        "race": {
+          "whitePct": 69.25,
+          "nonHispanicWhitePct": 68.86,
+          "blackPct": 28.4,
+          "asianPct": 0.31,
+          "hispanicPct": 1.41
+        }
+      },
+      "election": {
+        "winner": "Vince Mangold",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Mississippi House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71635,
+        "medianAge": 41.3,
+        "totalPopulation": 23173,
+        "collegePct": 29.25,
+        "renterRatePct": 20.88,
+        "race": {
+          "whitePct": 70.99,
+          "nonHispanicWhitePct": 70.82,
+          "blackPct": 25.08,
+          "asianPct": 0.98,
+          "hispanicPct": 1.63
+        }
+      },
+      "election": {
+        "winner": "Kevin Kilgore Ford",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Mississippi House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41837,
+        "medianAge": 38.4,
+        "totalPopulation": 22595,
+        "collegePct": 23.2,
+        "renterRatePct": 38.71,
+        "race": {
+          "whitePct": 25.69,
+          "nonHispanicWhitePct": 25.55,
+          "blackPct": 70.85,
+          "asianPct": 0.33,
+          "hispanicPct": 2.4
+        }
+      },
+      "election": {
+        "winner": "Oscar Denton",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Mississippi House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91099,
+        "medianAge": 38.6,
+        "totalPopulation": 25376,
+        "collegePct": 54.53,
+        "renterRatePct": 13.24,
+        "race": {
+          "whitePct": 65.14,
+          "nonHispanicWhitePct": 64.62,
+          "blackPct": 26.59,
+          "asianPct": 3.39,
+          "hispanicPct": 2.21
+        }
+      },
+      "election": {
+        "winner": "Clay Mansell",
+        "party": "REP",
+        "pct": 65.57,
+        "unopposed": false
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Mississippi House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42352,
+        "medianAge": 38,
+        "totalPopulation": 25381,
+        "collegePct": 25.25,
+        "renterRatePct": 50.8,
+        "race": {
+          "whitePct": 30.22,
+          "nonHispanicWhitePct": 28.41,
+          "blackPct": 65.75,
+          "asianPct": 0.08,
+          "hispanicPct": 4.69
+        }
+      },
+      "election": {
+        "winner": "Lawrence Blackmon",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Mississippi House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119474,
+        "medianAge": 38.6,
+        "totalPopulation": 24394,
+        "collegePct": 65.27,
+        "renterRatePct": 6.42,
+        "race": {
+          "whitePct": 75.35,
+          "nonHispanicWhitePct": 74.19,
+          "blackPct": 16.09,
+          "asianPct": 3.75,
+          "hispanicPct": 3.45
+        }
+      },
+      "election": {
+        "winner": "Jonathan McMillan",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Mississippi House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96042,
+        "medianAge": 38.1,
+        "totalPopulation": 25815,
+        "collegePct": 46.05,
+        "renterRatePct": 16.34,
+        "race": {
+          "whitePct": 78.48,
+          "nonHispanicWhitePct": 77.36,
+          "blackPct": 15.12,
+          "asianPct": 2.12,
+          "hispanicPct": 2.69
+        }
+      },
+      "election": {
+        "winner": "Brent Powell",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Mississippi House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91877,
+        "medianAge": 38.4,
+        "totalPopulation": 29186,
+        "collegePct": 31.86,
+        "renterRatePct": 9.57,
+        "race": {
+          "whitePct": 74.91,
+          "nonHispanicWhitePct": 74.1,
+          "blackPct": 21.36,
+          "asianPct": 0.12,
+          "hispanicPct": 3.7
+        }
+      },
+      "election": {
+        "winner": "Fred Shanks",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Mississippi House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51391,
+        "medianAge": 36.6,
+        "totalPopulation": 24892,
+        "collegePct": 25.76,
+        "renterRatePct": 42.77,
+        "race": {
+          "whitePct": 62.23,
+          "nonHispanicWhitePct": 62.09,
+          "blackPct": 28.08,
+          "asianPct": 2.63,
+          "hispanicPct": 5.06
+        }
+      },
+      "election": {
+        "winner": "Gene Newman",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Mississippi House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71068,
+        "medianAge": 40,
+        "totalPopulation": 25856,
+        "collegePct": 23.61,
+        "renterRatePct": 18.64,
+        "race": {
+          "whitePct": 75.49,
+          "nonHispanicWhitePct": 75.33,
+          "blackPct": 18.57,
+          "asianPct": 0.84,
+          "hispanicPct": 3.79
+        }
+      },
+      "election": {
+        "winner": "Lance Varner",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Mississippi House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59633,
+        "medianAge": 40.4,
+        "totalPopulation": 24251,
+        "collegePct": 25.42,
+        "renterRatePct": 24.86,
+        "race": {
+          "whitePct": 35.2,
+          "nonHispanicWhitePct": 35.09,
+          "blackPct": 62.23,
+          "asianPct": 0.31,
+          "hispanicPct": 1.01
+        }
+      },
+      "election": {
+        "winner": "Stephanie McKenzie Foster",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Mississippi House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69809,
+        "medianAge": 34.3,
+        "totalPopulation": 23186,
+        "collegePct": 61.54,
+        "renterRatePct": 37.53,
+        "race": {
+          "whitePct": 51.47,
+          "nonHispanicWhitePct": 50.98,
+          "blackPct": 43.36,
+          "asianPct": 0.88,
+          "hispanicPct": 3.16
+        }
+      },
+      "election": {
+        "winner": "Shanda M. Yates",
+        "party": "REP",
+        "pct": 62.18,
+        "unopposed": false
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Mississippi House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45083,
+        "medianAge": 35.6,
+        "totalPopulation": 22905,
+        "collegePct": 27.36,
+        "renterRatePct": 55.56,
+        "race": {
+          "whitePct": 15.42,
+          "nonHispanicWhitePct": 14.42,
+          "blackPct": 80.58,
+          "asianPct": 0.27,
+          "hispanicPct": 4.22
+        }
+      },
+      "election": {
+        "winner": "Christopher M. Bell",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "Mississippi House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70479,
+        "medianAge": 40.3,
+        "totalPopulation": 23602,
+        "collegePct": 28.53,
+        "renterRatePct": 18.85,
+        "race": {
+          "whitePct": 27.95,
+          "nonHispanicWhitePct": 27.82,
+          "blackPct": 68.37,
+          "asianPct": 0.04,
+          "hispanicPct": 1.2
+        }
+      },
+      "election": {
+        "winner": "Fabian Nelson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "Mississippi House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 30973,
+        "medianAge": 34.9,
+        "totalPopulation": 23329,
+        "collegePct": 24.22,
+        "renterRatePct": 64.92,
+        "race": {
+          "whitePct": 16.85,
+          "nonHispanicWhitePct": 16.7,
+          "blackPct": 79.55,
+          "asianPct": 0.2,
+          "hispanicPct": 1.31
+        }
+      },
+      "election": {
+        "winner": "Earle S. Banks",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "Mississippi House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 40633,
+        "medianAge": 32.8,
+        "totalPopulation": 23088,
+        "collegePct": 22.05,
+        "renterRatePct": 53.99,
+        "race": {
+          "whitePct": 30.43,
+          "nonHispanicWhitePct": 29.66,
+          "blackPct": 63.88,
+          "asianPct": 0.93,
+          "hispanicPct": 2.53
+        }
+      },
+      "election": {
+        "winner": "Zakiya Summers",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "Mississippi House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 31599,
+        "medianAge": 31.4,
+        "totalPopulation": 21847,
+        "collegePct": 15.67,
+        "renterRatePct": 65.04,
+        "race": {
+          "whitePct": 5.79,
+          "nonHispanicWhitePct": 4.92,
+          "blackPct": 91.1,
+          "asianPct": 0.06,
+          "hispanicPct": 3.09
+        }
+      },
+      "election": {
+        "winner": "Tamarra Grace Butler-Washington",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "Mississippi House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45546,
+        "medianAge": 36.8,
+        "totalPopulation": 23845,
+        "collegePct": 24.3,
+        "renterRatePct": 47.98,
+        "race": {
+          "whitePct": 12.9,
+          "nonHispanicWhitePct": 12.54,
+          "blackPct": 82.07,
+          "asianPct": 2.31,
+          "hispanicPct": 1.51
+        }
+      },
+      "election": {
+        "winner": "William R. 'Bo' Brown",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "Mississippi House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63688,
+        "medianAge": 38.2,
+        "totalPopulation": 22569,
+        "collegePct": 27.62,
+        "renterRatePct": 32.99,
+        "race": {
+          "whitePct": 14.2,
+          "nonHispanicWhitePct": 14.04,
+          "blackPct": 81.87,
+          "asianPct": 0.57,
+          "hispanicPct": 2.58
+        }
+      },
+      "election": {
+        "winner": "Ronnie Crudup Jr.",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "Mississippi House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51007,
+        "medianAge": 34.9,
+        "totalPopulation": 23838,
+        "collegePct": 37.88,
+        "renterRatePct": 56.88,
+        "race": {
+          "whitePct": 22.23,
+          "nonHispanicWhitePct": 20.55,
+          "blackPct": 69.77,
+          "asianPct": 1.45,
+          "hispanicPct": 6.03
+        }
+      },
+      "election": {
+        "winner": "Justis Gibbs",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "Mississippi House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 114141,
+        "medianAge": 43,
+        "totalPopulation": 25415,
+        "collegePct": 64.72,
+        "renterRatePct": 10.51,
+        "race": {
+          "whitePct": 71.99,
+          "nonHispanicWhitePct": 71.93,
+          "blackPct": 19.31,
+          "asianPct": 6.01,
+          "hispanicPct": 0.94
+        }
+      },
+      "election": {
+        "winner": "Jill Ford",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "Mississippi House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94932,
+        "medianAge": 42.8,
+        "totalPopulation": 24275,
+        "collegePct": 44.43,
+        "renterRatePct": 19.58,
+        "race": {
+          "whitePct": 75.59,
+          "nonHispanicWhitePct": 75.25,
+          "blackPct": 18.25,
+          "asianPct": 0.88,
+          "hispanicPct": 2.1
+        }
+      },
+      "election": {
+        "winner": "Lee Yancey",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "Mississippi House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68656,
+        "medianAge": 36.6,
+        "totalPopulation": 25866,
+        "collegePct": 27.97,
+        "renterRatePct": 14.72,
+        "race": {
+          "whitePct": 66.33,
+          "nonHispanicWhitePct": 65.8,
+          "blackPct": 23.83,
+          "asianPct": 0,
+          "hispanicPct": 7.69
+        }
+      },
+      "election": {
+        "winner": "Celeste Hurst",
+        "party": "REP",
+        "pct": 73.4,
+        "unopposed": false
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "Mississippi House District 76",
+      "census": {
+        "censusName": "State House District 76 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47543,
+        "medianAge": 41.3,
+        "totalPopulation": 22507,
+        "collegePct": 20.35,
+        "renterRatePct": 27.63,
+        "race": {
+          "whitePct": 32.58,
+          "nonHispanicWhitePct": 32.58,
+          "blackPct": 62.35,
+          "asianPct": 0.23,
+          "hispanicPct": 2.98
+        }
+      },
+      "election": {
+        "winner": "Gregory L. Holloway",
+        "party": "DEM",
+        "pct": 74.14,
+        "unopposed": false
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "Mississippi House District 77",
+      "census": {
+        "censusName": "State House District 77 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56250,
+        "medianAge": 43.3,
+        "totalPopulation": 22781,
+        "collegePct": 18.39,
+        "renterRatePct": 16.73,
+        "race": {
+          "whitePct": 65.07,
+          "nonHispanicWhitePct": 64.89,
+          "blackPct": 31.29,
+          "asianPct": 0.68,
+          "hispanicPct": 1.37
+        }
+      },
+      "election": {
+        "winner": "Price Wallace",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "Mississippi House District 78",
+      "census": {
+        "censusName": "State House District 78 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46305,
+        "medianAge": 36.5,
+        "totalPopulation": 24909,
+        "collegePct": 14.78,
+        "renterRatePct": 20.63,
+        "race": {
+          "whitePct": 55.96,
+          "nonHispanicWhitePct": 55.67,
+          "blackPct": 32.96,
+          "asianPct": 0.55,
+          "hispanicPct": 2.98
+        }
+      },
+      "election": {
+        "winner": "Randal 'Randy' Rushing",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "Mississippi House District 79",
+      "census": {
+        "censusName": "State House District 79 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55563,
+        "medianAge": 44,
+        "totalPopulation": 21888,
+        "collegePct": 15.14,
+        "renterRatePct": 16.67,
+        "race": {
+          "whitePct": 73.84,
+          "nonHispanicWhitePct": 73.43,
+          "blackPct": 21.21,
+          "asianPct": 0.11,
+          "hispanicPct": 1.92
+        }
+      },
+      "election": {
+        "winner": "Mark K. Tullos",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "Mississippi House District 80",
+      "census": {
+        "censusName": "State House District 80 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 33304,
+        "medianAge": 36.8,
+        "totalPopulation": 23549,
+        "collegePct": 13.07,
+        "renterRatePct": 30.92,
+        "race": {
+          "whitePct": 22.23,
+          "nonHispanicWhitePct": 21.79,
+          "blackPct": 73.27,
+          "asianPct": 0.27,
+          "hispanicPct": 3.11
+        }
+      },
+      "election": {
+        "winner": "Omeria Scott",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "Mississippi House District 81",
+      "census": {
+        "censusName": "State House District 81 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54729,
+        "medianAge": 41.8,
+        "totalPopulation": 21353,
+        "collegePct": 19.04,
+        "renterRatePct": 22.79,
+        "race": {
+          "whitePct": 71.54,
+          "nonHispanicWhitePct": 71.32,
+          "blackPct": 23.43,
+          "asianPct": 0.23,
+          "hispanicPct": 1.53
+        }
+      },
+      "election": {
+        "winner": "Stephen A. 'Steve' Horne",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "Mississippi House District 82",
+      "census": {
+        "censusName": "State House District 82 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 25078,
+        "medianAge": 40.2,
+        "totalPopulation": 21553,
+        "collegePct": 9.76,
+        "renterRatePct": 54.99,
+        "race": {
+          "whitePct": 17.98,
+          "nonHispanicWhitePct": 17.42,
+          "blackPct": 77.66,
+          "asianPct": 0.54,
+          "hispanicPct": 1.31
+        }
+      },
+      "election": {
+        "winner": "Charles L. Young Jr.",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "Mississippi House District 83",
+      "census": {
+        "censusName": "State House District 83 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73358,
+        "medianAge": 38.1,
+        "totalPopulation": 25267,
+        "collegePct": 33.03,
+        "renterRatePct": 26.46,
+        "race": {
+          "whitePct": 67.62,
+          "nonHispanicWhitePct": 66.88,
+          "blackPct": 23.65,
+          "asianPct": 1.31,
+          "hispanicPct": 3.01
+        }
+      },
+      "election": {
+        "winner": "Billy Adam Calvert",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "Mississippi House District 84",
+      "census": {
+        "censusName": "State House District 84 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47504,
+        "medianAge": 44.7,
+        "totalPopulation": 24779,
+        "collegePct": 15.14,
+        "renterRatePct": 17.76,
+        "race": {
+          "whitePct": 58.01,
+          "nonHispanicWhitePct": 57.77,
+          "blackPct": 38.71,
+          "asianPct": 0.09,
+          "hispanicPct": 0.86
+        }
+      },
+      "election": {
+        "winner": "Troy Smith",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "Mississippi House District 85",
+      "census": {
+        "censusName": "State House District 85 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 38867,
+        "medianAge": 37.9,
+        "totalPopulation": 23628,
+        "collegePct": 18.33,
+        "renterRatePct": 25.06,
+        "race": {
+          "whitePct": 32.21,
+          "nonHispanicWhitePct": 32.06,
+          "blackPct": 63.57,
+          "asianPct": 0.08,
+          "hispanicPct": 1.31
+        }
+      },
+      "election": {
+        "winner": "Jeffery Harness",
+        "party": "DEM",
+        "pct": 79.95,
+        "unopposed": false
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "Mississippi House District 86",
+      "census": {
+        "censusName": "State House District 86 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 39083,
+        "medianAge": 40.1,
+        "totalPopulation": 23017,
+        "collegePct": 15.72,
+        "renterRatePct": 13.3,
+        "race": {
+          "whitePct": 59.28,
+          "nonHispanicWhitePct": 59.26,
+          "blackPct": 35.16,
+          "asianPct": 0.09,
+          "hispanicPct": 3.26
+        }
+      },
+      "election": {
+        "winner": "Shane Barnett",
+        "party": "REP",
+        "pct": 65.37,
+        "unopposed": false
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "Mississippi House District 87",
+      "census": {
+        "censusName": "State House District 87 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71413,
+        "medianAge": 37.3,
+        "totalPopulation": 27582,
+        "collegePct": 32.21,
+        "renterRatePct": 25.17,
+        "race": {
+          "whitePct": 77.68,
+          "nonHispanicWhitePct": 75.77,
+          "blackPct": 17.73,
+          "asianPct": 1.42,
+          "hispanicPct": 2.92
+        }
+      },
+      "election": {
+        "winner": "Joseph 'Bubba' Tubb",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "Mississippi House District 88",
+      "census": {
+        "censusName": "State House District 88 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62303,
+        "medianAge": 42.6,
+        "totalPopulation": 21608,
+        "collegePct": 18.43,
+        "renterRatePct": 14.28,
+        "race": {
+          "whitePct": 89.63,
+          "nonHispanicWhitePct": 88.61,
+          "blackPct": 5.15,
+          "asianPct": 0.2,
+          "hispanicPct": 4.16
+        }
+      },
+      "election": {
+        "winner": "Charles 'Chuck' Blackwell",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "Mississippi House District 89",
+      "census": {
+        "censusName": "State House District 89 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56291,
+        "medianAge": 34.9,
+        "totalPopulation": 24978,
+        "collegePct": 25.4,
+        "renterRatePct": 29.28,
+        "race": {
+          "whitePct": 72.7,
+          "nonHispanicWhitePct": 70.01,
+          "blackPct": 20.68,
+          "asianPct": 0.6,
+          "hispanicPct": 7.45
+        }
+      },
+      "election": {
+        "winner": "Donnie Scoggin",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "Mississippi House District 90",
+      "census": {
+        "censusName": "State House District 90 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49656,
+        "medianAge": 38,
+        "totalPopulation": 26558,
+        "collegePct": 16.67,
+        "renterRatePct": 24.49,
+        "race": {
+          "whitePct": 62.58,
+          "nonHispanicWhitePct": 59.7,
+          "blackPct": 31.9,
+          "asianPct": 0.2,
+          "hispanicPct": 5.81
+        }
+      },
+      "election": {
+        "winner": "Noah Sanford",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "Mississippi House District 91",
+      "census": {
+        "censusName": "State House District 91 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41864,
+        "medianAge": 39.1,
+        "totalPopulation": 25347,
+        "collegePct": 14.58,
+        "renterRatePct": 19.23,
+        "race": {
+          "whitePct": 42.73,
+          "nonHispanicWhitePct": 42.61,
+          "blackPct": 55.34,
+          "asianPct": 0.08,
+          "hispanicPct": 0.24
+        }
+      },
+      "election": {
+        "winner": "Bob Evans",
+        "party": "DEM",
+        "pct": 66.08,
+        "unopposed": false
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "Mississippi House District 92",
+      "census": {
+        "censusName": "State House District 92 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48421,
+        "medianAge": 39.4,
+        "totalPopulation": 25212,
+        "collegePct": 19.42,
+        "renterRatePct": 24.28,
+        "race": {
+          "whitePct": 72.52,
+          "nonHispanicWhitePct": 71.72,
+          "blackPct": 23.93,
+          "asianPct": 0.5,
+          "hispanicPct": 2.5
+        }
+      },
+      "election": {
+        "winner": "Becky Currie",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "Mississippi House District 93",
+      "census": {
+        "censusName": "State House District 93 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59663,
+        "medianAge": 38.3,
+        "totalPopulation": 26868,
+        "collegePct": 10.16,
+        "renterRatePct": 15.1,
+        "race": {
+          "whitePct": 84.04,
+          "nonHispanicWhitePct": 82.75,
+          "blackPct": 9.34,
+          "asianPct": 0.58,
+          "hispanicPct": 4.04
+        }
+      },
+      "election": {
+        "winner": "Timmy Ladner",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "Mississippi House District 94",
+      "census": {
+        "censusName": "State House District 94 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 35941,
+        "medianAge": 40.6,
+        "totalPopulation": 22280,
+        "collegePct": 17.51,
+        "renterRatePct": 35.79,
+        "race": {
+          "whitePct": 25.49,
+          "nonHispanicWhitePct": 24.9,
+          "blackPct": 67.86,
+          "asianPct": 0.33,
+          "hispanicPct": 4.52
+        }
+      },
+      "election": {
+        "winner": "Robert L. Johnson III",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "Mississippi House District 95",
+      "census": {
+        "censusName": "State House District 95 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77565,
+        "medianAge": 42.1,
+        "totalPopulation": 25855,
+        "collegePct": 26.3,
+        "renterRatePct": 14.6,
+        "race": {
+          "whitePct": 84.01,
+          "nonHispanicWhitePct": 81.91,
+          "blackPct": 6.08,
+          "asianPct": 0.23,
+          "hispanicPct": 6.32
+        }
+      },
+      "election": {
+        "winner": "Jay McKnight",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "Mississippi House District 96",
+      "census": {
+        "censusName": "State House District 96 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 34144,
+        "medianAge": 46.3,
+        "totalPopulation": 22699,
+        "collegePct": 10.02,
+        "renterRatePct": 20.79,
+        "race": {
+          "whitePct": 37.63,
+          "nonHispanicWhitePct": 37.46,
+          "blackPct": 58.57,
+          "asianPct": 0.02,
+          "hispanicPct": 0.77
+        }
+      },
+      "election": {
+        "winner": "Angela Cockerharn",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "Mississippi House District 97",
+      "census": {
+        "censusName": "State House District 97 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51121,
+        "medianAge": 44.1,
+        "totalPopulation": 22761,
+        "collegePct": 22.53,
+        "renterRatePct": 22.87,
+        "race": {
+          "whitePct": 70.37,
+          "nonHispanicWhitePct": 69.4,
+          "blackPct": 26.21,
+          "asianPct": 0.58,
+          "hispanicPct": 1.68
+        }
+      },
+      "election": {
+        "winner": "Sam C. Mims V",
+        "party": "REP",
+        "pct": 69.43,
+        "unopposed": false
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "Mississippi House District 98",
+      "census": {
+        "censusName": "State House District 98 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 36227,
+        "medianAge": 35.6,
+        "totalPopulation": 26396,
+        "collegePct": 12.37,
+        "renterRatePct": 36.11,
+        "race": {
+          "whitePct": 27.25,
+          "nonHispanicWhitePct": 27.12,
+          "blackPct": 69.05,
+          "asianPct": 0.56,
+          "hispanicPct": 1.75
+        }
+      },
+      "election": {
+        "winner": "Daryl L. Porter Jr.",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "Mississippi House District 99",
+      "census": {
+        "censusName": "State House District 99 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49854,
+        "medianAge": 41.9,
+        "totalPopulation": 23442,
+        "collegePct": 12.1,
+        "renterRatePct": 15.52,
+        "race": {
+          "whitePct": 68.58,
+          "nonHispanicWhitePct": 68.34,
+          "blackPct": 25.65,
+          "asianPct": 0.25,
+          "hispanicPct": 1.98
+        }
+      },
+      "election": {
+        "winner": "Bill Pigott",
+        "party": "REP",
+        "pct": 84.24,
+        "unopposed": false
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "Mississippi House District 100",
+      "census": {
+        "censusName": "State House District 100 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48566,
+        "medianAge": 40.9,
+        "totalPopulation": 23996,
+        "collegePct": 15.66,
+        "renterRatePct": 21.43,
+        "race": {
+          "whitePct": 71.08,
+          "nonHispanicWhitePct": 70.76,
+          "blackPct": 25.45,
+          "asianPct": 0.1,
+          "hispanicPct": 1.4
+        }
+      },
+      "election": {
+        "winner": "Ken Morgan",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "101": {
+      "districtNumber": 101,
+      "districtName": "Mississippi House District 101",
+      "census": {
+        "censusName": "State House District 101 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78778,
+        "medianAge": 38.2,
+        "totalPopulation": 23272,
+        "collegePct": 45.34,
+        "renterRatePct": 40.6,
+        "race": {
+          "whitePct": 62.7,
+          "nonHispanicWhitePct": 60.99,
+          "blackPct": 28.33,
+          "asianPct": 1.24,
+          "hispanicPct": 6.08
+        }
+      },
+      "election": {
+        "winner": "Kent McCarty",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "102": {
+      "districtNumber": 102,
+      "districtName": "Mississippi House District 102",
+      "census": {
+        "censusName": "State House District 102 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46122,
+        "medianAge": 26,
+        "totalPopulation": 24218,
+        "collegePct": 49.66,
+        "renterRatePct": 62.38,
+        "race": {
+          "whitePct": 58.23,
+          "nonHispanicWhitePct": 56.94,
+          "blackPct": 32.69,
+          "asianPct": 1.25,
+          "hispanicPct": 4.86
+        }
+      },
+      "election": {
+        "winner": "Missy Warren McGee",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "103": {
+      "districtNumber": 103,
+      "districtName": "Mississippi House District 103",
+      "census": {
+        "censusName": "State House District 103 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 36067,
+        "medianAge": 32.4,
+        "totalPopulation": 25181,
+        "collegePct": 17.1,
+        "renterRatePct": 57.61,
+        "race": {
+          "whitePct": 24.1,
+          "nonHispanicWhitePct": 22.19,
+          "blackPct": 67.98,
+          "asianPct": 0.5,
+          "hispanicPct": 6.8
+        }
+      },
+      "election": {
+        "winner": "Percy W. Watson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "104": {
+      "districtNumber": 104,
+      "districtName": "Mississippi House District 104",
+      "census": {
+        "censusName": "State House District 104 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80794,
+        "medianAge": 36.8,
+        "totalPopulation": 25258,
+        "collegePct": 25.38,
+        "renterRatePct": 13.54,
+        "race": {
+          "whitePct": 87.99,
+          "nonHispanicWhitePct": 87.28,
+          "blackPct": 8.33,
+          "asianPct": 0.7,
+          "hispanicPct": 0.87
+        }
+      },
+      "election": {
+        "winner": "Larry Byrd",
+        "party": "REP",
+        "pct": 86.54,
+        "unopposed": false
+      }
+    },
+    "105": {
+      "districtNumber": 105,
+      "districtName": "Mississippi House District 105",
+      "census": {
+        "censusName": "State House District 105 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51391,
+        "medianAge": 39.5,
+        "totalPopulation": 26264,
+        "collegePct": 11.89,
+        "renterRatePct": 19.46,
+        "race": {
+          "whitePct": 77.25,
+          "nonHispanicWhitePct": 76,
+          "blackPct": 17.1,
+          "asianPct": 1.09,
+          "hispanicPct": 2.89
+        }
+      },
+      "election": {
+        "winner": "Elliot Burch",
+        "party": "REP",
+        "pct": 82.99,
+        "unopposed": false
+      }
+    },
+    "106": {
+      "districtNumber": 106,
+      "districtName": "Mississippi House District 106",
+      "census": {
+        "censusName": "State House District 106 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54579,
+        "medianAge": 39.4,
+        "totalPopulation": 24749,
+        "collegePct": 17.09,
+        "renterRatePct": 17.5,
+        "race": {
+          "whitePct": 80.34,
+          "nonHispanicWhitePct": 80.02,
+          "blackPct": 14.25,
+          "asianPct": 0.13,
+          "hispanicPct": 1.9
+        }
+      },
+      "election": {
+        "winner": "Jansen Owen",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "107": {
+      "districtNumber": 107,
+      "districtName": "Mississippi House District 107",
+      "census": {
+        "censusName": "State House District 107 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57221,
+        "medianAge": 37.5,
+        "totalPopulation": 25826,
+        "collegePct": 18.02,
+        "renterRatePct": 18.97,
+        "race": {
+          "whitePct": 83.49,
+          "nonHispanicWhitePct": 82.53,
+          "blackPct": 11.32,
+          "asianPct": 0.47,
+          "hispanicPct": 2.25
+        }
+      },
+      "election": {
+        "winner": "Ronald Steven 'Steve' Lott",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "108": {
+      "districtNumber": 108,
+      "districtName": "Mississippi House District 108",
+      "census": {
+        "censusName": "State House District 108 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54619,
+        "medianAge": 42.9,
+        "totalPopulation": 24379,
+        "collegePct": 17.01,
+        "renterRatePct": 20.42,
+        "race": {
+          "whitePct": 73.58,
+          "nonHispanicWhitePct": 72.47,
+          "blackPct": 18.23,
+          "asianPct": 0.14,
+          "hispanicPct": 5.1
+        }
+      },
+      "election": {
+        "winner": "Stacey Hobgood Wilkes",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "109": {
+      "districtNumber": 109,
+      "districtName": "Mississippi House District 109",
+      "census": {
+        "censusName": "State House District 109 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64050,
+        "medianAge": 44.4,
+        "totalPopulation": 21469,
+        "collegePct": 19.48,
+        "renterRatePct": 13.77,
+        "race": {
+          "whitePct": 93.04,
+          "nonHispanicWhitePct": 92.77,
+          "blackPct": 1.87,
+          "asianPct": 0.03,
+          "hispanicPct": 2.14
+        }
+      },
+      "election": {
+        "winner": "Manly Barton",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "110": {
+      "districtNumber": 110,
+      "districtName": "Mississippi House District 110",
+      "census": {
+        "censusName": "State House District 110 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 38098,
+        "medianAge": 36,
+        "totalPopulation": 24571,
+        "collegePct": 13.28,
+        "renterRatePct": 47.54,
+        "race": {
+          "whitePct": 26.01,
+          "nonHispanicWhitePct": 22.63,
+          "blackPct": 63.38,
+          "asianPct": 0.85,
+          "hispanicPct": 10.39
+        }
+      },
+      "election": {
+        "winner": "Jeramey Anderson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "111": {
+      "districtNumber": 111,
+      "districtName": "Mississippi House District 111",
+      "census": {
+        "censusName": "State House District 111 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69674,
+        "medianAge": 42.9,
+        "totalPopulation": 24397,
+        "collegePct": 25.72,
+        "renterRatePct": 19.12,
+        "race": {
+          "whitePct": 71.57,
+          "nonHispanicWhitePct": 70.66,
+          "blackPct": 15.28,
+          "asianPct": 1.76,
+          "hispanicPct": 7.41
+        }
+      },
+      "election": {
+        "winner": "Jimmy Fondren",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "112": {
+      "districtNumber": 112,
+      "districtName": "Mississippi House District 112",
+      "census": {
+        "censusName": "State House District 112 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70131,
+        "medianAge": 37.3,
+        "totalPopulation": 28053,
+        "collegePct": 20.13,
+        "renterRatePct": 26.08,
+        "race": {
+          "whitePct": 67.56,
+          "nonHispanicWhitePct": 65.03,
+          "blackPct": 21.21,
+          "asianPct": 1.97,
+          "hispanicPct": 8.36
+        }
+      },
+      "election": {
+        "winner": "John O. Read",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "113": {
+      "districtNumber": 113,
+      "districtName": "Mississippi House District 113",
+      "census": {
+        "censusName": "State House District 113 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74311,
+        "medianAge": 42.2,
+        "totalPopulation": 25967,
+        "collegePct": 42.8,
+        "renterRatePct": 26.21,
+        "race": {
+          "whitePct": 80.86,
+          "nonHispanicWhitePct": 78.11,
+          "blackPct": 7.11,
+          "asianPct": 3.69,
+          "hispanicPct": 8.47
+        }
+      },
+      "election": {
+        "winner": "Henry 'Hank' B. Zuber III",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "114": {
+      "districtNumber": 114,
+      "districtName": "Mississippi House District 114",
+      "census": {
+        "censusName": "State House District 114 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63798,
+        "medianAge": 38.7,
+        "totalPopulation": 24188,
+        "collegePct": 24.24,
+        "renterRatePct": 32.88,
+        "race": {
+          "whitePct": 76.33,
+          "nonHispanicWhitePct": 75.93,
+          "blackPct": 9.42,
+          "asianPct": 4.46,
+          "hispanicPct": 5.38
+        }
+      },
+      "election": {
+        "winner": "Jeffrey S. 'Jeff' Guice",
+        "party": "REP",
+        "pct": 82.09,
+        "unopposed": false
+      }
+    },
+    "115": {
+      "districtNumber": 115,
+      "districtName": "Mississippi House District 115",
+      "census": {
+        "censusName": "State House District 115 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51359,
+        "medianAge": 31.7,
+        "totalPopulation": 26497,
+        "collegePct": 21.76,
+        "renterRatePct": 58.44,
+        "race": {
+          "whitePct": 58.51,
+          "nonHispanicWhitePct": 55.08,
+          "blackPct": 20.24,
+          "asianPct": 4.95,
+          "hispanicPct": 13.27
+        }
+      },
+      "election": {
+        "winner": "Zachary Grady",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "116": {
+      "districtNumber": 116,
+      "districtName": "Mississippi House District 116",
+      "census": {
+        "censusName": "State House District 116 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68554,
+        "medianAge": 41.2,
+        "totalPopulation": 23962,
+        "collegePct": 26.18,
+        "renterRatePct": 19,
+        "race": {
+          "whitePct": 77.64,
+          "nonHispanicWhitePct": 76.44,
+          "blackPct": 9.86,
+          "asianPct": 2.75,
+          "hispanicPct": 4.82
+        }
+      },
+      "election": {
+        "winner": "Casey Eure",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "117": {
+      "districtNumber": 117,
+      "districtName": "Mississippi House District 117",
+      "census": {
+        "censusName": "State House District 117 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63992,
+        "medianAge": 40,
+        "totalPopulation": 23566,
+        "collegePct": 33.99,
+        "renterRatePct": 53.05,
+        "race": {
+          "whitePct": 63.38,
+          "nonHispanicWhitePct": 60.85,
+          "blackPct": 21.5,
+          "asianPct": 5.08,
+          "hispanicPct": 7.92
+        }
+      },
+      "election": {
+        "winner": "Kevin W. Felsher",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "118": {
+      "districtNumber": 118,
+      "districtName": "Mississippi House District 118",
+      "census": {
+        "censusName": "State House District 118 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55726,
+        "medianAge": 35.3,
+        "totalPopulation": 25373,
+        "collegePct": 32.1,
+        "renterRatePct": 46.31,
+        "race": {
+          "whitePct": 63.72,
+          "nonHispanicWhitePct": 60.73,
+          "blackPct": 24.96,
+          "asianPct": 2.09,
+          "hispanicPct": 7.41
+        }
+      },
+      "election": {
+        "winner": "Greg Haney",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "119": {
+      "districtNumber": 119,
+      "districtName": "Mississippi House District 119",
+      "census": {
+        "censusName": "State House District 119 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 33174,
+        "medianAge": 33.8,
+        "totalPopulation": 24243,
+        "collegePct": 11.45,
+        "renterRatePct": 61.75,
+        "race": {
+          "whitePct": 27.91,
+          "nonHispanicWhitePct": 27.19,
+          "blackPct": 62.1,
+          "asianPct": 0.83,
+          "hispanicPct": 3.3
+        }
+      },
+      "election": {
+        "winner": "Jeffery Hulum III",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "120": {
+      "districtNumber": 120,
+      "districtName": "Mississippi House District 120",
+      "census": {
+        "censusName": "State House District 120 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62095,
+        "medianAge": 41.1,
+        "totalPopulation": 24446,
+        "collegePct": 27.98,
+        "renterRatePct": 36.53,
+        "race": {
+          "whitePct": 73.44,
+          "nonHispanicWhitePct": 72.41,
+          "blackPct": 14.54,
+          "asianPct": 2.15,
+          "hispanicPct": 6.09
+        }
+      },
+      "election": {
+        "winner": "Richard Bennett",
+        "party": "REP",
+        "pct": 80.04,
+        "unopposed": false
+      }
+    },
+    "121": {
+      "districtNumber": 121,
+      "districtName": "Mississippi House District 121",
+      "census": {
+        "censusName": "State House District 121 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64445,
+        "medianAge": 42.9,
+        "totalPopulation": 25637,
+        "collegePct": 30.31,
+        "renterRatePct": 15.01,
+        "race": {
+          "whitePct": 70.96,
+          "nonHispanicWhitePct": 69.85,
+          "blackPct": 18.21,
+          "asianPct": 1.15,
+          "hispanicPct": 6.69
+        }
+      },
+      "election": {
+        "winner": "Carolyn Crawford",
+        "party": "REP",
+        "pct": 62.97,
+        "unopposed": false
+      }
+    },
+    "122": {
+      "districtNumber": 122,
+      "districtName": "Mississippi House District 122",
+      "census": {
+        "censusName": "State House District 122 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63299,
+        "medianAge": 48.3,
+        "totalPopulation": 24244,
+        "collegePct": 25.85,
+        "renterRatePct": 28.05,
+        "race": {
+          "whitePct": 79.72,
+          "nonHispanicWhitePct": 79.23,
+          "blackPct": 11.47,
+          "asianPct": 0.98,
+          "hispanicPct": 3.02
+        }
+      },
+      "election": {
+        "winner": "Brent David Anderson",
+        "party": "REP",
+        "pct": 78.77,
+        "unopposed": false
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Mississippi Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71211,
+        "medianAge": 38.5,
+        "totalPopulation": 55370,
+        "collegePct": 28.09,
+        "renterRatePct": 24.4,
+        "race": {
+          "whitePct": 65.66,
+          "nonHispanicWhitePct": 63.58,
+          "blackPct": 26.3,
+          "asianPct": 1.01,
+          "hispanicPct": 6.21
+        }
+      },
+      "election": {
+        "winner": "Michael W. McLendon",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Mississippi Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78763,
+        "medianAge": 37,
+        "totalPopulation": 59106,
+        "collegePct": 28.82,
+        "renterRatePct": 26.29,
+        "race": {
+          "whitePct": 56.89,
+          "nonHispanicWhitePct": 55.37,
+          "blackPct": 33.8,
+          "asianPct": 1.95,
+          "hispanicPct": 5.72
+        }
+      },
+      "election": {
+        "winner": "David L. Parker",
+        "party": "DEM",
+        "pct": 56.62,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Mississippi Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53440,
+        "medianAge": 38.2,
+        "totalPopulation": 59174,
+        "collegePct": 16.02,
+        "renterRatePct": 29.08,
+        "race": {
+          "whitePct": 65.83,
+          "nonHispanicWhitePct": 65.56,
+          "blackPct": 24.16,
+          "asianPct": 0.17,
+          "hispanicPct": 6.19
+        }
+      },
+      "election": {
+        "winner": "Kathy Leath Chism",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Mississippi Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50162,
+        "medianAge": 40.2,
+        "totalPopulation": 56121,
+        "collegePct": 17.66,
+        "renterRatePct": 30.77,
+        "race": {
+          "whitePct": 79.05,
+          "nonHispanicWhitePct": 78.63,
+          "blackPct": 12.38,
+          "asianPct": 0.09,
+          "hispanicPct": 4.22
+        }
+      },
+      "election": {
+        "winner": "Rita Potts Parks",
+        "party": "REP",
+        "pct": 76.66,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Mississippi Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52100,
+        "medianAge": 40.2,
+        "totalPopulation": 59745,
+        "collegePct": 17.11,
+        "renterRatePct": 20.96,
+        "race": {
+          "whitePct": 88.17,
+          "nonHispanicWhitePct": 87.45,
+          "blackPct": 6.34,
+          "asianPct": 1.21,
+          "hispanicPct": 2.17
+        }
+      },
+      "election": {
+        "winner": "Daniel H. Sparks",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Mississippi Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76938,
+        "medianAge": 39.2,
+        "totalPopulation": 59318,
+        "collegePct": 33.48,
+        "renterRatePct": 22.64,
+        "race": {
+          "whitePct": 73.41,
+          "nonHispanicWhitePct": 72.77,
+          "blackPct": 20.39,
+          "asianPct": 1.29,
+          "hispanicPct": 2.68
+        }
+      },
+      "election": {
+        "winner": "Chad McMahan",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Mississippi Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49395,
+        "medianAge": 38.3,
+        "totalPopulation": 54333,
+        "collegePct": 15.84,
+        "renterRatePct": 34.5,
+        "race": {
+          "whitePct": 53.71,
+          "nonHispanicWhitePct": 53.19,
+          "blackPct": 41.59,
+          "asianPct": 0.25,
+          "hispanicPct": 3.06
+        }
+      },
+      "election": {
+        "winner": "Hob Bryan",
+        "party": "DEM",
+        "pct": 54.89,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Mississippi Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47528,
+        "medianAge": 40.6,
+        "totalPopulation": 59398,
+        "collegePct": 14.8,
+        "renterRatePct": 26.52,
+        "race": {
+          "whitePct": 63.81,
+          "nonHispanicWhitePct": 63.22,
+          "blackPct": 30.77,
+          "asianPct": 0.24,
+          "hispanicPct": 3.39
+        }
+      },
+      "election": {
+        "winner": "Benjamin A. Suber",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Mississippi Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63987,
+        "medianAge": 30.4,
+        "totalPopulation": 60258,
+        "collegePct": 43.48,
+        "renterRatePct": 36.83,
+        "race": {
+          "whitePct": 69.49,
+          "nonHispanicWhitePct": 68.38,
+          "blackPct": 23.08,
+          "asianPct": 2.21,
+          "hispanicPct": 3.86
+        }
+      },
+      "election": {
+        "winner": "Nicole Akins Boyd",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Mississippi Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57746,
+        "medianAge": 40.3,
+        "totalPopulation": 59072,
+        "collegePct": 18.03,
+        "renterRatePct": 23.62,
+        "race": {
+          "whitePct": 58.48,
+          "nonHispanicWhitePct": 57.38,
+          "blackPct": 34.79,
+          "asianPct": 0.17,
+          "hispanicPct": 4.02
+        }
+      },
+      "election": {
+        "winner": "Neil S. Whaley",
+        "party": "REP",
+        "pct": 60.8,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Mississippi Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45200,
+        "medianAge": 36.3,
+        "totalPopulation": 54362,
+        "collegePct": 18.38,
+        "renterRatePct": 42.31,
+        "race": {
+          "whitePct": 31.61,
+          "nonHispanicWhitePct": 31.27,
+          "blackPct": 63.64,
+          "asianPct": 0.37,
+          "hispanicPct": 3.33
+        }
+      },
+      "election": {
+        "winner": "Reginald D. Jackson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Mississippi Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 40199,
+        "medianAge": 38.1,
+        "totalPopulation": 53765,
+        "collegePct": 19.09,
+        "renterRatePct": 41.95,
+        "race": {
+          "whitePct": 24.99,
+          "nonHispanicWhitePct": 24.82,
+          "blackPct": 70.78,
+          "asianPct": 0.68,
+          "hispanicPct": 1.71
+        }
+      },
+      "election": {
+        "winner": "Derrick T. Simmons",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Mississippi Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 38537,
+        "medianAge": 37,
+        "totalPopulation": 52773,
+        "collegePct": 22.69,
+        "renterRatePct": 41.75,
+        "race": {
+          "whitePct": 26.23,
+          "nonHispanicWhitePct": 26.11,
+          "blackPct": 69.3,
+          "asianPct": 0.6,
+          "hispanicPct": 2.31
+        }
+      },
+      "election": {
+        "winner": "Sarita M. Simmons",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Mississippi Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48127,
+        "medianAge": 41.3,
+        "totalPopulation": 54318,
+        "collegePct": 21.29,
+        "renterRatePct": 31.77,
+        "race": {
+          "whitePct": 54.79,
+          "nonHispanicWhitePct": 54.59,
+          "blackPct": 41.43,
+          "asianPct": 0.34,
+          "hispanicPct": 1
+        }
+      },
+      "election": {
+        "winner": "Lydia Chassaniol",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Mississippi Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48519,
+        "medianAge": 31.3,
+        "totalPopulation": 54572,
+        "collegePct": 36.49,
+        "renterRatePct": 39.45,
+        "race": {
+          "whitePct": 65.75,
+          "nonHispanicWhitePct": 65.01,
+          "blackPct": 28.22,
+          "asianPct": 1.67,
+          "hispanicPct": 2.51
+        }
+      },
+      "election": {
+        "winner": "Bart Williams",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Mississippi Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 33838,
+        "medianAge": 35.2,
+        "totalPopulation": 53535,
+        "collegePct": 20.87,
+        "renterRatePct": 45.29,
+        "race": {
+          "whitePct": 31.92,
+          "nonHispanicWhitePct": 31.84,
+          "blackPct": 64.3,
+          "asianPct": 1.38,
+          "hispanicPct": 0.8
+        }
+      },
+      "election": {
+        "winner": "Angela Turner Ford",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Mississippi Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65100,
+        "medianAge": 37.1,
+        "totalPopulation": 52074,
+        "collegePct": 28.85,
+        "renterRatePct": 28.99,
+        "race": {
+          "whitePct": 64.83,
+          "nonHispanicWhitePct": 64.39,
+          "blackPct": 28.75,
+          "asianPct": 1.35,
+          "hispanicPct": 2.3
+        }
+      },
+      "election": {
+        "winner": "Chuck Younger",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Mississippi Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51991,
+        "medianAge": 39.5,
+        "totalPopulation": 54797,
+        "collegePct": 17.06,
+        "renterRatePct": 24.8,
+        "race": {
+          "whitePct": 55.58,
+          "nonHispanicWhitePct": 55.51,
+          "blackPct": 27.32,
+          "asianPct": 0.55,
+          "hispanicPct": 2.82
+        }
+      },
+      "election": {
+        "winner": "Jenifer Branning",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Mississippi Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100422,
+        "medianAge": 35.8,
+        "totalPopulation": 57413,
+        "collegePct": 30.32,
+        "renterRatePct": 13.55,
+        "race": {
+          "whitePct": 62.58,
+          "nonHispanicWhitePct": 61.43,
+          "blackPct": 29.31,
+          "asianPct": 1.21,
+          "hispanicPct": 4.74
+        }
+      },
+      "election": {
+        "winner": "Kevin Blackwell",
+        "party": "REP",
+        "pct": 65.71,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Mississippi Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92829,
+        "medianAge": 38.6,
+        "totalPopulation": 57273,
+        "collegePct": 44.71,
+        "renterRatePct": 19.12,
+        "race": {
+          "whitePct": 75.57,
+          "nonHispanicWhitePct": 74.62,
+          "blackPct": 18.45,
+          "asianPct": 1.33,
+          "hispanicPct": 2.35
+        }
+      },
+      "election": {
+        "winner": "Josh Harkins",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Mississippi Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52976,
+        "medianAge": 37.5,
+        "totalPopulation": 54323,
+        "collegePct": 25.29,
+        "renterRatePct": 25.17,
+        "race": {
+          "whitePct": 31.19,
+          "nonHispanicWhitePct": 30.63,
+          "blackPct": 64.67,
+          "asianPct": 0.94,
+          "hispanicPct": 1.67
+        }
+      },
+      "election": {
+        "winner": "Bradford J. Blackmon",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Mississippi Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44656,
+        "medianAge": 38.3,
+        "totalPopulation": 54183,
+        "collegePct": 25.71,
+        "renterRatePct": 43.59,
+        "race": {
+          "whitePct": 36.61,
+          "nonHispanicWhitePct": 33.58,
+          "blackPct": 60.62,
+          "asianPct": 0.23,
+          "hispanicPct": 4.79
+        }
+      },
+      "election": {
+        "winner": "Joseph C. Thomas Sr.",
+        "party": "DEM",
+        "pct": 57.58,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Mississippi Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57111,
+        "medianAge": 40.2,
+        "totalPopulation": 54396,
+        "collegePct": 25.1,
+        "renterRatePct": 28.4,
+        "race": {
+          "whitePct": 51.06,
+          "nonHispanicWhitePct": 50.91,
+          "blackPct": 44.93,
+          "asianPct": 0.61,
+          "hispanicPct": 1.71
+        }
+      },
+      "election": {
+        "winner": "Briggs Hopson",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Mississippi Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 35835,
+        "medianAge": 37.2,
+        "totalPopulation": 52191,
+        "collegePct": 13.51,
+        "renterRatePct": 37.8,
+        "race": {
+          "whitePct": 30.37,
+          "nonHispanicWhitePct": 30.2,
+          "blackPct": 66.74,
+          "asianPct": 0.09,
+          "hispanicPct": 1.28
+        }
+      },
+      "election": {
+        "winner": "David Jordan",
+        "party": "DEM",
+        "pct": 54.9,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Mississippi Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90969,
+        "medianAge": 38.9,
+        "totalPopulation": 52416,
+        "collegePct": 61.43,
+        "renterRatePct": 22.39,
+        "race": {
+          "whitePct": 62.79,
+          "nonHispanicWhitePct": 62.59,
+          "blackPct": 28.99,
+          "asianPct": 3.93,
+          "hispanicPct": 2.46
+        }
+      },
+      "election": {
+        "winner": "Walter Michel",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Mississippi Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55077,
+        "medianAge": 38.4,
+        "totalPopulation": 58186,
+        "collegePct": 34.76,
+        "renterRatePct": 43.79,
+        "race": {
+          "whitePct": 25.31,
+          "nonHispanicWhitePct": 24.46,
+          "blackPct": 68.57,
+          "asianPct": 1.53,
+          "hispanicPct": 3.45
+        }
+      },
+      "election": {
+        "winner": "John Horhn",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Mississippi Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43148,
+        "medianAge": 37.2,
+        "totalPopulation": 58009,
+        "collegePct": 27.22,
+        "renterRatePct": 40.81,
+        "race": {
+          "whitePct": 27.44,
+          "nonHispanicWhitePct": 26.93,
+          "blackPct": 68.36,
+          "asianPct": 1.11,
+          "hispanicPct": 2.17
+        }
+      },
+      "election": {
+        "winner": "Hillman Terome Frazier",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Mississippi Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41993,
+        "medianAge": 32.1,
+        "totalPopulation": 54931,
+        "collegePct": 22.06,
+        "renterRatePct": 53.84,
+        "race": {
+          "whitePct": 10.86,
+          "nonHispanicWhitePct": 10.43,
+          "blackPct": 85.99,
+          "asianPct": 0.81,
+          "hispanicPct": 1.98
+        }
+      },
+      "election": {
+        "winner": "Sollie B. Norwood",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Mississippi Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62301,
+        "medianAge": 37.8,
+        "totalPopulation": 53883,
+        "collegePct": 39.62,
+        "renterRatePct": 36.42,
+        "race": {
+          "whitePct": 34.9,
+          "nonHispanicWhitePct": 34.55,
+          "blackPct": 60.75,
+          "asianPct": 0.42,
+          "hispanicPct": 1.94
+        }
+      },
+      "election": {
+        "winner": "David Blount",
+        "party": "DEM",
+        "pct": 77.76,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Mississippi Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66362,
+        "medianAge": 38.4,
+        "totalPopulation": 55567,
+        "collegePct": 29.27,
+        "renterRatePct": 31.21,
+        "race": {
+          "whitePct": 63.42,
+          "nonHispanicWhitePct": 62.98,
+          "blackPct": 29.81,
+          "asianPct": 1.48,
+          "hispanicPct": 4.04
+        }
+      },
+      "election": {
+        "winner": "Dean Kirby",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Mississippi Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52582,
+        "medianAge": 38.4,
+        "totalPopulation": 55000,
+        "collegePct": 15.03,
+        "renterRatePct": 22.97,
+        "race": {
+          "whitePct": 58.37,
+          "nonHispanicWhitePct": 56.49,
+          "blackPct": 29.69,
+          "asianPct": 0.29,
+          "hispanicPct": 8.25
+        }
+      },
+      "election": {
+        "winner": "Tyler McCaughn",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Mississippi Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 33359,
+        "medianAge": 39,
+        "totalPopulation": 53970,
+        "collegePct": 15.89,
+        "renterRatePct": 40.36,
+        "race": {
+          "whitePct": 28.94,
+          "nonHispanicWhitePct": 28.09,
+          "blackPct": 66.59,
+          "asianPct": 0.33,
+          "hispanicPct": 1.67
+        }
+      },
+      "election": {
+        "winner": "Rod Hickman",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Mississippi Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57357,
+        "medianAge": 41.2,
+        "totalPopulation": 54648,
+        "collegePct": 23.23,
+        "renterRatePct": 24.42,
+        "race": {
+          "whitePct": 66.3,
+          "nonHispanicWhitePct": 65.82,
+          "blackPct": 27.68,
+          "asianPct": 0.67,
+          "hispanicPct": 2.16
+        }
+      },
+      "election": {
+        "winner": "Jeff Tate",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Mississippi Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41989,
+        "medianAge": 38.2,
+        "totalPopulation": 54783,
+        "collegePct": 17.21,
+        "renterRatePct": 34.26,
+        "race": {
+          "whitePct": 37.99,
+          "nonHispanicWhitePct": 36.24,
+          "blackPct": 58.06,
+          "asianPct": 0.28,
+          "hispanicPct": 4.34
+        }
+      },
+      "election": {
+        "winner": "Juan R. Barnett",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Mississippi Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49290,
+        "medianAge": 40.7,
+        "totalPopulation": 58223,
+        "collegePct": 16.47,
+        "renterRatePct": 20.75,
+        "race": {
+          "whitePct": 54.64,
+          "nonHispanicWhitePct": 54.51,
+          "blackPct": 41.34,
+          "asianPct": 0.35,
+          "hispanicPct": 2.26
+        }
+      },
+      "election": {
+        "winner": "Andy Berry",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Mississippi Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65683,
+        "medianAge": 41.3,
+        "totalPopulation": 57742,
+        "collegePct": 20.82,
+        "renterRatePct": 15.83,
+        "race": {
+          "whitePct": 76.61,
+          "nonHispanicWhitePct": 76.38,
+          "blackPct": 18.25,
+          "asianPct": 0.41,
+          "hispanicPct": 2.67
+        }
+      },
+      "election": {
+        "winner": "Brian Rhodes",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Mississippi Senate District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41930,
+        "medianAge": 41.5,
+        "totalPopulation": 57506,
+        "collegePct": 18.73,
+        "renterRatePct": 25.95,
+        "race": {
+          "whitePct": 33.95,
+          "nonHispanicWhitePct": 33.56,
+          "blackPct": 61.12,
+          "asianPct": 0.19,
+          "hispanicPct": 3.1
+        }
+      },
+      "election": {
+        "winner": "Albert Butler",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Mississippi Senate District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 34122,
+        "medianAge": 40.7,
+        "totalPopulation": 58080,
+        "collegePct": 13.88,
+        "renterRatePct": 31.36,
+        "race": {
+          "whitePct": 31.16,
+          "nonHispanicWhitePct": 30.86,
+          "blackPct": 65.02,
+          "asianPct": 0.29,
+          "hispanicPct": 1.63
+        }
+      },
+      "election": {
+        "winner": "Gary Brumfield",
+        "party": "DEM",
+        "pct": 50.5,
+        "unopposed": false
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Mississippi Senate District 39",
+      "census": {
+        "censusName": "State Senate District 39 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48391,
+        "medianAge": 40.6,
+        "totalPopulation": 59089,
+        "collegePct": 17.72,
+        "renterRatePct": 22.84,
+        "race": {
+          "whitePct": 70.06,
+          "nonHispanicWhitePct": 69.49,
+          "blackPct": 27.57,
+          "asianPct": 0.56,
+          "hispanicPct": 1.05
+        }
+      },
+      "election": {
+        "winner": "Jason T. Barrett",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Mississippi Senate District 40",
+      "census": {
+        "censusName": "State Senate District 40 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55690,
+        "medianAge": 41.4,
+        "totalPopulation": 59936,
+        "collegePct": 15.29,
+        "renterRatePct": 16.66,
+        "race": {
+          "whitePct": 79.69,
+          "nonHispanicWhitePct": 78.58,
+          "blackPct": 13.17,
+          "asianPct": 0.37,
+          "hispanicPct": 3.98
+        }
+      },
+      "election": {
+        "winner": "Angela Burks Hill",
+        "party": "REP",
+        "pct": 80.81,
+        "unopposed": false
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Mississippi Senate District 41",
+      "census": {
+        "censusName": "State Senate District 41 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49063,
+        "medianAge": 39.8,
+        "totalPopulation": 60562,
+        "collegePct": 14.28,
+        "renterRatePct": 20.63,
+        "race": {
+          "whitePct": 65,
+          "nonHispanicWhitePct": 64.23,
+          "blackPct": 30.24,
+          "asianPct": 0.21,
+          "hispanicPct": 2.16
+        }
+      },
+      "election": {
+        "winner": "Joey Fillingane",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Mississippi Senate District 42",
+      "census": {
+        "censusName": "State Senate District 42 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58058,
+        "medianAge": 36.6,
+        "totalPopulation": 59214,
+        "collegePct": 20.61,
+        "renterRatePct": 24.08,
+        "race": {
+          "whitePct": 76.38,
+          "nonHispanicWhitePct": 74.36,
+          "blackPct": 17.48,
+          "asianPct": 0.53,
+          "hispanicPct": 5.42
+        }
+      },
+      "election": {
+        "winner": "Robin Robinson",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Mississippi Senate District 43",
+      "census": {
+        "censusName": "State Senate District 43 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46468,
+        "medianAge": 38.7,
+        "totalPopulation": 55849,
+        "collegePct": 15.89,
+        "renterRatePct": 15.87,
+        "race": {
+          "whitePct": 71.89,
+          "nonHispanicWhitePct": 71.08,
+          "blackPct": 22.61,
+          "asianPct": 0.16,
+          "hispanicPct": 2.95
+        }
+      },
+      "election": {
+        "winner": "Dennis DeBar Jr.",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Mississippi Senate District 44",
+      "census": {
+        "censusName": "State Senate District 44 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68467,
+        "medianAge": 37.1,
+        "totalPopulation": 55823,
+        "collegePct": 35.97,
+        "renterRatePct": 35.31,
+        "race": {
+          "whitePct": 70.57,
+          "nonHispanicWhitePct": 69.19,
+          "blackPct": 23.28,
+          "asianPct": 1.09,
+          "hispanicPct": 3.88
+        }
+      },
+      "election": {
+        "winner": "John A. Polk",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Mississippi Senate District 45",
+      "census": {
+        "censusName": "State Senate District 45 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56083,
+        "medianAge": 32.3,
+        "totalPopulation": 60854,
+        "collegePct": 29.8,
+        "renterRatePct": 37.75,
+        "race": {
+          "whitePct": 67,
+          "nonHispanicWhitePct": 66.31,
+          "blackPct": 25.28,
+          "asianPct": 1.2,
+          "hispanicPct": 3.41
+        }
+      },
+      "election": {
+        "winner": "Chris Johnson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Mississippi Senate District 46",
+      "census": {
+        "censusName": "State Senate District 46 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67370,
+        "medianAge": 43,
+        "totalPopulation": 57553,
+        "collegePct": 21.74,
+        "renterRatePct": 17.19,
+        "race": {
+          "whitePct": 84.5,
+          "nonHispanicWhitePct": 83.7,
+          "blackPct": 7.5,
+          "asianPct": 0.37,
+          "hispanicPct": 4.78
+        }
+      },
+      "election": {
+        "winner": "Philman A. Ladner",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Mississippi Senate District 47",
+      "census": {
+        "censusName": "State Senate District 47 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67073,
+        "medianAge": 39.5,
+        "totalPopulation": 59813,
+        "collegePct": 19.78,
+        "renterRatePct": 20.97,
+        "race": {
+          "whitePct": 80.74,
+          "nonHispanicWhitePct": 79.86,
+          "blackPct": 9.49,
+          "asianPct": 1.81,
+          "hispanicPct": 3.67
+        }
+      },
+      "election": {
+        "winner": "Joseph M. 'Mike' Seymour",
+        "party": "REP",
+        "pct": 86.09,
+        "unopposed": false
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Mississippi Senate District 48",
+      "census": {
+        "censusName": "State Senate District 48 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48796,
+        "medianAge": 40.9,
+        "totalPopulation": 59874,
+        "collegePct": 25.5,
+        "renterRatePct": 40.93,
+        "race": {
+          "whitePct": 58.91,
+          "nonHispanicWhitePct": 57.79,
+          "blackPct": 30.81,
+          "asianPct": 1.26,
+          "hispanicPct": 4.54
+        }
+      },
+      "election": {
+        "winner": "Mike Thompson",
+        "party": "REP",
+        "pct": 71.1,
+        "unopposed": false
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Mississippi Senate District 49",
+      "census": {
+        "censusName": "State Senate District 49 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58567,
+        "medianAge": 37.8,
+        "totalPopulation": 59327,
+        "collegePct": 29.38,
+        "renterRatePct": 40.9,
+        "race": {
+          "whitePct": 60.38,
+          "nonHispanicWhitePct": 58.67,
+          "blackPct": 27.05,
+          "asianPct": 2.1,
+          "hispanicPct": 6.54
+        }
+      },
+      "election": {
+        "winner": "Joel R. Carter Jr.",
+        "party": "REP",
+        "pct": 69.91,
+        "unopposed": false
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Mississippi Senate District 50",
+      "census": {
+        "censusName": "State Senate District 50 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57524,
+        "medianAge": 35.3,
+        "totalPopulation": 60699,
+        "collegePct": 24.45,
+        "renterRatePct": 49.14,
+        "race": {
+          "whitePct": 60.82,
+          "nonHispanicWhitePct": 58.2,
+          "blackPct": 21.72,
+          "asianPct": 5.04,
+          "hispanicPct": 9.66
+        }
+      },
+      "election": {
+        "winner": "Scott Delano",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Mississippi Senate District 51",
+      "census": {
+        "censusName": "State Senate District 51 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64755,
+        "medianAge": 40.9,
+        "totalPopulation": 58396,
+        "collegePct": 23.1,
+        "renterRatePct": 23.51,
+        "race": {
+          "whitePct": 67.64,
+          "nonHispanicWhitePct": 66.36,
+          "blackPct": 23.22,
+          "asianPct": 2.38,
+          "hispanicPct": 4.58
+        }
+      },
+      "election": {
+        "winner": "Jeremy England",
+        "party": "REP",
+        "pct": 75.9,
+        "unopposed": false
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Mississippi Senate District 52",
+      "census": {
+        "censusName": "State Senate District 52 (2022); Mississippi",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64780,
+        "medianAge": 38.4,
+        "totalPopulation": 59635,
+        "collegePct": 30.07,
+        "renterRatePct": 34.45,
+        "race": {
+          "whitePct": 62.56,
+          "nonHispanicWhitePct": 59.61,
+          "blackPct": 24.44,
+          "asianPct": 1.41,
+          "hispanicPct": 11.44
+        }
+      },
+      "election": {
+        "winner": "Brice Wiggins",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    }
+  }
+}

@@ -1,0 +1,1050 @@
+{
+  "house": {
+    "1": {
+      "winner": "Lester E. 'Bubba' Carpenter",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "2": {
+      "winner": "Brad Mattox",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "3": {
+      "winner": "William Tracy Arnold",
+      "party": "REP",
+      "pct": 80.19,
+      "unopposed": false
+    },
+    "4": {
+      "winner": "Joseph F. 'Jody' Steverson",
+      "party": "REP",
+      "pct": 88.34,
+      "unopposed": false
+    },
+    "5": {
+      "winner": "John Faulkner",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "6": {
+      "winner": "Justin Keen",
+      "party": "REP",
+      "pct": 58.7,
+      "unopposed": false
+    },
+    "7": {
+      "winner": "Kimberly Remak",
+      "party": "REP",
+      "pct": 60.08,
+      "unopposed": false
+    },
+    "8": {
+      "winner": "Trey Lamar",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "9": {
+      "winner": "Cedric Burnett",
+      "party": "DEM",
+      "pct": 71.2,
+      "unopposed": false
+    },
+    "10": {
+      "winner": "Josh Hawkins",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "11": {
+      "winner": "Lataisha M. Jackson",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "12": {
+      "winner": "Clay Deweese",
+      "party": "REP",
+      "pct": 62.25,
+      "unopposed": false
+    },
+    "13": {
+      "winner": "Steve Massengill",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "14": {
+      "winner": "Sam J. Creekmore IV",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "15": {
+      "winner": "Beth Luther Waldo",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "16": {
+      "winner": "Rickey W. Thompson",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "17": {
+      "winner": "Shane Aguirre",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "18": {
+      "winner": "Jerry R. Turner",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "19": {
+      "winner": "Randy P. Boyd",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "20": {
+      "winner": "Rodney Hall",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "21": {
+      "winner": "Donnie Bell",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "22": {
+      "winner": "Jon Lancaster",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "23": {
+      "winner": "Andrew 'Andy' Stepp",
+      "party": "REP",
+      "pct": 71.91,
+      "unopposed": false
+    },
+    "24": {
+      "winner": "Jeffery S. Hale",
+      "party": "REP",
+      "pct": 67.34,
+      "unopposed": false
+    },
+    "25": {
+      "winner": "Dan Eubanks",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "26": {
+      "winner": "Orlando W. Paden",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "27": {
+      "winner": "Kenji L. Holloway",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "28": {
+      "winner": "W. I. 'Doc' Harris Jr.",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "29": {
+      "winner": "Robert L. Sanders",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "30": {
+      "winner": "Tracey T. Rosebud",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "31": {
+      "winner": "Otis L. Anthony II",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "32": {
+      "winner": "Solomon Curtis Osborne",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "33": {
+      "winner": "Jim Estrada",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "34": {
+      "winner": "Kevin Horan",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "35": {
+      "winner": "Joey Hood",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "36": {
+      "winner": "Karl Malinski Gibbs",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "37": {
+      "winner": "Andy Boyd",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "38": {
+      "winner": "Cheikh A. Taylor",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "39": {
+      "winner": "Dana Underwood McLean",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "40": {
+      "winner": "Hester Jackson-McCray",
+      "party": "DEM",
+      "pct": 65.72,
+      "unopposed": false
+    },
+    "41": {
+      "winner": "Kabir Karriem",
+      "party": "DEM",
+      "pct": 79.2,
+      "unopposed": false
+    },
+    "42": {
+      "winner": "Carl L. Mickens",
+      "party": "DEM",
+      "pct": 88.45,
+      "unopposed": false
+    },
+    "43": {
+      "winner": "Loyd B. 'Rob' Roberson II",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "44": {
+      "winner": "C. Scott Bounds",
+      "party": "REP",
+      "pct": 89.74,
+      "unopposed": false
+    },
+    "45": {
+      "winner": "Keith Jackson",
+      "party": "DEM",
+      "pct": 55.61,
+      "unopposed": false
+    },
+    "46": {
+      "winner": "Karl Oliver",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "47": {
+      "winner": "Bryant W. Clark",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "48": {
+      "winner": "Jason White",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "49": {
+      "winner": "Willie L. Bailey",
+      "party": "DEM",
+      "pct": 84.76,
+      "unopposed": false
+    },
+    "50": {
+      "winner": "John W. Hines",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "51": {
+      "winner": "Timaka James-Jones",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "52": {
+      "winner": "Bill Kinkade",
+      "party": "REP",
+      "pct": 60.68,
+      "unopposed": false
+    },
+    "53": {
+      "winner": "Vince Mangold",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "54": {
+      "winner": "Kevin Kilgore Ford",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "55": {
+      "winner": "Oscar Denton",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "56": {
+      "winner": "Clay Mansell",
+      "party": "REP",
+      "pct": 65.57,
+      "unopposed": false
+    },
+    "57": {
+      "winner": "Lawrence Blackmon",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "58": {
+      "winner": "Jonathan McMillan",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "59": {
+      "winner": "Brent Powell",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "60": {
+      "winner": "Fred Shanks",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "61": {
+      "winner": "Gene Newman",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "62": {
+      "winner": "Lance Varner",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "63": {
+      "winner": "Stephanie McKenzie Foster",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "64": {
+      "winner": "Shanda M. Yates",
+      "party": "REP",
+      "pct": 62.18,
+      "unopposed": false
+    },
+    "65": {
+      "winner": "Christopher M. Bell",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "66": {
+      "winner": "Fabian Nelson",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "67": {
+      "winner": "Earle S. Banks",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "68": {
+      "winner": "Zakiya Summers",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "69": {
+      "winner": "Tamarra Grace Butler-Washington",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "70": {
+      "winner": "William R. 'Bo' Brown",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "71": {
+      "winner": "Ronnie Crudup Jr.",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "72": {
+      "winner": "Justis Gibbs",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "73": {
+      "winner": "Jill Ford",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "74": {
+      "winner": "Lee Yancey",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "75": {
+      "winner": "Celeste Hurst",
+      "party": "REP",
+      "pct": 73.4,
+      "unopposed": false
+    },
+    "76": {
+      "winner": "Gregory L. Holloway",
+      "party": "DEM",
+      "pct": 74.14,
+      "unopposed": false
+    },
+    "77": {
+      "winner": "Price Wallace",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "78": {
+      "winner": "Randal 'Randy' Rushing",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "79": {
+      "winner": "Mark K. Tullos",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "80": {
+      "winner": "Omeria Scott",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "81": {
+      "winner": "Stephen A. 'Steve' Horne",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "82": {
+      "winner": "Charles L. Young Jr.",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "83": {
+      "winner": "Billy Adam Calvert",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "84": {
+      "winner": "Troy Smith",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "85": {
+      "winner": "Jeffery Harness",
+      "party": "DEM",
+      "pct": 79.95,
+      "unopposed": false
+    },
+    "86": {
+      "winner": "Shane Barnett",
+      "party": "REP",
+      "pct": 65.37,
+      "unopposed": false
+    },
+    "87": {
+      "winner": "Joseph 'Bubba' Tubb",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "88": {
+      "winner": "Charles 'Chuck' Blackwell",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "89": {
+      "winner": "Donnie Scoggin",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "90": {
+      "winner": "Noah Sanford",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "91": {
+      "winner": "Bob Evans",
+      "party": "DEM",
+      "pct": 66.08,
+      "unopposed": false
+    },
+    "92": {
+      "winner": "Becky Currie",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "93": {
+      "winner": "Timmy Ladner",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "94": {
+      "winner": "Robert L. Johnson III",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "95": {
+      "winner": "Jay McKnight",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "96": {
+      "winner": "Angela Cockerharn",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "97": {
+      "winner": "Sam C. Mims V",
+      "party": "REP",
+      "pct": 69.43,
+      "unopposed": false
+    },
+    "98": {
+      "winner": "Daryl L. Porter Jr.",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "99": {
+      "winner": "Bill Pigott",
+      "party": "REP",
+      "pct": 84.24,
+      "unopposed": false
+    },
+    "100": {
+      "winner": "Ken Morgan",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "101": {
+      "winner": "Kent McCarty",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "102": {
+      "winner": "Missy Warren McGee",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "103": {
+      "winner": "Percy W. Watson",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "104": {
+      "winner": "Larry Byrd",
+      "party": "REP",
+      "pct": 86.54,
+      "unopposed": false
+    },
+    "105": {
+      "winner": "Elliot Burch",
+      "party": "REP",
+      "pct": 82.99,
+      "unopposed": false
+    },
+    "106": {
+      "winner": "Jansen Owen",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "107": {
+      "winner": "Ronald Steven 'Steve' Lott",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "108": {
+      "winner": "Stacey Hobgood Wilkes",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "109": {
+      "winner": "Manly Barton",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "110": {
+      "winner": "Jeramey Anderson",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "111": {
+      "winner": "Jimmy Fondren",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "112": {
+      "winner": "John O. Read",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "113": {
+      "winner": "Henry 'Hank' B. Zuber III",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "114": {
+      "winner": "Jeffrey S. 'Jeff' Guice",
+      "party": "REP",
+      "pct": 82.09,
+      "unopposed": false
+    },
+    "115": {
+      "winner": "Zachary Grady",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "116": {
+      "winner": "Casey Eure",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "117": {
+      "winner": "Kevin W. Felsher",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "118": {
+      "winner": "Greg Haney",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "119": {
+      "winner": "Jeffery Hulum III",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "120": {
+      "winner": "Richard Bennett",
+      "party": "REP",
+      "pct": 80.04,
+      "unopposed": false
+    },
+    "121": {
+      "winner": "Carolyn Crawford",
+      "party": "REP",
+      "pct": 62.97,
+      "unopposed": false
+    },
+    "122": {
+      "winner": "Brent David Anderson",
+      "party": "REP",
+      "pct": 78.77,
+      "unopposed": false
+    }
+  },
+  "senate": {
+    "1": {
+      "winner": "Michael W. McLendon",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "2": {
+      "winner": "David L. Parker",
+      "party": "DEM",
+      "pct": 56.62,
+      "unopposed": false
+    },
+    "3": {
+      "winner": "Kathy Leath Chism",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "4": {
+      "winner": "Rita Potts Parks",
+      "party": "REP",
+      "pct": 76.66,
+      "unopposed": false
+    },
+    "5": {
+      "winner": "Daniel H. Sparks",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "6": {
+      "winner": "Chad McMahan",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "7": {
+      "winner": "Hob Bryan",
+      "party": "DEM",
+      "pct": 54.89,
+      "unopposed": false
+    },
+    "8": {
+      "winner": "Benjamin A. Suber",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "9": {
+      "winner": "Nicole Akins Boyd",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "10": {
+      "winner": "Neil S. Whaley",
+      "party": "REP",
+      "pct": 60.8,
+      "unopposed": false
+    },
+    "11": {
+      "winner": "Reginald D. Jackson",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "12": {
+      "winner": "Derrick T. Simmons",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "13": {
+      "winner": "Sarita M. Simmons",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "14": {
+      "winner": "Lydia Chassaniol",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "15": {
+      "winner": "Bart Williams",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "16": {
+      "winner": "Angela Turner Ford",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "17": {
+      "winner": "Chuck Younger",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "18": {
+      "winner": "Jenifer Branning",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "19": {
+      "winner": "Kevin Blackwell",
+      "party": "REP",
+      "pct": 65.71,
+      "unopposed": false
+    },
+    "20": {
+      "winner": "Josh Harkins",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "21": {
+      "winner": "Bradford J. Blackmon",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "22": {
+      "winner": "Joseph C. Thomas Sr.",
+      "party": "DEM",
+      "pct": 57.58,
+      "unopposed": false
+    },
+    "23": {
+      "winner": "Briggs Hopson",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "24": {
+      "winner": "David Jordan",
+      "party": "DEM",
+      "pct": 54.9,
+      "unopposed": false
+    },
+    "25": {
+      "winner": "Walter Michel",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "26": {
+      "winner": "John Horhn",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "27": {
+      "winner": "Hillman Terome Frazier",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "28": {
+      "winner": "Sollie B. Norwood",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "29": {
+      "winner": "David Blount",
+      "party": "DEM",
+      "pct": 77.76,
+      "unopposed": false
+    },
+    "30": {
+      "winner": "Dean Kirby",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "31": {
+      "winner": "Tyler McCaughn",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "32": {
+      "winner": "Rod Hickman",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "33": {
+      "winner": "Jeff Tate",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "34": {
+      "winner": "Juan R. Barnett",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "35": {
+      "winner": "Andy Berry",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "36": {
+      "winner": "Brian Rhodes",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "37": {
+      "winner": "Albert Butler",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "38": {
+      "winner": "Gary Brumfield",
+      "party": "DEM",
+      "pct": 50.5,
+      "unopposed": false
+    },
+    "39": {
+      "winner": "Jason T. Barrett",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "40": {
+      "winner": "Angela Burks Hill",
+      "party": "REP",
+      "pct": 80.81,
+      "unopposed": false
+    },
+    "41": {
+      "winner": "Joey Fillingane",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "42": {
+      "winner": "Robin Robinson",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "43": {
+      "winner": "Dennis DeBar Jr.",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "44": {
+      "winner": "John A. Polk",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "45": {
+      "winner": "Chris Johnson",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "46": {
+      "winner": "Philman A. Ladner",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "47": {
+      "winner": "Joseph M. 'Mike' Seymour",
+      "party": "REP",
+      "pct": 86.09,
+      "unopposed": false
+    },
+    "48": {
+      "winner": "Mike Thompson",
+      "party": "REP",
+      "pct": 71.1,
+      "unopposed": false
+    },
+    "49": {
+      "winner": "Joel R. Carter Jr.",
+      "party": "REP",
+      "pct": 69.91,
+      "unopposed": false
+    },
+    "50": {
+      "winner": "Scott Delano",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "51": {
+      "winner": "Jeremy England",
+      "party": "REP",
+      "pct": 75.9,
+      "unopposed": false
+    },
+    "52": {
+      "winner": "Brice Wiggins",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    }
+  }
+}

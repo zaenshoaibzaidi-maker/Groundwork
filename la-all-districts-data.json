@@ -1,0 +1,3750 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Louisiana House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53088,
+        "medianAge": 44.3,
+        "totalPopulation": 44079,
+        "collegePct": 18.78,
+        "renterRatePct": 19.65,
+        "race": {
+          "whitePct": 67.53,
+          "nonHispanicWhitePct": 66.66,
+          "blackPct": 25.51,
+          "asianPct": 0.55,
+          "hispanicPct": 2.91
+        }
+      },
+      "election": {
+        "winner": "Danny McCormick",
+        "party": "REP",
+        "pct": 66.37,
+        "unopposed": false
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Louisiana House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 34849,
+        "medianAge": 40.5,
+        "totalPopulation": 42964,
+        "collegePct": 14.88,
+        "renterRatePct": 61.15,
+        "race": {
+          "whitePct": 25.93,
+          "nonHispanicWhitePct": 21.9,
+          "blackPct": 64.24,
+          "asianPct": 1.65,
+          "hispanicPct": 9.29
+        }
+      },
+      "election": {
+        "winner": "Steven Jackson",
+        "party": "DEM",
+        "pct": 51.55,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Louisiana House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 34734,
+        "medianAge": 33.8,
+        "totalPopulation": 45785,
+        "collegePct": 11.74,
+        "renterRatePct": 55.06,
+        "race": {
+          "whitePct": 17.64,
+          "nonHispanicWhitePct": 17,
+          "blackPct": 75.8,
+          "asianPct": 0.54,
+          "hispanicPct": 4.13
+        }
+      },
+      "election": {
+        "winner": "Tammy T. Phelps",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Louisiana House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45158,
+        "medianAge": 36.3,
+        "totalPopulation": 46781,
+        "collegePct": 18.7,
+        "renterRatePct": 45.95,
+        "race": {
+          "whitePct": 23.54,
+          "nonHispanicWhitePct": 22.49,
+          "blackPct": 72.35,
+          "asianPct": 0.91,
+          "hispanicPct": 2.07
+        }
+      },
+      "election": {
+        "winner": "Joy Walters",
+        "party": "DEM",
+        "pct": 53.84,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Louisiana House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81793,
+        "medianAge": 38,
+        "totalPopulation": 46773,
+        "collegePct": 36.94,
+        "renterRatePct": 25.09,
+        "race": {
+          "whitePct": 68.95,
+          "nonHispanicWhitePct": 66.86,
+          "blackPct": 22.73,
+          "asianPct": 1.79,
+          "hispanicPct": 6.08
+        }
+      },
+      "election": {
+        "winner": "Dennis Bamburg, Jr.",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Louisiana House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76411,
+        "medianAge": 38.9,
+        "totalPopulation": 41802,
+        "collegePct": 48.13,
+        "renterRatePct": 35.01,
+        "race": {
+          "whitePct": 71.75,
+          "nonHispanicWhitePct": 70.44,
+          "blackPct": 17.1,
+          "asianPct": 2.66,
+          "hispanicPct": 4.57
+        }
+      },
+      "election": {
+        "winner": "Michael Melerine",
+        "party": "REP",
+        "pct": 68.08,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Louisiana House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48425,
+        "medianAge": 39.9,
+        "totalPopulation": 44188,
+        "collegePct": 14.99,
+        "renterRatePct": 23.57,
+        "race": {
+          "whitePct": 59.65,
+          "nonHispanicWhitePct": 58.61,
+          "blackPct": 29.27,
+          "asianPct": 0.27,
+          "hispanicPct": 3.51
+        }
+      },
+      "election": {
+        "winner": "Larry Bagley",
+        "party": "REP",
+        "pct": 61.25,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Louisiana House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77122,
+        "medianAge": 36.7,
+        "totalPopulation": 44730,
+        "collegePct": 33.86,
+        "renterRatePct": 29.25,
+        "race": {
+          "whitePct": 65.56,
+          "nonHispanicWhitePct": 64.99,
+          "blackPct": 22.11,
+          "asianPct": 1.47,
+          "hispanicPct": 5.02
+        }
+      },
+      "election": {
+        "winner": "Raymond J. Crews",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Louisiana House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64832,
+        "medianAge": 36,
+        "totalPopulation": 44447,
+        "collegePct": 23.22,
+        "renterRatePct": 29.4,
+        "race": {
+          "whitePct": 71.1,
+          "nonHispanicWhitePct": 68.19,
+          "blackPct": 19.48,
+          "asianPct": 2.19,
+          "hispanicPct": 8.16
+        }
+      },
+      "election": {
+        "winner": "Dodie Horton",
+        "party": "REP",
+        "pct": 60.07,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Louisiana House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 39591,
+        "medianAge": 41.5,
+        "totalPopulation": 42740,
+        "collegePct": 14.03,
+        "renterRatePct": 29.61,
+        "race": {
+          "whitePct": 62.6,
+          "nonHispanicWhitePct": 61.42,
+          "blackPct": 33.55,
+          "asianPct": 0.36,
+          "hispanicPct": 2.06
+        }
+      },
+      "election": {
+        "winner": "Wayne McMahen",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Louisiana House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 28587,
+        "medianAge": 31.8,
+        "totalPopulation": 41852,
+        "collegePct": 19.42,
+        "renterRatePct": 49.12,
+        "race": {
+          "whitePct": 35.38,
+          "nonHispanicWhitePct": 34.82,
+          "blackPct": 57.75,
+          "asianPct": 0.26,
+          "hispanicPct": 3.58
+        }
+      },
+      "election": {
+        "winner": "Rashid Armand Young",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Louisiana House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55063,
+        "medianAge": 38.4,
+        "totalPopulation": 45879,
+        "collegePct": 29.2,
+        "renterRatePct": 28,
+        "race": {
+          "whitePct": 72.31,
+          "nonHispanicWhitePct": 71.28,
+          "blackPct": 19.24,
+          "asianPct": 1.19,
+          "hispanicPct": 4.17
+        }
+      },
+      "election": {
+        "winner": "Christopher Turner",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Louisiana House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42994,
+        "medianAge": 41.8,
+        "totalPopulation": 43753,
+        "collegePct": 14.41,
+        "renterRatePct": 27.91,
+        "race": {
+          "whitePct": 64.5,
+          "nonHispanicWhitePct": 63.26,
+          "blackPct": 28.26,
+          "asianPct": 0.46,
+          "hispanicPct": 3.94
+        }
+      },
+      "election": {
+        "winner": "Jack G. McFarland",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Louisiana House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70366,
+        "medianAge": 38,
+        "totalPopulation": 44560,
+        "collegePct": 41.61,
+        "renterRatePct": 31.31,
+        "race": {
+          "whitePct": 69.25,
+          "nonHispanicWhitePct": 68.47,
+          "blackPct": 22.46,
+          "asianPct": 1.85,
+          "hispanicPct": 3.31
+        }
+      },
+      "election": {
+        "winner": "Michael Charles Echols",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Louisiana House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73376,
+        "medianAge": 39.2,
+        "totalPopulation": 43127,
+        "collegePct": 28.24,
+        "renterRatePct": 22.93,
+        "race": {
+          "whitePct": 88.65,
+          "nonHispanicWhitePct": 87.35,
+          "blackPct": 6.25,
+          "asianPct": 0.87,
+          "hispanicPct": 3
+        }
+      },
+      "election": {
+        "winner": "Foy Gadberry",
+        "party": "REP",
+        "pct": 54.51,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Louisiana House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 34033,
+        "medianAge": 33.2,
+        "totalPopulation": 43159,
+        "collegePct": 18.38,
+        "renterRatePct": 52.92,
+        "race": {
+          "whitePct": 31.12,
+          "nonHispanicWhitePct": 30.66,
+          "blackPct": 64.62,
+          "asianPct": 0.83,
+          "hispanicPct": 2.2
+        }
+      },
+      "election": {
+        "winner": "Adrian Fisher",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Louisiana House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 32485,
+        "medianAge": 35.8,
+        "totalPopulation": 41462,
+        "collegePct": 13.68,
+        "renterRatePct": 57.8,
+        "race": {
+          "whitePct": 25.84,
+          "nonHispanicWhitePct": 24.24,
+          "blackPct": 68.11,
+          "asianPct": 0.54,
+          "hispanicPct": 5.09
+        }
+      },
+      "election": {
+        "winner": "Patricia \"Pat\" Moore",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Louisiana House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67767,
+        "medianAge": 41.3,
+        "totalPopulation": 46691,
+        "collegePct": 19.16,
+        "renterRatePct": 20.15,
+        "race": {
+          "whitePct": 56.82,
+          "nonHispanicWhitePct": 55.86,
+          "blackPct": 38.34,
+          "asianPct": 0.26,
+          "hispanicPct": 2.53
+        }
+      },
+      "election": {
+        "winner": "Jeremy S. LaCombe",
+        "party": "REP",
+        "pct": 55.45,
+        "unopposed": false
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Louisiana House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50393,
+        "medianAge": 41.3,
+        "totalPopulation": 42364,
+        "collegePct": 16.59,
+        "renterRatePct": 28.75,
+        "race": {
+          "whitePct": 67.76,
+          "nonHispanicWhitePct": 67.3,
+          "blackPct": 28.48,
+          "asianPct": 0.1,
+          "hispanicPct": 2.42
+        }
+      },
+      "election": {
+        "winner": "Francis Thompson",
+        "party": "REP",
+        "pct": 77.93,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Louisiana House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51304,
+        "medianAge": 39,
+        "totalPopulation": 42363,
+        "collegePct": 16.48,
+        "renterRatePct": 21.62,
+        "race": {
+          "whitePct": 79,
+          "nonHispanicWhitePct": 76.5,
+          "blackPct": 16.58,
+          "asianPct": 0.63,
+          "hispanicPct": 3.52
+        }
+      },
+      "election": {
+        "winner": "Neil Riser",
+        "party": "REP",
+        "pct": 57.19,
+        "unopposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Louisiana House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 35058,
+        "medianAge": 37.9,
+        "totalPopulation": 43166,
+        "collegePct": 14.65,
+        "renterRatePct": 36.43,
+        "race": {
+          "whitePct": 42.2,
+          "nonHispanicWhitePct": 41.75,
+          "blackPct": 53.79,
+          "asianPct": 0.21,
+          "hispanicPct": 2.11
+        }
+      },
+      "election": {
+        "winner": "C. Travis Johnson",
+        "party": "DEM",
+        "pct": 52.37,
+        "unopposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Louisiana House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54547,
+        "medianAge": 35.5,
+        "totalPopulation": 41577,
+        "collegePct": 18.21,
+        "renterRatePct": 31.32,
+        "race": {
+          "whitePct": 64.98,
+          "nonHispanicWhitePct": 62.5,
+          "blackPct": 26.38,
+          "asianPct": 0.66,
+          "hispanicPct": 6.14
+        }
+      },
+      "election": {
+        "winner": "Michael \"Gabe\" Firment",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Louisiana House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50599,
+        "medianAge": 36.3,
+        "totalPopulation": 42724,
+        "collegePct": 45.06,
+        "renterRatePct": 63.27,
+        "race": {
+          "whitePct": 35.5,
+          "nonHispanicWhitePct": 33.51,
+          "blackPct": 48.68,
+          "asianPct": 1.18,
+          "hispanicPct": 11.59
+        }
+      },
+      "election": {
+        "winner": "Shaun Mena",
+        "party": "DEM",
+        "pct": 57.87,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Louisiana House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61423,
+        "medianAge": 35.5,
+        "totalPopulation": 40909,
+        "collegePct": 16.57,
+        "renterRatePct": 27.45,
+        "race": {
+          "whitePct": 80.75,
+          "nonHispanicWhitePct": 78.98,
+          "blackPct": 8.78,
+          "asianPct": 0.98,
+          "hispanicPct": 5.61
+        }
+      },
+      "election": {
+        "winner": "Rodney Schamerhorn",
+        "party": "REP",
+        "pct": 60.24,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Louisiana House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69499,
+        "medianAge": 39.1,
+        "totalPopulation": 44131,
+        "collegePct": 32.02,
+        "renterRatePct": 28.66,
+        "race": {
+          "whitePct": 69.72,
+          "nonHispanicWhitePct": 67.74,
+          "blackPct": 22.61,
+          "asianPct": 1.8,
+          "hispanicPct": 4.09
+        }
+      },
+      "election": {
+        "winner": "Jason Dewitt",
+        "party": "REP",
+        "pct": 59.03,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Louisiana House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 36529,
+        "medianAge": 37,
+        "totalPopulation": 43428,
+        "collegePct": 15.16,
+        "renterRatePct": 53.89,
+        "race": {
+          "whitePct": 28.18,
+          "nonHispanicWhitePct": 27.39,
+          "blackPct": 66.38,
+          "asianPct": 0.76,
+          "hispanicPct": 2.51
+        }
+      },
+      "election": {
+        "winner": "Ed Larvadain III",
+        "party": "DEM",
+        "pct": 61.5,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Louisiana House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71347,
+        "medianAge": 36.9,
+        "totalPopulation": 44037,
+        "collegePct": 22.12,
+        "renterRatePct": 23.64,
+        "race": {
+          "whitePct": 80.83,
+          "nonHispanicWhitePct": 79.61,
+          "blackPct": 10.7,
+          "asianPct": 0.92,
+          "hispanicPct": 3.37
+        }
+      },
+      "election": {
+        "winner": "Michael T. Johnson",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Louisiana House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 38197,
+        "medianAge": 38.3,
+        "totalPopulation": 42406,
+        "collegePct": 10.93,
+        "renterRatePct": 30.66,
+        "race": {
+          "whitePct": 65.28,
+          "nonHispanicWhitePct": 64.09,
+          "blackPct": 26.07,
+          "asianPct": 0.59,
+          "hispanicPct": 3.64
+        }
+      },
+      "election": {
+        "winner": "Daryl Deshotel",
+        "party": "REP",
+        "pct": 81.47,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Louisiana House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46714,
+        "medianAge": 35.2,
+        "totalPopulation": 45478,
+        "collegePct": 18.07,
+        "renterRatePct": 41.56,
+        "race": {
+          "whitePct": 21.23,
+          "nonHispanicWhitePct": 20.68,
+          "blackPct": 73.48,
+          "asianPct": 0.33,
+          "hispanicPct": 3.56
+        }
+      },
+      "election": {
+        "winner": "Edmond Jordan",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Louisiana House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58794,
+        "medianAge": 35,
+        "totalPopulation": 42522,
+        "collegePct": 20.66,
+        "renterRatePct": 38.81,
+        "race": {
+          "whitePct": 68.14,
+          "nonHispanicWhitePct": 64.2,
+          "blackPct": 19.22,
+          "asianPct": 1.78,
+          "hispanicPct": 8.35
+        }
+      },
+      "election": {
+        "winner": "Charles A. Owen",
+        "party": "REP",
+        "pct": 85.15,
+        "unopposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Louisiana House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70361,
+        "medianAge": 36.5,
+        "totalPopulation": 44873,
+        "collegePct": 33.22,
+        "renterRatePct": 35.36,
+        "race": {
+          "whitePct": 65.28,
+          "nonHispanicWhitePct": 64.27,
+          "blackPct": 19.93,
+          "asianPct": 4.28,
+          "hispanicPct": 6.84
+        }
+      },
+      "election": {
+        "winner": "Troy Hebert",
+        "party": "REP",
+        "pct": 60.75,
+        "unopposed": false
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Louisiana House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54206,
+        "medianAge": 38.8,
+        "totalPopulation": 42189,
+        "collegePct": 12.72,
+        "renterRatePct": 18.22,
+        "race": {
+          "whitePct": 76.38,
+          "nonHispanicWhitePct": 73.19,
+          "blackPct": 14.48,
+          "asianPct": 0.43,
+          "hispanicPct": 5.86
+        }
+      },
+      "election": {
+        "winner": "R. Dewith Carrier",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Louisiana House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67438,
+        "medianAge": 36.5,
+        "totalPopulation": 43812,
+        "collegePct": 18.53,
+        "renterRatePct": 22.69,
+        "race": {
+          "whitePct": 87.64,
+          "nonHispanicWhitePct": 84.24,
+          "blackPct": 5.19,
+          "asianPct": 0.88,
+          "hispanicPct": 6.11
+        }
+      },
+      "election": {
+        "winner": "Les Farnum",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Louisiana House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48907,
+        "medianAge": 36.6,
+        "totalPopulation": 43695,
+        "collegePct": 18.12,
+        "renterRatePct": 40.52,
+        "race": {
+          "whitePct": 21.08,
+          "nonHispanicWhitePct": 19.18,
+          "blackPct": 68.99,
+          "asianPct": 0.53,
+          "hispanicPct": 5.66
+        }
+      },
+      "election": {
+        "winner": "Wilford Carter, Sr.",
+        "party": "DEM",
+        "pct": 62.22,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Louisiana House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77112,
+        "medianAge": 40.7,
+        "totalPopulation": 41720,
+        "collegePct": 27.57,
+        "renterRatePct": 22.35,
+        "race": {
+          "whitePct": 84.12,
+          "nonHispanicWhitePct": 83.3,
+          "blackPct": 10.66,
+          "asianPct": 1.28,
+          "hispanicPct": 2.06
+        }
+      },
+      "election": {
+        "winner": "Brett F. Geymann",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Louisiana House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76241,
+        "medianAge": 34.5,
+        "totalPopulation": 45114,
+        "collegePct": 39.03,
+        "renterRatePct": 31.59,
+        "race": {
+          "whitePct": 77.16,
+          "nonHispanicWhitePct": 76.16,
+          "blackPct": 13.07,
+          "asianPct": 3.44,
+          "hispanicPct": 4.75
+        }
+      },
+      "election": {
+        "winner": "Phillip Eric Tarver",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Louisiana House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57111,
+        "medianAge": 37.7,
+        "totalPopulation": 43946,
+        "collegePct": 16.54,
+        "renterRatePct": 24.13,
+        "race": {
+          "whitePct": 75.95,
+          "nonHispanicWhitePct": 75.16,
+          "blackPct": 15.42,
+          "asianPct": 0.2,
+          "hispanicPct": 3
+        }
+      },
+      "election": {
+        "winner": "Reese \"Skip\" Broussard",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Louisiana House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44667,
+        "medianAge": 38.6,
+        "totalPopulation": 40555,
+        "collegePct": 14.03,
+        "renterRatePct": 31.72,
+        "race": {
+          "whitePct": 67.27,
+          "nonHispanicWhitePct": 65.63,
+          "blackPct": 23.13,
+          "asianPct": 0.77,
+          "hispanicPct": 6.07
+        }
+      },
+      "election": {
+        "winner": "Rhonda Gaye Butler",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Louisiana House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63682,
+        "medianAge": 37.8,
+        "totalPopulation": 41490,
+        "collegePct": 21.39,
+        "renterRatePct": 21.26,
+        "race": {
+          "whitePct": 60.36,
+          "nonHispanicWhitePct": 58.31,
+          "blackPct": 31.03,
+          "asianPct": 1.39,
+          "hispanicPct": 5.31
+        }
+      },
+      "election": {
+        "winner": "Julie Emerson",
+        "party": "REP",
+        "pct": 71.69,
+        "unopposed": false
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Louisiana House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46464,
+        "medianAge": 36.8,
+        "totalPopulation": 44133,
+        "collegePct": 15.04,
+        "renterRatePct": 30.94,
+        "race": {
+          "whitePct": 39.07,
+          "nonHispanicWhitePct": 38.73,
+          "blackPct": 55.02,
+          "asianPct": 1.02,
+          "hispanicPct": 2.38
+        }
+      },
+      "election": {
+        "winner": "Dustin Miller",
+        "party": "DEM",
+        "pct": 81.32,
+        "unopposed": false
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Louisiana House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51694,
+        "medianAge": 37.2,
+        "totalPopulation": 46765,
+        "collegePct": 13.36,
+        "renterRatePct": 30.29,
+        "race": {
+          "whitePct": 74.47,
+          "nonHispanicWhitePct": 73.58,
+          "blackPct": 17.8,
+          "asianPct": 0.19,
+          "hispanicPct": 4.82
+        }
+      },
+      "election": {
+        "winner": "Phillip R. DeVillier",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Louisiana House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46914,
+        "medianAge": 37.3,
+        "totalPopulation": 46158,
+        "collegePct": 16.04,
+        "renterRatePct": 29.25,
+        "race": {
+          "whitePct": 75.59,
+          "nonHispanicWhitePct": 74.76,
+          "blackPct": 17.17,
+          "asianPct": 0.14,
+          "hispanicPct": 2.38
+        }
+      },
+      "election": {
+        "winner": "Chance Henry",
+        "party": "REP",
+        "pct": 61.85,
+        "unopposed": false
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Louisiana House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86875,
+        "medianAge": 37.5,
+        "totalPopulation": 42516,
+        "collegePct": 45.77,
+        "renterRatePct": 36.62,
+        "race": {
+          "whitePct": 72.73,
+          "nonHispanicWhitePct": 71.22,
+          "blackPct": 16.21,
+          "asianPct": 2.98,
+          "hispanicPct": 5.55
+        }
+      },
+      "election": {
+        "winner": "Josh Carlson",
+        "party": "REP",
+        "pct": 84.07,
+        "unopposed": false
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Louisiana House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41238,
+        "medianAge": 36.5,
+        "totalPopulation": 41147,
+        "collegePct": 19.98,
+        "renterRatePct": 53.43,
+        "race": {
+          "whitePct": 30.69,
+          "nonHispanicWhitePct": 29.48,
+          "blackPct": 61.67,
+          "asianPct": 0.45,
+          "hispanicPct": 4.67
+        }
+      },
+      "election": {
+        "winner": "Tehmi Chassion",
+        "party": "DEM",
+        "pct": 51.62,
+        "unopposed": false
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Louisiana House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68346,
+        "medianAge": 35.8,
+        "totalPopulation": 48237,
+        "collegePct": 47.66,
+        "renterRatePct": 41.57,
+        "race": {
+          "whitePct": 73.55,
+          "nonHispanicWhitePct": 71.12,
+          "blackPct": 12.6,
+          "asianPct": 2.05,
+          "hispanicPct": 11.11
+        }
+      },
+      "election": {
+        "winner": "Brach Myers",
+        "party": "REP",
+        "pct": 70.07,
+        "unopposed": false
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Louisiana House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53016,
+        "medianAge": 38.7,
+        "totalPopulation": 43217,
+        "collegePct": 15.08,
+        "renterRatePct": 19.75,
+        "race": {
+          "whitePct": 69.24,
+          "nonHispanicWhitePct": 68.4,
+          "blackPct": 24.31,
+          "asianPct": 0.69,
+          "hispanicPct": 3.99
+        }
+      },
+      "election": {
+        "winner": "Chad Michael Boyer",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Louisiana House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67975,
+        "medianAge": 38.1,
+        "totalPopulation": 46417,
+        "collegePct": 16.34,
+        "renterRatePct": 18.33,
+        "race": {
+          "whitePct": 76.06,
+          "nonHispanicWhitePct": 74.66,
+          "blackPct": 12.76,
+          "asianPct": 1.59,
+          "hispanicPct": 5.01
+        }
+      },
+      "election": {
+        "winner": "Ryan Bourriaque",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Louisiana House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72627,
+        "medianAge": 38.3,
+        "totalPopulation": 45561,
+        "collegePct": 23.96,
+        "renterRatePct": 21.76,
+        "race": {
+          "whitePct": 74.62,
+          "nonHispanicWhitePct": 74.29,
+          "blackPct": 16.08,
+          "asianPct": 2.97,
+          "hispanicPct": 5.02
+        }
+      },
+      "election": {
+        "winner": "Beau Beaullieu",
+        "party": "REP",
+        "pct": 85.05,
+        "unopposed": false
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Louisiana House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77529,
+        "medianAge": 35.5,
+        "totalPopulation": 47480,
+        "collegePct": 23.34,
+        "renterRatePct": 16.4,
+        "race": {
+          "whitePct": 81.55,
+          "nonHispanicWhitePct": 80.77,
+          "blackPct": 9.85,
+          "asianPct": 1.31,
+          "hispanicPct": 5.36
+        }
+      },
+      "election": {
+        "winner": "Jacob Landry",
+        "party": "REP",
+        "pct": 63.96,
+        "unopposed": false
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Louisiana House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50843,
+        "medianAge": 39.7,
+        "totalPopulation": 42250,
+        "collegePct": 12.73,
+        "renterRatePct": 29.09,
+        "race": {
+          "whitePct": 56.81,
+          "nonHispanicWhitePct": 55.51,
+          "blackPct": 30.69,
+          "asianPct": 0.57,
+          "hispanicPct": 6.5
+        }
+      },
+      "election": {
+        "winner": "Vincent St. Blanc III",
+        "party": "REP",
+        "pct": 71.96,
+        "unopposed": false
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Louisiana House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59932,
+        "medianAge": 36.5,
+        "totalPopulation": 45532,
+        "collegePct": 15.08,
+        "renterRatePct": 22.37,
+        "race": {
+          "whitePct": 64.56,
+          "nonHispanicWhitePct": 61.69,
+          "blackPct": 22.83,
+          "asianPct": 1.59,
+          "hispanicPct": 7.98
+        }
+      },
+      "election": {
+        "winner": "Beryl A. Amedée",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Louisiana House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77152,
+        "medianAge": 35.6,
+        "totalPopulation": 45351,
+        "collegePct": 26.75,
+        "renterRatePct": 30.94,
+        "race": {
+          "whitePct": 69.51,
+          "nonHispanicWhitePct": 68.67,
+          "blackPct": 15.72,
+          "asianPct": 1.74,
+          "hispanicPct": 7.45
+        }
+      },
+      "election": {
+        "winner": "Jerome Zeringue",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Louisiana House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52170,
+        "medianAge": 39.4,
+        "totalPopulation": 40742,
+        "collegePct": 8.91,
+        "renterRatePct": 22.79,
+        "race": {
+          "whitePct": 62.33,
+          "nonHispanicWhitePct": 61.51,
+          "blackPct": 18.69,
+          "asianPct": 0.55,
+          "hispanicPct": 7.13
+        }
+      },
+      "election": {
+        "winner": "Jessica Domangue",
+        "party": "REP",
+        "pct": 51.6,
+        "unopposed": false
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Louisiana House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64791,
+        "medianAge": 41.9,
+        "totalPopulation": 38577,
+        "collegePct": 13.93,
+        "renterRatePct": 18.64,
+        "race": {
+          "whitePct": 84.16,
+          "nonHispanicWhitePct": 82.11,
+          "blackPct": 1.91,
+          "asianPct": 0.83,
+          "hispanicPct": 7.6
+        }
+      },
+      "election": {
+        "winner": "Joseph A. Orgeron",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Louisiana House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60215,
+        "medianAge": 39.5,
+        "totalPopulation": 46336,
+        "collegePct": 27.51,
+        "renterRatePct": 24.75,
+        "race": {
+          "whitePct": 72.96,
+          "nonHispanicWhitePct": 71.95,
+          "blackPct": 19.46,
+          "asianPct": 0.74,
+          "hispanicPct": 4.55
+        }
+      },
+      "election": {
+        "winner": "Bryan Fontenot",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Louisiana House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84146,
+        "medianAge": 39,
+        "totalPopulation": 46325,
+        "collegePct": 28.62,
+        "renterRatePct": 17.69,
+        "race": {
+          "whitePct": 67.81,
+          "nonHispanicWhitePct": 65.5,
+          "blackPct": 20.28,
+          "asianPct": 0.93,
+          "hispanicPct": 7.39
+        }
+      },
+      "election": {
+        "winner": "Beth Anne Billings",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Louisiana House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66601,
+        "medianAge": 38.2,
+        "totalPopulation": 40761,
+        "collegePct": 18.52,
+        "renterRatePct": 20.28,
+        "race": {
+          "whitePct": 33.31,
+          "nonHispanicWhitePct": 31.19,
+          "blackPct": 54.27,
+          "asianPct": 1.16,
+          "hispanicPct": 9.44
+        }
+      },
+      "election": {
+        "winner": "Sylvia Taylor",
+        "party": "DEM",
+        "pct": 65.18,
+        "unopposed": false
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Louisiana House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58621,
+        "medianAge": 38,
+        "totalPopulation": 44957,
+        "collegePct": 17.44,
+        "renterRatePct": 25.05,
+        "race": {
+          "whitePct": 34.67,
+          "nonHispanicWhitePct": 34,
+          "blackPct": 57.49,
+          "asianPct": 0.21,
+          "hispanicPct": 7.29
+        }
+      },
+      "election": {
+        "winner": "Kendricks \"Ken\" Brass",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Louisiana House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115120,
+        "medianAge": 34.3,
+        "totalPopulation": 48146,
+        "collegePct": 39.07,
+        "renterRatePct": 18.47,
+        "race": {
+          "whitePct": 68.43,
+          "nonHispanicWhitePct": 67.15,
+          "blackPct": 17.25,
+          "asianPct": 2.14,
+          "hispanicPct": 8.96
+        }
+      },
+      "election": {
+        "winner": "Tony Bacala",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Louisiana House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57045,
+        "medianAge": 41.1,
+        "totalPopulation": 45199,
+        "collegePct": 16.35,
+        "renterRatePct": 20.99,
+        "race": {
+          "whitePct": 53.24,
+          "nonHispanicWhitePct": 51.43,
+          "blackPct": 40.62,
+          "asianPct": 0.39,
+          "hispanicPct": 4.54
+        }
+      },
+      "election": {
+        "winner": "Chasity Martinez",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Louisiana House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 34303,
+        "medianAge": 35.8,
+        "totalPopulation": 39855,
+        "collegePct": 21.73,
+        "renterRatePct": 60.74,
+        "race": {
+          "whitePct": 18.3,
+          "nonHispanicWhitePct": 17.59,
+          "blackPct": 71.85,
+          "asianPct": 0.81,
+          "hispanicPct": 4.14
+        }
+      },
+      "election": {
+        "winner": "C. Denise Marcelle",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Louisiana House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60394,
+        "medianAge": 39.6,
+        "totalPopulation": 41344,
+        "collegePct": 20,
+        "renterRatePct": 25.61,
+        "race": {
+          "whitePct": 38.42,
+          "nonHispanicWhitePct": 38.17,
+          "blackPct": 56.06,
+          "asianPct": 0.37,
+          "hispanicPct": 1.24
+        }
+      },
+      "election": {
+        "winner": "Roy Daryl Adams",
+        "party": "DEM",
+        "pct": 50.96,
+        "unopposed": false
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Louisiana House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61430,
+        "medianAge": 33.7,
+        "totalPopulation": 44801,
+        "collegePct": 30.69,
+        "renterRatePct": 28.72,
+        "race": {
+          "whitePct": 27.54,
+          "nonHispanicWhitePct": 27.05,
+          "blackPct": 67.11,
+          "asianPct": 0.9,
+          "hispanicPct": 2.4
+        }
+      },
+      "election": {
+        "winner": "Barbara West Carpenter",
+        "party": "DEM",
+        "pct": 64.18,
+        "unopposed": false
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Louisiana House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85819,
+        "medianAge": 37.4,
+        "totalPopulation": 46445,
+        "collegePct": 21.02,
+        "renterRatePct": 12.14,
+        "race": {
+          "whitePct": 86.16,
+          "nonHispanicWhitePct": 84.42,
+          "blackPct": 6.81,
+          "asianPct": 0.57,
+          "hispanicPct": 5
+        }
+      },
+      "election": {
+        "winner": "Kellee Hennessy Dickerson",
+        "party": "REP",
+        "pct": 60.27,
+        "unopposed": false
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Louisiana House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82305,
+        "medianAge": 37.2,
+        "totalPopulation": 43955,
+        "collegePct": 28.98,
+        "renterRatePct": 20.66,
+        "race": {
+          "whitePct": 60.26,
+          "nonHispanicWhitePct": 59.13,
+          "blackPct": 25.62,
+          "asianPct": 1.7,
+          "hispanicPct": 8.88
+        }
+      },
+      "election": {
+        "winner": "Lauren Ventrella",
+        "party": "REP",
+        "pct": 56.71,
+        "unopposed": false
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "Louisiana House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108660,
+        "medianAge": 41.9,
+        "totalPopulation": 39233,
+        "collegePct": 53.88,
+        "renterRatePct": 19.12,
+        "race": {
+          "whitePct": 73.61,
+          "nonHispanicWhitePct": 72.15,
+          "blackPct": 14.84,
+          "asianPct": 5.3,
+          "hispanicPct": 5.24
+        }
+      },
+      "election": {
+        "winner": "Emily Chenevert",
+        "party": "REP",
+        "pct": 59.97,
+        "unopposed": false
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "Louisiana House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46380,
+        "medianAge": 26.5,
+        "totalPopulation": 40998,
+        "collegePct": 35.89,
+        "renterRatePct": 68.23,
+        "race": {
+          "whitePct": 33.03,
+          "nonHispanicWhitePct": 32.23,
+          "blackPct": 50.03,
+          "asianPct": 4.81,
+          "hispanicPct": 10.58
+        }
+      },
+      "election": {
+        "winner": "Terry Landry, Jr.",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "Louisiana House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70508,
+        "medianAge": 33.5,
+        "totalPopulation": 45097,
+        "collegePct": 57.57,
+        "renterRatePct": 46.25,
+        "race": {
+          "whitePct": 64.33,
+          "nonHispanicWhitePct": 62.98,
+          "blackPct": 23.48,
+          "asianPct": 3.62,
+          "hispanicPct": 5.54
+        }
+      },
+      "election": {
+        "winner": "Dixon McMakin",
+        "party": "REP",
+        "pct": 56.64,
+        "unopposed": false
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "Louisiana House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79604,
+        "medianAge": 36,
+        "totalPopulation": 46778,
+        "collegePct": 48.35,
+        "renterRatePct": 39.3,
+        "race": {
+          "whitePct": 58.03,
+          "nonHispanicWhitePct": 55.71,
+          "blackPct": 24.95,
+          "asianPct": 4.88,
+          "hispanicPct": 7.44
+        }
+      },
+      "election": {
+        "winner": "Paul Sawyer",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "Louisiana House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73095,
+        "medianAge": 29,
+        "totalPopulation": 49209,
+        "collegePct": 57.23,
+        "renterRatePct": 47.11,
+        "race": {
+          "whitePct": 61.53,
+          "nonHispanicWhitePct": 60.23,
+          "blackPct": 22.51,
+          "asianPct": 6.53,
+          "hispanicPct": 6.49
+        }
+      },
+      "election": {
+        "winner": "Barbara Reich Freiberg",
+        "party": "REP",
+        "pct": 64.94,
+        "unopposed": false
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "Louisiana House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76920,
+        "medianAge": 35,
+        "totalPopulation": 45453,
+        "collegePct": 25.28,
+        "renterRatePct": 28.97,
+        "race": {
+          "whitePct": 78.53,
+          "nonHispanicWhitePct": 77.78,
+          "blackPct": 10.7,
+          "asianPct": 1.05,
+          "hispanicPct": 8.62
+        }
+      },
+      "election": {
+        "winner": "Roger Wilder III",
+        "party": "REP",
+        "pct": 56.94,
+        "unopposed": false
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "Louisiana House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44879,
+        "medianAge": 36.9,
+        "totalPopulation": 44130,
+        "collegePct": 17.78,
+        "renterRatePct": 35.06,
+        "race": {
+          "whitePct": 40.41,
+          "nonHispanicWhitePct": 39.85,
+          "blackPct": 54.67,
+          "asianPct": 0.24,
+          "hispanicPct": 3.09
+        }
+      },
+      "election": {
+        "winner": "Robby Carter",
+        "party": "DEM",
+        "pct": 67.55,
+        "unopposed": false
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "Louisiana House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68224,
+        "medianAge": 38.9,
+        "totalPopulation": 48349,
+        "collegePct": 22.28,
+        "renterRatePct": 15.41,
+        "race": {
+          "whitePct": 75.49,
+          "nonHispanicWhitePct": 74.27,
+          "blackPct": 16.25,
+          "asianPct": 0.31,
+          "hispanicPct": 6.38
+        }
+      },
+      "election": {
+        "winner": "Kimberly Landry Coates",
+        "party": "REP",
+        "pct": 53.86,
+        "unopposed": false
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "Louisiana House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68528,
+        "medianAge": 43.3,
+        "totalPopulation": 45915,
+        "collegePct": 31.59,
+        "renterRatePct": 14.04,
+        "race": {
+          "whitePct": 84.57,
+          "nonHispanicWhitePct": 82.79,
+          "blackPct": 6.17,
+          "asianPct": 0.3,
+          "hispanicPct": 6.37
+        }
+      },
+      "election": {
+        "winner": "Peter Egan",
+        "party": "REP",
+        "pct": 54,
+        "unopposed": false
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "Louisiana House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42776,
+        "medianAge": 41,
+        "totalPopulation": 45238,
+        "collegePct": 12.71,
+        "renterRatePct": 30.62,
+        "race": {
+          "whitePct": 65.22,
+          "nonHispanicWhitePct": 63.58,
+          "blackPct": 29.66,
+          "asianPct": 0.08,
+          "hispanicPct": 3.15
+        }
+      },
+      "election": {
+        "winner": "John Wyble",
+        "party": "REP",
+        "pct": 70.22,
+        "unopposed": false
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "Louisiana House District 76",
+      "census": {
+        "censusName": "State House District 76 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76119,
+        "medianAge": 38.6,
+        "totalPopulation": 47044,
+        "collegePct": 29.99,
+        "renterRatePct": 25.1,
+        "race": {
+          "whitePct": 56.67,
+          "nonHispanicWhitePct": 55.98,
+          "blackPct": 23.86,
+          "asianPct": 2.48,
+          "hispanicPct": 9.82
+        }
+      },
+      "election": {
+        "winner": "Stephanie Hunter Berault",
+        "party": "REP",
+        "pct": 79.41,
+        "unopposed": false
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "Louisiana House District 77",
+      "census": {
+        "censusName": "State House District 77 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89204,
+        "medianAge": 39.2,
+        "totalPopulation": 45935,
+        "collegePct": 43.66,
+        "renterRatePct": 23.93,
+        "race": {
+          "whitePct": 82.26,
+          "nonHispanicWhitePct": 80.16,
+          "blackPct": 7.89,
+          "asianPct": 0.9,
+          "hispanicPct": 5.82
+        }
+      },
+      "election": {
+        "winner": "Mark Wright",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "Louisiana House District 78",
+      "census": {
+        "censusName": "State House District 78 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75069,
+        "medianAge": 41.7,
+        "totalPopulation": 44837,
+        "collegePct": 30.88,
+        "renterRatePct": 30.26,
+        "race": {
+          "whitePct": 73.55,
+          "nonHispanicWhitePct": 69.53,
+          "blackPct": 4.63,
+          "asianPct": 2.58,
+          "hispanicPct": 19.3
+        }
+      },
+      "election": {
+        "winner": "John R. Illg, Jr.",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "Louisiana House District 79",
+      "census": {
+        "censusName": "State House District 79 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77984,
+        "medianAge": 42.4,
+        "totalPopulation": 43585,
+        "collegePct": 43.79,
+        "renterRatePct": 33.2,
+        "race": {
+          "whitePct": 62.55,
+          "nonHispanicWhitePct": 57.09,
+          "blackPct": 9.55,
+          "asianPct": 6.54,
+          "hispanicPct": 20.06
+        }
+      },
+      "election": {
+        "winner": "Debbie Villio",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "Louisiana House District 80",
+      "census": {
+        "censusName": "State House District 80 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68037,
+        "medianAge": 39.9,
+        "totalPopulation": 45434,
+        "collegePct": 39.71,
+        "renterRatePct": 50.92,
+        "race": {
+          "whitePct": 67.24,
+          "nonHispanicWhitePct": 59.59,
+          "blackPct": 14.95,
+          "asianPct": 3.19,
+          "hispanicPct": 17.68
+        }
+      },
+      "election": {
+        "winner": "Polly Thomas",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "Louisiana House District 81",
+      "census": {
+        "censusName": "State House District 81 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94042,
+        "medianAge": 38.9,
+        "totalPopulation": 45709,
+        "collegePct": 23.02,
+        "renterRatePct": 10.46,
+        "race": {
+          "whitePct": 78.62,
+          "nonHispanicWhitePct": 77.68,
+          "blackPct": 15.03,
+          "asianPct": 0.69,
+          "hispanicPct": 3.33
+        }
+      },
+      "election": {
+        "winner": "Jeffrey F. Jeff Wiley",
+        "party": "REP",
+        "pct": 55.46,
+        "unopposed": false
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "Louisiana House District 82",
+      "census": {
+        "censusName": "State House District 82 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77240,
+        "medianAge": 43.8,
+        "totalPopulation": 43749,
+        "collegePct": 46.49,
+        "renterRatePct": 39.34,
+        "race": {
+          "whitePct": 73.59,
+          "nonHispanicWhitePct": 69.75,
+          "blackPct": 11.05,
+          "asianPct": 2.91,
+          "hispanicPct": 12.56
+        }
+      },
+      "election": {
+        "winner": "Laurie Schlegel",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "Louisiana House District 83",
+      "census": {
+        "censusName": "State House District 83 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50536,
+        "medianAge": 38.7,
+        "totalPopulation": 45687,
+        "collegePct": 12.85,
+        "renterRatePct": 34.64,
+        "race": {
+          "whitePct": 29.58,
+          "nonHispanicWhitePct": 27.63,
+          "blackPct": 54.44,
+          "asianPct": 2.32,
+          "hispanicPct": 13.24
+        }
+      },
+      "election": {
+        "winner": "Kyle M. Green, Jr.",
+        "party": "DEM",
+        "pct": 70.61,
+        "unopposed": false
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "Louisiana House District 84",
+      "census": {
+        "censusName": "State House District 84 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64807,
+        "medianAge": 43,
+        "totalPopulation": 40480,
+        "collegePct": 18.99,
+        "renterRatePct": 19.58,
+        "race": {
+          "whitePct": 61.02,
+          "nonHispanicWhitePct": 57.34,
+          "blackPct": 21.33,
+          "asianPct": 5.08,
+          "hispanicPct": 11.23
+        }
+      },
+      "election": {
+        "winner": "Timothy P. Kerner",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "Louisiana House District 85",
+      "census": {
+        "censusName": "State House District 85 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49744,
+        "medianAge": 35.7,
+        "totalPopulation": 43213,
+        "collegePct": 24.77,
+        "renterRatePct": 51.47,
+        "race": {
+          "whitePct": 37.88,
+          "nonHispanicWhitePct": 32.53,
+          "blackPct": 32.64,
+          "asianPct": 3.26,
+          "hispanicPct": 31.42
+        }
+      },
+      "election": {
+        "winner": "Vincent E. Cox III",
+        "party": "REP",
+        "pct": 62,
+        "unopposed": false
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "Louisiana House District 86",
+      "census": {
+        "censusName": "State House District 86 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63759,
+        "medianAge": 31.5,
+        "totalPopulation": 44720,
+        "collegePct": 23.13,
+        "renterRatePct": 34.91,
+        "race": {
+          "whitePct": 67.46,
+          "nonHispanicWhitePct": 65.57,
+          "blackPct": 22.43,
+          "asianPct": 1.67,
+          "hispanicPct": 6.83
+        }
+      },
+      "election": {
+        "winner": "Nicholas Muscarello, Jr.",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "Louisiana House District 87",
+      "census": {
+        "censusName": "State House District 87 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54043,
+        "medianAge": 36.6,
+        "totalPopulation": 44326,
+        "collegePct": 16.91,
+        "renterRatePct": 39.03,
+        "race": {
+          "whitePct": 21,
+          "nonHispanicWhitePct": 18.93,
+          "blackPct": 59.63,
+          "asianPct": 7.03,
+          "hispanicPct": 12.79
+        }
+      },
+      "election": {
+        "winner": "Rodney Lyons, Sr.",
+        "party": "DEM",
+        "pct": 70.3,
+        "unopposed": false
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "Louisiana House District 88",
+      "census": {
+        "censusName": "State House District 88 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85753,
+        "medianAge": 36.6,
+        "totalPopulation": 41030,
+        "collegePct": 23.29,
+        "renterRatePct": 9.94,
+        "race": {
+          "whitePct": 75.49,
+          "nonHispanicWhitePct": 74.16,
+          "blackPct": 13.56,
+          "asianPct": 0.66,
+          "hispanicPct": 7.77
+        }
+      },
+      "election": {
+        "winner": "Kathy Edmonston",
+        "party": "REP",
+        "pct": 63.8,
+        "unopposed": false
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "Louisiana House District 89",
+      "census": {
+        "censusName": "State House District 89 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101758,
+        "medianAge": 43.2,
+        "totalPopulation": 44980,
+        "collegePct": 54.23,
+        "renterRatePct": 22.62,
+        "race": {
+          "whitePct": 85.42,
+          "nonHispanicWhitePct": 83.69,
+          "blackPct": 3.49,
+          "asianPct": 2.03,
+          "hispanicPct": 6.59
+        }
+      },
+      "election": {
+        "winner": "Kim Carver",
+        "party": "REP",
+        "pct": 53.88,
+        "unopposed": false
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "Louisiana House District 90",
+      "census": {
+        "censusName": "State House District 90 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73374,
+        "medianAge": 40.5,
+        "totalPopulation": 40968,
+        "collegePct": 28.57,
+        "renterRatePct": 22.36,
+        "race": {
+          "whitePct": 68.07,
+          "nonHispanicWhitePct": 65.5,
+          "blackPct": 17.97,
+          "asianPct": 1.13,
+          "hispanicPct": 10.05
+        }
+      },
+      "election": {
+        "winner": "Brian Glorioso",
+        "party": "REP",
+        "pct": 56.6,
+        "unopposed": false
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "Louisiana House District 91",
+      "census": {
+        "censusName": "State House District 91 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67904,
+        "medianAge": 38.7,
+        "totalPopulation": 42953,
+        "collegePct": 51.13,
+        "renterRatePct": 59.05,
+        "race": {
+          "whitePct": 43.26,
+          "nonHispanicWhitePct": 40.28,
+          "blackPct": 42.86,
+          "asianPct": 2.44,
+          "hispanicPct": 9.77
+        }
+      },
+      "election": {
+        "winner": "Mandie Landry",
+        "party": "DEM",
+        "pct": 65.53,
+        "unopposed": false
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "Louisiana House District 92",
+      "census": {
+        "censusName": "State House District 92 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61986,
+        "medianAge": 40.2,
+        "totalPopulation": 44643,
+        "collegePct": 21.36,
+        "renterRatePct": 35.28,
+        "race": {
+          "whitePct": 45.71,
+          "nonHispanicWhitePct": 37.6,
+          "blackPct": 25.23,
+          "asianPct": 3.66,
+          "hispanicPct": 30.34
+        }
+      },
+      "election": {
+        "winner": "Joe Stagni",
+        "party": "REP",
+        "pct": 69.71,
+        "unopposed": false
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "Louisiana House District 93",
+      "census": {
+        "censusName": "State House District 93 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 37249,
+        "medianAge": 40.1,
+        "totalPopulation": 40349,
+        "collegePct": 37.93,
+        "renterRatePct": 62.26,
+        "race": {
+          "whitePct": 30.57,
+          "nonHispanicWhitePct": 29.6,
+          "blackPct": 57.16,
+          "asianPct": 1.41,
+          "hispanicPct": 5.82
+        }
+      },
+      "election": {
+        "winner": "Alonzo L. Knox",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "Louisiana House District 94",
+      "census": {
+        "censusName": "State House District 94 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93172,
+        "medianAge": 39.4,
+        "totalPopulation": 42611,
+        "collegePct": 58.69,
+        "renterRatePct": 37.09,
+        "race": {
+          "whitePct": 73.39,
+          "nonHispanicWhitePct": 70.11,
+          "blackPct": 7.99,
+          "asianPct": 3.85,
+          "hispanicPct": 14.1
+        }
+      },
+      "election": {
+        "winner": "Stephanie Hilferty",
+        "party": "REP",
+        "pct": 87.5,
+        "unopposed": false
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "Louisiana House District 95",
+      "census": {
+        "censusName": "State House District 95 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64922,
+        "medianAge": 36.9,
+        "totalPopulation": 42880,
+        "collegePct": 17.94,
+        "renterRatePct": 20.37,
+        "race": {
+          "whitePct": 81.31,
+          "nonHispanicWhitePct": 80.13,
+          "blackPct": 11.58,
+          "asianPct": 0.35,
+          "hispanicPct": 4.8
+        }
+      },
+      "election": {
+        "winner": "Shane Mack",
+        "party": "REP",
+        "pct": 59.5,
+        "unopposed": false
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "Louisiana House District 96",
+      "census": {
+        "censusName": "State House District 96 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 40463,
+        "medianAge": 37.7,
+        "totalPopulation": 43243,
+        "collegePct": 12.17,
+        "renterRatePct": 38.27,
+        "race": {
+          "whitePct": 37.81,
+          "nonHispanicWhitePct": 36.79,
+          "blackPct": 50.19,
+          "asianPct": 1.08,
+          "hispanicPct": 3.93
+        }
+      },
+      "election": {
+        "winner": "Marcus Anthony Bryant",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "Louisiana House District 97",
+      "census": {
+        "censusName": "State House District 97 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45508,
+        "medianAge": 39.6,
+        "totalPopulation": 43854,
+        "collegePct": 35.29,
+        "renterRatePct": 42.85,
+        "race": {
+          "whitePct": 19.16,
+          "nonHispanicWhitePct": 18.18,
+          "blackPct": 70.81,
+          "asianPct": 1.27,
+          "hispanicPct": 5.9
+        }
+      },
+      "election": {
+        "winner": "Ed Murray",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "Louisiana House District 98",
+      "census": {
+        "censusName": "State House District 98 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94063,
+        "medianAge": 35.1,
+        "totalPopulation": 42930,
+        "collegePct": 69.39,
+        "renterRatePct": 41.56,
+        "race": {
+          "whitePct": 67.4,
+          "nonHispanicWhitePct": 64.74,
+          "blackPct": 18.45,
+          "asianPct": 3.77,
+          "hispanicPct": 8.04
+        }
+      },
+      "election": {
+        "winner": "Aimee Adatto Freeman",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "Louisiana House District 99",
+      "census": {
+        "censusName": "State House District 99 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41941,
+        "medianAge": 37.6,
+        "totalPopulation": 44402,
+        "collegePct": 28.04,
+        "renterRatePct": 54.69,
+        "race": {
+          "whitePct": 14.82,
+          "nonHispanicWhitePct": 14.22,
+          "blackPct": 77.98,
+          "asianPct": 0.4,
+          "hispanicPct": 5.23
+        }
+      },
+      "election": {
+        "winner": "Candace N. Newell",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "Louisiana House District 100",
+      "census": {
+        "censusName": "State House District 100 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50675,
+        "medianAge": 38.5,
+        "totalPopulation": 48595,
+        "collegePct": 28.07,
+        "renterRatePct": 34.9,
+        "race": {
+          "whitePct": 4.68,
+          "nonHispanicWhitePct": 4.58,
+          "blackPct": 79.36,
+          "asianPct": 8.64,
+          "hispanicPct": 4.78
+        }
+      },
+      "election": {
+        "winner": "Dana Henry",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "101": {
+      "districtNumber": 101,
+      "districtName": "Louisiana House District 101",
+      "census": {
+        "censusName": "State House District 101 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56103,
+        "medianAge": 32.5,
+        "totalPopulation": 47756,
+        "collegePct": 28.86,
+        "renterRatePct": 39.15,
+        "race": {
+          "whitePct": 21.67,
+          "nonHispanicWhitePct": 19.13,
+          "blackPct": 59.84,
+          "asianPct": 3.12,
+          "hispanicPct": 14.22
+        }
+      },
+      "election": {
+        "winner": "Vanessa Caston LaFleur",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "102": {
+      "districtNumber": 102,
+      "districtName": "Louisiana House District 102",
+      "census": {
+        "censusName": "State House District 102 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51438,
+        "medianAge": 41,
+        "totalPopulation": 42351,
+        "collegePct": 31.13,
+        "renterRatePct": 43.81,
+        "race": {
+          "whitePct": 19.98,
+          "nonHispanicWhitePct": 18.63,
+          "blackPct": 67.22,
+          "asianPct": 2.34,
+          "hispanicPct": 9.01
+        }
+      },
+      "election": {
+        "winner": "Delisha Boyd",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "103": {
+      "districtNumber": 103,
+      "districtName": "Louisiana House District 103",
+      "census": {
+        "censusName": "State House District 103 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57638,
+        "medianAge": 35.8,
+        "totalPopulation": 44172,
+        "collegePct": 17.19,
+        "renterRatePct": 29.86,
+        "race": {
+          "whitePct": 61.59,
+          "nonHispanicWhitePct": 56.71,
+          "blackPct": 23.85,
+          "asianPct": 2.13,
+          "hispanicPct": 13.56
+        }
+      },
+      "election": {
+        "winner": "Mike Bayham",
+        "party": "REP",
+        "pct": 61.62,
+        "unopposed": false
+      }
+    },
+    "104": {
+      "districtNumber": 104,
+      "districtName": "Louisiana House District 104",
+      "census": {
+        "censusName": "State House District 104 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78561,
+        "medianAge": 38.7,
+        "totalPopulation": 44489,
+        "collegePct": 30.72,
+        "renterRatePct": 19.16,
+        "race": {
+          "whitePct": 72.61,
+          "nonHispanicWhitePct": 71.64,
+          "blackPct": 14.16,
+          "asianPct": 0.94,
+          "hispanicPct": 9.16
+        }
+      },
+      "election": {
+        "winner": "Jay Gallé",
+        "party": "REP",
+        "pct": 64.35,
+        "unopposed": false
+      }
+    },
+    "105": {
+      "districtNumber": 105,
+      "districtName": "Louisiana House District 105",
+      "census": {
+        "censusName": "State House District 105 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79231,
+        "medianAge": 37.1,
+        "totalPopulation": 44222,
+        "collegePct": 27.91,
+        "renterRatePct": 30.56,
+        "race": {
+          "whitePct": 47.61,
+          "nonHispanicWhitePct": 45.89,
+          "blackPct": 36.01,
+          "asianPct": 4.98,
+          "hispanicPct": 9.7
+        }
+      },
+      "election": {
+        "winner": "Jacob Braud",
+        "party": "REP",
+        "pct": 55.79,
+        "unopposed": false
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Louisiana Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71383,
+        "medianAge": 39,
+        "totalPopulation": 120225,
+        "collegePct": 26.32,
+        "renterRatePct": 22.35,
+        "race": {
+          "whitePct": 64.94,
+          "nonHispanicWhitePct": 62.74,
+          "blackPct": 19.59,
+          "asianPct": 1.66,
+          "hispanicPct": 10.02
+        }
+      },
+      "election": {
+        "winner": "Robert Bob Owen",
+        "party": "REP",
+        "pct": 60.58,
+        "unopposed": false
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Louisiana Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56963,
+        "medianAge": 37.4,
+        "totalPopulation": 116078,
+        "collegePct": 18.56,
+        "renterRatePct": 29.88,
+        "race": {
+          "whitePct": 35.05,
+          "nonHispanicWhitePct": 33.65,
+          "blackPct": 57.31,
+          "asianPct": 0.65,
+          "hispanicPct": 6.43
+        }
+      },
+      "election": {
+        "winner": "Edward Ed Price",
+        "party": "DEM",
+        "pct": 68.06,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Louisiana Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50674,
+        "medianAge": 38.7,
+        "totalPopulation": 117808,
+        "collegePct": 29.9,
+        "renterRatePct": 40.32,
+        "race": {
+          "whitePct": 30.4,
+          "nonHispanicWhitePct": 28.72,
+          "blackPct": 55.76,
+          "asianPct": 4.38,
+          "hispanicPct": 7.55
+        }
+      },
+      "election": {
+        "winner": "Sidney Barthelemy II",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Louisiana Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51059,
+        "medianAge": 38.3,
+        "totalPopulation": 115394,
+        "collegePct": 41.12,
+        "renterRatePct": 49.35,
+        "race": {
+          "whitePct": 29.82,
+          "nonHispanicWhitePct": 28.57,
+          "blackPct": 58.65,
+          "asianPct": 1.17,
+          "hispanicPct": 7.76
+        }
+      },
+      "election": {
+        "winner": "Jimmy Harris",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Louisiana Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56840,
+        "medianAge": 38.1,
+        "totalPopulation": 122800,
+        "collegePct": 43.01,
+        "renterRatePct": 55.35,
+        "race": {
+          "whitePct": 35.52,
+          "nonHispanicWhitePct": 33.77,
+          "blackPct": 50.25,
+          "asianPct": 2.22,
+          "hispanicPct": 9.3
+        }
+      },
+      "election": {
+        "winner": "Royce Duplessis",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Louisiana Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78385,
+        "medianAge": 38.1,
+        "totalPopulation": 116050,
+        "collegePct": 34.25,
+        "renterRatePct": 18.87,
+        "race": {
+          "whitePct": 64.55,
+          "nonHispanicWhitePct": 63.43,
+          "blackPct": 24.86,
+          "asianPct": 1.78,
+          "hispanicPct": 5.69
+        }
+      },
+      "election": {
+        "winner": "Rick Edmonds",
+        "party": "REP",
+        "pct": 61.53,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Louisiana Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54029,
+        "medianAge": 37.9,
+        "totalPopulation": 121075,
+        "collegePct": 26.32,
+        "renterRatePct": 45.64,
+        "race": {
+          "whitePct": 22.39,
+          "nonHispanicWhitePct": 20.22,
+          "blackPct": 57.88,
+          "asianPct": 4.07,
+          "hispanicPct": 15.75
+        }
+      },
+      "election": {
+        "winner": "Gary M. Carter, Jr.",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Louisiana Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64050,
+        "medianAge": 38.8,
+        "totalPopulation": 119707,
+        "collegePct": 19.82,
+        "renterRatePct": 28.75,
+        "race": {
+          "whitePct": 53.73,
+          "nonHispanicWhitePct": 50.13,
+          "blackPct": 28.3,
+          "asianPct": 4.58,
+          "hispanicPct": 13.8
+        }
+      },
+      "election": {
+        "winner": "Patrick Connick",
+        "party": "REP",
+        "pct": 52.35,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Louisiana Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74391,
+        "medianAge": 39.3,
+        "totalPopulation": 120674,
+        "collegePct": 48.05,
+        "renterRatePct": 44.15,
+        "race": {
+          "whitePct": 71.2,
+          "nonHispanicWhitePct": 66.23,
+          "blackPct": 11.94,
+          "asianPct": 3.4,
+          "hispanicPct": 14.27
+        }
+      },
+      "election": {
+        "winner": "J. Cameron Henry, Jr.",
+        "party": "REP",
+        "pct": 69.9,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Louisiana Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74708,
+        "medianAge": 42,
+        "totalPopulation": 120017,
+        "collegePct": 36.12,
+        "renterRatePct": 34.03,
+        "race": {
+          "whitePct": 66.52,
+          "nonHispanicWhitePct": 61.16,
+          "blackPct": 8.84,
+          "asianPct": 5.26,
+          "hispanicPct": 19.98
+        }
+      },
+      "election": {
+        "winner": "Kirk Talbot",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Louisiana Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86706,
+        "medianAge": 40.9,
+        "totalPopulation": 113804,
+        "collegePct": 43.78,
+        "renterRatePct": 21.5,
+        "race": {
+          "whitePct": 79.56,
+          "nonHispanicWhitePct": 78.06,
+          "blackPct": 7.85,
+          "asianPct": 1.31,
+          "hispanicPct": 7.93
+        }
+      },
+      "election": {
+        "winner": "Patrick McMath",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Louisiana Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54517,
+        "medianAge": 40.9,
+        "totalPopulation": 113461,
+        "collegePct": 20.96,
+        "renterRatePct": 21.65,
+        "race": {
+          "whitePct": 70.27,
+          "nonHispanicWhitePct": 68.99,
+          "blackPct": 22.94,
+          "asianPct": 0.54,
+          "hispanicPct": 3.75
+        }
+      },
+      "election": {
+        "winner": "Beth Mizell",
+        "party": "REP",
+        "pct": 78.23,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Louisiana Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82608,
+        "medianAge": 35.6,
+        "totalPopulation": 118489,
+        "collegePct": 21.54,
+        "renterRatePct": 19.82,
+        "race": {
+          "whitePct": 82.38,
+          "nonHispanicWhitePct": 80.97,
+          "blackPct": 9.11,
+          "asianPct": 0.83,
+          "hispanicPct": 6.38
+        }
+      },
+      "election": {
+        "winner": "Valarie Hodges",
+        "party": "REP",
+        "pct": 64.88,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Louisiana Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44827,
+        "medianAge": 28.8,
+        "totalPopulation": 117346,
+        "collegePct": 34,
+        "renterRatePct": 59.74,
+        "race": {
+          "whitePct": 31.7,
+          "nonHispanicWhitePct": 30.84,
+          "blackPct": 54.7,
+          "asianPct": 4.02,
+          "hispanicPct": 6.36
+        }
+      },
+      "election": {
+        "winner": "Larry Selders",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Louisiana Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48473,
+        "medianAge": 34.7,
+        "totalPopulation": 112723,
+        "collegePct": 22.02,
+        "renterRatePct": 41,
+        "race": {
+          "whitePct": 15.08,
+          "nonHispanicWhitePct": 13.98,
+          "blackPct": 74.03,
+          "asianPct": 1.82,
+          "hispanicPct": 7.64
+        }
+      },
+      "election": {
+        "winner": "Regina Ashford Barrow",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Louisiana Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80277,
+        "medianAge": 36.3,
+        "totalPopulation": 122107,
+        "collegePct": 54.41,
+        "renterRatePct": 40.66,
+        "race": {
+          "whitePct": 64.15,
+          "nonHispanicWhitePct": 62.41,
+          "blackPct": 21.89,
+          "asianPct": 4.48,
+          "hispanicPct": 6.4
+        }
+      },
+      "election": {
+        "winner": "Franklin J. Foil",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Louisiana Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64082,
+        "medianAge": 40.8,
+        "totalPopulation": 112939,
+        "collegePct": 20.45,
+        "renterRatePct": 17.13,
+        "race": {
+          "whitePct": 63.77,
+          "nonHispanicWhitePct": 62.34,
+          "blackPct": 30.49,
+          "asianPct": 0.22,
+          "hispanicPct": 3.71
+        }
+      },
+      "election": {
+        "winner": "Caleb Seth Kleinpeter",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Louisiana Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99646,
+        "medianAge": 36.7,
+        "totalPopulation": 120968,
+        "collegePct": 29.13,
+        "renterRatePct": 13.44,
+        "race": {
+          "whitePct": 74.38,
+          "nonHispanicWhitePct": 73.37,
+          "blackPct": 14.42,
+          "asianPct": 1.13,
+          "hispanicPct": 7.12
+        }
+      },
+      "election": {
+        "winner": "Eddie J. Lambert",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Louisiana Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70810,
+        "medianAge": 40.1,
+        "totalPopulation": 121697,
+        "collegePct": 22.66,
+        "renterRatePct": 21.46,
+        "race": {
+          "whitePct": 58.43,
+          "nonHispanicWhitePct": 55.7,
+          "blackPct": 26.82,
+          "asianPct": 0.6,
+          "hispanicPct": 11.98
+        }
+      },
+      "election": {
+        "winner": "Gregory A. Miller",
+        "party": "REP",
+        "pct": 68.83,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Louisiana Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64955,
+        "medianAge": 38.9,
+        "totalPopulation": 118602,
+        "collegePct": 17.88,
+        "renterRatePct": 21.96,
+        "race": {
+          "whitePct": 72.63,
+          "nonHispanicWhitePct": 71.05,
+          "blackPct": 12.55,
+          "asianPct": 0.82,
+          "hispanicPct": 6.64
+        }
+      },
+      "election": {
+        "winner": "Michael Big Mike Fesi",
+        "party": "REP",
+        "pct": 87.62,
+        "unopposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Louisiana Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59850,
+        "medianAge": 38.8,
+        "totalPopulation": 117301,
+        "collegePct": 15.68,
+        "renterRatePct": 25.59,
+        "race": {
+          "whitePct": 62.91,
+          "nonHispanicWhitePct": 61.33,
+          "blackPct": 24.16,
+          "asianPct": 1.53,
+          "hispanicPct": 7.73
+        }
+      },
+      "election": {
+        "winner": "Robert Allain",
+        "party": "REP",
+        "pct": 59,
+        "unopposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Louisiana Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61330,
+        "medianAge": 37.2,
+        "totalPopulation": 124502,
+        "collegePct": 21.75,
+        "renterRatePct": 32.83,
+        "race": {
+          "whitePct": 63.13,
+          "nonHispanicWhitePct": 62.43,
+          "blackPct": 26.2,
+          "asianPct": 2.15,
+          "hispanicPct": 4.81
+        }
+      },
+      "election": {
+        "winner": "Blake Miguez",
+        "party": "REP",
+        "pct": 61.2,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Louisiana Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78681,
+        "medianAge": 36.2,
+        "totalPopulation": 128580,
+        "collegePct": 42.21,
+        "renterRatePct": 30.85,
+        "race": {
+          "whitePct": 75.63,
+          "nonHispanicWhitePct": 74.13,
+          "blackPct": 12.34,
+          "asianPct": 2.51,
+          "hispanicPct": 7.79
+        }
+      },
+      "election": {
+        "winner": "Brach Jerad Myers",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Louisiana Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47232,
+        "medianAge": 36.7,
+        "totalPopulation": 123829,
+        "collegePct": 17.65,
+        "renterRatePct": 37.06,
+        "race": {
+          "whitePct": 40.99,
+          "nonHispanicWhitePct": 39.84,
+          "blackPct": 52.08,
+          "asianPct": 0.87,
+          "hispanicPct": 3.53
+        }
+      },
+      "election": {
+        "winner": "Gerald Boudreaux",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Louisiana Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68927,
+        "medianAge": 35.5,
+        "totalPopulation": 120535,
+        "collegePct": 23.74,
+        "renterRatePct": 28.2,
+        "race": {
+          "whitePct": 69.97,
+          "nonHispanicWhitePct": 68.8,
+          "blackPct": 19.68,
+          "asianPct": 1.81,
+          "hispanicPct": 4.54
+        }
+      },
+      "election": {
+        "winner": "Mark Abraham",
+        "party": "REP",
+        "pct": 80.69,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Louisiana Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51072,
+        "medianAge": 38.1,
+        "totalPopulation": 123977,
+        "collegePct": 16.14,
+        "renterRatePct": 28.1,
+        "race": {
+          "whitePct": 75.73,
+          "nonHispanicWhitePct": 74.36,
+          "blackPct": 15.95,
+          "asianPct": 1.01,
+          "hispanicPct": 4.14
+        }
+      },
+      "election": {
+        "winner": "Bob Hensgens",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Louisiana Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65882,
+        "medianAge": 38.7,
+        "totalPopulation": 112243,
+        "collegePct": 23.18,
+        "renterRatePct": 26.11,
+        "race": {
+          "whitePct": 65.56,
+          "nonHispanicWhitePct": 64.36,
+          "blackPct": 26.46,
+          "asianPct": 0.94,
+          "hispanicPct": 4.27
+        }
+      },
+      "election": {
+        "winner": "Jeremy P. Stine",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Louisiana Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50240,
+        "medianAge": 38.1,
+        "totalPopulation": 114158,
+        "collegePct": 16.77,
+        "renterRatePct": 30.86,
+        "race": {
+          "whitePct": 68.25,
+          "nonHispanicWhitePct": 65.93,
+          "blackPct": 22.33,
+          "asianPct": 1.06,
+          "hispanicPct": 5.58
+        }
+      },
+      "election": {
+        "winner": "Heather Miley Cloud",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Louisiana Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 35578,
+        "medianAge": 34.1,
+        "totalPopulation": 119649,
+        "collegePct": 17.96,
+        "renterRatePct": 51.85,
+        "race": {
+          "whitePct": 36.77,
+          "nonHispanicWhitePct": 35.57,
+          "blackPct": 56.79,
+          "asianPct": 0.5,
+          "hispanicPct": 3.42
+        }
+      },
+      "election": {
+        "winner": "W. Jay Luneau",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Louisiana Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59752,
+        "medianAge": 35.1,
+        "totalPopulation": 111056,
+        "collegePct": 17.84,
+        "renterRatePct": 29.02,
+        "race": {
+          "whitePct": 79.31,
+          "nonHispanicWhitePct": 76.3,
+          "blackPct": 10.52,
+          "asianPct": 1.21,
+          "hispanicPct": 6.66
+        }
+      },
+      "election": {
+        "winner": "Mike Reese",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Louisiana Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58115,
+        "medianAge": 39.4,
+        "totalPopulation": 119937,
+        "collegePct": 24.73,
+        "renterRatePct": 23.64,
+        "race": {
+          "whitePct": 66.21,
+          "nonHispanicWhitePct": 64.98,
+          "blackPct": 23.77,
+          "asianPct": 1.12,
+          "hispanicPct": 4.49
+        }
+      },
+      "election": {
+        "winner": "Alan Seabaugh",
+        "party": "REP",
+        "pct": 54.19,
+        "unopposed": false
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Louisiana Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55156,
+        "medianAge": 39.3,
+        "totalPopulation": 113348,
+        "collegePct": 17.35,
+        "renterRatePct": 21.34,
+        "race": {
+          "whitePct": 72.39,
+          "nonHispanicWhitePct": 70.76,
+          "blackPct": 21.51,
+          "asianPct": 0.64,
+          "hispanicPct": 3.43
+        }
+      },
+      "election": {
+        "winner": "Glen Womack",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Louisiana Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54164,
+        "medianAge": 41,
+        "totalPopulation": 117476,
+        "collegePct": 22.82,
+        "renterRatePct": 25.43,
+        "race": {
+          "whitePct": 69.89,
+          "nonHispanicWhitePct": 68.99,
+          "blackPct": 24.01,
+          "asianPct": 0.45,
+          "hispanicPct": 3.78
+        }
+      },
+      "election": {
+        "winner": "Stewart Cathey, Jr.",
+        "party": "REP",
+        "pct": 52.9,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Louisiana Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 33896,
+        "medianAge": 35.6,
+        "totalPopulation": 111431,
+        "collegePct": 15.81,
+        "renterRatePct": 49.25,
+        "race": {
+          "whitePct": 29.43,
+          "nonHispanicWhitePct": 29.09,
+          "blackPct": 66.2,
+          "asianPct": 0.5,
+          "hispanicPct": 2.32
+        }
+      },
+      "election": {
+        "winner": "Katrina Jackson",
+        "party": "DEM",
+        "pct": 71.1,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Louisiana Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61401,
+        "medianAge": 38.3,
+        "totalPopulation": 114415,
+        "collegePct": 27.48,
+        "renterRatePct": 31.82,
+        "race": {
+          "whitePct": 77.06,
+          "nonHispanicWhitePct": 75.22,
+          "blackPct": 15.57,
+          "asianPct": 1.34,
+          "hispanicPct": 3.9
+        }
+      },
+      "election": {
+        "winner": "John C. \"Jay\" Morris III",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Louisiana Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60420,
+        "medianAge": 37.5,
+        "totalPopulation": 124140,
+        "collegePct": 24.56,
+        "renterRatePct": 32.7,
+        "race": {
+          "whitePct": 64.83,
+          "nonHispanicWhitePct": 63.27,
+          "blackPct": 25.87,
+          "asianPct": 1.49,
+          "hispanicPct": 5.51
+        }
+      },
+      "election": {
+        "winner": "Adam Bass",
+        "party": "REP",
+        "pct": 62.04,
+        "unopposed": false
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Louisiana Senate District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60334,
+        "medianAge": 35.5,
+        "totalPopulation": 117426,
+        "collegePct": 26.97,
+        "renterRatePct": 30.53,
+        "race": {
+          "whitePct": 66.7,
+          "nonHispanicWhitePct": 65.08,
+          "blackPct": 25.35,
+          "asianPct": 0.68,
+          "hispanicPct": 6.4
+        }
+      },
+      "election": {
+        "winner": "Bill Wheat",
+        "party": "REP",
+        "pct": 60.93,
+        "unopposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Louisiana Senate District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63095,
+        "medianAge": 39.2,
+        "totalPopulation": 124530,
+        "collegePct": 29.96,
+        "renterRatePct": 29.55,
+        "race": {
+          "whitePct": 57.61,
+          "nonHispanicWhitePct": 55.96,
+          "blackPct": 34.46,
+          "asianPct": 1.25,
+          "hispanicPct": 4.27
+        }
+      },
+      "election": {
+        "winner": "Thomas A. Pressly",
+        "party": "REP",
+        "pct": 56.15,
+        "unopposed": false
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Louisiana Senate District 39",
+      "census": {
+        "censusName": "State Senate District 39 (2022); Louisiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 36512,
+        "medianAge": 38.9,
+        "totalPopulation": 120528,
+        "collegePct": 15.4,
+        "renterRatePct": 49.91,
+        "race": {
+          "whitePct": 30.96,
+          "nonHispanicWhitePct": 29.52,
+          "blackPct": 62.52,
+          "asianPct": 0.92,
+          "hispanicPct": 4.75
+        }
+      },
+      "election": {
+        "winner": "Samuel L. Sam Jenkins, Jr.",
+        "party": "DEM",
+        "pct": 65.32,
+        "unopposed": false
+      }
+    }
+  }
+}
