@@ -1,0 +1,4166 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Florida House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65206,
+        "medianAge": 37,
+        "totalPopulation": 181643,
+        "collegePct": 25.49,
+        "renterRatePct": 33.8,
+        "race": {
+          "whitePct": 63.44,
+          "nonHispanicWhitePct": 61.25,
+          "blackPct": 22.39,
+          "asianPct": 2.62,
+          "hispanicPct": 6.65
+        }
+      },
+      "election": {
+        "winner": "Michelle Salzman",
+        "party": "REP",
+        "pct": 65.8,
+        "unopposed": false
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Florida House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72639,
+        "medianAge": 40.6,
+        "totalPopulation": 182328,
+        "collegePct": 35.59,
+        "renterRatePct": 34.4,
+        "race": {
+          "whitePct": 70.17,
+          "nonHispanicWhitePct": 68.02,
+          "blackPct": 15.63,
+          "asianPct": 2.85,
+          "hispanicPct": 6.73
+        }
+      },
+      "election": {
+        "winner": "Alex Andrade",
+        "party": "REP",
+        "pct": 57.68,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Florida House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86204,
+        "medianAge": 39.2,
+        "totalPopulation": 182240,
+        "collegePct": 27.05,
+        "renterRatePct": 18.92,
+        "race": {
+          "whitePct": 81.02,
+          "nonHispanicWhitePct": 78.75,
+          "blackPct": 6.12,
+          "asianPct": 2.08,
+          "hispanicPct": 6.26
+        }
+      },
+      "election": {
+        "winner": "Joel Rudman",
+        "party": "REP",
+        "pct": 78.38,
+        "unopposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Florida House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77361,
+        "medianAge": 36.9,
+        "totalPopulation": 185064,
+        "collegePct": 35.63,
+        "renterRatePct": 35.26,
+        "race": {
+          "whitePct": 70.78,
+          "nonHispanicWhitePct": 67.85,
+          "blackPct": 10.18,
+          "asianPct": 3.71,
+          "hispanicPct": 11.69
+        }
+      },
+      "election": {
+        "winner": "Patt Maney",
+        "party": "REP",
+        "pct": 73.49,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Florida House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59719,
+        "medianAge": 42.9,
+        "totalPopulation": 185976,
+        "collegePct": 22.38,
+        "renterRatePct": 23.19,
+        "race": {
+          "whitePct": 78.36,
+          "nonHispanicWhitePct": 76.44,
+          "blackPct": 11.56,
+          "asianPct": 0.86,
+          "hispanicPct": 6.1
+        }
+      },
+      "election": {
+        "winner": "Shane Abbott",
+        "party": "REP",
+        "pct": 80.4,
+        "unopposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Florida House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70188,
+        "medianAge": 41.4,
+        "totalPopulation": 181368,
+        "collegePct": 28.04,
+        "renterRatePct": 31.72,
+        "race": {
+          "whitePct": 76.51,
+          "nonHispanicWhitePct": 73.7,
+          "blackPct": 10,
+          "asianPct": 1.95,
+          "hispanicPct": 8.39
+        }
+      },
+      "election": {
+        "winner": "Griff Griffitts",
+        "party": "REP",
+        "pct": 75.95,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Florida House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57638,
+        "medianAge": 43.3,
+        "totalPopulation": 182881,
+        "collegePct": 16.74,
+        "renterRatePct": 21.91,
+        "race": {
+          "whitePct": 76.21,
+          "nonHispanicWhitePct": 73.78,
+          "blackPct": 14.18,
+          "asianPct": 0.48,
+          "hispanicPct": 7.49
+        }
+      },
+      "election": {
+        "winner": "Jason Shoaf",
+        "party": "REP",
+        "pct": 77.39,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Florida House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46492,
+        "medianAge": 29.6,
+        "totalPopulation": 178696,
+        "collegePct": 32.56,
+        "renterRatePct": 57.34,
+        "race": {
+          "whitePct": 36.77,
+          "nonHispanicWhitePct": 34.24,
+          "blackPct": 51.84,
+          "asianPct": 2.07,
+          "hispanicPct": 8.66
+        }
+      },
+      "election": {
+        "winner": "Gallop P. Franklin",
+        "party": "DEM",
+        "pct": 72.2,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Florida House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82697,
+        "medianAge": 39.5,
+        "totalPopulation": 184012,
+        "collegePct": 50.39,
+        "renterRatePct": 31.46,
+        "race": {
+          "whitePct": 70.05,
+          "nonHispanicWhitePct": 67.41,
+          "blackPct": 17.34,
+          "asianPct": 3.62,
+          "hispanicPct": 7.46
+        }
+      },
+      "election": {
+        "winner": "Allison Tant",
+        "party": "DEM",
+        "pct": 57.05,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Florida House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63640,
+        "medianAge": 40.2,
+        "totalPopulation": 181743,
+        "collegePct": 20.28,
+        "renterRatePct": 26,
+        "race": {
+          "whitePct": 74.02,
+          "nonHispanicWhitePct": 71.78,
+          "blackPct": 15.92,
+          "asianPct": 1,
+          "hispanicPct": 6.87
+        }
+      },
+      "election": {
+        "winner": "Chuck Brannan",
+        "party": "REP",
+        "pct": 74.05,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Florida House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89593,
+        "medianAge": 39.7,
+        "totalPopulation": 181085,
+        "collegePct": 30.24,
+        "renterRatePct": 24.1,
+        "race": {
+          "whitePct": 70.15,
+          "nonHispanicWhitePct": 67.22,
+          "blackPct": 12.28,
+          "asianPct": 3.33,
+          "hispanicPct": 11.97
+        }
+      },
+      "election": {
+        "winner": "Sam Garrison",
+        "party": "REP",
+        "pct": 69.1,
+        "unopposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Florida House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68858,
+        "medianAge": 38.1,
+        "totalPopulation": 181579,
+        "collegePct": 33.42,
+        "renterRatePct": 41.59,
+        "race": {
+          "whitePct": 58.83,
+          "nonHispanicWhitePct": 54.36,
+          "blackPct": 20.8,
+          "asianPct": 5.11,
+          "hispanicPct": 14.59
+        }
+      },
+      "election": {
+        "winner": "Wyman Duggan",
+        "party": "REP",
+        "pct": 57.07,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Florida House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51834,
+        "medianAge": 37.8,
+        "totalPopulation": 183935,
+        "collegePct": 21.75,
+        "renterRatePct": 42.32,
+        "race": {
+          "whitePct": 38.95,
+          "nonHispanicWhitePct": 36.48,
+          "blackPct": 49.48,
+          "asianPct": 2.37,
+          "hispanicPct": 7.65
+        }
+      },
+      "election": {
+        "winner": "Angie Nixon",
+        "party": "DEM",
+        "pct": 99.73,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Florida House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51698,
+        "medianAge": 36,
+        "totalPopulation": 178394,
+        "collegePct": 22.12,
+        "renterRatePct": 48.8,
+        "race": {
+          "whitePct": 37.88,
+          "nonHispanicWhitePct": 33.94,
+          "blackPct": 48.46,
+          "asianPct": 2.11,
+          "hispanicPct": 11.32
+        }
+      },
+      "election": {
+        "winner": "Kimberly Daniels",
+        "party": "DEM",
+        "pct": 99.63,
+        "unopposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Florida House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86849,
+        "medianAge": 40.7,
+        "totalPopulation": 192153,
+        "collegePct": 31.06,
+        "renterRatePct": 19.67,
+        "race": {
+          "whitePct": 68.45,
+          "nonHispanicWhitePct": 66.43,
+          "blackPct": 18.48,
+          "asianPct": 2.22,
+          "hispanicPct": 8.18
+        }
+      },
+      "election": {
+        "winner": "Dean Black",
+        "party": "REP",
+        "pct": 64.84,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Florida House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87837,
+        "medianAge": 38.2,
+        "totalPopulation": 177295,
+        "collegePct": 43.78,
+        "renterRatePct": 34.65,
+        "race": {
+          "whitePct": 67.68,
+          "nonHispanicWhitePct": 64.28,
+          "blackPct": 10.87,
+          "asianPct": 5.94,
+          "hispanicPct": 12.79
+        }
+      },
+      "election": {
+        "winner": "Kiyan Helen Michael",
+        "party": "REP",
+        "pct": 60.72,
+        "unopposed": false
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Florida House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80247,
+        "medianAge": 35.2,
+        "totalPopulation": 188486,
+        "collegePct": 46.72,
+        "renterRatePct": 50.76,
+        "race": {
+          "whitePct": 61.13,
+          "nonHispanicWhitePct": 57.45,
+          "blackPct": 14.1,
+          "asianPct": 9.21,
+          "hispanicPct": 12.87
+        }
+      },
+      "election": {
+        "winner": "Jessica Baker",
+        "party": "REP",
+        "pct": 58.07,
+        "unopposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Florida House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 130357,
+        "medianAge": 41.7,
+        "totalPopulation": 194674,
+        "collegePct": 57.15,
+        "renterRatePct": 13.99,
+        "race": {
+          "whitePct": 79.82,
+          "nonHispanicWhitePct": 77.51,
+          "blackPct": 5.04,
+          "asianPct": 4.5,
+          "hispanicPct": 8.51
+        }
+      },
+      "election": {
+        "winner": "Kim Kendall",
+        "party": "REP",
+        "pct": 69.91,
+        "unopposed": false
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Florida House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73822,
+        "medianAge": 52.2,
+        "totalPopulation": 184206,
+        "collegePct": 33.02,
+        "renterRatePct": 21.44,
+        "race": {
+          "whitePct": 79.25,
+          "nonHispanicWhitePct": 75.61,
+          "blackPct": 8.46,
+          "asianPct": 2.03,
+          "hispanicPct": 10.39
+        }
+      },
+      "election": {
+        "winner": "Sam Greco",
+        "party": "REP",
+        "pct": 60.95,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Florida House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57969,
+        "medianAge": 45.1,
+        "totalPopulation": 181660,
+        "collegePct": 18.84,
+        "renterRatePct": 24.08,
+        "race": {
+          "whitePct": 78.37,
+          "nonHispanicWhitePct": 75.01,
+          "blackPct": 9.73,
+          "asianPct": 0.74,
+          "hispanicPct": 9.73
+        }
+      },
+      "election": {
+        "winner": "Judson Sapp",
+        "party": "REP",
+        "pct": 75.41,
+        "unopposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Florida House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45638,
+        "medianAge": 33.6,
+        "totalPopulation": 171406,
+        "collegePct": 31.53,
+        "renterRatePct": 55.29,
+        "race": {
+          "whitePct": 53.08,
+          "nonHispanicWhitePct": 48.36,
+          "blackPct": 30.67,
+          "asianPct": 3.59,
+          "hispanicPct": 13.59
+        }
+      },
+      "election": {
+        "winner": "Yvonne Hayes Hinson",
+        "party": "DEM",
+        "pct": 60.21,
+        "unopposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Florida House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68484,
+        "medianAge": 36,
+        "totalPopulation": 190827,
+        "collegePct": 42.45,
+        "renterRatePct": 29.55,
+        "race": {
+          "whitePct": 74.72,
+          "nonHispanicWhitePct": 70.05,
+          "blackPct": 8.33,
+          "asianPct": 5.65,
+          "hispanicPct": 11.54
+        }
+      },
+      "election": {
+        "winner": "Chad Johnson",
+        "party": "REP",
+        "pct": 56.54,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Florida House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54653,
+        "medianAge": 56.5,
+        "totalPopulation": 181998,
+        "collegePct": 20.03,
+        "renterRatePct": 14.7,
+        "race": {
+          "whitePct": 88.15,
+          "nonHispanicWhitePct": 84.8,
+          "blackPct": 2.27,
+          "asianPct": 1.31,
+          "hispanicPct": 7.66
+        }
+      },
+      "election": {
+        "winner": "J.J. Grow",
+        "party": "REP",
+        "pct": 73.91,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Florida House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63168,
+        "medianAge": 47.7,
+        "totalPopulation": 186384,
+        "collegePct": 26.61,
+        "renterRatePct": 24.85,
+        "race": {
+          "whitePct": 71,
+          "nonHispanicWhitePct": 65.54,
+          "blackPct": 12.13,
+          "asianPct": 2.16,
+          "hispanicPct": 17.52
+        }
+      },
+      "election": {
+        "winner": "Ryan D. Chamberlin",
+        "party": "REP",
+        "pct": 64.41,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Florida House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84261,
+        "medianAge": 43.3,
+        "totalPopulation": 185535,
+        "collegePct": 31.27,
+        "renterRatePct": 22.34,
+        "race": {
+          "whitePct": 64.45,
+          "nonHispanicWhitePct": 57.86,
+          "blackPct": 10.09,
+          "asianPct": 3.01,
+          "hispanicPct": 23.79
+        }
+      },
+      "election": {
+        "winner": "Taylor Yarkosky",
+        "party": "REP",
+        "pct": 60.04,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Florida House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60211,
+        "medianAge": 52.5,
+        "totalPopulation": 181374,
+        "collegePct": 24.08,
+        "renterRatePct": 25.5,
+        "race": {
+          "whitePct": 74.29,
+          "nonHispanicWhitePct": 69.96,
+          "blackPct": 11.44,
+          "asianPct": 1.41,
+          "hispanicPct": 13.02
+        }
+      },
+      "election": {
+        "winner": "Nan Cobb",
+        "party": "REP",
+        "pct": 64.94,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Florida House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66870,
+        "medianAge": 48.4,
+        "totalPopulation": 189389,
+        "collegePct": 21.07,
+        "renterRatePct": 18.6,
+        "race": {
+          "whitePct": 76.53,
+          "nonHispanicWhitePct": 73.02,
+          "blackPct": 6.39,
+          "asianPct": 1.43,
+          "hispanicPct": 16.29
+        }
+      },
+      "election": {
+        "winner": "Richard Gentry",
+        "party": "REP",
+        "pct": 67.93,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Florida House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57287,
+        "medianAge": 49.3,
+        "totalPopulation": 182930,
+        "collegePct": 28.12,
+        "renterRatePct": 36.9,
+        "race": {
+          "whitePct": 69.48,
+          "nonHispanicWhitePct": 67.04,
+          "blackPct": 18.5,
+          "asianPct": 2.46,
+          "hispanicPct": 7.81
+        }
+      },
+      "election": {
+        "winner": "Bill Partington",
+        "party": "REP",
+        "pct": 57.73,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Florida House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72840,
+        "medianAge": 40.5,
+        "totalPopulation": 182265,
+        "collegePct": 23.84,
+        "renterRatePct": 22.26,
+        "race": {
+          "whitePct": 63.67,
+          "nonHispanicWhitePct": 57.04,
+          "blackPct": 10.14,
+          "asianPct": 1.44,
+          "hispanicPct": 29.13
+        }
+      },
+      "election": {
+        "winner": "Webster Barnaby",
+        "party": "REP",
+        "pct": 55.63,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Florida House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67825,
+        "medianAge": 51.5,
+        "totalPopulation": 181387,
+        "collegePct": 29.5,
+        "renterRatePct": 21,
+        "race": {
+          "whitePct": 86.42,
+          "nonHispanicWhitePct": 84.16,
+          "blackPct": 5.45,
+          "asianPct": 1.3,
+          "hispanicPct": 5.65
+        }
+      },
+      "election": {
+        "winner": "Chase Tramont",
+        "party": "REP",
+        "pct": 65.57,
+        "unopposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Florida House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76247,
+        "medianAge": 49.6,
+        "totalPopulation": 180615,
+        "collegePct": 33.4,
+        "renterRatePct": 23.08,
+        "race": {
+          "whitePct": 79.89,
+          "nonHispanicWhitePct": 76.47,
+          "blackPct": 7.47,
+          "asianPct": 2.07,
+          "hispanicPct": 9.58
+        }
+      },
+      "election": {
+        "winner": "Tyler Sirois",
+        "party": "REP",
+        "pct": 63.68,
+        "unopposed": false
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Florida House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84210,
+        "medianAge": 47.1,
+        "totalPopulation": 184424,
+        "collegePct": 41.52,
+        "renterRatePct": 24.56,
+        "race": {
+          "whitePct": 79.44,
+          "nonHispanicWhitePct": 75.28,
+          "blackPct": 6.49,
+          "asianPct": 2.84,
+          "hispanicPct": 10.27
+        }
+      },
+      "election": {
+        "winner": "Debbie Mayfield",
+        "party": "REP",
+        "pct": 64.28,
+        "unopposed": false
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Florida House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70955,
+        "medianAge": 42.4,
+        "totalPopulation": 191965,
+        "collegePct": 28.47,
+        "renterRatePct": 24.12,
+        "race": {
+          "whitePct": 64.53,
+          "nonHispanicWhitePct": 59.07,
+          "blackPct": 15.65,
+          "asianPct": 2.96,
+          "hispanicPct": 16.91
+        }
+      },
+      "election": {
+        "winner": "Monique Miller",
+        "party": "REP",
+        "pct": 56.12,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Florida House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69876,
+        "medianAge": 56.5,
+        "totalPopulation": 182362,
+        "collegePct": 32.79,
+        "renterRatePct": 19.12,
+        "race": {
+          "whitePct": 78.57,
+          "nonHispanicWhitePct": 74.65,
+          "blackPct": 7.46,
+          "asianPct": 1.49,
+          "hispanicPct": 12.75
+        }
+      },
+      "election": {
+        "winner": "Robert Brackett",
+        "party": "REP",
+        "pct": 67.33,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Florida House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97639,
+        "medianAge": 37.7,
+        "totalPopulation": 179326,
+        "collegePct": 45.06,
+        "renterRatePct": 27.59,
+        "race": {
+          "whitePct": 57.24,
+          "nonHispanicWhitePct": 46.02,
+          "blackPct": 9.77,
+          "asianPct": 5.36,
+          "hispanicPct": 34.94
+        }
+      },
+      "election": {
+        "winner": "Erika Booth",
+        "party": "REP",
+        "pct": 51.98,
+        "unopposed": false
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Florida House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80957,
+        "medianAge": 39.9,
+        "totalPopulation": 178392,
+        "collegePct": 38.29,
+        "renterRatePct": 36.43,
+        "race": {
+          "whitePct": 57.48,
+          "nonHispanicWhitePct": 52.27,
+          "blackPct": 15.8,
+          "asianPct": 6.22,
+          "hispanicPct": 22.32
+        }
+      },
+      "election": {
+        "winner": "Rachel Plakon",
+        "party": "REP",
+        "pct": 53.6,
+        "unopposed": false
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Florida House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81043,
+        "medianAge": 29.4,
+        "totalPopulation": 175053,
+        "collegePct": 43.4,
+        "renterRatePct": 42.4,
+        "race": {
+          "whitePct": 61.85,
+          "nonHispanicWhitePct": 52.33,
+          "blackPct": 9.7,
+          "asianPct": 6.05,
+          "hispanicPct": 28.24
+        }
+      },
+      "election": {
+        "winner": "Susan Plasencia",
+        "party": "REP",
+        "pct": 50.3,
+        "unopposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Florida House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72413,
+        "medianAge": 39.3,
+        "totalPopulation": 178070,
+        "collegePct": 40.13,
+        "renterRatePct": 37.85,
+        "race": {
+          "whitePct": 62.76,
+          "nonHispanicWhitePct": 55.07,
+          "blackPct": 12.08,
+          "asianPct": 3.49,
+          "hispanicPct": 25.79
+        }
+      },
+      "election": {
+        "winner": "David Smith",
+        "party": "REP",
+        "pct": 50.38,
+        "unopposed": false
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Florida House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93465,
+        "medianAge": 41.2,
+        "totalPopulation": 178961,
+        "collegePct": 38.1,
+        "renterRatePct": 23.11,
+        "race": {
+          "whitePct": 58.03,
+          "nonHispanicWhitePct": 49.94,
+          "blackPct": 16.84,
+          "asianPct": 3.82,
+          "hispanicPct": 26.07
+        }
+      },
+      "election": {
+        "winner": "Doug Bankson",
+        "party": "REP",
+        "pct": 52.55,
+        "unopposed": false
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Florida House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63469,
+        "medianAge": 35.2,
+        "totalPopulation": 199706,
+        "collegePct": 23.62,
+        "renterRatePct": 40.48,
+        "race": {
+          "whitePct": 27.34,
+          "nonHispanicWhitePct": 22.37,
+          "blackPct": 53.3,
+          "asianPct": 3.05,
+          "hispanicPct": 18.1
+        }
+      },
+      "election": {
+        "winner": "LaVon Bracy Davis",
+        "party": "DEM",
+        "pct": 67.49,
+        "unopposed": false
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Florida House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52836,
+        "medianAge": 34.2,
+        "totalPopulation": 164752,
+        "collegePct": 25.83,
+        "renterRatePct": 66.7,
+        "race": {
+          "whitePct": 26.76,
+          "nonHispanicWhitePct": 17.31,
+          "blackPct": 41.11,
+          "asianPct": 4.69,
+          "hispanicPct": 30.39
+        }
+      },
+      "election": {
+        "winner": "Bruce Antone",
+        "party": "DEM",
+        "pct": 63.4,
+        "unopposed": false
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Florida House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89306,
+        "medianAge": 39,
+        "totalPopulation": 182533,
+        "collegePct": 54.17,
+        "renterRatePct": 45.37,
+        "race": {
+          "whitePct": 68.36,
+          "nonHispanicWhitePct": 61.94,
+          "blackPct": 8.41,
+          "asianPct": 4.24,
+          "hispanicPct": 21.48
+        }
+      },
+      "election": {
+        "winner": "Anna V. Eskamani",
+        "party": "DEM",
+        "pct": 58.86,
+        "unopposed": false
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Florida House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65022,
+        "medianAge": 36.2,
+        "totalPopulation": 179665,
+        "collegePct": 30.8,
+        "renterRatePct": 46.48,
+        "race": {
+          "whitePct": 40.32,
+          "nonHispanicWhitePct": 22.76,
+          "blackPct": 9.92,
+          "asianPct": 4.96,
+          "hispanicPct": 60.7
+        }
+      },
+      "election": {
+        "winner": "Johanna Lopez",
+        "party": "DEM",
+        "pct": 57.34,
+        "unopposed": false
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Florida House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80587,
+        "medianAge": 38.8,
+        "totalPopulation": 163303,
+        "collegePct": 40.22,
+        "renterRatePct": 44.02,
+        "race": {
+          "whitePct": 45.37,
+          "nonHispanicWhitePct": 32.01,
+          "blackPct": 9.79,
+          "asianPct": 7.8,
+          "hispanicPct": 45.64
+        }
+      },
+      "election": {
+        "winner": "Jennifer 'Rita' Harris",
+        "party": "DEM",
+        "pct": 65,
+        "unopposed": false
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Florida House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112646,
+        "medianAge": 37.6,
+        "totalPopulation": 178145,
+        "collegePct": 54.03,
+        "renterRatePct": 33.57,
+        "race": {
+          "whitePct": 60.1,
+          "nonHispanicWhitePct": 54.42,
+          "blackPct": 7.11,
+          "asianPct": 8.07,
+          "hispanicPct": 22.33
+        }
+      },
+      "election": {
+        "winner": "Leonard Spencer",
+        "party": "DEM",
+        "pct": 50.85,
+        "unopposed": false
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Florida House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59553,
+        "medianAge": 35.6,
+        "totalPopulation": 180748,
+        "collegePct": 24.24,
+        "renterRatePct": 39.17,
+        "race": {
+          "whitePct": 36.24,
+          "nonHispanicWhitePct": 19.15,
+          "blackPct": 15.1,
+          "asianPct": 2.96,
+          "hispanicPct": 60.27
+        }
+      },
+      "election": {
+        "winner": "Jose Alvarez",
+        "party": "DEM",
+        "pct": 57.02,
+        "unopposed": false
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Florida House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73923,
+        "medianAge": 38,
+        "totalPopulation": 183672,
+        "collegePct": 28.86,
+        "renterRatePct": 27.45,
+        "race": {
+          "whitePct": 40.42,
+          "nonHispanicWhitePct": 25.31,
+          "blackPct": 8.94,
+          "asianPct": 3.32,
+          "hispanicPct": 60.19
+        }
+      },
+      "election": {
+        "winner": "Paula A. Stark",
+        "party": "REP",
+        "pct": 50.8,
+        "unopposed": false
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Florida House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58475,
+        "medianAge": 43.6,
+        "totalPopulation": 185086,
+        "collegePct": 22.35,
+        "renterRatePct": 28.01,
+        "race": {
+          "whitePct": 57.94,
+          "nonHispanicWhitePct": 49.55,
+          "blackPct": 17.15,
+          "asianPct": 1.28,
+          "hispanicPct": 29.01
+        }
+      },
+      "election": {
+        "winner": "Jon Albert",
+        "party": "REP",
+        "pct": 57.89,
+        "unopposed": false
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Florida House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66297,
+        "medianAge": 37.1,
+        "totalPopulation": 180907,
+        "collegePct": 21.77,
+        "renterRatePct": 28.19,
+        "race": {
+          "whitePct": 64.26,
+          "nonHispanicWhitePct": 58,
+          "blackPct": 12.22,
+          "asianPct": 1.65,
+          "hispanicPct": 25.34
+        }
+      },
+      "election": {
+        "winner": "Jennifer Kincart Jonsson",
+        "party": "REP",
+        "pct": 67.07,
+        "unopposed": false
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Florida House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63839,
+        "medianAge": 39,
+        "totalPopulation": 184837,
+        "collegePct": 24.66,
+        "renterRatePct": 36.65,
+        "race": {
+          "whitePct": 63.45,
+          "nonHispanicWhitePct": 57.45,
+          "blackPct": 16.53,
+          "asianPct": 2,
+          "hispanicPct": 20.69
+        }
+      },
+      "election": {
+        "winner": "Jennifer Canady",
+        "party": "REP",
+        "pct": 62.62,
+        "unopposed": false
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Florida House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66396,
+        "medianAge": 39.1,
+        "totalPopulation": 210131,
+        "collegePct": 21.9,
+        "renterRatePct": 27.05,
+        "race": {
+          "whitePct": 54.54,
+          "nonHispanicWhitePct": 46.43,
+          "blackPct": 13.34,
+          "asianPct": 2.1,
+          "hispanicPct": 34.84
+        }
+      },
+      "election": {
+        "winner": "Josie Tomkow",
+        "party": "REP",
+        "pct": 56.89,
+        "unopposed": false
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Florida House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70332,
+        "medianAge": 63.8,
+        "totalPopulation": 193437,
+        "collegePct": 31.03,
+        "renterRatePct": 14.07,
+        "race": {
+          "whitePct": 84.85,
+          "nonHispanicWhitePct": 81.64,
+          "blackPct": 6.88,
+          "asianPct": 0.93,
+          "hispanicPct": 8.09
+        }
+      },
+      "election": {
+        "winner": "John Temple",
+        "party": "REP",
+        "pct": 72.04,
+        "unopposed": false
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Florida House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62741,
+        "medianAge": 49.6,
+        "totalPopulation": 175936,
+        "collegePct": 20.13,
+        "renterRatePct": 17.55,
+        "race": {
+          "whitePct": 79.69,
+          "nonHispanicWhitePct": 74.9,
+          "blackPct": 3.78,
+          "asianPct": 1.65,
+          "hispanicPct": 15.5
+        }
+      },
+      "election": {
+        "winner": "Jeff Holcomb",
+        "party": "REP",
+        "pct": 69.03,
+        "unopposed": false
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Florida House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72443,
+        "medianAge": 41.9,
+        "totalPopulation": 195416,
+        "collegePct": 31.91,
+        "renterRatePct": 21.85,
+        "race": {
+          "whitePct": 67.85,
+          "nonHispanicWhitePct": 61.27,
+          "blackPct": 9.16,
+          "asianPct": 4.33,
+          "hispanicPct": 21.06
+        }
+      },
+      "election": {
+        "winner": "Randy Maggard",
+        "party": "REP",
+        "pct": 60.11,
+        "unopposed": false
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Florida House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95376,
+        "medianAge": 41.3,
+        "totalPopulation": 192086,
+        "collegePct": 36.03,
+        "renterRatePct": 16.52,
+        "race": {
+          "whitePct": 76.67,
+          "nonHispanicWhitePct": 70.53,
+          "blackPct": 4.79,
+          "asianPct": 3.54,
+          "hispanicPct": 17.28
+        }
+      },
+      "election": {
+        "winner": "Kevin M. Steele",
+        "party": "REP",
+        "pct": 64.19,
+        "unopposed": false
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Florida House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49274,
+        "medianAge": 46.6,
+        "totalPopulation": 170931,
+        "collegePct": 17.9,
+        "renterRatePct": 35.26,
+        "race": {
+          "whitePct": 79.08,
+          "nonHispanicWhitePct": 74,
+          "blackPct": 5.04,
+          "asianPct": 1.42,
+          "hispanicPct": 16.21
+        }
+      },
+      "election": {
+        "winner": "Brad Yeager",
+        "party": "REP",
+        "pct": 65.14,
+        "unopposed": false
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Florida House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78622,
+        "medianAge": 51.7,
+        "totalPopulation": 177675,
+        "collegePct": 40.26,
+        "renterRatePct": 20.37,
+        "race": {
+          "whitePct": 83.88,
+          "nonHispanicWhitePct": 80.47,
+          "blackPct": 3.77,
+          "asianPct": 2.54,
+          "hispanicPct": 9.57
+        }
+      },
+      "election": {
+        "winner": "Adam C. Anderson",
+        "party": "REP",
+        "pct": 58.82,
+        "unopposed": false
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Florida House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65201,
+        "medianAge": 49.7,
+        "totalPopulation": 176074,
+        "collegePct": 32.96,
+        "renterRatePct": 35.88,
+        "race": {
+          "whitePct": 74.75,
+          "nonHispanicWhitePct": 70.67,
+          "blackPct": 8.05,
+          "asianPct": 3.15,
+          "hispanicPct": 14.27
+        }
+      },
+      "election": {
+        "winner": "Kimberly 'Kim' Berfield",
+        "party": "REP",
+        "pct": 57.64,
+        "unopposed": false
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Florida House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66750,
+        "medianAge": 48.5,
+        "totalPopulation": 178917,
+        "collegePct": 29.3,
+        "renterRatePct": 27.99,
+        "race": {
+          "whitePct": 77.49,
+          "nonHispanicWhitePct": 73.16,
+          "blackPct": 7.4,
+          "asianPct": 3.22,
+          "hispanicPct": 11.94
+        }
+      },
+      "election": {
+        "winner": "Berny Jacques",
+        "party": "REP",
+        "pct": 58.68,
+        "unopposed": false
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Florida House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70381,
+        "medianAge": 43.2,
+        "totalPopulation": 178674,
+        "collegePct": 41.22,
+        "renterRatePct": 39.61,
+        "race": {
+          "whitePct": 74.3,
+          "nonHispanicWhitePct": 70.95,
+          "blackPct": 6.84,
+          "asianPct": 5.89,
+          "hispanicPct": 12
+        }
+      },
+      "election": {
+        "winner": "Lindsay Cross",
+        "party": "DEM",
+        "pct": 53.65,
+        "unopposed": false
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Florida House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74177,
+        "medianAge": 53.8,
+        "totalPopulation": 175404,
+        "collegePct": 36.98,
+        "renterRatePct": 24.41,
+        "race": {
+          "whitePct": 81.13,
+          "nonHispanicWhitePct": 78.15,
+          "blackPct": 4.14,
+          "asianPct": 4.46,
+          "hispanicPct": 9.23
+        }
+      },
+      "election": {
+        "winner": "Linda Chaney",
+        "party": "REP",
+        "pct": 56.23,
+        "unopposed": false
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Florida House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67757,
+        "medianAge": 36.1,
+        "totalPopulation": 173135,
+        "collegePct": 29.82,
+        "renterRatePct": 41.55,
+        "race": {
+          "whitePct": 39.92,
+          "nonHispanicWhitePct": 34.07,
+          "blackPct": 37.6,
+          "asianPct": 2.57,
+          "hispanicPct": 20.91
+        }
+      },
+      "election": {
+        "winner": "Michele K. Rayner",
+        "party": "DEM",
+        "pct": 68.65,
+        "unopposed": false
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Florida House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44962,
+        "medianAge": 34,
+        "totalPopulation": 174166,
+        "collegePct": 23.4,
+        "renterRatePct": 58.59,
+        "race": {
+          "whitePct": 29.91,
+          "nonHispanicWhitePct": 23.59,
+          "blackPct": 44.94,
+          "asianPct": 1.91,
+          "hispanicPct": 27.48
+        }
+      },
+      "election": {
+        "winner": "Dianne 'Ms. Dee' Hart",
+        "party": "DEM",
+        "pct": 72.92,
+        "unopposed": false
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Florida House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62022,
+        "medianAge": 39.5,
+        "totalPopulation": 175541,
+        "collegePct": 27.93,
+        "renterRatePct": 46.53,
+        "race": {
+          "whitePct": 45.11,
+          "nonHispanicWhitePct": 27.13,
+          "blackPct": 9.02,
+          "asianPct": 3.15,
+          "hispanicPct": 58.28
+        }
+      },
+      "election": {
+        "winner": "Susan L. Valdés",
+        "party": "DEM",
+        "pct": 52.39,
+        "unopposed": false
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Florida House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102879,
+        "medianAge": 37.5,
+        "totalPopulation": 182387,
+        "collegePct": 60.43,
+        "renterRatePct": 43.92,
+        "race": {
+          "whitePct": 73.01,
+          "nonHispanicWhitePct": 65.96,
+          "blackPct": 5.58,
+          "asianPct": 4.98,
+          "hispanicPct": 18.6
+        }
+      },
+      "election": {
+        "winner": "Karen Gonzalez Pittman",
+        "party": "REP",
+        "pct": 57.25,
+        "unopposed": false
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "Florida House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92951,
+        "medianAge": 41.9,
+        "totalPopulation": 184436,
+        "collegePct": 47.04,
+        "renterRatePct": 26.77,
+        "race": {
+          "whitePct": 66.33,
+          "nonHispanicWhitePct": 56.21,
+          "blackPct": 5.98,
+          "asianPct": 5.6,
+          "hispanicPct": 28.06
+        }
+      },
+      "election": {
+        "winner": "Traci Koster",
+        "party": "REP",
+        "pct": 58.27,
+        "unopposed": false
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "Florida House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69622,
+        "medianAge": 33.4,
+        "totalPopulation": 181373,
+        "collegePct": 41.62,
+        "renterRatePct": 52.14,
+        "race": {
+          "whitePct": 49.29,
+          "nonHispanicWhitePct": 42.44,
+          "blackPct": 18.72,
+          "asianPct": 10.44,
+          "hispanicPct": 24.18
+        }
+      },
+      "election": {
+        "winner": "Fentrice Driskell",
+        "party": "DEM",
+        "pct": 54.65,
+        "unopposed": false
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "Florida House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77371,
+        "medianAge": 41,
+        "totalPopulation": 177103,
+        "collegePct": 27.49,
+        "renterRatePct": 24.81,
+        "race": {
+          "whitePct": 62.53,
+          "nonHispanicWhitePct": 53.68,
+          "blackPct": 11.05,
+          "asianPct": 2.58,
+          "hispanicPct": 29.83
+        }
+      },
+      "election": {
+        "winner": "Lawrence McClure",
+        "party": "REP",
+        "pct": 63.03,
+        "unopposed": false
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "Florida House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94652,
+        "medianAge": 37.9,
+        "totalPopulation": 180723,
+        "collegePct": 37.09,
+        "renterRatePct": 30.97,
+        "race": {
+          "whitePct": 60.65,
+          "nonHispanicWhitePct": 52.34,
+          "blackPct": 14.42,
+          "asianPct": 3.71,
+          "hispanicPct": 25.08
+        }
+      },
+      "election": {
+        "winner": "Daniel 'Danny' Alvarez",
+        "party": "REP",
+        "pct": 58.23,
+        "unopposed": false
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "Florida House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85111,
+        "medianAge": 44,
+        "totalPopulation": 186217,
+        "collegePct": 33.34,
+        "renterRatePct": 16.2,
+        "race": {
+          "whitePct": 62.84,
+          "nonHispanicWhitePct": 57.66,
+          "blackPct": 15.13,
+          "asianPct": 2.41,
+          "hispanicPct": 20.76
+        }
+      },
+      "election": {
+        "winner": "Michael Owen",
+        "party": "REP",
+        "pct": 58.77,
+        "unopposed": false
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "Florida House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65162,
+        "medianAge": 48.2,
+        "totalPopulation": 183728,
+        "collegePct": 29.4,
+        "renterRatePct": 33.07,
+        "race": {
+          "whitePct": 70.14,
+          "nonHispanicWhitePct": 61.6,
+          "blackPct": 11.34,
+          "asianPct": 1.48,
+          "hispanicPct": 22.36
+        }
+      },
+      "election": {
+        "winner": "Will Robinson",
+        "party": "REP",
+        "pct": 59.56,
+        "unopposed": false
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "Florida House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84944,
+        "medianAge": 51,
+        "totalPopulation": 180666,
+        "collegePct": 39.91,
+        "renterRatePct": 21.44,
+        "race": {
+          "whitePct": 78.64,
+          "nonHispanicWhitePct": 74.37,
+          "blackPct": 4.44,
+          "asianPct": 3.03,
+          "hispanicPct": 14.38
+        }
+      },
+      "election": {
+        "winner": "William 'Bill' Conerly",
+        "party": "REP",
+        "pct": 64.69,
+        "unopposed": false
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "Florida House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78982,
+        "medianAge": 60.4,
+        "totalPopulation": 187011,
+        "collegePct": 44.54,
+        "renterRatePct": 28.43,
+        "race": {
+          "whitePct": 83,
+          "nonHispanicWhitePct": 79.97,
+          "blackPct": 5.72,
+          "asianPct": 1.91,
+          "hispanicPct": 9.44
+        }
+      },
+      "election": {
+        "winner": "Fiona McFarland",
+        "party": "REP",
+        "pct": 56.28,
+        "unopposed": false
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "Florida House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84183,
+        "medianAge": 49.6,
+        "totalPopulation": 194404,
+        "collegePct": 36.33,
+        "renterRatePct": 22.88,
+        "race": {
+          "whitePct": 82.03,
+          "nonHispanicWhitePct": 77.66,
+          "blackPct": 3.75,
+          "asianPct": 1.99,
+          "hispanicPct": 12.86
+        }
+      },
+      "election": {
+        "winner": "James Buchanan",
+        "party": "REP",
+        "pct": 64.64,
+        "unopposed": false
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "Florida House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69216,
+        "medianAge": 61.3,
+        "totalPopulation": 189416,
+        "collegePct": 27.66,
+        "renterRatePct": 14.43,
+        "race": {
+          "whitePct": 87.45,
+          "nonHispanicWhitePct": 85.5,
+          "blackPct": 3.39,
+          "asianPct": 1.45,
+          "hispanicPct": 6.96
+        }
+      },
+      "election": {
+        "winner": "Danny Nix",
+        "party": "REP",
+        "pct": 66.34,
+        "unopposed": false
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "Florida House District 76",
+      "census": {
+        "censusName": "State House District 76 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62417,
+        "medianAge": 57,
+        "totalPopulation": 188631,
+        "collegePct": 23.17,
+        "renterRatePct": 20.19,
+        "race": {
+          "whitePct": 80.49,
+          "nonHispanicWhitePct": 75.45,
+          "blackPct": 5.42,
+          "asianPct": 0.94,
+          "hispanicPct": 15.46
+        }
+      },
+      "election": {
+        "winner": "Vanessa Oliver",
+        "party": "REP",
+        "pct": 70.51,
+        "unopposed": false
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "Florida House District 77",
+      "census": {
+        "censusName": "State House District 77 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74477,
+        "medianAge": 36.9,
+        "totalPopulation": 198686,
+        "collegePct": 24.98,
+        "renterRatePct": 25.88,
+        "race": {
+          "whitePct": 57.96,
+          "nonHispanicWhitePct": 46.51,
+          "blackPct": 13.28,
+          "asianPct": 1.77,
+          "hispanicPct": 34.97
+        }
+      },
+      "election": {
+        "winner": "Tiffany Esposito",
+        "party": "REP",
+        "pct": 63.91,
+        "unopposed": false
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "Florida House District 78",
+      "census": {
+        "censusName": "State House District 78 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66427,
+        "medianAge": 46.5,
+        "totalPopulation": 186295,
+        "collegePct": 34.11,
+        "renterRatePct": 39.27,
+        "race": {
+          "whitePct": 65.17,
+          "nonHispanicWhitePct": 59.6,
+          "blackPct": 13.25,
+          "asianPct": 2.08,
+          "hispanicPct": 21.28
+        }
+      },
+      "election": {
+        "winner": "Jenna Persons-Mulicka",
+        "party": "REP",
+        "pct": 59.89,
+        "unopposed": false
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "Florida House District 79",
+      "census": {
+        "censusName": "State House District 79 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74987,
+        "medianAge": 49.4,
+        "totalPopulation": 194593,
+        "collegePct": 25.82,
+        "renterRatePct": 22.18,
+        "race": {
+          "whitePct": 73.56,
+          "nonHispanicWhitePct": 66.64,
+          "blackPct": 4.55,
+          "asianPct": 1.54,
+          "hispanicPct": 24.16
+        }
+      },
+      "election": {
+        "winner": "Mike Giallombardo",
+        "party": "REP",
+        "pct": 68.84,
+        "unopposed": false
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "Florida House District 80",
+      "census": {
+        "censusName": "State House District 80 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93456,
+        "medianAge": 63.1,
+        "totalPopulation": 183834,
+        "collegePct": 46.24,
+        "renterRatePct": 19.22,
+        "race": {
+          "whitePct": 85.17,
+          "nonHispanicWhitePct": 81.96,
+          "blackPct": 1.33,
+          "asianPct": 1.47,
+          "hispanicPct": 13.11
+        }
+      },
+      "election": {
+        "winner": "Adam Botana",
+        "party": "REP",
+        "pct": 69.12,
+        "unopposed": false
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "Florida House District 81",
+      "census": {
+        "censusName": "State House District 81 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86052,
+        "medianAge": 61.7,
+        "totalPopulation": 183735,
+        "collegePct": 45.74,
+        "renterRatePct": 23.61,
+        "race": {
+          "whitePct": 79.08,
+          "nonHispanicWhitePct": 74.22,
+          "blackPct": 4.92,
+          "asianPct": 2.02,
+          "hispanicPct": 16.88
+        }
+      },
+      "election": {
+        "winner": "Yvette Benarroch",
+        "party": "REP",
+        "pct": 68.08,
+        "unopposed": false
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "Florida House District 82",
+      "census": {
+        "censusName": "State House District 82 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74060,
+        "medianAge": 38.8,
+        "totalPopulation": 193379,
+        "collegePct": 22.42,
+        "renterRatePct": 26.3,
+        "race": {
+          "whitePct": 53,
+          "nonHispanicWhitePct": 38.96,
+          "blackPct": 10.47,
+          "asianPct": 0.92,
+          "hispanicPct": 47.51
+        }
+      },
+      "election": {
+        "winner": "Lauren Uhlich Melo",
+        "party": "REP",
+        "pct": 69.74,
+        "unopposed": false
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "Florida House District 83",
+      "census": {
+        "censusName": "State House District 83 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53480,
+        "medianAge": 47.5,
+        "totalPopulation": 181889,
+        "collegePct": 17.54,
+        "renterRatePct": 22.76,
+        "race": {
+          "whitePct": 70.49,
+          "nonHispanicWhitePct": 60.87,
+          "blackPct": 9.1,
+          "asianPct": 1.24,
+          "hispanicPct": 25.51
+        }
+      },
+      "election": {
+        "winner": "Kaylee Tuck",
+        "party": "REP",
+        "pct": 74.62,
+        "unopposed": false
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "Florida House District 84",
+      "census": {
+        "censusName": "State House District 84 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61937,
+        "medianAge": 47.3,
+        "totalPopulation": 187810,
+        "collegePct": 25.14,
+        "renterRatePct": 26.23,
+        "race": {
+          "whitePct": 60.01,
+          "nonHispanicWhitePct": 54.24,
+          "blackPct": 22.67,
+          "asianPct": 1.62,
+          "hispanicPct": 18.52
+        }
+      },
+      "election": {
+        "winner": "Dana Trabulsy",
+        "party": "REP",
+        "pct": 58.04,
+        "unopposed": false
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "Florida House District 85",
+      "census": {
+        "censusName": "State House District 85 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80291,
+        "medianAge": 44.7,
+        "totalPopulation": 194791,
+        "collegePct": 29.22,
+        "renterRatePct": 17.09,
+        "race": {
+          "whitePct": 64.63,
+          "nonHispanicWhitePct": 56.78,
+          "blackPct": 15.74,
+          "asianPct": 2.38,
+          "hispanicPct": 21.34
+        }
+      },
+      "election": {
+        "winner": "Toby Overdorf",
+        "party": "REP",
+        "pct": 57.16,
+        "unopposed": false
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "Florida House District 86",
+      "census": {
+        "censusName": "State House District 86 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82500,
+        "medianAge": 52.7,
+        "totalPopulation": 182131,
+        "collegePct": 39.22,
+        "renterRatePct": 20.96,
+        "race": {
+          "whitePct": 79.23,
+          "nonHispanicWhitePct": 73.34,
+          "blackPct": 4.73,
+          "asianPct": 1.3,
+          "hispanicPct": 17.94
+        }
+      },
+      "election": {
+        "winner": "John Snyder",
+        "party": "REP",
+        "pct": 68.07,
+        "unopposed": false
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "Florida House District 87",
+      "census": {
+        "censusName": "State House District 87 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92180,
+        "medianAge": 48.7,
+        "totalPopulation": 181377,
+        "collegePct": 47.56,
+        "renterRatePct": 32.63,
+        "race": {
+          "whitePct": 72.88,
+          "nonHispanicWhitePct": 67.66,
+          "blackPct": 8.12,
+          "asianPct": 2.47,
+          "hispanicPct": 18.39
+        }
+      },
+      "election": {
+        "winner": "Mike Caruso",
+        "party": "REP",
+        "pct": 59.48,
+        "unopposed": false
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "Florida House District 88",
+      "census": {
+        "censusName": "State House District 88 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63037,
+        "medianAge": 35.5,
+        "totalPopulation": 184605,
+        "collegePct": 25.61,
+        "renterRatePct": 52.76,
+        "race": {
+          "whitePct": 25.66,
+          "nonHispanicWhitePct": 20.44,
+          "blackPct": 49.52,
+          "asianPct": 2.76,
+          "hispanicPct": 23.86
+        }
+      },
+      "election": {
+        "winner": "Jervonte 'Tae' Edmonds",
+        "party": "DEM",
+        "pct": 71.17,
+        "unopposed": false
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "Florida House District 89",
+      "census": {
+        "censusName": "State House District 89 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62818,
+        "medianAge": 37.9,
+        "totalPopulation": 174009,
+        "collegePct": 20.26,
+        "renterRatePct": 41.93,
+        "race": {
+          "whitePct": 37.25,
+          "nonHispanicWhitePct": 24.15,
+          "blackPct": 17.03,
+          "asianPct": 2.6,
+          "hispanicPct": 54.56
+        }
+      },
+      "election": {
+        "winner": "Debra Tendrich",
+        "party": "DEM",
+        "pct": 51.28,
+        "unopposed": false
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "Florida House District 90",
+      "census": {
+        "censusName": "State House District 90 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76194,
+        "medianAge": 47.7,
+        "totalPopulation": 181563,
+        "collegePct": 36.74,
+        "renterRatePct": 32.51,
+        "race": {
+          "whitePct": 53.86,
+          "nonHispanicWhitePct": 49.53,
+          "blackPct": 29.32,
+          "asianPct": 2.33,
+          "hispanicPct": 15.34
+        }
+      },
+      "election": {
+        "winner": "Joe Casello",
+        "party": "DEM",
+        "pct": 56.08,
+        "unopposed": false
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "Florida House District 91",
+      "census": {
+        "censusName": "State House District 91 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88077,
+        "medianAge": 49.3,
+        "totalPopulation": 185532,
+        "collegePct": 55.96,
+        "renterRatePct": 31.04,
+        "race": {
+          "whitePct": 74.47,
+          "nonHispanicWhitePct": 68.8,
+          "blackPct": 4.64,
+          "asianPct": 3.23,
+          "hispanicPct": 16.52
+        }
+      },
+      "election": {
+        "winner": "Peggy Gossett-Seidman",
+        "party": "REP",
+        "pct": 54.54,
+        "unopposed": false
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "Florida House District 92",
+      "census": {
+        "censusName": "State House District 92 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86331,
+        "medianAge": 56.4,
+        "totalPopulation": 181052,
+        "collegePct": 47.64,
+        "renterRatePct": 14.13,
+        "race": {
+          "whitePct": 73.74,
+          "nonHispanicWhitePct": 68.46,
+          "blackPct": 6.85,
+          "asianPct": 3.06,
+          "hispanicPct": 15.5
+        }
+      },
+      "election": {
+        "winner": "Kelly Skidmore",
+        "party": "DEM",
+        "pct": 57.52,
+        "unopposed": false
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "Florida House District 93",
+      "census": {
+        "censusName": "State House District 93 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95598,
+        "medianAge": 43.8,
+        "totalPopulation": 181604,
+        "collegePct": 39.93,
+        "renterRatePct": 21.64,
+        "race": {
+          "whitePct": 55.13,
+          "nonHispanicWhitePct": 47.51,
+          "blackPct": 17.1,
+          "asianPct": 4.04,
+          "hispanicPct": 27.48
+        }
+      },
+      "election": {
+        "winner": "Anne Gerwig",
+        "party": "REP",
+        "pct": 50.19,
+        "unopposed": false
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "Florida House District 94",
+      "census": {
+        "censusName": "State House District 94 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90310,
+        "medianAge": 47,
+        "totalPopulation": 179680,
+        "collegePct": 35.1,
+        "renterRatePct": 21.22,
+        "race": {
+          "whitePct": 58.36,
+          "nonHispanicWhitePct": 51.92,
+          "blackPct": 20.24,
+          "asianPct": 2.54,
+          "hispanicPct": 21.36
+        }
+      },
+      "election": {
+        "winner": "Meg Weinberger",
+        "party": "REP",
+        "pct": 55.08,
+        "unopposed": false
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "Florida House District 95",
+      "census": {
+        "censusName": "State House District 95 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81562,
+        "medianAge": 41.7,
+        "totalPopulation": 183284,
+        "collegePct": 39.44,
+        "renterRatePct": 27.99,
+        "race": {
+          "whitePct": 50.12,
+          "nonHispanicWhitePct": 41.86,
+          "blackPct": 22.85,
+          "asianPct": 4.34,
+          "hispanicPct": 24.53
+        }
+      },
+      "election": {
+        "winner": "Christine Hunschofsky",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "Florida House District 96",
+      "census": {
+        "censusName": "State House District 96 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80422,
+        "medianAge": 40.4,
+        "totalPopulation": 178269,
+        "collegePct": 35.6,
+        "renterRatePct": 33.86,
+        "race": {
+          "whitePct": 43,
+          "nonHispanicWhitePct": 33.01,
+          "blackPct": 25.43,
+          "asianPct": 4.96,
+          "hispanicPct": 32.65
+        }
+      },
+      "election": {
+        "winner": "Dan Daley",
+        "party": "DEM",
+        "pct": 61.15,
+        "unopposed": false
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "Florida House District 97",
+      "census": {
+        "censusName": "State House District 97 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55985,
+        "medianAge": 39,
+        "totalPopulation": 180702,
+        "collegePct": 22.48,
+        "renterRatePct": 40.29,
+        "race": {
+          "whitePct": 20.64,
+          "nonHispanicWhitePct": 14.59,
+          "blackPct": 57.99,
+          "asianPct": 3.25,
+          "hispanicPct": 20.86
+        }
+      },
+      "election": {
+        "winner": "Lisa Dunkley",
+        "party": "DEM",
+        "pct": 62.13,
+        "unopposed": false
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "Florida House District 98",
+      "census": {
+        "censusName": "State House District 98 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58559,
+        "medianAge": 39.8,
+        "totalPopulation": 183898,
+        "collegePct": 25.71,
+        "renterRatePct": 43.89,
+        "race": {
+          "whitePct": 35.3,
+          "nonHispanicWhitePct": 29.35,
+          "blackPct": 35.75,
+          "asianPct": 2.09,
+          "hispanicPct": 26.46
+        }
+      },
+      "election": {
+        "winner": "Mitch Rosenwald",
+        "party": "DEM",
+        "pct": 37.19,
+        "unopposed": false
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "Florida House District 99",
+      "census": {
+        "censusName": "State House District 99 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63921,
+        "medianAge": 39,
+        "totalPopulation": 186413,
+        "collegePct": 25.3,
+        "renterRatePct": 43.01,
+        "race": {
+          "whitePct": 28.03,
+          "nonHispanicWhitePct": 22.55,
+          "blackPct": 52.91,
+          "asianPct": 1.29,
+          "hispanicPct": 19.69
+        }
+      },
+      "election": {
+        "winner": "Daryl Nevroy Campbell",
+        "party": "DEM",
+        "pct": 74.33,
+        "unopposed": false
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "Florida House District 100",
+      "census": {
+        "censusName": "State House District 100 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81304,
+        "medianAge": 50.1,
+        "totalPopulation": 177818,
+        "collegePct": 47.26,
+        "renterRatePct": 40.22,
+        "race": {
+          "whitePct": 70.24,
+          "nonHispanicWhitePct": 63.93,
+          "blackPct": 8.57,
+          "asianPct": 2.27,
+          "hispanicPct": 19.48
+        }
+      },
+      "election": {
+        "winner": "Chip LaMarca",
+        "party": "REP",
+        "pct": 57.41,
+        "unopposed": false
+      }
+    },
+    "101": {
+      "districtNumber": 101,
+      "districtName": "Florida House District 101",
+      "census": {
+        "censusName": "State House District 101 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62491,
+        "medianAge": 40.9,
+        "totalPopulation": 176623,
+        "collegePct": 37.87,
+        "renterRatePct": 47.32,
+        "race": {
+          "whitePct": 54.68,
+          "nonHispanicWhitePct": 41.51,
+          "blackPct": 11.96,
+          "asianPct": 3.49,
+          "hispanicPct": 39.93
+        }
+      },
+      "election": {
+        "winner": "Hillary Cassel",
+        "party": "DEM",
+        "pct": 53.74,
+        "unopposed": false
+      }
+    },
+    "102": {
+      "districtNumber": 102,
+      "districtName": "Florida House District 102",
+      "census": {
+        "censusName": "State House District 102 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97861,
+        "medianAge": 42.2,
+        "totalPopulation": 185073,
+        "collegePct": 45.35,
+        "renterRatePct": 23.16,
+        "race": {
+          "whitePct": 52.55,
+          "nonHispanicWhitePct": 39.8,
+          "blackPct": 13.15,
+          "asianPct": 5.91,
+          "hispanicPct": 36.19
+        }
+      },
+      "election": {
+        "winner": "Michael Gottlieb",
+        "party": "DEM",
+        "pct": 53.56,
+        "unopposed": false
+      }
+    },
+    "103": {
+      "districtNumber": 103,
+      "districtName": "Florida House District 103",
+      "census": {
+        "censusName": "State House District 103 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 127416,
+        "medianAge": 42.4,
+        "totalPopulation": 181585,
+        "collegePct": 55.86,
+        "renterRatePct": 18.48,
+        "race": {
+          "whitePct": 43.86,
+          "nonHispanicWhitePct": 26.94,
+          "blackPct": 12.76,
+          "asianPct": 7.37,
+          "hispanicPct": 48.57
+        }
+      },
+      "election": {
+        "winner": "Robin Bartleman",
+        "party": "DEM",
+        "pct": 54.16,
+        "unopposed": false
+      }
+    },
+    "104": {
+      "districtNumber": 104,
+      "districtName": "Florida House District 104",
+      "census": {
+        "censusName": "State House District 104 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66357,
+        "medianAge": 40.4,
+        "totalPopulation": 172482,
+        "collegePct": 29.11,
+        "renterRatePct": 41.21,
+        "race": {
+          "whitePct": 30.49,
+          "nonHispanicWhitePct": 11.65,
+          "blackPct": 40.23,
+          "asianPct": 2.97,
+          "hispanicPct": 43.93
+        }
+      },
+      "election": {
+        "winner": "Felicia Robinson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "105": {
+      "districtNumber": 105,
+      "districtName": "Florida House District 105",
+      "census": {
+        "censusName": "State House District 105 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65376,
+        "medianAge": 38.9,
+        "totalPopulation": 189966,
+        "collegePct": 24.4,
+        "renterRatePct": 41.71,
+        "race": {
+          "whitePct": 32.96,
+          "nonHispanicWhitePct": 18.37,
+          "blackPct": 36.69,
+          "asianPct": 2.05,
+          "hispanicPct": 40.77
+        }
+      },
+      "election": {
+        "winner": "Marie Woodson",
+        "party": "DEM",
+        "pct": 79.69,
+        "unopposed": false
+      }
+    },
+    "106": {
+      "districtNumber": 106,
+      "districtName": "Florida House District 106",
+      "census": {
+        "censusName": "State House District 106 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71145,
+        "medianAge": 44.1,
+        "totalPopulation": 177340,
+        "collegePct": 52.37,
+        "renterRatePct": 51.39,
+        "race": {
+          "whitePct": 59.35,
+          "nonHispanicWhitePct": 39.74,
+          "blackPct": 3.97,
+          "asianPct": 2.13,
+          "hispanicPct": 50.44
+        }
+      },
+      "election": {
+        "winner": "Fabián Basabe",
+        "party": "REP",
+        "pct": 51.26,
+        "unopposed": false
+      }
+    },
+    "107": {
+      "districtNumber": 107,
+      "districtName": "Florida House District 107",
+      "census": {
+        "censusName": "State House District 107 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59431,
+        "medianAge": 39,
+        "totalPopulation": 182230,
+        "collegePct": 24.79,
+        "renterRatePct": 43.37,
+        "race": {
+          "whitePct": 22.57,
+          "nonHispanicWhitePct": 11.71,
+          "blackPct": 51.23,
+          "asianPct": 1.34,
+          "hispanicPct": 34.25
+        }
+      },
+      "election": {
+        "winner": "Wallace Aristide",
+        "party": "DEM",
+        "pct": 44.78,
+        "unopposed": false
+      }
+    },
+    "108": {
+      "districtNumber": 108,
+      "districtName": "Florida House District 108",
+      "census": {
+        "censusName": "State House District 108 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58207,
+        "medianAge": 36.8,
+        "totalPopulation": 189520,
+        "collegePct": 26.62,
+        "renterRatePct": 57.32,
+        "race": {
+          "whitePct": 21.7,
+          "nonHispanicWhitePct": 11.27,
+          "blackPct": 50.82,
+          "asianPct": 1.13,
+          "hispanicPct": 35.14
+        }
+      },
+      "election": {
+        "winner": "Dotie Joseph",
+        "party": "DEM",
+        "pct": 53.47,
+        "unopposed": false
+      }
+    },
+    "109": {
+      "districtNumber": 109,
+      "districtName": "Florida House District 109",
+      "census": {
+        "censusName": "State House District 109 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44783,
+        "medianAge": 38.1,
+        "totalPopulation": 185956,
+        "collegePct": 19.01,
+        "renterRatePct": 68.03,
+        "race": {
+          "whitePct": 20.3,
+          "nonHispanicWhitePct": 4.8,
+          "blackPct": 35.99,
+          "asianPct": 0.97,
+          "hispanicPct": 58.38
+        }
+      },
+      "election": {
+        "winner": "Ashley Gantt",
+        "party": "DEM",
+        "pct": 53.35,
+        "unopposed": false
+      }
+    },
+    "110": {
+      "districtNumber": 110,
+      "districtName": "Florida House District 110",
+      "census": {
+        "censusName": "State House District 110 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72456,
+        "medianAge": 43.3,
+        "totalPopulation": 177227,
+        "collegePct": 29.11,
+        "renterRatePct": 41.39,
+        "race": {
+          "whitePct": 32.92,
+          "nonHispanicWhitePct": 5.36,
+          "blackPct": 4.88,
+          "asianPct": 0.99,
+          "hispanicPct": 88.5
+        }
+      },
+      "election": {
+        "winner": "Tom Fabricio",
+        "party": "REP",
+        "pct": 71.17,
+        "unopposed": false
+      }
+    },
+    "111": {
+      "districtNumber": 111,
+      "districtName": "Florida House District 111",
+      "census": {
+        "censusName": "State House District 111 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76636,
+        "medianAge": 40.3,
+        "totalPopulation": 185759,
+        "collegePct": 39.1,
+        "renterRatePct": 46.58,
+        "race": {
+          "whitePct": 41.76,
+          "nonHispanicWhitePct": 6.39,
+          "blackPct": 1.11,
+          "asianPct": 1.52,
+          "hispanicPct": 90.15
+        }
+      },
+      "election": {
+        "winner": "David Borrero",
+        "party": "REP",
+        "pct": 67.38,
+        "unopposed": false
+      }
+    },
+    "112": {
+      "districtNumber": 112,
+      "districtName": "Florida House District 112",
+      "census": {
+        "censusName": "State House District 112 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49913,
+        "medianAge": 46.1,
+        "totalPopulation": 176833,
+        "collegePct": 20.57,
+        "renterRatePct": 59.17,
+        "race": {
+          "whitePct": 35.05,
+          "nonHispanicWhitePct": 4.52,
+          "blackPct": 2.38,
+          "asianPct": 0.43,
+          "hispanicPct": 93.22
+        }
+      },
+      "election": {
+        "winner": "Alex Rizo",
+        "party": "REP",
+        "pct": 72.95,
+        "unopposed": false
+      }
+    },
+    "113": {
+      "districtNumber": 113,
+      "districtName": "Florida House District 113",
+      "census": {
+        "censusName": "State House District 113 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75114,
+        "medianAge": 40.7,
+        "totalPopulation": 173689,
+        "collegePct": 48.99,
+        "renterRatePct": 66.31,
+        "race": {
+          "whitePct": 40.57,
+          "nonHispanicWhitePct": 18.15,
+          "blackPct": 2.78,
+          "asianPct": 1.98,
+          "hispanicPct": 74.52
+        }
+      },
+      "election": {
+        "winner": "Vicki Lopez",
+        "party": "REP",
+        "pct": 54.66,
+        "unopposed": false
+      }
+    },
+    "114": {
+      "districtNumber": 114,
+      "districtName": "Florida House District 114",
+      "census": {
+        "censusName": "State House District 114 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80277,
+        "medianAge": 42.2,
+        "totalPopulation": 182878,
+        "collegePct": 47.41,
+        "renterRatePct": 47.31,
+        "race": {
+          "whitePct": 44.47,
+          "nonHispanicWhitePct": 18.18,
+          "blackPct": 3.91,
+          "asianPct": 2.46,
+          "hispanicPct": 73.13
+        }
+      },
+      "election": {
+        "winner": "Demi Busatta Cabrera",
+        "party": "REP",
+        "pct": 58.36,
+        "unopposed": false
+      }
+    },
+    "115": {
+      "districtNumber": 115,
+      "districtName": "Florida House District 115",
+      "census": {
+        "censusName": "State House District 115 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91344,
+        "medianAge": 41.2,
+        "totalPopulation": 178004,
+        "collegePct": 46.43,
+        "renterRatePct": 34.01,
+        "race": {
+          "whitePct": 47.45,
+          "nonHispanicWhitePct": 25.58,
+          "blackPct": 5.43,
+          "asianPct": 2.62,
+          "hispanicPct": 63.66
+        }
+      },
+      "election": {
+        "winner": "Omar Blanco",
+        "party": "REP",
+        "pct": 59.35,
+        "unopposed": false
+      }
+    },
+    "116": {
+      "districtNumber": 116,
+      "districtName": "Florida House District 116",
+      "census": {
+        "censusName": "State House District 116 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71970,
+        "medianAge": 45,
+        "totalPopulation": 175069,
+        "collegePct": 32.76,
+        "renterRatePct": 41.47,
+        "race": {
+          "whitePct": 41.93,
+          "nonHispanicWhitePct": 9.31,
+          "blackPct": 2.43,
+          "asianPct": 2.08,
+          "hispanicPct": 85.21
+        }
+      },
+      "election": {
+        "winner": "Daniel A. Perez",
+        "party": "REP",
+        "pct": 68.72,
+        "unopposed": false
+      }
+    },
+    "117": {
+      "districtNumber": 117,
+      "districtName": "Florida House District 117",
+      "census": {
+        "censusName": "State House District 117 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62677,
+        "medianAge": 35.8,
+        "totalPopulation": 186415,
+        "collegePct": 20.44,
+        "renterRatePct": 49.52,
+        "race": {
+          "whitePct": 33.02,
+          "nonHispanicWhitePct": 6.96,
+          "blackPct": 26.06,
+          "asianPct": 0.77,
+          "hispanicPct": 65.29
+        }
+      },
+      "election": {
+        "winner": "Kevin Chambliss",
+        "party": "DEM",
+        "pct": 52.88,
+        "unopposed": false
+      }
+    },
+    "118": {
+      "districtNumber": 118,
+      "districtName": "Florida House District 118",
+      "census": {
+        "censusName": "State House District 118 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77095,
+        "medianAge": 44.9,
+        "totalPopulation": 178853,
+        "collegePct": 29.94,
+        "renterRatePct": 26.94,
+        "race": {
+          "whitePct": 41.1,
+          "nonHispanicWhitePct": 12.24,
+          "blackPct": 4.65,
+          "asianPct": 1.82,
+          "hispanicPct": 80.2
+        }
+      },
+      "election": {
+        "winner": "Mike Redondo",
+        "party": "REP",
+        "pct": 68.33,
+        "unopposed": false
+      }
+    },
+    "119": {
+      "districtNumber": 119,
+      "districtName": "Florida House District 119",
+      "census": {
+        "censusName": "State House District 119 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92093,
+        "medianAge": 41.9,
+        "totalPopulation": 184039,
+        "collegePct": 35.17,
+        "renterRatePct": 30.26,
+        "race": {
+          "whitePct": 39.31,
+          "nonHispanicWhitePct": 10.2,
+          "blackPct": 3.82,
+          "asianPct": 2.48,
+          "hispanicPct": 82.12
+        }
+      },
+      "election": {
+        "winner": "Juan Carlos Porras",
+        "party": "REP",
+        "pct": 64.62,
+        "unopposed": false
+      }
+    },
+    "120": {
+      "districtNumber": 120,
+      "districtName": "Florida House District 120",
+      "census": {
+        "censusName": "State House District 120 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78580,
+        "medianAge": 39.5,
+        "totalPopulation": 183338,
+        "collegePct": 29.87,
+        "renterRatePct": 37.77,
+        "race": {
+          "whitePct": 56.38,
+          "nonHispanicWhitePct": 35.86,
+          "blackPct": 12.5,
+          "asianPct": 0.92,
+          "hispanicPct": 48.83
+        }
+      },
+      "election": {
+        "winner": "James 'Jim' Vernon Mooney",
+        "party": "REP",
+        "pct": 63.06,
+        "unopposed": false
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Florida Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73801,
+        "medianAge": 38.8,
+        "totalPopulation": 547056,
+        "collegePct": 29.47,
+        "renterRatePct": 29.97,
+        "race": {
+          "whitePct": 70.97,
+          "nonHispanicWhitePct": 68.73,
+          "blackPct": 15.15,
+          "asianPct": 2.55,
+          "hispanicPct": 6.75
+        }
+      },
+      "election": {
+        "winner": "Don Gaetz",
+        "party": "REP",
+        "pct": 64.56,
+        "unopposed": false
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Florida Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69768,
+        "medianAge": 40.7,
+        "totalPopulation": 551563,
+        "collegePct": 28.56,
+        "renterRatePct": 29.56,
+        "race": {
+          "whitePct": 75.8,
+          "nonHispanicWhitePct": 73.27,
+          "blackPct": 10.13,
+          "asianPct": 2.14,
+          "hispanicPct": 8.53
+        }
+      },
+      "election": {
+        "winner": "Jay Trumbull",
+        "party": "REP",
+        "pct": 78.52,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Florida Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59667,
+        "medianAge": 37.5,
+        "totalPopulation": 545589,
+        "collegePct": 32.68,
+        "renterRatePct": 37.49,
+        "race": {
+          "whitePct": 61.22,
+          "nonHispanicWhitePct": 58.68,
+          "blackPct": 27.58,
+          "asianPct": 2.06,
+          "hispanicPct": 7.86
+        }
+      },
+      "election": {
+        "winner": "Corey Simon",
+        "party": "REP",
+        "pct": 55.67,
+        "unopposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Florida Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86249,
+        "medianAge": 38.9,
+        "totalPopulation": 554854,
+        "collegePct": 40.5,
+        "renterRatePct": 32.24,
+        "race": {
+          "whitePct": 68.37,
+          "nonHispanicWhitePct": 65.44,
+          "blackPct": 12.47,
+          "asianPct": 5.1,
+          "hispanicPct": 11.14
+        }
+      },
+      "election": {
+        "winner": "Clay Yarborough",
+        "party": "REP",
+        "pct": 67.61,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Florida Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57009,
+        "medianAge": 36,
+        "totalPopulation": 546988,
+        "collegePct": 25.71,
+        "renterRatePct": 47.2,
+        "race": {
+          "whitePct": 42.68,
+          "nonHispanicWhitePct": 38.97,
+          "blackPct": 41.57,
+          "asianPct": 3.89,
+          "hispanicPct": 11.26
+        }
+      },
+      "election": {
+        "winner": "Tracie Davis",
+        "party": "DEM",
+        "pct": 99.55,
+        "unopposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Florida Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71027,
+        "medianAge": 38.3,
+        "totalPopulation": 548207,
+        "collegePct": 30.06,
+        "renterRatePct": 30.11,
+        "race": {
+          "whitePct": 71.55,
+          "nonHispanicWhitePct": 68.46,
+          "blackPct": 13.82,
+          "asianPct": 2.87,
+          "hispanicPct": 9.89
+        }
+      },
+      "election": {
+        "winner": "Jennifer Bradley",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Florida Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80157,
+        "medianAge": 47.2,
+        "totalPopulation": 568989,
+        "collegePct": 37.58,
+        "renterRatePct": 20.39,
+        "race": {
+          "whitePct": 79.04,
+          "nonHispanicWhitePct": 76.19,
+          "blackPct": 7.68,
+          "asianPct": 2.62,
+          "hispanicPct": 9.56
+        }
+      },
+      "election": {
+        "winner": "Tom Leek",
+        "party": "REP",
+        "pct": 68.26,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Florida Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66545,
+        "medianAge": 45.6,
+        "totalPopulation": 556251,
+        "collegePct": 26.34,
+        "renterRatePct": 27.06,
+        "race": {
+          "whitePct": 72.25,
+          "nonHispanicWhitePct": 68.26,
+          "blackPct": 11.26,
+          "asianPct": 1.79,
+          "hispanicPct": 15.55
+        }
+      },
+      "election": {
+        "winner": "Tommy A. Wright",
+        "party": "REP",
+        "pct": 63.01,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Florida Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57315,
+        "medianAge": 43.9,
+        "totalPopulation": 549827,
+        "collegePct": 26.13,
+        "renterRatePct": 28.93,
+        "race": {
+          "whitePct": 69.41,
+          "nonHispanicWhitePct": 64.66,
+          "blackPct": 14.53,
+          "asianPct": 2.76,
+          "hispanicPct": 14.7
+        }
+      },
+      "election": {
+        "winner": "Stan McClain",
+        "party": "REP",
+        "pct": 63.28,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Florida Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83982,
+        "medianAge": 39.7,
+        "totalPopulation": 540931,
+        "collegePct": 44.35,
+        "renterRatePct": 36.05,
+        "race": {
+          "whitePct": 63.64,
+          "nonHispanicWhitePct": 57.28,
+          "blackPct": 11.7,
+          "asianPct": 5.07,
+          "hispanicPct": 22.37
+        }
+      },
+      "election": {
+        "winner": "Jason Brodeur",
+        "party": "REP",
+        "pct": 54.45,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Florida Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62544,
+        "medianAge": 57.1,
+        "totalPopulation": 553010,
+        "collegePct": 24.13,
+        "renterRatePct": 15.87,
+        "race": {
+          "whitePct": 84.31,
+          "nonHispanicWhitePct": 80.64,
+          "blackPct": 4.41,
+          "asianPct": 1.36,
+          "hispanicPct": 10.1
+        }
+      },
+      "election": {
+        "winner": "Blaise Ingoglia",
+        "party": "REP",
+        "pct": 69.29,
+        "unopposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Florida Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62070,
+        "medianAge": 39.9,
+        "totalPopulation": 565751,
+        "collegePct": 22.37,
+        "renterRatePct": 31.37,
+        "race": {
+          "whitePct": 57.8,
+          "nonHispanicWhitePct": 50.02,
+          "blackPct": 15.99,
+          "asianPct": 1.85,
+          "hispanicPct": 29.09
+        }
+      },
+      "election": {
+        "winner": "Colleen Burton",
+        "party": "REP",
+        "pct": 63.17,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Florida Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80308,
+        "medianAge": 43.4,
+        "totalPopulation": 550630,
+        "collegePct": 34.76,
+        "renterRatePct": 24.63,
+        "race": {
+          "whitePct": 67.65,
+          "nonHispanicWhitePct": 62.53,
+          "blackPct": 8.99,
+          "asianPct": 4.4,
+          "hispanicPct": 18.32
+        }
+      },
+      "election": {
+        "winner": "Keith Truenow",
+        "party": "REP",
+        "pct": 60.3,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Florida Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82185,
+        "medianAge": 39.3,
+        "totalPopulation": 550227,
+        "collegePct": 45.08,
+        "renterRatePct": 39.36,
+        "race": {
+          "whitePct": 61.05,
+          "nonHispanicWhitePct": 49.62,
+          "blackPct": 7.15,
+          "asianPct": 5.07,
+          "hispanicPct": 34.16
+        }
+      },
+      "election": {
+        "winner": "Jay Collins",
+        "party": "REP",
+        "pct": 54.57,
+        "unopposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Florida Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63919,
+        "medianAge": 36.5,
+        "totalPopulation": 551012,
+        "collegePct": 27.47,
+        "renterRatePct": 44.87,
+        "race": {
+          "whitePct": 35,
+          "nonHispanicWhitePct": 27.15,
+          "blackPct": 38.38,
+          "asianPct": 3.75,
+          "hispanicPct": 26.49
+        }
+      },
+      "election": {
+        "winner": "Geraldine F. Thompson",
+        "party": "DEM",
+        "pct": 60.76,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Florida Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60570,
+        "medianAge": 34.9,
+        "totalPopulation": 534216,
+        "collegePct": 31.73,
+        "renterRatePct": 50.12,
+        "race": {
+          "whitePct": 42.97,
+          "nonHispanicWhitePct": 36.77,
+          "blackPct": 32.95,
+          "asianPct": 2.86,
+          "hispanicPct": 23.74
+        }
+      },
+      "election": {
+        "winner": "Darryl Ervin Rouson",
+        "party": "DEM",
+        "pct": 63.94,
+        "unopposed": false
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Florida Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79086,
+        "medianAge": 34.9,
+        "totalPopulation": 539848,
+        "collegePct": 41.61,
+        "renterRatePct": 43.62,
+        "race": {
+          "whitePct": 53.81,
+          "nonHispanicWhitePct": 40.93,
+          "blackPct": 9.46,
+          "asianPct": 5.31,
+          "hispanicPct": 40.95
+        }
+      },
+      "election": {
+        "winner": "Linda Stewart",
+        "party": "DEM",
+        "pct": 56.06,
+        "unopposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Florida Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69963,
+        "medianAge": 48.7,
+        "totalPopulation": 547921,
+        "collegePct": 34.36,
+        "renterRatePct": 30.31,
+        "race": {
+          "whitePct": 77.06,
+          "nonHispanicWhitePct": 73.46,
+          "blackPct": 6.27,
+          "asianPct": 4.53,
+          "hispanicPct": 11.53
+        }
+      },
+      "election": {
+        "winner": "Nick DiCeglie",
+        "party": "REP",
+        "pct": 56.89,
+        "unopposed": false
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Florida Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76765,
+        "medianAge": 47,
+        "totalPopulation": 551710,
+        "collegePct": 34.51,
+        "renterRatePct": 23.17,
+        "race": {
+          "whitePct": 75.08,
+          "nonHispanicWhitePct": 70.64,
+          "blackPct": 9.65,
+          "asianPct": 2.52,
+          "hispanicPct": 12.29
+        }
+      },
+      "election": {
+        "winner": "Randy Fine",
+        "party": "REP",
+        "pct": 59.36,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Florida Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81248,
+        "medianAge": 45.1,
+        "totalPopulation": 556164,
+        "collegePct": 34.45,
+        "renterRatePct": 23.92,
+        "race": {
+          "whitePct": 69.55,
+          "nonHispanicWhitePct": 62.58,
+          "blackPct": 10.69,
+          "asianPct": 2.46,
+          "hispanicPct": 20.49
+        }
+      },
+      "election": {
+        "winner": "Jim Boyd",
+        "party": "REP",
+        "pct": 79.96,
+        "unopposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Florida Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65229,
+        "medianAge": 48.5,
+        "totalPopulation": 538576,
+        "collegePct": 31.4,
+        "renterRatePct": 28.16,
+        "race": {
+          "whitePct": 80.03,
+          "nonHispanicWhitePct": 75.76,
+          "blackPct": 5.2,
+          "asianPct": 2.44,
+          "hispanicPct": 13.04
+        }
+      },
+      "election": {
+        "winner": "Ed Hooper",
+        "party": "REP",
+        "pct": 61.72,
+        "unopposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Florida Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80660,
+        "medianAge": 56.3,
+        "totalPopulation": 548718,
+        "collegePct": 39.61,
+        "renterRatePct": 23.75,
+        "race": {
+          "whitePct": 82.46,
+          "nonHispanicWhitePct": 78.9,
+          "blackPct": 4.25,
+          "asianPct": 2.19,
+          "hispanicPct": 11.32
+        }
+      },
+      "election": {
+        "winner": "Joe Gruters",
+        "party": "REP",
+        "pct": 66.88,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Florida Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80206,
+        "medianAge": 40.2,
+        "totalPopulation": 572897,
+        "collegePct": 33.28,
+        "renterRatePct": 25.21,
+        "race": {
+          "whitePct": 63.04,
+          "nonHispanicWhitePct": 55.49,
+          "blackPct": 11.06,
+          "asianPct": 4.95,
+          "hispanicPct": 24.79
+        }
+      },
+      "election": {
+        "winner": "Danny Burgess",
+        "party": "REP",
+        "pct": 58.75,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Florida Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66388,
+        "medianAge": 40.1,
+        "totalPopulation": 549145,
+        "collegePct": 28.51,
+        "renterRatePct": 40.89,
+        "race": {
+          "whitePct": 42.19,
+          "nonHispanicWhitePct": 33.67,
+          "blackPct": 26.87,
+          "asianPct": 2.29,
+          "hispanicPct": 34.45
+        }
+      },
+      "election": {
+        "winner": "Bobby Powell",
+        "party": "DEM",
+        "pct": 55.72,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Florida Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71377,
+        "medianAge": 37.3,
+        "totalPopulation": 538601,
+        "collegePct": 30.82,
+        "renterRatePct": 35.87,
+        "race": {
+          "whitePct": 42.2,
+          "nonHispanicWhitePct": 27.45,
+          "blackPct": 10.96,
+          "asianPct": 3.86,
+          "hispanicPct": 54.85
+        }
+      },
+      "election": {
+        "winner": "Kristen Arrington",
+        "party": "DEM",
+        "pct": 51.48,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Florida Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85808,
+        "medianAge": 50.5,
+        "totalPopulation": 544615,
+        "collegePct": 44.55,
+        "renterRatePct": 24.25,
+        "race": {
+          "whitePct": 63.18,
+          "nonHispanicWhitePct": 58.11,
+          "blackPct": 17.31,
+          "asianPct": 3.09,
+          "hispanicPct": 17.23
+        }
+      },
+      "election": {
+        "winner": "Lori Berman",
+        "party": "DEM",
+        "pct": 54.8,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Florida Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65795,
+        "medianAge": 47.4,
+        "totalPopulation": 558612,
+        "collegePct": 22.49,
+        "renterRatePct": 21.53,
+        "race": {
+          "whitePct": 72.83,
+          "nonHispanicWhitePct": 66.85,
+          "blackPct": 8.54,
+          "asianPct": 1.38,
+          "hispanicPct": 20.24
+        }
+      },
+      "election": {
+        "winner": "Ben Albritton",
+        "party": "REP",
+        "pct": 68.81,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Florida Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82128,
+        "medianAge": 48.9,
+        "totalPopulation": 563003,
+        "collegePct": 35.93,
+        "renterRatePct": 24.43,
+        "race": {
+          "whitePct": 66,
+          "nonHispanicWhitePct": 56.88,
+          "blackPct": 8.57,
+          "asianPct": 1.53,
+          "hispanicPct": 30.52
+        }
+      },
+      "election": {
+        "winner": "Kathleen Passidomo",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Florida Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62154,
+        "medianAge": 49.8,
+        "totalPopulation": 549593,
+        "collegePct": 25.61,
+        "renterRatePct": 23.12,
+        "race": {
+          "whitePct": 68.72,
+          "nonHispanicWhitePct": 62.33,
+          "blackPct": 13.91,
+          "asianPct": 1.67,
+          "hispanicPct": 18.64
+        }
+      },
+      "election": {
+        "winner": "Erin Grall",
+        "party": "REP",
+        "pct": 64.66,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Florida Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77526,
+        "medianAge": 41.3,
+        "totalPopulation": 544174,
+        "collegePct": 39.07,
+        "renterRatePct": 34.8,
+        "race": {
+          "whitePct": 50.81,
+          "nonHispanicWhitePct": 43.33,
+          "blackPct": 21.21,
+          "asianPct": 3.92,
+          "hispanicPct": 24.47
+        }
+      },
+      "election": {
+        "winner": "Tina Scott Polsky",
+        "party": "DEM",
+        "pct": 55.43,
+        "unopposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Florida Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91525,
+        "medianAge": 48.2,
+        "totalPopulation": 554141,
+        "collegePct": 38.68,
+        "renterRatePct": 19.3,
+        "race": {
+          "whitePct": 70.49,
+          "nonHispanicWhitePct": 64.38,
+          "blackPct": 11.39,
+          "asianPct": 2.3,
+          "hispanicPct": 18.52
+        }
+      },
+      "election": {
+        "winner": "Gayle Harrell",
+        "party": "REP",
+        "pct": 61.47,
+        "unopposed": false
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Florida Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64402,
+        "medianAge": 39.7,
+        "totalPopulation": 545294,
+        "collegePct": 28.4,
+        "renterRatePct": 40.32,
+        "race": {
+          "whitePct": 29.08,
+          "nonHispanicWhitePct": 22.3,
+          "blackPct": 47.62,
+          "asianPct": 2.92,
+          "hispanicPct": 23.72
+        }
+      },
+      "election": {
+        "winner": "Rosalind Osgood",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Florida Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72989,
+        "medianAge": 52.1,
+        "totalPopulation": 550076,
+        "collegePct": 32.4,
+        "renterRatePct": 27.09,
+        "race": {
+          "whitePct": 73.57,
+          "nonHispanicWhitePct": 68.02,
+          "blackPct": 6.46,
+          "asianPct": 1.66,
+          "hispanicPct": 20.8
+        }
+      },
+      "election": {
+        "winner": "Jonathan Martin",
+        "party": "REP",
+        "pct": 66.03,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Florida Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56323,
+        "medianAge": 38.3,
+        "totalPopulation": 542562,
+        "collegePct": 24.96,
+        "renterRatePct": 51.18,
+        "race": {
+          "whitePct": 21.64,
+          "nonHispanicWhitePct": 10.77,
+          "blackPct": 49.63,
+          "asianPct": 1.07,
+          "hispanicPct": 37.06
+        }
+      },
+      "election": {
+        "winner": "Shevrin 'Shev' Jones",
+        "party": "DEM",
+        "pct": 68.06,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Florida Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93003,
+        "medianAge": 40.6,
+        "totalPopulation": 545584,
+        "collegePct": 41.92,
+        "renterRatePct": 28.91,
+        "race": {
+          "whitePct": 43.8,
+          "nonHispanicWhitePct": 26.34,
+          "blackPct": 19.56,
+          "asianPct": 5.68,
+          "hispanicPct": 44.63
+        }
+      },
+      "election": {
+        "winner": "Barbara Sharief",
+        "party": "DEM",
+        "pct": 56.37,
+        "unopposed": false
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Florida Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63804,
+        "medianAge": 41.7,
+        "totalPopulation": 532464,
+        "collegePct": 37.57,
+        "renterRatePct": 64.12,
+        "race": {
+          "whitePct": 40.07,
+          "nonHispanicWhitePct": 13.25,
+          "blackPct": 4.32,
+          "asianPct": 1.86,
+          "hispanicPct": 79.46
+        }
+      },
+      "election": {
+        "winner": "Ileana Garcia",
+        "party": "REP",
+        "pct": 59.03,
+        "unopposed": false
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Florida Senate District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69817,
+        "medianAge": 45.7,
+        "totalPopulation": 533699,
+        "collegePct": 40.09,
+        "renterRatePct": 40.81,
+        "race": {
+          "whitePct": 57.23,
+          "nonHispanicWhitePct": 45.83,
+          "blackPct": 14.44,
+          "asianPct": 1.99,
+          "hispanicPct": 34.01
+        }
+      },
+      "election": {
+        "winner": "Jason Pizzo",
+        "party": "DEM",
+        "pct": 58.23,
+        "unopposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Florida Senate District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83190,
+        "medianAge": 39.5,
+        "totalPopulation": 544429,
+        "collegePct": 39.8,
+        "renterRatePct": 36.4,
+        "race": {
+          "whitePct": 42.21,
+          "nonHispanicWhitePct": 18.64,
+          "blackPct": 11.96,
+          "asianPct": 2.14,
+          "hispanicPct": 64.89
+        }
+      },
+      "election": {
+        "winner": "Alexis Maria Calatayud",
+        "party": "REP",
+        "pct": 54.38,
+        "unopposed": false
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Florida Senate District 39",
+      "census": {
+        "censusName": "State Senate District 39 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65799,
+        "medianAge": 43,
+        "totalPopulation": 529582,
+        "collegePct": 29.12,
+        "renterRatePct": 47.92,
+        "race": {
+          "whitePct": 36.37,
+          "nonHispanicWhitePct": 5.33,
+          "blackPct": 3.74,
+          "asianPct": 0.99,
+          "hispanicPct": 89.7
+        }
+      },
+      "election": {
+        "winner": "Bryan Avila",
+        "party": "REP",
+        "pct": 69.81,
+        "unopposed": false
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Florida Senate District 40",
+      "census": {
+        "censusName": "State Senate District 40 (2022); Florida",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79337,
+        "medianAge": 41.6,
+        "totalPopulation": 532372,
+        "collegePct": 31.87,
+        "renterRatePct": 35.22,
+        "race": {
+          "whitePct": 45.9,
+          "nonHispanicWhitePct": 19.35,
+          "blackPct": 7.61,
+          "asianPct": 1.61,
+          "hispanicPct": 70.1
+        }
+      },
+      "election": {
+        "winner": "Ana Maria Rodriguez",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    }
+  }
+}
