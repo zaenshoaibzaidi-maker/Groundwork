@@ -242,6 +242,15 @@ ${p2}]
 ${p}}`;
 }
 
+// Replaces `fieldName: "old value"` within [rangeStart, rangeEnd) in src.
+function replaceTopLevelField(src, fieldName, newValue, rangeStart, rangeEnd) {
+  const before  = src.slice(0, rangeStart);
+  const segment = src.slice(rangeStart, rangeEnd);
+  const after   = src.slice(rangeEnd);
+  const re = new RegExp(`(${fieldName}:\\s*)["'][^"'\\n]*["']`);
+  return before + segment.replace(re, `$1"${escapeStr(newValue)}"`) + after;
+}
+
 function injectBriefIntoSrc(src, id, brief, existingDashboard) {
   // Locate the id declaration
   let idStart = src.indexOf(`id: "${id}"`);
@@ -272,8 +281,15 @@ function injectBriefIntoSrc(src, id, brief, existingDashboard) {
   while (lineStart > 0 && src[lineStart - 1] !== '\n') lineStart--;
   const baseIndent = (dashStart - lineStart) + 2; // +2 to indent the object body
 
+  // Replace dashboard block. city/region sit before objStart so their positions
+  // are unaffected — update them using the original idStart..dashStart range.
   const newObj = serializeDashboard(existingDashboard, brief, baseIndent);
-  return src.slice(0, objStart) + newObj + src.slice(objEnd);
+  src = src.slice(0, objStart) + newObj + src.slice(objEnd);
+
+  if (brief.city)   src = replaceTopLevelField(src, 'city',   brief.city,   idStart, dashStart);
+  if (brief.region) src = replaceTopLevelField(src, 'region', brief.region, idStart, dashStart);
+
+  return src;
 }
 
 // ── Concurrency helpers ───────────────────────────────────────────────────────
