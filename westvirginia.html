@@ -473,8 +473,36 @@ function showDistrict(id) {
 
   const fmt = v => (!v || v === 'TBD') ? '—' : v;
   const partyColor = { Democrat: 'var(--dem-color)', Republican: 'var(--rep-color)' };
-  const pColor = partyColor[entry.incumbentParty] || 'var(--text-soft)';
-  document.getElementById('d-seat-info').innerHTML = `
+
+  let seatInfoHtml;
+  if (entry.seat_a) {
+    const renderSeat = (seat, label) => {
+      const c = partyColor[seat.incumbentParty] || 'var(--text-soft)';
+      return `<div style="display:flex;flex-wrap:wrap;gap:16px;padding:12px 14px;background:var(--offwhite);border-radius:7px;border:1px solid var(--cream);">
+        <div style="font-size:10px;letter-spacing:0.12em;text-transform:uppercase;color:var(--text-soft);width:100%;margin-bottom:2px;">${label}</div>
+        <div><div style="font-size:11px;letter-spacing:0.1em;text-transform:uppercase;color:var(--text-soft);margin-bottom:4px;">Incumbent</div>
+          <div style="font-size:15px;font-weight:bold;color:var(--text-dark);">${fmt(seat.incumbentName)}</div></div>
+        <div><div style="font-size:11px;letter-spacing:0.1em;text-transform:uppercase;color:var(--text-soft);margin-bottom:4px;">Party</div>
+          <div style="font-size:15px;font-weight:bold;color:${c};">${fmt(seat.incumbentParty)}</div></div>
+      </div>`;
+    };
+    seatInfoHtml = `
+    <div class="stat-card" style="grid-column:1/-1;padding:16px 18px;">
+      <div class="stat-label" style="margin-bottom:12px;">Seat Information — Staggered 4-Year Terms</div>
+      <div style="display:flex;flex-wrap:wrap;gap:12px;margin-bottom:14px;">
+        ${renderSeat(entry.seat_a, 'Seat A')}
+        ${renderSeat(entry.seat_b, 'Seat B')}
+      </div>
+      <div style="display:flex;flex-wrap:wrap;gap:24px;">
+        <div><div style="font-size:11px;letter-spacing:0.1em;text-transform:uppercase;color:var(--text-soft);margin-bottom:4px;">Next Election</div>
+          <div style="font-size:15px;font-weight:bold;color:var(--text-dark);">${fmt(entry.nextElection)}</div></div>
+        <div><div style="font-size:11px;letter-spacing:0.1em;text-transform:uppercase;color:var(--text-soft);margin-bottom:4px;">Seat Status</div>
+          <div style="font-size:15px;font-weight:bold;color:var(--text-dark);">${fmt(entry.seatStatus)}</div></div>
+      </div>
+    </div>`;
+  } else {
+    const pColor = partyColor[entry.incumbentParty] || 'var(--text-soft)';
+    seatInfoHtml = `
     <div class="stat-card" style="grid-column:1/-1;padding:16px 18px;">
       <div class="stat-label" style="margin-bottom:12px;">Seat Information</div>
       <div style="display:flex;flex-wrap:wrap;gap:24px;">
@@ -488,6 +516,8 @@ function showDistrict(id) {
           <div style="font-size:15px;font-weight:bold;color:var(--text-dark);">${fmt(entry.seatStatus)}</div></div>
       </div>
     </div>`;
+  }
+  document.getElementById('d-seat-info').innerHTML = seatInfoHtml;
 
   document.getElementById('d-stats').innerHTML = d.stats.map(s => `
     <div class="stat-card">
