@@ -325,8 +325,6 @@ function openDropdown() {
     : sourceData.filter(d =>
         d.name.toLowerCase().includes(q) ||
         d.id.toLowerCase().includes(q) ||
-        d.region.toLowerCase().includes(q) ||
-        d.city.toLowerCase().includes(q) ||
         d.type.toLowerCase().includes(q));
 
   if (filteredResults.length === 0) {
@@ -344,7 +342,6 @@ function openDropdown() {
       const typeLabel = d.type === 'state house district' ? 'State House District' : d.type === 'state senate district' ? 'State Senate District' : d.type === 'ward' ? 'City Ward' : 'Council District';
       html += `<div class="dropdown-item" data-idx="${globalIdx}" onmousedown="selectItem(${globalIdx})">
         <span class="dropdown-item-name">${highlight(d.name, document.getElementById('districtSearch').value.trim())}</span>
-<span class="dropdown-item-region">${d.region}</span>
         <span class="dropdown-type-tag type-ward">${typeLabel}</span>
       </div>`;
       globalIdx++;
@@ -392,9 +389,9 @@ function showComingSoon(d) {
   document.getElementById('backBtn').style.display = 'inline-block';
   window.scrollTo(0, 0);
   const typeLabel = d.type === 'ward' ? 'City Ward' : 'Council District';
-  document.getElementById('cs-type-badge').textContent = typeLabel + ' · ' + d.city + ', Mississippi';
+  document.getElementById('cs-type-badge').textContent = typeLabel + ' · Mississippi';
   document.getElementById('cs-district-name').textContent = d.name;
-  document.getElementById('cs-region-line').textContent = d.region + ' — Full brief in preparation.';
+  document.getElementById('cs-region-line').textContent = 'Full brief in preparation.';
 }
 
 /* ── NAV ── */
