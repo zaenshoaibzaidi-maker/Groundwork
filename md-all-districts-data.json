@@ -1,0 +1,5797 @@
+{
+  "house": {
+    "3": {
+      "districtId": "3",
+      "districtName": "Maryland House District 3",
+      "census": {
+        "censusName": "State Legislative District 3 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105472,
+        "medianAge": 36.8,
+        "totalPopulation": 129195,
+        "collegePct": 45.84,
+        "renterRatePct": 34.44,
+        "race": {
+          "whitePct": 58.54,
+          "nonHispanicWhitePct": 54.01,
+          "blackPct": 16.29,
+          "asianPct": 6.96,
+          "hispanicPct": 17.4
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Ken Kerr",
+            "party": "DEM",
+            "pct": 24.91
+          },
+          {
+            "name": "Karen Simpson",
+            "party": "DEM",
+            "pct": 24.6
+          },
+          {
+            "name": "Kris Fair",
+            "party": "DEM",
+            "pct": 24.27
+          }
+        ],
+        "seats": 3,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Ken Kerr",
+            "party": "DEM",
+            "votes": 26270,
+            "pct": 24.91
+          },
+          {
+            "name": "Karen Simpson",
+            "party": "DEM",
+            "votes": 25945,
+            "pct": 24.6
+          },
+          {
+            "name": "Kris Fair",
+            "party": "DEM",
+            "votes": 25602,
+            "pct": 24.27
+          },
+          {
+            "name": "Kathy Diener",
+            "party": "REP",
+            "votes": 13699,
+            "pct": 12.99
+          },
+          {
+            "name": "Jacqueline Wagener",
+            "party": "REP",
+            "votes": 13535,
+            "pct": 12.83
+          }
+        ]
+      }
+    },
+    "4": {
+      "districtId": "4",
+      "districtName": "Maryland House District 4",
+      "census": {
+        "censusName": "State Legislative District 4 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 143204,
+        "medianAge": 41.1,
+        "totalPopulation": 132518,
+        "collegePct": 45.79,
+        "renterRatePct": 10.93,
+        "race": {
+          "whitePct": 79.72,
+          "nonHispanicWhitePct": 78.01,
+          "blackPct": 5.32,
+          "asianPct": 4.63,
+          "hispanicPct": 8.06
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Jesse T. Pippy",
+            "party": "REP",
+            "pct": 19.09
+          },
+          {
+            "name": "Ciliberto",
+            "party": "REP",
+            "pct": 18.5
+          },
+          {
+            "name": "Colt",
+            "party": "REP",
+            "pct": 18.5
+          }
+        ],
+        "seats": 3,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Jesse T. Pippy",
+            "party": "REP",
+            "votes": 30670,
+            "pct": 19.09
+          },
+          {
+            "name": "Ciliberto",
+            "party": "REP",
+            "votes": 29717,
+            "pct": 18.5
+          },
+          {
+            "name": "Colt",
+            "party": "REP",
+            "votes": 29717,
+            "pct": 18.5
+          },
+          {
+            "name": "Barrie S.",
+            "party": "REP",
+            "votes": 29705,
+            "pct": 18.49
+          },
+          {
+            "name": "Andrew Duck",
+            "party": "DEM",
+            "votes": 24489,
+            "pct": 15.24
+          },
+          {
+            "name": "Millicent A. Hall",
+            "party": "DEM",
+            "votes": 23361,
+            "pct": 14.54
+          },
+          {
+            "name": "Brandon Duck",
+            "party": "DEM",
+            "votes": 22628,
+            "pct": 14.08
+          }
+        ]
+      }
+    },
+    "5": {
+      "districtId": "5",
+      "districtName": "Maryland House District 5",
+      "census": {
+        "censusName": "State Legislative District 5 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116549,
+        "medianAge": 40.4,
+        "totalPopulation": 135015,
+        "collegePct": 40.44,
+        "renterRatePct": 18.48,
+        "race": {
+          "whitePct": 86.22,
+          "nonHispanicWhitePct": 84.46,
+          "blackPct": 4.21,
+          "asianPct": 2.31,
+          "hispanicPct": 5.41
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "April Rose",
+            "party": "REP",
+            "pct": 33.11
+          },
+          {
+            "name": "Christopher Eric Boutcher",
+            "party": "REP",
+            "pct": 32.44
+          },
+          {
+            "name": "Chris Tomlinson",
+            "party": "REP",
+            "pct": 31.66
+          }
+        ],
+        "seats": 3,
+        "unopposed": true,
+        "candidates": [
+          {
+            "name": "April Rose",
+            "party": "REP",
+            "votes": 33971,
+            "pct": 33.11
+          },
+          {
+            "name": "Christopher Eric Boutcher",
+            "party": "REP",
+            "votes": 33286,
+            "pct": 32.44
+          },
+          {
+            "name": "Chris Tomlinson",
+            "party": "REP",
+            "votes": 32485,
+            "pct": 31.66
+          }
+        ]
+      }
+    },
+    "8": {
+      "districtId": "8",
+      "districtName": "Maryland House District 8",
+      "census": {
+        "censusName": "State Legislative District 8 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84354,
+        "medianAge": 38.2,
+        "totalPopulation": 122927,
+        "collegePct": 34.21,
+        "renterRatePct": 35.32,
+        "race": {
+          "whitePct": 49.31,
+          "nonHispanicWhitePct": 47.88,
+          "blackPct": 33.28,
+          "asianPct": 9.19,
+          "hispanicPct": 5.9
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Lauren Arikan",
+            "party": "REP",
+            "pct": 67.23
+          },
+          {
+            "name": "Medford J. Campbell",
+            "party": "DEM",
+            "pct": 32.62
+          }
+        ],
+        "seats": 3,
+        "unopposed": true,
+        "candidates": [
+          {
+            "name": "Lauren Arikan",
+            "party": "REP",
+            "votes": 12915,
+            "pct": 67.23
+          },
+          {
+            "name": "Medford J. Campbell",
+            "party": "DEM",
+            "votes": 6267,
+            "pct": 32.62
+          }
+        ]
+      }
+    },
+    "13": {
+      "districtId": "13",
+      "districtName": "Maryland House District 13",
+      "census": {
+        "censusName": "State Legislative District 13 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 133272,
+        "medianAge": 36.9,
+        "totalPopulation": 136152,
+        "collegePct": 60.4,
+        "renterRatePct": 31.75,
+        "race": {
+          "whitePct": 42.32,
+          "nonHispanicWhitePct": 39.52,
+          "blackPct": 27.7,
+          "asianPct": 15.78,
+          "hispanicPct": 11.49
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Vanessa Atterbeary",
+            "party": "DEM",
+            "pct": 27.85
+          },
+          {
+            "name": "Guzzone",
+            "party": "DEM",
+            "pct": 26.35
+          },
+          {
+            "name": "Joan Manuian",
+            "party": "DEM",
+            "pct": 26.24
+          }
+        ],
+        "seats": 3,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Vanessa Atterbeary",
+            "party": "DEM",
+            "votes": 33045,
+            "pct": 27.85
+          },
+          {
+            "name": "Guzzone",
+            "party": "DEM",
+            "votes": 31259,
+            "pct": 26.35
+          },
+          {
+            "name": "Joan Manuian",
+            "party": "DEM",
+            "votes": 31128,
+            "pct": 26.24
+          },
+          {
+            "name": "Chris Yates",
+            "party": "REP",
+            "votes": 11874,
+            "pct": 10.01
+          },
+          {
+            "name": "Padraic Walsh",
+            "party": "REP",
+            "votes": 10792,
+            "pct": 9.1
+          }
+        ]
+      }
+    },
+    "14": {
+      "districtId": "14",
+      "districtName": "Maryland House District 14",
+      "census": {
+        "censusName": "State Legislative District 14 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 140155,
+        "medianAge": 41.6,
+        "totalPopulation": 130645,
+        "collegePct": 56.37,
+        "renterRatePct": 21.4,
+        "race": {
+          "whitePct": 42.29,
+          "nonHispanicWhitePct": 39.4,
+          "blackPct": 28.63,
+          "asianPct": 12.29,
+          "hispanicPct": 13.94
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Anne R.",
+            "party": "DEM",
+            "pct": 26.89
+          },
+          {
+            "name": "Koser",
+            "party": "DEM",
+            "pct": 25.94
+          },
+          {
+            "name": "Pamela Queen",
+            "party": "DEM",
+            "pct": 25.73
+          }
+        ],
+        "seats": 3,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Anne R.",
+            "party": "DEM",
+            "votes": 31659,
+            "pct": 26.89
+          },
+          {
+            "name": "Koser",
+            "party": "DEM",
+            "votes": 30547,
+            "pct": 25.94
+          },
+          {
+            "name": "Pamela Queen",
+            "party": "DEM",
+            "votes": 30304,
+            "pct": 25.73
+          },
+          {
+            "name": "Kathy Gugulis",
+            "party": "REP",
+            "votes": 12614,
+            "pct": 10.71
+          },
+          {
+            "name": "Kate Walshe",
+            "party": "REP",
+            "votes": 12282,
+            "pct": 10.43
+          }
+        ]
+      }
+    },
+    "15": {
+      "districtId": "15",
+      "districtName": "Maryland House District 15",
+      "census": {
+        "censusName": "State Legislative District 15 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 169492,
+        "medianAge": 42.5,
+        "totalPopulation": 129595,
+        "collegePct": 69.05,
+        "renterRatePct": 20.46,
+        "race": {
+          "whitePct": 47.8,
+          "nonHispanicWhitePct": 43.66,
+          "blackPct": 11.87,
+          "asianPct": 27.18,
+          "hispanicPct": 12.19
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Hidalgo",
+            "party": "DEM",
+            "pct": 24.55
+          },
+          {
+            "name": "Lily Qi",
+            "party": "DEM",
+            "pct": 24.55
+          },
+          {
+            "name": "Linda Foley",
+            "party": "DEM",
+            "pct": 24.44
+          }
+        ],
+        "seats": 3,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Hidalgo",
+            "party": "DEM",
+            "votes": 31145,
+            "pct": 24.55
+          },
+          {
+            "name": "Lily Qi",
+            "party": "DEM",
+            "votes": 31145,
+            "pct": 24.55
+          },
+          {
+            "name": "Linda Foley",
+            "party": "DEM",
+            "votes": 31007,
+            "pct": 24.44
+          },
+          {
+            "name": "David Prouty",
+            "party": "DEM",
+            "votes": 30229,
+            "pct": 23.83
+          },
+          {
+            "name": "Stacey Sauter",
+            "party": "REP",
+            "votes": 11969,
+            "pct": 9.43
+          },
+          {
+            "name": "Matt Waide",
+            "party": "REP",
+            "votes": 11330,
+            "pct": 8.93
+          },
+          {
+            "name": "Jodi Colella Noah",
+            "party": "REP",
+            "votes": 11087,
+            "pct": 8.74
+          }
+        ]
+      }
+    },
+    "16": {
+      "districtId": "16",
+      "districtName": "Maryland House District 16",
+      "census": {
+        "censusName": "State Legislative District 16 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 185195,
+        "medianAge": 44.9,
+        "totalPopulation": 128201,
+        "collegePct": 85.49,
+        "renterRatePct": 33.84,
+        "race": {
+          "whitePct": 68.64,
+          "nonHispanicWhitePct": 66.04,
+          "blackPct": 6.03,
+          "asianPct": 14.11,
+          "hispanicPct": 8.62
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Ariana Kelly",
+            "party": "DEM",
+            "pct": 33.06
+          },
+          {
+            "name": "Marc Norman",
+            "party": "DEM",
+            "pct": 32.99
+          },
+          {
+            "name": "Sara N. Love",
+            "party": "DEM",
+            "pct": 32.7
+          }
+        ],
+        "seats": 3,
+        "unopposed": true,
+        "candidates": [
+          {
+            "name": "Ariana Kelly",
+            "party": "DEM",
+            "votes": 41600,
+            "pct": 33.06
+          },
+          {
+            "name": "Marc Norman",
+            "party": "DEM",
+            "votes": 41506,
+            "pct": 32.99
+          },
+          {
+            "name": "Sara N. Love",
+            "party": "DEM",
+            "votes": 41153,
+            "pct": 32.7
+          }
+        ]
+      }
+    },
+    "17": {
+      "districtId": "17",
+      "districtName": "Maryland House District 17",
+      "census": {
+        "censusName": "State Legislative District 17 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113578,
+        "medianAge": 38.5,
+        "totalPopulation": 133479,
+        "collegePct": 58.87,
+        "renterRatePct": 49.46,
+        "race": {
+          "whitePct": 42.66,
+          "nonHispanicWhitePct": 38.77,
+          "blackPct": 13.37,
+          "asianPct": 20.45,
+          "hispanicPct": 23.08
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Julie Palakovich Carr",
+            "party": "DEM",
+            "pct": 28.58
+          },
+          {
+            "name": "Murray Barany Jr.",
+            "party": "DEM",
+            "pct": 28.11
+          },
+          {
+            "name": "Joe Vogel",
+            "party": "DEM",
+            "pct": 27.53
+          }
+        ],
+        "seats": 3,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Julie Palakovich Carr",
+            "party": "DEM",
+            "votes": 28464,
+            "pct": 28.58
+          },
+          {
+            "name": "Murray Barany Jr.",
+            "party": "DEM",
+            "votes": 27996,
+            "pct": 28.11
+          },
+          {
+            "name": "Joe Vogel",
+            "party": "DEM",
+            "votes": 27415,
+            "pct": 27.53
+          },
+          {
+            "name": "Helene F. Meister",
+            "party": "REP",
+            "votes": 7835,
+            "pct": 7.87
+          },
+          {
+            "name": "Donald DP Parrı",
+            "party": "REP",
+            "votes": 7560,
+            "pct": 7.59
+          },
+          {
+            "name": "Oliver Whetstone",
+            "party": "DEM",
+            "votes": 324,
+            "pct": 0.33
+          }
+        ]
+      }
+    },
+    "18": {
+      "districtId": "18",
+      "districtName": "Maryland House District 18",
+      "census": {
+        "censusName": "State Legislative District 18 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 127585,
+        "medianAge": 39.8,
+        "totalPopulation": 127257,
+        "collegePct": 59.31,
+        "renterRatePct": 35.82,
+        "race": {
+          "whitePct": 48.21,
+          "nonHispanicWhitePct": 44.03,
+          "blackPct": 14.63,
+          "asianPct": 8.21,
+          "hispanicPct": 27.8
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Kaufman",
+            "party": "DEM",
+            "pct": 30.98
+          },
+          {
+            "name": "Emily Shetty",
+            "party": "DEM",
+            "pct": 30.98
+          },
+          {
+            "name": "Arron M.",
+            "party": "DEM",
+            "pct": 29.31
+          }
+        ],
+        "seats": 3,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Kaufman",
+            "party": "DEM",
+            "votes": 32621,
+            "pct": 30.98
+          },
+          {
+            "name": "Emily Shetty",
+            "party": "DEM",
+            "votes": 32621,
+            "pct": 30.98
+          },
+          {
+            "name": "Arron M.",
+            "party": "DEM",
+            "votes": 30860,
+            "pct": 29.31
+          },
+          {
+            "name": "Jared Schroeder",
+            "party": "DEM",
+            "votes": 30711,
+            "pct": 29.17
+          },
+          {
+            "name": "George M. Cecala",
+            "party": "REP",
+            "votes": 7390,
+            "pct": 7.02
+          },
+          {
+            "name": "Jon Foreman",
+            "party": "GRN",
+            "votes": 3422,
+            "pct": 3.25
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 292,
+            "pct": 0.28
+          }
+        ]
+      }
+    },
+    "19": {
+      "districtId": "19",
+      "districtName": "Maryland House District 19",
+      "census": {
+        "censusName": "State Legislative District 19 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113141,
+        "medianAge": 40.9,
+        "totalPopulation": 129921,
+        "collegePct": 50.7,
+        "renterRatePct": 27.6,
+        "race": {
+          "whitePct": 40.35,
+          "nonHispanicWhitePct": 36.45,
+          "blackPct": 18.03,
+          "asianPct": 12.57,
+          "hispanicPct": 27.51
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Mary A. Lehman",
+            "party": "DEM",
+            "pct": 33.63
+          },
+          {
+            "name": "Josslyn K. Popp",
+            "party": "DEM",
+            "pct": 32.86
+          },
+          {
+            "name": "Ben Barnes",
+            "party": "DEM",
+            "pct": 32.42
+          }
+        ],
+        "seats": 3,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Mary A. Lehman",
+            "party": "DEM",
+            "votes": 22333,
+            "pct": 33.63
+          },
+          {
+            "name": "Josslyn K. Popp",
+            "party": "DEM",
+            "votes": 21821,
+            "pct": 32.86
+          },
+          {
+            "name": "Ben Barnes",
+            "party": "DEM",
+            "votes": 21531,
+            "pct": 32.42
+          },
+          {
+            "name": "Melynk",
+            "party": "DEM",
+            "votes": 730,
+            "pct": 1.08
+          }
+        ]
+      }
+    },
+    "20": {
+      "districtId": "20",
+      "districtName": "Maryland House District 20",
+      "census": {
+        "censusName": "State Legislative District 20 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101313,
+        "medianAge": 36.3,
+        "totalPopulation": 130157,
+        "collegePct": 55.67,
+        "renterRatePct": 55.42,
+        "race": {
+          "whitePct": 34.18,
+          "nonHispanicWhitePct": 30.84,
+          "blackPct": 33.39,
+          "asianPct": 7.99,
+          "hispanicPct": 23.18
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "David Moon",
+            "party": "DEM",
+            "pct": 33.78
+          },
+          {
+            "name": "Jheanelle Wilkins",
+            "party": "DEM",
+            "pct": 33.11
+          },
+          {
+            "name": "Long Charkoudian",
+            "party": "DEM",
+            "pct": 32.32
+          }
+        ],
+        "seats": 3,
+        "unopposed": true,
+        "candidates": [
+          {
+            "name": "David Moon",
+            "party": "DEM",
+            "votes": 31489,
+            "pct": 33.78
+          },
+          {
+            "name": "Jheanelle Wilkins",
+            "party": "DEM",
+            "votes": 30862,
+            "pct": 33.11
+          },
+          {
+            "name": "Long Charkoudian",
+            "party": "DEM",
+            "votes": 30130,
+            "pct": 32.32
+          }
+        ]
+      }
+    },
+    "21": {
+      "districtId": "21",
+      "districtName": "Maryland House District 21",
+      "census": {
+        "censusName": "State Legislative District 21 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99088,
+        "medianAge": 32.6,
+        "totalPopulation": 131173,
+        "collegePct": 44.56,
+        "renterRatePct": 45.73,
+        "race": {
+          "whitePct": 30.07,
+          "nonHispanicWhitePct": 27.08,
+          "blackPct": 34.16,
+          "asianPct": 10.49,
+          "hispanicPct": 24.08
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Charlotte",
+            "party": "DEM",
+            "pct": 30.1
+          },
+          {
+            "name": "Crutchfield",
+            "party": "DEM",
+            "pct": 29.74
+          },
+          {
+            "name": "Bonnie Cullison",
+            "party": "DEM",
+            "pct": 29.74
+          }
+        ],
+        "seats": 3,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Charlotte",
+            "party": "DEM",
+            "votes": 28083,
+            "pct": 30.1
+          },
+          {
+            "name": "Crutchfield",
+            "party": "DEM",
+            "votes": 27747,
+            "pct": 29.74
+          },
+          {
+            "name": "Bonnie Cullison",
+            "party": "DEM",
+            "votes": 27747,
+            "pct": 29.74
+          },
+          {
+            "name": "Vaughn Stewart",
+            "party": "DEM",
+            "votes": 27033,
+            "pct": 28.98
+          },
+          {
+            "name": "Frank Nice",
+            "party": "REP",
+            "votes": 10035,
+            "pct": 10.76
+          }
+        ]
+      }
+    },
+    "22": {
+      "districtId": "22",
+      "districtName": "Maryland House District 22",
+      "census": {
+        "censusName": "State Legislative District 22 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93200,
+        "medianAge": 35.7,
+        "totalPopulation": 133758,
+        "collegePct": 36.02,
+        "renterRatePct": 45.7,
+        "race": {
+          "whitePct": 18.06,
+          "nonHispanicWhitePct": 14.11,
+          "blackPct": 42.64,
+          "asianPct": 5.51,
+          "hispanicPct": 33.81
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Alonzo T.",
+            "party": "DEM",
+            "pct": 34.47
+          },
+          {
+            "name": "Washington",
+            "party": "DEM",
+            "pct": 33.08
+          },
+          {
+            "name": "Nicole A. Williams",
+            "party": "DEM",
+            "pct": 33.08
+          }
+        ],
+        "seats": 3,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Alonzo T.",
+            "party": "DEM",
+            "votes": 21165,
+            "pct": 34.47
+          },
+          {
+            "name": "Washington",
+            "party": "DEM",
+            "votes": 20311,
+            "pct": 33.08
+          },
+          {
+            "name": "Nicole A. Williams",
+            "party": "DEM",
+            "votes": 20311,
+            "pct": 33.08
+          },
+          {
+            "name": "Anne Healey",
+            "party": "DEM",
+            "votes": 19036,
+            "pct": 31
+          }
+        ]
+      }
+    },
+    "23": {
+      "districtId": "23",
+      "districtName": "Maryland House District 23",
+      "census": {
+        "censusName": "State Legislative District 23 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131979,
+        "medianAge": 42.1,
+        "totalPopulation": 135290,
+        "collegePct": 48.9,
+        "renterRatePct": 20.7,
+        "race": {
+          "whitePct": 18.82,
+          "nonHispanicWhitePct": 17.97,
+          "blackPct": 66.94,
+          "asianPct": 2.77,
+          "hispanicPct": 7.99
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Alonzo T. Washington",
+            "party": "DEM",
+            "pct": 34.47
+          },
+          {
+            "name": "Nicole A. Williams",
+            "party": "DEM",
+            "pct": 33.08
+          },
+          {
+            "name": "Anne Healey",
+            "party": "DEM",
+            "pct": 31
+          }
+        ],
+        "seats": 3,
+        "unopposed": true,
+        "candidates": [
+          {
+            "name": "Alonzo T. Washington",
+            "party": "DEM",
+            "votes": 21165,
+            "pct": 34.47
+          },
+          {
+            "name": "Nicole A. Williams",
+            "party": "DEM",
+            "votes": 20311,
+            "pct": 33.08
+          },
+          {
+            "name": "Anne Healey",
+            "party": "DEM",
+            "votes": 19036,
+            "pct": 31
+          }
+        ]
+      }
+    },
+    "24": {
+      "districtId": "24",
+      "districtName": "Maryland House District 24",
+      "census": {
+        "censusName": "State Legislative District 24 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102614,
+        "medianAge": 40.8,
+        "totalPopulation": 132364,
+        "collegePct": 36.05,
+        "renterRatePct": 34.97,
+        "race": {
+          "whitePct": 6.77,
+          "nonHispanicWhitePct": 5.29,
+          "blackPct": 77,
+          "asianPct": 2.41,
+          "hispanicPct": 12.54
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Tiffany T. Alston",
+            "party": "DEM",
+            "pct": 33.6
+          },
+          {
+            "name": "Andrea Fletcher Harrison",
+            "party": "DEM",
+            "pct": 33.21
+          },
+          {
+            "name": "Jazz M. Lewis",
+            "party": "DEM",
+            "pct": 32.66
+          }
+        ],
+        "seats": 3,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Tiffany T. Alston",
+            "party": "DEM",
+            "votes": 29212,
+            "pct": 33.6
+          },
+          {
+            "name": "Andrea Fletcher Harrison",
+            "party": "DEM",
+            "votes": 28880,
+            "pct": 33.21
+          },
+          {
+            "name": "Jazz M. Lewis",
+            "party": "DEM",
+            "votes": 28396,
+            "pct": 32.66
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 461,
+            "pct": 0.53
+          }
+        ]
+      }
+    },
+    "25": {
+      "districtId": "25",
+      "districtName": "Maryland House District 25",
+      "census": {
+        "censusName": "State Legislative District 25 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99578,
+        "medianAge": 40.5,
+        "totalPopulation": 131536,
+        "collegePct": 34.62,
+        "renterRatePct": 33.51,
+        "race": {
+          "whitePct": 6.47,
+          "nonHispanicWhitePct": 5.35,
+          "blackPct": 81.07,
+          "asianPct": 1.6,
+          "hispanicPct": 8.73
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Darryl Barnes",
+            "party": "DEM",
+            "pct": 34.43
+          },
+          {
+            "name": "Karen Toles",
+            "party": "DEM",
+            "pct": 33.33
+          },
+          {
+            "name": "Nick Charles",
+            "party": "DEM",
+            "pct": 31.85
+          }
+        ],
+        "seats": 3,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Darryl Barnes",
+            "party": "DEM",
+            "votes": 31906,
+            "pct": 34.43
+          },
+          {
+            "name": "Karen Toles",
+            "party": "DEM",
+            "votes": 30886,
+            "pct": 33.33
+          },
+          {
+            "name": "Nick Charles",
+            "party": "DEM",
+            "votes": 29519,
+            "pct": 31.85
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 356,
+            "pct": 0.38
+          }
+        ]
+      }
+    },
+    "26": {
+      "districtId": "26",
+      "districtName": "Maryland House District 26",
+      "census": {
+        "censusName": "State Legislative District 26 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105328,
+        "medianAge": 42.3,
+        "totalPopulation": 137160,
+        "collegePct": 33.24,
+        "renterRatePct": 32.11,
+        "race": {
+          "whitePct": 9.6,
+          "nonHispanicWhitePct": 7.69,
+          "blackPct": 66.84,
+          "asianPct": 3.44,
+          "hispanicPct": 18.32
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Veronica Turner",
+            "party": "DEM",
+            "pct": 33.75
+          },
+          {
+            "name": "Jamal J. Woods",
+            "party": "DEM",
+            "pct": 32.37
+          },
+          {
+            "name": "Kricelia Underwood",
+            "party": "DEM",
+            "pct": 29.87
+          }
+        ],
+        "seats": 3,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Veronica Turner",
+            "party": "DEM",
+            "votes": 30577,
+            "pct": 33.75
+          },
+          {
+            "name": "Jamal J. Woods",
+            "party": "DEM",
+            "votes": 29324,
+            "pct": 32.37
+          },
+          {
+            "name": "Kricelia Underwood",
+            "party": "DEM",
+            "votes": 27056,
+            "pct": 29.87
+          },
+          {
+            "name": "JoAnn Fisher",
+            "party": "REP",
+            "votes": 3441,
+            "pct": 3.8
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 192,
+            "pct": 0.21
+          }
+        ]
+      }
+    },
+    "31": {
+      "districtId": "31",
+      "districtName": "Maryland House District 31",
+      "census": {
+        "censusName": "State Legislative District 31 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 126713,
+        "medianAge": 39.6,
+        "totalPopulation": 129133,
+        "collegePct": 39.82,
+        "renterRatePct": 13.8,
+        "race": {
+          "whitePct": 76.64,
+          "nonHispanicWhitePct": 74.67,
+          "blackPct": 9.66,
+          "asianPct": 3.62,
+          "hispanicPct": 6.4
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Nicholas Kipke",
+            "party": "REP",
+            "pct": 22.24
+          },
+          {
+            "name": "Brian A. Chisholm",
+            "party": "REP",
+            "pct": 21.5
+          },
+          {
+            "name": "Brenda Thorne",
+            "party": "REP",
+            "pct": 20.37
+          }
+        ],
+        "seats": 3,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Nicholas Kipke",
+            "party": "REP",
+            "votes": 28518,
+            "pct": 22.24
+          },
+          {
+            "name": "Brian A. Chisholm",
+            "party": "REP",
+            "votes": 27570,
+            "pct": 21.5
+          },
+          {
+            "name": "Brenda Thorne",
+            "party": "REP",
+            "votes": 26117,
+            "pct": 20.37
+          },
+          {
+            "name": "Kevin Burke",
+            "party": "DEM",
+            "votes": 19953,
+            "pct": 15.56
+          },
+          {
+            "name": "Milad Poran",
+            "party": "DEM",
+            "votes": 17213,
+            "pct": 13.42
+          },
+          {
+            "name": "Travis Lord",
+            "party": "DEM",
+            "votes": 8509,
+            "pct": 6.64
+          }
+        ]
+      }
+    },
+    "32": {
+      "districtId": "32",
+      "districtName": "Maryland House District 32",
+      "census": {
+        "censusName": "State Legislative District 32 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105755,
+        "medianAge": 34.9,
+        "totalPopulation": 139022,
+        "collegePct": 38.24,
+        "renterRatePct": 39.5,
+        "race": {
+          "whitePct": 43.03,
+          "nonHispanicWhitePct": 41.35,
+          "blackPct": 33.19,
+          "asianPct": 6.22,
+          "hispanicPct": 12.6
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Seth Howard",
+            "party": "REP",
+            "pct": 56.72
+          },
+          {
+            "name": "Courtney Cornell",
+            "party": "DEM",
+            "pct": 43.28
+          }
+        ],
+        "seats": 3,
+        "unopposed": true,
+        "candidates": [
+          {
+            "name": "Seth Howard",
+            "party": "REP",
+            "votes": 10234,
+            "pct": 56.72
+          },
+          {
+            "name": "Courtney Cornell",
+            "party": "DEM",
+            "votes": 7804,
+            "pct": 43.28
+          }
+        ]
+      }
+    },
+    "36": {
+      "districtId": "36",
+      "districtName": "Maryland House District 36",
+      "census": {
+        "censusName": "State Legislative District 36 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92539,
+        "medianAge": 42.9,
+        "totalPopulation": 138100,
+        "collegePct": 31.66,
+        "renterRatePct": 24.36,
+        "race": {
+          "whitePct": 80.63,
+          "nonHispanicWhitePct": 79.05,
+          "blackPct": 8.3,
+          "asianPct": 1.2,
+          "hispanicPct": 6.79
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Jay A. Jacobs",
+            "party": "REP",
+            "pct": 32.87
+          },
+          {
+            "name": "Jeff Christ",
+            "party": "REP",
+            "pct": 32.32
+          },
+          {
+            "name": "Steve Arentz",
+            "party": "REP",
+            "pct": 32.23
+          }
+        ],
+        "seats": 3,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Jay A. Jacobs",
+            "party": "REP",
+            "votes": 36249,
+            "pct": 32.87
+          },
+          {
+            "name": "Jeff Christ",
+            "party": "REP",
+            "votes": 35640,
+            "pct": 32.32
+          },
+          {
+            "name": "Steve Arentz",
+            "party": "REP",
+            "votes": 35541,
+            "pct": 32.23
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 2854,
+            "pct": 2.59
+          }
+        ]
+      }
+    },
+    "40": {
+      "districtId": "40",
+      "districtName": "Maryland House District 40",
+      "census": {
+        "censusName": "State Legislative District 40 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46166,
+        "medianAge": 37.3,
+        "totalPopulation": 121080,
+        "collegePct": 27.4,
+        "renterRatePct": 62.91,
+        "race": {
+          "whitePct": 21.2,
+          "nonHispanicWhitePct": 20.25,
+          "blackPct": 69.07,
+          "asianPct": 2.2,
+          "hispanicPct": 4.65
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Lesley J. Lopez",
+            "party": "DEM",
+            "pct": 33.29
+          },
+          {
+            "name": "Gabriel Acevero",
+            "party": "DEM",
+            "pct": 33.04
+          },
+          {
+            "name": "Kirill Reznik",
+            "party": "DEM",
+            "pct": 31.87
+          }
+        ],
+        "seats": 3,
+        "unopposed": true,
+        "candidates": [
+          {
+            "name": "Lesley J. Lopez",
+            "party": "DEM",
+            "votes": 23282,
+            "pct": 33.29
+          },
+          {
+            "name": "Gabriel Acevero",
+            "party": "DEM",
+            "votes": 23104,
+            "pct": 33.04
+          },
+          {
+            "name": "Kirill Reznik",
+            "party": "DEM",
+            "votes": 22292,
+            "pct": 31.87
+          }
+        ]
+      }
+    },
+    "41": {
+      "districtId": "41",
+      "districtName": "Maryland House District 41",
+      "census": {
+        "censusName": "State Legislative District 41 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60261,
+        "medianAge": 38.1,
+        "totalPopulation": 129971,
+        "collegePct": 34.02,
+        "renterRatePct": 45.77,
+        "race": {
+          "whitePct": 25.31,
+          "nonHispanicWhitePct": 24.4,
+          "blackPct": 64.04,
+          "asianPct": 1.99,
+          "hispanicPct": 6
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Melissa Wells",
+            "party": "DEM",
+            "pct": 32.67
+          },
+          {
+            "name": "Frank M. Conaway, Jr.",
+            "party": "DEM",
+            "pct": 31.39
+          },
+          {
+            "name": "Marlon D. Amprey",
+            "party": "DEM",
+            "pct": 30.96
+          }
+        ],
+        "seats": 3,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Melissa Wells",
+            "party": "DEM",
+            "votes": 20872,
+            "pct": 32.67
+          },
+          {
+            "name": "Frank M. Conaway, Jr.",
+            "party": "DEM",
+            "votes": 20052,
+            "pct": 31.39
+          },
+          {
+            "name": "Marlon D. Amprey",
+            "party": "DEM",
+            "votes": 19778,
+            "pct": 30.96
+          },
+          {
+            "name": "Zulieka A. Baymore",
+            "party": "REP",
+            "votes": 2852,
+            "pct": 4.46
+          }
+        ]
+      }
+    },
+    "45": {
+      "districtId": "45",
+      "districtName": "Maryland House District 45",
+      "census": {
+        "censusName": "State Legislative District 45 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55428,
+        "medianAge": 37.7,
+        "totalPopulation": 122291,
+        "collegePct": 24.91,
+        "renterRatePct": 47.21,
+        "race": {
+          "whitePct": 16.88,
+          "nonHispanicWhitePct": 16.37,
+          "blackPct": 74.28,
+          "asianPct": 1.08,
+          "hispanicPct": 5.37
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Stephanie Smith",
+            "party": "DEM",
+            "pct": 32.13
+          },
+          {
+            "name": "Jackie Addison",
+            "party": "DEM",
+            "pct": 31.75
+          },
+          {
+            "name": "Caylin Young",
+            "party": "DEM",
+            "pct": 30.31
+          }
+        ],
+        "seats": 3,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Stephanie Smith",
+            "party": "DEM",
+            "votes": 21161,
+            "pct": 32.13
+          },
+          {
+            "name": "Jackie Addison",
+            "party": "DEM",
+            "votes": 20912,
+            "pct": 31.75
+          },
+          {
+            "name": "Caylin Young",
+            "party": "DEM",
+            "votes": 19963,
+            "pct": 30.31
+          },
+          {
+            "name": "Antonio Barboza",
+            "party": "REP",
+            "votes": 3582,
+            "pct": 5.44
+          }
+        ]
+      }
+    },
+    "46": {
+      "districtId": "46",
+      "districtName": "Maryland House District 46",
+      "census": {
+        "censusName": "State Legislative District 46 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78132,
+        "medianAge": 32.8,
+        "totalPopulation": 118633,
+        "collegePct": 51.18,
+        "renterRatePct": 56.94,
+        "race": {
+          "whitePct": 49.5,
+          "nonHispanicWhitePct": 46.81,
+          "blackPct": 28.9,
+          "asianPct": 3.68,
+          "hispanicPct": 17.13
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Robbyn Lewis",
+            "party": "DEM",
+            "pct": 30.81
+          },
+          {
+            "name": "Luke Clippinger",
+            "party": "DEM",
+            "pct": 30.65
+          },
+          {
+            "name": "Mark Edelson",
+            "party": "DEM",
+            "pct": 30.57
+          }
+        ],
+        "seats": 3,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Robbyn Lewis",
+            "party": "DEM",
+            "votes": 22274,
+            "pct": 30.81
+          },
+          {
+            "name": "Luke Clippinger",
+            "party": "DEM",
+            "votes": 22162,
+            "pct": 30.65
+          },
+          {
+            "name": "Mark Edelson",
+            "party": "DEM",
+            "votes": 22103,
+            "pct": 30.57
+          },
+          {
+            "name": "Pete Waters",
+            "party": "REP",
+            "votes": 5492,
+            "pct": 7.6
+          }
+        ]
+      }
+    },
+    "1A": {
+      "districtId": "1A",
+      "districtName": "Maryland House District 1A",
+      "census": {
+        "censusName": "State Legislative Subdistrict 1A (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63217,
+        "medianAge": 44.6,
+        "totalPopulation": 42416,
+        "collegePct": 24.54,
+        "renterRatePct": 21.87,
+        "race": {
+          "whitePct": 93.69,
+          "nonHispanicWhitePct": 93.22,
+          "blackPct": 2.11,
+          "asianPct": 0.97,
+          "hispanicPct": 1.46
+        }
+      },
+      "election": {
+        "winner": "Jim Hinebaugh Jr.",
+        "party": "REP",
+        "pct": 77.25,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Jim Hinebaugh Jr.",
+            "party": "REP",
+            "votes": 11971,
+            "pct": 77.25
+          },
+          {
+            "name": "Robert Spear",
+            "party": "DEM",
+            "votes": 2829,
+            "pct": 18.26
+          },
+          {
+            "name": "Monique M. Mehring",
+            "party": "LIB",
+            "votes": 671,
+            "pct": 4.33
+          }
+        ]
+      }
+    },
+    "1B": {
+      "districtId": "1B",
+      "districtName": "Maryland House District 1B",
+      "census": {
+        "censusName": "State Legislative Subdistrict 1B (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57092,
+        "medianAge": 41.9,
+        "totalPopulation": 47322,
+        "collegePct": 21.57,
+        "renterRatePct": 31.53,
+        "race": {
+          "whitePct": 86.6,
+          "nonHispanicWhitePct": 85.85,
+          "blackPct": 7.15,
+          "asianPct": 0.75,
+          "hispanicPct": 1.87
+        }
+      },
+      "election": {
+        "winner": "Jason C. Buckley",
+        "party": "REP",
+        "pct": 96.4,
+        "seats": 1,
+        "unopposed": true,
+        "candidates": [
+          {
+            "name": "Jason C. Buckley",
+            "party": "REP",
+            "votes": 11209,
+            "pct": 96.4
+          }
+        ]
+      }
+    },
+    "1C": {
+      "districtId": "1C",
+      "districtName": "Maryland House District 1C",
+      "census": {
+        "censusName": "State Legislative Subdistrict 1C (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70761,
+        "medianAge": 43.5,
+        "totalPopulation": 43330,
+        "collegePct": 19.93,
+        "renterRatePct": 25.07,
+        "race": {
+          "whitePct": 88.11,
+          "nonHispanicWhitePct": 86.82,
+          "blackPct": 4.12,
+          "asianPct": 1.57,
+          "hispanicPct": 3.76
+        }
+      },
+      "election": {
+        "winner": "Terry L. Baker",
+        "party": "REP",
+        "pct": 75.95,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Terry L. Baker",
+            "party": "REP",
+            "votes": 11336,
+            "pct": 75.95
+          },
+          {
+            "name": "Carrie B. Hinton",
+            "party": "DEM",
+            "votes": 3287,
+            "pct": 22.02
+          },
+          {
+            "name": "Charlotte McBride",
+            "party": "GRN",
+            "votes": 297,
+            "pct": 1.99
+          }
+        ]
+      }
+    },
+    "2A": {
+      "districtId": "2A",
+      "districtName": "Maryland House District 2A",
+      "census": {
+        "censusName": "State Legislative Subdistrict 2A (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93990,
+        "medianAge": 42,
+        "totalPopulation": 89661,
+        "collegePct": 26.54,
+        "renterRatePct": 22.18,
+        "race": {
+          "whitePct": 81.45,
+          "nonHispanicWhitePct": 79.54,
+          "blackPct": 8.14,
+          "asianPct": 1.52,
+          "hispanicPct": 6.73
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "William Valentine",
+            "party": "REP",
+            "pct": 49.59
+          },
+          {
+            "name": "William Joseph Wiwell",
+            "party": "REP",
+            "pct": 48.64
+          }
+        ],
+        "seats": 2,
+        "unopposed": true,
+        "candidates": [
+          {
+            "name": "William Valentine",
+            "party": "REP",
+            "votes": 19839,
+            "pct": 49.59
+          },
+          {
+            "name": "William Joseph Wiwell",
+            "party": "REP",
+            "votes": 19458,
+            "pct": 48.64
+          }
+        ]
+      }
+    },
+    "2B": {
+      "districtId": "2B",
+      "districtName": "Maryland House District 2B",
+      "census": {
+        "censusName": "State Legislative Subdistrict 2B (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49862,
+        "medianAge": 36.5,
+        "totalPopulation": 43838,
+        "collegePct": 19.54,
+        "renterRatePct": 56.93,
+        "race": {
+          "whitePct": 60.8,
+          "nonHispanicWhitePct": 57.21,
+          "blackPct": 23.19,
+          "asianPct": 1.32,
+          "hispanicPct": 10.87
+        }
+      },
+      "election": {
+        "winner": "Brooke Grossman",
+        "party": "DEM",
+        "pct": 54.15,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Brooke Grossman",
+            "party": "DEM",
+            "votes": 5001,
+            "pct": 54.15
+          },
+          {
+            "name": "Brenda J. Thiam",
+            "party": "REP",
+            "votes": 4222,
+            "pct": 45.72
+          }
+        ]
+      }
+    },
+    "7A": {
+      "districtId": "7A",
+      "districtName": "Maryland House District 7A",
+      "census": {
+        "censusName": "State Legislative Subdistrict 7A (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109768,
+        "medianAge": 42.7,
+        "totalPopulation": 83803,
+        "collegePct": 41.57,
+        "renterRatePct": 21.2,
+        "race": {
+          "whitePct": 72.4,
+          "nonHispanicWhitePct": 70.83,
+          "blackPct": 13.88,
+          "asianPct": 6.44,
+          "hispanicPct": 5.04
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Ric Metzgar",
+            "party": "REP",
+            "pct": 23.6
+          },
+          {
+            "name": "Robin Grammer",
+            "party": "REP",
+            "pct": 23.1
+          }
+        ],
+        "seats": 2,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Ric Metzgar",
+            "party": "REP",
+            "votes": 16696,
+            "pct": 23.6
+          },
+          {
+            "name": "Robin Grammer",
+            "party": "REP",
+            "votes": 16344,
+            "pct": 23.1
+          },
+          {
+            "name": "Bob Long",
+            "party": "REP",
+            "votes": 15987,
+            "pct": 22.6
+          },
+          {
+            "name": "Megan Ann Mioduszewski",
+            "party": "DEM",
+            "votes": 10109,
+            "pct": 14.29
+          },
+          {
+            "name": "Mike Monosmith",
+            "party": "DEM",
+            "votes": 10109,
+            "pct": 14.29
+          }
+        ]
+      }
+    },
+    "7B": {
+      "districtId": "7B",
+      "districtName": "Maryland House District 7B",
+      "census": {
+        "censusName": "State Legislative Subdistrict 7B (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 122724,
+        "medianAge": 41.6,
+        "totalPopulation": 45936,
+        "collegePct": 44.29,
+        "renterRatePct": 14.05,
+        "race": {
+          "whitePct": 84.35,
+          "nonHispanicWhitePct": 82.91,
+          "blackPct": 6.04,
+          "asianPct": 3.12,
+          "hispanicPct": 4.42
+        }
+      },
+      "election": {
+        "winner": "Kathy Szeliga",
+        "party": "REP",
+        "pct": 37.14,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Kathy Szeliga",
+            "party": "REP",
+            "votes": 18034,
+            "pct": 37.14
+          },
+          {
+            "name": "Ryan Nawrocki",
+            "party": "REP",
+            "votes": 17859,
+            "pct": 36.78
+          },
+          {
+            "name": "Lydia X. Z. Brown",
+            "party": "DEM",
+            "votes": 12371,
+            "pct": 25.48
+          }
+        ]
+      }
+    },
+    "9A": {
+      "districtId": "9A",
+      "districtName": "Maryland House District 9A",
+      "census": {
+        "censusName": "State Legislative Subdistrict 9A (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 186785,
+        "medianAge": 43.3,
+        "totalPopulation": 85147,
+        "collegePct": 67.56,
+        "renterRatePct": 10.88,
+        "race": {
+          "whitePct": 58,
+          "nonHispanicWhitePct": 56.76,
+          "blackPct": 7.4,
+          "asianPct": 22.61,
+          "hispanicPct": 6.4
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Harry Bhandari",
+            "party": "DEM",
+            "pct": 21.62
+          },
+          {
+            "name": "Carl Jackson",
+            "party": "DEM",
+            "pct": 20.79
+          }
+        ],
+        "seats": 2,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Harry Bhandari",
+            "party": "DEM",
+            "votes": 19702,
+            "pct": 21.62
+          },
+          {
+            "name": "Carl Jackson",
+            "party": "DEM",
+            "votes": 18950,
+            "pct": 20.79
+          },
+          {
+            "name": "Nick Allen",
+            "party": "DEM",
+            "votes": 18062,
+            "pct": 19.82
+          },
+          {
+            "name": "Kathleen A. Smero",
+            "party": "REP",
+            "votes": 11838,
+            "pct": 12.99
+          },
+          {
+            "name": "Timothy M. Neubauer",
+            "party": "REP",
+            "votes": 11259,
+            "pct": 12.36
+          },
+          {
+            "name": "Glen Geihaer",
+            "party": "REP",
+            "votes": 11243,
+            "pct": 12.34
+          }
+        ]
+      }
+    },
+    "9B": {
+      "districtId": "9B",
+      "districtName": "Maryland House District 9B",
+      "census": {
+        "censusName": "State Legislative Subdistrict 9B (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 156623,
+        "medianAge": 42.4,
+        "totalPopulation": 43027,
+        "collegePct": 68.09,
+        "renterRatePct": 32.01,
+        "race": {
+          "whitePct": 52.55,
+          "nonHispanicWhitePct": 51.28,
+          "blackPct": 9.52,
+          "asianPct": 29.28,
+          "hispanicPct": 5.81
+        }
+      },
+      "election": {
+        "winner": "Natalie Ziegler",
+        "party": "DEM",
+        "pct": 26.68,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Natalie Ziegler",
+            "party": "DEM",
+            "votes": 17656,
+            "pct": 26.68
+          },
+          {
+            "name": "Zeng Zeng",
+            "party": "DEM",
+            "votes": 17486,
+            "pct": 26.43
+          },
+          {
+            "name": "Trent Kittleman",
+            "party": "REP",
+            "votes": 17373,
+            "pct": 26.26
+          },
+          {
+            "name": "Janning Jenny",
+            "party": "REP",
+            "votes": 13609,
+            "pct": 20.57
+          }
+        ]
+      }
+    },
+    "11A": {
+      "districtId": "11A",
+      "districtName": "Maryland House District 11A",
+      "census": {
+        "censusName": "State Legislative Subdistrict 11A (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95984,
+        "medianAge": 35.8,
+        "totalPopulation": 40883,
+        "collegePct": 50.91,
+        "renterRatePct": 50.62,
+        "race": {
+          "whitePct": 30.4,
+          "nonHispanicWhitePct": 28.54,
+          "blackPct": 52.16,
+          "asianPct": 5,
+          "hispanicPct": 10.9
+        }
+      },
+      "election": {
+        "winner": "Adrienne A.",
+        "party": "DEM",
+        "pct": 29.42,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Adrienne A.",
+            "party": "DEM",
+            "votes": 29842,
+            "pct": 29.42
+          },
+          {
+            "name": "N. Scott Phillips",
+            "party": "DEM",
+            "votes": 27925,
+            "pct": 27.53
+          },
+          {
+            "name": "Jones",
+            "party": "DEM",
+            "votes": 26643,
+            "pct": 26.27
+          },
+          {
+            "name": "Patricia R. Fallon",
+            "party": "REP",
+            "votes": 9024,
+            "pct": 8.9
+          },
+          {
+            "name": "Jordan Poromyae",
+            "party": "REP",
+            "votes": 7685,
+            "pct": 7.58
+          }
+        ]
+      }
+    },
+    "11B": {
+      "districtId": "11B",
+      "districtName": "Maryland House District 11B",
+      "census": {
+        "censusName": "State Legislative Subdistrict 11B (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112615,
+        "medianAge": 43.9,
+        "totalPopulation": 87086,
+        "collegePct": 64.55,
+        "renterRatePct": 25.33,
+        "race": {
+          "whitePct": 70.41,
+          "nonHispanicWhitePct": 69.07,
+          "blackPct": 17.62,
+          "asianPct": 5.42,
+          "hispanicPct": 4.29
+        }
+      },
+      "election": {
+        "winner": "Cheryl E. Pasteur",
+        "party": "DEM",
+        "pct": 98.34,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Cheryl E. Pasteur",
+            "party": "DEM",
+            "votes": 10290,
+            "pct": 98.34
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 174,
+            "pct": 1.66
+          }
+        ]
+      }
+    },
+    "12A": {
+      "districtId": "12A",
+      "districtName": "Maryland House District 12A",
+      "census": {
+        "censusName": "State Legislative Subdistrict 12A (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 134215,
+        "medianAge": 38.7,
+        "totalPopulation": 85075,
+        "collegePct": 63.28,
+        "renterRatePct": 33.29,
+        "race": {
+          "whitePct": 49.9,
+          "nonHispanicWhitePct": 48.16,
+          "blackPct": 24.22,
+          "asianPct": 13.26,
+          "hispanicPct": 8.14
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Terri Hill",
+            "party": "DEM",
+            "pct": 53.05
+          },
+          {
+            "name": "Jessica Feldmark",
+            "party": "DEM",
+            "pct": 45.31
+          }
+        ],
+        "seats": 2,
+        "unopposed": true,
+        "candidates": [
+          {
+            "name": "Terri Hill",
+            "party": "DEM",
+            "votes": 24204,
+            "pct": 53.05
+          },
+          {
+            "name": "Jessica Feldmark",
+            "party": "DEM",
+            "votes": 20674,
+            "pct": 45.31
+          }
+        ]
+      }
+    },
+    "12B": {
+      "districtId": "12B",
+      "districtName": "Maryland House District 12B",
+      "census": {
+        "censusName": "State Legislative Subdistrict 12B (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91276,
+        "medianAge": 39.7,
+        "totalPopulation": 44540,
+        "collegePct": 24.27,
+        "renterRatePct": 29.75,
+        "race": {
+          "whitePct": 53.48,
+          "nonHispanicWhitePct": 50.78,
+          "blackPct": 27.88,
+          "asianPct": 2.97,
+          "hispanicPct": 13.56
+        }
+      },
+      "election": {
+        "winner": "Gary Simmons",
+        "party": "DEM",
+        "pct": 55.41,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Gary Simmons",
+            "party": "DEM",
+            "votes": 5856,
+            "pct": 55.41
+          },
+          {
+            "name": "Ashley P. Arias",
+            "party": "REP",
+            "votes": 4692,
+            "pct": 44.4
+          }
+        ]
+      }
+    },
+    "27A": {
+      "districtId": "27A",
+      "districtName": "Maryland House District 27A",
+      "census": {
+        "censusName": "State Legislative Subdistrict 27A (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119834,
+        "medianAge": 40.2,
+        "totalPopulation": 42954,
+        "collegePct": 34.44,
+        "renterRatePct": 17.12,
+        "race": {
+          "whitePct": 25.08,
+          "nonHispanicWhitePct": 22.99,
+          "blackPct": 59.73,
+          "asianPct": 2.4,
+          "hispanicPct": 8.63
+        }
+      },
+      "election": {
+        "winner": "Kevin M. Harris",
+        "party": "DEM",
+        "pct": 97.99,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Kevin M. Harris",
+            "party": "DEM",
+            "votes": 11783,
+            "pct": 97.99
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 242,
+            "pct": 2.01
+          }
+        ]
+      }
+    },
+    "27B": {
+      "districtId": "27B",
+      "districtName": "Maryland House District 27B",
+      "census": {
+        "censusName": "State Legislative Subdistrict 27B (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 139652,
+        "medianAge": 42,
+        "totalPopulation": 48763,
+        "collegePct": 38.5,
+        "renterRatePct": 10.61,
+        "race": {
+          "whitePct": 50.49,
+          "nonHispanicWhitePct": 49.35,
+          "blackPct": 36.87,
+          "asianPct": 1.97,
+          "hispanicPct": 5.82
+        }
+      },
+      "election": {
+        "winner": "Jeffrie E. Long",
+        "party": "DEM",
+        "pct": 95.31,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Jeffrie E. Long",
+            "party": "DEM",
+            "votes": 12227,
+            "pct": 95.31
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 602,
+            "pct": 4.69
+          }
+        ]
+      }
+    },
+    "27C": {
+      "districtId": "27C",
+      "districtName": "Maryland House District 27C",
+      "census": {
+        "censusName": "State Legislative Subdistrict 27C (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 136438,
+        "medianAge": 42.7,
+        "totalPopulation": 44537,
+        "collegePct": 31.56,
+        "renterRatePct": 10.87,
+        "race": {
+          "whitePct": 76.66,
+          "nonHispanicWhitePct": 74.52,
+          "blackPct": 12.18,
+          "asianPct": 1.33,
+          "hispanicPct": 4.71
+        }
+      },
+      "election": {
+        "winner": "Mark N. Fisher",
+        "party": "REP",
+        "pct": 95.67,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Mark N. Fisher",
+            "party": "REP",
+            "votes": 13474,
+            "pct": 95.67
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 610,
+            "pct": 4.33
+          }
+        ]
+      }
+    },
+    "29A": {
+      "districtId": "29A",
+      "districtName": "Maryland House District 29A",
+      "census": {
+        "censusName": "State Legislative Subdistrict 29A (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120433,
+        "medianAge": 40,
+        "totalPopulation": 44107,
+        "collegePct": 29.07,
+        "renterRatePct": 14.43,
+        "race": {
+          "whitePct": 83.57,
+          "nonHispanicWhitePct": 82.43,
+          "blackPct": 7.79,
+          "asianPct": 1.2,
+          "hispanicPct": 4.37
+        }
+      },
+      "election": {
+        "winner": "Matt Morgan",
+        "party": "REP",
+        "pct": 97.38,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Matt Morgan",
+            "party": "REP",
+            "votes": 12663,
+            "pct": 97.38
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 341,
+            "pct": 2.62
+          }
+        ]
+      }
+    },
+    "29B": {
+      "districtId": "29B",
+      "districtName": "Maryland House District 29B",
+      "census": {
+        "censusName": "State Legislative Subdistrict 29B (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97662,
+        "medianAge": 32.4,
+        "totalPopulation": 46261,
+        "collegePct": 36.55,
+        "renterRatePct": 45.08,
+        "race": {
+          "whitePct": 58.06,
+          "nonHispanicWhitePct": 56.81,
+          "blackPct": 25.86,
+          "asianPct": 4.28,
+          "hispanicPct": 6.28
+        }
+      },
+      "election": {
+        "winner": "Brian Crosby",
+        "party": "DEM",
+        "pct": 55.8,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Brian Crosby",
+            "party": "DEM",
+            "votes": 6596,
+            "pct": 55.8
+          },
+          {
+            "name": "Deb Rey",
+            "party": "REP",
+            "votes": 5210,
+            "pct": 44.07
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 15,
+            "pct": 0.13
+          }
+        ]
+      }
+    },
+    "29C": {
+      "districtId": "29C",
+      "districtName": "Maryland House District 29C",
+      "census": {
+        "censusName": "State Legislative Subdistrict 29C (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 130222,
+        "medianAge": 39.6,
+        "totalPopulation": 45957,
+        "collegePct": 37.5,
+        "renterRatePct": 14.85,
+        "race": {
+          "whitePct": 77.67,
+          "nonHispanicWhitePct": 74.98,
+          "blackPct": 10.12,
+          "asianPct": 2.06,
+          "hispanicPct": 7.02
+        }
+      },
+      "election": {
+        "winner": "Seth Howard",
+        "party": "REP",
+        "pct": 56.72,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Seth Howard",
+            "party": "REP",
+            "votes": 10234,
+            "pct": 56.72
+          },
+          {
+            "name": "Courtney Cornell",
+            "party": "DEM",
+            "votes": 7804,
+            "pct": 43.28
+          }
+        ]
+      }
+    },
+    "30A": {
+      "districtId": "30A",
+      "districtName": "Maryland House District 30A",
+      "census": {
+        "censusName": "State Legislative Subdistrict 30A (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 117636,
+        "medianAge": 43.6,
+        "totalPopulation": 85707,
+        "collegePct": 58.25,
+        "renterRatePct": 32.2,
+        "race": {
+          "whitePct": 72.57,
+          "nonHispanicWhitePct": 68.65,
+          "blackPct": 11.97,
+          "asianPct": 2.8,
+          "hispanicPct": 13.23
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Shaneka Henson",
+            "party": "DEM",
+            "pct": 32.09
+          },
+          {
+            "name": "Dana Jones",
+            "party": "DEM",
+            "pct": 31.06
+          }
+        ],
+        "seats": 2,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Shaneka Henson",
+            "party": "DEM",
+            "votes": 23364,
+            "pct": 32.09
+          },
+          {
+            "name": "Dana Jones",
+            "party": "DEM",
+            "votes": 19710,
+            "pct": 31.06
+          },
+          {
+            "name": "Doug Rathell",
+            "party": "REP",
+            "votes": 12948,
+            "pct": 20.41
+          },
+          {
+            "name": "Bob Seyferth",
+            "party": "REP",
+            "votes": 10366,
+            "pct": 16.34
+          }
+        ]
+      }
+    },
+    "30B": {
+      "districtId": "30B",
+      "districtName": "Maryland House District 30B",
+      "census": {
+        "censusName": "State Legislative Subdistrict 30B (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 137659,
+        "medianAge": 43.6,
+        "totalPopulation": 41665,
+        "collegePct": 41.99,
+        "renterRatePct": 8.45,
+        "race": {
+          "whitePct": 81.32,
+          "nonHispanicWhitePct": 79.8,
+          "blackPct": 7.8,
+          "asianPct": 0.54,
+          "hispanicPct": 8.02
+        }
+      },
+      "election": {
+        "winner": "Todd B. Morgan",
+        "party": "REP",
+        "pct": 61.66,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Todd B. Morgan",
+            "party": "REP",
+            "votes": 10604,
+            "pct": 61.66
+          },
+          {
+            "name": "Bill Bates",
+            "party": "DEM",
+            "votes": 6561,
+            "pct": 38.15
+          }
+        ]
+      }
+    },
+    "33A": {
+      "districtId": "33A",
+      "districtName": "Maryland House District 33A",
+      "census": {
+        "censusName": "State Legislative Subdistrict 33A (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 123750,
+        "medianAge": 36.2,
+        "totalPopulation": 43742,
+        "collegePct": 50.51,
+        "renterRatePct": 37.23,
+        "race": {
+          "whitePct": 51.8,
+          "nonHispanicWhitePct": 49.71,
+          "blackPct": 26.02,
+          "asianPct": 6.12,
+          "hispanicPct": 9.67
+        }
+      },
+      "election": {
+        "winner": "Adrienne C.",
+        "party": "DEM",
+        "pct": 67.17,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Adrienne C.",
+            "party": "DEM",
+            "votes": 9772,
+            "pct": 67.17
+          },
+          {
+            "name": "Kim Mills",
+            "party": "REP",
+            "votes": 4765,
+            "pct": 32.75
+          }
+        ]
+      }
+    },
+    "33B": {
+      "districtId": "33B",
+      "districtName": "Maryland House District 33B",
+      "census": {
+        "censusName": "State Legislative Subdistrict 33B (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 156012,
+        "medianAge": 42.1,
+        "totalPopulation": 45794,
+        "collegePct": 57.74,
+        "renterRatePct": 11.66,
+        "race": {
+          "whitePct": 77.92,
+          "nonHispanicWhitePct": 75.25,
+          "blackPct": 7.51,
+          "asianPct": 4.95,
+          "hispanicPct": 6.69
+        }
+      },
+      "election": {
+        "winner": "Wm S. Chany",
+        "party": "DEM",
+        "pct": 22.38,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Wm S. Chany",
+            "party": "DEM",
+            "votes": 21755,
+            "pct": 22.38
+          },
+          {
+            "name": "J. Sandy Bartlett",
+            "party": "DEM",
+            "votes": 20988,
+            "pct": 21.59
+          },
+          {
+            "name": "Mike Rogers",
+            "party": "DEM",
+            "votes": 20597,
+            "pct": 21.19
+          },
+          {
+            "name": "Monica L. W. Snorman",
+            "party": "REP",
+            "votes": 11384,
+            "pct": 11.71
+          },
+          {
+            "name": "Michael Jette",
+            "party": "REP",
+            "votes": 11213,
+            "pct": 11.53
+          },
+          {
+            "name": "Michele Speakman",
+            "party": "REP",
+            "votes": 11169,
+            "pct": 11.49
+          }
+        ]
+      }
+    },
+    "33C": {
+      "districtId": "33C",
+      "districtName": "Maryland House District 33C",
+      "census": {
+        "censusName": "State Legislative Subdistrict 33C (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 144268,
+        "medianAge": 40.4,
+        "totalPopulation": 45234,
+        "collegePct": 57.2,
+        "renterRatePct": 13.2,
+        "race": {
+          "whitePct": 83.1,
+          "nonHispanicWhitePct": 79.61,
+          "blackPct": 4.8,
+          "asianPct": 2.55,
+          "hispanicPct": 7.82
+        }
+      },
+      "election": {
+        "winner": "Stuart Michael Schmidt, Jr.",
+        "party": "REP",
+        "pct": 50.66,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Stuart Michael Schmidt, Jr.",
+            "party": "REP",
+            "votes": 10501,
+            "pct": 50.66
+          },
+          {
+            "name": "John Waldstein",
+            "party": "DEM",
+            "votes": 10204,
+            "pct": 49.23
+          }
+        ]
+      }
+    },
+    "34A": {
+      "districtId": "34A",
+      "districtName": "Maryland House District 34A",
+      "census": {
+        "censusName": "State Legislative Subdistrict 34A (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95433,
+        "medianAge": 38.4,
+        "totalPopulation": 88597,
+        "collegePct": 32.05,
+        "renterRatePct": 29.6,
+        "race": {
+          "whitePct": 54.47,
+          "nonHispanicWhitePct": 52.53,
+          "blackPct": 31.21,
+          "asianPct": 2.42,
+          "hispanicPct": 7.85
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Andre V. Johnson, Jr.",
+            "party": "DEM",
+            "pct": 29.59
+          },
+          {
+            "name": "Steve Johnson",
+            "party": "DEM",
+            "pct": 26.41
+          }
+        ],
+        "seats": 2,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Andre V. Johnson, Jr.",
+            "party": "DEM",
+            "votes": 13478,
+            "pct": 29.59
+          },
+          {
+            "name": "Steve Johnson",
+            "party": "DEM",
+            "votes": 12029,
+            "pct": 26.41
+          },
+          {
+            "name": "Glen Glass",
+            "party": "REP",
+            "votes": 10717,
+            "pct": 23.53
+          },
+          {
+            "name": "Teresa Walter",
+            "party": "REP",
+            "votes": 9248,
+            "pct": 20.31
+          }
+        ]
+      }
+    },
+    "34B": {
+      "districtId": "34B",
+      "districtName": "Maryland House District 34B",
+      "census": {
+        "censusName": "State Legislative Subdistrict 34B (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 110654,
+        "medianAge": 39,
+        "totalPopulation": 45305,
+        "collegePct": 44.57,
+        "renterRatePct": 24.78,
+        "race": {
+          "whitePct": 76.33,
+          "nonHispanicWhitePct": 73.39,
+          "blackPct": 10.02,
+          "asianPct": 5.71,
+          "hispanicPct": 6.68
+        }
+      },
+      "election": {
+        "winner": "Susan K. McComas",
+        "party": "REP",
+        "pct": 60.79,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Susan K. McComas",
+            "party": "REP",
+            "votes": 11094,
+            "pct": 60.79
+          },
+          {
+            "name": "Gillian A. Miller",
+            "party": "DEM",
+            "votes": 7111,
+            "pct": 38.97
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 44,
+            "pct": 0.24
+          }
+        ]
+      }
+    },
+    "35A": {
+      "districtId": "35A",
+      "districtName": "Maryland House District 35A",
+      "census": {
+        "censusName": "State Legislative Subdistrict 35A (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 122817,
+        "medianAge": 42.9,
+        "totalPopulation": 87845,
+        "collegePct": 40.19,
+        "renterRatePct": 10.43,
+        "race": {
+          "whitePct": 88.41,
+          "nonHispanicWhitePct": 87.63,
+          "blackPct": 3.76,
+          "asianPct": 1.78,
+          "hispanicPct": 3.04
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Mike Griffith",
+            "party": "REP",
+            "pct": 53.26
+          },
+          {
+            "name": "Teresa Reilly",
+            "party": "REP",
+            "pct": 44.39
+          }
+        ],
+        "seats": 2,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Mike Griffith",
+            "party": "REP",
+            "votes": 25988,
+            "pct": 53.26
+          },
+          {
+            "name": "Teresa Reilly",
+            "party": "REP",
+            "votes": 21661,
+            "pct": 44.39
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 1147,
+            "pct": 2.35
+          }
+        ]
+      }
+    },
+    "35B": {
+      "districtId": "35B",
+      "districtName": "Maryland House District 35B",
+      "census": {
+        "censusName": "State Legislative Subdistrict 35B (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94920,
+        "medianAge": 39.9,
+        "totalPopulation": 44250,
+        "collegePct": 27.01,
+        "renterRatePct": 21.18,
+        "race": {
+          "whitePct": 86.05,
+          "nonHispanicWhitePct": 83.82,
+          "blackPct": 6.17,
+          "asianPct": 1.14,
+          "hispanicPct": 5.34
+        }
+      },
+      "election": {
+        "winner": "Derek Sample",
+        "party": "DEM",
+        "pct": 61.93,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Derek Sample",
+            "party": "DEM",
+            "votes": 5841,
+            "pct": 61.93
+          },
+          {
+            "name": "Donna Bradshaw",
+            "party": "REP",
+            "votes": 3573,
+            "pct": 37.88
+          },
+          {
+            "name": "Hughes",
+            "party": "TBD",
+            "votes": 18,
+            "pct": 0.19
+          }
+        ]
+      }
+    },
+    "37A": {
+      "districtId": "37A",
+      "districtName": "Maryland House District 37A",
+      "census": {
+        "censusName": "State Legislative Subdistrict 37A (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50573,
+        "medianAge": 34.7,
+        "totalPopulation": 40737,
+        "collegePct": 14.79,
+        "renterRatePct": 57.44,
+        "race": {
+          "whitePct": 37.92,
+          "nonHispanicWhitePct": 36.84,
+          "blackPct": 49.13,
+          "asianPct": 1.5,
+          "hispanicPct": 6.69
+        }
+      },
+      "election": {
+        "winner": "Derek Sample",
+        "party": "DEM",
+        "pct": 61.93,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Derek Sample",
+            "party": "DEM",
+            "votes": 5841,
+            "pct": 61.93
+          },
+          {
+            "name": "Donna Bradshaw",
+            "party": "REP",
+            "votes": 3573,
+            "pct": 37.88
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 18,
+            "pct": 0.19
+          }
+        ]
+      }
+    },
+    "37B": {
+      "districtId": "37B",
+      "districtName": "Maryland House District 37B",
+      "census": {
+        "censusName": "State Legislative Subdistrict 37B (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81912,
+        "medianAge": 47.3,
+        "totalPopulation": 91744,
+        "collegePct": 32.92,
+        "renterRatePct": 23.26,
+        "race": {
+          "whitePct": 77.14,
+          "nonHispanicWhitePct": 76.4,
+          "blackPct": 12.1,
+          "asianPct": 1.08,
+          "hispanicPct": 6.17
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Christopher T. Adams",
+            "party": "REP",
+            "pct": 37.32
+          },
+          {
+            "name": "Tom Hutchinson",
+            "party": "REP",
+            "pct": 35.91
+          }
+        ],
+        "seats": 2,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Christopher T. Adams",
+            "party": "REP",
+            "votes": 21694,
+            "pct": 37.32
+          },
+          {
+            "name": "Tom Hutchinson",
+            "party": "REP",
+            "votes": 20876,
+            "pct": 35.91
+          },
+          {
+            "name": "Susan E. Delean-Botkin",
+            "party": "DEM",
+            "votes": 15344,
+            "pct": 26.39
+          }
+        ]
+      }
+    },
+    "38A": {
+      "districtId": "38A",
+      "districtName": "Maryland House District 38A",
+      "census": {
+        "censusName": "State Legislative Subdistrict 38A (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65727,
+        "medianAge": 39.2,
+        "totalPopulation": 49351,
+        "collegePct": 23.14,
+        "renterRatePct": 30.09,
+        "race": {
+          "whitePct": 60.98,
+          "nonHispanicWhitePct": 60.21,
+          "blackPct": 30.65,
+          "asianPct": 1.17,
+          "hispanicPct": 3.55
+        }
+      },
+      "election": {
+        "winner": "Charles James Otto",
+        "party": "REP",
+        "pct": 63.17,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Charles James Otto",
+            "party": "REP",
+            "votes": 10023,
+            "pct": 63.17
+          },
+          {
+            "name": "Todd J. Nock",
+            "party": "DEM",
+            "votes": 5828,
+            "pct": 36.73
+          }
+        ]
+      }
+    },
+    "38B": {
+      "districtId": "38B",
+      "districtName": "Maryland House District 38B",
+      "census": {
+        "censusName": "State Legislative Subdistrict 38B (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69939,
+        "medianAge": 33.4,
+        "totalPopulation": 44920,
+        "collegePct": 33.6,
+        "renterRatePct": 47.08,
+        "race": {
+          "whitePct": 59.23,
+          "nonHispanicWhitePct": 56.67,
+          "blackPct": 25.39,
+          "asianPct": 4.36,
+          "hispanicPct": 8.24
+        }
+      },
+      "election": {
+        "winner": "Carl L. Anderton, Jr.",
+        "party": "REP",
+        "pct": 94.47,
+        "seats": 1,
+        "unopposed": true,
+        "candidates": [
+          {
+            "name": "Carl L. Anderton, Jr.",
+            "party": "REP",
+            "votes": 8026,
+            "pct": 94.47
+          }
+        ]
+      }
+    },
+    "38C": {
+      "districtId": "38C",
+      "districtName": "Maryland House District 38C",
+      "census": {
+        "censusName": "State Legislative Subdistrict 38C (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85287,
+        "medianAge": 52.9,
+        "totalPopulation": 46112,
+        "collegePct": 31.97,
+        "renterRatePct": 17.9,
+        "race": {
+          "whitePct": 85.6,
+          "nonHispanicWhitePct": 84.46,
+          "blackPct": 5.28,
+          "asianPct": 1.15,
+          "hispanicPct": 5.1
+        }
+      },
+      "election": {
+        "winner": "Wayne A. Hartman",
+        "party": "REP",
+        "pct": 97.79,
+        "seats": 1,
+        "unopposed": true,
+        "candidates": [
+          {
+            "name": "Wayne A. Hartman",
+            "party": "REP",
+            "votes": 16198,
+            "pct": 97.79
+          }
+        ]
+      }
+    },
+    "42A": {
+      "districtId": "42A",
+      "districtName": "Maryland House District 42A",
+      "census": {
+        "censusName": "State Legislative Subdistrict 42A (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 145266,
+        "medianAge": 47.5,
+        "totalPopulation": 42011,
+        "collegePct": 58.95,
+        "renterRatePct": 11.44,
+        "race": {
+          "whitePct": 88.19,
+          "nonHispanicWhitePct": 87.34,
+          "blackPct": 4.33,
+          "asianPct": 2.56,
+          "hispanicPct": 2.99
+        }
+      },
+      "election": {
+        "winner": "Nino Mangione",
+        "party": "REP",
+        "pct": 58.56,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Nino Mangione",
+            "party": "REP",
+            "votes": 12009,
+            "pct": 58.56
+          },
+          {
+            "name": "Paul V. Konka",
+            "party": "DEM",
+            "votes": 8475,
+            "pct": 41.33
+          }
+        ]
+      }
+    },
+    "42B": {
+      "districtId": "42B",
+      "districtName": "Maryland House District 42B",
+      "census": {
+        "censusName": "State Legislative Subdistrict 42B (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100372,
+        "medianAge": 37.7,
+        "totalPopulation": 39872,
+        "collegePct": 56.7,
+        "renterRatePct": 46.77,
+        "race": {
+          "whitePct": 64.58,
+          "nonHispanicWhitePct": 62.44,
+          "blackPct": 13.84,
+          "asianPct": 8.56,
+          "hispanicPct": 10.18
+        }
+      },
+      "election": {
+        "winner": "Michele Guyton",
+        "party": "DEM",
+        "pct": 61.25,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Michele Guyton",
+            "party": "DEM",
+            "votes": 8904,
+            "pct": 61.25
+          },
+          {
+            "name": "Todd Huff",
+            "party": "REP",
+            "votes": 5614,
+            "pct": 38.62
+          }
+        ]
+      }
+    },
+    "42C": {
+      "districtId": "42C",
+      "districtName": "Maryland House District 42C",
+      "census": {
+        "censusName": "State Legislative Subdistrict 42C (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 117619,
+        "medianAge": 44.6,
+        "totalPopulation": 42872,
+        "collegePct": 38.79,
+        "renterRatePct": 8.33,
+        "race": {
+          "whitePct": 89.65,
+          "nonHispanicWhitePct": 88.38,
+          "blackPct": 3.26,
+          "asianPct": 2.23,
+          "hispanicPct": 3.4
+        }
+      },
+      "election": {
+        "winner": "Joshua J. Stonko",
+        "party": "REP",
+        "pct": 97.61,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Joshua J. Stonko",
+            "party": "REP",
+            "votes": 14242,
+            "pct": 97.61
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 349,
+            "pct": 2.39
+          }
+        ]
+      }
+    },
+    "43A": {
+      "districtId": "43A",
+      "districtName": "Maryland House District 43A",
+      "census": {
+        "censusName": "State Legislative Subdistrict 43A (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65478,
+        "medianAge": 36.2,
+        "totalPopulation": 85218,
+        "collegePct": 41.83,
+        "renterRatePct": 45.88,
+        "race": {
+          "whitePct": 23.74,
+          "nonHispanicWhitePct": 22.58,
+          "blackPct": 64.01,
+          "asianPct": 4.32,
+          "hispanicPct": 6
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Regina T. Boyce",
+            "party": "DEM",
+            "pct": 47.52
+          },
+          {
+            "name": "Elizabeth Embry",
+            "party": "DEM",
+            "pct": 44.59
+          }
+        ],
+        "seats": 2,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Regina T. Boyce",
+            "party": "DEM",
+            "votes": 19788,
+            "pct": 47.52
+          },
+          {
+            "name": "Elizabeth Embry",
+            "party": "DEM",
+            "votes": 18569,
+            "pct": 44.59
+          },
+          {
+            "name": "Renaud Deaundre Brown",
+            "party": "GRN",
+            "votes": 1691,
+            "pct": 4.06
+          },
+          {
+            "name": "Gwendolyn G. Butler",
+            "party": "REP",
+            "votes": 1509,
+            "pct": 3.62
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 86,
+            "pct": 0.21
+          }
+        ]
+      }
+    },
+    "43B": {
+      "districtId": "43B",
+      "districtName": "Maryland House District 43B",
+      "census": {
+        "censusName": "State Legislative Subdistrict 43B (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90173,
+        "medianAge": 30.1,
+        "totalPopulation": 42445,
+        "collegePct": 66.09,
+        "renterRatePct": 52.33,
+        "race": {
+          "whitePct": 64.86,
+          "nonHispanicWhitePct": 62.83,
+          "blackPct": 19.93,
+          "asianPct": 6.75,
+          "hispanicPct": 5.85
+        }
+      },
+      "election": {
+        "winner": "Cathi Forbes",
+        "party": "DEM",
+        "pct": 97.96,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Cathi Forbes",
+            "party": "DEM",
+            "votes": 10971,
+            "pct": 97.96
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 229,
+            "pct": 2.04
+          }
+        ]
+      }
+    },
+    "44A": {
+      "districtId": "44A",
+      "districtName": "Maryland House District 44A",
+      "census": {
+        "censusName": "State Legislative Subdistrict 44A (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80416,
+        "medianAge": 36.9,
+        "totalPopulation": 44280,
+        "collegePct": 31.48,
+        "renterRatePct": 43.58,
+        "race": {
+          "whitePct": 50.89,
+          "nonHispanicWhitePct": 49.99,
+          "blackPct": 25.28,
+          "asianPct": 8.35,
+          "hispanicPct": 10.79
+        }
+      },
+      "election": {
+        "winner": "Eric Ebersole",
+        "party": "DEM",
+        "pct": 62.42,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Eric Ebersole",
+            "party": "DEM",
+            "votes": 6727,
+            "pct": 62.42
+          },
+          {
+            "name": "Joseph D. Tassoni",
+            "party": "REP",
+            "votes": 4041,
+            "pct": 37.5
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 9,
+            "pct": 0.08
+          }
+        ]
+      }
+    },
+    "44B": {
+      "districtId": "44B",
+      "districtName": "Maryland House District 44B",
+      "census": {
+        "censusName": "State Legislative Subdistrict 44B (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83419,
+        "medianAge": 37.7,
+        "totalPopulation": 88160,
+        "collegePct": 36.95,
+        "renterRatePct": 30.17,
+        "race": {
+          "whitePct": 32.06,
+          "nonHispanicWhitePct": 30.15,
+          "blackPct": 50.66,
+          "asianPct": 7.91,
+          "hispanicPct": 8.22
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Sheila Ruth",
+            "party": "DEM",
+            "pct": 51.21
+          },
+          {
+            "name": "Aletheia McCaskill",
+            "party": "DEM",
+            "pct": 47.4
+          }
+        ],
+        "seats": 2,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Sheila Ruth",
+            "party": "DEM",
+            "votes": 19682,
+            "pct": 51.21
+          },
+          {
+            "name": "Aletheia McCaskill",
+            "party": "DEM",
+            "votes": 18219,
+            "pct": 47.4
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 532,
+            "pct": 1.38
+          }
+        ]
+      }
+    },
+    "47A": {
+      "districtId": "47A",
+      "districtName": "Maryland House District 47A",
+      "census": {
+        "censusName": "State Legislative Subdistrict 47A (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73730,
+        "medianAge": 35.6,
+        "totalPopulation": 89504,
+        "collegePct": 25.15,
+        "renterRatePct": 57.36,
+        "race": {
+          "whitePct": 9.45,
+          "nonHispanicWhitePct": 6.59,
+          "blackPct": 51.29,
+          "asianPct": 1.58,
+          "hispanicPct": 37.73
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Robert Julian",
+            "party": "DEM",
+            "pct": 50.4
+          },
+          {
+            "name": "Diana M. Fennell",
+            "party": "DEM",
+            "pct": 48.58
+          }
+        ],
+        "seats": 2,
+        "unopposed": true,
+        "candidates": [
+          {
+            "name": "Robert Julian",
+            "party": "DEM",
+            "votes": 11018,
+            "pct": 50.4
+          },
+          {
+            "name": "Diana M. Fennell",
+            "party": "DEM",
+            "votes": 10621,
+            "pct": 48.58
+          }
+        ]
+      }
+    },
+    "47B": {
+      "districtId": "47B",
+      "districtName": "Maryland House District 47B",
+      "census": {
+        "censusName": "State Legislative Subdistrict 47B (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82826,
+        "medianAge": 32.6,
+        "totalPopulation": 46126,
+        "collegePct": 18.51,
+        "renterRatePct": 61.96,
+        "race": {
+          "whitePct": 6.65,
+          "nonHispanicWhitePct": 4.33,
+          "blackPct": 22.04,
+          "asianPct": 3.09,
+          "hispanicPct": 69.48
+        }
+      },
+      "election": {
+        "winner": "Demi Taveras",
+        "party": "DEM",
+        "pct": 98.1,
+        "seats": 1,
+        "unopposed": true,
+        "candidates": [
+          {
+            "name": "Demi Taveras",
+            "party": "DEM",
+            "votes": 3259,
+            "pct": 98.1
+          }
+        ]
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtId": "1",
+      "districtName": "Maryland Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63350,
+        "medianAge": 43.2,
+        "totalPopulation": 133068,
+        "collegePct": 21.97,
+        "renterRatePct": 26.33,
+        "race": {
+          "whitePct": 89.35,
+          "nonHispanicWhitePct": 88.52,
+          "blackPct": 4.56,
+          "asianPct": 1.09,
+          "hispanicPct": 2.36
+        }
+      },
+      "election": {
+        "winner": "Mike McKay",
+        "party": "REP",
+        "pct": 73.37,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Mike McKay",
+            "party": "REP",
+            "votes": 33258,
+            "pct": 73.37
+          },
+          {
+            "name": "Michael Dresbach",
+            "party": "DEM",
+            "votes": 11995,
+            "pct": 26.46
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 78,
+            "pct": 0.17
+          }
+        ]
+      }
+    },
+    "2": {
+      "districtId": "2",
+      "districtName": "Maryland Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75963,
+        "medianAge": 40.1,
+        "totalPopulation": 133499,
+        "collegePct": 24.32,
+        "renterRatePct": 35.07,
+        "race": {
+          "whitePct": 74.67,
+          "nonHispanicWhitePct": 72.2,
+          "blackPct": 13.08,
+          "asianPct": 1.45,
+          "hispanicPct": 8.09
+        }
+      },
+      "election": {
+        "winner": "Paul D. Corderman",
+        "party": "REP",
+        "pct": 63.84,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Paul D. Corderman",
+            "party": "REP",
+            "votes": 25881,
+            "pct": 63.84
+          },
+          {
+            "name": "Shawn Demetrious Perry",
+            "party": "DEM",
+            "votes": 14629,
+            "pct": 36.08
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 32,
+            "pct": 0.08
+          }
+        ]
+      }
+    },
+    "3": {
+      "districtId": "3",
+      "districtName": "Maryland Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105472,
+        "medianAge": 36.8,
+        "totalPopulation": 129195,
+        "collegePct": 45.84,
+        "renterRatePct": 34.44,
+        "race": {
+          "whitePct": 58.54,
+          "nonHispanicWhitePct": 54.01,
+          "blackPct": 16.29,
+          "asianPct": 6.96,
+          "hispanicPct": 17.4
+        }
+      },
+      "election": {
+        "winner": "Karen Lewis Young",
+        "party": "DEM",
+        "pct": 66.48,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Karen Lewis Young",
+            "party": "DEM",
+            "votes": 27446,
+            "pct": 66.48
+          },
+          {
+            "name": "Angela Ariel McIntosh",
+            "party": "REP",
+            "votes": 13774,
+            "pct": 33.36
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 67,
+            "pct": 0.16
+          }
+        ]
+      }
+    },
+    "4": {
+      "districtId": "4",
+      "districtName": "Maryland Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 143204,
+        "medianAge": 41.1,
+        "totalPopulation": 132518,
+        "collegePct": 45.79,
+        "renterRatePct": 10.93,
+        "race": {
+          "whitePct": 79.72,
+          "nonHispanicWhitePct": 78.01,
+          "blackPct": 5.32,
+          "asianPct": 4.63,
+          "hispanicPct": 8.06
+        }
+      },
+      "election": {
+        "winner": "William Bill Folden",
+        "party": "REP",
+        "pct": 57.54,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "William Bill Folden",
+            "party": "REP",
+            "votes": 32554,
+            "pct": 57.54
+          },
+          {
+            "name": "Carleah M. Summers",
+            "party": "DEM",
+            "votes": 23967,
+            "pct": 42.36
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 60,
+            "pct": 0.11
+          }
+        ]
+      }
+    },
+    "5": {
+      "districtId": "5",
+      "districtName": "Maryland Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116549,
+        "medianAge": 40.4,
+        "totalPopulation": 135015,
+        "collegePct": 40.44,
+        "renterRatePct": 18.48,
+        "race": {
+          "whitePct": 86.22,
+          "nonHispanicWhitePct": 84.46,
+          "blackPct": 4.21,
+          "asianPct": 2.31,
+          "hispanicPct": 5.41
+        }
+      },
+      "election": {
+        "winner": "Justin Ready",
+        "party": "REP",
+        "pct": 64.74,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Justin Ready",
+            "party": "REP",
+            "votes": 26599,
+            "pct": 64.74
+          },
+          {
+            "name": "Oliver White-Iris",
+            "party": "DEM",
+            "votes": 12598,
+            "pct": 30.68
+          }
+        ]
+      }
+    },
+    "6": {
+      "districtId": "6",
+      "districtName": "Maryland Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66704,
+        "medianAge": 39.3,
+        "totalPopulation": 128178,
+        "collegePct": 17.25,
+        "renterRatePct": 35.23,
+        "race": {
+          "whitePct": 63.79,
+          "nonHispanicWhitePct": 61.36,
+          "blackPct": 21.19,
+          "asianPct": 2.06,
+          "hispanicPct": 10.35
+        }
+      },
+      "election": {
+        "winner": "Johnny Ray Salling",
+        "party": "REP",
+        "pct": 61.16,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Johnny Ray Salling",
+            "party": "REP",
+            "votes": 18278,
+            "pct": 61.16
+          },
+          {
+            "name": "Cory G Edwards",
+            "party": "DEM",
+            "votes": 11563,
+            "pct": 38.69
+          }
+        ]
+      }
+    },
+    "7": {
+      "districtId": "7",
+      "districtName": "Maryland Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 114416,
+        "medianAge": 42.2,
+        "totalPopulation": 129739,
+        "collegePct": 42.53,
+        "renterRatePct": 18.69,
+        "race": {
+          "whitePct": 76.63,
+          "nonHispanicWhitePct": 75.11,
+          "blackPct": 11.11,
+          "asianPct": 5.26,
+          "hispanicPct": 4.82
+        }
+      },
+      "election": {
+        "winner": "J. B. Jennings",
+        "party": "REP",
+        "pct": 96.02,
+        "seats": 1,
+        "unopposed": true,
+        "candidates": [
+          {
+            "name": "J. B. Jennings",
+            "party": "REP",
+            "votes": 37513,
+            "pct": 96.02
+          }
+        ]
+      }
+    },
+    "8": {
+      "districtId": "8",
+      "districtName": "Maryland Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84354,
+        "medianAge": 38.2,
+        "totalPopulation": 122927,
+        "collegePct": 34.21,
+        "renterRatePct": 35.32,
+        "race": {
+          "whitePct": 49.31,
+          "nonHispanicWhitePct": 47.88,
+          "blackPct": 33.28,
+          "asianPct": 9.19,
+          "hispanicPct": 5.9
+        }
+      },
+      "election": {
+        "winner": "Kathy Klausmeier",
+        "party": "DEM",
+        "pct": 66.26,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Kathy Klausmeier",
+            "party": "DEM",
+            "votes": 22773,
+            "pct": 66.26
+          },
+          {
+            "name": "Ken Fitch",
+            "party": "REP",
+            "votes": 11554,
+            "pct": 33.62
+          }
+        ]
+      }
+    },
+    "9": {
+      "districtId": "9",
+      "districtName": "Maryland Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 173897,
+        "medianAge": 43,
+        "totalPopulation": 128174,
+        "collegePct": 67.74,
+        "renterRatePct": 18.47,
+        "race": {
+          "whitePct": 56.17,
+          "nonHispanicWhitePct": 54.92,
+          "blackPct": 8.12,
+          "asianPct": 24.85,
+          "hispanicPct": 6.2
+        }
+      },
+      "election": {
+        "winner": "Katie Fry Hester",
+        "party": "DEM",
+        "pct": 57.92,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Katie Fry Hester",
+            "party": "DEM",
+            "votes": 31214,
+            "pct": 57.92
+          },
+          {
+            "name": "Reid J. Novotny",
+            "party": "REP",
+            "votes": 22637,
+            "pct": 42
+          }
+        ]
+      }
+    },
+    "10": {
+      "districtId": "10",
+      "districtName": "Maryland Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96025,
+        "medianAge": 40.7,
+        "totalPopulation": 129941,
+        "collegePct": 42.09,
+        "renterRatePct": 34.05,
+        "race": {
+          "whitePct": 31.87,
+          "nonHispanicWhitePct": 29.96,
+          "blackPct": 53.51,
+          "asianPct": 5.35,
+          "hispanicPct": 7.91
+        }
+      },
+      "election": {
+        "winner": "Ben Brooks",
+        "party": "DEM",
+        "pct": 78.63,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Ben Brooks",
+            "party": "DEM",
+            "votes": 31373,
+            "pct": 78.63
+          },
+          {
+            "name": "William Newton",
+            "party": "REP",
+            "votes": 8460,
+            "pct": 21.2
+          }
+        ]
+      }
+    },
+    "11": {
+      "districtId": "11",
+      "districtName": "Maryland Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105492,
+        "medianAge": 41.3,
+        "totalPopulation": 127969,
+        "collegePct": 60.26,
+        "renterRatePct": 33.6,
+        "race": {
+          "whitePct": 57.63,
+          "nonHispanicWhitePct": 56.13,
+          "blackPct": 28.65,
+          "asianPct": 5.28,
+          "hispanicPct": 6.4
+        }
+      },
+      "election": {
+        "winner": "Shelly Hettleman",
+        "party": "DEM",
+        "pct": 71.46,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Shelly Hettleman",
+            "party": "DEM",
+            "votes": 33409,
+            "pct": 71.46
+          },
+          {
+            "name": "Ruth Goetz",
+            "party": "REP",
+            "votes": 13310,
+            "pct": 28.47
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 34,
+            "pct": 0.07
+          }
+        ]
+      }
+    },
+    "12": {
+      "districtId": "12",
+      "districtName": "Maryland Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113959,
+        "medianAge": 39,
+        "totalPopulation": 129615,
+        "collegePct": 49.75,
+        "renterRatePct": 32.08,
+        "race": {
+          "whitePct": 51.13,
+          "nonHispanicWhitePct": 49.06,
+          "blackPct": 25.48,
+          "asianPct": 9.72,
+          "hispanicPct": 10
+        }
+      },
+      "election": {
+        "winner": "Clarence Lam",
+        "party": "DEM",
+        "pct": 69.97,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Clarence Lam",
+            "party": "DEM",
+            "votes": 30570,
+            "pct": 69.97
+          },
+          {
+            "name": "Bob Cockey",
+            "party": "REP",
+            "votes": 13078,
+            "pct": 29.93
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 44,
+            "pct": 0.1
+          }
+        ]
+      }
+    },
+    "13": {
+      "districtId": "13",
+      "districtName": "Maryland Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 133272,
+        "medianAge": 36.9,
+        "totalPopulation": 136152,
+        "collegePct": 60.4,
+        "renterRatePct": 31.75,
+        "race": {
+          "whitePct": 42.32,
+          "nonHispanicWhitePct": 39.52,
+          "blackPct": 27.7,
+          "asianPct": 15.78,
+          "hispanicPct": 11.49
+        }
+      },
+      "election": {
+        "winner": "Guy Guzzone",
+        "party": "DEM",
+        "pct": 97.14,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Guy Guzzone",
+            "party": "DEM",
+            "votes": 37241,
+            "pct": 97.14
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 1095,
+            "pct": 2.86
+          }
+        ]
+      }
+    },
+    "14": {
+      "districtId": "14",
+      "districtName": "Maryland Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 140155,
+        "medianAge": 41.6,
+        "totalPopulation": 130645,
+        "collegePct": 56.37,
+        "renterRatePct": 21.4,
+        "race": {
+          "whitePct": 42.29,
+          "nonHispanicWhitePct": 39.4,
+          "blackPct": 28.63,
+          "asianPct": 12.29,
+          "hispanicPct": 13.94
+        }
+      },
+      "election": {
+        "winner": "Craig J. Zucker",
+        "party": "DEM",
+        "pct": 73.28,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Craig J. Zucker",
+            "party": "DEM",
+            "votes": 33334,
+            "pct": 73.28
+          },
+          {
+            "name": "Alex Rieber",
+            "party": "REP",
+            "votes": 12099,
+            "pct": 26.6
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 55,
+            "pct": 0.12
+          }
+        ]
+      }
+    },
+    "15": {
+      "districtId": "15",
+      "districtName": "Maryland Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 169492,
+        "medianAge": 42.5,
+        "totalPopulation": 129595,
+        "collegePct": 69.05,
+        "renterRatePct": 20.46,
+        "race": {
+          "whitePct": 47.8,
+          "nonHispanicWhitePct": 43.66,
+          "blackPct": 11.87,
+          "asianPct": 27.18,
+          "hispanicPct": 12.19
+        }
+      },
+      "election": {
+        "winner": "Brian J. Feldman",
+        "party": "DEM",
+        "pct": 73.04,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Brian J. Feldman",
+            "party": "DEM",
+            "votes": 33264,
+            "pct": 73.04
+          },
+          {
+            "name": "David Wilson",
+            "party": "REP",
+            "votes": 12231,
+            "pct": 26.86
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 46,
+            "pct": 0.1
+          }
+        ]
+      }
+    },
+    "16": {
+      "districtId": "16",
+      "districtName": "Maryland Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 185195,
+        "medianAge": 44.9,
+        "totalPopulation": 128201,
+        "collegePct": 85.49,
+        "renterRatePct": 33.84,
+        "race": {
+          "whitePct": 68.64,
+          "nonHispanicWhitePct": 66.04,
+          "blackPct": 6.03,
+          "asianPct": 14.11,
+          "hispanicPct": 8.62
+        }
+      },
+      "election": {
+        "winner": "Susan C. Lee",
+        "party": "DEM",
+        "pct": 97.8,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Susan C. Lee",
+            "party": "DEM",
+            "votes": 44925,
+            "pct": 97.8
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 1012,
+            "pct": 2.2
+          }
+        ]
+      }
+    },
+    "17": {
+      "districtId": "17",
+      "districtName": "Maryland Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113578,
+        "medianAge": 38.5,
+        "totalPopulation": 133479,
+        "collegePct": 58.87,
+        "renterRatePct": 49.46,
+        "race": {
+          "whitePct": 42.66,
+          "nonHispanicWhitePct": 38.77,
+          "blackPct": 13.37,
+          "asianPct": 20.45,
+          "hispanicPct": 23.08
+        }
+      },
+      "election": {
+        "winner": "Cheryl C. Kagan",
+        "party": "DEM",
+        "pct": 97.19,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Cheryl C. Kagan",
+            "party": "DEM",
+            "votes": 31639,
+            "pct": 97.19
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 915,
+            "pct": 2.81
+          }
+        ]
+      }
+    },
+    "18": {
+      "districtId": "18",
+      "districtName": "Maryland Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 127585,
+        "medianAge": 39.8,
+        "totalPopulation": 127257,
+        "collegePct": 59.31,
+        "renterRatePct": 35.82,
+        "race": {
+          "whitePct": 48.21,
+          "nonHispanicWhitePct": 44.03,
+          "blackPct": 14.63,
+          "asianPct": 8.21,
+          "hispanicPct": 27.8
+        }
+      },
+      "election": {
+        "winner": "Jeff Waldstreicher",
+        "party": "DEM",
+        "pct": 82.8,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Jeff Waldstreicher",
+            "party": "DEM",
+            "votes": 34169,
+            "pct": 82.8
+          },
+          {
+            "name": "Missy Carr",
+            "party": "REP",
+            "votes": 6935,
+            "pct": 16.81
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 162,
+            "pct": 0.39
+          }
+        ]
+      }
+    },
+    "19": {
+      "districtId": "19",
+      "districtName": "Maryland Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113141,
+        "medianAge": 40.9,
+        "totalPopulation": 129921,
+        "collegePct": 50.7,
+        "renterRatePct": 27.6,
+        "race": {
+          "whitePct": 40.35,
+          "nonHispanicWhitePct": 36.45,
+          "blackPct": 18.03,
+          "asianPct": 12.57,
+          "hispanicPct": 27.51
+        }
+      },
+      "election": {
+        "winner": "Ben Kramer",
+        "party": "DEM",
+        "pct": 75.5,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Ben Kramer",
+            "party": "DEM",
+            "votes": 29473,
+            "pct": 75.5
+          },
+          {
+            "name": "Anita M. Cox",
+            "party": "REP",
+            "votes": 8804,
+            "pct": 22.55
+          },
+          {
+            "name": "David George",
+            "party": "GRN",
+            "votes": 724,
+            "pct": 1.85
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 34,
+            "pct": 0.09
+          }
+        ]
+      }
+    },
+    "20": {
+      "districtId": "20",
+      "districtName": "Maryland Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101313,
+        "medianAge": 36.3,
+        "totalPopulation": 130157,
+        "collegePct": 55.67,
+        "renterRatePct": 55.42,
+        "race": {
+          "whitePct": 34.18,
+          "nonHispanicWhitePct": 30.84,
+          "blackPct": 33.39,
+          "asianPct": 7.99,
+          "hispanicPct": 23.18
+        }
+      },
+      "election": {
+        "winner": "Will Smith",
+        "party": "DEM",
+        "pct": 98.78,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Will Smith",
+            "party": "DEM",
+            "votes": 34113,
+            "pct": 98.78
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 422,
+            "pct": 1.22
+          }
+        ]
+      }
+    },
+    "21": {
+      "districtId": "21",
+      "districtName": "Maryland Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99088,
+        "medianAge": 32.6,
+        "totalPopulation": 131173,
+        "collegePct": 44.56,
+        "renterRatePct": 45.73,
+        "race": {
+          "whitePct": 30.07,
+          "nonHispanicWhitePct": 27.08,
+          "blackPct": 34.16,
+          "asianPct": 10.49,
+          "hispanicPct": 24.08
+        }
+      },
+      "election": {
+        "winner": "Jim Rosapepe",
+        "party": "DEM",
+        "pct": 79.01,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Jim Rosapepe",
+            "party": "DEM",
+            "votes": 23666,
+            "pct": 79.01
+          },
+          {
+            "name": "Lee Hays",
+            "party": "REP",
+            "votes": 6242,
+            "pct": 20.84
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 46,
+            "pct": 0.15
+          }
+        ]
+      }
+    },
+    "22": {
+      "districtId": "22",
+      "districtName": "Maryland Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93200,
+        "medianAge": 35.7,
+        "totalPopulation": 133758,
+        "collegePct": 36.02,
+        "renterRatePct": 45.7,
+        "race": {
+          "whitePct": 18.06,
+          "nonHispanicWhitePct": 14.11,
+          "blackPct": 42.64,
+          "asianPct": 5.51,
+          "hispanicPct": 33.81
+        }
+      },
+      "election": {
+        "winner": "Paul G. Pinsky",
+        "party": "DEM",
+        "pct": 98.57,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Paul G. Pinsky",
+            "party": "DEM",
+            "votes": 23580,
+            "pct": 98.57
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 343,
+            "pct": 1.43
+          }
+        ]
+      }
+    },
+    "23": {
+      "districtId": "23",
+      "districtName": "Maryland Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131979,
+        "medianAge": 42.1,
+        "totalPopulation": 135290,
+        "collegePct": 48.9,
+        "renterRatePct": 20.7,
+        "race": {
+          "whitePct": 18.82,
+          "nonHispanicWhitePct": 17.97,
+          "blackPct": 66.94,
+          "asianPct": 2.77,
+          "hispanicPct": 7.99
+        }
+      },
+      "election": {
+        "winner": "Ron Watson",
+        "party": "DEM",
+        "pct": 87.37,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Ron Watson",
+            "party": "DEM",
+            "votes": 41343,
+            "pct": 87.37
+          },
+          {
+            "name": "Jesse Peed",
+            "party": "REP",
+            "votes": 5886,
+            "pct": 12.44
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 93,
+            "pct": 0.2
+          }
+        ]
+      }
+    },
+    "24": {
+      "districtId": "24",
+      "districtName": "Maryland Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102614,
+        "medianAge": 40.8,
+        "totalPopulation": 132364,
+        "collegePct": 36.05,
+        "renterRatePct": 34.97,
+        "race": {
+          "whitePct": 6.77,
+          "nonHispanicWhitePct": 5.29,
+          "blackPct": 77,
+          "asianPct": 2.41,
+          "hispanicPct": 12.54
+        }
+      },
+      "election": {
+        "winner": "Joanne C. Benson",
+        "party": "DEM",
+        "pct": 99.19,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Joanne C. Benson",
+            "party": "DEM",
+            "votes": 33668,
+            "pct": 99.19
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 274,
+            "pct": 0.81
+          }
+        ]
+      }
+    },
+    "25": {
+      "districtId": "25",
+      "districtName": "Maryland Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99578,
+        "medianAge": 40.5,
+        "totalPopulation": 131536,
+        "collegePct": 34.62,
+        "renterRatePct": 33.51,
+        "race": {
+          "whitePct": 6.47,
+          "nonHispanicWhitePct": 5.35,
+          "blackPct": 81.07,
+          "asianPct": 1.6,
+          "hispanicPct": 8.73
+        }
+      },
+      "election": {
+        "winner": "Melony G. Griffith",
+        "party": "DEM",
+        "pct": 99.45,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Melony G. Griffith",
+            "party": "DEM",
+            "votes": 35953,
+            "pct": 99.45
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 200,
+            "pct": 0.55
+          }
+        ]
+      }
+    },
+    "26": {
+      "districtId": "26",
+      "districtName": "Maryland Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105328,
+        "medianAge": 42.3,
+        "totalPopulation": 137160,
+        "collegePct": 33.24,
+        "renterRatePct": 32.11,
+        "race": {
+          "whitePct": 9.6,
+          "nonHispanicWhitePct": 7.69,
+          "blackPct": 66.84,
+          "asianPct": 3.44,
+          "hispanicPct": 18.32
+        }
+      },
+      "election": {
+        "winner": "Arthur Van Elst",
+        "party": "DEM",
+        "pct": 67.04,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Arthur Van Elst",
+            "party": "DEM",
+            "votes": 30168,
+            "pct": 67.04
+          },
+          {
+            "name": "Michelle M. Talkington",
+            "party": "REP",
+            "votes": 14765,
+            "pct": 32.81
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 64,
+            "pct": 0.14
+          }
+        ]
+      }
+    },
+    "27": {
+      "districtId": "27",
+      "districtName": "Maryland Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 130722,
+        "medianAge": 41.5,
+        "totalPopulation": 136254,
+        "collegePct": 34.94,
+        "renterRatePct": 12.8,
+        "race": {
+          "whitePct": 51.03,
+          "nonHispanicWhitePct": 49.27,
+          "blackPct": 36.01,
+          "asianPct": 1.9,
+          "hispanicPct": 6.34
+        }
+      },
+      "election": {
+        "winner": "Michael A. Jackson",
+        "party": "DEM",
+        "pct": 60.32,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Michael A. Jackson",
+            "party": "DEM",
+            "votes": 30320,
+            "pct": 60.32
+          },
+          {
+            "name": "Al Larsen",
+            "party": "REP",
+            "votes": 19892,
+            "pct": 39.58
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 51,
+            "pct": 0.1
+          }
+        ]
+      }
+    },
+    "28": {
+      "districtId": "28",
+      "districtName": "Maryland Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 122391,
+        "medianAge": 39,
+        "totalPopulation": 139066,
+        "collegePct": 31.7,
+        "renterRatePct": 17.89,
+        "race": {
+          "whitePct": 35.95,
+          "nonHispanicWhitePct": 34.25,
+          "blackPct": 48.63,
+          "asianPct": 3.48,
+          "hispanicPct": 7.41
+        }
+      },
+      "election": {
+        "winner": "C. Anthony Muse",
+        "party": "DEM",
+        "pct": 92.29,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "C. Anthony Muse",
+            "party": "DEM",
+            "votes": 33314,
+            "pct": 92.29
+          },
+          {
+            "name": "Ike Puzon",
+            "party": "REP",
+            "votes": 2645,
+            "pct": 7.33
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 138,
+            "pct": 0.38
+          }
+        ]
+      }
+    },
+    "29": {
+      "districtId": "29",
+      "districtName": "Maryland Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 114136,
+        "medianAge": 37.1,
+        "totalPopulation": 136325,
+        "collegePct": 34.5,
+        "renterRatePct": 25.41,
+        "race": {
+          "whitePct": 72.92,
+          "nonHispanicWhitePct": 71.22,
+          "blackPct": 14.71,
+          "asianPct": 2.54,
+          "hispanicPct": 5.91
+        }
+      },
+      "election": {
+        "winner": "Jack Bailey",
+        "party": "REP",
+        "pct": 96.35,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Jack Bailey",
+            "party": "REP",
+            "votes": 33101,
+            "pct": 96.35
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 1254,
+            "pct": 3.65
+          }
+        ]
+      }
+    },
+    "30": {
+      "districtId": "30",
+      "districtName": "Maryland Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 121563,
+        "medianAge": 43.6,
+        "totalPopulation": 127372,
+        "collegePct": 53.05,
+        "renterRatePct": 25.42,
+        "race": {
+          "whitePct": 75.43,
+          "nonHispanicWhitePct": 72.3,
+          "blackPct": 10.61,
+          "asianPct": 2.06,
+          "hispanicPct": 11.53
+        }
+      },
+      "election": {
+        "winner": "Sarah Elfreth",
+        "party": "DEM",
+        "pct": 57.39,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Sarah Elfreth",
+            "party": "DEM",
+            "votes": 30359,
+            "pct": 57.39
+          },
+          {
+            "name": "Stacie MacDonald",
+            "party": "REP",
+            "votes": 22489,
+            "pct": 42.51
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 49,
+            "pct": 0.09
+          }
+        ]
+      }
+    },
+    "31": {
+      "districtId": "31",
+      "districtName": "Maryland Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 126713,
+        "medianAge": 39.6,
+        "totalPopulation": 129133,
+        "collegePct": 39.82,
+        "renterRatePct": 13.8,
+        "race": {
+          "whitePct": 76.64,
+          "nonHispanicWhitePct": 74.67,
+          "blackPct": 9.66,
+          "asianPct": 3.62,
+          "hispanicPct": 6.4
+        }
+      },
+      "election": {
+        "winner": "Bryan W. Simonaire",
+        "party": "REP",
+        "pct": 71.25,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Bryan W. Simonaire",
+            "party": "REP",
+            "votes": 32215,
+            "pct": 71.25
+          },
+          {
+            "name": "Brian W. Kunkoski",
+            "party": "LIB",
+            "votes": 12318,
+            "pct": 27.24
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 681,
+            "pct": 1.51
+          }
+        ]
+      }
+    },
+    "32": {
+      "districtId": "32",
+      "districtName": "Maryland Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105755,
+        "medianAge": 34.9,
+        "totalPopulation": 139022,
+        "collegePct": 38.24,
+        "renterRatePct": 39.5,
+        "race": {
+          "whitePct": 43.03,
+          "nonHispanicWhitePct": 41.35,
+          "blackPct": 33.19,
+          "asianPct": 6.22,
+          "hispanicPct": 12.6
+        }
+      },
+      "election": {
+        "winner": "Pamela Beidle",
+        "party": "DEM",
+        "pct": 65.75,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Pamela Beidle",
+            "party": "DEM",
+            "votes": 23380,
+            "pct": 65.75
+          },
+          {
+            "name": "Kimberly Ann June",
+            "party": "REP",
+            "votes": 12103,
+            "pct": 34.04
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 76,
+            "pct": 0.21
+          }
+        ]
+      }
+    },
+    "33": {
+      "districtId": "33",
+      "districtName": "Maryland Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 139266,
+        "medianAge": 39.6,
+        "totalPopulation": 134770,
+        "collegePct": 55.26,
+        "renterRatePct": 21.07,
+        "race": {
+          "whitePct": 71.18,
+          "nonHispanicWhitePct": 68.42,
+          "blackPct": 12.61,
+          "asianPct": 4.53,
+          "hispanicPct": 8.04
+        }
+      },
+      "election": {
+        "winner": "Dawn D. Gile",
+        "party": "DEM",
+        "pct": 55.41,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Dawn D. Gile",
+            "party": "DEM",
+            "votes": 30807,
+            "pct": 55.41
+          },
+          {
+            "name": "Sid Saab",
+            "party": "REP",
+            "votes": 24730,
+            "pct": 44.48
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 60,
+            "pct": 0.11
+          }
+        ]
+      }
+    },
+    "34": {
+      "districtId": "34",
+      "districtName": "Maryland Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101085,
+        "medianAge": 38.6,
+        "totalPopulation": 133902,
+        "collegePct": 36.35,
+        "renterRatePct": 27.93,
+        "race": {
+          "whitePct": 61.86,
+          "nonHispanicWhitePct": 59.59,
+          "blackPct": 24.04,
+          "asianPct": 3.53,
+          "hispanicPct": 7.46
+        }
+      },
+      "election": {
+        "winner": "Mary-Dulany James",
+        "party": "DEM",
+        "pct": 50.55,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Mary-Dulany James",
+            "party": "DEM",
+            "votes": 22858,
+            "pct": 50.55
+          },
+          {
+            "name": "Christian Miele",
+            "party": "REP",
+            "votes": 22267,
+            "pct": 49.24
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 98,
+            "pct": 0.22
+          }
+        ]
+      }
+    },
+    "35": {
+      "districtId": "35",
+      "districtName": "Maryland Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111930,
+        "medianAge": 42,
+        "totalPopulation": 132095,
+        "collegePct": 35.85,
+        "renterRatePct": 14.12,
+        "race": {
+          "whitePct": 87.62,
+          "nonHispanicWhitePct": 86.36,
+          "blackPct": 4.57,
+          "asianPct": 1.57,
+          "hispanicPct": 3.81
+        }
+      },
+      "election": {
+        "winner": "Jason C. Gallion",
+        "party": "REP",
+        "pct": 96.86,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Jason C. Gallion",
+            "party": "REP",
+            "votes": 42913,
+            "pct": 96.86
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 1391,
+            "pct": 3.14
+          }
+        ]
+      }
+    },
+    "36": {
+      "districtId": "36",
+      "districtName": "Maryland Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92539,
+        "medianAge": 42.9,
+        "totalPopulation": 138100,
+        "collegePct": 31.66,
+        "renterRatePct": 24.36,
+        "race": {
+          "whitePct": 80.63,
+          "nonHispanicWhitePct": 79.05,
+          "blackPct": 8.3,
+          "asianPct": 1.2,
+          "hispanicPct": 6.79
+        }
+      },
+      "election": {
+        "winner": "Stephen S. Hershey, Jr.",
+        "party": "REP",
+        "pct": 96.28,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Stephen S. Hershey, Jr.",
+            "party": "REP",
+            "votes": 36806,
+            "pct": 96.28
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 1424,
+            "pct": 3.72
+          }
+        ]
+      }
+    },
+    "37": {
+      "districtId": "37",
+      "districtName": "Maryland Senate District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70029,
+        "medianAge": 43.3,
+        "totalPopulation": 132481,
+        "collegePct": 27.85,
+        "renterRatePct": 33.62,
+        "race": {
+          "whitePct": 65.08,
+          "nonHispanicWhitePct": 64.24,
+          "blackPct": 23.49,
+          "asianPct": 1.21,
+          "hispanicPct": 6.33
+        }
+      },
+      "election": {
+        "winner": "Johnny Mautz",
+        "party": "REP",
+        "pct": 60.8,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Johnny Mautz",
+            "party": "REP",
+            "votes": 29432,
+            "pct": 60.8
+          },
+          {
+            "name": "Naomi Hyman",
+            "party": "DEM",
+            "votes": 18930,
+            "pct": 39.1
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 47,
+            "pct": 0.1
+          }
+        ]
+      }
+    },
+    "38": {
+      "districtId": "38",
+      "districtName": "Maryland Senate District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74184,
+        "medianAge": 41.5,
+        "totalPopulation": 140383,
+        "collegePct": 29.39,
+        "renterRatePct": 30.84,
+        "race": {
+          "whitePct": 68.51,
+          "nonHispanicWhitePct": 67.04,
+          "blackPct": 20.63,
+          "asianPct": 2.18,
+          "hispanicPct": 5.56
+        }
+      },
+      "election": {
+        "winner": "Mary Beth Carozza",
+        "party": "REP",
+        "pct": 66.42,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Mary Beth Carozza",
+            "party": "REP",
+            "votes": 32277,
+            "pct": 66.42
+          },
+          {
+            "name": "Michele Gregory",
+            "party": "DEM",
+            "votes": 16273,
+            "pct": 33.49
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 45,
+            "pct": 0.09
+          }
+        ]
+      }
+    },
+    "39": {
+      "districtId": "39",
+      "districtName": "Maryland Senate District 39",
+      "census": {
+        "censusName": "State Senate District 39 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 110367,
+        "medianAge": 37.7,
+        "totalPopulation": 132846,
+        "collegePct": 47.49,
+        "renterRatePct": 30.84,
+        "race": {
+          "whitePct": 30.27,
+          "nonHispanicWhitePct": 23.66,
+          "blackPct": 23.29,
+          "asianPct": 18.84,
+          "hispanicPct": 29.13
+        }
+      },
+      "election": {
+        "winner": "Nancy J. King",
+        "party": "DEM",
+        "pct": 86.18,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Nancy J. King",
+            "party": "DEM",
+            "votes": 25188,
+            "pct": 86.18
+          },
+          {
+            "name": "Moshe Landman",
+            "party": "GRN",
+            "votes": 3582,
+            "pct": 12.26
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 457,
+            "pct": 1.56
+          }
+        ]
+      }
+    },
+    "40": {
+      "districtId": "40",
+      "districtName": "Maryland Senate District 40",
+      "census": {
+        "censusName": "State Senate District 40 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46166,
+        "medianAge": 37.3,
+        "totalPopulation": 121080,
+        "collegePct": 27.4,
+        "renterRatePct": 62.91,
+        "race": {
+          "whitePct": 21.2,
+          "nonHispanicWhitePct": 20.25,
+          "blackPct": 69.07,
+          "asianPct": 2.2,
+          "hispanicPct": 4.65
+        }
+      },
+      "election": {
+        "winner": "Antonio Hayes",
+        "party": "DEM",
+        "pct": 91.94,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Antonio Hayes",
+            "party": "DEM",
+            "votes": 24236,
+            "pct": 91.94
+          },
+          {
+            "name": "Christopher Anderson",
+            "party": "REP",
+            "votes": 2058,
+            "pct": 7.81
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 66,
+            "pct": 0.25
+          }
+        ]
+      }
+    },
+    "41": {
+      "districtId": "41",
+      "districtName": "Maryland Senate District 41",
+      "census": {
+        "censusName": "State Senate District 41 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60261,
+        "medianAge": 38.1,
+        "totalPopulation": 129971,
+        "collegePct": 34.02,
+        "renterRatePct": 45.77,
+        "race": {
+          "whitePct": 25.31,
+          "nonHispanicWhitePct": 24.4,
+          "blackPct": 64.04,
+          "asianPct": 1.99,
+          "hispanicPct": 6
+        }
+      },
+      "election": {
+        "winner": "Jill P. Carter",
+        "party": "DEM",
+        "pct": 98.2,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Jill P. Carter",
+            "party": "DEM",
+            "votes": 29882,
+            "pct": 98.2
+          }
+        ]
+      }
+    },
+    "42": {
+      "districtId": "42",
+      "districtName": "Maryland Senate District 42",
+      "census": {
+        "censusName": "State Senate District 42 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 117666,
+        "medianAge": 43.7,
+        "totalPopulation": 124755,
+        "collegePct": 51.28,
+        "renterRatePct": 22.57,
+        "race": {
+          "whitePct": 81.15,
+          "nonHispanicWhitePct": 79.74,
+          "blackPct": 7,
+          "asianPct": 4.37,
+          "hispanicPct": 5.43
+        }
+      },
+      "election": {
+        "winner": "Chris West",
+        "party": "REP",
+        "pct": 95.51,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Chris West",
+            "party": "REP",
+            "votes": 37944,
+            "pct": 95.51
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 1785,
+            "pct": 4.49
+          }
+        ]
+      }
+    },
+    "43": {
+      "districtId": "43",
+      "districtName": "Maryland Senate District 43",
+      "census": {
+        "censusName": "State Senate District 43 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71837,
+        "medianAge": 34.4,
+        "totalPopulation": 127663,
+        "collegePct": 49.09,
+        "renterRatePct": 47.9,
+        "race": {
+          "whitePct": 37.41,
+          "nonHispanicWhitePct": 35.96,
+          "blackPct": 49.35,
+          "asianPct": 5.13,
+          "hispanicPct": 5.95
+        }
+      },
+      "election": {
+        "winner": "Mary Washington",
+        "party": "DEM",
+        "pct": 90.31,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Mary Washington",
+            "party": "DEM",
+            "votes": 32333,
+            "pct": 90.31
+          },
+          {
+            "name": "Bob Gemmill",
+            "party": "LIB",
+            "votes": 3339,
+            "pct": 9.33
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 129,
+            "pct": 0.36
+          }
+        ]
+      }
+    },
+    "44": {
+      "districtId": "44",
+      "districtName": "Maryland Senate District 44",
+      "census": {
+        "censusName": "State Senate District 44 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82233,
+        "medianAge": 37.4,
+        "totalPopulation": 132440,
+        "collegePct": 35.11,
+        "renterRatePct": 34.8,
+        "race": {
+          "whitePct": 38.35,
+          "nonHispanicWhitePct": 36.78,
+          "blackPct": 42.17,
+          "asianPct": 8.06,
+          "hispanicPct": 9.08
+        }
+      },
+      "election": {
+        "winner": "Charles E. Sydnor, III",
+        "party": "DEM",
+        "pct": 97.48,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Charles E. Sydnor, III",
+            "party": "DEM",
+            "votes": 30699,
+            "pct": 97.48
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 792,
+            "pct": 2.52
+          }
+        ]
+      }
+    },
+    "45": {
+      "districtId": "45",
+      "districtName": "Maryland Senate District 45",
+      "census": {
+        "censusName": "State Senate District 45 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55428,
+        "medianAge": 37.7,
+        "totalPopulation": 122291,
+        "collegePct": 24.91,
+        "renterRatePct": 47.21,
+        "race": {
+          "whitePct": 16.88,
+          "nonHispanicWhitePct": 16.37,
+          "blackPct": 74.28,
+          "asianPct": 1.08,
+          "hispanicPct": 5.37
+        }
+      },
+      "election": {
+        "winner": "Cory V. McCray",
+        "party": "DEM",
+        "pct": 98.8,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Cory V. McCray",
+            "party": "DEM",
+            "votes": 24903,
+            "pct": 98.8
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 302,
+            "pct": 1.2
+          }
+        ]
+      }
+    },
+    "46": {
+      "districtId": "46",
+      "districtName": "Maryland Senate District 46",
+      "census": {
+        "censusName": "State Senate District 46 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78132,
+        "medianAge": 32.8,
+        "totalPopulation": 118633,
+        "collegePct": 51.18,
+        "renterRatePct": 56.94,
+        "race": {
+          "whitePct": 49.5,
+          "nonHispanicWhitePct": 46.81,
+          "blackPct": 28.9,
+          "asianPct": 3.68,
+          "hispanicPct": 17.13
+        }
+      },
+      "election": {
+        "winner": "Bill Ferguson",
+        "party": "DEM",
+        "pct": 84.63,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Bill Ferguson",
+            "party": "DEM",
+            "votes": 24977,
+            "pct": 84.63
+          },
+          {
+            "name": "Emmanuel Digman",
+            "party": "REP",
+            "votes": 4486,
+            "pct": 15.2
+          }
+        ]
+      }
+    },
+    "47": {
+      "districtId": "47",
+      "districtName": "Maryland Senate District 47",
+      "census": {
+        "censusName": "State Senate District 47 (2022); Maryland",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76363,
+        "medianAge": 34.4,
+        "totalPopulation": 135630,
+        "collegePct": 22.94,
+        "renterRatePct": 58.72,
+        "race": {
+          "whitePct": 8.5,
+          "nonHispanicWhitePct": 5.82,
+          "blackPct": 41.34,
+          "asianPct": 2.1,
+          "hispanicPct": 48.53
+        }
+      },
+      "election": {
+        "winner": "Malcolm Augustine",
+        "party": "DEM",
+        "pct": 98.78,
+        "seats": 1,
+        "unopposed": false,
+        "candidates": [
+          {
+            "name": "Malcolm Augustine",
+            "party": "DEM",
+            "votes": 16416,
+            "pct": 98.78
+          },
+          {
+            "name": "Other Write-Ins",
+            "party": "TBD",
+            "votes": 202,
+            "pct": 1.22
+          }
+        ]
+      }
+    }
+  }
+}

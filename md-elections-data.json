@@ -1,0 +1,3517 @@
+{
+  "house": {
+    "3": {
+      "winners": [
+        {
+          "name": "Ken Kerr",
+          "party": "DEM",
+          "pct": 24.91
+        },
+        {
+          "name": "Karen Simpson",
+          "party": "DEM",
+          "pct": 24.6
+        },
+        {
+          "name": "Kris Fair",
+          "party": "DEM",
+          "pct": 24.27
+        }
+      ],
+      "seats": 3,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Ken Kerr",
+          "party": "DEM",
+          "votes": 26270,
+          "pct": 24.91
+        },
+        {
+          "name": "Karen Simpson",
+          "party": "DEM",
+          "votes": 25945,
+          "pct": 24.6
+        },
+        {
+          "name": "Kris Fair",
+          "party": "DEM",
+          "votes": 25602,
+          "pct": 24.27
+        },
+        {
+          "name": "Kathy Diener",
+          "party": "REP",
+          "votes": 13699,
+          "pct": 12.99
+        },
+        {
+          "name": "Jacqueline Wagener",
+          "party": "REP",
+          "votes": 13535,
+          "pct": 12.83
+        }
+      ]
+    },
+    "4": {
+      "winners": [
+        {
+          "name": "Jesse T. Pippy",
+          "party": "REP",
+          "pct": 19.09
+        },
+        {
+          "name": "Ciliberto",
+          "party": "REP",
+          "pct": 18.5
+        },
+        {
+          "name": "Colt",
+          "party": "REP",
+          "pct": 18.5
+        }
+      ],
+      "seats": 3,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Jesse T. Pippy",
+          "party": "REP",
+          "votes": 30670,
+          "pct": 19.09
+        },
+        {
+          "name": "Ciliberto",
+          "party": "REP",
+          "votes": 29717,
+          "pct": 18.5
+        },
+        {
+          "name": "Colt",
+          "party": "REP",
+          "votes": 29717,
+          "pct": 18.5
+        },
+        {
+          "name": "Barrie S.",
+          "party": "REP",
+          "votes": 29705,
+          "pct": 18.49
+        },
+        {
+          "name": "Andrew Duck",
+          "party": "DEM",
+          "votes": 24489,
+          "pct": 15.24
+        },
+        {
+          "name": "Millicent A. Hall",
+          "party": "DEM",
+          "votes": 23361,
+          "pct": 14.54
+        },
+        {
+          "name": "Brandon Duck",
+          "party": "DEM",
+          "votes": 22628,
+          "pct": 14.08
+        }
+      ]
+    },
+    "5": {
+      "winners": [
+        {
+          "name": "April Rose",
+          "party": "REP",
+          "pct": 33.11
+        },
+        {
+          "name": "Christopher Eric Boutcher",
+          "party": "REP",
+          "pct": 32.44
+        },
+        {
+          "name": "Chris Tomlinson",
+          "party": "REP",
+          "pct": 31.66
+        }
+      ],
+      "seats": 3,
+      "unopposed": true,
+      "candidates": [
+        {
+          "name": "April Rose",
+          "party": "REP",
+          "votes": 33971,
+          "pct": 33.11
+        },
+        {
+          "name": "Christopher Eric Boutcher",
+          "party": "REP",
+          "votes": 33286,
+          "pct": 32.44
+        },
+        {
+          "name": "Chris Tomlinson",
+          "party": "REP",
+          "votes": 32485,
+          "pct": 31.66
+        }
+      ]
+    },
+    "8": {
+      "winners": [
+        {
+          "name": "Lauren Arikan",
+          "party": "REP",
+          "pct": 67.23
+        },
+        {
+          "name": "Medford J. Campbell",
+          "party": "DEM",
+          "pct": 32.62
+        }
+      ],
+      "seats": 3,
+      "unopposed": true,
+      "candidates": [
+        {
+          "name": "Lauren Arikan",
+          "party": "REP",
+          "votes": 12915,
+          "pct": 67.23
+        },
+        {
+          "name": "Medford J. Campbell",
+          "party": "DEM",
+          "votes": 6267,
+          "pct": 32.62
+        }
+      ]
+    },
+    "13": {
+      "winners": [
+        {
+          "name": "Vanessa Atterbeary",
+          "party": "DEM",
+          "pct": 27.85
+        },
+        {
+          "name": "Guzzone",
+          "party": "DEM",
+          "pct": 26.35
+        },
+        {
+          "name": "Joan Manuian",
+          "party": "DEM",
+          "pct": 26.24
+        }
+      ],
+      "seats": 3,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Vanessa Atterbeary",
+          "party": "DEM",
+          "votes": 33045,
+          "pct": 27.85
+        },
+        {
+          "name": "Guzzone",
+          "party": "DEM",
+          "votes": 31259,
+          "pct": 26.35
+        },
+        {
+          "name": "Joan Manuian",
+          "party": "DEM",
+          "votes": 31128,
+          "pct": 26.24
+        },
+        {
+          "name": "Chris Yates",
+          "party": "REP",
+          "votes": 11874,
+          "pct": 10.01
+        },
+        {
+          "name": "Padraic Walsh",
+          "party": "REP",
+          "votes": 10792,
+          "pct": 9.1
+        }
+      ]
+    },
+    "14": {
+      "winners": [
+        {
+          "name": "Anne R.",
+          "party": "DEM",
+          "pct": 26.89
+        },
+        {
+          "name": "Koser",
+          "party": "DEM",
+          "pct": 25.94
+        },
+        {
+          "name": "Pamela Queen",
+          "party": "DEM",
+          "pct": 25.73
+        }
+      ],
+      "seats": 3,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Anne R.",
+          "party": "DEM",
+          "votes": 31659,
+          "pct": 26.89
+        },
+        {
+          "name": "Koser",
+          "party": "DEM",
+          "votes": 30547,
+          "pct": 25.94
+        },
+        {
+          "name": "Pamela Queen",
+          "party": "DEM",
+          "votes": 30304,
+          "pct": 25.73
+        },
+        {
+          "name": "Kathy Gugulis",
+          "party": "REP",
+          "votes": 12614,
+          "pct": 10.71
+        },
+        {
+          "name": "Kate Walshe",
+          "party": "REP",
+          "votes": 12282,
+          "pct": 10.43
+        }
+      ]
+    },
+    "15": {
+      "winners": [
+        {
+          "name": "Hidalgo",
+          "party": "DEM",
+          "pct": 24.55
+        },
+        {
+          "name": "Lily Qi",
+          "party": "DEM",
+          "pct": 24.55
+        },
+        {
+          "name": "Linda Foley",
+          "party": "DEM",
+          "pct": 24.44
+        }
+      ],
+      "seats": 3,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Hidalgo",
+          "party": "DEM",
+          "votes": 31145,
+          "pct": 24.55
+        },
+        {
+          "name": "Lily Qi",
+          "party": "DEM",
+          "votes": 31145,
+          "pct": 24.55
+        },
+        {
+          "name": "Linda Foley",
+          "party": "DEM",
+          "votes": 31007,
+          "pct": 24.44
+        },
+        {
+          "name": "David Prouty",
+          "party": "DEM",
+          "votes": 30229,
+          "pct": 23.83
+        },
+        {
+          "name": "Stacey Sauter",
+          "party": "REP",
+          "votes": 11969,
+          "pct": 9.43
+        },
+        {
+          "name": "Matt Waide",
+          "party": "REP",
+          "votes": 11330,
+          "pct": 8.93
+        },
+        {
+          "name": "Jodi Colella Noah",
+          "party": "REP",
+          "votes": 11087,
+          "pct": 8.74
+        }
+      ]
+    },
+    "16": {
+      "winners": [
+        {
+          "name": "Ariana Kelly",
+          "party": "DEM",
+          "pct": 33.06
+        },
+        {
+          "name": "Marc Norman",
+          "party": "DEM",
+          "pct": 32.99
+        },
+        {
+          "name": "Sara N. Love",
+          "party": "DEM",
+          "pct": 32.7
+        }
+      ],
+      "seats": 3,
+      "unopposed": true,
+      "candidates": [
+        {
+          "name": "Ariana Kelly",
+          "party": "DEM",
+          "votes": 41600,
+          "pct": 33.06
+        },
+        {
+          "name": "Marc Norman",
+          "party": "DEM",
+          "votes": 41506,
+          "pct": 32.99
+        },
+        {
+          "name": "Sara N. Love",
+          "party": "DEM",
+          "votes": 41153,
+          "pct": 32.7
+        }
+      ]
+    },
+    "17": {
+      "winners": [
+        {
+          "name": "Julie Palakovich Carr",
+          "party": "DEM",
+          "pct": 28.58
+        },
+        {
+          "name": "Murray Barany Jr.",
+          "party": "DEM",
+          "pct": 28.11
+        },
+        {
+          "name": "Joe Vogel",
+          "party": "DEM",
+          "pct": 27.53
+        }
+      ],
+      "seats": 3,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Julie Palakovich Carr",
+          "party": "DEM",
+          "votes": 28464,
+          "pct": 28.58
+        },
+        {
+          "name": "Murray Barany Jr.",
+          "party": "DEM",
+          "votes": 27996,
+          "pct": 28.11
+        },
+        {
+          "name": "Joe Vogel",
+          "party": "DEM",
+          "votes": 27415,
+          "pct": 27.53
+        },
+        {
+          "name": "Helene F. Meister",
+          "party": "REP",
+          "votes": 7835,
+          "pct": 7.87
+        },
+        {
+          "name": "Donald DP Parrı",
+          "party": "REP",
+          "votes": 7560,
+          "pct": 7.59
+        },
+        {
+          "name": "Oliver Whetstone",
+          "party": "DEM",
+          "votes": 324,
+          "pct": 0.33
+        }
+      ]
+    },
+    "18": {
+      "winners": [
+        {
+          "name": "Kaufman",
+          "party": "DEM",
+          "pct": 30.98
+        },
+        {
+          "name": "Emily Shetty",
+          "party": "DEM",
+          "pct": 30.98
+        },
+        {
+          "name": "Arron M.",
+          "party": "DEM",
+          "pct": 29.31
+        }
+      ],
+      "seats": 3,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Kaufman",
+          "party": "DEM",
+          "votes": 32621,
+          "pct": 30.98
+        },
+        {
+          "name": "Emily Shetty",
+          "party": "DEM",
+          "votes": 32621,
+          "pct": 30.98
+        },
+        {
+          "name": "Arron M.",
+          "party": "DEM",
+          "votes": 30860,
+          "pct": 29.31
+        },
+        {
+          "name": "Jared Schroeder",
+          "party": "DEM",
+          "votes": 30711,
+          "pct": 29.17
+        },
+        {
+          "name": "George M. Cecala",
+          "party": "REP",
+          "votes": 7390,
+          "pct": 7.02
+        },
+        {
+          "name": "Jon Foreman",
+          "party": "GRN",
+          "votes": 3422,
+          "pct": 3.25
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 292,
+          "pct": 0.28
+        }
+      ]
+    },
+    "19": {
+      "winners": [
+        {
+          "name": "Mary A. Lehman",
+          "party": "DEM",
+          "pct": 33.63
+        },
+        {
+          "name": "Josslyn K. Popp",
+          "party": "DEM",
+          "pct": 32.86
+        },
+        {
+          "name": "Ben Barnes",
+          "party": "DEM",
+          "pct": 32.42
+        }
+      ],
+      "seats": 3,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Mary A. Lehman",
+          "party": "DEM",
+          "votes": 22333,
+          "pct": 33.63
+        },
+        {
+          "name": "Josslyn K. Popp",
+          "party": "DEM",
+          "votes": 21821,
+          "pct": 32.86
+        },
+        {
+          "name": "Ben Barnes",
+          "party": "DEM",
+          "votes": 21531,
+          "pct": 32.42
+        },
+        {
+          "name": "Melynk",
+          "party": "DEM",
+          "votes": 730,
+          "pct": 1.08
+        }
+      ]
+    },
+    "20": {
+      "winners": [
+        {
+          "name": "David Moon",
+          "party": "DEM",
+          "pct": 33.78
+        },
+        {
+          "name": "Jheanelle Wilkins",
+          "party": "DEM",
+          "pct": 33.11
+        },
+        {
+          "name": "Long Charkoudian",
+          "party": "DEM",
+          "pct": 32.32
+        }
+      ],
+      "seats": 3,
+      "unopposed": true,
+      "candidates": [
+        {
+          "name": "David Moon",
+          "party": "DEM",
+          "votes": 31489,
+          "pct": 33.78
+        },
+        {
+          "name": "Jheanelle Wilkins",
+          "party": "DEM",
+          "votes": 30862,
+          "pct": 33.11
+        },
+        {
+          "name": "Long Charkoudian",
+          "party": "DEM",
+          "votes": 30130,
+          "pct": 32.32
+        }
+      ]
+    },
+    "21": {
+      "winners": [
+        {
+          "name": "Charlotte",
+          "party": "DEM",
+          "pct": 30.1
+        },
+        {
+          "name": "Crutchfield",
+          "party": "DEM",
+          "pct": 29.74
+        },
+        {
+          "name": "Bonnie Cullison",
+          "party": "DEM",
+          "pct": 29.74
+        }
+      ],
+      "seats": 3,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Charlotte",
+          "party": "DEM",
+          "votes": 28083,
+          "pct": 30.1
+        },
+        {
+          "name": "Crutchfield",
+          "party": "DEM",
+          "votes": 27747,
+          "pct": 29.74
+        },
+        {
+          "name": "Bonnie Cullison",
+          "party": "DEM",
+          "votes": 27747,
+          "pct": 29.74
+        },
+        {
+          "name": "Vaughn Stewart",
+          "party": "DEM",
+          "votes": 27033,
+          "pct": 28.98
+        },
+        {
+          "name": "Frank Nice",
+          "party": "REP",
+          "votes": 10035,
+          "pct": 10.76
+        }
+      ]
+    },
+    "22": {
+      "winners": [
+        {
+          "name": "Alonzo T.",
+          "party": "DEM",
+          "pct": 34.47
+        },
+        {
+          "name": "Washington",
+          "party": "DEM",
+          "pct": 33.08
+        },
+        {
+          "name": "Nicole A. Williams",
+          "party": "DEM",
+          "pct": 33.08
+        }
+      ],
+      "seats": 3,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Alonzo T.",
+          "party": "DEM",
+          "votes": 21165,
+          "pct": 34.47
+        },
+        {
+          "name": "Washington",
+          "party": "DEM",
+          "votes": 20311,
+          "pct": 33.08
+        },
+        {
+          "name": "Nicole A. Williams",
+          "party": "DEM",
+          "votes": 20311,
+          "pct": 33.08
+        },
+        {
+          "name": "Anne Healey",
+          "party": "DEM",
+          "votes": 19036,
+          "pct": 31
+        }
+      ]
+    },
+    "23": {
+      "winners": [
+        {
+          "name": "Alonzo T. Washington",
+          "party": "DEM",
+          "pct": 34.47
+        },
+        {
+          "name": "Nicole A. Williams",
+          "party": "DEM",
+          "pct": 33.08
+        },
+        {
+          "name": "Anne Healey",
+          "party": "DEM",
+          "pct": 31
+        }
+      ],
+      "seats": 3,
+      "unopposed": true,
+      "candidates": [
+        {
+          "name": "Alonzo T. Washington",
+          "party": "DEM",
+          "votes": 21165,
+          "pct": 34.47
+        },
+        {
+          "name": "Nicole A. Williams",
+          "party": "DEM",
+          "votes": 20311,
+          "pct": 33.08
+        },
+        {
+          "name": "Anne Healey",
+          "party": "DEM",
+          "votes": 19036,
+          "pct": 31
+        }
+      ]
+    },
+    "24": {
+      "winners": [
+        {
+          "name": "Tiffany T. Alston",
+          "party": "DEM",
+          "pct": 33.6
+        },
+        {
+          "name": "Andrea Fletcher Harrison",
+          "party": "DEM",
+          "pct": 33.21
+        },
+        {
+          "name": "Jazz M. Lewis",
+          "party": "DEM",
+          "pct": 32.66
+        }
+      ],
+      "seats": 3,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Tiffany T. Alston",
+          "party": "DEM",
+          "votes": 29212,
+          "pct": 33.6
+        },
+        {
+          "name": "Andrea Fletcher Harrison",
+          "party": "DEM",
+          "votes": 28880,
+          "pct": 33.21
+        },
+        {
+          "name": "Jazz M. Lewis",
+          "party": "DEM",
+          "votes": 28396,
+          "pct": 32.66
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 461,
+          "pct": 0.53
+        }
+      ]
+    },
+    "25": {
+      "winners": [
+        {
+          "name": "Darryl Barnes",
+          "party": "DEM",
+          "pct": 34.43
+        },
+        {
+          "name": "Karen Toles",
+          "party": "DEM",
+          "pct": 33.33
+        },
+        {
+          "name": "Nick Charles",
+          "party": "DEM",
+          "pct": 31.85
+        }
+      ],
+      "seats": 3,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Darryl Barnes",
+          "party": "DEM",
+          "votes": 31906,
+          "pct": 34.43
+        },
+        {
+          "name": "Karen Toles",
+          "party": "DEM",
+          "votes": 30886,
+          "pct": 33.33
+        },
+        {
+          "name": "Nick Charles",
+          "party": "DEM",
+          "votes": 29519,
+          "pct": 31.85
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 356,
+          "pct": 0.38
+        }
+      ]
+    },
+    "26": {
+      "winners": [
+        {
+          "name": "Veronica Turner",
+          "party": "DEM",
+          "pct": 33.75
+        },
+        {
+          "name": "Jamal J. Woods",
+          "party": "DEM",
+          "pct": 32.37
+        },
+        {
+          "name": "Kricelia Underwood",
+          "party": "DEM",
+          "pct": 29.87
+        }
+      ],
+      "seats": 3,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Veronica Turner",
+          "party": "DEM",
+          "votes": 30577,
+          "pct": 33.75
+        },
+        {
+          "name": "Jamal J. Woods",
+          "party": "DEM",
+          "votes": 29324,
+          "pct": 32.37
+        },
+        {
+          "name": "Kricelia Underwood",
+          "party": "DEM",
+          "votes": 27056,
+          "pct": 29.87
+        },
+        {
+          "name": "JoAnn Fisher",
+          "party": "REP",
+          "votes": 3441,
+          "pct": 3.8
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 192,
+          "pct": 0.21
+        }
+      ]
+    },
+    "31": {
+      "winners": [
+        {
+          "name": "Nicholas Kipke",
+          "party": "REP",
+          "pct": 22.24
+        },
+        {
+          "name": "Brian A. Chisholm",
+          "party": "REP",
+          "pct": 21.5
+        },
+        {
+          "name": "Brenda Thorne",
+          "party": "REP",
+          "pct": 20.37
+        }
+      ],
+      "seats": 3,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Nicholas Kipke",
+          "party": "REP",
+          "votes": 28518,
+          "pct": 22.24
+        },
+        {
+          "name": "Brian A. Chisholm",
+          "party": "REP",
+          "votes": 27570,
+          "pct": 21.5
+        },
+        {
+          "name": "Brenda Thorne",
+          "party": "REP",
+          "votes": 26117,
+          "pct": 20.37
+        },
+        {
+          "name": "Kevin Burke",
+          "party": "DEM",
+          "votes": 19953,
+          "pct": 15.56
+        },
+        {
+          "name": "Milad Poran",
+          "party": "DEM",
+          "votes": 17213,
+          "pct": 13.42
+        },
+        {
+          "name": "Travis Lord",
+          "party": "DEM",
+          "votes": 8509,
+          "pct": 6.64
+        }
+      ]
+    },
+    "32": {
+      "winners": [
+        {
+          "name": "Seth Howard",
+          "party": "REP",
+          "pct": 56.72
+        },
+        {
+          "name": "Courtney Cornell",
+          "party": "DEM",
+          "pct": 43.28
+        }
+      ],
+      "seats": 3,
+      "unopposed": true,
+      "candidates": [
+        {
+          "name": "Seth Howard",
+          "party": "REP",
+          "votes": 10234,
+          "pct": 56.72
+        },
+        {
+          "name": "Courtney Cornell",
+          "party": "DEM",
+          "votes": 7804,
+          "pct": 43.28
+        }
+      ]
+    },
+    "36": {
+      "winners": [
+        {
+          "name": "Jay A. Jacobs",
+          "party": "REP",
+          "pct": 32.87
+        },
+        {
+          "name": "Jeff Christ",
+          "party": "REP",
+          "pct": 32.32
+        },
+        {
+          "name": "Steve Arentz",
+          "party": "REP",
+          "pct": 32.23
+        }
+      ],
+      "seats": 3,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Jay A. Jacobs",
+          "party": "REP",
+          "votes": 36249,
+          "pct": 32.87
+        },
+        {
+          "name": "Jeff Christ",
+          "party": "REP",
+          "votes": 35640,
+          "pct": 32.32
+        },
+        {
+          "name": "Steve Arentz",
+          "party": "REP",
+          "votes": 35541,
+          "pct": 32.23
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 2854,
+          "pct": 2.59
+        }
+      ]
+    },
+    "40": {
+      "winners": [
+        {
+          "name": "Lesley J. Lopez",
+          "party": "DEM",
+          "pct": 33.29
+        },
+        {
+          "name": "Gabriel Acevero",
+          "party": "DEM",
+          "pct": 33.04
+        },
+        {
+          "name": "Kirill Reznik",
+          "party": "DEM",
+          "pct": 31.87
+        }
+      ],
+      "seats": 3,
+      "unopposed": true,
+      "candidates": [
+        {
+          "name": "Lesley J. Lopez",
+          "party": "DEM",
+          "votes": 23282,
+          "pct": 33.29
+        },
+        {
+          "name": "Gabriel Acevero",
+          "party": "DEM",
+          "votes": 23104,
+          "pct": 33.04
+        },
+        {
+          "name": "Kirill Reznik",
+          "party": "DEM",
+          "votes": 22292,
+          "pct": 31.87
+        }
+      ]
+    },
+    "41": {
+      "winners": [
+        {
+          "name": "Melissa Wells",
+          "party": "DEM",
+          "pct": 32.67
+        },
+        {
+          "name": "Frank M. Conaway, Jr.",
+          "party": "DEM",
+          "pct": 31.39
+        },
+        {
+          "name": "Marlon D. Amprey",
+          "party": "DEM",
+          "pct": 30.96
+        }
+      ],
+      "seats": 3,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Melissa Wells",
+          "party": "DEM",
+          "votes": 20872,
+          "pct": 32.67
+        },
+        {
+          "name": "Frank M. Conaway, Jr.",
+          "party": "DEM",
+          "votes": 20052,
+          "pct": 31.39
+        },
+        {
+          "name": "Marlon D. Amprey",
+          "party": "DEM",
+          "votes": 19778,
+          "pct": 30.96
+        },
+        {
+          "name": "Zulieka A. Baymore",
+          "party": "REP",
+          "votes": 2852,
+          "pct": 4.46
+        }
+      ]
+    },
+    "45": {
+      "winners": [
+        {
+          "name": "Stephanie Smith",
+          "party": "DEM",
+          "pct": 32.13
+        },
+        {
+          "name": "Jackie Addison",
+          "party": "DEM",
+          "pct": 31.75
+        },
+        {
+          "name": "Caylin Young",
+          "party": "DEM",
+          "pct": 30.31
+        }
+      ],
+      "seats": 3,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Stephanie Smith",
+          "party": "DEM",
+          "votes": 21161,
+          "pct": 32.13
+        },
+        {
+          "name": "Jackie Addison",
+          "party": "DEM",
+          "votes": 20912,
+          "pct": 31.75
+        },
+        {
+          "name": "Caylin Young",
+          "party": "DEM",
+          "votes": 19963,
+          "pct": 30.31
+        },
+        {
+          "name": "Antonio Barboza",
+          "party": "REP",
+          "votes": 3582,
+          "pct": 5.44
+        }
+      ]
+    },
+    "46": {
+      "winners": [
+        {
+          "name": "Robbyn Lewis",
+          "party": "DEM",
+          "pct": 30.81
+        },
+        {
+          "name": "Luke Clippinger",
+          "party": "DEM",
+          "pct": 30.65
+        },
+        {
+          "name": "Mark Edelson",
+          "party": "DEM",
+          "pct": 30.57
+        }
+      ],
+      "seats": 3,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Robbyn Lewis",
+          "party": "DEM",
+          "votes": 22274,
+          "pct": 30.81
+        },
+        {
+          "name": "Luke Clippinger",
+          "party": "DEM",
+          "votes": 22162,
+          "pct": 30.65
+        },
+        {
+          "name": "Mark Edelson",
+          "party": "DEM",
+          "votes": 22103,
+          "pct": 30.57
+        },
+        {
+          "name": "Pete Waters",
+          "party": "REP",
+          "votes": 5492,
+          "pct": 7.6
+        }
+      ]
+    },
+    "1A": {
+      "winner": "Jim Hinebaugh Jr.",
+      "party": "REP",
+      "pct": 77.25,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Jim Hinebaugh Jr.",
+          "party": "REP",
+          "votes": 11971,
+          "pct": 77.25
+        },
+        {
+          "name": "Robert Spear",
+          "party": "DEM",
+          "votes": 2829,
+          "pct": 18.26
+        },
+        {
+          "name": "Monique M. Mehring",
+          "party": "LIB",
+          "votes": 671,
+          "pct": 4.33
+        }
+      ]
+    },
+    "1B": {
+      "winner": "Jason C. Buckley",
+      "party": "REP",
+      "pct": 96.4,
+      "seats": 1,
+      "unopposed": true,
+      "candidates": [
+        {
+          "name": "Jason C. Buckley",
+          "party": "REP",
+          "votes": 11209,
+          "pct": 96.4
+        }
+      ]
+    },
+    "1C": {
+      "winner": "Terry L. Baker",
+      "party": "REP",
+      "pct": 75.95,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Terry L. Baker",
+          "party": "REP",
+          "votes": 11336,
+          "pct": 75.95
+        },
+        {
+          "name": "Carrie B. Hinton",
+          "party": "DEM",
+          "votes": 3287,
+          "pct": 22.02
+        },
+        {
+          "name": "Charlotte McBride",
+          "party": "GRN",
+          "votes": 297,
+          "pct": 1.99
+        }
+      ]
+    },
+    "2A": {
+      "winners": [
+        {
+          "name": "William Valentine",
+          "party": "REP",
+          "pct": 49.59
+        },
+        {
+          "name": "William Joseph Wiwell",
+          "party": "REP",
+          "pct": 48.64
+        }
+      ],
+      "seats": 2,
+      "unopposed": true,
+      "candidates": [
+        {
+          "name": "William Valentine",
+          "party": "REP",
+          "votes": 19839,
+          "pct": 49.59
+        },
+        {
+          "name": "William Joseph Wiwell",
+          "party": "REP",
+          "votes": 19458,
+          "pct": 48.64
+        }
+      ]
+    },
+    "2B": {
+      "winner": "Brooke Grossman",
+      "party": "DEM",
+      "pct": 54.15,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Brooke Grossman",
+          "party": "DEM",
+          "votes": 5001,
+          "pct": 54.15
+        },
+        {
+          "name": "Brenda J. Thiam",
+          "party": "REP",
+          "votes": 4222,
+          "pct": 45.72
+        }
+      ]
+    },
+    "7A": {
+      "winners": [
+        {
+          "name": "Ric Metzgar",
+          "party": "REP",
+          "pct": 23.6
+        },
+        {
+          "name": "Robin Grammer",
+          "party": "REP",
+          "pct": 23.1
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Ric Metzgar",
+          "party": "REP",
+          "votes": 16696,
+          "pct": 23.6
+        },
+        {
+          "name": "Robin Grammer",
+          "party": "REP",
+          "votes": 16344,
+          "pct": 23.1
+        },
+        {
+          "name": "Bob Long",
+          "party": "REP",
+          "votes": 15987,
+          "pct": 22.6
+        },
+        {
+          "name": "Megan Ann Mioduszewski",
+          "party": "DEM",
+          "votes": 10109,
+          "pct": 14.29
+        },
+        {
+          "name": "Mike Monosmith",
+          "party": "DEM",
+          "votes": 10109,
+          "pct": 14.29
+        }
+      ]
+    },
+    "7B": {
+      "winner": "Kathy Szeliga",
+      "party": "REP",
+      "pct": 37.14,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Kathy Szeliga",
+          "party": "REP",
+          "votes": 18034,
+          "pct": 37.14
+        },
+        {
+          "name": "Ryan Nawrocki",
+          "party": "REP",
+          "votes": 17859,
+          "pct": 36.78
+        },
+        {
+          "name": "Lydia X. Z. Brown",
+          "party": "DEM",
+          "votes": 12371,
+          "pct": 25.48
+        }
+      ]
+    },
+    "9A": {
+      "winners": [
+        {
+          "name": "Harry Bhandari",
+          "party": "DEM",
+          "pct": 21.62
+        },
+        {
+          "name": "Carl Jackson",
+          "party": "DEM",
+          "pct": 20.79
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Harry Bhandari",
+          "party": "DEM",
+          "votes": 19702,
+          "pct": 21.62
+        },
+        {
+          "name": "Carl Jackson",
+          "party": "DEM",
+          "votes": 18950,
+          "pct": 20.79
+        },
+        {
+          "name": "Nick Allen",
+          "party": "DEM",
+          "votes": 18062,
+          "pct": 19.82
+        },
+        {
+          "name": "Kathleen A. Smero",
+          "party": "REP",
+          "votes": 11838,
+          "pct": 12.99
+        },
+        {
+          "name": "Timothy M. Neubauer",
+          "party": "REP",
+          "votes": 11259,
+          "pct": 12.36
+        },
+        {
+          "name": "Glen Geihaer",
+          "party": "REP",
+          "votes": 11243,
+          "pct": 12.34
+        }
+      ]
+    },
+    "9B": {
+      "winner": "Natalie Ziegler",
+      "party": "DEM",
+      "pct": 26.68,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Natalie Ziegler",
+          "party": "DEM",
+          "votes": 17656,
+          "pct": 26.68
+        },
+        {
+          "name": "Zeng Zeng",
+          "party": "DEM",
+          "votes": 17486,
+          "pct": 26.43
+        },
+        {
+          "name": "Trent Kittleman",
+          "party": "REP",
+          "votes": 17373,
+          "pct": 26.26
+        },
+        {
+          "name": "Janning Jenny",
+          "party": "REP",
+          "votes": 13609,
+          "pct": 20.57
+        }
+      ]
+    },
+    "11A": {
+      "winner": "Adrienne A.",
+      "party": "DEM",
+      "pct": 29.42,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Adrienne A.",
+          "party": "DEM",
+          "votes": 29842,
+          "pct": 29.42
+        },
+        {
+          "name": "N. Scott Phillips",
+          "party": "DEM",
+          "votes": 27925,
+          "pct": 27.53
+        },
+        {
+          "name": "Jones",
+          "party": "DEM",
+          "votes": 26643,
+          "pct": 26.27
+        },
+        {
+          "name": "Patricia R. Fallon",
+          "party": "REP",
+          "votes": 9024,
+          "pct": 8.9
+        },
+        {
+          "name": "Jordan Poromyae",
+          "party": "REP",
+          "votes": 7685,
+          "pct": 7.58
+        }
+      ]
+    },
+    "11B": {
+      "winner": "Cheryl E. Pasteur",
+      "party": "DEM",
+      "pct": 98.34,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Cheryl E. Pasteur",
+          "party": "DEM",
+          "votes": 10290,
+          "pct": 98.34
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 174,
+          "pct": 1.66
+        }
+      ]
+    },
+    "12A": {
+      "winners": [
+        {
+          "name": "Terri Hill",
+          "party": "DEM",
+          "pct": 53.05
+        },
+        {
+          "name": "Jessica Feldmark",
+          "party": "DEM",
+          "pct": 45.31
+        }
+      ],
+      "seats": 2,
+      "unopposed": true,
+      "candidates": [
+        {
+          "name": "Terri Hill",
+          "party": "DEM",
+          "votes": 24204,
+          "pct": 53.05
+        },
+        {
+          "name": "Jessica Feldmark",
+          "party": "DEM",
+          "votes": 20674,
+          "pct": 45.31
+        }
+      ]
+    },
+    "12B": {
+      "winner": "Gary Simmons",
+      "party": "DEM",
+      "pct": 55.41,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Gary Simmons",
+          "party": "DEM",
+          "votes": 5856,
+          "pct": 55.41
+        },
+        {
+          "name": "Ashley P. Arias",
+          "party": "REP",
+          "votes": 4692,
+          "pct": 44.4
+        }
+      ]
+    },
+    "27A": {
+      "winner": "Kevin M. Harris",
+      "party": "DEM",
+      "pct": 97.99,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Kevin M. Harris",
+          "party": "DEM",
+          "votes": 11783,
+          "pct": 97.99
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 242,
+          "pct": 2.01
+        }
+      ]
+    },
+    "27B": {
+      "winner": "Jeffrie E. Long",
+      "party": "DEM",
+      "pct": 95.31,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Jeffrie E. Long",
+          "party": "DEM",
+          "votes": 12227,
+          "pct": 95.31
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 602,
+          "pct": 4.69
+        }
+      ]
+    },
+    "27C": {
+      "winner": "Mark N. Fisher",
+      "party": "REP",
+      "pct": 95.67,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Mark N. Fisher",
+          "party": "REP",
+          "votes": 13474,
+          "pct": 95.67
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 610,
+          "pct": 4.33
+        }
+      ]
+    },
+    "29A": {
+      "winner": "Matt Morgan",
+      "party": "REP",
+      "pct": 97.38,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Matt Morgan",
+          "party": "REP",
+          "votes": 12663,
+          "pct": 97.38
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 341,
+          "pct": 2.62
+        }
+      ]
+    },
+    "29B": {
+      "winner": "Brian Crosby",
+      "party": "DEM",
+      "pct": 55.8,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Brian Crosby",
+          "party": "DEM",
+          "votes": 6596,
+          "pct": 55.8
+        },
+        {
+          "name": "Deb Rey",
+          "party": "REP",
+          "votes": 5210,
+          "pct": 44.07
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 15,
+          "pct": 0.13
+        }
+      ]
+    },
+    "29C": {
+      "winner": "Seth Howard",
+      "party": "REP",
+      "pct": 56.72,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Seth Howard",
+          "party": "REP",
+          "votes": 10234,
+          "pct": 56.72
+        },
+        {
+          "name": "Courtney Cornell",
+          "party": "DEM",
+          "votes": 7804,
+          "pct": 43.28
+        }
+      ]
+    },
+    "30A": {
+      "winners": [
+        {
+          "name": "Shaneka Henson",
+          "party": "DEM",
+          "pct": 32.09
+        },
+        {
+          "name": "Dana Jones",
+          "party": "DEM",
+          "pct": 31.06
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Shaneka Henson",
+          "party": "DEM",
+          "votes": 23364,
+          "pct": 32.09
+        },
+        {
+          "name": "Dana Jones",
+          "party": "DEM",
+          "votes": 19710,
+          "pct": 31.06
+        },
+        {
+          "name": "Doug Rathell",
+          "party": "REP",
+          "votes": 12948,
+          "pct": 20.41
+        },
+        {
+          "name": "Bob Seyferth",
+          "party": "REP",
+          "votes": 10366,
+          "pct": 16.34
+        }
+      ]
+    },
+    "30B": {
+      "winner": "Todd B. Morgan",
+      "party": "REP",
+      "pct": 61.66,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Todd B. Morgan",
+          "party": "REP",
+          "votes": 10604,
+          "pct": 61.66
+        },
+        {
+          "name": "Bill Bates",
+          "party": "DEM",
+          "votes": 6561,
+          "pct": 38.15
+        }
+      ]
+    },
+    "33A": {
+      "winner": "Adrienne C.",
+      "party": "DEM",
+      "pct": 67.17,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Adrienne C.",
+          "party": "DEM",
+          "votes": 9772,
+          "pct": 67.17
+        },
+        {
+          "name": "Kim Mills",
+          "party": "REP",
+          "votes": 4765,
+          "pct": 32.75
+        }
+      ]
+    },
+    "33B": {
+      "winner": "Wm S. Chany",
+      "party": "DEM",
+      "pct": 22.38,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Wm S. Chany",
+          "party": "DEM",
+          "votes": 21755,
+          "pct": 22.38
+        },
+        {
+          "name": "J. Sandy Bartlett",
+          "party": "DEM",
+          "votes": 20988,
+          "pct": 21.59
+        },
+        {
+          "name": "Mike Rogers",
+          "party": "DEM",
+          "votes": 20597,
+          "pct": 21.19
+        },
+        {
+          "name": "Monica L. W. Snorman",
+          "party": "REP",
+          "votes": 11384,
+          "pct": 11.71
+        },
+        {
+          "name": "Michael Jette",
+          "party": "REP",
+          "votes": 11213,
+          "pct": 11.53
+        },
+        {
+          "name": "Michele Speakman",
+          "party": "REP",
+          "votes": 11169,
+          "pct": 11.49
+        }
+      ]
+    },
+    "33C": {
+      "winner": "Stuart Michael Schmidt, Jr.",
+      "party": "REP",
+      "pct": 50.66,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Stuart Michael Schmidt, Jr.",
+          "party": "REP",
+          "votes": 10501,
+          "pct": 50.66
+        },
+        {
+          "name": "John Waldstein",
+          "party": "DEM",
+          "votes": 10204,
+          "pct": 49.23
+        }
+      ]
+    },
+    "34A": {
+      "winners": [
+        {
+          "name": "Andre V. Johnson, Jr.",
+          "party": "DEM",
+          "pct": 29.59
+        },
+        {
+          "name": "Steve Johnson",
+          "party": "DEM",
+          "pct": 26.41
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Andre V. Johnson, Jr.",
+          "party": "DEM",
+          "votes": 13478,
+          "pct": 29.59
+        },
+        {
+          "name": "Steve Johnson",
+          "party": "DEM",
+          "votes": 12029,
+          "pct": 26.41
+        },
+        {
+          "name": "Glen Glass",
+          "party": "REP",
+          "votes": 10717,
+          "pct": 23.53
+        },
+        {
+          "name": "Teresa Walter",
+          "party": "REP",
+          "votes": 9248,
+          "pct": 20.31
+        }
+      ]
+    },
+    "34B": {
+      "winner": "Susan K. McComas",
+      "party": "REP",
+      "pct": 60.79,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Susan K. McComas",
+          "party": "REP",
+          "votes": 11094,
+          "pct": 60.79
+        },
+        {
+          "name": "Gillian A. Miller",
+          "party": "DEM",
+          "votes": 7111,
+          "pct": 38.97
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 44,
+          "pct": 0.24
+        }
+      ]
+    },
+    "35A": {
+      "winners": [
+        {
+          "name": "Mike Griffith",
+          "party": "REP",
+          "pct": 53.26
+        },
+        {
+          "name": "Teresa Reilly",
+          "party": "REP",
+          "pct": 44.39
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Mike Griffith",
+          "party": "REP",
+          "votes": 25988,
+          "pct": 53.26
+        },
+        {
+          "name": "Teresa Reilly",
+          "party": "REP",
+          "votes": 21661,
+          "pct": 44.39
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 1147,
+          "pct": 2.35
+        }
+      ]
+    },
+    "35B": {
+      "winner": "Derek Sample",
+      "party": "DEM",
+      "pct": 61.93,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Derek Sample",
+          "party": "DEM",
+          "votes": 5841,
+          "pct": 61.93
+        },
+        {
+          "name": "Donna Bradshaw",
+          "party": "REP",
+          "votes": 3573,
+          "pct": 37.88
+        },
+        {
+          "name": "Hughes",
+          "party": "TBD",
+          "votes": 18,
+          "pct": 0.19
+        }
+      ]
+    },
+    "37A": {
+      "winner": "Derek Sample",
+      "party": "DEM",
+      "pct": 61.93,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Derek Sample",
+          "party": "DEM",
+          "votes": 5841,
+          "pct": 61.93
+        },
+        {
+          "name": "Donna Bradshaw",
+          "party": "REP",
+          "votes": 3573,
+          "pct": 37.88
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 18,
+          "pct": 0.19
+        }
+      ]
+    },
+    "37B": {
+      "winners": [
+        {
+          "name": "Christopher T. Adams",
+          "party": "REP",
+          "pct": 37.32
+        },
+        {
+          "name": "Tom Hutchinson",
+          "party": "REP",
+          "pct": 35.91
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Christopher T. Adams",
+          "party": "REP",
+          "votes": 21694,
+          "pct": 37.32
+        },
+        {
+          "name": "Tom Hutchinson",
+          "party": "REP",
+          "votes": 20876,
+          "pct": 35.91
+        },
+        {
+          "name": "Susan E. Delean-Botkin",
+          "party": "DEM",
+          "votes": 15344,
+          "pct": 26.39
+        }
+      ]
+    },
+    "38A": {
+      "winner": "Charles James Otto",
+      "party": "REP",
+      "pct": 63.17,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Charles James Otto",
+          "party": "REP",
+          "votes": 10023,
+          "pct": 63.17
+        },
+        {
+          "name": "Todd J. Nock",
+          "party": "DEM",
+          "votes": 5828,
+          "pct": 36.73
+        }
+      ]
+    },
+    "38B": {
+      "winner": "Carl L. Anderton, Jr.",
+      "party": "REP",
+      "pct": 94.47,
+      "seats": 1,
+      "unopposed": true,
+      "candidates": [
+        {
+          "name": "Carl L. Anderton, Jr.",
+          "party": "REP",
+          "votes": 8026,
+          "pct": 94.47
+        }
+      ]
+    },
+    "38C": {
+      "winner": "Wayne A. Hartman",
+      "party": "REP",
+      "pct": 97.79,
+      "seats": 1,
+      "unopposed": true,
+      "candidates": [
+        {
+          "name": "Wayne A. Hartman",
+          "party": "REP",
+          "votes": 16198,
+          "pct": 97.79
+        }
+      ]
+    },
+    "42A": {
+      "winner": "Nino Mangione",
+      "party": "REP",
+      "pct": 58.56,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Nino Mangione",
+          "party": "REP",
+          "votes": 12009,
+          "pct": 58.56
+        },
+        {
+          "name": "Paul V. Konka",
+          "party": "DEM",
+          "votes": 8475,
+          "pct": 41.33
+        }
+      ]
+    },
+    "42B": {
+      "winner": "Michele Guyton",
+      "party": "DEM",
+      "pct": 61.25,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Michele Guyton",
+          "party": "DEM",
+          "votes": 8904,
+          "pct": 61.25
+        },
+        {
+          "name": "Todd Huff",
+          "party": "REP",
+          "votes": 5614,
+          "pct": 38.62
+        }
+      ]
+    },
+    "42C": {
+      "winner": "Joshua J. Stonko",
+      "party": "REP",
+      "pct": 97.61,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Joshua J. Stonko",
+          "party": "REP",
+          "votes": 14242,
+          "pct": 97.61
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 349,
+          "pct": 2.39
+        }
+      ]
+    },
+    "43A": {
+      "winners": [
+        {
+          "name": "Regina T. Boyce",
+          "party": "DEM",
+          "pct": 47.52
+        },
+        {
+          "name": "Elizabeth Embry",
+          "party": "DEM",
+          "pct": 44.59
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Regina T. Boyce",
+          "party": "DEM",
+          "votes": 19788,
+          "pct": 47.52
+        },
+        {
+          "name": "Elizabeth Embry",
+          "party": "DEM",
+          "votes": 18569,
+          "pct": 44.59
+        },
+        {
+          "name": "Renaud Deaundre Brown",
+          "party": "GRN",
+          "votes": 1691,
+          "pct": 4.06
+        },
+        {
+          "name": "Gwendolyn G. Butler",
+          "party": "REP",
+          "votes": 1509,
+          "pct": 3.62
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 86,
+          "pct": 0.21
+        }
+      ]
+    },
+    "43B": {
+      "winner": "Cathi Forbes",
+      "party": "DEM",
+      "pct": 97.96,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Cathi Forbes",
+          "party": "DEM",
+          "votes": 10971,
+          "pct": 97.96
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 229,
+          "pct": 2.04
+        }
+      ]
+    },
+    "44A": {
+      "winner": "Eric Ebersole",
+      "party": "DEM",
+      "pct": 62.42,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Eric Ebersole",
+          "party": "DEM",
+          "votes": 6727,
+          "pct": 62.42
+        },
+        {
+          "name": "Joseph D. Tassoni",
+          "party": "REP",
+          "votes": 4041,
+          "pct": 37.5
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 9,
+          "pct": 0.08
+        }
+      ]
+    },
+    "44B": {
+      "winners": [
+        {
+          "name": "Sheila Ruth",
+          "party": "DEM",
+          "pct": 51.21
+        },
+        {
+          "name": "Aletheia McCaskill",
+          "party": "DEM",
+          "pct": 47.4
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Sheila Ruth",
+          "party": "DEM",
+          "votes": 19682,
+          "pct": 51.21
+        },
+        {
+          "name": "Aletheia McCaskill",
+          "party": "DEM",
+          "votes": 18219,
+          "pct": 47.4
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 532,
+          "pct": 1.38
+        }
+      ]
+    },
+    "47A": {
+      "winners": [
+        {
+          "name": "Robert Julian",
+          "party": "DEM",
+          "pct": 50.4
+        },
+        {
+          "name": "Diana M. Fennell",
+          "party": "DEM",
+          "pct": 48.58
+        }
+      ],
+      "seats": 2,
+      "unopposed": true,
+      "candidates": [
+        {
+          "name": "Robert Julian",
+          "party": "DEM",
+          "votes": 11018,
+          "pct": 50.4
+        },
+        {
+          "name": "Diana M. Fennell",
+          "party": "DEM",
+          "votes": 10621,
+          "pct": 48.58
+        }
+      ]
+    },
+    "47B": {
+      "winner": "Demi Taveras",
+      "party": "DEM",
+      "pct": 98.1,
+      "seats": 1,
+      "unopposed": true,
+      "candidates": [
+        {
+          "name": "Demi Taveras",
+          "party": "DEM",
+          "votes": 3259,
+          "pct": 98.1
+        }
+      ]
+    }
+  },
+  "senate": {
+    "1": {
+      "winner": "Mike McKay",
+      "party": "REP",
+      "pct": 73.37,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Mike McKay",
+          "party": "REP",
+          "votes": 33258,
+          "pct": 73.37
+        },
+        {
+          "name": "Michael Dresbach",
+          "party": "DEM",
+          "votes": 11995,
+          "pct": 26.46
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 78,
+          "pct": 0.17
+        }
+      ]
+    },
+    "2": {
+      "winner": "Paul D. Corderman",
+      "party": "REP",
+      "pct": 63.84,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Paul D. Corderman",
+          "party": "REP",
+          "votes": 25881,
+          "pct": 63.84
+        },
+        {
+          "name": "Shawn Demetrious Perry",
+          "party": "DEM",
+          "votes": 14629,
+          "pct": 36.08
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 32,
+          "pct": 0.08
+        }
+      ]
+    },
+    "3": {
+      "winner": "Karen Lewis Young",
+      "party": "DEM",
+      "pct": 66.48,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Karen Lewis Young",
+          "party": "DEM",
+          "votes": 27446,
+          "pct": 66.48
+        },
+        {
+          "name": "Angela Ariel McIntosh",
+          "party": "REP",
+          "votes": 13774,
+          "pct": 33.36
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 67,
+          "pct": 0.16
+        }
+      ]
+    },
+    "4": {
+      "winner": "William Bill Folden",
+      "party": "REP",
+      "pct": 57.54,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "William Bill Folden",
+          "party": "REP",
+          "votes": 32554,
+          "pct": 57.54
+        },
+        {
+          "name": "Carleah M. Summers",
+          "party": "DEM",
+          "votes": 23967,
+          "pct": 42.36
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 60,
+          "pct": 0.11
+        }
+      ]
+    },
+    "5": {
+      "winner": "Justin Ready",
+      "party": "REP",
+      "pct": 64.74,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Justin Ready",
+          "party": "REP",
+          "votes": 26599,
+          "pct": 64.74
+        },
+        {
+          "name": "Oliver White-Iris",
+          "party": "DEM",
+          "votes": 12598,
+          "pct": 30.68
+        }
+      ]
+    },
+    "6": {
+      "winner": "Johnny Ray Salling",
+      "party": "REP",
+      "pct": 61.16,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Johnny Ray Salling",
+          "party": "REP",
+          "votes": 18278,
+          "pct": 61.16
+        },
+        {
+          "name": "Cory G Edwards",
+          "party": "DEM",
+          "votes": 11563,
+          "pct": 38.69
+        }
+      ]
+    },
+    "7": {
+      "winner": "J. B. Jennings",
+      "party": "REP",
+      "pct": 96.02,
+      "seats": 1,
+      "unopposed": true,
+      "candidates": [
+        {
+          "name": "J. B. Jennings",
+          "party": "REP",
+          "votes": 37513,
+          "pct": 96.02
+        }
+      ]
+    },
+    "8": {
+      "winner": "Kathy Klausmeier",
+      "party": "DEM",
+      "pct": 66.26,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Kathy Klausmeier",
+          "party": "DEM",
+          "votes": 22773,
+          "pct": 66.26
+        },
+        {
+          "name": "Ken Fitch",
+          "party": "REP",
+          "votes": 11554,
+          "pct": 33.62
+        }
+      ]
+    },
+    "9": {
+      "winner": "Katie Fry Hester",
+      "party": "DEM",
+      "pct": 57.92,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Katie Fry Hester",
+          "party": "DEM",
+          "votes": 31214,
+          "pct": 57.92
+        },
+        {
+          "name": "Reid J. Novotny",
+          "party": "REP",
+          "votes": 22637,
+          "pct": 42
+        }
+      ]
+    },
+    "10": {
+      "winner": "Ben Brooks",
+      "party": "DEM",
+      "pct": 78.63,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Ben Brooks",
+          "party": "DEM",
+          "votes": 31373,
+          "pct": 78.63
+        },
+        {
+          "name": "William Newton",
+          "party": "REP",
+          "votes": 8460,
+          "pct": 21.2
+        }
+      ]
+    },
+    "11": {
+      "winner": "Shelly Hettleman",
+      "party": "DEM",
+      "pct": 71.46,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Shelly Hettleman",
+          "party": "DEM",
+          "votes": 33409,
+          "pct": 71.46
+        },
+        {
+          "name": "Ruth Goetz",
+          "party": "REP",
+          "votes": 13310,
+          "pct": 28.47
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 34,
+          "pct": 0.07
+        }
+      ]
+    },
+    "12": {
+      "winner": "Clarence Lam",
+      "party": "DEM",
+      "pct": 69.97,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Clarence Lam",
+          "party": "DEM",
+          "votes": 30570,
+          "pct": 69.97
+        },
+        {
+          "name": "Bob Cockey",
+          "party": "REP",
+          "votes": 13078,
+          "pct": 29.93
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 44,
+          "pct": 0.1
+        }
+      ]
+    },
+    "13": {
+      "winner": "Guy Guzzone",
+      "party": "DEM",
+      "pct": 97.14,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Guy Guzzone",
+          "party": "DEM",
+          "votes": 37241,
+          "pct": 97.14
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 1095,
+          "pct": 2.86
+        }
+      ]
+    },
+    "14": {
+      "winner": "Craig J. Zucker",
+      "party": "DEM",
+      "pct": 73.28,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Craig J. Zucker",
+          "party": "DEM",
+          "votes": 33334,
+          "pct": 73.28
+        },
+        {
+          "name": "Alex Rieber",
+          "party": "REP",
+          "votes": 12099,
+          "pct": 26.6
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 55,
+          "pct": 0.12
+        }
+      ]
+    },
+    "15": {
+      "winner": "Brian J. Feldman",
+      "party": "DEM",
+      "pct": 73.04,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Brian J. Feldman",
+          "party": "DEM",
+          "votes": 33264,
+          "pct": 73.04
+        },
+        {
+          "name": "David Wilson",
+          "party": "REP",
+          "votes": 12231,
+          "pct": 26.86
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 46,
+          "pct": 0.1
+        }
+      ]
+    },
+    "16": {
+      "winner": "Susan C. Lee",
+      "party": "DEM",
+      "pct": 97.8,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Susan C. Lee",
+          "party": "DEM",
+          "votes": 44925,
+          "pct": 97.8
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 1012,
+          "pct": 2.2
+        }
+      ]
+    },
+    "17": {
+      "winner": "Cheryl C. Kagan",
+      "party": "DEM",
+      "pct": 97.19,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Cheryl C. Kagan",
+          "party": "DEM",
+          "votes": 31639,
+          "pct": 97.19
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 915,
+          "pct": 2.81
+        }
+      ]
+    },
+    "18": {
+      "winner": "Jeff Waldstreicher",
+      "party": "DEM",
+      "pct": 82.8,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Jeff Waldstreicher",
+          "party": "DEM",
+          "votes": 34169,
+          "pct": 82.8
+        },
+        {
+          "name": "Missy Carr",
+          "party": "REP",
+          "votes": 6935,
+          "pct": 16.81
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 162,
+          "pct": 0.39
+        }
+      ]
+    },
+    "19": {
+      "winner": "Ben Kramer",
+      "party": "DEM",
+      "pct": 75.5,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Ben Kramer",
+          "party": "DEM",
+          "votes": 29473,
+          "pct": 75.5
+        },
+        {
+          "name": "Anita M. Cox",
+          "party": "REP",
+          "votes": 8804,
+          "pct": 22.55
+        },
+        {
+          "name": "David George",
+          "party": "GRN",
+          "votes": 724,
+          "pct": 1.85
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 34,
+          "pct": 0.09
+        }
+      ]
+    },
+    "20": {
+      "winner": "Will Smith",
+      "party": "DEM",
+      "pct": 98.78,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Will Smith",
+          "party": "DEM",
+          "votes": 34113,
+          "pct": 98.78
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 422,
+          "pct": 1.22
+        }
+      ]
+    },
+    "21": {
+      "winner": "Jim Rosapepe",
+      "party": "DEM",
+      "pct": 79.01,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Jim Rosapepe",
+          "party": "DEM",
+          "votes": 23666,
+          "pct": 79.01
+        },
+        {
+          "name": "Lee Hays",
+          "party": "REP",
+          "votes": 6242,
+          "pct": 20.84
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 46,
+          "pct": 0.15
+        }
+      ]
+    },
+    "22": {
+      "winner": "Paul G. Pinsky",
+      "party": "DEM",
+      "pct": 98.57,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Paul G. Pinsky",
+          "party": "DEM",
+          "votes": 23580,
+          "pct": 98.57
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 343,
+          "pct": 1.43
+        }
+      ]
+    },
+    "23": {
+      "winner": "Ron Watson",
+      "party": "DEM",
+      "pct": 87.37,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Ron Watson",
+          "party": "DEM",
+          "votes": 41343,
+          "pct": 87.37
+        },
+        {
+          "name": "Jesse Peed",
+          "party": "REP",
+          "votes": 5886,
+          "pct": 12.44
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 93,
+          "pct": 0.2
+        }
+      ]
+    },
+    "24": {
+      "winner": "Joanne C. Benson",
+      "party": "DEM",
+      "pct": 99.19,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Joanne C. Benson",
+          "party": "DEM",
+          "votes": 33668,
+          "pct": 99.19
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 274,
+          "pct": 0.81
+        }
+      ]
+    },
+    "25": {
+      "winner": "Melony G. Griffith",
+      "party": "DEM",
+      "pct": 99.45,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Melony G. Griffith",
+          "party": "DEM",
+          "votes": 35953,
+          "pct": 99.45
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 200,
+          "pct": 0.55
+        }
+      ]
+    },
+    "26": {
+      "winner": "Arthur Van Elst",
+      "party": "DEM",
+      "pct": 67.04,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Arthur Van Elst",
+          "party": "DEM",
+          "votes": 30168,
+          "pct": 67.04
+        },
+        {
+          "name": "Michelle M. Talkington",
+          "party": "REP",
+          "votes": 14765,
+          "pct": 32.81
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 64,
+          "pct": 0.14
+        }
+      ]
+    },
+    "27": {
+      "winner": "Michael A. Jackson",
+      "party": "DEM",
+      "pct": 60.32,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Michael A. Jackson",
+          "party": "DEM",
+          "votes": 30320,
+          "pct": 60.32
+        },
+        {
+          "name": "Al Larsen",
+          "party": "REP",
+          "votes": 19892,
+          "pct": 39.58
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 51,
+          "pct": 0.1
+        }
+      ]
+    },
+    "28": {
+      "winner": "C. Anthony Muse",
+      "party": "DEM",
+      "pct": 92.29,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "C. Anthony Muse",
+          "party": "DEM",
+          "votes": 33314,
+          "pct": 92.29
+        },
+        {
+          "name": "Ike Puzon",
+          "party": "REP",
+          "votes": 2645,
+          "pct": 7.33
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 138,
+          "pct": 0.38
+        }
+      ]
+    },
+    "29": {
+      "winner": "Jack Bailey",
+      "party": "REP",
+      "pct": 96.35,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Jack Bailey",
+          "party": "REP",
+          "votes": 33101,
+          "pct": 96.35
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 1254,
+          "pct": 3.65
+        }
+      ]
+    },
+    "30": {
+      "winner": "Sarah Elfreth",
+      "party": "DEM",
+      "pct": 57.39,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Sarah Elfreth",
+          "party": "DEM",
+          "votes": 30359,
+          "pct": 57.39
+        },
+        {
+          "name": "Stacie MacDonald",
+          "party": "REP",
+          "votes": 22489,
+          "pct": 42.51
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 49,
+          "pct": 0.09
+        }
+      ]
+    },
+    "31": {
+      "winner": "Bryan W. Simonaire",
+      "party": "REP",
+      "pct": 71.25,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Bryan W. Simonaire",
+          "party": "REP",
+          "votes": 32215,
+          "pct": 71.25
+        },
+        {
+          "name": "Brian W. Kunkoski",
+          "party": "LIB",
+          "votes": 12318,
+          "pct": 27.24
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 681,
+          "pct": 1.51
+        }
+      ]
+    },
+    "32": {
+      "winner": "Pamela Beidle",
+      "party": "DEM",
+      "pct": 65.75,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Pamela Beidle",
+          "party": "DEM",
+          "votes": 23380,
+          "pct": 65.75
+        },
+        {
+          "name": "Kimberly Ann June",
+          "party": "REP",
+          "votes": 12103,
+          "pct": 34.04
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 76,
+          "pct": 0.21
+        }
+      ]
+    },
+    "33": {
+      "winner": "Dawn D. Gile",
+      "party": "DEM",
+      "pct": 55.41,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Dawn D. Gile",
+          "party": "DEM",
+          "votes": 30807,
+          "pct": 55.41
+        },
+        {
+          "name": "Sid Saab",
+          "party": "REP",
+          "votes": 24730,
+          "pct": 44.48
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 60,
+          "pct": 0.11
+        }
+      ]
+    },
+    "34": {
+      "winner": "Mary-Dulany James",
+      "party": "DEM",
+      "pct": 50.55,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Mary-Dulany James",
+          "party": "DEM",
+          "votes": 22858,
+          "pct": 50.55
+        },
+        {
+          "name": "Christian Miele",
+          "party": "REP",
+          "votes": 22267,
+          "pct": 49.24
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 98,
+          "pct": 0.22
+        }
+      ]
+    },
+    "35": {
+      "winner": "Jason C. Gallion",
+      "party": "REP",
+      "pct": 96.86,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Jason C. Gallion",
+          "party": "REP",
+          "votes": 42913,
+          "pct": 96.86
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 1391,
+          "pct": 3.14
+        }
+      ]
+    },
+    "36": {
+      "winner": "Stephen S. Hershey, Jr.",
+      "party": "REP",
+      "pct": 96.28,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Stephen S. Hershey, Jr.",
+          "party": "REP",
+          "votes": 36806,
+          "pct": 96.28
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 1424,
+          "pct": 3.72
+        }
+      ]
+    },
+    "37": {
+      "winner": "Johnny Mautz",
+      "party": "REP",
+      "pct": 60.8,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Johnny Mautz",
+          "party": "REP",
+          "votes": 29432,
+          "pct": 60.8
+        },
+        {
+          "name": "Naomi Hyman",
+          "party": "DEM",
+          "votes": 18930,
+          "pct": 39.1
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 47,
+          "pct": 0.1
+        }
+      ]
+    },
+    "38": {
+      "winner": "Mary Beth Carozza",
+      "party": "REP",
+      "pct": 66.42,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Mary Beth Carozza",
+          "party": "REP",
+          "votes": 32277,
+          "pct": 66.42
+        },
+        {
+          "name": "Michele Gregory",
+          "party": "DEM",
+          "votes": 16273,
+          "pct": 33.49
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 45,
+          "pct": 0.09
+        }
+      ]
+    },
+    "39": {
+      "winner": "Nancy J. King",
+      "party": "DEM",
+      "pct": 86.18,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Nancy J. King",
+          "party": "DEM",
+          "votes": 25188,
+          "pct": 86.18
+        },
+        {
+          "name": "Moshe Landman",
+          "party": "GRN",
+          "votes": 3582,
+          "pct": 12.26
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 457,
+          "pct": 1.56
+        }
+      ]
+    },
+    "40": {
+      "winner": "Antonio Hayes",
+      "party": "DEM",
+      "pct": 91.94,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Antonio Hayes",
+          "party": "DEM",
+          "votes": 24236,
+          "pct": 91.94
+        },
+        {
+          "name": "Christopher Anderson",
+          "party": "REP",
+          "votes": 2058,
+          "pct": 7.81
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 66,
+          "pct": 0.25
+        }
+      ]
+    },
+    "41": {
+      "winner": "Jill P. Carter",
+      "party": "DEM",
+      "pct": 98.2,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Jill P. Carter",
+          "party": "DEM",
+          "votes": 29882,
+          "pct": 98.2
+        }
+      ]
+    },
+    "42": {
+      "winner": "Chris West",
+      "party": "REP",
+      "pct": 95.51,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Chris West",
+          "party": "REP",
+          "votes": 37944,
+          "pct": 95.51
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 1785,
+          "pct": 4.49
+        }
+      ]
+    },
+    "43": {
+      "winner": "Mary Washington",
+      "party": "DEM",
+      "pct": 90.31,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Mary Washington",
+          "party": "DEM",
+          "votes": 32333,
+          "pct": 90.31
+        },
+        {
+          "name": "Bob Gemmill",
+          "party": "LIB",
+          "votes": 3339,
+          "pct": 9.33
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 129,
+          "pct": 0.36
+        }
+      ]
+    },
+    "44": {
+      "winner": "Charles E. Sydnor, III",
+      "party": "DEM",
+      "pct": 97.48,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Charles E. Sydnor, III",
+          "party": "DEM",
+          "votes": 30699,
+          "pct": 97.48
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 792,
+          "pct": 2.52
+        }
+      ]
+    },
+    "45": {
+      "winner": "Cory V. McCray",
+      "party": "DEM",
+      "pct": 98.8,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Cory V. McCray",
+          "party": "DEM",
+          "votes": 24903,
+          "pct": 98.8
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 302,
+          "pct": 1.2
+        }
+      ]
+    },
+    "46": {
+      "winner": "Bill Ferguson",
+      "party": "DEM",
+      "pct": 84.63,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Bill Ferguson",
+          "party": "DEM",
+          "votes": 24977,
+          "pct": 84.63
+        },
+        {
+          "name": "Emmanuel Digman",
+          "party": "REP",
+          "votes": 4486,
+          "pct": 15.2
+        }
+      ]
+    },
+    "47": {
+      "winner": "Malcolm Augustine",
+      "party": "DEM",
+      "pct": 98.78,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "Malcolm Augustine",
+          "party": "DEM",
+          "votes": 16416,
+          "pct": 98.78
+        },
+        {
+          "name": "Other Write-Ins",
+          "party": "TBD",
+          "votes": 202,
+          "pct": 1.22
+        }
+      ]
+    }
+  }
+}

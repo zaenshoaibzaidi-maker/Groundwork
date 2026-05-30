@@ -122,7 +122,15 @@ function findEmptyDistricts(src) {
     const dashboard = evalDashboard(raw);
     if (!dashboard) continue;
     if (Array.isArray(dashboard.issues) && dashboard.issues.length === 0) {
-      results.push({ id, dashboard });
+      const idPos   = match.index;
+      const dashPos = src.indexOf('dashboard:', idPos);
+      const slice   = dashPos !== -1 ? src.slice(idPos, dashPos) : '';
+      let seatCount = 1;
+      if (slice.includes('incumbents:')) {
+        const partyMatches = slice.slice(slice.indexOf('incumbents:')).match(/\bparty:/g);
+        seatCount = partyMatches ? partyMatches.length : 1;
+      }
+      results.push({ id, dashboard, seatCount });
     }
   }
   return results;
@@ -130,8 +138,12 @@ function findEmptyDistricts(src) {
 
 // ── Build the API prompt ──────────────────────────────────────────────────────
 
-function buildPrompt(districtId, dashboard) {
-  const stats    = (dashboard.stats  || []).map(s => `${s.label}: ${s.value}`).join('\n');
+function buildPrompt(districtId, dashboard, seatCount = 1) {
+  const statsLines = (dashboard.stats || []).map(s => `${s.label}: ${s.value}`);
+  if (seatCount > 1) {
+    statsLines.push(`Seat type: ${seatCount}-seat at-large district (candidate must finish in top ${seatCount} to win)`);
+  }
+  const stats = statsLines.join('\n');
   const demos    = (dashboard.demos  || []).map(d => `${d.label}: ${d.pct}%`).join('\n');
   const dem      = dashboard.dem ?? '?';
   const rep      = dashboard.rep ?? '?';
@@ -297,12 +309,12 @@ async function main() {
 
   // ── Build batch requests ──────────────────────────────────────────────────
 
-  const requests = emptyDistricts.map(({ id, dashboard }) => ({
+  const requests = emptyDistricts.map(({ id, dashboard, seatCount }) => ({
     custom_id: id,
     params: {
       model: MODEL,
       max_tokens: 2000,
-      messages: [{ role: 'user', content: buildPrompt(id, dashboard) }],
+      messages: [{ role: 'user', content: buildPrompt(id, dashboard, seatCount) }],
     },
   }));
 
