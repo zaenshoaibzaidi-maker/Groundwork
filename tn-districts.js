@@ -10,8 +10,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-1",
     name: "Tennessee House District 1",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "John Crawford",
     incumbentParty: "Republican",
@@ -57,8 +55,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-2",
     name: "Tennessee House District 2",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Bud Hulsey",
     incumbentParty: "Republican",
@@ -104,8 +100,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-3",
     name: "Tennessee House District 3",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Timothy Aaron Hill",
     incumbentParty: "Republican",
@@ -151,8 +145,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-4",
     name: "Tennessee House District 4",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Renea Jones",
     incumbentParty: "Republican",
@@ -199,8 +191,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-5",
     name: "Tennessee House District 5",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "David B. Hawk",
     incumbentParty: "Republican",
@@ -246,8 +236,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-6",
     name: "Tennessee House District 6",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Tim Hicks",
     incumbentParty: "Republican",
@@ -293,8 +281,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-7",
     name: "Tennessee House District 7",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Rebecca K. Alexander",
     incumbentParty: "Republican",
@@ -340,8 +326,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-8",
     name: "Tennessee House District 8",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Jerome Moon",
     incumbentParty: "Republican",
@@ -388,8 +372,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-9",
     name: "Tennessee House District 9",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Gary W Hicks JR",
     incumbentParty: "Republican",
@@ -435,8 +417,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-10",
     name: "Tennessee House District 10",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Rick Eldridge",
     incumbentParty: "Republican",
@@ -482,8 +462,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-11",
     name: "Tennessee House District 11",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Jeremy Faison",
     incumbentParty: "Republican",
@@ -529,8 +507,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-12",
     name: "Tennessee House District 12",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Fred A. Atchley",
     incumbentParty: "Republican",
@@ -577,8 +553,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-13",
     name: "Tennessee House District 13",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Robert Stevens",
     incumbentParty: "Republican",
@@ -624,8 +598,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-14",
     name: "Tennessee House District 14",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Jason Zachary",
     incumbentParty: "Republican",
@@ -671,8 +643,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-15",
     name: "Tennessee House District 15",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Sam Mckenzie",
     incumbentParty: "Democrat",
@@ -718,8 +688,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-16",
     name: "Tennessee House District 16",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Michele Carringer",
     incumbentParty: "Republican",
@@ -765,8 +733,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-17",
     name: "Tennessee House District 17",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Andrew Ellis Farmer",
     incumbentParty: "Republican",
@@ -813,8 +779,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-18",
     name: "Tennessee House District 18",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Elaine Davis",
     incumbentParty: "Republican",
@@ -860,8 +824,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-19",
     name: "Tennessee House District 19",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Dave Wright",
     incumbentParty: "Republican",
@@ -907,8 +869,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-20",
     name: "Tennessee House District 20",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Tom Stinnett",
     incumbentParty: "Republican",
@@ -954,8 +914,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-21",
     name: "Tennessee House District 21",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Lowell Russell",
     incumbentParty: "Republican",
@@ -1003,8 +961,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-22",
     name: "Tennessee House District 22",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Dan Howell",
     incumbentParty: "Republican",
@@ -1050,8 +1006,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-23",
     name: "Tennessee House District 23",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Mark Cochran",
     incumbentParty: "Republican",
@@ -1097,8 +1051,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-24",
     name: "Tennessee House District 24",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Kevin Raper",
     incumbentParty: "Republican",
@@ -1144,8 +1096,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-25",
     name: "Tennessee House District 25",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Cameron Sexton",
     incumbentParty: "Republican",
@@ -1191,8 +1141,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-26",
     name: "Tennessee House District 26",
-    city: "Nashville",
-    region: "Nashville Metro",
     type: "state house district",
     incumbentName: "Greg Martin",
     incumbentParty: "Republican",
@@ -1238,8 +1186,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-27",
     name: "Tennessee House District 27",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Michele Reneau",
     incumbentParty: "Republican",
@@ -1285,8 +1231,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-28",
     name: "Tennessee House District 28",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Yusuf A. Hakeem",
     incumbentParty: "Democrat",
@@ -1332,8 +1276,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-29",
     name: "Tennessee House District 29",
-    city: "Nashville (Davidson/Williamson County suburbs)",
-    region: "Nashville Metro",
     type: "state house district",
     incumbentName: "Greg Vital",
     incumbentParty: "Republican",
@@ -1379,8 +1321,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-30",
     name: "Tennessee House District 30",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Esther Helton-haynes",
     incumbentParty: "Republican",
@@ -1426,8 +1366,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-31",
     name: "Tennessee House District 31",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Ron Travis",
     incumbentParty: "Republican",
@@ -1473,8 +1411,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-32",
     name: "Tennessee House District 32",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Monty G. Fritts",
     incumbentParty: "Republican",
@@ -1520,8 +1456,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-33",
     name: "Tennessee House District 33",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Rick Scarbrough",
     incumbentParty: "Republican",
@@ -1567,8 +1501,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-34",
     name: "Tennessee House District 34",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Tim Rudd",
     incumbentParty: "Republican",
@@ -1614,8 +1546,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-35",
     name: "Tennessee House District 35",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "William H Slater",
     incumbentParty: "Republican",
@@ -1661,8 +1591,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-36",
     name: "Tennessee House District 36",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Dennis Powers",
     incumbentParty: "Republican",
@@ -1708,8 +1636,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-37",
     name: "Tennessee House District 37",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Charlie Baum",
     incumbentParty: "Republican",
@@ -1755,8 +1681,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-38",
     name: "Tennessee House District 38",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Kelly T Keisling",
     incumbentParty: "Republican",
@@ -1803,8 +1727,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-39",
     name: "Tennessee House District 39",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Iris Rudder",
     incumbentParty: "Republican",
@@ -1850,8 +1772,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-40",
     name: "Tennessee House District 40",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Michael Hale",
     incumbentParty: "Republican",
@@ -1897,8 +1817,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-41",
     name: "Tennessee House District 41",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Ed Butler",
     incumbentParty: "Republican",
@@ -1944,8 +1862,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-42",
     name: "Tennessee House District 42",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Ryan D. Williams",
     incumbentParty: "Republican",
@@ -1991,8 +1907,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-43",
     name: "Tennessee House District 43",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Paul Sherrell",
     incumbentParty: "Republican",
@@ -2038,8 +1952,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-44",
     name: "Tennessee House District 44",
-    city: "Franklin",
-    region: "Middle Tennessee",
     type: "state house district",
     incumbentName: "William Lamberth",
     incumbentParty: "Republican",
@@ -2085,8 +1997,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-45",
     name: "Tennessee House District 45",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Johnny Garrett",
     incumbentParty: "Republican",
@@ -2132,8 +2042,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-46",
     name: "Tennessee House District 46",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Clark Boyd",
     incumbentParty: "Republican",
@@ -2179,8 +2087,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-47",
     name: "Tennessee House District 47",
-    city: "Knoxville area",
-    region: "East Tennessee",
     type: "state house district",
     incumbentName: "Rush Bricken",
     incumbentParty: "Republican",
@@ -2226,8 +2132,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-48",
     name: "Tennessee House District 48",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Bryan Terry",
     incumbentParty: "Republican",
@@ -2273,8 +2177,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-49",
     name: "Tennessee House District 49",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Mike Sparks",
     incumbentParty: "Republican",
@@ -2320,8 +2222,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-50",
     name: "Tennessee House District 50",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Bo Mitchell",
     incumbentParty: "Democrat",
@@ -2367,8 +2267,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-51",
     name: "Tennessee House District 51",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Aftyn Behn",
     incumbentParty: "Democrat",
@@ -2416,8 +2314,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-52",
     name: "Tennessee House District 52",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Justin Jones",
     incumbentParty: "Democrat",
@@ -2463,8 +2359,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-53",
     name: "Tennessee House District 53",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Jason L Powell",
     incumbentParty: "Democrat",
@@ -2510,8 +2404,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-54",
     name: "Tennessee House District 54",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Vincent Dixie",
     incumbentParty: "Democrat",
@@ -2558,8 +2450,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-55",
     name: "Tennessee House District 55",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "John Ray Clemmons",
     incumbentParty: "Democrat",
@@ -2605,8 +2495,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-56",
     name: "Tennessee House District 56",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Bob Freeman",
     incumbentParty: "Democrat",
@@ -2652,8 +2540,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-57",
     name: "Tennessee House District 57",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Susan M Lynn",
     incumbentParty: "Republican",
@@ -2699,8 +2585,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-58",
     name: "Tennessee House District 58",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Harold M. Love, Jr.",
     incumbentParty: "Democrat",
@@ -2746,8 +2630,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-59",
     name: "Tennessee House District 59",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Caleb Hemmer",
     incumbentParty: "Democrat",
@@ -2793,8 +2675,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-60",
     name: "Tennessee House District 60",
-    city: "Nashville",
-    region: "Davidson County Metro",
     type: "state house district",
     incumbentName: "Shaundelle Brooks",
     incumbentParty: "Democrat",
@@ -2840,8 +2720,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-61",
     name: "Tennessee House District 61",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Gino Bulso",
     incumbentParty: "Republican",
@@ -2887,8 +2765,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-62",
     name: "Tennessee House District 62",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Pat Marsh",
     incumbentParty: "Republican",
@@ -2934,8 +2810,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-63",
     name: "Tennessee House District 63",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Jake Mccalmon",
     incumbentParty: "Republican",
@@ -2981,8 +2855,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-64",
     name: "Tennessee House District 64",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Scott Cepicky",
     incumbentParty: "Republican",
@@ -3029,8 +2901,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-65",
     name: "Tennessee House District 65",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Lee Reeves",
     incumbentParty: "Republican",
@@ -3076,8 +2946,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-66",
     name: "Tennessee House District 66",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Sabi (doc) Kumar",
     incumbentParty: "Republican",
@@ -3123,8 +2991,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-67",
     name: "Tennessee House District 67",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Ronnie Glynn",
     incumbentParty: "Democrat",
@@ -3170,8 +3036,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-68",
     name: "Tennessee House District 68",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Aron Maberry",
     incumbentParty: "Republican",
@@ -3217,8 +3081,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-69",
     name: "Tennessee House District 69",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Joseph M. \"jody\" Barrett",
     incumbentParty: "Republican",
@@ -3264,8 +3126,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-70",
     name: "Tennessee House District 70",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Clay Doggett",
     incumbentParty: "Republican",
@@ -3311,8 +3171,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-71",
     name: "Tennessee House District 71",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Kip Capley",
     incumbentParty: "Republican",
@@ -3359,8 +3217,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-72",
     name: "Tennessee House District 72",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Kirk Haston",
     incumbentParty: "Republican",
@@ -3406,8 +3262,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-73",
     name: "Tennessee House District 73",
-    city: "Nashville",
-    region: "Middle Tennessee",
     type: "state house district",
     incumbentName: "Chris Todd",
     incumbentParty: "Republican",
@@ -3453,8 +3307,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-74",
     name: "Tennessee House District 74",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Jay D. Reedy",
     incumbentParty: "Republican",
@@ -3501,8 +3353,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-75",
     name: "Tennessee House District 75",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Jeff Burkhart",
     incumbentParty: "Republican",
@@ -3548,8 +3398,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-76",
     name: "Tennessee House District 76",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Tandy Darby",
     incumbentParty: "Republican",
@@ -3595,8 +3443,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-77",
     name: "Tennessee House District 77",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Rusty Grills",
     incumbentParty: "Republican",
@@ -3642,8 +3488,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-78",
     name: "Tennessee House District 78",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Mary Littleton",
     incumbentParty: "Republican",
@@ -3690,8 +3534,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-79",
     name: "Tennessee House District 79",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Brock Martin",
     incumbentParty: "Republican",
@@ -3737,8 +3579,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-80",
     name: "Tennessee House District 80",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Johnny W. Shaw",
     incumbentParty: "Democrat",
@@ -3784,8 +3624,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-81",
     name: "Tennessee House District 81",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Debra Moody",
     incumbentParty: "Republican",
@@ -3831,8 +3669,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-82",
     name: "Tennessee House District 82",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Chris Hurt",
     incumbentParty: "Republican",
@@ -3878,8 +3714,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-83",
     name: "Tennessee House District 83",
-    city: "Nashville (Belle Meade / West End area)",
-    region: "Nashville Metro",
     type: "state house district",
     incumbentName: "Mark White",
     incumbentParty: "Republican",
@@ -3925,8 +3759,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-84",
     name: "Tennessee House District 84",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Joe Towns Jr.",
     incumbentParty: "Democrat",
@@ -3972,8 +3804,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-85",
     name: "Tennessee House District 85",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Jesse Chism",
     incumbentParty: "Democrat",
@@ -4019,8 +3849,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-86",
     name: "Tennessee House District 86",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Justin J. Pearson",
     incumbentParty: "Democrat",
@@ -4066,8 +3894,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-87",
     name: "Tennessee House District 87",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Karen Camper",
     incumbentParty: "Democrat",
@@ -4113,8 +3939,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-88",
     name: "Tennessee House District 88",
-    city: "Memphis",
-    region: "West Tennessee",
     type: "state house district",
     incumbentName: "Larry J. Miller",
     incumbentParty: "Democrat",
@@ -4160,8 +3984,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-89",
     name: "Tennessee House District 89",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Justin Lafferty",
     incumbentParty: "Republican",
@@ -4207,8 +4029,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-90",
     name: "Tennessee House District 90",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Gloria Johnson",
     incumbentParty: "Democrat",
@@ -4254,8 +4074,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-91",
     name: "Tennessee House District 91",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Torrey C. Harris",
     incumbentParty: "Democrat",
@@ -4301,8 +4119,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-92",
     name: "Tennessee House District 92",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Todd Warner",
     incumbentParty: "Republican",
@@ -4348,8 +4164,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-93",
     name: "Tennessee House District 93",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "G. A. Hardaway, Sr.",
     incumbentParty: "Democrat",
@@ -4395,8 +4209,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-94",
     name: "Tennessee House District 94",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Ron M. Gant",
     incumbentParty: "Republican",
@@ -4442,8 +4254,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-95",
     name: "Tennessee House District 95",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Kevin Vaughan",
     incumbentParty: "Republican",
@@ -4489,8 +4299,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-96",
     name: "Tennessee House District 96",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Gabby Salinas",
     incumbentParty: "Democrat",
@@ -4536,8 +4344,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-97",
     name: "Tennessee House District 97",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "John Gillespie",
     incumbentParty: "Republican",
@@ -4584,8 +4390,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-98",
     name: "Tennessee House District 98",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Antonio Parkinson",
     incumbentParty: "Democrat",
@@ -4631,8 +4435,6 @@ const TN_HOUSE_DISTRICTS = [
   {
     id: "tn-hd-99",
     name: "Tennessee House District 99",
-    city: "TBD",
-    region: "TBD",
     type: "state house district",
     incumbentName: "Tom Leatherwood",
     incumbentParty: "Republican",
@@ -4681,8 +4483,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-1",
     name: "Tennessee Senate District 1",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "J. Adam Lowe",
     incumbentParty: "Republican",
@@ -4728,8 +4528,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-2",
     name: "Tennessee Senate District 2",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Tom Hatcher",
     incumbentParty: "Republican",
@@ -4775,8 +4573,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-3",
     name: "Tennessee Senate District 3",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Rusty Crowe",
     incumbentParty: "Republican",
@@ -4823,8 +4619,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-4",
     name: "Tennessee Senate District 4",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Bobby Harshbarger",
     incumbentParty: "Republican",
@@ -4870,8 +4664,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-5",
     name: "Tennessee Senate District 5",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Randy Mcnally",
     incumbentParty: "Republican",
@@ -4918,8 +4710,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-6",
     name: "Tennessee Senate District 6",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Becky Duncan Massey",
     incumbentParty: "Republican",
@@ -4965,8 +4755,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-7",
     name: "Tennessee Senate District 7",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Richard M. Briggs",
     incumbentParty: "Republican",
@@ -5012,8 +4800,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-8",
     name: "Tennessee Senate District 8",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Jessie Seal",
     incumbentParty: "Republican",
@@ -5060,8 +4846,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-9",
     name: "Tennessee Senate District 9",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Steve Southerland",
     incumbentParty: "Republican",
@@ -5107,8 +4891,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-10",
     name: "Tennessee Senate District 10",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Todd Gardenhire",
     incumbentParty: "Republican",
@@ -5154,8 +4936,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-11",
     name: "Tennessee Senate District 11",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Bo Watson",
     incumbentParty: "Republican",
@@ -5201,8 +4981,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-12",
     name: "Tennessee Senate District 12",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Ken Yager",
     incumbentParty: "Republican",
@@ -5248,8 +5026,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-13",
     name: "Tennessee Senate District 13",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Dawn White",
     incumbentParty: "Republican",
@@ -5295,8 +5071,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-14",
     name: "Tennessee Senate District 14",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Shane Reeves",
     incumbentParty: "Republican",
@@ -5342,8 +5116,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-15",
     name: "Tennessee Senate District 15",
-    city: "Unopposed District (Bailey)",
-    region: "Middle Tennessee",
     type: "state senate district",
     incumbentName: "Paul Bailey",
     incumbentParty: "Republican",
@@ -5389,8 +5161,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-16",
     name: "Tennessee Senate District 16",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Janice Bowling",
     incumbentParty: "Republican",
@@ -5437,8 +5207,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-17",
     name: "Tennessee Senate District 17",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Mark Pody",
     incumbentParty: "Republican",
@@ -5484,8 +5252,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-18",
     name: "Tennessee Senate District 18",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Ferrell Haile",
     incumbentParty: "Republican",
@@ -5531,8 +5297,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-19",
     name: "Tennessee Senate District 19",
-    city: "Nashville",
-    region: "Davidson County / Nashville Metro",
     type: "state senate district",
     incumbentName: "Charlane Oliver",
     incumbentParty: "Democrat",
@@ -5578,8 +5342,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-20",
     name: "Tennessee Senate District 20",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Heidi Campbell",
     incumbentParty: "Democrat",
@@ -5625,8 +5387,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-21",
     name: "Tennessee Senate District 21",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Jeff Yarbro",
     incumbentParty: "Democrat",
@@ -5672,8 +5432,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-22",
     name: "Tennessee Senate District 22",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Bill Powers",
     incumbentParty: "Republican",
@@ -5719,8 +5477,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-23",
     name: "Tennessee Senate District 23",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Kerry Roberts",
     incumbentParty: "Republican",
@@ -5766,8 +5522,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-24",
     name: "Tennessee Senate District 24",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "John D. Stevens",
     incumbentParty: "Republican",
@@ -5813,8 +5567,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-25",
     name: "Tennessee Senate District 25",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Ed Jackson",
     incumbentParty: "Republican",
@@ -5860,8 +5612,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-26",
     name: "Tennessee Senate District 26",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Page Walley",
     incumbentParty: "Republican",
@@ -5907,8 +5657,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-27",
     name: "Tennessee Senate District 27",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Jack Johnson",
     incumbentParty: "Republican",
@@ -5954,8 +5702,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-28",
     name: "Tennessee Senate District 28",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Joey Hensley",
     incumbentParty: "Republican",
@@ -6001,8 +5747,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-29",
     name: "Tennessee Senate District 29",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Raumesh Akbari",
     incumbentParty: "Democrat",
@@ -6048,8 +5792,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-30",
     name: "Tennessee Senate District 30",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Sara P. Kyle",
     incumbentParty: "Democrat",
@@ -6095,8 +5837,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-31",
     name: "Tennessee Senate District 31",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Brent Taylor",
     incumbentParty: "Republican",
@@ -6142,8 +5882,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-32",
     name: "Tennessee Senate District 32",
-    city: "TBD",
-    region: "TBD",
     type: "state senate district",
     incumbentName: "Paul W. Rose",
     incumbentParty: "Republican",
@@ -6189,8 +5927,6 @@ const TN_SENATE_DISTRICTS = [
   {
     id: "tn-sd-33",
     name: "Tennessee Senate District 33",
-    city: "Nashville",
-    region: "Davidson County Urban Core",
     type: "state senate district",
     incumbentName: "London Lamar",
     incumbentParty: "Democrat",

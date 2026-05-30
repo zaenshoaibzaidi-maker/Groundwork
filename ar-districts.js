@@ -10,8 +10,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-1",
     name: "Arkansas House District 1",
-    city: "Paragould",
-    region: "Northeast Arkansas",
     type: "state house district",
     incumbentName: "Jeremy Wooldridge",
     incumbentParty: "Republican",
@@ -57,8 +55,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-2",
     name: "Arkansas House District 2",
-    city: "Pocahontas",
-    region: "Northeast Arkansas",
     type: "state house district",
     incumbentName: "Trey Steimel",
     incumbentParty: "Republican",
@@ -104,8 +100,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-3",
     name: "Arkansas House District 3",
-    city: "Corning",
-    region: "Northeast Arkansas",
     type: "state house district",
     incumbentName: "Stetson Painter",
     incumbentParty: "Republican",
@@ -151,8 +145,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-4",
     name: "Arkansas House District 4",
-    city: "Jonesboro",
-    region: "Northeast Arkansas",
     type: "state house district",
     incumbentName: "Jason Nazarenko",
     incumbentParty: "Republican",
@@ -198,8 +190,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-5",
     name: "Arkansas House District 5",
-    city: "Blytheville",
-    region: "Arkansas Delta",
     type: "state house district",
     incumbentName: "Ron Mcnair",
     incumbentParty: "Republican",
@@ -245,8 +235,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-6",
     name: "Arkansas House District 6",
-    city: "Hardy",
-    region: "Ozark Mountains",
     type: "state house district",
     incumbentName: "Harlan Breaux",
     incumbentParty: "Republican",
@@ -292,8 +280,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-7",
     name: "Arkansas House District 7",
-    city: "Siloam Springs",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "Brit Mckenzie",
     incumbentParty: "Republican",
@@ -339,8 +325,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-8",
     name: "Arkansas House District 8",
-    city: "Rogers",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "Representative Austin Mccollum",
     incumbentParty: "Republican",
@@ -386,8 +370,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-9",
     name: "Arkansas House District 9",
-    city: "Springdale",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "Diana Gonzales Worthen",
     incumbentParty: "Democrat",
@@ -433,8 +415,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-10",
     name: "Arkansas House District 10",
-    city: "Rogers",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "Mindy Mcalindon",
     incumbentParty: "Republican",
@@ -480,8 +460,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-11",
     name: "Arkansas House District 11",
-    city: "Springdale",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "Rebecca Burkes",
     incumbentParty: "Republican",
@@ -527,8 +505,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-12",
     name: "Arkansas House District 12",
-    city: "Bentonville",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "Hope Hendren Duke",
     incumbentParty: "Republican",
@@ -574,8 +550,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-13",
     name: "Arkansas House District 13",
-    city: "Fayetteville",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "R. Scott Richardson",
     incumbentParty: "Republican",
@@ -621,8 +595,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-14",
     name: "Arkansas House District 14",
-    city: "Bentonville",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "Nick Burkes",
     incumbentParty: "Republican",
@@ -668,8 +640,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-15",
     name: "Arkansas House District 15",
-    city: "Springdale",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "John P. Carr",
     incumbentParty: "Republican",
@@ -715,8 +685,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-16",
     name: "Arkansas House District 16",
-    city: "Bentonville",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "Representative Kendon Underwood",
     incumbentParty: "Republican",
@@ -762,8 +730,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-17",
     name: "Arkansas House District 17",
-    city: "Springdale",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "Randy Torres",
     incumbentParty: "Republican",
@@ -809,8 +775,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-18",
     name: "Arkansas House District 18",
-    city: "Fayetteville",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "Robin Lundstrum",
     incumbentParty: "Republican",
@@ -856,8 +820,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-19",
     name: "Arkansas House District 19",
-    city: "Springdale",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "Representative Steve Unger",
     incumbentParty: "Republican",
@@ -903,8 +865,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-20",
     name: "Arkansas House District 20",
-    city: "Fayetteville",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "Representative Denise Garner",
     incumbentParty: "Democrat",
@@ -950,8 +910,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-21",
     name: "Arkansas House District 21",
-    city: "Fayetteville",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "Representative Nicole Clowney",
     incumbentParty: "Democrat",
@@ -997,8 +955,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-22",
     name: "Arkansas House District 22",
-    city: "Fayetteville",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "David Whitaker",
     incumbentParty: "Democrat",
@@ -1044,8 +1000,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-23",
     name: "Arkansas House District 23",
-    city: "Huntsville",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "Kendra Moore",
     incumbentParty: "Republican",
@@ -1091,8 +1045,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-24",
     name: "Arkansas House District 24",
-    city: "Harrison",
-    region: "Ozark Mountains",
     type: "state house district",
     incumbentName: "Brad Hall",
     incumbentParty: "Republican",
@@ -1138,8 +1090,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-25",
     name: "Arkansas House District 25",
-    city: "Bella Vista",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "Chad Puryear",
     incumbentParty: "Republican",
@@ -1185,8 +1135,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-26",
     name: "Arkansas House District 26",
-    city: "Van Buren",
-    region: "River Valley",
     type: "state house district",
     incumbentName: "James Eaton",
     incumbentParty: "Republican",
@@ -1232,8 +1180,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-27",
     name: "Arkansas House District 27",
-    city: "Alma",
-    region: "River Valley",
     type: "state house district",
     incumbentName: "Steven Walker",
     incumbentParty: "Republican",
@@ -1279,8 +1225,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-28",
     name: "Arkansas House District 28",
-    city: "Mountain Home",
-    region: "Ozark Mountains",
     type: "state house district",
     incumbentName: "Bart Schulz",
     incumbentParty: "Republican",
@@ -1326,8 +1270,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-29",
     name: "Arkansas House District 29",
-    city: "Fort Smith",
-    region: "River Valley",
     type: "state house district",
     incumbentName: "Rick Mcclure",
     incumbentParty: "Republican",
@@ -1373,8 +1315,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-30",
     name: "Arkansas House District 30",
-    city: "Newport",
-    region: "Northeast Arkansas",
     type: "state house district",
     incumbentName: "Fran Cavenaugh",
     incumbentParty: "Republican",
@@ -1420,8 +1360,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-31",
     name: "Arkansas House District 31",
-    city: "Paragould",
-    region: "Northeast Arkansas",
     type: "state house district",
     incumbentName: "Jimmy Gazaway",
     incumbentParty: "Republican",
@@ -1467,8 +1405,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-32",
     name: "Arkansas House District 32",
-    city: "Jonesboro",
-    region: "Northeast Arkansas",
     type: "state house district",
     incumbentName: "Jack Ladyman",
     incumbentParty: "Republican",
@@ -1514,8 +1450,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-33",
     name: "Arkansas House District 33",
-    city: "Jonesboro",
-    region: "Northeast Arkansas",
     type: "state house district",
     incumbentName: "Jon Milligan",
     incumbentParty: "Republican",
@@ -1561,8 +1495,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-34",
     name: "Arkansas House District 34",
-    city: "Forrest City",
-    region: "Arkansas Delta",
     type: "state house district",
     incumbentName: "Joey Carr",
     incumbentParty: "Republican",
@@ -1608,8 +1540,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-35",
     name: "Arkansas House District 35",
-    city: "West Memphis",
-    region: "Arkansas Delta",
     type: "state house district",
     incumbentName: "Jessie Mcgruder",
     incumbentParty: "Democrat",
@@ -1655,8 +1585,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-36",
     name: "Arkansas House District 36",
-    city: "Jonesboro",
-    region: "Northeast Arkansas",
     type: "state house district",
     incumbentName: "Representative Johnny Rye",
     incumbentParty: "Republican",
@@ -1702,8 +1630,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-37",
     name: "Arkansas House District 37",
-    city: "Blytheville",
-    region: "Arkansas Delta",
     type: "state house district",
     incumbentName: "Representative Steve Hollowell",
     incumbentParty: "Republican",
@@ -1749,8 +1675,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-38",
     name: "Arkansas House District 38",
-    city: "Jonesboro",
-    region: "Northeast Arkansas",
     type: "state house district",
     incumbentName: "Dwight Tosh",
     incumbentParty: "Republican",
@@ -1796,8 +1720,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-39",
     name: "Arkansas House District 39",
-    city: "Walnut Ridge",
-    region: "Northeast Arkansas",
     type: "state house district",
     incumbentName: "Wayne Long",
     incumbentParty: "Republican",
@@ -1843,8 +1765,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-40",
     name: "Arkansas House District 40",
-    city: "Batesville",
-    region: "Ozark Mountains",
     type: "state house district",
     incumbentName: "Shad Pearce",
     incumbentParty: "Republican",
@@ -1890,8 +1810,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-41",
     name: "Arkansas House District 41",
-    city: "Wynne",
-    region: "Arkansas Delta",
     type: "state house district",
     incumbentName: "Alyssa Brown",
     incumbentParty: "Republican",
@@ -1937,8 +1855,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-42",
     name: "Arkansas House District 42",
-    city: "Searcy",
-    region: "Ozark Mountains",
     type: "state house district",
     incumbentName: "Representative Stephen Meeks",
     incumbentParty: "Republican",
@@ -1984,8 +1900,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-43",
     name: "Arkansas House District 43",
-    city: "Heber Springs",
-    region: "Ozark Mountains",
     type: "state house district",
     incumbentName: "Representative Rick Beck",
     incumbentParty: "Republican",
@@ -2031,8 +1945,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-44",
     name: "Arkansas House District 44",
-    city: "Morrilton",
-    region: "River Valley",
     type: "state house district",
     incumbentName: "Stan Berry",
     incumbentParty: "Republican",
@@ -2078,8 +1990,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-45",
     name: "Arkansas House District 45",
-    city: "Fort Smith",
-    region: "River Valley",
     type: "state house district",
     incumbentName: "Aaron M. Pilkington",
     incumbentParty: "Republican",
@@ -2125,8 +2035,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-46",
     name: "Arkansas House District 46",
-    city: "Paris",
-    region: "River Valley",
     type: "state house district",
     incumbentName: "Jon S. Eubanks",
     incumbentParty: "Republican",
@@ -2172,8 +2080,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-47",
     name: "Arkansas House District 47",
-    city: "Danville",
-    region: "River Valley",
     type: "state house district",
     incumbentName: "Lee Johnson",
     incumbentParty: "Republican",
@@ -2219,8 +2125,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-48",
     name: "Arkansas House District 48",
-    city: "Fort Smith",
-    region: "River Valley",
     type: "state house district",
     incumbentName: "Ryan A. Rose",
     incumbentParty: "Republican",
@@ -2266,8 +2170,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-49",
     name: "Arkansas House District 49",
-    city: "Fort Smith",
-    region: "River Valley",
     type: "state house district",
     incumbentName: "Representative Jay Richardson",
     incumbentParty: "Democrat",
@@ -2313,8 +2215,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-50",
     name: "Arkansas House District 50",
-    city: "Conway",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Zack Gramlich",
     incumbentParty: "Republican",
@@ -2360,8 +2260,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-51",
     name: "Arkansas House District 51",
-    city: "Rogers",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "Cindy Crawford",
     incumbentParty: "Republican",
@@ -2407,8 +2305,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-52",
     name: "Arkansas House District 52",
-    city: "Fort Smith",
-    region: "River Valley",
     type: "state house district",
     incumbentName: "Marcus E. Richmond",
     incumbentParty: "Republican",
@@ -2454,8 +2350,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-53",
     name: "Arkansas House District 53",
-    city: "Fort Smith",
-    region: "River Valley",
     type: "state house district",
     incumbentName: "Matt Duffield",
     incumbentParty: "Republican",
@@ -2501,8 +2395,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-54",
     name: "Arkansas House District 54",
-    city: "Morrilton",
-    region: "River Valley",
     type: "state house district",
     incumbentName: "Mary Bentley",
     incumbentParty: "Republican",
@@ -2548,8 +2440,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-55",
     name: "Arkansas House District 55",
-    city: "Fayetteville",
-    region: "Northwest Arkansas",
     type: "state house district",
     incumbentName: "Matt Brown",
     incumbentParty: "Republican",
@@ -2595,8 +2485,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-56",
     name: "Arkansas House District 56",
-    city: "Conway",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Steve Magie",
     incumbentParty: "Democrat",
@@ -2642,8 +2530,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-57",
     name: "Arkansas House District 57",
-    city: "Searcy",
-    region: "Ozark Mountains",
     type: "state house district",
     incumbentName: "Representative Cameron Cooper",
     incumbentParty: "Republican",
@@ -2689,8 +2575,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-58",
     name: "Arkansas House District 58",
-    city: "Conway",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Les Eaves",
     incumbentParty: "Republican",
@@ -2736,8 +2620,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-59",
     name: "Arkansas House District 59",
-    city: "Conway",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "State Rep. Jim Wooten",
     incumbentParty: "Republican",
@@ -2783,8 +2665,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-60",
     name: "Arkansas House District 60",
-    city: "Russellville",
-    region: "River Valley",
     type: "state house district",
     incumbentName: "Roger D. Lynch",
     incumbentParty: "Republican",
@@ -2830,8 +2710,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-61",
     name: "Arkansas House District 61",
-    city: "White Hall",
-    region: "Arkansas Delta",
     type: "state house district",
     incumbentName: "Representative Jeremiah Moore",
     incumbentParty: "Republican",
@@ -2877,8 +2755,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-62",
     name: "Arkansas House District 62",
-    city: "Pine Bluff",
-    region: "Arkansas Delta",
     type: "state house district",
     incumbentName: "Mark D. Mcelroy",
     incumbentParty: "Republican",
@@ -2924,8 +2800,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-63",
     name: "Arkansas House District 63",
-    city: "Pine Bluff",
-    region: "Arkansas Delta",
     type: "state house district",
     incumbentName: "Mayor Lincoln Barnett",
     incumbentParty: "Democrat",
@@ -2971,8 +2845,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-64",
     name: "Arkansas House District 64",
-    city: "Pine Bluff",
-    region: "Arkansas Delta",
     type: "state house district",
     incumbentName: "Ken Ferguson",
     incumbentParty: "Democrat",
@@ -3018,8 +2890,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-65",
     name: "Arkansas House District 65",
-    city: "Pine Bluff",
-    region: "Arkansas Delta",
     type: "state house district",
     incumbentName: "Glenn Barnes",
     incumbentParty: "Democrat",
@@ -3065,8 +2935,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-66",
     name: "Arkansas House District 66",
-    city: "Pine Bluff",
-    region: "Arkansas Delta",
     type: "state house district",
     incumbentName: "Mark W. Perry",
     incumbentParty: "Democrat",
@@ -3112,8 +2980,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-67",
     name: "Arkansas House District 67",
-    city: "White Hall",
-    region: "Arkansas Delta",
     type: "state house district",
     incumbentName: "Representative Karilyn Brown",
     incumbentParty: "Republican",
@@ -3159,8 +3025,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-68",
     name: "Arkansas House District 68",
-    city: "Bryant",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Brian S. Evans",
     incumbentParty: "Republican",
@@ -3206,8 +3070,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-69",
     name: "Arkansas House District 69",
-    city: "Benton",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "David Ray",
     incumbentParty: "Republican",
@@ -3253,8 +3115,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-70",
     name: "Arkansas House District 70",
-    city: "Benton",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Carlton Wing",
     incumbentParty: "Democrat",
@@ -3300,8 +3160,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-71",
     name: "Arkansas House District 71",
-    city: "Little Rock",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Brandon Achor",
     incumbentParty: "Republican",
@@ -3347,8 +3205,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-72",
     name: "Arkansas House District 72",
-    city: "North Little Rock",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Tracy Steele",
     incumbentParty: "Democrat",
@@ -3394,8 +3250,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-73",
     name: "Arkansas House District 73",
-    city: "Little Rock",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Representative Andrew Collins",
     incumbentParty: "Democrat",
@@ -3441,8 +3295,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-74",
     name: "Arkansas House District 74",
-    city: "Little Rock",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Representative Tippi Mccullough",
     incumbentParty: "Democrat",
@@ -3488,8 +3340,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-75",
     name: "Arkansas House District 75",
-    city: "Little Rock",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Representative Ashley Hudson",
     incumbentParty: "Democrat",
@@ -3535,8 +3385,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-76",
     name: "Arkansas House District 76",
-    city: "Little Rock",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Representative Joy C. Springer",
     incumbentParty: "Democrat",
@@ -3582,8 +3430,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-77",
     name: "Arkansas House District 77",
-    city: "North Little Rock",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Fred Allen",
     incumbentParty: "Democrat",
@@ -3629,8 +3475,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-78",
     name: "Arkansas House District 78",
-    city: "Little Rock",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Representative Keith Brooks",
     incumbentParty: "Republican",
@@ -3676,8 +3520,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-79",
     name: "Arkansas House District 79",
-    city: "Little Rock",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Tara Shephard",
     incumbentParty: "Democrat",
@@ -3723,8 +3565,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-80",
     name: "Arkansas House District 80",
-    city: "Jacksonville",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Denise Ennett",
     incumbentParty: "Democrat",
@@ -3770,8 +3610,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-81",
     name: "Arkansas House District 81",
-    city: "Cabot",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Rj Hawk",
     incumbentParty: "Republican",
@@ -3817,8 +3655,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-82",
     name: "Arkansas House District 82",
-    city: "Cabot",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Tony Furman",
     incumbentParty: "Republican",
@@ -3864,8 +3700,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-83",
     name: "Arkansas House District 83",
-    city: "Bryant",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Paul Childress",
     incumbentParty: "Republican",
@@ -3911,8 +3745,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-84",
     name: "Arkansas House District 84",
-    city: "Benton",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Les Warren",
     incumbentParty: "Republican",
@@ -3958,8 +3790,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-85",
     name: "Arkansas House District 85",
-    city: "Jacksonville",
-    region: "Little Rock Metro",
     type: "state house district",
     incumbentName: "Richard Mcgrew",
     incumbentParty: "Republican",
@@ -4005,8 +3835,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-86",
     name: "Arkansas House District 86",
-    city: "Fort Smith",
-    region: "River Valley",
     type: "state house district",
     incumbentName: "John Maddox",
     incumbentParty: "Republican",
@@ -4052,8 +3880,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-87",
     name: "Arkansas House District 87",
-    city: "DeQueen",
-    region: "Southwest Arkansas",
     type: "state house district",
     incumbentName: "Deann Vaught",
     incumbentParty: "Republican",
@@ -4099,8 +3925,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-88",
     name: "Arkansas House District 88",
-    city: "Texarkana",
-    region: "Southwest Arkansas",
     type: "state house district",
     incumbentName: "Dolly Henley",
     incumbentParty: "Republican",
@@ -4146,8 +3970,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-89",
     name: "Arkansas House District 89",
-    city: "El Dorado",
-    region: "South Arkansas",
     type: "state house district",
     incumbentName: "Justin Gonzales",
     incumbentParty: "Republican",
@@ -4193,8 +4015,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-90",
     name: "Arkansas House District 90",
-    city: "Camden",
-    region: "South Arkansas",
     type: "state house district",
     incumbentName: "Representative Richard Womack",
     incumbentParty: "Republican",
@@ -4240,8 +4060,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-91",
     name: "Arkansas House District 91",
-    city: "Hot Springs",
-    region: "Ouachita Mountains",
     type: "state house district",
     incumbentName: "Bruce Cozart",
     incumbentParty: "Republican",
@@ -4287,8 +4105,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-92",
     name: "Arkansas House District 92",
-    city: "Hot Springs",
-    region: "Ouachita Mountains",
     type: "state house district",
     incumbentName: "Julie Mayberry",
     incumbentParty: "Republican",
@@ -4334,8 +4150,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-93",
     name: "Arkansas House District 93",
-    city: "Malvern",
-    region: "Ouachita Mountains",
     type: "state house district",
     incumbentName: "Mike Holcomb",
     incumbentParty: "Republican",
@@ -4381,8 +4195,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-94",
     name: "Arkansas House District 94",
-    city: "Warren",
-    region: "South Arkansas",
     type: "state house district",
     incumbentName: "Jeff Wardlaw",
     incumbentParty: "Republican",
@@ -4428,8 +4240,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-95",
     name: "Arkansas House District 95",
-    city: "Crossett",
-    region: "South Arkansas",
     type: "state house district",
     incumbentName: "Representative Howard M. Beaty, Jr.",
     incumbentParty: "Republican",
@@ -4475,8 +4285,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-96",
     name: "Arkansas House District 96",
-    city: "Warren",
-    region: "South Arkansas",
     type: "state house district",
     incumbentName: "Sonia Eubanks Barker",
     incumbentParty: "Republican",
@@ -4522,8 +4330,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-97",
     name: "Arkansas House District 97",
-    city: "El Dorado",
-    region: "South Arkansas",
     type: "state house district",
     incumbentName: "Matthew J. Shepherd",
     incumbentParty: "Republican",
@@ -4569,8 +4375,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-98",
     name: "Arkansas House District 98",
-    city: "Dumas",
-    region: "Arkansas Delta",
     type: "state house district",
     incumbentName: "Wade Andrews",
     incumbentParty: "Republican",
@@ -4616,8 +4420,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-99",
     name: "Arkansas House District 99",
-    city: "Magnolia",
-    region: "South Arkansas",
     type: "state house district",
     incumbentName: "Lane Jean",
     incumbentParty: "Republican",
@@ -4663,8 +4465,6 @@ const AR_HOUSE_DISTRICTS = [
   {
     id: "ar-hd-100",
     name: "Arkansas House District 100",
-    city: "Texarkana",
-    region: "Southwest Arkansas",
     type: "state house district",
     incumbentName: "Carol Dalby",
     incumbentParty: "Republican",
@@ -4713,8 +4513,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-1",
     name: "Arkansas Senate District 1",
-    city: "Jonesboro",
-    region: "Northeast Arkansas",
     type: "state senate district",
     incumbentName: "Ben Gilmore",
     incumbentParty: "Republican",
@@ -4760,8 +4558,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-2",
     name: "Arkansas Senate District 2",
-    city: "Walnut Ridge",
-    region: "Northeast Arkansas",
     type: "state senate district",
     incumbentName: "Matt Stone",
     incumbentParty: "Republican",
@@ -4807,8 +4603,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-3",
     name: "Arkansas Senate District 3",
-    city: "Camden",
-    region: "South Arkansas",
     type: "state senate district",
     incumbentName: "Steve Crowell",
     incumbentParty: "Republican",
@@ -4854,8 +4648,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-4",
     name: "Arkansas Senate District 4",
-    city: "Texarkana",
-    region: "Southwest Arkansas",
     type: "state senate district",
     incumbentName: "Jimmy Hickey, Jr.",
     incumbentParty: "Republican",
@@ -4901,8 +4693,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-5",
     name: "Arkansas Senate District 5",
-    city: "Waldron",
-    region: "River Valley",
     type: "state senate district",
     incumbentName: "Terry Rice",
     incumbentParty: "Republican",
@@ -4948,8 +4738,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-6",
     name: "Arkansas Senate District 6",
-    city: "Paragould",
-    region: "Northeast Arkansas",
     type: "state senate district",
     incumbentName: "Matt Mckee",
     incumbentParty: "Republican",
@@ -4995,8 +4783,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-7",
     name: "Arkansas Senate District 7",
-    city: "Hot Springs",
-    region: "Ouachita Mountains",
     type: "state senate district",
     incumbentName: "Alan Clark",
     incumbentParty: "Republican",
@@ -5042,8 +4828,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-8",
     name: "Arkansas Senate District 8",
-    city: "Pine Bluff",
-    region: "Arkansas Delta",
     type: "state senate district",
     incumbentName: "Stephanie Flowers",
     incumbentParty: "Democrat",
@@ -5089,8 +4873,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-9",
     name: "Arkansas Senate District 9",
-    city: "Helena",
-    region: "Arkansas Delta",
     type: "state senate district",
     incumbentName: "Reginald Murdock",
     incumbentParty: "Democrat",
@@ -5136,8 +4918,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-10",
     name: "Arkansas Senate District 10",
-    city: "Pine Bluff",
-    region: "Arkansas Delta",
     type: "state senate district",
     incumbentName: "Ronald Caldwell",
     incumbentParty: "Republican",
@@ -5183,8 +4963,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-11",
     name: "Arkansas Senate District 11",
-    city: "Russellville",
-    region: "River Valley",
     type: "state senate district",
     incumbentName: "Ricky Hill",
     incumbentParty: "Republican",
@@ -5230,8 +5008,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-12",
     name: "Arkansas Senate District 12",
-    city: "North Little Rock",
-    region: "Little Rock Metro",
     type: "state senate district",
     incumbentName: "Representative Jamie Scott",
     incumbentParty: "Democrat",
@@ -5277,8 +5053,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-13",
     name: "Arkansas Senate District 13",
-    city: "North Little Rock",
-    region: "Little Rock Metro",
     type: "state senate district",
     incumbentName: "Jane English",
     incumbentParty: "Republican",
@@ -5324,8 +5098,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-14",
     name: "Arkansas Senate District 14",
-    city: "Little Rock",
-    region: "Little Rock Metro",
     type: "state senate district",
     incumbentName: "Clarke Tucker",
     incumbentParty: "Democrat",
@@ -5371,8 +5143,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-15",
     name: "Arkansas Senate District 15",
-    city: "Little Rock",
-    region: "Little Rock Metro",
     type: "state senate district",
     incumbentName: "Representative Fred Love",
     incumbentParty: "Democrat",
@@ -5418,8 +5188,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-16",
     name: "Arkansas Senate District 16",
-    city: "Benton",
-    region: "Little Rock Metro",
     type: "state senate district",
     incumbentName: "Kim Hammer",
     incumbentParty: "Republican",
@@ -5465,8 +5233,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-17",
     name: "Arkansas Senate District 17",
-    city: "Conway",
-    region: "Little Rock Metro",
     type: "state senate district",
     incumbentName: "Mark Johnson",
     incumbentParty: "Republican",
@@ -5512,8 +5278,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-18",
     name: "Arkansas Senate District 18",
-    city: "Searcy",
-    region: "Ozark Mountains",
     type: "state senate district",
     incumbentName: "Jonathan Dismang",
     incumbentParty: "Republican",
@@ -5559,8 +5323,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-19",
     name: "Arkansas Senate District 19",
-    city: "Forrest City",
-    region: "Arkansas Delta",
     type: "state senate district",
     incumbentName: "Dave Wallace",
     incumbentParty: "Republican",
@@ -5606,8 +5368,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-20",
     name: "Arkansas Senate District 20",
-    city: "Jonesboro",
-    region: "Northeast Arkansas",
     type: "state senate district",
     incumbentName: "Dan Sullivan",
     incumbentParty: "Republican",
@@ -5653,8 +5413,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-21",
     name: "Arkansas Senate District 21",
-    city: "Nashville",
-    region: "Southwest Arkansas",
     type: "state senate district",
     incumbentName: "Blake Johnson",
     incumbentParty: "Republican",
@@ -5700,8 +5458,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-22",
     name: "Arkansas Senate District 22",
-    city: "Clinton",
-    region: "Ozark Mountains",
     type: "state senate district",
     incumbentName: "John Payton",
     incumbentParty: "Republican",
@@ -5747,8 +5503,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-23",
     name: "Arkansas Senate District 23",
-    city: "Mountain Home",
-    region: "Ozark Mountains",
     type: "state senate district",
     incumbentName: "Scott Flippo",
     incumbentParty: "Republican",
@@ -5794,8 +5548,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-24",
     name: "Arkansas Senate District 24",
-    city: "Mountain View",
-    region: "Ozark Mountains",
     type: "state senate district",
     incumbentName: "Missy Thomas Irvin",
     incumbentParty: "Republican",
@@ -5841,8 +5593,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-25",
     name: "Arkansas Senate District 25",
-    city: "Fort Smith",
-    region: "River Valley",
     type: "state senate district",
     incumbentName: "Breanne Davis",
     incumbentParty: "Republican",
@@ -5888,8 +5638,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-26",
     name: "Arkansas Senate District 26",
-    city: "Morrilton",
-    region: "River Valley",
     type: "state senate district",
     incumbentName: "Gary Stubblefield",
     incumbentParty: "Republican",
@@ -5935,8 +5683,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-27",
     name: "Arkansas Senate District 27",
-    city: "Fort Smith",
-    region: "River Valley",
     type: "state senate district",
     incumbentName: "Justin Boyd",
     incumbentParty: "Republican",
@@ -5982,8 +5728,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-28",
     name: "Arkansas Senate District 28",
-    city: "Green Forest",
-    region: "Ozark Mountains",
     type: "state senate district",
     incumbentName: "Bryan B. King",
     incumbentParty: "Republican",
@@ -6029,8 +5773,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-29",
     name: "Arkansas Senate District 29",
-    city: "Pocahontas",
-    region: "Northeast Arkansas",
     type: "state senate district",
     incumbentName: "Jim Petty",
     incumbentParty: "Republican",
@@ -6076,8 +5818,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-30",
     name: "Arkansas Senate District 30",
-    city: "Fayetteville",
-    region: "Northwest Arkansas",
     type: "state senate district",
     incumbentName: "Greg Leding",
     incumbentParty: "Democrat",
@@ -6123,8 +5863,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-31",
     name: "Arkansas Senate District 31",
-    city: "Springdale",
-    region: "Northwest Arkansas",
     type: "state senate district",
     incumbentName: "Representative Clint Penzo",
     incumbentParty: "Republican",
@@ -6170,8 +5908,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-32",
     name: "Arkansas Senate District 32",
-    city: "Springdale",
-    region: "Northwest Arkansas",
     type: "state senate district",
     incumbentName: "Joshua Bryant",
     incumbentParty: "Republican",
@@ -6217,8 +5953,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-33",
     name: "Arkansas Senate District 33",
-    city: "Bentonville",
-    region: "Northwest Arkansas",
     type: "state senate district",
     incumbentName: "Bart Hester",
     incumbentParty: "Republican",
@@ -6264,8 +5998,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-34",
     name: "Arkansas Senate District 34",
-    city: "Bentonville",
-    region: "Northwest Arkansas",
     type: "state senate district",
     incumbentName: "Jim Dotson",
     incumbentParty: "Republican",
@@ -6311,8 +6043,6 @@ const AR_SENATE_DISTRICTS = [
   {
     id: "ar-sd-35",
     name: "Arkansas Senate District 35",
-    city: "Rogers",
-    region: "Northwest Arkansas",
     type: "state senate district",
     incumbentName: "Tyler Dees",
     incumbentParty: "Republican",

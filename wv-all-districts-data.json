@@ -1,0 +1,5274 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "West Virginia House District 1",
+      "census": {
+        "censusName": "Delegate District 1 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62247,
+        "medianAge": 48.4,
+        "totalPopulation": 18737,
+        "collegePct": 21.28,
+        "renterRatePct": 23.68,
+        "race": {
+          "whitePct": 94.7,
+          "nonHispanicWhitePct": 94.15,
+          "blackPct": 0.5,
+          "asianPct": 0.72,
+          "hispanicPct": 1.19
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 1,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Pat Mcgeehan",
+            "party": "Republican",
+            "votes": 7689,
+            "pct": 100
+          }
+        ],
+        "winner": "Pat Mcgeehan",
+        "winner_party": "Republican",
+        "winner_votes": 7689,
+        "total_votes": 7689,
+        "winner_pct": 100
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "West Virginia House District 2",
+      "census": {
+        "censusName": "Delegate District 2 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53257,
+        "medianAge": 43.7,
+        "totalPopulation": 17872,
+        "collegePct": 22.08,
+        "renterRatePct": 29.41,
+        "race": {
+          "whitePct": 91.73,
+          "nonHispanicWhitePct": 91.03,
+          "blackPct": 2.78,
+          "asianPct": 0.39,
+          "hispanicPct": 2.07
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 2,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Mark Zatezalo",
+            "party": "Republican",
+            "votes": 5206,
+            "pct": 68.25
+          },
+          {
+            "name": "Olivia  Dowler",
+            "party": "Democratic",
+            "votes": 2422,
+            "pct": 31.75
+          }
+        ],
+        "winner": "Mark Zatezalo",
+        "winner_party": "Republican",
+        "winner_votes": 5206,
+        "total_votes": 7628,
+        "winner_pct": 68.2
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "West Virginia House District 3",
+      "census": {
+        "censusName": "Delegate District 3 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56832,
+        "medianAge": 46.5,
+        "totalPopulation": 18930,
+        "collegePct": 21.67,
+        "renterRatePct": 21.3,
+        "race": {
+          "whitePct": 92,
+          "nonHispanicWhitePct": 91.48,
+          "blackPct": 2.04,
+          "asianPct": 0.39,
+          "hispanicPct": 1.75
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 3,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Jimmy Willis",
+            "party": "Republican",
+            "votes": 5128,
+            "pct": 68.83
+          },
+          {
+            "name": "David Cantrell",
+            "party": "Democratic",
+            "votes": 2322,
+            "pct": 31.17
+          }
+        ],
+        "winner": "Jimmy Willis",
+        "winner_party": "Republican",
+        "winner_votes": 5128,
+        "total_votes": 7450,
+        "winner_pct": 68.8
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "West Virginia House District 4",
+      "census": {
+        "censusName": "Delegate District 4 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76673,
+        "medianAge": 44.1,
+        "totalPopulation": 18568,
+        "collegePct": 34.43,
+        "renterRatePct": 18.58,
+        "race": {
+          "whitePct": 93.62,
+          "nonHispanicWhitePct": 93.42,
+          "blackPct": 2.02,
+          "asianPct": 0.53,
+          "hispanicPct": 1.55
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 4,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Bill Flanigan",
+            "party": "Republican",
+            "votes": 5991,
+            "pct": 65.95
+          },
+          {
+            "name": "Jonathan Johnny Haught",
+            "party": "Democratic",
+            "votes": 3093,
+            "pct": 34.05
+          }
+        ],
+        "winner": "Bill Flanigan",
+        "winner_party": "Republican",
+        "winner_votes": 5991,
+        "total_votes": 9084,
+        "winner_pct": 66
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "West Virginia House District 5",
+      "census": {
+        "censusName": "Delegate District 5 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44196,
+        "medianAge": 42.1,
+        "totalPopulation": 18508,
+        "collegePct": 30.96,
+        "renterRatePct": 49.58,
+        "race": {
+          "whitePct": 88.49,
+          "nonHispanicWhitePct": 87.74,
+          "blackPct": 4.77,
+          "asianPct": 0.25,
+          "hispanicPct": 1.19
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 5,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Shawn Fluharty",
+            "party": "Democratic",
+            "votes": 4135,
+            "pct": 57.28
+          },
+          {
+            "name": "Thomas M. Salkovick",
+            "party": "Republican",
+            "votes": 3084,
+            "pct": 42.72
+          }
+        ],
+        "winner": "Shawn Fluharty",
+        "winner_party": "Democratic",
+        "winner_votes": 4135,
+        "total_votes": 7219,
+        "winner_pct": 57.3
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "West Virginia House District 6",
+      "census": {
+        "censusName": "Delegate District 6 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60048,
+        "medianAge": 43.2,
+        "totalPopulation": 19416,
+        "collegePct": 19.98,
+        "renterRatePct": 22.97,
+        "race": {
+          "whitePct": 93.56,
+          "nonHispanicWhitePct": 93.44,
+          "blackPct": 0.23,
+          "asianPct": 0.12,
+          "hispanicPct": 0.93
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 6,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Jeff Stephens",
+            "party": "Republican",
+            "votes": 4560,
+            "pct": 56.12
+          },
+          {
+            "name": "Cody Cumpston",
+            "party": "Democratic",
+            "votes": 3566,
+            "pct": 43.88
+          }
+        ],
+        "winner": "Jeff Stephens",
+        "winner_party": "Republican",
+        "winner_votes": 4560,
+        "total_votes": 8126,
+        "winner_pct": 56.1
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "West Virginia House District 7",
+      "census": {
+        "censusName": "Delegate District 7 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57711,
+        "medianAge": 49.5,
+        "totalPopulation": 17156,
+        "collegePct": 16.15,
+        "renterRatePct": 18.75,
+        "race": {
+          "whitePct": 95.9,
+          "nonHispanicWhitePct": 95.56,
+          "blackPct": 0.53,
+          "asianPct": 0.62,
+          "hispanicPct": 1.09
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 7,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Charles R. Sheedy Sr.",
+            "party": "Republican",
+            "votes": 5106,
+            "pct": 67.76
+          },
+          {
+            "name": "Devon  Tennant",
+            "party": "Democratic",
+            "votes": 2429,
+            "pct": 32.24
+          }
+        ],
+        "winner": "Charles R. Sheedy Sr.",
+        "winner_party": "Republican",
+        "winner_votes": 5106,
+        "total_votes": 7535,
+        "winner_pct": 67.8
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "West Virginia House District 8",
+      "census": {
+        "censusName": "Delegate District 8 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59444,
+        "medianAge": 46.3,
+        "totalPopulation": 18332,
+        "collegePct": 14.06,
+        "renterRatePct": 13.17,
+        "race": {
+          "whitePct": 94.18,
+          "nonHispanicWhitePct": 93.74,
+          "blackPct": 1.39,
+          "asianPct": 0.08,
+          "hispanicPct": 1.16
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 8,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "David L. Kelly",
+            "party": "Republican",
+            "votes": 6537,
+            "pct": 100
+          }
+        ],
+        "winner": "David L. Kelly",
+        "winner_party": "Republican",
+        "winner_votes": 6537,
+        "total_votes": 6537,
+        "winner_pct": 100
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "West Virginia House District 9",
+      "census": {
+        "censusName": "Delegate District 9 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56296,
+        "medianAge": 46.3,
+        "totalPopulation": 18176,
+        "collegePct": 14.52,
+        "renterRatePct": 15.49,
+        "race": {
+          "whitePct": 96.26,
+          "nonHispanicWhitePct": 96.03,
+          "blackPct": 0.26,
+          "asianPct": 0.41,
+          "hispanicPct": 1.51
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 9,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Trenton Carl Barnhart",
+            "party": "Republican",
+            "votes": 7475,
+            "pct": 100
+          }
+        ],
+        "winner": "Trenton Carl Barnhart",
+        "winner_party": "Republican",
+        "winner_votes": 7475,
+        "total_votes": 7475,
+        "winner_pct": 100
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "West Virginia House District 10",
+      "census": {
+        "censusName": "Delegate District 10 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66680,
+        "medianAge": 44.9,
+        "totalPopulation": 17237,
+        "collegePct": 27.65,
+        "renterRatePct": 16.07,
+        "race": {
+          "whitePct": 94.73,
+          "nonHispanicWhitePct": 94.11,
+          "blackPct": 2.31,
+          "asianPct": 0.11,
+          "hispanicPct": 1.18
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 10,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Bill Anderson",
+            "party": "Republican",
+            "votes": 7020,
+            "pct": 100
+          }
+        ],
+        "winner": "Bill Anderson",
+        "winner_party": "Republican",
+        "winner_votes": 7020,
+        "total_votes": 7020,
+        "winner_pct": 100
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "West Virginia House District 11",
+      "census": {
+        "censusName": "Delegate District 11 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57585,
+        "medianAge": 43.4,
+        "totalPopulation": 16366,
+        "collegePct": 28.07,
+        "renterRatePct": 26.09,
+        "race": {
+          "whitePct": 93.16,
+          "nonHispanicWhitePct": 92.7,
+          "blackPct": 0.86,
+          "asianPct": 1.49,
+          "hispanicPct": 1.29
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 11,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Bob Fehrenbacher",
+            "party": "Republican",
+            "votes": 6272,
+            "pct": 100
+          }
+        ],
+        "winner": "Bob Fehrenbacher",
+        "winner_party": "Republican",
+        "winner_votes": 6272,
+        "total_votes": 6272,
+        "winner_pct": 100
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "West Virginia House District 12",
+      "census": {
+        "censusName": "Delegate District 12 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46066,
+        "medianAge": 42.5,
+        "totalPopulation": 17577,
+        "collegePct": 20.02,
+        "renterRatePct": 36.38,
+        "race": {
+          "whitePct": 93.16,
+          "nonHispanicWhitePct": 91.75,
+          "blackPct": 1.72,
+          "asianPct": 0.25,
+          "hispanicPct": 1.69
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 12,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Vernon Criss",
+            "party": "Republican",
+            "votes": 4847,
+            "pct": 100
+          }
+        ],
+        "winner": "Vernon Criss",
+        "winner_party": "Republican",
+        "winner_votes": 4847,
+        "total_votes": 4847,
+        "winner_pct": 100
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "West Virginia House District 13",
+      "census": {
+        "censusName": "Delegate District 13 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51175,
+        "medianAge": 45,
+        "totalPopulation": 17142,
+        "collegePct": 19.46,
+        "renterRatePct": 28.11,
+        "race": {
+          "whitePct": 95.93,
+          "nonHispanicWhitePct": 94.71,
+          "blackPct": 0.64,
+          "asianPct": 0.39,
+          "hispanicPct": 1.74
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 13,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Scot Heckert",
+            "party": "Republican",
+            "votes": 5883,
+            "pct": 100
+          }
+        ],
+        "winner": "Scot Heckert",
+        "winner_party": "Republican",
+        "winner_votes": 5883,
+        "total_votes": 5883,
+        "winner_pct": 100
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "West Virginia House District 14",
+      "census": {
+        "censusName": "Delegate District 14 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66577,
+        "medianAge": 44.6,
+        "totalPopulation": 16877,
+        "collegePct": 18.8,
+        "renterRatePct": 18.93,
+        "race": {
+          "whitePct": 97.48,
+          "nonHispanicWhitePct": 97.22,
+          "blackPct": 0.14,
+          "asianPct": 0,
+          "hispanicPct": 1.06
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 14,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Dave Foggin",
+            "party": "Republican",
+            "votes": 6146,
+            "pct": 76.52
+          },
+          {
+            "name": "Jim  Marion",
+            "party": "Democratic",
+            "votes": 1886,
+            "pct": 23.48
+          }
+        ],
+        "winner": "Dave Foggin",
+        "winner_party": "Republican",
+        "winner_votes": 6146,
+        "total_votes": 8032,
+        "winner_pct": 76.5
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "West Virginia House District 15",
+      "census": {
+        "censusName": "Delegate District 15 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45630,
+        "medianAge": 45.9,
+        "totalPopulation": 17682,
+        "collegePct": 14.97,
+        "renterRatePct": 21.37,
+        "race": {
+          "whitePct": 96.21,
+          "nonHispanicWhitePct": 95.32,
+          "blackPct": 0.08,
+          "asianPct": 0.45,
+          "hispanicPct": 0.93
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 15,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Erica J. Moore",
+            "party": "Republican",
+            "votes": 5869,
+            "pct": 82.04
+          },
+          {
+            "name": "Julianna Penfold",
+            "party": "Democratic",
+            "votes": 1285,
+            "pct": 17.96
+          }
+        ],
+        "winner": "Erica J. Moore",
+        "winner_party": "Republican",
+        "winner_votes": 5869,
+        "total_votes": 7154,
+        "winner_pct": 82
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "West Virginia House District 16",
+      "census": {
+        "censusName": "Delegate District 16 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51875,
+        "medianAge": 44.7,
+        "totalPopulation": 18480,
+        "collegePct": 19.46,
+        "renterRatePct": 23.92,
+        "race": {
+          "whitePct": 95.48,
+          "nonHispanicWhitePct": 95.39,
+          "blackPct": 0.24,
+          "asianPct": 0.54,
+          "hispanicPct": 1.11
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 16,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Frederick Happy Joe Parsons",
+            "party": "Republican",
+            "votes": 7482,
+            "pct": 100
+          }
+        ],
+        "winner": "Frederick Happy Joe Parsons",
+        "winner_party": "Republican",
+        "winner_votes": 7482,
+        "total_votes": 7482,
+        "winner_pct": 100
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "West Virginia House District 17",
+      "census": {
+        "censusName": "Delegate District 17 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59944,
+        "medianAge": 42.5,
+        "totalPopulation": 18813,
+        "collegePct": 16.1,
+        "renterRatePct": 18.08,
+        "race": {
+          "whitePct": 96.53,
+          "nonHispanicWhitePct": 96.05,
+          "blackPct": 0.43,
+          "asianPct": 0.23,
+          "hispanicPct": 1.3
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 17,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Jonathan Adam Pinson",
+            "party": "Republican",
+            "votes": 6639,
+            "pct": 100
+          }
+        ],
+        "winner": "Jonathan Adam Pinson",
+        "winner_party": "Republican",
+        "winner_votes": 6639,
+        "total_votes": 6639,
+        "winner_pct": 100
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "West Virginia House District 18",
+      "census": {
+        "censusName": "Delegate District 18 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49108,
+        "medianAge": 45.6,
+        "totalPopulation": 16882,
+        "collegePct": 17.93,
+        "renterRatePct": 17.71,
+        "race": {
+          "whitePct": 96.63,
+          "nonHispanicWhitePct": 96.53,
+          "blackPct": 0.91,
+          "asianPct": 0.42,
+          "hispanicPct": 0.1
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 18,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Jim Butler",
+            "party": "Republican",
+            "votes": 5023,
+            "pct": 71.71
+          },
+          {
+            "name": "Andrea Meadows",
+            "party": "Democratic",
+            "votes": 1982,
+            "pct": 28.29
+          }
+        ],
+        "winner": "Jim Butler",
+        "winner_party": "Republican",
+        "winner_votes": 5023,
+        "total_votes": 7005,
+        "winner_pct": 71.7
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "West Virginia House District 19",
+      "census": {
+        "censusName": "Delegate District 19 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65763,
+        "medianAge": 43,
+        "totalPopulation": 19638,
+        "collegePct": 16.56,
+        "renterRatePct": 16.46,
+        "race": {
+          "whitePct": 96.08,
+          "nonHispanicWhitePct": 95.38,
+          "blackPct": 0.92,
+          "asianPct": 0.2,
+          "hispanicPct": 0.93
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 19,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Kathie Hess Crouse",
+            "party": "Republican",
+            "votes": 6560,
+            "pct": 100
+          }
+        ],
+        "winner": "Kathie Hess Crouse",
+        "winner_party": "Republican",
+        "winner_votes": 6560,
+        "total_votes": 6560,
+        "winner_pct": 100
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "West Virginia House District 20",
+      "census": {
+        "censusName": "Delegate District 20 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96765,
+        "medianAge": 41.7,
+        "totalPopulation": 16389,
+        "collegePct": 40.92,
+        "renterRatePct": 18.8,
+        "race": {
+          "whitePct": 91.77,
+          "nonHispanicWhitePct": 91.59,
+          "blackPct": 1.29,
+          "asianPct": 1.36,
+          "hispanicPct": 2.51
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 20,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Sarah Drennan",
+            "party": "Republican",
+            "votes": 6617,
+            "pct": 71.63
+          },
+          {
+            "name": "Steve Patrick",
+            "party": "Democratic",
+            "votes": 2621,
+            "pct": 28.37
+          }
+        ],
+        "winner": "Sarah Drennan",
+        "winner_party": "Republican",
+        "winner_votes": 6617,
+        "total_votes": 9238,
+        "winner_pct": 71.6
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "West Virginia House District 21",
+      "census": {
+        "censusName": "Delegate District 21 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84199,
+        "medianAge": 41.9,
+        "totalPopulation": 20015,
+        "collegePct": 30.86,
+        "renterRatePct": 17.97,
+        "race": {
+          "whitePct": 95.31,
+          "nonHispanicWhitePct": 94.36,
+          "blackPct": 0.13,
+          "asianPct": 0.94,
+          "hispanicPct": 1.29
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 21,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Jarred Cannon",
+            "party": "Republican",
+            "votes": 5865,
+            "pct": 68.99
+          },
+          {
+            "name": "Michael Mosteller Ii",
+            "party": "Democratic",
+            "votes": 2636,
+            "pct": 31.01
+          }
+        ],
+        "winner": "Jarred Cannon",
+        "winner_party": "Republican",
+        "winner_votes": 5865,
+        "total_votes": 8501,
+        "winner_pct": 69
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "West Virginia House District 22",
+      "census": {
+        "censusName": "Delegate District 22 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66582,
+        "medianAge": 48.8,
+        "totalPopulation": 16221,
+        "collegePct": 25.24,
+        "renterRatePct": 20.34,
+        "race": {
+          "whitePct": 96.85,
+          "nonHispanicWhitePct": 96.6,
+          "blackPct": 0,
+          "asianPct": 0.68,
+          "hispanicPct": 0.62
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 22,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Daniel Linville",
+            "party": "Republican",
+            "votes": 6091,
+            "pct": 100
+          }
+        ],
+        "winner": "Daniel Linville",
+        "winner_party": "Republican",
+        "winner_votes": 6091,
+        "total_votes": 6091,
+        "winner_pct": 100
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "West Virginia House District 23",
+      "census": {
+        "censusName": "Delegate District 23 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64742,
+        "medianAge": 39.9,
+        "totalPopulation": 16759,
+        "collegePct": 30.12,
+        "renterRatePct": 25.63,
+        "race": {
+          "whitePct": 93.51,
+          "nonHispanicWhitePct": 91.6,
+          "blackPct": 2.52,
+          "asianPct": 0.98,
+          "hispanicPct": 2.56
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 23,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Evan Worrell",
+            "party": "Republican",
+            "votes": 5170,
+            "pct": 75.55
+          },
+          {
+            "name": "Amanda Beth Beach-Burge",
+            "party": "Democratic",
+            "votes": 1673,
+            "pct": 24.45
+          }
+        ],
+        "winner": "Evan Worrell",
+        "winner_party": "Republican",
+        "winner_votes": 5170,
+        "total_votes": 6843,
+        "winner_pct": 75.6
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "West Virginia House District 24",
+      "census": {
+        "censusName": "Delegate District 24 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48382,
+        "medianAge": 37.8,
+        "totalPopulation": 15966,
+        "collegePct": 30.14,
+        "renterRatePct": 37.49,
+        "race": {
+          "whitePct": 88.42,
+          "nonHispanicWhitePct": 88,
+          "blackPct": 4.52,
+          "asianPct": 1.52,
+          "hispanicPct": 2.42
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 24,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Patrick Lucas",
+            "party": "Republican",
+            "votes": 3134,
+            "pct": 57.13
+          },
+          {
+            "name": "Billy Wray",
+            "party": "Democratic",
+            "votes": 2352,
+            "pct": 42.87
+          }
+        ],
+        "winner": "Patrick Lucas",
+        "winner_party": "Republican",
+        "winner_votes": 3134,
+        "total_votes": 5486,
+        "winner_pct": 57.1
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "West Virginia House District 25",
+      "census": {
+        "censusName": "Delegate District 25 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 30464,
+        "medianAge": 26.5,
+        "totalPopulation": 19274,
+        "collegePct": 36.29,
+        "renterRatePct": 67.73,
+        "race": {
+          "whitePct": 78.68,
+          "nonHispanicWhitePct": 78.05,
+          "blackPct": 11.03,
+          "asianPct": 1.58,
+          "hispanicPct": 2.25
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 25,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Sean Hornbuckle",
+            "party": "Democratic",
+            "votes": 3699,
+            "pct": 74.35
+          },
+          {
+            "name": "Connie Beaty",
+            "party": "Republican",
+            "votes": 1276,
+            "pct": 25.65
+          }
+        ],
+        "winner": "Sean Hornbuckle",
+        "winner_party": "Democratic",
+        "winner_votes": 3699,
+        "total_votes": 4975,
+        "winner_pct": 74.4
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "West Virginia House District 26",
+      "census": {
+        "censusName": "Delegate District 26 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62175,
+        "medianAge": 41.3,
+        "totalPopulation": 17880,
+        "collegePct": 42.92,
+        "renterRatePct": 25.11,
+        "race": {
+          "whitePct": 92.35,
+          "nonHispanicWhitePct": 92.27,
+          "blackPct": 3.13,
+          "asianPct": 1.74,
+          "hispanicPct": 0.86
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 26,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Matthew Rohrbach",
+            "party": "Republican",
+            "votes": 6046,
+            "pct": 100
+          }
+        ],
+        "winner": "Matthew Rohrbach",
+        "winner_party": "Republican",
+        "winner_votes": 6046,
+        "total_votes": 6046,
+        "winner_pct": 100
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "West Virginia House District 27",
+      "census": {
+        "censusName": "Delegate District 27 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49030,
+        "medianAge": 44.6,
+        "totalPopulation": 17697,
+        "collegePct": 23.59,
+        "renterRatePct": 37.07,
+        "race": {
+          "whitePct": 91.43,
+          "nonHispanicWhitePct": 91.2,
+          "blackPct": 2.32,
+          "asianPct": 0.2,
+          "hispanicPct": 0.72
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 27,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Michael D. Amos",
+            "party": "Republican",
+            "votes": 3892,
+            "pct": 63.91
+          },
+          {
+            "name": "Gina Milum",
+            "party": "Democratic",
+            "votes": 1910,
+            "pct": 31.36
+          },
+          {
+            "name": "Craig Carpenter Ii",
+            "party": "Libertarian",
+            "votes": 288,
+            "pct": 4.73
+          }
+        ],
+        "winner": "Michael D. Amos",
+        "winner_party": "Republican",
+        "winner_votes": 3892,
+        "total_votes": 6090,
+        "winner_pct": 63.9
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "West Virginia House District 28",
+      "census": {
+        "censusName": "Delegate District 28 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69109,
+        "medianAge": 43,
+        "totalPopulation": 17303,
+        "collegePct": 19.5,
+        "renterRatePct": 15.64,
+        "race": {
+          "whitePct": 97.76,
+          "nonHispanicWhitePct": 97.76,
+          "blackPct": 0.29,
+          "asianPct": 0.02,
+          "hispanicPct": 0.35
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 28,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Ryan Browning",
+            "party": "Republican",
+            "votes": 6126,
+            "pct": 100
+          }
+        ],
+        "winner": "Ryan Browning",
+        "winner_party": "Republican",
+        "winner_votes": 6126,
+        "total_votes": 6126,
+        "winner_pct": 100
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "West Virginia House District 29",
+      "census": {
+        "censusName": "Delegate District 29 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41478,
+        "medianAge": 45.1,
+        "totalPopulation": 16180,
+        "collegePct": 9.36,
+        "renterRatePct": 20.33,
+        "race": {
+          "whitePct": 97.96,
+          "nonHispanicWhitePct": 97.88,
+          "blackPct": 0,
+          "asianPct": 0.02,
+          "hispanicPct": 1.36
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 29,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Henry Corby Dillon",
+            "party": "Republican",
+            "votes": 3397,
+            "pct": 60.78
+          },
+          {
+            "name": "Wayne Bug Williamson",
+            "party": "Democratic",
+            "votes": 2192,
+            "pct": 39.22
+          }
+        ],
+        "winner": "Henry Corby Dillon",
+        "winner_party": "Republican",
+        "winner_votes": 3397,
+        "total_votes": 5589,
+        "winner_pct": 60.8
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "West Virginia House District 30",
+      "census": {
+        "censusName": "Delegate District 30 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49474,
+        "medianAge": 43.6,
+        "totalPopulation": 19047,
+        "collegePct": 8.82,
+        "renterRatePct": 26.02,
+        "race": {
+          "whitePct": 97.17,
+          "nonHispanicWhitePct": 96.61,
+          "blackPct": 0.01,
+          "asianPct": 0.24,
+          "hispanicPct": 0.76
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 30,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Jeff Eldridge",
+            "party": "Republican",
+            "votes": 4533,
+            "pct": 72.22
+          },
+          {
+            "name": "Britney Brogan",
+            "party": "Democratic",
+            "votes": 1744,
+            "pct": 27.78
+          }
+        ],
+        "winner": "Jeff Eldridge",
+        "winner_party": "Republican",
+        "winner_votes": 4533,
+        "total_votes": 6277,
+        "winner_pct": 72.2
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "West Virginia House District 31",
+      "census": {
+        "censusName": "Delegate District 31 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55319,
+        "medianAge": 44.5,
+        "totalPopulation": 17934,
+        "collegePct": 14.92,
+        "renterRatePct": 20.29,
+        "race": {
+          "whitePct": 96.9,
+          "nonHispanicWhitePct": 96.9,
+          "blackPct": 0.83,
+          "asianPct": 0.02,
+          "hispanicPct": 0.35
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 31,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Margitta Mazzocchi",
+            "party": "Republican",
+            "votes": 5265,
+            "pct": 100
+          }
+        ],
+        "winner": "Margitta Mazzocchi",
+        "winner_party": "Republican",
+        "winner_votes": 5265,
+        "total_votes": 5265,
+        "winner_pct": 100
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "West Virginia House District 32",
+      "census": {
+        "censusName": "Delegate District 32 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51693,
+        "medianAge": 46,
+        "totalPopulation": 17710,
+        "collegePct": 10.62,
+        "renterRatePct": 21.88,
+        "race": {
+          "whitePct": 97.91,
+          "nonHispanicWhitePct": 97.81,
+          "blackPct": 0.51,
+          "asianPct": 0.24,
+          "hispanicPct": 0.21
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 32,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Josh Holstein",
+            "party": "Republican",
+            "votes": 4909,
+            "pct": 73.24
+          },
+          {
+            "name": "April D. Estep",
+            "party": "Democratic",
+            "votes": 1794,
+            "pct": 26.76
+          }
+        ],
+        "winner": "Josh Holstein",
+        "winner_party": "Republican",
+        "winner_votes": 4909,
+        "total_votes": 6703,
+        "winner_pct": 73.2
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "West Virginia House District 33",
+      "census": {
+        "censusName": "Delegate District 33 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45442,
+        "medianAge": 43.6,
+        "totalPopulation": 18617,
+        "collegePct": 12.9,
+        "renterRatePct": 24.13,
+        "race": {
+          "whitePct": 94.24,
+          "nonHispanicWhitePct": 94.21,
+          "blackPct": 2.38,
+          "asianPct": 0.56,
+          "hispanicPct": 1.35
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 33,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Jordan Bridges",
+            "party": "Republican",
+            "votes": 5280,
+            "pct": 100
+          }
+        ],
+        "winner": "Jordan Bridges",
+        "winner_party": "Republican",
+        "winner_votes": 5280,
+        "total_votes": 5280,
+        "winner_pct": 100
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "West Virginia House District 34",
+      "census": {
+        "censusName": "Delegate District 34 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 38113,
+        "medianAge": 44.8,
+        "totalPopulation": 17526,
+        "collegePct": 8.45,
+        "renterRatePct": 28.73,
+        "race": {
+          "whitePct": 94.19,
+          "nonHispanicWhitePct": 93.8,
+          "blackPct": 2.59,
+          "asianPct": 0.01,
+          "hispanicPct": 0.63
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 34,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Mark Dean",
+            "party": "Republican",
+            "votes": 5383,
+            "pct": 100
+          }
+        ],
+        "winner": "Mark Dean",
+        "winner_party": "Republican",
+        "winner_votes": 5383,
+        "total_votes": 5383,
+        "winner_pct": 100
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "West Virginia House District 35",
+      "census": {
+        "censusName": "Delegate District 35 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49489,
+        "medianAge": 44.5,
+        "totalPopulation": 17714,
+        "collegePct": 11.01,
+        "renterRatePct": 14.19,
+        "race": {
+          "whitePct": 97.23,
+          "nonHispanicWhitePct": 97.08,
+          "blackPct": 0.78,
+          "asianPct": 0.01,
+          "hispanicPct": 0.52
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 35,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Adam Vance",
+            "party": "Republican",
+            "votes": 5579,
+            "pct": 100
+          }
+        ],
+        "winner": "Adam Vance",
+        "winner_party": "Republican",
+        "winner_votes": 5579,
+        "total_votes": 5579,
+        "winner_pct": 100
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "West Virginia House District 36",
+      "census": {
+        "censusName": "Delegate District 36 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 30116,
+        "medianAge": 43.5,
+        "totalPopulation": 18384,
+        "collegePct": 5.76,
+        "renterRatePct": 24.41,
+        "race": {
+          "whitePct": 88.26,
+          "nonHispanicWhitePct": 86.72,
+          "blackPct": 9.18,
+          "asianPct": 0.1,
+          "hispanicPct": 1.94
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 36,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "S. David Green",
+            "party": "Republican",
+            "votes": 3668,
+            "pct": 74.09
+          },
+          {
+            "name": "Tiffany Clemins",
+            "party": "Democratic",
+            "votes": 1283,
+            "pct": 25.91
+          }
+        ],
+        "winner": "S. David Green",
+        "winner_party": "Republican",
+        "winner_votes": 3668,
+        "total_votes": 4951,
+        "winner_pct": 74.1
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "West Virginia House District 37",
+      "census": {
+        "censusName": "Delegate District 37 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43453,
+        "medianAge": 46,
+        "totalPopulation": 17293,
+        "collegePct": 19.77,
+        "renterRatePct": 35.15,
+        "race": {
+          "whitePct": 82.83,
+          "nonHispanicWhitePct": 82.41,
+          "blackPct": 9.19,
+          "asianPct": 0.18,
+          "hispanicPct": 2.03
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 37,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Marty Gearheart",
+            "party": "Republican",
+            "votes": 4851,
+            "pct": 73.85
+          },
+          {
+            "name": "Polla Mcclellan Rumberg",
+            "party": "Democratic",
+            "votes": 1718,
+            "pct": 26.15
+          }
+        ],
+        "winner": "Marty Gearheart",
+        "winner_party": "Republican",
+        "winner_votes": 4851,
+        "total_votes": 6569,
+        "winner_pct": 73.8
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "West Virginia House District 38",
+      "census": {
+        "censusName": "Delegate District 38 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48609,
+        "medianAge": 44,
+        "totalPopulation": 19191,
+        "collegePct": 21.61,
+        "renterRatePct": 35.03,
+        "race": {
+          "whitePct": 87.73,
+          "nonHispanicWhitePct": 87.59,
+          "blackPct": 3.44,
+          "asianPct": 0.52,
+          "hispanicPct": 0.31
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 38,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Joe C. Ellington Jr.",
+            "party": "Republican",
+            "votes": 5410,
+            "pct": 75.23
+          },
+          {
+            "name": "Randa D. Faulkner",
+            "party": "Democratic",
+            "votes": 1781,
+            "pct": 24.77
+          }
+        ],
+        "winner": "Joe C. Ellington Jr.",
+        "winner_party": "Republican",
+        "winner_votes": 5410,
+        "total_votes": 7191,
+        "winner_pct": 75.2
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "West Virginia House District 39",
+      "census": {
+        "censusName": "Delegate District 39 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46143,
+        "medianAge": 41.5,
+        "totalPopulation": 18786,
+        "collegePct": 19.81,
+        "renterRatePct": 25.55,
+        "race": {
+          "whitePct": 95.12,
+          "nonHispanicWhitePct": 94.17,
+          "blackPct": 1.54,
+          "asianPct": 0.24,
+          "hispanicPct": 1.92
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 39,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Doug Smith",
+            "party": "Republican",
+            "votes": 5958,
+            "pct": 81.22
+          },
+          {
+            "name": "Neal Vestal",
+            "party": "Democratic",
+            "votes": 1378,
+            "pct": 18.78
+          }
+        ],
+        "winner": "Doug Smith",
+        "winner_party": "Republican",
+        "winner_votes": 5958,
+        "total_votes": 7336,
+        "winner_pct": 81.2
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "West Virginia House District 40",
+      "census": {
+        "censusName": "Delegate District 40 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51111,
+        "medianAge": 47.6,
+        "totalPopulation": 18399,
+        "collegePct": 16.93,
+        "renterRatePct": 19.33,
+        "race": {
+          "whitePct": 93.03,
+          "nonHispanicWhitePct": 92.35,
+          "blackPct": 4.45,
+          "asianPct": 0,
+          "hispanicPct": 1.01
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 40,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Roy G. Cooper",
+            "party": "Republican",
+            "votes": 6178,
+            "pct": 72.79
+          },
+          {
+            "name": "James W. Jim Mcneely",
+            "party": "Democratic",
+            "votes": 2310,
+            "pct": 27.21
+          }
+        ],
+        "winner": "Roy G. Cooper",
+        "winner_party": "Republican",
+        "winner_votes": 6178,
+        "total_votes": 8488,
+        "winner_pct": 72.8
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "West Virginia House District 41",
+      "census": {
+        "censusName": "Delegate District 41 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61866,
+        "medianAge": 45,
+        "totalPopulation": 19999,
+        "collegePct": 23.21,
+        "renterRatePct": 10.69,
+        "race": {
+          "whitePct": 95.84,
+          "nonHispanicWhitePct": 95.68,
+          "blackPct": 1.53,
+          "asianPct": 0,
+          "hispanicPct": 0.33
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 41,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Jordan Allen Maynor",
+            "party": "Republican",
+            "votes": 6960,
+            "pct": 79.01
+          },
+          {
+            "name": "Anna White Ferraraccio",
+            "party": "Democratic",
+            "votes": 1849,
+            "pct": 20.99
+          }
+        ],
+        "winner": "Jordan Allen Maynor",
+        "winner_party": "Republican",
+        "winner_votes": 6960,
+        "total_votes": 8809,
+        "winner_pct": 79
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "West Virginia House District 42",
+      "census": {
+        "censusName": "Delegate District 42 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48831,
+        "medianAge": 43.7,
+        "totalPopulation": 18180,
+        "collegePct": 17.63,
+        "renterRatePct": 21.73,
+        "race": {
+          "whitePct": 97.4,
+          "nonHispanicWhitePct": 96.78,
+          "blackPct": 1.22,
+          "asianPct": 0.06,
+          "hispanicPct": 1.11
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 42,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Brandon Steele",
+            "party": "Republican",
+            "votes": 5929,
+            "pct": 77
+          },
+          {
+            "name": "Addam Gibson",
+            "party": "Democratic",
+            "votes": 1771,
+            "pct": 23
+          }
+        ],
+        "winner": "Brandon Steele",
+        "winner_party": "Republican",
+        "winner_votes": 5929,
+        "total_votes": 7700,
+        "winner_pct": 77
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "West Virginia House District 43",
+      "census": {
+        "censusName": "Delegate District 43 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45169,
+        "medianAge": 47,
+        "totalPopulation": 17047,
+        "collegePct": 18.78,
+        "renterRatePct": 21.27,
+        "race": {
+          "whitePct": 94.6,
+          "nonHispanicWhitePct": 94.21,
+          "blackPct": 2.17,
+          "asianPct": 0.13,
+          "hispanicPct": 0.83
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 43,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Christopher Toney",
+            "party": "Republican",
+            "votes": 6365,
+            "pct": 100
+          }
+        ],
+        "winner": "Christopher Toney",
+        "winner_party": "Republican",
+        "winner_votes": 6365,
+        "total_votes": 6365,
+        "winner_pct": 100
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "West Virginia House District 44",
+      "census": {
+        "censusName": "Delegate District 44 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 39937,
+        "medianAge": 39.4,
+        "totalPopulation": 18336,
+        "collegePct": 24.15,
+        "renterRatePct": 44.97,
+        "race": {
+          "whitePct": 73.12,
+          "nonHispanicWhitePct": 72.7,
+          "blackPct": 14.86,
+          "asianPct": 2.3,
+          "hispanicPct": 2.55
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 44,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Carl Bill Roop",
+            "party": "Republican",
+            "votes": 3883,
+            "pct": 57.11
+          },
+          {
+            "name": "Tony O. Martin",
+            "party": "Democratic",
+            "votes": 2916,
+            "pct": 42.89
+          }
+        ],
+        "winner": "Carl Bill Roop",
+        "winner_party": "Republican",
+        "winner_votes": 3883,
+        "total_votes": 6799,
+        "winner_pct": 57.1
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "West Virginia House District 45",
+      "census": {
+        "censusName": "Delegate District 45 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56067,
+        "medianAge": 43.3,
+        "totalPopulation": 17231,
+        "collegePct": 17.74,
+        "renterRatePct": 18.9,
+        "race": {
+          "whitePct": 84.23,
+          "nonHispanicWhitePct": 82.62,
+          "blackPct": 11.45,
+          "asianPct": 0.78,
+          "hispanicPct": 2.89
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 45,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Eric Brooks",
+            "party": "Republican",
+            "votes": 4991,
+            "pct": 100
+          }
+        ],
+        "winner": "Eric Brooks",
+        "winner_party": "Republican",
+        "winner_votes": 4991,
+        "total_votes": 4991,
+        "winner_pct": 100
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "West Virginia House District 46",
+      "census": {
+        "censusName": "Delegate District 46 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54737,
+        "medianAge": 46.9,
+        "totalPopulation": 17997,
+        "collegePct": 27.8,
+        "renterRatePct": 22.2,
+        "race": {
+          "whitePct": 94.35,
+          "nonHispanicWhitePct": 93.73,
+          "blackPct": 2.26,
+          "asianPct": 0.76,
+          "hispanicPct": 1.52
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 46,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Jeff Campbell",
+            "party": "Republican",
+            "votes": 5714,
+            "pct": 71.13
+          },
+          {
+            "name": "Paul S. Detch",
+            "party": "Democratic",
+            "votes": 2319,
+            "pct": 28.87
+          }
+        ],
+        "winner": "Jeff Campbell",
+        "winner_party": "Republican",
+        "winner_votes": 5714,
+        "total_votes": 8033,
+        "winner_pct": 71.1
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "West Virginia House District 47",
+      "census": {
+        "censusName": "Delegate District 47 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43759,
+        "medianAge": 48.1,
+        "totalPopulation": 17290,
+        "collegePct": 16.27,
+        "renterRatePct": 28.95,
+        "race": {
+          "whitePct": 92.51,
+          "nonHispanicWhitePct": 90.93,
+          "blackPct": 1.3,
+          "asianPct": 0.27,
+          "hispanicPct": 2.38
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 47,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Ray Canterbury",
+            "party": "Republican",
+            "votes": 5516,
+            "pct": 71.42
+          },
+          {
+            "name": "Kayla M. Mccoy",
+            "party": "Democratic",
+            "votes": 2207,
+            "pct": 28.58
+          }
+        ],
+        "winner": "Ray Canterbury",
+        "winner_party": "Republican",
+        "winner_votes": 5516,
+        "total_votes": 7723,
+        "winner_pct": 71.4
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "West Virginia House District 48",
+      "census": {
+        "censusName": "Delegate District 48 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 36709,
+        "medianAge": 48.7,
+        "totalPopulation": 16266,
+        "collegePct": 13.03,
+        "renterRatePct": 19.85,
+        "race": {
+          "whitePct": 94.42,
+          "nonHispanicWhitePct": 94.1,
+          "blackPct": 0.85,
+          "asianPct": 0.42,
+          "hispanicPct": 0.51
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 48,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Thomas Clark",
+            "party": "Republican",
+            "votes": 4546,
+            "pct": 75.44
+          },
+          {
+            "name": "Devin C. Spinks",
+            "party": "Democratic",
+            "votes": 1480,
+            "pct": 24.56
+          }
+        ],
+        "winner": "Thomas Clark",
+        "winner_party": "Republican",
+        "winner_votes": 4546,
+        "total_votes": 6026,
+        "winner_pct": 75.4
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "West Virginia House District 49",
+      "census": {
+        "censusName": "Delegate District 49 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57072,
+        "medianAge": 43.7,
+        "totalPopulation": 17971,
+        "collegePct": 20.57,
+        "renterRatePct": 17.59,
+        "race": {
+          "whitePct": 96.22,
+          "nonHispanicWhitePct": 96.22,
+          "blackPct": 0.41,
+          "asianPct": 0.36,
+          "hispanicPct": 0.44
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 49,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Stanley S. Adkins",
+            "party": "Republican",
+            "votes": 5290,
+            "pct": 76.38
+          },
+          {
+            "name": "Jean Nutter",
+            "party": "Democratic",
+            "votes": 1636,
+            "pct": 23.62
+          }
+        ],
+        "winner": "Stanley S. Adkins",
+        "winner_party": "Republican",
+        "winner_votes": 5290,
+        "total_votes": 6926,
+        "winner_pct": 76.4
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "West Virginia House District 50",
+      "census": {
+        "censusName": "Delegate District 50 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51014,
+        "medianAge": 43.5,
+        "totalPopulation": 17160,
+        "collegePct": 14.61,
+        "renterRatePct": 24.88,
+        "race": {
+          "whitePct": 90.81,
+          "nonHispanicWhitePct": 90.62,
+          "blackPct": 6.44,
+          "asianPct": 0.08,
+          "hispanicPct": 1.04
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 50,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "David Elliott Pritt",
+            "party": "Republican",
+            "votes": 3928,
+            "pct": 66.42
+          },
+          {
+            "name": "Jerry L. Allen",
+            "party": "Democratic",
+            "votes": 1587,
+            "pct": 26.83
+          },
+          {
+            "name": "Scotty Bowman",
+            "party": "Other",
+            "votes": 399,
+            "pct": 6.75
+          }
+        ],
+        "winner": "David Elliott Pritt",
+        "winner_party": "Republican",
+        "winner_votes": 3928,
+        "total_votes": 5914,
+        "winner_pct": 66.4
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "West Virginia House District 51",
+      "census": {
+        "censusName": "Delegate District 51 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57096,
+        "medianAge": 43.7,
+        "totalPopulation": 17303,
+        "collegePct": 18.8,
+        "renterRatePct": 20.9,
+        "race": {
+          "whitePct": 95.04,
+          "nonHispanicWhitePct": 95,
+          "blackPct": 1.15,
+          "asianPct": 0,
+          "hispanicPct": 1.47
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 51,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Marshall W. Clay",
+            "party": "Republican",
+            "votes": 4882,
+            "pct": 67.08
+          },
+          {
+            "name": "Melissa J. Colagrosso",
+            "party": "Democratic",
+            "votes": 2396,
+            "pct": 32.92
+          }
+        ],
+        "winner": "Marshall W. Clay",
+        "winner_party": "Republican",
+        "winner_votes": 4882,
+        "total_votes": 7278,
+        "winner_pct": 67.1
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "West Virginia House District 52",
+      "census": {
+        "censusName": "Delegate District 52 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52319,
+        "medianAge": 46.9,
+        "totalPopulation": 18083,
+        "collegePct": 14.04,
+        "renterRatePct": 29.81,
+        "race": {
+          "whitePct": 89.2,
+          "nonHispanicWhitePct": 89.06,
+          "blackPct": 4.28,
+          "asianPct": 0.17,
+          "hispanicPct": 0.5
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 52,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Tresa Howell",
+            "party": "Republican",
+            "votes": 4088,
+            "pct": 60.28
+          },
+          {
+            "name": "Thomas Jones",
+            "party": "Democratic",
+            "votes": 2694,
+            "pct": 39.72
+          }
+        ],
+        "winner": "Tresa Howell",
+        "winner_party": "Republican",
+        "winner_votes": 4088,
+        "total_votes": 6782,
+        "winner_pct": 60.3
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "West Virginia House District 53",
+      "census": {
+        "censusName": "Delegate District 53 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57557,
+        "medianAge": 44.2,
+        "totalPopulation": 18020,
+        "collegePct": 24.33,
+        "renterRatePct": 30.7,
+        "race": {
+          "whitePct": 88.32,
+          "nonHispanicWhitePct": 87.62,
+          "blackPct": 3.84,
+          "asianPct": 1.44,
+          "hispanicPct": 1.75
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 53,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Tristan  Leavitt",
+            "party": "Republican",
+            "votes": 3893,
+            "pct": 59.89
+          },
+          {
+            "name": "Chris  Smith",
+            "party": "Democratic",
+            "votes": 2607,
+            "pct": 40.11
+          }
+        ],
+        "winner": "Tristan  Leavitt",
+        "winner_party": "Republican",
+        "winner_votes": 3893,
+        "total_votes": 6500,
+        "winner_pct": 59.9
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "West Virginia House District 54",
+      "census": {
+        "censusName": "Delegate District 54 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44110,
+        "medianAge": 42,
+        "totalPopulation": 17090,
+        "collegePct": 31.69,
+        "renterRatePct": 52.73,
+        "race": {
+          "whitePct": 66.72,
+          "nonHispanicWhitePct": 66.23,
+          "blackPct": 21.24,
+          "asianPct": 1.12,
+          "hispanicPct": 2.25
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 54,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Mike Pushkin",
+            "party": "Democratic",
+            "votes": 4611,
+            "pct": 74.89
+          },
+          {
+            "name": "Julien Aklei",
+            "party": "Republican",
+            "votes": 1546,
+            "pct": 25.11
+          }
+        ],
+        "winner": "Mike Pushkin",
+        "winner_party": "Democratic",
+        "winner_votes": 4611,
+        "total_votes": 6157,
+        "winner_pct": 74.9
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "West Virginia House District 55",
+      "census": {
+        "censusName": "Delegate District 55 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80532,
+        "medianAge": 44,
+        "totalPopulation": 18341,
+        "collegePct": 48.1,
+        "renterRatePct": 19.8,
+        "race": {
+          "whitePct": 88.95,
+          "nonHispanicWhitePct": 88.29,
+          "blackPct": 4.7,
+          "asianPct": 2.53,
+          "hispanicPct": 1.74
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 55,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Jb Akers",
+            "party": "Republican",
+            "votes": 4926,
+            "pct": 59.75
+          },
+          {
+            "name": "Linda Bodie",
+            "party": "Democratic",
+            "votes": 3319,
+            "pct": 40.25
+          }
+        ],
+        "winner": "Jb Akers",
+        "winner_party": "Republican",
+        "winner_votes": 4926,
+        "total_votes": 8245,
+        "winner_pct": 59.7
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "West Virginia House District 56",
+      "census": {
+        "censusName": "Delegate District 56 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79280,
+        "medianAge": 42.6,
+        "totalPopulation": 17551,
+        "collegePct": 40.85,
+        "renterRatePct": 18.95,
+        "race": {
+          "whitePct": 88.99,
+          "nonHispanicWhitePct": 88.68,
+          "blackPct": 2.59,
+          "asianPct": 2.63,
+          "hispanicPct": 1.62
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 56,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Kayla Young",
+            "party": "Democratic",
+            "votes": 4198,
+            "pct": 51.92
+          },
+          {
+            "name": "Andrew G. Anderson",
+            "party": "Republican",
+            "votes": 3887,
+            "pct": 48.08
+          }
+        ],
+        "winner": "Kayla Young",
+        "winner_party": "Democratic",
+        "winner_votes": 4198,
+        "total_votes": 8085,
+        "winner_pct": 51.9
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "West Virginia House District 57",
+      "census": {
+        "censusName": "Delegate District 57 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57095,
+        "medianAge": 40.4,
+        "totalPopulation": 19145,
+        "collegePct": 36.53,
+        "renterRatePct": 35.11,
+        "race": {
+          "whitePct": 78.6,
+          "nonHispanicWhitePct": 77.77,
+          "blackPct": 10.49,
+          "asianPct": 2.46,
+          "hispanicPct": 1.66
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 57,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Hollis T. Lewis",
+            "party": "Democratic",
+            "votes": 4006,
+            "pct": 54.93
+          },
+          {
+            "name": "Mark  Carter",
+            "party": "Republican",
+            "votes": 3287,
+            "pct": 45.07
+          }
+        ],
+        "winner": "Hollis T. Lewis",
+        "winner_party": "Democratic",
+        "winner_votes": 4006,
+        "total_votes": 7293,
+        "winner_pct": 54.9
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "West Virginia House District 58",
+      "census": {
+        "censusName": "Delegate District 58 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51961,
+        "medianAge": 46.1,
+        "totalPopulation": 18124,
+        "collegePct": 26.57,
+        "renterRatePct": 32.13,
+        "race": {
+          "whitePct": 86.7,
+          "nonHispanicWhitePct": 86.11,
+          "blackPct": 7.65,
+          "asianPct": 0.78,
+          "hispanicPct": 1.27
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 58,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Walter Hall",
+            "party": "Republican",
+            "votes": 5842,
+            "pct": 100
+          }
+        ],
+        "winner": "Walter Hall",
+        "winner_party": "Republican",
+        "winner_votes": 5842,
+        "total_votes": 5842,
+        "winner_pct": 100
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "West Virginia House District 59",
+      "census": {
+        "censusName": "Delegate District 59 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58585,
+        "medianAge": 42.4,
+        "totalPopulation": 17068,
+        "collegePct": 25.03,
+        "renterRatePct": 28.88,
+        "race": {
+          "whitePct": 90.81,
+          "nonHispanicWhitePct": 89.08,
+          "blackPct": 3.67,
+          "asianPct": 0.71,
+          "hispanicPct": 1.75
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 59,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Andy Shamblin",
+            "party": "Republican",
+            "votes": 5636,
+            "pct": 100
+          }
+        ],
+        "winner": "Andy Shamblin",
+        "winner_party": "Republican",
+        "winner_votes": 5636,
+        "total_votes": 5636,
+        "winner_pct": 100
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "West Virginia House District 60",
+      "census": {
+        "censusName": "Delegate District 60 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61291,
+        "medianAge": 41.3,
+        "totalPopulation": 17624,
+        "collegePct": 21.07,
+        "renterRatePct": 22.51,
+        "race": {
+          "whitePct": 93.53,
+          "nonHispanicWhitePct": 92.74,
+          "blackPct": 2.41,
+          "asianPct": 0.16,
+          "hispanicPct": 1.91
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 60,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Dana Ferrell",
+            "party": "Republican",
+            "votes": 6346,
+            "pct": 100
+          }
+        ],
+        "winner": "Dana Ferrell",
+        "winner_party": "Republican",
+        "winner_votes": 6346,
+        "total_votes": 6346,
+        "winner_pct": 100
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "West Virginia House District 61",
+      "census": {
+        "censusName": "Delegate District 61 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56039,
+        "medianAge": 48.8,
+        "totalPopulation": 18167,
+        "collegePct": 24.01,
+        "renterRatePct": 25.38,
+        "race": {
+          "whitePct": 96.16,
+          "nonHispanicWhitePct": 96.15,
+          "blackPct": 1.5,
+          "asianPct": 0,
+          "hispanicPct": 0.56
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 61,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Dean Jeffries",
+            "party": "Republican",
+            "votes": 6328,
+            "pct": 100
+          }
+        ],
+        "winner": "Dean Jeffries",
+        "winner_party": "Republican",
+        "winner_votes": 6328,
+        "total_votes": 6328,
+        "winner_pct": 100
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "West Virginia House District 62",
+      "census": {
+        "censusName": "Delegate District 62 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43161,
+        "medianAge": 46.2,
+        "totalPopulation": 16940,
+        "collegePct": 13.21,
+        "renterRatePct": 18.41,
+        "race": {
+          "whitePct": 96.22,
+          "nonHispanicWhitePct": 96.15,
+          "blackPct": 0.31,
+          "asianPct": 0.01,
+          "hispanicPct": 0.5
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 62,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Roger  Hanshaw",
+            "party": "Republican",
+            "votes": 6224,
+            "pct": 100
+          }
+        ],
+        "winner": "Roger  Hanshaw",
+        "winner_party": "Republican",
+        "winner_votes": 6224,
+        "total_votes": 6224,
+        "winner_pct": 100
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "West Virginia House District 63",
+      "census": {
+        "censusName": "Delegate District 63 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45400,
+        "medianAge": 44.6,
+        "totalPopulation": 16885,
+        "collegePct": 13.29,
+        "renterRatePct": 23.3,
+        "race": {
+          "whitePct": 83.67,
+          "nonHispanicWhitePct": 82.28,
+          "blackPct": 6.6,
+          "asianPct": 0.17,
+          "hispanicPct": 1.94
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 63,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Lori Cowger Dittman",
+            "party": "Republican",
+            "votes": 5501,
+            "pct": 100
+          }
+        ],
+        "winner": "Lori Cowger Dittman",
+        "winner_party": "Republican",
+        "winner_votes": 5501,
+        "total_votes": 5501,
+        "winner_pct": 100
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "West Virginia House District 64",
+      "census": {
+        "censusName": "Delegate District 64 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51538,
+        "medianAge": 42.1,
+        "totalPopulation": 18085,
+        "collegePct": 16.91,
+        "renterRatePct": 29.05,
+        "race": {
+          "whitePct": 91.56,
+          "nonHispanicWhitePct": 91.56,
+          "blackPct": 0.3,
+          "asianPct": 0.35,
+          "hispanicPct": 1.4
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 64,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Adam Burkhammer",
+            "party": "Republican",
+            "votes": 6474,
+            "pct": 100
+          }
+        ],
+        "winner": "Adam Burkhammer",
+        "winner_party": "Republican",
+        "winner_votes": 6474,
+        "total_votes": 6474,
+        "winner_pct": 100
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "West Virginia House District 65",
+      "census": {
+        "censusName": "Delegate District 65 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51129,
+        "medianAge": 40.7,
+        "totalPopulation": 17497,
+        "collegePct": 18.92,
+        "renterRatePct": 22.36,
+        "race": {
+          "whitePct": 91.78,
+          "nonHispanicWhitePct": 90.94,
+          "blackPct": 1.96,
+          "asianPct": 0.39,
+          "hispanicPct": 1.9
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 65,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Carl Robbie Martin",
+            "party": "Republican",
+            "votes": 5321,
+            "pct": 77.17
+          },
+          {
+            "name": "Matthew Kerner",
+            "party": "Democratic",
+            "votes": 1574,
+            "pct": 22.83
+          }
+        ],
+        "winner": "Carl Robbie Martin",
+        "winner_party": "Republican",
+        "winner_votes": 5321,
+        "total_votes": 6895,
+        "winner_pct": 77.2
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "West Virginia House District 66",
+      "census": {
+        "censusName": "Delegate District 66 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45436,
+        "medianAge": 45.6,
+        "totalPopulation": 17177,
+        "collegePct": 15.84,
+        "renterRatePct": 23.3,
+        "race": {
+          "whitePct": 92.5,
+          "nonHispanicWhitePct": 92.2,
+          "blackPct": 1.54,
+          "asianPct": 0.11,
+          "hispanicPct": 1.21
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 66,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Jonathan B. Kyle",
+            "party": "Republican",
+            "votes": 4826,
+            "pct": 70.26
+          },
+          {
+            "name": "Dama M. Nestor",
+            "party": "Democratic",
+            "votes": 2043,
+            "pct": 29.74
+          }
+        ],
+        "winner": "Jonathan B. Kyle",
+        "winner_party": "Republican",
+        "winner_votes": 4826,
+        "total_votes": 6869,
+        "winner_pct": 70.3
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "West Virginia House District 67",
+      "census": {
+        "censusName": "Delegate District 67 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60019,
+        "medianAge": 44.7,
+        "totalPopulation": 18139,
+        "collegePct": 21.8,
+        "renterRatePct": 20.99,
+        "race": {
+          "whitePct": 90.48,
+          "nonHispanicWhitePct": 90.41,
+          "blackPct": 1.6,
+          "asianPct": 0.07,
+          "hispanicPct": 0.6
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 67,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Elias Coop-Gonzalez",
+            "party": "Republican",
+            "votes": 4358,
+            "pct": 54.54
+          },
+          {
+            "name": "Cody H. Thompson",
+            "party": "Democratic",
+            "votes": 3632,
+            "pct": 45.46
+          }
+        ],
+        "winner": "Elias Coop-Gonzalez",
+        "winner_party": "Republican",
+        "winner_votes": 4358,
+        "total_votes": 7990,
+        "winner_pct": 54.5
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "West Virginia House District 68",
+      "census": {
+        "censusName": "Delegate District 68 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49358,
+        "medianAge": 43.8,
+        "totalPopulation": 19238,
+        "collegePct": 12.61,
+        "renterRatePct": 19.25,
+        "race": {
+          "whitePct": 91.8,
+          "nonHispanicWhitePct": 91.75,
+          "blackPct": 1.42,
+          "asianPct": 0.37,
+          "hispanicPct": 0.96
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 68,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Chris Phillips",
+            "party": "Republican",
+            "votes": 6826,
+            "pct": 100
+          }
+        ],
+        "winner": "Chris Phillips",
+        "winner_party": "Republican",
+        "winner_votes": 6826,
+        "total_votes": 6826,
+        "winner_pct": 100
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "West Virginia House District 69",
+      "census": {
+        "censusName": "Delegate District 69 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66350,
+        "medianAge": 46.2,
+        "totalPopulation": 16739,
+        "collegePct": 23.55,
+        "renterRatePct": 14.3,
+        "race": {
+          "whitePct": 96.15,
+          "nonHispanicWhitePct": 95.92,
+          "blackPct": 0.29,
+          "asianPct": 0.23,
+          "hispanicPct": 1.16
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 69,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Keith Marple",
+            "party": "Republican",
+            "votes": 7504,
+            "pct": 100
+          }
+        ],
+        "winner": "Keith Marple",
+        "winner_party": "Republican",
+        "winner_votes": 7504,
+        "total_votes": 7504,
+        "winner_pct": 100
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "West Virginia House District 70",
+      "census": {
+        "censusName": "Delegate District 70 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46878,
+        "medianAge": 39.8,
+        "totalPopulation": 17874,
+        "collegePct": 23.07,
+        "renterRatePct": 36.47,
+        "race": {
+          "whitePct": 90.73,
+          "nonHispanicWhitePct": 90.35,
+          "blackPct": 2.57,
+          "asianPct": 0.37,
+          "hispanicPct": 2.27
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 70,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Mickey Petitto",
+            "party": "Republican",
+            "votes": 3505,
+            "pct": 56.16
+          },
+          {
+            "name": "Shannon R Welsh",
+            "party": "Democratic",
+            "votes": 2736,
+            "pct": 43.84
+          }
+        ],
+        "winner": "Mickey Petitto",
+        "winner_party": "Republican",
+        "winner_votes": 3505,
+        "total_votes": 6241,
+        "winner_pct": 56.2
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "West Virginia House District 71",
+      "census": {
+        "censusName": "Delegate District 71 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74127,
+        "medianAge": 41.8,
+        "totalPopulation": 17186,
+        "collegePct": 41.81,
+        "renterRatePct": 27.69,
+        "race": {
+          "whitePct": 91.98,
+          "nonHispanicWhitePct": 90.38,
+          "blackPct": 1.65,
+          "asianPct": 1.99,
+          "hispanicPct": 2.91
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 71,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Laura  Kimble",
+            "party": "Republican",
+            "votes": 7201,
+            "pct": 100
+          }
+        ],
+        "winner": "Laura  Kimble",
+        "winner_party": "Republican",
+        "winner_votes": 7201,
+        "total_votes": 7201,
+        "winner_pct": 100
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "West Virginia House District 72",
+      "census": {
+        "censusName": "Delegate District 72 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54851,
+        "medianAge": 42.6,
+        "totalPopulation": 17902,
+        "collegePct": 11.48,
+        "renterRatePct": 22.57,
+        "race": {
+          "whitePct": 93.75,
+          "nonHispanicWhitePct": 92.33,
+          "blackPct": 0.41,
+          "asianPct": 0.25,
+          "hispanicPct": 2.87
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 72,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Clay Riley",
+            "party": "Republican",
+            "votes": 6145,
+            "pct": 100
+          }
+        ],
+        "winner": "Clay Riley",
+        "winner_party": "Republican",
+        "winner_votes": 6145,
+        "total_votes": 6145,
+        "winner_pct": 100
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "West Virginia House District 73",
+      "census": {
+        "censusName": "Delegate District 73 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60565,
+        "medianAge": 45.1,
+        "totalPopulation": 17731,
+        "collegePct": 19.56,
+        "renterRatePct": 16.23,
+        "race": {
+          "whitePct": 95.88,
+          "nonHispanicWhitePct": 95.31,
+          "blackPct": 1.16,
+          "asianPct": 0.09,
+          "hispanicPct": 0.94
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 73,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Bryan Smith",
+            "party": "Republican",
+            "votes": 6710,
+            "pct": 100
+          }
+        ],
+        "winner": "Bryan Smith",
+        "winner_party": "Republican",
+        "winner_votes": 6710,
+        "total_votes": 6710,
+        "winner_pct": 100
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "West Virginia House District 74",
+      "census": {
+        "censusName": "Delegate District 74 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75379,
+        "medianAge": 43.2,
+        "totalPopulation": 19008,
+        "collegePct": 25.95,
+        "renterRatePct": 14.46,
+        "race": {
+          "whitePct": 95.11,
+          "nonHispanicWhitePct": 94.48,
+          "blackPct": 0.76,
+          "asianPct": 0.66,
+          "hispanicPct": 1.46
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 74,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Michael E. Devault",
+            "party": "Republican",
+            "votes": 6023,
+            "pct": 72.05
+          },
+          {
+            "name": "Frankie Delapas",
+            "party": "Democratic",
+            "votes": 2337,
+            "pct": 27.95
+          }
+        ],
+        "winner": "Michael E. Devault",
+        "winner_party": "Republican",
+        "winner_votes": 6023,
+        "total_votes": 8360,
+        "winner_pct": 72
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "West Virginia House District 75",
+      "census": {
+        "censusName": "Delegate District 75 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59995,
+        "medianAge": 42.5,
+        "totalPopulation": 16648,
+        "collegePct": 26.19,
+        "renterRatePct": 25.61,
+        "race": {
+          "whitePct": 93.45,
+          "nonHispanicWhitePct": 92.78,
+          "blackPct": 2.01,
+          "asianPct": 0.05,
+          "hispanicPct": 1.55
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 75,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Phil Mallow",
+            "party": "Republican",
+            "votes": 4467,
+            "pct": 55.66
+          },
+          {
+            "name": "Stephanie Spears Tomana",
+            "party": "Democratic",
+            "votes": 3558,
+            "pct": 44.34
+          }
+        ],
+        "winner": "Phil Mallow",
+        "winner_party": "Republican",
+        "winner_votes": 4467,
+        "total_votes": 8025,
+        "winner_pct": 55.7
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "West Virginia House District 76",
+      "census": {
+        "censusName": "Delegate District 76 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62414,
+        "medianAge": 35.2,
+        "totalPopulation": 19198,
+        "collegePct": 23.67,
+        "renterRatePct": 33.75,
+        "race": {
+          "whitePct": 87.22,
+          "nonHispanicWhitePct": 86.85,
+          "blackPct": 5.08,
+          "asianPct": 0.55,
+          "hispanicPct": 1.79
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 76,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Rick Garcia",
+            "party": "Democratic",
+            "votes": 3568,
+            "pct": 50.97
+          },
+          {
+            "name": "Jon Dodds",
+            "party": "Republican",
+            "votes": 3432,
+            "pct": 49.03
+          }
+        ],
+        "winner": "Rick Garcia",
+        "winner_party": "Democratic",
+        "winner_votes": 3568,
+        "total_votes": 7000,
+        "winner_pct": 51
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "West Virginia House District 77",
+      "census": {
+        "censusName": "Delegate District 77 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88109,
+        "medianAge": 44.9,
+        "totalPopulation": 15808,
+        "collegePct": 32.61,
+        "renterRatePct": 14.5,
+        "race": {
+          "whitePct": 94.7,
+          "nonHispanicWhitePct": 93.68,
+          "blackPct": 1.27,
+          "asianPct": 0,
+          "hispanicPct": 1.99
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 77,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Joe Statler",
+            "party": "Republican",
+            "votes": 6984,
+            "pct": 100
+          }
+        ],
+        "winner": "Joe Statler",
+        "winner_party": "Republican",
+        "winner_votes": 6984,
+        "total_votes": 6984,
+        "winner_pct": 100
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "West Virginia House District 78",
+      "census": {
+        "censusName": "Delegate District 78 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96350,
+        "medianAge": 38.3,
+        "totalPopulation": 19318,
+        "collegePct": 43.12,
+        "renterRatePct": 20.4,
+        "race": {
+          "whitePct": 88.3,
+          "nonHispanicWhitePct": 86.37,
+          "blackPct": 4.81,
+          "asianPct": 1.36,
+          "hispanicPct": 5.04
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 78,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Geno Chiarelli",
+            "party": "Republican",
+            "votes": 4641,
+            "pct": 55.68
+          },
+          {
+            "name": "Diane Market Gaston",
+            "party": "Democratic",
+            "votes": 3694,
+            "pct": 44.32
+          }
+        ],
+        "winner": "Geno Chiarelli",
+        "winner_party": "Republican",
+        "winner_votes": 4641,
+        "total_votes": 8335,
+        "winner_pct": 55.7
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "West Virginia House District 79",
+      "census": {
+        "censusName": "Delegate District 79 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41974,
+        "medianAge": 25.6,
+        "totalPopulation": 18419,
+        "collegePct": 57.51,
+        "renterRatePct": 55.5,
+        "race": {
+          "whitePct": 84.94,
+          "nonHispanicWhitePct": 83.72,
+          "blackPct": 5.78,
+          "asianPct": 3.4,
+          "hispanicPct": 3.34
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 79,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Evan Hansen",
+            "party": "Democratic",
+            "votes": 4496,
+            "pct": 100
+          }
+        ],
+        "winner": "Evan Hansen",
+        "winner_party": "Democratic",
+        "winner_votes": 4496,
+        "total_votes": 4496,
+        "winner_pct": 100
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "West Virginia House District 80",
+      "census": {
+        "censusName": "Delegate District 80 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59703,
+        "medianAge": 29.5,
+        "totalPopulation": 17278,
+        "collegePct": 51.08,
+        "renterRatePct": 51.4,
+        "race": {
+          "whitePct": 82.89,
+          "nonHispanicWhitePct": 81.18,
+          "blackPct": 3.7,
+          "asianPct": 6.03,
+          "hispanicPct": 4.97
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 80,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "John Williams",
+            "party": "Democratic",
+            "votes": 3283,
+            "pct": 58.76
+          },
+          {
+            "name": "Summer D.  Hartley",
+            "party": "Republican",
+            "votes": 2304,
+            "pct": 41.24
+          }
+        ],
+        "winner": "John Williams",
+        "winner_party": "Democratic",
+        "winner_votes": 3283,
+        "total_votes": 5587,
+        "winner_pct": 58.8
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "West Virginia House District 81",
+      "census": {
+        "censusName": "Delegate District 81 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 38863,
+        "medianAge": 25.4,
+        "totalPopulation": 15939,
+        "collegePct": 54.24,
+        "renterRatePct": 74.75,
+        "race": {
+          "whitePct": 83.59,
+          "nonHispanicWhitePct": 82.95,
+          "blackPct": 4.13,
+          "asianPct": 6.69,
+          "hispanicPct": 1.54
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 81,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Anitra L. Hamilton",
+            "party": "Democratic",
+            "votes": 3456,
+            "pct": 100
+          }
+        ],
+        "winner": "Anitra L. Hamilton",
+        "winner_party": "Democratic",
+        "winner_votes": 3456,
+        "total_votes": 3456,
+        "winner_pct": 100
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "West Virginia House District 82",
+      "census": {
+        "censusName": "Delegate District 82 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75168,
+        "medianAge": 35.5,
+        "totalPopulation": 19838,
+        "collegePct": 53.29,
+        "renterRatePct": 33.29,
+        "race": {
+          "whitePct": 90.02,
+          "nonHispanicWhitePct": 89.2,
+          "blackPct": 1.72,
+          "asianPct": 3.77,
+          "hispanicPct": 1.47
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 82,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "David  Mccormick",
+            "party": "Republican",
+            "votes": 4657,
+            "pct": 53.94
+          },
+          {
+            "name": "Bill Reger-Nash",
+            "party": "Democratic",
+            "votes": 3976,
+            "pct": 46.06
+          }
+        ],
+        "winner": "David  Mccormick",
+        "winner_party": "Republican",
+        "winner_votes": 4657,
+        "total_votes": 8633,
+        "winner_pct": 53.9
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "West Virginia House District 83",
+      "census": {
+        "censusName": "Delegate District 83 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66760,
+        "medianAge": 42.7,
+        "totalPopulation": 16978,
+        "collegePct": 17.64,
+        "renterRatePct": 15.21,
+        "race": {
+          "whitePct": 85.35,
+          "nonHispanicWhitePct": 82.89,
+          "blackPct": 12.49,
+          "asianPct": 0.21,
+          "hispanicPct": 3.05
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 83,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "George Street",
+            "party": "Republican",
+            "votes": 5910,
+            "pct": 100
+          }
+        ],
+        "winner": "George Street",
+        "winner_party": "Republican",
+        "winner_votes": 5910,
+        "total_votes": 5910,
+        "winner_pct": 100
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "West Virginia House District 84",
+      "census": {
+        "censusName": "Delegate District 84 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54764,
+        "medianAge": 43.8,
+        "totalPopulation": 17226,
+        "collegePct": 18.16,
+        "renterRatePct": 22.76,
+        "race": {
+          "whitePct": 95.88,
+          "nonHispanicWhitePct": 95.63,
+          "blackPct": 0.74,
+          "asianPct": 0.28,
+          "hispanicPct": 0.81
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 84,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "D. R. Buck  Jennings",
+            "party": "Republican",
+            "votes": 6455,
+            "pct": 100
+          }
+        ],
+        "winner": "D. R. Buck  Jennings",
+        "winner_party": "Republican",
+        "winner_votes": 6455,
+        "total_votes": 6455,
+        "winner_pct": 100
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "West Virginia House District 85",
+      "census": {
+        "censusName": "Delegate District 85 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58374,
+        "medianAge": 49.1,
+        "totalPopulation": 17670,
+        "collegePct": 20.43,
+        "renterRatePct": 18.88,
+        "race": {
+          "whitePct": 96.54,
+          "nonHispanicWhitePct": 96.47,
+          "blackPct": 0.85,
+          "asianPct": 0.08,
+          "hispanicPct": 0.47
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 85,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "John Paul Hott Ii",
+            "party": "Republican",
+            "votes": 7403,
+            "pct": 100
+          }
+        ],
+        "winner": "John Paul Hott Ii",
+        "winner_party": "Republican",
+        "winner_votes": 7403,
+        "total_votes": 7403,
+        "winner_pct": 100
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "West Virginia House District 86",
+      "census": {
+        "censusName": "Delegate District 86 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49557,
+        "medianAge": 47.9,
+        "totalPopulation": 16774,
+        "collegePct": 15.66,
+        "renterRatePct": 19.16,
+        "race": {
+          "whitePct": 90.59,
+          "nonHispanicWhitePct": 90.02,
+          "blackPct": 4.17,
+          "asianPct": 0.02,
+          "hispanicPct": 4.48
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 86,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Bryan C. Ward",
+            "party": "Republican",
+            "votes": 6623,
+            "pct": 100
+          }
+        ],
+        "winner": "Bryan C. Ward",
+        "winner_party": "Republican",
+        "winner_votes": 6623,
+        "total_votes": 6623,
+        "winner_pct": 100
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "West Virginia House District 87",
+      "census": {
+        "censusName": "Delegate District 87 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69260,
+        "medianAge": 44.4,
+        "totalPopulation": 16895,
+        "collegePct": 25.34,
+        "renterRatePct": 22.49,
+        "race": {
+          "whitePct": 94.22,
+          "nonHispanicWhitePct": 94.03,
+          "blackPct": 1.65,
+          "asianPct": 0,
+          "hispanicPct": 0.65
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 87,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Gary G. Howell",
+            "party": "Republican",
+            "votes": 6744,
+            "pct": 100
+          }
+        ],
+        "winner": "Gary G. Howell",
+        "winner_party": "Republican",
+        "winner_votes": 6744,
+        "total_votes": 6744,
+        "winner_pct": 100
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "West Virginia House District 88",
+      "census": {
+        "censusName": "Delegate District 88 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64129,
+        "medianAge": 47.3,
+        "totalPopulation": 17855,
+        "collegePct": 16.65,
+        "renterRatePct": 15.91,
+        "race": {
+          "whitePct": 92.59,
+          "nonHispanicWhitePct": 91.56,
+          "blackPct": 1.44,
+          "asianPct": 0.11,
+          "hispanicPct": 1.38
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 88,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Rick Hillenbrand",
+            "party": "Republican",
+            "votes": 6176,
+            "pct": 78.46
+          },
+          {
+            "name": "Amanda Vincent",
+            "party": "Democratic",
+            "votes": 1696,
+            "pct": 21.54
+          }
+        ],
+        "winner": "Rick Hillenbrand",
+        "winner_party": "Republican",
+        "winner_votes": 6176,
+        "total_votes": 7872,
+        "winner_pct": 78.5
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "West Virginia House District 89",
+      "census": {
+        "censusName": "Delegate District 89 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58933,
+        "medianAge": 48.1,
+        "totalPopulation": 19051,
+        "collegePct": 16.59,
+        "renterRatePct": 16.97,
+        "race": {
+          "whitePct": 94.62,
+          "nonHispanicWhitePct": 93.78,
+          "blackPct": 0.7,
+          "asianPct": 0.09,
+          "hispanicPct": 2.39
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 89,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Darren J Thorne",
+            "party": "Republican",
+            "votes": 6665,
+            "pct": 79.43
+          },
+          {
+            "name": "Alyson Reeves",
+            "party": "Democratic",
+            "votes": 1726,
+            "pct": 20.57
+          }
+        ],
+        "winner": "Darren J Thorne",
+        "winner_party": "Republican",
+        "winner_votes": 6665,
+        "total_votes": 8391,
+        "winner_pct": 79.4
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "West Virginia House District 90",
+      "census": {
+        "censusName": "Delegate District 90 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76447,
+        "medianAge": 48.3,
+        "totalPopulation": 18934,
+        "collegePct": 22.24,
+        "renterRatePct": 17.31,
+        "race": {
+          "whitePct": 94.69,
+          "nonHispanicWhitePct": 94.35,
+          "blackPct": 0.11,
+          "asianPct": 0.51,
+          "hispanicPct": 1.57
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 90,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "George Miller",
+            "party": "Republican",
+            "votes": 8712,
+            "pct": 100
+          }
+        ],
+        "winner": "George Miller",
+        "winner_party": "Republican",
+        "winner_votes": 8712,
+        "total_votes": 8712,
+        "winner_pct": 100
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "West Virginia House District 91",
+      "census": {
+        "censusName": "Delegate District 91 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88912,
+        "medianAge": 39.7,
+        "totalPopulation": 18039,
+        "collegePct": 28.7,
+        "renterRatePct": 18.03,
+        "race": {
+          "whitePct": 86.91,
+          "nonHispanicWhitePct": 86.28,
+          "blackPct": 4.69,
+          "asianPct": 0.94,
+          "hispanicPct": 3.97
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 91,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Joseph De Soto",
+            "party": "Republican",
+            "votes": 5974,
+            "pct": 76.26
+          },
+          {
+            "name": "Rick Thomson",
+            "party": "CST",
+            "votes": 1860,
+            "pct": 23.74
+          }
+        ],
+        "winner": "Joseph De Soto",
+        "winner_party": "Republican",
+        "winner_votes": 5974,
+        "total_votes": 7834,
+        "winner_pct": 76.3
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "West Virginia House District 92",
+      "census": {
+        "censusName": "Delegate District 92 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83666,
+        "medianAge": 37.9,
+        "totalPopulation": 18345,
+        "collegePct": 25.73,
+        "renterRatePct": 25.09,
+        "race": {
+          "whitePct": 79.28,
+          "nonHispanicWhitePct": 78.2,
+          "blackPct": 8.1,
+          "asianPct": 0.59,
+          "hispanicPct": 6.14
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 92,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Michael Hite",
+            "party": "Republican",
+            "votes": 7176,
+            "pct": 100
+          }
+        ],
+        "winner": "Michael Hite",
+        "winner_party": "Republican",
+        "winner_votes": 7176,
+        "total_votes": 7176,
+        "winner_pct": 100
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "West Virginia House District 93",
+      "census": {
+        "censusName": "Delegate District 93 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59196,
+        "medianAge": 36.9,
+        "totalPopulation": 18186,
+        "collegePct": 20.8,
+        "renterRatePct": 37.24,
+        "race": {
+          "whitePct": 73.16,
+          "nonHispanicWhitePct": 70.99,
+          "blackPct": 10.72,
+          "asianPct": 0.71,
+          "hispanicPct": 10.44
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 93,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Mike Hornby",
+            "party": "Republican",
+            "votes": 5159,
+            "pct": 100
+          }
+        ],
+        "winner": "Mike Hornby",
+        "winner_party": "Republican",
+        "winner_votes": 5159,
+        "total_votes": 5159,
+        "winner_pct": 100
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "West Virginia House District 94",
+      "census": {
+        "censusName": "Delegate District 94 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68169,
+        "medianAge": 42.2,
+        "totalPopulation": 17465,
+        "collegePct": 25.84,
+        "renterRatePct": 36.34,
+        "race": {
+          "whitePct": 80.6,
+          "nonHispanicWhitePct": 79.31,
+          "blackPct": 10.59,
+          "asianPct": 1.1,
+          "hispanicPct": 4.2
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 94,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Larry D Kump",
+            "party": "Republican",
+            "votes": 6413,
+            "pct": 100
+          }
+        ],
+        "winner": "Larry D Kump",
+        "winner_party": "Republican",
+        "winner_votes": 6413,
+        "total_votes": 6413,
+        "winner_pct": 100
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "West Virginia House District 95",
+      "census": {
+        "censusName": "Delegate District 95 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78355,
+        "medianAge": 35.6,
+        "totalPopulation": 18110,
+        "collegePct": 22.49,
+        "renterRatePct": 22.54,
+        "race": {
+          "whitePct": 82.1,
+          "nonHispanicWhitePct": 80.23,
+          "blackPct": 6.12,
+          "asianPct": 1.34,
+          "hispanicPct": 7.61
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 95,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Charles Chuck K. Horst",
+            "party": "Republican",
+            "votes": 4877,
+            "pct": 67.38
+          },
+          {
+            "name": "Debi Carroll",
+            "party": "Democratic",
+            "votes": 2361,
+            "pct": 32.62
+          }
+        ],
+        "winner": "Charles Chuck K. Horst",
+        "winner_party": "Republican",
+        "winner_votes": 4877,
+        "total_votes": 7238,
+        "winner_pct": 67.4
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "West Virginia House District 96",
+      "census": {
+        "censusName": "Delegate District 96 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78179,
+        "medianAge": 37.9,
+        "totalPopulation": 18892,
+        "collegePct": 17.78,
+        "renterRatePct": 15.67,
+        "race": {
+          "whitePct": 85.49,
+          "nonHispanicWhitePct": 82.55,
+          "blackPct": 5.56,
+          "asianPct": 0.53,
+          "hispanicPct": 6.76
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 96,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Lisa  White",
+            "party": "Republican",
+            "votes": 5383,
+            "pct": 71.05
+          },
+          {
+            "name": "Aniqua Nikki Lower",
+            "party": "Democratic",
+            "votes": 2193,
+            "pct": 28.95
+          }
+        ],
+        "winner": "Lisa  White",
+        "winner_party": "Republican",
+        "winner_votes": 5383,
+        "total_votes": 7576,
+        "winner_pct": 71.1
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "West Virginia House District 97",
+      "census": {
+        "censusName": "Delegate District 97 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93178,
+        "medianAge": 40.7,
+        "totalPopulation": 18170,
+        "collegePct": 34.81,
+        "renterRatePct": 16.44,
+        "race": {
+          "whitePct": 85.38,
+          "nonHispanicWhitePct": 83.59,
+          "blackPct": 4.63,
+          "asianPct": 1.44,
+          "hispanicPct": 5.09
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 97,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "S. Chris Anders",
+            "party": "Republican",
+            "votes": 4594,
+            "pct": 54.16
+          },
+          {
+            "name": "Lucia Valentine",
+            "party": "Democratic",
+            "votes": 3888,
+            "pct": 45.84
+          }
+        ],
+        "winner": "S. Chris Anders",
+        "winner_party": "Republican",
+        "winner_votes": 4594,
+        "total_votes": 8482,
+        "winner_pct": 54.2
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "West Virginia House District 98",
+      "census": {
+        "censusName": "Delegate District 98 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92822,
+        "medianAge": 40.4,
+        "totalPopulation": 17158,
+        "collegePct": 23.46,
+        "renterRatePct": 20.69,
+        "race": {
+          "whitePct": 81.19,
+          "nonHispanicWhitePct": 78.95,
+          "blackPct": 6.55,
+          "asianPct": 2.05,
+          "hispanicPct": 8.5
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 98,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Joe Funkhouser",
+            "party": "Republican",
+            "votes": 5136,
+            "pct": 65.99
+          },
+          {
+            "name": "Troy N. Miller",
+            "party": "Democratic",
+            "votes": 2647,
+            "pct": 34.01
+          }
+        ],
+        "winner": "Joe Funkhouser",
+        "winner_party": "Republican",
+        "winner_votes": 5136,
+        "total_votes": 7783,
+        "winner_pct": 66
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "West Virginia House District 99",
+      "census": {
+        "censusName": "Delegate District 99 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98490,
+        "medianAge": 41.4,
+        "totalPopulation": 18168,
+        "collegePct": 35.57,
+        "renterRatePct": 24.99,
+        "race": {
+          "whitePct": 76.7,
+          "nonHispanicWhitePct": 75.27,
+          "blackPct": 7.77,
+          "asianPct": 1.49,
+          "hispanicPct": 8.74
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 99,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "Wayne Clark",
+            "party": "Republican",
+            "votes": 5199,
+            "pct": 57.97
+          },
+          {
+            "name": "Osmund Antonio Anderson",
+            "party": "Democratic",
+            "votes": 3770,
+            "pct": 42.03
+          }
+        ],
+        "winner": "Wayne Clark",
+        "winner_party": "Republican",
+        "winner_votes": 5199,
+        "total_votes": 8969,
+        "winner_pct": 58
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "West Virginia House District 100",
+      "census": {
+        "censusName": "Delegate District 100 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91750,
+        "medianAge": 41.9,
+        "totalPopulation": 17032,
+        "collegePct": 37.14,
+        "renterRatePct": 18.58,
+        "race": {
+          "whitePct": 88.42,
+          "nonHispanicWhitePct": 87.38,
+          "blackPct": 2.8,
+          "asianPct": 1.16,
+          "hispanicPct": 4.42
+        }
+      },
+      "election": {
+        "year": 2024,
+        "district": 100,
+        "chamber": "house",
+        "candidates": [
+          {
+            "name": "William Ridenour",
+            "party": "Republican",
+            "votes": 4610,
+            "pct": 53.38
+          },
+          {
+            "name": "Maria Russo",
+            "party": "Democratic",
+            "votes": 4027,
+            "pct": 46.62
+          }
+        ],
+        "winner": "William Ridenour",
+        "winner_party": "Republican",
+        "winner_votes": 4610,
+        "total_votes": 8637,
+        "winner_pct": 53.4
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "West Virginia Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58365,
+        "medianAge": 46,
+        "totalPopulation": 100913,
+        "collegePct": 25.74,
+        "renterRatePct": 28.04,
+        "race": {
+          "whitePct": 92.28,
+          "nonHispanicWhitePct": 91.72,
+          "blackPct": 2.23,
+          "asianPct": 0.52,
+          "hispanicPct": 1.59
+        }
+      },
+      "election": {
+        "district": 1,
+        "chamber": "senate",
+        "seat_a": {
+          "year": 2022,
+          "candidates": [
+            {
+              "name": "Laura Wakim Chapman",
+              "party": "Republican",
+              "votes": 18746,
+              "pct": 60.46
+            },
+            {
+              "name": "Randy Swartzmiller",
+              "party": "Democratic",
+              "votes": 12258,
+              "pct": 39.54
+            }
+          ],
+          "winner": "Laura Wakim Chapman",
+          "winner_party": "Republican",
+          "winner_votes": 18746,
+          "total_votes": 31004,
+          "winner_pct": 60.5
+        },
+        "seat_b": {
+          "year": 2024,
+          "candidates": [
+            {
+              "name": "Ryan W. Weld",
+              "party": "Republican",
+              "votes": 37739,
+              "pct": 100
+            }
+          ],
+          "winner": "Ryan W. Weld",
+          "winner_party": "Republican",
+          "winner_votes": 37739,
+          "total_votes": 37739,
+          "winner_pct": 100
+        }
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "West Virginia Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65516,
+        "medianAge": 43.3,
+        "totalPopulation": 103462,
+        "collegePct": 24.56,
+        "renterRatePct": 19.09,
+        "race": {
+          "whitePct": 94.44,
+          "nonHispanicWhitePct": 93.78,
+          "blackPct": 1.04,
+          "asianPct": 0.54,
+          "hispanicPct": 1.2
+        }
+      },
+      "election": {
+        "district": 2,
+        "chamber": "senate",
+        "seat_a": {
+          "year": 2022,
+          "candidates": [
+            {
+              "name": "Charles Clements",
+              "party": "Republican",
+              "votes": 18720,
+              "pct": 62.54
+            },
+            {
+              "name": "Eric M. Hayhurst",
+              "party": "Democratic",
+              "votes": 11213,
+              "pct": 37.46
+            }
+          ],
+          "winner": "Charles Clements",
+          "winner_party": "Republican",
+          "winner_votes": 18720,
+          "total_votes": 29933,
+          "winner_pct": 62.5
+        },
+        "seat_b": {
+          "year": 2024,
+          "candidates": [
+            {
+              "name": "Chris Rose",
+              "party": "Republican",
+              "votes": 37022,
+              "pct": 100
+            }
+          ],
+          "winner": "Chris Rose",
+          "winner_party": "Republican",
+          "winner_votes": 37022,
+          "total_votes": 37022,
+          "winner_pct": 100
+        }
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "West Virginia Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55889,
+        "medianAge": 44.2,
+        "totalPopulation": 104904,
+        "collegePct": 21.18,
+        "renterRatePct": 23.77,
+        "race": {
+          "whitePct": 95.1,
+          "nonHispanicWhitePct": 94.41,
+          "blackPct": 0.98,
+          "asianPct": 0.43,
+          "hispanicPct": 1.39
+        }
+      },
+      "election": {
+        "district": 3,
+        "chamber": "senate",
+        "seat_a": {
+          "year": 2022,
+          "candidates": [
+            {
+              "name": "Michael Azinger",
+              "party": "Republican",
+              "votes": 20812,
+              "pct": 65.71
+            },
+            {
+              "name": "Jody Murphy",
+              "party": "Democratic",
+              "votes": 10861,
+              "pct": 34.29
+            }
+          ],
+          "winner": "Michael Azinger",
+          "winner_party": "Republican",
+          "winner_votes": 20812,
+          "total_votes": 31673,
+          "winner_pct": 65.7
+        },
+        "seat_b": {
+          "year": 2024,
+          "candidates": [
+            {
+              "name": "Donna J. Boley",
+              "party": "Republican",
+              "votes": 37987,
+              "pct": 100
+            }
+          ],
+          "winner": "Donna J. Boley",
+          "winner_party": "Republican",
+          "winner_votes": 37987,
+          "total_votes": 37987,
+          "winner_pct": 100
+        }
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "West Virginia Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67024,
+        "medianAge": 43.2,
+        "totalPopulation": 103107,
+        "collegePct": 26.04,
+        "renterRatePct": 19.74,
+        "race": {
+          "whitePct": 95.31,
+          "nonHispanicWhitePct": 94.79,
+          "blackPct": 0.58,
+          "asianPct": 0.72,
+          "hispanicPct": 1.37
+        }
+      },
+      "election": {
+        "district": 4,
+        "chamber": "senate",
+        "seat_a": {
+          "year": 2022,
+          "candidates": [
+            {
+              "name": "Eric J. Tarr",
+              "party": "Republican",
+              "votes": 21059,
+              "pct": 100
+            }
+          ],
+          "winner": "Eric J. Tarr",
+          "winner_party": "Republican",
+          "winner_votes": 21059,
+          "total_votes": 21059,
+          "winner_pct": 100
+        },
+        "seat_b": {
+          "year": 2024,
+          "candidates": [
+            {
+              "name": "Amy Nichole Grady",
+              "party": "Republican",
+              "votes": 33655,
+              "pct": 74.79
+            },
+            {
+              "name": "Dwayne Russell",
+              "party": "Democratic",
+              "votes": 11343,
+              "pct": 25.21
+            }
+          ],
+          "winner": "Amy Nichole Grady",
+          "winner_party": "Republican",
+          "winner_votes": 33655,
+          "total_votes": 44998,
+          "winner_pct": 74.8
+        }
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "West Virginia Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52949,
+        "medianAge": 39.4,
+        "totalPopulation": 105909,
+        "collegePct": 30.38,
+        "renterRatePct": 35.49,
+        "race": {
+          "whitePct": 90.33,
+          "nonHispanicWhitePct": 89.84,
+          "blackPct": 4.05,
+          "asianPct": 0.99,
+          "hispanicPct": 1.44
+        }
+      },
+      "election": {
+        "district": 5,
+        "chamber": "senate",
+        "seat_a": {
+          "year": 2022,
+          "candidates": [
+            {
+              "name": "Mike Woelfel",
+              "party": "Democratic",
+              "votes": 13542,
+              "pct": 53.97
+            },
+            {
+              "name": "Melissa Clark",
+              "party": "Republican",
+              "votes": 11552,
+              "pct": 46.03
+            }
+          ],
+          "winner": "Mike Woelfel",
+          "winner_party": "Democratic",
+          "winner_votes": 13542,
+          "total_votes": 25094,
+          "winner_pct": 54
+        },
+        "seat_b": {
+          "year": 2024,
+          "candidates": [
+            {
+              "name": "Scott Fuller",
+              "party": "Republican",
+              "votes": 19951,
+              "pct": 51.09
+            },
+            {
+              "name": "Ric Griffith",
+              "party": "Democratic",
+              "votes": 19098,
+              "pct": 48.91
+            }
+          ],
+          "winner": "Scott Fuller",
+          "winner_party": "Republican",
+          "winner_votes": 19951,
+          "total_votes": 39049,
+          "winner_pct": 51.1
+        }
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "West Virginia Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42369,
+        "medianAge": 43.8,
+        "totalPopulation": 108353,
+        "collegePct": 14.33,
+        "renterRatePct": 28.15,
+        "race": {
+          "whitePct": 91.04,
+          "nonHispanicWhitePct": 90.45,
+          "blackPct": 4.32,
+          "asianPct": 0.18,
+          "hispanicPct": 1.35
+        }
+      },
+      "election": {
+        "district": 6,
+        "chamber": "senate",
+        "seat_a": {
+          "year": 2022,
+          "candidates": [
+            {
+              "name": "Mark R. Maynard",
+              "party": "Republican",
+              "votes": 17222,
+              "pct": 73.38
+            },
+            {
+              "name": "Tiffany Clemins",
+              "party": "Democratic",
+              "votes": 6249,
+              "pct": 26.62
+            }
+          ],
+          "winner": "Mark R. Maynard",
+          "winner_party": "Republican",
+          "winner_votes": 17222,
+          "total_votes": 23471,
+          "winner_pct": 73.4
+        },
+        "seat_b": {
+          "year": 2024,
+          "candidates": [
+            {
+              "name": "Craig A. Hart",
+              "party": "Republican",
+              "votes": 23014,
+              "pct": 61.04
+            },
+            {
+              "name": "Jeff Disibbio",
+              "party": "Democratic",
+              "votes": 12924,
+              "pct": 34.28
+            },
+            {
+              "name": "Dave Sartin",
+              "party": "Independent",
+              "votes": 1765,
+              "pct": 4.68
+            }
+          ],
+          "winner": "Craig A. Hart",
+          "winner_party": "Republican",
+          "winner_votes": 23014,
+          "total_votes": 37703,
+          "winner_pct": 61
+        }
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "West Virginia Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51439,
+        "medianAge": 44,
+        "totalPopulation": 99052,
+        "collegePct": 13.48,
+        "renterRatePct": 24.16,
+        "race": {
+          "whitePct": 95.54,
+          "nonHispanicWhitePct": 95.37,
+          "blackPct": 1.21,
+          "asianPct": 0.22,
+          "hispanicPct": 0.65
+        }
+      },
+      "election": {
+        "district": 7,
+        "chamber": "senate",
+        "seat_a": {
+          "year": 2022,
+          "candidates": [
+            {
+              "name": "Mike Stuart",
+              "party": "Republican",
+              "votes": 13242,
+              "pct": 58.16
+            },
+            {
+              "name": "Ron Stollings",
+              "party": "Democratic",
+              "votes": 9526,
+              "pct": 41.84
+            }
+          ],
+          "winner": "Mike Stuart",
+          "winner_party": "Republican",
+          "winner_votes": 13242,
+          "total_votes": 22768,
+          "winner_pct": 58.2
+        },
+        "seat_b": {
+          "year": 2024,
+          "candidates": [
+            {
+              "name": "Rupie Phillips",
+              "party": "Republican",
+              "votes": 28849,
+              "pct": 100
+            }
+          ],
+          "winner": "Rupie Phillips",
+          "winner_party": "Republican",
+          "winner_votes": 28849,
+          "total_votes": 28849,
+          "winner_pct": 100
+        }
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "West Virginia Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53282,
+        "medianAge": 43.7,
+        "totalPopulation": 100381,
+        "collegePct": 21.38,
+        "renterRatePct": 30.04,
+        "race": {
+          "whitePct": 87.38,
+          "nonHispanicWhitePct": 86.5,
+          "blackPct": 6.27,
+          "asianPct": 0.64,
+          "hispanicPct": 1.48
+        }
+      },
+      "election": {
+        "district": 8,
+        "chamber": "senate",
+        "seat_a": {
+          "year": 2022,
+          "candidates": [
+            {
+              "name": "Mark Hunt",
+              "party": "Republican",
+              "votes": 14615,
+              "pct": 56.76
+            },
+            {
+              "name": "Richard  Lindsay",
+              "party": "Democratic",
+              "votes": 11136,
+              "pct": 43.24
+            }
+          ],
+          "winner": "Mark Hunt",
+          "winner_party": "Republican",
+          "winner_votes": 14615,
+          "total_votes": 25751,
+          "winner_pct": 56.8
+        },
+        "seat_b": {
+          "year": 2024,
+          "candidates": [
+            {
+              "name": "Glenn D. Jeffries",
+              "party": "Republican",
+              "votes": 30980,
+              "pct": 100
+            }
+          ],
+          "winner": "Glenn D. Jeffries",
+          "winner_party": "Republican",
+          "winner_votes": 30980,
+          "total_votes": 30980,
+          "winner_pct": 100
+        }
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "West Virginia Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50049,
+        "medianAge": 43.4,
+        "totalPopulation": 108138,
+        "collegePct": 18.91,
+        "renterRatePct": 23.92,
+        "race": {
+          "whitePct": 89.78,
+          "nonHispanicWhitePct": 89.24,
+          "blackPct": 5.86,
+          "asianPct": 0.56,
+          "hispanicPct": 1.34
+        }
+      },
+      "election": {
+        "district": 9,
+        "chamber": "senate",
+        "seat_a": {
+          "year": 2022,
+          "candidates": [
+            {
+              "name": "Rollan Roberts",
+              "party": "Republican",
+              "votes": 18540,
+              "pct": 78.12
+            },
+            {
+              "name": "Kari Woodson",
+              "party": "Libertarian",
+              "votes": 5194,
+              "pct": 21.88
+            }
+          ],
+          "winner": "Rollan Roberts",
+          "winner_party": "Republican",
+          "winner_votes": 18540,
+          "total_votes": 23734,
+          "winner_pct": 78.1
+        },
+        "seat_b": {
+          "year": 2024,
+          "candidates": [
+            {
+              "name": "Brian Helton",
+              "party": "Republican",
+              "votes": 30734,
+              "pct": 75.01
+            },
+            {
+              "name": "Christy Cardwell",
+              "party": "Democratic",
+              "votes": 10240,
+              "pct": 24.99
+            }
+          ],
+          "winner": "Brian Helton",
+          "winner_party": "Republican",
+          "winner_votes": 30734,
+          "total_votes": 40974,
+          "winner_pct": 75
+        }
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "West Virginia Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50199,
+        "medianAge": 46.2,
+        "totalPopulation": 107831,
+        "collegePct": 18.61,
+        "renterRatePct": 21.81,
+        "race": {
+          "whitePct": 94.13,
+          "nonHispanicWhitePct": 93.55,
+          "blackPct": 2.19,
+          "asianPct": 0.28,
+          "hispanicPct": 1.3
+        }
+      },
+      "election": {
+        "district": 10,
+        "chamber": "senate",
+        "seat_a": {
+          "year": 2022,
+          "candidates": [
+            {
+              "name": "Vince Deeds",
+              "party": "Republican",
+              "votes": 18954,
+              "pct": 58.7
+            },
+            {
+              "name": "Stephen Baldwin",
+              "party": "Democratic",
+              "votes": 12250,
+              "pct": 37.94
+            },
+            {
+              "name": "Aaron Ransom",
+              "party": "Independent",
+              "votes": 1085,
+              "pct": 3.36
+            }
+          ],
+          "winner": "Vince Deeds",
+          "winner_party": "Republican",
+          "winner_votes": 18954,
+          "total_votes": 32289,
+          "winner_pct": 58.7
+        },
+        "seat_b": {
+          "year": 2024,
+          "candidates": [
+            {
+              "name": "Jack David Woodrum",
+              "party": "Republican",
+              "votes": 37651,
+              "pct": 100
+            }
+          ],
+          "winner": "Jack David Woodrum",
+          "winner_party": "Republican",
+          "winner_votes": 37651,
+          "total_votes": 37651,
+          "winner_pct": 100
+        }
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "West Virginia Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49436,
+        "medianAge": 44.9,
+        "totalPopulation": 101558,
+        "collegePct": 16.06,
+        "renterRatePct": 20.83,
+        "race": {
+          "whitePct": 91.54,
+          "nonHispanicWhitePct": 91.3,
+          "blackPct": 1.3,
+          "asianPct": 0.19,
+          "hispanicPct": 1.12
+        }
+      },
+      "election": {
+        "district": 11,
+        "chamber": "senate",
+        "seat_a": {
+          "year": 2022,
+          "candidates": [
+            {
+              "name": "Bill Hamilton",
+              "party": "Republican",
+              "votes": 23105,
+              "pct": 100
+            }
+          ],
+          "winner": "Bill Hamilton",
+          "winner_party": "Republican",
+          "winner_votes": 23105,
+          "total_votes": 23105,
+          "winner_pct": 100
+        },
+        "seat_b": {
+          "year": 2024,
+          "candidates": [
+            {
+              "name": "Robbie Morris",
+              "party": "Republican",
+              "votes": 31279,
+              "pct": 75.93
+            },
+            {
+              "name": "Mandy Smith Weirich",
+              "party": "Democratic",
+              "votes": 9913,
+              "pct": 24.07
+            }
+          ],
+          "winner": "Robbie Morris",
+          "winner_party": "Republican",
+          "winner_votes": 31279,
+          "total_votes": 41192,
+          "winner_pct": 75.9
+        }
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "West Virginia Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56318,
+        "medianAge": 42.9,
+        "totalPopulation": 104068,
+        "collegePct": 22.48,
+        "renterRatePct": 25.41,
+        "race": {
+          "whitePct": 92.18,
+          "nonHispanicWhitePct": 91.48,
+          "blackPct": 2.09,
+          "asianPct": 0.55,
+          "hispanicPct": 2.02
+        }
+      },
+      "election": {
+        "district": 12,
+        "chamber": "senate",
+        "seat_a": {
+          "year": 2022,
+          "candidates": [
+            {
+              "name": "Ben Queen",
+              "party": "Republican",
+              "votes": 18711,
+              "pct": 68.69
+            },
+            {
+              "name": "Austin Lynch",
+              "party": "Libertarian",
+              "votes": 8529,
+              "pct": 31.31
+            }
+          ],
+          "winner": "Ben Queen",
+          "winner_party": "Republican",
+          "winner_votes": 18711,
+          "total_votes": 27240,
+          "winner_pct": 68.7
+        },
+        "seat_b": {
+          "year": 2024,
+          "candidates": [
+            {
+              "name": "Patrick S Martin",
+              "party": "Republican",
+              "votes": 37167,
+              "pct": 100
+            }
+          ],
+          "winner": "Patrick S Martin",
+          "winner_party": "Republican",
+          "winner_votes": 37167,
+          "total_votes": 37167,
+          "winner_pct": 100
+        }
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "West Virginia Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59701,
+        "medianAge": 32,
+        "totalPopulation": 111112,
+        "collegePct": 42.73,
+        "renterRatePct": 43.44,
+        "race": {
+          "whitePct": 86.59,
+          "nonHispanicWhitePct": 85.47,
+          "blackPct": 4.14,
+          "asianPct": 3.12,
+          "hispanicPct": 3.19
+        }
+      },
+      "election": {
+        "district": 13,
+        "chamber": "senate",
+        "seat_a": {
+          "year": 2022,
+          "candidates": [
+            {
+              "name": "Mike Oliverio",
+              "party": "Republican",
+              "votes": 13495,
+              "pct": 50.29
+            },
+            {
+              "name": "Barbara Evans Fleischauer",
+              "party": "Democratic",
+              "votes": 13342,
+              "pct": 49.71
+            }
+          ],
+          "winner": "Mike Oliverio",
+          "winner_party": "Republican",
+          "winner_votes": 13495,
+          "total_votes": 26837,
+          "winner_pct": 50.3
+        },
+        "seat_b": {
+          "year": 2024,
+          "candidates": [
+            {
+              "name": "Joey Garcia",
+              "party": "Democratic",
+              "votes": 21890,
+              "pct": 54.44
+            },
+            {
+              "name": "Rebecca Polis",
+              "party": "Republican",
+              "votes": 18321,
+              "pct": 45.56
+            }
+          ],
+          "winner": "Joey Garcia",
+          "winner_party": "Democratic",
+          "winner_votes": 21890,
+          "total_votes": 40211,
+          "winner_pct": 54.4
+        }
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "West Virginia Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59488,
+        "medianAge": 45,
+        "totalPopulation": 101256,
+        "collegePct": 19.21,
+        "renterRatePct": 19.6,
+        "race": {
+          "whitePct": 92.77,
+          "nonHispanicWhitePct": 92.01,
+          "blackPct": 3.53,
+          "asianPct": 0.14,
+          "hispanicPct": 1.71
+        }
+      },
+      "election": {
+        "district": 14,
+        "chamber": "senate",
+        "seat_a": {
+          "year": 2022,
+          "candidates": [
+            {
+              "name": "Jay Taylor",
+              "party": "Republican",
+              "votes": 21910,
+              "pct": 76.17
+            },
+            {
+              "name": "Amanda Jo Pitzer",
+              "party": "Democratic",
+              "votes": 6855,
+              "pct": 23.83
+            }
+          ],
+          "winner": "Jay Taylor",
+          "winner_party": "Republican",
+          "winner_votes": 21910,
+          "total_votes": 28765,
+          "winner_pct": 76.2
+        },
+        "seat_b": {
+          "year": 2024,
+          "candidates": [
+            {
+              "name": "Randy E. Smith",
+              "party": "Republican",
+              "votes": 36296,
+              "pct": 86.65
+            },
+            {
+              "name": "Betsy Orndoff-Sayers",
+              "party": "Mountain",
+              "votes": 5594,
+              "pct": 13.35
+            }
+          ],
+          "winner": "Randy E. Smith",
+          "winner_party": "Republican",
+          "winner_votes": 36296,
+          "total_votes": 41890,
+          "winner_pct": 86.6
+        }
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "West Virginia Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72455,
+        "medianAge": 42.2,
+        "totalPopulation": 111590,
+        "collegePct": 22.04,
+        "renterRatePct": 23.46,
+        "race": {
+          "whitePct": 86.68,
+          "nonHispanicWhitePct": 85.71,
+          "blackPct": 4.8,
+          "asianPct": 0.69,
+          "hispanicPct": 3.99
+        }
+      },
+      "election": {
+        "district": 15,
+        "chamber": "senate",
+        "seat_a": {
+          "year": 2022,
+          "candidates": [
+            {
+              "name": "Charles S. Trump Iv",
+              "party": "Republican",
+              "votes": 21137,
+              "pct": 80.41
+            },
+            {
+              "name": "Robin Mills",
+              "party": "United",
+              "votes": 5148,
+              "pct": 19.59
+            }
+          ],
+          "winner": "Charles S. Trump Iv",
+          "winner_party": "Republican",
+          "winner_votes": 21137,
+          "total_votes": 26285,
+          "winner_pct": 80.4
+        },
+        "seat_b": {
+          "year": 2024,
+          "candidates": [
+            {
+              "name": "Thomas (Tom) Willis",
+              "party": "Republican",
+              "votes": 35979,
+              "pct": 72.98
+            },
+            {
+              "name": "Anthony Murray",
+              "party": "Democratic",
+              "votes": 13318,
+              "pct": 27.02
+            }
+          ],
+          "winner": "Thomas (Tom) Willis",
+          "winner_party": "Republican",
+          "winner_votes": 35979,
+          "total_votes": 49297,
+          "winner_pct": 73
+        }
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "West Virginia Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85594,
+        "medianAge": 39.9,
+        "totalPopulation": 113788,
+        "collegePct": 28.62,
+        "renterRatePct": 21.17,
+        "race": {
+          "whitePct": 82.29,
+          "nonHispanicWhitePct": 80.42,
+          "blackPct": 6.16,
+          "asianPct": 1.2,
+          "hispanicPct": 7.21
+        }
+      },
+      "election": {
+        "district": 16,
+        "chamber": "senate",
+        "seat_a": {
+          "year": 2022,
+          "candidates": [
+            {
+              "name": "Jason Barrett",
+              "party": "Republican",
+              "votes": 18672,
+              "pct": 60.49
+            },
+            {
+              "name": "Hannah N. Geffert",
+              "party": "Democratic",
+              "votes": 12196,
+              "pct": 39.51
+            }
+          ],
+          "winner": "Jason Barrett",
+          "winner_party": "Republican",
+          "winner_votes": 18672,
+          "total_votes": 30868,
+          "winner_pct": 60.5
+        },
+        "seat_b": {
+          "year": 2024,
+          "candidates": [
+            {
+              "name": "Patricia Rucker",
+              "party": "Republican",
+              "votes": 31003,
+              "pct": 60.03
+            },
+            {
+              "name": "John Doyle",
+              "party": "Democratic",
+              "votes": 20645,
+              "pct": 39.97
+            }
+          ],
+          "winner": "Patricia Rucker",
+          "winner_party": "Republican",
+          "winner_votes": 31003,
+          "total_votes": 51648,
+          "winner_pct": 60
+        }
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "West Virginia Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); West Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63177,
+        "medianAge": 44.5,
+        "totalPopulation": 99040,
+        "collegePct": 32.33,
+        "renterRatePct": 25.65,
+        "race": {
+          "whitePct": 89.35,
+          "nonHispanicWhitePct": 88.97,
+          "blackPct": 4.42,
+          "asianPct": 1.64,
+          "hispanicPct": 1.29
+        }
+      },
+      "election": {
+        "district": 17,
+        "chamber": "senate",
+        "seat_a": {
+          "year": 2022,
+          "candidates": [
+            {
+              "name": "Tom Takubo",
+              "party": "Republican",
+              "votes": 16739,
+              "pct": 58.45
+            },
+            {
+              "name": "Samuel \"Sam\" Wood",
+              "party": "Democratic",
+              "votes": 11897,
+              "pct": 41.55
+            }
+          ],
+          "winner": "Tom Takubo",
+          "winner_party": "Republican",
+          "winner_votes": 16739,
+          "total_votes": 28636,
+          "winner_pct": 58.5
+        },
+        "seat_b": {
+          "year": 2024,
+          "candidates": [
+            {
+              "name": "Eric Nelson",
+              "party": "Republican",
+              "votes": 26931,
+              "pct": 64.27
+            },
+            {
+              "name": "Bil Lepp",
+              "party": "Democratic",
+              "votes": 14972,
+              "pct": 35.73
+            }
+          ],
+          "winner": "Eric Nelson",
+          "winner_party": "Republican",
+          "winner_votes": 26931,
+          "total_votes": 41903,
+          "winner_pct": 64.3
+        }
+      }
+    }
+  }
+}

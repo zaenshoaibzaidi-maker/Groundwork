@@ -10,8 +10,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-1",
     name: "North Carolina House District 1",
-    city: "Edenton",
-    region: "Outer Banks",
     type: "state house district",
     incumbentName: "Edward C. Goodwin",
     incumbentParty: "Republican",
@@ -57,8 +55,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-2",
     name: "North Carolina House District 2",
-    city: "Durham",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "Ray Jeffers",
     incumbentParty: "Democrat",
@@ -104,8 +100,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-3",
     name: "North Carolina House District 3",
-    city: "New Bern",
-    region: "Coastal Plain",
     type: "state house district",
     incumbentName: "Steve Tyson",
     incumbentParty: "Republican",
@@ -151,8 +145,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-4",
     name: "North Carolina House District 4",
-    city: "Goldsboro",
-    region: "Eastern NC",
     type: "state house district",
     incumbentName: "Jimmy Dixon",
     incumbentParty: "Republican",
@@ -198,8 +190,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-5",
     name: "North Carolina House District 5",
-    city: "Elizabeth City",
-    region: "Northeastern NC",
     type: "state house district",
     incumbentName: "Bill Ward",
     incumbentParty: "Republican",
@@ -245,8 +235,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-6",
     name: "North Carolina House District 6",
-    city: "Dunn",
-    region: "South-Central NC",
     type: "state house district",
     incumbentName: "Joe Pike",
     incumbentParty: "Republican",
@@ -292,8 +280,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-7",
     name: "North Carolina House District 7",
-    city: "Henderson",
-    region: "Northern Piedmont",
     type: "state house district",
     incumbentName: "Matthew Winslow",
     incumbentParty: "Republican",
@@ -339,8 +325,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-8",
     name: "North Carolina House District 8",
-    city: "Greenville",
-    region: "Eastern NC",
     type: "state house district",
     incumbentName: "Gloristine Brown",
     incumbentParty: "Democrat",
@@ -386,8 +370,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-9",
     name: "North Carolina House District 9",
-    city: "Greenville",
-    region: "Eastern NC",
     type: "state house district",
     incumbentName: "Timothy Reeder",
     incumbentParty: "Republican",
@@ -433,8 +415,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-10",
     name: "North Carolina House District 10",
-    city: "Goldsboro",
-    region: "Eastern NC",
     type: "state house district",
     incumbentName: "John Bell",
     incumbentParty: "Republican",
@@ -480,8 +460,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-11",
     name: "North Carolina House District 11",
-    city: "Raleigh",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "Allison A. Dahle",
     incumbentParty: "Democrat",
@@ -527,8 +505,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-12",
     name: "North Carolina House District 12",
-    city: "Kinston",
-    region: "Eastern NC",
     type: "state house district",
     incumbentName: "Chris Humphrey",
     incumbentParty: "Republican",
@@ -574,8 +550,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-13",
     name: "North Carolina House District 13",
-    city: "New Bern",
-    region: "Coastal Plain",
     type: "state house district",
     incumbentName: "Celeste Cairns",
     incumbentParty: "Republican",
@@ -621,8 +595,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-14",
     name: "North Carolina House District 14",
-    city: "Jacksonville",
-    region: "Coastal NC",
     type: "state house district",
     incumbentName: "Wyatt Gable",
     incumbentParty: "Republican",
@@ -668,8 +640,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-15",
     name: "North Carolina House District 15",
-    city: "Jacksonville",
-    region: "Coastal NC",
     type: "state house district",
     incumbentName: "Phillip Shepard",
     incumbentParty: "Republican",
@@ -715,8 +685,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-16",
     name: "North Carolina House District 16",
-    city: "Jacksonville",
-    region: "Coastal NC",
     type: "state house district",
     incumbentName: "Carson Smith",
     incumbentParty: "Republican",
@@ -762,8 +730,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-17",
     name: "North Carolina House District 17",
-    city: "Leland",
-    region: "Cape Fear Coast",
     type: "state house district",
     incumbentName: "Frank Iler",
     incumbentParty: "Republican",
@@ -809,8 +775,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-18",
     name: "North Carolina House District 18",
-    city: "Wilmington",
-    region: "Cape Fear Coast",
     type: "state house district",
     incumbentName: "Deb Butler",
     incumbentParty: "Democrat",
@@ -856,8 +820,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-19",
     name: "North Carolina House District 19",
-    city: "Wilmington",
-    region: "Cape Fear Coast",
     type: "state house district",
     incumbentName: "Charlie Miller",
     incumbentParty: "Republican",
@@ -903,8 +865,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-20",
     name: "North Carolina House District 20",
-    city: "Wilmington",
-    region: "Cape Fear Coast",
     type: "state house district",
     incumbentName: "Ted Davis, Jr.",
     incumbentParty: "Republican",
@@ -950,8 +910,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-21",
     name: "North Carolina House District 21",
-    city: "Raleigh",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "Ya Liu",
     incumbentParty: "Democrat",
@@ -997,8 +955,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-22",
     name: "North Carolina House District 22",
-    city: "Clinton",
-    region: "Southeastern NC",
     type: "state house district",
     incumbentName: "William Brisson",
     incumbentParty: "Republican",
@@ -1044,8 +1000,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-23",
     name: "North Carolina House District 23",
-    city: "Tarboro",
-    region: "Eastern NC",
     type: "state house district",
     incumbentName: "Shelly Willingham",
     incumbentParty: "Democrat",
@@ -1091,8 +1045,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-24",
     name: "North Carolina House District 24",
-    city: "Rocky Mount",
-    region: "Eastern NC",
     type: "state house district",
     incumbentName: "Dante Pittman",
     incumbentParty: "Democrat",
@@ -1138,8 +1090,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-25",
     name: "North Carolina House District 25",
-    city: "Rocky Mount",
-    region: "Eastern NC",
     type: "state house district",
     incumbentName: "Allen Chesser",
     incumbentParty: "Republican",
@@ -1185,8 +1135,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-26",
     name: "North Carolina House District 26",
-    city: "Smithfield",
-    region: "Johnston County",
     type: "state house district",
     incumbentName: "Donna Mcdowell White",
     incumbentParty: "Republican",
@@ -1232,8 +1180,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-27",
     name: "North Carolina House District 27",
-    city: "Roanoke Rapids",
-    region: "Northeastern NC",
     type: "state house district",
     incumbentName: "Rodney D. Pierce",
     incumbentParty: "Democrat",
@@ -1279,8 +1225,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-28",
     name: "North Carolina House District 28",
-    city: "Smithfield",
-    region: "Johnston County",
     type: "state house district",
     incumbentName: "Larry C. Strickland",
     incumbentParty: "Republican",
@@ -1326,8 +1270,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-29",
     name: "North Carolina House District 29",
-    city: "Durham",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "Vernetta Alston",
     incumbentParty: "Democrat",
@@ -1373,8 +1315,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-30",
     name: "North Carolina House District 30",
-    city: "Durham",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "Marcia Morey",
     incumbentParty: "Democrat",
@@ -1420,8 +1360,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-31",
     name: "North Carolina House District 31",
-    city: "Durham",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "Zack Hawkins",
     incumbentParty: "Democrat",
@@ -1467,8 +1405,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-32",
     name: "North Carolina House District 32",
-    city: "Henderson",
-    region: "Northern Piedmont",
     type: "state house district",
     incumbentName: "Bryan Cohn",
     incumbentParty: "Democrat",
@@ -1514,8 +1450,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-33",
     name: "North Carolina House District 33",
-    city: "Raleigh",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "Monika Johnson-hostler",
     incumbentParty: "Democrat",
@@ -1561,8 +1495,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-34",
     name: "North Carolina House District 34",
-    city: "Raleigh",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "Tim Longest",
     incumbentParty: "Democrat",
@@ -1608,8 +1540,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-35",
     name: "North Carolina House District 35",
-    city: "Raleigh",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "Mike Schietzelt",
     incumbentParty: "Republican",
@@ -1655,8 +1585,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-36",
     name: "North Carolina House District 36",
-    city: "Raleigh",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "Julie Von Haefen",
     incumbentParty: "Democrat",
@@ -1702,8 +1630,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-37",
     name: "North Carolina House District 37",
-    city: "Raleigh",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "Erin Pare",
     incumbentParty: "Republican",
@@ -1749,8 +1675,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-38",
     name: "North Carolina House District 38",
-    city: "Raleigh",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "Abe Jones",
     incumbentParty: "Democrat",
@@ -1796,8 +1720,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-39",
     name: "North Carolina House District 39",
-    city: "Raleigh",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "James Roberson",
     incumbentParty: "Democrat",
@@ -1843,8 +1765,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-40",
     name: "North Carolina House District 40",
-    city: "Raleigh",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "Joe John",
     incumbentParty: "Democrat",
@@ -1890,8 +1810,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-41",
     name: "North Carolina House District 41",
-    city: "Raleigh",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "Maria Cervania",
     incumbentParty: "Democrat",
@@ -1937,8 +1855,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-42",
     name: "North Carolina House District 42",
-    city: "Fayetteville",
-    region: "Sandhills",
     type: "state house district",
     incumbentName: "Mike Colvin",
     incumbentParty: "Democrat",
@@ -1984,8 +1900,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-43",
     name: "North Carolina House District 43",
-    city: "Fayetteville",
-    region: "Sandhills",
     type: "state house district",
     incumbentName: "Diane Wheatley",
     incumbentParty: "Republican",
@@ -2031,8 +1945,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-44",
     name: "North Carolina House District 44",
-    city: "Fayetteville",
-    region: "Sandhills",
     type: "state house district",
     incumbentName: "Charles Smith",
     incumbentParty: "Democrat",
@@ -2078,8 +1990,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-45",
     name: "North Carolina House District 45",
-    city: "Fayetteville",
-    region: "Sandhills",
     type: "state house district",
     incumbentName: "Frances Vinell Jackson",
     incumbentParty: "Democrat",
@@ -2125,8 +2035,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-46",
     name: "North Carolina House District 46",
-    city: "Whiteville",
-    region: "Southeastern NC",
     type: "state house district",
     incumbentName: "Brenden H. Jones",
     incumbentParty: "Republican",
@@ -2172,8 +2080,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-47",
     name: "North Carolina House District 47",
-    city: "Lumberton",
-    region: "Southeastern NC",
     type: "state house district",
     incumbentName: "Jarrod Lowery",
     incumbentParty: "Republican",
@@ -2219,8 +2125,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-48",
     name: "North Carolina House District 48",
-    city: "Laurinburg",
-    region: "Sandhills",
     type: "state house district",
     incumbentName: "Garland E. Pierce",
     incumbentParty: "Democrat",
@@ -2266,8 +2170,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-49",
     name: "North Carolina House District 49",
-    city: "Raleigh",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "Cynthia Ball",
     incumbentParty: "Democrat",
@@ -2313,8 +2215,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-50",
     name: "North Carolina House District 50",
-    city: "Chapel Hill",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "Renee A. Price",
     incumbentParty: "Democrat",
@@ -2360,8 +2260,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-51",
     name: "North Carolina House District 51",
-    city: "Sanford",
-    region: "Sandhills",
     type: "state house district",
     incumbentName: "John Sauls",
     incumbentParty: "Republican",
@@ -2407,8 +2305,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-52",
     name: "North Carolina House District 52",
-    city: "Southern Pines",
-    region: "Sandhills",
     type: "state house district",
     incumbentName: "Ben Moss, Jr.",
     incumbentParty: "Republican",
@@ -2455,8 +2351,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-53",
     name: "North Carolina House District 53",
-    city: "Dunn",
-    region: "South-Central NC",
     type: "state house district",
     incumbentName: "Howard Penny, Jr.",
     incumbentParty: "Republican",
@@ -2502,8 +2396,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-54",
     name: "North Carolina House District 54",
-    city: "Pittsboro",
-    region: "Central Piedmont",
     type: "state house district",
     incumbentName: "Robert T. Reives II",
     incumbentParty: "Democrat",
@@ -2549,8 +2441,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-55",
     name: "North Carolina House District 55",
-    city: "Monroe",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Mark Brody",
     incumbentParty: "Republican",
@@ -2596,8 +2486,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-56",
     name: "North Carolina House District 56",
-    city: "Chapel Hill",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "Allen Buansi",
     incumbentParty: "Democrat",
@@ -2643,8 +2531,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-57",
     name: "North Carolina House District 57",
-    city: "Greensboro",
-    region: "Piedmont Triad",
     type: "state house district",
     incumbentName: "Tracy Clark",
     incumbentParty: "Democrat",
@@ -2690,8 +2576,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-58",
     name: "North Carolina House District 58",
-    city: "Greensboro",
-    region: "Piedmont Triad",
     type: "state house district",
     incumbentName: "Amos Quick",
     incumbentParty: "Democrat",
@@ -2737,8 +2621,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-59",
     name: "North Carolina House District 59",
-    city: "Greensboro",
-    region: "Piedmont Triad",
     type: "state house district",
     incumbentName: "Alan Branson",
     incumbentParty: "Republican",
@@ -2784,8 +2666,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-60",
     name: "North Carolina House District 60",
-    city: "Greensboro",
-    region: "Piedmont Triad",
     type: "state house district",
     incumbentName: "Cecil Brockman",
     incumbentParty: "Democrat",
@@ -2831,8 +2711,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-61",
     name: "North Carolina House District 61",
-    city: "Greensboro",
-    region: "Piedmont Triad",
     type: "state house district",
     incumbentName: "Mary Price (pricey) Harrison",
     incumbentParty: "Democrat",
@@ -2878,8 +2756,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-62",
     name: "North Carolina House District 62",
-    city: "High Point",
-    region: "Piedmont Triad",
     type: "state house district",
     incumbentName: "John M. Blust",
     incumbentParty: "Republican",
@@ -2925,8 +2801,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-63",
     name: "North Carolina House District 63",
-    city: "Burlington",
-    region: "Piedmont Triad",
     type: "state house district",
     incumbentName: "Stephen Ross",
     incumbentParty: "Republican",
@@ -2972,8 +2846,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-64",
     name: "North Carolina House District 64",
-    city: "Burlington",
-    region: "Piedmont Triad",
     type: "state house district",
     incumbentName: "Dennis Riddell",
     incumbentParty: "Republican",
@@ -3020,8 +2892,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-65",
     name: "North Carolina House District 65",
-    city: "Eden",
-    region: "Northern Piedmont",
     type: "state house district",
     incumbentName: "Reece Pyrtle",
     incumbentParty: "Republican",
@@ -3067,8 +2937,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-66",
     name: "North Carolina House District 66",
-    city: "Raleigh",
-    region: "Research Triangle",
     type: "state house district",
     incumbentName: "Sarah Crawford",
     incumbentParty: "Democrat",
@@ -3114,8 +2982,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-67",
     name: "North Carolina House District 67",
-    city: "Albemarle",
-    region: "Piedmont",
     type: "state house district",
     incumbentName: "Cody Huneycutt",
     incumbentParty: "Republican",
@@ -3161,8 +3027,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-68",
     name: "North Carolina House District 68",
-    city: "Monroe",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "David Willis",
     incumbentParty: "Republican",
@@ -3208,8 +3072,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-69",
     name: "North Carolina House District 69",
-    city: "Monroe",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Dean Arp",
     incumbentParty: "Republican",
@@ -3255,8 +3117,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-70",
     name: "North Carolina House District 70",
-    city: "Asheboro",
-    region: "Piedmont",
     type: "state house district",
     incumbentName: "Brian Biggs",
     incumbentParty: "Republican",
@@ -3302,8 +3162,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-71",
     name: "North Carolina House District 71",
-    city: "Winston-Salem",
-    region: "Piedmont Triad",
     type: "state house district",
     incumbentName: "Kanika Brown",
     incumbentParty: "Democrat",
@@ -3349,8 +3207,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-72",
     name: "North Carolina House District 72",
-    city: "Winston-Salem",
-    region: "Piedmont Triad",
     type: "state house district",
     incumbentName: "Amber M. Baker",
     incumbentParty: "Democrat",
@@ -3396,8 +3252,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-73",
     name: "North Carolina House District 73",
-    city: "Concord",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Jonathan Almond",
     incumbentParty: "Republican",
@@ -3443,8 +3297,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-74",
     name: "North Carolina House District 74",
-    city: "Winston-Salem",
-    region: "Piedmont Triad",
     type: "state house district",
     incumbentName: "Jeffrey (jeff) Zenger",
     incumbentParty: "Republican",
@@ -3490,8 +3342,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-75",
     name: "North Carolina House District 75",
-    city: "Winston-Salem",
-    region: "Piedmont Triad",
     type: "state house district",
     incumbentName: "Donny C. Lambeth",
     incumbentParty: "Republican",
@@ -3537,8 +3387,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-76",
     name: "North Carolina House District 76",
-    city: "Salisbury",
-    region: "Piedmont",
     type: "state house district",
     incumbentName: "Harry Warren",
     incumbentParty: "Republican",
@@ -3584,8 +3432,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-77",
     name: "North Carolina House District 77",
-    city: "Mocksville",
-    region: "Piedmont",
     type: "state house district",
     incumbentName: "Julia Craven Howard",
     incumbentParty: "Republican",
@@ -3631,8 +3477,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-78",
     name: "North Carolina House District 78",
-    city: "Southern Pines",
-    region: "Sandhills",
     type: "state house district",
     incumbentName: "Neal Jackson",
     incumbentParty: "Republican",
@@ -3678,8 +3522,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-79",
     name: "North Carolina House District 79",
-    city: "Washington",
-    region: "Inner Banks",
     type: "state house district",
     incumbentName: "Keith Kidwell",
     incumbentParty: "Republican",
@@ -3725,8 +3567,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-80",
     name: "North Carolina House District 80",
-    city: "Lexington",
-    region: "Piedmont Triad",
     type: "state house district",
     incumbentName: "Sam Watford",
     incumbentParty: "Republican",
@@ -3772,8 +3612,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-81",
     name: "North Carolina House District 81",
-    city: "Lexington",
-    region: "Piedmont Triad",
     type: "state house district",
     incumbentName: "Larry W. Potts",
     incumbentParty: "Republican",
@@ -3820,8 +3658,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-82",
     name: "North Carolina House District 82",
-    city: "Concord",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Brian Echevarria",
     incumbentParty: "Republican",
@@ -3867,8 +3703,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-83",
     name: "North Carolina House District 83",
-    city: "Concord",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Grant Campbell",
     incumbentParty: "Republican",
@@ -3915,8 +3749,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-84",
     name: "North Carolina House District 84",
-    city: "Statesville",
-    region: "Piedmont Foothills",
     type: "state house district",
     incumbentName: "Jeffrey C. Mcneely",
     incumbentParty: "Republican",
@@ -3962,8 +3794,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-85",
     name: "North Carolina House District 85",
-    city: "Marion",
-    region: "Blue Ridge Mountains",
     type: "state house district",
     incumbentName: "Dudley Greene",
     incumbentParty: "Republican",
@@ -4009,8 +3839,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-86",
     name: "North Carolina House District 86",
-    city: "Morganton",
-    region: "Foothills",
     type: "state house district",
     incumbentName: "Hugh Blackwell",
     incumbentParty: "Republican",
@@ -4056,8 +3884,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-87",
     name: "North Carolina House District 87",
-    city: "Lenoir",
-    region: "Foothills",
     type: "state house district",
     incumbentName: "Destin Hall",
     incumbentParty: "Republican",
@@ -4104,8 +3930,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-88",
     name: "North Carolina House District 88",
-    city: "Charlotte",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Mary Belk",
     incumbentParty: "Democrat",
@@ -4151,8 +3975,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-89",
     name: "North Carolina House District 89",
-    city: "Mooresville",
-    region: "Piedmont Foothills",
     type: "state house district",
     incumbentName: "Mitchell Smith Setzer",
     incumbentParty: "Republican",
@@ -4198,8 +4020,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-90",
     name: "North Carolina House District 90",
-    city: "Mount Airy",
-    region: "Northern Foothills",
     type: "state house district",
     incumbentName: "Sarah Stevens",
     incumbentParty: "Republican",
@@ -4245,8 +4065,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-91",
     name: "North Carolina House District 91",
-    city: "Kernersville",
-    region: "Piedmont Triad",
     type: "state house district",
     incumbentName: "Kyle Hall",
     incumbentParty: "Republican",
@@ -4292,8 +4110,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-92",
     name: "North Carolina House District 92",
-    city: "Charlotte",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Terry Brown",
     incumbentParty: "Democrat",
@@ -4339,8 +4155,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-93",
     name: "North Carolina House District 93",
-    city: "Boone",
-    region: "Blue Ridge Mountains",
     type: "state house district",
     incumbentName: "Ray Pickett",
     incumbentParty: "Republican",
@@ -4386,8 +4200,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-94",
     name: "North Carolina House District 94",
-    city: "Wilkesboro",
-    region: "Foothills",
     type: "state house district",
     incumbentName: "Blair Eddins",
     incumbentParty: "Republican",
@@ -4433,8 +4245,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-95",
     name: "North Carolina House District 95",
-    city: "Mooresville",
-    region: "Piedmont Foothills",
     type: "state house district",
     incumbentName: "Richard (todd) Carver",
     incumbentParty: "Republican",
@@ -4480,8 +4290,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-96",
     name: "North Carolina House District 96",
-    city: "Hickory",
-    region: "Catawba Valley",
     type: "state house district",
     incumbentName: "Jay Adams",
     incumbentParty: "Republican",
@@ -4527,8 +4335,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-97",
     name: "North Carolina House District 97",
-    city: "Lincolnton",
-    region: "Piedmont Foothills",
     type: "state house district",
     incumbentName: "Heather Rhyne",
     incumbentParty: "Republican",
@@ -4574,8 +4380,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-98",
     name: "North Carolina House District 98",
-    city: "Charlotte",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Beth Gardner Helfrich",
     incumbentParty: "Democrat",
@@ -4622,8 +4426,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-99",
     name: "North Carolina House District 99",
-    city: "Charlotte",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Nasif Majeed",
     incumbentParty: "Democrat",
@@ -4669,8 +4471,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-100",
     name: "North Carolina House District 100",
-    city: "Charlotte",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Julia Greenfield",
     incumbentParty: "Democrat",
@@ -4716,8 +4516,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-101",
     name: "North Carolina House District 101",
-    city: "Charlotte",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Carolyn G. Logan",
     incumbentParty: "Democrat",
@@ -4763,8 +4561,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-102",
     name: "North Carolina House District 102",
-    city: "Charlotte",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Becky Carney",
     incumbentParty: "Democrat",
@@ -4810,8 +4606,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-103",
     name: "North Carolina House District 103",
-    city: "Charlotte",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Laura Budd",
     incumbentParty: "Democrat",
@@ -4857,8 +4651,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-104",
     name: "North Carolina House District 104",
-    city: "Charlotte",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Brandon Lofton",
     incumbentParty: "Democrat",
@@ -4904,8 +4696,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-105",
     name: "North Carolina House District 105",
-    city: "Charlotte",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Tricia Ann Cotham",
     incumbentParty: "Republican",
@@ -4951,8 +4741,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-106",
     name: "North Carolina House District 106",
-    city: "Charlotte",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Carla Cunningham",
     incumbentParty: "Democrat",
@@ -4998,8 +4786,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-107",
     name: "North Carolina House District 107",
-    city: "Charlotte",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Aisha O. Dew",
     incumbentParty: "Democrat",
@@ -5045,8 +4831,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-108",
     name: "North Carolina House District 108",
-    city: "Gastonia",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "John A. Torbett",
     incumbentParty: "Republican",
@@ -5092,8 +4876,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-109",
     name: "North Carolina House District 109",
-    city: "Gastonia",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Donnie Loftis",
     incumbentParty: "Republican",
@@ -5139,8 +4921,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-110",
     name: "North Carolina House District 110",
-    city: "Shelby",
-    region: "Piedmont Foothills",
     type: "state house district",
     incumbentName: "Kelly Hastings",
     incumbentParty: "Republican",
@@ -5186,8 +4966,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-111",
     name: "North Carolina House District 111",
-    city: "Shelby",
-    region: "Piedmont Foothills",
     type: "state house district",
     incumbentName: "Paul Scott",
     incumbentParty: "Republican",
@@ -5233,8 +5011,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-112",
     name: "North Carolina House District 112",
-    city: "Charlotte",
-    region: "Charlotte Metro",
     type: "state house district",
     incumbentName: "Jordan Lopez",
     incumbentParty: "Democrat",
@@ -5280,8 +5056,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-113",
     name: "North Carolina House District 113",
-    city: "Hendersonville",
-    region: "Blue Ridge Mountains",
     type: "state house district",
     incumbentName: "Jake Johnson",
     incumbentParty: "Republican",
@@ -5327,8 +5101,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-114",
     name: "North Carolina House District 114",
-    city: "Asheville",
-    region: "Blue Ridge Mountains",
     type: "state house district",
     incumbentName: "Eric Ager",
     incumbentParty: "Democrat",
@@ -5374,8 +5146,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-115",
     name: "North Carolina House District 115",
-    city: "Asheville",
-    region: "Blue Ridge Mountains",
     type: "state house district",
     incumbentName: "Lindsey Prather",
     incumbentParty: "Democrat",
@@ -5421,8 +5191,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-116",
     name: "North Carolina House District 116",
-    city: "Asheville",
-    region: "Blue Ridge Mountains",
     type: "state house district",
     incumbentName: "Brian Turner",
     incumbentParty: "Democrat",
@@ -5468,8 +5236,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-117",
     name: "North Carolina House District 117",
-    city: "Hendersonville",
-    region: "Blue Ridge Mountains",
     type: "state house district",
     incumbentName: "Jennifer Capps Balkcom",
     incumbentParty: "Republican",
@@ -5515,8 +5281,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-118",
     name: "North Carolina House District 118",
-    city: "Waynesville",
-    region: "Western NC Mountains",
     type: "state house district",
     incumbentName: "Mark Pless",
     incumbentParty: "Republican",
@@ -5563,8 +5327,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-119",
     name: "North Carolina House District 119",
-    city: "Brevard",
-    region: "Western NC Mountains",
     type: "state house district",
     incumbentName: "Mike Clampitt",
     incumbentParty: "Republican",
@@ -5610,8 +5372,6 @@ const NC_HOUSE_DISTRICTS = [
   {
     id: "nc-hd-120",
     name: "North Carolina House District 120",
-    city: "Franklin",
-    region: "Western NC",
     type: "state house district",
     incumbentName: "Karl Gillespie",
     incumbentParty: "Republican",
@@ -5660,8 +5420,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-1",
     name: "North Carolina Senate District 1",
-    city: "Elizabeth City",
-    region: "Northeastern NC",
     type: "state senate district",
     incumbentName: "Bobby Hanig",
     incumbentParty: "Republican",
@@ -5707,8 +5465,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-2",
     name: "North Carolina Senate District 2",
-    city: "Roanoke Rapids",
-    region: "Northeastern NC",
     type: "state senate district",
     incumbentName: "Norman W. Sanderson",
     incumbentParty: "Republican",
@@ -5754,8 +5510,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-3",
     name: "North Carolina Senate District 3",
-    city: "New Bern",
-    region: "Coastal Plain",
     type: "state senate district",
     incumbentName: "Bob Brinson",
     incumbentParty: "Republican",
@@ -5801,8 +5555,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-4",
     name: "North Carolina Senate District 4",
-    city: "Goldsboro",
-    region: "Eastern NC",
     type: "state senate district",
     incumbentName: "Buck Newton",
     incumbentParty: "Republican",
@@ -5848,8 +5600,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-5",
     name: "North Carolina Senate District 5",
-    city: "Greenville",
-    region: "Eastern NC",
     type: "state senate district",
     incumbentName: "Kandie D. Smith",
     incumbentParty: "Democrat",
@@ -5895,8 +5645,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-6",
     name: "North Carolina Senate District 6",
-    city: "Jacksonville",
-    region: "Coastal NC",
     type: "state senate district",
     incumbentName: "Michael A. Lazzara",
     incumbentParty: "Republican",
@@ -5942,8 +5690,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-7",
     name: "North Carolina Senate District 7",
-    city: "Wilmington",
-    region: "Cape Fear Coast",
     type: "state senate district",
     incumbentName: "Michael Lee",
     incumbentParty: "Republican",
@@ -5989,8 +5735,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-8",
     name: "North Carolina Senate District 8",
-    city: "Wilmington",
-    region: "Cape Fear Coast",
     type: "state senate district",
     incumbentName: "Bill Rabon",
     incumbentParty: "Republican",
@@ -6036,8 +5780,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-9",
     name: "North Carolina Senate District 9",
-    city: "Clinton",
-    region: "Southeastern NC",
     type: "state senate district",
     incumbentName: "Brent Jackson",
     incumbentParty: "Republican",
@@ -6083,8 +5825,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-10",
     name: "North Carolina Senate District 10",
-    city: "Smithfield",
-    region: "Johnston County",
     type: "state senate district",
     incumbentName: "Benton Sawrey",
     incumbentParty: "Republican",
@@ -6131,8 +5871,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-11",
     name: "North Carolina Senate District 11",
-    city: "Rocky Mount",
-    region: "Eastern NC",
     type: "state senate district",
     incumbentName: "Lisa Stone Barnes",
     incumbentParty: "Republican",
@@ -6179,8 +5917,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-12",
     name: "North Carolina Senate District 12",
-    city: "Sanford",
-    region: "Sandhills",
     type: "state senate district",
     incumbentName: "Jim Burgin",
     incumbentParty: "Republican",
@@ -6226,8 +5962,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-13",
     name: "North Carolina Senate District 13",
-    city: "Raleigh",
-    region: "Research Triangle",
     type: "state senate district",
     incumbentName: "Lisa Grafstein",
     incumbentParty: "Democrat",
@@ -6273,8 +6007,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-14",
     name: "North Carolina Senate District 14",
-    city: "Raleigh",
-    region: "Research Triangle",
     type: "state senate district",
     incumbentName: "Dan Blue",
     incumbentParty: "Democrat",
@@ -6320,8 +6052,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-15",
     name: "North Carolina Senate District 15",
-    city: "Raleigh",
-    region: "Research Triangle",
     type: "state senate district",
     incumbentName: "Jay J. Chaudhuri",
     incumbentParty: "Democrat",
@@ -6368,8 +6098,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-16",
     name: "North Carolina Senate District 16",
-    city: "Raleigh",
-    region: "Research Triangle",
     type: "state senate district",
     incumbentName: "Gale Adcock",
     incumbentParty: "Democrat",
@@ -6416,8 +6144,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-17",
     name: "North Carolina Senate District 17",
-    city: "Raleigh",
-    region: "Research Triangle",
     type: "state senate district",
     incumbentName: "Mrs. Sydney Batch",
     incumbentParty: "Democrat",
@@ -6464,8 +6190,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-18",
     name: "North Carolina Senate District 18",
-    city: "Wake Forest",
-    region: "Research Triangle",
     type: "state senate district",
     incumbentName: "Terence Everitt",
     incumbentParty: "Democrat",
@@ -6511,8 +6235,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-19",
     name: "North Carolina Senate District 19",
-    city: "Fayetteville",
-    region: "Sandhills",
     type: "state senate district",
     incumbentName: "Val Applewhite",
     incumbentParty: "Democrat",
@@ -6558,8 +6280,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-20",
     name: "North Carolina Senate District 20",
-    city: "Durham",
-    region: "Research Triangle",
     type: "state senate district",
     incumbentName: "Natalie S. Murdock",
     incumbentParty: "Democrat",
@@ -6605,8 +6325,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-21",
     name: "North Carolina Senate District 21",
-    city: "Fayetteville",
-    region: "Sandhills",
     type: "state senate district",
     incumbentName: "Tom Mcinnis",
     incumbentParty: "Republican",
@@ -6652,8 +6370,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-22",
     name: "North Carolina Senate District 22",
-    city: "Durham",
-    region: "Research Triangle",
     type: "state senate district",
     incumbentName: "Sophia Chitlik",
     incumbentParty: "Democrat",
@@ -6699,8 +6415,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-23",
     name: "North Carolina Senate District 23",
-    city: "Chapel Hill",
-    region: "Research Triangle",
     type: "state senate district",
     incumbentName: "Graig R. Meyer",
     incumbentParty: "Democrat",
@@ -6746,8 +6460,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-24",
     name: "North Carolina Senate District 24",
-    city: "Lumberton",
-    region: "Southeastern NC",
     type: "state senate district",
     incumbentName: "Danny Earl Britt, Jr.",
     incumbentParty: "Republican",
@@ -6793,8 +6505,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-25",
     name: "North Carolina Senate District 25",
-    city: "Burlington",
-    region: "Piedmont Triad",
     type: "state senate district",
     incumbentName: "Amy Scott Galey",
     incumbentParty: "Republican",
@@ -6840,8 +6550,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-26",
     name: "North Carolina Senate District 26",
-    city: "Greensboro",
-    region: "Piedmont Triad",
     type: "state senate district",
     incumbentName: "Philip E. (phil) Berger",
     incumbentParty: "Republican",
@@ -6887,8 +6595,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-27",
     name: "North Carolina Senate District 27",
-    city: "Greensboro",
-    region: "Piedmont Triad",
     type: "state senate district",
     incumbentName: "Michael K. Garrett",
     incumbentParty: "Democrat",
@@ -6934,8 +6640,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-28",
     name: "North Carolina Senate District 28",
-    city: "High Point",
-    region: "Piedmont Triad",
     type: "state senate district",
     incumbentName: "Gladys A. Robinson",
     incumbentParty: "Democrat",
@@ -6981,8 +6685,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-29",
     name: "North Carolina Senate District 29",
-    city: "Rockingham",
-    region: "Sandhills",
     type: "state senate district",
     incumbentName: "Dave Craven, Jr.",
     incumbentParty: "Republican",
@@ -7028,8 +6730,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-30",
     name: "North Carolina Senate District 30",
-    city: "Lexington",
-    region: "Piedmont Triad",
     type: "state senate district",
     incumbentName: "Steve Jarvis",
     incumbentParty: "Republican",
@@ -7075,8 +6775,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-31",
     name: "North Carolina Senate District 31",
-    city: "Winston-Salem",
-    region: "Piedmont Triad",
     type: "state senate district",
     incumbentName: "Dana Caudill Jones",
     incumbentParty: "Republican",
@@ -7122,8 +6820,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-32",
     name: "North Carolina Senate District 32",
-    city: "Winston-Salem",
-    region: "Piedmont Triad",
     type: "state senate district",
     incumbentName: "Paul Lowe",
     incumbentParty: "Democrat",
@@ -7170,8 +6866,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-33",
     name: "North Carolina Senate District 33",
-    city: "Salisbury",
-    region: "Piedmont",
     type: "state senate district",
     incumbentName: "Carl Ford",
     incumbentParty: "Republican",
@@ -7217,8 +6911,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-34",
     name: "North Carolina Senate District 34",
-    city: "Concord",
-    region: "Charlotte Metro",
     type: "state senate district",
     incumbentName: "Paul Newton",
     incumbentParty: "Republican",
@@ -7264,8 +6956,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-35",
     name: "North Carolina Senate District 35",
-    city: "Concord",
-    region: "Charlotte Metro",
     type: "state senate district",
     incumbentName: "Todd Johnson",
     incumbentParty: "Republican",
@@ -7311,8 +7001,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-36",
     name: "North Carolina Senate District 36",
-    city: "Mount Airy",
-    region: "Northwestern Foothills",
     type: "state senate district",
     incumbentName: "Eddie Settle",
     incumbentParty: "Republican",
@@ -7358,8 +7046,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-37",
     name: "North Carolina Senate District 37",
-    city: "Mooresville",
-    region: "Piedmont Foothills",
     type: "state senate district",
     incumbentName: "Vickie Sawyer",
     incumbentParty: "Republican",
@@ -7405,8 +7091,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-38",
     name: "North Carolina Senate District 38",
-    city: "Charlotte",
-    region: "Charlotte Metro",
     type: "state senate district",
     incumbentName: "Mujtaba A. Mohammed",
     incumbentParty: "Democrat",
@@ -7452,8 +7136,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-39",
     name: "North Carolina Senate District 39",
-    city: "Charlotte",
-    region: "Charlotte Metro",
     type: "state senate district",
     incumbentName: "Deandrea Salvador",
     incumbentParty: "Democrat",
@@ -7499,8 +7181,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-40",
     name: "North Carolina Senate District 40",
-    city: "Charlotte",
-    region: "Charlotte Metro",
     type: "state senate district",
     incumbentName: "Joyce Waddell",
     incumbentParty: "Democrat",
@@ -7546,8 +7226,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-41",
     name: "North Carolina Senate District 41",
-    city: "Charlotte",
-    region: "Charlotte Metro",
     type: "state senate district",
     incumbentName: "Caleb Theodros",
     incumbentParty: "Democrat",
@@ -7593,8 +7271,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-42",
     name: "North Carolina Senate District 42",
-    city: "Charlotte",
-    region: "Charlotte Metro",
     type: "state senate district",
     incumbentName: "Mrs. Woodson Bradley",
     incumbentParty: "Democrat",
@@ -7640,8 +7316,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-43",
     name: "North Carolina Senate District 43",
-    city: "Gastonia",
-    region: "Charlotte Metro",
     type: "state senate district",
     incumbentName: "Brad Overcash",
     incumbentParty: "Republican",
@@ -7687,8 +7361,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-44",
     name: "North Carolina Senate District 44",
-    city: "Shelby",
-    region: "Piedmont Foothills",
     type: "state senate district",
     incumbentName: "Ted Alexander",
     incumbentParty: "Republican",
@@ -7734,8 +7406,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-45",
     name: "North Carolina Senate District 45",
-    city: "Hickory",
-    region: "Catawba Valley",
     type: "state senate district",
     incumbentName: "Mark Hollo",
     incumbentParty: "Republican",
@@ -7782,8 +7452,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-46",
     name: "North Carolina Senate District 46",
-    city: "Morganton",
-    region: "Foothills",
     type: "state senate district",
     incumbentName: "Warren Daniel",
     incumbentParty: "Republican",
@@ -7829,8 +7497,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-47",
     name: "North Carolina Senate District 47",
-    city: "Boone",
-    region: "Blue Ridge Mountains",
     type: "state senate district",
     incumbentName: "Ralph Hise",
     incumbentParty: "Republican",
@@ -7876,8 +7542,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-48",
     name: "North Carolina Senate District 48",
-    city: "Hendersonville",
-    region: "Blue Ridge Mountains",
     type: "state senate district",
     incumbentName: "Tim Moffitt",
     incumbentParty: "Republican",
@@ -7923,8 +7587,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-49",
     name: "North Carolina Senate District 49",
-    city: "Asheville",
-    region: "Blue Ridge Mountains",
     type: "state senate district",
     incumbentName: "Julie Mayfield",
     incumbentParty: "Democrat",
@@ -7970,8 +7632,6 @@ const NC_SENATE_DISTRICTS = [
   {
     id: "nc-sd-50",
     name: "North Carolina Senate District 50",
-    city: "Franklin",
-    region: "Western NC",
     type: "state senate district",
     incumbentName: "Kevin Corbin",
     incumbentParty: "Republican",

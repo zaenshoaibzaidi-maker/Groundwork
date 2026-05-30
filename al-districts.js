@@ -10,8 +10,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-1",
     name: "Alabama House District 1",
-    city: "Tuscumbia",
-    region: "Tennessee Valley",
     type: "state house district",
     incumbentName: "Phillip Pettus",
     incumbentParty: "Republican",
@@ -57,8 +55,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-2",
     name: "Alabama House District 2",
-    city: "Florence",
-    region: "Tennessee Valley",
     type: "state house district",
     incumbentName: "Ben Harrison",
     incumbentParty: "Republican",
@@ -104,8 +100,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-3",
     name: "Alabama House District 3",
-    city: "Florence",
-    region: "Tennessee Valley",
     type: "state house district",
     incumbentName: "Kerry \"bubba\" Underwood",
     incumbentParty: "Republican",
@@ -151,8 +145,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-4",
     name: "Alabama House District 4",
-    city: "Madison",
-    region: "Huntsville Metro",
     type: "state house district",
     incumbentName: "Parker Duncan Moore",
     incumbentParty: "Republican",
@@ -198,8 +190,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-5",
     name: "Alabama House District 5",
-    city: "Athens",
-    region: "Tennessee Valley",
     type: "state house district",
     incumbentName: "Danny F. Crawford",
     incumbentParty: "Republican",
@@ -245,8 +235,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-6",
     name: "Alabama House District 6",
-    city: "Moulton",
-    region: "Tennessee Valley",
     type: "state house district",
     incumbentName: "Andy Whitt",
     incumbentParty: "Republican",
@@ -292,8 +280,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-7",
     name: "Alabama House District 7",
-    city: "Double Springs",
-    region: "North Alabama",
     type: "state house district",
     incumbentName: "Ernie Yarbrough",
     incumbentParty: "Republican",
@@ -339,8 +325,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-8",
     name: "Alabama House District 8",
-    city: "Cullman",
-    region: "Sand Mountain",
     type: "state house district",
     incumbentName: "Terri Collins",
     incumbentParty: "Republican",
@@ -386,8 +370,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-9",
     name: "Alabama House District 9",
-    city: "Cullman",
-    region: "Sand Mountain",
     type: "state house district",
     incumbentName: "Scott Stadthagen",
     incumbentParty: "Republican",
@@ -434,8 +416,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-10",
     name: "Alabama House District 10",
-    city: "Guntersville",
-    region: "Sand Mountain",
     type: "state house district",
     incumbentName: "David Cole",
     incumbentParty: "Republican",
@@ -482,8 +462,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-11",
     name: "Alabama House District 11",
-    city: "Oneonta",
-    region: "Sand Mountain",
     type: "state house district",
     incumbentName: "Randall Shedd",
     incumbentParty: "Republican",
@@ -529,8 +507,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-12",
     name: "Alabama House District 12",
-    city: "Scottsboro",
-    region: "Northeast Alabama",
     type: "state house district",
     incumbentName: "Corey Harbison",
     incumbentParty: "Republican",
@@ -576,8 +552,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-13",
     name: "Alabama House District 13",
-    city: "Fort Payne",
-    region: "Northeast Alabama",
     type: "state house district",
     incumbentName: "Matt Woods",
     incumbentParty: "Republican",
@@ -624,8 +598,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-14",
     name: "Alabama House District 14",
-    city: "Albertville",
-    region: "Sand Mountain",
     type: "state house district",
     incumbentName: "Timothy (tim) Wadsworth",
     incumbentParty: "Republican",
@@ -671,8 +643,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-15",
     name: "Alabama House District 15",
-    city: "Centre",
-    region: "Northeast Alabama",
     type: "state house district",
     incumbentName: "Leigh Hulsey",
     incumbentParty: "Republican",
@@ -718,8 +688,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-16",
     name: "Alabama House District 16",
-    city: "Gadsden",
-    region: "Northeast Alabama",
     type: "state house district",
     incumbentName: "Kyle South",
     incumbentParty: "Republican",
@@ -765,8 +733,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-17",
     name: "Alabama House District 17",
-    city: "Gadsden",
-    region: "Northeast Alabama",
     type: "state house district",
     incumbentName: "Tracy Estes",
     incumbentParty: "Republican",
@@ -812,8 +778,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-18",
     name: "Alabama House District 18",
-    city: "Russellville",
-    region: "North Alabama",
     type: "state house district",
     incumbentName: "Jamie Kiel",
     incumbentParty: "Republican",
@@ -859,8 +823,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-19",
     name: "Alabama House District 19",
-    city: "Huntsville",
-    region: "Huntsville Metro",
     type: "state house district",
     incumbentName: "Laura Hall",
     incumbentParty: "Democrat",
@@ -906,8 +868,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-20",
     name: "Alabama House District 20",
-    city: "Huntsville",
-    region: "Huntsville Metro",
     type: "state house district",
     incumbentName: "James Lomax",
     incumbentParty: "Republican",
@@ -953,8 +913,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-21",
     name: "Alabama House District 21",
-    city: "Madison",
-    region: "Huntsville Metro",
     type: "state house district",
     incumbentName: "Rex Reynolds",
     incumbentParty: "Republican",
@@ -1000,8 +958,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-22",
     name: "Alabama House District 22",
-    city: "Huntsville",
-    region: "Huntsville Metro",
     type: "state house district",
     incumbentName: "Ritchie Whorton",
     incumbentParty: "Republican",
@@ -1047,8 +1003,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-23",
     name: "Alabama House District 23",
-    city: "Athens",
-    region: "Tennessee Valley",
     type: "state house district",
     incumbentName: "Mike Kirkland",
     incumbentParty: "Republican",
@@ -1094,8 +1048,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-24",
     name: "Alabama House District 24",
-    city: "Rainsville",
-    region: "Sand Mountain",
     type: "state house district",
     incumbentName: "Nathaniel Ledbetter",
     incumbentParty: "Republican",
@@ -1141,8 +1093,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-25",
     name: "Alabama House District 25",
-    city: "Decatur",
-    region: "Tennessee Valley",
     type: "state house district",
     incumbentName: "Phillip K. Rigsby",
     incumbentParty: "Republican",
@@ -1188,8 +1138,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-26",
     name: "Alabama House District 26",
-    city: "Albertville",
-    region: "Sand Mountain",
     type: "state house district",
     incumbentName: "Brock Colvin",
     incumbentParty: "Republican",
@@ -1235,8 +1183,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-27",
     name: "Alabama House District 27",
-    city: "Guntersville",
-    region: "Sand Mountain",
     type: "state house district",
     incumbentName: "Wes Kitchens",
     incumbentParty: "Republican",
@@ -1282,8 +1228,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-28",
     name: "Alabama House District 28",
-    city: "Centre",
-    region: "Northeast Alabama",
     type: "state house district",
     incumbentName: "Mack N Butler",
     incumbentParty: "Republican",
@@ -1329,8 +1273,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-29",
     name: "Alabama House District 29",
-    city: "Anniston",
-    region: "Northeast Alabama",
     type: "state house district",
     incumbentName: "Mark A. Gidley",
     incumbentParty: "Republican",
@@ -1376,8 +1318,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-30",
     name: "Alabama House District 30",
-    city: "Anniston",
-    region: "Northeast Alabama",
     type: "state house district",
     incumbentName: "Craig Lipscomb",
     incumbentParty: "Republican",
@@ -1423,8 +1363,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-31",
     name: "Alabama House District 31",
-    city: "Pell City",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Troy B. Stubbs",
     incumbentParty: "Republican",
@@ -1470,8 +1408,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-32",
     name: "Alabama House District 32",
-    city: "Birmingham",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Barbara Bigsby Boyd",
     incumbentParty: "Democrat",
@@ -1517,8 +1453,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-33",
     name: "Alabama House District 33",
-    city: "Birmingham",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Ben Robbins",
     incumbentParty: "Republican",
@@ -1565,8 +1499,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-34",
     name: "Alabama House District 34",
-    city: "Oneonta",
-    region: "Sand Mountain",
     type: "state house district",
     incumbentName: "David Standridge",
     incumbentParty: "Republican",
@@ -1612,8 +1544,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-35",
     name: "Alabama House District 35",
-    city: "Attalla",
-    region: "Northeast Alabama",
     type: "state house district",
     incumbentName: "Steve Hurst",
     incumbentParty: "Republican",
@@ -1659,8 +1589,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-36",
     name: "Alabama House District 36",
-    city: "Pell City",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Randy Wood",
     incumbentParty: "Republican",
@@ -1706,8 +1634,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-37",
     name: "Alabama House District 37",
-    city: "Oneonta",
-    region: "Sand Mountain",
     type: "state house district",
     incumbentName: "Bob Fincher",
     incumbentParty: "Republican",
@@ -1753,8 +1679,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-38",
     name: "Alabama House District 38",
-    city: "Jasper",
-    region: "North Alabama",
     type: "state house district",
     incumbentName: "Debbie Hamby Wood",
     incumbentParty: "Republican",
@@ -1800,8 +1724,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-39",
     name: "Alabama House District 39",
-    city: "Heflin",
-    region: "Northeast Alabama",
     type: "state house district",
     incumbentName: "Ginny Shaver",
     incumbentParty: "Republican",
@@ -1848,8 +1770,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-40",
     name: "Alabama House District 40",
-    city: "Oneonta",
-    region: "Sand Mountain",
     type: "state house district",
     incumbentName: "Chad Robertson",
     incumbentParty: "Republican",
@@ -1895,8 +1815,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-41",
     name: "Alabama House District 41",
-    city: "Gardendale",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Corley Ellis",
     incumbentParty: "Republican",
@@ -1942,8 +1860,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-42",
     name: "Alabama House District 42",
-    city: "Jasper",
-    region: "North Alabama",
     type: "state house district",
     incumbentName: "Van Smith",
     incumbentParty: "Republican",
@@ -1989,8 +1905,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-43",
     name: "Alabama House District 43",
-    city: "Alabaster",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Arnold Mooney",
     incumbentParty: "Republican",
@@ -2036,8 +1950,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-44",
     name: "Alabama House District 44",
-    city: "Trussville",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Danny Garrett",
     incumbentParty: "Republican",
@@ -2083,8 +1995,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-45",
     name: "Alabama House District 45",
-    city: "Hoover",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Susan Dubose",
     incumbentParty: "Republican",
@@ -2130,8 +2040,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-46",
     name: "Alabama House District 46",
-    city: "Mountain Brook",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "David Faulkner",
     incumbentParty: "Republican",
@@ -2177,8 +2085,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-47",
     name: "Alabama House District 47",
-    city: "Birmingham",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Mike Shaw",
     incumbentParty: "Republican",
@@ -2224,8 +2130,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-48",
     name: "Alabama House District 48",
-    city: "Vestavia Hills",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Jim Carns",
     incumbentParty: "Republican",
@@ -2271,8 +2175,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-49",
     name: "Alabama House District 49",
-    city: "Columbiana",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Russell Bedsole",
     incumbentParty: "Republican",
@@ -2318,8 +2220,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-50",
     name: "Alabama House District 50",
-    city: "Pelham",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Jim Hill",
     incumbentParty: "Republican",
@@ -2365,8 +2265,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-51",
     name: "Alabama House District 51",
-    city: "Clay",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Allen Treadaway",
     incumbentParty: "Republican",
@@ -2412,8 +2310,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-52",
     name: "Alabama House District 52",
-    city: "Birmingham",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "John W. Rogers Jr.",
     incumbentParty: "Democrat",
@@ -2459,8 +2355,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-53",
     name: "Alabama House District 53",
-    city: "Birmingham",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Anthony Daniels",
     incumbentParty: "Democrat",
@@ -2506,8 +2400,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-54",
     name: "Alabama House District 54",
-    city: "Birmingham",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Neil Rafferty",
     incumbentParty: "Democrat",
@@ -2553,8 +2445,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-55",
     name: "Alabama House District 55",
-    city: "Birmingham",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Fred \"coach\" Plump",
     incumbentParty: "Democrat",
@@ -2600,8 +2490,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-56",
     name: "Alabama House District 56",
-    city: "Birmingham",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Ontario J. Tillman",
     incumbentParty: "Democrat",
@@ -2647,8 +2535,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-57",
     name: "Alabama House District 57",
-    city: "Birmingham",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Patrick Sellers",
     incumbentParty: "Democrat",
@@ -2694,8 +2580,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-58",
     name: "Alabama House District 58",
-    city: "Bessemer",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Rolanda Hollis",
     incumbentParty: "Democrat",
@@ -2742,8 +2626,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-59",
     name: "Alabama House District 59",
-    city: "Birmingham",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Mary Moore",
     incumbentParty: "Democrat",
@@ -2789,8 +2671,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-60",
     name: "Alabama House District 60",
-    city: "Birmingham",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Juandalynn Givan",
     incumbentParty: "Democrat",
@@ -2836,8 +2716,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-61",
     name: "Alabama House District 61",
-    city: "Pelham",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Ron Bolton",
     incumbentParty: "Republican",
@@ -2883,8 +2761,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-62",
     name: "Alabama House District 62",
-    city: "Clanton",
-    region: "Central Alabama",
     type: "state house district",
     incumbentName: "Bill Lamb",
     incumbentParty: "Republican",
@@ -2930,8 +2806,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-63",
     name: "Alabama House District 63",
-    city: "Tuscaloosa",
-    region: "West Alabama",
     type: "state house district",
     incumbentName: "Cynthia Lee Almond",
     incumbentParty: "Republican",
@@ -2977,8 +2851,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-64",
     name: "Alabama House District 64",
-    city: "Centreville",
-    region: "Central Alabama",
     type: "state house district",
     incumbentName: "Donna Givens",
     incumbentParty: "Republican",
@@ -3024,8 +2896,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-65",
     name: "Alabama House District 65",
-    city: "Clanton",
-    region: "Central Alabama",
     type: "state house district",
     incumbentName: "Brett Easterbrook",
     incumbentParty: "Republican",
@@ -3071,8 +2941,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-66",
     name: "Alabama House District 66",
-    city: "Wetumpka",
-    region: "Central Alabama",
     type: "state house district",
     incumbentName: "Alan Baker",
     incumbentParty: "Republican",
@@ -3119,8 +2987,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-67",
     name: "Alabama House District 67",
-    city: "Selma",
-    region: "Black Belt",
     type: "state house district",
     incumbentName: "Prince Chestnut",
     incumbentParty: "Democrat",
@@ -3166,8 +3032,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-68",
     name: "Alabama House District 68",
-    city: "Tuscaloosa",
-    region: "West Alabama",
     type: "state house district",
     incumbentName: "Thomas E. \"action\" Jackson",
     incumbentParty: "Democrat",
@@ -3213,8 +3077,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-69",
     name: "Alabama House District 69",
-    city: "Tuscaloosa",
-    region: "West Alabama",
     type: "state house district",
     incumbentName: "Kelvin J. Lawrence",
     incumbentParty: "Democrat",
@@ -3260,8 +3122,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-70",
     name: "Alabama House District 70",
-    city: "Tuscaloosa",
-    region: "West Alabama",
     type: "state house district",
     incumbentName: "Christopher John England",
     incumbentParty: "Democrat",
@@ -3307,8 +3167,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-71",
     name: "Alabama House District 71",
-    city: "Tuscaloosa",
-    region: "West Alabama",
     type: "state house district",
     incumbentName: "Artis \"aj\" Mccampbell",
     incumbentParty: "Democrat",
@@ -3354,8 +3212,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-72",
     name: "Alabama House District 72",
-    city: "Tuscaloosa",
-    region: "West Alabama",
     type: "state house district",
     incumbentName: "Curtis L. Travis",
     incumbentParty: "Democrat",
@@ -3401,8 +3257,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-73",
     name: "Alabama House District 73",
-    city: "Prattville",
-    region: "Central Alabama",
     type: "state house district",
     incumbentName: "Kenneth Paschal",
     incumbentParty: "Republican",
@@ -3448,8 +3302,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-74",
     name: "Alabama House District 74",
-    city: "Montgomery",
-    region: "Montgomery Metro",
     type: "state house district",
     incumbentName: "Phillip Ensler",
     incumbentParty: "Democrat",
@@ -3495,8 +3347,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-75",
     name: "Alabama House District 75",
-    city: "Montgomery",
-    region: "Montgomery Metro",
     type: "state house district",
     incumbentName: "Reed Ingram",
     incumbentParty: "Republican",
@@ -3543,8 +3393,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-76",
     name: "Alabama House District 76",
-    city: "Birmingham",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Patrice \"penni\" Mcclammy",
     incumbentParty: "Democrat",
@@ -3590,8 +3438,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-77",
     name: "Alabama House District 77",
-    city: "Birmingham",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Tashina Morris",
     incumbentParty: "Democrat",
@@ -3637,8 +3483,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-78",
     name: "Alabama House District 78",
-    city: "Birmingham",
-    region: "Greater Birmingham",
     type: "state house district",
     incumbentName: "Kenyatte Hassell",
     incumbentParty: "Democrat",
@@ -3684,8 +3528,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-79",
     name: "Alabama House District 79",
-    city: "Auburn",
-    region: "East Alabama",
     type: "state house district",
     incumbentName: "Joe Lovvorn",
     incumbentParty: "Republican",
@@ -3731,8 +3573,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-80",
     name: "Alabama House District 80",
-    city: "Opelika",
-    region: "East Alabama",
     type: "state house district",
     incumbentName: "Chris E. Blackshear",
     incumbentParty: "Republican",
@@ -3778,8 +3618,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-81",
     name: "Alabama House District 81",
-    city: "Atmore",
-    region: "South Alabama",
     type: "state house district",
     incumbentName: "Ed Oliver",
     incumbentParty: "Republican",
@@ -3825,8 +3663,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-82",
     name: "Alabama House District 82",
-    city: "Tuskegee",
-    region: "East Alabama",
     type: "state house district",
     incumbentName: "Pebblin Walker Warren",
     incumbentParty: "Democrat",
@@ -3872,8 +3708,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-83",
     name: "Alabama House District 83",
-    city: "Opelika",
-    region: "East Alabama",
     type: "state house district",
     incumbentName: "Jeremy Gray",
     incumbentParty: "Democrat",
@@ -3919,8 +3753,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-84",
     name: "Alabama House District 84",
-    city: "Valley",
-    region: "East Alabama",
     type: "state house district",
     incumbentName: "Berry Forte",
     incumbentParty: "Democrat",
@@ -3966,8 +3798,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-85",
     name: "Alabama House District 85",
-    city: "Talladega",
-    region: "Northeast Alabama",
     type: "state house district",
     incumbentName: "Rick Rehm",
     incumbentParty: "Republican",
@@ -4013,8 +3843,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-86",
     name: "Alabama House District 86",
-    city: "Dothan",
-    region: "Wiregrass",
     type: "state house district",
     incumbentName: "Paul W. Lee",
     incumbentParty: "Republican",
@@ -4060,8 +3888,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-87",
     name: "Alabama House District 87",
-    city: "Enterprise",
-    region: "Wiregrass",
     type: "state house district",
     incumbentName: "Jeff Sorrells",
     incumbentParty: "Republican",
@@ -4107,8 +3933,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-88",
     name: "Alabama House District 88",
-    city: "Dothan",
-    region: "Wiregrass",
     type: "state house district",
     incumbentName: "Jerry Starnes",
     incumbentParty: "Republican",
@@ -4154,8 +3978,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-89",
     name: "Alabama House District 89",
-    city: "Dothan",
-    region: "Wiregrass",
     type: "state house district",
     incumbentName: "Marcus B. Paramore",
     incumbentParty: "Republican",
@@ -4201,8 +4023,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-90",
     name: "Alabama House District 90",
-    city: "Dothan",
-    region: "Wiregrass",
     type: "state house district",
     incumbentName: "Chris Sells",
     incumbentParty: "Republican",
@@ -4248,8 +4068,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-91",
     name: "Alabama House District 91",
-    city: "Brewton",
-    region: "South Alabama",
     type: "state house district",
     incumbentName: "Rhett Marques",
     incumbentParty: "Republican",
@@ -4295,8 +4113,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-92",
     name: "Alabama House District 92",
-    city: "Enterprise",
-    region: "Wiregrass",
     type: "state house district",
     incumbentName: "Matthew Hammett",
     incumbentParty: "Republican",
@@ -4342,8 +4158,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-93",
     name: "Alabama House District 93",
-    city: "Ozark",
-    region: "Wiregrass",
     type: "state house district",
     incumbentName: "Steve Clouse",
     incumbentParty: "Republican",
@@ -4389,8 +4203,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-94",
     name: "Alabama House District 94",
-    city: "Daphne",
-    region: "Gulf Coast",
     type: "state house district",
     incumbentName: "Jennifer Fidler",
     incumbentParty: "Republican",
@@ -4436,8 +4248,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-95",
     name: "Alabama House District 95",
-    city: "Fairhope",
-    region: "Gulf Coast",
     type: "state house district",
     incumbentName: "Frances Holk-jones",
     incumbentParty: "Republican",
@@ -4483,8 +4293,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-96",
     name: "Alabama House District 96",
-    city: "Spanish Fort",
-    region: "Gulf Coast",
     type: "state house district",
     incumbentName: "Matt Simpson",
     incumbentParty: "Republican",
@@ -4530,8 +4338,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-97",
     name: "Alabama House District 97",
-    city: "Mobile",
-    region: "Mobile Metro",
     type: "state house district",
     incumbentName: "Adline Clarke",
     incumbentParty: "Democrat",
@@ -4577,8 +4383,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-98",
     name: "Alabama House District 98",
-    city: "Mobile",
-    region: "Mobile Metro",
     type: "state house district",
     incumbentName: "Napoleon Bracy, Jr.",
     incumbentParty: "Democrat",
@@ -4624,8 +4428,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-99",
     name: "Alabama House District 99",
-    city: "Mobile",
-    region: "Mobile Metro",
     type: "state house district",
     incumbentName: "Sam Jones",
     incumbentParty: "Democrat",
@@ -4671,8 +4473,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-100",
     name: "Alabama House District 100",
-    city: "Mobile",
-    region: "Mobile Metro",
     type: "state house district",
     incumbentName: "Mark Shirey",
     incumbentParty: "Republican",
@@ -4720,8 +4520,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-101",
     name: "Alabama House District 101",
-    city: "Mobile",
-    region: "Mobile Metro",
     type: "state house district",
     incumbentName: "Chris Pringle",
     incumbentParty: "Republican",
@@ -4768,8 +4566,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-102",
     name: "Alabama House District 102",
-    city: "Citronelle",
-    region: "Mobile Metro",
     type: "state house district",
     incumbentName: "Shane Stringer",
     incumbentParty: "Republican",
@@ -4815,8 +4611,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-103",
     name: "Alabama House District 103",
-    city: "Mobile",
-    region: "Mobile Metro",
     type: "state house district",
     incumbentName: "Barbara Drummond",
     incumbentParty: "Democrat",
@@ -4862,8 +4656,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-104",
     name: "Alabama House District 104",
-    city: "Mobile",
-    region: "Mobile Metro",
     type: "state house district",
     incumbentName: "Margie Wilcox",
     incumbentParty: "Republican",
@@ -4910,8 +4702,6 @@ const AL_HOUSE_DISTRICTS = [
   {
     id: "al-hd-105",
     name: "Alabama House District 105",
-    city: "Bay Minette",
-    region: "Gulf Coast",
     type: "state house district",
     incumbentName: "Chip Brown",
     incumbentParty: "Republican",
@@ -4960,8 +4750,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-1",
     name: "Alabama Senate District 1",
-    city: "Florence",
-    region: "Tennessee Valley",
     type: "state senate district",
     incumbentName: "Tim Melson",
     incumbentParty: "Republican",
@@ -5007,8 +4795,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-2",
     name: "Alabama Senate District 2",
-    city: "Huntsville",
-    region: "Huntsville Metro",
     type: "state senate district",
     incumbentName: "Tom Butler",
     incumbentParty: "Republican",
@@ -5054,8 +4840,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-3",
     name: "Alabama Senate District 3",
-    city: "Decatur",
-    region: "Tennessee Valley",
     type: "state senate district",
     incumbentName: "Arthur Orr",
     incumbentParty: "Republican",
@@ -5101,8 +4885,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-4",
     name: "Alabama Senate District 4",
-    city: "Cullman",
-    region: "Sand Mountain",
     type: "state senate district",
     incumbentName: "Garlan Gudger",
     incumbentParty: "Republican",
@@ -5149,8 +4931,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-5",
     name: "Alabama Senate District 5",
-    city: "Jasper",
-    region: "North Alabama",
     type: "state senate district",
     incumbentName: "Greg J Reed",
     incumbentParty: "Republican",
@@ -5196,8 +4976,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-6",
     name: "Alabama Senate District 6",
-    city: "Tuscumbia",
-    region: "Tennessee Valley",
     type: "state senate district",
     incumbentName: "Larry Stutts",
     incumbentParty: "Republican",
@@ -5244,8 +5022,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-7",
     name: "Alabama Senate District 7",
-    city: "Athens",
-    region: "Tennessee Valley",
     type: "state senate district",
     incumbentName: "Sam Givhan",
     incumbentParty: "Republican",
@@ -5291,8 +5067,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-8",
     name: "Alabama Senate District 8",
-    city: "Scottsboro",
-    region: "Northeast Alabama",
     type: "state senate district",
     incumbentName: "Steve Livingston",
     incumbentParty: "Republican",
@@ -5338,8 +5112,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-9",
     name: "Alabama Senate District 9",
-    city: "Guntersville",
-    region: "Sand Mountain",
     type: "state senate district",
     incumbentName: "Clay Scofield",
     incumbentParty: "Republican",
@@ -5385,8 +5157,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-10",
     name: "Alabama Senate District 10",
-    city: "Centre",
-    region: "Northeast Alabama",
     type: "state senate district",
     incumbentName: "Andrew Jones",
     incumbentParty: "Republican",
@@ -5432,8 +5202,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-11",
     name: "Alabama Senate District 11",
-    city: "Gadsden",
-    region: "Northeast Alabama",
     type: "state senate district",
     incumbentName: "Lance Bell",
     incumbentParty: "Republican",
@@ -5480,8 +5248,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-12",
     name: "Alabama Senate District 12",
-    city: "Anniston",
-    region: "Northeast Alabama",
     type: "state senate district",
     incumbentName: "Keith Kelley",
     incumbentParty: "Republican",
@@ -5527,8 +5293,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-13",
     name: "Alabama Senate District 13",
-    city: "Birmingham",
-    region: "Greater Birmingham",
     type: "state senate district",
     incumbentName: "Randy Price",
     incumbentParty: "Republican",
@@ -5574,8 +5338,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-14",
     name: "Alabama Senate District 14",
-    city: "Pelham",
-    region: "Greater Birmingham",
     type: "state senate district",
     incumbentName: "April Weaver",
     incumbentParty: "Republican",
@@ -5621,8 +5383,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-15",
     name: "Alabama Senate District 15",
-    city: "Homewood",
-    region: "Greater Birmingham",
     type: "state senate district",
     incumbentName: "Dan Roberts",
     incumbentParty: "Republican",
@@ -5668,8 +5428,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-16",
     name: "Alabama Senate District 16",
-    city: "Bessemer",
-    region: "Greater Birmingham",
     type: "state senate district",
     incumbentName: "J.t. \"jabo\" Waggoner",
     incumbentParty: "Republican",
@@ -5715,8 +5473,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-17",
     name: "Alabama Senate District 17",
-    city: "Trussville",
-    region: "Greater Birmingham",
     type: "state senate district",
     incumbentName: "Shay Shelnutt",
     incumbentParty: "Republican",
@@ -5762,8 +5518,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-18",
     name: "Alabama Senate District 18",
-    city: "Birmingham",
-    region: "Greater Birmingham",
     type: "state senate district",
     incumbentName: "Rodger M. Smitherman",
     incumbentParty: "Democrat",
@@ -5809,8 +5563,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-19",
     name: "Alabama Senate District 19",
-    city: "Birmingham",
-    region: "Greater Birmingham",
     type: "state senate district",
     incumbentName: "Merika Coleman",
     incumbentParty: "Democrat",
@@ -5856,8 +5608,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-20",
     name: "Alabama Senate District 20",
-    city: "Birmingham",
-    region: "Greater Birmingham",
     type: "state senate district",
     incumbentName: "Linda Coleman-madison",
     incumbentParty: "Democrat",
@@ -5903,8 +5653,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-21",
     name: "Alabama Senate District 21",
-    city: "Tuscaloosa",
-    region: "West Alabama",
     type: "state senate district",
     incumbentName: "Gerald Allen",
     incumbentParty: "Republican",
@@ -5950,8 +5698,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-22",
     name: "Alabama Senate District 22",
-    city: "Brewton",
-    region: "South Alabama",
     type: "state senate district",
     incumbentName: "Greg Albritton",
     incumbentParty: "Republican",
@@ -5998,8 +5744,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-23",
     name: "Alabama Senate District 23",
-    city: "Montgomery",
-    region: "Montgomery Metro",
     type: "state senate district",
     incumbentName: "Robert L. Stewart",
     incumbentParty: "Democrat",
@@ -6045,8 +5789,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-24",
     name: "Alabama Senate District 24",
-    city: "Greensboro",
-    region: "Black Belt",
     type: "state senate district",
     incumbentName: "Bobby Singleton",
     incumbentParty: "Democrat",
@@ -6092,8 +5834,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-25",
     name: "Alabama Senate District 25",
-    city: "Prattville",
-    region: "Central Alabama",
     type: "state senate district",
     incumbentName: "Will Barfoot",
     incumbentParty: "Republican",
@@ -6140,8 +5880,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-26",
     name: "Alabama Senate District 26",
-    city: "Montgomery",
-    region: "Montgomery Metro",
     type: "state senate district",
     incumbentName: "Kirk Hatcher",
     incumbentParty: "Democrat",
@@ -6187,8 +5925,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-27",
     name: "Alabama Senate District 27",
-    city: "Jasper",
-    region: "North Alabama",
     type: "state senate district",
     incumbentName: "Jay Hovey",
     incumbentParty: "Republican",
@@ -6234,8 +5970,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-28",
     name: "Alabama Senate District 28",
-    city: "Selma",
-    region: "Black Belt",
     type: "state senate district",
     incumbentName: "Billy Beasley",
     incumbentParty: "Democrat",
@@ -6281,8 +6015,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-29",
     name: "Alabama Senate District 29",
-    city: "Enterprise",
-    region: "Wiregrass",
     type: "state senate district",
     incumbentName: "Donnie Chesteen",
     incumbentParty: "Republican",
@@ -6328,8 +6060,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-30",
     name: "Alabama Senate District 30",
-    city: "Wetumpka",
-    region: "Central Alabama",
     type: "state senate district",
     incumbentName: "Clyde Chambliss, Jr.",
     incumbentParty: "Republican",
@@ -6376,8 +6106,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-31",
     name: "Alabama Senate District 31",
-    city: "Andalusia",
-    region: "South Alabama",
     type: "state senate district",
     incumbentName: "Josh Carnley",
     incumbentParty: "Republican",
@@ -6424,8 +6152,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-32",
     name: "Alabama Senate District 32",
-    city: "Orange Beach",
-    region: "Gulf Coast",
     type: "state senate district",
     incumbentName: "Chris Elliott",
     incumbentParty: "Republican",
@@ -6471,8 +6197,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-33",
     name: "Alabama Senate District 33",
-    city: "Mobile",
-    region: "Mobile Metro",
     type: "state senate district",
     incumbentName: "Vivian Davis Figures",
     incumbentParty: "Democrat",
@@ -6518,8 +6242,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-34",
     name: "Alabama Senate District 34",
-    city: "Vestavia Hills",
-    region: "Greater Birmingham",
     type: "state senate district",
     incumbentName: "Jack Williams",
     incumbentParty: "Republican",
@@ -6565,8 +6287,6 @@ const AL_SENATE_DISTRICTS = [
   {
     id: "al-sd-35",
     name: "Alabama Senate District 35",
-    city: "Dothan",
-    region: "Wiregrass",
     type: "state senate district",
     incumbentName: "David Sessions",
     incumbentParty: "Republican",

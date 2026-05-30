@@ -10,8 +10,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-1",
     name: "South Carolina House District 1",
-    city: "Walhalla",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Bill Whitmire",
     incumbentParty: "Republican",
@@ -57,8 +55,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-2",
     name: "South Carolina House District 2",
-    city: "Seneca",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Adam Duncan",
     incumbentParty: "Republican",
@@ -104,8 +100,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-3",
     name: "South Carolina House District 3",
-    city: "Six Mile",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Phillip Bowers",
     incumbentParty: "Republican",
@@ -151,8 +145,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-4",
     name: "South Carolina House District 4",
-    city: "Pickens",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Davey Hiott",
     incumbentParty: "Republican",
@@ -198,8 +190,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-5",
     name: "South Carolina House District 5",
-    city: "Easley",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Neal Collins",
     incumbentParty: "Republican",
@@ -245,8 +235,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-6",
     name: "South Carolina House District 6",
-    city: "Anderson",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "April Cromer",
     incumbentParty: "Republican",
@@ -292,8 +280,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-7",
     name: "South Carolina House District 7",
-    city: "Anderson",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Lee Gilreath",
     incumbentParty: "Republican",
@@ -339,8 +325,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-8",
     name: "South Carolina House District 8",
-    city: "Townville",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Don Chapman",
     incumbentParty: "Republican",
@@ -386,8 +370,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-9",
     name: "South Carolina House District 9",
-    city: "Pelzer",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Blake Sanders",
     incumbentParty: "Republican",
@@ -433,8 +415,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-10",
     name: "South Carolina House District 10",
-    city: "Piedmont",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Thomas Beach",
     incumbentParty: "Republican",
@@ -480,8 +460,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-11",
     name: "South Carolina House District 11",
-    city: "Abbeville",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Craig Gagnon",
     incumbentParty: "Republican",
@@ -527,8 +505,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-12",
     name: "South Carolina House District 12",
-    city: "Greenwood",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Daniel Gibson",
     incumbentParty: "Republican",
@@ -574,8 +550,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-13",
     name: "South Carolina House District 13",
-    city: "Greenwood",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "John Mccravy",
     incumbentParty: "Republican",
@@ -621,8 +595,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-14",
     name: "South Carolina House District 14",
-    city: "Laurens",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Luke Rankin",
     incumbentParty: "Republican",
@@ -668,8 +640,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-15",
     name: "South Carolina House District 15",
-    city: "North Charleston",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Ja Moore",
     incumbentParty: "Democrat",
@@ -715,8 +685,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-16",
     name: "South Carolina House District 16",
-    city: "Fountain Inn",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Mark N Willis",
     incumbentParty: "Republican",
@@ -762,8 +730,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-17",
     name: "South Carolina House District 17",
-    city: "Tigerville",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Mike Burns",
     incumbentParty: "Republican",
@@ -809,8 +775,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-18",
     name: "South Carolina House District 18",
-    city: "Greer",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Alan Morgan",
     incumbentParty: "Republican",
@@ -856,8 +820,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-19",
     name: "South Carolina House District 19",
-    city: "Greenville",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Patrick Haddon",
     incumbentParty: "Republican",
@@ -903,8 +865,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-20",
     name: "South Carolina House District 20",
-    city: "Greenville",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Stephen Frank",
     incumbentParty: "Republican",
@@ -951,8 +911,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-21",
     name: "South Carolina House District 21",
-    city: "Greer",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Bobby J Cox",
     incumbentParty: "Republican",
@@ -998,8 +956,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-22",
     name: "South Carolina House District 22",
-    city: "Greenville",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Paul Wickensimer",
     incumbentParty: "Republican",
@@ -1045,8 +1001,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-23",
     name: "South Carolina House District 23",
-    city: "Greenville",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Chandra Dillard",
     incumbentParty: "Democrat",
@@ -1092,8 +1046,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-24",
     name: "South Carolina House District 24",
-    city: "Greenville",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Bruce Bannister",
     incumbentParty: "Republican",
@@ -1139,8 +1091,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-25",
     name: "South Carolina House District 25",
-    city: "Greenville",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Wendell Jones",
     incumbentParty: "Democrat",
@@ -1186,8 +1136,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-26",
     name: "South Carolina House District 26",
-    city: "Fort Mill",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "David Martin",
     incumbentParty: "Republican",
@@ -1233,8 +1181,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-27",
     name: "South Carolina House District 27",
-    city: "Simpsonville",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "David Vaughan",
     incumbentParty: "Republican",
@@ -1280,8 +1226,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-28",
     name: "South Carolina House District 28",
-    city: "Pelzer",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Chris Huff",
     incumbentParty: "Republican",
@@ -1327,8 +1271,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-29",
     name: "South Carolina House District 29",
-    city: "Gaffney",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Dennis Moss",
     incumbentParty: "Republican",
@@ -1374,8 +1316,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-30",
     name: "South Carolina House District 30",
-    city: "Chesnee",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Brian Lawson",
     incumbentParty: "Republican",
@@ -1421,8 +1361,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-31",
     name: "South Carolina House District 31",
-    city: "Spartanburg",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Rosalyn Henderson-myers",
     incumbentParty: "Democrat",
@@ -1468,8 +1406,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-32",
     name: "South Carolina House District 32",
-    city: "Spartanburg",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Scott Montgomery",
     incumbentParty: "Republican",
@@ -1515,8 +1451,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-33",
     name: "South Carolina House District 33",
-    city: "Roebuck",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Travis A Moore",
     incumbentParty: "Republican",
@@ -1562,8 +1496,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-34",
     name: "South Carolina House District 34",
-    city: "Spartanburg",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Sarita Edgerton",
     incumbentParty: "Republican",
@@ -1609,8 +1541,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-35",
     name: "South Carolina House District 35",
-    city: "Reidville",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Bill Chumley",
     incumbentParty: "Republican",
@@ -1656,8 +1586,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-36",
     name: "South Carolina House District 36",
-    city: "Wellford",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Rob Harris",
     incumbentParty: "Republican",
@@ -1703,8 +1631,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-37",
     name: "South Carolina House District 37",
-    city: "Boiling Springs",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Steven Long",
     incumbentParty: "Republican",
@@ -1750,8 +1676,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-38",
     name: "South Carolina House District 38",
-    city: "Campobello",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Josiah Magnuson",
     incumbentParty: "Republican",
@@ -1797,8 +1721,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-39",
     name: "South Carolina House District 39",
-    city: "Monetta",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Cal Forrest",
     incumbentParty: "Republican",
@@ -1844,8 +1766,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-40",
     name: "South Carolina House District 40",
-    city: "Prosperity",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Joe White",
     incumbentParty: "Republican",
@@ -1891,8 +1811,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-41",
     name: "South Carolina House District 41",
-    city: "Winnsboro",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Annie E Mcdaniel",
     incumbentParty: "Democrat",
@@ -1938,8 +1856,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-42",
     name: "South Carolina House District 42",
-    city: "Buffalo",
-    region: "Upstate",
     type: "state house district",
     incumbentName: "Doug Gilliam",
     incumbentParty: "Republican",
@@ -1985,8 +1901,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-43",
     name: "South Carolina House District 43",
-    city: "Rock Hill",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Randy Ligon",
     incumbentParty: "Republican",
@@ -2032,8 +1946,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-44",
     name: "South Carolina House District 44",
-    city: "Indian Land",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Mike Neese",
     incumbentParty: "Republican",
@@ -2079,8 +1991,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-45",
     name: "South Carolina House District 45",
-    city: "Lancaster",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Brandon Newton",
     incumbentParty: "Republican",
@@ -2126,8 +2036,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-46",
     name: "South Carolina House District 46",
-    city: "Rock Hill",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Heath Sessions",
     incumbentParty: "Republican",
@@ -2173,8 +2081,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-47",
     name: "South Carolina House District 47",
-    city: "York",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Tommy Pope",
     incumbentParty: "Republican",
@@ -2220,8 +2126,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-48",
     name: "South Carolina House District 48",
-    city: "Rock Hill",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Brandon Guffey",
     incumbentParty: "Republican",
@@ -2267,8 +2171,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-49",
     name: "South Carolina House District 49",
-    city: "Rock Hill",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "John R King",
     incumbentParty: "Democrat",
@@ -2314,8 +2216,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-50",
     name: "South Carolina House District 50",
-    city: "Bishopville",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Will Wheeler",
     incumbentParty: "Democrat",
@@ -2361,8 +2261,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-51",
     name: "South Carolina House District 51",
-    city: "Sumter",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "David Weeks",
     incumbentParty: "Democrat",
@@ -2409,8 +2307,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-52",
     name: "South Carolina House District 52",
-    city: "Hopkins",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Jermaine Johnson",
     incumbentParty: "Democrat",
@@ -2456,8 +2352,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-53",
     name: "South Carolina House District 53",
-    city: "Chesterfield",
-    region: "Pee Dee",
     type: "state house district",
     incumbentName: "Richard Richie Yow",
     incumbentParty: "Republican",
@@ -2503,8 +2397,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-54",
     name: "South Carolina House District 54",
-    city: "Bennettsville",
-    region: "Pee Dee",
     type: "state house district",
     incumbentName: "Jason Scott Luck",
     incumbentParty: "Democrat",
@@ -2550,8 +2442,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-55",
     name: "South Carolina House District 55",
-    city: "Dillon",
-    region: "Pee Dee",
     type: "state house district",
     incumbentName: "Jackie E Hayes",
     incumbentParty: "Democrat",
@@ -2597,8 +2487,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-56",
     name: "South Carolina House District 56",
-    city: "Myrtle Beach",
-    region: "Grand Strand",
     type: "state house district",
     incumbentName: "Tim Mcginnis",
     incumbentParty: "Republican",
@@ -2644,8 +2532,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-57",
     name: "South Carolina House District 57",
-    city: "Marion",
-    region: "Pee Dee",
     type: "state house district",
     incumbentName: "Lucas Atkinson",
     incumbentParty: "Democrat",
@@ -2691,8 +2577,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-58",
     name: "South Carolina House District 58",
-    city: "Conway",
-    region: "Grand Strand",
     type: "state house district",
     incumbentName: "Jeff Johnson",
     incumbentParty: "Republican",
@@ -2738,8 +2622,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-59",
     name: "South Carolina House District 59",
-    city: "Florence",
-    region: "Pee Dee",
     type: "state house district",
     incumbentName: "Terry Alexander",
     incumbentParty: "Democrat",
@@ -2785,8 +2667,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-60",
     name: "South Carolina House District 60",
-    city: "Florence",
-    region: "Pee Dee",
     type: "state house district",
     incumbentName: "Phillip Lowe",
     incumbentParty: "Republican",
@@ -2832,8 +2712,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-61",
     name: "South Carolina House District 61",
-    city: "Myrtle Beach",
-    region: "Grand Strand",
     type: "state house district",
     incumbentName: "Carla Schuessler",
     incumbentParty: "Republican",
@@ -2879,8 +2757,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-62",
     name: "South Carolina House District 62",
-    city: "Darlington",
-    region: "Pee Dee",
     type: "state house district",
     incumbentName: "Robert Williams",
     incumbentParty: "Democrat",
@@ -2927,8 +2803,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-63",
     name: "South Carolina House District 63",
-    city: "Florence",
-    region: "Pee Dee",
     type: "state house district",
     incumbentName: "Jay Jordan",
     incumbentParty: "Republican",
@@ -2975,8 +2849,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-64",
     name: "South Carolina House District 64",
-    city: "Manning",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Fawn Pedalino",
     incumbentParty: "Republican",
@@ -3022,8 +2894,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-65",
     name: "South Carolina House District 65",
-    city: "Hartsville",
-    region: "Pee Dee",
     type: "state house district",
     incumbentName: "Cody T Mitchell",
     incumbentParty: "Republican",
@@ -3070,8 +2940,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-66",
     name: "South Carolina House District 66",
-    city: "Fort Mill",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Jackie Terribile",
     incumbentParty: "Republican",
@@ -3117,8 +2985,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-67",
     name: "South Carolina House District 67",
-    city: "Sumter",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Murrell Smith",
     incumbentParty: "Republican",
@@ -3164,8 +3030,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-68",
     name: "South Carolina House District 68",
-    city: "Myrtle Beach",
-    region: "Grand Strand",
     type: "state house district",
     incumbentName: "Heather Ammons Crawford",
     incumbentParty: "Republican",
@@ -3211,8 +3075,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-69",
     name: "South Carolina House District 69",
-    city: "Lexington",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Chris Wooten",
     incumbentParty: "Republican",
@@ -3258,8 +3120,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-70",
     name: "South Carolina House District 70",
-    city: "Hopkins",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Robert Reese",
     incumbentParty: "Democrat",
@@ -3305,8 +3165,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-71",
     name: "South Carolina House District 71",
-    city: "Chapin",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Nathan Ballentine",
     incumbentParty: "Republican",
@@ -3352,8 +3210,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-72",
     name: "South Carolina House District 72",
-    city: "Columbia",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Seth Rose",
     incumbentParty: "Democrat",
@@ -3399,8 +3255,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-73",
     name: "South Carolina House District 73",
-    city: "Columbia",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Chris Hart",
     incumbentParty: "Democrat",
@@ -3446,8 +3300,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-74",
     name: "South Carolina House District 74",
-    city: "Columbia",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Todd Rutherford",
     incumbentParty: "Democrat",
@@ -3493,8 +3345,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-75",
     name: "South Carolina House District 75",
-    city: "Columbia",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Heather Bauer",
     incumbentParty: "Democrat",
@@ -3540,8 +3390,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-76",
     name: "South Carolina House District 76",
-    city: "Columbia",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Leon Howard",
     incumbentParty: "Democrat",
@@ -3587,8 +3435,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-77",
     name: "South Carolina House District 77",
-    city: "Columbia",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Kambrell Garvin",
     incumbentParty: "Democrat",
@@ -3634,8 +3480,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-78",
     name: "South Carolina House District 78",
-    city: "Columbia",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Beth Bernstein",
     incumbentParty: "Democrat",
@@ -3681,8 +3525,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-79",
     name: "South Carolina House District 79",
-    city: "Columbia",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Hamilton Grant",
     incumbentParty: "Democrat",
@@ -3728,8 +3570,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-80",
     name: "South Carolina House District 80",
-    city: "Mt. Pleasant",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Kathy Landing",
     incumbentParty: "Republican",
@@ -3775,8 +3615,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-81",
     name: "South Carolina House District 81",
-    city: "Aiken",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Charles Hartz",
     incumbentParty: "Republican",
@@ -3822,8 +3660,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-82",
     name: "South Carolina House District 82",
-    city: "Aiken",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "William Bill Clyburn",
     incumbentParty: "Democrat",
@@ -3869,8 +3705,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-83",
     name: "South Carolina House District 83",
-    city: "N. Augusta",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Bill Hixon",
     incumbentParty: "Republican",
@@ -3916,8 +3750,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-84",
     name: "South Carolina House District 84",
-    city: "Aiken",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Melissa Oremus",
     incumbentParty: "Republican",
@@ -3963,8 +3795,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-85",
     name: "South Carolina House District 85",
-    city: "Columbia",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Jay Kilmartin",
     incumbentParty: "Republican",
@@ -4010,8 +3840,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-86",
     name: "South Carolina House District 86",
-    city: "Aiken",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Bill Taylor",
     incumbentParty: "Republican",
@@ -4057,8 +3885,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-87",
     name: "South Carolina House District 87",
-    city: "Lexington",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Paula Rawl Calhoon",
     incumbentParty: "Republican",
@@ -4104,8 +3930,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-88",
     name: "South Carolina House District 88",
-    city: "Lexington",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Rj May",
     incumbentParty: "Republican",
@@ -4151,8 +3975,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-89",
     name: "South Carolina House District 89",
-    city: "West Columbia",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "Micah Caskey",
     incumbentParty: "Republican",
@@ -4198,8 +4020,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-90",
     name: "South Carolina House District 90",
-    city: "Bamberg",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Justin Bamberg",
     incumbentParty: "Democrat",
@@ -4245,8 +4065,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-91",
     name: "South Carolina House District 91",
-    city: "Barnwell",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Lonnie Hosey",
     incumbentParty: "Democrat",
@@ -4292,8 +4110,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-92",
     name: "South Carolina House District 92",
-    city: "Goose Creek",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Brandon Cox",
     incumbentParty: "Republican",
@@ -4339,8 +4155,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-93",
     name: "South Carolina House District 93",
-    city: "Orangeburg",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Jerry Govan",
     incumbentParty: "Democrat",
@@ -4386,8 +4200,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-94",
     name: "South Carolina House District 94",
-    city: "Summerville",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Gil Gatch",
     incumbentParty: "Republican",
@@ -4433,8 +4245,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-95",
     name: "South Carolina House District 95",
-    city: "Orangeburg",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Gilda Cobb-hunter",
     incumbentParty: "Democrat",
@@ -4480,8 +4290,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-96",
     name: "South Carolina House District 96",
-    city: "Lexington",
-    region: "Midlands",
     type: "state house district",
     incumbentName: "D Ryan Mccabe",
     incumbentParty: "Republican",
@@ -4527,8 +4335,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-97",
     name: "South Carolina House District 97",
-    city: "Summerville",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Robby Robbins",
     incumbentParty: "Republican",
@@ -4574,8 +4380,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-98",
     name: "South Carolina House District 98",
-    city: "North Charleston",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Chris Murphy",
     incumbentParty: "Republican",
@@ -4621,8 +4425,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-99",
     name: "South Carolina House District 99",
-    city: "Daniel Island",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Mark Smith",
     incumbentParty: "Republican",
@@ -4668,8 +4470,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-100",
     name: "South Carolina House District 100",
-    city: "Moncks Corner",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Sylleste Davis",
     incumbentParty: "Republican",
@@ -4715,8 +4515,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-101",
     name: "South Carolina House District 101",
-    city: "Lake City",
-    region: "Pee Dee",
     type: "state house district",
     incumbentName: "Roger K Kirby",
     incumbentParty: "Democrat",
@@ -4762,8 +4560,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-102",
     name: "South Carolina House District 102",
-    city: "Ridgeville",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Harriet Holman",
     incumbentParty: "Republican",
@@ -4809,8 +4605,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-103",
     name: "South Carolina House District 103",
-    city: "Georgetown",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Carl L Anderson",
     incumbentParty: "Democrat",
@@ -4857,8 +4651,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-104",
     name: "South Carolina House District 104",
-    city: "Little River",
-    region: "Grand Strand",
     type: "state house district",
     incumbentName: "William Bailey",
     incumbentParty: "Republican",
@@ -4904,8 +4696,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-105",
     name: "South Carolina House District 105",
-    city: "Loris",
-    region: "Grand Strand",
     type: "state house district",
     incumbentName: "Kevin Hardee",
     incumbentParty: "Republican",
@@ -4952,8 +4742,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-106",
     name: "South Carolina House District 106",
-    city: "Myrtle Beach",
-    region: "Grand Strand",
     type: "state house district",
     incumbentName: "Val Guest",
     incumbentParty: "Republican",
@@ -4999,8 +4787,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-107",
     name: "South Carolina House District 107",
-    city: "Myrtle Beach",
-    region: "Grand Strand",
     type: "state house district",
     incumbentName: "Case Brittain",
     incumbentParty: "Republican",
@@ -5046,8 +4832,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-108",
     name: "South Carolina House District 108",
-    city: "Murrells Inlet",
-    region: "Grand Strand",
     type: "state house district",
     incumbentName: "Lee Hewitt",
     incumbentParty: "Republican",
@@ -5093,8 +4877,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-109",
     name: "South Carolina House District 109",
-    city: "North Charleston",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Tiffany Spann-wilder",
     incumbentParty: "Democrat",
@@ -5140,8 +4922,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-110",
     name: "South Carolina House District 110",
-    city: "Mt. Pleasant",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Tom Hartnett",
     incumbentParty: "Republican",
@@ -5187,8 +4967,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-111",
     name: "South Carolina House District 111",
-    city: "Charleston",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Wendell G Gilliard",
     incumbentParty: "Democrat",
@@ -5235,8 +5013,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-112",
     name: "South Carolina House District 112",
-    city: "Mt. Pleasant",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Joe Bustos",
     incumbentParty: "Republican",
@@ -5283,8 +5059,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-113",
     name: "South Carolina House District 113",
-    city: "North Charleston",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Marvin Rashad Pendarvis",
     incumbentParty: "Democrat",
@@ -5330,8 +5104,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-114",
     name: "South Carolina House District 114",
-    city: "Charleston",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Gary Brewer",
     incumbentParty: "Republican",
@@ -5377,8 +5149,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-115",
     name: "South Carolina House District 115",
-    city: "Folly Beach",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Spencer Wetmore",
     incumbentParty: "Democrat",
@@ -5424,8 +5194,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-116",
     name: "South Carolina House District 116",
-    city: "Johns Island",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "James Teeple",
     incumbentParty: "Republican",
@@ -5471,8 +5239,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-117",
     name: "South Carolina House District 117",
-    city: "Goose Creek",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Jordan Pace",
     incumbentParty: "Republican",
@@ -5519,8 +5285,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-118",
     name: "South Carolina House District 118",
-    city: "Bluffton",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Bill Herbkersman",
     incumbentParty: "Republican",
@@ -5566,8 +5330,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-119",
     name: "South Carolina House District 119",
-    city: "Charleston",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Leon Stavrinakis",
     incumbentParty: "Democrat",
@@ -5613,8 +5375,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-120",
     name: "South Carolina House District 120",
-    city: "Bluffton",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Weston Newton",
     incumbentParty: "Republican",
@@ -5660,8 +5420,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-121",
     name: "South Carolina House District 121",
-    city: "St. Helena Island",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Michael F Rivers SR",
     incumbentParty: "Democrat",
@@ -5707,8 +5465,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-122",
     name: "South Carolina House District 122",
-    city: "Hampton",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Bill Hager",
     incumbentParty: "Republican",
@@ -5755,8 +5511,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-123",
     name: "South Carolina House District 123",
-    city: "Bluffton",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Jeff Bradley",
     incumbentParty: "Republican",
@@ -5802,8 +5556,6 @@ const SC_HOUSE_DISTRICTS = [
   {
     id: "sc-hd-124",
     name: "South Carolina House District 124",
-    city: "Beaufort",
-    region: "Lowcountry",
     type: "state house district",
     incumbentName: "Shannon Erickson",
     incumbentParty: "Republican",
@@ -5852,8 +5604,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-1",
     name: "South Carolina Senate District 1",
-    city: "Walhalla",
-    region: "Upstate",
     type: "state senate district",
     incumbentName: "Thomas C Alexander",
     incumbentParty: "Republican",
@@ -5899,8 +5649,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-2",
     name: "South Carolina Senate District 2",
-    city: "Easley",
-    region: "Upstate",
     type: "state senate district",
     incumbentName: "Rex F Rice",
     incumbentParty: "Republican",
@@ -5946,8 +5694,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-3",
     name: "South Carolina Senate District 3",
-    city: "Powdersville",
-    region: "Upstate",
     type: "state senate district",
     incumbentName: "Richard Cash",
     incumbentParty: "Republican",
@@ -5994,8 +5740,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-4",
     name: "South Carolina Senate District 4",
-    city: "Honea Path",
-    region: "Upstate",
     type: "state senate district",
     incumbentName: "Mike Gambrell",
     incumbentParty: "Republican",
@@ -6041,8 +5785,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-5",
     name: "South Carolina Senate District 5",
-    city: "Travelers Rest",
-    region: "Upstate",
     type: "state senate district",
     incumbentName: "Tom Corbin",
     incumbentParty: "Republican",
@@ -6088,8 +5830,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-6",
     name: "South Carolina Senate District 6",
-    city: "Greenville",
-    region: "Upstate",
     type: "state senate district",
     incumbentName: "Jason Elliott",
     incumbentParty: "Republican",
@@ -6135,8 +5875,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-7",
     name: "South Carolina Senate District 7",
-    city: "Greenville",
-    region: "Upstate",
     type: "state senate district",
     incumbentName: "Karl B Allen",
     incumbentParty: "Democrat",
@@ -6183,8 +5921,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-8",
     name: "South Carolina Senate District 8",
-    city: "Greenville",
-    region: "Upstate",
     type: "state senate district",
     incumbentName: "Ross Turner",
     incumbentParty: "Republican",
@@ -6230,8 +5966,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-9",
     name: "South Carolina Senate District 9",
-    city: "Laurens",
-    region: "Upstate",
     type: "state senate district",
     incumbentName: "Danny Verdin",
     incumbentParty: "Republican",
@@ -6277,8 +6011,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-10",
     name: "South Carolina Senate District 10",
-    city: "Greenwood",
-    region: "Upstate",
     type: "state senate district",
     incumbentName: "Billy Garrett",
     incumbentParty: "Republican",
@@ -6324,8 +6056,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-11",
     name: "South Carolina Senate District 11",
-    city: "Spartanburg",
-    region: "Upstate",
     type: "state senate district",
     incumbentName: "Josh Kimbrell",
     incumbentParty: "Republican",
@@ -6371,8 +6101,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-12",
     name: "South Carolina Senate District 12",
-    city: "Moore",
-    region: "Upstate",
     type: "state senate district",
     incumbentName: "Roger Allen Nutt",
     incumbentParty: "Republican",
@@ -6418,8 +6146,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-13",
     name: "South Carolina Senate District 13",
-    city: "Pauline",
-    region: "Upstate",
     type: "state senate district",
     incumbentName: "Shane Martin",
     incumbentParty: "Republican",
@@ -6465,8 +6191,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-14",
     name: "South Carolina Senate District 14",
-    city: "Gaffney",
-    region: "Upstate",
     type: "state senate district",
     incumbentName: "Harvey Peeler",
     incumbentParty: "Republican",
@@ -6512,8 +6236,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-15",
     name: "South Carolina Senate District 15",
-    city: "Rock Hill",
-    region: "Midlands",
     type: "state senate district",
     incumbentName: "Wes Climer",
     incumbentParty: "Republican",
@@ -6559,8 +6281,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-16",
     name: "South Carolina Senate District 16",
-    city: "Fort Mill",
-    region: "Midlands",
     type: "state senate district",
     incumbentName: "Michael Johnson",
     incumbentParty: "Republican",
@@ -6606,8 +6326,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-17",
     name: "South Carolina Senate District 17",
-    city: "Rock Hill",
-    region: "Midlands",
     type: "state senate district",
     incumbentName: "Everett Stubbs",
     incumbentParty: "Republican",
@@ -6654,8 +6372,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-18",
     name: "South Carolina Senate District 18",
-    city: "Prosperity",
-    region: "Midlands",
     type: "state senate district",
     incumbentName: "Ronnie Cromer",
     incumbentParty: "Republican",
@@ -6701,8 +6417,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-19",
     name: "South Carolina Senate District 19",
-    city: "Columbia",
-    region: "Midlands",
     type: "state senate district",
     incumbentName: "Tameika Isaac Devine",
     incumbentParty: "Democrat",
@@ -6748,8 +6462,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-20",
     name: "South Carolina Senate District 20",
-    city: "North Charleston",
-    region: "Lowcountry",
     type: "state senate district",
     incumbentName: "Ed Sutton",
     incumbentParty: "Democrat",
@@ -6795,8 +6507,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-21",
     name: "South Carolina Senate District 21",
-    city: "Columbia",
-    region: "Midlands",
     type: "state senate district",
     incumbentName: "Darrell Jackson",
     incumbentParty: "Democrat",
@@ -6842,8 +6552,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-22",
     name: "South Carolina Senate District 22",
-    city: "Columbia",
-    region: "Midlands",
     type: "state senate district",
     incumbentName: "Overture Walker",
     incumbentParty: "Democrat",
@@ -6889,8 +6597,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-23",
     name: "South Carolina Senate District 23",
-    city: "Lexington",
-    region: "Midlands",
     type: "state senate district",
     incumbentName: "Carlisle Kennedy",
     incumbentParty: "Republican",
@@ -6936,8 +6642,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-24",
     name: "South Carolina Senate District 24",
-    city: "Aiken",
-    region: "Midlands",
     type: "state senate district",
     incumbentName: "Tom Young",
     incumbentParty: "Republican",
@@ -6983,8 +6687,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-25",
     name: "South Carolina Senate District 25",
-    city: "Edgefield",
-    region: "Midlands",
     type: "state senate district",
     incumbentName: "Shane Massey",
     incumbentParty: "Republican",
@@ -7031,8 +6733,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-26",
     name: "South Carolina Senate District 26",
-    city: "St. Matthews",
-    region: "Midlands",
     type: "state senate district",
     incumbentName: "Russell Ott",
     incumbentParty: "Democrat",
@@ -7078,8 +6778,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-27",
     name: "South Carolina Senate District 27",
-    city: "Heath Springs",
-    region: "Midlands",
     type: "state senate district",
     incumbentName: "Allen Blackmon",
     incumbentParty: "Republican",
@@ -7125,8 +6823,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-28",
     name: "South Carolina Senate District 28",
-    city: "North Myrtle Beach",
-    region: "Grand Strand",
     type: "state senate district",
     incumbentName: "Greg Hembree",
     incumbentParty: "Republican",
@@ -7172,8 +6868,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-29",
     name: "South Carolina Senate District 29",
-    city: "Darlington",
-    region: "Pee Dee",
     type: "state senate district",
     incumbentName: "Jd Chaplin",
     incumbentParty: "Republican",
@@ -7219,8 +6913,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-30",
     name: "South Carolina Senate District 30",
-    city: "Marion",
-    region: "Pee Dee",
     type: "state senate district",
     incumbentName: "Kent M Williams",
     incumbentParty: "Democrat",
@@ -7266,8 +6958,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-31",
     name: "South Carolina Senate District 31",
-    city: "Florence",
-    region: "Pee Dee",
     type: "state senate district",
     incumbentName: "Mike Reichenbach",
     incumbentParty: "Republican",
@@ -7313,8 +7003,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-32",
     name: "South Carolina Senate District 32",
-    city: "Greeleyville",
-    region: "Pee Dee",
     type: "state senate district",
     incumbentName: "Ronnie A Sabb",
     incumbentParty: "Democrat",
@@ -7360,8 +7048,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-33",
     name: "South Carolina Senate District 33",
-    city: "Conway",
-    region: "Grand Strand",
     type: "state senate district",
     incumbentName: "Luke A Rankin",
     incumbentParty: "Republican",
@@ -7407,8 +7093,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-34",
     name: "South Carolina Senate District 34",
-    city: "Murrells Inlet",
-    region: "Grand Strand",
     type: "state senate district",
     incumbentName: "Stephen Goldfinch",
     incumbentParty: "Republican",
@@ -7454,8 +7138,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-35",
     name: "South Carolina Senate District 35",
-    city: "Camden",
-    region: "Midlands",
     type: "state senate district",
     incumbentName: "Jeffrey R Graham",
     incumbentParty: "Democrat",
@@ -7501,8 +7183,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-36",
     name: "South Carolina Senate District 36",
-    city: "Sumter",
-    region: "Midlands",
     type: "state senate district",
     incumbentName: "Jeff Zell",
     incumbentParty: "Republican",
@@ -7548,8 +7228,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-37",
     name: "South Carolina Senate District 37",
-    city: "Bonneau",
-    region: "Lowcountry",
     type: "state senate district",
     incumbentName: "Larry Grooms",
     incumbentParty: "Republican",
@@ -7595,8 +7273,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-38",
     name: "South Carolina Senate District 38",
-    city: "Summerville",
-    region: "Lowcountry",
     type: "state senate district",
     incumbentName: "Sean Bennett",
     incumbentParty: "Republican",
@@ -7642,8 +7318,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-39",
     name: "South Carolina Senate District 39",
-    city: "Summerville",
-    region: "Lowcountry",
     type: "state senate district",
     incumbentName: "Tom Fernandez",
     incumbentParty: "Republican",
@@ -7689,8 +7363,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-40",
     name: "South Carolina Senate District 40",
-    city: "Orangeburg",
-    region: "Lowcountry",
     type: "state senate district",
     incumbentName: "Brad Hutto",
     incumbentParty: "Democrat",
@@ -7736,8 +7408,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-41",
     name: "South Carolina Senate District 41",
-    city: "Johns Island",
-    region: "Lowcountry",
     type: "state senate district",
     incumbentName: "Matt Leber",
     incumbentParty: "Republican",
@@ -7783,8 +7453,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-42",
     name: "South Carolina Senate District 42",
-    city: "North Charleston",
-    region: "Lowcountry",
     type: "state senate district",
     incumbentName: "Deon Tedder",
     incumbentParty: "Democrat",
@@ -7830,8 +7498,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-43",
     name: "South Carolina Senate District 43",
-    city: "Isle of Palms",
-    region: "Lowcountry",
     type: "state senate district",
     incumbentName: "Chip Campsen",
     incumbentParty: "Republican",
@@ -7877,8 +7543,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-44",
     name: "South Carolina Senate District 44",
-    city: "Goose Creek",
-    region: "Lowcountry",
     type: "state senate district",
     incumbentName: "Brian Adams",
     incumbentParty: "Republican",
@@ -7924,8 +7588,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-45",
     name: "South Carolina Senate District 45",
-    city: "Walterboro",
-    region: "Lowcountry",
     type: "state senate district",
     incumbentName: "Margie Bright Matthews",
     incumbentParty: "Democrat",
@@ -7971,8 +7633,6 @@ const SC_SENATE_DISTRICTS = [
   {
     id: "sc-sd-46",
     name: "South Carolina Senate District 46",
-    city: "Bluffton",
-    region: "Lowcountry",
     type: "state senate district",
     incumbentName: "Tom Davis",
     incumbentParty: "Republican",

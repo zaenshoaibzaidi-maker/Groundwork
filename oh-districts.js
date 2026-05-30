@@ -31,8 +31,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-1",
     name: "Ohio House District 1",
-    city: "Columbus",
-    region: "Columbus Near East Side / South Linden",
     type: "state house district",
     incumbentName: "Dontavius Jarrells",
     incumbentParty: "Democrat",
@@ -78,8 +76,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-2",
     name: "Ohio House District 2",
-    city: "Columbus",
-    region: "Columbus South Side (Franklinton / Hilltop)",
     type: "state house district",
     incumbentName: "Latyna M. Humphrey",
     incumbentParty: "Democrat",
@@ -125,8 +121,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-3",
     name: "Ohio House District 3",
-    city: "Columbus",
-    region: "Columbus Urban Core",
     type: "state house district",
     incumbentName: "Ismail Mohamed",
     incumbentParty: "Democrat",
@@ -173,8 +167,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-4",
     name: "Ohio House District 4",
-    city: "Columbus",
-    region: "Columbus Northwest Suburbs (Worthington / Clintonville)",
     type: "state house district",
     incumbentName: "Beryl Brown Piccolantonio",
     incumbentParty: "Democrat",
@@ -221,8 +213,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-5",
     name: "Ohio House District 5",
-    city: "Columbus",
-    region: "Columbus East Side / Near Northeast",
     type: "state house district",
     incumbentName: "Meredith Lawson-Rowe",
     incumbentParty: "Democrat",
@@ -268,8 +258,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-6",
     name: "Ohio House District 6",
-    city: "Columbus",
-    region: "Columbus Near Westside / Hilltop",
     type: "state house district",
     incumbentName: "Christine Cockley",
     incumbentParty: "Democrat",
@@ -316,8 +304,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-7",
     name: "Ohio House District 7",
-    city: "Columbus",
-    region: "Columbus University District / Short North",
     type: "state house district",
     incumbentName: "Allison Russo",
     incumbentParty: "Democrat",
@@ -364,8 +350,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-8",
     name: "Ohio House District 8",
-    city: "Columbus",
-    region: "Columbus Suburbs",
     type: "state house district",
     incumbentName: "Somani",
     incumbentParty: "Democrat",
@@ -413,8 +397,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-9",
     name: "Ohio House District 9",
-    city: "Columbus",
-    region: "Columbus Near East Side (Linden / Milo-Grogan)",
     type: "state house district",
     incumbentName: "Munira Yasin Abdullahi",
     incumbentParty: "Democrat",
@@ -461,8 +443,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-10",
     name: "Ohio House District 10",
-    city: "Columbus",
-    region: "Columbus South / Southwest Franklin County",
     type: "state house district",
     incumbentName: "Mark Sigrist",
     incumbentParty: "Democrat",
@@ -509,8 +489,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-11",
     name: "Ohio House District 11",
-    city: "Columbus",
-    region: "Columbus Northwest Suburbs (Hilliard / Upper Arlington)",
     type: "state house district",
     incumbentName: "Crystal Lett",
     incumbentParty: "Democrat",
@@ -557,8 +535,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-12",
     name: "Ohio House District 12",
-    city: "Columbus",
-    region: "Columbus Rural Exurbs (Pickaway / Western Franklin)",
     type: "state house district",
     incumbentName: "Brian Stewart",
     incumbentParty: "Republican",
@@ -605,8 +581,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-13",
     name: "Ohio House District 13",
-    city: "Cleveland",
-    region: "Lakewood / West Cleveland",
     type: "state house district",
     incumbentName: "Rader",
     incumbentParty: "Democrat",
@@ -654,8 +628,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-14",
     name: "Ohio House District 14",
-    city: "Cleveland",
-    region: "Parma / Brooklyn (Southwest Cuyahoga)",
     type: "state house district",
     incumbentName: "Sean Patrick Brennan",
     incumbentParty: "Democrat",
@@ -702,8 +674,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-15",
     name: "Ohio House District 15",
-    city: "Cleveland",
-    region: "Parma Heights / Middleburg Heights",
     type: "state house district",
     incumbentName: "Chris Glassburn",
     incumbentParty: "Democrat",
@@ -750,8 +720,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-16",
     name: "Ohio House District 16",
-    city: "Cleveland",
-    region: "Strongsville / Brecksville (SW Cuyahoga Suburbs)",
     type: "state house district",
     incumbentName: "Bride Rose Sweeney",
     incumbentParty: "Democrat",
@@ -798,8 +766,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-17",
     name: "Ohio House District 17",
-    city: "Cleveland",
-    region: "Westlake / Bay Village (West Cleveland Suburbs)",
     type: "state house district",
     incumbentName: "Mike Dovilla",
     incumbentParty: "Republican",
@@ -846,8 +812,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-18",
     name: "Ohio House District 18",
-    city: "Cleveland",
-    region: "East Cleveland / Glenville (Urban Core)",
     type: "state house district",
     incumbentName: "Juanita O. Brent",
     incumbentParty: "Democrat",
@@ -894,8 +858,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-19",
     name: "Ohio House District 19",
-    city: "Cleveland",
-    region: "South Euclid / University Heights (East Cuyahoga)",
     type: "state house district",
     incumbentName: "Phil Robinson",
     incumbentParty: "Democrat",
@@ -942,8 +904,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-20",
     name: "Ohio House District 20",
-    city: "Cleveland",
-    region: "Cleveland Urban Core (Central / Hough)",
     type: "state house district",
     incumbentName: "Terrence Upchurch",
     incumbentParty: "Democrat",
@@ -990,8 +950,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-21",
     name: "Ohio House District 21",
-    city: "Cleveland",
-    region: "Shaker Heights / Cleveland Heights",
     type: "state house district",
     incumbentName: "Eric Synenberg",
     incumbentParty: "Democrat",
@@ -1038,8 +996,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-22",
     name: "Ohio House District 22",
-    city: "Cleveland",
-    region: "East Cleveland / Warrensville Heights",
     type: "state house district",
     incumbentName: "Darnell T. Brewer",
     incumbentParty: "Democrat",
@@ -1086,8 +1042,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-23",
     name: "Ohio House District 23",
-    city: "Cleveland",
-    region: "Garfield Heights / Parma (South Cuyahoga)",
     type: "state house district",
     incumbentName: "Daniel P. Troy",
     incumbentParty: "Democrat",
@@ -1134,8 +1088,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-24",
     name: "Ohio House District 24",
-    city: "Cincinnati",
-    region: "Cincinnati Urban Core (Walnut Hills / Avondale)",
     type: "state house district",
     incumbentName: "Dani Isaacsohn",
     incumbentParty: "Democrat",
@@ -1182,8 +1134,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-25",
     name: "Ohio House District 25",
-    city: "Cincinnati",
-    region: "Cincinnati East Side",
     type: "state house district",
     incumbentName: "Cecil Thomas",
     incumbentParty: "Democrat",
@@ -1230,8 +1180,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-26",
     name: "Ohio House District 26",
-    city: "Cincinnati",
-    region: "Cincinnati West Side (Price Hill / Westwood)",
     type: "state house district",
     incumbentName: "Sedrick Denson",
     incumbentParty: "Democrat",
@@ -1277,8 +1225,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-27",
     name: "Ohio House District 27",
-    city: "Cincinnati",
-    region: "Cincinnati Eastern Suburbs (Hyde Park / Mt. Lookout)",
     type: "state house district",
     incumbentName: "Rachel Baker",
     incumbentParty: "Democrat",
@@ -1325,8 +1271,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-28",
     name: "Ohio House District 28",
-    city: "Cincinnati",
-    region: "Cincinnati Northern Suburbs (Blue Ash / Montgomery)",
     type: "state house district",
     incumbentName: "Karen Brownlee",
     incumbentParty: "Democrat",
@@ -1372,8 +1316,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-29",
     name: "Ohio House District 29",
-    city: "Cincinnati",
-    region: "Cincinnati Eastern Exurbs (Clermont County)",
     type: "state house district",
     incumbentName: "Cindy Abrams",
     incumbentParty: "Republican",
@@ -1419,8 +1361,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-30",
     name: "Ohio House District 30",
-    city: "Akron",
-    region: "Akron Exurbs / Summit County Rural",
     type: "state house district",
     incumbentName: "Mike Odioso",
     incumbentParty: "Republican",
@@ -1466,8 +1406,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-31",
     name: "Ohio House District 31",
-    city: "Akron",
-    region: "Akron Suburbs (Stow / Tallmadge)",
     type: "state house district",
     incumbentName: "Bill Roemer",
     incumbentParty: "Republican",
@@ -1514,8 +1452,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-32",
     name: "Ohio House District 32",
-    city: "Akron",
-    region: "Akron Southwest (Barberton / Norton)",
     type: "state house district",
     incumbentName: "Jack K. Daniels",
     incumbentParty: "Republican",
@@ -1561,8 +1497,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-33",
     name: "Ohio House District 33",
-    city: "Columbus",
-    region: "Columbus Near East Side (Eastmoor / Near East)",
     type: "state house district",
     incumbentName: "Veronica Sims",
     incumbentParty: "Democrat",
@@ -1608,8 +1542,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-34",
     name: "Ohio House District 34",
-    city: "Cleveland",
-    region: "Willoughby / Lake County West",
     type: "state house district",
     incumbentName: "Derrick Hall",
     incumbentParty: "Democrat",
@@ -1655,8 +1587,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-35",
     name: "Ohio House District 35",
-    city: "Cleveland",
-    region: "Mayfield Heights / Lyndhurst (East Cuyahoga)",
     type: "state house district",
     incumbentName: "Steve Demetriou",
     incumbentParty: "Republican",
@@ -1702,8 +1632,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-36",
     name: "Ohio House District 36",
-    city: "Akron",
-    region: "Akron Northern Suburbs (Cuyahoga Falls)",
     type: "state house district",
     incumbentName: "Andrea White",
     incumbentParty: "Republican",
@@ -1749,8 +1677,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-37",
     name: "Ohio House District 37",
-    city: "Cincinnati",
-    region: "Anderson Township / Clermont County",
     type: "state house district",
     incumbentName: "Tom Young",
     incumbentParty: "Republican",
@@ -1796,8 +1722,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-38",
     name: "Ohio House District 38",
-    city: "Columbus",
-    region: "Columbus South Suburbs (Obetz / Groveport)",
     type: "state house district",
     incumbentName: "Desiree Tims",
     incumbentParty: "Democrat",
@@ -1843,8 +1767,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-39",
     name: "Ohio House District 39",
-    city: "Columbus",
-    region: "Dayton / Montgomery County",
     type: "state house district",
     incumbentName: "Phil Plummer",
     incumbentParty: "Republican",
@@ -1890,8 +1812,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-40",
     name: "Ohio House District 40",
-    city: "Cincinnati",
-    region: "Warren County / Mason Area",
     type: "state house district",
     incumbentName: "Rodney Creech",
     incumbentParty: "Republican",
@@ -1937,8 +1857,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-41",
     name: "Ohio House District 41",
-    city: "Toledo",
-    region: "Toledo Urban Core",
     type: "state house district",
     incumbentName: "Erika White",
     incumbentParty: "Democrat",
@@ -1984,8 +1902,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-42",
     name: "Ohio House District 42",
-    city: "Toledo",
-    region: "Toledo Near North Side",
     type: "state house district",
     incumbentName: "Elgin Rogers Jr.",
     incumbentParty: "Democrat",
@@ -2031,8 +1947,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-43",
     name: "Ohio House District 43",
-    city: "Toledo",
-    region: "Toledo West Side / Oregon",
     type: "state house district",
     incumbentName: "Michele Grim",
     incumbentParty: "Democrat",
@@ -2078,8 +1992,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-44",
     name: "Ohio House District 44",
-    city: "Columbus",
-    region: "Columbus Southeast Exurbs (Pickerington / Canal Winchester)",
     type: "state house district",
     incumbentName: "Josh Williams",
     incumbentParty: "Republican",
@@ -2125,8 +2037,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-45",
     name: "Ohio House District 45",
-    city: "Cincinnati",
-    region: "West Chester / Liberty Township (Butler County)",
     type: "state house district",
     incumbentName: "Jennifer Gross",
     incumbentParty: "Republican",
@@ -2172,8 +2082,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-46",
     name: "Ohio House District 46",
-    city: "Cincinnati",
-    region: "Butler County (Hamilton / Fairfield)",
     type: "state house district",
     incumbentName: "Thomas Hall",
     incumbentParty: "Republican",
@@ -2219,8 +2127,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-47",
     name: "Ohio House District 47",
-    city: "Cincinnati",
-    region: "Cincinnati Eastern Exurbs (Batavia / Clermont)",
     type: "state house district",
     incumbentName: "Diane Mullins",
     incumbentParty: "Republican",
@@ -2266,8 +2172,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-48",
     name: "Ohio House District 48",
-    city: "Akron",
-    region: "Canton / Stark County",
     type: "state house district",
     incumbentName: "Scott Oelslager",
     incumbentParty: "Republican",
@@ -2313,8 +2217,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-49",
     name: "Ohio House District 49",
-    city: "Akron",
-    region: "Akron / Summit County (Competitive)",
     type: "state house district",
     incumbentName: "Jim Thomas",
     incumbentParty: "Republican",
@@ -2360,8 +2262,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-50",
     name: "Ohio House District 50",
-    city: "Cleveland",
-    region: "Lake County (Mentor / Painesville)",
     type: "state house district",
     incumbentName: "Matthew Kishman",
     incumbentParty: "Republican",
@@ -2407,8 +2307,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-51",
     name: "Ohio House District 51",
-    city: "Cleveland",
-    region: "Geauga / Lake County East (Rural)",
     type: "state house district",
     incumbentName: "Jodi Salvo",
     incumbentParty: "Republican",
@@ -2454,8 +2352,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-52",
     name: "Ohio House District 52",
-    city: "Cleveland",
-    region: "North Ridgeville / Lorain County",
     type: "state house district",
     incumbentName: "Gayle Manning",
     incumbentParty: "Republican",
@@ -2501,8 +2397,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-53",
     name: "Ohio House District 53",
-    city: "Cleveland",
-    region: "Youngstown / Mahoning County",
     type: "state house district",
     incumbentName: "Joe Miller",
     incumbentParty: "Democrat",
@@ -2548,8 +2442,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-54",
     name: "Ohio House District 54",
-    city: "Akron",
-    region: "Tuscarawas / Coshocton Counties",
     type: "state house district",
     incumbentName: "Kellie Deeter",
     incumbentParty: "Republican",
@@ -2595,8 +2487,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-55",
     name: "Ohio House District 55",
-    city: "Columbus",
-    region: "Columbus Far East Exurbs (Licking County)",
     type: "state house district",
     incumbentName: "C. Michelle Teska",
     incumbentParty: "Republican",
@@ -2642,8 +2532,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-56",
     name: "Ohio House District 56",
-    city: "Columbus",
-    region: "Columbus Northeast Suburbs (New Albany / Gahanna)",
     type: "state house district",
     incumbentName: "Adam Mathews",
     incumbentParty: "Republican",
@@ -2689,8 +2577,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-57",
     name: "Ohio House District 57",
-    city: "Cleveland",
-    region: "Painesville / Lake County East",
     type: "state house district",
     incumbentName: "Jamie Callender",
     incumbentParty: "Republican",
@@ -2736,8 +2622,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-58",
     name: "Ohio House District 58",
-    city: "Cleveland",
-    region: "Youngstown / Trumbull County",
     type: "state house district",
     incumbentName: "Lauren McNally",
     incumbentParty: "Democrat",
@@ -2783,8 +2667,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-59",
     name: "Ohio House District 59",
-    city: "Cleveland",
-    region: "Trumbull County Rural (Warren Area)",
     type: "state house district",
     incumbentName: "Tex Fischer",
     incumbentParty: "Republican",
@@ -2830,8 +2712,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-60",
     name: "Ohio House District 60",
-    city: "Columbus",
-    region: "Columbus Outer Suburbs (Delaware / Licking)",
     type: "state house district",
     incumbentName: "Brian Lorenz",
     incumbentParty: "Republican",
@@ -2877,8 +2757,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-61",
     name: "Ohio House District 61",
-    city: "Columbus",
-    region: "Dublin / Powell (Delaware County)",
     type: "state house district",
     incumbentName: "Beth Lear",
     incumbentParty: "Republican",
@@ -2924,8 +2802,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-62",
     name: "Ohio House District 62",
-    city: "Cincinnati",
-    region: "Cincinnati Eastern Exurbs (Milford / Clermont)",
     type: "state house district",
     incumbentName: "Jean Schmidt",
     incumbentParty: "Republican",
@@ -2972,8 +2848,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-63",
     name: "Ohio House District 63",
-    city: "Cincinnati",
-    region: "Cincinnati Far East (Anderson / East Clermont)",
     type: "state house district",
     incumbentName: "Adam C. Bird",
     incumbentParty: "Republican",
@@ -3020,8 +2894,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-64",
     name: "Ohio House District 64",
-    city: "Cleveland",
-    region: "Mahoning / Trumbull County South",
     type: "state house district",
     incumbentName: "Nick Santucci",
     incumbentParty: "Republican",
@@ -3068,8 +2940,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-65",
     name: "Ohio House District 65",
-    city: "Cleveland",
-    region: "Mahoning County South / Columbiana",
     type: "state house district",
     incumbentName: "David Thomas",
     incumbentParty: "Republican",
@@ -3116,8 +2986,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-66",
     name: "Ohio House District 66",
-    city: "Columbus",
-    region: "Licking / Knox County (Newark Area)",
     type: "state house district",
     incumbentName: "Sharon A. Ray",
     incumbentParty: "Republican",
@@ -3164,8 +3032,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-67",
     name: "Ohio House District 67",
-    city: "Akron",
-    region: "Wayne / Holmes Counties (Wooster Area)",
     type: "state house district",
     incumbentName: "Melanie Miller",
     incumbentParty: "Republican",
@@ -3212,8 +3078,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-68",
     name: "Ohio House District 68",
-    city: "Columbus",
-    region: "Licking / Knox / Coshocton Counties",
     type: "state house district",
     incumbentName: "Thad Claggett",
     incumbentParty: "Republican",
@@ -3260,8 +3124,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-69",
     name: "Ohio House District 69",
-    city: "Columbus",
-    region: "Rural SE Ohio (Hocking / Vinton / Morgan)",
     type: "state house district",
     incumbentName: "Kevin Miller",
     incumbentParty: "Republican",
@@ -3308,8 +3170,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-70",
     name: "Ohio House District 70",
-    city: "Columbus",
-    region: "Greene County / Xenia Area",
     type: "state house district",
     incumbentName: "Brian Lampton",
     incumbentParty: "Republican",
@@ -3356,8 +3216,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-71",
     name: "Ohio House District 71",
-    city: "Columbus",
-    region: "Rural SW Ohio (Clinton / Fayette Counties)",
     type: "state house district",
     incumbentName: "Levi P. Dean",
     incumbentParty: "Republican",
@@ -3404,8 +3262,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-72",
     name: "Ohio House District 72",
-    city: "Columbus",
-    region: "Columbus Southeast Suburbs (Pickerington)",
     type: "state house district",
     incumbentName: "Heidi Workman",
     incumbentParty: "Republican",
@@ -3452,8 +3308,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-73",
     name: "Ohio House District 73",
-    city: "Columbus",
-    region: "Columbus Southeast (Reynoldsburg / Groveport)",
     type: "state house district",
     incumbentName: "Jeff LaRe",
     incumbentParty: "Republican",
@@ -3500,8 +3354,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-74",
     name: "Ohio House District 74",
-    city: "Columbus",
-    region: "Fairfield County (Lancaster Area)",
     type: "state house district",
     incumbentName: "Bernard Willis",
     incumbentParty: "Republican",
@@ -3548,8 +3400,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-75",
     name: "Ohio House District 75",
-    city: "Toledo",
-    region: "Toledo Eastern Suburbs (Perrysburg / Wood County)",
     type: "state house district",
     incumbentName: "Haraz N. Ghanbari",
     incumbentParty: "Republican",
@@ -3596,8 +3446,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-76",
     name: "Ohio House District 76",
-    city: "Toledo",
-    region: "Defiance / Williams Counties (NW Ohio)",
     type: "state house district",
     incumbentName: "Marilyn S. John",
     incumbentParty: "Republican",
@@ -3644,8 +3492,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-77",
     name: "Ohio House District 77",
-    city: "Toledo",
-    region: "Lima / Allen County",
     type: "state house district",
     incumbentName: "Meredith Craig",
     incumbentParty: "Republican",
@@ -3692,8 +3538,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-78",
     name: "Ohio House District 78",
-    city: "Toledo",
-    region: "Lima / Allen County (Speaker District)",
     type: "state house district",
     incumbentName: "Matt Huffman",
     incumbentParty: "Republican",
@@ -3740,8 +3584,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-79",
     name: "Ohio House District 79",
-    city: "Toledo",
-    region: "Auglaize / Mercer Counties",
     type: "state house district",
     incumbentName: "Monica Robb Blasdel",
     incumbentParty: "Republican",
@@ -3788,8 +3630,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-80",
     name: "Ohio House District 80",
-    city: "Toledo",
-    region: "Putnam / Paulding Counties (Rural NW Ohio)",
     type: "state house district",
     incumbentName: "Johnathan Newman",
     incumbentParty: "Republican",
@@ -3836,8 +3676,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-81",
     name: "Ohio House District 81",
-    city: "Toledo",
-    region: "Fulton / Henry Counties (NW Ohio)",
     type: "state house district",
     incumbentName: "James M. Hoops",
     incumbentParty: "Republican",
@@ -3884,8 +3722,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-82",
     name: "Ohio House District 82",
-    city: "Toledo",
-    region: "Paulding / Van Wert Counties (Rural NW Ohio)",
     type: "state house district",
     incumbentName: "Roy W. Klopfenstein",
     incumbentParty: "Republican",
@@ -3932,8 +3768,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-83",
     name: "Ohio House District 83",
-    city: "Toledo",
-    region: "Sandusky / Erie County",
     type: "state house district",
     incumbentName: "Ty Mathews",
     incumbentParty: "Republican",
@@ -3980,8 +3814,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-84",
     name: "Ohio House District 84",
-    city: "Columbus",
-    region: "Rural SE Ohio (Guernsey / Muskingum)",
     type: "state house district",
     incumbentName: "Angie King",
     incumbentParty: "Republican",
@@ -4028,8 +3860,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-85",
     name: "Ohio House District 85",
-    city: "Toledo",
-    region: "Shelby / Hardin Counties",
     type: "state house district",
     incumbentName: "Tim Barhorst",
     incumbentParty: "Republican",
@@ -4076,8 +3906,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-86",
     name: "Ohio House District 86",
-    city: "Columbus",
-    region: "Marion / Morrow Counties",
     type: "state house district",
     incumbentName: "Tracy Richardson",
     incumbentParty: "Republican",
@@ -4124,8 +3952,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-87",
     name: "Ohio House District 87",
-    city: "Columbus",
-    region: "Rural Central Ohio (Logan / Union Counties)",
     type: "state house district",
     incumbentName: "Riordan T. McClain",
     incumbentParty: "Republican",
@@ -4172,8 +3998,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-88",
     name: "Ohio House District 88",
-    city: "Toledo",
-    region: "Huron / Seneca Counties",
     type: "state house district",
     incumbentName: "Gary Click",
     incumbentParty: "Republican",
@@ -4220,8 +4044,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-89",
     name: "Ohio House District 89",
-    city: "Cleveland",
-    region: "Lorain County (Elyria / Avon)",
     type: "state house district",
     incumbentName: "D.J. Swearingen",
     incumbentParty: "Republican",
@@ -4268,8 +4090,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-90",
     name: "Ohio House District 90",
-    city: "Columbus",
-    region: "Scioto / Pike Counties (Appalachian Ohio)",
     type: "state house district",
     incumbentName: "Justin Pizzulli",
     incumbentParty: "Republican",
@@ -4316,8 +4136,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-91",
     name: "Ohio House District 91",
-    city: "Columbus",
-    region: "Rural SE Ohio (Pickaway / Vinton)",
     type: "state house district",
     incumbentName: "Bob Peterson",
     incumbentParty: "Republican",
@@ -4364,8 +4182,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-92",
     name: "Ohio House District 92",
-    city: "Columbus",
-    region: "Ross / Hocking Counties (Chillicothe Area)",
     type: "state house district",
     incumbentName: "Mark Johnson",
     incumbentParty: "Republican",
@@ -4412,8 +4228,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-93",
     name: "Ohio House District 93",
-    city: "Columbus",
-    region: "Lawrence / Gallia Counties (Appalachian SE Ohio)",
     type: "state house district",
     incumbentName: "Jason Stephens",
     incumbentParty: "Republican",
@@ -4460,8 +4274,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-94",
     name: "Ohio House District 94",
-    city: "Columbus",
-    region: "Athens / Meigs Counties",
     type: "state house district",
     incumbentName: "Kevin Ritter",
     incumbentParty: "Republican",
@@ -4508,8 +4320,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-95",
     name: "Ohio House District 95",
-    city: "Cleveland",
-    region: "Columbiana County / Youngstown SE",
     type: "state house district",
     incumbentName: "Don Jones",
     incumbentParty: "Republican",
@@ -4556,8 +4366,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-96",
     name: "Ohio House District 96",
-    city: "Cleveland",
-    region: "Mahoning / Trumbull Rural North",
     type: "state house district",
     incumbentName: "Ron Ferguson",
     incumbentParty: "Republican",
@@ -4604,8 +4412,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-97",
     name: "Ohio House District 97",
-    city: "Columbus",
-    region: "Knox / Coshocton Counties",
     type: "state house district",
     incumbentName: "Adam P. Holmes",
     incumbentParty: "Republican",
@@ -4652,8 +4458,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-98",
     name: "Ohio House District 98",
-    city: "Columbus",
-    region: "Muskingum / Morgan Counties (Zanesville Area)",
     type: "state house district",
     incumbentName: "Mark Hiner",
     incumbentParty: "Republican",
@@ -4700,8 +4504,6 @@ const DISTRICTS = [
   {
     id: "oh-hd-99",
     name: "Ohio House District 99",
-    city: "Columbus",
-    region: "Portage / Geauga Counties (NE Ohio)",
     type: "state house district",
     incumbentName: "Sarah Fowler Arthur",
     incumbentParty: "Republican",

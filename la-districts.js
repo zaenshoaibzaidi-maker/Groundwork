@@ -10,8 +10,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-1",
     name: "Louisiana House District 1",
-    city: "Oil City",
-    region: "Northwest Louisiana",
     type: "state house district",
     incumbentName: "Danny Mccormick",
     incumbentParty: "Republican",
@@ -57,8 +55,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-2",
     name: "Louisiana House District 2",
-    city: "Shreveport",
-    region: "Northwest Louisiana",
     type: "state house district",
     incumbentName: "Steven Jackson",
     incumbentParty: "Democrat",
@@ -104,8 +100,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-3",
     name: "Louisiana House District 3",
-    city: "Shreveport",
-    region: "Northwest Louisiana",
     type: "state house district",
     incumbentName: "Tammy T. Phelps",
     incumbentParty: "Democrat",
@@ -151,8 +145,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-4",
     name: "Louisiana House District 4",
-    city: "Shreveport",
-    region: "Northwest Louisiana",
     type: "state house district",
     incumbentName: "Joy Walters",
     incumbentParty: "Democrat",
@@ -198,8 +190,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-5",
     name: "Louisiana House District 5",
-    city: "Vivian",
-    region: "Northwest Louisiana",
     type: "state house district",
     incumbentName: "Dennis Bamburg, Jr.",
     incumbentParty: "Republican",
@@ -245,8 +235,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-6",
     name: "Louisiana House District 6",
-    city: "Shreveport",
-    region: "Northwest Louisiana",
     type: "state house district",
     incumbentName: "Michael Melerine",
     incumbentParty: "Republican",
@@ -292,8 +280,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-7",
     name: "Louisiana House District 7",
-    city: "Stonewall",
-    region: "Northwest Louisiana",
     type: "state house district",
     incumbentName: "Larry Bagley",
     incumbentParty: "Republican",
@@ -339,8 +325,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-8",
     name: "Louisiana House District 8",
-    city: "Shreveport",
-    region: "Northwest Louisiana",
     type: "state house district",
     incumbentName: "Raymond J. Crews",
     incumbentParty: "Republican",
@@ -386,8 +370,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-9",
     name: "Louisiana House District 9",
-    city: "Haughton",
-    region: "Northwest Louisiana",
     type: "state house district",
     incumbentName: "Dodie Horton",
     incumbentParty: "Republican",
@@ -433,8 +415,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-10",
     name: "Louisiana House District 10",
-    city: "Minden",
-    region: "Northwest Louisiana",
     type: "state house district",
     incumbentName: "Wayne Mcmahen",
     incumbentParty: "Republican",
@@ -480,8 +460,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-11",
     name: "Louisiana House District 11",
-    city: "Shreveport",
-    region: "Northwest Louisiana",
     type: "state house district",
     incumbentName: "Rashid Armand Young",
     incumbentParty: "Democrat",
@@ -527,8 +505,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-12",
     name: "Louisiana House District 12",
-    city: "Bossier City",
-    region: "Northwest Louisiana",
     type: "state house district",
     incumbentName: "Christopher Turner",
     incumbentParty: "Republican",
@@ -574,8 +550,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-13",
     name: "Louisiana House District 13",
-    city: "Jonesboro",
-    region: "North Louisiana",
     type: "state house district",
     incumbentName: "Jack G. Mcfarland",
     incumbentParty: "Republican",
@@ -621,8 +595,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-14",
     name: "Louisiana House District 14",
-    city: "Monroe",
-    region: "Northeast Louisiana",
     type: "state house district",
     incumbentName: "Michael Charles Echols",
     incumbentParty: "Republican",
@@ -668,8 +640,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-15",
     name: "Louisiana House District 15",
-    city: "West Monroe",
-    region: "Northeast Louisiana",
     type: "state house district",
     incumbentName: "Foy Gadberry",
     incumbentParty: "Republican",
@@ -715,8 +685,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-16",
     name: "Louisiana House District 16",
-    city: "Monroe",
-    region: "Northeast Louisiana",
     type: "state house district",
     incumbentName: "Adrian Fisher",
     incumbentParty: "Democrat",
@@ -762,8 +730,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-17",
     name: "Louisiana House District 17",
-    city: "Monroe",
-    region: "Northeast Louisiana",
     type: "state house district",
     incumbentName: "Patricia \"pat\" Moore",
     incumbentParty: "Democrat",
@@ -809,8 +775,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-18",
     name: "Louisiana House District 18",
-    city: "New Roads",
-    region: "Capital Region",
     type: "state house district",
     incumbentName: "Jeremy S. Lacombe",
     incumbentParty: "Republican",
@@ -856,8 +820,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-19",
     name: "Louisiana House District 19",
-    city: "Delhi",
-    region: "Northeast Louisiana",
     type: "state house district",
     incumbentName: "Francis Thompson",
     incumbentParty: "Republican",
@@ -903,8 +865,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-20",
     name: "Louisiana House District 20",
-    city: "Columbia",
-    region: "North Louisiana",
     type: "state house district",
     incumbentName: "Neil Riser",
     incumbentParty: "Republican",
@@ -950,8 +910,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-21",
     name: "Louisiana House District 21",
-    city: "Bastrop",
-    region: "Northeast Louisiana",
     type: "state house district",
     incumbentName: "C. Travis Johnson",
     incumbentParty: "Democrat",
@@ -997,8 +955,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-22",
     name: "Louisiana House District 22",
-    city: "Colfax",
-    region: "Central Louisiana",
     type: "state house district",
     incumbentName: "Michael \"gabe\" Firment",
     incumbentParty: "Republican",
@@ -1044,8 +1000,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-23",
     name: "Louisiana House District 23",
-    city: "Alexandria",
-    region: "Central Louisiana",
     type: "state house district",
     incumbentName: "Shaun Mena",
     incumbentParty: "Democrat",
@@ -1091,8 +1045,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-24",
     name: "Louisiana House District 24",
-    city: "Pineville",
-    region: "Central Louisiana",
     type: "state house district",
     incumbentName: "Rodney Schamerhorn",
     incumbentParty: "Republican",
@@ -1138,8 +1090,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-25",
     name: "Louisiana House District 25",
-    city: "Natchitoches",
-    region: "Central Louisiana",
     type: "state house district",
     incumbentName: "Jason Dewitt",
     incumbentParty: "Republican",
@@ -1185,8 +1135,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-26",
     name: "Louisiana House District 26",
-    city: "Alexandria",
-    region: "Central Louisiana",
     type: "state house district",
     incumbentName: "Ed Larvadain III",
     incumbentParty: "Democrat",
@@ -1232,8 +1180,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-27",
     name: "Louisiana House District 27",
-    city: "Leesville",
-    region: "Northwest Louisiana",
     type: "state house district",
     incumbentName: "Michael T. Johnson",
     incumbentParty: "Republican",
@@ -1279,8 +1225,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-28",
     name: "Louisiana House District 28",
-    city: "Marksville",
-    region: "Central Louisiana",
     type: "state house district",
     incumbentName: "Daryl Deshotel",
     incumbentParty: "Republican",
@@ -1326,8 +1270,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-29",
     name: "Louisiana House District 29",
-    city: "Plaquemine",
-    region: "Capital Region",
     type: "state house district",
     incumbentName: "Edmond Jordan",
     incumbentParty: "Democrat",
@@ -1373,8 +1315,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-30",
     name: "Louisiana House District 30",
-    city: "Rosepine",
-    region: "Northwest Louisiana",
     type: "state house district",
     incumbentName: "Charles A. Owen",
     incumbentParty: "Republican",
@@ -1420,8 +1360,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-31",
     name: "Louisiana House District 31",
-    city: "New Iberia",
-    region: "Acadiana",
     type: "state house district",
     incumbentName: "Troy Hebert",
     incumbentParty: "Republican",
@@ -1467,8 +1405,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-32",
     name: "Louisiana House District 32",
-    city: "Church Point",
-    region: "Acadiana",
     type: "state house district",
     incumbentName: "R. Dewith Carrier",
     incumbentParty: "Republican",
@@ -1514,8 +1450,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-33",
     name: "Louisiana House District 33",
-    city: "Cameron",
-    region: "Southwest Louisiana",
     type: "state house district",
     incumbentName: "Les Farnum",
     incumbentParty: "Republican",
@@ -1561,8 +1495,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-34",
     name: "Louisiana House District 34",
-    city: "Lake Charles",
-    region: "Southwest Louisiana",
     type: "state house district",
     incumbentName: "Wilford Carter, Sr.",
     incumbentParty: "Democrat",
@@ -1608,8 +1540,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-35",
     name: "Louisiana House District 35",
-    city: "Lake Charles",
-    region: "Southwest Louisiana",
     type: "state house district",
     incumbentName: "Brett F. Geymann",
     incumbentParty: "Republican",
@@ -1655,8 +1585,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-36",
     name: "Louisiana House District 36",
-    city: "Lake Charles",
-    region: "Southwest Louisiana",
     type: "state house district",
     incumbentName: "Phillip Eric Tarver",
     incumbentParty: "Republican",
@@ -1702,8 +1630,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-37",
     name: "Louisiana House District 37",
-    city: "Westlake",
-    region: "Southwest Louisiana",
     type: "state house district",
     incumbentName: "Reese \"skip\" Broussard",
     incumbentParty: "Republican",
@@ -1749,8 +1675,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-38",
     name: "Louisiana House District 38",
-    city: "DeRidder",
-    region: "Southwest Louisiana",
     type: "state house district",
     incumbentName: "Rhonda Gaye Butler",
     incumbentParty: "Republican",
@@ -1796,8 +1720,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-39",
     name: "Louisiana House District 39",
-    city: "Carencro",
-    region: "Acadiana",
     type: "state house district",
     incumbentName: "Julie Emerson",
     incumbentParty: "Republican",
@@ -1843,8 +1765,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-40",
     name: "Louisiana House District 40",
-    city: "Opelousas",
-    region: "Acadiana",
     type: "state house district",
     incumbentName: "Dustin Miller",
     incumbentParty: "Democrat",
@@ -1890,8 +1810,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-41",
     name: "Louisiana House District 41",
-    city: "Eunice",
-    region: "Acadiana",
     type: "state house district",
     incumbentName: "Phillip R. Devillier",
     incumbentParty: "Republican",
@@ -1937,8 +1855,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-42",
     name: "Louisiana House District 42",
-    city: "Sulphur",
-    region: "Southwest Louisiana",
     type: "state house district",
     incumbentName: "Chance Henry",
     incumbentParty: "Republican",
@@ -1984,8 +1900,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-43",
     name: "Louisiana House District 43",
-    city: "Lake Charles",
-    region: "Southwest Louisiana",
     type: "state house district",
     incumbentName: "Josh Carlson",
     incumbentParty: "Republican",
@@ -2031,8 +1945,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-44",
     name: "Louisiana House District 44",
-    city: "Lafayette",
-    region: "Acadiana",
     type: "state house district",
     incumbentName: "Tehmi Chassion",
     incumbentParty: "Democrat",
@@ -2078,8 +1990,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-45",
     name: "Louisiana House District 45",
-    city: "Westlake",
-    region: "Southwest Louisiana",
     type: "state house district",
     incumbentName: "Brach Myers",
     incumbentParty: "Republican",
@@ -2125,8 +2035,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-46",
     name: "Louisiana House District 46",
-    city: "Sulphur",
-    region: "Southwest Louisiana",
     type: "state house district",
     incumbentName: "Chad Michael Boyer",
     incumbentParty: "Republican",
@@ -2172,8 +2080,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-47",
     name: "Louisiana House District 47",
-    city: "Abbeville",
-    region: "Acadiana",
     type: "state house district",
     incumbentName: "Ryan Bourriaque",
     incumbentParty: "Republican",
@@ -2219,8 +2125,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-48",
     name: "Louisiana House District 48",
-    city: "New Iberia",
-    region: "Acadiana",
     type: "state house district",
     incumbentName: "Beau Beaullieu",
     incumbentParty: "Republican",
@@ -2266,8 +2170,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-49",
     name: "Louisiana House District 49",
-    city: "Scott",
-    region: "Acadiana",
     type: "state house district",
     incumbentName: "Jacob Landry",
     incumbentParty: "Republican",
@@ -2313,8 +2215,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-50",
     name: "Louisiana House District 50",
-    city: "Morgan City",
-    region: "Acadiana",
     type: "state house district",
     incumbentName: "Vincent St. Blanc III",
     incumbentParty: "Republican",
@@ -2360,8 +2260,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-51",
     name: "Louisiana House District 51",
-    city: "Houma",
-    region: "Bayou Country",
     type: "state house district",
     incumbentName: "Beryl A. Amedée",
     incumbentParty: "Republican",
@@ -2407,8 +2305,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-52",
     name: "Louisiana House District 52",
-    city: "Houma",
-    region: "Bayou Country",
     type: "state house district",
     incumbentName: "Jerome Zeringue",
     incumbentParty: "Republican",
@@ -2454,8 +2350,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-53",
     name: "Louisiana House District 53",
-    city: "Houma",
-    region: "Bayou Country",
     type: "state house district",
     incumbentName: "Jessica Domangue",
     incumbentParty: "Republican",
@@ -2501,8 +2395,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-54",
     name: "Louisiana House District 54",
-    city: "Larose",
-    region: "Bayou Country",
     type: "state house district",
     incumbentName: "Joseph A. Orgeron",
     incumbentParty: "Republican",
@@ -2548,8 +2440,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-55",
     name: "Louisiana House District 55",
-    city: "Thibodaux",
-    region: "Bayou Country",
     type: "state house district",
     incumbentName: "Bryan Fontenot",
     incumbentParty: "Republican",
@@ -2595,8 +2485,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-56",
     name: "Louisiana House District 56",
-    city: "Gonzales",
-    region: "Capital Region",
     type: "state house district",
     incumbentName: "Beth Anne Billings",
     incumbentParty: "Republican",
@@ -2642,8 +2530,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-57",
     name: "Louisiana House District 57",
-    city: "LaPlace",
-    region: "River Parishes",
     type: "state house district",
     incumbentName: "Sylvia Taylor",
     incumbentParty: "Democrat",
@@ -2689,8 +2575,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-58",
     name: "Louisiana House District 58",
-    city: "Lutcher",
-    region: "River Parishes",
     type: "state house district",
     incumbentName: "Kendricks \"ken\" Brass",
     incumbentParty: "Democrat",
@@ -2736,8 +2620,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-59",
     name: "Louisiana House District 59",
-    city: "Prairieville",
-    region: "Capital Region",
     type: "state house district",
     incumbentName: "Tony Bacala",
     incumbentParty: "Republican",
@@ -2783,8 +2665,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-60",
     name: "Louisiana House District 60",
-    city: "Gonzales",
-    region: "Capital Region",
     type: "state house district",
     incumbentName: "Chasity Martinez",
     incumbentParty: "Democrat",
@@ -2830,8 +2710,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-61",
     name: "Louisiana House District 61",
-    city: "Baton Rouge",
-    region: "Capital Region",
     type: "state house district",
     incumbentName: "C. Denise Marcelle",
     incumbentParty: "Democrat",
@@ -2877,8 +2755,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-62",
     name: "Louisiana House District 62",
-    city: "Baton Rouge",
-    region: "Capital Region",
     type: "state house district",
     incumbentName: "Roy Daryl Adams",
     incumbentParty: "Democrat",
@@ -2924,8 +2800,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-63",
     name: "Louisiana House District 63",
-    city: "Baton Rouge",
-    region: "Capital Region",
     type: "state house district",
     incumbentName: "Barbara West Carpenter",
     incumbentParty: "Democrat",
@@ -2971,8 +2845,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-64",
     name: "Louisiana House District 64",
-    city: "Central",
-    region: "Capital Region",
     type: "state house district",
     incumbentName: "Kellee Hennessy Dickerson",
     incumbentParty: "Republican",
@@ -3018,8 +2890,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-65",
     name: "Louisiana House District 65",
-    city: "Baton Rouge",
-    region: "Capital Region",
     type: "state house district",
     incumbentName: "Lauren Ventrella",
     incumbentParty: "Republican",
@@ -3065,8 +2935,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-66",
     name: "Louisiana House District 66",
-    city: "Baton Rouge",
-    region: "Capital Region",
     type: "state house district",
     incumbentName: "Emily Chenevert",
     incumbentParty: "Republican",
@@ -3112,8 +2980,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-67",
     name: "Louisiana House District 67",
-    city: "New Iberia",
-    region: "Acadiana",
     type: "state house district",
     incumbentName: "Terry Landry, Jr.",
     incumbentParty: "Democrat",
@@ -3159,8 +3025,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-68",
     name: "Louisiana House District 68",
-    city: "Baton Rouge",
-    region: "Capital Region",
     type: "state house district",
     incumbentName: "Dixon Mcmakin",
     incumbentParty: "Republican",
@@ -3206,8 +3070,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-69",
     name: "Louisiana House District 69",
-    city: "Zachary",
-    region: "Capital Region",
     type: "state house district",
     incumbentName: "Paul Sawyer",
     incumbentParty: "Republican",
@@ -3253,8 +3115,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-70",
     name: "Louisiana House District 70",
-    city: "Baton Rouge",
-    region: "Capital Region",
     type: "state house district",
     incumbentName: "Barbara Reich Freiberg",
     incumbentParty: "Republican",
@@ -3300,8 +3160,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-71",
     name: "Louisiana House District 71",
-    city: "Livingston",
-    region: "Florida Parishes",
     type: "state house district",
     incumbentName: "Roger Wilder III",
     incumbentParty: "Republican",
@@ -3347,8 +3205,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-72",
     name: "Louisiana House District 72",
-    city: "Amite",
-    region: "Florida Parishes",
     type: "state house district",
     incumbentName: "Robby Carter",
     incumbentParty: "Democrat",
@@ -3394,8 +3250,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-73",
     name: "Louisiana House District 73",
-    city: "Covington",
-    region: "Northshore",
     type: "state house district",
     incumbentName: "Kimberly Landry Coates",
     incumbentParty: "Republican",
@@ -3441,8 +3295,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-74",
     name: "Louisiana House District 74",
-    city: "Covington",
-    region: "Northshore",
     type: "state house district",
     incumbentName: "Peter Egan",
     incumbentParty: "Republican",
@@ -3488,8 +3340,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-75",
     name: "Louisiana House District 75",
-    city: "Franklinton",
-    region: "Florida Parishes",
     type: "state house district",
     incumbentName: "John Wyble",
     incumbentParty: "Republican",
@@ -3535,8 +3385,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-76",
     name: "Louisiana House District 76",
-    city: "Mandeville",
-    region: "Northshore",
     type: "state house district",
     incumbentName: "Stephanie Hunter Berault",
     incumbentParty: "Republican",
@@ -3582,8 +3430,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-77",
     name: "Louisiana House District 77",
-    city: "Covington",
-    region: "Northshore",
     type: "state house district",
     incumbentName: "Mark Wright",
     incumbentParty: "Republican",
@@ -3629,8 +3475,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-78",
     name: "Louisiana House District 78",
-    city: "Metairie",
-    region: "New Orleans Metro",
     type: "state house district",
     incumbentName: "John R. Illg, Jr.",
     incumbentParty: "Republican",
@@ -3676,8 +3520,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-79",
     name: "Louisiana House District 79",
-    city: "Kenner",
-    region: "New Orleans Metro",
     type: "state house district",
     incumbentName: "Debbie Villio",
     incumbentParty: "Republican",
@@ -3723,8 +3565,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-80",
     name: "Louisiana House District 80",
-    city: "Metairie",
-    region: "New Orleans Metro",
     type: "state house district",
     incumbentName: "Polly Thomas",
     incumbentParty: "Republican",
@@ -3770,8 +3610,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-81",
     name: "Louisiana House District 81",
-    city: "Metairie",
-    region: "New Orleans Metro",
     type: "state house district",
     incumbentName: "Jeffrey F. Jeff Wiley",
     incumbentParty: "Republican",
@@ -3817,8 +3655,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-82",
     name: "Louisiana House District 82",
-    city: "Metairie",
-    region: "New Orleans Metro",
     type: "state house district",
     incumbentName: "Laurie Schlegel",
     incumbentParty: "Republican",
@@ -3864,8 +3700,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-83",
     name: "Louisiana House District 83",
-    city: "Marrero",
-    region: "New Orleans Metro",
     type: "state house district",
     incumbentName: "Kyle M. Green, Jr.",
     incumbentParty: "Democrat",
@@ -3911,8 +3745,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-84",
     name: "Louisiana House District 84",
-    city: "Westwego",
-    region: "New Orleans Metro",
     type: "state house district",
     incumbentName: "Timothy P. Kerner",
     incumbentParty: "Republican",
@@ -3958,8 +3790,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-85",
     name: "Louisiana House District 85",
-    city: "Slidell",
-    region: "Northshore",
     type: "state house district",
     incumbentName: "Vincent E. Cox III",
     incumbentParty: "Republican",
@@ -4005,8 +3835,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-86",
     name: "Louisiana House District 86",
-    city: "Harvey",
-    region: "New Orleans Metro",
     type: "state house district",
     incumbentName: "Nicholas Muscarello, Jr.",
     incumbentParty: "Republican",
@@ -4052,8 +3880,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-87",
     name: "Louisiana House District 87",
-    city: "Harvey",
-    region: "New Orleans Metro",
     type: "state house district",
     incumbentName: "Rodney Lyons, Sr.",
     incumbentParty: "Democrat",
@@ -4099,8 +3925,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-88",
     name: "Louisiana House District 88",
-    city: "Gonzales",
-    region: "Capital Region",
     type: "state house district",
     incumbentName: "Kathy Edmonston",
     incumbentParty: "Republican",
@@ -4146,8 +3970,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-89",
     name: "Louisiana House District 89",
-    city: "Metairie",
-    region: "New Orleans Metro",
     type: "state house district",
     incumbentName: "Kim Carver",
     incumbentParty: "Republican",
@@ -4193,8 +4015,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-90",
     name: "Louisiana House District 90",
-    city: "Madisonville",
-    region: "Northshore",
     type: "state house district",
     incumbentName: "Brian Glorioso",
     incumbentParty: "Republican",
@@ -4240,8 +4060,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-91",
     name: "Louisiana House District 91",
-    city: "New Orleans",
-    region: "New Orleans",
     type: "state house district",
     incumbentName: "Mandie Landry",
     incumbentParty: "Democrat",
@@ -4287,8 +4105,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-92",
     name: "Louisiana House District 92",
-    city: "Kenner",
-    region: "New Orleans Metro",
     type: "state house district",
     incumbentName: "Joe Stagni",
     incumbentParty: "Republican",
@@ -4334,8 +4150,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-93",
     name: "Louisiana House District 93",
-    city: "New Orleans",
-    region: "New Orleans",
     type: "state house district",
     incumbentName: "Alonzo L. Knox",
     incumbentParty: "Democrat",
@@ -4381,8 +4195,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-94",
     name: "Louisiana House District 94",
-    city: "New Orleans",
-    region: "New Orleans",
     type: "state house district",
     incumbentName: "Stephanie Hilferty",
     incumbentParty: "Republican",
@@ -4428,8 +4240,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-95",
     name: "Louisiana House District 95",
-    city: "Mandeville",
-    region: "Northshore",
     type: "state house district",
     incumbentName: "Shane Mack",
     incumbentParty: "Republican",
@@ -4475,8 +4285,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-96",
     name: "Louisiana House District 96",
-    city: "New Orleans",
-    region: "New Orleans",
     type: "state house district",
     incumbentName: "Marcus Anthony Bryant",
     incumbentParty: "Democrat",
@@ -4522,8 +4330,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-97",
     name: "Louisiana House District 97",
-    city: "New Orleans",
-    region: "New Orleans",
     type: "state house district",
     incumbentName: "Ed Murray",
     incumbentParty: "Democrat",
@@ -4569,8 +4375,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-98",
     name: "Louisiana House District 98",
-    city: "New Orleans",
-    region: "New Orleans",
     type: "state house district",
     incumbentName: "Aimee Adatto Freeman",
     incumbentParty: "Democrat",
@@ -4616,8 +4420,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-99",
     name: "Louisiana House District 99",
-    city: "New Orleans",
-    region: "New Orleans",
     type: "state house district",
     incumbentName: "Candace N. Newell",
     incumbentParty: "Democrat",
@@ -4663,8 +4465,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-100",
     name: "Louisiana House District 100",
-    city: "New Orleans",
-    region: "New Orleans",
     type: "state house district",
     incumbentName: "Dana Henry",
     incumbentParty: "Democrat",
@@ -4710,8 +4510,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-101",
     name: "Louisiana House District 101",
-    city: "New Orleans",
-    region: "New Orleans",
     type: "state house district",
     incumbentName: "Vanessa Caston Lafleur",
     incumbentParty: "Democrat",
@@ -4757,8 +4555,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-102",
     name: "Louisiana House District 102",
-    city: "New Orleans",
-    region: "New Orleans",
     type: "state house district",
     incumbentName: "Delisha Boyd",
     incumbentParty: "Democrat",
@@ -4804,8 +4600,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-103",
     name: "Louisiana House District 103",
-    city: "Belle Chasse",
-    region: "Plaquemines",
     type: "state house district",
     incumbentName: "Mike Bayham",
     incumbentParty: "Republican",
@@ -4851,8 +4645,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-104",
     name: "Louisiana House District 104",
-    city: "Slidell",
-    region: "Northshore",
     type: "state house district",
     incumbentName: "Jay Gallé",
     incumbentParty: "Republican",
@@ -4898,8 +4690,6 @@ const LA_HOUSE_DISTRICTS = [
   {
     id: "la-hd-105",
     name: "Louisiana House District 105",
-    city: "Chalmette",
-    region: "New Orleans Metro",
     type: "state house district",
     incumbentName: "Jacob Braud",
     incumbentParty: "Republican",
@@ -4948,8 +4738,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-1",
     name: "Louisiana Senate District 1",
-    city: "Hammond",
-    region: "Florida Parishes",
     type: "state senate district",
     incumbentName: "Robert Bob Owen",
     incumbentParty: "Republican",
@@ -4995,8 +4783,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-2",
     name: "Louisiana Senate District 2",
-    city: "Gonzales",
-    region: "Capital Region",
     type: "state senate district",
     incumbentName: "Edward Ed Price",
     incumbentParty: "Democrat",
@@ -5042,8 +4828,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-3",
     name: "Louisiana Senate District 3",
-    city: "New Orleans",
-    region: "New Orleans",
     type: "state senate district",
     incumbentName: "Sidney Barthelemy II",
     incumbentParty: "Democrat",
@@ -5089,8 +4873,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-4",
     name: "Louisiana Senate District 4",
-    city: "New Orleans",
-    region: "New Orleans",
     type: "state senate district",
     incumbentName: "Jimmy Harris",
     incumbentParty: "Democrat",
@@ -5136,8 +4918,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-5",
     name: "Louisiana Senate District 5",
-    city: "New Orleans",
-    region: "New Orleans",
     type: "state senate district",
     incumbentName: "Royce Duplessis",
     incumbentParty: "Democrat",
@@ -5183,8 +4963,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-6",
     name: "Louisiana Senate District 6",
-    city: "Baton Rouge",
-    region: "Capital Region",
     type: "state senate district",
     incumbentName: "Rick Edmonds",
     incumbentParty: "Republican",
@@ -5230,8 +5008,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-7",
     name: "Louisiana Senate District 7",
-    city: "New Orleans",
-    region: "New Orleans",
     type: "state senate district",
     incumbentName: "Gary M. Carter, Jr.",
     incumbentParty: "Democrat",
@@ -5277,8 +5053,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-8",
     name: "Louisiana Senate District 8",
-    city: "Marrero",
-    region: "New Orleans Metro",
     type: "state senate district",
     incumbentName: "Patrick Connick",
     incumbentParty: "Republican",
@@ -5324,8 +5098,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-9",
     name: "Louisiana Senate District 9",
-    city: "Metairie",
-    region: "New Orleans Metro",
     type: "state senate district",
     incumbentName: "J. Cameron Henry, Jr.",
     incumbentParty: "Republican",
@@ -5371,8 +5143,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-10",
     name: "Louisiana Senate District 10",
-    city: "River Ridge",
-    region: "New Orleans Metro",
     type: "state senate district",
     incumbentName: "Kirk Talbot",
     incumbentParty: "Republican",
@@ -5418,8 +5188,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-11",
     name: "Louisiana Senate District 11",
-    city: "Covington",
-    region: "Northshore",
     type: "state senate district",
     incumbentName: "Patrick Mcmath",
     incumbentParty: "Republican",
@@ -5465,8 +5233,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-12",
     name: "Louisiana Senate District 12",
-    city: "Franklinton",
-    region: "Florida Parishes",
     type: "state senate district",
     incumbentName: "Beth Mizell",
     incumbentParty: "Republican",
@@ -5512,8 +5278,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-13",
     name: "Louisiana Senate District 13",
-    city: "Denham Springs",
-    region: "Capital Region",
     type: "state senate district",
     incumbentName: "Valarie Hodges",
     incumbentParty: "Republican",
@@ -5559,8 +5323,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-14",
     name: "Louisiana Senate District 14",
-    city: "Monroe",
-    region: "Northeast Louisiana",
     type: "state senate district",
     incumbentName: "Larry Selders",
     incumbentParty: "Democrat",
@@ -5606,8 +5368,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-15",
     name: "Louisiana Senate District 15",
-    city: "Baton Rouge",
-    region: "Capital Region",
     type: "state senate district",
     incumbentName: "Regina Ashford Barrow",
     incumbentParty: "Democrat",
@@ -5653,8 +5413,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-16",
     name: "Louisiana Senate District 16",
-    city: "Baton Rouge",
-    region: "Capital Region",
     type: "state senate district",
     incumbentName: "Franklin J. Foil",
     incumbentParty: "Republican",
@@ -5700,8 +5458,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-17",
     name: "Louisiana Senate District 17",
-    city: "Baton Rouge",
-    region: "Capital Region",
     type: "state senate district",
     incumbentName: "Caleb Seth Kleinpeter",
     incumbentParty: "Republican",
@@ -5747,8 +5503,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-18",
     name: "Louisiana Senate District 18",
-    city: "Gonzales",
-    region: "Capital Region",
     type: "state senate district",
     incumbentName: "Eddie J. Lambert",
     incumbentParty: "Republican",
@@ -5794,8 +5548,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-19",
     name: "Louisiana Senate District 19",
-    city: "Houma",
-    region: "Bayou Country",
     type: "state senate district",
     incumbentName: "Gregory A. Miller",
     incumbentParty: "Republican",
@@ -5841,8 +5593,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-20",
     name: "Louisiana Senate District 20",
-    city: "Houma",
-    region: "Bayou Country",
     type: "state senate district",
     incumbentName: "Michael Big Mike Fesi",
     incumbentParty: "Republican",
@@ -5888,8 +5638,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-21",
     name: "Louisiana Senate District 21",
-    city: "Jeanerette",
-    region: "Acadiana",
     type: "state senate district",
     incumbentName: "Robert Allain",
     incumbentParty: "Republican",
@@ -5935,8 +5683,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-22",
     name: "Louisiana Senate District 22",
-    city: "Erath",
-    region: "Acadiana",
     type: "state senate district",
     incumbentName: "Blake Miguez",
     incumbentParty: "Republican",
@@ -5982,8 +5728,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-23",
     name: "Louisiana Senate District 23",
-    city: "Lake Charles",
-    region: "Southwest Louisiana",
     type: "state senate district",
     incumbentName: "Brach Jerad Myers",
     incumbentParty: "Republican",
@@ -6029,8 +5773,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-24",
     name: "Louisiana Senate District 24",
-    city: "Lafayette",
-    region: "Acadiana",
     type: "state senate district",
     incumbentName: "Gerald Boudreaux",
     incumbentParty: "Democrat",
@@ -6076,8 +5818,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-25",
     name: "Louisiana Senate District 25",
-    city: "Lake Charles",
-    region: "Southwest Louisiana",
     type: "state senate district",
     incumbentName: "Mark Abraham",
     incumbentParty: "Republican",
@@ -6123,8 +5863,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-26",
     name: "Louisiana Senate District 26",
-    city: "Abbeville",
-    region: "Acadiana",
     type: "state senate district",
     incumbentName: "Bob Hensgens",
     incumbentParty: "Republican",
@@ -6170,8 +5908,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-27",
     name: "Louisiana Senate District 27",
-    city: "Lake Charles",
-    region: "Southwest Louisiana",
     type: "state senate district",
     incumbentName: "Jeremy P. Stine",
     incumbentParty: "Republican",
@@ -6217,8 +5953,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-28",
     name: "Louisiana Senate District 28",
-    city: "Natchitoches",
-    region: "Central Louisiana",
     type: "state senate district",
     incumbentName: "Heather Miley Cloud",
     incumbentParty: "Republican",
@@ -6264,8 +5998,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-29",
     name: "Louisiana Senate District 29",
-    city: "Alexandria",
-    region: "Central Louisiana",
     type: "state senate district",
     incumbentName: "W. Jay Luneau",
     incumbentParty: "Democrat",
@@ -6311,8 +6043,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-30",
     name: "Louisiana Senate District 30",
-    city: "Leesville",
-    region: "Northwest Louisiana",
     type: "state senate district",
     incumbentName: "Mike Reese",
     incumbentParty: "Republican",
@@ -6358,8 +6088,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-31",
     name: "Louisiana Senate District 31",
-    city: "Shreveport",
-    region: "Northwest Louisiana",
     type: "state senate district",
     incumbentName: "Alan Seabaugh",
     incumbentParty: "Republican",
@@ -6405,8 +6133,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-32",
     name: "Louisiana Senate District 32",
-    city: "Ruston",
-    region: "North Louisiana",
     type: "state senate district",
     incumbentName: "Glen Womack",
     incumbentParty: "Republican",
@@ -6452,8 +6178,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-33",
     name: "Louisiana Senate District 33",
-    city: "Monroe",
-    region: "Northeast Louisiana",
     type: "state senate district",
     incumbentName: "Stewart Cathey, Jr.",
     incumbentParty: "Republican",
@@ -6499,8 +6223,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-34",
     name: "Louisiana Senate District 34",
-    city: "Monroe",
-    region: "Northeast Louisiana",
     type: "state senate district",
     incumbentName: "Katrina Jackson",
     incumbentParty: "Democrat",
@@ -6546,8 +6268,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-35",
     name: "Louisiana Senate District 35",
-    city: "West Monroe",
-    region: "Northeast Louisiana",
     type: "state senate district",
     incumbentName: "John C. \"jay\" Morris III",
     incumbentParty: "Republican",
@@ -6593,8 +6313,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-36",
     name: "Louisiana Senate District 36",
-    city: "Bastrop",
-    region: "Northeast Louisiana",
     type: "state senate district",
     incumbentName: "Adam Bass",
     incumbentParty: "Republican",
@@ -6640,8 +6358,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-37",
     name: "Louisiana Senate District 37",
-    city: "Many",
-    region: "Northwest Louisiana",
     type: "state senate district",
     incumbentName: "Bill Wheat",
     incumbentParty: "Republican",
@@ -6687,8 +6403,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-38",
     name: "Louisiana Senate District 38",
-    city: "Shreveport",
-    region: "Northwest Louisiana",
     type: "state senate district",
     incumbentName: "Thomas A. Pressly",
     incumbentParty: "Republican",
@@ -6734,8 +6448,6 @@ const LA_SENATE_DISTRICTS = [
   {
     id: "la-sd-39",
     name: "Louisiana Senate District 39",
-    city: "Shreveport",
-    region: "Northwest Louisiana",
     type: "state senate district",
     incumbentName: "Samuel L. Sam Jenkins, Jr.",
     incumbentParty: "Democrat",

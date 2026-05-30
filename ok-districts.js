@@ -10,8 +10,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-1",
     name: "Oklahoma House District 1",
-    city: "Grove",
-    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Eddy Dempsey",
     incumbentParty: "Republican",
@@ -56,8 +54,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-2",
     name: "Oklahoma House District 2",
-    city: "Miami",
-    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Jim Olsen",
     incumbentParty: "Republican",
@@ -102,8 +98,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-3",
     name: "Oklahoma House District 3",
-    city: "Wagoner",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Rick West",
     incumbentParty: "Republican",
@@ -148,8 +142,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-4",
     name: "Oklahoma House District 4",
-    city: "Tahlequah",
-    region: "Eastern Oklahoma",
     type: "state house district",
     incumbentName: "Bob Ed Culver",
     incumbentParty: "Republican",
@@ -194,8 +186,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-5",
     name: "Oklahoma House District 5",
-    city: "Pryor",
-    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Josh West",
     incumbentParty: "Republican",
@@ -240,8 +230,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-6",
     name: "Oklahoma House District 6",
-    city: "Vinita",
-    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Rusty Cornwell",
     incumbentParty: "Republican",
@@ -286,8 +274,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-7",
     name: "Oklahoma House District 7",
-    city: "Stilwell",
-    region: "Eastern Oklahoma",
     type: "state house district",
     incumbentName: "Steve Bashore",
     incumbentParty: "Republican",
@@ -332,8 +318,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-8",
     name: "Oklahoma House District 8",
-    city: "Inola",
-    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Tom Gann",
     incumbentParty: "Republican",
@@ -378,8 +362,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-9",
     name: "Oklahoma House District 9",
-    city: "Catoosa",
-    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Mark Lepak",
     incumbentParty: "Republican",
@@ -424,8 +406,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-10",
     name: "Oklahoma House District 10",
-    city: "Bartlesville",
-    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Judd Strom",
     incumbentParty: "Republican",
@@ -470,8 +450,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-11",
     name: "Oklahoma House District 11",
-    city: "Owasso",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "John Kane",
     incumbentParty: "Republican",
@@ -516,8 +494,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-12",
     name: "Oklahoma House District 12",
-    city: "Nowata",
-    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Mark Chapman",
     incumbentParty: "Republican",
@@ -562,8 +538,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-13",
     name: "Oklahoma House District 13",
-    city: "Muskogee",
-    region: "Eastern Oklahoma",
     type: "state house district",
     incumbentName: "Neil Hays",
     incumbentParty: "Republican",
@@ -608,8 +582,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-14",
     name: "Oklahoma House District 14",
-    city: "Checotah",
-    region: "Eastern Oklahoma",
     type: "state house district",
     incumbentName: "Chris Sneed",
     incumbentParty: "Republican",
@@ -654,8 +626,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-15",
     name: "Oklahoma House District 15",
-    city: "Okmulgee",
-    region: "Eastern Oklahoma",
     type: "state house district",
     incumbentName: "Tim Turner",
     incumbentParty: "Republican",
@@ -700,8 +670,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-16",
     name: "Oklahoma House District 16",
-    city: "Wilburton",
-    region: "Eastern Oklahoma",
     type: "state house district",
     incumbentName: "Scott Fetgatter",
     incumbentParty: "Republican",
@@ -746,8 +714,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-17",
     name: "Oklahoma House District 17",
-    city: "Antlers",
-    region: "Southeastern Oklahoma",
     type: "state house district",
     incumbentName: "Jim Grego",
     incumbentParty: "Republican",
@@ -792,8 +758,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-18",
     name: "Oklahoma House District 18",
-    city: "Durant",
-    region: "Southeastern Oklahoma",
     type: "state house district",
     incumbentName: "David Smith",
     incumbentParty: "Republican",
@@ -838,8 +802,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-19",
     name: "Oklahoma House District 19",
-    city: "Idabel",
-    region: "Southeastern Oklahoma",
     type: "state house district",
     incumbentName: "Justin Humphrey",
     incumbentParty: "Republican",
@@ -884,8 +846,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-20",
     name: "Oklahoma House District 20",
-    city: "Jenks",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Jonathan Wilk",
     incumbentParty: "Republican",
@@ -930,8 +890,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-21",
     name: "Oklahoma House District 21",
-    city: "Ada",
-    region: "South-Central Oklahoma",
     type: "state house district",
     incumbentName: "Cody Maynard",
     incumbentParty: "Republican",
@@ -976,8 +934,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-22",
     name: "Oklahoma House District 22",
-    city: "McAlester",
-    region: "Southeastern Oklahoma",
     type: "state house district",
     incumbentName: "Ryan Eaves",
     incumbentParty: "Republican",
@@ -1022,8 +978,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-23",
     name: "Oklahoma House District 23",
-    city: "Muskogee",
-    region: "Eastern Oklahoma",
     type: "state house district",
     incumbentName: "Derrick R. Hildebrant",
     incumbentParty: "Republican",
@@ -1068,8 +1022,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-24",
     name: "Oklahoma House District 24",
-    city: "Broken Arrow",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Chris Banning",
     incumbentParty: "Republican",
@@ -1114,8 +1066,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-25",
     name: "Oklahoma House District 25",
-    city: "Sallisaw",
-    region: "Eastern Oklahoma",
     type: "state house district",
     incumbentName: "Ronny Johns",
     incumbentParty: "Republican",
@@ -1160,8 +1110,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-26",
     name: "Oklahoma House District 26",
-    city: "Claremore",
-    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Dell Kerbs",
     incumbentParty: "Republican",
@@ -1206,8 +1154,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-27",
     name: "Oklahoma House District 27",
-    city: "Chouteau",
-    region: "Northeastern Oklahoma",
     type: "state house district",
     incumbentName: "Danny Sterling",
     incumbentParty: "Republican",
@@ -1252,8 +1198,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-28",
     name: "Oklahoma House District 28",
-    city: "Hugo",
-    region: "Southeastern Oklahoma",
     type: "state house district",
     incumbentName: "Danny Williams",
     incumbentParty: "Republican",
@@ -1298,8 +1242,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-29",
     name: "Oklahoma House District 29",
-    city: "Pawnee",
-    region: "North-Central Oklahoma",
     type: "state house district",
     incumbentName: "Kyle Hilbert",
     incumbentParty: "Republican",
@@ -1344,8 +1286,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-30",
     name: "Oklahoma House District 30",
-    city: "Henryetta",
-    region: "Eastern Oklahoma",
     type: "state house district",
     incumbentName: "Mark Lawson",
     incumbentParty: "Republican",
@@ -1390,8 +1330,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-31",
     name: "Oklahoma House District 31",
-    city: "Bixby",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Collin Duel",
     incumbentParty: "Republican",
@@ -1436,8 +1374,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-32",
     name: "Oklahoma House District 32",
-    city: "Tishomingo",
-    region: "South-Central Oklahoma",
     type: "state house district",
     incumbentName: "Jim Shaw",
     incumbentParty: "Republican",
@@ -1482,8 +1418,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-33",
     name: "Oklahoma House District 33",
-    city: "Moore",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Molly Jenkins",
     incumbentParty: "Republican",
@@ -1528,8 +1462,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-34",
     name: "Oklahoma House District 34",
-    city: "Stillwater",
-    region: "North-Central Oklahoma",
     type: "state house district",
     incumbentName: "Trish Ranson",
     incumbentParty: "Democrat",
@@ -1574,8 +1506,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-35",
     name: "Oklahoma House District 35",
-    city: "Pawhuska",
-    region: "North-Central Oklahoma",
     type: "state house district",
     incumbentName: "Dillon Travis",
     incumbentParty: "Republican",
@@ -1620,8 +1550,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-36",
     name: "Oklahoma House District 36",
-    city: "Edmond",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "John George",
     incumbentParty: "Republican",
@@ -1666,8 +1594,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-37",
     name: "Oklahoma House District 37",
-    city: "Guthrie",
-    region: "North-Central Oklahoma",
     type: "state house district",
     incumbentName: "Ken Luttrell",
     incumbentParty: "Republican",
@@ -1712,8 +1638,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-38",
     name: "Oklahoma House District 38",
-    city: "Cushing",
-    region: "North-Central Oklahoma",
     type: "state house district",
     incumbentName: "John Pfeiffer",
     incumbentParty: "Republican",
@@ -1758,8 +1682,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-39",
     name: "Oklahoma House District 39",
-    city: "Edmond",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Erick Harris",
     incumbentParty: "Republican",
@@ -1804,8 +1726,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-40",
     name: "Oklahoma House District 40",
-    city: "Lawton",
-    region: "Southwestern Oklahoma",
     type: "state house district",
     incumbentName: "Chad Caldwell",
     incumbentParty: "Republican",
@@ -1850,8 +1770,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-41",
     name: "Oklahoma House District 41",
-    city: "Edmond",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Denise Crosswhite Hader",
     incumbentParty: "Republican",
@@ -1896,8 +1814,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-42",
     name: "Oklahoma House District 42",
-    city: "Lawton",
-    region: "Southwestern Oklahoma",
     type: "state house district",
     incumbentName: "Cindy Roe",
     incumbentParty: "Republican",
@@ -1942,8 +1858,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-43",
     name: "Oklahoma House District 43",
-    city: "Moore",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Jay W. Steagall",
     incumbentParty: "Republican",
@@ -1988,8 +1902,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-44",
     name: "Oklahoma House District 44",
-    city: "Norman",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Jared Deck",
     incumbentParty: "Democrat",
@@ -2034,8 +1946,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-45",
     name: "Oklahoma House District 45",
-    city: "Norman",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Annie Menz",
     incumbentParty: "Democrat",
@@ -2080,8 +1990,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-46",
     name: "Oklahoma House District 46",
-    city: "Norman",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Jacob Rosecrants",
     incumbentParty: "Democrat",
@@ -2126,8 +2034,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-47",
     name: "Oklahoma House District 47",
-    city: "Edmond",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Brian Hill",
     incumbentParty: "Republican",
@@ -2172,8 +2078,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-48",
     name: "Oklahoma House District 48",
-    city: "Seminole",
-    region: "Central Oklahoma",
     type: "state house district",
     incumbentName: "Tammy Townley",
     incumbentParty: "Republican",
@@ -2218,8 +2122,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-49",
     name: "Oklahoma House District 49",
-    city: "Chickasha",
-    region: "Southwestern Oklahoma",
     type: "state house district",
     incumbentName: "Josh Cantrell",
     incumbentParty: "Republican",
@@ -2264,8 +2166,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-50",
     name: "Oklahoma House District 50",
-    city: "Holdenville",
-    region: "South-Central Oklahoma",
     type: "state house district",
     incumbentName: "Stacy Jo Adams",
     incumbentParty: "Republican",
@@ -2310,8 +2210,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-51",
     name: "Oklahoma House District 51",
-    city: "Alva",
-    region: "Western Oklahoma",
     type: "state house district",
     incumbentName: "Brad Boles",
     incumbentParty: "Republican",
@@ -2356,8 +2254,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-52",
     name: "Oklahoma House District 52",
-    city: "Ponca City",
-    region: "North-Central Oklahoma",
     type: "state house district",
     incumbentName: "Gerrid Kendrix",
     incumbentParty: "Republican",
@@ -2402,8 +2298,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-53",
     name: "Oklahoma House District 53",
-    city: "Yukon",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Jason Blair",
     incumbentParty: "Republican",
@@ -2448,8 +2342,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-54",
     name: "Oklahoma House District 54",
-    city: "Lawton",
-    region: "Southwestern Oklahoma",
     type: "state house district",
     incumbentName: "Kevin West",
     incumbentParty: "Republican",
@@ -2494,8 +2386,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-55",
     name: "Oklahoma House District 55",
-    city: "Elk City",
-    region: "Western Oklahoma",
     type: "state house district",
     incumbentName: "Nick Archer",
     incumbentParty: "Republican",
@@ -2540,8 +2430,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-56",
     name: "Oklahoma House District 56",
-    city: "Drumright",
-    region: "North-Central Oklahoma",
     type: "state house district",
     incumbentName: "Dick Lowe",
     incumbentParty: "Republican",
@@ -2587,8 +2475,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-57",
     name: "Oklahoma House District 57",
-    city: "Weatherford",
-    region: "Western Oklahoma",
     type: "state house district",
     incumbentName: "Anthony Moore",
     incumbentParty: "Republican",
@@ -2634,8 +2520,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-58",
     name: "Oklahoma House District 58",
-    city: "Woodward",
-    region: "Western Oklahoma",
     type: "state house district",
     incumbentName: "Carl Newton",
     incumbentParty: "Republican",
@@ -2681,8 +2565,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-59",
     name: "Oklahoma House District 59",
-    city: "Beaver",
-    region: "Panhandle",
     type: "state house district",
     incumbentName: "Mike Dobrinski",
     incumbentParty: "Republican",
@@ -2728,8 +2610,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-60",
     name: "Oklahoma House District 60",
-    city: "Enid",
-    region: "Northwestern Oklahoma",
     type: "state house district",
     incumbentName: "Mike Kelley",
     incumbentParty: "Republican",
@@ -2774,8 +2654,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-61",
     name: "Oklahoma House District 61",
-    city: "Guymon",
-    region: "Panhandle",
     type: "state house district",
     incumbentName: "Kenton Patzkowsky",
     incumbentParty: "Republican",
@@ -2821,8 +2699,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-62",
     name: "Oklahoma House District 62",
-    city: "Lawton",
-    region: "Southwestern Oklahoma",
     type: "state house district",
     incumbentName: "Daniel Pae",
     incumbentParty: "Republican",
@@ -2868,8 +2744,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-63",
     name: "Oklahoma House District 63",
-    city: "Altus",
-    region: "Southwestern Oklahoma",
     type: "state house district",
     incumbentName: "Trey Caldwell",
     incumbentParty: "Republican",
@@ -2915,8 +2789,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-64",
     name: "Oklahoma House District 64",
-    city: "Lawton",
-    region: "Southwestern Oklahoma",
     type: "state house district",
     incumbentName: "Rande Worthen",
     incumbentParty: "Republican",
@@ -2962,8 +2834,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-65",
     name: "Oklahoma House District 65",
-    city: "Anadarko",
-    region: "Southwestern Oklahoma",
     type: "state house district",
     incumbentName: "Toni Hasenbeck",
     incumbentParty: "Republican",
@@ -3009,8 +2879,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-66",
     name: "Oklahoma House District 66",
-    city: "Collinsville",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Clay Staires",
     incumbentParty: "Republican",
@@ -3055,8 +2923,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-67",
     name: "Oklahoma House District 67",
-    city: "Broken Arrow",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Rob Hall",
     incumbentParty: "Republican",
@@ -3102,8 +2968,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-68",
     name: "Oklahoma House District 68",
-    city: "Tulsa",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Mike Lay",
     incumbentParty: "Republican",
@@ -3149,8 +3013,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-69",
     name: "Oklahoma House District 69",
-    city: "Jenks",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Mark Tedford",
     incumbentParty: "Republican",
@@ -3196,8 +3058,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-70",
     name: "Oklahoma House District 70",
-    city: "Tulsa",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Suzanne E. Schreiber",
     incumbentParty: "Democrat",
@@ -3243,8 +3103,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-71",
     name: "Oklahoma House District 71",
-    city: "Tulsa",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Amanda Clinton",
     incumbentParty: "Democrat",
@@ -3290,8 +3148,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-72",
     name: "Oklahoma House District 72",
-    city: "Tulsa",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Michelle Mccane",
     incumbentParty: "Democrat",
@@ -3337,8 +3193,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-73",
     name: "Oklahoma House District 73",
-    city: "Tulsa",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Ron Stewart",
     incumbentParty: "Democrat",
@@ -3384,8 +3238,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-74",
     name: "Oklahoma House District 74",
-    city: "Broken Arrow",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Mark Vancuren",
     incumbentParty: "Republican",
@@ -3431,8 +3283,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-75",
     name: "Oklahoma House District 75",
-    city: "Tulsa",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "T.j. Marti",
     incumbentParty: "Republican",
@@ -3478,8 +3328,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-76",
     name: "Oklahoma House District 76",
-    city: "Bixby",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Ross Ford",
     incumbentParty: "Republican",
@@ -3525,8 +3373,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-77",
     name: "Oklahoma House District 77",
-    city: "Tulsa",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "John Waldron",
     incumbentParty: "Democrat",
@@ -3572,8 +3418,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-78",
     name: "Oklahoma House District 78",
-    city: "Tulsa",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Meloyde Blancett",
     incumbentParty: "Democrat",
@@ -3619,8 +3463,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-79",
     name: "Oklahoma House District 79",
-    city: "Tulsa",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Melissa Provenzano",
     incumbentParty: "Democrat",
@@ -3666,8 +3508,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-80",
     name: "Oklahoma House District 80",
-    city: "Broken Arrow",
-    region: "Tulsa Metro",
     type: "state house district",
     incumbentName: "Stan May",
     incumbentParty: "Republican",
@@ -3713,8 +3553,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-81",
     name: "Oklahoma House District 81",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Mike Osburn",
     incumbentParty: "Republican",
@@ -3760,8 +3598,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-82",
     name: "Oklahoma House District 82",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Nicole Miller",
     incumbentParty: "Republican",
@@ -3807,8 +3643,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-83",
     name: "Oklahoma House District 83",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Eric Roberts",
     incumbentParty: "Republican",
@@ -3854,8 +3688,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-84",
     name: "Oklahoma House District 84",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Tammy West",
     incumbentParty: "Republican",
@@ -3901,8 +3733,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-85",
     name: "Oklahoma House District 85",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Cyndi Munson",
     incumbentParty: "Democrat",
@@ -3948,8 +3778,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-86",
     name: "Oklahoma House District 86",
-    city: "Shawnee",
-    region: "Central Oklahoma",
     type: "state house district",
     incumbentName: "David Hardin",
     incumbentParty: "Republican",
@@ -3995,8 +3823,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-87",
     name: "Oklahoma House District 87",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Ellyn Hefner",
     incumbentParty: "Democrat",
@@ -4042,8 +3868,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-88",
     name: "Oklahoma House District 88",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Ellen Pogemiller",
     incumbentParty: "Democrat",
@@ -4089,8 +3913,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-89",
     name: "Oklahoma House District 89",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Arturo Alonso Sandoval",
     incumbentParty: "Democrat",
@@ -4136,8 +3958,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-90",
     name: "Oklahoma House District 90",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Emily Gise",
     incumbentParty: "Republican",
@@ -4183,8 +4003,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-91",
     name: "Oklahoma House District 91",
-    city: "Edmond",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Chris Kannady",
     incumbentParty: "Republican",
@@ -4230,8 +4048,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-92",
     name: "Oklahoma House District 92",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Vacant",
     incumbentParty: "TBD",
@@ -4277,8 +4093,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-93",
     name: "Oklahoma House District 93",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Mickey Dollens",
     incumbentParty: "Democrat",
@@ -4324,8 +4138,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-94",
     name: "Oklahoma House District 94",
-    city: "Del City",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Andy Fugate",
     incumbentParty: "Democrat",
@@ -4371,8 +4183,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-95",
     name: "Oklahoma House District 95",
-    city: "Moore",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Max Wolfley",
     incumbentParty: "Republican",
@@ -4418,8 +4228,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-96",
     name: "Oklahoma House District 96",
-    city: "Edmond",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Preston Stinson",
     incumbentParty: "Republican",
@@ -4465,8 +4273,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-97",
     name: "Oklahoma House District 97",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Aletia Timmons",
     incumbentParty: "Democrat",
@@ -4512,8 +4318,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-98",
     name: "Oklahoma House District 98",
-    city: "Yukon",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Gabe Woolley",
     incumbentParty: "Republican",
@@ -4559,8 +4363,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-99",
     name: "Oklahoma House District 99",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Ajay Pittman",
     incumbentParty: "Democrat",
@@ -4606,8 +4408,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-100",
     name: "Oklahoma House District 100",
-    city: "Edmond",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Marilyn Stark",
     incumbentParty: "Republican",
@@ -4653,8 +4453,6 @@ const OK_HOUSE_DISTRICTS = [
   {
     id: "ok-hd-101",
     name: "Oklahoma House District 101",
-    city: "Midwest City",
-    region: "Oklahoma City Metro",
     type: "state house district",
     incumbentName: "Robert Manger",
     incumbentParty: "Republican",
@@ -4703,8 +4501,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-1",
     name: "Oklahoma Senate District 1",
-    city: "Pryor",
-    region: "Northeastern Oklahoma",
     type: "state senate district",
     incumbentName: "Micheal Bergstrom",
     incumbentParty: "Republican",
@@ -4750,8 +4546,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-2",
     name: "Oklahoma Senate District 2",
-    city: "Owasso",
-    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "Ally Seifried",
     incumbentParty: "Republican",
@@ -4797,8 +4591,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-3",
     name: "Oklahoma Senate District 3",
-    city: "Eufaula",
-    region: "Eastern Oklahoma",
     type: "state senate district",
     incumbentName: "Julie Mcintosh",
     incumbentParty: "Republican",
@@ -4844,8 +4636,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-4",
     name: "Oklahoma Senate District 4",
-    city: "Stilwell",
-    region: "Eastern Oklahoma",
     type: "state senate district",
     incumbentName: "Tom Woods",
     incumbentParty: "Republican",
@@ -4891,8 +4681,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-5",
     name: "Oklahoma Senate District 5",
-    city: "Atoka",
-    region: "Southeastern Oklahoma",
     type: "state senate district",
     incumbentName: "George Burns",
     incumbentParty: "Republican",
@@ -4938,8 +4726,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-6",
     name: "Oklahoma Senate District 6",
-    city: "McAlester",
-    region: "Southeastern Oklahoma",
     type: "state senate district",
     incumbentName: "David Bullard",
     incumbentParty: "Republican",
@@ -4985,8 +4771,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-7",
     name: "Oklahoma Senate District 7",
-    city: "Poteau",
-    region: "Southeastern Oklahoma",
     type: "state senate district",
     incumbentName: "Warren D Hamilton",
     incumbentParty: "Republican",
@@ -5032,8 +4816,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-8",
     name: "Oklahoma Senate District 8",
-    city: "Wilburton",
-    region: "Southeastern Oklahoma",
     type: "state senate district",
     incumbentName: "Bryan Logan",
     incumbentParty: "Republican",
@@ -5079,8 +4861,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-9",
     name: "Oklahoma Senate District 9",
-    city: "Muskogee",
-    region: "Eastern Oklahoma",
     type: "state senate district",
     incumbentName: "Avery Frix",
     incumbentParty: "Republican",
@@ -5126,8 +4906,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-10",
     name: "Oklahoma Senate District 10",
-    city: "Shawnee",
-    region: "Central Oklahoma",
     type: "state senate district",
     incumbentName: "Bill Coleman",
     incumbentParty: "Republican",
@@ -5173,8 +4951,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-11",
     name: "Oklahoma Senate District 11",
-    city: "Tulsa",
-    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "Regina Goodwin",
     incumbentParty: "Democrat",
@@ -5220,8 +4996,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-12",
     name: "Oklahoma Senate District 12",
-    city: "Claremore",
-    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "Todd Gollihare",
     incumbentParty: "Republican",
@@ -5267,8 +5041,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-13",
     name: "Oklahoma Senate District 13",
-    city: "Sapulpa",
-    region: "Eastern Oklahoma",
     type: "state senate district",
     incumbentName: "Jonathan Wingard",
     incumbentParty: "Republican",
@@ -5314,8 +5086,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-14",
     name: "Oklahoma Senate District 14",
-    city: "Chandler",
-    region: "Central Oklahoma",
     type: "state senate district",
     incumbentName: "Jerry Alvord",
     incumbentParty: "Republican",
@@ -5361,8 +5131,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-15",
     name: "Oklahoma Senate District 15",
-    city: "Norman",
-    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Lisa Standridge",
     incumbentParty: "Republican",
@@ -5408,8 +5176,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-16",
     name: "Oklahoma Senate District 16",
-    city: "Stillwater",
-    region: "North-Central Oklahoma",
     type: "state senate district",
     incumbentName: "Mary B. Boren",
     incumbentParty: "Democrat",
@@ -5455,8 +5221,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-17",
     name: "Oklahoma Senate District 17",
-    city: "Seminole",
-    region: "Central Oklahoma",
     type: "state senate district",
     incumbentName: "Shane Jett",
     incumbentParty: "Republican",
@@ -5502,8 +5266,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-18",
     name: "Oklahoma Senate District 18",
-    city: "Moore",
-    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Jack Stewart",
     incumbentParty: "Republican",
@@ -5549,8 +5311,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-19",
     name: "Oklahoma Senate District 19",
-    city: "Yukon",
-    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Roland Pederson",
     incumbentParty: "Republican",
@@ -5596,8 +5356,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-20",
     name: "Oklahoma Senate District 20",
-    city: "Guthrie",
-    region: "North-Central Oklahoma",
     type: "state senate district",
     incumbentName: "Chuck Hall",
     incumbentParty: "Republican",
@@ -5643,8 +5401,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-21",
     name: "Oklahoma Senate District 21",
-    city: "Broken Arrow",
-    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "Randy Grellner",
     incumbentParty: "Republican",
@@ -5690,8 +5446,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-22",
     name: "Oklahoma Senate District 22",
-    city: "Edmond",
-    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Kristen Thompson",
     incumbentParty: "Republican",
@@ -5737,8 +5491,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-23",
     name: "Oklahoma Senate District 23",
-    city: "Mustang",
-    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Lonnie Paxton",
     incumbentParty: "Republican",
@@ -5784,8 +5536,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-24",
     name: "Oklahoma Senate District 24",
-    city: "Moore",
-    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Darrell Weaver",
     incumbentParty: "Republican",
@@ -5831,8 +5581,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-25",
     name: "Oklahoma Senate District 25",
-    city: "Edmond",
-    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Brian Guthrie",
     incumbentParty: "Republican",
@@ -5878,8 +5626,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-26",
     name: "Oklahoma Senate District 26",
-    city: "Woodward",
-    region: "Western Oklahoma",
     type: "state senate district",
     incumbentName: "Darcy Allen Jech",
     incumbentParty: "Republican",
@@ -5925,8 +5671,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-27",
     name: "Oklahoma Senate District 27",
-    city: "Perry",
-    region: "North-Central Oklahoma",
     type: "state senate district",
     incumbentName: "Casey Murdock",
     incumbentParty: "Republican",
@@ -5972,8 +5716,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-28",
     name: "Oklahoma Senate District 28",
-    city: "Bartlesville",
-    region: "Northeastern Oklahoma",
     type: "state senate district",
     incumbentName: "Grant Green",
     incumbentParty: "Republican",
@@ -6019,8 +5761,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-29",
     name: "Oklahoma Senate District 29",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Julie Daniels",
     incumbentParty: "Republican",
@@ -6066,8 +5806,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-30",
     name: "Oklahoma Senate District 30",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Julia Kirt",
     incumbentParty: "Democrat",
@@ -6113,8 +5851,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-31",
     name: "Oklahoma Senate District 31",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Spencer Kern",
     incumbentParty: "Republican",
@@ -6160,8 +5896,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-32",
     name: "Oklahoma Senate District 32",
-    city: "Broken Arrow",
-    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "John Michael Montgomery",
     incumbentParty: "Republican",
@@ -6207,8 +5941,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-33",
     name: "Oklahoma Senate District 33",
-    city: "Tulsa",
-    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "Christi Gillespie",
     incumbentParty: "Republican",
@@ -6254,8 +5986,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-34",
     name: "Oklahoma Senate District 34",
-    city: "Tulsa",
-    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "Dana Prieto",
     incumbentParty: "Republican",
@@ -6301,8 +6031,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-35",
     name: "Oklahoma Senate District 35",
-    city: "Tulsa",
-    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "Jo Anna Dossett",
     incumbentParty: "Democrat",
@@ -6348,8 +6076,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-36",
     name: "Oklahoma Senate District 36",
-    city: "Sand Springs",
-    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "John Haste",
     incumbentParty: "Republican",
@@ -6395,8 +6121,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-37",
     name: "Oklahoma Senate District 37",
-    city: "Tulsa",
-    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "Aaron Reinhardt",
     incumbentParty: "Republican",
@@ -6442,8 +6166,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-38",
     name: "Oklahoma Senate District 38",
-    city: "Alva",
-    region: "Western Oklahoma",
     type: "state senate district",
     incumbentName: "Brent Howard",
     incumbentParty: "Republican",
@@ -6489,8 +6211,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-39",
     name: "Oklahoma Senate District 39",
-    city: "Tulsa",
-    region: "Tulsa Metro",
     type: "state senate district",
     incumbentName: "Dave Rader",
     incumbentParty: "Republican",
@@ -6536,8 +6256,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-40",
     name: "Oklahoma Senate District 40",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Carri Hicks",
     incumbentParty: "Democrat",
@@ -6583,8 +6301,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-41",
     name: "Oklahoma Senate District 41",
-    city: "Edmond",
-    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Adam Pugh",
     incumbentParty: "Republican",
@@ -6630,8 +6346,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-42",
     name: "Oklahoma Senate District 42",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Brenda Stanley",
     incumbentParty: "Republican",
@@ -6677,8 +6391,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-43",
     name: "Oklahoma Senate District 43",
-    city: "Ponca City",
-    region: "North-Central Oklahoma",
     type: "state senate district",
     incumbentName: "Kendal Sacchieri",
     incumbentParty: "Republican",
@@ -6724,8 +6436,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-44",
     name: "Oklahoma Senate District 44",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Michael Brooks",
     incumbentParty: "Democrat",
@@ -6771,8 +6481,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-45",
     name: "Oklahoma Senate District 45",
-    city: "Del City",
-    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Paul Rosino",
     incumbentParty: "Republican",
@@ -6818,8 +6526,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-46",
     name: "Oklahoma Senate District 46",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Mark Mann",
     incumbentParty: "Democrat",
@@ -6865,8 +6571,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-47",
     name: "Oklahoma Senate District 47",
-    city: "Norman",
-    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Kelly E. Hines",
     incumbentParty: "Republican",
@@ -6912,8 +6616,6 @@ const OK_SENATE_DISTRICTS = [
   {
     id: "ok-sd-48",
     name: "Oklahoma Senate District 48",
-    city: "Oklahoma City",
-    region: "Oklahoma City Metro",
     type: "state senate district",
     incumbentName: "Nikki Nice",
     incumbentParty: "Democrat",

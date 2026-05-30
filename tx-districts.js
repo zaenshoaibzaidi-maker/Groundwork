@@ -10,8 +10,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-1",
     name: "Texas House District 1",
-    city: "Texarkana",
-    region: "East Texas Piney Woods",
     type: "state house district",
     incumbentName: "Gary Vandeaver",
     incumbentParty: "Republican",
@@ -58,8 +56,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-2",
     name: "Texas House District 2",
-    city: "Greenville",
-    region: "Northeast Texas Farm Country",
     type: "state house district",
     incumbentName: "Brent A. Money",
     incumbentParty: "Republican",
@@ -106,8 +102,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-3",
     name: "Texas House District 3",
-    city: "Magnolia",
-    region: "Houston Exurbs",
     type: "state house district",
     incumbentName: "Cecil Bell JR",
     incumbentParty: "Republican",
@@ -154,8 +148,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-4",
     name: "Texas House District 4",
-    city: "Kaufman",
-    region: "East Dallas Exurbs",
     type: "state house district",
     incumbentName: "Keith Bell",
     incumbentParty: "Republican",
@@ -202,8 +194,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-5",
     name: "Texas House District 5",
-    city: "Mount Pleasant",
-    region: "East Texas Piney Woods",
     type: "state house district",
     incumbentName: "Cole Hefner",
     incumbentParty: "Republican",
@@ -250,8 +240,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-6",
     name: "Texas House District 6",
-    city: "Longview",
-    region: "East Texas",
     type: "state house district",
     incumbentName: "Daniel Alders",
     incumbentParty: "Republican",
@@ -298,8 +286,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-7",
     name: "Texas House District 7",
-    city: "Longview",
-    region: "East Texas",
     type: "state house district",
     incumbentName: "Jay Dean",
     incumbentParty: "Republican",
@@ -346,8 +332,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-8",
     name: "Texas House District 8",
-    city: "Palestine",
-    region: "East Texas",
     type: "state house district",
     incumbentName: "Cody Harris",
     incumbentParty: "Republican",
@@ -394,8 +378,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-9",
     name: "Texas House District 9",
-    city: "Lufkin",
-    region: "Deep East Texas",
     type: "state house district",
     incumbentName: "Trent Ashby",
     incumbentParty: "Republican",
@@ -442,8 +424,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-10",
     name: "Texas House District 10",
-    city: "Midlothian",
-    region: "South Dallas Suburbs",
     type: "state house district",
     incumbentName: "Brian Harrison",
     incumbentParty: "Republican",
@@ -490,8 +470,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-11",
     name: "Texas House District 11",
-    city: "Jacksonville",
-    region: "East Texas",
     type: "state house district",
     incumbentName: "Joanne Shofner",
     incumbentParty: "Republican",
@@ -538,8 +516,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-12",
     name: "Texas House District 12",
-    city: "Huntsville",
-    region: "Sam Houston Country",
     type: "state house district",
     incumbentName: "Trey Wharton",
     incumbentParty: "Republican",
@@ -586,8 +562,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-13",
     name: "Texas House District 13",
-    city: "Hillsboro",
-    region: "Central Texas",
     type: "state house district",
     incumbentName: "Angelia Orr",
     incumbentParty: "Republican",
@@ -634,8 +608,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-14",
     name: "Texas House District 14",
-    city: "Waco",
-    region: "Central Texas",
     type: "state house district",
     incumbentName: "Paul Dyson",
     incumbentParty: "Republican",
@@ -682,8 +654,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-15",
     name: "Texas House District 15",
-    city: "The Woodlands",
-    region: "North Houston Suburbs",
     type: "state house district",
     incumbentName: "Steve Toth",
     incumbentParty: "Republican",
@@ -730,8 +700,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-16",
     name: "Texas House District 16",
-    city: "Conroe",
-    region: "North Houston Suburbs",
     type: "state house district",
     incumbentName: "Will Metcalf",
     incumbentParty: "Republican",
@@ -778,8 +746,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-17",
     name: "Texas House District 17",
-    city: "Bastrop",
-    region: "Austin Exurbs",
     type: "state house district",
     incumbentName: "Stan Gerdes",
     incumbentParty: "Republican",
@@ -826,8 +792,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-18",
     name: "Texas House District 18",
-    city: "Nacogdoches",
-    region: "Deep East Texas",
     type: "state house district",
     incumbentName: "Janis Holt",
     incumbentParty: "Republican",
@@ -874,8 +838,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-19",
     name: "Texas House District 19",
-    city: "Bee Cave",
-    region: "West Austin Suburbs",
     type: "state house district",
     incumbentName: "Ellen Troxclair",
     incumbentParty: "Republican",
@@ -922,8 +884,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-20",
     name: "Texas House District 20",
-    city: "Georgetown",
-    region: "Austin North Suburbs",
     type: "state house district",
     incumbentName: "Terry M. Wilson",
     incumbentParty: "Republican",
@@ -970,8 +930,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-21",
     name: "Texas House District 21",
-    city: "Beaumont",
-    region: "Southeast Texas",
     type: "state house district",
     incumbentName: "Dade Phelan",
     incumbentParty: "Republican",
@@ -1018,8 +976,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-22",
     name: "Texas House District 22",
-    city: "Port Arthur",
-    region: "Southeast Texas",
     type: "state house district",
     incumbentName: "Christian Manuel",
     incumbentParty: "Democrat",
@@ -1066,8 +1022,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-23",
     name: "Texas House District 23",
-    city: "League City",
-    region: "Galveston County",
     type: "state house district",
     incumbentName: "Terri Leo Wilson",
     incumbentParty: "Republican",
@@ -1114,8 +1068,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-24",
     name: "Texas House District 24",
-    city: "Friendswood",
-    region: "Southeast Houston",
     type: "state house district",
     incumbentName: "Greg Bonnen",
     incumbentParty: "Republican",
@@ -1162,8 +1114,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-25",
     name: "Texas House District 25",
-    city: "Angleton",
-    region: "Brazoria County",
     type: "state house district",
     incumbentName: "Cody Thane Vasut",
     incumbentParty: "Republican",
@@ -1210,8 +1160,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-26",
     name: "Texas House District 26",
-    city: "Sugar Land",
-    region: "Fort Bend County",
     type: "state house district",
     incumbentName: "Matt Morgan",
     incumbentParty: "Republican",
@@ -1258,8 +1206,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-27",
     name: "Texas House District 27",
-    city: "Missouri City",
-    region: "Fort Bend County",
     type: "state house district",
     incumbentName: "Ronald Reynolds",
     incumbentParty: "Democrat",
@@ -1306,8 +1252,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-28",
     name: "Texas House District 28",
-    city: "Richmond",
-    region: "Fort Bend County",
     type: "state house district",
     incumbentName: "Gary Gates",
     incumbentParty: "Republican",
@@ -1354,8 +1298,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-29",
     name: "Texas House District 29",
-    city: "Pearland",
-    region: "Southeast Houston Suburbs",
     type: "state house district",
     incumbentName: "Jeffrey Barry",
     incumbentParty: "Republican",
@@ -1402,8 +1344,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-30",
     name: "Texas House District 30",
-    city: "Victoria",
-    region: "Gulf Coast",
     type: "state house district",
     incumbentName: "Aj Louderback",
     incumbentParty: "Republican",
@@ -1450,8 +1390,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-31",
     name: "Texas House District 31",
-    city: "Rio Grande City",
-    region: "Rio Grande Valley",
     type: "state house district",
     incumbentName: "Ryan Guillen",
     incumbentParty: "Republican",
@@ -1498,8 +1436,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-32",
     name: "Texas House District 32",
-    city: "Corpus Christi",
-    region: "Coastal Bend",
     type: "state house district",
     incumbentName: "Todd Hunter",
     incumbentParty: "Republican",
@@ -1546,8 +1482,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-33",
     name: "Texas House District 33",
-    city: "Allen",
-    region: "North Dallas Suburbs",
     type: "state house district",
     incumbentName: "Katrina Pierson",
     incumbentParty: "Republican",
@@ -1594,8 +1528,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-34",
     name: "Texas House District 34",
-    city: "Mission",
-    region: "Rio Grande Valley",
     type: "state house district",
     incumbentName: "Denise Villalobos",
     incumbentParty: "Republican",
@@ -1642,8 +1574,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-35",
     name: "Texas House District 35",
-    city: "Mission",
-    region: "Rio Grande Valley",
     type: "state house district",
     incumbentName: "Oscar Longoria",
     incumbentParty: "Democrat",
@@ -1690,8 +1620,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-36",
     name: "Texas House District 36",
-    city: "Mission",
-    region: "Rio Grande Valley",
     type: "state house district",
     incumbentName: "Sergio Muñoz JR",
     incumbentParty: "Democrat",
@@ -1738,8 +1666,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-37",
     name: "Texas House District 37",
-    city: "San Benito",
-    region: "Rio Grande Valley",
     type: "state house district",
     incumbentName: "Janie Lopez",
     incumbentParty: "Republican",
@@ -1786,8 +1712,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-38",
     name: "Texas House District 38",
-    city: "Brownsville",
-    region: "Rio Grande Valley",
     type: "state house district",
     incumbentName: "Erin Elizabeth Gamez",
     incumbentParty: "Democrat",
@@ -1834,8 +1758,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-39",
     name: "Texas House District 39",
-    city: "Weslaco",
-    region: "Rio Grande Valley",
     type: "state house district",
     incumbentName: "Armando \"mando\" Martinez",
     incumbentParty: "Democrat",
@@ -1882,8 +1804,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-40",
     name: "Texas House District 40",
-    city: "Edinburg",
-    region: "Rio Grande Valley",
     type: "state house district",
     incumbentName: "Terry Canales",
     incumbentParty: "Democrat",
@@ -1930,8 +1850,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-41",
     name: "Texas House District 41",
-    city: "McAllen",
-    region: "Rio Grande Valley",
     type: "state house district",
     incumbentName: "Bobby Guerra",
     incumbentParty: "Democrat",
@@ -1978,8 +1896,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-42",
     name: "Texas House District 42",
-    city: "Laredo",
-    region: "South Texas Border",
     type: "state house district",
     incumbentName: "Richard Pena Raymond",
     incumbentParty: "Democrat",
@@ -2026,8 +1942,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-43",
     name: "Texas House District 43",
-    city: "Kingsville",
-    region: "Coastal Bend",
     type: "state house district",
     incumbentName: "J.m. Lozano",
     incumbentParty: "Republican",
@@ -2074,8 +1988,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-44",
     name: "Texas House District 44",
-    city: "Corpus Christi",
-    region: "Coastal Bend",
     type: "state house district",
     incumbentName: "Alan Schoolcraft",
     incumbentParty: "Republican",
@@ -2122,8 +2034,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-45",
     name: "Texas House District 45",
-    city: "Wimberley",
-    region: "Hays County",
     type: "state house district",
     incumbentName: "Erin Zwiener",
     incumbentParty: "Democrat",
@@ -2170,8 +2080,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-46",
     name: "Texas House District 46",
-    city: "Austin",
-    region: "Austin East Side",
     type: "state house district",
     incumbentName: "Sheryl Cole",
     incumbentParty: "Democrat",
@@ -2218,8 +2126,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-47",
     name: "Texas House District 47",
-    city: "Austin",
-    region: "West Austin",
     type: "state house district",
     incumbentName: "Vikki Goodwin",
     incumbentParty: "Democrat",
@@ -2266,8 +2172,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-48",
     name: "Texas House District 48",
-    city: "Austin",
-    region: "Central Austin",
     type: "state house district",
     incumbentName: "Donna Howard",
     incumbentParty: "Democrat",
@@ -2314,8 +2218,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-49",
     name: "Texas House District 49",
-    city: "Austin",
-    region: "University of Texas Area",
     type: "state house district",
     incumbentName: "Gina Hinojosa",
     incumbentParty: "Democrat",
@@ -2362,8 +2264,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-50",
     name: "Texas House District 50",
-    city: "Austin",
-    region: "East Austin",
     type: "state house district",
     incumbentName: "James Talarico",
     incumbentParty: "Democrat",
@@ -2410,8 +2310,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-51",
     name: "Texas House District 51",
-    city: "Austin",
-    region: "East Austin",
     type: "state house district",
     incumbentName: "Maria Luisa \"lulu\" Flores",
     incumbentParty: "Democrat",
@@ -2458,8 +2356,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-52",
     name: "Texas House District 52",
-    city: "Round Rock",
-    region: "Austin North Suburbs",
     type: "state house district",
     incumbentName: "Caroline Harris Davila",
     incumbentParty: "Republican",
@@ -2506,8 +2402,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-53",
     name: "Texas House District 53",
-    city: "Kerrville",
-    region: "Hill Country",
     type: "state house district",
     incumbentName: "Wes Virdell",
     incumbentParty: "Republican",
@@ -2554,8 +2448,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-54",
     name: "Texas House District 54",
-    city: "Killeen",
-    region: "Fort Cavazos Area",
     type: "state house district",
     incumbentName: "Brad Buckley",
     incumbentParty: "Republican",
@@ -2602,8 +2494,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-55",
     name: "Texas House District 55",
-    city: "Temple",
-    region: "Central Texas",
     type: "state house district",
     incumbentName: "Hillary Hickland",
     incumbentParty: "Republican",
@@ -2650,8 +2540,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-56",
     name: "Texas House District 56",
-    city: "Waco",
-    region: "Central Texas",
     type: "state house district",
     incumbentName: "Pat Curry",
     incumbentParty: "Republican",
@@ -2698,8 +2586,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-57",
     name: "Texas House District 57",
-    city: "Colleyville",
-    region: "DFW Suburbs",
     type: "state house district",
     incumbentName: "Richard Hayes",
     incumbentParty: "Republican",
@@ -2746,8 +2632,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-58",
     name: "Texas House District 58",
-    city: "Granbury",
-    region: "North Texas",
     type: "state house district",
     incumbentName: "Helen Kerwin",
     incumbentParty: "Republican",
@@ -2794,8 +2678,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-59",
     name: "Texas House District 59",
-    city: "Stephenville",
-    region: "Central Texas Ranch Country",
     type: "state house district",
     incumbentName: "Shelby Slawson",
     incumbentParty: "Republican",
@@ -2842,8 +2724,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-60",
     name: "Texas House District 60",
-    city: "Weatherford",
-    region: "Parker County",
     type: "state house district",
     incumbentName: "Mike Olcott",
     incumbentParty: "Republican",
@@ -2890,8 +2770,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-61",
     name: "Texas House District 61",
-    city: "Plano",
-    region: "Collin County",
     type: "state house district",
     incumbentName: "Keresa Richardson",
     incumbentParty: "Republican",
@@ -2938,8 +2816,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-62",
     name: "Texas House District 62",
-    city: "Sherman",
-    region: "Northeast Texas",
     type: "state house district",
     incumbentName: "Shelley Luther",
     incumbentParty: "Republican",
@@ -2986,8 +2862,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-63",
     name: "Texas House District 63",
-    city: "Carrollton",
-    region: "DFW Suburbs",
     type: "state house district",
     incumbentName: "Ben Bumgarner",
     incumbentParty: "Republican",
@@ -3034,8 +2908,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-64",
     name: "Texas House District 64",
-    city: "Cleburne",
-    region: "Johnson County",
     type: "state house district",
     incumbentName: "Andy Hopper",
     incumbentParty: "Republican",
@@ -3082,8 +2954,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-65",
     name: "Texas House District 65",
-    city: "Frisco",
-    region: "Collin County",
     type: "state house district",
     incumbentName: "Mitch Little",
     incumbentParty: "Republican",
@@ -3130,8 +3000,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-66",
     name: "Texas House District 66",
-    city: "Allen",
-    region: "Collin County",
     type: "state house district",
     incumbentName: "Matt Shaheen",
     incumbentParty: "Republican",
@@ -3178,8 +3046,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-67",
     name: "Texas House District 67",
-    city: "Plano",
-    region: "Collin County",
     type: "state house district",
     incumbentName: "Jeff Leach",
     incumbentParty: "Republican",
@@ -3226,8 +3092,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-68",
     name: "Texas House District 68",
-    city: "Jacksboro",
-    region: "North Texas Ranch Country",
     type: "state house district",
     incumbentName: "David Spiller",
     incumbentParty: "Republican",
@@ -3274,8 +3138,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-69",
     name: "Texas House District 69",
-    city: "Wichita Falls",
-    region: "North Texas",
     type: "state house district",
     incumbentName: "James B Frank",
     incumbentParty: "Republican",
@@ -3322,8 +3184,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-70",
     name: "Texas House District 70",
-    city: "Allen",
-    region: "Collin County",
     type: "state house district",
     incumbentName: "Mihaela Elizabeth Plesa",
     incumbentParty: "Democrat",
@@ -3370,8 +3230,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-71",
     name: "Texas House District 71",
-    city: "Abilene",
-    region: "West Texas",
     type: "state house district",
     incumbentName: "Stan Lambert",
     incumbentParty: "Republican",
@@ -3418,8 +3276,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-72",
     name: "Texas House District 72",
-    city: "San Angelo",
-    region: "West Texas",
     type: "state house district",
     incumbentName: "Drew Darby",
     incumbentParty: "Republican",
@@ -3466,8 +3322,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-73",
     name: "Texas House District 73",
-    city: "New Braunfels",
-    region: "Hill Country",
     type: "state house district",
     incumbentName: "Carrie Isaac",
     incumbentParty: "Republican",
@@ -3514,8 +3368,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-74",
     name: "Texas House District 74",
-    city: "Eagle Pass",
-    region: "Southwest Texas",
     type: "state house district",
     incumbentName: "Eddie Morales JR",
     incumbentParty: "Democrat",
@@ -3562,8 +3414,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-75",
     name: "Texas House District 75",
-    city: "Clint",
-    region: "El Paso County Rural",
     type: "state house district",
     incumbentName: "Mary E. Gonzalez",
     incumbentParty: "Democrat",
@@ -3610,8 +3460,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-76",
     name: "Texas House District 76",
-    city: "Sugar Land",
-    region: "Fort Bend County",
     type: "state house district",
     incumbentName: "Suleman Lalani",
     incumbentParty: "Democrat",
@@ -3658,8 +3506,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-77",
     name: "Texas House District 77",
-    city: "El Paso",
-    region: "El Paso",
     type: "state house district",
     incumbentName: "Vincent \"vince\" Perez",
     incumbentParty: "Democrat",
@@ -3706,8 +3552,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-78",
     name: "Texas House District 78",
-    city: "El Paso",
-    region: "El Paso",
     type: "state house district",
     incumbentName: "Joe Moody",
     incumbentParty: "Democrat",
@@ -3754,8 +3598,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-79",
     name: "Texas House District 79",
-    city: "El Paso",
-    region: "El Paso",
     type: "state house district",
     incumbentName: "Claudia Ordaz",
     incumbentParty: "Democrat",
@@ -3802,8 +3644,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-80",
     name: "Texas House District 80",
-    city: "Uvalde",
-    region: "Southwest Texas",
     type: "state house district",
     incumbentName: "Don Mclaughlin JR",
     incumbentParty: "Republican",
@@ -3850,8 +3690,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-81",
     name: "Texas House District 81",
-    city: "Odessa",
-    region: "Permian Basin",
     type: "state house district",
     incumbentName: "Brooks Landgraf",
     incumbentParty: "Republican",
@@ -3898,8 +3736,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-82",
     name: "Texas House District 82",
-    city: "Midland",
-    region: "Permian Basin",
     type: "state house district",
     incumbentName: "Tom Craddick",
     incumbentParty: "Republican",
@@ -3946,8 +3782,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-83",
     name: "Texas House District 83",
-    city: "Lubbock",
-    region: "South Plains",
     type: "state house district",
     incumbentName: "Dustin Burrows",
     incumbentParty: "Republican",
@@ -3994,8 +3828,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-84",
     name: "Texas House District 84",
-    city: "Lubbock",
-    region: "South Plains",
     type: "state house district",
     incumbentName: "Carl H. Tepper",
     incumbentParty: "Republican",
@@ -4042,8 +3874,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-85",
     name: "Texas House District 85",
-    city: "Waller",
-    region: "Houston Exurbs",
     type: "state house district",
     incumbentName: "Stan Kitzman",
     incumbentParty: "Republican",
@@ -4090,8 +3920,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-86",
     name: "Texas House District 86",
-    city: "Amarillo",
-    region: "Texas Panhandle",
     type: "state house district",
     incumbentName: "John Smithee",
     incumbentParty: "Republican",
@@ -4138,8 +3966,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-87",
     name: "Texas House District 87",
-    city: "Amarillo",
-    region: "Texas Panhandle",
     type: "state house district",
     incumbentName: "Caroline Fairly",
     incumbentParty: "Republican",
@@ -4186,8 +4012,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-88",
     name: "Texas House District 88",
-    city: "Canadian",
-    region: "Texas Panhandle",
     type: "state house district",
     incumbentName: "Ken King",
     incumbentParty: "Republican",
@@ -4234,8 +4058,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-89",
     name: "Texas House District 89",
-    city: "Lucas",
-    region: "Collin County Suburbs",
     type: "state house district",
     incumbentName: "Candy Noble",
     incumbentParty: "Republican",
@@ -4282,8 +4104,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-90",
     name: "Texas House District 90",
-    city: "Fort Worth",
-    region: "Fort Worth Urban Core",
     type: "state house district",
     incumbentName: "Ramon Romero JR",
     incumbentParty: "Democrat",
@@ -4330,8 +4150,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-91",
     name: "Texas House District 91",
-    city: "Hurst",
-    region: "Mid-Cities",
     type: "state house district",
     incumbentName: "David Lowe",
     incumbentParty: "Republican",
@@ -4378,8 +4196,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-92",
     name: "Texas House District 92",
-    city: "Euless",
-    region: "Mid-Cities",
     type: "state house district",
     incumbentName: "Salman Bhojani",
     incumbentParty: "Democrat",
@@ -4426,8 +4242,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-93",
     name: "Texas House District 93",
-    city: "Fort Worth",
-    region: "North Tarrant County",
     type: "state house district",
     incumbentName: "Nate Schatzline",
     incumbentParty: "Republican",
@@ -4474,8 +4288,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-94",
     name: "Texas House District 94",
-    city: "Arlington",
-    region: "Tarrant County",
     type: "state house district",
     incumbentName: "Tony Tinderholt",
     incumbentParty: "Republican",
@@ -4522,8 +4334,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-95",
     name: "Texas House District 95",
-    city: "Fort Worth",
-    region: "Fort Worth Urban Core",
     type: "state house district",
     incumbentName: "Nicole Collier",
     incumbentParty: "Democrat",
@@ -4570,8 +4380,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-96",
     name: "Texas House District 96",
-    city: "Mansfield",
-    region: "South Tarrant County",
     type: "state house district",
     incumbentName: "David Cook",
     incumbentParty: "Republican",
@@ -4618,8 +4426,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-97",
     name: "Texas House District 97",
-    city: "Fort Worth",
-    region: "Tarrant County",
     type: "state house district",
     incumbentName: "John Mcqueeney",
     incumbentParty: "Republican",
@@ -4666,8 +4472,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-98",
     name: "Texas House District 98",
-    city: "Southlake",
-    region: "Tarrant County",
     type: "state house district",
     incumbentName: "Giovanni Capriglione",
     incumbentParty: "Republican",
@@ -4714,8 +4518,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-99",
     name: "Texas House District 99",
-    city: "Fort Worth",
-    region: "Fort Worth",
     type: "state house district",
     incumbentName: "Charlie Geren",
     incumbentParty: "Republican",
@@ -4762,8 +4564,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-100",
     name: "Texas House District 100",
-    city: "Dallas",
-    region: "South Dallas",
     type: "state house district",
     incumbentName: "Venton Jones",
     incumbentParty: "Democrat",
@@ -4810,8 +4610,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-101",
     name: "Texas House District 101",
-    city: "Grand Prairie",
-    region: "West Dallas/Tarrant",
     type: "state house district",
     incumbentName: "Chris Turner",
     incumbentParty: "Democrat",
@@ -4858,8 +4656,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-102",
     name: "Texas House District 102",
-    city: "Dallas",
-    region: "Dallas County",
     type: "state house district",
     incumbentName: "Ana-maria Ramos",
     incumbentParty: "Democrat",
@@ -4906,8 +4702,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-103",
     name: "Texas House District 103",
-    city: "Dallas",
-    region: "West Dallas",
     type: "state house district",
     incumbentName: "Rafael Anchia",
     incumbentParty: "Democrat",
@@ -4954,8 +4748,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-104",
     name: "Texas House District 104",
-    city: "Dallas",
-    region: "South Dallas",
     type: "state house district",
     incumbentName: "Jessica Gonzalez",
     incumbentParty: "Democrat",
@@ -5002,8 +4794,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-105",
     name: "Texas House District 105",
-    city: "Irving",
-    region: "Irving/Carrollton",
     type: "state house district",
     incumbentName: "Terry Meza",
     incumbentParty: "Democrat",
@@ -5050,8 +4840,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-106",
     name: "Texas House District 106",
-    city: "Frisco",
-    region: "Denton County",
     type: "state house district",
     incumbentName: "Jared Patterson",
     incumbentParty: "Republican",
@@ -5098,8 +4886,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-107",
     name: "Texas House District 107",
-    city: "Garland",
-    region: "East Dallas County",
     type: "state house district",
     incumbentName: "Linda Garcia",
     incumbentParty: "Democrat",
@@ -5146,8 +4932,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-108",
     name: "Texas House District 108",
-    city: "Dallas",
-    region: "Park Cities",
     type: "state house district",
     incumbentName: "Morgan Meyer",
     incumbentParty: "Republican",
@@ -5194,8 +4978,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-109",
     name: "Texas House District 109",
-    city: "DeSoto",
-    region: "South Dallas County",
     type: "state house district",
     incumbentName: "Aicha Davis",
     incumbentParty: "Democrat",
@@ -5242,8 +5024,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-110",
     name: "Texas House District 110",
-    city: "Dallas",
-    region: "Southeast Dallas",
     type: "state house district",
     incumbentName: "Toni Rose",
     incumbentParty: "Democrat",
@@ -5290,8 +5070,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-111",
     name: "Texas House District 111",
-    city: "Dallas",
-    region: "Southwest Dallas",
     type: "state house district",
     incumbentName: "Yvonne Davis",
     incumbentParty: "Democrat",
@@ -5338,8 +5116,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-112",
     name: "Texas House District 112",
-    city: "Richardson",
-    region: "North Dallas County",
     type: "state house district",
     incumbentName: "Angie Chen Button",
     incumbentParty: "Republican",
@@ -5386,8 +5162,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-113",
     name: "Texas House District 113",
-    city: "Garland",
-    region: "Northeast Dallas County",
     type: "state house district",
     incumbentName: "Rhetta Andrews Bowers",
     incumbentParty: "Democrat",
@@ -5434,8 +5208,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-114",
     name: "Texas House District 114",
-    city: "Dallas",
-    region: "East Dallas",
     type: "state house district",
     incumbentName: "John Bryant",
     incumbentParty: "Democrat",
@@ -5482,8 +5254,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-115",
     name: "Texas House District 115",
-    city: "Dallas",
-    region: "Far North Dallas",
     type: "state house district",
     incumbentName: "Cassandra Hernandez",
     incumbentParty: "Democrat",
@@ -5530,8 +5300,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-116",
     name: "Texas House District 116",
-    city: "San Antonio",
-    region: "Central San Antonio",
     type: "state house district",
     incumbentName: "Trey Martinez Fischer",
     incumbentParty: "Democrat",
@@ -5578,8 +5346,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-117",
     name: "Texas House District 117",
-    city: "San Antonio",
-    region: "Southwest San Antonio",
     type: "state house district",
     incumbentName: "Philip Cortez",
     incumbentParty: "Democrat",
@@ -5626,8 +5392,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-118",
     name: "Texas House District 118",
-    city: "San Antonio",
-    region: "San Antonio",
     type: "state house district",
     incumbentName: "John Lujan III",
     incumbentParty: "Republican",
@@ -5674,8 +5438,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-119",
     name: "Texas House District 119",
-    city: "San Antonio",
-    region: "South San Antonio",
     type: "state house district",
     incumbentName: "Elizabeth  \"liz\" Campos",
     incumbentParty: "Democrat",
@@ -5722,8 +5484,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-120",
     name: "Texas House District 120",
-    city: "San Antonio",
-    region: "East San Antonio",
     type: "state house district",
     incumbentName: "Barbara Gervin-hawkins",
     incumbentParty: "Democrat",
@@ -5770,8 +5530,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-121",
     name: "Texas House District 121",
-    city: "San Antonio",
-    region: "North San Antonio",
     type: "state house district",
     incumbentName: "Marc Lahood",
     incumbentParty: "Republican",
@@ -5818,8 +5576,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-122",
     name: "Texas House District 122",
-    city: "San Antonio",
-    region: "Far North Bexar County",
     type: "state house district",
     incumbentName: "Mark Dorazio",
     incumbentParty: "Republican",
@@ -5866,8 +5622,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-123",
     name: "Texas House District 123",
-    city: "San Antonio",
-    region: "San Antonio West Side",
     type: "state house district",
     incumbentName: "Diego Bernal",
     incumbentParty: "Democrat",
@@ -5914,8 +5668,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-124",
     name: "Texas House District 124",
-    city: "San Antonio",
-    region: "West San Antonio",
     type: "state house district",
     incumbentName: "Josey Garcia",
     incumbentParty: "Democrat",
@@ -5962,8 +5714,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-125",
     name: "Texas House District 125",
-    city: "San Antonio",
-    region: "Northwest San Antonio",
     type: "state house district",
     incumbentName: "Ray Lopez",
     incumbentParty: "Democrat",
@@ -6010,8 +5760,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-126",
     name: "Texas House District 126",
-    city: "Spring",
-    region: "Northwest Houston",
     type: "state house district",
     incumbentName: "E. Sam Harless",
     incumbentParty: "Republican",
@@ -6058,8 +5806,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-127",
     name: "Texas House District 127",
-    city: "Humble",
-    region: "North Houston",
     type: "state house district",
     incumbentName: "Charles Cunningham",
     incumbentParty: "Republican",
@@ -6106,8 +5852,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-128",
     name: "Texas House District 128",
-    city: "Pasadena",
-    region: "Southeast Houston",
     type: "state house district",
     incumbentName: "Briscoe Cain",
     incumbentParty: "Republican",
@@ -6154,8 +5898,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-129",
     name: "Texas House District 129",
-    city: "Clear Lake",
-    region: "NASA Corridor",
     type: "state house district",
     incumbentName: "Dennis Paul",
     incumbentParty: "Republican",
@@ -6202,8 +5944,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-130",
     name: "Texas House District 130",
-    city: "Cypress",
-    region: "Northwest Houston",
     type: "state house district",
     incumbentName: "Tom Oliverson",
     incumbentParty: "Republican",
@@ -6250,8 +5990,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-131",
     name: "Texas House District 131",
-    city: "Houston",
-    region: "Southwest Houston",
     type: "state house district",
     incumbentName: "Alma A. Allen",
     incumbentParty: "Democrat",
@@ -6298,8 +6036,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-132",
     name: "Texas House District 132",
-    city: "Katy",
-    region: "West Houston Suburbs",
     type: "state house district",
     incumbentName: "Mike Schofield",
     incumbentParty: "Republican",
@@ -6346,8 +6082,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-133",
     name: "Texas House District 133",
-    city: "Houston",
-    region: "Houston Inner Loop",
     type: "state house district",
     incumbentName: "Mano Deayala",
     incumbentParty: "Republican",
@@ -6394,8 +6128,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-134",
     name: "Texas House District 134",
-    city: "Houston",
-    region: "Houston Medical Center",
     type: "state house district",
     incumbentName: "Ann Johnson",
     incumbentParty: "Democrat",
@@ -6442,8 +6174,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-135",
     name: "Texas House District 135",
-    city: "Houston",
-    region: "Northwest Houston",
     type: "state house district",
     incumbentName: "Jon E. Rosenthal",
     incumbentParty: "Democrat",
@@ -6490,8 +6220,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-136",
     name: "Texas House District 136",
-    city: "Cedar Park",
-    region: "Austin North Suburbs",
     type: "state house district",
     incumbentName: "John H. Bucy III",
     incumbentParty: "Democrat",
@@ -6538,8 +6266,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-137",
     name: "Texas House District 137",
-    city: "Houston",
-    region: "Sharpstown",
     type: "state house district",
     incumbentName: "Gene Wu",
     incumbentParty: "Democrat",
@@ -6586,8 +6312,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-138",
     name: "Texas House District 138",
-    city: "Houston",
-    region: "Spring Branch",
     type: "state house district",
     incumbentName: "Lacey Hull",
     incumbentParty: "Republican",
@@ -6634,8 +6358,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-139",
     name: "Texas House District 139",
-    city: "Houston",
-    region: "South Houston",
     type: "state house district",
     incumbentName: "Charlene Ward Johnson",
     incumbentParty: "Democrat",
@@ -6682,8 +6404,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-140",
     name: "Texas House District 140",
-    city: "Houston",
-    region: "North Houston",
     type: "state house district",
     incumbentName: "Armando Lucio Walle",
     incumbentParty: "Democrat",
@@ -6730,8 +6450,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-141",
     name: "Texas House District 141",
-    city: "Houston",
-    region: "Northeast Houston",
     type: "state house district",
     incumbentName: "Senfronia Thompson",
     incumbentParty: "Democrat",
@@ -6778,8 +6496,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-142",
     name: "Texas House District 142",
-    city: "Houston",
-    region: "Fifth Ward",
     type: "state house district",
     incumbentName: "Harold V. Dutton JR",
     incumbentParty: "Democrat",
@@ -6826,8 +6542,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-143",
     name: "Texas House District 143",
-    city: "Houston",
-    region: "East Houston",
     type: "state house district",
     incumbentName: "Ana Hernandez",
     incumbentParty: "Democrat",
@@ -6874,8 +6588,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-144",
     name: "Texas House District 144",
-    city: "Pasadena",
-    region: "Southeast Houston",
     type: "state house district",
     incumbentName: "Mary Ann Perez",
     incumbentParty: "Democrat",
@@ -6922,8 +6634,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-145",
     name: "Texas House District 145",
-    city: "Houston",
-    region: "Houston East End",
     type: "state house district",
     incumbentName: "Christina Morales",
     incumbentParty: "Democrat",
@@ -6970,8 +6680,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-146",
     name: "Texas House District 146",
-    city: "Houston",
-    region: "Third Ward",
     type: "state house district",
     incumbentName: "Lauren Ashley Simmons",
     incumbentParty: "Democrat",
@@ -7018,8 +6726,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-147",
     name: "Texas House District 147",
-    city: "Houston",
-    region: "Midtown Houston",
     type: "state house district",
     incumbentName: "Jolanda  Jones",
     incumbentParty: "Democrat",
@@ -7066,8 +6772,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-148",
     name: "Texas House District 148",
-    city: "Houston",
-    region: "Near Northside",
     type: "state house district",
     incumbentName: "Penny Morales Shaw",
     incumbentParty: "Democrat",
@@ -7114,8 +6818,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-149",
     name: "Texas House District 149",
-    city: "Houston",
-    region: "Alief",
     type: "state house district",
     incumbentName: "Hubert Vo",
     incumbentParty: "Democrat",
@@ -7162,8 +6864,6 @@ const TX_HOUSE_DISTRICTS = [
   {
     id: "tx-hd-150",
     name: "Texas House District 150",
-    city: "Houston",
-    region: "Northwest Houston",
     type: "state house district",
     incumbentName: "Chad Bridges",
     incumbentParty: "Republican",
@@ -7213,8 +6913,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-1",
     name: "Texas Senate District 1",
-    city: "Mineola",
-    region: "East Texas",
     type: "state senate district",
     incumbentName: "Bryan Hughes",
     incumbentParty: "Republican",
@@ -7260,8 +6958,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-2",
     name: "Texas Senate District 2",
-    city: "Rockwall",
-    region: "East DFW Suburbs",
     type: "state senate district",
     incumbentName: "Bob Hall",
     incumbentParty: "Republican",
@@ -7307,8 +7003,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-3",
     name: "Texas Senate District 3",
-    city: "Jacksonville",
-    region: "Deep East Texas",
     type: "state senate district",
     incumbentName: "Robert Nichols",
     incumbentParty: "Republican",
@@ -7354,8 +7048,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-4",
     name: "Texas Senate District 4",
-    city: "The Woodlands",
-    region: "North Houston Suburbs",
     type: "state senate district",
     incumbentName: "Brandon Creighton",
     incumbentParty: "Republican",
@@ -7401,8 +7093,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-5",
     name: "Texas Senate District 5",
-    city: "Georgetown",
-    region: "Austin-Bryan Corridor",
     type: "state senate district",
     incumbentName: "Charles Schwertner",
     incumbentParty: "Republican",
@@ -7448,8 +7138,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-6",
     name: "Texas Senate District 6",
-    city: "Houston",
-    region: "Southeast Houston",
     type: "state senate district",
     incumbentName: "Carol Alvarado",
     incumbentParty: "Democrat",
@@ -7495,8 +7183,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-7",
     name: "Texas Senate District 7",
-    city: "Houston",
-    region: "Northwest Houston Suburbs",
     type: "state senate district",
     incumbentName: "Paul Bettencourt",
     incumbentParty: "Republican",
@@ -7542,8 +7228,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-8",
     name: "Texas Senate District 8",
-    city: "McKinney",
-    region: "Collin County",
     type: "state senate district",
     incumbentName: "Angela Paxton",
     incumbentParty: "Republican",
@@ -7589,8 +7273,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-9",
     name: "Texas Senate District 9",
-    city: "North Richland Hills",
-    region: "Mid-Cities",
     type: "state senate district",
     incumbentName: "Kelly Hancock",
     incumbentParty: "Republican",
@@ -7636,8 +7318,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-10",
     name: "Texas Senate District 10",
-    city: "Weatherford",
-    region: "Parker County",
     type: "state senate district",
     incumbentName: "Phil King",
     incumbentParty: "Republican",
@@ -7683,8 +7363,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-11",
     name: "Texas Senate District 11",
-    city: "Galveston",
-    region: "Galveston County",
     type: "state senate district",
     incumbentName: "Mayes Middleton",
     incumbentParty: "Republican",
@@ -7729,8 +7407,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-12",
     name: "Texas Senate District 12",
-    city: "Southlake",
-    region: "North DFW Suburbs",
     type: "state senate district",
     incumbentName: "Tan Parker",
     incumbentParty: "Republican",
@@ -7775,8 +7451,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-13",
     name: "Texas Senate District 13",
-    city: "Houston",
-    region: "Southwest Houston",
     type: "state senate district",
     incumbentName: "Borris Miles",
     incumbentParty: "Democrat",
@@ -7821,8 +7495,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-14",
     name: "Texas Senate District 14",
-    city: "Austin",
-    region: "Austin",
     type: "state senate district",
     incumbentName: "Sarah Eckhardt",
     incumbentParty: "Democrat",
@@ -7867,8 +7539,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-15",
     name: "Texas Senate District 15",
-    city: "Houston",
-    region: "Inner Loop Houston",
     type: "state senate district",
     incumbentName: "Molly Cook",
     incumbentParty: "Democrat",
@@ -7913,8 +7583,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-16",
     name: "Texas Senate District 16",
-    city: "Dallas",
-    region: "Dallas",
     type: "state senate district",
     incumbentName: "Nathan Johnson",
     incumbentParty: "Democrat",
@@ -7959,8 +7627,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-17",
     name: "Texas Senate District 17",
-    city: "Sugar Land",
-    region: "Fort Bend County",
     type: "state senate district",
     incumbentName: "Joan Huffman",
     incumbentParty: "Republican",
@@ -8005,8 +7671,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-18",
     name: "Texas Senate District 18",
-    city: "Brenham",
-    region: "Houston Exurbs",
     type: "state senate district",
     incumbentName: "Lois W. Kolkhorst",
     incumbentParty: "Republican",
@@ -8051,8 +7715,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-19",
     name: "Texas Senate District 19",
-    city: "San Antonio",
-    region: "San Antonio / South Texas",
     type: "state senate district",
     incumbentName: "Roland Gutierrez",
     incumbentParty: "Democrat",
@@ -8097,8 +7759,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-20",
     name: "Texas Senate District 20",
-    city: "McAllen",
-    region: "Rio Grande Valley",
     type: "state senate district",
     incumbentName: "Juan \"chuy\" Hinojosa",
     incumbentParty: "Democrat",
@@ -8143,8 +7803,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-21",
     name: "Texas Senate District 21",
-    city: "Laredo",
-    region: "South Texas Border",
     type: "state senate district",
     incumbentName: "Judith Zaffirini",
     incumbentParty: "Democrat",
@@ -8189,8 +7847,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-22",
     name: "Texas Senate District 22",
-    city: "Granbury",
-    region: "Central Texas",
     type: "state senate district",
     incumbentName: "Brian Birdwell",
     incumbentParty: "Republican",
@@ -8236,8 +7892,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-23",
     name: "Texas Senate District 23",
-    city: "Dallas",
-    region: "South Dallas",
     type: "state senate district",
     incumbentName: "Royce West",
     incumbentParty: "Democrat",
@@ -8283,8 +7937,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-24",
     name: "Texas Senate District 24",
-    city: "Kerrville",
-    region: "Hill Country",
     type: "state senate district",
     incumbentName: "Pete Flores",
     incumbentParty: "Republican",
@@ -8330,8 +7982,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-25",
     name: "Texas Senate District 25",
-    city: "New Braunfels",
-    region: "San Antonio North Suburbs",
     type: "state senate district",
     incumbentName: "Donna Campbell",
     incumbentParty: "Republican",
@@ -8377,8 +8027,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-26",
     name: "Texas Senate District 26",
-    city: "San Antonio",
-    region: "San Antonio West Side",
     type: "state senate district",
     incumbentName: "José Menéndez",
     incumbentParty: "Democrat",
@@ -8424,8 +8072,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-27",
     name: "Texas Senate District 27",
-    city: "Corpus Christi",
-    region: "Coastal Bend",
     type: "state senate district",
     incumbentName: "Adam Hinojosa",
     incumbentParty: "Republican",
@@ -8471,8 +8117,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-28",
     name: "Texas Senate District 28",
-    city: "Lubbock",
-    region: "West Texas",
     type: "state senate district",
     incumbentName: "Charles Perry",
     incumbentParty: "Republican",
@@ -8518,8 +8162,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-29",
     name: "Texas Senate District 29",
-    city: "El Paso",
-    region: "El Paso",
     type: "state senate district",
     incumbentName: "César J. Blanco",
     incumbentParty: "Democrat",
@@ -8565,8 +8207,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-30",
     name: "Texas Senate District 30",
-    city: "McKinney",
-    region: "North DFW Suburbs",
     type: "state senate district",
     incumbentName: "Chad Bridges",
     incumbentParty: "Republican",
@@ -8612,8 +8252,6 @@ const TX_SENATE_DISTRICTS = [
   {
     id: "tx-sd-31",
     name: "Texas Senate District 31",
-    city: "Odessa",
-    region: "Permian Basin",
     type: "state senate district",
     incumbentName: "Randy Wilson",
     incumbentParty: "Republican",

@@ -1,0 +1,3646 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Virginia House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 172229,
+        "medianAge": 38.9,
+        "totalPopulation": 85428,
+        "collegePct": 79.94,
+        "renterRatePct": 40.52,
+        "race": {
+          "whitePct": 72.4,
+          "nonHispanicWhitePct": 68.8,
+          "blackPct": 4.63,
+          "asianPct": 8.68,
+          "hispanicPct": 11.33
+        }
+      },
+      "election": {
+        "winner": "Patrick A. Hope",
+        "party": "DEM",
+        "pct": 81.49,
+        "unopposed": false
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Virginia House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 132788,
+        "medianAge": 32.9,
+        "totalPopulation": 82167,
+        "collegePct": 83.63,
+        "renterRatePct": 74.25,
+        "race": {
+          "whitePct": 62.42,
+          "nonHispanicWhitePct": 59.54,
+          "blackPct": 9.23,
+          "asianPct": 12.84,
+          "hispanicPct": 13.31
+        }
+      },
+      "election": {
+        "winner": "Adele Y. McClure",
+        "party": "DEM",
+        "pct": 81.48,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Virginia House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120190,
+        "medianAge": 37.2,
+        "totalPopulation": 85319,
+        "collegePct": 67.52,
+        "renterRatePct": 51.3,
+        "race": {
+          "whitePct": 54.97,
+          "nonHispanicWhitePct": 50.08,
+          "blackPct": 14.18,
+          "asianPct": 8.69,
+          "hispanicPct": 22.63
+        }
+      },
+      "election": {
+        "winner": "Alfonso H. Lopez",
+        "party": "DEM",
+        "pct": 95.48,
+        "unopposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Virginia House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87873,
+        "medianAge": 36.2,
+        "totalPopulation": 86481,
+        "collegePct": 46.97,
+        "renterRatePct": 62.96,
+        "race": {
+          "whitePct": 35.93,
+          "nonHispanicWhitePct": 31,
+          "blackPct": 24.85,
+          "asianPct": 10.83,
+          "hispanicPct": 27.87
+        }
+      },
+      "election": {
+        "winner": "Daniel L. Herring",
+        "party": "DEM",
+        "pct": 95.85,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Virginia House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131347,
+        "medianAge": 37.3,
+        "totalPopulation": 87485,
+        "collegePct": 72.59,
+        "renterRatePct": 56.53,
+        "race": {
+          "whitePct": 59.94,
+          "nonHispanicWhitePct": 56.38,
+          "blackPct": 17.56,
+          "asianPct": 4.92,
+          "hispanicPct": 16.07
+        }
+      },
+      "election": {
+        "winner": "Elizabeth B. Bennett-Parker",
+        "party": "DEM",
+        "pct": 95.24,
+        "unopposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Virginia House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 250001,
+        "medianAge": 46.4,
+        "totalPopulation": 82490,
+        "collegePct": 85.12,
+        "renterRatePct": 9.87,
+        "race": {
+          "whitePct": 67.65,
+          "nonHispanicWhitePct": 66.33,
+          "blackPct": 1.79,
+          "asianPct": 20.98,
+          "hispanicPct": 5.24
+        }
+      },
+      "election": {
+        "winner": "Richard C. Rip Stelton, Jr.",
+        "party": "DEM",
+        "pct": 66.71,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Virginia House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 158753,
+        "medianAge": 41,
+        "totalPopulation": 85604,
+        "collegePct": 72.8,
+        "renterRatePct": 32.23,
+        "race": {
+          "whitePct": 65.75,
+          "nonHispanicWhitePct": 62.15,
+          "blackPct": 7.17,
+          "asianPct": 11.61,
+          "hispanicPct": 13.51
+        }
+      },
+      "election": {
+        "winner": "Areva A. Keys-Gamarra",
+        "party": "DEM",
+        "pct": 75.36,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Virginia House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 152005,
+        "medianAge": 35.7,
+        "totalPopulation": 85963,
+        "collegePct": 64.35,
+        "renterRatePct": 40.71,
+        "race": {
+          "whitePct": 41.47,
+          "nonHispanicWhitePct": 38.31,
+          "blackPct": 8.35,
+          "asianPct": 27.08,
+          "hispanicPct": 21.03
+        }
+      },
+      "election": {
+        "winner": "Irene Shin",
+        "party": "DEM",
+        "pct": 73.98,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Virginia House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 146581,
+        "medianAge": 38.7,
+        "totalPopulation": 87051,
+        "collegePct": 60.79,
+        "renterRatePct": 28.41,
+        "race": {
+          "whitePct": 45.12,
+          "nonHispanicWhitePct": 41.86,
+          "blackPct": 6.35,
+          "asianPct": 30.74,
+          "hispanicPct": 15.86
+        }
+      },
+      "election": {
+        "winner": "Frank D. Jemison",
+        "party": "DEM",
+        "pct": 68.93,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Virginia House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 169318,
+        "medianAge": 39.8,
+        "totalPopulation": 83315,
+        "collegePct": 64.98,
+        "renterRatePct": 19.63,
+        "race": {
+          "whitePct": 53.53,
+          "nonHispanicWhitePct": 49.67,
+          "blackPct": 5.95,
+          "asianPct": 25.53,
+          "hispanicPct": 13.23
+        }
+      },
+      "election": {
+        "winner": "Dan I. Helmer",
+        "party": "DEM",
+        "pct": 67.38,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Virginia House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 134532,
+        "medianAge": 35.4,
+        "totalPopulation": 89169,
+        "collegePct": 68.44,
+        "renterRatePct": 40.82,
+        "race": {
+          "whitePct": 52.02,
+          "nonHispanicWhitePct": 48.86,
+          "blackPct": 10.83,
+          "asianPct": 21.84,
+          "hispanicPct": 13.77
+        }
+      },
+      "election": {
+        "winner": "David L. Bulova",
+        "party": "DEM",
+        "pct": 72.51,
+        "unopposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Virginia House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 156507,
+        "medianAge": 37.7,
+        "totalPopulation": 87543,
+        "collegePct": 76.62,
+        "renterRatePct": 46.45,
+        "race": {
+          "whitePct": 55.23,
+          "nonHispanicWhitePct": 52.39,
+          "blackPct": 5.92,
+          "asianPct": 24.81,
+          "hispanicPct": 10.59
+        }
+      },
+      "election": {
+        "winner": "Holly M. Seibold",
+        "party": "DEM",
+        "pct": 76.51,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Virginia House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 135904,
+        "medianAge": 37.7,
+        "totalPopulation": 85213,
+        "collegePct": 63.31,
+        "renterRatePct": 41.48,
+        "race": {
+          "whitePct": 50.7,
+          "nonHispanicWhitePct": 47.9,
+          "blackPct": 5.8,
+          "asianPct": 18.65,
+          "hispanicPct": 22.72
+        }
+      },
+      "election": {
+        "winner": "Marcus B. Simon",
+        "party": "DEM",
+        "pct": 76.65,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Virginia House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 134285,
+        "medianAge": 39.7,
+        "totalPopulation": 81955,
+        "collegePct": 54.05,
+        "renterRatePct": 34.54,
+        "race": {
+          "whitePct": 41.87,
+          "nonHispanicWhitePct": 37.56,
+          "blackPct": 11.88,
+          "asianPct": 21.14,
+          "hispanicPct": 24.5
+        }
+      },
+      "election": {
+        "winner": "Vivian E. Watts",
+        "party": "DEM",
+        "pct": 73.67,
+        "unopposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Virginia House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 181663,
+        "medianAge": 41.3,
+        "totalPopulation": 88567,
+        "collegePct": 69.34,
+        "renterRatePct": 11.69,
+        "race": {
+          "whitePct": 61.69,
+          "nonHispanicWhitePct": 58.05,
+          "blackPct": 6.17,
+          "asianPct": 16.24,
+          "hispanicPct": 13.41
+        }
+      },
+      "election": {
+        "winner": "Jane R. Cohen",
+        "party": "DEM",
+        "pct": 67.39,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Virginia House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120220,
+        "medianAge": 38.9,
+        "totalPopulation": 85706,
+        "collegePct": 52.14,
+        "renterRatePct": 34.03,
+        "race": {
+          "whitePct": 52.44,
+          "nonHispanicWhitePct": 44.18,
+          "blackPct": 18.19,
+          "asianPct": 6.93,
+          "hispanicPct": 27.62
+        }
+      },
+      "election": {
+        "winner": "Paul E. Krizek",
+        "party": "DEM",
+        "pct": 70.54,
+        "unopposed": false
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Virginia House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 140580,
+        "medianAge": 38.8,
+        "totalPopulation": 84732,
+        "collegePct": 61.99,
+        "renterRatePct": 32,
+        "race": {
+          "whitePct": 51.73,
+          "nonHispanicWhitePct": 47.68,
+          "blackPct": 15.86,
+          "asianPct": 14.55,
+          "hispanicPct": 16.34
+        }
+      },
+      "election": {
+        "winner": "Mark B. Sickles",
+        "party": "DEM",
+        "pct": 77.46,
+        "unopposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Virginia House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 142341,
+        "medianAge": 39.8,
+        "totalPopulation": 85164,
+        "collegePct": 56.3,
+        "renterRatePct": 19.37,
+        "race": {
+          "whitePct": 45.63,
+          "nonHispanicWhitePct": 41.13,
+          "blackPct": 12.15,
+          "asianPct": 22.32,
+          "hispanicPct": 19.22
+        }
+      },
+      "election": {
+        "winner": "Kathy K. L. Tran",
+        "party": "DEM",
+        "pct": 72.22,
+        "unopposed": false
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Virginia House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109155,
+        "medianAge": 34.5,
+        "totalPopulation": 90305,
+        "collegePct": 43.48,
+        "renterRatePct": 43.46,
+        "race": {
+          "whitePct": 34.3,
+          "nonHispanicWhitePct": 26.22,
+          "blackPct": 26.8,
+          "asianPct": 9.9,
+          "hispanicPct": 31.63
+        }
+      },
+      "election": {
+        "winner": "Ncia H. Henson, Jr",
+        "party": "DEM",
+        "pct": 92.39,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Virginia House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108123,
+        "medianAge": 34.4,
+        "totalPopulation": 85589,
+        "collegePct": 29.44,
+        "renterRatePct": 32.02,
+        "race": {
+          "whitePct": 49.01,
+          "nonHispanicWhitePct": 31.3,
+          "blackPct": 10.78,
+          "asianPct": 6.85,
+          "hispanicPct": 46.75
+        }
+      },
+      "election": {
+        "winner": "Michelle-Ann E. Lopes",
+        "party": "DEM",
+        "pct": 68.08,
+        "unopposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Virginia House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 129023,
+        "medianAge": 38,
+        "totalPopulation": 85827,
+        "collegePct": 49.42,
+        "renterRatePct": 29.06,
+        "race": {
+          "whitePct": 56.84,
+          "nonHispanicWhitePct": 45.69,
+          "blackPct": 13.68,
+          "asianPct": 11.82,
+          "hispanicPct": 23.91
+        }
+      },
+      "election": {
+        "winner": "Joshua Cole Thomas",
+        "party": "DEM",
+        "pct": 58.45,
+        "unopposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Virginia House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 172965,
+        "medianAge": 38.7,
+        "totalPopulation": 84579,
+        "collegePct": 53.77,
+        "renterRatePct": 10.58,
+        "race": {
+          "whitePct": 66,
+          "nonHispanicWhitePct": 61.48,
+          "blackPct": 10.43,
+          "asianPct": 9.24,
+          "hispanicPct": 14.37
+        }
+      },
+      "election": {
+        "winner": "Elizabeth R. Guzman",
+        "party": "DEM",
+        "pct": 54.89,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Virginia House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112699,
+        "medianAge": 31.7,
+        "totalPopulation": 89637,
+        "collegePct": 40.43,
+        "renterRatePct": 37.64,
+        "race": {
+          "whitePct": 30.93,
+          "nonHispanicWhitePct": 27.14,
+          "blackPct": 36.94,
+          "asianPct": 9.25,
+          "hispanicPct": 21.74
+        }
+      },
+      "election": {
+        "winner": "Candice Mundon King",
+        "party": "DEM",
+        "pct": 76.13,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Virginia House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 125846,
+        "medianAge": 36.3,
+        "totalPopulation": 87082,
+        "collegePct": 40.59,
+        "renterRatePct": 18.34,
+        "race": {
+          "whitePct": 38.73,
+          "nonHispanicWhitePct": 33.25,
+          "blackPct": 22.9,
+          "asianPct": 10.36,
+          "hispanicPct": 27.37
+        }
+      },
+      "election": {
+        "winner": "Luke E. Torian",
+        "party": "DEM",
+        "pct": 91.02,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Virginia House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 130437,
+        "medianAge": 37.3,
+        "totalPopulation": 84418,
+        "collegePct": 46.45,
+        "renterRatePct": 19.86,
+        "race": {
+          "whitePct": 46.83,
+          "nonHispanicWhitePct": 40.16,
+          "blackPct": 19.95,
+          "asianPct": 9.8,
+          "hispanicPct": 24.12
+        }
+      },
+      "election": {
+        "winner": "Briana L. Sewell",
+        "party": "DEM",
+        "pct": 90.83,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Virginia House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 203031,
+        "medianAge": 37.7,
+        "totalPopulation": 86930,
+        "collegePct": 71.64,
+        "renterRatePct": 17.62,
+        "race": {
+          "whitePct": 38.66,
+          "nonHispanicWhitePct": 36.92,
+          "blackPct": 11.12,
+          "asianPct": 38.18,
+          "hispanicPct": 8.44
+        }
+      },
+      "election": {
+        "winner": "J. Ismail",
+        "party": "DEM",
+        "pct": 69.36,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Virginia House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 159473,
+        "medianAge": 36.1,
+        "totalPopulation": 85443,
+        "collegePct": 54.19,
+        "renterRatePct": 23.35,
+        "race": {
+          "whitePct": 46.46,
+          "nonHispanicWhitePct": 40.51,
+          "blackPct": 6.11,
+          "asianPct": 19.14,
+          "hispanicPct": 28.84
+        }
+      },
+      "election": {
+        "winner": "Atoosa R. Reaser",
+        "party": "DEM",
+        "pct": 65.46,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Virginia House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 163199,
+        "medianAge": 38.6,
+        "totalPopulation": 87715,
+        "collegePct": 67.89,
+        "renterRatePct": 30.48,
+        "race": {
+          "whitePct": 58.26,
+          "nonHispanicWhitePct": 55.28,
+          "blackPct": 7.7,
+          "asianPct": 21.78,
+          "hispanicPct": 9.93
+        }
+      },
+      "election": {
+        "winner": "David A. Reid",
+        "party": "DEM",
+        "pct": 67.26,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Virginia House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 160337,
+        "medianAge": 37.5,
+        "totalPopulation": 88183,
+        "collegePct": 61.64,
+        "renterRatePct": 26.07,
+        "race": {
+          "whitePct": 60.68,
+          "nonHispanicWhitePct": 57.27,
+          "blackPct": 8.76,
+          "asianPct": 15.23,
+          "hispanicPct": 14.32
+        }
+      },
+      "election": {
+        "winner": "Marty Martinez",
+        "party": "DEM",
+        "pct": 62.84,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Virginia House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 191301,
+        "medianAge": 40.4,
+        "totalPopulation": 89827,
+        "collegePct": 61.05,
+        "renterRatePct": 13.5,
+        "race": {
+          "whitePct": 75.11,
+          "nonHispanicWhitePct": 71.66,
+          "blackPct": 4.54,
+          "asianPct": 8.71,
+          "hispanicPct": 10.5
+        }
+      },
+      "election": {
+        "winner": "John Cholian McAuliff",
+        "party": "DEM",
+        "pct": 50.89,
+        "unopposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Virginia House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93787,
+        "medianAge": 41.2,
+        "totalPopulation": 88931,
+        "collegePct": 29.4,
+        "renterRatePct": 23.12,
+        "race": {
+          "whitePct": 81.87,
+          "nonHispanicWhitePct": 79.64,
+          "blackPct": 5.12,
+          "asianPct": 1.73,
+          "hispanicPct": 9.17
+        }
+      },
+      "election": {
+        "winner": "Delores R. Oates",
+        "party": "REP",
+        "pct": 59.76,
+        "unopposed": false
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Virginia House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82591,
+        "medianAge": 39.9,
+        "totalPopulation": 86177,
+        "collegePct": 30.3,
+        "renterRatePct": 33.94,
+        "race": {
+          "whitePct": 79.13,
+          "nonHispanicWhitePct": 74.47,
+          "blackPct": 5.73,
+          "asianPct": 1.84,
+          "hispanicPct": 14.17
+        }
+      },
+      "election": {
+        "winner": "William D. Wiley",
+        "party": "REP",
+        "pct": 57.99,
+        "unopposed": false
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Virginia House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63236,
+        "medianAge": 43.4,
+        "totalPopulation": 87616,
+        "collegePct": 19.26,
+        "renterRatePct": 27.03,
+        "race": {
+          "whitePct": 89.77,
+          "nonHispanicWhitePct": 88.04,
+          "blackPct": 2.07,
+          "asianPct": 0.8,
+          "hispanicPct": 6.64
+        }
+      },
+      "election": {
+        "winner": "Justin L. Pence",
+        "party": "REP",
+        "pct": 73.43,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Virginia House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69497,
+        "medianAge": 32,
+        "totalPopulation": 86985,
+        "collegePct": 33.93,
+        "renterRatePct": 43.7,
+        "race": {
+          "whitePct": 74.73,
+          "nonHispanicWhitePct": 70.2,
+          "blackPct": 5.83,
+          "asianPct": 2.56,
+          "hispanicPct": 17.82
+        }
+      },
+      "election": {
+        "winner": "Tony O. Wilt",
+        "party": "REP",
+        "pct": 50.38,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Virginia House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81554,
+        "medianAge": 42,
+        "totalPopulation": 89521,
+        "collegePct": 26.08,
+        "renterRatePct": 22.48,
+        "race": {
+          "whitePct": 88.39,
+          "nonHispanicWhitePct": 86.66,
+          "blackPct": 4.12,
+          "asianPct": 0.62,
+          "hispanicPct": 5.46
+        }
+      },
+      "election": {
+        "winner": "Chris S. Runion",
+        "party": "REP",
+        "pct": 72.41,
+        "unopposed": false
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Virginia House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64091,
+        "medianAge": 43.4,
+        "totalPopulation": 85155,
+        "collegePct": 28.34,
+        "renterRatePct": 32.36,
+        "race": {
+          "whitePct": 84.05,
+          "nonHispanicWhitePct": 82.34,
+          "blackPct": 7.67,
+          "asianPct": 1.19,
+          "hispanicPct": 4.84
+        }
+      },
+      "election": {
+        "winner": "Ellen H. Campbell",
+        "party": "REP",
+        "pct": 57.64,
+        "unopposed": false
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Virginia House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65990,
+        "medianAge": 45.3,
+        "totalPopulation": 86165,
+        "collegePct": 25.49,
+        "renterRatePct": 21.73,
+        "race": {
+          "whitePct": 89.71,
+          "nonHispanicWhitePct": 88.81,
+          "blackPct": 3.89,
+          "asianPct": 0.8,
+          "hispanicPct": 2.38
+        }
+      },
+      "election": {
+        "winner": "Terry L. Austin",
+        "party": "REP",
+        "pct": 69.79,
+        "unopposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Virginia House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50376,
+        "medianAge": 37.5,
+        "totalPopulation": 86696,
+        "collegePct": 25.65,
+        "renterRatePct": 51.25,
+        "race": {
+          "whitePct": 53.37,
+          "nonHispanicWhitePct": 51.32,
+          "blackPct": 32.1,
+          "asianPct": 3.29,
+          "hispanicPct": 9.34
+        }
+      },
+      "election": {
+        "winner": "S. Sam Rasoul",
+        "party": "DEM",
+        "pct": 69.79,
+        "unopposed": false
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Virginia House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71767,
+        "medianAge": 47.5,
+        "totalPopulation": 84349,
+        "collegePct": 27.42,
+        "renterRatePct": 21.53,
+        "race": {
+          "whitePct": 87.33,
+          "nonHispanicWhitePct": 86.58,
+          "blackPct": 7.13,
+          "asianPct": 0.79,
+          "hispanicPct": 3.18
+        }
+      },
+      "election": {
+        "winner": "Will P. Davis",
+        "party": "REP",
+        "pct": 71.26,
+        "unopposed": false
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Virginia House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75029,
+        "medianAge": 42.3,
+        "totalPopulation": 86721,
+        "collegePct": 38.71,
+        "renterRatePct": 31.09,
+        "race": {
+          "whitePct": 82.6,
+          "nonHispanicWhitePct": 80.77,
+          "blackPct": 7.65,
+          "asianPct": 3.6,
+          "hispanicPct": 4.51
+        }
+      },
+      "election": {
+        "winner": "Joseph P. McNamara",
+        "party": "REP",
+        "pct": 52.86,
+        "unopposed": false
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Virginia House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73819,
+        "medianAge": 29.7,
+        "totalPopulation": 88030,
+        "collegePct": 48.13,
+        "renterRatePct": 37.79,
+        "race": {
+          "whitePct": 83.72,
+          "nonHispanicWhitePct": 82.37,
+          "blackPct": 3.23,
+          "asianPct": 6.81,
+          "hispanicPct": 4.14
+        }
+      },
+      "election": {
+        "winner": "Jay Franklin",
+        "party": "DEM",
+        "pct": 53.29,
+        "unopposed": false
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Virginia House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65512,
+        "medianAge": 39.3,
+        "totalPopulation": 84585,
+        "collegePct": 31.82,
+        "renterRatePct": 35.61,
+        "race": {
+          "whitePct": 87.96,
+          "nonHispanicWhitePct": 86.97,
+          "blackPct": 5.44,
+          "asianPct": 1.88,
+          "hispanicPct": 3.37
+        }
+      },
+      "election": {
+        "winner": "Jason S. Ballard",
+        "party": "REP",
+        "pct": 62.57,
+        "unopposed": false
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Virginia House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45844,
+        "medianAge": 46,
+        "totalPopulation": 86378,
+        "collegePct": 13.58,
+        "renterRatePct": 24.34,
+        "race": {
+          "whitePct": 94.94,
+          "nonHispanicWhitePct": 94.55,
+          "blackPct": 2.81,
+          "asianPct": 0.42,
+          "hispanicPct": 1.09
+        }
+      },
+      "election": {
+        "winner": "James W. Morefield",
+        "party": "REP",
+        "pct": 82.72,
+        "unopposed": false
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Virginia House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55923,
+        "medianAge": 46.4,
+        "totalPopulation": 87976,
+        "collegePct": 23.89,
+        "renterRatePct": 26.72,
+        "race": {
+          "whitePct": 93.41,
+          "nonHispanicWhitePct": 93.07,
+          "blackPct": 2.64,
+          "asianPct": 0.38,
+          "hispanicPct": 1.7
+        }
+      },
+      "election": {
+        "winner": "Israel D. O'Quinn",
+        "party": "REP",
+        "pct": 76.92,
+        "unopposed": false
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Virginia House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47189,
+        "medianAge": 44.4,
+        "totalPopulation": 85032,
+        "collegePct": 14.55,
+        "renterRatePct": 25.42,
+        "race": {
+          "whitePct": 93.19,
+          "nonHispanicWhitePct": 92.64,
+          "blackPct": 3.74,
+          "asianPct": 0.24,
+          "hispanicPct": 1.53
+        }
+      },
+      "election": {
+        "winner": "Terry G. Kilgore",
+        "party": "REP",
+        "pct": 82.74,
+        "unopposed": false
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Virginia House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49398,
+        "medianAge": 46,
+        "totalPopulation": 84696,
+        "collegePct": 17.54,
+        "renterRatePct": 26.5,
+        "race": {
+          "whitePct": 92.64,
+          "nonHispanicWhitePct": 91.59,
+          "blackPct": 3.01,
+          "asianPct": 0.68,
+          "hispanicPct": 2.32
+        }
+      },
+      "election": {
+        "winner": "Mitchell D. Cornett",
+        "party": "REP",
+        "pct": 77.48,
+        "unopposed": false
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Virginia House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51290,
+        "medianAge": 49.2,
+        "totalPopulation": 82899,
+        "collegePct": 17.16,
+        "renterRatePct": 22.35,
+        "race": {
+          "whitePct": 89.86,
+          "nonHispanicWhitePct": 88.23,
+          "blackPct": 4.94,
+          "asianPct": 0.2,
+          "hispanicPct": 4.88
+        }
+      },
+      "election": {
+        "winner": "Wren M. Williams",
+        "party": "REP",
+        "pct": 74.17,
+        "unopposed": false
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Virginia House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49934,
+        "medianAge": 46.8,
+        "totalPopulation": 86936,
+        "collegePct": 16.24,
+        "renterRatePct": 26.17,
+        "race": {
+          "whitePct": 65.83,
+          "nonHispanicWhitePct": 64.47,
+          "blackPct": 26.02,
+          "asianPct": 0.65,
+          "hispanicPct": 5.85
+        }
+      },
+      "election": {
+        "winner": "Eric J. Phillips",
+        "party": "REP",
+        "pct": 63.65,
+        "unopposed": false
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Virginia House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47920,
+        "medianAge": 43.4,
+        "totalPopulation": 84311,
+        "collegePct": 18.49,
+        "renterRatePct": 39.24,
+        "race": {
+          "whitePct": 54,
+          "nonHispanicWhitePct": 52.84,
+          "blackPct": 39.2,
+          "asianPct": 0.98,
+          "hispanicPct": 3.85
+        }
+      },
+      "election": {
+        "winner": "Madison John R. Whittle",
+        "party": "REP",
+        "pct": 52.91,
+        "unopposed": false
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Virginia House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51440,
+        "medianAge": 43.4,
+        "totalPopulation": 84570,
+        "collegePct": 19.39,
+        "renterRatePct": 30.3,
+        "race": {
+          "whitePct": 62.56,
+          "nonHispanicWhitePct": 60.96,
+          "blackPct": 31.75,
+          "asianPct": 0.68,
+          "hispanicPct": 3.39
+        }
+      },
+      "election": {
+        "winner": "Thomas C. Wright, Jr.",
+        "party": "REP",
+        "pct": 60.28,
+        "unopposed": false
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Virginia House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67773,
+        "medianAge": 45.4,
+        "totalPopulation": 85528,
+        "collegePct": 25.91,
+        "renterRatePct": 17.53,
+        "race": {
+          "whitePct": 82.87,
+          "nonHispanicWhitePct": 81.8,
+          "blackPct": 10.82,
+          "asianPct": 1.04,
+          "hispanicPct": 2.57
+        }
+      },
+      "election": {
+        "winner": "Eric R. Zehr",
+        "party": "REP",
+        "pct": 75.39,
+        "unopposed": false
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Virginia House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59941,
+        "medianAge": 29.5,
+        "totalPopulation": 86861,
+        "collegePct": 37.66,
+        "renterRatePct": 49.57,
+        "race": {
+          "whitePct": 63.26,
+          "nonHispanicWhitePct": 61.64,
+          "blackPct": 26.24,
+          "asianPct": 2.07,
+          "hispanicPct": 5.55
+        }
+      },
+      "election": {
+        "winner": "Wendell S. Walker",
+        "party": "REP",
+        "pct": 55.78,
+        "unopposed": false
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Virginia House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72427,
+        "medianAge": 45.6,
+        "totalPopulation": 88107,
+        "collegePct": 31.8,
+        "renterRatePct": 20.97,
+        "race": {
+          "whitePct": 79.98,
+          "nonHispanicWhitePct": 79.37,
+          "blackPct": 11.68,
+          "asianPct": 1.16,
+          "hispanicPct": 2.95
+        }
+      },
+      "election": {
+        "winner": "Timothy P. Griffin",
+        "party": "REP",
+        "pct": 69.42,
+        "unopposed": false
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Virginia House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74434,
+        "medianAge": 31.8,
+        "totalPopulation": 88767,
+        "collegePct": 60.01,
+        "renterRatePct": 56.52,
+        "race": {
+          "whitePct": 67.59,
+          "nonHispanicWhitePct": 63.75,
+          "blackPct": 15.2,
+          "asianPct": 7.73,
+          "hispanicPct": 9.03
+        }
+      },
+      "election": {
+        "winner": "Katrina E. Callsen",
+        "party": "DEM",
+        "pct": 97.57,
+        "unopposed": false
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Virginia House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113623,
+        "medianAge": 45.2,
+        "totalPopulation": 84490,
+        "collegePct": 56.86,
+        "renterRatePct": 19.59,
+        "race": {
+          "whitePct": 82.29,
+          "nonHispanicWhitePct": 80.64,
+          "blackPct": 6.93,
+          "asianPct": 3.28,
+          "hispanicPct": 4.76
+        }
+      },
+      "election": {
+        "winner": "Amy J. Laufer",
+        "party": "DEM",
+        "pct": 91.55,
+        "unopposed": false
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Virginia House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74539,
+        "medianAge": 43.9,
+        "totalPopulation": 89803,
+        "collegePct": 26.34,
+        "renterRatePct": 17.9,
+        "race": {
+          "whitePct": 71.95,
+          "nonHispanicWhitePct": 70.97,
+          "blackPct": 20.45,
+          "asianPct": 0.4,
+          "hispanicPct": 3.28
+        }
+      },
+      "election": {
+        "winner": "Thomas A. Tom Garrett, Jr.",
+        "party": "REP",
+        "pct": 60.77,
+        "unopposed": false
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Virginia House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 132167,
+        "medianAge": 41.3,
+        "totalPopulation": 87410,
+        "collegePct": 66.67,
+        "renterRatePct": 26.86,
+        "race": {
+          "whitePct": 62.76,
+          "nonHispanicWhitePct": 61.11,
+          "blackPct": 7.94,
+          "asianPct": 21.25,
+          "hispanicPct": 5.89
+        }
+      },
+      "election": {
+        "winner": "May Shelor",
+        "party": "DEM",
+        "pct": 55.54,
+        "unopposed": false
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Virginia House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94223,
+        "medianAge": 37.6,
+        "totalPopulation": 84645,
+        "collegePct": 57.22,
+        "renterRatePct": 39.97,
+        "race": {
+          "whitePct": 69.38,
+          "nonHispanicWhitePct": 67.9,
+          "blackPct": 11.28,
+          "asianPct": 8.61,
+          "hispanicPct": 7.16
+        }
+      },
+      "election": {
+        "winner": "Rodney T. Willett",
+        "party": "DEM",
+        "pct": 61.33,
+        "unopposed": false
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Virginia House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90000,
+        "medianAge": 42.8,
+        "totalPopulation": 87183,
+        "collegePct": 38.22,
+        "renterRatePct": 20.69,
+        "race": {
+          "whitePct": 74.23,
+          "nonHispanicWhitePct": 72.88,
+          "blackPct": 14.08,
+          "asianPct": 3.25,
+          "hispanicPct": 4.71
+        }
+      },
+      "election": {
+        "winner": "H. F. Buddy Fowler Jr.",
+        "party": "REP",
+        "pct": 56.82,
+        "unopposed": false
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Virginia House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 117413,
+        "medianAge": 42.7,
+        "totalPopulation": 87034,
+        "collegePct": 41.52,
+        "renterRatePct": 13.94,
+        "race": {
+          "whitePct": 82.94,
+          "nonHispanicWhitePct": 82.02,
+          "blackPct": 8.49,
+          "asianPct": 1.75,
+          "hispanicPct": 2.31
+        }
+      },
+      "election": {
+        "winner": "Scott A. Wyatt",
+        "party": "REP",
+        "pct": 63.92,
+        "unopposed": false
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Virginia House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119925,
+        "medianAge": 41,
+        "totalPopulation": 86938,
+        "collegePct": 37.04,
+        "renterRatePct": 18.65,
+        "race": {
+          "whitePct": 81.46,
+          "nonHispanicWhitePct": 77.56,
+          "blackPct": 6.44,
+          "asianPct": 1.53,
+          "hispanicPct": 9.7
+        }
+      },
+      "election": {
+        "winner": "Michael J. Webert",
+        "party": "REP",
+        "pct": 61.74,
+        "unopposed": false
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Virginia House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84783,
+        "medianAge": 39.8,
+        "totalPopulation": 87746,
+        "collegePct": 26.76,
+        "renterRatePct": 28.16,
+        "race": {
+          "whitePct": 73.05,
+          "nonHispanicWhitePct": 71.39,
+          "blackPct": 12.35,
+          "asianPct": 1.34,
+          "hispanicPct": 10.24
+        }
+      },
+      "election": {
+        "winner": "Karen F. Hamilton",
+        "party": "REP",
+        "pct": 58.2,
+        "unopposed": false
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Virginia House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115398,
+        "medianAge": 39.5,
+        "totalPopulation": 89042,
+        "collegePct": 33.04,
+        "renterRatePct": 11.98,
+        "race": {
+          "whitePct": 70.05,
+          "nonHispanicWhitePct": 67.95,
+          "blackPct": 12.25,
+          "asianPct": 2,
+          "hispanicPct": 12.46
+        }
+      },
+      "election": {
+        "winner": "Philip A. Phil Scott",
+        "party": "REP",
+        "pct": 55.87,
+        "unopposed": false
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Virginia House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 153454,
+        "medianAge": 36.8,
+        "totalPopulation": 88005,
+        "collegePct": 44.74,
+        "renterRatePct": 14.35,
+        "race": {
+          "whitePct": 57.82,
+          "nonHispanicWhitePct": 54.51,
+          "blackPct": 19.1,
+          "asianPct": 3.46,
+          "hispanicPct": 15.35
+        }
+      },
+      "election": {
+        "winner": "Stacey A. Carroll",
+        "party": "DEM",
+        "pct": 53.17,
+        "unopposed": false
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Virginia House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98195,
+        "medianAge": 37.1,
+        "totalPopulation": 87435,
+        "collegePct": 41.84,
+        "renterRatePct": 35.69,
+        "race": {
+          "whitePct": 63.47,
+          "nonHispanicWhitePct": 60.31,
+          "blackPct": 16.64,
+          "asianPct": 3.47,
+          "hispanicPct": 11.52
+        }
+      },
+      "election": {
+        "winner": "Joshua Cole",
+        "party": "DEM",
+        "pct": 58.88,
+        "unopposed": false
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "Virginia House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101865,
+        "medianAge": 37.7,
+        "totalPopulation": 83511,
+        "collegePct": 32.45,
+        "renterRatePct": 22.16,
+        "race": {
+          "whitePct": 61.66,
+          "nonHispanicWhitePct": 59.6,
+          "blackPct": 21.86,
+          "asianPct": 2.47,
+          "hispanicPct": 10.21
+        }
+      },
+      "election": {
+        "winner": "Nicole Tarleton Cole",
+        "party": "DEM",
+        "pct": 52.15,
+        "unopposed": false
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "Virginia House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80426,
+        "medianAge": 46.7,
+        "totalPopulation": 88911,
+        "collegePct": 28.87,
+        "renterRatePct": 20.8,
+        "race": {
+          "whitePct": 67.57,
+          "nonHispanicWhitePct": 66.34,
+          "blackPct": 20.88,
+          "asianPct": 1.44,
+          "hispanicPct": 5.35
+        }
+      },
+      "election": {
+        "winner": "Hilary Pugh Kent",
+        "party": "REP",
+        "pct": 61.12,
+        "unopposed": false
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "Virginia House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79648,
+        "medianAge": 46.5,
+        "totalPopulation": 86318,
+        "collegePct": 25.47,
+        "renterRatePct": 16.98,
+        "race": {
+          "whitePct": 78.41,
+          "nonHispanicWhitePct": 77,
+          "blackPct": 14.99,
+          "asianPct": 0.53,
+          "hispanicPct": 3.46
+        }
+      },
+      "election": {
+        "winner": "M. Keith Hodges",
+        "party": "REP",
+        "pct": 67.57,
+        "unopposed": false
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "Virginia House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102070,
+        "medianAge": 39.9,
+        "totalPopulation": 89102,
+        "collegePct": 44.26,
+        "renterRatePct": 26.52,
+        "race": {
+          "whitePct": 69.71,
+          "nonHispanicWhitePct": 67.68,
+          "blackPct": 15.04,
+          "asianPct": 3.78,
+          "hispanicPct": 8.41
+        }
+      },
+      "election": {
+        "winner": "Mark C. Downey",
+        "party": "DEM",
+        "pct": 49.81,
+        "unopposed": false
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "Virginia House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74289,
+        "medianAge": 34.8,
+        "totalPopulation": 86185,
+        "collegePct": 32.22,
+        "renterRatePct": 43.02,
+        "race": {
+          "whitePct": 49.22,
+          "nonHispanicWhitePct": 46.25,
+          "blackPct": 32.24,
+          "asianPct": 4.63,
+          "hispanicPct": 11.11
+        }
+      },
+      "election": {
+        "winner": "Sheila L. Adams",
+        "party": "DEM",
+        "pct": 63.37,
+        "unopposed": false
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "Virginia House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101435,
+        "medianAge": 43.4,
+        "totalPopulation": 85153,
+        "collegePct": 47.31,
+        "renterRatePct": 24.61,
+        "race": {
+          "whitePct": 74.17,
+          "nonHispanicWhitePct": 72.31,
+          "blackPct": 13.19,
+          "asianPct": 3.38,
+          "hispanicPct": 6
+        }
+      },
+      "election": {
+        "winner": "Lesley L. Anderson",
+        "party": "DEM",
+        "pct": 53.19,
+        "unopposed": false
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "Virginia House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95230,
+        "medianAge": 43.4,
+        "totalPopulation": 91158,
+        "collegePct": 39.53,
+        "renterRatePct": 18.04,
+        "race": {
+          "whitePct": 77.21,
+          "nonHispanicWhitePct": 76.26,
+          "blackPct": 14.68,
+          "asianPct": 1.62,
+          "hispanicPct": 4.18
+        }
+      },
+      "election": {
+        "winner": "R. Lee Ware Jr.",
+        "party": "REP",
+        "pct": 61.59,
+        "unopposed": false
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "Virginia House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 129594,
+        "medianAge": 39.5,
+        "totalPopulation": 93054,
+        "collegePct": 57.76,
+        "renterRatePct": 13.87,
+        "race": {
+          "whitePct": 72.82,
+          "nonHispanicWhitePct": 71.46,
+          "blackPct": 12.27,
+          "asianPct": 6.07,
+          "hispanicPct": 5.1
+        }
+      },
+      "election": {
+        "winner": "Liz C. Mehta",
+        "party": "DEM",
+        "pct": 51.78,
+        "unopposed": false
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "Virginia House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95557,
+        "medianAge": 39.4,
+        "totalPopulation": 86112,
+        "collegePct": 36.29,
+        "renterRatePct": 21.22,
+        "race": {
+          "whitePct": 63.51,
+          "nonHispanicWhitePct": 61.48,
+          "blackPct": 25.15,
+          "asianPct": 2.44,
+          "hispanicPct": 6.51
+        }
+      },
+      "election": {
+        "winner": "Mike A. Cherry",
+        "party": "REP",
+        "pct": 52.4,
+        "unopposed": false
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "Virginia House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77068,
+        "medianAge": 36.6,
+        "totalPopulation": 87999,
+        "collegePct": 26.72,
+        "renterRatePct": 34.86,
+        "race": {
+          "whitePct": 48.41,
+          "nonHispanicWhitePct": 45.9,
+          "blackPct": 35.03,
+          "asianPct": 2.88,
+          "hispanicPct": 11.24
+        }
+      },
+      "election": {
+        "winner": "Lindsey M. Dougherty",
+        "party": "DEM",
+        "pct": 52.94,
+        "unopposed": false
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "Virginia House District 76",
+      "census": {
+        "censusName": "State House District 76 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83662,
+        "medianAge": 36.9,
+        "totalPopulation": 87193,
+        "collegePct": 29.82,
+        "renterRatePct": 24.94,
+        "race": {
+          "whitePct": 42.69,
+          "nonHispanicWhitePct": 40.86,
+          "blackPct": 33.46,
+          "asianPct": 2.29,
+          "hispanicPct": 19.43
+        }
+      },
+      "election": {
+        "winner": "Peter O. Gardner",
+        "party": "DEM",
+        "pct": 68.57,
+        "unopposed": false
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "Virginia House District 77",
+      "census": {
+        "censusName": "State House District 77 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64727,
+        "medianAge": 36.4,
+        "totalPopulation": 89660,
+        "collegePct": 32.05,
+        "renterRatePct": 42.59,
+        "race": {
+          "whitePct": 38.75,
+          "nonHispanicWhitePct": 34.09,
+          "blackPct": 41.3,
+          "asianPct": 1.45,
+          "hispanicPct": 19.77
+        }
+      },
+      "election": {
+        "winner": "Michael J. Jones",
+        "party": "DEM",
+        "pct": 78.43,
+        "unopposed": false
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "Virginia House District 78",
+      "census": {
+        "censusName": "State House District 78 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83986,
+        "medianAge": 35.2,
+        "totalPopulation": 82038,
+        "collegePct": 67.55,
+        "renterRatePct": 50.84,
+        "race": {
+          "whitePct": 71.83,
+          "nonHispanicWhitePct": 70.22,
+          "blackPct": 15.87,
+          "asianPct": 3.76,
+          "hispanicPct": 5.06
+        }
+      },
+      "election": {
+        "winner": "Betsy C. Carr",
+        "party": "DEM",
+        "pct": 80.67,
+        "unopposed": false
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "Virginia House District 79",
+      "census": {
+        "censusName": "State House District 79 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49359,
+        "medianAge": 33.5,
+        "totalPopulation": 91077,
+        "collegePct": 32.91,
+        "renterRatePct": 65.99,
+        "race": {
+          "whitePct": 27.63,
+          "nonHispanicWhitePct": 26.74,
+          "blackPct": 60.34,
+          "asianPct": 1.53,
+          "hispanicPct": 6.76
+        }
+      },
+      "election": {
+        "winner": "Rae C. Cousins",
+        "party": "DEM",
+        "pct": 92.2,
+        "unopposed": false
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "Virginia House District 80",
+      "census": {
+        "censusName": "State House District 80 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64882,
+        "medianAge": 38.1,
+        "totalPopulation": 88459,
+        "collegePct": 29.86,
+        "renterRatePct": 44.33,
+        "race": {
+          "whitePct": 33.94,
+          "nonHispanicWhitePct": 32.73,
+          "blackPct": 49.98,
+          "asianPct": 3.72,
+          "hispanicPct": 9.65
+        }
+      },
+      "election": {
+        "winner": "Delores L. McGuinn",
+        "party": "DEM",
+        "pct": 94.99,
+        "unopposed": false
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "Virginia House District 81",
+      "census": {
+        "censusName": "State House District 81 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64564,
+        "medianAge": 40.9,
+        "totalPopulation": 82488,
+        "collegePct": 23.97,
+        "renterRatePct": 31.81,
+        "race": {
+          "whitePct": 36.68,
+          "nonHispanicWhitePct": 35.36,
+          "blackPct": 50.69,
+          "asianPct": 1.14,
+          "hispanicPct": 8.89
+        }
+      },
+      "election": {
+        "winner": "Delores L. McGuinn",
+        "party": "DEM",
+        "pct": 92.66,
+        "unopposed": false
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "Virginia House District 82",
+      "census": {
+        "censusName": "State House District 82 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68047,
+        "medianAge": 40,
+        "totalPopulation": 85884,
+        "collegePct": 23.63,
+        "renterRatePct": 36.61,
+        "race": {
+          "whitePct": 46.24,
+          "nonHispanicWhitePct": 44.41,
+          "blackPct": 46.98,
+          "asianPct": 0.95,
+          "hispanicPct": 5.64
+        }
+      },
+      "election": {
+        "winner": "Timothy Pope Adams",
+        "party": "DEM",
+        "pct": 53.84,
+        "unopposed": false
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "Virginia House District 83",
+      "census": {
+        "censusName": "State House District 83 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70843,
+        "medianAge": 43.4,
+        "totalPopulation": 92429,
+        "collegePct": 21.45,
+        "renterRatePct": 26.75,
+        "race": {
+          "whitePct": 52.46,
+          "nonHispanicWhitePct": 51.72,
+          "blackPct": 39.64,
+          "asianPct": 0.69,
+          "hispanicPct": 3.63
+        }
+      },
+      "election": {
+        "winner": "H. Otto Wachsmann, Jr.",
+        "party": "REP",
+        "pct": 54.44,
+        "unopposed": false
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "Virginia House District 84",
+      "census": {
+        "censusName": "State House District 84 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85266,
+        "medianAge": 39.5,
+        "totalPopulation": 88797,
+        "collegePct": 31.56,
+        "renterRatePct": 33.59,
+        "race": {
+          "whitePct": 47.93,
+          "nonHispanicWhitePct": 47.2,
+          "blackPct": 41.74,
+          "asianPct": 1.98,
+          "hispanicPct": 4.48
+        }
+      },
+      "election": {
+        "winner": "Madeline E. Clark",
+        "party": "DEM",
+        "pct": 60.19,
+        "unopposed": false
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "Virginia House District 85",
+      "census": {
+        "censusName": "State House District 85 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59454,
+        "medianAge": 34.7,
+        "totalPopulation": 88360,
+        "collegePct": 26.52,
+        "renterRatePct": 59.53,
+        "race": {
+          "whitePct": 35.72,
+          "nonHispanicWhitePct": 33.73,
+          "blackPct": 50.37,
+          "asianPct": 1.78,
+          "hispanicPct": 9.18
+        }
+      },
+      "election": {
+        "winner": "Marcia S. Price",
+        "party": "DEM",
+        "pct": 94.94,
+        "unopposed": false
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "Virginia House District 86",
+      "census": {
+        "censusName": "State House District 86 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86009,
+        "medianAge": 37.8,
+        "totalPopulation": 86309,
+        "collegePct": 37.11,
+        "renterRatePct": 33.71,
+        "race": {
+          "whitePct": 60.44,
+          "nonHispanicWhitePct": 58.52,
+          "blackPct": 24.93,
+          "asianPct": 3.97,
+          "hispanicPct": 6.11
+        }
+      },
+      "election": {
+        "winner": "Wren Williams",
+        "party": "DEM",
+        "pct": 53.85,
+        "unopposed": false
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "Virginia House District 87",
+      "census": {
+        "censusName": "State House District 87 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65856,
+        "medianAge": 35.8,
+        "totalPopulation": 86288,
+        "collegePct": 26.39,
+        "renterRatePct": 49.22,
+        "race": {
+          "whitePct": 28.76,
+          "nonHispanicWhitePct": 26.88,
+          "blackPct": 57.38,
+          "asianPct": 2.11,
+          "hispanicPct": 7.51
+        }
+      },
+      "election": {
+        "winner": "Jeion A. Ward",
+        "party": "DEM",
+        "pct": 79.46,
+        "unopposed": false
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "Virginia House District 88",
+      "census": {
+        "censusName": "State House District 88 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59771,
+        "medianAge": 35.1,
+        "totalPopulation": 85500,
+        "collegePct": 23.45,
+        "renterRatePct": 44.51,
+        "race": {
+          "whitePct": 38.47,
+          "nonHispanicWhitePct": 37.44,
+          "blackPct": 49.45,
+          "asianPct": 1.64,
+          "hispanicPct": 5.41
+        }
+      },
+      "election": {
+        "winner": "Don L. Scott Jr.",
+        "party": "DEM",
+        "pct": 94.13,
+        "unopposed": false
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "Virginia House District 89",
+      "census": {
+        "censusName": "State House District 89 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107397,
+        "medianAge": 38,
+        "totalPopulation": 88868,
+        "collegePct": 38.17,
+        "renterRatePct": 16.93,
+        "race": {
+          "whitePct": 56.56,
+          "nonHispanicWhitePct": 55.39,
+          "blackPct": 29.15,
+          "asianPct": 3.41,
+          "hispanicPct": 5.79
+        }
+      },
+      "election": {
+        "winner": "Kagan Carnegie",
+        "party": "DEM",
+        "pct": 54.6,
+        "unopposed": false
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "Virginia House District 90",
+      "census": {
+        "censusName": "State House District 90 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119513,
+        "medianAge": 40.5,
+        "totalPopulation": 88576,
+        "collegePct": 43.14,
+        "renterRatePct": 14.67,
+        "race": {
+          "whitePct": 73,
+          "nonHispanicWhitePct": 70.72,
+          "blackPct": 13.33,
+          "asianPct": 4.32,
+          "hispanicPct": 6.28
+        }
+      },
+      "election": {
+        "winner": "James A. Leftwich Jr.",
+        "party": "REP",
+        "pct": 59.3,
+        "unopposed": false
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "Virginia House District 91",
+      "census": {
+        "censusName": "State House District 91 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66739,
+        "medianAge": 37.1,
+        "totalPopulation": 87292,
+        "collegePct": 26.85,
+        "renterRatePct": 39.14,
+        "race": {
+          "whitePct": 38.78,
+          "nonHispanicWhitePct": 37.25,
+          "blackPct": 46.89,
+          "asianPct": 2.41,
+          "hispanicPct": 9.14
+        }
+      },
+      "election": {
+        "winner": "C. E. Clifford Hayes Jr.",
+        "party": "DEM",
+        "pct": 92.72,
+        "unopposed": false
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "Virginia House District 92",
+      "census": {
+        "censusName": "State House District 92 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60800,
+        "medianAge": 30.5,
+        "totalPopulation": 86998,
+        "collegePct": 34.07,
+        "renterRatePct": 60.31,
+        "race": {
+          "whitePct": 35.44,
+          "nonHispanicWhitePct": 34.18,
+          "blackPct": 52.21,
+          "asianPct": 3.18,
+          "hispanicPct": 5.63
+        }
+      },
+      "election": {
+        "winner": "Doneca Anthony",
+        "party": "DEM",
+        "pct": 80.31,
+        "unopposed": false
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "Virginia House District 93",
+      "census": {
+        "censusName": "State House District 93 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64971,
+        "medianAge": 35.7,
+        "totalPopulation": 86261,
+        "collegePct": 27.79,
+        "renterRatePct": 49.66,
+        "race": {
+          "whitePct": 34.8,
+          "nonHispanicWhitePct": 32.6,
+          "blackPct": 48.56,
+          "asianPct": 4.44,
+          "hispanicPct": 9.71
+        }
+      },
+      "election": {
+        "winner": "Jackie Hope Glass",
+        "party": "DEM",
+        "pct": 95.16,
+        "unopposed": false
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "Virginia House District 94",
+      "census": {
+        "censusName": "State House District 94 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66986,
+        "medianAge": 30.8,
+        "totalPopulation": 79944,
+        "collegePct": 34.12,
+        "renterRatePct": 50.83,
+        "race": {
+          "whitePct": 61.04,
+          "nonHispanicWhitePct": 57.17,
+          "blackPct": 20.65,
+          "asianPct": 3.18,
+          "hispanicPct": 13.03
+        }
+      },
+      "election": {
+        "winner": "Phil A. Hernandez",
+        "party": "DEM",
+        "pct": 61.26,
+        "unopposed": false
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "Virginia House District 95",
+      "census": {
+        "censusName": "State House District 95 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68688,
+        "medianAge": 34.6,
+        "totalPopulation": 81894,
+        "collegePct": 28.72,
+        "renterRatePct": 47.87,
+        "race": {
+          "whitePct": 44.79,
+          "nonHispanicWhitePct": 42.51,
+          "blackPct": 34.44,
+          "asianPct": 6.86,
+          "hispanicPct": 11.88
+        }
+      },
+      "election": {
+        "winner": "Alex Q. Askew",
+        "party": "DEM",
+        "pct": 93.18,
+        "unopposed": false
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "Virginia House District 96",
+      "census": {
+        "censusName": "State House District 96 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93996,
+        "medianAge": 35.5,
+        "totalPopulation": 88602,
+        "collegePct": 33.82,
+        "renterRatePct": 28.61,
+        "race": {
+          "whitePct": 45.12,
+          "nonHispanicWhitePct": 43,
+          "blackPct": 26.72,
+          "asianPct": 13.28,
+          "hispanicPct": 10.18
+        }
+      },
+      "election": {
+        "winner": "Kelly K. Convirs-Fowler",
+        "party": "DEM",
+        "pct": 60.28,
+        "unopposed": false
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "Virginia House District 97",
+      "census": {
+        "censusName": "State House District 97 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77069,
+        "medianAge": 37.8,
+        "totalPopulation": 85046,
+        "collegePct": 35.31,
+        "renterRatePct": 39.51,
+        "race": {
+          "whitePct": 59.49,
+          "nonHispanicWhitePct": 56.72,
+          "blackPct": 20.22,
+          "asianPct": 5.77,
+          "hispanicPct": 9.62
+        }
+      },
+      "election": {
+        "winner": "Michael B. Feggans",
+        "party": "DEM",
+        "pct": 57.41,
+        "unopposed": false
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "Virginia House District 98",
+      "census": {
+        "censusName": "State House District 98 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119519,
+        "medianAge": 38.8,
+        "totalPopulation": 87289,
+        "collegePct": 44.3,
+        "renterRatePct": 16.23,
+        "race": {
+          "whitePct": 72.74,
+          "nonHispanicWhitePct": 70.4,
+          "blackPct": 9.79,
+          "asianPct": 6.5,
+          "hispanicPct": 8.04
+        }
+      },
+      "election": {
+        "winner": "Barry D. Knight",
+        "party": "REP",
+        "pct": 56.64,
+        "unopposed": false
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "Virginia House District 99",
+      "census": {
+        "censusName": "State House District 99 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100105,
+        "medianAge": 41.2,
+        "totalPopulation": 82726,
+        "collegePct": 53.59,
+        "renterRatePct": 40.24,
+        "race": {
+          "whitePct": 78.1,
+          "nonHispanicWhitePct": 76.36,
+          "blackPct": 8.96,
+          "asianPct": 4.21,
+          "hispanicPct": 6.26
+        }
+      },
+      "election": {
+        "winner": "Anne Ferrell Tata",
+        "party": "REP",
+        "pct": 53.88,
+        "unopposed": false
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "Virginia House District 100",
+      "census": {
+        "censusName": "State House District 100 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72481,
+        "medianAge": 43,
+        "totalPopulation": 84408,
+        "collegePct": 35.58,
+        "renterRatePct": 33.65,
+        "race": {
+          "whitePct": 67.44,
+          "nonHispanicWhitePct": 65.1,
+          "blackPct": 19.76,
+          "asianPct": 2.91,
+          "hispanicPct": 8.82
+        }
+      },
+      "election": {
+        "winner": "Robert S. Bloxom Jr.",
+        "party": "REP",
+        "pct": 52.87,
+        "unopposed": false
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Virginia Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82458,
+        "medianAge": 41.1,
+        "totalPopulation": 222130,
+        "collegePct": 28.06,
+        "renterRatePct": 28.05,
+        "race": {
+          "whitePct": 82.01,
+          "nonHispanicWhitePct": 78.8,
+          "blackPct": 4.86,
+          "asianPct": 1.66,
+          "hispanicPct": 10.94
+        }
+      },
+      "election": {
+        "winner": "Timmy F. French",
+        "party": "REP",
+        "pct": 58.23,
+        "unopposed": false
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Virginia Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72251,
+        "medianAge": 38.5,
+        "totalPopulation": 217100,
+        "collegePct": 26.93,
+        "renterRatePct": 31.62,
+        "race": {
+          "whitePct": 83.66,
+          "nonHispanicWhitePct": 80.95,
+          "blackPct": 4.27,
+          "asianPct": 1.34,
+          "hispanicPct": 10.25
+        }
+      },
+      "election": {
+        "winner": "Mark D. Obenshain",
+        "party": "REP",
+        "pct": 69.36,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Virginia Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67819,
+        "medianAge": 44.4,
+        "totalPopulation": 211842,
+        "collegePct": 27.84,
+        "renterRatePct": 26.25,
+        "race": {
+          "whitePct": 85.91,
+          "nonHispanicWhitePct": 84.5,
+          "blackPct": 6.66,
+          "asianPct": 1.25,
+          "hispanicPct": 3.71
+        }
+      },
+      "election": {
+        "winner": "Christopher T. Head",
+        "party": "REP",
+        "pct": 65.88,
+        "unopposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Virginia Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65181,
+        "medianAge": 40.1,
+        "totalPopulation": 217501,
+        "collegePct": 34.82,
+        "renterRatePct": 38.6,
+        "race": {
+          "whitePct": 72.97,
+          "nonHispanicWhitePct": 71.52,
+          "blackPct": 15.6,
+          "asianPct": 3.3,
+          "hispanicPct": 6.24
+        }
+      },
+      "election": {
+        "winner": "David Robert Suetterlein",
+        "party": "REP",
+        "pct": 53.22,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Virginia Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54963,
+        "medianAge": 37.4,
+        "totalPopulation": 219006,
+        "collegePct": 27.41,
+        "renterRatePct": 36.01,
+        "race": {
+          "whitePct": 88.98,
+          "nonHispanicWhitePct": 87.89,
+          "blackPct": 3.94,
+          "asianPct": 2.92,
+          "hispanicPct": 2.64
+        }
+      },
+      "election": {
+        "winner": "T. Travis Hackworth",
+        "party": "REP",
+        "pct": 66.78,
+        "unopposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Virginia Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49575,
+        "medianAge": 45.6,
+        "totalPopulation": 213242,
+        "collegePct": 17.64,
+        "renterRatePct": 25.43,
+        "race": {
+          "whitePct": 93.97,
+          "nonHispanicWhitePct": 93.53,
+          "blackPct": 2.89,
+          "asianPct": 0.29,
+          "hispanicPct": 1.49
+        }
+      },
+      "election": {
+        "winner": "Todd E. Pillion",
+        "party": "REP",
+        "pct": 97.1,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Virginia Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54613,
+        "medianAge": 47.8,
+        "totalPopulation": 217163,
+        "collegePct": 18.67,
+        "renterRatePct": 22.56,
+        "race": {
+          "whitePct": 82.44,
+          "nonHispanicWhitePct": 81.09,
+          "blackPct": 11.33,
+          "asianPct": 0.51,
+          "hispanicPct": 4.77
+        }
+      },
+      "election": {
+        "winner": "William M. Stanley, Jr.",
+        "party": "REP",
+        "pct": 75.71,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Virginia Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68182,
+        "medianAge": 39.1,
+        "totalPopulation": 214907,
+        "collegePct": 32.95,
+        "renterRatePct": 30.16,
+        "race": {
+          "whitePct": 75.35,
+          "nonHispanicWhitePct": 74.24,
+          "blackPct": 16.16,
+          "asianPct": 1.52,
+          "hispanicPct": 3.7
+        }
+      },
+      "election": {
+        "winner": "Mark J. Peake",
+        "party": "REP",
+        "pct": 70.1,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Virginia Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51280,
+        "medianAge": 45.1,
+        "totalPopulation": 215444,
+        "collegePct": 17.48,
+        "renterRatePct": 31.43,
+        "race": {
+          "whitePct": 60.81,
+          "nonHispanicWhitePct": 59.62,
+          "blackPct": 33.06,
+          "asianPct": 0.74,
+          "hispanicPct": 3.75
+        }
+      },
+      "election": {
+        "winner": "Frank M. Ruff Jr.",
+        "party": "REP",
+        "pct": 92.58,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Virginia Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83603,
+        "medianAge": 43.9,
+        "totalPopulation": 222024,
+        "collegePct": 31.53,
+        "renterRatePct": 18.49,
+        "race": {
+          "whitePct": 75.95,
+          "nonHispanicWhitePct": 74.86,
+          "blackPct": 15.96,
+          "asianPct": 0.75,
+          "hispanicPct": 3.76
+        }
+      },
+      "election": {
+        "winner": "John J. McGuire III",
+        "party": "REP",
+        "pct": 91.16,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Virginia Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86936,
+        "medianAge": 39.5,
+        "totalPopulation": 215283,
+        "collegePct": 51.65,
+        "renterRatePct": 35.53,
+        "race": {
+          "whitePct": 74.92,
+          "nonHispanicWhitePct": 72.48,
+          "blackPct": 12.13,
+          "asianPct": 4.68,
+          "hispanicPct": 6.32
+        }
+      },
+      "election": {
+        "winner": "R. Creigh Deeds",
+        "party": "DEM",
+        "pct": 65.61,
+        "unopposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Virginia Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113980,
+        "medianAge": 40.1,
+        "totalPopulation": 223445,
+        "collegePct": 50.63,
+        "renterRatePct": 17.88,
+        "race": {
+          "whitePct": 71.41,
+          "nonHispanicWhitePct": 69.61,
+          "blackPct": 15.76,
+          "asianPct": 4.17,
+          "hispanicPct": 6.05
+        }
+      },
+      "election": {
+        "winner": "Glen H. Sturtevant Jr.",
+        "party": "REP",
+        "pct": 54.72,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Virginia Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66161,
+        "medianAge": 39,
+        "totalPopulation": 212307,
+        "collegePct": 22.83,
+        "renterRatePct": 35.82,
+        "race": {
+          "whitePct": 40.31,
+          "nonHispanicWhitePct": 38.73,
+          "blackPct": 50.53,
+          "asianPct": 1.19,
+          "hispanicPct": 6.04
+        }
+      },
+      "election": {
+        "winner": "Lionel A. Aird",
+        "party": "DEM",
+        "pct": 59.82,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Virginia Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65938,
+        "medianAge": 34.9,
+        "totalPopulation": 218154,
+        "collegePct": 47.38,
+        "renterRatePct": 53.21,
+        "race": {
+          "whitePct": 46.44,
+          "nonHispanicWhitePct": 45.26,
+          "blackPct": 42.99,
+          "asianPct": 2.34,
+          "hispanicPct": 4.83
+        }
+      },
+      "election": {
+        "winner": "Lamont Bagby",
+        "party": "DEM",
+        "pct": 95.34,
+        "unopposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Virginia Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72133,
+        "medianAge": 36.8,
+        "totalPopulation": 223469,
+        "collegePct": 27.76,
+        "renterRatePct": 36.47,
+        "race": {
+          "whitePct": 38.13,
+          "nonHispanicWhitePct": 35.04,
+          "blackPct": 38.37,
+          "asianPct": 2.18,
+          "hispanicPct": 20.68
+        }
+      },
+      "election": {
+        "winner": "Ghazala F. Hashmi",
+        "party": "DEM",
+        "pct": 62.16,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Virginia Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99417,
+        "medianAge": 38.7,
+        "totalPopulation": 218413,
+        "collegePct": 55.45,
+        "renterRatePct": 36.53,
+        "race": {
+          "whitePct": 61.46,
+          "nonHispanicWhitePct": 59.93,
+          "blackPct": 14.02,
+          "asianPct": 13.86,
+          "hispanicPct": 7.5
+        }
+      },
+      "election": {
+        "winner": "Schuyler T. VanValkenburg",
+        "party": "DEM",
+        "pct": 54.666,
+        "unopposed": false
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Virginia Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79957,
+        "medianAge": 40.6,
+        "totalPopulation": 223823,
+        "collegePct": 26.61,
+        "renterRatePct": 28.67,
+        "race": {
+          "whitePct": 50.12,
+          "nonHispanicWhitePct": 49.21,
+          "blackPct": 40.15,
+          "asianPct": 1.42,
+          "hispanicPct": 4.6
+        }
+      },
+      "election": {
+        "winner": "Emily Marie Brewer",
+        "party": "REP",
+        "pct": 52.27,
+        "unopposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Virginia Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67499,
+        "medianAge": 36.1,
+        "totalPopulation": 213233,
+        "collegePct": 27.45,
+        "renterRatePct": 37.75,
+        "race": {
+          "whitePct": 42.62,
+          "nonHispanicWhitePct": 41.36,
+          "blackPct": 44.47,
+          "asianPct": 2.37,
+          "hispanicPct": 6.2
+        }
+      },
+      "election": {
+        "winner": "L. Louise Lucas",
+        "party": "DEM",
+        "pct": 58.87,
+        "unopposed": false
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Virginia Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 117257,
+        "medianAge": 38.8,
+        "totalPopulation": 212971,
+        "collegePct": 43.44,
+        "renterRatePct": 19.61,
+        "race": {
+          "whitePct": 69.76,
+          "nonHispanicWhitePct": 67.48,
+          "blackPct": 13.53,
+          "asianPct": 5.5,
+          "hispanicPct": 8.09
+        }
+      },
+      "election": {
+        "winner": "Christie New Craig",
+        "party": "REP",
+        "pct": 58.11,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Virginia Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80273,
+        "medianAge": 40.9,
+        "totalPopulation": 214702,
+        "collegePct": 41.36,
+        "renterRatePct": 38.9,
+        "race": {
+          "whitePct": 70.59,
+          "nonHispanicWhitePct": 68.37,
+          "blackPct": 15.32,
+          "asianPct": 3.57,
+          "hispanicPct": 8.09
+        }
+      },
+      "election": {
+        "winner": "William R. Bill DeSteph",
+        "party": "REP",
+        "pct": 56.9,
+        "unopposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Virginia Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62462,
+        "medianAge": 31.8,
+        "totalPopulation": 209641,
+        "collegePct": 32.51,
+        "renterRatePct": 55.73,
+        "race": {
+          "whitePct": 41.26,
+          "nonHispanicWhitePct": 38.85,
+          "blackPct": 42.65,
+          "asianPct": 3.7,
+          "hispanicPct": 9.65
+        }
+      },
+      "election": {
+        "winner": "Angela Williams Graves",
+        "party": "DEM",
+        "pct": 77.04,
+        "unopposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Virginia Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81964,
+        "medianAge": 35.8,
+        "totalPopulation": 214070,
+        "collegePct": 33.69,
+        "renterRatePct": 36.37,
+        "race": {
+          "whitePct": 48.94,
+          "nonHispanicWhitePct": 46.66,
+          "blackPct": 27.43,
+          "asianPct": 9.52,
+          "hispanicPct": 10.48
+        }
+      },
+      "election": {
+        "winner": "Aaron N. Rouse",
+        "party": "DEM",
+        "pct": 55.1,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Virginia Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64458,
+        "medianAge": 35.7,
+        "totalPopulation": 215148,
+        "collegePct": 26.84,
+        "renterRatePct": 50.04,
+        "race": {
+          "whitePct": 35.88,
+          "nonHispanicWhitePct": 34.06,
+          "blackPct": 50.69,
+          "asianPct": 2.05,
+          "hispanicPct": 7.56
+        }
+      },
+      "election": {
+        "winner": "Mamie E. Locke",
+        "party": "DEM",
+        "pct": 89.73,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Virginia Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85090,
+        "medianAge": 36,
+        "totalPopulation": 210448,
+        "collegePct": 38.97,
+        "renterRatePct": 38.14,
+        "race": {
+          "whitePct": 59.47,
+          "nonHispanicWhitePct": 56.99,
+          "blackPct": 22.74,
+          "asianPct": 4.91,
+          "hispanicPct": 9.62
+        }
+      },
+      "election": {
+        "winner": "J. D. Diggs",
+        "party": "REP",
+        "pct": 50.43,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Virginia Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85006,
+        "medianAge": 42.8,
+        "totalPopulation": 213554,
+        "collegePct": 29.17,
+        "renterRatePct": 20.78,
+        "race": {
+          "whitePct": 66.11,
+          "nonHispanicWhitePct": 64.54,
+          "blackPct": 21.55,
+          "asianPct": 1.69,
+          "hispanicPct": 6.7
+        }
+      },
+      "election": {
+        "winner": "Richard H. Stuart",
+        "party": "REP",
+        "pct": 61.78,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Virginia Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105138,
+        "medianAge": 45.3,
+        "totalPopulation": 220292,
+        "collegePct": 41.41,
+        "renterRatePct": 17.44,
+        "race": {
+          "whitePct": 81.02,
+          "nonHispanicWhitePct": 79.57,
+          "blackPct": 9.59,
+          "asianPct": 1.77,
+          "hispanicPct": 4.04
+        }
+      },
+      "election": {
+        "winner": "Ryan T. McDougle",
+        "party": "REP",
+        "pct": 62.13,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Virginia Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 121919,
+        "medianAge": 36.8,
+        "totalPopulation": 217621,
+        "collegePct": 41.88,
+        "renterRatePct": 24.82,
+        "race": {
+          "whitePct": 59.6,
+          "nonHispanicWhitePct": 56.47,
+          "blackPct": 18.67,
+          "asianPct": 3.47,
+          "hispanicPct": 14.01
+        }
+      },
+      "election": {
+        "winner": "Tara A. Durant",
+        "party": "REP",
+        "pct": 48.11,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Virginia Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101398,
+        "medianAge": 40.6,
+        "totalPopulation": 216239,
+        "collegePct": 31.32,
+        "renterRatePct": 20.99,
+        "race": {
+          "whitePct": 77.2,
+          "nonHispanicWhitePct": 74.52,
+          "blackPct": 9.4,
+          "asianPct": 1.41,
+          "hispanicPct": 9.8
+        }
+      },
+      "election": {
+        "winner": "Bryce E. Reeves",
+        "party": "REP",
+        "pct": 62.52,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Virginia Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131667,
+        "medianAge": 35.3,
+        "totalPopulation": 214735,
+        "collegePct": 42.06,
+        "renterRatePct": 20.06,
+        "race": {
+          "whitePct": 43.98,
+          "nonHispanicWhitePct": 38.71,
+          "blackPct": 21.72,
+          "asianPct": 9.09,
+          "hispanicPct": 24.85
+        }
+      },
+      "election": {
+        "winner": "Jeremy S. McPike",
+        "party": "DEM",
+        "pct": 56.24,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Virginia Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 126752,
+        "medianAge": 36.1,
+        "totalPopulation": 216325,
+        "collegePct": 42.71,
+        "renterRatePct": 26.89,
+        "race": {
+          "whitePct": 55.13,
+          "nonHispanicWhitePct": 42.66,
+          "blackPct": 12.29,
+          "asianPct": 9.84,
+          "hispanicPct": 30.78
+        }
+      },
+      "election": {
+        "winner": "Danica A. Roem",
+        "party": "DEM",
+        "pct": 51.76,
+        "unopposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Virginia Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 172259,
+        "medianAge": 38.9,
+        "totalPopulation": 225149,
+        "collegePct": 59.82,
+        "renterRatePct": 20.94,
+        "race": {
+          "whitePct": 67.34,
+          "nonHispanicWhitePct": 63.82,
+          "blackPct": 6.54,
+          "asianPct": 11.19,
+          "hispanicPct": 13.76
+        }
+      },
+      "election": {
+        "winner": "Russell W. Perry",
+        "party": "DEM",
+        "pct": 52.74,
+        "unopposed": false
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Virginia Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 180338,
+        "medianAge": 37.4,
+        "totalPopulation": 223228,
+        "collegePct": 65.84,
+        "renterRatePct": 23.43,
+        "race": {
+          "whitePct": 45.89,
+          "nonHispanicWhitePct": 42.51,
+          "blackPct": 8.68,
+          "asianPct": 29.09,
+          "hispanicPct": 14.42
+        }
+      },
+      "election": {
+        "winner": "Suhas Subramanyam",
+        "party": "DEM",
+        "pct": 60.55,
+        "unopposed": false
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Virginia Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 137529,
+        "medianAge": 37.3,
+        "totalPopulation": 216715,
+        "collegePct": 53.15,
+        "renterRatePct": 25.24,
+        "race": {
+          "whitePct": 46.06,
+          "nonHispanicWhitePct": 40.41,
+          "blackPct": 20.48,
+          "asianPct": 11.08,
+          "hispanicPct": 22.51
+        }
+      },
+      "election": {
+        "winner": "Jennifer D. Carroll Foy",
+        "party": "DEM",
+        "pct": 62.85,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Virginia Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131555,
+        "medianAge": 38.2,
+        "totalPopulation": 218088,
+        "collegePct": 57.56,
+        "renterRatePct": 33.19,
+        "race": {
+          "whitePct": 49.58,
+          "nonHispanicWhitePct": 43.83,
+          "blackPct": 19.02,
+          "asianPct": 10.99,
+          "hispanicPct": 21.24
+        }
+      },
+      "election": {
+        "winner": "Scott A. Surovell",
+        "party": "DEM",
+        "pct": 69.75,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Virginia Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 143422,
+        "medianAge": 39.3,
+        "totalPopulation": 214648,
+        "collegePct": 56.7,
+        "renterRatePct": 27.35,
+        "race": {
+          "whitePct": 48.06,
+          "nonHispanicWhitePct": 44.01,
+          "blackPct": 10.24,
+          "asianPct": 21.54,
+          "hispanicPct": 19.45
+        }
+      },
+      "election": {
+        "winner": "David W. Marsden",
+        "party": "DEM",
+        "pct": 67.63,
+        "unopposed": false
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Virginia Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 157077,
+        "medianAge": 39.1,
+        "totalPopulation": 209562,
+        "collegePct": 65.56,
+        "renterRatePct": 28.15,
+        "race": {
+          "whitePct": 48.62,
+          "nonHispanicWhitePct": 45.46,
+          "blackPct": 6.5,
+          "asianPct": 29.18,
+          "hispanicPct": 13.5
+        }
+      },
+      "election": {
+        "winner": "Stella G. Pekarsky",
+        "party": "DEM",
+        "pct": 60.85,
+        "unopposed": false
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Virginia Senate District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 151442,
+        "medianAge": 37.9,
+        "totalPopulation": 214291,
+        "collegePct": 70.66,
+        "renterRatePct": 41.25,
+        "race": {
+          "whitePct": 53.9,
+          "nonHispanicWhitePct": 50.8,
+          "blackPct": 6.08,
+          "asianPct": 21.45,
+          "hispanicPct": 16.16
+        }
+      },
+      "election": {
+        "winner": "Saddam Salim",
+        "party": "DEM",
+        "pct": 68.69,
+        "unopposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Virginia Senate District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 173002,
+        "medianAge": 39.9,
+        "totalPopulation": 214706,
+        "collegePct": 73.06,
+        "renterRatePct": 31.45,
+        "race": {
+          "whitePct": 57.62,
+          "nonHispanicWhitePct": 54.79,
+          "blackPct": 6.29,
+          "asianPct": 18.83,
+          "hispanicPct": 14.51
+        }
+      },
+      "election": {
+        "winner": "Jennifer B. Boysko",
+        "party": "DEM",
+        "pct": 68.46,
+        "unopposed": false
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Virginia Senate District 39",
+      "census": {
+        "censusName": "State Senate District 39 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112481,
+        "medianAge": 36.9,
+        "totalPopulation": 217336,
+        "collegePct": 64.62,
+        "renterRatePct": 60.89,
+        "race": {
+          "whitePct": 50.92,
+          "nonHispanicWhitePct": 46.77,
+          "blackPct": 19.25,
+          "asianPct": 8.43,
+          "hispanicPct": 20.36
+        }
+      },
+      "election": {
+        "winner": "Adam P. Ebbin",
+        "party": "DEM",
+        "pct": 78.3,
+        "unopposed": false
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Virginia Senate District 40",
+      "census": {
+        "censusName": "State Senate District 40 (2022); Virginia",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 140198,
+        "medianAge": 35.5,
+        "totalPopulation": 209544,
+        "collegePct": 76.15,
+        "renterRatePct": 54.51,
+        "race": {
+          "whitePct": 63.41,
+          "nonHispanicWhitePct": 59.61,
+          "blackPct": 8.91,
+          "asianPct": 9.9,
+          "hispanicPct": 16.15
+        }
+      },
+      "election": {
+        "winner": "Barbara A. Favola",
+        "party": "DEM",
+        "pct": 80.92,
+        "unopposed": false
+      }
+    }
+  }
+}

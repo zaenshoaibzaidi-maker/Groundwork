@@ -120,8 +120,6 @@ function genEntry(num, districtData, idPrefix, chamberLabel, type, year) {
   return `  {
     id: "${idPrefix}-${num}",
     name: "Arkansas ${chamberLabel} District ${num}",
-    city: "TBD",
-    region: "TBD",
     type: "${type}",
     incumbentName: ${JSON.stringify(incumbentName)},
     incumbentParty: ${JSON.stringify(incumbentParty)},

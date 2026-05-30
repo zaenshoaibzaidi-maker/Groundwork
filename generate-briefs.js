@@ -126,6 +126,33 @@ function findEmptyDistricts(src) {
   return results;
 }
 
+// ── Geographic fallback lookup (no API retry) ─────────────────────────────────
+
+function inferTennesseeLocation(n) {
+  if (n >= 1  && n <= 7)  return { city: 'Kingsport',    region: 'Tri-Cities' };
+  if (n >= 8  && n <= 13) return { city: 'Johnson City',  region: 'Northeast Tennessee' };
+  if (n >= 14 && n <= 22) return { city: 'Knoxville',     region: 'East Tennessee' };
+  if (n >= 23 && n <= 28) return { city: 'Chattanooga',   region: 'Southeast Tennessee' };
+  if (n >= 29 && n <= 35) return { city: 'Cleveland',     region: 'East Tennessee Foothills' };
+  if (n >= 36 && n <= 42) return { city: 'Cookeville',    region: 'Upper Cumberland' };
+  if (n >= 43 && n <= 50) return { city: 'Murfreesboro',  region: 'Middle Tennessee Suburbs' };
+  if (n >= 51 && n <= 63) return { city: 'Nashville',     region: 'Nashville Metro' };
+  if (n >= 64 && n <= 72) return { city: 'Columbia',      region: 'South Middle Tennessee' };
+  if (n >= 73 && n <= 78) return { city: 'Clarksville',   region: 'Northwest Tennessee' };
+  if (n >= 79 && n <= 85) return { city: 'Jackson',       region: 'West Tennessee' };
+  if (n >= 86 && n <= 99) return { city: 'Memphis',       region: 'Memphis Metro' };
+  return { city: 'Tennessee', region: 'Tennessee' };
+}
+
+// IDs are like "tn-hd-42" — state prefix determines which lookup to use.
+function inferLocationFromDistrict(districtId) {
+  const parts = districtId.split('-');
+  const state = parts[0];
+  const num   = parseInt(parts[parts.length - 1], 10);
+  if (state === 'tn') return inferTennesseeLocation(num);
+  return { city: '', region: '' };
+}
+
 // ── Build the API prompt ──────────────────────────────────────────────────────
 
 function buildPrompt(districtId, dashboard) {
@@ -368,6 +395,14 @@ async function main() {
       const raw     = response.content[0].text.trim();
       const jsonStr = raw.replace(/^```(?:json)?\n?/i, '').replace(/\n?```$/i, '').trim();
       const brief   = JSON.parse(jsonStr);
+
+      // Fill missing/TBD city or region from lookup — no retry
+      const isTBD = v => !v || v === 'TBD';
+      if (isTBD(brief.city) || isTBD(brief.region)) {
+        const loc = inferLocationFromDistrict(id);
+        if (isTBD(brief.city))   brief.city   = loc.city;
+        if (isTBD(brief.region)) brief.region = loc.region;
+      }
 
       // Capture for the closure; enqueue the write and wait for it so this slot
       // doesn't release until the write is committed (keeps progress accurate).

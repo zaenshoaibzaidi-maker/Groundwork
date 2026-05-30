@@ -10,8 +10,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-1",
     name: "Mississippi House District 1",
-    city: "Iuka",
-    region: "Northeast Mississippi",
     type: "state house district",
     incumbentName: "Lester E. 'bubba' Carpenter",
     incumbentParty: "Republican",
@@ -57,8 +55,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-2",
     name: "Mississippi House District 2",
-    city: "Booneville",
-    region: "Northeast Mississippi",
     type: "state house district",
     incumbentName: "Brad Mattox",
     incumbentParty: "Republican",
@@ -104,8 +100,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-3",
     name: "Mississippi House District 3",
-    city: "Corinth",
-    region: "Northeast Mississippi",
     type: "state house district",
     incumbentName: "William Tracy Arnold",
     incumbentParty: "Republican",
@@ -151,8 +145,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-4",
     name: "Mississippi House District 4",
-    city: "Guntown",
-    region: "Northeast Mississippi",
     type: "state house district",
     incumbentName: "Joseph F. 'jody' Steverson",
     incumbentParty: "Republican",
@@ -198,8 +190,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-5",
     name: "Mississippi House District 5",
-    city: "Holly Springs",
-    region: "North Mississippi",
     type: "state house district",
     incumbentName: "John Faulkner",
     incumbentParty: "Democrat",
@@ -245,8 +235,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-6",
     name: "Mississippi House District 6",
-    city: "Olive Branch",
-    region: "DeSoto County · Northwest Mississippi",
     type: "state house district",
     incumbentName: "Justin Keen",
     incumbentParty: "Republican",
@@ -292,8 +280,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-7",
     name: "Mississippi House District 7",
-    city: "Southaven",
-    region: "DeSoto County · Northwest Mississippi",
     type: "state house district",
     incumbentName: "Kimberly Remak",
     incumbentParty: "Republican",
@@ -339,8 +325,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-8",
     name: "Mississippi House District 8",
-    city: "Senatobia",
-    region: "North Mississippi",
     type: "state house district",
     incumbentName: "Trey Lamar",
     incumbentParty: "Republican",
@@ -386,8 +370,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-9",
     name: "Mississippi House District 9",
-    city: "Tunica",
-    region: "Mississippi Delta",
     type: "state house district",
     incumbentName: "Cedric Burnett",
     incumbentParty: "Democrat",
@@ -433,8 +415,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-10",
     name: "Mississippi House District 10",
-    city: "Senatobia",
-    region: "North Mississippi",
     type: "state house district",
     incumbentName: "Josh Hawkins",
     incumbentParty: "Republican",
@@ -480,8 +460,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-11",
     name: "Mississippi House District 11",
-    city: "Holly Springs",
-    region: "North Mississippi",
     type: "state house district",
     incumbentName: "Lataisha M. Jackson",
     incumbentParty: "Democrat",
@@ -527,8 +505,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-12",
     name: "Mississippi House District 12",
-    city: "New Albany",
-    region: "Northeast Mississippi",
     type: "state house district",
     incumbentName: "Clay Deweese",
     incumbentParty: "Republican",
@@ -574,8 +550,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-13",
     name: "Mississippi House District 13",
-    city: "Tupelo",
-    region: "Northeast Mississippi",
     type: "state house district",
     incumbentName: "Steve Massengill",
     incumbentParty: "Republican",
@@ -621,8 +595,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-14",
     name: "Mississippi House District 14",
-    city: "Tupelo",
-    region: "Northeast Mississippi",
     type: "state house district",
     incumbentName: "Sam J. Creekmore IV",
     incumbentParty: "Republican",
@@ -668,8 +640,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-15",
     name: "Mississippi House District 15",
-    city: "Corinth",
-    region: "Northeast Mississippi",
     type: "state house district",
     incumbentName: "Beth Luther Waldo",
     incumbentParty: "Republican",
@@ -715,8 +685,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-16",
     name: "Mississippi House District 16",
-    city: "Iuka",
-    region: "Northeast Mississippi",
     type: "state house district",
     incumbentName: "Rickey W. Thompson",
     incumbentParty: "Democrat",
@@ -762,8 +730,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-17",
     name: "Mississippi House District 17",
-    city: "Booneville",
-    region: "Northeast Mississippi",
     type: "state house district",
     incumbentName: "Shane Aguirre",
     incumbentParty: "Republican",
@@ -809,8 +775,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-18",
     name: "Mississippi House District 18",
-    city: "Fulton",
-    region: "Northeast Mississippi",
     type: "state house district",
     incumbentName: "Jerry R. Turner",
     incumbentParty: "Republican",
@@ -856,8 +820,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-19",
     name: "Mississippi House District 19",
-    city: "Aberdeen",
-    region: "East Mississippi",
     type: "state house district",
     incumbentName: "Randy P. Boyd",
     incumbentParty: "Republican",
@@ -903,8 +865,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-20",
     name: "Mississippi House District 20",
-    city: "Columbus",
-    region: "East Mississippi",
     type: "state house district",
     incumbentName: "Rodney Hall",
     incumbentParty: "Republican",
@@ -950,8 +910,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-21",
     name: "Mississippi House District 21",
-    city: "Houston",
-    region: "North Central Mississippi",
     type: "state house district",
     incumbentName: "Donnie Bell",
     incumbentParty: "Republican",
@@ -997,8 +955,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-22",
     name: "Mississippi House District 22",
-    city: "Bruce",
-    region: "North Central Mississippi",
     type: "state house district",
     incumbentName: "Jon Lancaster",
     incumbentParty: "Republican",
@@ -1044,8 +1000,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-23",
     name: "Mississippi House District 23",
-    city: "Ackerman",
-    region: "Central Mississippi",
     type: "state house district",
     incumbentName: "Andrew 'andy' Stepp",
     incumbentParty: "Republican",
@@ -1091,8 +1045,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-24",
     name: "Mississippi House District 24",
-    city: "West Point",
-    region: "East Mississippi",
     type: "state house district",
     incumbentName: "Jeffery S. Hale",
     incumbentParty: "Republican",
@@ -1138,8 +1090,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-25",
     name: "Mississippi House District 25",
-    city: "Corinth",
-    region: "Northeast Mississippi",
     type: "state house district",
     incumbentName: "Dan Eubanks",
     incumbentParty: "Republican",
@@ -1185,8 +1135,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-26",
     name: "Mississippi House District 26",
-    city: "Clarksdale",
-    region: "Mississippi Delta",
     type: "state house district",
     incumbentName: "Orlando W. Paden",
     incumbentParty: "Democrat",
@@ -1232,8 +1180,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-27",
     name: "Mississippi House District 27",
-    city: "Southaven",
-    region: "DeSoto County · Northwest Mississippi",
     type: "state house district",
     incumbentName: "Kenji L. Holloway",
     incumbentParty: "Democrat",
@@ -1279,8 +1225,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-28",
     name: "Mississippi House District 28",
-    city: "Ashland",
-    region: "North Mississippi",
     type: "state house district",
     incumbentName: "W. I. 'doc' Harris Jr.",
     incumbentParty: "Republican",
@@ -1326,8 +1270,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-29",
     name: "Mississippi House District 29",
-    city: "Tunica",
-    region: "Mississippi Delta",
     type: "state house district",
     incumbentName: "Robert L. Sanders",
     incumbentParty: "Democrat",
@@ -1373,8 +1315,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-30",
     name: "Mississippi House District 30",
-    city: "Marks",
-    region: "Mississippi Delta",
     type: "state house district",
     incumbentName: "Tracey T. Rosebud",
     incumbentParty: "Democrat",
@@ -1420,8 +1360,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-31",
     name: "Mississippi House District 31",
-    city: "Cleveland",
-    region: "Mississippi Delta",
     type: "state house district",
     incumbentName: "Otis L. Anthony II",
     incumbentParty: "Democrat",
@@ -1467,8 +1405,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-32",
     name: "Mississippi House District 32",
-    city: "Rosedale",
-    region: "Mississippi Delta",
     type: "state house district",
     incumbentName: "Solomon Curtis Osborne",
     incumbentParty: "Democrat",
@@ -1514,8 +1450,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-33",
     name: "Mississippi House District 33",
-    city: "Hernando",
-    region: "DeSoto County · Northwest Mississippi",
     type: "state house district",
     incumbentName: "Jim Estrada",
     incumbentParty: "Republican",
@@ -1561,8 +1495,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-34",
     name: "Mississippi House District 34",
-    city: "Senatobia",
-    region: "North Mississippi",
     type: "state house district",
     incumbentName: "Kevin Horan",
     incumbentParty: "Republican",
@@ -1608,8 +1540,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-35",
     name: "Mississippi House District 35",
-    city: "Pontotoc",
-    region: "Northeast Mississippi",
     type: "state house district",
     incumbentName: "Joey Hood",
     incumbentParty: "Republican",
@@ -1655,8 +1585,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-36",
     name: "Mississippi House District 36",
-    city: "Grenada",
-    region: "North Central Mississippi",
     type: "state house district",
     incumbentName: "Karl Malinski Gibbs",
     incumbentParty: "Democrat",
@@ -1702,8 +1630,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-37",
     name: "Mississippi House District 37",
-    city: "Starkville",
-    region: "East Mississippi",
     type: "state house district",
     incumbentName: "Andy Boyd",
     incumbentParty: "Republican",
@@ -1749,8 +1675,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-38",
     name: "Mississippi House District 38",
-    city: "Starkville",
-    region: "East Mississippi",
     type: "state house district",
     incumbentName: "Cheikh A. Taylor",
     incumbentParty: "Democrat",
@@ -1796,8 +1720,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-39",
     name: "Mississippi House District 39",
-    city: "Columbus",
-    region: "East Mississippi",
     type: "state house district",
     incumbentName: "Dana Underwood Mclean",
     incumbentParty: "Republican",
@@ -1843,8 +1765,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-40",
     name: "Mississippi House District 40",
-    city: "Indianola",
-    region: "Mississippi Delta",
     type: "state house district",
     incumbentName: "Hester Jackson-mccray",
     incumbentParty: "Democrat",
@@ -1890,8 +1810,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-41",
     name: "Mississippi House District 41",
-    city: "Indianola",
-    region: "Mississippi Delta",
     type: "state house district",
     incumbentName: "Kabir Karriem",
     incumbentParty: "Democrat",
@@ -1937,8 +1855,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-42",
     name: "Mississippi House District 42",
-    city: "Greenville",
-    region: "Mississippi Delta",
     type: "state house district",
     incumbentName: "Carl L. Mickens",
     incumbentParty: "Democrat",
@@ -1984,8 +1900,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-43",
     name: "Mississippi House District 43",
-    city: "Greenwood",
-    region: "Mississippi Delta",
     type: "state house district",
     incumbentName: "Loyd B. 'rob' Roberson II",
     incumbentParty: "Republican",
@@ -2032,8 +1946,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-44",
     name: "Mississippi House District 44",
-    city: "Houston",
-    region: "North Central Mississippi",
     type: "state house district",
     incumbentName: "C. Scott Bounds",
     incumbentParty: "Republican",
@@ -2079,8 +1991,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-45",
     name: "Mississippi House District 45",
-    city: "Kosciusko",
-    region: "Central Mississippi",
     type: "state house district",
     incumbentName: "Keith Jackson",
     incumbentParty: "Democrat",
@@ -2126,8 +2036,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-46",
     name: "Mississippi House District 46",
-    city: "Greenwood",
-    region: "Mississippi Delta",
     type: "state house district",
     incumbentName: "Karl Oliver",
     incumbentParty: "Republican",
@@ -2173,8 +2081,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-47",
     name: "Mississippi House District 47",
-    city: "Lexington",
-    region: "Central Mississippi",
     type: "state house district",
     incumbentName: "Bryant W. Clark",
     incumbentParty: "Democrat",
@@ -2220,8 +2126,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-48",
     name: "Mississippi House District 48",
-    city: "West",
-    region: "North Central Mississippi",
     type: "state house district",
     incumbentName: "Jason White",
     incumbentParty: "Republican",
@@ -2267,8 +2171,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-49",
     name: "Mississippi House District 49",
-    city: "Greenville",
-    region: "Mississippi Delta",
     type: "state house district",
     incumbentName: "Willie L. Bailey",
     incumbentParty: "Democrat",
@@ -2314,8 +2216,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-50",
     name: "Mississippi House District 50",
-    city: "Leland",
-    region: "Mississippi Delta",
     type: "state house district",
     incumbentName: "John W. Hines",
     incumbentParty: "Democrat",
@@ -2361,8 +2261,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-51",
     name: "Mississippi House District 51",
-    city: "Brandon",
-    region: "Metro Jackson · Rankin County",
     type: "state house district",
     incumbentName: "Timaka James-jones",
     incumbentParty: "Democrat",
@@ -2409,8 +2307,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-52",
     name: "Mississippi House District 52",
-    city: "Ridgeland",
-    region: "Metro Jackson · Madison County",
     type: "state house district",
     incumbentName: "Bill Kinkade",
     incumbentParty: "Republican",
@@ -2456,8 +2352,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-53",
     name: "Mississippi House District 53",
-    city: "Canton",
-    region: "Metro Jackson · Madison County",
     type: "state house district",
     incumbentName: "Vince Mangold",
     incumbentParty: "Republican",
@@ -2504,8 +2398,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-54",
     name: "Mississippi House District 54",
-    city: "Madison",
-    region: "Metro Jackson · Madison County",
     type: "state house district",
     incumbentName: "Kevin Kilgore Ford",
     incumbentParty: "Republican",
@@ -2551,8 +2443,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-55",
     name: "Mississippi House District 55",
-    city: "Jackson",
-    region: "Metro Jackson",
     type: "state house district",
     incumbentName: "Oscar Denton",
     incumbentParty: "Democrat",
@@ -2598,8 +2488,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-56",
     name: "Mississippi House District 56",
-    city: "Flora",
-    region: "Central Mississippi",
     type: "state house district",
     incumbentName: "Clay Mansell",
     incumbentParty: "Republican",
@@ -2647,8 +2535,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-57",
     name: "Mississippi House District 57",
-    city: "Kosciusko",
-    region: "Central Mississippi",
     type: "state house district",
     incumbentName: "Lawrence Blackmon",
     incumbentParty: "Democrat",
@@ -2694,8 +2580,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-58",
     name: "Mississippi House District 58",
-    city: "Philadelphia",
-    region: "Central Mississippi",
     type: "state house district",
     incumbentName: "Jonathan Mcmillan",
     incumbentParty: "Republican",
@@ -2741,8 +2625,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-59",
     name: "Mississippi House District 59",
-    city: "Florence",
-    region: "Metro Jackson · Rankin County",
     type: "state house district",
     incumbentName: "Brent Powell",
     incumbentParty: "Republican",
@@ -2788,8 +2670,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-60",
     name: "Mississippi House District 60",
-    city: "Flowood",
-    region: "Metro Jackson · Rankin County",
     type: "state house district",
     incumbentName: "Fred Shanks",
     incumbentParty: "Republican",
@@ -2836,8 +2716,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-61",
     name: "Mississippi House District 61",
-    city: "Brandon",
-    region: "Metro Jackson · Rankin County",
     type: "state house district",
     incumbentName: "Gene Newman",
     incumbentParty: "Republican",
@@ -2883,8 +2761,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-62",
     name: "Mississippi House District 62",
-    city: "Richland",
-    region: "Metro Jackson · Rankin County",
     type: "state house district",
     incumbentName: "Lance Varner",
     incumbentParty: "Republican",
@@ -2931,8 +2807,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-63",
     name: "Mississippi House District 63",
-    city: "Yazoo City",
-    region: "Central Mississippi",
     type: "state house district",
     incumbentName: "Stephanie Mckenzie Foster",
     incumbentParty: "Democrat",
@@ -2978,8 +2852,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-64",
     name: "Mississippi House District 64",
-    city: "Jackson",
-    region: "Metro Jackson",
     type: "state house district",
     incumbentName: "Shanda M. Yates",
     incumbentParty: "Republican",
@@ -3025,8 +2897,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-65",
     name: "Mississippi House District 65",
-    city: "Jackson",
-    region: "Metro Jackson",
     type: "state house district",
     incumbentName: "Christopher M. Bell",
     incumbentParty: "Democrat",
@@ -3072,8 +2942,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-66",
     name: "Mississippi House District 66",
-    city: "Jackson",
-    region: "Metro Jackson",
     type: "state house district",
     incumbentName: "Fabian Nelson",
     incumbentParty: "Democrat",
@@ -3119,8 +2987,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-67",
     name: "Mississippi House District 67",
-    city: "Jackson",
-    region: "Metro Jackson",
     type: "state house district",
     incumbentName: "Earle S. Banks",
     incumbentParty: "Democrat",
@@ -3166,8 +3032,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-68",
     name: "Mississippi House District 68",
-    city: "Jackson",
-    region: "Metro Jackson",
     type: "state house district",
     incumbentName: "Zakiya Summers",
     incumbentParty: "Democrat",
@@ -3213,8 +3077,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-69",
     name: "Mississippi House District 69",
-    city: "Jackson",
-    region: "Metro Jackson",
     type: "state house district",
     incumbentName: "Tamarra Grace Butler-washington",
     incumbentParty: "Democrat",
@@ -3260,8 +3122,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-70",
     name: "Mississippi House District 70",
-    city: "Jackson",
-    region: "Metro Jackson",
     type: "state house district",
     incumbentName: "William R. 'bo' Brown",
     incumbentParty: "Democrat",
@@ -3307,8 +3167,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-71",
     name: "Mississippi House District 71",
-    city: "Jackson",
-    region: "Metro Jackson",
     type: "state house district",
     incumbentName: "Ronnie Crudup Jr.",
     incumbentParty: "Democrat",
@@ -3354,8 +3212,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-72",
     name: "Mississippi House District 72",
-    city: "Mendenhall",
-    region: "Southwest Mississippi",
     type: "state house district",
     incumbentName: "Justis Gibbs",
     incumbentParty: "Democrat",
@@ -3401,8 +3257,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-73",
     name: "Mississippi House District 73",
-    city: "Port Gibson",
-    region: "Southwest Mississippi",
     type: "state house district",
     incumbentName: "Jill Ford",
     incumbentParty: "Republican",
@@ -3448,8 +3302,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-74",
     name: "Mississippi House District 74",
-    city: "Brandon",
-    region: "Metro Jackson · Rankin County",
     type: "state house district",
     incumbentName: "Lee Yancey",
     incumbentParty: "Republican",
@@ -3495,8 +3347,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-75",
     name: "Mississippi House District 75",
-    city: "Lexington",
-    region: "Central Mississippi",
     type: "state house district",
     incumbentName: "Celeste Hurst",
     incumbentParty: "Republican",
@@ -3542,8 +3392,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-76",
     name: "Mississippi House District 76",
-    city: "Yazoo City",
-    region: "Central Mississippi",
     type: "state house district",
     incumbentName: "Gregory L. Holloway",
     incumbentParty: "Democrat",
@@ -3589,8 +3437,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-77",
     name: "Mississippi House District 77",
-    city: "Brandon",
-    region: "Metro Jackson · Rankin County",
     type: "state house district",
     incumbentName: "Price Wallace",
     incumbentParty: "Republican",
@@ -3636,8 +3482,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-78",
     name: "Mississippi House District 78",
-    city: "Raleigh",
-    region: "Central Mississippi",
     type: "state house district",
     incumbentName: "Randal 'randy' Rushing",
     incumbentParty: "Republican",
@@ -3683,8 +3527,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-79",
     name: "Mississippi House District 79",
-    city: "Monticello",
-    region: "Southwest Mississippi",
     type: "state house district",
     incumbentName: "Mark K. Tullos",
     incumbentParty: "Republican",
@@ -3730,8 +3572,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-80",
     name: "Mississippi House District 80",
-    city: "Carthage",
-    region: "Central Mississippi",
     type: "state house district",
     incumbentName: "Omeria Scott",
     incumbentParty: "Democrat",
@@ -3778,8 +3618,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-81",
     name: "Mississippi House District 81",
-    city: "Meridian",
-    region: "East Mississippi",
     type: "state house district",
     incumbentName: "Stephen A. 'steve' Horne",
     incumbentParty: "Republican",
@@ -3825,8 +3663,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-82",
     name: "Mississippi House District 82",
-    city: "Meridian",
-    region: "East Mississippi",
     type: "state house district",
     incumbentName: "Charles L. Young Jr.",
     incumbentParty: "Democrat",
@@ -3872,8 +3708,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-83",
     name: "Mississippi House District 83",
-    city: "Newton",
-    region: "East Central Mississippi",
     type: "state house district",
     incumbentName: "Billy Adam Calvert",
     incumbentParty: "Republican",
@@ -3919,8 +3753,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-84",
     name: "Mississippi House District 84",
-    city: "Meridian",
-    region: "East Mississippi",
     type: "state house district",
     incumbentName: "Troy Smith",
     incumbentParty: "Republican",
@@ -3966,8 +3798,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-85",
     name: "Mississippi House District 85",
-    city: "Meridian",
-    region: "East Mississippi",
     type: "state house district",
     incumbentName: "Jeffery Harness",
     incumbentParty: "Democrat",
@@ -4013,8 +3843,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-86",
     name: "Mississippi House District 86",
-    city: "Quitman",
-    region: "Southeast Mississippi",
     type: "state house district",
     incumbentName: "Shane Barnett",
     incumbentParty: "Republican",
@@ -4060,8 +3888,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-87",
     name: "Mississippi House District 87",
-    city: "Forest",
-    region: "Central Mississippi",
     type: "state house district",
     incumbentName: "Joseph 'bubba' Tubb",
     incumbentParty: "Republican",
@@ -4107,8 +3933,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-88",
     name: "Mississippi House District 88",
-    city: "Hazlehurst",
-    region: "Southwest Mississippi",
     type: "state house district",
     incumbentName: "Charles 'chuck' Blackwell",
     incumbentParty: "Republican",
@@ -4154,8 +3978,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-89",
     name: "Mississippi House District 89",
-    city: "Brookhaven",
-    region: "Southwest Mississippi",
     type: "state house district",
     incumbentName: "Donnie Scoggin",
     incumbentParty: "Republican",
@@ -4201,8 +4023,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-90",
     name: "Mississippi House District 90",
-    city: "Natchez",
-    region: "Southwest Mississippi",
     type: "state house district",
     incumbentName: "Noah Sanford",
     incumbentParty: "Republican",
@@ -4248,8 +4068,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-91",
     name: "Mississippi House District 91",
-    city: "Waynesboro",
-    region: "Southeast Mississippi",
     type: "state house district",
     incumbentName: "Bob Evans",
     incumbentParty: "Democrat",
@@ -4295,8 +4113,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-92",
     name: "Mississippi House District 92",
-    city: "Brookhaven",
-    region: "Southwest Mississippi",
     type: "state house district",
     incumbentName: "Becky Currie",
     incumbentParty: "Republican",
@@ -4342,8 +4158,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-93",
     name: "Mississippi House District 93",
-    city: "Poplarville",
-    region: "South Mississippi",
     type: "state house district",
     incumbentName: "Timmy Ladner",
     incumbentParty: "Republican",
@@ -4389,8 +4203,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-94",
     name: "Mississippi House District 94",
-    city: "Hazlehurst",
-    region: "Southwest Mississippi",
     type: "state house district",
     incumbentName: "Robert L. Johnson III",
     incumbentParty: "Democrat",
@@ -4436,8 +4248,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-95",
     name: "Mississippi House District 95",
-    city: "Laurel",
-    region: "South Mississippi · Pine Belt",
     type: "state house district",
     incumbentName: "Jay Mcknight",
     incumbentParty: "Republican",
@@ -4483,8 +4293,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-96",
     name: "Mississippi House District 96",
-    city: "Magnolia",
-    region: "Southwest Mississippi",
     type: "state house district",
     incumbentName: "Angela Cockerharn",
     incumbentParty: "Republican",
@@ -4530,8 +4338,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-97",
     name: "Mississippi House District 97",
-    city: "McComb",
-    region: "Southwest Mississippi",
     type: "state house district",
     incumbentName: "Sam C. Mims V",
     incumbentParty: "Republican",
@@ -4578,8 +4384,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-98",
     name: "Mississippi House District 98",
-    city: "McComb",
-    region: "Southwest Mississippi",
     type: "state house district",
     incumbentName: "Daryl L. Porter Jr.",
     incumbentParty: "Democrat",
@@ -4626,8 +4430,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-99",
     name: "Mississippi House District 99",
-    city: "Purvis",
-    region: "South Mississippi · Pine Belt",
     type: "state house district",
     incumbentName: "Bill Pigott",
     incumbentParty: "Republican",
@@ -4673,8 +4475,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-100",
     name: "Mississippi House District 100",
-    city: "Columbia",
-    region: "South Mississippi · Pine Belt",
     type: "state house district",
     incumbentName: "Ken Morgan",
     incumbentParty: "Republican",
@@ -4721,8 +4521,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-101",
     name: "Mississippi House District 101",
-    city: "Hattiesburg",
-    region: "South Mississippi · Pine Belt",
     type: "state house district",
     incumbentName: "Kent Mccarty",
     incumbentParty: "Republican",
@@ -4768,8 +4566,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-102",
     name: "Mississippi House District 102",
-    city: "Purvis",
-    region: "South Mississippi · Pine Belt",
     type: "state house district",
     incumbentName: "Missy Warren Mcgee",
     incumbentParty: "Republican",
@@ -4815,8 +4611,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-103",
     name: "Mississippi House District 103",
-    city: "Hattiesburg",
-    region: "South Mississippi · Pine Belt",
     type: "state house district",
     incumbentName: "Percy W. Watson",
     incumbentParty: "Democrat",
@@ -4862,8 +4656,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-104",
     name: "Mississippi House District 104",
-    city: "Richton",
-    region: "Southeast Mississippi",
     type: "state house district",
     incumbentName: "Larry Byrd",
     incumbentParty: "Republican",
@@ -4909,8 +4701,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-105",
     name: "Mississippi House District 105",
-    city: "Laurel",
-    region: "South Mississippi · Pine Belt",
     type: "state house district",
     incumbentName: "Elliot Burch",
     incumbentParty: "Republican",
@@ -4956,8 +4746,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-106",
     name: "Mississippi House District 106",
-    city: "Laurel",
-    region: "South Mississippi · Pine Belt",
     type: "state house district",
     incumbentName: "Jansen Owen",
     incumbentParty: "Republican",
@@ -5003,8 +4791,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-107",
     name: "Mississippi House District 107",
-    city: "Lucedale",
-    region: "Southeast Mississippi",
     type: "state house district",
     incumbentName: "Ronald Steven 'steve' Lott",
     incumbentParty: "Republican",
@@ -5050,8 +4836,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-108",
     name: "Mississippi House District 108",
-    city: "Hattiesburg",
-    region: "South Mississippi · Pine Belt",
     type: "state house district",
     incumbentName: "Stacey Hobgood Wilkes",
     incumbentParty: "Republican",
@@ -5097,8 +4881,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-109",
     name: "Mississippi House District 109",
-    city: "Wiggins",
-    region: "South Mississippi",
     type: "state house district",
     incumbentName: "Manly Barton",
     incumbentParty: "Republican",
@@ -5144,8 +4926,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-110",
     name: "Mississippi House District 110",
-    city: "Gulfport",
-    region: "Gulf Coast",
     type: "state house district",
     incumbentName: "Jeramey Anderson",
     incumbentParty: "Democrat",
@@ -5191,8 +4971,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-111",
     name: "Mississippi House District 111",
-    city: "Gulfport",
-    region: "Gulf Coast",
     type: "state house district",
     incumbentName: "Jimmy Fondren",
     incumbentParty: "Republican",
@@ -5238,8 +5016,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-112",
     name: "Mississippi House District 112",
-    city: "Biloxi",
-    region: "Gulf Coast",
     type: "state house district",
     incumbentName: "John O. Read",
     incumbentParty: "Republican",
@@ -5285,8 +5061,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-113",
     name: "Mississippi House District 113",
-    city: "Ocean Springs",
-    region: "Gulf Coast",
     type: "state house district",
     incumbentName: "Henry 'hank' B. Zuber III",
     incumbentParty: "Republican",
@@ -5332,8 +5106,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-114",
     name: "Mississippi House District 114",
-    city: "Pascagoula",
-    region: "Gulf Coast",
     type: "state house district",
     incumbentName: "Jeffrey S. 'jeff' Guice",
     incumbentParty: "Republican",
@@ -5379,8 +5151,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-115",
     name: "Mississippi House District 115",
-    city: "D'Iberville",
-    region: "Gulf Coast",
     type: "state house district",
     incumbentName: "Zachary Grady",
     incumbentParty: "Republican",
@@ -5426,8 +5196,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-116",
     name: "Mississippi House District 116",
-    city: "Gulfport",
-    region: "Gulf Coast",
     type: "state house district",
     incumbentName: "Casey Eure",
     incumbentParty: "Republican",
@@ -5473,8 +5241,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-117",
     name: "Mississippi House District 117",
-    city: "Long Beach",
-    region: "Gulf Coast",
     type: "state house district",
     incumbentName: "Kevin W. Felsher",
     incumbentParty: "Republican",
@@ -5520,8 +5286,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-118",
     name: "Mississippi House District 118",
-    city: "Gautier",
-    region: "Gulf Coast",
     type: "state house district",
     incumbentName: "Greg Haney",
     incumbentParty: "Republican",
@@ -5567,8 +5331,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-119",
     name: "Mississippi House District 119",
-    city: "Bay St. Louis",
-    region: "Gulf Coast",
     type: "state house district",
     incumbentName: "Jeffery Hulum III",
     incumbentParty: "Democrat",
@@ -5614,8 +5376,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-120",
     name: "Mississippi House District 120",
-    city: "Picayune",
-    region: "South Mississippi",
     type: "state house district",
     incumbentName: "Richard Bennett",
     incumbentParty: "Republican",
@@ -5661,8 +5421,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-121",
     name: "Mississippi House District 121",
-    city: "Pascagoula",
-    region: "Gulf Coast",
     type: "state house district",
     incumbentName: "Carolyn Crawford",
     incumbentParty: "Republican",
@@ -5708,8 +5466,6 @@ const MS_HOUSE_DISTRICTS = [
   {
     id: "ms-hd-122",
     name: "Mississippi House District 122",
-    city: "Moss Point",
-    region: "Gulf Coast",
     type: "state house district",
     incumbentName: "Brent David Anderson",
     incumbentParty: "Republican",
@@ -5758,8 +5514,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-1",
     name: "Mississippi Senate District 1",
-    city: "Hernando",
-    region: "DeSoto County · Northwest Mississippi",
     type: "state senate district",
     incumbentName: "Michael W. Mclendon",
     incumbentParty: "Republican",
@@ -5805,8 +5559,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-2",
     name: "Mississippi Senate District 2",
-    city: "Booneville",
-    region: "Northeast Mississippi",
     type: "state senate district",
     incumbentName: "David L. Parker",
     incumbentParty: "Democrat",
@@ -5852,8 +5604,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-3",
     name: "Mississippi Senate District 3",
-    city: "Iuka",
-    region: "Northeast Mississippi",
     type: "state senate district",
     incumbentName: "Kathy Leath Chism",
     incumbentParty: "Republican",
@@ -5899,8 +5649,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-4",
     name: "Mississippi Senate District 4",
-    city: "Fulton",
-    region: "Northeast Mississippi",
     type: "state senate district",
     incumbentName: "Rita Potts Parks",
     incumbentParty: "Republican",
@@ -5946,8 +5694,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-5",
     name: "Mississippi Senate District 5",
-    city: "Corinth",
-    region: "Northeast Mississippi",
     type: "state senate district",
     incumbentName: "Daniel H. Sparks",
     incumbentParty: "Republican",
@@ -5993,8 +5739,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-6",
     name: "Mississippi Senate District 6",
-    city: "Tupelo",
-    region: "Northeast Mississippi",
     type: "state senate district",
     incumbentName: "Chad Mcmahan",
     incumbentParty: "Republican",
@@ -6040,8 +5784,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-7",
     name: "Mississippi Senate District 7",
-    city: "Amory",
-    region: "Northeast Mississippi",
     type: "state senate district",
     incumbentName: "Hob Bryan",
     incumbentParty: "Democrat",
@@ -6087,8 +5829,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-8",
     name: "Mississippi Senate District 8",
-    city: "Aberdeen",
-    region: "East Mississippi",
     type: "state senate district",
     incumbentName: "Benjamin A. Suber",
     incumbentParty: "Republican",
@@ -6134,8 +5874,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-9",
     name: "Mississippi Senate District 9",
-    city: "Booneville",
-    region: "Northeast Mississippi",
     type: "state senate district",
     incumbentName: "Nicole Akins Boyd",
     incumbentParty: "Republican",
@@ -6181,8 +5919,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-10",
     name: "Mississippi Senate District 10",
-    city: "Southaven",
-    region: "DeSoto County · Northwest Mississippi",
     type: "state senate district",
     incumbentName: "Neil S. Whaley",
     incumbentParty: "Republican",
@@ -6228,8 +5964,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-11",
     name: "Mississippi Senate District 11",
-    city: "Southaven",
-    region: "DeSoto County · Northwest Mississippi",
     type: "state senate district",
     incumbentName: "Reginald D. Jackson",
     incumbentParty: "Democrat",
@@ -6275,8 +6009,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-12",
     name: "Mississippi Senate District 12",
-    city: "Greenville",
-    region: "Mississippi Delta",
     type: "state senate district",
     incumbentName: "Derrick T. Simmons",
     incumbentParty: "Democrat",
@@ -6323,8 +6055,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-13",
     name: "Mississippi Senate District 13",
-    city: "Clarksdale",
-    region: "Mississippi Delta",
     type: "state senate district",
     incumbentName: "Sarita M. Simmons",
     incumbentParty: "Democrat",
@@ -6370,8 +6100,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-14",
     name: "Mississippi Senate District 14",
-    city: "Kosciusko",
-    region: "Central Mississippi",
     type: "state senate district",
     incumbentName: "Lydia Chassaniol",
     incumbentParty: "Republican",
@@ -6417,8 +6145,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-15",
     name: "Mississippi Senate District 15",
-    city: "Grenada",
-    region: "North Central Mississippi",
     type: "state senate district",
     incumbentName: "Bart Williams",
     incumbentParty: "Republican",
@@ -6464,8 +6190,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-16",
     name: "Mississippi Senate District 16",
-    city: "Columbus",
-    region: "East Mississippi",
     type: "state senate district",
     incumbentName: "Angela Turner Ford",
     incumbentParty: "Democrat",
@@ -6511,8 +6235,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-17",
     name: "Mississippi Senate District 17",
-    city: "Starkville",
-    region: "East Mississippi",
     type: "state senate district",
     incumbentName: "Chuck Younger",
     incumbentParty: "Republican",
@@ -6558,8 +6280,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-18",
     name: "Mississippi Senate District 18",
-    city: "Canton",
-    region: "Central Mississippi",
     type: "state senate district",
     incumbentName: "Jenifer Branning",
     incumbentParty: "Republican",
@@ -6605,8 +6325,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-19",
     name: "Mississippi Senate District 19",
-    city: "Brandon",
-    region: "Metro Jackson · Rankin County",
     type: "state senate district",
     incumbentName: "Kevin Blackwell",
     incumbentParty: "Republican",
@@ -6652,8 +6370,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-20",
     name: "Mississippi Senate District 20",
-    city: "Flowood",
-    region: "Metro Jackson · Rankin County",
     type: "state senate district",
     incumbentName: "Josh Harkins",
     incumbentParty: "Republican",
@@ -6700,8 +6416,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-21",
     name: "Mississippi Senate District 21",
-    city: "Lexington",
-    region: "Central Mississippi",
     type: "state senate district",
     incumbentName: "Bradford J. Blackmon",
     incumbentParty: "Democrat",
@@ -6748,8 +6462,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-22",
     name: "Mississippi Senate District 22",
-    city: "Greenville",
-    region: "Mississippi Delta",
     type: "state senate district",
     incumbentName: "Joseph C. Thomas Sr.",
     incumbentParty: "Democrat",
@@ -6795,8 +6507,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-23",
     name: "Mississippi Senate District 23",
-    city: "Vicksburg",
-    region: "Southwest Mississippi",
     type: "state senate district",
     incumbentName: "Briggs Hopson",
     incumbentParty: "Republican",
@@ -6842,8 +6552,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-24",
     name: "Mississippi Senate District 24",
-    city: "Greenwood",
-    region: "Mississippi Delta",
     type: "state senate district",
     incumbentName: "David Jordan",
     incumbentParty: "Democrat",
@@ -6889,8 +6597,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-25",
     name: "Mississippi Senate District 25",
-    city: "Madison",
-    region: "Metro Jackson · Madison County",
     type: "state senate district",
     incumbentName: "Walter Michel",
     incumbentParty: "Republican",
@@ -6936,8 +6642,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-26",
     name: "Mississippi Senate District 26",
-    city: "Jackson",
-    region: "Metro Jackson",
     type: "state senate district",
     incumbentName: "John Horhn",
     incumbentParty: "Democrat",
@@ -6983,8 +6687,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-27",
     name: "Mississippi Senate District 27",
-    city: "Jackson",
-    region: "Metro Jackson",
     type: "state senate district",
     incumbentName: "Hillman Terome Frazier",
     incumbentParty: "Democrat",
@@ -7030,8 +6732,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-28",
     name: "Mississippi Senate District 28",
-    city: "Jackson",
-    region: "Metro Jackson",
     type: "state senate district",
     incumbentName: "Sollie B. Norwood",
     incumbentParty: "Democrat",
@@ -7077,8 +6777,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-29",
     name: "Mississippi Senate District 29",
-    city: "Jackson",
-    region: "Metro Jackson",
     type: "state senate district",
     incumbentName: "David Blount",
     incumbentParty: "Democrat",
@@ -7124,8 +6822,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-30",
     name: "Mississippi Senate District 30",
-    city: "Pearl",
-    region: "Metro Jackson · Rankin County",
     type: "state senate district",
     incumbentName: "Dean Kirby",
     incumbentParty: "Republican",
@@ -7171,8 +6867,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-31",
     name: "Mississippi Senate District 31",
-    city: "Philadelphia",
-    region: "Central Mississippi",
     type: "state senate district",
     incumbentName: "Tyler Mccaughn",
     incumbentParty: "Republican",
@@ -7218,8 +6912,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-32",
     name: "Mississippi Senate District 32",
-    city: "Meridian",
-    region: "East Mississippi",
     type: "state senate district",
     incumbentName: "Rod Hickman",
     incumbentParty: "Democrat",
@@ -7265,8 +6957,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-33",
     name: "Mississippi Senate District 33",
-    city: "Hattiesburg",
-    region: "South Mississippi · Pine Belt",
     type: "state senate district",
     incumbentName: "Jeff Tate",
     incumbentParty: "Republican",
@@ -7312,8 +7002,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-34",
     name: "Mississippi Senate District 34",
-    city: "Carthage",
-    region: "Central Mississippi",
     type: "state senate district",
     incumbentName: "Juan R. Barnett",
     incumbentParty: "Democrat",
@@ -7359,8 +7047,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-35",
     name: "Mississippi Senate District 35",
-    city: "Natchez",
-    region: "Southwest Mississippi",
     type: "state senate district",
     incumbentName: "Andy Berry",
     incumbentParty: "Republican",
@@ -7406,8 +7092,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-36",
     name: "Mississippi Senate District 36",
-    city: "Brookhaven",
-    region: "Southwest Mississippi",
     type: "state senate district",
     incumbentName: "Brian Rhodes",
     incumbentParty: "Republican",
@@ -7453,8 +7137,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-37",
     name: "Mississippi Senate District 37",
-    city: "Laurel",
-    region: "South Mississippi · Pine Belt",
     type: "state senate district",
     incumbentName: "Albert Butler",
     incumbentParty: "Democrat",
@@ -7500,8 +7182,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-38",
     name: "Mississippi Senate District 38",
-    city: "Hattiesburg",
-    region: "South Mississippi · Pine Belt",
     type: "state senate district",
     incumbentName: "Gary Brumfield",
     incumbentParty: "Democrat",
@@ -7547,8 +7227,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-39",
     name: "Mississippi Senate District 39",
-    city: "Gulfport",
-    region: "Gulf Coast",
     type: "state senate district",
     incumbentName: "Jason T. Barrett",
     incumbentParty: "Republican",
@@ -7594,8 +7272,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-40",
     name: "Mississippi Senate District 40",
-    city: "Hattiesburg",
-    region: "South Mississippi · Pine Belt",
     type: "state senate district",
     incumbentName: "Angela Burks Hill",
     incumbentParty: "Republican",
@@ -7641,8 +7317,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-41",
     name: "Mississippi Senate District 41",
-    city: "Purvis",
-    region: "South Mississippi · Pine Belt",
     type: "state senate district",
     incumbentName: "Joey Fillingane",
     incumbentParty: "Republican",
@@ -7688,8 +7362,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-42",
     name: "Mississippi Senate District 42",
-    city: "Lucedale",
-    region: "Southeast Mississippi",
     type: "state senate district",
     incumbentName: "Robin Robinson",
     incumbentParty: "Republican",
@@ -7735,8 +7407,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-43",
     name: "Mississippi Senate District 43",
-    city: "Biloxi",
-    region: "Gulf Coast",
     type: "state senate district",
     incumbentName: "Dennis Debar Jr.",
     incumbentParty: "Republican",
@@ -7782,8 +7452,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-44",
     name: "Mississippi Senate District 44",
-    city: "Bay St. Louis",
-    region: "Gulf Coast",
     type: "state senate district",
     incumbentName: "John A. Polk",
     incumbentParty: "Republican",
@@ -7829,8 +7497,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-45",
     name: "Mississippi Senate District 45",
-    city: "Pascagoula",
-    region: "Gulf Coast",
     type: "state senate district",
     incumbentName: "Chris Johnson",
     incumbentParty: "Democrat",
@@ -7876,8 +7542,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-46",
     name: "Mississippi Senate District 46",
-    city: "Picayune",
-    region: "South Mississippi",
     type: "state senate district",
     incumbentName: "Philman A. Ladner",
     incumbentParty: "Republican",
@@ -7923,8 +7587,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-47",
     name: "Mississippi Senate District 47",
-    city: "Gulfport",
-    region: "Gulf Coast",
     type: "state senate district",
     incumbentName: "Joseph M. 'mike' Seymour",
     incumbentParty: "Republican",
@@ -7970,8 +7632,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-48",
     name: "Mississippi Senate District 48",
-    city: "Ocean Springs",
-    region: "Gulf Coast",
     type: "state senate district",
     incumbentName: "Mike Thompson",
     incumbentParty: "Republican",
@@ -8017,8 +7677,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-49",
     name: "Mississippi Senate District 49",
-    city: "Long Beach",
-    region: "Gulf Coast",
     type: "state senate district",
     incumbentName: "Joel R. Carter Jr.",
     incumbentParty: "Republican",
@@ -8064,8 +7722,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-50",
     name: "Mississippi Senate District 50",
-    city: "Moss Point",
-    region: "Gulf Coast",
     type: "state senate district",
     incumbentName: "Scott Delano",
     incumbentParty: "Republican",
@@ -8111,8 +7767,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-51",
     name: "Mississippi Senate District 51",
-    city: "Pascagoula",
-    region: "Gulf Coast",
     type: "state senate district",
     incumbentName: "Jeremy England",
     incumbentParty: "Republican",
@@ -8158,8 +7812,6 @@ const MS_SENATE_DISTRICTS = [
   {
     id: "ms-sd-52",
     name: "Mississippi Senate District 52",
-    city: "Pascagoula",
-    region: "Gulf Coast",
     type: "state senate district",
     incumbentName: "Brice Wiggins",
     incumbentParty: "Republican",

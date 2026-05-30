@@ -10,8 +10,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-1",
     name: "Florida House District 1",
-    city: "Pensacola",
-    region: "Northwest Florida",
     type: "state house district",
     incumbentName: "Michelle Salzman",
     incumbentParty: "Republican",
@@ -57,8 +55,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-2",
     name: "Florida House District 2",
-    city: "Pensacola",
-    region: "Northwest Florida",
     type: "state house district",
     incumbentName: "Alex Andrade",
     incumbentParty: "Republican",
@@ -104,8 +100,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-3",
     name: "Florida House District 3",
-    city: "Navarre",
-    region: "Northwest Florida",
     type: "state house district",
     incumbentName: "Joel Rudman",
     incumbentParty: "Republican",
@@ -151,8 +145,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-4",
     name: "Florida House District 4",
-    city: "Fort Walton Beach",
-    region: "Northwest Florida",
     type: "state house district",
     incumbentName: "Patt Maney",
     incumbentParty: "Republican",
@@ -198,8 +190,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-5",
     name: "Florida House District 5",
-    city: "DeFuniak Springs",
-    region: "Northwest Florida",
     type: "state house district",
     incumbentName: "Shane Abbott",
     incumbentParty: "Republican",
@@ -245,8 +235,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-6",
     name: "Florida House District 6",
-    city: "Panama City",
-    region: "Northwest Florida",
     type: "state house district",
     incumbentName: "Griff Griffitts",
     incumbentParty: "Republican",
@@ -292,8 +280,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-7",
     name: "Florida House District 7",
-    city: "Perry",
-    region: "North Florida",
     type: "state house district",
     incumbentName: "Jason Shoaf",
     incumbentParty: "Republican",
@@ -339,8 +325,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-8",
     name: "Florida House District 8",
-    city: "Tallahassee",
-    region: "North Florida",
     type: "state house district",
     incumbentName: "Gallop P. Franklin",
     incumbentParty: "Democrat",
@@ -386,8 +370,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-9",
     name: "Florida House District 9",
-    city: "Tallahassee",
-    region: "North Florida",
     type: "state house district",
     incumbentName: "Allison Tant",
     incumbentParty: "Democrat",
@@ -433,8 +415,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-10",
     name: "Florida House District 10",
-    city: "Lake City",
-    region: "North Florida",
     type: "state house district",
     incumbentName: "Chuck Brannan",
     incumbentParty: "Republican",
@@ -480,8 +460,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-11",
     name: "Florida House District 11",
-    city: "Fleming Island",
-    region: "Northeast Florida",
     type: "state house district",
     incumbentName: "Sam Garrison",
     incumbentParty: "Republican",
@@ -527,8 +505,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-12",
     name: "Florida House District 12",
-    city: "Jacksonville",
-    region: "Northeast Florida",
     type: "state house district",
     incumbentName: "Wyman Duggan",
     incumbentParty: "Republican",
@@ -575,8 +551,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-13",
     name: "Florida House District 13",
-    city: "Jacksonville",
-    region: "Northeast Florida",
     type: "state house district",
     incumbentName: "Angie Nixon",
     incumbentParty: "Democrat",
@@ -622,8 +596,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-14",
     name: "Florida House District 14",
-    city: "Jacksonville",
-    region: "Northeast Florida",
     type: "state house district",
     incumbentName: "Kimberly Daniels",
     incumbentParty: "Democrat",
@@ -669,8 +641,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-15",
     name: "Florida House District 15",
-    city: "Jacksonville",
-    region: "Northeast Florida",
     type: "state house district",
     incumbentName: "Dean Black",
     incumbentParty: "Republican",
@@ -716,8 +686,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-16",
     name: "Florida House District 16",
-    city: "Jacksonville",
-    region: "Northeast Florida",
     type: "state house district",
     incumbentName: "Kiyan Helen Michael",
     incumbentParty: "Republican",
@@ -763,8 +731,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-17",
     name: "Florida House District 17",
-    city: "Jacksonville",
-    region: "Northeast Florida",
     type: "state house district",
     incumbentName: "Jessica Baker",
     incumbentParty: "Republican",
@@ -810,8 +776,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-18",
     name: "Florida House District 18",
-    city: "Ponte Vedra",
-    region: "Northeast Florida",
     type: "state house district",
     incumbentName: "Kim Kendall",
     incumbentParty: "Republican",
@@ -857,8 +821,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-19",
     name: "Florida House District 19",
-    city: "Gainesville",
-    region: "North Central Florida",
     type: "state house district",
     incumbentName: "Sam Greco",
     incumbentParty: "Republican",
@@ -904,8 +866,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-20",
     name: "Florida House District 20",
-    city: "Keystone Heights",
-    region: "North Florida",
     type: "state house district",
     incumbentName: "Judson Sapp",
     incumbentParty: "Republican",
@@ -951,8 +911,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-21",
     name: "Florida House District 21",
-    city: "Gainesville",
-    region: "North Central Florida",
     type: "state house district",
     incumbentName: "Yvonne Hayes Hinson",
     incumbentParty: "Democrat",
@@ -999,8 +957,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-22",
     name: "Florida House District 22",
-    city: "Fernandina Beach",
-    region: "Northeast Florida",
     type: "state house district",
     incumbentName: "Chad Johnson",
     incumbentParty: "Republican",
@@ -1046,8 +1002,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-23",
     name: "Florida House District 23",
-    city: "Madison",
-    region: "North Florida",
     type: "state house district",
     incumbentName: "J.j. Grow",
     incumbentParty: "Republican",
@@ -1093,8 +1047,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-24",
     name: "Florida House District 24",
-    city: "Ocala",
-    region: "North Central Florida",
     type: "state house district",
     incumbentName: "Ryan D. Chamberlin",
     incumbentParty: "Republican",
@@ -1140,8 +1092,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-25",
     name: "Florida House District 25",
-    city: "The Villages",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Taylor Yarkosky",
     incumbentParty: "Republican",
@@ -1187,8 +1137,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-26",
     name: "Florida House District 26",
-    city: "Leesburg",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Nan Cobb",
     incumbentParty: "Republican",
@@ -1234,8 +1182,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-27",
     name: "Florida House District 27",
-    city: "Sanford",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Richard Gentry",
     incumbentParty: "Republican",
@@ -1281,8 +1227,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-28",
     name: "Florida House District 28",
-    city: "Palm Coast",
-    region: "Northeast Florida",
     type: "state house district",
     incumbentName: "Bill Partington",
     incumbentParty: "Republican",
@@ -1328,8 +1272,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-29",
     name: "Florida House District 29",
-    city: "Deltona",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Webster Barnaby",
     incumbentParty: "Republican",
@@ -1375,8 +1317,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-30",
     name: "Florida House District 30",
-    city: "Port Orange",
-    region: "Northeast Florida",
     type: "state house district",
     incumbentName: "Chase Tramont",
     incumbentParty: "Republican",
@@ -1422,8 +1362,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-31",
     name: "Florida House District 31",
-    city: "Merritt Island",
-    region: "East Central Florida",
     type: "state house district",
     incumbentName: "Tyler Sirois",
     incumbentParty: "Republican",
@@ -1469,8 +1407,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-32",
     name: "Florida House District 32",
-    city: "Vero Beach",
-    region: "Treasure Coast",
     type: "state house district",
     incumbentName: "Debbie Mayfield",
     incumbentParty: "Republican",
@@ -1516,8 +1452,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-33",
     name: "Florida House District 33",
-    city: "Titusville",
-    region: "East Central Florida",
     type: "state house district",
     incumbentName: "Monique Miller",
     incumbentParty: "Republican",
@@ -1564,8 +1498,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-34",
     name: "Florida House District 34",
-    city: "Melbourne",
-    region: "East Central Florida",
     type: "state house district",
     incumbentName: "Robert Brackett",
     incumbentParty: "Republican",
@@ -1611,8 +1543,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-35",
     name: "Florida House District 35",
-    city: "Oviedo",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Erika Booth",
     incumbentParty: "Republican",
@@ -1658,8 +1588,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-36",
     name: "Florida House District 36",
-    city: "Lake Mary",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Rachel Plakon",
     incumbentParty: "Republican",
@@ -1705,8 +1633,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-37",
     name: "Florida House District 37",
-    city: "Winter Park",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Susan Plasencia",
     incumbentParty: "Republican",
@@ -1752,8 +1678,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-38",
     name: "Florida House District 38",
-    city: "Altamonte Springs",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "David Smith",
     incumbentParty: "Republican",
@@ -1799,8 +1723,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-39",
     name: "Florida House District 39",
-    city: "Apopka",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Doug Bankson",
     incumbentParty: "Republican",
@@ -1846,8 +1768,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-40",
     name: "Florida House District 40",
-    city: "Ocoee",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Lavon Bracy Davis",
     incumbentParty: "Democrat",
@@ -1893,8 +1813,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-41",
     name: "Florida House District 41",
-    city: "Orlando",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Bruce Antone",
     incumbentParty: "Democrat",
@@ -1940,8 +1858,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-42",
     name: "Florida House District 42",
-    city: "Orlando",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Anna V. Eskamani",
     incumbentParty: "Democrat",
@@ -1987,8 +1903,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-43",
     name: "Florida House District 43",
-    city: "Orlando",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Johanna Lopez",
     incumbentParty: "Democrat",
@@ -2034,8 +1948,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-44",
     name: "Florida House District 44",
-    city: "St. Cloud",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Jennifer 'rita' Harris",
     incumbentParty: "Democrat",
@@ -2081,8 +1993,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-45",
     name: "Florida House District 45",
-    city: "Kissimmee",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Leonard Spencer",
     incumbentParty: "Democrat",
@@ -2128,8 +2038,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-46",
     name: "Florida House District 46",
-    city: "Kissimmee",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Jose Alvarez",
     incumbentParty: "Democrat",
@@ -2175,8 +2083,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-47",
     name: "Florida House District 47",
-    city: "Lake Wales",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Paula A. Stark",
     incumbentParty: "Republican",
@@ -2222,8 +2128,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-48",
     name: "Florida House District 48",
-    city: "Lakeland",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Jon Albert",
     incumbentParty: "Republican",
@@ -2269,8 +2173,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-49",
     name: "Florida House District 49",
-    city: "Palm Bay",
-    region: "East Central Florida",
     type: "state house district",
     incumbentName: "Jennifer Kincart Jonsson",
     incumbentParty: "Republican",
@@ -2316,8 +2218,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-50",
     name: "Florida House District 50",
-    city: "Lakeland",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Jennifer Canady",
     incumbentParty: "Republican",
@@ -2363,8 +2263,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-51",
     name: "Florida House District 51",
-    city: "Auburndale",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "Josie Tomkow",
     incumbentParty: "Republican",
@@ -2410,8 +2308,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-52",
     name: "Florida House District 52",
-    city: "Inverness",
-    region: "Central Florida",
     type: "state house district",
     incumbentName: "John Temple",
     incumbentParty: "Republican",
@@ -2458,8 +2354,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-53",
     name: "Florida House District 53",
-    city: "Wesley Chapel",
-    region: "Tampa Bay",
     type: "state house district",
     incumbentName: "Jeff Holcomb",
     incumbentParty: "Republican",
@@ -2505,8 +2399,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-54",
     name: "Florida House District 54",
-    city: "Dade City",
-    region: "Tampa Bay",
     type: "state house district",
     incumbentName: "Randy Maggard",
     incumbentParty: "Republican",
@@ -2552,8 +2444,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-55",
     name: "Florida House District 55",
-    city: "Brandon",
-    region: "Tampa Bay",
     type: "state house district",
     incumbentName: "Kevin M. Steele",
     incumbentParty: "Republican",
@@ -2599,8 +2489,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-56",
     name: "Florida House District 56",
-    city: "New Port Richey",
-    region: "Tampa Bay",
     type: "state house district",
     incumbentName: "Brad Yeager",
     incumbentParty: "Republican",
@@ -2646,8 +2534,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-57",
     name: "Florida House District 57",
-    city: "Palm Harbor",
-    region: "Tampa Bay",
     type: "state house district",
     incumbentName: "Adam C. Anderson",
     incumbentParty: "Republican",
@@ -2693,8 +2579,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-58",
     name: "Florida House District 58",
-    city: "Clearwater",
-    region: "Tampa Bay",
     type: "state house district",
     incumbentName: "Kimberly 'kim' Berfield",
     incumbentParty: "Republican",
@@ -2740,8 +2624,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-59",
     name: "Florida House District 59",
-    city: "Largo",
-    region: "Tampa Bay",
     type: "state house district",
     incumbentName: "Berny Jacques",
     incumbentParty: "Republican",
@@ -2787,8 +2669,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-60",
     name: "Florida House District 60",
-    city: "St. Petersburg",
-    region: "Tampa Bay",
     type: "state house district",
     incumbentName: "Lindsay Cross",
     incumbentParty: "Democrat",
@@ -2834,8 +2714,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-61",
     name: "Florida House District 61",
-    city: "St. Pete Beach",
-    region: "Tampa Bay",
     type: "state house district",
     incumbentName: "Linda Chaney",
     incumbentParty: "Republican",
@@ -2881,8 +2759,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-62",
     name: "Florida House District 62",
-    city: "St. Petersburg",
-    region: "Tampa Bay",
     type: "state house district",
     incumbentName: "Michele K. Rayner",
     incumbentParty: "Democrat",
@@ -2928,8 +2804,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-63",
     name: "Florida House District 63",
-    city: "Tampa",
-    region: "Tampa Bay",
     type: "state house district",
     incumbentName: "Dianne 'ms. Dee' Hart",
     incumbentParty: "Democrat",
@@ -2975,8 +2849,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-64",
     name: "Florida House District 64",
-    city: "Tampa",
-    region: "Tampa Bay",
     type: "state house district",
     incumbentName: "Susan L. Valdés",
     incumbentParty: "Democrat",
@@ -3023,8 +2895,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-65",
     name: "Florida House District 65",
-    city: "Tampa",
-    region: "Tampa Bay",
     type: "state house district",
     incumbentName: "Karen Gonzalez Pittman",
     incumbentParty: "Republican",
@@ -3070,8 +2940,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-66",
     name: "Florida House District 66",
-    city: "Tampa",
-    region: "Tampa Bay",
     type: "state house district",
     incumbentName: "Traci Koster",
     incumbentParty: "Republican",
@@ -3117,8 +2985,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-67",
     name: "Florida House District 67",
-    city: "Tampa",
-    region: "Tampa Bay",
     type: "state house district",
     incumbentName: "Fentrice Driskell",
     incumbentParty: "Democrat",
@@ -3164,8 +3030,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-68",
     name: "Florida House District 68",
-    city: "Valrico",
-    region: "Tampa Bay",
     type: "state house district",
     incumbentName: "Lawrence Mcclure",
     incumbentParty: "Republican",
@@ -3211,8 +3075,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-69",
     name: "Florida House District 69",
-    city: "Riverview",
-    region: "Tampa Bay",
     type: "state house district",
     incumbentName: "Daniel 'danny' Alvarez",
     incumbentParty: "Republican",
@@ -3258,8 +3120,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-70",
     name: "Florida House District 70",
-    city: "Plant City",
-    region: "Tampa Bay",
     type: "state house district",
     incumbentName: "Michael Owen",
     incumbentParty: "Republican",
@@ -3305,8 +3165,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-71",
     name: "Florida House District 71",
-    city: "Bradenton",
-    region: "Southwest Florida",
     type: "state house district",
     incumbentName: "Will Robinson",
     incumbentParty: "Republican",
@@ -3352,8 +3210,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-72",
     name: "Florida House District 72",
-    city: "Sarasota",
-    region: "Southwest Florida",
     type: "state house district",
     incumbentName: "William 'bill' Conerly",
     incumbentParty: "Republican",
@@ -3399,8 +3255,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-73",
     name: "Florida House District 73",
-    city: "Sarasota",
-    region: "Southwest Florida",
     type: "state house district",
     incumbentName: "Fiona Mcfarland",
     incumbentParty: "Republican",
@@ -3446,8 +3300,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-74",
     name: "Florida House District 74",
-    city: "Venice",
-    region: "Southwest Florida",
     type: "state house district",
     incumbentName: "James Buchanan",
     incumbentParty: "Republican",
@@ -3493,8 +3345,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-75",
     name: "Florida House District 75",
-    city: "Wauchula",
-    region: "South Central Florida",
     type: "state house district",
     incumbentName: "Danny Nix",
     incumbentParty: "Republican",
@@ -3541,8 +3391,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-76",
     name: "Florida House District 76",
-    city: "Lehigh Acres",
-    region: "Southwest Florida",
     type: "state house district",
     incumbentName: "Vanessa Oliver",
     incumbentParty: "Republican",
@@ -3588,8 +3436,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-77",
     name: "Florida House District 77",
-    city: "Fort Myers",
-    region: "Southwest Florida",
     type: "state house district",
     incumbentName: "Tiffany Esposito",
     incumbentParty: "Republican",
@@ -3635,8 +3481,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-78",
     name: "Florida House District 78",
-    city: "Cape Coral",
-    region: "Southwest Florida",
     type: "state house district",
     incumbentName: "Jenna Persons-mulicka",
     incumbentParty: "Republican",
@@ -3682,8 +3526,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-79",
     name: "Florida House District 79",
-    city: "Cape Coral",
-    region: "Southwest Florida",
     type: "state house district",
     incumbentName: "Mike Giallombardo",
     incumbentParty: "Republican",
@@ -3729,8 +3571,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-80",
     name: "Florida House District 80",
-    city: "Naples",
-    region: "Southwest Florida",
     type: "state house district",
     incumbentName: "Adam Botana",
     incumbentParty: "Republican",
@@ -3776,8 +3616,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-81",
     name: "Florida House District 81",
-    city: "Boca Raton",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Yvette Benarroch",
     incumbentParty: "Republican",
@@ -3823,8 +3661,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-82",
     name: "Florida House District 82",
-    city: "Palm Beach Gardens",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Lauren Uhlich Melo",
     incumbentParty: "Republican",
@@ -3870,8 +3706,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-83",
     name: "Florida House District 83",
-    city: "LaBelle",
-    region: "South Central Florida",
     type: "state house district",
     incumbentName: "Kaylee Tuck",
     incumbentParty: "Republican",
@@ -3917,8 +3751,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-84",
     name: "Florida House District 84",
-    city: "Fort Pierce",
-    region: "Treasure Coast",
     type: "state house district",
     incumbentName: "Dana Trabulsy",
     incumbentParty: "Republican",
@@ -3964,8 +3796,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-85",
     name: "Florida House District 85",
-    city: "Stuart",
-    region: "Treasure Coast",
     type: "state house district",
     incumbentName: "Toby Overdorf",
     incumbentParty: "Republican",
@@ -4011,8 +3841,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-86",
     name: "Florida House District 86",
-    city: "Jupiter",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "John Snyder",
     incumbentParty: "Republican",
@@ -4058,8 +3886,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-87",
     name: "Florida House District 87",
-    city: "Delray Beach",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Mike Caruso",
     incumbentParty: "Republican",
@@ -4105,8 +3931,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-88",
     name: "Florida House District 88",
-    city: "Riviera Beach",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Jervonte 'tae' Edmonds",
     incumbentParty: "Democrat",
@@ -4152,8 +3976,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-89",
     name: "Florida House District 89",
-    city: "Coral Springs",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Debra Tendrich",
     incumbentParty: "Democrat",
@@ -4199,8 +4021,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-90",
     name: "Florida House District 90",
-    city: "Boynton Beach",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Joe Casello",
     incumbentParty: "Democrat",
@@ -4246,8 +4066,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-91",
     name: "Florida House District 91",
-    city: "Deerfield Beach",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Peggy Gossett-seidman",
     incumbentParty: "Republican",
@@ -4293,8 +4111,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-92",
     name: "Florida House District 92",
-    city: "Boca Raton",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Kelly Skidmore",
     incumbentParty: "Democrat",
@@ -4340,8 +4156,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-93",
     name: "Florida House District 93",
-    city: "Wellington",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Anne Gerwig",
     incumbentParty: "Republican",
@@ -4387,8 +4201,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-94",
     name: "Florida House District 94",
-    city: "West Palm Beach",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Meg Weinberger",
     incumbentParty: "Republican",
@@ -4434,8 +4246,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-95",
     name: "Florida House District 95",
-    city: "Parkland",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Christine Hunschofsky",
     incumbentParty: "Democrat",
@@ -4481,8 +4291,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-96",
     name: "Florida House District 96",
-    city: "Coral Springs",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Dan Daley",
     incumbentParty: "Democrat",
@@ -4528,8 +4336,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-97",
     name: "Florida House District 97",
-    city: "Lauderhill",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Lisa Dunkley",
     incumbentParty: "Democrat",
@@ -4575,8 +4381,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-98",
     name: "Florida House District 98",
-    city: "Coconut Creek",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Mitch Rosenwald",
     incumbentParty: "Democrat",
@@ -4622,8 +4426,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-99",
     name: "Florida House District 99",
-    city: "Lauderdale Lakes",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Daryl Nevroy Campbell",
     incumbentParty: "Democrat",
@@ -4669,8 +4471,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-100",
     name: "Florida House District 100",
-    city: "Lighthouse Point",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Chip Lamarca",
     incumbentParty: "Republican",
@@ -4716,8 +4516,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-101",
     name: "Florida House District 101",
-    city: "Hallandale Beach",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Hillary Cassel",
     incumbentParty: "Democrat",
@@ -4763,8 +4561,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-102",
     name: "Florida House District 102",
-    city: "Fort Lauderdale",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Michael Gottlieb",
     incumbentParty: "Democrat",
@@ -4810,8 +4606,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-103",
     name: "Florida House District 103",
-    city: "Weston",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Robin Bartleman",
     incumbentParty: "Democrat",
@@ -4857,8 +4651,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-104",
     name: "Florida House District 104",
-    city: "Miramar",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Felicia Robinson",
     incumbentParty: "Democrat",
@@ -4904,8 +4696,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-105",
     name: "Florida House District 105",
-    city: "Pembroke Pines",
-    region: "Southeast Florida",
     type: "state house district",
     incumbentName: "Marie Woodson",
     incumbentParty: "Democrat",
@@ -4951,8 +4741,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-106",
     name: "Florida House District 106",
-    city: "Miami Beach",
-    region: "South Florida",
     type: "state house district",
     incumbentName: "Fabián Basabe",
     incumbentParty: "Republican",
@@ -4998,8 +4786,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-107",
     name: "Florida House District 107",
-    city: "Opa-locka",
-    region: "South Florida",
     type: "state house district",
     incumbentName: "Wallace Aristide",
     incumbentParty: "Democrat",
@@ -5045,8 +4831,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-108",
     name: "Florida House District 108",
-    city: "North Miami",
-    region: "South Florida",
     type: "state house district",
     incumbentName: "Dotie Joseph",
     incumbentParty: "Democrat",
@@ -5092,8 +4876,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-109",
     name: "Florida House District 109",
-    city: "Miami Gardens",
-    region: "South Florida",
     type: "state house district",
     incumbentName: "Ashley Gantt",
     incumbentParty: "Democrat",
@@ -5139,8 +4921,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-110",
     name: "Florida House District 110",
-    city: "Hialeah",
-    region: "South Florida",
     type: "state house district",
     incumbentName: "Tom Fabricio",
     incumbentParty: "Republican",
@@ -5186,8 +4966,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-111",
     name: "Florida House District 111",
-    city: "Sweetwater",
-    region: "South Florida",
     type: "state house district",
     incumbentName: "David Borrero",
     incumbentParty: "Republican",
@@ -5233,8 +5011,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-112",
     name: "Florida House District 112",
-    city: "Hialeah Gardens",
-    region: "South Florida",
     type: "state house district",
     incumbentName: "Alex Rizo",
     incumbentParty: "Republican",
@@ -5280,8 +5056,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-113",
     name: "Florida House District 113",
-    city: "Doral",
-    region: "South Florida",
     type: "state house district",
     incumbentName: "Vicki Lopez",
     incumbentParty: "Republican",
@@ -5327,8 +5101,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-114",
     name: "Florida House District 114",
-    city: "Coral Gables",
-    region: "South Florida",
     type: "state house district",
     incumbentName: "Demi Busatta Cabrera",
     incumbentParty: "Republican",
@@ -5374,8 +5146,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-115",
     name: "Florida House District 115",
-    city: "Miami",
-    region: "South Florida",
     type: "state house district",
     incumbentName: "Omar Blanco",
     incumbentParty: "Republican",
@@ -5422,8 +5192,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-116",
     name: "Florida House District 116",
-    city: "Miami Lakes",
-    region: "South Florida",
     type: "state house district",
     incumbentName: "Daniel A. Perez",
     incumbentParty: "Republican",
@@ -5469,8 +5237,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-117",
     name: "Florida House District 117",
-    city: "Cutler Bay",
-    region: "South Florida",
     type: "state house district",
     incumbentName: "Kevin Chambliss",
     incumbentParty: "Democrat",
@@ -5516,8 +5282,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-118",
     name: "Florida House District 118",
-    city: "Kendall",
-    region: "South Florida",
     type: "state house district",
     incumbentName: "Mike Redondo",
     incumbentParty: "Republican",
@@ -5563,8 +5327,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-119",
     name: "Florida House District 119",
-    city: "Homestead",
-    region: "South Florida",
     type: "state house district",
     incumbentName: "Juan Carlos Porras",
     incumbentParty: "Republican",
@@ -5610,8 +5372,6 @@ const FL_HOUSE_DISTRICTS = [
   {
     id: "fl-hd-120",
     name: "Florida House District 120",
-    city: "Key West",
-    region: "Florida Keys",
     type: "state house district",
     incumbentName: "James 'jim' Vernon Mooney",
     incumbentParty: "Republican",
@@ -5660,8 +5420,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-1",
     name: "Florida Senate District 1",
-    city: "Fort Walton Beach",
-    region: "Northwest Florida",
     type: "state senate district",
     incumbentName: "Don Gaetz",
     incumbentParty: "Republican",
@@ -5707,8 +5465,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-2",
     name: "Florida Senate District 2",
-    city: "Panama City",
-    region: "Northwest Florida",
     type: "state senate district",
     incumbentName: "Jay Trumbull",
     incumbentParty: "Republican",
@@ -5754,8 +5510,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-3",
     name: "Florida Senate District 3",
-    city: "Tallahassee",
-    region: "North Florida",
     type: "state senate district",
     incumbentName: "Corey Simon",
     incumbentParty: "Republican",
@@ -5801,8 +5555,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-4",
     name: "Florida Senate District 4",
-    city: "Jacksonville",
-    region: "Northeast Florida",
     type: "state senate district",
     incumbentName: "Clay Yarborough",
     incumbentParty: "Republican",
@@ -5849,8 +5601,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-5",
     name: "Florida Senate District 5",
-    city: "Jacksonville",
-    region: "Northeast Florida",
     type: "state senate district",
     incumbentName: "Tracie Davis",
     incumbentParty: "Democrat",
@@ -5896,8 +5646,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-6",
     name: "Florida Senate District 6",
-    city: "Fleming Island",
-    region: "Northeast Florida",
     type: "state senate district",
     incumbentName: "Jennifer Bradley",
     incumbentParty: "Republican",
@@ -5943,8 +5691,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-7",
     name: "Florida Senate District 7",
-    city: "Daytona Beach",
-    region: "Northeast Florida",
     type: "state senate district",
     incumbentName: "Tom Leek",
     incumbentParty: "Republican",
@@ -5990,8 +5736,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-8",
     name: "Florida Senate District 8",
-    city: "Palatka",
-    region: "North Florida",
     type: "state senate district",
     incumbentName: "Tommy A. Wright",
     incumbentParty: "Republican",
@@ -6037,8 +5781,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-9",
     name: "Florida Senate District 9",
-    city: "Ocala",
-    region: "North Central Florida",
     type: "state senate district",
     incumbentName: "Stan Mcclain",
     incumbentParty: "Republican",
@@ -6084,8 +5826,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-10",
     name: "Florida Senate District 10",
-    city: "Lake Mary",
-    region: "Central Florida",
     type: "state senate district",
     incumbentName: "Jason Brodeur",
     incumbentParty: "Republican",
@@ -6131,8 +5871,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-11",
     name: "Florida Senate District 11",
-    city: "Spring Hill",
-    region: "Tampa Bay",
     type: "state senate district",
     incumbentName: "Blaise Ingoglia",
     incumbentParty: "Republican",
@@ -6178,8 +5916,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-12",
     name: "Florida Senate District 12",
-    city: "Lakeland",
-    region: "Central Florida",
     type: "state senate district",
     incumbentName: "Colleen Burton",
     incumbentParty: "Republican",
@@ -6225,8 +5961,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-13",
     name: "Florida Senate District 13",
-    city: "Clermont",
-    region: "Central Florida",
     type: "state senate district",
     incumbentName: "Keith Truenow",
     incumbentParty: "Republican",
@@ -6272,8 +6006,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-14",
     name: "Florida Senate District 14",
-    city: "Tampa",
-    region: "Tampa Bay",
     type: "state senate district",
     incumbentName: "Jay Collins",
     incumbentParty: "Republican",
@@ -6320,8 +6052,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-15",
     name: "Florida Senate District 15",
-    city: "Orlando",
-    region: "Central Florida",
     type: "state senate district",
     incumbentName: "Geraldine F. Thompson",
     incumbentParty: "Democrat",
@@ -6368,8 +6098,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-16",
     name: "Florida Senate District 16",
-    city: "St. Petersburg",
-    region: "Tampa Bay",
     type: "state senate district",
     incumbentName: "Darryl Ervin Rouson",
     incumbentParty: "Democrat",
@@ -6415,8 +6143,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-17",
     name: "Florida Senate District 17",
-    city: "Orlando",
-    region: "Central Florida",
     type: "state senate district",
     incumbentName: "Linda Stewart",
     incumbentParty: "Democrat",
@@ -6462,8 +6188,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-18",
     name: "Florida Senate District 18",
-    city: "Clearwater",
-    region: "Tampa Bay",
     type: "state senate district",
     incumbentName: "Nick Diceglie",
     incumbentParty: "Republican",
@@ -6509,8 +6233,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-19",
     name: "Florida Senate District 19",
-    city: "Melbourne",
-    region: "East Central Florida",
     type: "state senate district",
     incumbentName: "Randy Fine",
     incumbentParty: "Republican",
@@ -6556,8 +6278,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-20",
     name: "Florida Senate District 20",
-    city: "Bradenton",
-    region: "Southwest Florida",
     type: "state senate district",
     incumbentName: "Jim Boyd",
     incumbentParty: "Republican",
@@ -6603,8 +6323,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-21",
     name: "Florida Senate District 21",
-    city: "New Port Richey",
-    region: "Tampa Bay",
     type: "state senate district",
     incumbentName: "Ed Hooper",
     incumbentParty: "Republican",
@@ -6650,8 +6368,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-22",
     name: "Florida Senate District 22",
-    city: "Sarasota",
-    region: "Southwest Florida",
     type: "state senate district",
     incumbentName: "Joe Gruters",
     incumbentParty: "Republican",
@@ -6697,8 +6413,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-23",
     name: "Florida Senate District 23",
-    city: "Wesley Chapel",
-    region: "Tampa Bay",
     type: "state senate district",
     incumbentName: "Danny Burgess",
     incumbentParty: "Republican",
@@ -6744,8 +6458,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-24",
     name: "Florida Senate District 24",
-    city: "West Palm Beach",
-    region: "Southeast Florida",
     type: "state senate district",
     incumbentName: "Bobby Powell",
     incumbentParty: "Democrat",
@@ -6791,8 +6503,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-25",
     name: "Florida Senate District 25",
-    city: "Kissimmee",
-    region: "Central Florida",
     type: "state senate district",
     incumbentName: "Kristen Arrington",
     incumbentParty: "Democrat",
@@ -6838,8 +6548,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-26",
     name: "Florida Senate District 26",
-    city: "Boca Raton",
-    region: "Southeast Florida",
     type: "state senate district",
     incumbentName: "Lori Berman",
     incumbentParty: "Democrat",
@@ -6885,8 +6593,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-27",
     name: "Florida Senate District 27",
-    city: "Wauchula",
-    region: "South Central Florida",
     type: "state senate district",
     incumbentName: "Ben Albritton",
     incumbentParty: "Republican",
@@ -6932,8 +6638,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-28",
     name: "Florida Senate District 28",
-    city: "Naples",
-    region: "Southwest Florida",
     type: "state senate district",
     incumbentName: "Kathleen Passidomo",
     incumbentParty: "Republican",
@@ -6980,8 +6684,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-29",
     name: "Florida Senate District 29",
-    city: "Vero Beach",
-    region: "Treasure Coast",
     type: "state senate district",
     incumbentName: "Erin Grall",
     incumbentParty: "Republican",
@@ -7027,8 +6729,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-30",
     name: "Florida Senate District 30",
-    city: "Delray Beach",
-    region: "Southeast Florida",
     type: "state senate district",
     incumbentName: "Tina Scott Polsky",
     incumbentParty: "Democrat",
@@ -7074,8 +6774,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-31",
     name: "Florida Senate District 31",
-    city: "Stuart",
-    region: "Treasure Coast",
     type: "state senate district",
     incumbentName: "Gayle Harrell",
     incumbentParty: "Republican",
@@ -7121,8 +6819,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-32",
     name: "Florida Senate District 32",
-    city: "Fort Lauderdale",
-    region: "Southeast Florida",
     type: "state senate district",
     incumbentName: "Rosalind Osgood",
     incumbentParty: "Democrat",
@@ -7168,8 +6864,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-33",
     name: "Florida Senate District 33",
-    city: "Fort Myers",
-    region: "Southwest Florida",
     type: "state senate district",
     incumbentName: "Jonathan Martin",
     incumbentParty: "Republican",
@@ -7216,8 +6910,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-34",
     name: "Florida Senate District 34",
-    city: "Miramar",
-    region: "Southeast Florida",
     type: "state senate district",
     incumbentName: "Shevrin 'shev' Jones",
     incumbentParty: "Democrat",
@@ -7263,8 +6955,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-35",
     name: "Florida Senate District 35",
-    city: "Pembroke Pines",
-    region: "Southeast Florida",
     type: "state senate district",
     incumbentName: "Barbara Sharief",
     incumbentParty: "Democrat",
@@ -7310,8 +7000,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-36",
     name: "Florida Senate District 36",
-    city: "Hialeah",
-    region: "South Florida",
     type: "state senate district",
     incumbentName: "Ileana Garcia",
     incumbentParty: "Republican",
@@ -7357,8 +7045,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-37",
     name: "Florida Senate District 37",
-    city: "Hollywood",
-    region: "Southeast Florida",
     type: "state senate district",
     incumbentName: "Jason Pizzo",
     incumbentParty: "Democrat",
@@ -7404,8 +7090,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-38",
     name: "Florida Senate District 38",
-    city: "Miami Beach",
-    region: "South Florida",
     type: "state senate district",
     incumbentName: "Alexis Maria Calatayud",
     incumbentParty: "Republican",
@@ -7451,8 +7135,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-39",
     name: "Florida Senate District 39",
-    city: "Hialeah Gardens",
-    region: "South Florida",
     type: "state senate district",
     incumbentName: "Bryan Avila",
     incumbentParty: "Republican",
@@ -7498,8 +7180,6 @@ const FL_SENATE_DISTRICTS = [
   {
     id: "fl-sd-40",
     name: "Florida Senate District 40",
-    city: "Homestead",
-    region: "South Florida",
     type: "state senate district",
     incumbentName: "Ana Maria Rodriguez",
     incumbentParty: "Republican",

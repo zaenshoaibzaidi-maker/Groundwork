@@ -10,8 +10,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-1",
     name: "Georgia House District 1",
-    city: "LaFayette",
-    region: "Northwest Georgia / Walker County",
     type: "state house district",
     incumbentName: "Mike Cameron",
     incumbentParty: "Republican",
@@ -57,8 +55,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-2",
     name: "Georgia House District 2",
-    city: "Ringgold",
-    region: "Northwest Georgia / Catoosa County",
     type: "state house district",
     incumbentName: "Steve Tarvin",
     incumbentParty: "Republican",
@@ -104,8 +100,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-3",
     name: "Georgia House District 3",
-    city: "Dalton",
-    region: "Northwest Georgia / Whitfield County",
     type: "state house district",
     incumbentName: "Mitchell Horner",
     incumbentParty: "Republican",
@@ -151,8 +145,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-4",
     name: "Georgia House District 4",
-    city: "Dalton",
-    region: "Northwest Georgia / Whitfield County",
     type: "state house district",
     incumbentName: "Kasey Carpenter",
     incumbentParty: "Republican",
@@ -198,8 +190,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-5",
     name: "Georgia House District 5",
-    city: "Chatsworth",
-    region: "North Georgia Mountains / Murray County",
     type: "state house district",
     incumbentName: "Matt Barton",
     incumbentParty: "Republican",
@@ -245,8 +235,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-6",
     name: "Georgia House District 6",
-    city: "Ellijay",
-    region: "North Georgia Mountains / Gilmer County",
     type: "state house district",
     incumbentName: "Jason T. Ridley",
     incumbentParty: "Republican",
@@ -292,8 +280,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-7",
     name: "Georgia House District 7",
-    city: "Cartersville",
-    region: "Northwest Georgia / Bartow County",
     type: "state house district",
     incumbentName: "Johnny Chastain",
     incumbentParty: "Republican",
@@ -340,8 +326,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-8",
     name: "Georgia House District 8",
-    city: "Blairsville",
-    region: "North Georgia Mountains / Union County",
     type: "state house district",
     incumbentName: "Stan Gunter",
     incumbentParty: "Republican",
@@ -388,8 +372,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-9",
     name: "Georgia House District 9",
-    city: "Cleveland",
-    region: "North Georgia Mountains / White County",
     type: "state house district",
     incumbentName: "William S. Wade",
     incumbentParty: "Republican",
@@ -435,8 +417,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-10",
     name: "Georgia House District 10",
-    city: "Toccoa",
-    region: "Northeast Georgia / Stephens County",
     type: "state house district",
     incumbentName: "Victor Anderson",
     incumbentParty: "Republican",
@@ -482,8 +462,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-11",
     name: "Georgia House District 11",
-    city: "Jasper",
-    region: "North Georgia Foothills / Pickens County",
     type: "state house district",
     incumbentName: "Rick Jasperse",
     incumbentParty: "Republican",
@@ -530,8 +508,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-12",
     name: "Georgia House District 12",
-    city: "Rome",
-    region: "Northwest Georgia / Floyd County",
     type: "state house district",
     incumbentName: "Eddie Lumsden",
     incumbentParty: "Republican",
@@ -577,8 +553,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-13",
     name: "Georgia House District 13",
-    city: "Rome",
-    region: "Northwest Georgia / Floyd County",
     type: "state house district",
     incumbentName: "Katie Dempsey",
     incumbentParty: "Republican",
@@ -624,8 +598,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-14",
     name: "Georgia House District 14",
-    city: "Cartersville",
-    region: "Northwest Georgia / Bartow County",
     type: "state house district",
     incumbentName: "Mitchell L. Scoggins",
     incumbentParty: "Republican",
@@ -671,8 +643,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-15",
     name: "Georgia House District 15",
-    city: "Calhoun",
-    region: "Northwest Georgia / Gordon County",
     type: "state house district",
     incumbentName: "Matthew Gambill",
     incumbentParty: "Republican",
@@ -718,8 +688,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-16",
     name: "Georgia House District 16",
-    city: "Cedartown",
-    region: "Northwest Georgia / Polk County",
     type: "state house district",
     incumbentName: "Trey Kelley",
     incumbentParty: "Republican",
@@ -765,8 +733,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-17",
     name: "Georgia House District 17",
-    city: "Dallas",
-    region: "West Metro Atlanta / Paulding County",
     type: "state house district",
     incumbentName: "Martin Momtahan",
     incumbentParty: "Republican",
@@ -812,8 +778,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-18",
     name: "Georgia House District 18",
-    city: "Canton",
-    region: "North Metro Atlanta / Cherokee County",
     type: "state house district",
     incumbentName: "Tyler Paul Smith",
     incumbentParty: "Republican",
@@ -860,8 +824,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-19",
     name: "Georgia House District 19",
-    city: "Cumming",
-    region: "North Metro Atlanta / Forsyth County",
     type: "state house district",
     incumbentName: "Joseph Gullett",
     incumbentParty: "Republican",
@@ -907,8 +869,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-20",
     name: "Georgia House District 20",
-    city: "Canton",
-    region: "North Metro Atlanta / Cherokee County",
     type: "state house district",
     incumbentName: "Charlice Byrd",
     incumbentParty: "Republican",
@@ -954,8 +914,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-21",
     name: "Georgia House District 21",
-    city: "Canton",
-    region: "North Metro Atlanta / Cherokee County",
     type: "state house district",
     incumbentName: "Brad Thomas",
     incumbentParty: "Republican",
@@ -1001,8 +959,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-22",
     name: "Georgia House District 22",
-    city: "Gainesville",
-    region: "Northeast Georgia / Hall County",
     type: "state house district",
     incumbentName: "Jordan Ridley",
     incumbentParty: "Republican",
@@ -1048,8 +1004,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-23",
     name: "Georgia House District 23",
-    city: "Canton",
-    region: "North Metro Atlanta / Cherokee County",
     type: "state house district",
     incumbentName: "Mandi Ballinger",
     incumbentParty: "Republican",
@@ -1095,8 +1049,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-24",
     name: "Georgia House District 24",
-    city: "Canton",
-    region: "North Metro Atlanta / Cherokee County",
     type: "state house district",
     incumbentName: "Carter Barrett",
     incumbentParty: "Republican",
@@ -1141,8 +1093,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-25",
     name: "Georgia House District 25",
-    city: "Cumming",
-    region: "North Metro Atlanta / Forsyth County",
     type: "state house district",
     incumbentName: "Todd Jones",
     incumbentParty: "Republican",
@@ -1188,8 +1138,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-26",
     name: "Georgia House District 26",
-    city: "Gainesville",
-    region: "Northeast Georgia / Hall County",
     type: "state house district",
     incumbentName: "Lauren Wylie Mcdonald, III",
     incumbentParty: "Republican",
@@ -1235,8 +1183,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-27",
     name: "Georgia House District 27",
-    city: "Gainesville",
-    region: "Northeast Georgia / Hall County",
     type: "state house district",
     incumbentName: "Lee Hawkins",
     incumbentParty: "Republican",
@@ -1282,8 +1228,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-28",
     name: "Georgia House District 28",
-    city: "Gainesville",
-    region: "Northeast Georgia / Hall County",
     type: "state house district",
     incumbentName: "Brent Cox",
     incumbentParty: "Republican",
@@ -1329,8 +1273,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-29",
     name: "Georgia House District 29",
-    city: "Gainesville",
-    region: "Northeast Georgia / Hall County",
     type: "state house district",
     incumbentName: "Matt Dubnik",
     incumbentParty: "Republican",
@@ -1376,8 +1318,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-30",
     name: "Georgia House District 30",
-    city: "Gainesville",
-    region: "Northeast Georgia / Hall County",
     type: "state house district",
     incumbentName: "Derrick Mccollum",
     incumbentParty: "Republican",
@@ -1423,8 +1363,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-31",
     name: "Georgia House District 31",
-    city: "Gainesville",
-    region: "Northeast Georgia / Hall County",
     type: "state house district",
     incumbentName: "Emory West Dunahoo, Jr.",
     incumbentParty: "Republican",
@@ -1470,8 +1408,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-32",
     name: "Georgia House District 32",
-    city: "Cornelia",
-    region: "Northeast Georgia / Habersham County",
     type: "state house district",
     incumbentName: "Chris Erwin",
     incumbentParty: "Republican",
@@ -1517,8 +1453,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-33",
     name: "Georgia House District 33",
-    city: "Hartwell",
-    region: "Northeast Georgia / Hart County",
     type: "state house district",
     incumbentName: "Alan Powell",
     incumbentParty: "Republican",
@@ -1564,8 +1498,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-34",
     name: "Georgia House District 34",
-    city: "Marietta",
-    region: "Metro Atlanta / Cobb County",
     type: "state house district",
     incumbentName: "Devan Seabaugh",
     incumbentParty: "Republican",
@@ -1611,8 +1543,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-35",
     name: "Georgia House District 35",
-    city: "Marietta",
-    region: "Metro Atlanta / Cobb County",
     type: "state house district",
     incumbentName: "Lisa Gayle Campbell",
     incumbentParty: "Democrat",
@@ -1658,8 +1588,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-36",
     name: "Georgia House District 36",
-    city: "Powder Springs",
-    region: "Metro Atlanta / Cobb County",
     type: "state house district",
     incumbentName: "Ginny Ehrhart",
     incumbentParty: "Republican",
@@ -1705,8 +1633,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-37",
     name: "Georgia House District 37",
-    city: "Marietta",
-    region: "Metro Atlanta / Cobb County",
     type: "state house district",
     incumbentName: "Mary Frances Williams",
     incumbentParty: "Democrat",
@@ -1752,8 +1678,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-38",
     name: "Georgia House District 38",
-    city: "Powder Springs",
-    region: "Metro Atlanta / Cobb County",
     type: "state house district",
     incumbentName: "David Wilkerson",
     incumbentParty: "Democrat",
@@ -1799,8 +1723,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-39",
     name: "Georgia House District 39",
-    city: "Austell",
-    region: "Metro Atlanta / Cobb County",
     type: "state house district",
     incumbentName: "Terry Cummings",
     incumbentParty: "Democrat",
@@ -1846,8 +1768,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-40",
     name: "Georgia House District 40",
-    city: "Smyrna",
-    region: "Metro Atlanta / Cobb County",
     type: "state house district",
     incumbentName: "Kimberly R. New",
     incumbentParty: "Republican",
@@ -1893,8 +1813,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-41",
     name: "Georgia House District 41",
-    city: "Mableton",
-    region: "Metro Atlanta / Cobb County",
     type: "state house district",
     incumbentName: "Michael Smith",
     incumbentParty: "Democrat",
@@ -1940,8 +1858,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-42",
     name: "Georgia House District 42",
-    city: "Austell",
-    region: "Metro Atlanta / Cobb County",
     type: "state house district",
     incumbentName: "Gabriel Sanchez",
     incumbentParty: "Democrat",
@@ -1987,8 +1903,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-43",
     name: "Georgia House District 43",
-    city: "Vinings",
-    region: "Metro Atlanta / Cobb County",
     type: "state house district",
     incumbentName: "Solomon Adesanya",
     incumbentParty: "Democrat",
@@ -2034,8 +1948,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-44",
     name: "Georgia House District 44",
-    city: "Marietta",
-    region: "Metro Atlanta / Cobb County",
     type: "state house district",
     incumbentName: "Don L. Parsons",
     incumbentParty: "Republican",
@@ -2082,8 +1994,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-45",
     name: "Georgia House District 45",
-    city: "Marietta",
-    region: "Metro Atlanta / Cobb County",
     type: "state house district",
     incumbentName: "Sharon Cooper",
     incumbentParty: "Republican",
@@ -2129,8 +2039,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-46",
     name: "Georgia House District 46",
-    city: "Alpharetta",
-    region: "Metro Atlanta / North Fulton County",
     type: "state house district",
     incumbentName: "John Carson",
     incumbentParty: "Republican",
@@ -2176,8 +2084,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-47",
     name: "Georgia House District 47",
-    city: "Milton",
-    region: "Metro Atlanta / North Fulton County",
     type: "state house district",
     incumbentName: "Jan Jones",
     incumbentParty: "Republican",
@@ -2223,8 +2129,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-48",
     name: "Georgia House District 48",
-    city: "Lawrenceville",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state house district",
     incumbentName: "Scott Hilton",
     incumbentParty: "Republican",
@@ -2270,8 +2174,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-49",
     name: "Georgia House District 49",
-    city: "Alpharetta",
-    region: "Metro Atlanta / North Fulton County",
     type: "state house district",
     incumbentName: "Chuck Martin",
     incumbentParty: "Republican",
@@ -2317,8 +2219,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-50",
     name: "Georgia House District 50",
-    city: "Johns Creek",
-    region: "Metro Atlanta / North Fulton County",
     type: "state house district",
     incumbentName: "Michelle Au",
     incumbentParty: "Democrat",
@@ -2364,8 +2264,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-51",
     name: "Georgia House District 51",
-    city: "Sandy Springs",
-    region: "Metro Atlanta / North Fulton County",
     type: "state house district",
     incumbentName: "Esther Panitch",
     incumbentParty: "Democrat",
@@ -2411,8 +2309,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-52",
     name: "Georgia House District 52",
-    city: "Atlanta",
-    region: "Metro Atlanta / Fulton County",
     type: "state house district",
     incumbentName: "Shea Roberts",
     incumbentParty: "Democrat",
@@ -2458,8 +2354,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-53",
     name: "Georgia House District 53",
-    city: "Sandy Springs",
-    region: "Metro Atlanta / North Fulton County",
     type: "state house district",
     incumbentName: "Deborah Silcox",
     incumbentParty: "Republican",
@@ -2505,8 +2399,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-54",
     name: "Georgia House District 54",
-    city: "Atlanta",
-    region: "Metro Atlanta / Fulton County",
     type: "state house district",
     incumbentName: "Betsy Holland",
     incumbentParty: "Democrat",
@@ -2552,8 +2444,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-55",
     name: "Georgia House District 55",
-    city: "Atlanta",
-    region: "Metro Atlanta / Fulton County",
     type: "state house district",
     incumbentName: "Inga S. Willis",
     incumbentParty: "Democrat",
@@ -2600,8 +2490,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-56",
     name: "Georgia House District 56",
-    city: "Atlanta",
-    region: "Metro Atlanta / Fulton County",
     type: "state house district",
     incumbentName: "Bryce Berry",
     incumbentParty: "Democrat",
@@ -2647,8 +2535,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-57",
     name: "Georgia House District 57",
-    city: "Atlanta",
-    region: "Metro Atlanta / Fulton County",
     type: "state house district",
     incumbentName: "Stacey Evans",
     incumbentParty: "Democrat",
@@ -2694,8 +2580,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-58",
     name: "Georgia House District 58",
-    city: "Atlanta",
-    region: "Metro Atlanta / Fulton County",
     type: "state house district",
     incumbentName: "Park Elizabeth Cannon",
     incumbentParty: "Democrat",
@@ -2741,8 +2625,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-59",
     name: "Georgia House District 59",
-    city: "Atlanta",
-    region: "Metro Atlanta / Fulton County",
     type: "state house district",
     incumbentName: "Phil Olaleye",
     incumbentParty: "Democrat",
@@ -2788,8 +2670,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-60",
     name: "Georgia House District 60",
-    city: "Atlanta",
-    region: "Metro Atlanta / Fulton County",
     type: "state house district",
     incumbentName: "Sheila Jones",
     incumbentParty: "Democrat",
@@ -2835,8 +2715,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-61",
     name: "Georgia House District 61",
-    city: "Atlanta",
-    region: "Metro Atlanta / South Fulton County",
     type: "state house district",
     incumbentName: "Mekyah Mcqueen",
     incumbentParty: "Democrat",
@@ -2882,8 +2760,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-62",
     name: "Georgia House District 62",
-    city: "Atlanta",
-    region: "Metro Atlanta / Fulton County",
     type: "state house district",
     incumbentName: "Tanya F. Miller",
     incumbentParty: "Democrat",
@@ -2929,8 +2805,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-63",
     name: "Georgia House District 63",
-    city: "Atlanta",
-    region: "Metro Atlanta / Fulton County",
     type: "state house district",
     incumbentName: "Kim Joy Schofield",
     incumbentParty: "Democrat",
@@ -2976,8 +2850,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-64",
     name: "Georgia House District 64",
-    city: "Atlanta",
-    region: "Metro Atlanta / Fulton County",
     type: "state house district",
     incumbentName: "Sylvia Wayfer Baker",
     incumbentParty: "Democrat",
@@ -3023,8 +2895,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-65",
     name: "Georgia House District 65",
-    city: "Union City",
-    region: "Metro Atlanta / South Fulton County",
     type: "state house district",
     incumbentName: "Robert Dawson",
     incumbentParty: "Democrat",
@@ -3070,8 +2940,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-66",
     name: "Georgia House District 66",
-    city: "Decatur",
-    region: "Metro Atlanta / DeKalb County",
     type: "state house district",
     incumbentName: "Kimberly Alexander",
     incumbentParty: "Democrat",
@@ -3117,8 +2985,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-67",
     name: "Georgia House District 67",
-    city: "Decatur",
-    region: "Metro Atlanta / DeKalb County",
     type: "state house district",
     incumbentName: "Lydia Glaize",
     incumbentParty: "Democrat",
@@ -3165,8 +3031,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-68",
     name: "Georgia House District 68",
-    city: "Decatur",
-    region: "Metro Atlanta / DeKalb County",
     type: "state house district",
     incumbentName: "Derrick L. Jackson",
     incumbentParty: "Democrat",
@@ -3212,8 +3076,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-69",
     name: "Georgia House District 69",
-    city: "Jonesboro",
-    region: "Metro Atlanta / Clayton County",
     type: "state house district",
     incumbentName: "Debra Bazemore",
     incumbentParty: "Democrat",
@@ -3259,8 +3121,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-70",
     name: "Georgia House District 70",
-    city: "Newnan",
-    region: "Metro Atlanta / Coweta County",
     type: "state house district",
     incumbentName: "Lynn Smith",
     incumbentParty: "Republican",
@@ -3306,8 +3166,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-71",
     name: "Georgia House District 71",
-    city: "Stockbridge",
-    region: "South Metro Atlanta / Henry County",
     type: "state house district",
     incumbentName: "Justin 'jutt' Howard",
     incumbentParty: "Republican",
@@ -3353,8 +3211,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-72",
     name: "Georgia House District 72",
-    city: "McDonough",
-    region: "South Metro Atlanta / Henry County",
     type: "state house district",
     incumbentName: "David Huddleston",
     incumbentParty: "Republican",
@@ -3400,8 +3256,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-73",
     name: "Georgia House District 73",
-    city: "McDonough",
-    region: "South Metro Atlanta / Henry County",
     type: "state house district",
     incumbentName: "Josh Bonner",
     incumbentParty: "Republican",
@@ -3447,8 +3301,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-74",
     name: "Georgia House District 74",
-    city: "Union City",
-    region: "Metro Atlanta / South Fulton County",
     type: "state house district",
     incumbentName: "Robert Flournoy, Jr.",
     incumbentParty: "Democrat",
@@ -3494,8 +3346,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-75",
     name: "Georgia House District 75",
-    city: "Jonesboro",
-    region: "Metro Atlanta / Clayton County",
     type: "state house district",
     incumbentName: "Eric W. Bell, II",
     incumbentParty: "Democrat",
@@ -3541,8 +3391,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-76",
     name: "Georgia House District 76",
-    city: "Jonesboro",
-    region: "Metro Atlanta / Clayton County",
     type: "state house district",
     incumbentName: "Sandra Givens Scott",
     incumbentParty: "Democrat",
@@ -3588,8 +3436,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-77",
     name: "Georgia House District 77",
-    city: "Jonesboro",
-    region: "Metro Atlanta / Clayton County",
     type: "state house district",
     incumbentName: "Rhonda Burnough",
     incumbentParty: "Democrat",
@@ -3635,8 +3481,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-78",
     name: "Georgia House District 78",
-    city: "Jonesboro",
-    region: "Metro Atlanta / Clayton County",
     type: "state house district",
     incumbentName: "Demetrius Douglas",
     incumbentParty: "Democrat",
@@ -3682,8 +3526,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-79",
     name: "Georgia House District 79",
-    city: "Jonesboro",
-    region: "Metro Atlanta / Clayton County",
     type: "state house district",
     incumbentName: "Yasmin Neal",
     incumbentParty: "Democrat",
@@ -3729,8 +3571,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-80",
     name: "Georgia House District 80",
-    city: "Doraville",
-    region: "Metro Atlanta / DeKalb County",
     type: "state house district",
     incumbentName: "Long Tran",
     incumbentParty: "Democrat",
@@ -3776,8 +3616,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-81",
     name: "Georgia House District 81",
-    city: "Lawrenceville",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state house district",
     incumbentName: "Noelle Kahaian",
     incumbentParty: "Republican",
@@ -3823,8 +3661,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-82",
     name: "Georgia House District 82",
-    city: "McDonough",
-    region: "South Metro Atlanta / Henry County",
     type: "state house district",
     incumbentName: "Karen I. Mathiak",
     incumbentParty: "Republican",
@@ -3870,8 +3706,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-83",
     name: "Georgia House District 83",
-    city: "Lawrenceville",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state house district",
     incumbentName: "Karen Lupton",
     incumbentParty: "Democrat",
@@ -3917,8 +3751,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-84",
     name: "Georgia House District 84",
-    city: "Decatur",
-    region: "Metro Atlanta / DeKalb County",
     type: "state house district",
     incumbentName: "Mary Margaret Oliver",
     incumbentParty: "Democrat",
@@ -3965,8 +3797,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-85",
     name: "Georgia House District 85",
-    city: "Avondale Estates",
-    region: "Metro Atlanta / DeKalb County",
     type: "state house district",
     incumbentName: "Karla L. Drenner",
     incumbentParty: "Democrat",
@@ -4012,8 +3842,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-86",
     name: "Georgia House District 86",
-    city: "Lithonia",
-    region: "Metro Atlanta / DeKalb County",
     type: "state house district",
     incumbentName: "Imani Barnes",
     incumbentParty: "Democrat",
@@ -4059,8 +3887,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-87",
     name: "Georgia House District 87",
-    city: "Lithonia",
-    region: "Metro Atlanta / DeKalb County",
     type: "state house district",
     incumbentName: "Viola Davis",
     incumbentParty: "Democrat",
@@ -4106,8 +3932,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-88",
     name: "Georgia House District 88",
-    city: "Stone Mountain",
-    region: "Metro Atlanta / DeKalb County",
     type: "state house district",
     incumbentName: "Billy Mitchell",
     incumbentParty: "Democrat",
@@ -4153,8 +3977,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-89",
     name: "Georgia House District 89",
-    city: "Lithonia",
-    region: "Metro Atlanta / DeKalb County",
     type: "state house district",
     incumbentName: "Omari Crawford",
     incumbentParty: "Democrat",
@@ -4200,8 +4022,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-90",
     name: "Georgia House District 90",
-    city: "Decatur",
-    region: "Metro Atlanta / DeKalb County",
     type: "state house district",
     incumbentName: "Saira Draper",
     incumbentParty: "Democrat",
@@ -4247,8 +4067,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-91",
     name: "Georgia House District 91",
-    city: "Lithonia",
-    region: "Metro Atlanta / DeKalb County",
     type: "state house district",
     incumbentName: "Angela Moore",
     incumbentParty: "Democrat",
@@ -4294,8 +4112,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-92",
     name: "Georgia House District 92",
-    city: "Lithonia",
-    region: "Metro Atlanta / DeKalb County",
     type: "state house district",
     incumbentName: "Rhonda S. Taylor",
     incumbentParty: "Democrat",
@@ -4341,8 +4157,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-93",
     name: "Georgia House District 93",
-    city: "Lithonia",
-    region: "Metro Atlanta / DeKalb County",
     type: "state house district",
     incumbentName: "Doreen Carter",
     incumbentParty: "Democrat",
@@ -4388,8 +4202,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-94",
     name: "Georgia House District 94",
-    city: "Stone Mountain",
-    region: "Metro Atlanta / DeKalb County",
     type: "state house district",
     incumbentName: "Karen Bennett",
     incumbentParty: "Democrat",
@@ -4435,8 +4247,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-95",
     name: "Georgia House District 95",
-    city: "Conyers",
-    region: "Metro Atlanta / DeKalb-Rockdale",
     type: "state house district",
     incumbentName: "Dar'shun Kendrick",
     incumbentParty: "Democrat",
@@ -4482,8 +4292,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-96",
     name: "Georgia House District 96",
-    city: "Norcross",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state house district",
     incumbentName: "Arlene Beckles",
     incumbentParty: "Democrat",
@@ -4529,8 +4337,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-97",
     name: "Georgia House District 97",
-    city: "Peachtree Corners",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state house district",
     incumbentName: "Ruwa Romman",
     incumbentParty: "Democrat",
@@ -4576,8 +4382,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-98",
     name: "Georgia House District 98",
-    city: "Norcross",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state house district",
     incumbentName: "Marvin Lim",
     incumbentParty: "Democrat",
@@ -4623,8 +4427,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-99",
     name: "Georgia House District 99",
-    city: "Loganville",
-    region: "East Metro Atlanta / Gwinnett-Walton",
     type: "state house district",
     incumbentName: "Matt Reeves",
     incumbentParty: "Republican",
@@ -4670,8 +4472,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-100",
     name: "Georgia House District 100",
-    city: "Johns Creek",
-    region: "Metro Atlanta / North Fulton County",
     type: "state house district",
     incumbentName: "David Clark",
     incumbentParty: "Republican",
@@ -4717,8 +4517,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-101",
     name: "Georgia House District 101",
-    city: "Tucker",
-    region: "Metro Atlanta / DeKalb County",
     type: "state house district",
     incumbentName: "Scott Holcomb",
     incumbentParty: "Democrat",
@@ -4765,8 +4563,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-102",
     name: "Georgia House District 102",
-    city: "Norcross",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state house district",
     incumbentName: "Gabe Okoye",
     incumbentParty: "Democrat",
@@ -4812,8 +4608,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-103",
     name: "Georgia House District 103",
-    city: "Duluth",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state house district",
     incumbentName: "Soo Hong",
     incumbentParty: "Republican",
@@ -4859,8 +4653,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-104",
     name: "Georgia House District 104",
-    city: "Lawrenceville",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state house district",
     incumbentName: "Chuck Efstration",
     incumbentParty: "Republican",
@@ -4906,8 +4698,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-105",
     name: "Georgia House District 105",
-    city: "Winder",
-    region: "East Metro Atlanta / Barrow County",
     type: "state house district",
     incumbentName: "Sandy Donatucci",
     incumbentParty: "Republican",
@@ -4953,8 +4743,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-106",
     name: "Georgia House District 106",
-    city: "Snellville",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state house district",
     incumbentName: "Shelly Hutchinson",
     incumbentParty: "Democrat",
@@ -5000,8 +4788,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-107",
     name: "Georgia House District 107",
-    city: "Lawrenceville",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state house district",
     incumbentName: "Sam Park",
     incumbentParty: "Democrat",
@@ -5047,8 +4833,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-108",
     name: "Georgia House District 108",
-    city: "Snellville",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state house district",
     incumbentName: "Jasmine Clark",
     incumbentParty: "Democrat",
@@ -5094,8 +4878,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-109",
     name: "Georgia House District 109",
-    city: "Lawrenceville",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state house district",
     incumbentName: "Dewey L. Mcclain",
     incumbentParty: "Democrat",
@@ -5141,8 +4923,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-110",
     name: "Georgia House District 110",
-    city: "Lawrenceville",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state house district",
     incumbentName: "Segun Adeyina",
     incumbentParty: "Democrat",
@@ -5188,8 +4968,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-111",
     name: "Georgia House District 111",
-    city: "Winder",
-    region: "East Metro Atlanta / Barrow County",
     type: "state house district",
     incumbentName: "Rey Martinez",
     incumbentParty: "Republican",
@@ -5235,8 +5013,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-112",
     name: "Georgia House District 112",
-    city: "Monroe",
-    region: "East Metro Atlanta / Walton County",
     type: "state house district",
     incumbentName: "Bruce Williamson",
     incumbentParty: "Republican",
@@ -5283,8 +5059,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-113",
     name: "Georgia House District 113",
-    city: "McDonough",
-    region: "South Metro Atlanta / Henry County",
     type: "state house district",
     incumbentName: "Sharon Henderson",
     incumbentParty: "Democrat",
@@ -5330,8 +5104,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-114",
     name: "Georgia House District 114",
-    city: "Covington",
-    region: "East Metro Atlanta / Newton County",
     type: "state house district",
     incumbentName: "Tim Fleming",
     incumbentParty: "Republican",
@@ -5377,8 +5149,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-115",
     name: "Georgia House District 115",
-    city: "Columbus",
-    region: "Columbus / Muscogee County",
     type: "state house district",
     incumbentName: "Regina Lewis-ward",
     incumbentParty: "Democrat",
@@ -5424,8 +5194,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-116",
     name: "Georgia House District 116",
-    city: "Savannah",
-    region: "Savannah / Chatham County",
     type: "state house district",
     incumbentName: "El-mahdi Holly",
     incumbentParty: "Democrat",
@@ -5471,8 +5239,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-117",
     name: "Georgia House District 117",
-    city: "Augusta",
-    region: "Augusta / Richmond County",
     type: "state house district",
     incumbentName: "Mary Ann Santos",
     incumbentParty: "Democrat",
@@ -5518,8 +5284,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-118",
     name: "Georgia House District 118",
-    city: "Jefferson",
-    region: "Northeast Georgia / Jackson County",
     type: "state house district",
     incumbentName: "Clint Crowe",
     incumbentParty: "Republican",
@@ -5565,8 +5329,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-119",
     name: "Georgia House District 119",
-    city: "Thomson",
-    region: "East Georgia / McDuffie County",
     type: "state house district",
     incumbentName: "Holt Persinger",
     incumbentParty: "Republican",
@@ -5612,8 +5374,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-120",
     name: "Georgia House District 120",
-    city: "Athens",
-    region: "Athens / Clarke County",
     type: "state house district",
     incumbentName: "Houston Gaines",
     incumbentParty: "Republican",
@@ -5659,8 +5419,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-121",
     name: "Georgia House District 121",
-    city: "Watkinsville",
-    region: "Athens Area / Oconee County",
     type: "state house district",
     incumbentName: "Marcus A. Wiedower",
     incumbentParty: "Republican",
@@ -5706,8 +5464,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-122",
     name: "Georgia House District 122",
-    city: "Athens",
-    region: "Athens / Clarke County",
     type: "state house district",
     incumbentName: "Spencer Frye",
     incumbentParty: "Democrat",
@@ -5753,8 +5509,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-123",
     name: "Georgia House District 123",
-    city: "Elberton",
-    region: "Northeast Georgia / Elbert County",
     type: "state house district",
     incumbentName: "Rob Leverett",
     incumbentParty: "Republican",
@@ -5800,8 +5554,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-124",
     name: "Georgia House District 124",
-    city: "Greensboro",
-    region: "Central Georgia / Greene County",
     type: "state house district",
     incumbentName: "Trey Rhodes",
     incumbentParty: "Republican",
@@ -5847,8 +5599,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-125",
     name: "Georgia House District 125",
-    city: "Warner Robins",
-    region: "Central Georgia / Houston County",
     type: "state house district",
     incumbentName: "Gary Richardson",
     incumbentParty: "Republican",
@@ -5894,8 +5644,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-126",
     name: "Georgia House District 126",
-    city: "Macon",
-    region: "Central Georgia / Bibb County",
     type: "state house district",
     incumbentName: "L.c. Myles, Jr.",
     incumbentParty: "Democrat",
@@ -5941,8 +5689,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-127",
     name: "Georgia House District 127",
-    city: "Evans",
-    region: "Augusta Area / Columbia County",
     type: "state house district",
     incumbentName: "Mark Newton",
     incumbentParty: "Republican",
@@ -5989,8 +5735,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-128",
     name: "Georgia House District 128",
-    city: "Sandersville",
-    region: "East-Central Georgia / Washington County",
     type: "state house district",
     incumbentName: "Mack Jackson",
     incumbentParty: "Democrat",
@@ -6036,8 +5780,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-129",
     name: "Georgia House District 129",
-    city: "Milledgeville",
-    region: "Central Georgia / Baldwin County",
     type: "state house district",
     incumbentName: "Karlton L. Howard",
     incumbentParty: "Democrat",
@@ -6083,8 +5825,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-130",
     name: "Georgia House District 130",
-    city: "Macon",
-    region: "Central Georgia / Bibb County",
     type: "state house district",
     incumbentName: "Lynn Gladney",
     incumbentParty: "Democrat",
@@ -6130,8 +5870,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-131",
     name: "Georgia House District 131",
-    city: "Statesboro",
-    region: "East Georgia / Bulloch County",
     type: "state house district",
     incumbentName: "Rob Clifton",
     incumbentParty: "Republican",
@@ -6178,8 +5916,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-132",
     name: "Georgia House District 132",
-    city: "Augusta",
-    region: "Augusta / Richmond County",
     type: "state house district",
     incumbentName: "Brian L. Prince",
     incumbentParty: "Democrat",
@@ -6225,8 +5961,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-133",
     name: "Georgia House District 133",
-    city: "Eastman",
-    region: "Central Georgia / Dodge County",
     type: "state house district",
     incumbentName: "Danny Mathis",
     incumbentParty: "Republican",
@@ -6272,8 +6006,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-134",
     name: "Georgia House District 134",
-    city: "Musella",
-    region: "Central Georgia / Crawford County",
     type: "state house district",
     incumbentName: "Robert L. Dickey, III",
     incumbentParty: "Republican",
@@ -6319,8 +6051,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-135",
     name: "Georgia House District 135",
-    city: "Hawkinsville",
-    region: "Central Georgia / Pulaski County",
     type: "state house district",
     incumbentName: "Beth Camp",
     incumbentParty: "Republican",
@@ -6367,8 +6097,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-136",
     name: "Georgia House District 136",
-    city: "Baxley",
-    region: "Southeast Georgia / Appling County",
     type: "state house district",
     incumbentName: "David Jenkins",
     incumbentParty: "Republican",
@@ -6413,8 +6141,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-137",
     name: "Georgia House District 137",
-    city: "Hamilton",
-    region: "West Georgia",
     type: "state house district",
     incumbentName: "Debbie G. Buckner",
     incumbentParty: "Democrat",
@@ -6460,8 +6186,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-138",
     name: "Georgia House District 138",
-    city: "Pine Mountain",
-    region: "West Georgia / Harris County",
     type: "state house district",
     incumbentName: "Vance C. Smith, Jr.",
     incumbentParty: "Republican",
@@ -6507,8 +6231,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-139",
     name: "Georgia House District 139",
-    city: "LaGrange",
-    region: "West Georgia / Troup County",
     type: "state house district",
     incumbentName: "Carmen Rice",
     incumbentParty: "Republican",
@@ -6555,8 +6277,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-140",
     name: "Georgia House District 140",
-    city: "Albany",
-    region: "Southwest Georgia / Dougherty County",
     type: "state house district",
     incumbentName: "Tremaine Teddy Reese",
     incumbentParty: "Democrat",
@@ -6602,8 +6322,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-141",
     name: "Georgia House District 141",
-    city: "Columbus",
-    region: "Columbus / Muscogee County",
     type: "state house district",
     incumbentName: "Carolyn F. Hugley",
     incumbentParty: "Democrat",
@@ -6649,8 +6367,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-142",
     name: "Georgia House District 142",
-    city: "Macon",
-    region: "Central Georgia / Bibb County",
     type: "state house district",
     incumbentName: "Miriam Paris",
     incumbentParty: "Democrat",
@@ -6696,8 +6412,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-143",
     name: "Georgia House District 143",
-    city: "Columbus",
-    region: "Columbus / Muscogee County",
     type: "state house district",
     incumbentName: "Anissa Jones",
     incumbentParty: "Democrat",
@@ -6743,8 +6457,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-144",
     name: "Georgia House District 144",
-    city: "Macon",
-    region: "Central Georgia / Bibb County",
     type: "state house district",
     incumbentName: "Dale Washburn",
     incumbentParty: "Republican",
@@ -6790,8 +6502,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-145",
     name: "Georgia House District 145",
-    city: "Moultrie",
-    region: "South Georgia",
     type: "state house district",
     incumbentName: "Tangie Herring",
     incumbentParty: "Democrat",
@@ -6837,8 +6547,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-146",
     name: "Georgia House District 146",
-    city: "Warner Robins",
-    region: "Central Georgia / Houston County",
     type: "state house district",
     incumbentName: "Shaw Blackmon",
     incumbentParty: "Republican",
@@ -6885,8 +6593,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-147",
     name: "Georgia House District 147",
-    city: "Warner Robins",
-    region: "Central Georgia / Houston County",
     type: "state house district",
     incumbentName: "Bethany Ballard",
     incumbentParty: "Republican",
@@ -6932,8 +6638,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-148",
     name: "Georgia House District 148",
-    city: "Alma",
-    region: "Southeast Georgia / Bacon County",
     type: "state house district",
     incumbentName: "Noel W. Williams, Jr.",
     incumbentParty: "Republican",
@@ -6979,8 +6683,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-149",
     name: "Georgia House District 149",
-    city: "Milledgeville",
-    region: "Central Georgia / Baldwin County",
     type: "state house district",
     incumbentName: "Floyd Griffin",
     incumbentParty: "Democrat",
@@ -7026,8 +6728,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-150",
     name: "Georgia House District 150",
-    city: "Dawson",
-    region: "Southwest Georgia / Terrell County",
     type: "state house district",
     incumbentName: "Patty Marie Stinson",
     incumbentParty: "Democrat",
@@ -7073,8 +6773,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-151",
     name: "Georgia House District 151",
-    city: "Americus",
-    region: "Southwest Georgia / Sumter County",
     type: "state house district",
     incumbentName: "Mike Cheokas",
     incumbentParty: "Republican",
@@ -7120,8 +6818,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-152",
     name: "Georgia House District 152",
-    city: "Sylvester",
-    region: "South Georgia / Worth County",
     type: "state house district",
     incumbentName: "William J. 'bill' Yearta",
     incumbentParty: "Republican",
@@ -7167,8 +6863,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-153",
     name: "Georgia House District 153",
-    city: "Cordele",
-    region: "South Georgia / Crisp County",
     type: "state house district",
     incumbentName: "David Sampson",
     incumbentParty: "Democrat",
@@ -7214,8 +6908,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-154",
     name: "Georgia House District 154",
-    city: "Cuthbert",
-    region: "Southwest Georgia",
     type: "state house district",
     incumbentName: "Gerald E. Greene",
     incumbentParty: "Republican",
@@ -7261,8 +6953,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-155",
     name: "Georgia House District 155",
-    city: "Dublin",
-    region: "Central Georgia / Laurens County",
     type: "state house district",
     incumbentName: "Matt Hatchett",
     incumbentParty: "Republican",
@@ -7308,8 +6998,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-156",
     name: "Georgia House District 156",
-    city: "Vidalia",
-    region: "Southeast Georgia / Toombs County",
     type: "state house district",
     incumbentName: "Leesa Hagan",
     incumbentParty: "Republican",
@@ -7355,8 +7043,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-157",
     name: "Georgia House District 157",
-    city: "Swainsboro",
-    region: "East Georgia / Emanuel County",
     type: "state house district",
     incumbentName: "William 'bill' Werkheiser",
     incumbentParty: "Republican",
@@ -7402,8 +7088,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-158",
     name: "Georgia House District 158",
-    city: "Glennville",
-    region: "Southeast Georgia / Tattnall County",
     type: "state house district",
     incumbentName: "Butch Parrish",
     incumbentParty: "Republican",
@@ -7449,8 +7133,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-159",
     name: "Georgia House District 159",
-    city: "Newington",
-    region: "East Georgia / Screven County",
     type: "state house district",
     incumbentName: "Jon G. Burns",
     incumbentParty: "Republican",
@@ -7496,8 +7178,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-160",
     name: "Georgia House District 160",
-    city: "Statesboro",
-    region: "East Georgia / Bulloch County",
     type: "state house district",
     incumbentName: "Lehman Franklin",
     incumbentParty: "Republican",
@@ -7543,8 +7223,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-161",
     name: "Georgia House District 161",
-    city: "Rincon",
-    region: "Coastal Georgia / Effingham County",
     type: "state house district",
     incumbentName: "Bill Hitchens",
     incumbentParty: "Republican",
@@ -7591,8 +7269,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-162",
     name: "Georgia House District 162",
-    city: "Savannah",
-    region: "Coastal Georgia / Chatham County",
     type: "state house district",
     incumbentName: "Carl W. Gilliard",
     incumbentParty: "Democrat",
@@ -7638,8 +7314,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-163",
     name: "Georgia House District 163",
-    city: "Valdosta",
-    region: "South Georgia",
     type: "state house district",
     incumbentName: "Anne Allen Westbrook",
     incumbentParty: "Democrat",
@@ -7685,8 +7359,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-164",
     name: "Georgia House District 164",
-    city: "Savannah",
-    region: "Coastal Georgia / Chatham County",
     type: "state house district",
     incumbentName: "Ron Stephens",
     incumbentParty: "Republican",
@@ -7732,8 +7404,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-165",
     name: "Georgia House District 165",
-    city: "Savannah",
-    region: "Coastal Georgia / Chatham County",
     type: "state house district",
     incumbentName: "Edna Jackson",
     incumbentParty: "Democrat",
@@ -7779,8 +7449,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-166",
     name: "Georgia House District 166",
-    city: "Savannah",
-    region: "Coastal Georgia / Chatham County",
     type: "state house district",
     incumbentName: "Jesse L. Petrea",
     incumbentParty: "Republican",
@@ -7826,8 +7494,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-167",
     name: "Georgia House District 167",
-    city: "Hinesville",
-    region: "Southeast Georgia",
     type: "state house district",
     incumbentName: "Buddy Deloach",
     incumbentParty: "Republican",
@@ -7873,8 +7539,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-168",
     name: "Georgia House District 168",
-    city: "Midway",
-    region: "Coastal Georgia / Liberty County",
     type: "state house district",
     incumbentName: "Al Williams",
     incumbentParty: "Democrat",
@@ -7921,8 +7585,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-169",
     name: "Georgia House District 169",
-    city: "Waycross",
-    region: "South Georgia / Ware County",
     type: "state house district",
     incumbentName: "Angie O'steen",
     incumbentParty: "Republican",
@@ -7968,8 +7630,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-170",
     name: "Georgia House District 170",
-    city: "Douglas",
-    region: "South Georgia / Coffee County",
     type: "state house district",
     incumbentName: "Jaclyn Dixon Ford",
     incumbentParty: "Republican",
@@ -8015,8 +7675,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-171",
     name: "Georgia House District 171",
-    city: "Douglas",
-    region: "South Georgia / Coffee County",
     type: "state house district",
     incumbentName: "Joe Campbell",
     incumbentParty: "Republican",
@@ -8062,8 +7720,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-172",
     name: "Georgia House District 172",
-    city: "Tifton",
-    region: "South Georgia",
     type: "state house district",
     incumbentName: "Charles 'chas' Cannon",
     incumbentParty: "Republican",
@@ -8109,8 +7765,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-173",
     name: "Georgia House District 173",
-    city: "Thomasville",
-    region: "South Georgia / Thomas County",
     type: "state house district",
     incumbentName: "Darlene K. Taylor",
     incumbentParty: "Republican",
@@ -8156,8 +7810,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-174",
     name: "Georgia House District 174",
-    city: "Camilla",
-    region: "South Georgia / Mitchell County",
     type: "state house district",
     incumbentName: "John Corbett",
     incumbentParty: "Republican",
@@ -8204,8 +7856,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-175",
     name: "Georgia House District 175",
-    city: "Valdosta",
-    region: "South Georgia / Lowndes County",
     type: "state house district",
     incumbentName: "John Lahood",
     incumbentParty: "Republican",
@@ -8251,8 +7901,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-176",
     name: "Georgia House District 176",
-    city: "Douglas",
-    region: "South Georgia / Coffee County",
     type: "state house district",
     incumbentName: "James D. Burchett",
     incumbentParty: "Republican",
@@ -8298,8 +7946,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-177",
     name: "Georgia House District 177",
-    city: "Waycross",
-    region: "South Georgia / Ware County",
     type: "state house district",
     incumbentName: "Dexter Sharper",
     incumbentParty: "Democrat",
@@ -8345,8 +7991,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-178",
     name: "Georgia House District 178",
-    city: "Nahunta",
-    region: "South Georgia / Brantley County",
     type: "state house district",
     incumbentName: "Steven Meeks",
     incumbentParty: "Republican",
@@ -8392,8 +8036,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-179",
     name: "Georgia House District 179",
-    city: "Brunswick",
-    region: "Coastal Georgia / Glynn County",
     type: "state house district",
     incumbentName: "Rick Townsend",
     incumbentParty: "Republican",
@@ -8439,8 +8081,6 @@ const GA_HOUSE_DISTRICTS = [
   {
     id: "ga-hd-180",
     name: "Georgia House District 180",
-    city: "Kingsland",
-    region: "Coastal Georgia / Camden County",
     type: "state house district",
     incumbentName: "Steven Sainz",
     incumbentParty: "Republican",
@@ -8489,8 +8129,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-1",
     name: "Georgia Senate District 1",
-    city: "Savannah",
-    region: "Coastal Georgia / Chatham County",
     type: "state senate district",
     incumbentName: "Ben Watson",
     incumbentParty: "Republican",
@@ -8536,8 +8174,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-2",
     name: "Georgia Senate District 2",
-    city: "Savannah",
-    region: "Coastal Georgia / Chatham County",
     type: "state senate district",
     incumbentName: "Derek Mallow",
     incumbentParty: "Democrat",
@@ -8583,8 +8219,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-3",
     name: "Georgia Senate District 3",
-    city: "Brunswick",
-    region: "Coastal Georgia / Glynn County",
     type: "state senate district",
     incumbentName: "Mike Hodges",
     incumbentParty: "Republican",
@@ -8630,8 +8264,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-4",
     name: "Georgia Senate District 4",
-    city: "Statesboro",
-    region: "East Georgia / Bulloch County",
     type: "state senate district",
     incumbentName: "Billy Hickman",
     incumbentParty: "Republican",
@@ -8677,8 +8309,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-5",
     name: "Georgia Senate District 5",
-    city: "Lawrenceville",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state senate district",
     incumbentName: "Sheikh Rahman",
     incumbentParty: "Democrat",
@@ -8724,8 +8354,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-6",
     name: "Georgia Senate District 6",
-    city: "Newnan",
-    region: "Metro Atlanta / Coweta County",
     type: "state senate district",
     incumbentName: "Matt Brass",
     incumbentParty: "Republican",
@@ -8771,8 +8399,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-7",
     name: "Georgia Senate District 7",
-    city: "Duluth",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state senate district",
     incumbentName: "Nabilah Islam Parkes",
     incumbentParty: "Democrat",
@@ -8818,8 +8444,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-8",
     name: "Georgia Senate District 8",
-    city: "Alapaha",
-    region: "South Georgia / Berrien County",
     type: "state senate district",
     incumbentName: "Russ Goodman",
     incumbentParty: "Republican",
@@ -8865,8 +8489,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-9",
     name: "Georgia Senate District 9",
-    city: "Lawrenceville",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state senate district",
     incumbentName: "Nikki Merritt",
     incumbentParty: "Democrat",
@@ -8912,8 +8534,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-10",
     name: "Georgia Senate District 10",
-    city: "Decatur",
-    region: "Metro Atlanta / DeKalb County",
     type: "state senate district",
     incumbentName: "Emanuel D. Jones",
     incumbentParty: "Democrat",
@@ -8959,8 +8579,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-11",
     name: "Georgia Senate District 11",
-    city: "Waycross",
-    region: "South Georgia / Ware County",
     type: "state senate district",
     incumbentName: "Sam Watson",
     incumbentParty: "Republican",
@@ -9006,8 +8624,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-12",
     name: "Georgia Senate District 12",
-    city: "Bainbridge",
-    region: "Southwest Georgia / Decatur County",
     type: "state senate district",
     incumbentName: "Freddie Powell Sims",
     incumbentParty: "Democrat",
@@ -9054,8 +8670,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-13",
     name: "Georgia Senate District 13",
-    city: "Gainesville",
-    region: "Northeast Georgia / Hall County",
     type: "state senate district",
     incumbentName: "Carden H. Summers",
     incumbentParty: "Republican",
@@ -9102,8 +8716,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-14",
     name: "Georgia Senate District 14",
-    city: "Sandy Springs",
-    region: "Metro Atlanta / North Fulton County",
     type: "state senate district",
     incumbentName: "Josh Mclaurin",
     incumbentParty: "Democrat",
@@ -9149,8 +8761,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-15",
     name: "Georgia Senate District 15",
-    city: "Columbus",
-    region: "Columbus / Muscogee County",
     type: "state senate district",
     incumbentName: "Ed Harbison",
     incumbentParty: "Democrat",
@@ -9197,8 +8807,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-16",
     name: "Georgia Senate District 16",
-    city: "Tyrone",
-    region: "South Metro Atlanta / Fayette County",
     type: "state senate district",
     incumbentName: "Marty Harbin",
     incumbentParty: "Republican",
@@ -9244,8 +8852,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-17",
     name: "Georgia Senate District 17",
-    city: "Jonesboro",
-    region: "Metro Atlanta / Clayton County",
     type: "state senate district",
     incumbentName: "Gail Davenport",
     incumbentParty: "Democrat",
@@ -9291,8 +8897,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-18",
     name: "Georgia Senate District 18",
-    city: "Milledgeville",
-    region: "Central Georgia / Baldwin County",
     type: "state senate district",
     incumbentName: "John F. Kennedy",
     incumbentParty: "Republican",
@@ -9338,8 +8942,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-19",
     name: "Georgia Senate District 19",
-    city: "Vidalia",
-    region: "Southeast Georgia / Toombs County",
     type: "state senate district",
     incumbentName: "Blake Tillery",
     incumbentParty: "Republican",
@@ -9385,8 +8987,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-20",
     name: "Georgia Senate District 20",
-    city: "Perry",
-    region: "Central Georgia / Houston County",
     type: "state senate district",
     incumbentName: "Larry Walker",
     incumbentParty: "Republican",
@@ -9432,8 +9032,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-21",
     name: "Georgia Senate District 21",
-    city: "Alpharetta",
-    region: "North Atlanta Suburbs",
     type: "state senate district",
     incumbentName: "Brandon Beach",
     incumbentParty: "Republican",
@@ -9479,8 +9077,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-22",
     name: "Georgia Senate District 22",
-    city: "Augusta",
-    region: "Augusta / Richmond County",
     type: "state senate district",
     incumbentName: "Harold V. Jones, III",
     incumbentParty: "Democrat",
@@ -9526,8 +9122,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-23",
     name: "Georgia Senate District 23",
-    city: "Sylvania",
-    region: "East Georgia / Screven County",
     type: "state senate district",
     incumbentName: "Max Burns",
     incumbentParty: "Republican",
@@ -9573,8 +9167,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-24",
     name: "Georgia Senate District 24",
-    city: "Evans",
-    region: "Augusta Area / Columbia County",
     type: "state senate district",
     incumbentName: "Lee Anderson",
     incumbentParty: "Republican",
@@ -9620,8 +9212,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-25",
     name: "Georgia Senate District 25",
-    city: "Gray",
-    region: "Central Georgia / Jones County",
     type: "state senate district",
     incumbentName: "Ricky \"rick\" Williams",
     incumbentParty: "Republican",
@@ -9667,8 +9257,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-26",
     name: "Georgia Senate District 26",
-    city: "Macon",
-    region: "Central Georgia / Bibb County",
     type: "state senate district",
     incumbentName: "David E. Lucas, Sr.",
     incumbentParty: "Democrat",
@@ -9714,8 +9302,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-27",
     name: "Georgia Senate District 27",
-    city: "Cumming",
-    region: "North Metro Atlanta / Forsyth County",
     type: "state senate district",
     incumbentName: "Greg Dolezal",
     incumbentParty: "Republican",
@@ -9761,8 +9347,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-28",
     name: "Georgia Senate District 28",
-    city: "Atlanta",
-    region: "Metro Atlanta / Fulton County",
     type: "state senate district",
     incumbentName: "Donzella James",
     incumbentParty: "Democrat",
@@ -9808,8 +9392,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-29",
     name: "Georgia Senate District 29",
-    city: "Columbus",
-    region: "Columbus / Muscogee County",
     type: "state senate district",
     incumbentName: "Randy Robertson",
     incumbentParty: "Republican",
@@ -9855,8 +9437,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-30",
     name: "Georgia Senate District 30",
-    city: "Villa Rica",
-    region: "West Georgia / Carroll County",
     type: "state senate district",
     incumbentName: "Timothy J. Bearden",
     incumbentParty: "Republican",
@@ -9902,8 +9482,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-31",
     name: "Georgia Senate District 31",
-    city: "Dallas",
-    region: "West Metro Atlanta / Paulding County",
     type: "state senate district",
     incumbentName: "Jason Anavitarte",
     incumbentParty: "Republican",
@@ -9949,8 +9527,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-32",
     name: "Georgia Senate District 32",
-    city: "Marietta",
-    region: "Metro Atlanta / Cobb County",
     type: "state senate district",
     incumbentName: "Kay Kirkpatrick",
     incumbentParty: "Republican",
@@ -9996,8 +9572,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-33",
     name: "Georgia Senate District 33",
-    city: "Marietta",
-    region: "Metro Atlanta",
     type: "state senate district",
     incumbentName: "Michael Doc Rhett",
     incumbentParty: "Democrat",
@@ -10043,8 +9617,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-34",
     name: "Georgia Senate District 34",
-    city: "Decatur",
-    region: "Metro Atlanta / DeKalb County",
     type: "state senate district",
     incumbentName: "Kenya Wicks",
     incumbentParty: "Democrat",
@@ -10090,8 +9662,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-35",
     name: "Georgia Senate District 35",
-    city: "Atlanta",
-    region: "Metro Atlanta / Fulton County",
     type: "state senate district",
     incumbentName: "Jason Esteves",
     incumbentParty: "Democrat",
@@ -10136,8 +9706,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-36",
     name: "Georgia Senate District 36",
-    city: "Atlanta",
-    region: "Metro Atlanta / Fulton County",
     type: "state senate district",
     incumbentName: "Nan Orrock",
     incumbentParty: "Democrat",
@@ -10183,8 +9751,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-37",
     name: "Georgia Senate District 37",
-    city: "Acworth",
-    region: "Metro Atlanta / Cobb-Cherokee County",
     type: "state senate district",
     incumbentName: "Ed Setzler",
     incumbentParty: "Republican",
@@ -10230,8 +9796,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-38",
     name: "Georgia Senate District 38",
-    city: "Atlanta",
-    region: "Metro Atlanta / Fulton County",
     type: "state senate district",
     incumbentName: "Rashaun Kemp",
     incumbentParty: "Democrat",
@@ -10277,8 +9841,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-39",
     name: "Georgia Senate District 39",
-    city: "Atlanta",
-    region: "Metro Atlanta / Fulton County",
     type: "state senate district",
     incumbentName: "Sonya Halpern",
     incumbentParty: "Democrat",
@@ -10324,8 +9886,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-40",
     name: "Georgia Senate District 40",
-    city: "Brookhaven",
-    region: "Metro Atlanta / DeKalb County",
     type: "state senate district",
     incumbentName: "Sally Harrell",
     incumbentParty: "Democrat",
@@ -10371,8 +9931,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-41",
     name: "Georgia Senate District 41",
-    city: "Stone Mountain",
-    region: "Metro Atlanta / DeKalb County",
     type: "state senate district",
     incumbentName: "Kim Jackson",
     incumbentParty: "Democrat",
@@ -10419,8 +9977,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-42",
     name: "Georgia Senate District 42",
-    city: "McDonough",
-    region: "South Metro Atlanta / Henry County",
     type: "state senate district",
     incumbentName: "Brian Strickland",
     incumbentParty: "Republican",
@@ -10466,8 +10022,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-43",
     name: "Georgia Senate District 43",
-    city: "Lawrenceville",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state senate district",
     incumbentName: "Tonya P. Anderson",
     incumbentParty: "Democrat",
@@ -10513,8 +10067,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-44",
     name: "Georgia Senate District 44",
-    city: "Atlanta",
-    region: "Metro Atlanta / DeKalb-Fulton",
     type: "state senate district",
     incumbentName: "Elena Parent",
     incumbentParty: "Democrat",
@@ -10560,8 +10112,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-45",
     name: "Georgia Senate District 45",
-    city: "Buford",
-    region: "Metro Atlanta / Gwinnett County",
     type: "state senate district",
     incumbentName: "Clint Dixon",
     incumbentParty: "Republican",
@@ -10607,8 +10157,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-46",
     name: "Georgia Senate District 46",
-    city: "Athens",
-    region: "Athens / Clarke County",
     type: "state senate district",
     incumbentName: "Bill Cowsert",
     incumbentParty: "Republican",
@@ -10654,8 +10202,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-47",
     name: "Georgia Senate District 47",
-    city: "Danielsville",
-    region: "Northeast Georgia / Madison County",
     type: "state senate district",
     incumbentName: "Frank Ginn",
     incumbentParty: "Republican",
@@ -10701,8 +10247,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-48",
     name: "Georgia Senate District 48",
-    city: "Roswell",
-    region: "Metro Atlanta / North Fulton County",
     type: "state senate district",
     incumbentName: "Shawn Still",
     incumbentParty: "Republican",
@@ -10748,8 +10292,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-49",
     name: "Georgia Senate District 49",
-    city: "Douglasville",
-    region: "West Metro Atlanta / Douglas County",
     type: "state senate district",
     incumbentName: "Drew Echols",
     incumbentParty: "Republican",
@@ -10795,8 +10337,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-50",
     name: "Georgia Senate District 50",
-    city: "Cornelia",
-    region: "Northeast Georgia / Habersham County",
     type: "state senate district",
     incumbentName: "Bo Hatchett",
     incumbentParty: "Republican",
@@ -10842,8 +10382,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-51",
     name: "Georgia Senate District 51",
-    city: "Dahlonega",
-    region: "North Georgia Mountains / Lumpkin County",
     type: "state senate district",
     incumbentName: "Steve Gooch",
     incumbentParty: "Republican",
@@ -10889,8 +10427,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-52",
     name: "Georgia Senate District 52",
-    city: "Rome",
-    region: "Northwest Georgia / Floyd County",
     type: "state senate district",
     incumbentName: "Chuck Hufstetler",
     incumbentParty: "Republican",
@@ -10936,8 +10472,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-53",
     name: "Georgia Senate District 53",
-    city: "Trenton",
-    region: "Northwest Georgia / Dade County",
     type: "state senate district",
     incumbentName: "Colton Moore",
     incumbentParty: "Republican",
@@ -10983,8 +10517,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-54",
     name: "Georgia Senate District 54",
-    city: "Dalton",
-    region: "Northwest Georgia / Whitfield County",
     type: "state senate district",
     incumbentName: "Chuck Payne",
     incumbentParty: "Republican",
@@ -11030,8 +10562,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-55",
     name: "Georgia Senate District 55",
-    city: "Tucker",
-    region: "Metro Atlanta / DeKalb County",
     type: "state senate district",
     incumbentName: "Randal Mangham",
     incumbentParty: "Democrat",
@@ -11077,8 +10607,6 @@ const GA_SENATE_DISTRICTS = [
   {
     id: "ga-sd-56",
     name: "Georgia Senate District 56",
-    city: "Roswell",
-    region: "Metro Atlanta / North Fulton County",
     type: "state senate district",
     incumbentName: "John Albers",
     incumbentParty: "Republican",

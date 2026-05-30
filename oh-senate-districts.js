@@ -22,8 +22,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-1",
     name: "Ohio Senate District 1",
-    city: "Toledo",
-    region: "Northwest Ohio (Williams, Fulton, Defiance, Henry, Paulding counties)",
     type: "state senate district",
     incumbentName: "Robert McColley",
     incumbentParty: "Republican",
@@ -70,8 +68,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-2",
     name: "Ohio Senate District 2",
-    city: "Toledo",
-    region: "Toledo Metro (Lucas County)",
     type: "state senate district",
     incumbentName: "Paloma De La Fuente",
     incumbentParty: "Democrat",
@@ -118,8 +114,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-3",
     name: "Ohio Senate District 3",
-    city: "Columbus",
-    region: "Columbus East Side & Suburbs (Franklin County)",
     type: "state senate district",
     incumbentName: "Tina Maharath",
     incumbentParty: "Democrat",
@@ -166,8 +160,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-4",
     name: "Ohio Senate District 4",
-    city: "Columbus",
-    region: "Columbus Northwest Suburbs (Franklin County)",
     type: "state senate district",
     incumbentName: "Thomas Cooke",
     incumbentParty: "Democrat",
@@ -214,8 +206,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-5",
     name: "Ohio Senate District 5",
-    city: "Toledo",
-    region: "Lima & West Central Ohio (Allen, Auglaize, Hardin, Shelby, Van Wert counties)",
     type: "state senate district",
     incumbentName: "Stephen A. Huffman",
     incumbentParty: "Republican",
@@ -262,8 +252,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-6",
     name: "Ohio Senate District 6",
-    city: "Cincinnati",
-    region: "Dayton Metro (Montgomery County & surrounding)",
     type: "state senate district",
     incumbentName: "Willis E. Blackshear Jr",
     incumbentParty: "Democrat",
@@ -310,8 +298,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-7",
     name: "Ohio Senate District 7",
-    city: "Columbus",
-    region: "Dublin & Columbus North Suburbs (Delaware/Franklin counties)",
     type: "state senate district",
     incumbentName: "David Dallas",
     incumbentParty: "Democrat",
@@ -358,8 +344,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-8",
     name: "Ohio Senate District 8",
-    city: "Cincinnati",
-    region: "Cincinnati Eastern & Northern Suburbs (Hamilton County)",
     type: "state senate district",
     incumbentName: "Louis W. Blessing III",
     incumbentParty: "Republican",
@@ -406,8 +390,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-9",
     name: "Ohio Senate District 9",
-    city: "Cincinnati",
-    region: "Cincinnati Urban Core (Hamilton County)",
     type: "state senate district",
     incumbentName: "Catherine D. Ingram",
     incumbentParty: "Democrat",
@@ -454,8 +436,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-10",
     name: "Ohio Senate District 10",
-    city: "Columbus",
-    region: "Springfield & West Central Ohio (Clark, Champaign, Logan, Madison counties)",
     type: "state senate district",
     incumbentName: "Kyle Koehler",
     incumbentParty: "Republican",
@@ -502,8 +482,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-11",
     name: "Ohio Senate District 11",
-    city: "Cleveland",
-    region: "Lorain County & Western Cleveland Suburbs",
     type: "state senate district",
     incumbentName: "Tony Dia",
     incumbentParty: "Republican",
@@ -550,8 +528,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-12",
     name: "Ohio Senate District 12",
-    city: "Akron",
-    region: "Wayne, Medina & Holmes Counties (NE Ohio rural/small town)",
     type: "state senate district",
     incumbentName: "Susan Manchester",
     incumbentParty: "Republican",
@@ -598,8 +574,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-13",
     name: "Ohio Senate District 13",
-    city: "Toledo",
-    region: "Toledo Suburbs (Wood & Lucas Counties)",
     type: "state senate district",
     incumbentName: "Anthony Eliopoulos",
     incumbentParty: "Democrat",
@@ -646,8 +620,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-14",
     name: "Ohio Senate District 14",
-    city: "Columbus",
-    region: "Scioto Valley & Appalachian SE Ohio",
     type: "state senate district",
     incumbentName: "Terry A. Johnson",
     incumbentParty: "Republican",
@@ -694,8 +666,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-15",
     name: "Ohio Senate District 15",
-    city: "Columbus",
-    region: "Columbus South & Diverse Urban Core (Franklin County)",
     type: "state senate district",
     incumbentName: "Hearcel F. Craig",
     incumbentParty: "Democrat",
@@ -742,8 +712,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-16",
     name: "Ohio Senate District 16",
-    city: "Columbus",
-    region: "Upper Arlington & Columbus Northwest Suburbs (Franklin County)",
     type: "state senate district",
     incumbentName: "Beth Liston",
     incumbentParty: "Democrat",
@@ -790,8 +758,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-17",
     name: "Ohio Senate District 17",
-    city: "Columbus",
-    region: "Appalachian SE Ohio (Athens, Hocking, Meigs, Morgan, Perry counties)",
     type: "state senate district",
     incumbentName: "Garry Boone",
     incumbentParty: "Democrat",
@@ -838,8 +804,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-18",
     name: "Ohio Senate District 18",
-    city: "Cleveland",
-    region: "Lake County & Eastern Cleveland Suburbs",
     type: "state senate district",
     incumbentName: "Jerry Cirino",
     incumbentParty: "Republican",
@@ -886,8 +850,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-19",
     name: "Ohio Senate District 19",
-    city: "Columbus",
-    region: "Delaware County & Columbus North Suburbs",
     type: "state senate district",
     incumbentName: "Andrew O. Brenner",
     incumbentParty: "Republican",
@@ -934,8 +896,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-20",
     name: "Ohio Senate District 20",
-    city: "Columbus",
-    region: "Columbus Northwest & Rural Suburbs (Union, Licking counties)",
     type: "state senate district",
     incumbentName: "Nick Hubbell",
     incumbentParty: "Democrat",
@@ -982,8 +942,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-21",
     name: "Ohio Senate District 21",
-    city: "Cleveland",
-    region: "East Cleveland & East Cuyahoga County (majority-Black)",
     type: "state senate district",
     incumbentName: "Mikhail Alterman",
     incumbentParty: "Republican",
@@ -1030,8 +988,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-22",
     name: "Ohio Senate District 22",
-    city: "Akron",
-    region: "Lorain, Huron & Erie Counties (North Central Ohio)",
     type: "state senate district",
     incumbentName: "Mark Romanchuk",
     incumbentParty: "Republican",
@@ -1078,8 +1034,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-23",
     name: "Ohio Senate District 23",
-    city: "Cleveland",
-    region: "West Cuyahoga County (Lakewood, Parma, Cleveland West Side)",
     type: "state senate district",
     incumbentName: "Nickie J. Antonio",
     incumbentParty: "Democrat",
@@ -1126,8 +1080,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-24",
     name: "Ohio Senate District 24",
-    city: "Cleveland",
-    region: "Lake & Eastern Cuyahoga Suburbs (Willoughby Hills, Eastlake, Mentor area)",
     type: "state senate district",
     incumbentName: "Sue Durichko",
     incumbentParty: "Democrat",
@@ -1174,8 +1126,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-25",
     name: "Ohio Senate District 25",
-    city: "Columbus",
-    region: "Columbus Urban Core — Short North, Franklinton, Near East Side",
     type: "state senate district",
     incumbentName: "Bill DeMora",
     incumbentParty: "Democrat",
@@ -1222,8 +1172,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-26",
     name: "Ohio Senate District 26",
-    city: "Columbus",
-    region: "Knox, Licking, Morrow & Richland Counties (exurban/rural central Ohio)",
     type: "state senate district",
     incumbentName: "Mohamud Jama",
     incumbentParty: "Democrat",
@@ -1270,8 +1218,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-27",
     name: "Ohio Senate District 27",
-    city: "Cincinnati",
-    region: "Cincinnati Western Suburbs (Hamilton & Warren Counties)",
     type: "state senate district",
     incumbentName: "Patricia Goetz",
     incumbentParty: "Democrat",
@@ -1318,8 +1264,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-28",
     name: "Ohio Senate District 28",
-    city: "Cincinnati",
-    region: "Butler & Montgomery Counties (Middletown, Hamilton area)",
     type: "state senate district",
     incumbentName: "Jon Leissler",
     incumbentParty: "Republican",
@@ -1366,8 +1310,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-29",
     name: "Ohio Senate District 29",
-    city: "Columbus",
-    region: "Knox & Licking Counties (Newark, Mt. Vernon area)",
     type: "state senate district",
     incumbentName: "Lynn C. Gorman (Write-In)",
     incumbentParty: "Independent",
@@ -1414,8 +1356,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-30",
     name: "Ohio Senate District 30",
-    city: "Toledo",
-    region: "Wood & Defiance Counties (Northwest Ohio rural)",
     type: "state senate district",
     incumbentName: "Brian M. Chavez",
     incumbentParty: "Republican",
@@ -1462,8 +1402,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-31",
     name: "Ohio Senate District 31",
-    city: "Akron",
-    region: "Tuscarawas, Carroll & Coshocton Counties (NE Ohio rural)",
     type: "state senate district",
     incumbentName: "Al Landis",
     incumbentParty: "Republican",
@@ -1510,8 +1448,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-32",
     name: "Ohio Senate District 32",
-    city: "Akron",
-    region: "Trumbull & Portage Counties (Youngstown area)",
     type: "state senate district",
     incumbentName: "Sandra O'Brien",
     incumbentParty: "Republican",
@@ -1558,8 +1494,6 @@ const SENATE_DISTRICTS = [
   {
     id: "oh-sd-33",
     name: "Ohio Senate District 33",
-    city: "Akron",
-    region: "Mahoning Valley & Columbiana County (Youngstown metro)",
     type: "state senate district",
     incumbentName: "Al Cutrona",
     incumbentParty: "Republican",
