@@ -1,0 +1,1524 @@
+{
+  "house": {
+    "1": {
+      "winner": "PATRICK J HARKINS",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "2": {
+      "winner": "MATT STRUPCZEWSKI",
+      "party": "REP",
+      "pct": 37.02,
+      "unopposed": false
+    },
+    "3": {
+      "winner": "RYAN BIZZARRO",
+      "party": "DEM",
+      "pct": 57.68,
+      "unopposed": false
+    },
+    "4": {
+      "winner": "JAKE BANTA",
+      "party": "REP",
+      "pct": 67.66,
+      "unopposed": false
+    },
+    "5": {
+      "winner": "ERIC J WEAKNECHT",
+      "party": "REP",
+      "pct": 66.72,
+      "unopposed": false
+    },
+    "6": {
+      "winner": "BRAD ROAE",
+      "party": "REP",
+      "pct": 69.96,
+      "unopposed": false
+    },
+    "7": {
+      "winner": "PARKE WENTLING",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "8": {
+      "winner": "AARON BERNSTINE",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "9": {
+      "winner": "MARLA BROWN",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "10": {
+      "winner": "AMEN BROWN",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "11": {
+      "winner": "MARCI MUSTELLO",
+      "party": "REP",
+      "pct": 87.02,
+      "unopposed": false
+    },
+    "12": {
+      "winner": "STEPHENIE SCIALABBA",
+      "party": "REP",
+      "pct": 64.83,
+      "unopposed": false
+    },
+    "13": {
+      "winner": "JOHN LAWRENCE",
+      "party": "REP",
+      "pct": 58.01,
+      "unopposed": false
+    },
+    "14": {
+      "winner": "ROMAN KOZAK",
+      "party": "REP",
+      "pct": 65.27,
+      "unopposed": false
+    },
+    "15": {
+      "winner": "JOSHUA D KAIL",
+      "party": "REP",
+      "pct": 68.89,
+      "unopposed": false
+    },
+    "16": {
+      "winner": "MICHAEL J PERICH",
+      "party": "REP",
+      "pct": 47.68,
+      "unopposed": false
+    },
+    "17": {
+      "winner": "TIM BONNER",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "18": {
+      "winner": "KATHLEEN K C TOMLINSON",
+      "party": "REP",
+      "pct": 55.66,
+      "unopposed": false
+    },
+    "19": {
+      "winner": "AERION ANDREW ABNEY",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "20": {
+      "winner": "EMILY KINKEAD",
+      "party": "DEM",
+      "pct": 59.23,
+      "unopposed": false
+    },
+    "21": {
+      "winner": "LINDSAY POWELL",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "22": {
+      "winner": "JOSHUA M SIEGEL",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "23": {
+      "winner": "DAN FRANKEL",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "24": {
+      "winner": "LATASHA D MAYES",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "25": {
+      "winner": "BRANDON J MARKOSEK",
+      "party": "DEM",
+      "pct": 59.61,
+      "unopposed": false
+    },
+    "26": {
+      "winner": "Paul Friel",
+      "party": "DEM",
+      "pct": 57.35,
+      "unopposed": false
+    },
+    "27": {
+      "winner": "Daniel J Deasy",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "28": {
+      "winner": "Jeremy Shaffer",
+      "party": "REP",
+      "pct": 57.01,
+      "unopposed": false
+    },
+    "29": {
+      "winner": "Tim Brennan",
+      "party": "DEM",
+      "pct": 55.63,
+      "unopposed": false
+    },
+    "30": {
+      "winner": "Arvind Venkat",
+      "party": "DEM",
+      "pct": 54.31,
+      "unopposed": false
+    },
+    "31": {
+      "winner": "Perry Warren",
+      "party": "DEM",
+      "pct": 58.83,
+      "unopposed": false
+    },
+    "32": {
+      "winner": "Joe Mcandrew",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "33": {
+      "winner": "Mandy Steele",
+      "party": "DEM",
+      "pct": 55.8,
+      "unopposed": false
+    },
+    "34": {
+      "winner": "Abigail Salisbury",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "35": {
+      "winner": "Matthew R Gergely",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "36": {
+      "winner": "Jessica Benham",
+      "party": "DEM",
+      "pct": 78.82,
+      "unopposed": false
+    },
+    "37": {
+      "winner": "John George",
+      "party": "DEM",
+      "pct": 33.23,
+      "unopposed": false
+    },
+    "38": {
+      "winner": "JOHN INGLIS",
+      "party": "DEM",
+      "pct": 55.51,
+      "unopposed": false
+    },
+    "39": {
+      "winner": "ANDREW KUZMA",
+      "party": "REP",
+      "pct": 62.07,
+      "unopposed": false
+    },
+    "40": {
+      "winner": "NATALIE MIHALEK",
+      "party": "REP",
+      "pct": 60.37,
+      "unopposed": false
+    },
+    "41": {
+      "winner": "BRETT R MILLER",
+      "party": "REP",
+      "pct": 55.67,
+      "unopposed": false
+    },
+    "42": {
+      "winner": "DAN MILLER",
+      "party": "DEM",
+      "pct": 66.72,
+      "unopposed": false
+    },
+    "43": {
+      "winner": "KEITH J GREINER",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "44": {
+      "winner": "VALERIE GAYDOS",
+      "party": "REP",
+      "pct": 53.8,
+      "unopposed": false
+    },
+    "45": {
+      "winner": "ANITA ASTORINO KULIK",
+      "party": "DEM",
+      "pct": 58.08,
+      "unopposed": false
+    },
+    "46": {
+      "winner": "JASON ORTITAY",
+      "party": "REP",
+      "pct": 62.16,
+      "unopposed": false
+    },
+    "47": {
+      "winner": "JOE D'ORSIE",
+      "party": "REP",
+      "pct": 62.84,
+      "unopposed": false
+    },
+    "48": {
+      "winner": "TIM O'NEAL",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "49": {
+      "winner": "IZZY SMITH-WADE-EL",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "50": {
+      "winner": "Bud Cook",
+      "party": "REP",
+      "pct": 69.11,
+      "unopposed": false
+    },
+    "51": {
+      "winner": "Charity Grimm Krupa",
+      "party": "REP",
+      "pct": 65.67,
+      "unopposed": false
+    },
+    "52": {
+      "winner": "Ryan Warner",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "53": {
+      "winner": "Steve Malagari",
+      "party": "DEM",
+      "pct": 60.22,
+      "unopposed": false
+    },
+    "54": {
+      "winner": "Greg Scott",
+      "party": "DEM",
+      "pct": 69.67,
+      "unopposed": false
+    },
+    "55": {
+      "winner": "Jill Cooper",
+      "party": "REP",
+      "pct": 67.8,
+      "unopposed": false
+    },
+    "56": {
+      "winner": "Brian Rasel",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "57": {
+      "winner": "Eric Nelson",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "58": {
+      "winner": "Eric Davanzo",
+      "party": "REP",
+      "pct": 69.18,
+      "unopposed": false
+    },
+    "59": {
+      "winner": "Leslie Rossi",
+      "party": "REP",
+      "pct": 69.79,
+      "unopposed": false
+    },
+    "60": {
+      "winner": "Abby Major",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "61": {
+      "winner": "Liz Hambidge",
+      "party": "DEM",
+      "pct": 60.88,
+      "unopposed": false
+    },
+    "62": {
+      "winner": "Jim Struzzi",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "63": {
+      "winner": "LIZ HAMBIDGE",
+      "party": "DEM",
+      "pct": 60.88,
+      "unopposed": false
+    },
+    "64": {
+      "winner": "R LEE JAMES",
+      "party": "REP",
+      "pct": 86.97,
+      "unopposed": false
+    },
+    "65": {
+      "winner": "KATHY L RAPP",
+      "party": "REP",
+      "pct": 72.96,
+      "unopposed": false
+    },
+    "66": {
+      "winner": "BRIAN SMITH",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "67": {
+      "winner": "MARTIN T CAUSER",
+      "party": "REP",
+      "pct": 81.91,
+      "unopposed": false
+    },
+    "68": {
+      "winner": "CLINT OWLETT",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "69": {
+      "winner": "CARL WALKER METZGAR",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "70": {
+      "winner": "MATT BRADFORD",
+      "party": "DEM",
+      "pct": 60.17,
+      "unopposed": false
+    },
+    "71": {
+      "winner": "JIM RIGBY",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "72": {
+      "winner": "AMY BRADLEY",
+      "party": "REP",
+      "pct": 48.58,
+      "unopposed": false
+    },
+    "73": {
+      "winner": "DALLAS KEPHART",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "74": {
+      "winner": "DAN WILLIAMS",
+      "party": "DEM",
+      "pct": 55.05,
+      "unopposed": false
+    },
+    "75": {
+      "winner": "MIKE ARMANINI",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "76": {
+      "winner": "DENISE MARIS",
+      "party": "DEM",
+      "pct": 30.65,
+      "unopposed": false
+    },
+    "77": {
+      "winner": "H SCOTT CONKLIN",
+      "party": "DEM",
+      "pct": 61.36,
+      "unopposed": false
+    },
+    "78": {
+      "winner": "JESSE TOPPER",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "79": {
+      "winner": "LOU SCHMITT",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "80": {
+      "winner": "SCOTT BARGER",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "81": {
+      "winner": "RICH IRVN",
+      "party": "REP",
+      "pct": 79.37,
+      "unopposed": false
+    },
+    "82": {
+      "winner": "PAUL TAKAC",
+      "party": "DEM",
+      "pct": 53.8,
+      "unopposed": false
+    },
+    "83": {
+      "winner": "JAMIE FLICK",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "84": {
+      "winner": "JOE HAMM",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "85": {
+      "winner": "DAVID H ROWE",
+      "party": "REP",
+      "pct": 71.83,
+      "unopposed": false
+    },
+    "86": {
+      "winner": "PERRY A STAMBAUGH",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "87": {
+      "winner": "THOMAS KUTZ",
+      "party": "REP",
+      "pct": 61.69,
+      "unopposed": false
+    },
+    "88": {
+      "winner": "SHERYL DELOZIER",
+      "party": "REP",
+      "pct": 55.15,
+      "unopposed": false
+    },
+    "89": {
+      "winner": "ROB KAUFFMAN",
+      "party": "REP",
+      "pct": 71.01,
+      "unopposed": false
+    },
+    "90": {
+      "winner": "CHAD GERALD REICHARD",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "91": {
+      "winner": "DAN MOUL",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "92": {
+      "winner": "MARC ANDERSON",
+      "party": "REP",
+      "pct": 70.47,
+      "unopposed": false
+    },
+    "93": {
+      "winner": "MIKE JONES",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "94": {
+      "winner": "WENDY FINK",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "95": {
+      "winner": "CAROL HILL-EVANS",
+      "party": "DEM",
+      "pct": 59.14,
+      "unopposed": false
+    },
+    "96": {
+      "winner": "NIKKI RIVERA",
+      "party": "DEM",
+      "pct": 60.35,
+      "unopposed": false
+    },
+    "97": {
+      "winner": "STEVE MENTZER",
+      "party": "REP",
+      "pct": 61.81,
+      "unopposed": false
+    },
+    "98": {
+      "winner": "TOM JONES",
+      "party": "REP",
+      "pct": 64.41,
+      "unopposed": false
+    },
+    "99": {
+      "winner": "DAVE ZIMMERMAN",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "100": {
+      "winner": "BRYAN D CUTLER",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "101": {
+      "winner": "JOHN SCHLEGEL",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "102": {
+      "winner": "RUSS DIAMOND",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "103": {
+      "winner": "NATE DAVIDSON",
+      "party": "DEM",
+      "pct": 60.56,
+      "unopposed": false
+    },
+    "104": {
+      "winner": "BRYAN D CUTLER",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "105": {
+      "winner": "JUSTIN C FLEMING",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "106": {
+      "winner": "TOM MEHAFFIE",
+      "party": "REP",
+      "pct": 63.02,
+      "unopposed": false
+    },
+    "107": {
+      "winner": "JOANNE STEHR",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "108": {
+      "winner": "MICHAEL STENDER",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "109": {
+      "winner": "ROBERT LEADBETER",
+      "party": "REP",
+      "pct": 67.2,
+      "unopposed": false
+    },
+    "110": {
+      "winner": "TINA PICKETT",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "111": {
+      "winner": "JONATHAN FRITZ",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "112": {
+      "winner": "KYLE J MULLINS",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "113": {
+      "winner": "KYLE T DONAHUE",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "114": {
+      "winner": "BRIDGET MALLOY KOSIEROWSKI",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "115": {
+      "winner": "MAUREEN E MADDEN",
+      "party": "DEM",
+      "pct": 53.45,
+      "unopposed": false
+    },
+    "116": {
+      "winner": "DANE WATRO",
+      "party": "REP",
+      "pct": 72.46,
+      "unopposed": false
+    },
+    "117": {
+      "winner": "JAMIE WALSH",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "118": {
+      "winner": "MCKAYLA KATHO",
+      "party": "REP",
+      "pct": 43.76,
+      "unopposed": false
+    },
+    "119": {
+      "winner": "ALEC J RYNCAVAGE",
+      "party": "REP",
+      "pct": 62.93,
+      "unopposed": false
+    },
+    "120": {
+      "winner": "BRENDA PUGH",
+      "party": "REP",
+      "pct": 57.64,
+      "unopposed": false
+    },
+    "121": {
+      "winner": "EDDIE DAY PASHINSKI",
+      "party": "DEM",
+      "pct": 55.28,
+      "unopposed": false
+    },
+    "122": {
+      "winner": "DOYLE HEFFLEY",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "123": {
+      "winner": "TIM TWARDZIK",
+      "party": "REP",
+      "pct": 72.9,
+      "unopposed": false
+    },
+    "124": {
+      "winner": "JAMIE BARTON",
+      "party": "REP",
+      "pct": 71.71,
+      "unopposed": false
+    },
+    "125": {
+      "winner": "JOE KERWIN",
+      "party": "REP",
+      "pct": 68.45,
+      "unopposed": false
+    },
+    "126": {
+      "winner": "JACKLYN RUSNOCK",
+      "party": "DEM",
+      "pct": 55.89,
+      "unopposed": false
+    },
+    "127": {
+      "winner": "MANNY GUZMAN",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "128": {
+      "winner": "MARK M GILLEN",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "129": {
+      "winner": "JOHNNY CEPEDA FREYTIZ",
+      "party": "DEM",
+      "pct": 56.33,
+      "unopposed": false
+    },
+    "130": {
+      "winner": "DAVID M MALONEY",
+      "party": "REP",
+      "pct": 65.6,
+      "unopposed": false
+    },
+    "131": {
+      "winner": "MERIAM SABIH",
+      "party": "DEM",
+      "pct": 42.77,
+      "unopposed": false
+    },
+    "132": {
+      "winner": "MIKE SCHLOSSBERG",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "133": {
+      "winner": "JEANNE M MCNEILL",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "134": {
+      "winner": "PETER SCHWEYER",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "135": {
+      "winner": "STEVE SAMUELSON",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "136": {
+      "winner": "ROBERT FREEMAN",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "137": {
+      "winner": "JOE EMRICK",
+      "party": "REP",
+      "pct": 51.66,
+      "unopposed": false
+    },
+    "138": {
+      "winner": "ANN FLOOD",
+      "party": "REP",
+      "pct": 65.23,
+      "unopposed": false
+    },
+    "139": {
+      "winner": "JEFF OLSOMMER",
+      "party": "REP",
+      "pct": 67.38,
+      "unopposed": false
+    },
+    "140": {
+      "winner": "JIM PROKOPIAK",
+      "party": "DEM",
+      "pct": 54.04,
+      "unopposed": false
+    },
+    "141": {
+      "winner": "TINA DAVIS",
+      "party": "DEM",
+      "pct": 64.88,
+      "unopposed": false
+    },
+    "142": {
+      "winner": "JOE HOGAN",
+      "party": "REP",
+      "pct": 54.82,
+      "unopposed": false
+    },
+    "143": {
+      "winner": "SHELBY LABS",
+      "party": "REP",
+      "pct": 56.37,
+      "unopposed": false
+    },
+    "144": {
+      "winner": "BRIAN MUNROE",
+      "party": "DEM",
+      "pct": 51.33,
+      "unopposed": false
+    },
+    "145": {
+      "winner": "CRAIG STAATS",
+      "party": "REP",
+      "pct": 58.91,
+      "unopposed": false
+    },
+    "146": {
+      "winner": "JOE CIRESI",
+      "party": "DEM",
+      "pct": 59.29,
+      "unopposed": false
+    },
+    "147": {
+      "winner": "DONNA M SCHEUREN",
+      "party": "REP",
+      "pct": 58.56,
+      "unopposed": false
+    },
+    "148": {
+      "winner": "MARY JO DALEY",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "149": {
+      "winner": "TIM BRIGGS",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "150": {
+      "winner": "JOE WEBSTER",
+      "party": "DEM",
+      "pct": 58.87,
+      "unopposed": false
+    },
+    "151": {
+      "winner": "MELISSA CERRATO",
+      "party": "DEM",
+      "pct": 61.44,
+      "unopposed": false
+    },
+    "152": {
+      "winner": "NANCY GUENST",
+      "party": "DEM",
+      "pct": 61.17,
+      "unopposed": false
+    },
+    "153": {
+      "winner": "BEN SANCHEZ",
+      "party": "DEM",
+      "pct": 65.72,
+      "unopposed": false
+    },
+    "154": {
+      "winner": "NAPOLEON NELSON",
+      "party": "DEM",
+      "pct": 80.3,
+      "unopposed": false
+    },
+    "155": {
+      "winner": "DANIELLE FRIEL OTTEN",
+      "party": "DEM",
+      "pct": 57.32,
+      "unopposed": false
+    },
+    "156": {
+      "winner": "CHRIS PIELLI",
+      "party": "DEM",
+      "pct": 58.66,
+      "unopposed": false
+    },
+    "157": {
+      "winner": "MELISSA SHUSTERMAN",
+      "party": "DEM",
+      "pct": 60.51,
+      "unopposed": false
+    },
+    "158": {
+      "winner": "CHRISTINA D SAPPEY",
+      "party": "DEM",
+      "pct": 57.98,
+      "unopposed": false
+    },
+    "159": {
+      "winner": "CAROL KAZEEM",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "160": {
+      "winner": "CRAIG WILLIAMS",
+      "party": "REP",
+      "pct": 51.8,
+      "unopposed": false
+    },
+    "161": {
+      "winner": "LEANNE KRUEGER",
+      "party": "DEM",
+      "pct": 58.2,
+      "unopposed": false
+    },
+    "162": {
+      "winner": "DAVE DELLOSO",
+      "party": "DEM",
+      "pct": 56.68,
+      "unopposed": false
+    },
+    "163": {
+      "winner": "HEATHER BOYD",
+      "party": "DEM",
+      "pct": 63.21,
+      "unopposed": false
+    },
+    "164": {
+      "winner": "GINA H CURRY",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "165": {
+      "winner": "JENNIFER O'MARA",
+      "party": "DEM",
+      "pct": 59.58,
+      "unopposed": false
+    },
+    "166": {
+      "winner": "GREG VITALI",
+      "party": "DEM",
+      "pct": 60.37,
+      "unopposed": false
+    },
+    "167": {
+      "winner": "KRISTINE HOWARD",
+      "party": "DEM",
+      "pct": 58.57,
+      "unopposed": false
+    },
+    "168": {
+      "winner": "LISA A BOROWSKI",
+      "party": "DEM",
+      "pct": 58.1,
+      "unopposed": false
+    },
+    "169": {
+      "winner": "KATE A KLUNK",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "170": {
+      "winner": "MARTINA WHITE",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "171": {
+      "winner": "KERRY A BENNINGHOFF",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "172": {
+      "winner": "SEAN DOUGHERTY",
+      "party": "DEM",
+      "pct": 50.99,
+      "unopposed": false
+    },
+    "173": {
+      "winner": "PAT GALLAGHER",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "174": {
+      "winner": "ED NEILSON",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "175": {
+      "winner": "MARYLOUISE ISAACSON",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "176": {
+      "winner": "JACK RADER",
+      "party": "REP",
+      "pct": 63.02,
+      "unopposed": false
+    },
+    "177": {
+      "winner": "JOE HOHENSTEIN",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "178": {
+      "winner": "KRISTIN MARCELL",
+      "party": "REP",
+      "pct": 61.33,
+      "unopposed": false
+    },
+    "179": {
+      "winner": "JASON DAWKINS",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "180": {
+      "winner": "JOSE A GIRAL",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "181": {
+      "winner": "MALCOLM KENYATTA",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "182": {
+      "winner": "BEN WAXMAN",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "183": {
+      "winner": "JOE LENZI",
+      "party": "DEM",
+      "pct": 34.45,
+      "unopposed": false
+    },
+    "184": {
+      "winner": "ELIZABETH FIEDLER",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "185": {
+      "winner": "REGINA G YOUNG",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "186": {
+      "winner": "JORDAN A HARRIS",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "187": {
+      "winner": "GARY DAY",
+      "party": "REP",
+      "pct": 55.36,
+      "unopposed": false
+    },
+    "188": {
+      "winner": "RICK KRAJEWSKI",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "189": {
+      "winner": "TARAH PROBST",
+      "party": "DEM",
+      "pct": 57.5,
+      "unopposed": false
+    },
+    "190": {
+      "winner": "RONI GREEN",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "191": {
+      "winner": "JOANNA E MCCLINTON",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "192": {
+      "winner": "MORGAN CEPHAS",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "193": {
+      "winner": "TORREN ECKER",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "194": {
+      "winner": "TARIK KHAN",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "195": {
+      "winner": "KEITH S HARRIS",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "196": {
+      "winner": "SETH M GROVE",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "197": {
+      "winner": "DANILO BURGOS",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "198": {
+      "winner": "DARISHA K PARKER",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "199": {
+      "winner": "RONI GREEN",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "200": {
+      "winner": "CHRIS RABB",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "201": {
+      "winner": "ANDRE D CARROLL",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "202": {
+      "winner": "JARED SOLOMON",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "203": {
+      "winner": "ANTHONY BELLMON",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    }
+  },
+  "senate": {
+    "1": {
+      "winner": "NIKIL SAVAL",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "2": {
+      "winner": "TARTAGLIONE, CHRISTINE M",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "3": {
+      "winner": "SHARIF STREET",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "4": {
+      "winner": "HAYWOOD, ARTHUR L III",
+      "party": "DEM",
+      "pct": 85,
+      "unopposed": false
+    },
+    "5": {
+      "winner": "JOE PICOZZI",
+      "party": "REP",
+      "pct": 50.42,
+      "unopposed": false
+    },
+    "6": {
+      "winner": "FARRY, FRANK A",
+      "party": "REP",
+      "pct": 53.25,
+      "unopposed": false
+    },
+    "7": {
+      "winner": "VINCENT HUGHES",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "8": {
+      "winner": "WILLIAMS, ANTHONY HARDY",
+      "party": "DEM",
+      "pct": 86.61,
+      "unopposed": false
+    },
+    "9": {
+      "winner": "JOHN I KANE",
+      "party": "DEM",
+      "pct": 56.11,
+      "unopposed": false
+    },
+    "10": {
+      "winner": "SANTARSIERO, STEVEN J",
+      "party": "DEM",
+      "pct": 58.58,
+      "unopposed": false
+    },
+    "11": {
+      "winner": "JUDY SCHWANK",
+      "party": "DEM",
+      "pct": 58.69,
+      "unopposed": false
+    },
+    "12": {
+      "winner": "COLLETT, MARIA",
+      "party": "DEM",
+      "pct": 59.84,
+      "unopposed": false
+    },
+    "13": {
+      "winner": "SCOTT MARTIN",
+      "party": "REP",
+      "pct": 59.81,
+      "unopposed": false
+    },
+    "14": {
+      "winner": "MILLER, NICHOLAS P",
+      "party": "DEM",
+      "pct": 53.5,
+      "unopposed": false
+    },
+    "15": {
+      "winner": "PATTY KIM",
+      "party": "DEM",
+      "pct": 58.22,
+      "unopposed": false
+    },
+    "16": {
+      "winner": "COLEMAN, JARRETT CHARLES",
+      "party": "REP",
+      "pct": 54.16,
+      "unopposed": false
+    },
+    "17": {
+      "winner": "AMANDA M CAPPELLETTI",
+      "party": "DEM",
+      "pct": 68.39,
+      "unopposed": false
+    },
+    "18": {
+      "winner": "BOSCOLA, LISA M",
+      "party": "DEM",
+      "pct": 58.92,
+      "unopposed": false
+    },
+    "19": {
+      "winner": "CAROLYN COMITTA",
+      "party": "DEM",
+      "pct": 56.51,
+      "unopposed": false
+    },
+    "20": {
+      "winner": "BAKER, JACLYN E",
+      "party": "DEM",
+      "pct": 32.27,
+      "unopposed": false
+    },
+    "21": {
+      "winner": "Scott E. Hutchinson",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "22": {
+      "winner": "BAKER, ELISABETH J.",
+      "party": "REP",
+      "pct": 67.73,
+      "unopposed": false
+    },
+    "23": {
+      "winner": "GENE YAW",
+      "party": "REP",
+      "pct": 74.65,
+      "unopposed": false
+    },
+    "24": {
+      "winner": "PENNYYCLICK, TRACY E",
+      "party": "REP",
+      "pct": 52,
+      "unopposed": false
+    },
+    "25": {
+      "winner": "CRIS DUSH",
+      "party": "REP",
+      "pct": 66.43,
+      "unopposed": false
+    },
+    "26": {
+      "winner": "KEARNEY, TIMOTHY P",
+      "party": "DEM",
+      "pct": 60.04,
+      "unopposed": false
+    },
+    "27": {
+      "winner": "LYNDA J SCHLEGEL CULVER",
+      "party": "REP",
+      "pct": 72.1,
+      "unopposed": false
+    },
+    "28": {
+      "winner": "PHILLIPS-HILL, KRISTIN LEE",
+      "party": "REP",
+      "pct": 66.9,
+      "unopposed": false
+    },
+    "29": {
+      "winner": "DAVE ARGALL",
+      "party": "REP",
+      "pct": 71,
+      "unopposed": false
+    },
+    "30": {
+      "winner": "WARD, JUDITH F",
+      "party": "REP",
+      "pct": 76.17,
+      "unopposed": false
+    },
+    "31": {
+      "winner": "DAWN KEEFER",
+      "party": "REP",
+      "pct": 60.84,
+      "unopposed": false
+    },
+    "32": {
+      "winner": "STEFANO, PATRICK J.",
+      "party": "REP",
+      "pct": 75.1,
+      "unopposed": false
+    },
+    "33": {
+      "winner": "DOUG MASTRIANO",
+      "party": "REP",
+      "pct": 69.02,
+      "unopposed": false
+    },
+    "34": {
+      "winner": "ROTHMAN, WILLIAM GREGORY",
+      "party": "REP",
+      "pct": 63.54,
+      "unopposed": false
+    },
+    "35": {
+      "winner": "WAYNE LANGERHOLC JR",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "36": {
+      "winner": "AUMENT, RYAN P",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "37": {
+      "winner": "DEVLIN ROBINSON",
+      "party": "REP",
+      "pct": 52.83,
+      "unopposed": false
+    },
+    "38": {
+      "winner": "WILLIAMS, LINDSEY M",
+      "party": "DEM",
+      "pct": 55.79,
+      "unopposed": false
+    },
+    "39": {
+      "winner": "KIM WARD",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "40": {
+      "winner": "BROWN, ROSEMARY MAULA",
+      "party": "REP",
+      "pct": 55.26,
+      "unopposed": false
+    },
+    "41": {
+      "winner": "JOE PITTMAN",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "42": {
+      "winner": "FONTANA, WAYNE D.",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "43": {
+      "winner": "JAY COSTA JR",
+      "party": "DEM",
+      "pct": 100,
+      "unopposed": true
+    },
+    "44": {
+      "winner": "MUTH, KATIE J",
+      "party": "DEM",
+      "pct": 55.68,
+      "unopposed": false
+    },
+    "45": {
+      "winner": "NICK PISCIOTTANO",
+      "party": "DEM",
+      "pct": 53.09,
+      "unopposed": false
+    },
+    "46": {
+      "winner": "BARTOLOTTA, CAMERA",
+      "party": "REP",
+      "pct": 100,
+      "unopposed": true
+    },
+    "47": {
+      "winner": "ELDER VOGEL JR",
+      "party": "REP",
+      "pct": 63.79,
+      "unopposed": false
+    },
+    "48": {
+      "winner": "GEBHARD, CHRISTOPHER M",
+      "party": "REP",
+      "pct": 68.39,
+      "unopposed": false
+    },
+    "49": {
+      "winner": "DAN LAUGHLIN",
+      "party": "REP",
+      "pct": 54.11,
+      "unopposed": false
+    },
+    "50": {
+      "winner": "BROOKS, MICHELE",
+      "party": "REP",
+      "pct": 71.35,
+      "unopposed": false
+    }
+  }
+}

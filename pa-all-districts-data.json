@@ -1,0 +1,6584 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Pennsylvania House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 39874,
+        "medianAge": 34.1,
+        "totalPopulation": 64839,
+        "collegePct": 22.45,
+        "renterRatePct": 53.59,
+        "race": {
+          "whitePct": 68.66,
+          "nonHispanicWhitePct": 66.1,
+          "blackPct": 16.73,
+          "asianPct": 2.15,
+          "hispanicPct": 8.92
+        }
+      },
+      "election": {
+        "winner": "PATRICK J HARKINS",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Pennsylvania House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61060,
+        "medianAge": 40.4,
+        "totalPopulation": 64702,
+        "collegePct": 27.37,
+        "renterRatePct": 24.65,
+        "race": {
+          "whitePct": 81.67,
+          "nonHispanicWhitePct": 80.74,
+          "blackPct": 8.01,
+          "asianPct": 2.55,
+          "hispanicPct": 4.49
+        }
+      },
+      "election": {
+        "winner": "MATT STRUPCZEWSKI",
+        "party": "REP",
+        "pct": 37.02,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Pennsylvania House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81639,
+        "medianAge": 43.7,
+        "totalPopulation": 64790,
+        "collegePct": 42.15,
+        "renterRatePct": 26.42,
+        "race": {
+          "whitePct": 89.57,
+          "nonHispanicWhitePct": 89.03,
+          "blackPct": 1.93,
+          "asianPct": 3.06,
+          "hispanicPct": 2.5
+        }
+      },
+      "election": {
+        "winner": "RYAN BIZZARRO",
+        "party": "DEM",
+        "pct": 57.68,
+        "unopposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Pennsylvania House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68199,
+        "medianAge": 42.1,
+        "totalPopulation": 64386,
+        "collegePct": 27.89,
+        "renterRatePct": 23.05,
+        "race": {
+          "whitePct": 93.7,
+          "nonHispanicWhitePct": 93.04,
+          "blackPct": 0.46,
+          "asianPct": 0.39,
+          "hispanicPct": 3.05
+        }
+      },
+      "election": {
+        "winner": "JAKE BANTA",
+        "party": "REP",
+        "pct": 67.66,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Pennsylvania House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94072,
+        "medianAge": 43.7,
+        "totalPopulation": 65078,
+        "collegePct": 30.72,
+        "renterRatePct": 15.17,
+        "race": {
+          "whitePct": 89.15,
+          "nonHispanicWhitePct": 86.82,
+          "blackPct": 2.94,
+          "asianPct": 1,
+          "hispanicPct": 6.21
+        }
+      },
+      "election": {
+        "winner": "ERIC J WEAKNECHT",
+        "party": "REP",
+        "pct": 66.72,
+        "unopposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Pennsylvania House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63351,
+        "medianAge": 45.2,
+        "totalPopulation": 63980,
+        "collegePct": 21.39,
+        "renterRatePct": 26.54,
+        "race": {
+          "whitePct": 92.35,
+          "nonHispanicWhitePct": 91.97,
+          "blackPct": 3.03,
+          "asianPct": 0.57,
+          "hispanicPct": 1.45
+        }
+      },
+      "election": {
+        "winner": "BRAD ROAE",
+        "party": "REP",
+        "pct": 69.96,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Pennsylvania House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57077,
+        "medianAge": 47.5,
+        "totalPopulation": 65849,
+        "collegePct": 24.4,
+        "renterRatePct": 31.58,
+        "race": {
+          "whitePct": 85.89,
+          "nonHispanicWhitePct": 85.54,
+          "blackPct": 8.18,
+          "asianPct": 0.54,
+          "hispanicPct": 1.85
+        }
+      },
+      "election": {
+        "winner": "PARKE WENTLING",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Pennsylvania House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80843,
+        "medianAge": 48.4,
+        "totalPopulation": 64243,
+        "collegePct": 29.33,
+        "renterRatePct": 14.12,
+        "race": {
+          "whitePct": 96.36,
+          "nonHispanicWhitePct": 95.52,
+          "blackPct": 0.44,
+          "asianPct": 0.35,
+          "hispanicPct": 1.65
+        }
+      },
+      "election": {
+        "winner": "AARON BERNSTINE",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Pennsylvania House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57786,
+        "medianAge": 43,
+        "totalPopulation": 63470,
+        "collegePct": 23.22,
+        "renterRatePct": 27.06,
+        "race": {
+          "whitePct": 88.73,
+          "nonHispanicWhitePct": 88.01,
+          "blackPct": 4.76,
+          "asianPct": 0.31,
+          "hispanicPct": 2.37
+        }
+      },
+      "election": {
+        "winner": "MARLA BROWN",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Pennsylvania House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45832,
+        "medianAge": 30.1,
+        "totalPopulation": 58506,
+        "collegePct": 35.38,
+        "renterRatePct": 66.98,
+        "race": {
+          "whitePct": 22.61,
+          "nonHispanicWhitePct": 21.69,
+          "blackPct": 61.52,
+          "asianPct": 8.4,
+          "hispanicPct": 3.06
+        }
+      },
+      "election": {
+        "winner": "AMEN BROWN",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Pennsylvania House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69136,
+        "medianAge": 46,
+        "totalPopulation": 64387,
+        "collegePct": 26.7,
+        "renterRatePct": 27.92,
+        "race": {
+          "whitePct": 93.51,
+          "nonHispanicWhitePct": 92.77,
+          "blackPct": 1.46,
+          "asianPct": 0.62,
+          "hispanicPct": 2.17
+        }
+      },
+      "election": {
+        "winner": "MARCI MUSTELLO",
+        "party": "REP",
+        "pct": 87.02,
+        "unopposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Pennsylvania House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119647,
+        "medianAge": 41.3,
+        "totalPopulation": 66260,
+        "collegePct": 59.7,
+        "renterRatePct": 23.69,
+        "race": {
+          "whitePct": 92.27,
+          "nonHispanicWhitePct": 91.6,
+          "blackPct": 0.99,
+          "asianPct": 3.05,
+          "hispanicPct": 1.74
+        }
+      },
+      "election": {
+        "winner": "STEPHENIE SCIALABBA",
+        "party": "REP",
+        "pct": 64.83,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Pennsylvania House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120941,
+        "medianAge": 39.8,
+        "totalPopulation": 64398,
+        "collegePct": 44.24,
+        "renterRatePct": 15.76,
+        "race": {
+          "whitePct": 80.07,
+          "nonHispanicWhitePct": 74.54,
+          "blackPct": 3.98,
+          "asianPct": 2.04,
+          "hispanicPct": 15.92
+        }
+      },
+      "election": {
+        "winner": "JOHN LAWRENCE",
+        "party": "REP",
+        "pct": 58.01,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Pennsylvania House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71219,
+        "medianAge": 45,
+        "totalPopulation": 66181,
+        "collegePct": 28.74,
+        "renterRatePct": 22.93,
+        "race": {
+          "whitePct": 89.95,
+          "nonHispanicWhitePct": 89.47,
+          "blackPct": 5.05,
+          "asianPct": 0.49,
+          "hispanicPct": 1.5
+        }
+      },
+      "election": {
+        "winner": "ROMAN KOZAK",
+        "party": "REP",
+        "pct": 65.27,
+        "unopposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Pennsylvania House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78308,
+        "medianAge": 45.7,
+        "totalPopulation": 66007,
+        "collegePct": 26.07,
+        "renterRatePct": 18.79,
+        "race": {
+          "whitePct": 93.4,
+          "nonHispanicWhitePct": 93.02,
+          "blackPct": 1.5,
+          "asianPct": 0.42,
+          "hispanicPct": 1.58
+        }
+      },
+      "election": {
+        "winner": "JOSHUA D KAIL",
+        "party": "REP",
+        "pct": 68.89,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Pennsylvania House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64147,
+        "medianAge": 44.1,
+        "totalPopulation": 64477,
+        "collegePct": 26.89,
+        "renterRatePct": 30.92,
+        "race": {
+          "whitePct": 82.34,
+          "nonHispanicWhitePct": 81.36,
+          "blackPct": 10.01,
+          "asianPct": 0.49,
+          "hispanicPct": 3.22
+        }
+      },
+      "election": {
+        "winner": "MICHAEL J PERICH",
+        "party": "REP",
+        "pct": 47.68,
+        "unopposed": false
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Pennsylvania House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65740,
+        "medianAge": 39.2,
+        "totalPopulation": 66936,
+        "collegePct": 24.25,
+        "renterRatePct": 24.76,
+        "race": {
+          "whitePct": 93.5,
+          "nonHispanicWhitePct": 92.76,
+          "blackPct": 1.53,
+          "asianPct": 0.67,
+          "hispanicPct": 1.45
+        }
+      },
+      "election": {
+        "winner": "TIM BONNER",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Pennsylvania House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82022,
+        "medianAge": 41.7,
+        "totalPopulation": 63650,
+        "collegePct": 30.97,
+        "renterRatePct": 39.27,
+        "race": {
+          "whitePct": 65.34,
+          "nonHispanicWhitePct": 63.79,
+          "blackPct": 7.55,
+          "asianPct": 12.99,
+          "hispanicPct": 12.45
+        }
+      },
+      "election": {
+        "winner": "KATHLEEN K C TOMLINSON",
+        "party": "REP",
+        "pct": 55.66,
+        "unopposed": false
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Pennsylvania House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50862,
+        "medianAge": 32.1,
+        "totalPopulation": 62854,
+        "collegePct": 33.84,
+        "renterRatePct": 59.73,
+        "race": {
+          "whitePct": 46.67,
+          "nonHispanicWhitePct": 46.02,
+          "blackPct": 39.63,
+          "asianPct": 3,
+          "hispanicPct": 4.68
+        }
+      },
+      "election": {
+        "winner": "AERION ANDREW ABNEY",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Pennsylvania House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76385,
+        "medianAge": 40.6,
+        "totalPopulation": 60638,
+        "collegePct": 46,
+        "renterRatePct": 35.24,
+        "race": {
+          "whitePct": 85.7,
+          "nonHispanicWhitePct": 84.77,
+          "blackPct": 6.92,
+          "asianPct": 2.7,
+          "hispanicPct": 3
+        }
+      },
+      "election": {
+        "winner": "EMILY KINKEAD",
+        "party": "DEM",
+        "pct": 59.23,
+        "unopposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Pennsylvania House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81799,
+        "medianAge": 40.5,
+        "totalPopulation": 61361,
+        "collegePct": 46.57,
+        "renterRatePct": 35.16,
+        "race": {
+          "whitePct": 87.81,
+          "nonHispanicWhitePct": 86.74,
+          "blackPct": 4.45,
+          "asianPct": 2.18,
+          "hispanicPct": 2.71
+        }
+      },
+      "election": {
+        "winner": "LINDSAY POWELL",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Pennsylvania House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48624,
+        "medianAge": 31.7,
+        "totalPopulation": 61291,
+        "collegePct": 14.33,
+        "renterRatePct": 57.25,
+        "race": {
+          "whitePct": 39.19,
+          "nonHispanicWhitePct": 25.12,
+          "blackPct": 13.58,
+          "asianPct": 1.07,
+          "hispanicPct": 60.69
+        }
+      },
+      "election": {
+        "winner": "JOSHUA M SIEGEL",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Pennsylvania House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70798,
+        "medianAge": 28.2,
+        "totalPopulation": 59688,
+        "collegePct": 72.58,
+        "renterRatePct": 52.36,
+        "race": {
+          "whitePct": 73.88,
+          "nonHispanicWhitePct": 72.04,
+          "blackPct": 5.45,
+          "asianPct": 12.22,
+          "hispanicPct": 5.53
+        }
+      },
+      "election": {
+        "winner": "DAN FRANKEL",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Pennsylvania House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54318,
+        "medianAge": 32.1,
+        "totalPopulation": 62872,
+        "collegePct": 52.15,
+        "renterRatePct": 65.49,
+        "race": {
+          "whitePct": 46.41,
+          "nonHispanicWhitePct": 45.11,
+          "blackPct": 38.74,
+          "asianPct": 7.65,
+          "hispanicPct": 3.89
+        }
+      },
+      "election": {
+        "winner": "LATASHA D MAYES",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Pennsylvania House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67882,
+        "medianAge": 45.2,
+        "totalPopulation": 63593,
+        "collegePct": 34.97,
+        "renterRatePct": 33.88,
+        "race": {
+          "whitePct": 75.14,
+          "nonHispanicWhitePct": 74.82,
+          "blackPct": 15.22,
+          "asianPct": 3.04,
+          "hispanicPct": 2.44
+        }
+      },
+      "election": {
+        "winner": "BRANDON J MARKOSEK",
+        "party": "DEM",
+        "pct": 59.61,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Pennsylvania House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104375,
+        "medianAge": 39.8,
+        "totalPopulation": 64739,
+        "collegePct": 48.77,
+        "renterRatePct": 29.42,
+        "race": {
+          "whitePct": 85.06,
+          "nonHispanicWhitePct": 83.89,
+          "blackPct": 4.17,
+          "asianPct": 2.8,
+          "hispanicPct": 5.91
+        }
+      },
+      "election": {
+        "winner": "Paul Friel",
+        "party": "DEM",
+        "pct": 57.35,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Pennsylvania House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73964,
+        "medianAge": 40.7,
+        "totalPopulation": 61260,
+        "collegePct": 42.71,
+        "renterRatePct": 39.78,
+        "race": {
+          "whitePct": 77.17,
+          "nonHispanicWhitePct": 76.45,
+          "blackPct": 9.7,
+          "asianPct": 6.85,
+          "hispanicPct": 2.25
+        }
+      },
+      "election": {
+        "winner": "Daniel J Deasy",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Pennsylvania House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 132482,
+        "medianAge": 43.6,
+        "totalPopulation": 63697,
+        "collegePct": 60.97,
+        "renterRatePct": 12.86,
+        "race": {
+          "whitePct": 90.12,
+          "nonHispanicWhitePct": 89.78,
+          "blackPct": 1.21,
+          "asianPct": 4.63,
+          "hispanicPct": 1.35
+        }
+      },
+      "election": {
+        "winner": "Jeremy Shaffer",
+        "party": "REP",
+        "pct": 57.01,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Pennsylvania House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 151025,
+        "medianAge": 48,
+        "totalPopulation": 65538,
+        "collegePct": 64.05,
+        "renterRatePct": 18.71,
+        "race": {
+          "whitePct": 87.54,
+          "nonHispanicWhitePct": 86.52,
+          "blackPct": 1.39,
+          "asianPct": 3.95,
+          "hispanicPct": 3.27
+        }
+      },
+      "election": {
+        "winner": "Tim Brennan",
+        "party": "DEM",
+        "pct": 55.63,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Pennsylvania House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120017,
+        "medianAge": 42,
+        "totalPopulation": 62030,
+        "collegePct": 62.53,
+        "renterRatePct": 20.11,
+        "race": {
+          "whitePct": 85.08,
+          "nonHispanicWhitePct": 84.23,
+          "blackPct": 2.19,
+          "asianPct": 7,
+          "hispanicPct": 3.47
+        }
+      },
+      "election": {
+        "winner": "Arvind Venkat",
+        "party": "DEM",
+        "pct": 54.31,
+        "unopposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Pennsylvania House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 165038,
+        "medianAge": 46.6,
+        "totalPopulation": 66725,
+        "collegePct": 68.42,
+        "renterRatePct": 13.19,
+        "race": {
+          "whitePct": 84.06,
+          "nonHispanicWhitePct": 82.86,
+          "blackPct": 1.46,
+          "asianPct": 7.24,
+          "hispanicPct": 4.26
+        }
+      },
+      "election": {
+        "winner": "Perry Warren",
+        "party": "DEM",
+        "pct": 58.83,
+        "unopposed": false
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Pennsylvania House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70424,
+        "medianAge": 43.7,
+        "totalPopulation": 63972,
+        "collegePct": 36.41,
+        "renterRatePct": 28.7,
+        "race": {
+          "whitePct": 67.47,
+          "nonHispanicWhitePct": 67.2,
+          "blackPct": 24.3,
+          "asianPct": 0.54,
+          "hispanicPct": 2.29
+        }
+      },
+      "election": {
+        "winner": "Joe Mcandrew",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Pennsylvania House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78007,
+        "medianAge": 46.9,
+        "totalPopulation": 61029,
+        "collegePct": 44.98,
+        "renterRatePct": 25.14,
+        "race": {
+          "whitePct": 89.83,
+          "nonHispanicWhitePct": 89.25,
+          "blackPct": 2.56,
+          "asianPct": 3.36,
+          "hispanicPct": 1.82
+        }
+      },
+      "election": {
+        "winner": "Mandy Steele",
+        "party": "DEM",
+        "pct": 55.8,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Pennsylvania House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58719,
+        "medianAge": 40.8,
+        "totalPopulation": 60719,
+        "collegePct": 43.29,
+        "renterRatePct": 49.84,
+        "race": {
+          "whitePct": 55.43,
+          "nonHispanicWhitePct": 54.6,
+          "blackPct": 33.64,
+          "asianPct": 1.72,
+          "hispanicPct": 3.94
+        }
+      },
+      "election": {
+        "winner": "Abigail Salisbury",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Pennsylvania House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47965,
+        "medianAge": 42,
+        "totalPopulation": 64120,
+        "collegePct": 20.1,
+        "renterRatePct": 41.2,
+        "race": {
+          "whitePct": 64.2,
+          "nonHispanicWhitePct": 63.5,
+          "blackPct": 26.14,
+          "asianPct": 0.38,
+          "hispanicPct": 3.27
+        }
+      },
+      "election": {
+        "winner": "Matthew R Gergely",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Pennsylvania House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68253,
+        "medianAge": 36.7,
+        "totalPopulation": 60357,
+        "collegePct": 34.29,
+        "renterRatePct": 41.23,
+        "race": {
+          "whitePct": 78.46,
+          "nonHispanicWhitePct": 77.41,
+          "blackPct": 11.91,
+          "asianPct": 2.25,
+          "hispanicPct": 3.7
+        }
+      },
+      "election": {
+        "winner": "Jessica Benham",
+        "party": "DEM",
+        "pct": 78.82,
+        "unopposed": false
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Pennsylvania House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87508,
+        "medianAge": 43.9,
+        "totalPopulation": 66923,
+        "collegePct": 32.39,
+        "renterRatePct": 22.93,
+        "race": {
+          "whitePct": 92.62,
+          "nonHispanicWhitePct": 91.08,
+          "blackPct": 1.05,
+          "asianPct": 1.38,
+          "hispanicPct": 3.95
+        }
+      },
+      "election": {
+        "winner": "John George",
+        "party": "DEM",
+        "pct": 33.23,
+        "unopposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Pennsylvania House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72936,
+        "medianAge": 43.7,
+        "totalPopulation": 63583,
+        "collegePct": 30.53,
+        "renterRatePct": 23.8,
+        "race": {
+          "whitePct": 83.99,
+          "nonHispanicWhitePct": 83.4,
+          "blackPct": 5.12,
+          "asianPct": 6.19,
+          "hispanicPct": 1.88
+        }
+      },
+      "election": {
+        "winner": "JOHN INGLIS",
+        "party": "DEM",
+        "pct": 55.51,
+        "unopposed": false
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Pennsylvania House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83211,
+        "medianAge": 45.2,
+        "totalPopulation": 65537,
+        "collegePct": 34.16,
+        "renterRatePct": 18.03,
+        "race": {
+          "whitePct": 90.85,
+          "nonHispanicWhitePct": 90.13,
+          "blackPct": 2.66,
+          "asianPct": 2.76,
+          "hispanicPct": 1.63
+        }
+      },
+      "election": {
+        "winner": "ANDREW KUZMA",
+        "party": "REP",
+        "pct": 62.07,
+        "unopposed": false
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Pennsylvania House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118597,
+        "medianAge": 46.2,
+        "totalPopulation": 65527,
+        "collegePct": 57.35,
+        "renterRatePct": 17.33,
+        "race": {
+          "whitePct": 92.39,
+          "nonHispanicWhitePct": 91.62,
+          "blackPct": 1.42,
+          "asianPct": 2.56,
+          "hispanicPct": 1.71
+        }
+      },
+      "election": {
+        "winner": "NATALIE MIHALEK",
+        "party": "REP",
+        "pct": 60.37,
+        "unopposed": false
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Pennsylvania House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88420,
+        "medianAge": 43.9,
+        "totalPopulation": 65334,
+        "collegePct": 36.5,
+        "renterRatePct": 26.01,
+        "race": {
+          "whitePct": 82.58,
+          "nonHispanicWhitePct": 78.85,
+          "blackPct": 3.57,
+          "asianPct": 3.86,
+          "hispanicPct": 11.55
+        }
+      },
+      "election": {
+        "winner": "BRETT R MILLER",
+        "party": "REP",
+        "pct": 55.67,
+        "unopposed": false
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Pennsylvania House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107394,
+        "medianAge": 42.4,
+        "totalPopulation": 63377,
+        "collegePct": 61.11,
+        "renterRatePct": 26.32,
+        "race": {
+          "whitePct": 87.94,
+          "nonHispanicWhitePct": 87.3,
+          "blackPct": 2.06,
+          "asianPct": 3.98,
+          "hispanicPct": 2.25
+        }
+      },
+      "election": {
+        "winner": "DAN MILLER",
+        "party": "DEM",
+        "pct": 66.72,
+        "unopposed": false
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Pennsylvania House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73909,
+        "medianAge": 36.7,
+        "totalPopulation": 64381,
+        "collegePct": 23.08,
+        "renterRatePct": 35.55,
+        "race": {
+          "whitePct": 87.66,
+          "nonHispanicWhitePct": 85.37,
+          "blackPct": 2.09,
+          "asianPct": 2.1,
+          "hispanicPct": 7.09
+        }
+      },
+      "election": {
+        "winner": "KEITH J GREINER",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Pennsylvania House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102692,
+        "medianAge": 41.6,
+        "totalPopulation": 65529,
+        "collegePct": 51.72,
+        "renterRatePct": 23.13,
+        "race": {
+          "whitePct": 86,
+          "nonHispanicWhitePct": 85.53,
+          "blackPct": 2.2,
+          "asianPct": 4.41,
+          "hispanicPct": 2.29
+        }
+      },
+      "election": {
+        "winner": "VALERIE GAYDOS",
+        "party": "REP",
+        "pct": 53.8,
+        "unopposed": false
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Pennsylvania House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72044,
+        "medianAge": 43.4,
+        "totalPopulation": 65010,
+        "collegePct": 36.92,
+        "renterRatePct": 38.3,
+        "race": {
+          "whitePct": 80.38,
+          "nonHispanicWhitePct": 79.77,
+          "blackPct": 11.47,
+          "asianPct": 1.95,
+          "hispanicPct": 2.3
+        }
+      },
+      "election": {
+        "winner": "ANITA ASTORINO KULIK",
+        "party": "DEM",
+        "pct": 58.08,
+        "unopposed": false
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Pennsylvania House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96369,
+        "medianAge": 41.5,
+        "totalPopulation": 66797,
+        "collegePct": 44.69,
+        "renterRatePct": 21.56,
+        "race": {
+          "whitePct": 88.54,
+          "nonHispanicWhitePct": 88.03,
+          "blackPct": 2.58,
+          "asianPct": 5.16,
+          "hispanicPct": 1.57
+        }
+      },
+      "election": {
+        "winner": "JASON ORTITAY",
+        "party": "REP",
+        "pct": 62.16,
+        "unopposed": false
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Pennsylvania House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89704,
+        "medianAge": 40.7,
+        "totalPopulation": 64601,
+        "collegePct": 30.06,
+        "renterRatePct": 17.22,
+        "race": {
+          "whitePct": 83.43,
+          "nonHispanicWhitePct": 81.75,
+          "blackPct": 5.49,
+          "asianPct": 1.01,
+          "hispanicPct": 8.04
+        }
+      },
+      "election": {
+        "winner": "JOE D'ORSIE",
+        "party": "REP",
+        "pct": 62.84,
+        "unopposed": false
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Pennsylvania House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71107,
+        "medianAge": 47.7,
+        "totalPopulation": 66233,
+        "collegePct": 28.89,
+        "renterRatePct": 29.5,
+        "race": {
+          "whitePct": 88.59,
+          "nonHispanicWhitePct": 87.7,
+          "blackPct": 4.97,
+          "asianPct": 0.93,
+          "hispanicPct": 2.84
+        }
+      },
+      "election": {
+        "winner": "TIM O'NEAL",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Pennsylvania House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67765,
+        "medianAge": 33.6,
+        "totalPopulation": 63010,
+        "collegePct": 27.31,
+        "renterRatePct": 41.48,
+        "race": {
+          "whitePct": 50.91,
+          "nonHispanicWhitePct": 42.83,
+          "blackPct": 13.86,
+          "asianPct": 3,
+          "hispanicPct": 37.67
+        }
+      },
+      "election": {
+        "winner": "IZZY SMITH-WADE-EL",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Pennsylvania House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63799,
+        "medianAge": 41.7,
+        "totalPopulation": 66064,
+        "collegePct": 22.01,
+        "renterRatePct": 25.28,
+        "race": {
+          "whitePct": 90.18,
+          "nonHispanicWhitePct": 89.56,
+          "blackPct": 3.65,
+          "asianPct": 0.28,
+          "hispanicPct": 1.6
+        }
+      },
+      "election": {
+        "winner": "Bud Cook",
+        "party": "REP",
+        "pct": 69.11,
+        "unopposed": false
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Pennsylvania House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56824,
+        "medianAge": 44.5,
+        "totalPopulation": 63708,
+        "collegePct": 20.91,
+        "renterRatePct": 29.34,
+        "race": {
+          "whitePct": 89.34,
+          "nonHispanicWhitePct": 88.59,
+          "blackPct": 4.75,
+          "asianPct": 0.54,
+          "hispanicPct": 1.62
+        }
+      },
+      "election": {
+        "winner": "Charity Grimm Krupa",
+        "party": "REP",
+        "pct": 65.67,
+        "unopposed": false
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Pennsylvania House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55573,
+        "medianAge": 46.3,
+        "totalPopulation": 63259,
+        "collegePct": 16.96,
+        "renterRatePct": 25.69,
+        "race": {
+          "whitePct": 90.87,
+          "nonHispanicWhitePct": 90.67,
+          "blackPct": 3.37,
+          "asianPct": 0.37,
+          "hispanicPct": 1.07
+        }
+      },
+      "election": {
+        "winner": "Ryan Warner",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Pennsylvania House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96189,
+        "medianAge": 40.2,
+        "totalPopulation": 65723,
+        "collegePct": 42,
+        "renterRatePct": 33.02,
+        "race": {
+          "whitePct": 69.89,
+          "nonHispanicWhitePct": 68.01,
+          "blackPct": 5.7,
+          "asianPct": 15.84,
+          "hispanicPct": 7.87
+        }
+      },
+      "election": {
+        "winner": "Steve Malagari",
+        "party": "DEM",
+        "pct": 60.22,
+        "unopposed": false
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Pennsylvania House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84119,
+        "medianAge": 34.9,
+        "totalPopulation": 63333,
+        "collegePct": 39.91,
+        "renterRatePct": 49.44,
+        "race": {
+          "whitePct": 52.87,
+          "nonHispanicWhitePct": 49.17,
+          "blackPct": 21.13,
+          "asianPct": 3.14,
+          "hispanicPct": 20.94
+        }
+      },
+      "election": {
+        "winner": "Greg Scott",
+        "party": "DEM",
+        "pct": 69.67,
+        "unopposed": false
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Pennsylvania House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76462,
+        "medianAge": 49.7,
+        "totalPopulation": 65389,
+        "collegePct": 33.13,
+        "renterRatePct": 22.27,
+        "race": {
+          "whitePct": 89.3,
+          "nonHispanicWhitePct": 88.67,
+          "blackPct": 5.04,
+          "asianPct": 1.75,
+          "hispanicPct": 1.84
+        }
+      },
+      "election": {
+        "winner": "Jill Cooper",
+        "party": "REP",
+        "pct": 67.8,
+        "unopposed": false
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Pennsylvania House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83670,
+        "medianAge": 44.4,
+        "totalPopulation": 65953,
+        "collegePct": 36.71,
+        "renterRatePct": 18.24,
+        "race": {
+          "whitePct": 91.9,
+          "nonHispanicWhitePct": 90.65,
+          "blackPct": 1.88,
+          "asianPct": 1.06,
+          "hispanicPct": 2.44
+        }
+      },
+      "election": {
+        "winner": "Brian Rasel",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Pennsylvania House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72166,
+        "medianAge": 45.8,
+        "totalPopulation": 66590,
+        "collegePct": 35.53,
+        "renterRatePct": 26.08,
+        "race": {
+          "whitePct": 93.5,
+          "nonHispanicWhitePct": 93.12,
+          "blackPct": 1.77,
+          "asianPct": 0.9,
+          "hispanicPct": 1.52
+        }
+      },
+      "election": {
+        "winner": "Eric Nelson",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Pennsylvania House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66282,
+        "medianAge": 47.9,
+        "totalPopulation": 62676,
+        "collegePct": 26.49,
+        "renterRatePct": 21.95,
+        "race": {
+          "whitePct": 91.81,
+          "nonHispanicWhitePct": 91.38,
+          "blackPct": 3.67,
+          "asianPct": 0.63,
+          "hispanicPct": 1
+        }
+      },
+      "election": {
+        "winner": "Eric Davanzo",
+        "party": "REP",
+        "pct": 69.18,
+        "unopposed": false
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Pennsylvania House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66074,
+        "medianAge": 48.2,
+        "totalPopulation": 66565,
+        "collegePct": 28.71,
+        "renterRatePct": 20.26,
+        "race": {
+          "whitePct": 95.85,
+          "nonHispanicWhitePct": 95.52,
+          "blackPct": 0.91,
+          "asianPct": 0.53,
+          "hispanicPct": 0.85
+        }
+      },
+      "election": {
+        "winner": "Leslie Rossi",
+        "party": "REP",
+        "pct": 69.79,
+        "unopposed": false
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Pennsylvania House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68031,
+        "medianAge": 47,
+        "totalPopulation": 63678,
+        "collegePct": 24.15,
+        "renterRatePct": 20.66,
+        "race": {
+          "whitePct": 94.74,
+          "nonHispanicWhitePct": 94.55,
+          "blackPct": 0.94,
+          "asianPct": 0.47,
+          "hispanicPct": 0.99
+        }
+      },
+      "election": {
+        "winner": "Abby Major",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Pennsylvania House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120751,
+        "medianAge": 46.5,
+        "totalPopulation": 63816,
+        "collegePct": 61.02,
+        "renterRatePct": 25.18,
+        "race": {
+          "whitePct": 76.54,
+          "nonHispanicWhitePct": 75.78,
+          "blackPct": 6.86,
+          "asianPct": 11.5,
+          "hispanicPct": 2.91
+        }
+      },
+      "election": {
+        "winner": "Liz Hambidge",
+        "party": "DEM",
+        "pct": 60.88,
+        "unopposed": false
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Pennsylvania House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59391,
+        "medianAge": 39.5,
+        "totalPopulation": 65432,
+        "collegePct": 30,
+        "renterRatePct": 31.66,
+        "race": {
+          "whitePct": 91.27,
+          "nonHispanicWhitePct": 90.41,
+          "blackPct": 3.06,
+          "asianPct": 0.97,
+          "hispanicPct": 2.08
+        }
+      },
+      "election": {
+        "winner": "Jim Struzzi",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Pennsylvania House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61302,
+        "medianAge": 43.7,
+        "totalPopulation": 64860,
+        "collegePct": 19.54,
+        "renterRatePct": 26.13,
+        "race": {
+          "whitePct": 95.34,
+          "nonHispanicWhitePct": 95.05,
+          "blackPct": 1.43,
+          "asianPct": 0.33,
+          "hispanicPct": 1.15
+        }
+      },
+      "election": {
+        "winner": "LIZ HAMBIDGE",
+        "party": "DEM",
+        "pct": 60.88,
+        "unopposed": false
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Pennsylvania House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59114,
+        "medianAge": 47,
+        "totalPopulation": 61711,
+        "collegePct": 19.03,
+        "renterRatePct": 25.25,
+        "race": {
+          "whitePct": 94.25,
+          "nonHispanicWhitePct": 94.04,
+          "blackPct": 1.08,
+          "asianPct": 0.39,
+          "hispanicPct": 1.11
+        }
+      },
+      "election": {
+        "winner": "R LEE JAMES",
+        "party": "REP",
+        "pct": 86.97,
+        "unopposed": false
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Pennsylvania House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59724,
+        "medianAge": 45.6,
+        "totalPopulation": 63380,
+        "collegePct": 18.86,
+        "renterRatePct": 21.06,
+        "race": {
+          "whitePct": 93.06,
+          "nonHispanicWhitePct": 92.59,
+          "blackPct": 2.58,
+          "asianPct": 0.46,
+          "hispanicPct": 1.98
+        }
+      },
+      "election": {
+        "winner": "KATHY L RAPP",
+        "party": "REP",
+        "pct": 72.96,
+        "unopposed": false
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "Pennsylvania House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57297,
+        "medianAge": 42.6,
+        "totalPopulation": 61880,
+        "collegePct": 16.84,
+        "renterRatePct": 23.66,
+        "race": {
+          "whitePct": 96.87,
+          "nonHispanicWhitePct": 96.47,
+          "blackPct": 0.4,
+          "asianPct": 0.21,
+          "hispanicPct": 0.9
+        }
+      },
+      "election": {
+        "winner": "BRIAN SMITH",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "Pennsylvania House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59645,
+        "medianAge": 45.6,
+        "totalPopulation": 60900,
+        "collegePct": 18.74,
+        "renterRatePct": 21.76,
+        "race": {
+          "whitePct": 94.25,
+          "nonHispanicWhitePct": 93.15,
+          "blackPct": 1.64,
+          "asianPct": 0.48,
+          "hispanicPct": 1.78
+        }
+      },
+      "election": {
+        "winner": "MARTIN T CAUSER",
+        "party": "REP",
+        "pct": 81.91,
+        "unopposed": false
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "Pennsylvania House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62125,
+        "medianAge": 44.5,
+        "totalPopulation": 64128,
+        "collegePct": 19.69,
+        "renterRatePct": 23.88,
+        "race": {
+          "whitePct": 95.95,
+          "nonHispanicWhitePct": 95.36,
+          "blackPct": 0.83,
+          "asianPct": 0.39,
+          "hispanicPct": 1.47
+        }
+      },
+      "election": {
+        "winner": "CLINT OWLETT",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "Pennsylvania House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59941,
+        "medianAge": 46.8,
+        "totalPopulation": 64836,
+        "collegePct": 17.25,
+        "renterRatePct": 19.74,
+        "race": {
+          "whitePct": 94.18,
+          "nonHispanicWhitePct": 93.65,
+          "blackPct": 2.18,
+          "asianPct": 0.54,
+          "hispanicPct": 1.23
+        }
+      },
+      "election": {
+        "winner": "CARL WALKER METZGAR",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "Pennsylvania House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118529,
+        "medianAge": 45.5,
+        "totalPopulation": 67542,
+        "collegePct": 50.57,
+        "renterRatePct": 20.44,
+        "race": {
+          "whitePct": 75.55,
+          "nonHispanicWhitePct": 73.75,
+          "blackPct": 10.26,
+          "asianPct": 6.97,
+          "hispanicPct": 5.84
+        }
+      },
+      "election": {
+        "winner": "MATT BRADFORD",
+        "party": "DEM",
+        "pct": 60.17,
+        "unopposed": false
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "Pennsylvania House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63551,
+        "medianAge": 44.7,
+        "totalPopulation": 62341,
+        "collegePct": 23.36,
+        "renterRatePct": 20.1,
+        "race": {
+          "whitePct": 94.57,
+          "nonHispanicWhitePct": 93.47,
+          "blackPct": 1.55,
+          "asianPct": 0.59,
+          "hispanicPct": 1.83
+        }
+      },
+      "election": {
+        "winner": "JIM RIGBY",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "Pennsylvania House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51219,
+        "medianAge": 47.1,
+        "totalPopulation": 63719,
+        "collegePct": 23.07,
+        "renterRatePct": 28.74,
+        "race": {
+          "whitePct": 88.2,
+          "nonHispanicWhitePct": 87.38,
+          "blackPct": 5.22,
+          "asianPct": 0.34,
+          "hispanicPct": 2.65
+        }
+      },
+      "election": {
+        "winner": "AMY BRADLEY",
+        "party": "REP",
+        "pct": 48.58,
+        "unopposed": false
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "Pennsylvania House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57916,
+        "medianAge": 45.5,
+        "totalPopulation": 61294,
+        "collegePct": 15.01,
+        "renterRatePct": 19.78,
+        "race": {
+          "whitePct": 92.72,
+          "nonHispanicWhitePct": 91.97,
+          "blackPct": 2.73,
+          "asianPct": 0.47,
+          "hispanicPct": 2.65
+        }
+      },
+      "election": {
+        "winner": "DALLAS KEPHART",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "Pennsylvania House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84207,
+        "medianAge": 39,
+        "totalPopulation": 65808,
+        "collegePct": 28.58,
+        "renterRatePct": 30.93,
+        "race": {
+          "whitePct": 67.75,
+          "nonHispanicWhitePct": 65.22,
+          "blackPct": 15.84,
+          "asianPct": 1.01,
+          "hispanicPct": 13.33
+        }
+      },
+      "election": {
+        "winner": "DAN WILLIAMS",
+        "party": "DEM",
+        "pct": 55.05,
+        "unopposed": false
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "Pennsylvania House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64192,
+        "medianAge": 46.8,
+        "totalPopulation": 63025,
+        "collegePct": 24.46,
+        "renterRatePct": 21.99,
+        "race": {
+          "whitePct": 95.44,
+          "nonHispanicWhitePct": 95.08,
+          "blackPct": 0.56,
+          "asianPct": 0.51,
+          "hispanicPct": 1.69
+        }
+      },
+      "election": {
+        "winner": "MIKE ARMANINI",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "Pennsylvania House District 76",
+      "census": {
+        "censusName": "State House District 76 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60286,
+        "medianAge": 40,
+        "totalPopulation": 62470,
+        "collegePct": 23.05,
+        "renterRatePct": 31.74,
+        "race": {
+          "whitePct": 93.35,
+          "nonHispanicWhitePct": 92.11,
+          "blackPct": 1.92,
+          "asianPct": 1.16,
+          "hispanicPct": 2.82
+        }
+      },
+      "election": {
+        "winner": "DENISE MARIS",
+        "party": "DEM",
+        "pct": 30.65,
+        "unopposed": false
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "Pennsylvania House District 77",
+      "census": {
+        "censusName": "State House District 77 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68468,
+        "medianAge": 32.7,
+        "totalPopulation": 62382,
+        "collegePct": 59.5,
+        "renterRatePct": 48.8,
+        "race": {
+          "whitePct": 80.74,
+          "nonHispanicWhitePct": 79.79,
+          "blackPct": 2.71,
+          "asianPct": 9.78,
+          "hispanicPct": 3.23
+        }
+      },
+      "election": {
+        "winner": "H SCOTT CONKLIN",
+        "party": "DEM",
+        "pct": 61.36,
+        "unopposed": false
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "Pennsylvania House District 78",
+      "census": {
+        "censusName": "State House District 78 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61684,
+        "medianAge": 47.2,
+        "totalPopulation": 62048,
+        "collegePct": 16.53,
+        "renterRatePct": 22.01,
+        "race": {
+          "whitePct": 95.6,
+          "nonHispanicWhitePct": 95.36,
+          "blackPct": 0.92,
+          "asianPct": 0.44,
+          "hispanicPct": 1.21
+        }
+      },
+      "election": {
+        "winner": "JESSE TOPPER",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "Pennsylvania House District 79",
+      "census": {
+        "censusName": "State House District 79 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53973,
+        "medianAge": 41.7,
+        "totalPopulation": 62531,
+        "collegePct": 22.15,
+        "renterRatePct": 31.42,
+        "race": {
+          "whitePct": 90.86,
+          "nonHispanicWhitePct": 90.19,
+          "blackPct": 3.15,
+          "asianPct": 0.58,
+          "hispanicPct": 1.62
+        }
+      },
+      "election": {
+        "winner": "LOU SCHMITT",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "Pennsylvania House District 80",
+      "census": {
+        "censusName": "State House District 80 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71580,
+        "medianAge": 44.5,
+        "totalPopulation": 61417,
+        "collegePct": 26.44,
+        "renterRatePct": 23.16,
+        "race": {
+          "whitePct": 95.84,
+          "nonHispanicWhitePct": 95.13,
+          "blackPct": 0.35,
+          "asianPct": 0.58,
+          "hispanicPct": 1.29
+        }
+      },
+      "election": {
+        "winner": "SCOTT BARGER",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "Pennsylvania House District 81",
+      "census": {
+        "censusName": "State House District 81 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69533,
+        "medianAge": 43.3,
+        "totalPopulation": 66158,
+        "collegePct": 17.31,
+        "renterRatePct": 19.56,
+        "race": {
+          "whitePct": 92.43,
+          "nonHispanicWhitePct": 91.44,
+          "blackPct": 3.37,
+          "asianPct": 0.47,
+          "hispanicPct": 1.94
+        }
+      },
+      "election": {
+        "winner": "RICH IRVN",
+        "party": "REP",
+        "pct": 79.37,
+        "unopposed": false
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "Pennsylvania House District 82",
+      "census": {
+        "censusName": "State House District 82 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79809,
+        "medianAge": 30,
+        "totalPopulation": 64229,
+        "collegePct": 42.63,
+        "renterRatePct": 30.53,
+        "race": {
+          "whitePct": 84.68,
+          "nonHispanicWhitePct": 82.43,
+          "blackPct": 4.96,
+          "asianPct": 4.77,
+          "hispanicPct": 4.68
+        }
+      },
+      "election": {
+        "winner": "PAUL TAKAC",
+        "party": "DEM",
+        "pct": 53.8,
+        "unopposed": false
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "Pennsylvania House District 83",
+      "census": {
+        "censusName": "State House District 83 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58456,
+        "medianAge": 38.7,
+        "totalPopulation": 64729,
+        "collegePct": 24.17,
+        "renterRatePct": 38.82,
+        "race": {
+          "whitePct": 82.63,
+          "nonHispanicWhitePct": 81.07,
+          "blackPct": 9.96,
+          "asianPct": 1.1,
+          "hispanicPct": 3.54
+        }
+      },
+      "election": {
+        "winner": "JAMIE FLICK",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "Pennsylvania House District 84",
+      "census": {
+        "censusName": "State House District 84 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70479,
+        "medianAge": 46.2,
+        "totalPopulation": 63547,
+        "collegePct": 22.66,
+        "renterRatePct": 20.35,
+        "race": {
+          "whitePct": 94.77,
+          "nonHispanicWhitePct": 94.28,
+          "blackPct": 0.68,
+          "asianPct": 0.54,
+          "hispanicPct": 1.87
+        }
+      },
+      "election": {
+        "winner": "JOE HAMM",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "Pennsylvania House District 85",
+      "census": {
+        "censusName": "State House District 85 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70206,
+        "medianAge": 41.9,
+        "totalPopulation": 65684,
+        "collegePct": 22.2,
+        "renterRatePct": 23.12,
+        "race": {
+          "whitePct": 94.96,
+          "nonHispanicWhitePct": 94.45,
+          "blackPct": 0.95,
+          "asianPct": 0.73,
+          "hispanicPct": 2.02
+        }
+      },
+      "election": {
+        "winner": "DAVID H ROWE",
+        "party": "REP",
+        "pct": 71.83,
+        "unopposed": false
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "Pennsylvania House District 86",
+      "census": {
+        "censusName": "State House District 86 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73889,
+        "medianAge": 43.7,
+        "totalPopulation": 64314,
+        "collegePct": 17.83,
+        "renterRatePct": 21.3,
+        "race": {
+          "whitePct": 93.8,
+          "nonHispanicWhitePct": 93.14,
+          "blackPct": 0.86,
+          "asianPct": 0.34,
+          "hispanicPct": 3.05
+        }
+      },
+      "election": {
+        "winner": "PERRY A STAMBAUGH",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "Pennsylvania House District 87",
+      "census": {
+        "censusName": "State House District 87 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105509,
+        "medianAge": 41.9,
+        "totalPopulation": 67984,
+        "collegePct": 46.88,
+        "renterRatePct": 21.02,
+        "race": {
+          "whitePct": 82.83,
+          "nonHispanicWhitePct": 81.87,
+          "blackPct": 3.63,
+          "asianPct": 7.34,
+          "hispanicPct": 4.11
+        }
+      },
+      "election": {
+        "winner": "THOMAS KUTZ",
+        "party": "REP",
+        "pct": 61.69,
+        "unopposed": false
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "Pennsylvania House District 88",
+      "census": {
+        "censusName": "State House District 88 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89608,
+        "medianAge": 39.8,
+        "totalPopulation": 68151,
+        "collegePct": 43.58,
+        "renterRatePct": 29.11,
+        "race": {
+          "whitePct": 78.69,
+          "nonHispanicWhitePct": 76.71,
+          "blackPct": 5,
+          "asianPct": 7.85,
+          "hispanicPct": 6.72
+        }
+      },
+      "election": {
+        "winner": "SHERYL DELOZIER",
+        "party": "REP",
+        "pct": 55.15,
+        "unopposed": false
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "Pennsylvania House District 89",
+      "census": {
+        "censusName": "State House District 89 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72461,
+        "medianAge": 43.1,
+        "totalPopulation": 66656,
+        "collegePct": 28.44,
+        "renterRatePct": 32.89,
+        "race": {
+          "whitePct": 81.37,
+          "nonHispanicWhitePct": 77.65,
+          "blackPct": 4.7,
+          "asianPct": 1.39,
+          "hispanicPct": 12.29
+        }
+      },
+      "election": {
+        "winner": "ROB KAUFFMAN",
+        "party": "REP",
+        "pct": 71.01,
+        "unopposed": false
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "Pennsylvania House District 90",
+      "census": {
+        "censusName": "State House District 90 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77199,
+        "medianAge": 41.2,
+        "totalPopulation": 65562,
+        "collegePct": 21.66,
+        "renterRatePct": 24.11,
+        "race": {
+          "whitePct": 91.04,
+          "nonHispanicWhitePct": 88.63,
+          "blackPct": 2.78,
+          "asianPct": 0.73,
+          "hispanicPct": 3.96
+        }
+      },
+      "election": {
+        "winner": "CHAD GERALD REICHARD",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "Pennsylvania House District 91",
+      "census": {
+        "censusName": "State House District 91 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81657,
+        "medianAge": 43,
+        "totalPopulation": 66896,
+        "collegePct": 26.87,
+        "renterRatePct": 21.65,
+        "race": {
+          "whitePct": 89.98,
+          "nonHispanicWhitePct": 87.79,
+          "blackPct": 2.27,
+          "asianPct": 1.22,
+          "hispanicPct": 6.3
+        }
+      },
+      "election": {
+        "winner": "DAN MOUL",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "Pennsylvania House District 92",
+      "census": {
+        "censusName": "State House District 92 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92252,
+        "medianAge": 43.3,
+        "totalPopulation": 68154,
+        "collegePct": 28.42,
+        "renterRatePct": 12.33,
+        "race": {
+          "whitePct": 91.25,
+          "nonHispanicWhitePct": 89.53,
+          "blackPct": 1.81,
+          "asianPct": 0.74,
+          "hispanicPct": 4.3
+        }
+      },
+      "election": {
+        "winner": "MARC ANDERSON",
+        "party": "REP",
+        "pct": 70.47,
+        "unopposed": false
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "Pennsylvania House District 93",
+      "census": {
+        "censusName": "State House District 93 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89746,
+        "medianAge": 42.6,
+        "totalPopulation": 65616,
+        "collegePct": 32.8,
+        "renterRatePct": 25.59,
+        "race": {
+          "whitePct": 86.87,
+          "nonHispanicWhitePct": 84.91,
+          "blackPct": 4.51,
+          "asianPct": 1.53,
+          "hispanicPct": 4.2
+        }
+      },
+      "election": {
+        "winner": "MIKE JONES",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "Pennsylvania House District 94",
+      "census": {
+        "censusName": "State House District 94 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84138,
+        "medianAge": 39.9,
+        "totalPopulation": 63174,
+        "collegePct": 26.93,
+        "renterRatePct": 21.03,
+        "race": {
+          "whitePct": 87.71,
+          "nonHispanicWhitePct": 85.71,
+          "blackPct": 3.01,
+          "asianPct": 1.64,
+          "hispanicPct": 6.29
+        }
+      },
+      "election": {
+        "winner": "WENDY FINK",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "Pennsylvania House District 95",
+      "census": {
+        "censusName": "State House District 95 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54763,
+        "medianAge": 34,
+        "totalPopulation": 66082,
+        "collegePct": 21.99,
+        "renterRatePct": 48.84,
+        "race": {
+          "whitePct": 55.39,
+          "nonHispanicWhitePct": 46.63,
+          "blackPct": 20.09,
+          "asianPct": 1.58,
+          "hispanicPct": 29.19
+        }
+      },
+      "election": {
+        "winner": "CAROL HILL-EVANS",
+        "party": "DEM",
+        "pct": 59.14,
+        "unopposed": false
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "Pennsylvania House District 96",
+      "census": {
+        "censusName": "State House District 96 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82400,
+        "medianAge": 38.2,
+        "totalPopulation": 63920,
+        "collegePct": 46.41,
+        "renterRatePct": 38.77,
+        "race": {
+          "whitePct": 75.7,
+          "nonHispanicWhitePct": 70.21,
+          "blackPct": 5.61,
+          "asianPct": 5.03,
+          "hispanicPct": 16.58
+        }
+      },
+      "election": {
+        "winner": "NIKKI RIVERA",
+        "party": "DEM",
+        "pct": 60.35,
+        "unopposed": false
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "Pennsylvania House District 97",
+      "census": {
+        "censusName": "State House District 97 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96692,
+        "medianAge": 43.1,
+        "totalPopulation": 64737,
+        "collegePct": 38.49,
+        "renterRatePct": 30.78,
+        "race": {
+          "whitePct": 83.15,
+          "nonHispanicWhitePct": 80.95,
+          "blackPct": 4.8,
+          "asianPct": 2.87,
+          "hispanicPct": 8.77
+        }
+      },
+      "election": {
+        "winner": "STEVE MENTZER",
+        "party": "REP",
+        "pct": 61.81,
+        "unopposed": false
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "Pennsylvania House District 98",
+      "census": {
+        "censusName": "State House District 98 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84634,
+        "medianAge": 40.1,
+        "totalPopulation": 67148,
+        "collegePct": 32.71,
+        "renterRatePct": 30.38,
+        "race": {
+          "whitePct": 88.62,
+          "nonHispanicWhitePct": 87.06,
+          "blackPct": 2.14,
+          "asianPct": 1.62,
+          "hispanicPct": 6.4
+        }
+      },
+      "election": {
+        "winner": "TOM JONES",
+        "party": "REP",
+        "pct": 64.41,
+        "unopposed": false
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "Pennsylvania House District 99",
+      "census": {
+        "censusName": "State House District 99 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96392,
+        "medianAge": 39,
+        "totalPopulation": 63800,
+        "collegePct": 22.5,
+        "renterRatePct": 17.67,
+        "race": {
+          "whitePct": 92.71,
+          "nonHispanicWhitePct": 91.29,
+          "blackPct": 1.34,
+          "asianPct": 1.18,
+          "hispanicPct": 4.03
+        }
+      },
+      "election": {
+        "winner": "DAVE ZIMMERMAN",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "Pennsylvania House District 100",
+      "census": {
+        "censusName": "State House District 100 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82565,
+        "medianAge": 34.8,
+        "totalPopulation": 63957,
+        "collegePct": 18.38,
+        "renterRatePct": 21.39,
+        "race": {
+          "whitePct": 92.96,
+          "nonHispanicWhitePct": 91.97,
+          "blackPct": 0.83,
+          "asianPct": 0.59,
+          "hispanicPct": 4.25
+        }
+      },
+      "election": {
+        "winner": "BRYAN D CUTLER",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "101": {
+      "districtNumber": 101,
+      "districtName": "Pennsylvania House District 101",
+      "census": {
+        "censusName": "State House District 101 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68039,
+        "medianAge": 42,
+        "totalPopulation": 65535,
+        "collegePct": 21.88,
+        "renterRatePct": 33.57,
+        "race": {
+          "whitePct": 71.95,
+          "nonHispanicWhitePct": 67.44,
+          "blackPct": 2.8,
+          "asianPct": 1.31,
+          "hispanicPct": 25.98
+        }
+      },
+      "election": {
+        "winner": "JOHN SCHLEGEL",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "102": {
+      "districtNumber": 102,
+      "districtName": "Pennsylvania House District 102",
+      "census": {
+        "censusName": "State House District 102 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80625,
+        "medianAge": 41.6,
+        "totalPopulation": 65658,
+        "collegePct": 22.95,
+        "renterRatePct": 25.07,
+        "race": {
+          "whitePct": 90.97,
+          "nonHispanicWhitePct": 89.74,
+          "blackPct": 1.34,
+          "asianPct": 1.23,
+          "hispanicPct": 5.45
+        }
+      },
+      "election": {
+        "winner": "RUSS DIAMOND",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "103": {
+      "districtNumber": 103,
+      "districtName": "Pennsylvania House District 103",
+      "census": {
+        "censusName": "State House District 103 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70207,
+        "medianAge": 36.7,
+        "totalPopulation": 64075,
+        "collegePct": 39.29,
+        "renterRatePct": 47.36,
+        "race": {
+          "whitePct": 64,
+          "nonHispanicWhitePct": 60.31,
+          "blackPct": 20.38,
+          "asianPct": 3.72,
+          "hispanicPct": 11.42
+        }
+      },
+      "election": {
+        "winner": "NATE DAVIDSON",
+        "party": "DEM",
+        "pct": 60.56,
+        "unopposed": false
+      }
+    },
+    "104": {
+      "districtNumber": 104,
+      "districtName": "Pennsylvania House District 104",
+      "census": {
+        "censusName": "State House District 104 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61413,
+        "medianAge": 35.4,
+        "totalPopulation": 64561,
+        "collegePct": 21.58,
+        "renterRatePct": 45.6,
+        "race": {
+          "whitePct": 43.6,
+          "nonHispanicWhitePct": 39.23,
+          "blackPct": 30.43,
+          "asianPct": 7.33,
+          "hispanicPct": 20.05
+        }
+      },
+      "election": {
+        "winner": "BRYAN D CUTLER",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "105": {
+      "districtNumber": 105,
+      "districtName": "Pennsylvania House District 105",
+      "census": {
+        "censusName": "State House District 105 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80979,
+        "medianAge": 39.1,
+        "totalPopulation": 64252,
+        "collegePct": 37.5,
+        "renterRatePct": 38.07,
+        "race": {
+          "whitePct": 54.99,
+          "nonHispanicWhitePct": 52.58,
+          "blackPct": 23.99,
+          "asianPct": 10.85,
+          "hispanicPct": 9.56
+        }
+      },
+      "election": {
+        "winner": "JUSTIN C FLEMING",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "106": {
+      "districtNumber": 106,
+      "districtName": "Pennsylvania House District 106",
+      "census": {
+        "censusName": "State House District 106 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83949,
+        "medianAge": 41.3,
+        "totalPopulation": 67353,
+        "collegePct": 43.56,
+        "renterRatePct": 31.66,
+        "race": {
+          "whitePct": 82.3,
+          "nonHispanicWhitePct": 79.57,
+          "blackPct": 2.59,
+          "asianPct": 5.44,
+          "hispanicPct": 8.77
+        }
+      },
+      "election": {
+        "winner": "TOM MEHAFFIE",
+        "party": "REP",
+        "pct": 63.02,
+        "unopposed": false
+      }
+    },
+    "107": {
+      "districtNumber": 107,
+      "districtName": "Pennsylvania House District 107",
+      "census": {
+        "censusName": "State House District 107 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62392,
+        "medianAge": 44.7,
+        "totalPopulation": 67375,
+        "collegePct": 18.27,
+        "renterRatePct": 19.6,
+        "race": {
+          "whitePct": 92.43,
+          "nonHispanicWhitePct": 91.7,
+          "blackPct": 2.7,
+          "asianPct": 0.38,
+          "hispanicPct": 3.26
+        }
+      },
+      "election": {
+        "winner": "JOANNE STEHR",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "108": {
+      "districtNumber": 108,
+      "districtName": "Pennsylvania House District 108",
+      "census": {
+        "censusName": "State House District 108 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63136,
+        "medianAge": 43.6,
+        "totalPopulation": 64350,
+        "collegePct": 24.6,
+        "renterRatePct": 30.96,
+        "race": {
+          "whitePct": 91.63,
+          "nonHispanicWhitePct": 89.68,
+          "blackPct": 1.77,
+          "asianPct": 1.28,
+          "hispanicPct": 4.85
+        }
+      },
+      "election": {
+        "winner": "MICHAEL STENDER",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "109": {
+      "districtNumber": 109,
+      "districtName": "Pennsylvania House District 109",
+      "census": {
+        "censusName": "State House District 109 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61992,
+        "medianAge": 41.4,
+        "totalPopulation": 65055,
+        "collegePct": 24.88,
+        "renterRatePct": 29.57,
+        "race": {
+          "whitePct": 92.38,
+          "nonHispanicWhitePct": 91.04,
+          "blackPct": 1.93,
+          "asianPct": 1.02,
+          "hispanicPct": 3.68
+        }
+      },
+      "election": {
+        "winner": "ROBERT LEADBETER",
+        "party": "REP",
+        "pct": 67.2,
+        "unopposed": false
+      }
+    },
+    "110": {
+      "districtNumber": 110,
+      "districtName": "Pennsylvania House District 110",
+      "census": {
+        "censusName": "State House District 110 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67130,
+        "medianAge": 44.6,
+        "totalPopulation": 62996,
+        "collegePct": 23.03,
+        "renterRatePct": 26.83,
+        "race": {
+          "whitePct": 94.62,
+          "nonHispanicWhitePct": 93.84,
+          "blackPct": 0.96,
+          "asianPct": 0.53,
+          "hispanicPct": 2.03
+        }
+      },
+      "election": {
+        "winner": "TINA PICKETT",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "111": {
+      "districtNumber": 111,
+      "districtName": "Pennsylvania House District 111",
+      "census": {
+        "censusName": "State House District 111 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63908,
+        "medianAge": 48.1,
+        "totalPopulation": 66198,
+        "collegePct": 20.27,
+        "renterRatePct": 20.78,
+        "race": {
+          "whitePct": 92.92,
+          "nonHispanicWhitePct": 91.18,
+          "blackPct": 2.37,
+          "asianPct": 0.51,
+          "hispanicPct": 3.88
+        }
+      },
+      "election": {
+        "winner": "JONATHAN FRITZ",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "112": {
+      "districtNumber": 112,
+      "districtName": "Pennsylvania House District 112",
+      "census": {
+        "censusName": "State House District 112 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64363,
+        "medianAge": 43,
+        "totalPopulation": 62714,
+        "collegePct": 28.59,
+        "renterRatePct": 32.69,
+        "race": {
+          "whitePct": 90.74,
+          "nonHispanicWhitePct": 88.64,
+          "blackPct": 1.07,
+          "asianPct": 1.69,
+          "hispanicPct": 5.44
+        }
+      },
+      "election": {
+        "winner": "KYLE J MULLINS",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "113": {
+      "districtNumber": 113,
+      "districtName": "Pennsylvania House District 113",
+      "census": {
+        "censusName": "State House District 113 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55847,
+        "medianAge": 38.8,
+        "totalPopulation": 60910,
+        "collegePct": 26.02,
+        "renterRatePct": 43.47,
+        "race": {
+          "whitePct": 72,
+          "nonHispanicWhitePct": 69.38,
+          "blackPct": 5.63,
+          "asianPct": 5.12,
+          "hispanicPct": 14.68
+        }
+      },
+      "election": {
+        "winner": "KYLE T DONAHUE",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "114": {
+      "districtNumber": 114,
+      "districtName": "Pennsylvania House District 114",
+      "census": {
+        "censusName": "State House District 114 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69857,
+        "medianAge": 42.8,
+        "totalPopulation": 63784,
+        "collegePct": 34.83,
+        "renterRatePct": 31.26,
+        "race": {
+          "whitePct": 86.38,
+          "nonHispanicWhitePct": 83.53,
+          "blackPct": 3.11,
+          "asianPct": 2.54,
+          "hispanicPct": 8.13
+        }
+      },
+      "election": {
+        "winner": "BRIDGET MALLOY KOSIEROWSKI",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "115": {
+      "districtNumber": 115,
+      "districtName": "Pennsylvania House District 115",
+      "census": {
+        "censusName": "State House District 115 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82365,
+        "medianAge": 43.4,
+        "totalPopulation": 61904,
+        "collegePct": 26.95,
+        "renterRatePct": 19.79,
+        "race": {
+          "whitePct": 59.56,
+          "nonHispanicWhitePct": 53.26,
+          "blackPct": 16.9,
+          "asianPct": 3.44,
+          "hispanicPct": 21.41
+        }
+      },
+      "election": {
+        "winner": "MAUREEN E MADDEN",
+        "party": "DEM",
+        "pct": 53.45,
+        "unopposed": false
+      }
+    },
+    "116": {
+      "districtNumber": 116,
+      "districtName": "Pennsylvania House District 116",
+      "census": {
+        "censusName": "State House District 116 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48664,
+        "medianAge": 40,
+        "totalPopulation": 65152,
+        "collegePct": 13.03,
+        "renterRatePct": 38.46,
+        "race": {
+          "whitePct": 58.66,
+          "nonHispanicWhitePct": 51.77,
+          "blackPct": 5.85,
+          "asianPct": 0.4,
+          "hispanicPct": 42.44
+        }
+      },
+      "election": {
+        "winner": "DANE WATRO",
+        "party": "REP",
+        "pct": 72.46,
+        "unopposed": false
+      }
+    },
+    "117": {
+      "districtNumber": 117,
+      "districtName": "Pennsylvania House District 117",
+      "census": {
+        "censusName": "State House District 117 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76579,
+        "medianAge": 47.7,
+        "totalPopulation": 61704,
+        "collegePct": 27.59,
+        "renterRatePct": 15.95,
+        "race": {
+          "whitePct": 92.45,
+          "nonHispanicWhitePct": 91.25,
+          "blackPct": 0.93,
+          "asianPct": 0.75,
+          "hispanicPct": 4.43
+        }
+      },
+      "election": {
+        "winner": "JAMIE WALSH",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "118": {
+      "districtNumber": 118,
+      "districtName": "Pennsylvania House District 118",
+      "census": {
+        "censusName": "State House District 118 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67364,
+        "medianAge": 42.2,
+        "totalPopulation": 62010,
+        "collegePct": 28.23,
+        "renterRatePct": 32.75,
+        "race": {
+          "whitePct": 86.69,
+          "nonHispanicWhitePct": 85.65,
+          "blackPct": 2.55,
+          "asianPct": 1.37,
+          "hispanicPct": 7.15
+        }
+      },
+      "election": {
+        "winner": "MCKAYLA KATHO",
+        "party": "REP",
+        "pct": 43.76,
+        "unopposed": false
+      }
+    },
+    "119": {
+      "districtNumber": 119,
+      "districtName": "Pennsylvania House District 119",
+      "census": {
+        "censusName": "State House District 119 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63037,
+        "medianAge": 41,
+        "totalPopulation": 61231,
+        "collegePct": 24.74,
+        "renterRatePct": 32.23,
+        "race": {
+          "whitePct": 81.69,
+          "nonHispanicWhitePct": 80.22,
+          "blackPct": 5.21,
+          "asianPct": 1.69,
+          "hispanicPct": 10.36
+        }
+      },
+      "election": {
+        "winner": "ALEC J RYNCAVAGE",
+        "party": "REP",
+        "pct": 62.93,
+        "unopposed": false
+      }
+    },
+    "120": {
+      "districtNumber": 120,
+      "districtName": "Pennsylvania House District 120",
+      "census": {
+        "censusName": "State House District 120 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68729,
+        "medianAge": 43.9,
+        "totalPopulation": 63078,
+        "collegePct": 32.28,
+        "renterRatePct": 27.59,
+        "race": {
+          "whitePct": 89.46,
+          "nonHispanicWhitePct": 88.08,
+          "blackPct": 4.9,
+          "asianPct": 0.8,
+          "hispanicPct": 4.37
+        }
+      },
+      "election": {
+        "winner": "BRENDA PUGH",
+        "party": "REP",
+        "pct": 57.64,
+        "unopposed": false
+      }
+    },
+    "121": {
+      "districtNumber": 121,
+      "districtName": "Pennsylvania House District 121",
+      "census": {
+        "censusName": "State House District 121 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54291,
+        "medianAge": 38.2,
+        "totalPopulation": 61155,
+        "collegePct": 22.51,
+        "renterRatePct": 44.29,
+        "race": {
+          "whitePct": 63.58,
+          "nonHispanicWhitePct": 60.71,
+          "blackPct": 11.18,
+          "asianPct": 1.85,
+          "hispanicPct": 23.84
+        }
+      },
+      "election": {
+        "winner": "EDDIE DAY PASHINSKI",
+        "party": "DEM",
+        "pct": 55.28,
+        "unopposed": false
+      }
+    },
+    "122": {
+      "districtNumber": 122,
+      "districtName": "Pennsylvania House District 122",
+      "census": {
+        "censusName": "State House District 122 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67877,
+        "medianAge": 46.3,
+        "totalPopulation": 65191,
+        "collegePct": 18.34,
+        "renterRatePct": 22.76,
+        "race": {
+          "whitePct": 90,
+          "nonHispanicWhitePct": 88.76,
+          "blackPct": 2.33,
+          "asianPct": 0.51,
+          "hispanicPct": 6.37
+        }
+      },
+      "election": {
+        "winner": "DOYLE HEFFLEY",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "123": {
+      "districtNumber": 123,
+      "districtName": "Pennsylvania House District 123",
+      "census": {
+        "censusName": "State House District 123 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64242,
+        "medianAge": 44.5,
+        "totalPopulation": 65373,
+        "collegePct": 19.11,
+        "renterRatePct": 26.35,
+        "race": {
+          "whitePct": 91.17,
+          "nonHispanicWhitePct": 89.62,
+          "blackPct": 2.78,
+          "asianPct": 0.61,
+          "hispanicPct": 4.9
+        }
+      },
+      "election": {
+        "winner": "TIM TWARDZIK",
+        "party": "REP",
+        "pct": 72.9,
+        "unopposed": false
+      }
+    },
+    "124": {
+      "districtNumber": 124,
+      "districtName": "Pennsylvania House District 124",
+      "census": {
+        "censusName": "State House District 124 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75322,
+        "medianAge": 42,
+        "totalPopulation": 66461,
+        "collegePct": 24.86,
+        "renterRatePct": 22.4,
+        "race": {
+          "whitePct": 89.67,
+          "nonHispanicWhitePct": 87.77,
+          "blackPct": 2.92,
+          "asianPct": 0.55,
+          "hispanicPct": 5.87
+        }
+      },
+      "election": {
+        "winner": "JAMIE BARTON",
+        "party": "REP",
+        "pct": 71.71,
+        "unopposed": false
+      }
+    },
+    "125": {
+      "districtNumber": 125,
+      "districtName": "Pennsylvania House District 125",
+      "census": {
+        "censusName": "State House District 125 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85912,
+        "medianAge": 45.1,
+        "totalPopulation": 64169,
+        "collegePct": 33.43,
+        "renterRatePct": 18.97,
+        "race": {
+          "whitePct": 88.64,
+          "nonHispanicWhitePct": 86.8,
+          "blackPct": 3.97,
+          "asianPct": 2.44,
+          "hispanicPct": 3.17
+        }
+      },
+      "election": {
+        "winner": "JOE KERWIN",
+        "party": "REP",
+        "pct": 68.45,
+        "unopposed": false
+      }
+    },
+    "126": {
+      "districtNumber": 126,
+      "districtName": "Pennsylvania House District 126",
+      "census": {
+        "censusName": "State House District 126 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72845,
+        "medianAge": 36.9,
+        "totalPopulation": 64037,
+        "collegePct": 21.27,
+        "renterRatePct": 26.95,
+        "race": {
+          "whitePct": 55.69,
+          "nonHispanicWhitePct": 47.61,
+          "blackPct": 6.78,
+          "asianPct": 1.23,
+          "hispanicPct": 42.97
+        }
+      },
+      "election": {
+        "winner": "JACKLYN RUSNOCK",
+        "party": "DEM",
+        "pct": 55.89,
+        "unopposed": false
+      }
+    },
+    "127": {
+      "districtNumber": 127,
+      "districtName": "Pennsylvania House District 127",
+      "census": {
+        "censusName": "State House District 127 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52503,
+        "medianAge": 34.1,
+        "totalPopulation": 60225,
+        "collegePct": 14.68,
+        "renterRatePct": 60.02,
+        "race": {
+          "whitePct": 40.21,
+          "nonHispanicWhitePct": 32.18,
+          "blackPct": 9.75,
+          "asianPct": 0.45,
+          "hispanicPct": 56.79
+        }
+      },
+      "election": {
+        "winner": "MANNY GUZMAN",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "128": {
+      "districtNumber": 128,
+      "districtName": "Pennsylvania House District 128",
+      "census": {
+        "censusName": "State House District 128 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100544,
+        "medianAge": 43,
+        "totalPopulation": 64089,
+        "collegePct": 36.19,
+        "renterRatePct": 16.8,
+        "race": {
+          "whitePct": 87.72,
+          "nonHispanicWhitePct": 85.2,
+          "blackPct": 2.84,
+          "asianPct": 1.76,
+          "hispanicPct": 6.8
+        }
+      },
+      "election": {
+        "winner": "MARK M GILLEN",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "129": {
+      "districtNumber": 129,
+      "districtName": "Pennsylvania House District 129",
+      "census": {
+        "censusName": "State House District 129 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64488,
+        "medianAge": 36.3,
+        "totalPopulation": 64308,
+        "collegePct": 31.46,
+        "renterRatePct": 43.09,
+        "race": {
+          "whitePct": 54.61,
+          "nonHispanicWhitePct": 48.63,
+          "blackPct": 6.89,
+          "asianPct": 2.93,
+          "hispanicPct": 39.3
+        }
+      },
+      "election": {
+        "winner": "JOHNNY CEPEDA FREYTIZ",
+        "party": "DEM",
+        "pct": 56.33,
+        "unopposed": false
+      }
+    },
+    "130": {
+      "districtNumber": 130,
+      "districtName": "Pennsylvania House District 130",
+      "census": {
+        "censusName": "State House District 130 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90274,
+        "medianAge": 45.4,
+        "totalPopulation": 65370,
+        "collegePct": 24.99,
+        "renterRatePct": 18.97,
+        "race": {
+          "whitePct": 91.93,
+          "nonHispanicWhitePct": 89.79,
+          "blackPct": 1.02,
+          "asianPct": 0.91,
+          "hispanicPct": 6.65
+        }
+      },
+      "election": {
+        "winner": "DAVID M MALONEY",
+        "party": "REP",
+        "pct": 65.6,
+        "unopposed": false
+      }
+    },
+    "131": {
+      "districtNumber": 131,
+      "districtName": "Pennsylvania House District 131",
+      "census": {
+        "censusName": "State House District 131 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 110305,
+        "medianAge": 44.5,
+        "totalPopulation": 65832,
+        "collegePct": 41.22,
+        "renterRatePct": 14.58,
+        "race": {
+          "whitePct": 90.32,
+          "nonHispanicWhitePct": 88.31,
+          "blackPct": 1.31,
+          "asianPct": 2.26,
+          "hispanicPct": 4.89
+        }
+      },
+      "election": {
+        "winner": "MERIAM SABIH",
+        "party": "DEM",
+        "pct": 42.77,
+        "unopposed": false
+      }
+    },
+    "132": {
+      "districtNumber": 132,
+      "districtName": "Pennsylvania House District 132",
+      "census": {
+        "censusName": "State House District 132 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92333,
+        "medianAge": 40.5,
+        "totalPopulation": 65235,
+        "collegePct": 45.3,
+        "renterRatePct": 32.19,
+        "race": {
+          "whitePct": 69.18,
+          "nonHispanicWhitePct": 65.51,
+          "blackPct": 6.58,
+          "asianPct": 9.22,
+          "hispanicPct": 16.43
+        }
+      },
+      "election": {
+        "winner": "MIKE SCHLOSSBERG",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "133": {
+      "districtNumber": 133,
+      "districtName": "Pennsylvania House District 133",
+      "census": {
+        "censusName": "State House District 133 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69290,
+        "medianAge": 40.1,
+        "totalPopulation": 65573,
+        "collegePct": 29.64,
+        "renterRatePct": 38.59,
+        "race": {
+          "whitePct": 70.74,
+          "nonHispanicWhitePct": 64.44,
+          "blackPct": 6.93,
+          "asianPct": 1.97,
+          "hispanicPct": 24.37
+        }
+      },
+      "election": {
+        "winner": "JEANNE M MCNEILL",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "134": {
+      "districtNumber": 134,
+      "districtName": "Pennsylvania House District 134",
+      "census": {
+        "censusName": "State House District 134 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61343,
+        "medianAge": 36.1,
+        "totalPopulation": 62880,
+        "collegePct": 23.15,
+        "renterRatePct": 50.46,
+        "race": {
+          "whitePct": 52,
+          "nonHispanicWhitePct": 42.72,
+          "blackPct": 10.29,
+          "asianPct": 1.79,
+          "hispanicPct": 42.95
+        }
+      },
+      "election": {
+        "winner": "PETER SCHWEYER",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "135": {
+      "districtNumber": 135,
+      "districtName": "Pennsylvania House District 135",
+      "census": {
+        "censusName": "State House District 135 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68829,
+        "medianAge": 36,
+        "totalPopulation": 66472,
+        "collegePct": 37,
+        "renterRatePct": 46.57,
+        "race": {
+          "whitePct": 62.29,
+          "nonHispanicWhitePct": 55.86,
+          "blackPct": 8.86,
+          "asianPct": 4.07,
+          "hispanicPct": 28.61
+        }
+      },
+      "election": {
+        "winner": "STEVE SAMUELSON",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "136": {
+      "districtNumber": 136,
+      "districtName": "Pennsylvania House District 136",
+      "census": {
+        "censusName": "State House District 136 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79592,
+        "medianAge": 38.3,
+        "totalPopulation": 63650,
+        "collegePct": 28.95,
+        "renterRatePct": 39.22,
+        "race": {
+          "whitePct": 65.8,
+          "nonHispanicWhitePct": 62.49,
+          "blackPct": 10.54,
+          "asianPct": 2.8,
+          "hispanicPct": 19.42
+        }
+      },
+      "election": {
+        "winner": "ROBERT FREEMAN",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "137": {
+      "districtNumber": 137,
+      "districtName": "Pennsylvania House District 137",
+      "census": {
+        "censusName": "State House District 137 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109311,
+        "medianAge": 44.7,
+        "totalPopulation": 66912,
+        "collegePct": 41.67,
+        "renterRatePct": 20.45,
+        "race": {
+          "whitePct": 79.95,
+          "nonHispanicWhitePct": 76.16,
+          "blackPct": 4.53,
+          "asianPct": 4.59,
+          "hispanicPct": 11.47
+        }
+      },
+      "election": {
+        "winner": "JOE EMRICK",
+        "party": "REP",
+        "pct": 51.66,
+        "unopposed": false
+      }
+    },
+    "138": {
+      "districtNumber": 138,
+      "districtName": "Pennsylvania House District 138",
+      "census": {
+        "censusName": "State House District 138 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88924,
+        "medianAge": 45.2,
+        "totalPopulation": 66785,
+        "collegePct": 31.02,
+        "renterRatePct": 19.06,
+        "race": {
+          "whitePct": 89,
+          "nonHispanicWhitePct": 86.55,
+          "blackPct": 2.92,
+          "asianPct": 2.35,
+          "hispanicPct": 6.01
+        }
+      },
+      "election": {
+        "winner": "ANN FLOOD",
+        "party": "REP",
+        "pct": 65.23,
+        "unopposed": false
+      }
+    },
+    "139": {
+      "districtNumber": 139,
+      "districtName": "Pennsylvania House District 139",
+      "census": {
+        "censusName": "State House District 139 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76675,
+        "medianAge": 50.7,
+        "totalPopulation": 64076,
+        "collegePct": 27.12,
+        "renterRatePct": 16.05,
+        "race": {
+          "whitePct": 88.04,
+          "nonHispanicWhitePct": 86.65,
+          "blackPct": 1.78,
+          "asianPct": 1.52,
+          "hispanicPct": 6.69
+        }
+      },
+      "election": {
+        "winner": "JEFF OLSOMMER",
+        "party": "REP",
+        "pct": 67.38,
+        "unopposed": false
+      }
+    },
+    "140": {
+      "districtNumber": 140,
+      "districtName": "Pennsylvania House District 140",
+      "census": {
+        "censusName": "State House District 140 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103036,
+        "medianAge": 39.5,
+        "totalPopulation": 62722,
+        "collegePct": 29.59,
+        "renterRatePct": 23.61,
+        "race": {
+          "whitePct": 81.65,
+          "nonHispanicWhitePct": 79.45,
+          "blackPct": 4.93,
+          "asianPct": 2.88,
+          "hispanicPct": 9.05
+        }
+      },
+      "election": {
+        "winner": "JIM PROKOPIAK",
+        "party": "DEM",
+        "pct": 54.04,
+        "unopposed": false
+      }
+    },
+    "141": {
+      "districtNumber": 141,
+      "districtName": "Pennsylvania House District 141",
+      "census": {
+        "censusName": "State House District 141 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76582,
+        "medianAge": 39.3,
+        "totalPopulation": 64027,
+        "collegePct": 22.3,
+        "renterRatePct": 29.36,
+        "race": {
+          "whitePct": 73.48,
+          "nonHispanicWhitePct": 69.8,
+          "blackPct": 9.81,
+          "asianPct": 2.68,
+          "hispanicPct": 11.64
+        }
+      },
+      "election": {
+        "winner": "TINA DAVIS",
+        "party": "DEM",
+        "pct": 64.88,
+        "unopposed": false
+      }
+    },
+    "142": {
+      "districtNumber": 142,
+      "districtName": "Pennsylvania House District 142",
+      "census": {
+        "censusName": "State House District 142 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104988,
+        "medianAge": 46.3,
+        "totalPopulation": 63343,
+        "collegePct": 42.92,
+        "renterRatePct": 25.26,
+        "race": {
+          "whitePct": 83.3,
+          "nonHispanicWhitePct": 82.02,
+          "blackPct": 4.16,
+          "asianPct": 4.77,
+          "hispanicPct": 3.69
+        }
+      },
+      "election": {
+        "winner": "JOE HOGAN",
+        "party": "REP",
+        "pct": 54.82,
+        "unopposed": false
+      }
+    },
+    "143": {
+      "districtNumber": 143,
+      "districtName": "Pennsylvania House District 143",
+      "census": {
+        "censusName": "State House District 143 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 123300,
+        "medianAge": 42.8,
+        "totalPopulation": 66032,
+        "collegePct": 46.97,
+        "renterRatePct": 18.1,
+        "race": {
+          "whitePct": 89.18,
+          "nonHispanicWhitePct": 87.89,
+          "blackPct": 1.52,
+          "asianPct": 2.27,
+          "hispanicPct": 5.26
+        }
+      },
+      "election": {
+        "winner": "SHELBY LABS",
+        "party": "REP",
+        "pct": 56.37,
+        "unopposed": false
+      }
+    },
+    "144": {
+      "districtNumber": 144,
+      "districtName": "Pennsylvania House District 144",
+      "census": {
+        "censusName": "State House District 144 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105038,
+        "medianAge": 45.7,
+        "totalPopulation": 65318,
+        "collegePct": 42.38,
+        "renterRatePct": 25.53,
+        "race": {
+          "whitePct": 82.55,
+          "nonHispanicWhitePct": 80.99,
+          "blackPct": 4.19,
+          "asianPct": 6.35,
+          "hispanicPct": 4.85
+        }
+      },
+      "election": {
+        "winner": "BRIAN MUNROE",
+        "party": "DEM",
+        "pct": 51.33,
+        "unopposed": false
+      }
+    },
+    "145": {
+      "districtNumber": 145,
+      "districtName": "Pennsylvania House District 145",
+      "census": {
+        "censusName": "State House District 145 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103966,
+        "medianAge": 47.6,
+        "totalPopulation": 62848,
+        "collegePct": 36.24,
+        "renterRatePct": 18.95,
+        "race": {
+          "whitePct": 88.56,
+          "nonHispanicWhitePct": 87.68,
+          "blackPct": 1.91,
+          "asianPct": 1.91,
+          "hispanicPct": 4.66
+        }
+      },
+      "election": {
+        "winner": "CRAIG STAATS",
+        "party": "REP",
+        "pct": 58.91,
+        "unopposed": false
+      }
+    },
+    "146": {
+      "districtNumber": 146,
+      "districtName": "Pennsylvania House District 146",
+      "census": {
+        "censusName": "State House District 146 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84616,
+        "medianAge": 39,
+        "totalPopulation": 65212,
+        "collegePct": 33.76,
+        "renterRatePct": 33.19,
+        "race": {
+          "whitePct": 76.01,
+          "nonHispanicWhitePct": 73.69,
+          "blackPct": 11.09,
+          "asianPct": 3.13,
+          "hispanicPct": 7.64
+        }
+      },
+      "election": {
+        "winner": "JOE CIRESI",
+        "party": "DEM",
+        "pct": 59.29,
+        "unopposed": false
+      }
+    },
+    "147": {
+      "districtNumber": 147,
+      "districtName": "Pennsylvania House District 147",
+      "census": {
+        "censusName": "State House District 147 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131297,
+        "medianAge": 43.1,
+        "totalPopulation": 66467,
+        "collegePct": 46.64,
+        "renterRatePct": 14.33,
+        "race": {
+          "whitePct": 87.83,
+          "nonHispanicWhitePct": 86.12,
+          "blackPct": 3.12,
+          "asianPct": 2.83,
+          "hispanicPct": 4.47
+        }
+      },
+      "election": {
+        "winner": "DONNA M SCHEUREN",
+        "party": "REP",
+        "pct": 58.56,
+        "unopposed": false
+      }
+    },
+    "148": {
+      "districtNumber": 148,
+      "districtName": "Pennsylvania House District 148",
+      "census": {
+        "censusName": "State House District 148 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 167320,
+        "medianAge": 42,
+        "totalPopulation": 63646,
+        "collegePct": 75.84,
+        "renterRatePct": 25.07,
+        "race": {
+          "whitePct": 79.17,
+          "nonHispanicWhitePct": 77.45,
+          "blackPct": 5.48,
+          "asianPct": 8.2,
+          "hispanicPct": 3.55
+        }
+      },
+      "election": {
+        "winner": "MARY JO DALEY",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "149": {
+      "districtNumber": 149,
+      "districtName": "Pennsylvania House District 149",
+      "census": {
+        "censusName": "State House District 149 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119960,
+        "medianAge": 37.9,
+        "totalPopulation": 65397,
+        "collegePct": 66.96,
+        "renterRatePct": 39.18,
+        "race": {
+          "whitePct": 72.37,
+          "nonHispanicWhitePct": 69.94,
+          "blackPct": 7.5,
+          "asianPct": 12.02,
+          "hispanicPct": 4.89
+        }
+      },
+      "election": {
+        "winner": "TIM BRIGGS",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "150": {
+      "districtNumber": 150,
+      "districtName": "Pennsylvania House District 150",
+      "census": {
+        "censusName": "State House District 150 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 125392,
+        "medianAge": 40.7,
+        "totalPopulation": 64605,
+        "collegePct": 54.47,
+        "renterRatePct": 23.62,
+        "race": {
+          "whitePct": 78.32,
+          "nonHispanicWhitePct": 76.1,
+          "blackPct": 4.85,
+          "asianPct": 11.46,
+          "hispanicPct": 4.38
+        }
+      },
+      "election": {
+        "winner": "JOE WEBSTER",
+        "party": "DEM",
+        "pct": 58.87,
+        "unopposed": false
+      }
+    },
+    "151": {
+      "districtNumber": 151,
+      "districtName": "Pennsylvania House District 151",
+      "census": {
+        "censusName": "State House District 151 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 125211,
+        "medianAge": 41.6,
+        "totalPopulation": 63013,
+        "collegePct": 58.48,
+        "renterRatePct": 23.04,
+        "race": {
+          "whitePct": 76.92,
+          "nonHispanicWhitePct": 74.02,
+          "blackPct": 5.07,
+          "asianPct": 11.71,
+          "hispanicPct": 5.6
+        }
+      },
+      "election": {
+        "winner": "MELISSA CERRATO",
+        "party": "DEM",
+        "pct": 61.44,
+        "unopposed": false
+      }
+    },
+    "152": {
+      "districtNumber": 152,
+      "districtName": "Pennsylvania House District 152",
+      "census": {
+        "censusName": "State House District 152 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104738,
+        "medianAge": 39.2,
+        "totalPopulation": 61176,
+        "collegePct": 44.56,
+        "renterRatePct": 30.73,
+        "race": {
+          "whitePct": 75.13,
+          "nonHispanicWhitePct": 73.58,
+          "blackPct": 8.81,
+          "asianPct": 5.9,
+          "hispanicPct": 6.13
+        }
+      },
+      "election": {
+        "winner": "NANCY GUENST",
+        "party": "DEM",
+        "pct": 61.17,
+        "unopposed": false
+      }
+    },
+    "153": {
+      "districtNumber": 153,
+      "districtName": "Pennsylvania House District 153",
+      "census": {
+        "censusName": "State House District 153 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111637,
+        "medianAge": 42.6,
+        "totalPopulation": 62495,
+        "collegePct": 53.46,
+        "renterRatePct": 22.02,
+        "race": {
+          "whitePct": 78.88,
+          "nonHispanicWhitePct": 77.22,
+          "blackPct": 7.25,
+          "asianPct": 5.27,
+          "hispanicPct": 5.81
+        }
+      },
+      "election": {
+        "winner": "BEN SANCHEZ",
+        "party": "DEM",
+        "pct": 65.72,
+        "unopposed": false
+      }
+    },
+    "154": {
+      "districtNumber": 154,
+      "districtName": "Pennsylvania House District 154",
+      "census": {
+        "censusName": "State House District 154 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113781,
+        "medianAge": 41.8,
+        "totalPopulation": 63643,
+        "collegePct": 60.09,
+        "renterRatePct": 30.55,
+        "race": {
+          "whitePct": 60.1,
+          "nonHispanicWhitePct": 58.52,
+          "blackPct": 26.91,
+          "asianPct": 5.97,
+          "hispanicPct": 4.77
+        }
+      },
+      "election": {
+        "winner": "NAPOLEON NELSON",
+        "party": "DEM",
+        "pct": 80.3,
+        "unopposed": false
+      }
+    },
+    "155": {
+      "districtNumber": 155,
+      "districtName": "Pennsylvania House District 155",
+      "census": {
+        "censusName": "State House District 155 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 133845,
+        "medianAge": 41.5,
+        "totalPopulation": 64933,
+        "collegePct": 61.47,
+        "renterRatePct": 21.39,
+        "race": {
+          "whitePct": 78.79,
+          "nonHispanicWhitePct": 77.64,
+          "blackPct": 4,
+          "asianPct": 9.91,
+          "hispanicPct": 4.68
+        }
+      },
+      "election": {
+        "winner": "DANIELLE FRIEL OTTEN",
+        "party": "DEM",
+        "pct": 57.32,
+        "unopposed": false
+      }
+    },
+    "156": {
+      "districtNumber": 156,
+      "districtName": "Pennsylvania House District 156",
+      "census": {
+        "censusName": "State House District 156 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109643,
+        "medianAge": 35.7,
+        "totalPopulation": 66988,
+        "collegePct": 62.81,
+        "renterRatePct": 36.94,
+        "race": {
+          "whitePct": 83.76,
+          "nonHispanicWhitePct": 81.66,
+          "blackPct": 6.01,
+          "asianPct": 3.24,
+          "hispanicPct": 5.93
+        }
+      },
+      "election": {
+        "winner": "CHRIS PIELLI",
+        "party": "DEM",
+        "pct": 58.66,
+        "unopposed": false
+      }
+    },
+    "157": {
+      "districtNumber": 157,
+      "districtName": "Pennsylvania House District 157",
+      "census": {
+        "censusName": "State House District 157 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 174098,
+        "medianAge": 44.2,
+        "totalPopulation": 62934,
+        "collegePct": 75.55,
+        "renterRatePct": 18.41,
+        "race": {
+          "whitePct": 77.22,
+          "nonHispanicWhitePct": 76.19,
+          "blackPct": 1.89,
+          "asianPct": 14.6,
+          "hispanicPct": 3.27
+        }
+      },
+      "election": {
+        "winner": "MELISSA SHUSTERMAN",
+        "party": "DEM",
+        "pct": 60.51,
+        "unopposed": false
+      }
+    },
+    "158": {
+      "districtNumber": 158,
+      "districtName": "Pennsylvania House District 158",
+      "census": {
+        "censusName": "State House District 158 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 139529,
+        "medianAge": 42.1,
+        "totalPopulation": 63958,
+        "collegePct": 55.03,
+        "renterRatePct": 16.69,
+        "race": {
+          "whitePct": 78.96,
+          "nonHispanicWhitePct": 76.3,
+          "blackPct": 3.15,
+          "asianPct": 3.31,
+          "hispanicPct": 12.82
+        }
+      },
+      "election": {
+        "winner": "CHRISTINA D SAPPEY",
+        "party": "DEM",
+        "pct": 57.98,
+        "unopposed": false
+      }
+    },
+    "159": {
+      "districtNumber": 159,
+      "districtName": "Pennsylvania House District 159",
+      "census": {
+        "censusName": "State House District 159 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56151,
+        "medianAge": 36.4,
+        "totalPopulation": 61910,
+        "collegePct": 17.98,
+        "renterRatePct": 47.41,
+        "race": {
+          "whitePct": 43,
+          "nonHispanicWhitePct": 40.77,
+          "blackPct": 45.19,
+          "asianPct": 2.12,
+          "hispanicPct": 7.89
+        }
+      },
+      "election": {
+        "winner": "CAROL KAZEEM",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "160": {
+      "districtNumber": 160,
+      "districtName": "Pennsylvania House District 160",
+      "census": {
+        "censusName": "State House District 160 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 152702,
+        "medianAge": 45.3,
+        "totalPopulation": 63915,
+        "collegePct": 63.73,
+        "renterRatePct": 17.64,
+        "race": {
+          "whitePct": 82,
+          "nonHispanicWhitePct": 81.28,
+          "blackPct": 3.96,
+          "asianPct": 8.34,
+          "hispanicPct": 3.36
+        }
+      },
+      "election": {
+        "winner": "CRAIG WILLIAMS",
+        "party": "REP",
+        "pct": 51.8,
+        "unopposed": false
+      }
+    },
+    "161": {
+      "districtNumber": 161,
+      "districtName": "Pennsylvania House District 161",
+      "census": {
+        "censusName": "State House District 161 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101924,
+        "medianAge": 41,
+        "totalPopulation": 64466,
+        "collegePct": 42.96,
+        "renterRatePct": 17.91,
+        "race": {
+          "whitePct": 78.88,
+          "nonHispanicWhitePct": 78.19,
+          "blackPct": 11.45,
+          "asianPct": 3.82,
+          "hispanicPct": 3
+        }
+      },
+      "election": {
+        "winner": "LEANNE KRUEGER",
+        "party": "DEM",
+        "pct": 58.2,
+        "unopposed": false
+      }
+    },
+    "162": {
+      "districtNumber": 162,
+      "districtName": "Pennsylvania House District 162",
+      "census": {
+        "censusName": "State House District 162 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76343,
+        "medianAge": 38.3,
+        "totalPopulation": 63988,
+        "collegePct": 27.91,
+        "renterRatePct": 30.06,
+        "race": {
+          "whitePct": 69.67,
+          "nonHispanicWhitePct": 68.99,
+          "blackPct": 21.26,
+          "asianPct": 2.47,
+          "hispanicPct": 3.41
+        }
+      },
+      "election": {
+        "winner": "DAVE DELLOSO",
+        "party": "DEM",
+        "pct": 56.68,
+        "unopposed": false
+      }
+    },
+    "163": {
+      "districtNumber": 163,
+      "districtName": "Pennsylvania House District 163",
+      "census": {
+        "censusName": "State House District 163 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79447,
+        "medianAge": 37,
+        "totalPopulation": 63873,
+        "collegePct": 34.34,
+        "renterRatePct": 34.35,
+        "race": {
+          "whitePct": 55.31,
+          "nonHispanicWhitePct": 54.3,
+          "blackPct": 29.63,
+          "asianPct": 6.58,
+          "hispanicPct": 5.16
+        }
+      },
+      "election": {
+        "winner": "HEATHER BOYD",
+        "party": "DEM",
+        "pct": 63.21,
+        "unopposed": false
+      }
+    },
+    "164": {
+      "districtNumber": 164,
+      "districtName": "Pennsylvania House District 164",
+      "census": {
+        "censusName": "State House District 164 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60138,
+        "medianAge": 35.2,
+        "totalPopulation": 62425,
+        "collegePct": 27.16,
+        "renterRatePct": 44.63,
+        "race": {
+          "whitePct": 27.29,
+          "nonHispanicWhitePct": 25.95,
+          "blackPct": 46.35,
+          "asianPct": 12.74,
+          "hispanicPct": 10.83
+        }
+      },
+      "election": {
+        "winner": "GINA H CURRY",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "165": {
+      "districtNumber": 165,
+      "districtName": "Pennsylvania House District 165",
+      "census": {
+        "censusName": "State House District 165 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 123577,
+        "medianAge": 41.3,
+        "totalPopulation": 62908,
+        "collegePct": 56.22,
+        "renterRatePct": 22.68,
+        "race": {
+          "whitePct": 82.27,
+          "nonHispanicWhitePct": 81.61,
+          "blackPct": 4.12,
+          "asianPct": 7.74,
+          "hispanicPct": 2.86
+        }
+      },
+      "election": {
+        "winner": "JENNIFER O'MARA",
+        "party": "DEM",
+        "pct": 59.58,
+        "unopposed": false
+      }
+    },
+    "166": {
+      "districtNumber": 166,
+      "districtName": "Pennsylvania House District 166",
+      "census": {
+        "censusName": "State House District 166 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 125988,
+        "medianAge": 41.3,
+        "totalPopulation": 62599,
+        "collegePct": 60.22,
+        "renterRatePct": 12.38,
+        "race": {
+          "whitePct": 84.9,
+          "nonHispanicWhitePct": 83.3,
+          "blackPct": 2.49,
+          "asianPct": 6.66,
+          "hispanicPct": 3.35
+        }
+      },
+      "election": {
+        "winner": "GREG VITALI",
+        "party": "DEM",
+        "pct": 60.37,
+        "unopposed": false
+      }
+    },
+    "167": {
+      "districtNumber": 167,
+      "districtName": "Pennsylvania House District 167",
+      "census": {
+        "censusName": "State House District 167 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 142321,
+        "medianAge": 40.2,
+        "totalPopulation": 64795,
+        "collegePct": 69.3,
+        "renterRatePct": 30.69,
+        "race": {
+          "whitePct": 72.29,
+          "nonHispanicWhitePct": 70.88,
+          "blackPct": 3.5,
+          "asianPct": 15.99,
+          "hispanicPct": 5.49
+        }
+      },
+      "election": {
+        "winner": "KRISTINE HOWARD",
+        "party": "DEM",
+        "pct": 58.57,
+        "unopposed": false
+      }
+    },
+    "168": {
+      "districtNumber": 168,
+      "districtName": "Pennsylvania House District 168",
+      "census": {
+        "censusName": "State House District 168 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 138357,
+        "medianAge": 38.5,
+        "totalPopulation": 63046,
+        "collegePct": 66.82,
+        "renterRatePct": 31.38,
+        "race": {
+          "whitePct": 84.65,
+          "nonHispanicWhitePct": 83.09,
+          "blackPct": 3.34,
+          "asianPct": 6.53,
+          "hispanicPct": 4.29
+        }
+      },
+      "election": {
+        "winner": "LISA A BOROWSKI",
+        "party": "DEM",
+        "pct": 58.1,
+        "unopposed": false
+      }
+    },
+    "169": {
+      "districtNumber": 169,
+      "districtName": "Pennsylvania House District 169",
+      "census": {
+        "censusName": "State House District 169 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82738,
+        "medianAge": 41.8,
+        "totalPopulation": 66020,
+        "collegePct": 27,
+        "renterRatePct": 23.8,
+        "race": {
+          "whitePct": 88.42,
+          "nonHispanicWhitePct": 86.91,
+          "blackPct": 2.33,
+          "asianPct": 1.25,
+          "hispanicPct": 5.95
+        }
+      },
+      "election": {
+        "winner": "KATE A KLUNK",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "170": {
+      "districtNumber": 170,
+      "districtName": "Pennsylvania House District 170",
+      "census": {
+        "censusName": "State House District 170 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79256,
+        "medianAge": 42.6,
+        "totalPopulation": 59884,
+        "collegePct": 31.3,
+        "renterRatePct": 26.89,
+        "race": {
+          "whitePct": 73.39,
+          "nonHispanicWhitePct": 71.02,
+          "blackPct": 7.98,
+          "asianPct": 10.63,
+          "hispanicPct": 7.72
+        }
+      },
+      "election": {
+        "winner": "MARTINA WHITE",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "171": {
+      "districtNumber": 171,
+      "districtName": "Pennsylvania House District 171",
+      "census": {
+        "censusName": "State House District 171 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65747,
+        "medianAge": 42.5,
+        "totalPopulation": 65574,
+        "collegePct": 22.25,
+        "renterRatePct": 30.15,
+        "race": {
+          "whitePct": 93.3,
+          "nonHispanicWhitePct": 93.03,
+          "blackPct": 1,
+          "asianPct": 0.79,
+          "hispanicPct": 2.29
+        }
+      },
+      "election": {
+        "winner": "KERRY A BENNINGHOFF",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "172": {
+      "districtNumber": 172,
+      "districtName": "Pennsylvania House District 172",
+      "census": {
+        "censusName": "State House District 172 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70378,
+        "medianAge": 41.4,
+        "totalPopulation": 62966,
+        "collegePct": 32.42,
+        "renterRatePct": 39.83,
+        "race": {
+          "whitePct": 61.73,
+          "nonHispanicWhitePct": 58.62,
+          "blackPct": 10.52,
+          "asianPct": 16.39,
+          "hispanicPct": 11.09
+        }
+      },
+      "election": {
+        "winner": "SEAN DOUGHERTY",
+        "party": "DEM",
+        "pct": 50.99,
+        "unopposed": false
+      }
+    },
+    "173": {
+      "districtNumber": 173,
+      "districtName": "Pennsylvania House District 173",
+      "census": {
+        "censusName": "State House District 173 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66190,
+        "medianAge": 39.6,
+        "totalPopulation": 59000,
+        "collegePct": 24.59,
+        "renterRatePct": 36.39,
+        "race": {
+          "whitePct": 54.07,
+          "nonHispanicWhitePct": 51.06,
+          "blackPct": 19.67,
+          "asianPct": 8.21,
+          "hispanicPct": 15.14
+        }
+      },
+      "election": {
+        "winner": "PAT GALLAGHER",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "174": {
+      "districtNumber": 174,
+      "districtName": "Pennsylvania House District 174",
+      "census": {
+        "censusName": "State House District 174 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67417,
+        "medianAge": 39.3,
+        "totalPopulation": 61475,
+        "collegePct": 30.57,
+        "renterRatePct": 45.99,
+        "race": {
+          "whitePct": 60.27,
+          "nonHispanicWhitePct": 58.47,
+          "blackPct": 16.21,
+          "asianPct": 12.3,
+          "hispanicPct": 8.86
+        }
+      },
+      "election": {
+        "winner": "ED NEILSON",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "175": {
+      "districtNumber": 175,
+      "districtName": "Pennsylvania House District 175",
+      "census": {
+        "censusName": "State House District 175 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119548,
+        "medianAge": 35,
+        "totalPopulation": 59914,
+        "collegePct": 73.53,
+        "renterRatePct": 52.21,
+        "race": {
+          "whitePct": 73.76,
+          "nonHispanicWhitePct": 71.63,
+          "blackPct": 7.43,
+          "asianPct": 9.54,
+          "hispanicPct": 6.88
+        }
+      },
+      "election": {
+        "winner": "MARYLOUISE ISAACSON",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "176": {
+      "districtNumber": 176,
+      "districtName": "Pennsylvania House District 176",
+      "census": {
+        "censusName": "State House District 176 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83722,
+        "medianAge": 46.2,
+        "totalPopulation": 62813,
+        "collegePct": 25.64,
+        "renterRatePct": 14.53,
+        "race": {
+          "whitePct": 77.07,
+          "nonHispanicWhitePct": 72.63,
+          "blackPct": 7.16,
+          "asianPct": 2.26,
+          "hispanicPct": 13.06
+        }
+      },
+      "election": {
+        "winner": "JACK RADER",
+        "party": "REP",
+        "pct": 63.02,
+        "unopposed": false
+      }
+    },
+    "177": {
+      "districtNumber": 177,
+      "districtName": "Pennsylvania House District 177",
+      "census": {
+        "censusName": "State House District 177 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58931,
+        "medianAge": 34.9,
+        "totalPopulation": 59873,
+        "collegePct": 27.37,
+        "renterRatePct": 35.6,
+        "race": {
+          "whitePct": 53.52,
+          "nonHispanicWhitePct": 49.76,
+          "blackPct": 16.07,
+          "asianPct": 4.16,
+          "hispanicPct": 25.11
+        }
+      },
+      "election": {
+        "winner": "JOE HOHENSTEIN",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "178": {
+      "districtNumber": 178,
+      "districtName": "Pennsylvania House District 178",
+      "census": {
+        "censusName": "State House District 178 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 142556,
+        "medianAge": 45.8,
+        "totalPopulation": 65790,
+        "collegePct": 53.04,
+        "renterRatePct": 7.15,
+        "race": {
+          "whitePct": 87.65,
+          "nonHispanicWhitePct": 86.74,
+          "blackPct": 0.88,
+          "asianPct": 3.96,
+          "hispanicPct": 4.57
+        }
+      },
+      "election": {
+        "winner": "KRISTIN MARCELL",
+        "party": "REP",
+        "pct": 61.33,
+        "unopposed": false
+      }
+    },
+    "179": {
+      "districtNumber": 179,
+      "districtName": "Pennsylvania House District 179",
+      "census": {
+        "censusName": "State House District 179 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41237,
+        "medianAge": 33.4,
+        "totalPopulation": 63918,
+        "collegePct": 15.52,
+        "renterRatePct": 39.76,
+        "race": {
+          "whitePct": 16.56,
+          "nonHispanicWhitePct": 9.93,
+          "blackPct": 39.66,
+          "asianPct": 9.16,
+          "hispanicPct": 39.61
+        }
+      },
+      "election": {
+        "winner": "JASON DAWKINS",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "180": {
+      "districtNumber": 180,
+      "districtName": "Pennsylvania House District 180",
+      "census": {
+        "censusName": "State House District 180 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 34233,
+        "medianAge": 31.4,
+        "totalPopulation": 62397,
+        "collegePct": 10.53,
+        "renterRatePct": 47.16,
+        "race": {
+          "whitePct": 18.07,
+          "nonHispanicWhitePct": 13.46,
+          "blackPct": 21.81,
+          "asianPct": 1.79,
+          "hispanicPct": 64.73
+        }
+      },
+      "election": {
+        "winner": "JOSE A GIRAL",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "181": {
+      "districtNumber": 181,
+      "districtName": "Pennsylvania House District 181",
+      "census": {
+        "censusName": "State House District 181 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51493,
+        "medianAge": 29.3,
+        "totalPopulation": 57630,
+        "collegePct": 43.22,
+        "renterRatePct": 75.45,
+        "race": {
+          "whitePct": 35.27,
+          "nonHispanicWhitePct": 32.52,
+          "blackPct": 38.74,
+          "asianPct": 8.93,
+          "hispanicPct": 16.19
+        }
+      },
+      "election": {
+        "winner": "MALCOLM KENYATTA",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "182": {
+      "districtNumber": 182,
+      "districtName": "Pennsylvania House District 182",
+      "census": {
+        "censusName": "State House District 182 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95046,
+        "medianAge": 33.6,
+        "totalPopulation": 60764,
+        "collegePct": 79.49,
+        "renterRatePct": 64.17,
+        "race": {
+          "whitePct": 72.22,
+          "nonHispanicWhitePct": 70.44,
+          "blackPct": 9.12,
+          "asianPct": 9.63,
+          "hispanicPct": 5.08
+        }
+      },
+      "election": {
+        "winner": "BEN WAXMAN",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "183": {
+      "districtNumber": 183,
+      "districtName": "Pennsylvania House District 183",
+      "census": {
+        "censusName": "State House District 183 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89563,
+        "medianAge": 45.3,
+        "totalPopulation": 65996,
+        "collegePct": 28.04,
+        "renterRatePct": 17.21,
+        "race": {
+          "whitePct": 88.76,
+          "nonHispanicWhitePct": 86.51,
+          "blackPct": 1.58,
+          "asianPct": 1.01,
+          "hispanicPct": 8.69
+        }
+      },
+      "election": {
+        "winner": "JOE LENZI",
+        "party": "DEM",
+        "pct": 34.45,
+        "unopposed": false
+      }
+    },
+    "184": {
+      "districtNumber": 184,
+      "districtName": "Pennsylvania House District 184",
+      "census": {
+        "censusName": "State House District 184 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81727,
+        "medianAge": 37.5,
+        "totalPopulation": 60322,
+        "collegePct": 42.01,
+        "renterRatePct": 34.49,
+        "race": {
+          "whitePct": 58.35,
+          "nonHispanicWhitePct": 55.07,
+          "blackPct": 5.38,
+          "asianPct": 19.18,
+          "hispanicPct": 16.08
+        }
+      },
+      "election": {
+        "winner": "ELIZABETH FIEDLER",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "185": {
+      "districtNumber": 185,
+      "districtName": "Pennsylvania House District 185",
+      "census": {
+        "censusName": "State House District 185 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57929,
+        "medianAge": 37.3,
+        "totalPopulation": 60957,
+        "collegePct": 25.76,
+        "renterRatePct": 44.08,
+        "race": {
+          "whitePct": 34.63,
+          "nonHispanicWhitePct": 33.46,
+          "blackPct": 51.72,
+          "asianPct": 6.29,
+          "hispanicPct": 5.46
+        }
+      },
+      "election": {
+        "winner": "REGINA G YOUNG",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "186": {
+      "districtNumber": 186,
+      "districtName": "Pennsylvania House District 186",
+      "census": {
+        "censusName": "State House District 186 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70655,
+        "medianAge": 34.1,
+        "totalPopulation": 58410,
+        "collegePct": 45.07,
+        "renterRatePct": 46.44,
+        "race": {
+          "whitePct": 34.42,
+          "nonHispanicWhitePct": 32.43,
+          "blackPct": 43.71,
+          "asianPct": 12.21,
+          "hispanicPct": 8.28
+        }
+      },
+      "election": {
+        "winner": "JORDAN A HARRIS",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "187": {
+      "districtNumber": 187,
+      "districtName": "Pennsylvania House District 187",
+      "census": {
+        "censusName": "State House District 187 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105096,
+        "medianAge": 44.2,
+        "totalPopulation": 65866,
+        "collegePct": 43.1,
+        "renterRatePct": 16.18,
+        "race": {
+          "whitePct": 81.67,
+          "nonHispanicWhitePct": 79.06,
+          "blackPct": 2.85,
+          "asianPct": 4.42,
+          "hispanicPct": 10.18
+        }
+      },
+      "election": {
+        "winner": "GARY DAY",
+        "party": "REP",
+        "pct": 55.36,
+        "unopposed": false
+      }
+    },
+    "188": {
+      "districtNumber": 188,
+      "districtName": "Pennsylvania House District 188",
+      "census": {
+        "censusName": "State House District 188 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55900,
+        "medianAge": 28.2,
+        "totalPopulation": 59242,
+        "collegePct": 54.88,
+        "renterRatePct": 68.69,
+        "race": {
+          "whitePct": 40.18,
+          "nonHispanicWhitePct": 38.92,
+          "blackPct": 36.79,
+          "asianPct": 11.8,
+          "hispanicPct": 4.69
+        }
+      },
+      "election": {
+        "winner": "RICK KRAJEWSKI",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "189": {
+      "districtNumber": 189,
+      "districtName": "Pennsylvania House District 189",
+      "census": {
+        "censusName": "State House District 189 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75394,
+        "medianAge": 43.9,
+        "totalPopulation": 62022,
+        "collegePct": 30.85,
+        "renterRatePct": 23.53,
+        "race": {
+          "whitePct": 63.19,
+          "nonHispanicWhitePct": 57.98,
+          "blackPct": 18.52,
+          "asianPct": 1.61,
+          "hispanicPct": 19.31
+        }
+      },
+      "election": {
+        "winner": "TARAH PROBST",
+        "party": "DEM",
+        "pct": 57.5,
+        "unopposed": false
+      }
+    },
+    "190": {
+      "districtNumber": 190,
+      "districtName": "Pennsylvania House District 190",
+      "census": {
+        "censusName": "State House District 190 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 35551,
+        "medianAge": 41.7,
+        "totalPopulation": 60150,
+        "collegePct": 20.02,
+        "renterRatePct": 59.97,
+        "race": {
+          "whitePct": 8.04,
+          "nonHispanicWhitePct": 6.9,
+          "blackPct": 82.96,
+          "asianPct": 2.05,
+          "hispanicPct": 4.73
+        }
+      },
+      "election": {
+        "winner": "RONI GREEN",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "191": {
+      "districtNumber": 191,
+      "districtName": "Pennsylvania House District 191",
+      "census": {
+        "censusName": "State House District 191 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41953,
+        "medianAge": 35.7,
+        "totalPopulation": 62535,
+        "collegePct": 17.25,
+        "renterRatePct": 47.47,
+        "race": {
+          "whitePct": 5.65,
+          "nonHispanicWhitePct": 5.32,
+          "blackPct": 87.06,
+          "asianPct": 1.35,
+          "hispanicPct": 3.69
+        }
+      },
+      "election": {
+        "winner": "JOANNA E MCCLINTON",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "192": {
+      "districtNumber": 192,
+      "districtName": "Pennsylvania House District 192",
+      "census": {
+        "censusName": "State House District 192 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49816,
+        "medianAge": 32.5,
+        "totalPopulation": 65340,
+        "collegePct": 27.19,
+        "renterRatePct": 41.75,
+        "race": {
+          "whitePct": 7.95,
+          "nonHispanicWhitePct": 7.46,
+          "blackPct": 86.29,
+          "asianPct": 1.69,
+          "hispanicPct": 2.45
+        }
+      },
+      "election": {
+        "winner": "MORGAN CEPHAS",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "193": {
+      "districtNumber": 193,
+      "districtName": "Pennsylvania House District 193",
+      "census": {
+        "censusName": "State House District 193 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78486,
+        "medianAge": 39.7,
+        "totalPopulation": 64384,
+        "collegePct": 22.65,
+        "renterRatePct": 24.3,
+        "race": {
+          "whitePct": 90.19,
+          "nonHispanicWhitePct": 87.82,
+          "blackPct": 2.41,
+          "asianPct": 0.97,
+          "hispanicPct": 6.63
+        }
+      },
+      "election": {
+        "winner": "TORREN ECKER",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "194": {
+      "districtNumber": 194,
+      "districtName": "Pennsylvania House District 194",
+      "census": {
+        "censusName": "State House District 194 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91190,
+        "medianAge": 35.8,
+        "totalPopulation": 61925,
+        "collegePct": 62.73,
+        "renterRatePct": 46.94,
+        "race": {
+          "whitePct": 73.4,
+          "nonHispanicWhitePct": 71.49,
+          "blackPct": 13.8,
+          "asianPct": 3.74,
+          "hispanicPct": 6.43
+        }
+      },
+      "election": {
+        "winner": "TARIK KHAN",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "195": {
+      "districtNumber": 195,
+      "districtName": "Pennsylvania House District 195",
+      "census": {
+        "censusName": "State House District 195 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65688,
+        "medianAge": 33.1,
+        "totalPopulation": 63356,
+        "collegePct": 42.99,
+        "renterRatePct": 53.13,
+        "race": {
+          "whitePct": 33.48,
+          "nonHispanicWhitePct": 32.11,
+          "blackPct": 55.13,
+          "asianPct": 3.76,
+          "hispanicPct": 6.09
+        }
+      },
+      "election": {
+        "winner": "KEITH S HARRIS",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "196": {
+      "districtNumber": 196,
+      "districtName": "Pennsylvania House District 196",
+      "census": {
+        "censusName": "State House District 196 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82153,
+        "medianAge": 44.7,
+        "totalPopulation": 65665,
+        "collegePct": 22.87,
+        "renterRatePct": 21.15,
+        "race": {
+          "whitePct": 87.39,
+          "nonHispanicWhitePct": 84.86,
+          "blackPct": 3.9,
+          "asianPct": 2.26,
+          "hispanicPct": 5.63
+        }
+      },
+      "election": {
+        "winner": "SETH M GROVE",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "197": {
+      "districtNumber": 197,
+      "districtName": "Pennsylvania House District 197",
+      "census": {
+        "censusName": "State House District 197 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 35108,
+        "medianAge": 35.1,
+        "totalPopulation": 61929,
+        "collegePct": 13.97,
+        "renterRatePct": 47.16,
+        "race": {
+          "whitePct": 15.01,
+          "nonHispanicWhitePct": 6.67,
+          "blackPct": 29.18,
+          "asianPct": 3.93,
+          "hispanicPct": 60.37
+        }
+      },
+      "election": {
+        "winner": "DANILO BURGOS",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "198": {
+      "districtNumber": 198,
+      "districtName": "Pennsylvania House District 198",
+      "census": {
+        "censusName": "State House District 198 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46480,
+        "medianAge": 38.7,
+        "totalPopulation": 64625,
+        "collegePct": 20.79,
+        "renterRatePct": 44.26,
+        "race": {
+          "whitePct": 9.17,
+          "nonHispanicWhitePct": 7.67,
+          "blackPct": 78.08,
+          "asianPct": 4.11,
+          "hispanicPct": 7.85
+        }
+      },
+      "election": {
+        "winner": "DARISHA K PARKER",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "199": {
+      "districtNumber": 199,
+      "districtName": "Pennsylvania House District 199",
+      "census": {
+        "censusName": "State House District 199 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70230,
+        "medianAge": 41.6,
+        "totalPopulation": 65264,
+        "collegePct": 30.42,
+        "renterRatePct": 31.47,
+        "race": {
+          "whitePct": 87.27,
+          "nonHispanicWhitePct": 85.57,
+          "blackPct": 4.98,
+          "asianPct": 1.92,
+          "hispanicPct": 4.69
+        }
+      },
+      "election": {
+        "winner": "RONI GREEN",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "200": {
+      "districtNumber": 200,
+      "districtName": "Pennsylvania House District 200",
+      "census": {
+        "censusName": "State House District 200 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68472,
+        "medianAge": 41.6,
+        "totalPopulation": 67248,
+        "collegePct": 39.48,
+        "renterRatePct": 31.9,
+        "race": {
+          "whitePct": 18.9,
+          "nonHispanicWhitePct": 17.98,
+          "blackPct": 74.21,
+          "asianPct": 0.88,
+          "hispanicPct": 3.14
+        }
+      },
+      "election": {
+        "winner": "CHRIS RABB",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "201": {
+      "districtNumber": 201,
+      "districtName": "Pennsylvania House District 201",
+      "census": {
+        "censusName": "State House District 201 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42337,
+        "medianAge": 36.3,
+        "totalPopulation": 73355,
+        "collegePct": 24.02,
+        "renterRatePct": 51.61,
+        "race": {
+          "whitePct": 11.13,
+          "nonHispanicWhitePct": 10.38,
+          "blackPct": 81.74,
+          "asianPct": 1,
+          "hispanicPct": 4.96
+        }
+      },
+      "election": {
+        "winner": "ANDRE D CARROLL",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "202": {
+      "districtNumber": 202,
+      "districtName": "Pennsylvania House District 202",
+      "census": {
+        "censusName": "State House District 202 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56111,
+        "medianAge": 34.6,
+        "totalPopulation": 61035,
+        "collegePct": 15.82,
+        "renterRatePct": 40.05,
+        "race": {
+          "whitePct": 34.2,
+          "nonHispanicWhitePct": 29.96,
+          "blackPct": 18.58,
+          "asianPct": 19.37,
+          "hispanicPct": 25.7
+        }
+      },
+      "election": {
+        "winner": "JARED SOLOMON",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "203": {
+      "districtNumber": 203,
+      "districtName": "Pennsylvania House District 203",
+      "census": {
+        "censusName": "State House District 203 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58036,
+        "medianAge": 35.9,
+        "totalPopulation": 65084,
+        "collegePct": 17.77,
+        "renterRatePct": 37.8,
+        "race": {
+          "whitePct": 19.78,
+          "nonHispanicWhitePct": 15.94,
+          "blackPct": 42.14,
+          "asianPct": 11.06,
+          "hispanicPct": 26.03
+        }
+      },
+      "election": {
+        "winner": "ANTHONY BELLMON",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Pennsylvania Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97765,
+        "medianAge": 34.9,
+        "totalPopulation": 234904,
+        "collegePct": 65.2,
+        "renterRatePct": 53.3,
+        "race": {
+          "whitePct": 66.64,
+          "nonHispanicWhitePct": 64.04,
+          "blackPct": 9.58,
+          "asianPct": 11.92,
+          "hispanicPct": 9.96
+        }
+      },
+      "election": {
+        "winner": "NIKIL SAVAL",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Pennsylvania Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48619,
+        "medianAge": 33.7,
+        "totalPopulation": 253483,
+        "collegePct": 16.46,
+        "renterRatePct": 41.84,
+        "race": {
+          "whitePct": 28.88,
+          "nonHispanicWhitePct": 23.82,
+          "blackPct": 25.49,
+          "asianPct": 7.85,
+          "hispanicPct": 40.57
+        }
+      },
+      "election": {
+        "winner": "TARTAGLIONE, CHRISTINE M",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Pennsylvania Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45392,
+        "medianAge": 33.8,
+        "totalPopulation": 266002,
+        "collegePct": 23.8,
+        "renterRatePct": 49.81,
+        "race": {
+          "whitePct": 17.94,
+          "nonHispanicWhitePct": 14.69,
+          "blackPct": 54.39,
+          "asianPct": 6.89,
+          "hispanicPct": 21.45
+        }
+      },
+      "election": {
+        "winner": "SHARIF STREET",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Pennsylvania Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72401,
+        "medianAge": 40.3,
+        "totalPopulation": 276215,
+        "collegePct": 43.05,
+        "renterRatePct": 35.3,
+        "race": {
+          "whitePct": 39.48,
+          "nonHispanicWhitePct": 38.28,
+          "blackPct": 50.47,
+          "asianPct": 2.84,
+          "hispanicPct": 4.7
+        }
+      },
+      "election": {
+        "winner": "HAYWOOD, ARTHUR L III",
+        "party": "DEM",
+        "pct": 85,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Pennsylvania Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68204,
+        "medianAge": 40.2,
+        "totalPopulation": 256695,
+        "collegePct": 29.1,
+        "renterRatePct": 38.21,
+        "race": {
+          "whitePct": 60.99,
+          "nonHispanicWhitePct": 58.27,
+          "blackPct": 13.94,
+          "asianPct": 11.54,
+          "hispanicPct": 11.96
+        }
+      },
+      "election": {
+        "winner": "JOE PICOZZI",
+        "party": "REP",
+        "pct": 50.42,
+        "unopposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Pennsylvania Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107363,
+        "medianAge": 44.2,
+        "totalPopulation": 269035,
+        "collegePct": 41.81,
+        "renterRatePct": 23.89,
+        "race": {
+          "whitePct": 79.77,
+          "nonHispanicWhitePct": 78.24,
+          "blackPct": 4.15,
+          "asianPct": 6.77,
+          "hispanicPct": 6.72
+        }
+      },
+      "election": {
+        "winner": "FARRY, FRANK A",
+        "party": "REP",
+        "pct": 53.25,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Pennsylvania Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59622,
+        "medianAge": 33.5,
+        "totalPopulation": 265824,
+        "collegePct": 41.29,
+        "renterRatePct": 53.22,
+        "race": {
+          "whitePct": 34.5,
+          "nonHispanicWhitePct": 33.43,
+          "blackPct": 53.96,
+          "asianPct": 4.48,
+          "hispanicPct": 4.04
+        }
+      },
+      "election": {
+        "winner": "VINCENT HUGHES",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Pennsylvania Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53640,
+        "medianAge": 34,
+        "totalPopulation": 249115,
+        "collegePct": 29.19,
+        "renterRatePct": 47.23,
+        "race": {
+          "whitePct": 26.83,
+          "nonHispanicWhitePct": 25.73,
+          "blackPct": 58.04,
+          "asianPct": 6.59,
+          "hispanicPct": 5.42
+        }
+      },
+      "election": {
+        "winner": "WILLIAMS, ANTHONY HARDY",
+        "party": "DEM",
+        "pct": 86.61,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Pennsylvania Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104305,
+        "medianAge": 41.7,
+        "totalPopulation": 253315,
+        "collegePct": 46.09,
+        "renterRatePct": 25.65,
+        "race": {
+          "whitePct": 70.56,
+          "nonHispanicWhitePct": 68.94,
+          "blackPct": 15.51,
+          "asianPct": 4.56,
+          "hispanicPct": 7.43
+        }
+      },
+      "election": {
+        "winner": "JOHN I KANE",
+        "party": "DEM",
+        "pct": 56.11,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Pennsylvania Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118861,
+        "medianAge": 43.5,
+        "totalPopulation": 269298,
+        "collegePct": 48.17,
+        "renterRatePct": 20.92,
+        "race": {
+          "whitePct": 82.44,
+          "nonHispanicWhitePct": 80.73,
+          "blackPct": 4.13,
+          "asianPct": 4.3,
+          "hispanicPct": 6.37
+        }
+      },
+      "election": {
+        "winner": "SANTARSIERO, STEVEN J",
+        "party": "DEM",
+        "pct": 58.58,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Pennsylvania Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69888,
+        "medianAge": 37.2,
+        "totalPopulation": 263381,
+        "collegePct": 26.59,
+        "renterRatePct": 36.89,
+        "race": {
+          "whitePct": 60.91,
+          "nonHispanicWhitePct": 54.92,
+          "blackPct": 6.38,
+          "asianPct": 1.61,
+          "hispanicPct": 35.27
+        }
+      },
+      "election": {
+        "winner": "JUDY SCHWANK",
+        "party": "DEM",
+        "pct": 58.69,
+        "unopposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Pennsylvania Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115356,
+        "medianAge": 41.7,
+        "totalPopulation": 264590,
+        "collegePct": 53.23,
+        "renterRatePct": 26.88,
+        "race": {
+          "whitePct": 76.01,
+          "nonHispanicWhitePct": 74.16,
+          "blackPct": 5.43,
+          "asianPct": 10.96,
+          "hispanicPct": 5.91
+        }
+      },
+      "election": {
+        "winner": "COLLETT, MARIA",
+        "party": "DEM",
+        "pct": 59.84,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Pennsylvania Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81178,
+        "medianAge": 36.2,
+        "totalPopulation": 262638,
+        "collegePct": 28.27,
+        "renterRatePct": 32.7,
+        "race": {
+          "whitePct": 77.6,
+          "nonHispanicWhitePct": 73.7,
+          "blackPct": 5.87,
+          "asianPct": 2.26,
+          "hispanicPct": 15.93
+        }
+      },
+      "election": {
+        "winner": "SCOTT MARTIN",
+        "party": "REP",
+        "pct": 59.81,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Pennsylvania Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68605,
+        "medianAge": 38.6,
+        "totalPopulation": 267667,
+        "collegePct": 25.89,
+        "renterRatePct": 38.07,
+        "race": {
+          "whitePct": 64.23,
+          "nonHispanicWhitePct": 56.82,
+          "blackPct": 7.86,
+          "asianPct": 2.11,
+          "hispanicPct": 31.57
+        }
+      },
+      "election": {
+        "winner": "MILLER, NICHOLAS P",
+        "party": "DEM",
+        "pct": 53.5,
+        "unopposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Pennsylvania Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74760,
+        "medianAge": 39,
+        "totalPopulation": 260271,
+        "collegePct": 36.12,
+        "renterRatePct": 37.99,
+        "race": {
+          "whitePct": 62.05,
+          "nonHispanicWhitePct": 58.72,
+          "blackPct": 19.39,
+          "asianPct": 6.69,
+          "hispanicPct": 12.13
+        }
+      },
+      "election": {
+        "winner": "PATTY KIM",
+        "party": "DEM",
+        "pct": 58.22,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Pennsylvania Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105856,
+        "medianAge": 44,
+        "totalPopulation": 264814,
+        "collegePct": 41.98,
+        "renterRatePct": 19.4,
+        "race": {
+          "whitePct": 83.75,
+          "nonHispanicWhitePct": 81.8,
+          "blackPct": 2.54,
+          "asianPct": 3.81,
+          "hispanicPct": 8.58
+        }
+      },
+      "election": {
+        "winner": "COLEMAN, JARRETT CHARLES",
+        "party": "REP",
+        "pct": 54.16,
+        "unopposed": false
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Pennsylvania Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 114828,
+        "medianAge": 38.7,
+        "totalPopulation": 259171,
+        "collegePct": 60.52,
+        "renterRatePct": 33.19,
+        "race": {
+          "whitePct": 71.56,
+          "nonHispanicWhitePct": 68.95,
+          "blackPct": 9.99,
+          "asianPct": 7.44,
+          "hispanicPct": 8.81
+        }
+      },
+      "election": {
+        "winner": "AMANDA M CAPPELLETTI",
+        "party": "DEM",
+        "pct": 68.39,
+        "unopposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Pennsylvania Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84162,
+        "medianAge": 40.9,
+        "totalPopulation": 266514,
+        "collegePct": 34.81,
+        "renterRatePct": 33.64,
+        "race": {
+          "whitePct": 73.15,
+          "nonHispanicWhitePct": 68.74,
+          "blackPct": 7.07,
+          "asianPct": 3.4,
+          "hispanicPct": 17.55
+        }
+      },
+      "election": {
+        "winner": "BOSCOLA, LISA M",
+        "party": "DEM",
+        "pct": 58.92,
+        "unopposed": false
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Pennsylvania Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118764,
+        "medianAge": 40,
+        "totalPopulation": 255607,
+        "collegePct": 57.53,
+        "renterRatePct": 28.71,
+        "race": {
+          "whitePct": 76.6,
+          "nonHispanicWhitePct": 74,
+          "blackPct": 6.63,
+          "asianPct": 6.76,
+          "hispanicPct": 8.33
+        }
+      },
+      "election": {
+        "winner": "CAROLYN COMITTA",
+        "party": "DEM",
+        "pct": 56.51,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Pennsylvania Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69290,
+        "medianAge": 46.5,
+        "totalPopulation": 272125,
+        "collegePct": 25.9,
+        "renterRatePct": 22.9,
+        "race": {
+          "whitePct": 87.6,
+          "nonHispanicWhitePct": 86,
+          "blackPct": 3.94,
+          "asianPct": 0.78,
+          "hispanicPct": 6.91
+        }
+      },
+      "election": {
+        "winner": "BAKER, JACLYN E",
+        "party": "DEM",
+        "pct": 32.27,
+        "unopposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Pennsylvania Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63697,
+        "medianAge": 45.2,
+        "totalPopulation": 257465,
+        "collegePct": 23.07,
+        "renterRatePct": 25.13,
+        "race": {
+          "whitePct": 93.92,
+          "nonHispanicWhitePct": 93.37,
+          "blackPct": 1.48,
+          "asianPct": 0.48,
+          "hispanicPct": 1.76
+        }
+      },
+      "election": {
+        "winner": "Scott E. Hutchinson",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Pennsylvania Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61344,
+        "medianAge": 40.1,
+        "totalPopulation": 251186,
+        "collegePct": 28.38,
+        "renterRatePct": 39.33,
+        "race": {
+          "whitePct": 77.36,
+          "nonHispanicWhitePct": 74.99,
+          "blackPct": 5.55,
+          "asianPct": 2.93,
+          "hispanicPct": 13.33
+        }
+      },
+      "election": {
+        "winner": "BAKER, ELISABETH J.",
+        "party": "REP",
+        "pct": 67.73,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Pennsylvania Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64692,
+        "medianAge": 42.6,
+        "totalPopulation": 263038,
+        "collegePct": 23.57,
+        "renterRatePct": 28.24,
+        "race": {
+          "whitePct": 91.68,
+          "nonHispanicWhitePct": 90.71,
+          "blackPct": 3.3,
+          "asianPct": 0.87,
+          "hispanicPct": 2.43
+        }
+      },
+      "election": {
+        "winner": "GENE YAW",
+        "party": "REP",
+        "pct": 74.65,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Pennsylvania Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103383,
+        "medianAge": 42.5,
+        "totalPopulation": 266071,
+        "collegePct": 39.85,
+        "renterRatePct": 21.75,
+        "race": {
+          "whitePct": 83,
+          "nonHispanicWhitePct": 81.15,
+          "blackPct": 6.21,
+          "asianPct": 3.94,
+          "hispanicPct": 5.42
+        }
+      },
+      "election": {
+        "winner": "PENNYYCLICK, TRACY E",
+        "party": "REP",
+        "pct": 52,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Pennsylvania Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63451,
+        "medianAge": 39.1,
+        "totalPopulation": 266834,
+        "collegePct": 27.21,
+        "renterRatePct": 28.96,
+        "race": {
+          "whitePct": 91.33,
+          "nonHispanicWhitePct": 90.24,
+          "blackPct": 2.27,
+          "asianPct": 2.27,
+          "hispanicPct": 2.36
+        }
+      },
+      "election": {
+        "winner": "CRIS DUSH",
+        "party": "REP",
+        "pct": 66.43,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Pennsylvania Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88127,
+        "medianAge": 38.9,
+        "totalPopulation": 254095,
+        "collegePct": 40.66,
+        "renterRatePct": 31.31,
+        "race": {
+          "whitePct": 64.87,
+          "nonHispanicWhitePct": 63.96,
+          "blackPct": 18.91,
+          "asianPct": 8.01,
+          "hispanicPct": 5.24
+        }
+      },
+      "election": {
+        "winner": "KEARNEY, TIMOTHY P",
+        "party": "DEM",
+        "pct": 60.04,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Pennsylvania Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66297,
+        "medianAge": 43.5,
+        "totalPopulation": 260711,
+        "collegePct": 24.56,
+        "renterRatePct": 24.73,
+        "race": {
+          "whitePct": 91.91,
+          "nonHispanicWhitePct": 90.69,
+          "blackPct": 1.87,
+          "asianPct": 1.18,
+          "hispanicPct": 3.92
+        }
+      },
+      "election": {
+        "winner": "LYNDA J SCHLEGEL CULVER",
+        "party": "REP",
+        "pct": 72.1,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Pennsylvania Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85583,
+        "medianAge": 41.1,
+        "totalPopulation": 263798,
+        "collegePct": 28.4,
+        "renterRatePct": 22.97,
+        "race": {
+          "whitePct": 87.18,
+          "nonHispanicWhitePct": 85.32,
+          "blackPct": 3.5,
+          "asianPct": 1.49,
+          "hispanicPct": 5.67
+        }
+      },
+      "election": {
+        "winner": "PHILLIPS-HILL, KRISTIN LEE",
+        "party": "REP",
+        "pct": 66.9,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Pennsylvania Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63218,
+        "medianAge": 43.9,
+        "totalPopulation": 266924,
+        "collegePct": 18.17,
+        "renterRatePct": 26.58,
+        "race": {
+          "whitePct": 83.39,
+          "nonHispanicWhitePct": 80.62,
+          "blackPct": 3.06,
+          "asianPct": 0.46,
+          "hispanicPct": 14.32
+        }
+      },
+      "election": {
+        "winner": "DAVE ARGALL",
+        "party": "REP",
+        "pct": 71,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Pennsylvania Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61896,
+        "medianAge": 43.3,
+        "totalPopulation": 249736,
+        "collegePct": 19.82,
+        "renterRatePct": 26.37,
+        "race": {
+          "whitePct": 92.89,
+          "nonHispanicWhitePct": 92.3,
+          "blackPct": 2.04,
+          "asianPct": 0.49,
+          "hispanicPct": 1.91
+        }
+      },
+      "election": {
+        "winner": "WARD, JUDITH F",
+        "party": "REP",
+        "pct": 76.17,
+        "unopposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Pennsylvania Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80482,
+        "medianAge": 40.2,
+        "totalPopulation": 262764,
+        "collegePct": 29.86,
+        "renterRatePct": 27.41,
+        "race": {
+          "whitePct": 78.61,
+          "nonHispanicWhitePct": 74.9,
+          "blackPct": 8.49,
+          "asianPct": 1.7,
+          "hispanicPct": 11.91
+        }
+      },
+      "election": {
+        "winner": "DAWN KEEFER",
+        "party": "REP",
+        "pct": 60.84,
+        "unopposed": false
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Pennsylvania Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57830,
+        "medianAge": 46.1,
+        "totalPopulation": 252117,
+        "collegePct": 18.03,
+        "renterRatePct": 24.46,
+        "race": {
+          "whitePct": 92.5,
+          "nonHispanicWhitePct": 92.01,
+          "blackPct": 2.77,
+          "asianPct": 0.5,
+          "hispanicPct": 1.34
+        }
+      },
+      "election": {
+        "winner": "STEFANO, PATRICK J.",
+        "party": "REP",
+        "pct": 75.1,
+        "unopposed": false
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Pennsylvania Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76629,
+        "medianAge": 42.8,
+        "totalPopulation": 261809,
+        "collegePct": 24.28,
+        "renterRatePct": 24.5,
+        "race": {
+          "whitePct": 88.77,
+          "nonHispanicWhitePct": 86.01,
+          "blackPct": 2.69,
+          "asianPct": 0.91,
+          "hispanicPct": 7.31
+        }
+      },
+      "election": {
+        "winner": "DOUG MASTRIANO",
+        "party": "REP",
+        "pct": 69.02,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Pennsylvania Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82275,
+        "medianAge": 41.4,
+        "totalPopulation": 270373,
+        "collegePct": 32.97,
+        "renterRatePct": 25.67,
+        "race": {
+          "whitePct": 86.3,
+          "nonHispanicWhitePct": 85.11,
+          "blackPct": 2.94,
+          "asianPct": 4.55,
+          "hispanicPct": 3.82
+        }
+      },
+      "election": {
+        "winner": "ROTHMAN, WILLIAM GREGORY",
+        "party": "REP",
+        "pct": 63.54,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Pennsylvania Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61015,
+        "medianAge": 44.2,
+        "totalPopulation": 258555,
+        "collegePct": 28.23,
+        "renterRatePct": 26.27,
+        "race": {
+          "whitePct": 90.16,
+          "nonHispanicWhitePct": 89.4,
+          "blackPct": 2.79,
+          "asianPct": 2.06,
+          "hispanicPct": 2.56
+        }
+      },
+      "election": {
+        "winner": "WAYNE LANGERHOLC JR",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Pennsylvania Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86243,
+        "medianAge": 42.7,
+        "totalPopulation": 270007,
+        "collegePct": 34.82,
+        "renterRatePct": 28.41,
+        "race": {
+          "whitePct": 87.06,
+          "nonHispanicWhitePct": 84.59,
+          "blackPct": 2.39,
+          "asianPct": 2.62,
+          "hispanicPct": 7.45
+        }
+      },
+      "election": {
+        "winner": "AUMENT, RYAN P",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Pennsylvania Senate District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109350,
+        "medianAge": 43.2,
+        "totalPopulation": 246383,
+        "collegePct": 53.59,
+        "renterRatePct": 21.23,
+        "race": {
+          "whitePct": 86.69,
+          "nonHispanicWhitePct": 86.13,
+          "blackPct": 2.76,
+          "asianPct": 5.49,
+          "hispanicPct": 1.87
+        }
+      },
+      "election": {
+        "winner": "DEVLIN ROBINSON",
+        "party": "REP",
+        "pct": 52.83,
+        "unopposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Pennsylvania Senate District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89695,
+        "medianAge": 43.1,
+        "totalPopulation": 250458,
+        "collegePct": 50.11,
+        "renterRatePct": 25.12,
+        "race": {
+          "whitePct": 85.21,
+          "nonHispanicWhitePct": 84.47,
+          "blackPct": 6.52,
+          "asianPct": 3.11,
+          "hispanicPct": 2.55
+        }
+      },
+      "election": {
+        "winner": "WILLIAMS, LINDSEY M",
+        "party": "DEM",
+        "pct": 55.79,
+        "unopposed": false
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Pennsylvania Senate District 39",
+      "census": {
+        "censusName": "State Senate District 39 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75809,
+        "medianAge": 47.1,
+        "totalPopulation": 260824,
+        "collegePct": 34.73,
+        "renterRatePct": 20.67,
+        "race": {
+          "whitePct": 92.8,
+          "nonHispanicWhitePct": 92.19,
+          "blackPct": 2.09,
+          "asianPct": 1.12,
+          "hispanicPct": 1.53
+        }
+      },
+      "election": {
+        "winner": "KIM WARD",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Pennsylvania Senate District 40",
+      "census": {
+        "censusName": "State Senate District 40 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74581,
+        "medianAge": 44.3,
+        "totalPopulation": 256174,
+        "collegePct": 26.64,
+        "renterRatePct": 22.41,
+        "race": {
+          "whitePct": 74.82,
+          "nonHispanicWhitePct": 70.61,
+          "blackPct": 9.97,
+          "asianPct": 1.97,
+          "hispanicPct": 13.31
+        }
+      },
+      "election": {
+        "winner": "BROWN, ROSEMARY MAULA",
+        "party": "REP",
+        "pct": 55.26,
+        "unopposed": false
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Pennsylvania Senate District 41",
+      "census": {
+        "censusName": "State Senate District 41 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61693,
+        "medianAge": 44.7,
+        "totalPopulation": 253729,
+        "collegePct": 22.95,
+        "renterRatePct": 25.09,
+        "race": {
+          "whitePct": 93.55,
+          "nonHispanicWhitePct": 93.07,
+          "blackPct": 2.39,
+          "asianPct": 0.47,
+          "hispanicPct": 1.42
+        }
+      },
+      "election": {
+        "winner": "JOE PITTMAN",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Pennsylvania Senate District 42",
+      "census": {
+        "censusName": "State Senate District 42 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72643,
+        "medianAge": 38.8,
+        "totalPopulation": 248818,
+        "collegePct": 43.45,
+        "renterRatePct": 43.58,
+        "race": {
+          "whitePct": 74.97,
+          "nonHispanicWhitePct": 74.09,
+          "blackPct": 14.42,
+          "asianPct": 3.59,
+          "hispanicPct": 2.94
+        }
+      },
+      "election": {
+        "winner": "FONTANA, WAYNE D.",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Pennsylvania Senate District 43",
+      "census": {
+        "censusName": "State Senate District 43 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60806,
+        "medianAge": 34.8,
+        "totalPopulation": 248266,
+        "collegePct": 47.37,
+        "renterRatePct": 50.38,
+        "race": {
+          "whitePct": 61.64,
+          "nonHispanicWhitePct": 60.61,
+          "blackPct": 24.15,
+          "asianPct": 5.71,
+          "hispanicPct": 4.33
+        }
+      },
+      "election": {
+        "winner": "JAY COSTA JR",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Pennsylvania Senate District 44",
+      "census": {
+        "censusName": "State Senate District 44 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 121208,
+        "medianAge": 40.9,
+        "totalPopulation": 268149,
+        "collegePct": 52.74,
+        "renterRatePct": 23.7,
+        "race": {
+          "whitePct": 80.32,
+          "nonHispanicWhitePct": 78.86,
+          "blackPct": 4.35,
+          "asianPct": 7.94,
+          "hispanicPct": 5.38
+        }
+      },
+      "election": {
+        "winner": "MUTH, KATIE J",
+        "party": "DEM",
+        "pct": 55.68,
+        "unopposed": false
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Pennsylvania Senate District 45",
+      "census": {
+        "censusName": "State Senate District 45 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62490,
+        "medianAge": 43,
+        "totalPopulation": 246551,
+        "collegePct": 29.58,
+        "renterRatePct": 32.58,
+        "race": {
+          "whitePct": 75.99,
+          "nonHispanicWhitePct": 75.43,
+          "blackPct": 14.64,
+          "asianPct": 2.8,
+          "hispanicPct": 2.36
+        }
+      },
+      "election": {
+        "winner": "NICK PISCIOTTANO",
+        "party": "DEM",
+        "pct": 53.09,
+        "unopposed": false
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Pennsylvania Senate District 46",
+      "census": {
+        "censusName": "State Senate District 46 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76386,
+        "medianAge": 44,
+        "totalPopulation": 250723,
+        "collegePct": 30.93,
+        "renterRatePct": 23.1,
+        "race": {
+          "whitePct": 91.04,
+          "nonHispanicWhitePct": 90.41,
+          "blackPct": 3.06,
+          "asianPct": 1.04,
+          "hispanicPct": 1.91
+        }
+      },
+      "election": {
+        "winner": "BARTOLOTTA, CAMERA",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Pennsylvania Senate District 47",
+      "census": {
+        "censusName": "State Senate District 47 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78875,
+        "medianAge": 44,
+        "totalPopulation": 256405,
+        "collegePct": 36.5,
+        "renterRatePct": 24.11,
+        "race": {
+          "whitePct": 89.77,
+          "nonHispanicWhitePct": 89.04,
+          "blackPct": 4.37,
+          "asianPct": 1.11,
+          "hispanicPct": 2.06
+        }
+      },
+      "election": {
+        "winner": "ELDER VOGEL JR",
+        "party": "REP",
+        "pct": 63.79,
+        "unopposed": false
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Pennsylvania Senate District 48",
+      "census": {
+        "censusName": "State Senate District 48 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82826,
+        "medianAge": 41.9,
+        "totalPopulation": 270218,
+        "collegePct": 24.67,
+        "renterRatePct": 22.9,
+        "race": {
+          "whitePct": 86.36,
+          "nonHispanicWhitePct": 83.95,
+          "blackPct": 2.07,
+          "asianPct": 1.14,
+          "hispanicPct": 10.5
+        }
+      },
+      "election": {
+        "winner": "GEBHARD, CHRISTOPHER M",
+        "party": "REP",
+        "pct": 68.39,
+        "unopposed": false
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Pennsylvania Senate District 49",
+      "census": {
+        "censusName": "State Senate District 49 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62150,
+        "medianAge": 40,
+        "totalPopulation": 260658,
+        "collegePct": 29.85,
+        "renterRatePct": 31.82,
+        "race": {
+          "whitePct": 83.26,
+          "nonHispanicWhitePct": 82.08,
+          "blackPct": 7.12,
+          "asianPct": 2.03,
+          "hispanicPct": 4.65
+        }
+      },
+      "election": {
+        "winner": "DAN LAUGHLIN",
+        "party": "REP",
+        "pct": 54.11,
+        "unopposed": false
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Pennsylvania Senate District 50",
+      "census": {
+        "censusName": "State Senate District 50 (2022); Pennsylvania",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60242,
+        "medianAge": 44.4,
+        "totalPopulation": 263015,
+        "collegePct": 23.36,
+        "renterRatePct": 26.63,
+        "race": {
+          "whitePct": 90.56,
+          "nonHispanicWhitePct": 90.1,
+          "blackPct": 4.01,
+          "asianPct": 0.52,
+          "hispanicPct": 1.74
+        }
+      },
+      "election": {
+        "winner": "BROOKS, MICHELE",
+        "party": "REP",
+        "pct": 71.35,
+        "unopposed": false
+      }
+    }
+  }
+}

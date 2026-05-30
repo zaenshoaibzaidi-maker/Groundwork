@@ -1,0 +1,71 @@
+[
+  {
+    "chamber": "house",
+    "district": 63,
+    "candidates": [
+      {
+        "name": "LIZ HAMBIDGE",
+        "party": "DEM",
+        "votes": 25068,
+        "pct": 60.88
+      },
+      {
+        "name": "MICHELLE RUPP",
+        "party": "REP",
+        "votes": 16109,
+        "pct": 39.12
+      }
+    ],
+    "winner": "LIZ HAMBIDGE",
+    "winnerParty": "DEM",
+    "total": 41177,
+    "unopposed": false
+  },
+  {
+    "chamber": "house",
+    "district": 104,
+    "winner": "BRYAN D CUTLER",
+    "winnerParty": "REP",
+    "pct": 100,
+    "votes": 23316,
+    "total": 23316,
+    "unopposed": true,
+    "candidates": [
+      {
+        "name": "BRYAN D CUTLER",
+        "party": "REP",
+        "votes": 23316,
+        "pct": 100
+      }
+    ]
+  },
+  {
+    "chamber": "house",
+    "district": 199,
+    "winner": "RONI GREEN",
+    "winnerParty": "DEM",
+    "pct": 100,
+    "votes": 24492,
+    "total": 24492,
+    "unopposed": true,
+    "candidates": [
+      {
+        "name": "RONI GREEN",
+        "party": "DEM",
+        "votes": 24492,
+        "pct": 100
+      }
+    ]
+  },
+  {
+    "chamber": "senate",
+    "district": 21,
+    "winner": "Not shown",
+    "winnerParty": "TBD",
+    "pct": 0,
+    "votes": 0,
+    "total": 0,
+    "unopposed": false,
+    "candidates": []
+  }
+]
