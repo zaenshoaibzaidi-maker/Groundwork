@@ -1,0 +1,4426 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "North Carolina House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72578,
+        "medianAge": 47.1,
+        "totalPopulation": 86261,
+        "collegePct": 27.91,
+        "renterRatePct": 21.8,
+        "race": {
+          "whitePct": 73.44,
+          "nonHispanicWhitePct": 72.53,
+          "blackPct": 18.05,
+          "asianPct": 0.67,
+          "hispanicPct": 4.71
+        }
+      },
+      "election": {
+        "winner": "Edward C. Goodwin",
+        "party": "REP",
+        "pct": 65.06,
+        "unopposed": false
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "North Carolina House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70720,
+        "medianAge": 42.7,
+        "totalPopulation": 90630,
+        "collegePct": 29.62,
+        "renterRatePct": 24.71,
+        "race": {
+          "whitePct": 56.67,
+          "nonHispanicWhitePct": 53.55,
+          "blackPct": 30.1,
+          "asianPct": 1.51,
+          "hispanicPct": 10.83
+        }
+      },
+      "election": {
+        "winner": "Ray Jeffers",
+        "party": "DEM",
+        "pct": 57.58,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "North Carolina House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64241,
+        "medianAge": 40.9,
+        "totalPopulation": 87103,
+        "collegePct": 27.06,
+        "renterRatePct": 28.38,
+        "race": {
+          "whitePct": 68.23,
+          "nonHispanicWhitePct": 65.6,
+          "blackPct": 19.94,
+          "asianPct": 2.82,
+          "hispanicPct": 7.19
+        }
+      },
+      "election": {
+        "winner": "Steve Tyson",
+        "party": "REP",
+        "pct": 61.68,
+        "unopposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "North Carolina House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53814,
+        "medianAge": 38.9,
+        "totalPopulation": 83566,
+        "collegePct": 18.13,
+        "renterRatePct": 29.73,
+        "race": {
+          "whitePct": 54.22,
+          "nonHispanicWhitePct": 47.92,
+          "blackPct": 24.08,
+          "asianPct": 0.57,
+          "hispanicPct": 23.86
+        }
+      },
+      "election": {
+        "winner": "Jimmy Dixon",
+        "party": "REP",
+        "pct": 63.03,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "North Carolina House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62358,
+        "medianAge": 41,
+        "totalPopulation": 82502,
+        "collegePct": 22.07,
+        "renterRatePct": 29.99,
+        "race": {
+          "whitePct": 54.61,
+          "nonHispanicWhitePct": 52.88,
+          "blackPct": 36.53,
+          "asianPct": 0.96,
+          "hispanicPct": 5.29
+        }
+      },
+      "election": {
+        "winner": "Bill Ward",
+        "party": "REP",
+        "pct": 54.16,
+        "unopposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "North Carolina House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75058,
+        "medianAge": 32.8,
+        "totalPopulation": 83803,
+        "collegePct": 25.93,
+        "renterRatePct": 33.06,
+        "race": {
+          "whitePct": 60.55,
+          "nonHispanicWhitePct": 55.65,
+          "blackPct": 22.63,
+          "asianPct": 1.56,
+          "hispanicPct": 14.96
+        }
+      },
+      "election": {
+        "winner": "Joe Pike",
+        "party": "REP",
+        "pct": 60.64,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "North Carolina House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75293,
+        "medianAge": 41,
+        "totalPopulation": 90084,
+        "collegePct": 26.5,
+        "renterRatePct": 20.12,
+        "race": {
+          "whitePct": 63.75,
+          "nonHispanicWhitePct": 61.94,
+          "blackPct": 23.18,
+          "asianPct": 0.9,
+          "hispanicPct": 9.99
+        }
+      },
+      "election": {
+        "winner": "Matthew Winslow",
+        "party": "REP",
+        "pct": 55.32,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "North Carolina House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51930,
+        "medianAge": 30,
+        "totalPopulation": 92037,
+        "collegePct": 30.53,
+        "renterRatePct": 55.82,
+        "race": {
+          "whitePct": 50.7,
+          "nonHispanicWhitePct": 49.91,
+          "blackPct": 36.88,
+          "asianPct": 1.87,
+          "hispanicPct": 7.92
+        }
+      },
+      "election": {
+        "winner": "Gloristine Brown",
+        "party": "DEM",
+        "pct": 64.03,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "North Carolina House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65798,
+        "medianAge": 37.2,
+        "totalPopulation": 80242,
+        "collegePct": 37.13,
+        "renterRatePct": 41.95,
+        "race": {
+          "whitePct": 55.56,
+          "nonHispanicWhitePct": 54.29,
+          "blackPct": 33.05,
+          "asianPct": 1.69,
+          "hispanicPct": 7.45
+        }
+      },
+      "election": {
+        "winner": "Timothy Reeder",
+        "party": "REP",
+        "pct": 55.95,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "North Carolina House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59116,
+        "medianAge": 37.8,
+        "totalPopulation": 83093,
+        "collegePct": 22.21,
+        "renterRatePct": 41.87,
+        "race": {
+          "whitePct": 57.24,
+          "nonHispanicWhitePct": 54.03,
+          "blackPct": 32.55,
+          "asianPct": 1.43,
+          "hispanicPct": 8.05
+        }
+      },
+      "election": {
+        "winner": "John Bell",
+        "party": "REP",
+        "pct": 60.79,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "North Carolina House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84353,
+        "medianAge": 29.1,
+        "totalPopulation": 82582,
+        "collegePct": 61.26,
+        "renterRatePct": 52.32,
+        "race": {
+          "whitePct": 68.51,
+          "nonHispanicWhitePct": 66.49,
+          "blackPct": 12.53,
+          "asianPct": 8.88,
+          "hispanicPct": 7.35
+        }
+      },
+      "election": {
+        "winner": "Allison A. Dahle",
+        "party": "DEM",
+        "pct": 64.65,
+        "unopposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "North Carolina House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46742,
+        "medianAge": 42.1,
+        "totalPopulation": 84583,
+        "collegePct": 15.17,
+        "renterRatePct": 37.61,
+        "race": {
+          "whitePct": 51.67,
+          "nonHispanicWhitePct": 49.16,
+          "blackPct": 36.52,
+          "asianPct": 0.61,
+          "hispanicPct": 9.62
+        }
+      },
+      "election": {
+        "winner": "Chris Humphrey",
+        "party": "REP",
+        "pct": 57.28,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "North Carolina House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68976,
+        "medianAge": 46.5,
+        "totalPopulation": 82623,
+        "collegePct": 30.43,
+        "renterRatePct": 28.66,
+        "race": {
+          "whitePct": 82.57,
+          "nonHispanicWhitePct": 81.01,
+          "blackPct": 7.41,
+          "asianPct": 1.11,
+          "hispanicPct": 5.43
+        }
+      },
+      "election": {
+        "winner": "Celeste Cairns",
+        "party": "REP",
+        "pct": 69.89,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "North Carolina House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58321,
+        "medianAge": 23.6,
+        "totalPopulation": 91655,
+        "collegePct": 23.95,
+        "renterRatePct": 48.38,
+        "race": {
+          "whitePct": 67.05,
+          "nonHispanicWhitePct": 61.46,
+          "blackPct": 12.8,
+          "asianPct": 1.95,
+          "hispanicPct": 17.56
+        }
+      },
+      "election": {
+        "winner": "Wyatt Gable",
+        "party": "REP",
+        "pct": 66.12,
+        "unopposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "North Carolina House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64439,
+        "medianAge": 29.4,
+        "totalPopulation": 91163,
+        "collegePct": 24.52,
+        "renterRatePct": 36.39,
+        "race": {
+          "whitePct": 67.55,
+          "nonHispanicWhitePct": 63.88,
+          "blackPct": 14.59,
+          "asianPct": 1.89,
+          "hispanicPct": 11.7
+        }
+      },
+      "election": {
+        "winner": "Phillip Shepard",
+        "party": "REP",
+        "pct": 63.85,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "North Carolina House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80194,
+        "medianAge": 38.4,
+        "totalPopulation": 89194,
+        "collegePct": 31.52,
+        "renterRatePct": 19.76,
+        "race": {
+          "whitePct": 77.85,
+          "nonHispanicWhitePct": 75.65,
+          "blackPct": 10.06,
+          "asianPct": 0.83,
+          "hispanicPct": 8.27
+        }
+      },
+      "election": {
+        "winner": "Carson Smith",
+        "party": "REP",
+        "pct": 70.84,
+        "unopposed": false
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "North Carolina House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73656,
+        "medianAge": 52,
+        "totalPopulation": 96205,
+        "collegePct": 31.3,
+        "renterRatePct": 17.06,
+        "race": {
+          "whitePct": 78.84,
+          "nonHispanicWhitePct": 77.18,
+          "blackPct": 10.3,
+          "asianPct": 0.65,
+          "hispanicPct": 7
+        }
+      },
+      "election": {
+        "winner": "Frank Iler",
+        "party": "REP",
+        "pct": 62.27,
+        "unopposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "North Carolina House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71919,
+        "medianAge": 40.1,
+        "totalPopulation": 94338,
+        "collegePct": 42.28,
+        "renterRatePct": 39.9,
+        "race": {
+          "whitePct": 70.42,
+          "nonHispanicWhitePct": 67.88,
+          "blackPct": 18.85,
+          "asianPct": 1.58,
+          "hispanicPct": 7.19
+        }
+      },
+      "election": {
+        "winner": "Deb Butler",
+        "party": "DEM",
+        "pct": 82.66,
+        "unopposed": false
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "North Carolina House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76644,
+        "medianAge": 54.2,
+        "totalPopulation": 94623,
+        "collegePct": 38.17,
+        "renterRatePct": 21.05,
+        "race": {
+          "whitePct": 85.31,
+          "nonHispanicWhitePct": 84.32,
+          "blackPct": 4.93,
+          "asianPct": 0.54,
+          "hispanicPct": 6.05
+        }
+      },
+      "election": {
+        "winner": "Charlie Miller",
+        "party": "REP",
+        "pct": 61.46,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "North Carolina House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72027,
+        "medianAge": 37.9,
+        "totalPopulation": 91937,
+        "collegePct": 50.06,
+        "renterRatePct": 43.51,
+        "race": {
+          "whitePct": 82.77,
+          "nonHispanicWhitePct": 80.37,
+          "blackPct": 5.99,
+          "asianPct": 1.62,
+          "hispanicPct": 7.04
+        }
+      },
+      "election": {
+        "winner": "Ted Davis, Jr.",
+        "party": "REP",
+        "pct": 55.8,
+        "unopposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "North Carolina House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 146184,
+        "medianAge": 35.9,
+        "totalPopulation": 91257,
+        "collegePct": 77.1,
+        "renterRatePct": 40.63,
+        "race": {
+          "whitePct": 42.14,
+          "nonHispanicWhitePct": 40.11,
+          "blackPct": 9.94,
+          "asianPct": 39.31,
+          "hispanicPct": 5.96
+        }
+      },
+      "election": {
+        "winner": "Ya Liu",
+        "party": "DEM",
+        "pct": 62.75,
+        "unopposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "North Carolina House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49930,
+        "medianAge": 41.3,
+        "totalPopulation": 88836,
+        "collegePct": 17.47,
+        "renterRatePct": 28.25,
+        "race": {
+          "whitePct": 53.79,
+          "nonHispanicWhitePct": 50.99,
+          "blackPct": 27.8,
+          "asianPct": 0.39,
+          "hispanicPct": 17.17
+        }
+      },
+      "election": {
+        "winner": "William Brisson",
+        "party": "REP",
+        "pct": 61.01,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "North Carolina House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47432,
+        "medianAge": 43.8,
+        "totalPopulation": 88032,
+        "collegePct": 16.57,
+        "renterRatePct": 35.29,
+        "race": {
+          "whitePct": 40.62,
+          "nonHispanicWhitePct": 38.99,
+          "blackPct": 53.05,
+          "asianPct": 0.44,
+          "hispanicPct": 4.72
+        }
+      },
+      "election": {
+        "winner": "Shelly Willingham",
+        "party": "DEM",
+        "pct": 56.46,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "North Carolina House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51977,
+        "medianAge": 40.3,
+        "totalPopulation": 83442,
+        "collegePct": 20.32,
+        "renterRatePct": 40.27,
+        "race": {
+          "whitePct": 46.96,
+          "nonHispanicWhitePct": 45.74,
+          "blackPct": 38.94,
+          "asianPct": 0.96,
+          "hispanicPct": 11.33
+        }
+      },
+      "election": {
+        "winner": "Dante Pittman",
+        "party": "DEM",
+        "pct": 51.1,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "North Carolina House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60706,
+        "medianAge": 42.1,
+        "totalPopulation": 90657,
+        "collegePct": 21.74,
+        "renterRatePct": 36.69,
+        "race": {
+          "whitePct": 47.48,
+          "nonHispanicWhitePct": 46.12,
+          "blackPct": 41.01,
+          "asianPct": 0.9,
+          "hispanicPct": 8.25
+        }
+      },
+      "election": {
+        "winner": "Allen Chesser",
+        "party": "REP",
+        "pct": 48.8,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "North Carolina House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89695,
+        "medianAge": 38.8,
+        "totalPopulation": 91892,
+        "collegePct": 33.68,
+        "renterRatePct": 21.37,
+        "race": {
+          "whitePct": 66.84,
+          "nonHispanicWhitePct": 63.97,
+          "blackPct": 18.01,
+          "asianPct": 0.83,
+          "hispanicPct": 12.55
+        }
+      },
+      "election": {
+        "winner": "Donna McDowell White",
+        "party": "REP",
+        "pct": 55.1,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "North Carolina House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45687,
+        "medianAge": 46.5,
+        "totalPopulation": 84182,
+        "collegePct": 17.03,
+        "renterRatePct": 33.07,
+        "race": {
+          "whitePct": 37.99,
+          "nonHispanicWhitePct": 37.39,
+          "blackPct": 51.45,
+          "asianPct": 0.7,
+          "hispanicPct": 3.31
+        }
+      },
+      "election": {
+        "winner": "Rodney D. Pierce",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "North Carolina House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63837,
+        "medianAge": 37.9,
+        "totalPopulation": 92502,
+        "collegePct": 18.82,
+        "renterRatePct": 29.81,
+        "race": {
+          "whitePct": 64.22,
+          "nonHispanicWhitePct": 58.91,
+          "blackPct": 16.83,
+          "asianPct": 0.62,
+          "hispanicPct": 20.65
+        }
+      },
+      "election": {
+        "winner": "Larry C. Strickland",
+        "party": "REP",
+        "pct": 68.88,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "North Carolina House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90477,
+        "medianAge": 35.7,
+        "totalPopulation": 94338,
+        "collegePct": 66.06,
+        "renterRatePct": 43.48,
+        "race": {
+          "whitePct": 48.97,
+          "nonHispanicWhitePct": 46.35,
+          "blackPct": 30.39,
+          "asianPct": 5.64,
+          "hispanicPct": 13.14
+        }
+      },
+      "election": {
+        "winner": "Vernetta Alston",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "North Carolina House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70696,
+        "medianAge": 34.5,
+        "totalPopulation": 91694,
+        "collegePct": 58.36,
+        "renterRatePct": 58.54,
+        "race": {
+          "whitePct": 50.66,
+          "nonHispanicWhitePct": 47.12,
+          "blackPct": 25.57,
+          "asianPct": 6.67,
+          "hispanicPct": 14.83
+        }
+      },
+      "election": {
+        "winner": "Marcia Morey",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "North Carolina House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81412,
+        "medianAge": 34.8,
+        "totalPopulation": 92018,
+        "collegePct": 45.08,
+        "renterRatePct": 42.95,
+        "race": {
+          "whitePct": 34.52,
+          "nonHispanicWhitePct": 30.55,
+          "blackPct": 42.92,
+          "asianPct": 4.69,
+          "hispanicPct": 18.25
+        }
+      },
+      "election": {
+        "winner": "Zack Hawkins",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "North Carolina House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54200,
+        "medianAge": 41.7,
+        "totalPopulation": 85678,
+        "collegePct": 19.08,
+        "renterRatePct": 35.68,
+        "race": {
+          "whitePct": 45.84,
+          "nonHispanicWhitePct": 44.46,
+          "blackPct": 40.89,
+          "asianPct": 0.47,
+          "hispanicPct": 10.55
+        }
+      },
+      "election": {
+        "winner": "Bryan Cohn",
+        "party": "DEM",
+        "pct": 48.95,
+        "unopposed": false
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "North Carolina House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86686,
+        "medianAge": 38.3,
+        "totalPopulation": 94029,
+        "collegePct": 38.14,
+        "renterRatePct": 25.63,
+        "race": {
+          "whitePct": 47.77,
+          "nonHispanicWhitePct": 43.63,
+          "blackPct": 35.22,
+          "asianPct": 1.45,
+          "hispanicPct": 16.08
+        }
+      },
+      "election": {
+        "winner": "Monika Johnson-Hostler",
+        "party": "DEM",
+        "pct": 80.19,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "North Carolina House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93774,
+        "medianAge": 40.3,
+        "totalPopulation": 84185,
+        "collegePct": 65.96,
+        "renterRatePct": 40.19,
+        "race": {
+          "whitePct": 77.02,
+          "nonHispanicWhitePct": 75.57,
+          "blackPct": 9.75,
+          "asianPct": 2.79,
+          "hispanicPct": 8.83
+        }
+      },
+      "election": {
+        "winner": "Tim Longest",
+        "party": "DEM",
+        "pct": 75.79,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "North Carolina House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116264,
+        "medianAge": 39.6,
+        "totalPopulation": 90861,
+        "collegePct": 56.07,
+        "renterRatePct": 27.05,
+        "race": {
+          "whitePct": 65.45,
+          "nonHispanicWhitePct": 63.7,
+          "blackPct": 20.44,
+          "asianPct": 2.66,
+          "hispanicPct": 8.9
+        }
+      },
+      "election": {
+        "winner": "Mike Schietzelt",
+        "party": "REP",
+        "pct": 50.27,
+        "unopposed": false
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "North Carolina House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 138962,
+        "medianAge": 37.4,
+        "totalPopulation": 91545,
+        "collegePct": 68.06,
+        "renterRatePct": 16.86,
+        "race": {
+          "whitePct": 68.34,
+          "nonHispanicWhitePct": 66.33,
+          "blackPct": 8.16,
+          "asianPct": 12.96,
+          "hispanicPct": 6.74
+        }
+      },
+      "election": {
+        "winner": "Julie von Haefen",
+        "party": "DEM",
+        "pct": 54.52,
+        "unopposed": false
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "North Carolina House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116109,
+        "medianAge": 38.1,
+        "totalPopulation": 92285,
+        "collegePct": 53.13,
+        "renterRatePct": 18.76,
+        "race": {
+          "whitePct": 74.6,
+          "nonHispanicWhitePct": 72.63,
+          "blackPct": 11.44,
+          "asianPct": 3.23,
+          "hispanicPct": 8.65
+        }
+      },
+      "election": {
+        "winner": "Erin Pare",
+        "party": "REP",
+        "pct": 51.41,
+        "unopposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "North Carolina House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68769,
+        "medianAge": 34.4,
+        "totalPopulation": 93830,
+        "collegePct": 38.98,
+        "renterRatePct": 52.12,
+        "race": {
+          "whitePct": 33.91,
+          "nonHispanicWhitePct": 30.93,
+          "blackPct": 41.54,
+          "asianPct": 3.21,
+          "hispanicPct": 20.09
+        }
+      },
+      "election": {
+        "winner": "Abe Jones",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "North Carolina House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85375,
+        "medianAge": 37.5,
+        "totalPopulation": 89816,
+        "collegePct": 34.56,
+        "renterRatePct": 25.51,
+        "race": {
+          "whitePct": 44.39,
+          "nonHispanicWhitePct": 40.93,
+          "blackPct": 31.63,
+          "asianPct": 2.24,
+          "hispanicPct": 21.16
+        }
+      },
+      "election": {
+        "winner": "James Roberson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "North Carolina House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 138237,
+        "medianAge": 42.5,
+        "totalPopulation": 85330,
+        "collegePct": 67.62,
+        "renterRatePct": 21.94,
+        "race": {
+          "whitePct": 79.37,
+          "nonHispanicWhitePct": 77.9,
+          "blackPct": 9.26,
+          "asianPct": 3.92,
+          "hispanicPct": 4.92
+        }
+      },
+      "election": {
+        "winner": "Joe John",
+        "party": "DEM",
+        "pct": 62.32,
+        "unopposed": false
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "North Carolina House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116163,
+        "medianAge": 41.5,
+        "totalPopulation": 84314,
+        "collegePct": 64.03,
+        "renterRatePct": 32.46,
+        "race": {
+          "whitePct": 66.94,
+          "nonHispanicWhitePct": 64.82,
+          "blackPct": 6.64,
+          "asianPct": 12.53,
+          "hispanicPct": 10.77
+        }
+      },
+      "election": {
+        "winner": "Maria Cervania",
+        "party": "DEM",
+        "pct": 76.58,
+        "unopposed": false
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "North Carolina House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61920,
+        "medianAge": 26.9,
+        "totalPopulation": 86565,
+        "collegePct": 27.51,
+        "renterRatePct": 56.23,
+        "race": {
+          "whitePct": 37.88,
+          "nonHispanicWhitePct": 33.36,
+          "blackPct": 40.45,
+          "asianPct": 2.8,
+          "hispanicPct": 15.91
+        }
+      },
+      "election": {
+        "winner": "Mike Colvin",
+        "party": "DEM",
+        "pct": 74.29,
+        "unopposed": false
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "North Carolina House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60603,
+        "medianAge": 37.4,
+        "totalPopulation": 83715,
+        "collegePct": 26.39,
+        "renterRatePct": 35.74,
+        "race": {
+          "whitePct": 52.63,
+          "nonHispanicWhitePct": 50.48,
+          "blackPct": 33.56,
+          "asianPct": 1.32,
+          "hispanicPct": 7.58
+        }
+      },
+      "election": {
+        "winner": "Diane Wheatley",
+        "party": "REP",
+        "pct": 57.33,
+        "unopposed": false
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "North Carolina House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52381,
+        "medianAge": 34.7,
+        "totalPopulation": 82245,
+        "collegePct": 28.03,
+        "renterRatePct": 54.21,
+        "race": {
+          "whitePct": 41.02,
+          "nonHispanicWhitePct": 37.92,
+          "blackPct": 39.91,
+          "asianPct": 3.45,
+          "hispanicPct": 10.99
+        }
+      },
+      "election": {
+        "winner": "Charles Smith",
+        "party": "DEM",
+        "pct": 62.28,
+        "unopposed": false
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "North Carolina House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60738,
+        "medianAge": 32.7,
+        "totalPopulation": 84224,
+        "collegePct": 26.85,
+        "renterRatePct": 39.19,
+        "race": {
+          "whitePct": 44.27,
+          "nonHispanicWhitePct": 40.8,
+          "blackPct": 35.38,
+          "asianPct": 3.01,
+          "hispanicPct": 14.83
+        }
+      },
+      "election": {
+        "winner": "Frances Vinell Jackson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "North Carolina House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47182,
+        "medianAge": 40.6,
+        "totalPopulation": 84615,
+        "collegePct": 13,
+        "renterRatePct": 27.87,
+        "race": {
+          "whitePct": 51.18,
+          "nonHispanicWhitePct": 49.59,
+          "blackPct": 25.46,
+          "asianPct": 0.32,
+          "hispanicPct": 10.92
+        }
+      },
+      "election": {
+        "winner": "Brenden H. Jones",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "North Carolina House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 37287,
+        "medianAge": 36.1,
+        "totalPopulation": 82696,
+        "collegePct": 16.6,
+        "renterRatePct": 36.92,
+        "race": {
+          "whitePct": 19.44,
+          "nonHispanicWhitePct": 18.6,
+          "blackPct": 24.38,
+          "asianPct": 1.08,
+          "hispanicPct": 6.95
+        }
+      },
+      "election": {
+        "winner": "Jarrod Lowery",
+        "party": "REP",
+        "pct": 64.63,
+        "unopposed": false
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "North Carolina House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53231,
+        "medianAge": 35.4,
+        "totalPopulation": 87455,
+        "collegePct": 18.69,
+        "renterRatePct": 33.4,
+        "race": {
+          "whitePct": 40.91,
+          "nonHispanicWhitePct": 38.17,
+          "blackPct": 35.18,
+          "asianPct": 1.27,
+          "hispanicPct": 10.72
+        }
+      },
+      "election": {
+        "winner": "Garland E. Pierce",
+        "party": "DEM",
+        "pct": 51.92,
+        "unopposed": false
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "North Carolina House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92278,
+        "medianAge": 35.1,
+        "totalPopulation": 83861,
+        "collegePct": 66.24,
+        "renterRatePct": 55.58,
+        "race": {
+          "whitePct": 67.12,
+          "nonHispanicWhitePct": 65.25,
+          "blackPct": 16.21,
+          "asianPct": 6.24,
+          "hispanicPct": 8.87
+        }
+      },
+      "election": {
+        "winner": "Cynthia Ball",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "North Carolina House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80289,
+        "medianAge": 44.7,
+        "totalPopulation": 86424,
+        "collegePct": 40.32,
+        "renterRatePct": 19.6,
+        "race": {
+          "whitePct": 71.05,
+          "nonHispanicWhitePct": 67.55,
+          "blackPct": 14.95,
+          "asianPct": 2.24,
+          "hispanicPct": 11.02
+        }
+      },
+      "election": {
+        "winner": "Renee A. Price",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "North Carolina House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64736,
+        "medianAge": 40.1,
+        "totalPopulation": 84450,
+        "collegePct": 23.31,
+        "renterRatePct": 29.93,
+        "race": {
+          "whitePct": 68.34,
+          "nonHispanicWhitePct": 60.53,
+          "blackPct": 17.07,
+          "asianPct": 1.08,
+          "hispanicPct": 17.82
+        }
+      },
+      "election": {
+        "winner": "John Sauls",
+        "party": "REP",
+        "pct": 64.3,
+        "unopposed": false
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "North Carolina House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61942,
+        "medianAge": 39.2,
+        "totalPopulation": 85696,
+        "collegePct": 30.5,
+        "renterRatePct": 34.58,
+        "race": {
+          "whitePct": 66.55,
+          "nonHispanicWhitePct": 64.45,
+          "blackPct": 22.03,
+          "asianPct": 1.35,
+          "hispanicPct": 7.01
+        }
+      },
+      "election": {
+        "winner": "Ben Moss, Jr.",
+        "party": "REP",
+        "pct": 61.07,
+        "unopposed": false
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "North Carolina House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76795,
+        "medianAge": 40.2,
+        "totalPopulation": 94929,
+        "collegePct": 26.68,
+        "renterRatePct": 20.17,
+        "race": {
+          "whitePct": 68.89,
+          "nonHispanicWhitePct": 65.97,
+          "blackPct": 15.71,
+          "asianPct": 0.79,
+          "hispanicPct": 14.34
+        }
+      },
+      "election": {
+        "winner": "Howard Penny, Jr.",
+        "party": "REP",
+        "pct": 62.93,
+        "unopposed": false
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "North Carolina House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83337,
+        "medianAge": 47.1,
+        "totalPopulation": 85491,
+        "collegePct": 44.91,
+        "renterRatePct": 21.16,
+        "race": {
+          "whitePct": 72.57,
+          "nonHispanicWhitePct": 69.75,
+          "blackPct": 10.64,
+          "asianPct": 1.88,
+          "hispanicPct": 13.64
+        }
+      },
+      "election": {
+        "winner": "Robert T. Reives II",
+        "party": "DEM",
+        "pct": 54.76,
+        "unopposed": false
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "North Carolina House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63025,
+        "medianAge": 39.8,
+        "totalPopulation": 85783,
+        "collegePct": 17.64,
+        "renterRatePct": 31.22,
+        "race": {
+          "whitePct": 57.34,
+          "nonHispanicWhitePct": 53.48,
+          "blackPct": 25.88,
+          "asianPct": 0.91,
+          "hispanicPct": 16.25
+        }
+      },
+      "election": {
+        "winner": "Mark Brody",
+        "party": "REP",
+        "pct": 63,
+        "unopposed": false
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "North Carolina House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86648,
+        "medianAge": 28.8,
+        "totalPopulation": 83557,
+        "collegePct": 74.32,
+        "renterRatePct": 50.24,
+        "race": {
+          "whitePct": 67.1,
+          "nonHispanicWhitePct": 64.09,
+          "blackPct": 11.75,
+          "asianPct": 11.68,
+          "hispanicPct": 8.52
+        }
+      },
+      "election": {
+        "winner": "Allen Buansi",
+        "party": "DEM",
+        "pct": 86.29,
+        "unopposed": false
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "North Carolina House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78310,
+        "medianAge": 40.1,
+        "totalPopulation": 89438,
+        "collegePct": 49.31,
+        "renterRatePct": 36.69,
+        "race": {
+          "whitePct": 58.02,
+          "nonHispanicWhitePct": 56.52,
+          "blackPct": 25.46,
+          "asianPct": 5.59,
+          "hispanicPct": 7.3
+        }
+      },
+      "election": {
+        "winner": "Tracy Clark",
+        "party": "DEM",
+        "pct": 68.14,
+        "unopposed": false
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "North Carolina House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57261,
+        "medianAge": 35,
+        "totalPopulation": 91714,
+        "collegePct": 30.97,
+        "renterRatePct": 50.03,
+        "race": {
+          "whitePct": 30.13,
+          "nonHispanicWhitePct": 26.96,
+          "blackPct": 48.03,
+          "asianPct": 7.51,
+          "hispanicPct": 12.62
+        }
+      },
+      "election": {
+        "winner": "Amos Quick",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "North Carolina House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80479,
+        "medianAge": 40.2,
+        "totalPopulation": 89393,
+        "collegePct": 32.56,
+        "renterRatePct": 22.4,
+        "race": {
+          "whitePct": 57.57,
+          "nonHispanicWhitePct": 56.99,
+          "blackPct": 30.91,
+          "asianPct": 1.18,
+          "hispanicPct": 7.46
+        }
+      },
+      "election": {
+        "winner": "Alan Branson",
+        "party": "REP",
+        "pct": 55.18,
+        "unopposed": false
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "North Carolina House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55882,
+        "medianAge": 37.5,
+        "totalPopulation": 92547,
+        "collegePct": 28.16,
+        "renterRatePct": 42.78,
+        "race": {
+          "whitePct": 43.94,
+          "nonHispanicWhitePct": 40.3,
+          "blackPct": 35.64,
+          "asianPct": 7.51,
+          "hispanicPct": 13.39
+        }
+      },
+      "election": {
+        "winner": "Cecil Brockman",
+        "party": "DEM",
+        "pct": 63.18,
+        "unopposed": false
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "North Carolina House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50572,
+        "medianAge": 30,
+        "totalPopulation": 91125,
+        "collegePct": 36.55,
+        "renterRatePct": 57.58,
+        "race": {
+          "whitePct": 38.26,
+          "nonHispanicWhitePct": 35.95,
+          "blackPct": 47.41,
+          "asianPct": 2.7,
+          "hispanicPct": 10.29
+        }
+      },
+      "election": {
+        "winner": "Mary Price (Pricey) Harrison",
+        "party": "DEM",
+        "pct": 78.87,
+        "unopposed": false
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "North Carolina House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88476,
+        "medianAge": 42.9,
+        "totalPopulation": 88770,
+        "collegePct": 50.46,
+        "renterRatePct": 30.61,
+        "race": {
+          "whitePct": 67.85,
+          "nonHispanicWhitePct": 65.38,
+          "blackPct": 15.81,
+          "asianPct": 6.46,
+          "hispanicPct": 7.49
+        }
+      },
+      "election": {
+        "winner": "John M. Blust",
+        "party": "REP",
+        "pct": 53.45,
+        "unopposed": false
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "North Carolina House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60257,
+        "medianAge": 37.8,
+        "totalPopulation": 84548,
+        "collegePct": 23.57,
+        "renterRatePct": 37.59,
+        "race": {
+          "whitePct": 52.71,
+          "nonHispanicWhitePct": 49.15,
+          "blackPct": 24.87,
+          "asianPct": 1.18,
+          "hispanicPct": 19.41
+        }
+      },
+      "election": {
+        "winner": "Stephen Ross",
+        "party": "REP",
+        "pct": 55.03,
+        "unopposed": false
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "North Carolina House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67884,
+        "medianAge": 39.5,
+        "totalPopulation": 89738,
+        "collegePct": 31.7,
+        "renterRatePct": 31.29,
+        "race": {
+          "whitePct": 72.32,
+          "nonHispanicWhitePct": 69.29,
+          "blackPct": 15.25,
+          "asianPct": 2.13,
+          "hispanicPct": 10.37
+        }
+      },
+      "election": {
+        "winner": "Dennis Riddell",
+        "party": "REP",
+        "pct": 54.84,
+        "unopposed": false
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "North Carolina House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55796,
+        "medianAge": 44.7,
+        "totalPopulation": 91585,
+        "collegePct": 16.13,
+        "renterRatePct": 27.65,
+        "race": {
+          "whitePct": 72.64,
+          "nonHispanicWhitePct": 70.51,
+          "blackPct": 17.59,
+          "asianPct": 0.2,
+          "hispanicPct": 6.89
+        }
+      },
+      "election": {
+        "winner": "Reece Pyrtle",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "North Carolina House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76610,
+        "medianAge": 35.8,
+        "totalPopulation": 87114,
+        "collegePct": 44.34,
+        "renterRatePct": 47.24,
+        "race": {
+          "whitePct": 41.06,
+          "nonHispanicWhitePct": 37.99,
+          "blackPct": 34.62,
+          "asianPct": 5.55,
+          "hispanicPct": 18.63
+        }
+      },
+      "election": {
+        "winner": "Sarah Crawford",
+        "party": "DEM",
+        "pct": 74.85,
+        "unopposed": false
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "North Carolina House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59447,
+        "medianAge": 41.6,
+        "totalPopulation": 89431,
+        "collegePct": 19.58,
+        "renterRatePct": 26.5,
+        "race": {
+          "whitePct": 76.44,
+          "nonHispanicWhitePct": 74.33,
+          "blackPct": 12.65,
+          "asianPct": 1.8,
+          "hispanicPct": 8.21
+        }
+      },
+      "election": {
+        "winner": "Cody Huneycutt",
+        "party": "REP",
+        "pct": 75.03,
+        "unopposed": false
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "North Carolina House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 148172,
+        "medianAge": 40.4,
+        "totalPopulation": 89645,
+        "collegePct": 56.14,
+        "renterRatePct": 9.24,
+        "race": {
+          "whitePct": 73.92,
+          "nonHispanicWhitePct": 71.5,
+          "blackPct": 8.11,
+          "asianPct": 7.75,
+          "hispanicPct": 8.98
+        }
+      },
+      "election": {
+        "winner": "David Willis",
+        "party": "REP",
+        "pct": 62.49,
+        "unopposed": false
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "North Carolina House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92208,
+        "medianAge": 37.7,
+        "totalPopulation": 91450,
+        "collegePct": 36.25,
+        "renterRatePct": 17.39,
+        "race": {
+          "whitePct": 75.03,
+          "nonHispanicWhitePct": 72.51,
+          "blackPct": 9.04,
+          "asianPct": 2.86,
+          "hispanicPct": 11.47
+        }
+      },
+      "election": {
+        "winner": "Dean Arp",
+        "party": "REP",
+        "pct": 63.21,
+        "unopposed": false
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "North Carolina House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56649,
+        "medianAge": 40.7,
+        "totalPopulation": 88156,
+        "collegePct": 18.99,
+        "renterRatePct": 30.52,
+        "race": {
+          "whitePct": 77.65,
+          "nonHispanicWhitePct": 72.95,
+          "blackPct": 7.15,
+          "asianPct": 1.47,
+          "hispanicPct": 14.84
+        }
+      },
+      "election": {
+        "winner": "Brian Biggs",
+        "party": "REP",
+        "pct": 76.17,
+        "unopposed": false
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "North Carolina House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56307,
+        "medianAge": 34.4,
+        "totalPopulation": 85745,
+        "collegePct": 33.05,
+        "renterRatePct": 46.71,
+        "race": {
+          "whitePct": 48.32,
+          "nonHispanicWhitePct": 42.67,
+          "blackPct": 30.25,
+          "asianPct": 2.13,
+          "hispanicPct": 20.85
+        }
+      },
+      "election": {
+        "winner": "Kanika Brown",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "North Carolina House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49936,
+        "medianAge": 34.4,
+        "totalPopulation": 81409,
+        "collegePct": 38.69,
+        "renterRatePct": 55.5,
+        "race": {
+          "whitePct": 42.21,
+          "nonHispanicWhitePct": 37.69,
+          "blackPct": 41.98,
+          "asianPct": 2.04,
+          "hispanicPct": 15.3
+        }
+      },
+      "election": {
+        "winner": "Amber M. Baker",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "North Carolina House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93919,
+        "medianAge": 35.9,
+        "totalPopulation": 92949,
+        "collegePct": 42.93,
+        "renterRatePct": 28,
+        "race": {
+          "whitePct": 53.84,
+          "nonHispanicWhitePct": 50.69,
+          "blackPct": 22,
+          "asianPct": 7.52,
+          "hispanicPct": 14.46
+        }
+      },
+      "election": {
+        "winner": "Jonathan Almond",
+        "party": "REP",
+        "pct": 53.21,
+        "unopposed": false
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "North Carolina House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82144,
+        "medianAge": 42.2,
+        "totalPopulation": 89567,
+        "collegePct": 50.2,
+        "renterRatePct": 28.43,
+        "race": {
+          "whitePct": 74.56,
+          "nonHispanicWhitePct": 71.75,
+          "blackPct": 12.21,
+          "asianPct": 4.1,
+          "hispanicPct": 8.24
+        }
+      },
+      "election": {
+        "winner": "Jeffrey (Jeff) Zenger",
+        "party": "REP",
+        "pct": 51.82,
+        "unopposed": false
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "North Carolina House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73502,
+        "medianAge": 40.1,
+        "totalPopulation": 86479,
+        "collegePct": 30.5,
+        "renterRatePct": 29.23,
+        "race": {
+          "whitePct": 62.42,
+          "nonHispanicWhitePct": 58.77,
+          "blackPct": 20.81,
+          "asianPct": 2.11,
+          "hispanicPct": 15.89
+        }
+      },
+      "election": {
+        "winner": "Donny C. Lambeth",
+        "party": "REP",
+        "pct": 56.95,
+        "unopposed": false
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "North Carolina House District 76",
+      "census": {
+        "censusName": "State House District 76 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60781,
+        "medianAge": 40.4,
+        "totalPopulation": 92265,
+        "collegePct": 23,
+        "renterRatePct": 33.45,
+        "race": {
+          "whitePct": 69.05,
+          "nonHispanicWhitePct": 65.97,
+          "blackPct": 19.47,
+          "asianPct": 0.93,
+          "hispanicPct": 10.33
+        }
+      },
+      "election": {
+        "winner": "Harry Warren",
+        "party": "REP",
+        "pct": 62.37,
+        "unopposed": false
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "North Carolina House District 77",
+      "census": {
+        "censusName": "State House District 77 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67672,
+        "medianAge": 44.7,
+        "totalPopulation": 92023,
+        "collegePct": 21.61,
+        "renterRatePct": 18.78,
+        "race": {
+          "whitePct": 84.25,
+          "nonHispanicWhitePct": 81.51,
+          "blackPct": 4.74,
+          "asianPct": 0.47,
+          "hispanicPct": 9.54
+        }
+      },
+      "election": {
+        "winner": "Julia Craven Howard",
+        "party": "REP",
+        "pct": 79.08,
+        "unopposed": false
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "North Carolina House District 78",
+      "census": {
+        "censusName": "State House District 78 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70319,
+        "medianAge": 45.5,
+        "totalPopulation": 90071,
+        "collegePct": 28.69,
+        "renterRatePct": 17.98,
+        "race": {
+          "whitePct": 83.38,
+          "nonHispanicWhitePct": 80.74,
+          "blackPct": 4.37,
+          "asianPct": 0.76,
+          "hispanicPct": 10.05
+        }
+      },
+      "election": {
+        "winner": "Neal Jackson",
+        "party": "REP",
+        "pct": 76.46,
+        "unopposed": false
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "North Carolina House District 79",
+      "census": {
+        "censusName": "State House District 79 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60961,
+        "medianAge": 48.1,
+        "totalPopulation": 83663,
+        "collegePct": 25.82,
+        "renterRatePct": 26.44,
+        "race": {
+          "whitePct": 74.12,
+          "nonHispanicWhitePct": 72.12,
+          "blackPct": 17.43,
+          "asianPct": 0.34,
+          "hispanicPct": 7.34
+        }
+      },
+      "election": {
+        "winner": "Keith Kidwell",
+        "party": "REP",
+        "pct": 63.24,
+        "unopposed": false
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "North Carolina House District 80",
+      "census": {
+        "censusName": "State House District 80 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64129,
+        "medianAge": 41.9,
+        "totalPopulation": 87820,
+        "collegePct": 21.57,
+        "renterRatePct": 25.67,
+        "race": {
+          "whitePct": 78.91,
+          "nonHispanicWhitePct": 76.61,
+          "blackPct": 9.01,
+          "asianPct": 1.01,
+          "hispanicPct": 9.33
+        }
+      },
+      "election": {
+        "winner": "Sam Watford",
+        "party": "REP",
+        "pct": 75.7,
+        "unopposed": false
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "North Carolina House District 81",
+      "census": {
+        "censusName": "State House District 81 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60777,
+        "medianAge": 42.9,
+        "totalPopulation": 83243,
+        "collegePct": 19.83,
+        "renterRatePct": 27.32,
+        "race": {
+          "whitePct": 79.27,
+          "nonHispanicWhitePct": 77.04,
+          "blackPct": 9.6,
+          "asianPct": 2.07,
+          "hispanicPct": 7.74
+        }
+      },
+      "election": {
+        "winner": "Larry W. Potts",
+        "party": "REP",
+        "pct": 71.88,
+        "unopposed": false
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "North Carolina House District 82",
+      "census": {
+        "censusName": "State House District 82 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81489,
+        "medianAge": 37.8,
+        "totalPopulation": 92396,
+        "collegePct": 36.66,
+        "renterRatePct": 33.07,
+        "race": {
+          "whitePct": 61.79,
+          "nonHispanicWhitePct": 58.3,
+          "blackPct": 20.06,
+          "asianPct": 4.63,
+          "hispanicPct": 12.08
+        }
+      },
+      "election": {
+        "winner": "Brian Echevarria",
+        "party": "REP",
+        "pct": 54.35,
+        "unopposed": false
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "North Carolina House District 83",
+      "census": {
+        "censusName": "State House District 83 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73654,
+        "medianAge": 40.7,
+        "totalPopulation": 91061,
+        "collegePct": 24.3,
+        "renterRatePct": 20.05,
+        "race": {
+          "whitePct": 76.33,
+          "nonHispanicWhitePct": 73.9,
+          "blackPct": 9.28,
+          "asianPct": 1.8,
+          "hispanicPct": 11.51
+        }
+      },
+      "election": {
+        "winner": "Grant Campbell",
+        "party": "REP",
+        "pct": 65.68,
+        "unopposed": false
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "North Carolina House District 84",
+      "census": {
+        "censusName": "State House District 84 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64553,
+        "medianAge": 40,
+        "totalPopulation": 88379,
+        "collegePct": 19.93,
+        "renterRatePct": 29.36,
+        "race": {
+          "whitePct": 70.78,
+          "nonHispanicWhitePct": 68.63,
+          "blackPct": 15.01,
+          "asianPct": 1.73,
+          "hispanicPct": 11.58
+        }
+      },
+      "election": {
+        "winner": "Jeffrey C. McNeely",
+        "party": "REP",
+        "pct": 68.17,
+        "unopposed": false
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "North Carolina House District 85",
+      "census": {
+        "censusName": "State House District 85 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54901,
+        "medianAge": 46.5,
+        "totalPopulation": 89599,
+        "collegePct": 20.02,
+        "renterRatePct": 24.28,
+        "race": {
+          "whitePct": 89.32,
+          "nonHispanicWhitePct": 87.68,
+          "blackPct": 2.84,
+          "asianPct": 0.78,
+          "hispanicPct": 6.53
+        }
+      },
+      "election": {
+        "winner": "Dudley Greene",
+        "party": "REP",
+        "pct": 74.19,
+        "unopposed": false
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "North Carolina House District 86",
+      "census": {
+        "censusName": "State House District 86 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55684,
+        "medianAge": 44.9,
+        "totalPopulation": 87863,
+        "collegePct": 20.17,
+        "renterRatePct": 25.23,
+        "race": {
+          "whitePct": 81.11,
+          "nonHispanicWhitePct": 79.35,
+          "blackPct": 6.05,
+          "asianPct": 3.36,
+          "hispanicPct": 8.23
+        }
+      },
+      "election": {
+        "winner": "Hugh Blackwell",
+        "party": "REP",
+        "pct": 72.05,
+        "unopposed": false
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "North Carolina House District 87",
+      "census": {
+        "censusName": "State House District 87 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55745,
+        "medianAge": 45.4,
+        "totalPopulation": 85788,
+        "collegePct": 21.25,
+        "renterRatePct": 26.24,
+        "race": {
+          "whitePct": 87.07,
+          "nonHispanicWhitePct": 86.16,
+          "blackPct": 3.95,
+          "asianPct": 0.6,
+          "hispanicPct": 6.12
+        }
+      },
+      "election": {
+        "winner": "Destin Hall",
+        "party": "REP",
+        "pct": 75.42,
+        "unopposed": false
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "North Carolina House District 88",
+      "census": {
+        "censusName": "State House District 88 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79112,
+        "medianAge": 32.2,
+        "totalPopulation": 85738,
+        "collegePct": 57.86,
+        "renterRatePct": 61.39,
+        "race": {
+          "whitePct": 55.98,
+          "nonHispanicWhitePct": 51.99,
+          "blackPct": 23.45,
+          "asianPct": 2.98,
+          "hispanicPct": 17.86
+        }
+      },
+      "election": {
+        "winner": "Mary Belk",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "North Carolina House District 89",
+      "census": {
+        "censusName": "State House District 89 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69738,
+        "medianAge": 44,
+        "totalPopulation": 88291,
+        "collegePct": 22.43,
+        "renterRatePct": 18.7,
+        "race": {
+          "whitePct": 80.7,
+          "nonHispanicWhitePct": 77.42,
+          "blackPct": 8.03,
+          "asianPct": 2.77,
+          "hispanicPct": 8.3
+        }
+      },
+      "election": {
+        "winner": "Mitchell Smith Setzer",
+        "party": "REP",
+        "pct": 75.99,
+        "unopposed": false
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "North Carolina House District 90",
+      "census": {
+        "censusName": "State House District 90 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54982,
+        "medianAge": 44.5,
+        "totalPopulation": 82632,
+        "collegePct": 18.46,
+        "renterRatePct": 25.83,
+        "race": {
+          "whitePct": 86.46,
+          "nonHispanicWhitePct": 82.4,
+          "blackPct": 3.85,
+          "asianPct": 0.56,
+          "hispanicPct": 11.15
+        }
+      },
+      "election": {
+        "winner": "Sarah Stevens",
+        "party": "REP",
+        "pct": 77.9,
+        "unopposed": false
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "North Carolina House District 91",
+      "census": {
+        "censusName": "State House District 91 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62413,
+        "medianAge": 45.1,
+        "totalPopulation": 88429,
+        "collegePct": 21.76,
+        "renterRatePct": 20.21,
+        "race": {
+          "whitePct": 78.57,
+          "nonHispanicWhitePct": 76.23,
+          "blackPct": 12.54,
+          "asianPct": 0.24,
+          "hispanicPct": 7.6
+        }
+      },
+      "election": {
+        "winner": "Kyle Hall",
+        "party": "REP",
+        "pct": 67.16,
+        "unopposed": false
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "North Carolina House District 92",
+      "census": {
+        "censusName": "State House District 92 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92759,
+        "medianAge": 34,
+        "totalPopulation": 103708,
+        "collegePct": 45.18,
+        "renterRatePct": 40.78,
+        "race": {
+          "whitePct": 32.75,
+          "nonHispanicWhitePct": 29.1,
+          "blackPct": 35.84,
+          "asianPct": 8.12,
+          "hispanicPct": 21.42
+        }
+      },
+      "election": {
+        "winner": "Terry Brown",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "North Carolina House District 93",
+      "census": {
+        "censusName": "State House District 93 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49207,
+        "medianAge": 40.1,
+        "totalPopulation": 87343,
+        "collegePct": 33.67,
+        "renterRatePct": 31.41,
+        "race": {
+          "whitePct": 91.38,
+          "nonHispanicWhitePct": 88.69,
+          "blackPct": 1.81,
+          "asianPct": 0.84,
+          "hispanicPct": 6.93
+        }
+      },
+      "election": {
+        "winner": "Ray Pickett",
+        "party": "REP",
+        "pct": 56.83,
+        "unopposed": false
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "North Carolina House District 94",
+      "census": {
+        "censusName": "State House District 94 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55201,
+        "medianAge": 44.4,
+        "totalPopulation": 91198,
+        "collegePct": 16.65,
+        "renterRatePct": 23.81,
+        "race": {
+          "whitePct": 87.13,
+          "nonHispanicWhitePct": 85.76,
+          "blackPct": 3.76,
+          "asianPct": 0.84,
+          "hispanicPct": 6.79
+        }
+      },
+      "election": {
+        "winner": "Blair Eddins",
+        "party": "REP",
+        "pct": 76.97,
+        "unopposed": false
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "North Carolina House District 95",
+      "census": {
+        "censusName": "State House District 95 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100864,
+        "medianAge": 41.3,
+        "totalPopulation": 88077,
+        "collegePct": 48.08,
+        "renterRatePct": 30.06,
+        "race": {
+          "whitePct": 79.69,
+          "nonHispanicWhitePct": 77.67,
+          "blackPct": 7.51,
+          "asianPct": 3.7,
+          "hispanicPct": 6.89
+        }
+      },
+      "election": {
+        "winner": "Richard (Todd) Carver",
+        "party": "REP",
+        "pct": 64.47,
+        "unopposed": false
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "North Carolina House District 96",
+      "census": {
+        "censusName": "State House District 96 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60669,
+        "medianAge": 39.9,
+        "totalPopulation": 89104,
+        "collegePct": 27.92,
+        "renterRatePct": 33.73,
+        "race": {
+          "whitePct": 71.5,
+          "nonHispanicWhitePct": 68.62,
+          "blackPct": 9.21,
+          "asianPct": 4.89,
+          "hispanicPct": 12.7
+        }
+      },
+      "election": {
+        "winner": "Jay Adams",
+        "party": "REP",
+        "pct": 64.21,
+        "unopposed": false
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "North Carolina House District 97",
+      "census": {
+        "censusName": "State House District 97 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78490,
+        "medianAge": 44.3,
+        "totalPopulation": 90359,
+        "collegePct": 27.03,
+        "renterRatePct": 21.53,
+        "race": {
+          "whitePct": 84.75,
+          "nonHispanicWhitePct": 82.84,
+          "blackPct": 5.83,
+          "asianPct": 0.78,
+          "hispanicPct": 7.82
+        }
+      },
+      "election": {
+        "winner": "Heather Rhyne",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "North Carolina House District 98",
+      "census": {
+        "censusName": "State House District 98 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120367,
+        "medianAge": 42.1,
+        "totalPopulation": 83955,
+        "collegePct": 60.13,
+        "renterRatePct": 29.67,
+        "race": {
+          "whitePct": 79.33,
+          "nonHispanicWhitePct": 77.12,
+          "blackPct": 8.07,
+          "asianPct": 3.64,
+          "hispanicPct": 6.07
+        }
+      },
+      "election": {
+        "winner": "Beth Gardner Helfrich",
+        "party": "DEM",
+        "pct": 52.2,
+        "unopposed": false
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "North Carolina House District 99",
+      "census": {
+        "censusName": "State House District 99 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56594,
+        "medianAge": 30.3,
+        "totalPopulation": 79485,
+        "collegePct": 33.2,
+        "renterRatePct": 54.62,
+        "race": {
+          "whitePct": 21.03,
+          "nonHispanicWhitePct": 19.13,
+          "blackPct": 49.06,
+          "asianPct": 5.21,
+          "hispanicPct": 23.26
+        }
+      },
+      "election": {
+        "winner": "Nasif Majeed",
+        "party": "DEM",
+        "pct": 86.4,
+        "unopposed": false
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "North Carolina House District 100",
+      "census": {
+        "censusName": "State House District 100 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59082,
+        "medianAge": 33.3,
+        "totalPopulation": 87097,
+        "collegePct": 32.71,
+        "renterRatePct": 57.67,
+        "race": {
+          "whitePct": 32.12,
+          "nonHispanicWhitePct": 28.96,
+          "blackPct": 32.88,
+          "asianPct": 7.36,
+          "hispanicPct": 27.49
+        }
+      },
+      "election": {
+        "winner": "Julia Greenfield",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "101": {
+      "districtNumber": 101,
+      "districtName": "North Carolina House District 101",
+      "census": {
+        "censusName": "State House District 101 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71669,
+        "medianAge": 34.6,
+        "totalPopulation": 84530,
+        "collegePct": 29.62,
+        "renterRatePct": 37.96,
+        "race": {
+          "whitePct": 27.61,
+          "nonHispanicWhitePct": 25.04,
+          "blackPct": 49.75,
+          "asianPct": 5.94,
+          "hispanicPct": 14.29
+        }
+      },
+      "election": {
+        "winner": "Carolyn G. Logan",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "102": {
+      "districtNumber": 102,
+      "districtName": "North Carolina House District 102",
+      "census": {
+        "censusName": "State House District 102 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73643,
+        "medianAge": 33.5,
+        "totalPopulation": 88961,
+        "collegePct": 49.81,
+        "renterRatePct": 62.33,
+        "race": {
+          "whitePct": 45.8,
+          "nonHispanicWhitePct": 43.73,
+          "blackPct": 34.02,
+          "asianPct": 3.74,
+          "hispanicPct": 15.36
+        }
+      },
+      "election": {
+        "winner": "Becky Carney",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "103": {
+      "districtNumber": 103,
+      "districtName": "North Carolina House District 103",
+      "census": {
+        "censusName": "State House District 103 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 121033,
+        "medianAge": 40.6,
+        "totalPopulation": 88248,
+        "collegePct": 62.45,
+        "renterRatePct": 27.84,
+        "race": {
+          "whitePct": 69.76,
+          "nonHispanicWhitePct": 67.86,
+          "blackPct": 10.75,
+          "asianPct": 9.57,
+          "hispanicPct": 6.7
+        }
+      },
+      "election": {
+        "winner": "Laura Budd",
+        "party": "DEM",
+        "pct": 58.07,
+        "unopposed": false
+      }
+    },
+    "104": {
+      "districtNumber": 104,
+      "districtName": "North Carolina House District 104",
+      "census": {
+        "censusName": "State House District 104 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131518,
+        "medianAge": 39.2,
+        "totalPopulation": 83869,
+        "collegePct": 71.05,
+        "renterRatePct": 35.93,
+        "race": {
+          "whitePct": 75.97,
+          "nonHispanicWhitePct": 72.99,
+          "blackPct": 8.55,
+          "asianPct": 4.12,
+          "hispanicPct": 10.96
+        }
+      },
+      "election": {
+        "winner": "Brandon Lofton",
+        "party": "DEM",
+        "pct": 55.96,
+        "unopposed": false
+      }
+    },
+    "105": {
+      "districtNumber": 105,
+      "districtName": "North Carolina House District 105",
+      "census": {
+        "censusName": "State House District 105 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100307,
+        "medianAge": 38.4,
+        "totalPopulation": 86040,
+        "collegePct": 58.92,
+        "renterRatePct": 44.95,
+        "race": {
+          "whitePct": 58.2,
+          "nonHispanicWhitePct": 55.6,
+          "blackPct": 12.66,
+          "asianPct": 11.85,
+          "hispanicPct": 14.21
+        }
+      },
+      "election": {
+        "winner": "Tricia Ann Cotham",
+        "party": "REP",
+        "pct": 50.2,
+        "unopposed": false
+      }
+    },
+    "106": {
+      "districtNumber": 106,
+      "districtName": "North Carolina House District 106",
+      "census": {
+        "censusName": "State House District 106 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88763,
+        "medianAge": 35.4,
+        "totalPopulation": 86975,
+        "collegePct": 52.76,
+        "renterRatePct": 44.33,
+        "race": {
+          "whitePct": 41.12,
+          "nonHispanicWhitePct": 39.03,
+          "blackPct": 38.54,
+          "asianPct": 9.45,
+          "hispanicPct": 9.75
+        }
+      },
+      "election": {
+        "winner": "Carla Cunningham",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "107": {
+      "districtNumber": 107,
+      "districtName": "North Carolina House District 107",
+      "census": {
+        "censusName": "State House District 107 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68879,
+        "medianAge": 34.7,
+        "totalPopulation": 83893,
+        "collegePct": 40.92,
+        "renterRatePct": 46.5,
+        "race": {
+          "whitePct": 24.61,
+          "nonHispanicWhitePct": 22.57,
+          "blackPct": 57.02,
+          "asianPct": 3.6,
+          "hispanicPct": 13.75
+        }
+      },
+      "election": {
+        "winner": "Aisha O. Dew",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "108": {
+      "districtNumber": 108,
+      "districtName": "North Carolina House District 108",
+      "census": {
+        "censusName": "State House District 108 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64325,
+        "medianAge": 40.3,
+        "totalPopulation": 85991,
+        "collegePct": 24.2,
+        "renterRatePct": 32.5,
+        "race": {
+          "whitePct": 71.51,
+          "nonHispanicWhitePct": 69.1,
+          "blackPct": 15.55,
+          "asianPct": 2.09,
+          "hispanicPct": 9.15
+        }
+      },
+      "election": {
+        "winner": "John A. Torbett",
+        "party": "REP",
+        "pct": 64.59,
+        "unopposed": false
+      }
+    },
+    "109": {
+      "districtNumber": 109,
+      "districtName": "North Carolina House District 109",
+      "census": {
+        "censusName": "State House District 109 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76292,
+        "medianAge": 39.5,
+        "totalPopulation": 87611,
+        "collegePct": 34.41,
+        "renterRatePct": 34.84,
+        "race": {
+          "whitePct": 70.15,
+          "nonHispanicWhitePct": 67.75,
+          "blackPct": 17.69,
+          "asianPct": 2.12,
+          "hispanicPct": 8.97
+        }
+      },
+      "election": {
+        "winner": "Donnie Loftis",
+        "party": "REP",
+        "pct": 58.03,
+        "unopposed": false
+      }
+    },
+    "110": {
+      "districtNumber": 110,
+      "districtName": "North Carolina House District 110",
+      "census": {
+        "censusName": "State House District 110 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52634,
+        "medianAge": 40.6,
+        "totalPopulation": 88981,
+        "collegePct": 17.39,
+        "renterRatePct": 32.15,
+        "race": {
+          "whitePct": 70.37,
+          "nonHispanicWhitePct": 67.97,
+          "blackPct": 20.13,
+          "asianPct": 0.38,
+          "hispanicPct": 7.69
+        }
+      },
+      "election": {
+        "winner": "Kelly Hastings",
+        "party": "REP",
+        "pct": 66.57,
+        "unopposed": false
+      }
+    },
+    "111": {
+      "districtNumber": 111,
+      "districtName": "North Carolina House District 111",
+      "census": {
+        "censusName": "State House District 111 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54994,
+        "medianAge": 40.2,
+        "totalPopulation": 94511,
+        "collegePct": 20.02,
+        "renterRatePct": 27.65,
+        "race": {
+          "whitePct": 76.75,
+          "nonHispanicWhitePct": 74.85,
+          "blackPct": 14.15,
+          "asianPct": 0.96,
+          "hispanicPct": 5.13
+        }
+      },
+      "election": {
+        "winner": "Paul Scott",
+        "party": "REP",
+        "pct": 73.89,
+        "unopposed": false
+      }
+    },
+    "112": {
+      "districtNumber": 112,
+      "districtName": "North Carolina House District 112",
+      "census": {
+        "censusName": "State House District 112 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75286,
+        "medianAge": 37.9,
+        "totalPopulation": 88407,
+        "collegePct": 32.52,
+        "renterRatePct": 25.54,
+        "race": {
+          "whitePct": 42.23,
+          "nonHispanicWhitePct": 38.98,
+          "blackPct": 35.82,
+          "asianPct": 3.75,
+          "hispanicPct": 18.58
+        }
+      },
+      "election": {
+        "winner": "Jordan Lopez",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "113": {
+      "districtNumber": 113,
+      "districtName": "North Carolina House District 113",
+      "census": {
+        "censusName": "State House District 113 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55228,
+        "medianAge": 47.6,
+        "totalPopulation": 91475,
+        "collegePct": 26.38,
+        "renterRatePct": 27.45,
+        "race": {
+          "whitePct": 82.76,
+          "nonHispanicWhitePct": 78.68,
+          "blackPct": 6.52,
+          "asianPct": 0.65,
+          "hispanicPct": 10.44
+        }
+      },
+      "election": {
+        "winner": "Jake Johnson",
+        "party": "REP",
+        "pct": 66.68,
+        "unopposed": false
+      }
+    },
+    "114": {
+      "districtNumber": 114,
+      "districtName": "North Carolina House District 114",
+      "census": {
+        "censusName": "State House District 114 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66762,
+        "medianAge": 45.9,
+        "totalPopulation": 84985,
+        "collegePct": 47.02,
+        "renterRatePct": 37.1,
+        "race": {
+          "whitePct": 83.97,
+          "nonHispanicWhitePct": 82.76,
+          "blackPct": 7.22,
+          "asianPct": 0.71,
+          "hispanicPct": 5.67
+        }
+      },
+      "election": {
+        "winner": "Eric Ager",
+        "party": "DEM",
+        "pct": 59.69,
+        "unopposed": false
+      }
+    },
+    "115": {
+      "districtNumber": 115,
+      "districtName": "North Carolina House District 115",
+      "census": {
+        "censusName": "State House District 115 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73063,
+        "medianAge": 41.1,
+        "totalPopulation": 91749,
+        "collegePct": 41.62,
+        "renterRatePct": 39.48,
+        "race": {
+          "whitePct": 83.04,
+          "nonHispanicWhitePct": 81.09,
+          "blackPct": 5.37,
+          "asianPct": 1.46,
+          "hispanicPct": 8.09
+        }
+      },
+      "election": {
+        "winner": "Lindsey Prather",
+        "party": "DEM",
+        "pct": 51.46,
+        "unopposed": false
+      }
+    },
+    "116": {
+      "districtNumber": 116,
+      "districtName": "North Carolina House District 116",
+      "census": {
+        "censusName": "State House District 116 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71846,
+        "medianAge": 41.2,
+        "totalPopulation": 95056,
+        "collegePct": 45.26,
+        "renterRatePct": 30.11,
+        "race": {
+          "whitePct": 82.46,
+          "nonHispanicWhitePct": 80,
+          "blackPct": 3.83,
+          "asianPct": 1.26,
+          "hispanicPct": 10.73
+        }
+      },
+      "election": {
+        "winner": "Brian Turner",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "117": {
+      "districtNumber": 117,
+      "districtName": "North Carolina House District 117",
+      "census": {
+        "censusName": "State House District 117 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70574,
+        "medianAge": 47.7,
+        "totalPopulation": 91384,
+        "collegePct": 37.48,
+        "renterRatePct": 24.86,
+        "race": {
+          "whitePct": 85.16,
+          "nonHispanicWhitePct": 82.85,
+          "blackPct": 3.51,
+          "asianPct": 1.35,
+          "hispanicPct": 9.45
+        }
+      },
+      "election": {
+        "winner": "Jennifer Capps Balkcom",
+        "party": "REP",
+        "pct": 57.75,
+        "unopposed": false
+      }
+    },
+    "118": {
+      "districtNumber": 118,
+      "districtName": "North Carolina House District 118",
+      "census": {
+        "censusName": "State House District 118 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60451,
+        "medianAge": 47.1,
+        "totalPopulation": 84072,
+        "collegePct": 29.92,
+        "renterRatePct": 24.29,
+        "race": {
+          "whitePct": 91.91,
+          "nonHispanicWhitePct": 91.07,
+          "blackPct": 1.01,
+          "asianPct": 0.42,
+          "hispanicPct": 4.42
+        }
+      },
+      "election": {
+        "winner": "Mark Pless",
+        "party": "REP",
+        "pct": 61.26,
+        "unopposed": false
+      }
+    },
+    "119": {
+      "districtNumber": 119,
+      "districtName": "North Carolina House District 119",
+      "census": {
+        "censusName": "State House District 119 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57470,
+        "medianAge": 43.8,
+        "totalPopulation": 90397,
+        "collegePct": 32.15,
+        "renterRatePct": 31.05,
+        "race": {
+          "whitePct": 80.23,
+          "nonHispanicWhitePct": 79.3,
+          "blackPct": 2.8,
+          "asianPct": 0.82,
+          "hispanicPct": 6.26
+        }
+      },
+      "election": {
+        "winner": "Mike Clampitt",
+        "party": "REP",
+        "pct": 55.39,
+        "unopposed": false
+      }
+    },
+    "120": {
+      "districtNumber": 120,
+      "districtName": "North Carolina House District 120",
+      "census": {
+        "censusName": "State House District 120 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52532,
+        "medianAge": 51.6,
+        "totalPopulation": 86162,
+        "collegePct": 24.67,
+        "renterRatePct": 20.43,
+        "race": {
+          "whitePct": 89.79,
+          "nonHispanicWhitePct": 87.82,
+          "blackPct": 1.34,
+          "asianPct": 0.79,
+          "hispanicPct": 6.2
+        }
+      },
+      "election": {
+        "winner": "Karl Gillespie",
+        "party": "REP",
+        "pct": 75.16,
+        "unopposed": false
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "North Carolina Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66915,
+        "medianAge": 47.7,
+        "totalPopulation": 201821,
+        "collegePct": 30.01,
+        "renterRatePct": 27.22,
+        "race": {
+          "whitePct": 74.14,
+          "nonHispanicWhitePct": 72.92,
+          "blackPct": 17.2,
+          "asianPct": 0.75,
+          "hispanicPct": 5.24
+        }
+      },
+      "election": {
+        "winner": "Bobby Hanig",
+        "party": "REP",
+        "pct": 57.21,
+        "unopposed": false
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "North Carolina Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56868,
+        "medianAge": 41.9,
+        "totalPopulation": 200588,
+        "collegePct": 21.96,
+        "renterRatePct": 32.95,
+        "race": {
+          "whitePct": 63.1,
+          "nonHispanicWhitePct": 60.47,
+          "blackPct": 26.16,
+          "asianPct": 1.67,
+          "hispanicPct": 7.79
+        }
+      },
+      "election": {
+        "winner": "Norman W. Sanderson",
+        "party": "REP",
+        "pct": 56.05,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "North Carolina Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53907,
+        "medianAge": 44.9,
+        "totalPopulation": 198097,
+        "collegePct": 18.77,
+        "renterRatePct": 27.58,
+        "race": {
+          "whitePct": 49.93,
+          "nonHispanicWhitePct": 49.05,
+          "blackPct": 40.96,
+          "asianPct": 0.74,
+          "hispanicPct": 3.96
+        }
+      },
+      "election": {
+        "winner": "Bob Brinson",
+        "party": "REP",
+        "pct": 59.99,
+        "unopposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "North Carolina Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54428,
+        "medianAge": 38.8,
+        "totalPopulation": 216675,
+        "collegePct": 20.04,
+        "renterRatePct": 39.1,
+        "race": {
+          "whitePct": 51.22,
+          "nonHispanicWhitePct": 48.29,
+          "blackPct": 33.89,
+          "asianPct": 1,
+          "hispanicPct": 12.89
+        }
+      },
+      "election": {
+        "winner": "Buck Newton",
+        "party": "REP",
+        "pct": 55.12,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "North Carolina Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56600,
+        "medianAge": 35,
+        "totalPopulation": 221056,
+        "collegePct": 29.73,
+        "renterRatePct": 47.29,
+        "race": {
+          "whitePct": 49.63,
+          "nonHispanicWhitePct": 48.25,
+          "blackPct": 39.69,
+          "asianPct": 1.45,
+          "hispanicPct": 7.28
+        }
+      },
+      "election": {
+        "winner": "Kandie D. Smith",
+        "party": "DEM",
+        "pct": 55.08,
+        "unopposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "North Carolina Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64568,
+        "medianAge": 27.1,
+        "totalPopulation": 208537,
+        "collegePct": 26.06,
+        "renterRatePct": 39.04,
+        "race": {
+          "whitePct": 69.24,
+          "nonHispanicWhitePct": 64.81,
+          "blackPct": 12.54,
+          "asianPct": 1.83,
+          "hispanicPct": 13.78
+        }
+      },
+      "election": {
+        "winner": "Michael A. Lazzara",
+        "party": "REP",
+        "pct": 69.63,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "North Carolina Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75377,
+        "medianAge": 40.1,
+        "totalPopulation": 213355,
+        "collegePct": 45.66,
+        "renterRatePct": 36.99,
+        "race": {
+          "whitePct": 79.14,
+          "nonHispanicWhitePct": 76.85,
+          "blackPct": 10.21,
+          "asianPct": 1.44,
+          "hispanicPct": 6.92
+        }
+      },
+      "election": {
+        "winner": "Michael Lee",
+        "party": "REP",
+        "pct": 52.21,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "North Carolina Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67256,
+        "medianAge": 51.4,
+        "totalPopulation": 214201,
+        "collegePct": 29.38,
+        "renterRatePct": 23.06,
+        "race": {
+          "whitePct": 74.98,
+          "nonHispanicWhitePct": 73.65,
+          "blackPct": 14.27,
+          "asianPct": 0.58,
+          "hispanicPct": 6.4
+        }
+      },
+      "election": {
+        "winner": "Bill Rabon",
+        "party": "REP",
+        "pct": 59.9,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "North Carolina Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58602,
+        "medianAge": 41.6,
+        "totalPopulation": 207134,
+        "collegePct": 21.34,
+        "renterRatePct": 25.67,
+        "race": {
+          "whitePct": 61.29,
+          "nonHispanicWhitePct": 57.91,
+          "blackPct": 22.23,
+          "asianPct": 0.55,
+          "hispanicPct": 15.43
+        }
+      },
+      "election": {
+        "winner": "Brent Jackson",
+        "party": "REP",
+        "pct": 65.03,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "North Carolina Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79838,
+        "medianAge": 38.3,
+        "totalPopulation": 226623,
+        "collegePct": 27.63,
+        "renterRatePct": 22.9,
+        "race": {
+          "whitePct": 66.64,
+          "nonHispanicWhitePct": 62.69,
+          "blackPct": 16.6,
+          "asianPct": 0.79,
+          "hispanicPct": 16.24
+        }
+      },
+      "election": {
+        "winner": "Benton Sawrey",
+        "party": "REP",
+        "pct": 58.75,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "North Carolina Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60738,
+        "medianAge": 41,
+        "totalPopulation": 209774,
+        "collegePct": 22.01,
+        "renterRatePct": 32.7,
+        "race": {
+          "whitePct": 51.31,
+          "nonHispanicWhitePct": 49.9,
+          "blackPct": 36.52,
+          "asianPct": 0.8,
+          "hispanicPct": 9.09
+        }
+      },
+      "election": {
+        "winner": "Lisa Stone Barnes",
+        "party": "REP",
+        "pct": 51.29,
+        "unopposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "North Carolina Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66231,
+        "medianAge": 36.4,
+        "totalPopulation": 204543,
+        "collegePct": 23.08,
+        "renterRatePct": 31.4,
+        "race": {
+          "whitePct": 64.2,
+          "nonHispanicWhitePct": 58.58,
+          "blackPct": 19.84,
+          "asianPct": 1.19,
+          "hispanicPct": 16.53
+        }
+      },
+      "election": {
+        "winner": "Jim Burgin",
+        "party": "REP",
+        "pct": 61.61,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "North Carolina Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89726,
+        "medianAge": 39,
+        "totalPopulation": 196819,
+        "collegePct": 56.94,
+        "renterRatePct": 40.78,
+        "race": {
+          "whitePct": 63.37,
+          "nonHispanicWhitePct": 61.16,
+          "blackPct": 18.8,
+          "asianPct": 4.02,
+          "hispanicPct": 12.78
+        }
+      },
+      "election": {
+        "winner": "Lisa Grafstein",
+        "party": "DEM",
+        "pct": 50.21,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "North Carolina Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76034,
+        "medianAge": 36.4,
+        "totalPopulation": 208449,
+        "collegePct": 33.26,
+        "renterRatePct": 33.95,
+        "race": {
+          "whitePct": 35.64,
+          "nonHispanicWhitePct": 32.21,
+          "blackPct": 41.88,
+          "asianPct": 2.43,
+          "hispanicPct": 19.78
+        }
+      },
+      "election": {
+        "winner": "Dan Blue",
+        "party": "DEM",
+        "pct": 73.46,
+        "unopposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "North Carolina Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89962,
+        "medianAge": 33,
+        "totalPopulation": 193730,
+        "collegePct": 62.05,
+        "renterRatePct": 50.51,
+        "race": {
+          "whitePct": 69.68,
+          "nonHispanicWhitePct": 67.26,
+          "blackPct": 13.32,
+          "asianPct": 5.02,
+          "hispanicPct": 9.9
+        }
+      },
+      "election": {
+        "winner": "Jay J. Chaudhuri",
+        "party": "DEM",
+        "pct": 65.95,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "North Carolina Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 129563,
+        "medianAge": 37.3,
+        "totalPopulation": 204170,
+        "collegePct": 71.13,
+        "renterRatePct": 39.59,
+        "race": {
+          "whitePct": 54.59,
+          "nonHispanicWhitePct": 52.54,
+          "blackPct": 10.31,
+          "asianPct": 24.58,
+          "hispanicPct": 7.68
+        }
+      },
+      "election": {
+        "winner": "Gale Adcock",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "North Carolina Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119289,
+        "medianAge": 38,
+        "totalPopulation": 206091,
+        "collegePct": 57.78,
+        "renterRatePct": 18.19,
+        "race": {
+          "whitePct": 70.8,
+          "nonHispanicWhitePct": 68.75,
+          "blackPct": 10.4,
+          "asianPct": 7.36,
+          "hispanicPct": 8.93
+        }
+      },
+      "election": {
+        "winner": "Mrs. Sydney Batch",
+        "party": "DEM",
+        "pct": 74.38,
+        "unopposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "North Carolina Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105074,
+        "medianAge": 40.7,
+        "totalPopulation": 203189,
+        "collegePct": 47.16,
+        "renterRatePct": 23.84,
+        "race": {
+          "whitePct": 62.63,
+          "nonHispanicWhitePct": 60.89,
+          "blackPct": 23.38,
+          "asianPct": 2.7,
+          "hispanicPct": 8.87
+        }
+      },
+      "election": {
+        "winner": "Terence Everitt",
+        "party": "DEM",
+        "pct": 48.47,
+        "unopposed": false
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "North Carolina Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61475,
+        "medianAge": 34.6,
+        "totalPopulation": 217644,
+        "collegePct": 26.29,
+        "renterRatePct": 39.8,
+        "race": {
+          "whitePct": 44.83,
+          "nonHispanicWhitePct": 41.67,
+          "blackPct": 36.4,
+          "asianPct": 2.48,
+          "hispanicPct": 12.74
+        }
+      },
+      "election": {
+        "winner": "Val Applewhite",
+        "party": "DEM",
+        "pct": 62.87,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "North Carolina Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87142,
+        "medianAge": 38.5,
+        "totalPopulation": 205431,
+        "collegePct": 55.78,
+        "renterRatePct": 36.88,
+        "race": {
+          "whitePct": 55.58,
+          "nonHispanicWhitePct": 52.68,
+          "blackPct": 25.87,
+          "asianPct": 4.46,
+          "hispanicPct": 12.94
+        }
+      },
+      "election": {
+        "winner": "Natalie S. Murdock",
+        "party": "DEM",
+        "pct": 72.28,
+        "unopposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "North Carolina Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65150,
+        "medianAge": 33.9,
+        "totalPopulation": 221945,
+        "collegePct": 35.12,
+        "renterRatePct": 41.49,
+        "race": {
+          "whitePct": 58.8,
+          "nonHispanicWhitePct": 55.89,
+          "blackPct": 25.41,
+          "asianPct": 2.17,
+          "hispanicPct": 9.78
+        }
+      },
+      "election": {
+        "winner": "Tom McInnis",
+        "party": "REP",
+        "pct": 62.76,
+        "unopposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "North Carolina Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75174,
+        "medianAge": 36.6,
+        "totalPopulation": 202293,
+        "collegePct": 48.86,
+        "renterRatePct": 43.67,
+        "race": {
+          "whitePct": 45.78,
+          "nonHispanicWhitePct": 41.81,
+          "blackPct": 31.63,
+          "asianPct": 4.64,
+          "hispanicPct": 16.92
+        }
+      },
+      "election": {
+        "winner": "Sophia Chitlik",
+        "party": "DEM",
+        "pct": 85.98,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "North Carolina Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77689,
+        "medianAge": 38.9,
+        "totalPopulation": 209256,
+        "collegePct": 47.78,
+        "renterRatePct": 32.18,
+        "race": {
+          "whitePct": 68.46,
+          "nonHispanicWhitePct": 65.65,
+          "blackPct": 15.64,
+          "asianPct": 5.67,
+          "hispanicPct": 9.05
+        }
+      },
+      "election": {
+        "winner": "Graig R. Meyer",
+        "party": "DEM",
+        "pct": 65.85,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "North Carolina Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45553,
+        "medianAge": 36,
+        "totalPopulation": 204313,
+        "collegePct": 16.35,
+        "renterRatePct": 33.97,
+        "race": {
+          "whitePct": 31.72,
+          "nonHispanicWhitePct": 29.84,
+          "blackPct": 28.39,
+          "asianPct": 1.01,
+          "hispanicPct": 10.57
+        }
+      },
+      "election": {
+        "winner": "Danny Earl Britt, Jr.",
+        "party": "REP",
+        "pct": 58.74,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "North Carolina Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62828,
+        "medianAge": 38.8,
+        "totalPopulation": 221006,
+        "collegePct": 24.79,
+        "renterRatePct": 32.85,
+        "race": {
+          "whitePct": 66.74,
+          "nonHispanicWhitePct": 63.37,
+          "blackPct": 16.73,
+          "asianPct": 1.4,
+          "hispanicPct": 14.64
+        }
+      },
+      "election": {
+        "winner": "Amy Scott Galey",
+        "party": "REP",
+        "pct": 60.25,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "North Carolina Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73928,
+        "medianAge": 42.1,
+        "totalPopulation": 221365,
+        "collegePct": 30.81,
+        "renterRatePct": 24.01,
+        "race": {
+          "whitePct": 66.98,
+          "nonHispanicWhitePct": 65.57,
+          "blackPct": 20.91,
+          "asianPct": 2.32,
+          "hispanicPct": 7.02
+        }
+      },
+      "election": {
+        "winner": "Philip E. (Phil) Berger",
+        "party": "REP",
+        "pct": 54.06,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "North Carolina Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67381,
+        "medianAge": 38.9,
+        "totalPopulation": 204950,
+        "collegePct": 37.54,
+        "renterRatePct": 40.35,
+        "race": {
+          "whitePct": 51.28,
+          "nonHispanicWhitePct": 48.41,
+          "blackPct": 30.13,
+          "asianPct": 7.13,
+          "hispanicPct": 9.89
+        }
+      },
+      "election": {
+        "winner": "Michael K. Garrett",
+        "party": "DEM",
+        "pct": 60.79,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "North Carolina Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53434,
+        "medianAge": 33.8,
+        "totalPopulation": 208257,
+        "collegePct": 36.15,
+        "renterRatePct": 50.65,
+        "race": {
+          "whitePct": 38.37,
+          "nonHispanicWhitePct": 35.79,
+          "blackPct": 44.54,
+          "asianPct": 4.09,
+          "hispanicPct": 11.38
+        }
+      },
+      "election": {
+        "winner": "Gladys A. Robinson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "North Carolina Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56640,
+        "medianAge": 41.6,
+        "totalPopulation": 220333,
+        "collegePct": 17.91,
+        "renterRatePct": 28.72,
+        "race": {
+          "whitePct": 68.85,
+          "nonHispanicWhitePct": 65.51,
+          "blackPct": 18.46,
+          "asianPct": 1.26,
+          "hispanicPct": 11.11
+        }
+      },
+      "election": {
+        "winner": "Dave Craven, Jr.",
+        "party": "REP",
+        "pct": 68.55,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "North Carolina Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64692,
+        "medianAge": 42.9,
+        "totalPopulation": 214589,
+        "collegePct": 21.96,
+        "renterRatePct": 24.52,
+        "race": {
+          "whitePct": 80.13,
+          "nonHispanicWhitePct": 77.97,
+          "blackPct": 8.22,
+          "asianPct": 1.36,
+          "hispanicPct": 8.45
+        }
+      },
+      "election": {
+        "winner": "Steve Jarvis",
+        "party": "REP",
+        "pct": 72.64,
+        "unopposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "North Carolina Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61309,
+        "medianAge": 40.1,
+        "totalPopulation": 219462,
+        "collegePct": 24.72,
+        "renterRatePct": 32.21,
+        "race": {
+          "whitePct": 62.24,
+          "nonHispanicWhitePct": 58.1,
+          "blackPct": 23.37,
+          "asianPct": 1.1,
+          "hispanicPct": 14.53
+        }
+      },
+      "election": {
+        "winner": "Dana Caudill Jones",
+        "party": "REP",
+        "pct": 62.42,
+        "unopposed": false
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "North Carolina Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68359,
+        "medianAge": 38.3,
+        "totalPopulation": 212167,
+        "collegePct": 45.29,
+        "renterRatePct": 38.94,
+        "race": {
+          "whitePct": 61.01,
+          "nonHispanicWhitePct": 57.63,
+          "blackPct": 23.03,
+          "asianPct": 3.19,
+          "hispanicPct": 12.39
+        }
+      },
+      "election": {
+        "winner": "Paul Lowe",
+        "party": "DEM",
+        "pct": 68.97,
+        "unopposed": false
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "North Carolina Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62738,
+        "medianAge": 40.5,
+        "totalPopulation": 212044,
+        "collegePct": 20.97,
+        "renterRatePct": 28.04,
+        "race": {
+          "whitePct": 74.03,
+          "nonHispanicWhitePct": 71.63,
+          "blackPct": 14.28,
+          "asianPct": 1.26,
+          "hispanicPct": 9.49
+        }
+      },
+      "election": {
+        "winner": "Carl Ford",
+        "party": "REP",
+        "pct": 70.99,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "North Carolina Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85720,
+        "medianAge": 37.6,
+        "totalPopulation": 222473,
+        "collegePct": 37.68,
+        "renterRatePct": 28.35,
+        "race": {
+          "whitePct": 61.01,
+          "nonHispanicWhitePct": 57.97,
+          "blackPct": 19.3,
+          "asianPct": 5.53,
+          "hispanicPct": 12.46
+        }
+      },
+      "election": {
+        "winner": "Paul Newton",
+        "party": "REP",
+        "pct": 52.93,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "North Carolina Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103753,
+        "medianAge": 39,
+        "totalPopulation": 222628,
+        "collegePct": 41.76,
+        "renterRatePct": 17.74,
+        "race": {
+          "whitePct": 71.8,
+          "nonHispanicWhitePct": 68.58,
+          "blackPct": 10.04,
+          "asianPct": 4.41,
+          "hispanicPct": 13.11
+        }
+      },
+      "election": {
+        "winner": "Todd Johnson",
+        "party": "REP",
+        "pct": 63.34,
+        "unopposed": false
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "North Carolina Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56023,
+        "medianAge": 44.4,
+        "totalPopulation": 211249,
+        "collegePct": 17.2,
+        "renterRatePct": 24.46,
+        "race": {
+          "whitePct": 86.7,
+          "nonHispanicWhitePct": 83.8,
+          "blackPct": 3.65,
+          "asianPct": 0.6,
+          "hispanicPct": 9.43
+        }
+      },
+      "election": {
+        "winner": "Eddie Settle",
+        "party": "REP",
+        "pct": 78.98,
+        "unopposed": false
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "North Carolina Senate District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84013,
+        "medianAge": 41.6,
+        "totalPopulation": 221274,
+        "collegePct": 36.97,
+        "renterRatePct": 28.84,
+        "race": {
+          "whitePct": 76.48,
+          "nonHispanicWhitePct": 74.55,
+          "blackPct": 10.94,
+          "asianPct": 2.62,
+          "hispanicPct": 8.21
+        }
+      },
+      "election": {
+        "winner": "Vickie Sawyer",
+        "party": "REP",
+        "pct": 64.73,
+        "unopposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "North Carolina Senate District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71260,
+        "medianAge": 33.4,
+        "totalPopulation": 217749,
+        "collegePct": 45.41,
+        "renterRatePct": 57.51,
+        "race": {
+          "whitePct": 33.12,
+          "nonHispanicWhitePct": 31.34,
+          "blackPct": 43.31,
+          "asianPct": 5.88,
+          "hispanicPct": 16.13
+        }
+      },
+      "election": {
+        "winner": "Mujtaba A. Mohammed",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "North Carolina Senate District 39",
+      "census": {
+        "censusName": "State Senate District 39 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95861,
+        "medianAge": 33.7,
+        "totalPopulation": 233552,
+        "collegePct": 56.89,
+        "renterRatePct": 47.84,
+        "race": {
+          "whitePct": 52.35,
+          "nonHispanicWhitePct": 48.47,
+          "blackPct": 23.42,
+          "asianPct": 5.47,
+          "hispanicPct": 18.06
+        }
+      },
+      "election": {
+        "winner": "DeAndrea Salvador",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "North Carolina Senate District 40",
+      "census": {
+        "censusName": "State Senate District 40 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65935,
+        "medianAge": 34.1,
+        "totalPopulation": 223768,
+        "collegePct": 31.66,
+        "renterRatePct": 40.72,
+        "race": {
+          "whitePct": 33.35,
+          "nonHispanicWhitePct": 30.32,
+          "blackPct": 39.09,
+          "asianPct": 5.51,
+          "hispanicPct": 21.95
+        }
+      },
+      "election": {
+        "winner": "Joyce Waddell",
+        "party": "DEM",
+        "pct": 79.38,
+        "unopposed": false
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "North Carolina Senate District 41",
+      "census": {
+        "censusName": "State Senate District 41 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81750,
+        "medianAge": 36.8,
+        "totalPopulation": 214645,
+        "collegePct": 43.02,
+        "renterRatePct": 38.06,
+        "race": {
+          "whitePct": 43.56,
+          "nonHispanicWhitePct": 41.31,
+          "blackPct": 37.76,
+          "asianPct": 4.81,
+          "hispanicPct": 11.87
+        }
+      },
+      "election": {
+        "winner": "Caleb Theodros",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "North Carolina Senate District 42",
+      "census": {
+        "censusName": "State Senate District 42 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111473,
+        "medianAge": 39.6,
+        "totalPopulation": 211718,
+        "collegePct": 63.26,
+        "renterRatePct": 37.97,
+        "race": {
+          "whitePct": 65.93,
+          "nonHispanicWhitePct": 63.46,
+          "blackPct": 11.82,
+          "asianPct": 9.66,
+          "hispanicPct": 10.17
+        }
+      },
+      "election": {
+        "winner": "Mrs. Woodson Bradley",
+        "party": "DEM",
+        "pct": 50.08,
+        "unopposed": false
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "North Carolina Senate District 43",
+      "census": {
+        "censusName": "State Senate District 43 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65901,
+        "medianAge": 39.2,
+        "totalPopulation": 215110,
+        "collegePct": 26.55,
+        "renterRatePct": 35.12,
+        "race": {
+          "whitePct": 68.71,
+          "nonHispanicWhitePct": 66.14,
+          "blackPct": 18.64,
+          "asianPct": 1.77,
+          "hispanicPct": 9.59
+        }
+      },
+      "election": {
+        "winner": "Brad Overcash",
+        "party": "REP",
+        "pct": 61.78,
+        "unopposed": false
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "North Carolina Senate District 44",
+      "census": {
+        "censusName": "State Senate District 44 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64055,
+        "medianAge": 42.8,
+        "totalPopulation": 206904,
+        "collegePct": 23.52,
+        "renterRatePct": 25.23,
+        "race": {
+          "whitePct": 79.47,
+          "nonHispanicWhitePct": 77.63,
+          "blackPct": 11.73,
+          "asianPct": 0.84,
+          "hispanicPct": 5.98
+        }
+      },
+      "election": {
+        "winner": "Ted Alexander",
+        "party": "REP",
+        "pct": 72.5,
+        "unopposed": false
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "North Carolina Senate District 45",
+      "census": {
+        "censusName": "State Senate District 45 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62787,
+        "medianAge": 42.3,
+        "totalPopulation": 219437,
+        "collegePct": 23.63,
+        "renterRatePct": 27.24,
+        "race": {
+          "whitePct": 78.96,
+          "nonHispanicWhitePct": 76.29,
+          "blackPct": 6.72,
+          "asianPct": 3.23,
+          "hispanicPct": 9.7
+        }
+      },
+      "election": {
+        "winner": "Mark Hollo",
+        "party": "REP",
+        "pct": 70.28,
+        "unopposed": false
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "North Carolina Senate District 46",
+      "census": {
+        "censusName": "State Senate District 46 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61303,
+        "medianAge": 45.9,
+        "totalPopulation": 198878,
+        "collegePct": 28.23,
+        "renterRatePct": 24.97,
+        "race": {
+          "whitePct": 85.22,
+          "nonHispanicWhitePct": 83.52,
+          "blackPct": 4.54,
+          "asianPct": 1.9,
+          "hispanicPct": 7.14
+        }
+      },
+      "election": {
+        "winner": "Warren Daniel",
+        "party": "REP",
+        "pct": 65.23,
+        "unopposed": false
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "North Carolina Senate District 47",
+      "census": {
+        "censusName": "State Senate District 47 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54767,
+        "medianAge": 43.7,
+        "totalPopulation": 212555,
+        "collegePct": 28.2,
+        "renterRatePct": 26.29,
+        "race": {
+          "whitePct": 90.53,
+          "nonHispanicWhitePct": 88.87,
+          "blackPct": 2.16,
+          "asianPct": 0.6,
+          "hispanicPct": 6.15
+        }
+      },
+      "election": {
+        "winner": "Ralph Hise",
+        "party": "REP",
+        "pct": 64.15,
+        "unopposed": false
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "North Carolina Senate District 48",
+      "census": {
+        "censusName": "State Senate District 48 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60701,
+        "medianAge": 47.3,
+        "totalPopulation": 201926,
+        "collegePct": 30.33,
+        "renterRatePct": 25.58,
+        "race": {
+          "whitePct": 84.11,
+          "nonHispanicWhitePct": 80.98,
+          "blackPct": 4.99,
+          "asianPct": 0.93,
+          "hispanicPct": 9.73
+        }
+      },
+      "election": {
+        "winner": "Tim Moffitt",
+        "party": "REP",
+        "pct": 63.93,
+        "unopposed": false
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "North Carolina Senate District 49",
+      "census": {
+        "censusName": "State Senate District 49 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69242,
+        "medianAge": 40.9,
+        "totalPopulation": 205454,
+        "collegePct": 44.36,
+        "renterRatePct": 39.39,
+        "race": {
+          "whitePct": 81.4,
+          "nonHispanicWhitePct": 79.32,
+          "blackPct": 6.19,
+          "asianPct": 1.36,
+          "hispanicPct": 9
+        }
+      },
+      "election": {
+        "winner": "Julie Mayfield",
+        "party": "DEM",
+        "pct": 69.07,
+        "unopposed": false
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "North Carolina Senate District 50",
+      "census": {
+        "censusName": "State Senate District 50 (2022); North Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55173,
+        "medianAge": 48.3,
+        "totalPopulation": 215113,
+        "collegePct": 29,
+        "renterRatePct": 25.77,
+        "race": {
+          "whitePct": 86.22,
+          "nonHispanicWhitePct": 84.92,
+          "blackPct": 1.91,
+          "asianPct": 0.74,
+          "hispanicPct": 5.79
+        }
+      },
+      "election": {
+        "winner": "Kevin Corbin",
+        "party": "REP",
+        "pct": 66.53,
+        "unopposed": false
+      }
+    }
+  }
+}

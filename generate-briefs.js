@@ -159,6 +159,8 @@ ${EXAMPLES_TEXT}
 Return ONLY a valid JSON object with exactly these fields. No markdown, no extra text, no code fences:
 
 {
+  "city": "...",
+  "region": "...",
   "issues": [
     { "name": "...", "tag": "lean-into", "why": "..." },
     { "name": "...", "tag": "lean-into", "why": "..." },
@@ -172,6 +174,8 @@ Return ONLY a valid JSON object with exactly these fields. No markdown, no extra
 }
 
 Constraints:
+- city: the primary city or town the district covers (replace any existing "TBD" value).
+- region: a geographic region label appropriate to the state's geography, e.g. "Charlotte Metro", "Piedmont Triad", "Coastal Plain", "Mississippi Delta", "Texas Panhandle" (replace any existing "TBD" value).
 - issues: exactly 2 lean-into, 1 careful, 2 avoid. Each "why" is 3-5 sentences of specific strategic analysis grounded in this district's actual numbers — not generic.
 - memoHeadline: one punchy sentence capturing the district's strategic essence.
 - memoParagraphs: exactly 2 strings, each 4-6 sentences. Rich analytical prose, not summaries.

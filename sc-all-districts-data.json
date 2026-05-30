@@ -1,0 +1,4426 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "South Carolina House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64935,
+        "medianAge": 50.2,
+        "totalPopulation": 43503,
+        "collegePct": 28.24,
+        "renterRatePct": 17.51,
+        "race": {
+          "whitePct": 88.8,
+          "nonHispanicWhitePct": 87.62,
+          "blackPct": 1.71,
+          "asianPct": 0.54,
+          "hispanicPct": 6.71
+        }
+      },
+      "election": {
+        "winner": "Bill Whitmire",
+        "party": "REP",
+        "pct": 99.13,
+        "unopposed": true
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "South Carolina House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56835,
+        "medianAge": 43.3,
+        "totalPopulation": 40659,
+        "collegePct": 29.37,
+        "renterRatePct": 29.86,
+        "race": {
+          "whitePct": 81.16,
+          "nonHispanicWhitePct": 80.02,
+          "blackPct": 11.55,
+          "asianPct": 1.18,
+          "hispanicPct": 4.34
+        }
+      },
+      "election": {
+        "winner": "Adam Duncan",
+        "party": "REP",
+        "pct": 95.87,
+        "unopposed": true
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "South Carolina House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53405,
+        "medianAge": 23.2,
+        "totalPopulation": 40910,
+        "collegePct": 45.42,
+        "renterRatePct": 52.75,
+        "race": {
+          "whitePct": 81.05,
+          "nonHispanicWhitePct": 79.32,
+          "blackPct": 6.87,
+          "asianPct": 4.27,
+          "hispanicPct": 4.62
+        }
+      },
+      "election": {
+        "winner": "Phillip Bowers",
+        "party": "REP",
+        "pct": 64.28,
+        "unopposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "South Carolina House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59848,
+        "medianAge": 40,
+        "totalPopulation": 44126,
+        "collegePct": 17.59,
+        "renterRatePct": 16.19,
+        "race": {
+          "whitePct": 88.96,
+          "nonHispanicWhitePct": 87.44,
+          "blackPct": 4.56,
+          "asianPct": 0.65,
+          "hispanicPct": 4.31
+        }
+      },
+      "election": {
+        "winner": "Davey Hiott",
+        "party": "REP",
+        "pct": 98.98,
+        "unopposed": true
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "South Carolina House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62120,
+        "medianAge": 41.1,
+        "totalPopulation": 43844,
+        "collegePct": 24.64,
+        "renterRatePct": 26.98,
+        "race": {
+          "whitePct": 77.02,
+          "nonHispanicWhitePct": 74.94,
+          "blackPct": 10.61,
+          "asianPct": 0.48,
+          "hispanicPct": 10.95
+        }
+      },
+      "election": {
+        "winner": "Neal Collins",
+        "party": "REP",
+        "pct": 98.24,
+        "unopposed": true
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "South Carolina House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77559,
+        "medianAge": 42.5,
+        "totalPopulation": 42639,
+        "collegePct": 36.42,
+        "renterRatePct": 22.69,
+        "race": {
+          "whitePct": 84.26,
+          "nonHispanicWhitePct": 83.58,
+          "blackPct": 8.19,
+          "asianPct": 0.98,
+          "hispanicPct": 2.08
+        }
+      },
+      "election": {
+        "winner": "April Cromer",
+        "party": "REP",
+        "pct": 74.33,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "South Carolina House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58444,
+        "medianAge": 39.6,
+        "totalPopulation": 39863,
+        "collegePct": 15.82,
+        "renterRatePct": 25.18,
+        "race": {
+          "whitePct": 75.77,
+          "nonHispanicWhitePct": 75.23,
+          "blackPct": 17.55,
+          "asianPct": 0.31,
+          "hispanicPct": 2.35
+        }
+      },
+      "election": {
+        "winner": "Lee Gilreath",
+        "party": "REP",
+        "pct": 90.6,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "South Carolina House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58660,
+        "medianAge": 44.1,
+        "totalPopulation": 40260,
+        "collegePct": 22.8,
+        "renterRatePct": 23.37,
+        "race": {
+          "whitePct": 73.04,
+          "nonHispanicWhitePct": 71.41,
+          "blackPct": 18.48,
+          "asianPct": 0.73,
+          "hispanicPct": 5.54
+        }
+      },
+      "election": {
+        "winner": "Don Chapman",
+        "party": "REP",
+        "pct": 86.9,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "South Carolina House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60543,
+        "medianAge": 37,
+        "totalPopulation": 43457,
+        "collegePct": 31.44,
+        "renterRatePct": 30.81,
+        "race": {
+          "whitePct": 74.34,
+          "nonHispanicWhitePct": 71.62,
+          "blackPct": 14.96,
+          "asianPct": 1.81,
+          "hispanicPct": 7.13
+        }
+      },
+      "election": {
+        "winner": "Blake Sanders",
+        "party": "REP",
+        "pct": 98.68,
+        "unopposed": true
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "South Carolina House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69951,
+        "medianAge": 38.5,
+        "totalPopulation": 43585,
+        "collegePct": 28.06,
+        "renterRatePct": 25.26,
+        "race": {
+          "whitePct": 74.78,
+          "nonHispanicWhitePct": 71.85,
+          "blackPct": 10.26,
+          "asianPct": 1.2,
+          "hispanicPct": 11.15
+        }
+      },
+      "election": {
+        "winner": "Thomas Beach",
+        "party": "REP",
+        "pct": 98.58,
+        "unopposed": true
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "South Carolina House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49717,
+        "medianAge": 43.9,
+        "totalPopulation": 40422,
+        "collegePct": 15.97,
+        "renterRatePct": 23.44,
+        "race": {
+          "whitePct": 73.93,
+          "nonHispanicWhitePct": 72.27,
+          "blackPct": 19.54,
+          "asianPct": 0.19,
+          "hispanicPct": 3.3
+        }
+      },
+      "election": {
+        "winner": "Craig Gagnon",
+        "party": "REP",
+        "pct": 99.48,
+        "unopposed": true
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "South Carolina House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41513,
+        "medianAge": 40.4,
+        "totalPopulation": 40985,
+        "collegePct": 16.51,
+        "renterRatePct": 39.28,
+        "race": {
+          "whitePct": 46.38,
+          "nonHispanicWhitePct": 41.31,
+          "blackPct": 47.78,
+          "asianPct": 0.57,
+          "hispanicPct": 7.96
+        }
+      },
+      "election": {
+        "winner": "Daniel Gibson",
+        "party": "REP",
+        "pct": 52.26,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "South Carolina House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65936,
+        "medianAge": 43.8,
+        "totalPopulation": 39614,
+        "collegePct": 33.04,
+        "renterRatePct": 23.65,
+        "race": {
+          "whitePct": 78.94,
+          "nonHispanicWhitePct": 75.8,
+          "blackPct": 15.61,
+          "asianPct": 1.21,
+          "hispanicPct": 4.23
+        }
+      },
+      "election": {
+        "winner": "John McCravy",
+        "party": "REP",
+        "pct": 74.75,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "South Carolina House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56562,
+        "medianAge": 41.5,
+        "totalPopulation": 42183,
+        "collegePct": 16.09,
+        "renterRatePct": 26.99,
+        "race": {
+          "whitePct": 65.37,
+          "nonHispanicWhitePct": 64,
+          "blackPct": 23.25,
+          "asianPct": 0.43,
+          "hispanicPct": 7.36
+        }
+      },
+      "election": {
+        "winner": "Luke Rankin",
+        "party": "REP",
+        "pct": 96.86,
+        "unopposed": true
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "South Carolina House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65467,
+        "medianAge": 32.9,
+        "totalPopulation": 42310,
+        "collegePct": 22.98,
+        "renterRatePct": 45.63,
+        "race": {
+          "whitePct": 45.04,
+          "nonHispanicWhitePct": 41.52,
+          "blackPct": 32.57,
+          "asianPct": 3.41,
+          "hispanicPct": 16.51
+        }
+      },
+      "election": {
+        "winner": "JA Moore",
+        "party": "DEM",
+        "pct": 55.69,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "South Carolina House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82974,
+        "medianAge": 36.4,
+        "totalPopulation": 41988,
+        "collegePct": 35.58,
+        "renterRatePct": 23.08,
+        "race": {
+          "whitePct": 69.67,
+          "nonHispanicWhitePct": 67.91,
+          "blackPct": 18.49,
+          "asianPct": 1.47,
+          "hispanicPct": 7.13
+        }
+      },
+      "election": {
+        "winner": "Mark N Willis",
+        "party": "REP",
+        "pct": 98.7,
+        "unopposed": true
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "South Carolina House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71837,
+        "medianAge": 43.5,
+        "totalPopulation": 44438,
+        "collegePct": 32.61,
+        "renterRatePct": 14.75,
+        "race": {
+          "whitePct": 87.02,
+          "nonHispanicWhitePct": 86.21,
+          "blackPct": 5.52,
+          "asianPct": 0.9,
+          "hispanicPct": 3.96
+        }
+      },
+      "election": {
+        "winner": "Mike Burns",
+        "party": "REP",
+        "pct": 99.06,
+        "unopposed": true
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "South Carolina House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75340,
+        "medianAge": 40.1,
+        "totalPopulation": 42996,
+        "collegePct": 34.61,
+        "renterRatePct": 21.99,
+        "race": {
+          "whitePct": 78.97,
+          "nonHispanicWhitePct": 76.94,
+          "blackPct": 10.32,
+          "asianPct": 2.12,
+          "hispanicPct": 7.88
+        }
+      },
+      "election": {
+        "winner": "Alan Morgan",
+        "party": "REP",
+        "pct": 98.91,
+        "unopposed": true
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "South Carolina House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60954,
+        "medianAge": 35.7,
+        "totalPopulation": 42168,
+        "collegePct": 30.08,
+        "renterRatePct": 36.22,
+        "race": {
+          "whitePct": 64.58,
+          "nonHispanicWhitePct": 61.63,
+          "blackPct": 13.07,
+          "asianPct": 1.43,
+          "hispanicPct": 19.3
+        }
+      },
+      "election": {
+        "winner": "Patrick Haddon",
+        "party": "REP",
+        "pct": 98.02,
+        "unopposed": true
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "South Carolina House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76415,
+        "medianAge": 37.7,
+        "totalPopulation": 42133,
+        "collegePct": 47.72,
+        "renterRatePct": 24.94,
+        "race": {
+          "whitePct": 74.52,
+          "nonHispanicWhitePct": 71.27,
+          "blackPct": 8.87,
+          "asianPct": 4.41,
+          "hispanicPct": 12.6
+        }
+      },
+      "election": {
+        "winner": "Stephen Frank",
+        "party": "REP",
+        "pct": 68.13,
+        "unopposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "South Carolina House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104250,
+        "medianAge": 40.4,
+        "totalPopulation": 45992,
+        "collegePct": 54.83,
+        "renterRatePct": 21.06,
+        "race": {
+          "whitePct": 75.52,
+          "nonHispanicWhitePct": 72.14,
+          "blackPct": 8.01,
+          "asianPct": 5.65,
+          "hispanicPct": 10.24
+        }
+      },
+      "election": {
+        "winner": "Bobby J Cox",
+        "party": "REP",
+        "pct": 98.28,
+        "unopposed": true
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "South Carolina House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79607,
+        "medianAge": 40.7,
+        "totalPopulation": 40171,
+        "collegePct": 54.73,
+        "renterRatePct": 40.88,
+        "race": {
+          "whitePct": 82,
+          "nonHispanicWhitePct": 80.75,
+          "blackPct": 5.19,
+          "asianPct": 3.35,
+          "hispanicPct": 6.65
+        }
+      },
+      "election": {
+        "winner": "Paul Wickensimer",
+        "party": "REP",
+        "pct": 59.99,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "South Carolina House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 40846,
+        "medianAge": 34.7,
+        "totalPopulation": 38010,
+        "collegePct": 30.51,
+        "renterRatePct": 70.12,
+        "race": {
+          "whitePct": 43.75,
+          "nonHispanicWhitePct": 40.43,
+          "blackPct": 39,
+          "asianPct": 0.98,
+          "hispanicPct": 16.15
+        }
+      },
+      "election": {
+        "winner": "Chandra Dillard",
+        "party": "DEM",
+        "pct": 79.97,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "South Carolina House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89617,
+        "medianAge": 36.9,
+        "totalPopulation": 43387,
+        "collegePct": 60.54,
+        "renterRatePct": 42.41,
+        "race": {
+          "whitePct": 74.84,
+          "nonHispanicWhitePct": 73.36,
+          "blackPct": 13.02,
+          "asianPct": 3.4,
+          "hispanicPct": 7.13
+        }
+      },
+      "election": {
+        "winner": "Bruce Bannister",
+        "party": "REP",
+        "pct": 60.37,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "South Carolina House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51378,
+        "medianAge": 36.8,
+        "totalPopulation": 39223,
+        "collegePct": 17.07,
+        "renterRatePct": 38.31,
+        "race": {
+          "whitePct": 35.04,
+          "nonHispanicWhitePct": 32.59,
+          "blackPct": 46.37,
+          "asianPct": 0.45,
+          "hispanicPct": 16.83
+        }
+      },
+      "election": {
+        "winner": "Wendell Jones",
+        "party": "DEM",
+        "pct": 62.71,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "South Carolina House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111468,
+        "medianAge": 38.3,
+        "totalPopulation": 43835,
+        "collegePct": 50.89,
+        "renterRatePct": 19.29,
+        "race": {
+          "whitePct": 72.22,
+          "nonHispanicWhitePct": 68.49,
+          "blackPct": 10.71,
+          "asianPct": 4.34,
+          "hispanicPct": 10.1
+        }
+      },
+      "election": {
+        "winner": "David Martin",
+        "party": "REP",
+        "pct": 62.56,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "South Carolina House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84025,
+        "medianAge": 39.5,
+        "totalPopulation": 44546,
+        "collegePct": 37.1,
+        "renterRatePct": 27.28,
+        "race": {
+          "whitePct": 67.97,
+          "nonHispanicWhitePct": 64,
+          "blackPct": 19.32,
+          "asianPct": 1.63,
+          "hispanicPct": 11.12
+        }
+      },
+      "election": {
+        "winner": "David Vaughan",
+        "party": "REP",
+        "pct": 60.02,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "South Carolina House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80845,
+        "medianAge": 39.5,
+        "totalPopulation": 44308,
+        "collegePct": 34.02,
+        "renterRatePct": 13.4,
+        "race": {
+          "whitePct": 64.21,
+          "nonHispanicWhitePct": 61.66,
+          "blackPct": 21.76,
+          "asianPct": 1.81,
+          "hispanicPct": 11.11
+        }
+      },
+      "election": {
+        "winner": "Chris Huff",
+        "party": "REP",
+        "pct": 64.86,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "South Carolina House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58973,
+        "medianAge": 42.8,
+        "totalPopulation": 44223,
+        "collegePct": 16.63,
+        "renterRatePct": 21.97,
+        "race": {
+          "whitePct": 75.67,
+          "nonHispanicWhitePct": 74.58,
+          "blackPct": 15.65,
+          "asianPct": 0.48,
+          "hispanicPct": 4.54
+        }
+      },
+      "election": {
+        "winner": "Dennis Moss",
+        "party": "REP",
+        "pct": 99.23,
+        "unopposed": true
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "South Carolina House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47857,
+        "medianAge": 39.4,
+        "totalPopulation": 41017,
+        "collegePct": 17.55,
+        "renterRatePct": 28.9,
+        "race": {
+          "whitePct": 75.47,
+          "nonHispanicWhitePct": 73.73,
+          "blackPct": 15.95,
+          "asianPct": 0.21,
+          "hispanicPct": 6.44
+        }
+      },
+      "election": {
+        "winner": "Brian Lawson",
+        "party": "REP",
+        "pct": 79.33,
+        "unopposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "South Carolina House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 40145,
+        "medianAge": 32.4,
+        "totalPopulation": 42145,
+        "collegePct": 16.85,
+        "renterRatePct": 53.67,
+        "race": {
+          "whitePct": 34.83,
+          "nonHispanicWhitePct": 31.76,
+          "blackPct": 50.11,
+          "asianPct": 2.33,
+          "hispanicPct": 12.85
+        }
+      },
+      "election": {
+        "winner": "Rosalyn Henderson-Myers",
+        "party": "DEM",
+        "pct": 98.5,
+        "unopposed": true
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "South Carolina House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61487,
+        "medianAge": 36.8,
+        "totalPopulation": 41391,
+        "collegePct": 32.08,
+        "renterRatePct": 38.25,
+        "race": {
+          "whitePct": 66.3,
+          "nonHispanicWhitePct": 63.93,
+          "blackPct": 21.73,
+          "asianPct": 1.31,
+          "hispanicPct": 9.84
+        }
+      },
+      "election": {
+        "winner": "Scott Montgomery",
+        "party": "REP",
+        "pct": 98.08,
+        "unopposed": true
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "South Carolina House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65321,
+        "medianAge": 41.4,
+        "totalPopulation": 42141,
+        "collegePct": 27.27,
+        "renterRatePct": 22.21,
+        "race": {
+          "whitePct": 74.22,
+          "nonHispanicWhitePct": 73.25,
+          "blackPct": 16.35,
+          "asianPct": 2.25,
+          "hispanicPct": 5.25
+        }
+      },
+      "election": {
+        "winner": "Travis A Moore",
+        "party": "REP",
+        "pct": 71.86,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "South Carolina House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76534,
+        "medianAge": 39.7,
+        "totalPopulation": 44304,
+        "collegePct": 33.93,
+        "renterRatePct": 19.93,
+        "race": {
+          "whitePct": 66.1,
+          "nonHispanicWhitePct": 63.69,
+          "blackPct": 18.41,
+          "asianPct": 4.12,
+          "hispanicPct": 9.88
+        }
+      },
+      "election": {
+        "winner": "Sarita Edgerton",
+        "party": "REP",
+        "pct": 98.35,
+        "unopposed": true
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "South Carolina House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99735,
+        "medianAge": 40.1,
+        "totalPopulation": 45660,
+        "collegePct": 45.53,
+        "renterRatePct": 14.41,
+        "race": {
+          "whitePct": 73.12,
+          "nonHispanicWhitePct": 71.81,
+          "blackPct": 12.05,
+          "asianPct": 4.17,
+          "hispanicPct": 6.89
+        }
+      },
+      "election": {
+        "winner": "Bill Chumley",
+        "party": "REP",
+        "pct": 98.05,
+        "unopposed": true
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "South Carolina House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61487,
+        "medianAge": 33.9,
+        "totalPopulation": 42520,
+        "collegePct": 21.76,
+        "renterRatePct": 25.59,
+        "race": {
+          "whitePct": 65.16,
+          "nonHispanicWhitePct": 62.66,
+          "blackPct": 19.01,
+          "asianPct": 1.56,
+          "hispanicPct": 13.48
+        }
+      },
+      "election": {
+        "winner": "Rob Harris",
+        "party": "REP",
+        "pct": 98.25,
+        "unopposed": true
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "South Carolina House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67442,
+        "medianAge": 37.3,
+        "totalPopulation": 42822,
+        "collegePct": 22.73,
+        "renterRatePct": 23.8,
+        "race": {
+          "whitePct": 69.81,
+          "nonHispanicWhitePct": 68.78,
+          "blackPct": 16.49,
+          "asianPct": 3.97,
+          "hispanicPct": 7.21
+        }
+      },
+      "election": {
+        "winner": "Steven Long",
+        "party": "REP",
+        "pct": 98.4,
+        "unopposed": true
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "South Carolina House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73136,
+        "medianAge": 42.3,
+        "totalPopulation": 42667,
+        "collegePct": 23.83,
+        "renterRatePct": 12.23,
+        "race": {
+          "whitePct": 87.62,
+          "nonHispanicWhitePct": 85.86,
+          "blackPct": 4.59,
+          "asianPct": 1.95,
+          "hispanicPct": 5.61
+        }
+      },
+      "election": {
+        "winner": "Josiah Magnuson",
+        "party": "REP",
+        "pct": 81.61,
+        "unopposed": false
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "South Carolina House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65207,
+        "medianAge": 42.2,
+        "totalPopulation": 40715,
+        "collegePct": 21.13,
+        "renterRatePct": 19.26,
+        "race": {
+          "whitePct": 73.81,
+          "nonHispanicWhitePct": 72.07,
+          "blackPct": 13.25,
+          "asianPct": 0.23,
+          "hispanicPct": 10.17
+        }
+      },
+      "election": {
+        "winner": "Cal Forrest",
+        "party": "REP",
+        "pct": 99.25,
+        "unopposed": true
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "South Carolina House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60788,
+        "medianAge": 42.2,
+        "totalPopulation": 40243,
+        "collegePct": 24.48,
+        "renterRatePct": 25.31,
+        "race": {
+          "whitePct": 63.12,
+          "nonHispanicWhitePct": 61.2,
+          "blackPct": 27.75,
+          "asianPct": 0.45,
+          "hispanicPct": 8.66
+        }
+      },
+      "election": {
+        "winner": "Joe White",
+        "party": "REP",
+        "pct": 98.42,
+        "unopposed": true
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "South Carolina House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50764,
+        "medianAge": 43.8,
+        "totalPopulation": 41194,
+        "collegePct": 17.55,
+        "renterRatePct": 24.11,
+        "race": {
+          "whitePct": 40.13,
+          "nonHispanicWhitePct": 39.63,
+          "blackPct": 53.99,
+          "asianPct": 0.49,
+          "hispanicPct": 2.7
+        }
+      },
+      "election": {
+        "winner": "Annie E McDaniel",
+        "party": "DEM",
+        "pct": 98.11,
+        "unopposed": true
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "South Carolina House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42204,
+        "medianAge": 42.2,
+        "totalPopulation": 39406,
+        "collegePct": 17.33,
+        "renterRatePct": 32.39,
+        "race": {
+          "whitePct": 64.92,
+          "nonHispanicWhitePct": 63.68,
+          "blackPct": 29.5,
+          "asianPct": 0.54,
+          "hispanicPct": 2.59
+        }
+      },
+      "election": {
+        "winner": "Doug Gilliam",
+        "party": "REP",
+        "pct": 67.96,
+        "unopposed": false
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "South Carolina House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65066,
+        "medianAge": 42.7,
+        "totalPopulation": 38544,
+        "collegePct": 21.17,
+        "renterRatePct": 19.69,
+        "race": {
+          "whitePct": 73.17,
+          "nonHispanicWhitePct": 72.84,
+          "blackPct": 18.37,
+          "asianPct": 0.4,
+          "hispanicPct": 2.87
+        }
+      },
+      "election": {
+        "winner": "Randy Ligon",
+        "party": "REP",
+        "pct": 99.01,
+        "unopposed": true
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "South Carolina House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109746,
+        "medianAge": 44,
+        "totalPopulation": 42949,
+        "collegePct": 50.33,
+        "renterRatePct": 6.06,
+        "race": {
+          "whitePct": 75.34,
+          "nonHispanicWhitePct": 73.93,
+          "blackPct": 10.64,
+          "asianPct": 4.79,
+          "hispanicPct": 7.69
+        }
+      },
+      "election": {
+        "winner": "Mike Neese",
+        "party": "REP",
+        "pct": 60.98,
+        "unopposed": false
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "South Carolina House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57483,
+        "medianAge": 41.3,
+        "totalPopulation": 40571,
+        "collegePct": 18.94,
+        "renterRatePct": 27.38,
+        "race": {
+          "whitePct": 64.29,
+          "nonHispanicWhitePct": 61.7,
+          "blackPct": 26.68,
+          "asianPct": 0.86,
+          "hispanicPct": 7.73
+        }
+      },
+      "election": {
+        "winner": "Brandon Newton",
+        "party": "REP",
+        "pct": 64.31,
+        "unopposed": false
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "South Carolina House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76424,
+        "medianAge": 39.7,
+        "totalPopulation": 43176,
+        "collegePct": 41.87,
+        "renterRatePct": 35.09,
+        "race": {
+          "whitePct": 65.43,
+          "nonHispanicWhitePct": 63.12,
+          "blackPct": 24.15,
+          "asianPct": 1.25,
+          "hispanicPct": 7.13
+        }
+      },
+      "election": {
+        "winner": "Heath Sessions",
+        "party": "REP",
+        "pct": 59.9,
+        "unopposed": false
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "South Carolina House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72038,
+        "medianAge": 42.2,
+        "totalPopulation": 42587,
+        "collegePct": 22.94,
+        "renterRatePct": 18.45,
+        "race": {
+          "whitePct": 79.61,
+          "nonHispanicWhitePct": 77.46,
+          "blackPct": 9.22,
+          "asianPct": 0.82,
+          "hispanicPct": 7.74
+        }
+      },
+      "election": {
+        "winner": "Tommy Pope",
+        "party": "REP",
+        "pct": 98.81,
+        "unopposed": true
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "South Carolina House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95785,
+        "medianAge": 39.2,
+        "totalPopulation": 42322,
+        "collegePct": 43.57,
+        "renterRatePct": 24.74,
+        "race": {
+          "whitePct": 78.17,
+          "nonHispanicWhitePct": 74.8,
+          "blackPct": 12.65,
+          "asianPct": 2.34,
+          "hispanicPct": 7.36
+        }
+      },
+      "election": {
+        "winner": "Brandon Guffey",
+        "party": "REP",
+        "pct": 98.11,
+        "unopposed": true
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "South Carolina House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53406,
+        "medianAge": 34.8,
+        "totalPopulation": 39042,
+        "collegePct": 20.44,
+        "renterRatePct": 42.23,
+        "race": {
+          "whitePct": 38.46,
+          "nonHispanicWhitePct": 37.5,
+          "blackPct": 53.78,
+          "asianPct": 1.59,
+          "hispanicPct": 3.55
+        }
+      },
+      "election": {
+        "winner": "John R King",
+        "party": "DEM",
+        "pct": 98.14,
+        "unopposed": true
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "South Carolina House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49212,
+        "medianAge": 40.7,
+        "totalPopulation": 40529,
+        "collegePct": 15.8,
+        "renterRatePct": 24.83,
+        "race": {
+          "whitePct": 45.8,
+          "nonHispanicWhitePct": 45.23,
+          "blackPct": 49.52,
+          "asianPct": 0.38,
+          "hispanicPct": 2.23
+        }
+      },
+      "election": {
+        "winner": "Will Wheeler",
+        "party": "DEM",
+        "pct": 98.12,
+        "unopposed": true
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "South Carolina House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47113,
+        "medianAge": 37.9,
+        "totalPopulation": 39905,
+        "collegePct": 18.11,
+        "renterRatePct": 40.18,
+        "race": {
+          "whitePct": 29.84,
+          "nonHispanicWhitePct": 28.25,
+          "blackPct": 61.77,
+          "asianPct": 0.85,
+          "hispanicPct": 5.92
+        }
+      },
+      "election": {
+        "winner": "David Weeks",
+        "party": "DEM",
+        "pct": 98.72,
+        "unopposed": true
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "South Carolina House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66157,
+        "medianAge": 39.3,
+        "totalPopulation": 44332,
+        "collegePct": 25.68,
+        "renterRatePct": 18.15,
+        "race": {
+          "whitePct": 65.89,
+          "nonHispanicWhitePct": 64.52,
+          "blackPct": 24.49,
+          "asianPct": 0.55,
+          "hispanicPct": 7.54
+        }
+      },
+      "election": {
+        "winner": "Jermaine Johnson",
+        "party": "DEM",
+        "pct": 97.7,
+        "unopposed": true
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "South Carolina House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50118,
+        "medianAge": 41.6,
+        "totalPopulation": 41484,
+        "collegePct": 12.18,
+        "renterRatePct": 23.49,
+        "race": {
+          "whitePct": 67.62,
+          "nonHispanicWhitePct": 64.66,
+          "blackPct": 25.69,
+          "asianPct": 0.26,
+          "hispanicPct": 5.52
+        }
+      },
+      "election": {
+        "winner": "Richard Richie Yow",
+        "party": "REP",
+        "pct": 73.74,
+        "unopposed": false
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "South Carolina House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 40295,
+        "medianAge": 42.6,
+        "totalPopulation": 38172,
+        "collegePct": 13.05,
+        "renterRatePct": 31.76,
+        "race": {
+          "whitePct": 41.42,
+          "nonHispanicWhitePct": 40.05,
+          "blackPct": 49.8,
+          "asianPct": 0.49,
+          "hispanicPct": 3.22
+        }
+      },
+      "election": {
+        "winner": "Jason Scott Luck",
+        "party": "DEM",
+        "pct": 52.02,
+        "unopposed": false
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "South Carolina House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43617,
+        "medianAge": 37.9,
+        "totalPopulation": 40434,
+        "collegePct": 10.48,
+        "renterRatePct": 39.55,
+        "race": {
+          "whitePct": 49.35,
+          "nonHispanicWhitePct": 48.88,
+          "blackPct": 41.62,
+          "asianPct": 0,
+          "hispanicPct": 2.53
+        }
+      },
+      "election": {
+        "winner": "Jackie E Hayes",
+        "party": "DEM",
+        "pct": 98.63,
+        "unopposed": true
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "South Carolina House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72394,
+        "medianAge": 41.6,
+        "totalPopulation": 47664,
+        "collegePct": 35.86,
+        "renterRatePct": 27.17,
+        "race": {
+          "whitePct": 80.28,
+          "nonHispanicWhitePct": 77.31,
+          "blackPct": 8.1,
+          "asianPct": 2.82,
+          "hispanicPct": 6.74
+        }
+      },
+      "election": {
+        "winner": "Tim McGinnis",
+        "party": "REP",
+        "pct": 99.04,
+        "unopposed": true
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "South Carolina House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 40559,
+        "medianAge": 42.7,
+        "totalPopulation": 40936,
+        "collegePct": 14.19,
+        "renterRatePct": 34.55,
+        "race": {
+          "whitePct": 44.72,
+          "nonHispanicWhitePct": 44.63,
+          "blackPct": 49.42,
+          "asianPct": 0.23,
+          "hispanicPct": 2.86
+        }
+      },
+      "election": {
+        "winner": "Lucas Atkinson",
+        "party": "DEM",
+        "pct": 58.61,
+        "unopposed": false
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "South Carolina House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59755,
+        "medianAge": 43.2,
+        "totalPopulation": 46030,
+        "collegePct": 14.62,
+        "renterRatePct": 26.24,
+        "race": {
+          "whitePct": 70.19,
+          "nonHispanicWhitePct": 69.19,
+          "blackPct": 20.69,
+          "asianPct": 1.34,
+          "hispanicPct": 5.46
+        }
+      },
+      "election": {
+        "winner": "Jeff Johnson",
+        "party": "REP",
+        "pct": 99.15,
+        "unopposed": true
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "South Carolina House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43496,
+        "medianAge": 36,
+        "totalPopulation": 41014,
+        "collegePct": 15.72,
+        "renterRatePct": 40.76,
+        "race": {
+          "whitePct": 35.17,
+          "nonHispanicWhitePct": 34.02,
+          "blackPct": 59.11,
+          "asianPct": 0.6,
+          "hispanicPct": 4.02
+        }
+      },
+      "election": {
+        "winner": "Terry Alexander",
+        "party": "DEM",
+        "pct": 98.24,
+        "unopposed": true
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "South Carolina House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60254,
+        "medianAge": 40.2,
+        "totalPopulation": 41890,
+        "collegePct": 20.66,
+        "renterRatePct": 23.22,
+        "race": {
+          "whitePct": 57.46,
+          "nonHispanicWhitePct": 57.17,
+          "blackPct": 36.93,
+          "asianPct": 1.24,
+          "hispanicPct": 2.78
+        }
+      },
+      "election": {
+        "winner": "Phillip Lowe",
+        "party": "REP",
+        "pct": 98.92,
+        "unopposed": true
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "South Carolina House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66615,
+        "medianAge": 38.8,
+        "totalPopulation": 42832,
+        "collegePct": 27.45,
+        "renterRatePct": 30.33,
+        "race": {
+          "whitePct": 74.32,
+          "nonHispanicWhitePct": 72.23,
+          "blackPct": 11.7,
+          "asianPct": 1.16,
+          "hispanicPct": 9.84
+        }
+      },
+      "election": {
+        "winner": "Carla Schuessler",
+        "party": "REP",
+        "pct": 98.78,
+        "unopposed": true
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "South Carolina House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41446,
+        "medianAge": 41.4,
+        "totalPopulation": 41393,
+        "collegePct": 13.68,
+        "renterRatePct": 36.86,
+        "race": {
+          "whitePct": 43.11,
+          "nonHispanicWhitePct": 42.04,
+          "blackPct": 52.85,
+          "asianPct": 0.07,
+          "hispanicPct": 2.92
+        }
+      },
+      "election": {
+        "winner": "Robert Williams",
+        "party": "DEM",
+        "pct": 97.77,
+        "unopposed": true
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "South Carolina House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76454,
+        "medianAge": 39.5,
+        "totalPopulation": 39060,
+        "collegePct": 37.21,
+        "renterRatePct": 36.51,
+        "race": {
+          "whitePct": 64.6,
+          "nonHispanicWhitePct": 64.1,
+          "blackPct": 26.63,
+          "asianPct": 3.5,
+          "hispanicPct": 3.34
+        }
+      },
+      "election": {
+        "winner": "Jay Jordan",
+        "party": "REP",
+        "pct": 66.37,
+        "unopposed": false
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "South Carolina House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47100,
+        "medianAge": 42.9,
+        "totalPopulation": 42121,
+        "collegePct": 16.28,
+        "renterRatePct": 31.01,
+        "race": {
+          "whitePct": 49.65,
+          "nonHispanicWhitePct": 48.76,
+          "blackPct": 45.96,
+          "asianPct": 0.66,
+          "hispanicPct": 2.61
+        }
+      },
+      "election": {
+        "winner": "Fawn Pedalino",
+        "party": "REP",
+        "pct": 55.76,
+        "unopposed": false
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "South Carolina House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59821,
+        "medianAge": 40.8,
+        "totalPopulation": 42589,
+        "collegePct": 20.86,
+        "renterRatePct": 20.57,
+        "race": {
+          "whitePct": 72.81,
+          "nonHispanicWhitePct": 72.04,
+          "blackPct": 20.97,
+          "asianPct": 0.64,
+          "hispanicPct": 1.51
+        }
+      },
+      "election": {
+        "winner": "Cody T Mitchell",
+        "party": "REP",
+        "pct": 99.23,
+        "unopposed": true
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "South Carolina House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 129240,
+        "medianAge": 39.6,
+        "totalPopulation": 42951,
+        "collegePct": 60.41,
+        "renterRatePct": 24.27,
+        "race": {
+          "whitePct": 73.61,
+          "nonHispanicWhitePct": 70.4,
+          "blackPct": 8.83,
+          "asianPct": 8.17,
+          "hispanicPct": 8.71
+        }
+      },
+      "election": {
+        "winner": "Jackie Terribile",
+        "party": "REP",
+        "pct": 90.58,
+        "unopposed": true
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "South Carolina House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72111,
+        "medianAge": 37.6,
+        "totalPopulation": 40159,
+        "collegePct": 32.43,
+        "renterRatePct": 26.69,
+        "race": {
+          "whitePct": 60.51,
+          "nonHispanicWhitePct": 59.23,
+          "blackPct": 27.93,
+          "asianPct": 2.73,
+          "hispanicPct": 4.09
+        }
+      },
+      "election": {
+        "winner": "Murrell Smith",
+        "party": "REP",
+        "pct": 98.41,
+        "unopposed": true
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "South Carolina House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71934,
+        "medianAge": 47.1,
+        "totalPopulation": 46675,
+        "collegePct": 26.62,
+        "renterRatePct": 17.18,
+        "race": {
+          "whitePct": 81.73,
+          "nonHispanicWhitePct": 80.3,
+          "blackPct": 6.08,
+          "asianPct": 0.94,
+          "hispanicPct": 8.45
+        }
+      },
+      "election": {
+        "winner": "Heather Ammons Crawford",
+        "party": "REP",
+        "pct": 99,
+        "unopposed": true
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "South Carolina House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81741,
+        "medianAge": 40.5,
+        "totalPopulation": 39355,
+        "collegePct": 49.22,
+        "renterRatePct": 24.26,
+        "race": {
+          "whitePct": 72.91,
+          "nonHispanicWhitePct": 71.62,
+          "blackPct": 14.26,
+          "asianPct": 5.44,
+          "hispanicPct": 4.59
+        }
+      },
+      "election": {
+        "winner": "Chris Wooten",
+        "party": "REP",
+        "pct": 81.45,
+        "unopposed": false
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "South Carolina House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54334,
+        "medianAge": 38.6,
+        "totalPopulation": 41915,
+        "collegePct": 24.72,
+        "renterRatePct": 33.52,
+        "race": {
+          "whitePct": 23.72,
+          "nonHispanicWhitePct": 23.24,
+          "blackPct": 68.73,
+          "asianPct": 0.7,
+          "hispanicPct": 4.29
+        }
+      },
+      "election": {
+        "winner": "Robert Reese",
+        "party": "DEM",
+        "pct": 97.26,
+        "unopposed": true
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "South Carolina House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109517,
+        "medianAge": 42.6,
+        "totalPopulation": 41663,
+        "collegePct": 48.07,
+        "renterRatePct": 12.9,
+        "race": {
+          "whitePct": 74.35,
+          "nonHispanicWhitePct": 73.34,
+          "blackPct": 16.46,
+          "asianPct": 4.45,
+          "hispanicPct": 2.98
+        }
+      },
+      "election": {
+        "winner": "Nathan Ballentine",
+        "party": "REP",
+        "pct": 98.07,
+        "unopposed": true
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "South Carolina House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43296,
+        "medianAge": 23.5,
+        "totalPopulation": 38587,
+        "collegePct": 50.04,
+        "renterRatePct": 70.53,
+        "race": {
+          "whitePct": 59.89,
+          "nonHispanicWhitePct": 58.79,
+          "blackPct": 28.27,
+          "asianPct": 4.39,
+          "hispanicPct": 4.89
+        }
+      },
+      "election": {
+        "winner": "Seth Rose",
+        "party": "DEM",
+        "pct": 98.96,
+        "unopposed": true
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "South Carolina House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49721,
+        "medianAge": 35.8,
+        "totalPopulation": 41809,
+        "collegePct": 25.17,
+        "renterRatePct": 46.04,
+        "race": {
+          "whitePct": 29.31,
+          "nonHispanicWhitePct": 29,
+          "blackPct": 61.58,
+          "asianPct": 1,
+          "hispanicPct": 5.03
+        }
+      },
+      "election": {
+        "winner": "Chris Hart",
+        "party": "DEM",
+        "pct": 98.97,
+        "unopposed": true
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "South Carolina House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45038,
+        "medianAge": 30.3,
+        "totalPopulation": 41733,
+        "collegePct": 34.62,
+        "renterRatePct": 58.19,
+        "race": {
+          "whitePct": 34.54,
+          "nonHispanicWhitePct": 33.66,
+          "blackPct": 58.07,
+          "asianPct": 2.02,
+          "hispanicPct": 3.31
+        }
+      },
+      "election": {
+        "winner": "Todd Rutherford",
+        "party": "DEM",
+        "pct": 98.42,
+        "unopposed": true
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "South Carolina House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77253,
+        "medianAge": 29.6,
+        "totalPopulation": 44234,
+        "collegePct": 61.8,
+        "renterRatePct": 37.25,
+        "race": {
+          "whitePct": 70.75,
+          "nonHispanicWhitePct": 67.58,
+          "blackPct": 17.58,
+          "asianPct": 2.43,
+          "hispanicPct": 7.33
+        }
+      },
+      "election": {
+        "winner": "Heather Bauer",
+        "party": "DEM",
+        "pct": 53.31,
+        "unopposed": false
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "South Carolina House District 76",
+      "census": {
+        "censusName": "State House District 76 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46927,
+        "medianAge": 35.9,
+        "totalPopulation": 43859,
+        "collegePct": 26.64,
+        "renterRatePct": 49,
+        "race": {
+          "whitePct": 17.42,
+          "nonHispanicWhitePct": 16.74,
+          "blackPct": 68.77,
+          "asianPct": 2.86,
+          "hispanicPct": 8.82
+        }
+      },
+      "election": {
+        "winner": "Leon Howard",
+        "party": "DEM",
+        "pct": 92,
+        "unopposed": false
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "South Carolina House District 77",
+      "census": {
+        "censusName": "State House District 77 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80426,
+        "medianAge": 37.6,
+        "totalPopulation": 42225,
+        "collegePct": 47.04,
+        "renterRatePct": 26,
+        "race": {
+          "whitePct": 31.16,
+          "nonHispanicWhitePct": 29.9,
+          "blackPct": 56.11,
+          "asianPct": 2.81,
+          "hispanicPct": 7.53
+        }
+      },
+      "election": {
+        "winner": "Kambrell Garvin",
+        "party": "DEM",
+        "pct": 99.08,
+        "unopposed": true
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "South Carolina House District 78",
+      "census": {
+        "censusName": "State House District 78 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81934,
+        "medianAge": 36.7,
+        "totalPopulation": 40705,
+        "collegePct": 52.41,
+        "renterRatePct": 37.22,
+        "race": {
+          "whitePct": 47.09,
+          "nonHispanicWhitePct": 43.85,
+          "blackPct": 35.29,
+          "asianPct": 5.29,
+          "hispanicPct": 11.21
+        }
+      },
+      "election": {
+        "winner": "Beth Bernstein",
+        "party": "DEM",
+        "pct": 98.72,
+        "unopposed": true
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "South Carolina House District 79",
+      "census": {
+        "censusName": "State House District 79 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72477,
+        "medianAge": 37.8,
+        "totalPopulation": 38648,
+        "collegePct": 47.04,
+        "renterRatePct": 21.71,
+        "race": {
+          "whitePct": 27.81,
+          "nonHispanicWhitePct": 25.59,
+          "blackPct": 58.97,
+          "asianPct": 3.7,
+          "hispanicPct": 7.82
+        }
+      },
+      "election": {
+        "winner": "Hamilton Grant",
+        "party": "DEM",
+        "pct": 75.27,
+        "unopposed": false
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "South Carolina House District 80",
+      "census": {
+        "censusName": "State House District 80 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115671,
+        "medianAge": 43.4,
+        "totalPopulation": 40606,
+        "collegePct": 65.03,
+        "renterRatePct": 20.75,
+        "race": {
+          "whitePct": 88.37,
+          "nonHispanicWhitePct": 87.18,
+          "blackPct": 4.51,
+          "asianPct": 1.76,
+          "hispanicPct": 3.8
+        }
+      },
+      "election": {
+        "winner": "Kathy Landing",
+        "party": "REP",
+        "pct": 65.12,
+        "unopposed": false
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "South Carolina House District 81",
+      "census": {
+        "censusName": "State House District 81 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81733,
+        "medianAge": 48.6,
+        "totalPopulation": 39726,
+        "collegePct": 47.6,
+        "renterRatePct": 19,
+        "race": {
+          "whitePct": 75.12,
+          "nonHispanicWhitePct": 74.55,
+          "blackPct": 15.07,
+          "asianPct": 1.94,
+          "hispanicPct": 4.32
+        }
+      },
+      "election": {
+        "winner": "Charles Hartz",
+        "party": "REP",
+        "pct": 68.02,
+        "unopposed": false
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "South Carolina House District 82",
+      "census": {
+        "censusName": "State House District 82 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46220,
+        "medianAge": 39,
+        "totalPopulation": 43368,
+        "collegePct": 17.57,
+        "renterRatePct": 36.46,
+        "race": {
+          "whitePct": 41.02,
+          "nonHispanicWhitePct": 39.43,
+          "blackPct": 48.78,
+          "asianPct": 0.81,
+          "hispanicPct": 9.18
+        }
+      },
+      "election": {
+        "winner": "William Bill Clyburn",
+        "party": "DEM",
+        "pct": 53.9,
+        "unopposed": false
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "South Carolina House District 83",
+      "census": {
+        "censusName": "State House District 83 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83514,
+        "medianAge": 43.1,
+        "totalPopulation": 40977,
+        "collegePct": 35.93,
+        "renterRatePct": 23.43,
+        "race": {
+          "whitePct": 76.67,
+          "nonHispanicWhitePct": 75.15,
+          "blackPct": 14.65,
+          "asianPct": 0.86,
+          "hispanicPct": 5.93
+        }
+      },
+      "election": {
+        "winner": "Bill Hixon",
+        "party": "REP",
+        "pct": 98.73,
+        "unopposed": true
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "South Carolina House District 84",
+      "census": {
+        "censusName": "State House District 84 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62567,
+        "medianAge": 38.3,
+        "totalPopulation": 40725,
+        "collegePct": 22.43,
+        "renterRatePct": 20.56,
+        "race": {
+          "whitePct": 66.92,
+          "nonHispanicWhitePct": 65.43,
+          "blackPct": 22.21,
+          "asianPct": 0.77,
+          "hispanicPct": 7.72
+        }
+      },
+      "election": {
+        "winner": "Melissa Oremus",
+        "party": "REP",
+        "pct": 98.83,
+        "unopposed": true
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "South Carolina House District 85",
+      "census": {
+        "censusName": "State House District 85 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87560,
+        "medianAge": 45,
+        "totalPopulation": 40708,
+        "collegePct": 47,
+        "renterRatePct": 18.57,
+        "race": {
+          "whitePct": 76.85,
+          "nonHispanicWhitePct": 75.9,
+          "blackPct": 14.05,
+          "asianPct": 2.14,
+          "hispanicPct": 3.73
+        }
+      },
+      "election": {
+        "winner": "Jay Kilmartin",
+        "party": "REP",
+        "pct": 98.12,
+        "unopposed": true
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "South Carolina House District 86",
+      "census": {
+        "censusName": "State House District 86 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58530,
+        "medianAge": 40.5,
+        "totalPopulation": 42235,
+        "collegePct": 20.42,
+        "renterRatePct": 16.2,
+        "race": {
+          "whitePct": 65.8,
+          "nonHispanicWhitePct": 61.17,
+          "blackPct": 25.53,
+          "asianPct": 0.21,
+          "hispanicPct": 8.84
+        }
+      },
+      "election": {
+        "winner": "Bill Taylor",
+        "party": "REP",
+        "pct": 98.84,
+        "unopposed": true
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "South Carolina House District 87",
+      "census": {
+        "censusName": "State House District 87 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105900,
+        "medianAge": 39.8,
+        "totalPopulation": 46821,
+        "collegePct": 42.73,
+        "renterRatePct": 11.34,
+        "race": {
+          "whitePct": 82.24,
+          "nonHispanicWhitePct": 80.89,
+          "blackPct": 9.33,
+          "asianPct": 1.81,
+          "hispanicPct": 5.12
+        }
+      },
+      "election": {
+        "winner": "Paula Rawl Calhoon",
+        "party": "REP",
+        "pct": 85.58,
+        "unopposed": false
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "South Carolina House District 88",
+      "census": {
+        "censusName": "State House District 88 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69205,
+        "medianAge": 38.9,
+        "totalPopulation": 41552,
+        "collegePct": 22.93,
+        "renterRatePct": 25.44,
+        "race": {
+          "whitePct": 70.13,
+          "nonHispanicWhitePct": 67.57,
+          "blackPct": 17.97,
+          "asianPct": 2.16,
+          "hispanicPct": 8.64
+        }
+      },
+      "election": {
+        "winner": "RJ May",
+        "party": "REP",
+        "pct": 92.18,
+        "unopposed": true
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "South Carolina House District 89",
+      "census": {
+        "censusName": "State House District 89 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55949,
+        "medianAge": 37.9,
+        "totalPopulation": 41513,
+        "collegePct": 33.28,
+        "renterRatePct": 40.96,
+        "race": {
+          "whitePct": 65.67,
+          "nonHispanicWhitePct": 64.27,
+          "blackPct": 18.64,
+          "asianPct": 2.78,
+          "hispanicPct": 10.16
+        }
+      },
+      "election": {
+        "winner": "Micah Caskey",
+        "party": "REP",
+        "pct": 60.24,
+        "unopposed": false
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "South Carolina House District 90",
+      "census": {
+        "censusName": "State House District 90 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45207,
+        "medianAge": 41,
+        "totalPopulation": 40202,
+        "collegePct": 22.32,
+        "renterRatePct": 37.67,
+        "race": {
+          "whitePct": 35.57,
+          "nonHispanicWhitePct": 35,
+          "blackPct": 60.07,
+          "asianPct": 0.88,
+          "hispanicPct": 1.94
+        }
+      },
+      "election": {
+        "winner": "Justin Bamberg",
+        "party": "DEM",
+        "pct": 59.92,
+        "unopposed": false
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "South Carolina House District 91",
+      "census": {
+        "censusName": "State House District 91 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42998,
+        "medianAge": 41.8,
+        "totalPopulation": 40199,
+        "collegePct": 14.74,
+        "renterRatePct": 28.67,
+        "race": {
+          "whitePct": 43.96,
+          "nonHispanicWhitePct": 41.36,
+          "blackPct": 49.93,
+          "asianPct": 1.33,
+          "hispanicPct": 5.25
+        }
+      },
+      "election": {
+        "winner": "Lonnie Hosey",
+        "party": "DEM",
+        "pct": 51.6,
+        "unopposed": false
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "South Carolina House District 92",
+      "census": {
+        "censusName": "State House District 92 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89242,
+        "medianAge": 37.9,
+        "totalPopulation": 42233,
+        "collegePct": 26.08,
+        "renterRatePct": 19.64,
+        "race": {
+          "whitePct": 62.98,
+          "nonHispanicWhitePct": 60.18,
+          "blackPct": 20.47,
+          "asianPct": 3.63,
+          "hispanicPct": 9.56
+        }
+      },
+      "election": {
+        "winner": "Brandon Cox",
+        "party": "REP",
+        "pct": 97.9,
+        "unopposed": true
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "South Carolina House District 93",
+      "census": {
+        "censusName": "State House District 93 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52935,
+        "medianAge": 42.1,
+        "totalPopulation": 40380,
+        "collegePct": 20.05,
+        "renterRatePct": 27.43,
+        "race": {
+          "whitePct": 42.62,
+          "nonHispanicWhitePct": 41.59,
+          "blackPct": 51.97,
+          "asianPct": 0.57,
+          "hispanicPct": 3.77
+        }
+      },
+      "election": {
+        "winner": "Jerry Govan",
+        "party": "DEM",
+        "pct": 51.58,
+        "unopposed": false
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "South Carolina House District 94",
+      "census": {
+        "censusName": "State House District 94 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77180,
+        "medianAge": 37.3,
+        "totalPopulation": 43964,
+        "collegePct": 29.12,
+        "renterRatePct": 24.7,
+        "race": {
+          "whitePct": 67.45,
+          "nonHispanicWhitePct": 66.17,
+          "blackPct": 22.11,
+          "asianPct": 1.3,
+          "hispanicPct": 6.8
+        }
+      },
+      "election": {
+        "winner": "Gil Gatch",
+        "party": "REP",
+        "pct": 98.2,
+        "unopposed": true
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "South Carolina House District 95",
+      "census": {
+        "censusName": "State House District 95 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43977,
+        "medianAge": 41.1,
+        "totalPopulation": 39893,
+        "collegePct": 16.32,
+        "renterRatePct": 23.85,
+        "race": {
+          "whitePct": 40.76,
+          "nonHispanicWhitePct": 40.01,
+          "blackPct": 55.64,
+          "asianPct": 0.38,
+          "hispanicPct": 2.28
+        }
+      },
+      "election": {
+        "winner": "Gilda Cobb-Hunter",
+        "party": "DEM",
+        "pct": 98.27,
+        "unopposed": true
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "South Carolina House District 96",
+      "census": {
+        "censusName": "State House District 96 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63495,
+        "medianAge": 36.1,
+        "totalPopulation": 44034,
+        "collegePct": 15.8,
+        "renterRatePct": 19.81,
+        "race": {
+          "whitePct": 71.66,
+          "nonHispanicWhitePct": 66.5,
+          "blackPct": 14.01,
+          "asianPct": 0.81,
+          "hispanicPct": 13.3
+        }
+      },
+      "election": {
+        "winner": "D Ryan McCabe",
+        "party": "REP",
+        "pct": 99.08,
+        "unopposed": true
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "South Carolina House District 97",
+      "census": {
+        "censusName": "State House District 97 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63057,
+        "medianAge": 39.1,
+        "totalPopulation": 43441,
+        "collegePct": 20.25,
+        "renterRatePct": 19.47,
+        "race": {
+          "whitePct": 68.09,
+          "nonHispanicWhitePct": 66.62,
+          "blackPct": 24.12,
+          "asianPct": 0.27,
+          "hispanicPct": 4.8
+        }
+      },
+      "election": {
+        "winner": "Robby Robbins",
+        "party": "REP",
+        "pct": 99.06,
+        "unopposed": true
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "South Carolina House District 98",
+      "census": {
+        "censusName": "State House District 98 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79598,
+        "medianAge": 35.6,
+        "totalPopulation": 40545,
+        "collegePct": 34.17,
+        "renterRatePct": 31.76,
+        "race": {
+          "whitePct": 56.7,
+          "nonHispanicWhitePct": 55.17,
+          "blackPct": 23.6,
+          "asianPct": 4.43,
+          "hispanicPct": 8.42
+        }
+      },
+      "election": {
+        "winner": "Chris Murphy",
+        "party": "REP",
+        "pct": 56.86,
+        "unopposed": false
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "South Carolina House District 99",
+      "census": {
+        "censusName": "State House District 99 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98303,
+        "medianAge": 37.9,
+        "totalPopulation": 41209,
+        "collegePct": 52.56,
+        "renterRatePct": 37.19,
+        "race": {
+          "whitePct": 79.74,
+          "nonHispanicWhitePct": 77.8,
+          "blackPct": 6.87,
+          "asianPct": 3.78,
+          "hispanicPct": 8.21
+        }
+      },
+      "election": {
+        "winner": "Mark Smith",
+        "party": "REP",
+        "pct": 98.51,
+        "unopposed": true
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "South Carolina House District 100",
+      "census": {
+        "censusName": "State House District 100 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82682,
+        "medianAge": 37,
+        "totalPopulation": 41683,
+        "collegePct": 26.25,
+        "renterRatePct": 16.75,
+        "race": {
+          "whitePct": 60.39,
+          "nonHispanicWhitePct": 59.35,
+          "blackPct": 30.61,
+          "asianPct": 0.75,
+          "hispanicPct": 5.51
+        }
+      },
+      "election": {
+        "winner": "Sylleste Davis",
+        "party": "REP",
+        "pct": 98.61,
+        "unopposed": true
+      }
+    },
+    "101": {
+      "districtNumber": 101,
+      "districtName": "South Carolina House District 101",
+      "census": {
+        "censusName": "State House District 101 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42716,
+        "medianAge": 41.5,
+        "totalPopulation": 41706,
+        "collegePct": 16.35,
+        "renterRatePct": 31.69,
+        "race": {
+          "whitePct": 39.51,
+          "nonHispanicWhitePct": 37.55,
+          "blackPct": 56.36,
+          "asianPct": 0.49,
+          "hispanicPct": 3.16
+        }
+      },
+      "election": {
+        "winner": "Roger K Kirby",
+        "party": "DEM",
+        "pct": 98.45,
+        "unopposed": true
+      }
+    },
+    "102": {
+      "districtNumber": 102,
+      "districtName": "South Carolina House District 102",
+      "census": {
+        "censusName": "State House District 102 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69635,
+        "medianAge": 38.6,
+        "totalPopulation": 42956,
+        "collegePct": 20.65,
+        "renterRatePct": 20.53,
+        "race": {
+          "whitePct": 52.76,
+          "nonHispanicWhitePct": 51.31,
+          "blackPct": 33.09,
+          "asianPct": 1.69,
+          "hispanicPct": 7.19
+        }
+      },
+      "election": {
+        "winner": "Harriet Holman",
+        "party": "REP",
+        "pct": 51.87,
+        "unopposed": false
+      }
+    },
+    "103": {
+      "districtNumber": 103,
+      "districtName": "South Carolina House District 103",
+      "census": {
+        "censusName": "State House District 103 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51398,
+        "medianAge": 35.3,
+        "totalPopulation": 38886,
+        "collegePct": 14.83,
+        "renterRatePct": 24.69,
+        "race": {
+          "whitePct": 47.46,
+          "nonHispanicWhitePct": 45.82,
+          "blackPct": 47.26,
+          "asianPct": 0.73,
+          "hispanicPct": 4.24
+        }
+      },
+      "election": {
+        "winner": "Carl L Anderson",
+        "party": "DEM",
+        "pct": 98.4,
+        "unopposed": true
+      }
+    },
+    "104": {
+      "districtNumber": 104,
+      "districtName": "South Carolina House District 104",
+      "census": {
+        "censusName": "State House District 104 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64128,
+        "medianAge": 59.5,
+        "totalPopulation": 41987,
+        "collegePct": 29.36,
+        "renterRatePct": 18.58,
+        "race": {
+          "whitePct": 80.66,
+          "nonHispanicWhitePct": 78.4,
+          "blackPct": 11.87,
+          "asianPct": 0.92,
+          "hispanicPct": 5.6
+        }
+      },
+      "election": {
+        "winner": "William Bailey",
+        "party": "REP",
+        "pct": 99.38,
+        "unopposed": true
+      }
+    },
+    "105": {
+      "districtNumber": 105,
+      "districtName": "South Carolina House District 105",
+      "census": {
+        "censusName": "State House District 105 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64270,
+        "medianAge": 46.4,
+        "totalPopulation": 40122,
+        "collegePct": 17.04,
+        "renterRatePct": 17.53,
+        "race": {
+          "whitePct": 76.96,
+          "nonHispanicWhitePct": 74.18,
+          "blackPct": 14.86,
+          "asianPct": 1.06,
+          "hispanicPct": 6.66
+        }
+      },
+      "election": {
+        "winner": "Kevin Hardee",
+        "party": "REP",
+        "pct": 99.25,
+        "unopposed": true
+      }
+    },
+    "106": {
+      "districtNumber": 106,
+      "districtName": "South Carolina House District 106",
+      "census": {
+        "censusName": "State House District 106 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66419,
+        "medianAge": 58.4,
+        "totalPopulation": 43696,
+        "collegePct": 31.14,
+        "renterRatePct": 17.18,
+        "race": {
+          "whitePct": 90.07,
+          "nonHispanicWhitePct": 89.59,
+          "blackPct": 2.89,
+          "asianPct": 1.55,
+          "hispanicPct": 2.7
+        }
+      },
+      "election": {
+        "winner": "Val Guest",
+        "party": "REP",
+        "pct": 98.53,
+        "unopposed": true
+      }
+    },
+    "107": {
+      "districtNumber": 107,
+      "districtName": "South Carolina House District 107",
+      "census": {
+        "censusName": "State House District 107 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51131,
+        "medianAge": 50,
+        "totalPopulation": 42974,
+        "collegePct": 32.88,
+        "renterRatePct": 36.92,
+        "race": {
+          "whitePct": 70.68,
+          "nonHispanicWhitePct": 67.84,
+          "blackPct": 14.07,
+          "asianPct": 1.13,
+          "hispanicPct": 13.42
+        }
+      },
+      "election": {
+        "winner": "Case Brittain",
+        "party": "REP",
+        "pct": 98.7,
+        "unopposed": true
+      }
+    },
+    "108": {
+      "districtNumber": 108,
+      "districtName": "South Carolina House District 108",
+      "census": {
+        "censusName": "State House District 108 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75627,
+        "medianAge": 58.3,
+        "totalPopulation": 41883,
+        "collegePct": 43.45,
+        "renterRatePct": 15,
+        "race": {
+          "whitePct": 80.73,
+          "nonHispanicWhitePct": 80,
+          "blackPct": 13.37,
+          "asianPct": 0.63,
+          "hispanicPct": 4.14
+        }
+      },
+      "election": {
+        "winner": "Lee Hewitt",
+        "party": "REP",
+        "pct": 99.3,
+        "unopposed": true
+      }
+    },
+    "109": {
+      "districtNumber": 109,
+      "districtName": "South Carolina House District 109",
+      "census": {
+        "censusName": "State House District 109 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62125,
+        "medianAge": 36.5,
+        "totalPopulation": 44312,
+        "collegePct": 21.34,
+        "renterRatePct": 45.27,
+        "race": {
+          "whitePct": 35.22,
+          "nonHispanicWhitePct": 32.42,
+          "blackPct": 49.19,
+          "asianPct": 2.42,
+          "hispanicPct": 13.49
+        }
+      },
+      "election": {
+        "winner": "Tiffany Spann-Wilder",
+        "party": "DEM",
+        "pct": 98.03,
+        "unopposed": true
+      }
+    },
+    "110": {
+      "districtNumber": 110,
+      "districtName": "South Carolina House District 110",
+      "census": {
+        "censusName": "State House District 110 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102897,
+        "medianAge": 43.8,
+        "totalPopulation": 39265,
+        "collegePct": 67.41,
+        "renterRatePct": 35.83,
+        "race": {
+          "whitePct": 87.2,
+          "nonHispanicWhitePct": 85.55,
+          "blackPct": 6.34,
+          "asianPct": 1.7,
+          "hispanicPct": 3.36
+        }
+      },
+      "election": {
+        "winner": "Tom Hartnett",
+        "party": "REP",
+        "pct": 55.94,
+        "unopposed": false
+      }
+    },
+    "111": {
+      "districtNumber": 111,
+      "districtName": "South Carolina House District 111",
+      "census": {
+        "censusName": "State House District 111 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66564,
+        "medianAge": 31.6,
+        "totalPopulation": 44898,
+        "collegePct": 46.66,
+        "renterRatePct": 61.64,
+        "race": {
+          "whitePct": 52.49,
+          "nonHispanicWhitePct": 50.62,
+          "blackPct": 40.21,
+          "asianPct": 2.18,
+          "hispanicPct": 3.95
+        }
+      },
+      "election": {
+        "winner": "Wendell G Gilliard",
+        "party": "DEM",
+        "pct": 82.91,
+        "unopposed": false
+      }
+    },
+    "112": {
+      "districtNumber": 112,
+      "districtName": "South Carolina House District 112",
+      "census": {
+        "censusName": "State House District 112 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 129163,
+        "medianAge": 43.4,
+        "totalPopulation": 45093,
+        "collegePct": 63.52,
+        "renterRatePct": 24.28,
+        "race": {
+          "whitePct": 87.63,
+          "nonHispanicWhitePct": 87.08,
+          "blackPct": 8.03,
+          "asianPct": 1.27,
+          "hispanicPct": 2.55
+        }
+      },
+      "election": {
+        "winner": "Joe Bustos",
+        "party": "REP",
+        "pct": 61.04,
+        "unopposed": false
+      }
+    },
+    "113": {
+      "districtNumber": 113,
+      "districtName": "South Carolina House District 113",
+      "census": {
+        "censusName": "State House District 113 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54346,
+        "medianAge": 33.2,
+        "totalPopulation": 42782,
+        "collegePct": 26.76,
+        "renterRatePct": 59.16,
+        "race": {
+          "whitePct": 35.18,
+          "nonHispanicWhitePct": 33.22,
+          "blackPct": 45.41,
+          "asianPct": 1.96,
+          "hispanicPct": 15.31
+        }
+      },
+      "election": {
+        "winner": "Marvin Rashad Pendarvis",
+        "party": "DEM",
+        "pct": 97.28,
+        "unopposed": true
+      }
+    },
+    "114": {
+      "districtNumber": 114,
+      "districtName": "South Carolina House District 114",
+      "census": {
+        "censusName": "State House District 114 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102507,
+        "medianAge": 39.8,
+        "totalPopulation": 44683,
+        "collegePct": 47.41,
+        "renterRatePct": 22.75,
+        "race": {
+          "whitePct": 75.85,
+          "nonHispanicWhitePct": 73.84,
+          "blackPct": 15.97,
+          "asianPct": 1.74,
+          "hispanicPct": 5.61
+        }
+      },
+      "election": {
+        "winner": "Gary Brewer",
+        "party": "REP",
+        "pct": 61.11,
+        "unopposed": false
+      }
+    },
+    "115": {
+      "districtNumber": 115,
+      "districtName": "South Carolina House District 115",
+      "census": {
+        "censusName": "State House District 115 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101124,
+        "medianAge": 45.2,
+        "totalPopulation": 40152,
+        "collegePct": 57.82,
+        "renterRatePct": 21.36,
+        "race": {
+          "whitePct": 79.91,
+          "nonHispanicWhitePct": 77.57,
+          "blackPct": 13.47,
+          "asianPct": 1.59,
+          "hispanicPct": 3.98
+        }
+      },
+      "election": {
+        "winner": "Spencer Wetmore",
+        "party": "DEM",
+        "pct": 51.89,
+        "unopposed": false
+      }
+    },
+    "116": {
+      "districtNumber": 116,
+      "districtName": "South Carolina House District 116",
+      "census": {
+        "censusName": "State House District 116 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85541,
+        "medianAge": 42.6,
+        "totalPopulation": 41111,
+        "collegePct": 43.77,
+        "renterRatePct": 24.2,
+        "race": {
+          "whitePct": 60.98,
+          "nonHispanicWhitePct": 59.07,
+          "blackPct": 29.01,
+          "asianPct": 1.14,
+          "hispanicPct": 7.37
+        }
+      },
+      "election": {
+        "winner": "James Teeple",
+        "party": "REP",
+        "pct": 51.18,
+        "unopposed": false
+      }
+    },
+    "117": {
+      "districtNumber": 117,
+      "districtName": "South Carolina House District 117",
+      "census": {
+        "censusName": "State House District 117 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78735,
+        "medianAge": 37,
+        "totalPopulation": 45088,
+        "collegePct": 29.19,
+        "renterRatePct": 27.82,
+        "race": {
+          "whitePct": 66.71,
+          "nonHispanicWhitePct": 64.14,
+          "blackPct": 20.42,
+          "asianPct": 2.16,
+          "hispanicPct": 9.31
+        }
+      },
+      "election": {
+        "winner": "Jordan Pace",
+        "party": "REP",
+        "pct": 97.9,
+        "unopposed": true
+      }
+    },
+    "118": {
+      "districtNumber": 118,
+      "districtName": "South Carolina House District 118",
+      "census": {
+        "censusName": "State House District 118 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91968,
+        "medianAge": 51.7,
+        "totalPopulation": 42082,
+        "collegePct": 43.9,
+        "renterRatePct": 12.39,
+        "race": {
+          "whitePct": 79.15,
+          "nonHispanicWhitePct": 75.14,
+          "blackPct": 6.22,
+          "asianPct": 1.05,
+          "hispanicPct": 15.27
+        }
+      },
+      "election": {
+        "winner": "Bill Herbkersman",
+        "party": "REP",
+        "pct": 64.73,
+        "unopposed": false
+      }
+    },
+    "119": {
+      "districtNumber": 119,
+      "districtName": "South Carolina House District 119",
+      "census": {
+        "censusName": "State House District 119 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92586,
+        "medianAge": 38.6,
+        "totalPopulation": 42831,
+        "collegePct": 51.79,
+        "renterRatePct": 29.95,
+        "race": {
+          "whitePct": 73.63,
+          "nonHispanicWhitePct": 71.82,
+          "blackPct": 17.13,
+          "asianPct": 1.03,
+          "hispanicPct": 5.84
+        }
+      },
+      "election": {
+        "winner": "Leon Stavrinakis",
+        "party": "DEM",
+        "pct": 55.14,
+        "unopposed": false
+      }
+    },
+    "120": {
+      "districtNumber": 120,
+      "districtName": "South Carolina House District 120",
+      "census": {
+        "censusName": "State House District 120 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95487,
+        "medianAge": 48.7,
+        "totalPopulation": 43761,
+        "collegePct": 51.21,
+        "renterRatePct": 28.95,
+        "race": {
+          "whitePct": 79.94,
+          "nonHispanicWhitePct": 76.64,
+          "blackPct": 7.71,
+          "asianPct": 0.66,
+          "hispanicPct": 11.84
+        }
+      },
+      "election": {
+        "winner": "Weston Newton",
+        "party": "REP",
+        "pct": 66.68,
+        "unopposed": false
+      }
+    },
+    "121": {
+      "districtNumber": 121,
+      "districtName": "South Carolina House District 121",
+      "census": {
+        "censusName": "State House District 121 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52978,
+        "medianAge": 38.9,
+        "totalPopulation": 43437,
+        "collegePct": 20.06,
+        "renterRatePct": 33.77,
+        "race": {
+          "whitePct": 38.5,
+          "nonHispanicWhitePct": 36.63,
+          "blackPct": 49.32,
+          "asianPct": 0.74,
+          "hispanicPct": 7.61
+        }
+      },
+      "election": {
+        "winner": "Michael F Rivers Sr",
+        "party": "DEM",
+        "pct": 58.04,
+        "unopposed": false
+      }
+    },
+    "122": {
+      "districtNumber": 122,
+      "districtName": "South Carolina House District 122",
+      "census": {
+        "censusName": "State House District 122 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49353,
+        "medianAge": 40.2,
+        "totalPopulation": 42752,
+        "collegePct": 15.77,
+        "renterRatePct": 23.41,
+        "race": {
+          "whitePct": 40.79,
+          "nonHispanicWhitePct": 40.18,
+          "blackPct": 43.72,
+          "asianPct": 0.61,
+          "hispanicPct": 12.25
+        }
+      },
+      "election": {
+        "winner": "Bill Hager",
+        "party": "REP",
+        "pct": 53.59,
+        "unopposed": false
+      }
+    },
+    "123": {
+      "districtNumber": 123,
+      "districtName": "South Carolina House District 123",
+      "census": {
+        "censusName": "State House District 123 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98811,
+        "medianAge": 58.7,
+        "totalPopulation": 41343,
+        "collegePct": 53.48,
+        "renterRatePct": 19.51,
+        "race": {
+          "whitePct": 74.41,
+          "nonHispanicWhitePct": 71.84,
+          "blackPct": 10.08,
+          "asianPct": 0.83,
+          "hispanicPct": 14.89
+        }
+      },
+      "election": {
+        "winner": "Jeff Bradley",
+        "party": "REP",
+        "pct": 59.87,
+        "unopposed": false
+      }
+    },
+    "124": {
+      "districtNumber": 124,
+      "districtName": "South Carolina House District 124",
+      "census": {
+        "censusName": "State House District 124 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78370,
+        "medianAge": 37.3,
+        "totalPopulation": 42863,
+        "collegePct": 42.95,
+        "renterRatePct": 29.87,
+        "race": {
+          "whitePct": 70.36,
+          "nonHispanicWhitePct": 68.35,
+          "blackPct": 17.28,
+          "asianPct": 2.04,
+          "hispanicPct": 8.88
+        }
+      },
+      "election": {
+        "winner": "Shannon Erickson",
+        "party": "REP",
+        "pct": 63.21,
+        "unopposed": false
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "South Carolina Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58211,
+        "medianAge": 37.6,
+        "totalPopulation": 109528,
+        "collegePct": 33.45,
+        "renterRatePct": 33.6,
+        "race": {
+          "whitePct": 82.92,
+          "nonHispanicWhitePct": 81.54,
+          "blackPct": 7.15,
+          "asianPct": 2.06,
+          "hispanicPct": 5.45
+        }
+      },
+      "election": {
+        "winner": "Thomas C Alexander",
+        "party": "REP",
+        "pct": 98.91,
+        "unopposed": true
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "South Carolina Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58591,
+        "medianAge": 40.5,
+        "totalPopulation": 119593,
+        "collegePct": 21.43,
+        "renterRatePct": 24.3,
+        "race": {
+          "whitePct": 80.29,
+          "nonHispanicWhitePct": 78.55,
+          "blackPct": 7.83,
+          "asianPct": 0.7,
+          "hispanicPct": 9.83
+        }
+      },
+      "election": {
+        "winner": "Rex F Rice",
+        "party": "REP",
+        "pct": 98.89,
+        "unopposed": true
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "South Carolina Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76096,
+        "medianAge": 41.5,
+        "totalPopulation": 120922,
+        "collegePct": 34.57,
+        "renterRatePct": 20.61,
+        "race": {
+          "whitePct": 82.45,
+          "nonHispanicWhitePct": 80.88,
+          "blackPct": 8.78,
+          "asianPct": 1.41,
+          "hispanicPct": 4.01
+        }
+      },
+      "election": {
+        "winner": "Richard Cash",
+        "party": "REP",
+        "pct": 75.41,
+        "unopposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "South Carolina Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51023,
+        "medianAge": 40,
+        "totalPopulation": 110648,
+        "collegePct": 15.74,
+        "renterRatePct": 28.59,
+        "race": {
+          "whitePct": 69.72,
+          "nonHispanicWhitePct": 68.05,
+          "blackPct": 21.62,
+          "asianPct": 0.46,
+          "hispanicPct": 5.25
+        }
+      },
+      "election": {
+        "winner": "Mike Gambrell",
+        "party": "REP",
+        "pct": 99.25,
+        "unopposed": true
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "South Carolina Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73367,
+        "medianAge": 42,
+        "totalPopulation": 113611,
+        "collegePct": 31.88,
+        "renterRatePct": 17.9,
+        "race": {
+          "whitePct": 82.76,
+          "nonHispanicWhitePct": 81.15,
+          "blackPct": 7.24,
+          "asianPct": 1.45,
+          "hispanicPct": 7.4
+        }
+      },
+      "election": {
+        "winner": "Tom Corbin",
+        "party": "REP",
+        "pct": 98.89,
+        "unopposed": true
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "South Carolina Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74000,
+        "medianAge": 37.9,
+        "totalPopulation": 112090,
+        "collegePct": 46.63,
+        "renterRatePct": 31.57,
+        "race": {
+          "whitePct": 76.52,
+          "nonHispanicWhitePct": 73.99,
+          "blackPct": 8.75,
+          "asianPct": 2.99,
+          "hispanicPct": 10.97
+        }
+      },
+      "election": {
+        "winner": "Jason Elliott",
+        "party": "REP",
+        "pct": 97.55,
+        "unopposed": true
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "South Carolina Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55861,
+        "medianAge": 36.6,
+        "totalPopulation": 112212,
+        "collegePct": 27.96,
+        "renterRatePct": 46.79,
+        "race": {
+          "whitePct": 46.89,
+          "nonHispanicWhitePct": 43.7,
+          "blackPct": 36.04,
+          "asianPct": 1.05,
+          "hispanicPct": 15.49
+        }
+      },
+      "election": {
+        "winner": "Karl B Allen",
+        "party": "DEM",
+        "pct": 97.07,
+        "unopposed": true
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "South Carolina Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89884,
+        "medianAge": 39,
+        "totalPopulation": 116642,
+        "collegePct": 49.18,
+        "renterRatePct": 33.97,
+        "race": {
+          "whitePct": 72.71,
+          "nonHispanicWhitePct": 70.38,
+          "blackPct": 14.36,
+          "asianPct": 2.99,
+          "hispanicPct": 8.28
+        }
+      },
+      "election": {
+        "winner": "Ross Turner",
+        "party": "REP",
+        "pct": 62.98,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "South Carolina Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62869,
+        "medianAge": 40,
+        "totalPopulation": 117974,
+        "collegePct": 23.26,
+        "renterRatePct": 25.12,
+        "race": {
+          "whitePct": 66.86,
+          "nonHispanicWhitePct": 65.11,
+          "blackPct": 22.64,
+          "asianPct": 0.89,
+          "hispanicPct": 6.87
+        }
+      },
+      "election": {
+        "winner": "Danny Verdin",
+        "party": "REP",
+        "pct": 70.24,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "South Carolina Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67154,
+        "medianAge": 42.3,
+        "totalPopulation": 114350,
+        "collegePct": 34.44,
+        "renterRatePct": 25.95,
+        "race": {
+          "whitePct": 71.43,
+          "nonHispanicWhitePct": 68.15,
+          "blackPct": 21.7,
+          "asianPct": 1.46,
+          "hispanicPct": 5.84
+        }
+      },
+      "election": {
+        "winner": "Billy Garrett",
+        "party": "REP",
+        "pct": 69.09,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "South Carolina Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56636,
+        "medianAge": 34.8,
+        "totalPopulation": 118018,
+        "collegePct": 20.83,
+        "renterRatePct": 32.3,
+        "race": {
+          "whitePct": 60.79,
+          "nonHispanicWhitePct": 58.7,
+          "blackPct": 25.48,
+          "asianPct": 3.04,
+          "hispanicPct": 9.85
+        }
+      },
+      "election": {
+        "winner": "Josh Kimbrell",
+        "party": "REP",
+        "pct": 65.25,
+        "unopposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "South Carolina Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75608,
+        "medianAge": 37.8,
+        "totalPopulation": 122252,
+        "collegePct": 35.23,
+        "renterRatePct": 23.34,
+        "race": {
+          "whitePct": 63.88,
+          "nonHispanicWhitePct": 61.18,
+          "blackPct": 19.54,
+          "asianPct": 3.79,
+          "hispanicPct": 11.91
+        }
+      },
+      "election": {
+        "winner": "Roger Allen Nutt",
+        "party": "REP",
+        "pct": 64.04,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "South Carolina Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71505,
+        "medianAge": 40.6,
+        "totalPopulation": 116568,
+        "collegePct": 32.79,
+        "renterRatePct": 24.6,
+        "race": {
+          "whitePct": 73.95,
+          "nonHispanicWhitePct": 72.93,
+          "blackPct": 16.42,
+          "asianPct": 2.22,
+          "hispanicPct": 4.35
+        }
+      },
+      "election": {
+        "winner": "Shane Martin",
+        "party": "REP",
+        "pct": 98.42,
+        "unopposed": true
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "South Carolina Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56963,
+        "medianAge": 41.1,
+        "totalPopulation": 111382,
+        "collegePct": 19.15,
+        "renterRatePct": 22.55,
+        "race": {
+          "whitePct": 77.17,
+          "nonHispanicWhitePct": 75.31,
+          "blackPct": 14.11,
+          "asianPct": 0.35,
+          "hispanicPct": 5.42
+        }
+      },
+      "election": {
+        "winner": "Harvey Peeler",
+        "party": "REP",
+        "pct": 99.09,
+        "unopposed": true
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "South Carolina Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80314,
+        "medianAge": 40.8,
+        "totalPopulation": 117115,
+        "collegePct": 35.32,
+        "renterRatePct": 27.19,
+        "race": {
+          "whitePct": 72.48,
+          "nonHispanicWhitePct": 70.03,
+          "blackPct": 17.09,
+          "asianPct": 1.59,
+          "hispanicPct": 7.38
+        }
+      },
+      "election": {
+        "winner": "Wes Climer",
+        "party": "REP",
+        "pct": 76.05,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "South Carolina Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118994,
+        "medianAge": 40.2,
+        "totalPopulation": 122266,
+        "collegePct": 53.9,
+        "renterRatePct": 17.28,
+        "race": {
+          "whitePct": 74.08,
+          "nonHispanicWhitePct": 71.27,
+          "blackPct": 9.52,
+          "asianPct": 6.03,
+          "hispanicPct": 8.86
+        }
+      },
+      "election": {
+        "winner": "Michael Johnson",
+        "party": "REP",
+        "pct": 78.78,
+        "unopposed": false
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "South Carolina Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56973,
+        "medianAge": 40.6,
+        "totalPopulation": 114697,
+        "collegePct": 21.4,
+        "renterRatePct": 28.85,
+        "race": {
+          "whitePct": 51.48,
+          "nonHispanicWhitePct": 50.81,
+          "blackPct": 41.04,
+          "asianPct": 0.93,
+          "hispanicPct": 3.46
+        }
+      },
+      "election": {
+        "winner": "Everett Stubbs",
+        "party": "REP",
+        "pct": 49.98,
+        "unopposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "South Carolina Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85127,
+        "medianAge": 42.9,
+        "totalPopulation": 115340,
+        "collegePct": 41,
+        "renterRatePct": 18.27,
+        "race": {
+          "whitePct": 72.56,
+          "nonHispanicWhitePct": 71.25,
+          "blackPct": 18.32,
+          "asianPct": 2.45,
+          "hispanicPct": 5.06
+        }
+      },
+      "election": {
+        "winner": "Ronnie Cromer",
+        "party": "REP",
+        "pct": 98.6,
+        "unopposed": true
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "South Carolina Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55109,
+        "medianAge": 35.3,
+        "totalPopulation": 108974,
+        "collegePct": 31.46,
+        "renterRatePct": 47.53,
+        "race": {
+          "whitePct": 25.91,
+          "nonHispanicWhitePct": 25.36,
+          "blackPct": 63.95,
+          "asianPct": 2.1,
+          "hispanicPct": 5.08
+        }
+      },
+      "election": {
+        "winner": "Tameika Isaac Devine",
+        "party": "DEM",
+        "pct": 87.27,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "South Carolina Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84188,
+        "medianAge": 35.1,
+        "totalPopulation": 109107,
+        "collegePct": 54.69,
+        "renterRatePct": 43.84,
+        "race": {
+          "whitePct": 71.29,
+          "nonHispanicWhitePct": 68.73,
+          "blackPct": 19.4,
+          "asianPct": 2.35,
+          "hispanicPct": 5.61
+        }
+      },
+      "election": {
+        "winner": "Ed Sutton",
+        "party": "DEM",
+        "pct": 73.42,
+        "unopposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "South Carolina Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52049,
+        "medianAge": 33.3,
+        "totalPopulation": 107697,
+        "collegePct": 35.12,
+        "renterRatePct": 44.02,
+        "race": {
+          "whitePct": 38.19,
+          "nonHispanicWhitePct": 37.37,
+          "blackPct": 52.76,
+          "asianPct": 1.71,
+          "hispanicPct": 4.48
+        }
+      },
+      "election": {
+        "winner": "Darrell Jackson",
+        "party": "DEM",
+        "pct": 98.54,
+        "unopposed": true
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "South Carolina Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77058,
+        "medianAge": 38.7,
+        "totalPopulation": 113014,
+        "collegePct": 49.82,
+        "renterRatePct": 29.5,
+        "race": {
+          "whitePct": 42.18,
+          "nonHispanicWhitePct": 40.38,
+          "blackPct": 44.91,
+          "asianPct": 3.4,
+          "hispanicPct": 8.02
+        }
+      },
+      "election": {
+        "winner": "Overture Walker",
+        "party": "DEM",
+        "pct": 98.54,
+        "unopposed": true
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "South Carolina Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70621,
+        "medianAge": 38,
+        "totalPopulation": 119890,
+        "collegePct": 22.4,
+        "renterRatePct": 21.75,
+        "race": {
+          "whitePct": 72.9,
+          "nonHispanicWhitePct": 69.55,
+          "blackPct": 13.52,
+          "asianPct": 2.38,
+          "hispanicPct": 9.93
+        }
+      },
+      "election": {
+        "winner": "Carlisle Kennedy",
+        "party": "REP",
+        "pct": 97.92,
+        "unopposed": true
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "South Carolina Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73319,
+        "medianAge": 43.5,
+        "totalPopulation": 113278,
+        "collegePct": 35.34,
+        "renterRatePct": 23.84,
+        "race": {
+          "whitePct": 67.46,
+          "nonHispanicWhitePct": 65.88,
+          "blackPct": 24.57,
+          "asianPct": 1.09,
+          "hispanicPct": 5.18
+        }
+      },
+      "election": {
+        "winner": "Tom Young",
+        "party": "REP",
+        "pct": 67.01,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "South Carolina Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66301,
+        "medianAge": 40.3,
+        "totalPopulation": 113980,
+        "collegePct": 23.11,
+        "renterRatePct": 22.09,
+        "race": {
+          "whitePct": 63.6,
+          "nonHispanicWhitePct": 62.06,
+          "blackPct": 24.16,
+          "asianPct": 0.67,
+          "hispanicPct": 9.48
+        }
+      },
+      "election": {
+        "winner": "Shane Massey",
+        "party": "REP",
+        "pct": 98.99,
+        "unopposed": true
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "South Carolina Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57540,
+        "medianAge": 33.4,
+        "totalPopulation": 106598,
+        "collegePct": 36.56,
+        "renterRatePct": 41.24,
+        "race": {
+          "whitePct": 62.25,
+          "nonHispanicWhitePct": 60.72,
+          "blackPct": 25.95,
+          "asianPct": 2.69,
+          "hispanicPct": 6.77
+        }
+      },
+      "election": {
+        "winner": "Russell Ott",
+        "party": "DEM",
+        "pct": 54.83,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "South Carolina Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56286,
+        "medianAge": 41,
+        "totalPopulation": 119035,
+        "collegePct": 16.47,
+        "renterRatePct": 22.16,
+        "race": {
+          "whitePct": 67.67,
+          "nonHispanicWhitePct": 65.38,
+          "blackPct": 24.98,
+          "asianPct": 0.51,
+          "hispanicPct": 5.34
+        }
+      },
+      "election": {
+        "winner": "Allen Blackmon",
+        "party": "REP",
+        "pct": 70.16,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "South Carolina Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67180,
+        "medianAge": 52.8,
+        "totalPopulation": 108774,
+        "collegePct": 27.23,
+        "renterRatePct": 17.73,
+        "race": {
+          "whitePct": 80.33,
+          "nonHispanicWhitePct": 77.69,
+          "blackPct": 10.61,
+          "asianPct": 1.71,
+          "hispanicPct": 6.31
+        }
+      },
+      "election": {
+        "winner": "Greg Hembree",
+        "party": "REP",
+        "pct": 99.13,
+        "unopposed": true
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "South Carolina Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43038,
+        "medianAge": 41.7,
+        "totalPopulation": 110653,
+        "collegePct": 16.33,
+        "renterRatePct": 31.72,
+        "race": {
+          "whitePct": 46.89,
+          "nonHispanicWhitePct": 46.02,
+          "blackPct": 46.64,
+          "asianPct": 0.39,
+          "hispanicPct": 2.36
+        }
+      },
+      "election": {
+        "winner": "JD Chaplin",
+        "party": "REP",
+        "pct": 50.23,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "South Carolina Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44441,
+        "medianAge": 39.6,
+        "totalPopulation": 111656,
+        "collegePct": 13.94,
+        "renterRatePct": 39.17,
+        "race": {
+          "whitePct": 45.65,
+          "nonHispanicWhitePct": 45.15,
+          "blackPct": 48.64,
+          "asianPct": 0.32,
+          "hispanicPct": 2.3
+        }
+      },
+      "election": {
+        "winner": "Kent M Williams",
+        "party": "DEM",
+        "pct": 54.68,
+        "unopposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "South Carolina Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62374,
+        "medianAge": 39.5,
+        "totalPopulation": 104611,
+        "collegePct": 25.76,
+        "renterRatePct": 30.42,
+        "race": {
+          "whitePct": 58.31,
+          "nonHispanicWhitePct": 57.62,
+          "blackPct": 34.59,
+          "asianPct": 2.01,
+          "hispanicPct": 3.64
+        }
+      },
+      "election": {
+        "winner": "Mike Reichenbach",
+        "party": "REP",
+        "pct": 65.96,
+        "unopposed": false
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "South Carolina Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48924,
+        "medianAge": 43.7,
+        "totalPopulation": 105232,
+        "collegePct": 16.89,
+        "renterRatePct": 24.99,
+        "race": {
+          "whitePct": 46.52,
+          "nonHispanicWhitePct": 45.39,
+          "blackPct": 48.65,
+          "asianPct": 0.45,
+          "hispanicPct": 3.73
+        }
+      },
+      "election": {
+        "winner": "Ronnie A Sabb",
+        "party": "DEM",
+        "pct": 98.22,
+        "unopposed": true
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "South Carolina Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60407,
+        "medianAge": 42.3,
+        "totalPopulation": 120527,
+        "collegePct": 28.62,
+        "renterRatePct": 32.72,
+        "race": {
+          "whitePct": 72.58,
+          "nonHispanicWhitePct": 70.55,
+          "blackPct": 15.66,
+          "asianPct": 1.22,
+          "hispanicPct": 8.33
+        }
+      },
+      "election": {
+        "winner": "Luke A Rankin",
+        "party": "REP",
+        "pct": 68.46,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "South Carolina Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72209,
+        "medianAge": 54.8,
+        "totalPopulation": 125545,
+        "collegePct": 33.02,
+        "renterRatePct": 17.78,
+        "race": {
+          "whitePct": 84.34,
+          "nonHispanicWhitePct": 83.1,
+          "blackPct": 5.23,
+          "asianPct": 1.09,
+          "hispanicPct": 7
+        }
+      },
+      "election": {
+        "winner": "Stephen Goldfinch",
+        "party": "REP",
+        "pct": 98.99,
+        "unopposed": true
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "South Carolina Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59720,
+        "medianAge": 34,
+        "totalPopulation": 120045,
+        "collegePct": 26.76,
+        "renterRatePct": 31.87,
+        "race": {
+          "whitePct": 52.11,
+          "nonHispanicWhitePct": 49.78,
+          "blackPct": 36.04,
+          "asianPct": 1.92,
+          "hispanicPct": 8.16
+        }
+      },
+      "election": {
+        "winner": "Jeffrey R Graham",
+        "party": "DEM",
+        "pct": 52.18,
+        "unopposed": false
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "South Carolina Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52569,
+        "medianAge": 43.3,
+        "totalPopulation": 104174,
+        "collegePct": 19.84,
+        "renterRatePct": 25.69,
+        "race": {
+          "whitePct": 45.33,
+          "nonHispanicWhitePct": 44.51,
+          "blackPct": 47.88,
+          "asianPct": 0.92,
+          "hispanicPct": 3.71
+        }
+      },
+      "election": {
+        "winner": "Jeff Zell",
+        "party": "REP",
+        "pct": 50.6,
+        "unopposed": false
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "South Carolina Senate District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89426,
+        "medianAge": 37.5,
+        "totalPopulation": 107242,
+        "collegePct": 38.99,
+        "renterRatePct": 18.49,
+        "race": {
+          "whitePct": 70.28,
+          "nonHispanicWhitePct": 68.66,
+          "blackPct": 20.86,
+          "asianPct": 1.41,
+          "hispanicPct": 5.27
+        }
+      },
+      "election": {
+        "winner": "Larry Grooms",
+        "party": "REP",
+        "pct": 98.22,
+        "unopposed": true
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "South Carolina Senate District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79504,
+        "medianAge": 37.7,
+        "totalPopulation": 108784,
+        "collegePct": 29.94,
+        "renterRatePct": 23.56,
+        "race": {
+          "whitePct": 68.11,
+          "nonHispanicWhitePct": 66.17,
+          "blackPct": 21.77,
+          "asianPct": 1.31,
+          "hispanicPct": 6.78
+        }
+      },
+      "election": {
+        "winner": "Sean Bennett",
+        "party": "REP",
+        "pct": 98.2,
+        "unopposed": true
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "South Carolina Senate District 39",
+      "census": {
+        "censusName": "State Senate District 39 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65281,
+        "medianAge": 37.7,
+        "totalPopulation": 111378,
+        "collegePct": 25.16,
+        "renterRatePct": 29.66,
+        "race": {
+          "whitePct": 51.36,
+          "nonHispanicWhitePct": 49.44,
+          "blackPct": 35.63,
+          "asianPct": 1.55,
+          "hispanicPct": 8.16
+        }
+      },
+      "election": {
+        "winner": "Tom Fernandez",
+        "party": "REP",
+        "pct": 50.95,
+        "unopposed": false
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "South Carolina Senate District 40",
+      "census": {
+        "censusName": "State Senate District 40 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46332,
+        "medianAge": 41.4,
+        "totalPopulation": 108242,
+        "collegePct": 18.17,
+        "renterRatePct": 27.57,
+        "race": {
+          "whitePct": 45.24,
+          "nonHispanicWhitePct": 43.1,
+          "blackPct": 48.87,
+          "asianPct": 0.9,
+          "hispanicPct": 4.71
+        }
+      },
+      "election": {
+        "winner": "Brad Hutto",
+        "party": "DEM",
+        "pct": 52.54,
+        "unopposed": false
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "South Carolina Senate District 41",
+      "census": {
+        "censusName": "State Senate District 41 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84831,
+        "medianAge": 38.8,
+        "totalPopulation": 107402,
+        "collegePct": 38.76,
+        "renterRatePct": 23.79,
+        "race": {
+          "whitePct": 63.08,
+          "nonHispanicWhitePct": 61.6,
+          "blackPct": 22.76,
+          "asianPct": 2.26,
+          "hispanicPct": 7.87
+        }
+      },
+      "election": {
+        "winner": "Matt Leber",
+        "party": "REP",
+        "pct": 57.37,
+        "unopposed": false
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "South Carolina Senate District 42",
+      "census": {
+        "censusName": "State Senate District 42 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57737,
+        "medianAge": 34.4,
+        "totalPopulation": 110942,
+        "collegePct": 26.58,
+        "renterRatePct": 55.66,
+        "race": {
+          "whitePct": 37.03,
+          "nonHispanicWhitePct": 34.51,
+          "blackPct": 47.34,
+          "asianPct": 2.37,
+          "hispanicPct": 12.58
+        }
+      },
+      "election": {
+        "winner": "Deon Tedder",
+        "party": "DEM",
+        "pct": 98.2,
+        "unopposed": true
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "South Carolina Senate District 43",
+      "census": {
+        "censusName": "State Senate District 43 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100055,
+        "medianAge": 45.3,
+        "totalPopulation": 118426,
+        "collegePct": 55.41,
+        "renterRatePct": 23.67,
+        "race": {
+          "whitePct": 79.78,
+          "nonHispanicWhitePct": 78.41,
+          "blackPct": 12.59,
+          "asianPct": 1.43,
+          "hispanicPct": 5.27
+        }
+      },
+      "election": {
+        "winner": "Chip Campsen",
+        "party": "REP",
+        "pct": 61.09,
+        "unopposed": false
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "South Carolina Senate District 44",
+      "census": {
+        "censusName": "State Senate District 44 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89100,
+        "medianAge": 39.1,
+        "totalPopulation": 109788,
+        "collegePct": 42.6,
+        "renterRatePct": 32.42,
+        "race": {
+          "whitePct": 71.94,
+          "nonHispanicWhitePct": 69.77,
+          "blackPct": 14.77,
+          "asianPct": 3.16,
+          "hispanicPct": 8.65
+        }
+      },
+      "election": {
+        "winner": "Brian Adams",
+        "party": "REP",
+        "pct": 60.5,
+        "unopposed": false
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "South Carolina Senate District 45",
+      "census": {
+        "censusName": "State Senate District 45 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53756,
+        "medianAge": 39.7,
+        "totalPopulation": 107185,
+        "collegePct": 21.43,
+        "renterRatePct": 28.57,
+        "race": {
+          "whitePct": 43.89,
+          "nonHispanicWhitePct": 42.43,
+          "blackPct": 43.46,
+          "asianPct": 0.56,
+          "hispanicPct": 9.53
+        }
+      },
+      "election": {
+        "winner": "Margie Bright Matthews",
+        "party": "DEM",
+        "pct": 97.7,
+        "unopposed": true
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "South Carolina Senate District 46",
+      "census": {
+        "censusName": "State Senate District 46 (2022); South Carolina",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94376,
+        "medianAge": 55.3,
+        "totalPopulation": 115387,
+        "collegePct": 50.57,
+        "renterRatePct": 19.81,
+        "race": {
+          "whitePct": 79.27,
+          "nonHispanicWhitePct": 76.16,
+          "blackPct": 6.34,
+          "asianPct": 0.89,
+          "hispanicPct": 13.8
+        }
+      },
+      "election": {
+        "winner": "Tom Davis",
+        "party": "REP",
+        "pct": 67.3,
+        "unopposed": false
+      }
+    }
+  }
+}
