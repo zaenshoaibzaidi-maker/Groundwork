@@ -1,0 +1,2556 @@
+{
+  "assembly": {
+    "1": {
+      "winners": [
+        {
+          "name": "ERIK K. SIMONSEN",
+          "party": "Republican",
+          "pct": 27.62
+        },
+        {
+          "name": "ANTWAN L. MCCLELLAN",
+          "party": "Republican",
+          "pct": 27.43
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "ERIK K. SIMONSEN",
+          "party": "Republican",
+          "votes": 41848,
+          "pct": 27.62
+        },
+        {
+          "name": "ANTWAN L. MCCLELLAN",
+          "party": "Republican",
+          "votes": 41572,
+          "pct": 27.43
+        },
+        {
+          "name": "CAROLYN RUSH",
+          "party": "Democratic",
+          "votes": 34237,
+          "pct": 22.59
+        },
+        {
+          "name": "CAROL SABO",
+          "party": "Democratic",
+          "votes": 33878,
+          "pct": 22.36
+        }
+      ]
+    },
+    "2": {
+      "winners": [
+        {
+          "name": "DON GUARDIAN",
+          "party": "Republican",
+          "pct": 25.37
+        },
+        {
+          "name": "MAUREEN ROWAN",
+          "party": "Democratic",
+          "pct": 25.1
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "DON GUARDIAN",
+          "party": "Republican",
+          "votes": 39913,
+          "pct": 25.37
+        },
+        {
+          "name": "MAUREEN ROWAN",
+          "party": "Democratic",
+          "votes": 39484,
+          "pct": 25.1
+        },
+        {
+          "name": "JOANNE FAMULARO",
+          "party": "Democratic",
+          "votes": 39291,
+          "pct": 24.98
+        },
+        {
+          "name": "CLAIRE SWIFT",
+          "party": "Republican",
+          "votes": 38610,
+          "pct": 24.55
+        }
+      ]
+    },
+    "3": {
+      "winners": [
+        {
+          "name": "HEATHER SIMMONS",
+          "party": "Democratic",
+          "pct": 25.92
+        },
+        {
+          "name": "DAVE BAILEY JR.",
+          "party": "Democratic",
+          "pct": 25.78
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "HEATHER SIMMONS",
+          "party": "Democratic",
+          "votes": 47878,
+          "pct": 25.92
+        },
+        {
+          "name": "DAVE BAILEY JR.",
+          "party": "Democratic",
+          "votes": 47626,
+          "pct": 25.78
+        },
+        {
+          "name": "CHRIS KONAWEL",
+          "party": "Republican",
+          "votes": 44823,
+          "pct": 24.27
+        },
+        {
+          "name": "LAWRENCE A. MOORE",
+          "party": "Republican",
+          "votes": 44385,
+          "pct": 24.03
+        }
+      ]
+    },
+    "4": {
+      "winners": [
+        {
+          "name": "DAN HUTCHISON",
+          "party": "Democratic",
+          "pct": 27.75
+        },
+        {
+          "name": "CODY D. MILLER",
+          "party": "Democratic",
+          "pct": 27.63
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "DAN HUTCHISON",
+          "party": "Democratic",
+          "votes": 52286,
+          "pct": 27.75
+        },
+        {
+          "name": "CODY D. MILLER",
+          "party": "Democratic",
+          "votes": 52065,
+          "pct": 27.63
+        },
+        {
+          "name": "AMANDA ESPOSITO",
+          "party": "Republican",
+          "votes": 42488,
+          "pct": 22.55
+        },
+        {
+          "name": "GERARD \"JERRY\" MCMANUS",
+          "party": "Republican",
+          "votes": 41579,
+          "pct": 22.07
+        }
+      ]
+    },
+    "5": {
+      "winners": [
+        {
+          "name": "WILLIAM W. SPEARMAN",
+          "party": "Democratic",
+          "pct": 35.2
+        },
+        {
+          "name": "WILLIAM F. MOEN JR.",
+          "party": "Democratic",
+          "pct": 35.12
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "WILLIAM W. SPEARMAN",
+          "party": "Democratic",
+          "votes": 49369,
+          "pct": 35.2
+        },
+        {
+          "name": "WILLIAM F. MOEN JR.",
+          "party": "Democratic",
+          "votes": 49258,
+          "pct": 35.12
+        },
+        {
+          "name": "NILSA GONZALEZ",
+          "party": "Republican",
+          "votes": 20233,
+          "pct": 14.43
+        },
+        {
+          "name": "CONSTANCE DITZEL",
+          "party": "Republican",
+          "votes": 20225,
+          "pct": 14.42
+        },
+        {
+          "name": "ROBIN BROWNFIELD",
+          "party": "Green Party",
+          "votes": 1172,
+          "pct": 0.84
+        }
+      ]
+    },
+    "6": {
+      "winners": [
+        {
+          "name": "LOUIS D. GREENWALD",
+          "party": "Democratic",
+          "pct": 34.62
+        },
+        {
+          "name": "MELINDA KANE",
+          "party": "Democratic",
+          "pct": 34.24
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "LOUIS D. GREENWALD",
+          "party": "Democratic",
+          "votes": 62791,
+          "pct": 34.62
+        },
+        {
+          "name": "MELINDA KANE",
+          "party": "Democratic",
+          "votes": 62098,
+          "pct": 34.24
+        },
+        {
+          "name": "JOHN M. \"JACK\" BRANGAN",
+          "party": "Republican",
+          "votes": 28655,
+          "pct": 15.8
+        },
+        {
+          "name": "PETER SYKES",
+          "party": "Republican",
+          "votes": 27812,
+          "pct": 15.34
+        }
+      ]
+    },
+    "7": {
+      "winners": [
+        {
+          "name": "CAROL MURPHY",
+          "party": "Democratic",
+          "pct": 34.04
+        },
+        {
+          "name": "BALVIR SINGH",
+          "party": "Democratic",
+          "pct": 33
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "CAROL MURPHY",
+          "party": "Democratic",
+          "votes": 62681,
+          "pct": 34.04
+        },
+        {
+          "name": "BALVIR SINGH",
+          "party": "Democratic",
+          "votes": 60758,
+          "pct": 33
+        },
+        {
+          "name": "DOUG DILLON",
+          "party": "Republican",
+          "votes": 30556,
+          "pct": 16.6
+        },
+        {
+          "name": "DIONE JOHNSON",
+          "party": "Republican",
+          "votes": 30122,
+          "pct": 16.36
+        }
+      ]
+    },
+    "8": {
+      "winners": [
+        {
+          "name": "ANTHONY ANGELOZZI",
+          "party": "Democratic",
+          "pct": 26.3
+        },
+        {
+          "name": "ANDREA KATZ",
+          "party": "Democratic",
+          "pct": 26.23
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "ANTHONY ANGELOZZI",
+          "party": "Democratic",
+          "votes": 50168,
+          "pct": 26.3
+        },
+        {
+          "name": "ANDREA KATZ",
+          "party": "Democratic",
+          "votes": 50036,
+          "pct": 26.23
+        },
+        {
+          "name": "MICHAEL TORRISSI JR.",
+          "party": "Republican",
+          "votes": 46262,
+          "pct": 24.25
+        },
+        {
+          "name": "BRANDON E. UMBA",
+          "party": "Republican",
+          "votes": 44300,
+          "pct": 23.22
+        }
+      ]
+    },
+    "9": {
+      "winners": [
+        {
+          "name": "BRIAN E. RUMPF",
+          "party": "Republican",
+          "pct": 32.19
+        },
+        {
+          "name": "GREGORY E. MYHRE",
+          "party": "Republican",
+          "pct": 31.54
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "BRIAN E. RUMPF",
+          "party": "Republican",
+          "votes": 70501,
+          "pct": 32.19
+        },
+        {
+          "name": "GREGORY E. MYHRE",
+          "party": "Republican",
+          "votes": 69087,
+          "pct": 31.54
+        },
+        {
+          "name": "LISA BENNETT",
+          "party": "Democratic",
+          "votes": 40108,
+          "pct": 18.31
+        },
+        {
+          "name": "ROSALEE KEECH",
+          "party": "Democratic",
+          "votes": 39342,
+          "pct": 17.96
+        }
+      ]
+    },
+    "10": {
+      "winners": [
+        {
+          "name": "GREGORY P. MCGUCKIN",
+          "party": "Republican",
+          "pct": 31.69
+        },
+        {
+          "name": "PAUL KANITRA",
+          "party": "Republican",
+          "pct": 31.4
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "GREGORY P. MCGUCKIN",
+          "party": "Republican",
+          "votes": 61890,
+          "pct": 31.69
+        },
+        {
+          "name": "PAUL KANITRA",
+          "party": "Republican",
+          "votes": 61316,
+          "pct": 31.4
+        },
+        {
+          "name": "JANINE G. BAUER",
+          "party": "Democratic",
+          "votes": 36355,
+          "pct": 18.62
+        },
+        {
+          "name": "GIGI ESPARZA",
+          "party": "Democratic",
+          "votes": 35738,
+          "pct": 18.3
+        }
+      ]
+    },
+    "11": {
+      "winners": [
+        {
+          "name": "MARGARET M. DONLON",
+          "party": "Democratic",
+          "pct": 27.73
+        },
+        {
+          "name": "LUANNE M. PETERPAUL",
+          "party": "Democratic",
+          "pct": 27.56
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "MARGARET M. DONLON",
+          "party": "Democratic",
+          "votes": 48477,
+          "pct": 27.73
+        },
+        {
+          "name": "LUANNE M. PETERPAUL",
+          "party": "Democratic",
+          "votes": 48166,
+          "pct": 27.56
+        },
+        {
+          "name": "ANDREW C. WARDELL",
+          "party": "Republican",
+          "votes": 38234,
+          "pct": 21.87
+        },
+        {
+          "name": "JESSICA FORD",
+          "party": "Republican",
+          "votes": 37906,
+          "pct": 21.69
+        },
+        {
+          "name": "FELICIA SIMMONS",
+          "party": "WE THE PEOPLE",
+          "votes": 2014,
+          "pct": 1.15
+        }
+      ]
+    },
+    "12": {
+      "winners": [
+        {
+          "name": "ROBERT D. CLIFTON",
+          "party": "Republican",
+          "pct": 31.02
+        },
+        {
+          "name": "ALEX SAUICKIE",
+          "party": "Republican",
+          "pct": 30.42
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "ROBERT D. CLIFTON",
+          "party": "Republican",
+          "votes": 54756,
+          "pct": 31.02
+        },
+        {
+          "name": "ALEX SAUICKIE",
+          "party": "Republican",
+          "votes": 53704,
+          "pct": 30.42
+        },
+        {
+          "name": "KYLER DINEEN",
+          "party": "Democratic",
+          "votes": 34479,
+          "pct": 19.53
+        },
+        {
+          "name": "FRESHTA TAEB",
+          "party": "Democratic",
+          "votes": 33597,
+          "pct": 19.03
+        }
+      ]
+    },
+    "13": {
+      "winners": [
+        {
+          "name": "VICKY FLYNN",
+          "party": "Republican",
+          "pct": 28.94
+        },
+        {
+          "name": "GERRY SCHARFENBERGER",
+          "party": "Republican",
+          "pct": 28.7
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "VICKY FLYNN",
+          "party": "Republican",
+          "votes": 58840,
+          "pct": 28.94
+        },
+        {
+          "name": "GERRY SCHARFENBERGER",
+          "party": "Republican",
+          "votes": 58334,
+          "pct": 28.7
+        },
+        {
+          "name": "JASON M. CORLEY SR.",
+          "party": "Democratic",
+          "votes": 44078,
+          "pct": 21.68
+        },
+        {
+          "name": "VAIBHAV GORIGE",
+          "party": "Democratic",
+          "votes": 42031,
+          "pct": 20.68
+        }
+      ]
+    },
+    "14": {
+      "winners": [
+        {
+          "name": "WAYNE P. DEANGELO",
+          "party": "Democratic",
+          "pct": 31.08
+        },
+        {
+          "name": "TENNILLE R. MCCOY",
+          "party": "Democratic",
+          "pct": 29.47
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "WAYNE P. DEANGELO",
+          "party": "Democratic",
+          "votes": 53636,
+          "pct": 31.08
+        },
+        {
+          "name": "TENNILLE R. MCCOY",
+          "party": "Democratic",
+          "votes": 50850,
+          "pct": 29.47
+        },
+        {
+          "name": "MARTY FLYNN",
+          "party": "Republican",
+          "votes": 33851,
+          "pct": 19.62
+        },
+        {
+          "name": "JOSEPH A. STILLWELL",
+          "party": "Republican",
+          "votes": 33260,
+          "pct": 19.27
+        },
+        {
+          "name": "STEVEN WELZER",
+          "party": "Green Party",
+          "votes": 978,
+          "pct": 0.57
+        }
+      ]
+    },
+    "15": {
+      "winners": [
+        {
+          "name": "VERLINA REYNOLDS-JACKSON",
+          "party": "Democratic",
+          "pct": 50.85
+        },
+        {
+          "name": "ANTHONY S. VERRELLI",
+          "party": "Democratic",
+          "pct": 49.15
+        }
+      ],
+      "seats": 2,
+      "unopposed": true,
+      "candidates": [
+        {
+          "name": "VERLINA REYNOLDS-JACKSON",
+          "party": "Democratic",
+          "votes": 56563,
+          "pct": 50.85
+        },
+        {
+          "name": "ANTHONY S. VERRELLI",
+          "party": "Democratic",
+          "votes": 54676,
+          "pct": 49.15
+        }
+      ]
+    },
+    "16": {
+      "winners": [
+        {
+          "name": "ROY FREIMAN",
+          "party": "Democratic",
+          "pct": 29.93
+        },
+        {
+          "name": "MITCHELLE DRULIS",
+          "party": "Democratic",
+          "pct": 29.55
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "ROY FREIMAN",
+          "party": "Democratic",
+          "votes": 56476,
+          "pct": 29.93
+        },
+        {
+          "name": "MITCHELLE DRULIS",
+          "party": "Democratic",
+          "votes": 55773,
+          "pct": 29.55
+        },
+        {
+          "name": "CATHERINE PAYNE",
+          "party": "Republican",
+          "votes": 38344,
+          "pct": 20.32
+        },
+        {
+          "name": "SCOTT SIPOS",
+          "party": "Republican",
+          "votes": 38128,
+          "pct": 20.2
+        }
+      ]
+    },
+    "17": {
+      "winners": [
+        {
+          "name": "KEVIN EGAN",
+          "party": "Democratic",
+          "pct": 38.39
+        },
+        {
+          "name": "JOE DANIELSEN",
+          "party": "Democratic",
+          "pct": 37.75
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "KEVIN EGAN",
+          "party": "Democratic",
+          "votes": 46879,
+          "pct": 38.39
+        },
+        {
+          "name": "JOE DANIELSEN",
+          "party": "Democratic",
+          "votes": 46101,
+          "pct": 37.75
+        },
+        {
+          "name": "PATRICIA BADOVINAC",
+          "party": "Republican",
+          "votes": 14626,
+          "pct": 11.98
+        },
+        {
+          "name": "SUSAN HUCKO",
+          "party": "Republican",
+          "votes": 14514,
+          "pct": 11.89
+        }
+      ]
+    },
+    "18": {
+      "winners": [
+        {
+          "name": "ROBERT KARABINCHAK",
+          "party": "Democratic",
+          "pct": 32.67
+        },
+        {
+          "name": "STERLEY STANLEY",
+          "party": "Democratic",
+          "pct": 32.3
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "ROBERT KARABINCHAK",
+          "party": "Democratic",
+          "votes": 49195,
+          "pct": 32.67
+        },
+        {
+          "name": "STERLEY STANLEY",
+          "party": "Democratic",
+          "votes": 48638,
+          "pct": 32.3
+        },
+        {
+          "name": "MELANIE MCCANN MOTT",
+          "party": "Republican",
+          "votes": 26567,
+          "pct": 17.64
+        },
+        {
+          "name": "EUGENE DEMARZO",
+          "party": "Republican",
+          "votes": 26170,
+          "pct": 17.38
+        }
+      ]
+    },
+    "19": {
+      "winners": [
+        {
+          "name": "CRAIG J. COUGHLIN",
+          "party": "Democratic",
+          "pct": 32.31
+        },
+        {
+          "name": "YVONNE LOPEZ",
+          "party": "Democratic",
+          "pct": 32.03
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "CRAIG J. COUGHLIN",
+          "party": "Democratic",
+          "votes": 40047,
+          "pct": 32.31
+        },
+        {
+          "name": "YVONNE LOPEZ",
+          "party": "Democratic",
+          "votes": 39692,
+          "pct": 32.03
+        },
+        {
+          "name": "MARIA GARCIA",
+          "party": "Republican",
+          "votes": 22189,
+          "pct": 17.9
+        },
+        {
+          "name": "MARILYN COLON",
+          "party": "Republican",
+          "votes": 22003,
+          "pct": 17.75
+        }
+      ]
+    },
+    "20": {
+      "winners": [
+        {
+          "name": "ANNETTE QUIJANO",
+          "party": "Democratic",
+          "pct": 43.14
+        },
+        {
+          "name": "ED RODRIGUEZ",
+          "party": "Democratic",
+          "pct": 42.57
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "ANNETTE QUIJANO",
+          "party": "Democratic",
+          "votes": 35616,
+          "pct": 43.14
+        },
+        {
+          "name": "ED RODRIGUEZ",
+          "party": "Democratic",
+          "votes": 35139,
+          "pct": 42.57
+        },
+        {
+          "name": "CARMEN BUCCO",
+          "party": "Republican",
+          "votes": 11795,
+          "pct": 14.29
+        }
+      ]
+    },
+    "21": {
+      "winners": [
+        {
+          "name": "ANDREW MACURDY",
+          "party": "Democratic",
+          "pct": 27.26
+        },
+        {
+          "name": "VINCENT M. KEARNEY",
+          "party": "Democratic",
+          "pct": 26.73
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "ANDREW MACURDY",
+          "party": "Democratic",
+          "votes": 54965,
+          "pct": 27.26
+        },
+        {
+          "name": "VINCENT M. KEARNEY",
+          "party": "Democratic",
+          "votes": 53881,
+          "pct": 26.73
+        },
+        {
+          "name": "MICHELE MATSIKOUDIS",
+          "party": "Republican",
+          "votes": 46385,
+          "pct": 23.01
+        },
+        {
+          "name": "NANCY MUÑOZ",
+          "party": "Republican",
+          "votes": 46367,
+          "pct": 23
+        }
+      ]
+    },
+    "22": {
+      "winners": [
+        {
+          "name": "LINDA S. CARTER",
+          "party": "Democratic",
+          "pct": 34.72
+        },
+        {
+          "name": "JAMES J. KENNEDY",
+          "party": "Democratic",
+          "pct": 34.01
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "LINDA S. CARTER",
+          "party": "Democratic",
+          "votes": 51977,
+          "pct": 34.72
+        },
+        {
+          "name": "JAMES J. KENNEDY",
+          "party": "Democratic",
+          "votes": 50909,
+          "pct": 34.01
+        },
+        {
+          "name": "LISA FABRIZIO",
+          "party": "Republican",
+          "votes": 23884,
+          "pct": 15.96
+        },
+        {
+          "name": "JERMAINE CAULDER",
+          "party": "Republican",
+          "votes": 22919,
+          "pct": 15.31
+        }
+      ]
+    },
+    "23": {
+      "winners": [
+        {
+          "name": "JOHN DIMAIO",
+          "party": "Republican",
+          "pct": 27.16
+        },
+        {
+          "name": "ERIK PETERSON",
+          "party": "Republican",
+          "pct": 26.14
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "JOHN DIMAIO",
+          "party": "Republican",
+          "votes": 51383,
+          "pct": 27.16
+        },
+        {
+          "name": "ERIK PETERSON",
+          "party": "Republican",
+          "votes": 49438,
+          "pct": 26.14
+        },
+        {
+          "name": "TYLER POWELL",
+          "party": "Democratic",
+          "votes": 44629,
+          "pct": 23.59
+        },
+        {
+          "name": "GUY CITRON",
+          "party": "Democratic",
+          "votes": 43709,
+          "pct": 23.11
+        }
+      ]
+    },
+    "24": {
+      "winners": [
+        {
+          "name": "DAWN FANTASIA",
+          "party": "Republican",
+          "pct": 29.37
+        },
+        {
+          "name": "MICHAEL INGANAMORT",
+          "party": "Republican",
+          "pct": 28.83
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "DAWN FANTASIA",
+          "party": "Republican",
+          "votes": 56003,
+          "pct": 29.37
+        },
+        {
+          "name": "MICHAEL INGANAMORT",
+          "party": "Republican",
+          "votes": 54964,
+          "pct": 28.83
+        },
+        {
+          "name": "STEVE BARRATT",
+          "party": "Democratic",
+          "votes": 40772,
+          "pct": 21.38
+        },
+        {
+          "name": "EUGENE GRINBERG",
+          "party": "Democratic",
+          "votes": 36736,
+          "pct": 19.27
+        },
+        {
+          "name": "LANA LEGUIA",
+          "party": "Libertarian Party",
+          "votes": 2198,
+          "pct": 1.15
+        }
+      ]
+    },
+    "25": {
+      "winners": [
+        {
+          "name": "MARISA SWEENEY",
+          "party": "Democratic",
+          "pct": 25.62
+        },
+        {
+          "name": "AURA K. DUNN",
+          "party": "Republican",
+          "pct": 25.19
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "MARISA SWEENEY",
+          "party": "Democratic",
+          "votes": 49918,
+          "pct": 25.62
+        },
+        {
+          "name": "AURA K. DUNN",
+          "party": "Republican",
+          "votes": 49088,
+          "pct": 25.19
+        },
+        {
+          "name": "CHRISTIAN E. BARRANCO",
+          "party": "Republican",
+          "votes": 48125,
+          "pct": 24.7
+        },
+        {
+          "name": "STEVEN PYLYPCHUK",
+          "party": "Democratic",
+          "votes": 47723,
+          "pct": 24.49
+        }
+      ]
+    },
+    "26": {
+      "winners": [
+        {
+          "name": "JAY WEBBER",
+          "party": "Republican",
+          "pct": 26.71
+        },
+        {
+          "name": "BRIAN BERGEN",
+          "party": "Republican",
+          "pct": 26.17
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "JAY WEBBER",
+          "party": "Republican",
+          "votes": 51086,
+          "pct": 26.71
+        },
+        {
+          "name": "BRIAN BERGEN",
+          "party": "Republican",
+          "votes": 50050,
+          "pct": 26.17
+        },
+        {
+          "name": "MICHAEL P. MANCUSO",
+          "party": "Democratic",
+          "votes": 45771,
+          "pct": 23.93
+        },
+        {
+          "name": "WALTER MIELARCZYK",
+          "party": "Democratic",
+          "votes": 44379,
+          "pct": 23.2
+        }
+      ]
+    },
+    "27": {
+      "winners": [
+        {
+          "name": "ROSY BAGOLIE",
+          "party": "Democratic",
+          "pct": 36.09
+        },
+        {
+          "name": "ALIXON COLLAZOS-GILL",
+          "party": "Democratic",
+          "pct": 35.05
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "ROSY BAGOLIE",
+          "party": "Democratic",
+          "votes": 58598,
+          "pct": 36.09
+        },
+        {
+          "name": "ALIXON COLLAZOS-GILL",
+          "party": "Democratic",
+          "votes": 56902,
+          "pct": 35.05
+        },
+        {
+          "name": "ADAM KRAEMER",
+          "party": "Republican",
+          "votes": 24013,
+          "pct": 14.79
+        },
+        {
+          "name": "ROBERT M. IOMMAZZO",
+          "party": "Republican",
+          "votes": 22834,
+          "pct": 14.06
+        }
+      ]
+    },
+    "28": {
+      "winners": [
+        {
+          "name": "CLEOPATRA G. TUCKER",
+          "party": "Democratic",
+          "pct": 50.39
+        },
+        {
+          "name": "CHIGOZIE ONYEMA",
+          "party": "Democratic",
+          "pct": 49.61
+        }
+      ],
+      "seats": 2,
+      "unopposed": true,
+      "candidates": [
+        {
+          "name": "CLEOPATRA G. TUCKER",
+          "party": "Democratic",
+          "votes": 47998,
+          "pct": 50.39
+        },
+        {
+          "name": "CHIGOZIE ONYEMA",
+          "party": "Democratic",
+          "votes": 47263,
+          "pct": 49.61
+        }
+      ]
+    },
+    "29": {
+      "winners": [
+        {
+          "name": "ELIANA PINTOR MARIN",
+          "party": "Democratic",
+          "pct": 42.36
+        },
+        {
+          "name": "SHANIQUE SPEIGHT",
+          "party": "Democratic",
+          "pct": 42.09
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "ELIANA PINTOR MARIN",
+          "party": "Democratic",
+          "votes": 24742,
+          "pct": 42.36
+        },
+        {
+          "name": "SHANIQUE SPEIGHT",
+          "party": "Democratic",
+          "votes": 24584,
+          "pct": 42.09
+        },
+        {
+          "name": "DANIELA FERREIRA ALMEIDA",
+          "party": "Republican",
+          "votes": 4678,
+          "pct": 8.01
+        },
+        {
+          "name": "NOBLE D. MILTON",
+          "party": "Republican",
+          "votes": 4401,
+          "pct": 7.54
+        }
+      ]
+    },
+    "30": {
+      "winners": [
+        {
+          "name": "SEAN T. KEAN",
+          "party": "Republican",
+          "pct": 31.45
+        },
+        {
+          "name": "ALEXANDER \"AVI\" SCHNALL",
+          "party": "Democratic",
+          "pct": 30.33
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "SEAN T. KEAN",
+          "party": "Republican",
+          "votes": 49860,
+          "pct": 31.45
+        },
+        {
+          "name": "ALEXANDER \"AVI\" SCHNALL",
+          "party": "Democratic",
+          "votes": 48094,
+          "pct": 30.33
+        },
+        {
+          "name": "EDWARD H. THOMSON III",
+          "party": "Republican",
+          "votes": 40919,
+          "pct": 25.81
+        },
+        {
+          "name": "JOANNE DEBENEDICTIS",
+          "party": "Democratic",
+          "votes": 19672,
+          "pct": 12.41
+        }
+      ]
+    },
+    "31": {
+      "winners": [
+        {
+          "name": "JERRY WALKER",
+          "party": "Democratic",
+          "pct": 37.47
+        },
+        {
+          "name": "WILLIAM SAMPSON",
+          "party": "Democratic",
+          "pct": 35.9
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "JERRY WALKER",
+          "party": "Democratic",
+          "votes": 33937,
+          "pct": 37.47
+        },
+        {
+          "name": "WILLIAM SAMPSON",
+          "party": "Democratic",
+          "votes": 32516,
+          "pct": 35.9
+        },
+        {
+          "name": "ANTHONY ACOSTA",
+          "party": "Republican",
+          "votes": 12340,
+          "pct": 13.62
+        },
+        {
+          "name": "NEIL A. SCHULMAN",
+          "party": "Republican",
+          "votes": 11786,
+          "pct": 13.01
+        }
+      ]
+    },
+    "32": {
+      "winners": [
+        {
+          "name": "KATIE BRENNAN",
+          "party": "Democratic",
+          "pct": 39.09
+        },
+        {
+          "name": "RAVI BHALLA",
+          "party": "Democratic",
+          "pct": 37.41
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "KATIE BRENNAN",
+          "party": "Democratic",
+          "votes": 37932,
+          "pct": 39.09
+        },
+        {
+          "name": "RAVI BHALLA",
+          "party": "Democratic",
+          "votes": 36306,
+          "pct": 37.41
+        },
+        {
+          "name": "STEPHEN BISHOP",
+          "party": "Republican",
+          "votes": 11462,
+          "pct": 11.81
+        },
+        {
+          "name": "KAUSHAL PATEL",
+          "party": "Republican",
+          "votes": 11350,
+          "pct": 11.7
+        }
+      ]
+    },
+    "33": {
+      "winners": [
+        {
+          "name": "GABRIEL RODRIGUEZ",
+          "party": "Democratic",
+          "pct": 38.07
+        },
+        {
+          "name": "LARRY WAINSTEIN",
+          "party": "Democratic",
+          "pct": 37.3
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "GABRIEL RODRIGUEZ",
+          "party": "Democratic",
+          "votes": 39731,
+          "pct": 38.07
+        },
+        {
+          "name": "LARRY WAINSTEIN",
+          "party": "Democratic",
+          "votes": 38926,
+          "pct": 37.3
+        },
+        {
+          "name": "CYNTHIA DEPICE",
+          "party": "Republican",
+          "votes": 12903,
+          "pct": 12.36
+        },
+        {
+          "name": "ANTHONY VALDES",
+          "party": "Republican",
+          "votes": 12797,
+          "pct": 12.26
+        }
+      ]
+    },
+    "34": {
+      "winners": [
+        {
+          "name": "CARMEN T. MORALES",
+          "party": "Democratic",
+          "pct": 39.54
+        },
+        {
+          "name": "MICHAEL VENEZIA",
+          "party": "Democratic",
+          "pct": 38.54
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "CARMEN T. MORALES",
+          "party": "Democratic",
+          "votes": 49411,
+          "pct": 39.54
+        },
+        {
+          "name": "MICHAEL VENEZIA",
+          "party": "Democratic",
+          "votes": 48161,
+          "pct": 38.54
+        },
+        {
+          "name": "LORENZO MARCHESE JR.",
+          "party": "Republican",
+          "votes": 14063,
+          "pct": 11.25
+        },
+        {
+          "name": "DEMETRIUS ELEY",
+          "party": "Republican",
+          "votes": 13315,
+          "pct": 10.66
+        }
+      ]
+    },
+    "35": {
+      "winners": [
+        {
+          "name": "KENYATTA STEWART",
+          "party": "Democratic",
+          "pct": 36.44
+        },
+        {
+          "name": "AL ABDELAZIZ",
+          "party": "Democratic",
+          "pct": 36.1
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "KENYATTA STEWART",
+          "party": "Democratic",
+          "votes": 31068,
+          "pct": 36.44
+        },
+        {
+          "name": "AL ABDELAZIZ",
+          "party": "Democratic",
+          "votes": 30777,
+          "pct": 36.1
+        },
+        {
+          "name": "NELVIN MERCADO-DURAN",
+          "party": "Republican",
+          "votes": 11831,
+          "pct": 13.88
+        },
+        {
+          "name": "RAWELL S. PEREZ-MUÑOZ",
+          "party": "Republican",
+          "votes": 11581,
+          "pct": 13.58
+        }
+      ]
+    },
+    "36": {
+      "winners": [
+        {
+          "name": "GARY S. SCHAER",
+          "party": "Democratic",
+          "pct": 30.76
+        },
+        {
+          "name": "CLINTON CALABRESE",
+          "party": "Democratic",
+          "pct": 30.34
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "GARY S. SCHAER",
+          "party": "Democratic",
+          "votes": 34434,
+          "pct": 30.76
+        },
+        {
+          "name": "CLINTON CALABRESE",
+          "party": "Democratic",
+          "votes": 33959,
+          "pct": 30.34
+        },
+        {
+          "name": "CHRISTOPHER R. MUSTO",
+          "party": "Republican",
+          "votes": 22328,
+          "pct": 19.95
+        },
+        {
+          "name": "DIANE L. DEBIASE",
+          "party": "Republican",
+          "votes": 21205,
+          "pct": 18.95
+        }
+      ]
+    },
+    "37": {
+      "winners": [
+        {
+          "name": "ELLEN PARK",
+          "party": "Democratic",
+          "pct": 34.47
+        },
+        {
+          "name": "SHAMA A. HAIDER",
+          "party": "Democratic",
+          "pct": 33.59
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "ELLEN PARK",
+          "party": "Democratic",
+          "votes": 43906,
+          "pct": 34.47
+        },
+        {
+          "name": "SHAMA A. HAIDER",
+          "party": "Democratic",
+          "votes": 42781,
+          "pct": 33.59
+        },
+        {
+          "name": "MARCO D. NAVARRO",
+          "party": "Republican",
+          "votes": 20864,
+          "pct": 16.38
+        },
+        {
+          "name": "ANDREW J. MEEHAN",
+          "party": "Republican",
+          "votes": 19830,
+          "pct": 15.57
+        }
+      ]
+    },
+    "38": {
+      "winners": [
+        {
+          "name": "LISA SWAIN",
+          "party": "Democratic",
+          "pct": 29.27
+        },
+        {
+          "name": "CHRIS TULLY",
+          "party": "Democratic",
+          "pct": 28.68
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "LISA SWAIN",
+          "party": "Democratic",
+          "votes": 45688,
+          "pct": 29.27
+        },
+        {
+          "name": "CHRIS TULLY",
+          "party": "Democratic",
+          "votes": 44769,
+          "pct": 28.68
+        },
+        {
+          "name": "ROBERT KAISER",
+          "party": "Republican",
+          "votes": 33400,
+          "pct": 21.4
+        },
+        {
+          "name": "BARRY WILKES",
+          "party": "Republican",
+          "votes": 32218,
+          "pct": 20.64
+        }
+      ]
+    },
+    "39": {
+      "winners": [
+        {
+          "name": "ROBERT J. AUTH",
+          "party": "Republican",
+          "pct": 25.79
+        },
+        {
+          "name": "JOHN V. AZZARITI JR.",
+          "party": "Republican",
+          "pct": 25.41
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "ROBERT J. AUTH",
+          "party": "Republican",
+          "votes": 51116,
+          "pct": 25.79
+        },
+        {
+          "name": "JOHN V. AZZARITI JR.",
+          "party": "Republican",
+          "votes": 50362,
+          "pct": 25.41
+        },
+        {
+          "name": "ANDREW LABRUNO",
+          "party": "Democratic",
+          "votes": 48474,
+          "pct": 24.46
+        },
+        {
+          "name": "DONNA ABENE",
+          "party": "Democratic",
+          "votes": 48238,
+          "pct": 24.34
+        }
+      ]
+    },
+    "40": {
+      "winners": [
+        {
+          "name": "CHRISTOPHER P. DEPHILLIPS",
+          "party": "Republican",
+          "pct": 27.07
+        },
+        {
+          "name": "AL BARLAS",
+          "party": "Republican",
+          "pct": 25.82
+        }
+      ],
+      "seats": 2,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "CHRISTOPHER P. DEPHILLIPS",
+          "party": "Republican",
+          "votes": 52090,
+          "pct": 27.07
+        },
+        {
+          "name": "AL BARLAS",
+          "party": "Republican",
+          "votes": 49682,
+          "pct": 25.82
+        },
+        {
+          "name": "JEFFREY GATES",
+          "party": "Democratic",
+          "votes": 45870,
+          "pct": 23.84
+        },
+        {
+          "name": "RON ARNAU",
+          "party": "Democratic",
+          "votes": 44799,
+          "pct": 23.28
+        }
+      ]
+    }
+  },
+  "senate": {
+    "1": {
+      "winner": "MICHAEL L. TESTA JR.",
+      "party": "Republican",
+      "pct": 64.63,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "MICHAEL L. TESTA JR.",
+          "party": "Republican",
+          "votes": 29186,
+          "pct": 64.63
+        },
+        {
+          "name": "CHARLES R. LASPATA",
+          "party": "Democratic",
+          "votes": 15972,
+          "pct": 35.37
+        }
+      ]
+    },
+    "2": {
+      "winner": "VINCE POLISTINA",
+      "party": "Republican",
+      "pct": 52.19,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "VINCE POLISTINA",
+          "party": "Republican",
+          "votes": 24516,
+          "pct": 52.19
+        },
+        {
+          "name": "CAREN FITZPATRICK",
+          "party": "Democratic",
+          "votes": 21045,
+          "pct": 44.8
+        },
+        {
+          "name": "SHAWN PECK",
+          "party": "Libertarian Party",
+          "votes": 1415,
+          "pct": 3.01
+        }
+      ]
+    },
+    "3": {
+      "winner": "JOHN J. BURZICHELLI",
+      "party": "Democratic",
+      "pct": 53.61,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "JOHN J. BURZICHELLI",
+          "party": "Democratic",
+          "votes": 32382,
+          "pct": 53.61
+        },
+        {
+          "name": "EDWARD DURR",
+          "party": "Republican",
+          "votes": 28018,
+          "pct": 46.39
+        }
+      ]
+    },
+    "4": {
+      "winner": "PAUL D. MORIARTY",
+      "party": "Democratic",
+      "pct": 53.49,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "PAUL D. MORIARTY",
+          "party": "Democratic",
+          "votes": 30728,
+          "pct": 53.49
+        },
+        {
+          "name": "CHRISTOPHER W. DEL",
+          "party": "Republican",
+          "votes": 25010,
+          "pct": 43.53
+        },
+        {
+          "name": "GIUSEPPE COSTANZO",
+          "party": "CONSERVATIVES SOUTH JERSEY",
+          "votes": 1712,
+          "pct": 2.98
+        }
+      ]
+    },
+    "5": {
+      "winner": "NILSA CRUZ-PEREZ",
+      "party": "Democratic",
+      "pct": 68.66,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "NILSA CRUZ-PEREZ",
+          "party": "Democratic",
+          "votes": 25799,
+          "pct": 68.66
+        },
+        {
+          "name": "CLYDE E. COOK",
+          "party": "Republican",
+          "votes": 11245,
+          "pct": 29.93
+        },
+        {
+          "name": "MOHAMMAD KABIR",
+          "party": "RIGHTS TRANQUILITY PEACE",
+          "votes": 530,
+          "pct": 1.41
+        }
+      ]
+    },
+    "6": {
+      "winner": "JAMES BEACH",
+      "party": "Democratic",
+      "pct": 70.02,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "JAMES BEACH",
+          "party": "Democratic",
+          "votes": 34911,
+          "pct": 70.02
+        },
+        {
+          "name": "MARK DOOGAN",
+          "party": "Republican",
+          "votes": 14947,
+          "pct": 29.98
+        }
+      ]
+    },
+    "7": {
+      "winner": "TROY SINGLETON",
+      "party": "Democratic",
+      "pct": 67.73,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "TROY SINGLETON",
+          "party": "Democratic",
+          "votes": 33711,
+          "pct": 67.73
+        },
+        {
+          "name": "JAMES A. FAZZONE",
+          "party": "Republican",
+          "votes": 16060,
+          "pct": 32.27
+        }
+      ]
+    },
+    "8": {
+      "winner": "LATHAM TIVER",
+      "party": "Republican",
+      "pct": 51.04,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "LATHAM TIVER",
+          "party": "Republican",
+          "votes": 28394,
+          "pct": 51.04
+        },
+        {
+          "name": "GAYE BURTON",
+          "party": "Democratic",
+          "votes": 27236,
+          "pct": 48.96
+        }
+      ]
+    },
+    "9": {
+      "winner": "CARMEN F. AMATO JR.",
+      "party": "Republican",
+      "pct": 67.95,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "CARMEN F. AMATO JR.",
+          "party": "Republican",
+          "votes": 38124,
+          "pct": 67.95
+        },
+        {
+          "name": "GABRIEL FRANCO",
+          "party": "Democratic",
+          "votes": 17986,
+          "pct": 32.05
+        }
+      ]
+    },
+    "10": {
+      "winner": "JIM HOLZAPFEL",
+      "party": "Republican",
+      "pct": 66.56,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "JIM HOLZAPFEL",
+          "party": "Republican",
+          "votes": 35788,
+          "pct": 66.56
+        },
+        {
+          "name": "JEFF J. HORN",
+          "party": "Democratic",
+          "votes": 17981,
+          "pct": 33.44
+        }
+      ]
+    },
+    "11": {
+      "winner": "VIN GOPAL",
+      "party": "Democratic",
+      "pct": 60.3,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "VIN GOPAL",
+          "party": "Democratic",
+          "votes": 34350,
+          "pct": 60.3
+        },
+        {
+          "name": "STEPHEN DNISTRIAN",
+          "party": "Republican",
+          "votes": 22172,
+          "pct": 38.92
+        },
+        {
+          "name": "KAREN ZALETEL",
+          "party": "NJ PATRIOT PARTY",
+          "votes": 439,
+          "pct": 0.77
+        }
+      ]
+    },
+    "12": {
+      "winner": "OWEN HENRY",
+      "party": "Republican",
+      "pct": 62.16,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "OWEN HENRY",
+          "party": "Republican",
+          "votes": 28038,
+          "pct": 62.16
+        },
+        {
+          "name": "BRANDON A. ROSE",
+          "party": "Democratic",
+          "votes": 16265,
+          "pct": 36.06
+        },
+        {
+          "name": "NINA JOCHNOWITZ",
+          "party": "RESULTS NOT POLITICS",
+          "votes": 806,
+          "pct": 1.79
+        }
+      ]
+    },
+    "13": {
+      "winner": "DECLAN O'SCANLON",
+      "party": "Republican",
+      "pct": 58.81,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "DECLAN O'SCANLON",
+          "party": "Republican",
+          "votes": 31750,
+          "pct": 58.81
+        },
+        {
+          "name": "LUCILLE LOSAPIO",
+          "party": "Democratic",
+          "votes": 22236,
+          "pct": 41.19
+        }
+      ]
+    },
+    "14": {
+      "winner": "LINDA R. GREENSTEIN",
+      "party": "Democratic",
+      "pct": 59.77,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "LINDA R. GREENSTEIN",
+          "party": "Democratic",
+          "votes": 33020,
+          "pct": 59.77
+        },
+        {
+          "name": "PATRICIA \"PAT\" JOHNSON",
+          "party": "Republican",
+          "votes": 22225,
+          "pct": 40.23
+        }
+      ]
+    },
+    "15": {
+      "winner": "SHIRLEY TURNER",
+      "party": "Democratic",
+      "pct": 73.18,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "SHIRLEY TURNER",
+          "party": "Democratic",
+          "votes": 27760,
+          "pct": 73.18
+        },
+        {
+          "name": "ROGER R. LOCANDRO",
+          "party": "Republican",
+          "votes": 10173,
+          "pct": 26.82
+        }
+      ]
+    },
+    "16": {
+      "winner": "ANDREW ZWICKER",
+      "party": "Democratic",
+      "pct": 56.45,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "ANDREW ZWICKER",
+          "party": "Democratic",
+          "votes": 34693,
+          "pct": 56.45
+        },
+        {
+          "name": "MICHAEL PAPPAS",
+          "party": "Republican",
+          "votes": 25839,
+          "pct": 42.05
+        },
+        {
+          "name": "RICHARD J. BYRNE",
+          "party": "Libertarian Party",
+          "votes": 922,
+          "pct": 1.5
+        }
+      ]
+    },
+    "17": {
+      "winner": "BOB SMITH",
+      "party": "Democratic",
+      "pct": 72.79,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "BOB SMITH",
+          "party": "Democratic",
+          "votes": 20643,
+          "pct": 72.79
+        },
+        {
+          "name": "WILLIAM P. MIKITA JR.",
+          "party": "Republican",
+          "votes": 7718,
+          "pct": 27.21
+        }
+      ]
+    },
+    "18": {
+      "winner": "PATRICK J. DIEGNAN JR.",
+      "party": "Democratic",
+      "pct": 64.01,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "PATRICK J. DIEGNAN JR.",
+          "party": "Democratic",
+          "votes": 24294,
+          "pct": 64.01
+        },
+        {
+          "name": "NEAL SHAH",
+          "party": "Republican",
+          "votes": 13661,
+          "pct": 35.99
+        }
+      ]
+    },
+    "19": {
+      "winner": "JOSEPH F. VITALE",
+      "party": "Democratic",
+      "pct": 63.21,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "JOSEPH F. VITALE",
+          "party": "Democratic",
+          "votes": 19571,
+          "pct": 63.21
+        },
+        {
+          "name": "MARIA GARCIA",
+          "party": "Republican",
+          "votes": 11392,
+          "pct": 36.79
+        }
+      ]
+    },
+    "20": {
+      "winner": "JOSEPH CRYAN",
+      "party": "Democratic",
+      "pct": 74.7,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "JOSEPH CRYAN",
+          "party": "Democratic",
+          "votes": 12473,
+          "pct": 74.7
+        },
+        {
+          "name": "CARMEN BUCCO",
+          "party": "Republican",
+          "votes": 4224,
+          "pct": 25.3
+        }
+      ]
+    },
+    "21": {
+      "winner": "JON BRAMNICK",
+      "party": "Republican",
+      "pct": 53.48,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "JON BRAMNICK",
+          "party": "Republican",
+          "votes": 34435,
+          "pct": 53.48
+        },
+        {
+          "name": "MATT MARINO",
+          "party": "Democratic",
+          "votes": 29948,
+          "pct": 46.52
+        }
+      ]
+    },
+    "22": {
+      "winner": "NICHOLAS P. SCUTARI",
+      "party": "Democratic",
+      "pct": 66.2,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "NICHOLAS P. SCUTARI",
+          "party": "Democratic",
+          "votes": 23876,
+          "pct": 66.2
+        },
+        {
+          "name": "WILLIAM H. MICHELSON",
+          "party": "Republican",
+          "votes": 12189,
+          "pct": 33.8
+        }
+      ]
+    },
+    "23": {
+      "winner": "DOUGLAS STEINHARDT",
+      "party": "Republican",
+      "pct": 57.68,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "DOUGLAS STEINHARDT",
+          "party": "Republican",
+          "votes": 31066,
+          "pct": 57.68
+        },
+        {
+          "name": "DENISE KING",
+          "party": "Democratic",
+          "votes": 22790,
+          "pct": 42.32
+        }
+      ]
+    },
+    "24": {
+      "winner": "F. PARKER SPACE",
+      "party": "Republican",
+      "pct": 64.1,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "F. PARKER SPACE",
+          "party": "Republican",
+          "votes": 33604,
+          "pct": 64.1
+        },
+        {
+          "name": "EDMUND KHANOO",
+          "party": "Democratic",
+          "votes": 18821,
+          "pct": 35.9
+        }
+      ]
+    },
+    "25": {
+      "winner": "ANTHONY M. BUCCO",
+      "party": "Republican",
+      "pct": 52.67,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "ANTHONY M. BUCCO",
+          "party": "Republican",
+          "votes": 27250,
+          "pct": 52.67
+        },
+        {
+          "name": "CHRISTINE CLARKE",
+          "party": "Democratic",
+          "votes": 24491,
+          "pct": 47.33
+        }
+      ]
+    },
+    "26": {
+      "winner": "JOSEPH PENNACCHIO",
+      "party": "Republican",
+      "pct": 56.76,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "JOSEPH PENNACCHIO",
+          "party": "Republican",
+          "votes": 28313,
+          "pct": 56.76
+        },
+        {
+          "name": "JOAN WAKS",
+          "party": "Democratic",
+          "votes": 21571,
+          "pct": 43.24
+        }
+      ]
+    },
+    "27": {
+      "winner": "JOHN F. MCKEON",
+      "party": "Democratic",
+      "pct": 71.13,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "JOHN F. MCKEON",
+          "party": "Democratic",
+          "votes": 28499,
+          "pct": 71.13
+        },
+        {
+          "name": "MICHAEL D. BYRNE",
+          "party": "Republican",
+          "votes": 11566,
+          "pct": 28.87
+        }
+      ]
+    },
+    "28": {
+      "winner": "RENEE C. BURGESS",
+      "party": "Democratic",
+      "pct": 100,
+      "seats": 1,
+      "unopposed": true,
+      "candidates": [
+        {
+          "name": "RENEE C. BURGESS",
+          "party": "Democratic",
+          "votes": 19638,
+          "pct": 100
+        }
+      ]
+    },
+    "29": {
+      "winner": "M. TERESA RUIZ",
+      "party": "Democratic",
+      "pct": 83.52,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "M. TERESA RUIZ",
+          "party": "Democratic",
+          "votes": 7766,
+          "pct": 83.52
+        },
+        {
+          "name": "MARITZA MATHEWS",
+          "party": "Republican",
+          "votes": 1351,
+          "pct": 14.53
+        },
+        {
+          "name": "PABLO OLIVERA",
+          "party": "LABOUR PARTY",
+          "votes": 181,
+          "pct": 1.95
+        }
+      ]
+    },
+    "30": {
+      "winner": "ROBERT W. SINGER",
+      "party": "Republican",
+      "pct": 80.64,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "ROBERT W. SINGER",
+          "party": "Republican",
+          "votes": 37998,
+          "pct": 80.64
+        },
+        {
+          "name": "STEPHEN DOBBINS",
+          "party": "Democratic",
+          "votes": 9123,
+          "pct": 19.36
+        }
+      ]
+    },
+    "31": {
+      "winner": "ANGELA V. MCKNIGHT",
+      "party": "Democratic",
+      "pct": 75.84,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "ANGELA V. MCKNIGHT",
+          "party": "Democratic",
+          "votes": 14421,
+          "pct": 75.84
+        },
+        {
+          "name": "LUIS SOTO",
+          "party": "Republican",
+          "votes": 4593,
+          "pct": 24.16
+        }
+      ]
+    },
+    "32": {
+      "winner": "RAJ MUKHERJI",
+      "party": "Democratic",
+      "pct": 83.11,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "RAJ MUKHERJI",
+          "party": "Democratic",
+          "votes": 15175,
+          "pct": 83.11
+        },
+        {
+          "name": "ILYAS MOHAMMED",
+          "party": "Republican",
+          "votes": 3083,
+          "pct": 16.89
+        }
+      ]
+    },
+    "33": {
+      "winner": "BRIAN P. STACK",
+      "party": "Democratic",
+      "pct": 97.08,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "BRIAN P. STACK",
+          "party": "Democratic",
+          "votes": 27262,
+          "pct": 97.08
+        },
+        {
+          "name": "JOANNE KUNIANSKY3600 BERGENLINE AVENUE Apt-",
+          "party": "SOCIALIST WORKERS PARTY",
+          "votes": 821,
+          "pct": 2.92
+        }
+      ]
+    },
+    "34": {
+      "winner": "BRITNEE N. TIMBERLAKE",
+      "party": "Democratic",
+      "pct": 76.07,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "BRITNEE N. TIMBERLAKE",
+          "party": "Democratic",
+          "votes": 18677,
+          "pct": 76.07
+        },
+        {
+          "name": "JOSEPH BELNOME",
+          "party": "Republican",
+          "votes": 5875,
+          "pct": 23.93
+        }
+      ]
+    },
+    "35": {
+      "winner": "NELIDA POU",
+      "party": "Democratic",
+      "pct": 69.02,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "NELIDA POU",
+          "party": "Democratic",
+          "votes": 11950,
+          "pct": 69.02
+        },
+        {
+          "name": "CHRISTOPHER FAUSTINO",
+          "party": "Republican",
+          "votes": 5365,
+          "pct": 30.98
+        }
+      ]
+    },
+    "36": {
+      "winner": "PAUL A. SARLO",
+      "party": "Democratic",
+      "pct": 61.66,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "PAUL A. SARLO",
+          "party": "Democratic",
+          "votes": 18885,
+          "pct": 61.66
+        },
+        {
+          "name": "CHRIS AURIEMMA",
+          "party": "Republican",
+          "votes": 11744,
+          "pct": 38.34
+        }
+      ]
+    },
+    "37": {
+      "winner": "GORDON M. JOHNSON",
+      "party": "Democratic",
+      "pct": 72.13,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "GORDON M. JOHNSON",
+          "party": "Democratic",
+          "votes": 27466,
+          "pct": 72.13
+        },
+        {
+          "name": "DIERDRE G. PAUL",
+          "party": "Republican",
+          "votes": 10610,
+          "pct": 27.87
+        }
+      ]
+    },
+    "38": {
+      "winner": "JOSEPH A. LAGANA",
+      "party": "Democratic",
+      "pct": 57.11,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "JOSEPH A. LAGANA",
+          "party": "Democratic",
+          "votes": 28447,
+          "pct": 57.11
+        },
+        {
+          "name": "MICHELINE B. ATTIEH",
+          "party": "Republican",
+          "votes": 21361,
+          "pct": 42.89
+        }
+      ]
+    },
+    "39": {
+      "winner": "HOLLY SCHEPISI",
+      "party": "Republican",
+      "pct": 54.93,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "HOLLY SCHEPISI",
+          "party": "Republican",
+          "votes": 34448,
+          "pct": 54.93
+        },
+        {
+          "name": "JODI A. MURPHY",
+          "party": "Democratic",
+          "votes": 28264,
+          "pct": 45.07
+        }
+      ]
+    },
+    "40": {
+      "winner": "KRISTIN M. CORRADO",
+      "party": "Republican",
+      "pct": 56.26,
+      "seats": 1,
+      "unopposed": false,
+      "candidates": [
+        {
+          "name": "KRISTIN M. CORRADO",
+          "party": "Republican",
+          "votes": 29349,
+          "pct": 56.26
+        },
+        {
+          "name": "JENNIFER EHRENTRAUT",
+          "party": "Democratic",
+          "votes": 22821,
+          "pct": 43.74
+        }
+      ]
+    }
+  }
+}
