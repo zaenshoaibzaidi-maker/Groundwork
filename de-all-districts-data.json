@@ -1,0 +1,1618 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Delaware House District 1",
+      "census": {
+        "censusName": "State Representative District 1 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58985,
+        "medianAge": 40.1,
+        "totalPopulation": 23016,
+        "collegePct": 39.9,
+        "renterRatePct": 56.81,
+        "race": {
+          "whitePct": 34.29,
+          "nonHispanicWhitePct": 31.6,
+          "blackPct": 56.69,
+          "asianPct": 1.56,
+          "hispanicPct": 7.03
+        }
+      },
+      "election": {
+        "winner": "Nnamdi O. Chukwuocha",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Delaware House District 2",
+      "census": {
+        "censusName": "State Representative District 2 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51225,
+        "medianAge": 34.2,
+        "totalPopulation": 22759,
+        "collegePct": 22.83,
+        "renterRatePct": 60.9,
+        "race": {
+          "whitePct": 24.43,
+          "nonHispanicWhitePct": 21.66,
+          "blackPct": 62.31,
+          "asianPct": 1.94,
+          "hispanicPct": 10.85
+        }
+      },
+      "election": {
+        "winner": "Stephanie T. Bolden",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Delaware House District 3",
+      "census": {
+        "censusName": "State Representative District 3 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48446,
+        "medianAge": 37.2,
+        "totalPopulation": 23967,
+        "collegePct": 24.65,
+        "renterRatePct": 51.43,
+        "race": {
+          "whitePct": 33.12,
+          "nonHispanicWhitePct": 29.85,
+          "blackPct": 44.57,
+          "asianPct": 0.89,
+          "hispanicPct": 19.35
+        }
+      },
+      "election": {
+        "winner": "Josue O. Ortega",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Delaware House District 4",
+      "census": {
+        "censusName": "State Representative District 4 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76396,
+        "medianAge": 60.7,
+        "totalPopulation": 24609,
+        "collegePct": 30.08,
+        "renterRatePct": 11.67,
+        "race": {
+          "whitePct": 84.78,
+          "nonHispanicWhitePct": 81.67,
+          "blackPct": 3.61,
+          "asianPct": 1.58,
+          "hispanicPct": 7.3
+        }
+      },
+      "election": {
+        "winner": "Jeff Hilovsky",
+        "party": "REP",
+        "pct": 57.99,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Delaware House District 5",
+      "census": {
+        "censusName": "State Representative District 5 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70948,
+        "medianAge": 39,
+        "totalPopulation": 22888,
+        "collegePct": 27.03,
+        "renterRatePct": 41.07,
+        "race": {
+          "whitePct": 24.66,
+          "nonHispanicWhitePct": 23.38,
+          "blackPct": 56.24,
+          "asianPct": 4.99,
+          "hispanicPct": 12.96
+        }
+      },
+      "election": {
+        "winner": "Kendra Johnson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Delaware House District 6",
+      "census": {
+        "censusName": "State Representative District 6 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101831,
+        "medianAge": 44.1,
+        "totalPopulation": 23217,
+        "collegePct": 53.9,
+        "renterRatePct": 17.8,
+        "race": {
+          "whitePct": 76.3,
+          "nonHispanicWhitePct": 75.24,
+          "blackPct": 14.24,
+          "asianPct": 2.9,
+          "hispanicPct": 3.77
+        }
+      },
+      "election": {
+        "winner": "Debra J. Heffernan",
+        "party": "DEM",
+        "pct": 65.65,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Delaware House District 7",
+      "census": {
+        "censusName": "State Representative District 7 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79622,
+        "medianAge": 40.2,
+        "totalPopulation": 22550,
+        "collegePct": 38.05,
+        "renterRatePct": 41.28,
+        "race": {
+          "whitePct": 60.12,
+          "nonHispanicWhitePct": 58.35,
+          "blackPct": 23.92,
+          "asianPct": 7.66,
+          "hispanicPct": 7.41
+        }
+      },
+      "election": {
+        "winner": "Larry D. Lambert Jr.",
+        "party": "DEM",
+        "pct": 70.29,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Delaware House District 8",
+      "census": {
+        "censusName": "State Representative District 8 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115220,
+        "medianAge": 40.1,
+        "totalPopulation": 25479,
+        "collegePct": 44.28,
+        "renterRatePct": 22.44,
+        "race": {
+          "whitePct": 61.87,
+          "nonHispanicWhitePct": 60.46,
+          "blackPct": 26.11,
+          "asianPct": 3.53,
+          "hispanicPct": 5.32
+        }
+      },
+      "election": {
+        "winner": "Sherae'A Rae Moore",
+        "party": "DEM",
+        "pct": 57.8,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Delaware House District 9",
+      "census": {
+        "censusName": "State Representative District 9 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 141298,
+        "medianAge": 38.9,
+        "totalPopulation": 28086,
+        "collegePct": 47.47,
+        "renterRatePct": 5.55,
+        "race": {
+          "whitePct": 62.46,
+          "nonHispanicWhitePct": 61.37,
+          "blackPct": 21.36,
+          "asianPct": 8.11,
+          "hispanicPct": 7.35
+        }
+      },
+      "election": {
+        "winner": "Kevin S. Hensley",
+        "party": "REP",
+        "pct": 52.76,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Delaware House District 10",
+      "census": {
+        "censusName": "State Representative District 10 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 110290,
+        "medianAge": 45.3,
+        "totalPopulation": 23752,
+        "collegePct": 53.43,
+        "renterRatePct": 21.34,
+        "race": {
+          "whitePct": 75.47,
+          "nonHispanicWhitePct": 74.45,
+          "blackPct": 11.15,
+          "asianPct": 6.24,
+          "hispanicPct": 2.72
+        }
+      },
+      "election": {
+        "winner": "Melanie Ross Levin",
+        "party": "DEM",
+        "pct": 60.43,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Delaware House District 11",
+      "census": {
+        "censusName": "State Representative District 11 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88238,
+        "medianAge": 40.6,
+        "totalPopulation": 24427,
+        "collegePct": 22.74,
+        "renterRatePct": 15.34,
+        "race": {
+          "whitePct": 78.64,
+          "nonHispanicWhitePct": 78.03,
+          "blackPct": 10.24,
+          "asianPct": 2.84,
+          "hispanicPct": 4.33
+        }
+      },
+      "election": {
+        "winner": "Jeffrey N. Spiegelman",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Delaware House District 12",
+      "census": {
+        "censusName": "State Representative District 12 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 148028,
+        "medianAge": 48,
+        "totalPopulation": 25339,
+        "collegePct": 69.72,
+        "renterRatePct": 22.11,
+        "race": {
+          "whitePct": 83.34,
+          "nonHispanicWhitePct": 81.09,
+          "blackPct": 3.65,
+          "asianPct": 5.84,
+          "hispanicPct": 5.67
+        }
+      },
+      "election": {
+        "winner": "Krista Griffith",
+        "party": "DEM",
+        "pct": 61.31,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Delaware House District 13",
+      "census": {
+        "censusName": "State Representative District 13 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73851,
+        "medianAge": 37.8,
+        "totalPopulation": 24943,
+        "collegePct": 24.22,
+        "renterRatePct": 30.34,
+        "race": {
+          "whitePct": 60.26,
+          "nonHispanicWhitePct": 54.58,
+          "blackPct": 16.37,
+          "asianPct": 0.86,
+          "hispanicPct": 23.45
+        }
+      },
+      "election": {
+        "winner": "Deshanna Neal",
+        "party": "DEM",
+        "pct": 56.27,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Delaware House District 14",
+      "census": {
+        "censusName": "State Representative District 14 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103777,
+        "medianAge": 61.5,
+        "totalPopulation": 25216,
+        "collegePct": 53.67,
+        "renterRatePct": 16.22,
+        "race": {
+          "whitePct": 88.23,
+          "nonHispanicWhitePct": 87.45,
+          "blackPct": 3.6,
+          "asianPct": 2.53,
+          "hispanicPct": 3.18
+        }
+      },
+      "election": {
+        "winner": "Claire Snyder-Hall",
+        "party": "DEM",
+        "pct": 54.64,
+        "unopposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Delaware House District 15",
+      "census": {
+        "censusName": "State Representative District 15 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107876,
+        "medianAge": 42.2,
+        "totalPopulation": 26077,
+        "collegePct": 31.75,
+        "renterRatePct": 15.62,
+        "race": {
+          "whitePct": 47.54,
+          "nonHispanicWhitePct": 46.02,
+          "blackPct": 34.96,
+          "asianPct": 7.03,
+          "hispanicPct": 9.48
+        }
+      },
+      "election": {
+        "winner": "Kamela T. Smith",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Delaware House District 16",
+      "census": {
+        "censusName": "State Representative District 16 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68109,
+        "medianAge": 38.6,
+        "totalPopulation": 23910,
+        "collegePct": 19.93,
+        "renterRatePct": 31.43,
+        "race": {
+          "whitePct": 37.23,
+          "nonHispanicWhitePct": 33.53,
+          "blackPct": 42.46,
+          "asianPct": 1.72,
+          "hispanicPct": 19.51
+        }
+      },
+      "election": {
+        "winner": "Franklin D. Cooke Jr.",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Delaware House District 17",
+      "census": {
+        "censusName": "State Representative District 17 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76046,
+        "medianAge": 40.6,
+        "totalPopulation": 24907,
+        "collegePct": 21.57,
+        "renterRatePct": 35.89,
+        "race": {
+          "whitePct": 47.56,
+          "nonHispanicWhitePct": 42.67,
+          "blackPct": 33.97,
+          "asianPct": 2.05,
+          "hispanicPct": 17.56
+        }
+      },
+      "election": {
+        "winner": "Melissa Mimi Minor-Brown",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Delaware House District 18",
+      "census": {
+        "censusName": "State Representative District 18 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79278,
+        "medianAge": 36.9,
+        "totalPopulation": 25099,
+        "collegePct": 30.79,
+        "renterRatePct": 42.93,
+        "race": {
+          "whitePct": 48.86,
+          "nonHispanicWhitePct": 43.04,
+          "blackPct": 26.52,
+          "asianPct": 12.28,
+          "hispanicPct": 15.04
+        }
+      },
+      "election": {
+        "winner": "Sophie Phillips",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Delaware House District 19",
+      "census": {
+        "censusName": "State Representative District 19 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78112,
+        "medianAge": 44.2,
+        "totalPopulation": 23934,
+        "collegePct": 25.67,
+        "renterRatePct": 23.33,
+        "race": {
+          "whitePct": 68.8,
+          "nonHispanicWhitePct": 63.47,
+          "blackPct": 10.44,
+          "asianPct": 3.24,
+          "hispanicPct": 20.21
+        }
+      },
+      "election": {
+        "winner": "Kim Williams",
+        "party": "DEM",
+        "pct": 62.85,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Delaware House District 20",
+      "census": {
+        "censusName": "State Representative District 20 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83495,
+        "medianAge": 59.6,
+        "totalPopulation": 24736,
+        "collegePct": 46.01,
+        "renterRatePct": 13.89,
+        "race": {
+          "whitePct": 85.52,
+          "nonHispanicWhitePct": 84.96,
+          "blackPct": 5.59,
+          "asianPct": 2.03,
+          "hispanicPct": 4.23
+        }
+      },
+      "election": {
+        "winner": "Stell Parker Selby",
+        "party": "DEM",
+        "pct": 50.7,
+        "unopposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Delaware House District 21",
+      "census": {
+        "censusName": "State Representative District 21 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96211,
+        "medianAge": 39.3,
+        "totalPopulation": 24244,
+        "collegePct": 46.56,
+        "renterRatePct": 27.71,
+        "race": {
+          "whitePct": 75.32,
+          "nonHispanicWhitePct": 71.26,
+          "blackPct": 8.75,
+          "asianPct": 5.58,
+          "hispanicPct": 8.42
+        }
+      },
+      "election": {
+        "winner": "Frank Burns",
+        "party": "DEM",
+        "pct": 57.88,
+        "unopposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Delaware House District 22",
+      "census": {
+        "censusName": "State Representative District 22 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 161037,
+        "medianAge": 46,
+        "totalPopulation": 24517,
+        "collegePct": 64,
+        "renterRatePct": 9.92,
+        "race": {
+          "whitePct": 75.87,
+          "nonHispanicWhitePct": 73.63,
+          "blackPct": 2.81,
+          "asianPct": 14,
+          "hispanicPct": 4.97
+        }
+      },
+      "election": {
+        "winner": "Michael Francis Smith",
+        "party": "REP",
+        "pct": 54.77,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Delaware House District 23",
+      "census": {
+        "censusName": "State Representative District 23 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105027,
+        "medianAge": 29.6,
+        "totalPopulation": 24438,
+        "collegePct": 60.17,
+        "renterRatePct": 36.84,
+        "race": {
+          "whitePct": 71.76,
+          "nonHispanicWhitePct": 69.59,
+          "blackPct": 9.91,
+          "asianPct": 7.19,
+          "hispanicPct": 9.33
+        }
+      },
+      "election": {
+        "winner": "Mara Gorman",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Delaware House District 24",
+      "census": {
+        "censusName": "State Representative District 24 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71310,
+        "medianAge": 34.3,
+        "totalPopulation": 26154,
+        "collegePct": 27.01,
+        "renterRatePct": 41.44,
+        "race": {
+          "whitePct": 56.6,
+          "nonHispanicWhitePct": 50.78,
+          "blackPct": 20.17,
+          "asianPct": 5.41,
+          "hispanicPct": 19.73
+        }
+      },
+      "election": {
+        "winner": "Ed Osienski",
+        "party": "DEM",
+        "pct": 66.79,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Delaware House District 25",
+      "census": {
+        "censusName": "State Representative District 25 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95235,
+        "medianAge": 29.2,
+        "totalPopulation": 24184,
+        "collegePct": 50.01,
+        "renterRatePct": 31.8,
+        "race": {
+          "whitePct": 62.4,
+          "nonHispanicWhitePct": 59.44,
+          "blackPct": 12.87,
+          "asianPct": 7.4,
+          "hispanicPct": 12.75
+        }
+      },
+      "election": {
+        "winner": "Cyndie Romer",
+        "party": "DEM",
+        "pct": 64.92,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Delaware House District 26",
+      "census": {
+        "censusName": "State Representative District 26 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93504,
+        "medianAge": 36.3,
+        "totalPopulation": 23099,
+        "collegePct": 38.1,
+        "renterRatePct": 43.42,
+        "race": {
+          "whitePct": 44.17,
+          "nonHispanicWhitePct": 39.18,
+          "blackPct": 27.61,
+          "asianPct": 12.69,
+          "hispanicPct": 16.72
+        }
+      },
+      "election": {
+        "winner": "Madinah Wilson-Anton",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Delaware House District 27",
+      "census": {
+        "censusName": "State Representative District 27 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 135464,
+        "medianAge": 39.8,
+        "totalPopulation": 23846,
+        "collegePct": 48.78,
+        "renterRatePct": 10.64,
+        "race": {
+          "whitePct": 57.56,
+          "nonHispanicWhitePct": 55.67,
+          "blackPct": 21.57,
+          "asianPct": 13.07,
+          "hispanicPct": 5.91
+        }
+      },
+      "election": {
+        "winner": "Eric Morrison",
+        "party": "DEM",
+        "pct": 56.21,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Delaware House District 28",
+      "census": {
+        "censusName": "State Representative District 28 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67932,
+        "medianAge": 37.9,
+        "totalPopulation": 25607,
+        "collegePct": 17.81,
+        "renterRatePct": 28.18,
+        "race": {
+          "whitePct": 56.02,
+          "nonHispanicWhitePct": 54.25,
+          "blackPct": 30.99,
+          "asianPct": 1.35,
+          "hispanicPct": 10.03
+        }
+      },
+      "election": {
+        "winner": "William Carson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Delaware House District 29",
+      "census": {
+        "censusName": "State Representative District 29 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92716,
+        "medianAge": 41.8,
+        "totalPopulation": 23924,
+        "collegePct": 30.83,
+        "renterRatePct": 9.75,
+        "race": {
+          "whitePct": 51.13,
+          "nonHispanicWhitePct": 49.19,
+          "blackPct": 32.91,
+          "asianPct": 3.64,
+          "hispanicPct": 9.41
+        }
+      },
+      "election": {
+        "winner": "William Bush",
+        "party": "DEM",
+        "pct": 61.83,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Delaware House District 30",
+      "census": {
+        "censusName": "State Representative District 30 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79427,
+        "medianAge": 40.4,
+        "totalPopulation": 24912,
+        "collegePct": 22.9,
+        "renterRatePct": 20.53,
+        "race": {
+          "whitePct": 84.08,
+          "nonHispanicWhitePct": 82.79,
+          "blackPct": 8.84,
+          "asianPct": 1.43,
+          "hispanicPct": 3.87
+        }
+      },
+      "election": {
+        "winner": "Wm Shannon Morris",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Delaware House District 31",
+      "census": {
+        "censusName": "State Representative District 31 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58862,
+        "medianAge": 34.1,
+        "totalPopulation": 24307,
+        "collegePct": 30.39,
+        "renterRatePct": 51.42,
+        "race": {
+          "whitePct": 35.24,
+          "nonHispanicWhitePct": 33.16,
+          "blackPct": 46.39,
+          "asianPct": 3.44,
+          "hispanicPct": 10.13
+        }
+      },
+      "election": {
+        "winner": "Sean M. Lynn",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Delaware House District 32",
+      "census": {
+        "censusName": "State Representative District 32 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64332,
+        "medianAge": 32.2,
+        "totalPopulation": 24236,
+        "collegePct": 26.05,
+        "renterRatePct": 54.45,
+        "race": {
+          "whitePct": 49.82,
+          "nonHispanicWhitePct": 43.26,
+          "blackPct": 34.54,
+          "asianPct": 2.25,
+          "hispanicPct": 13.08
+        }
+      },
+      "election": {
+        "winner": "Kerri Evelyn Harris",
+        "party": "DEM",
+        "pct": 61.91,
+        "unopposed": false
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Delaware House District 33",
+      "census": {
+        "censusName": "State Representative District 33 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66719,
+        "medianAge": 45,
+        "totalPopulation": 24471,
+        "collegePct": 26.62,
+        "renterRatePct": 25.8,
+        "race": {
+          "whitePct": 66.54,
+          "nonHispanicWhitePct": 64.49,
+          "blackPct": 21.9,
+          "asianPct": 1.03,
+          "hispanicPct": 5.72
+        }
+      },
+      "election": {
+        "winner": "Charles S. Postles Jr.",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Delaware House District 34",
+      "census": {
+        "censusName": "State Representative District 34 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81773,
+        "medianAge": 36.4,
+        "totalPopulation": 25784,
+        "collegePct": 37.22,
+        "renterRatePct": 18.05,
+        "race": {
+          "whitePct": 58.41,
+          "nonHispanicWhitePct": 56.69,
+          "blackPct": 28.66,
+          "asianPct": 3.49,
+          "hispanicPct": 5.44
+        }
+      },
+      "election": {
+        "winner": "Lyndon D. Yearick",
+        "party": "REP",
+        "pct": 55.34,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Delaware House District 35",
+      "census": {
+        "censusName": "State Representative District 35 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70005,
+        "medianAge": 42.3,
+        "totalPopulation": 24353,
+        "collegePct": 19.54,
+        "renterRatePct": 22.51,
+        "race": {
+          "whitePct": 65.23,
+          "nonHispanicWhitePct": 60.37,
+          "blackPct": 18.25,
+          "asianPct": 0.55,
+          "hispanicPct": 16.4
+        }
+      },
+      "election": {
+        "winner": "Jesse R. Vanderwende",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Delaware House District 36",
+      "census": {
+        "censusName": "State Representative District 36 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72758,
+        "medianAge": 40,
+        "totalPopulation": 24401,
+        "collegePct": 24.17,
+        "renterRatePct": 23.48,
+        "race": {
+          "whitePct": 64.07,
+          "nonHispanicWhitePct": 62.37,
+          "blackPct": 17.66,
+          "asianPct": 1.75,
+          "hispanicPct": 14.81
+        }
+      },
+      "election": {
+        "winner": "Bryan William Shupe",
+        "party": "REP",
+        "pct": 62.86,
+        "unopposed": false
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Delaware House District 37",
+      "census": {
+        "censusName": "State Representative District 37 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71924,
+        "medianAge": 40.8,
+        "totalPopulation": 22993,
+        "collegePct": 24.77,
+        "renterRatePct": 25.81,
+        "race": {
+          "whitePct": 66.75,
+          "nonHispanicWhitePct": 55.54,
+          "blackPct": 10.16,
+          "asianPct": 0.34,
+          "hispanicPct": 29.39
+        }
+      },
+      "election": {
+        "winner": "Valerie Jones Giltner",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Delaware House District 38",
+      "census": {
+        "censusName": "State Representative District 38 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94905,
+        "medianAge": 65.3,
+        "totalPopulation": 26161,
+        "collegePct": 49.98,
+        "renterRatePct": 6.39,
+        "race": {
+          "whitePct": 93.26,
+          "nonHispanicWhitePct": 92.85,
+          "blackPct": 1.47,
+          "asianPct": 0.81,
+          "hispanicPct": 1.81
+        }
+      },
+      "election": {
+        "winner": "Ronald E. Gray",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Delaware House District 39",
+      "census": {
+        "censusName": "State Representative District 39 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58416,
+        "medianAge": 42.4,
+        "totalPopulation": 23379,
+        "collegePct": 17.61,
+        "renterRatePct": 29.71,
+        "race": {
+          "whitePct": 61.42,
+          "nonHispanicWhitePct": 58.62,
+          "blackPct": 19.24,
+          "asianPct": 0.96,
+          "hispanicPct": 12.03
+        }
+      },
+      "election": {
+        "winner": "Daniel B. Short",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Delaware House District 40",
+      "census": {
+        "censusName": "State Representative District 40 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62363,
+        "medianAge": 38.3,
+        "totalPopulation": 24872,
+        "collegePct": 17.92,
+        "renterRatePct": 26.85,
+        "race": {
+          "whitePct": 70.96,
+          "nonHispanicWhitePct": 68.65,
+          "blackPct": 15.69,
+          "asianPct": 0.82,
+          "hispanicPct": 12.61
+        }
+      },
+      "election": {
+        "winner": "Timothy D. Dukes",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Delaware House District 41",
+      "census": {
+        "censusName": "State Representative District 41 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81392,
+        "medianAge": 43.6,
+        "totalPopulation": 27079,
+        "collegePct": 26.23,
+        "renterRatePct": 21.21,
+        "race": {
+          "whitePct": 72.98,
+          "nonHispanicWhitePct": 72.23,
+          "blackPct": 10.58,
+          "asianPct": 0.89,
+          "hispanicPct": 12.4
+        }
+      },
+      "election": {
+        "winner": "Rich Collins",
+        "party": "REP",
+        "pct": 64.42,
+        "unopposed": false
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Delaware Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85707,
+        "medianAge": 42.8,
+        "totalPopulation": 45120,
+        "collegePct": 53.17,
+        "renterRatePct": 37.39,
+        "race": {
+          "whitePct": 66.81,
+          "nonHispanicWhitePct": 65.29,
+          "blackPct": 22.89,
+          "asianPct": 2.71,
+          "hispanicPct": 5.14
+        }
+      },
+      "election": {
+        "winner": "Sarah Mcbride",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Delaware Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59746,
+        "medianAge": 36.2,
+        "totalPopulation": 43684,
+        "collegePct": 19.11,
+        "renterRatePct": 36.84,
+        "race": {
+          "whitePct": 26.19,
+          "nonHispanicWhitePct": 22.61,
+          "blackPct": 57.57,
+          "asianPct": 1.02,
+          "hispanicPct": 14.47
+        }
+      },
+      "election": {
+        "winner": "Darius Brown",
+        "party": "DEM",
+        "pct": 92.97,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Delaware Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51903,
+        "medianAge": 35.3,
+        "totalPopulation": 45003,
+        "collegePct": 23.78,
+        "renterRatePct": 55.78,
+        "race": {
+          "whitePct": 31.54,
+          "nonHispanicWhitePct": 28.14,
+          "blackPct": 46.72,
+          "asianPct": 1.28,
+          "hispanicPct": 19.22
+        }
+      },
+      "election": {
+        "winner": "S. Elizabeth Lockman",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Delaware Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 142786,
+        "medianAge": 45.5,
+        "totalPopulation": 43917,
+        "collegePct": 65.44,
+        "renterRatePct": 20.51,
+        "race": {
+          "whitePct": 75.32,
+          "nonHispanicWhitePct": 72.58,
+          "blackPct": 4.95,
+          "asianPct": 12.18,
+          "hispanicPct": 5.8
+        }
+      },
+      "election": {
+        "winner": "Laura V. Sturgeon",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Delaware Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100446,
+        "medianAge": 42.5,
+        "totalPopulation": 46024,
+        "collegePct": 47.13,
+        "renterRatePct": 27.6,
+        "race": {
+          "whitePct": 70.26,
+          "nonHispanicWhitePct": 68.99,
+          "blackPct": 15.73,
+          "asianPct": 6.15,
+          "hispanicPct": 5.07
+        }
+      },
+      "election": {
+        "winner": "Kyle Evans Gay",
+        "party": "DEM",
+        "pct": 66.28,
+        "unopposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Delaware Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91632,
+        "medianAge": 60.9,
+        "totalPopulation": 51514,
+        "collegePct": 49.94,
+        "renterRatePct": 15.35,
+        "race": {
+          "whitePct": 87.33,
+          "nonHispanicWhitePct": 86.68,
+          "blackPct": 4.01,
+          "asianPct": 2.27,
+          "hispanicPct": 3.75
+        }
+      },
+      "election": {
+        "winner": "Russ Huxtable",
+        "party": "DEM",
+        "pct": 54.35,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Delaware Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84593,
+        "medianAge": 42.7,
+        "totalPopulation": 44056,
+        "collegePct": 30.94,
+        "renterRatePct": 22.45,
+        "race": {
+          "whitePct": 71.96,
+          "nonHispanicWhitePct": 66.34,
+          "blackPct": 8.85,
+          "asianPct": 2.84,
+          "hispanicPct": 18.2
+        }
+      },
+      "election": {
+        "winner": "Spiros Mantzavinos",
+        "party": "DEM",
+        "pct": 58.69,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Delaware Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97843,
+        "medianAge": 27.5,
+        "totalPopulation": 46151,
+        "collegePct": 57.33,
+        "renterRatePct": 34.08,
+        "race": {
+          "whitePct": 73.24,
+          "nonHispanicWhitePct": 70.93,
+          "blackPct": 8.8,
+          "asianPct": 7.09,
+          "hispanicPct": 8.71
+        }
+      },
+      "election": {
+        "winner": "David P. Sokola",
+        "party": "DEM",
+        "pct": 62.87,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Delaware Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76297,
+        "medianAge": 38.6,
+        "totalPopulation": 45170,
+        "collegePct": 32.03,
+        "renterRatePct": 36.97,
+        "race": {
+          "whitePct": 60.94,
+          "nonHispanicWhitePct": 57,
+          "blackPct": 16.14,
+          "asianPct": 7.62,
+          "hispanicPct": 15.3
+        }
+      },
+      "election": {
+        "winner": "Jack Walsh",
+        "party": "DEM",
+        "pct": 61.5,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Delaware Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 130526,
+        "medianAge": 40,
+        "totalPopulation": 46556,
+        "collegePct": 49.78,
+        "renterRatePct": 14.94,
+        "race": {
+          "whitePct": 59.94,
+          "nonHispanicWhitePct": 58.41,
+          "blackPct": 22.84,
+          "asianPct": 9.19,
+          "hispanicPct": 5.3
+        }
+      },
+      "election": {
+        "winner": "Stephanie L. Hansen",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Delaware Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92181,
+        "medianAge": 37.1,
+        "totalPopulation": 48312,
+        "collegePct": 37.19,
+        "renterRatePct": 36.57,
+        "race": {
+          "whitePct": 44.13,
+          "nonHispanicWhitePct": 39.14,
+          "blackPct": 28.3,
+          "asianPct": 10.39,
+          "hispanicPct": 17.73
+        }
+      },
+      "election": {
+        "winner": "Bryan Townsend",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Delaware Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109251,
+        "medianAge": 42.5,
+        "totalPopulation": 50984,
+        "collegePct": 36.49,
+        "renterRatePct": 18.51,
+        "race": {
+          "whitePct": 55.47,
+          "nonHispanicWhitePct": 54.36,
+          "blackPct": 29.08,
+          "asianPct": 7.19,
+          "hispanicPct": 7.05
+        }
+      },
+      "election": {
+        "winner": "Nicole Poore",
+        "party": "DEM",
+        "pct": 62.15,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Delaware Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80747,
+        "medianAge": 38.6,
+        "totalPopulation": 48816,
+        "collegePct": 24.98,
+        "renterRatePct": 38.93,
+        "race": {
+          "whitePct": 39.05,
+          "nonHispanicWhitePct": 34.17,
+          "blackPct": 41.21,
+          "asianPct": 4.61,
+          "hispanicPct": 17.27
+        }
+      },
+      "election": {
+        "winner": "Marie Pinkney",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Delaware Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91868,
+        "medianAge": 37.5,
+        "totalPopulation": 52016,
+        "collegePct": 27.53,
+        "renterRatePct": 14.76,
+        "race": {
+          "whitePct": 58.13,
+          "nonHispanicWhitePct": 56.5,
+          "blackPct": 29.33,
+          "asianPct": 2.26,
+          "hispanicPct": 8.38
+        }
+      },
+      "election": {
+        "winner": "Kyra Hoffner",
+        "party": "DEM",
+        "pct": 51.83,
+        "unopposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Delaware Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76438,
+        "medianAge": 41.8,
+        "totalPopulation": 45803,
+        "collegePct": 21.54,
+        "renterRatePct": 18.75,
+        "race": {
+          "whitePct": 81.51,
+          "nonHispanicWhitePct": 80.68,
+          "blackPct": 9.84,
+          "asianPct": 1.51,
+          "hispanicPct": 4.36
+        }
+      },
+      "election": {
+        "winner": "Dave Lawson",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Delaware Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79435,
+        "medianAge": 37.5,
+        "totalPopulation": 49005,
+        "collegePct": 32.69,
+        "renterRatePct": 23.6,
+        "race": {
+          "whitePct": 61.97,
+          "nonHispanicWhitePct": 58.95,
+          "blackPct": 22.93,
+          "asianPct": 2.49,
+          "hispanicPct": 7.83
+        }
+      },
+      "election": {
+        "winner": "Eric L. Buckson",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Delaware Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60447,
+        "medianAge": 36.5,
+        "totalPopulation": 49104,
+        "collegePct": 27,
+        "renterRatePct": 45.84,
+        "race": {
+          "whitePct": 42.32,
+          "nonHispanicWhitePct": 39.11,
+          "blackPct": 42.47,
+          "asianPct": 2.59,
+          "hispanicPct": 10.41
+        }
+      },
+      "election": {
+        "winner": "Trey Paradee",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Delaware Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67329,
+        "medianAge": 40.4,
+        "totalPopulation": 53028,
+        "collegePct": 22.17,
+        "renterRatePct": 28.84,
+        "race": {
+          "whitePct": 63.18,
+          "nonHispanicWhitePct": 60.27,
+          "blackPct": 19.97,
+          "asianPct": 1.21,
+          "hispanicPct": 14.47
+        }
+      },
+      "election": {
+        "winner": "Dave Wilson",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Delaware Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74872,
+        "medianAge": 49.5,
+        "totalPopulation": 49182,
+        "collegePct": 27.37,
+        "renterRatePct": 17.51,
+        "race": {
+          "whitePct": 73.88,
+          "nonHispanicWhitePct": 67.02,
+          "blackPct": 8.82,
+          "asianPct": 0.85,
+          "hispanicPct": 17.55
+        }
+      },
+      "election": {
+        "winner": "Brian G. Pettyjohn",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Delaware Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85129,
+        "medianAge": 59.7,
+        "totalPopulation": 52616,
+        "collegePct": 38.37,
+        "renterRatePct": 12.74,
+        "race": {
+          "whitePct": 81.82,
+          "nonHispanicWhitePct": 80.7,
+          "blackPct": 6.52,
+          "asianPct": 1.04,
+          "hispanicPct": 8.03
+        }
+      },
+      "election": {
+        "winner": "Gerald W. Hocker",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Delaware Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Delaware",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63414,
+        "medianAge": 39.7,
+        "totalPopulation": 49811,
+        "collegePct": 17.71,
+        "renterRatePct": 28.22,
+        "race": {
+          "whitePct": 69.08,
+          "nonHispanicWhitePct": 66.73,
+          "blackPct": 15.96,
+          "asianPct": 0.84,
+          "hispanicPct": 11.81
+        }
+      },
+      "election": {
+        "winner": "Bryant L. Richardson",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    }
+  }
+}
