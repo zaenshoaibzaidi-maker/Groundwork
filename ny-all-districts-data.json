@@ -1,0 +1,5544 @@
+{
+  "assembly": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "New York Assembly District 1",
+      "census": {
+        "censusName": "Assembly District 1 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 124135,
+        "medianAge": 48,
+        "totalPopulation": 131582,
+        "collegePct": 50.36,
+        "renterRatePct": 17.66,
+        "race": {
+          "whitePct": 76.97,
+          "nonHispanicWhitePct": 72.35,
+          "blackPct": 2.53,
+          "asianPct": 2,
+          "hispanicPct": 19.98
+        }
+      },
+      "election": {
+        "winner": "Tommy John Schiavoni",
+        "party": "Democratic",
+        "pct": 56.39,
+        "unopposed": false
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "New York Assembly District 2",
+      "census": {
+        "censusName": "Assembly District 2 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112456,
+        "medianAge": 45.8,
+        "totalPopulation": 130544,
+        "collegePct": 36.5,
+        "renterRatePct": 16.46,
+        "race": {
+          "whitePct": 79.69,
+          "nonHispanicWhitePct": 75.64,
+          "blackPct": 5.12,
+          "asianPct": 2.25,
+          "hispanicPct": 13.98
+        }
+      },
+      "election": {
+        "winner": "Jodi A. Giglio",
+        "party": "Republican",
+        "pct": 64.62,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "New York Assembly District 3",
+      "census": {
+        "censusName": "Assembly District 3 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109250,
+        "medianAge": 38.8,
+        "totalPopulation": 134695,
+        "collegePct": 26.88,
+        "renterRatePct": 19.96,
+        "race": {
+          "whitePct": 70.89,
+          "nonHispanicWhitePct": 62.49,
+          "blackPct": 8.37,
+          "asianPct": 2.67,
+          "hispanicPct": 23.89
+        }
+      },
+      "election": {
+        "winner": "Joseph P. De Stefano",
+        "party": "Republican",
+        "pct": 60.34,
+        "unopposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "New York Assembly District 4",
+      "census": {
+        "censusName": "Assembly District 4 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 126118,
+        "medianAge": 38.2,
+        "totalPopulation": 132716,
+        "collegePct": 44.8,
+        "renterRatePct": 21.36,
+        "race": {
+          "whitePct": 66.79,
+          "nonHispanicWhitePct": 61.7,
+          "blackPct": 8.18,
+          "asianPct": 9.2,
+          "hispanicPct": 16.81
+        }
+      },
+      "election": {
+        "winner": "Rebecca A. Kassay",
+        "party": "Democratic",
+        "pct": 50.68,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "New York Assembly District 5",
+      "census": {
+        "censusName": "Assembly District 5 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 122893,
+        "medianAge": 39,
+        "totalPopulation": 137034,
+        "collegePct": 33.07,
+        "renterRatePct": 20.77,
+        "race": {
+          "whitePct": 73.68,
+          "nonHispanicWhitePct": 66.67,
+          "blackPct": 5.98,
+          "asianPct": 6.2,
+          "hispanicPct": 18.96
+        }
+      },
+      "election": {
+        "winner": "Douglas M. Smith",
+        "party": "Republican",
+        "pct": 64.54,
+        "unopposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "New York Assembly District 6",
+      "census": {
+        "censusName": "Assembly District 6 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116111,
+        "medianAge": 35.7,
+        "totalPopulation": 139568,
+        "collegePct": 19,
+        "renterRatePct": 19.98,
+        "race": {
+          "whitePct": 30.05,
+          "nonHispanicWhitePct": 17.26,
+          "blackPct": 14.45,
+          "asianPct": 4.24,
+          "hispanicPct": 63.03
+        }
+      },
+      "election": {
+        "winner": "Philip R. Ramos",
+        "party": "Democratic",
+        "pct": 65.74,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "New York Assembly District 7",
+      "census": {
+        "censusName": "Assembly District 7 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 123961,
+        "medianAge": 43.1,
+        "totalPopulation": 124081,
+        "collegePct": 42.28,
+        "renterRatePct": 22.97,
+        "race": {
+          "whitePct": 80.12,
+          "nonHispanicWhitePct": 76.06,
+          "blackPct": 3.79,
+          "asianPct": 2.6,
+          "hispanicPct": 14.57
+        }
+      },
+      "election": {
+        "winner": "Jarett C. Gandolfo",
+        "party": "Republican",
+        "pct": 63.05,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "New York Assembly District 8",
+      "census": {
+        "censusName": "Assembly District 8 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 147535,
+        "medianAge": 44.9,
+        "totalPopulation": 130867,
+        "collegePct": 50.32,
+        "renterRatePct": 11.95,
+        "race": {
+          "whitePct": 83.95,
+          "nonHispanicWhitePct": 79.24,
+          "blackPct": 1.43,
+          "asianPct": 5.15,
+          "hispanicPct": 11.44
+        }
+      },
+      "election": {
+        "winner": "Michael J. Fitzpatrick",
+        "party": "Republican",
+        "pct": 66.03,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "New York Assembly District 9",
+      "census": {
+        "censusName": "Assembly District 9 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 149769,
+        "medianAge": 42.1,
+        "totalPopulation": 128682,
+        "collegePct": 44.17,
+        "renterRatePct": 12.5,
+        "race": {
+          "whitePct": 81.63,
+          "nonHispanicWhitePct": 77.7,
+          "blackPct": 3.39,
+          "asianPct": 1.92,
+          "hispanicPct": 14.15
+        }
+      },
+      "election": {
+        "winner": "Michael A. Durso",
+        "party": "Republican",
+        "pct": 67.5,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "New York Assembly District 10",
+      "census": {
+        "censusName": "Assembly District 10 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 164403,
+        "medianAge": 45.1,
+        "totalPopulation": 128929,
+        "collegePct": 55.99,
+        "renterRatePct": 13.54,
+        "race": {
+          "whitePct": 70,
+          "nonHispanicWhitePct": 66.56,
+          "blackPct": 5.95,
+          "asianPct": 8.16,
+          "hispanicPct": 15.34
+        }
+      },
+      "election": {
+        "winner": "Steve Stern",
+        "party": "Democratic",
+        "pct": 55.96,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "New York Assembly District 11",
+      "census": {
+        "censusName": "Assembly District 11 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 117888,
+        "medianAge": 38.8,
+        "totalPopulation": 138094,
+        "collegePct": 29.95,
+        "renterRatePct": 23.57,
+        "race": {
+          "whitePct": 46.55,
+          "nonHispanicWhitePct": 42.02,
+          "blackPct": 22.71,
+          "asianPct": 2.98,
+          "hispanicPct": 29.87
+        }
+      },
+      "election": {
+        "winner": "Kwani B. O'Pharrow",
+        "party": "Democratic",
+        "pct": 50.85,
+        "unopposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "New York Assembly District 12",
+      "census": {
+        "censusName": "Assembly District 12 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 153752,
+        "medianAge": 44.9,
+        "totalPopulation": 126492,
+        "collegePct": 51.2,
+        "renterRatePct": 10.91,
+        "race": {
+          "whitePct": 75.9,
+          "nonHispanicWhitePct": 71.79,
+          "blackPct": 4.77,
+          "asianPct": 4.66,
+          "hispanicPct": 14.76
+        }
+      },
+      "election": {
+        "winner": "Keith Brown",
+        "party": "Republican",
+        "pct": 57.12,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "New York Assembly District 13",
+      "census": {
+        "censusName": "Assembly District 13 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 138734,
+        "medianAge": 42.3,
+        "totalPopulation": 128507,
+        "collegePct": 50.6,
+        "renterRatePct": 25.22,
+        "race": {
+          "whitePct": 55.98,
+          "nonHispanicWhitePct": 50.83,
+          "blackPct": 7.72,
+          "asianPct": 14.57,
+          "hispanicPct": 23.85
+        }
+      },
+      "election": {
+        "winner": "Charles D. Lavine",
+        "party": "Democratic",
+        "pct": 55.04,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "New York Assembly District 14",
+      "census": {
+        "censusName": "Assembly District 14 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 166319,
+        "medianAge": 41.7,
+        "totalPopulation": 132952,
+        "collegePct": 51.71,
+        "renterRatePct": 5.89,
+        "race": {
+          "whitePct": 82.64,
+          "nonHispanicWhitePct": 79.19,
+          "blackPct": 2.33,
+          "asianPct": 4.09,
+          "hispanicPct": 11.36
+        }
+      },
+      "election": {
+        "winner": "David G. McDonough",
+        "party": "Republican",
+        "pct": 64.02,
+        "unopposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "New York Assembly District 15",
+      "census": {
+        "censusName": "Assembly District 15 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 157110,
+        "medianAge": 44.3,
+        "totalPopulation": 133813,
+        "collegePct": 57.5,
+        "renterRatePct": 13.61,
+        "race": {
+          "whitePct": 67.33,
+          "nonHispanicWhitePct": 63.71,
+          "blackPct": 1.29,
+          "asianPct": 20.22,
+          "hispanicPct": 12.05
+        }
+      },
+      "election": {
+        "winner": "Jacob Ryan Blumencranz",
+        "party": "Republican",
+        "pct": 58.04,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "New York Assembly District 16",
+      "census": {
+        "censusName": "Assembly District 16 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 164857,
+        "medianAge": 44.3,
+        "totalPopulation": 137751,
+        "collegePct": 66.88,
+        "renterRatePct": 19.1,
+        "race": {
+          "whitePct": 61.13,
+          "nonHispanicWhitePct": 58.27,
+          "blackPct": 2.01,
+          "asianPct": 25.52,
+          "hispanicPct": 10.71
+        }
+      },
+      "election": {
+        "winner": "Daniel J. Norber",
+        "party": "Republican",
+        "pct": 50.54,
+        "unopposed": false
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "New York Assembly District 17",
+      "census": {
+        "censusName": "Assembly District 17 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 142992,
+        "medianAge": 43.2,
+        "totalPopulation": 128146,
+        "collegePct": 42.7,
+        "renterRatePct": 7.49,
+        "race": {
+          "whitePct": 74.85,
+          "nonHispanicWhitePct": 71.24,
+          "blackPct": 2.11,
+          "asianPct": 10.67,
+          "hispanicPct": 13.7
+        }
+      },
+      "election": {
+        "winner": "John K. Mikulin",
+        "party": "Republican",
+        "pct": 65.34,
+        "unopposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "New York Assembly District 18",
+      "census": {
+        "censusName": "Assembly District 18 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103486,
+        "medianAge": 35.9,
+        "totalPopulation": 137539,
+        "collegePct": 22.98,
+        "renterRatePct": 38.54,
+        "race": {
+          "whitePct": 12.72,
+          "nonHispanicWhitePct": 5.82,
+          "blackPct": 45.99,
+          "asianPct": 2.15,
+          "hispanicPct": 43.51
+        }
+      },
+      "election": {
+        "winner": "Noah Burroughs",
+        "party": "Democratic",
+        "pct": 82.12,
+        "unopposed": false
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "New York Assembly District 19",
+      "census": {
+        "censusName": "Assembly District 19 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 157695,
+        "medianAge": 41.6,
+        "totalPopulation": 135042,
+        "collegePct": 54.58,
+        "renterRatePct": 17.07,
+        "race": {
+          "whitePct": 67.54,
+          "nonHispanicWhitePct": 64.22,
+          "blackPct": 3.11,
+          "asianPct": 14.63,
+          "hispanicPct": 14.04
+        }
+      },
+      "election": {
+        "winner": "Edward P. Ra",
+        "party": "Republican",
+        "pct": 64.37,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "New York Assembly District 20",
+      "census": {
+        "censusName": "Assembly District 20 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 134226,
+        "medianAge": 41.1,
+        "totalPopulation": 129882,
+        "collegePct": 50.65,
+        "renterRatePct": 25.4,
+        "race": {
+          "whitePct": 76.95,
+          "nonHispanicWhitePct": 73.13,
+          "blackPct": 4.53,
+          "asianPct": 3.78,
+          "hispanicPct": 15.89
+        }
+      },
+      "election": {
+        "winner": "Eric G. Brown",
+        "party": "Republican",
+        "pct": 62.64,
+        "unopposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "New York Assembly District 21",
+      "census": {
+        "censusName": "Assembly District 21 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 136315,
+        "medianAge": 42.3,
+        "totalPopulation": 138125,
+        "collegePct": 45.93,
+        "renterRatePct": 20.72,
+        "race": {
+          "whitePct": 54.09,
+          "nonHispanicWhitePct": 49.99,
+          "blackPct": 19.04,
+          "asianPct": 5.25,
+          "hispanicPct": 21.89
+        }
+      },
+      "election": {
+        "winner": "Judy A. Griffin",
+        "party": "Democratic",
+        "pct": 49.08,
+        "unopposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "New York Assembly District 22",
+      "census": {
+        "censusName": "Assembly District 22 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 137056,
+        "medianAge": 41.1,
+        "totalPopulation": 128777,
+        "collegePct": 40.36,
+        "renterRatePct": 15.85,
+        "race": {
+          "whitePct": 33.01,
+          "nonHispanicWhitePct": 29.18,
+          "blackPct": 26.74,
+          "asianPct": 17.18,
+          "hispanicPct": 21.43
+        }
+      },
+      "election": {
+        "winner": "Michaelle C. Solages",
+        "party": "Democratic",
+        "pct": 62.21,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "New York Assembly District 23",
+      "census": {
+        "censusName": "Assembly District 23 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84299,
+        "medianAge": 42.1,
+        "totalPopulation": 142342,
+        "collegePct": 33.21,
+        "renterRatePct": 46.68,
+        "race": {
+          "whitePct": 51.82,
+          "nonHispanicWhitePct": 46.52,
+          "blackPct": 16.44,
+          "asianPct": 9.67,
+          "hispanicPct": 24.18
+        }
+      },
+      "election": {
+        "winner": "Stacey G. Pheffer Amato",
+        "party": "Democratic",
+        "pct": 51.67,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "New York Assembly District 24",
+      "census": {
+        "censusName": "Assembly District 24 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88490,
+        "medianAge": 42.6,
+        "totalPopulation": 132079,
+        "collegePct": 35.02,
+        "renterRatePct": 42.48,
+        "race": {
+          "whitePct": 20.87,
+          "nonHispanicWhitePct": 18.23,
+          "blackPct": 13.21,
+          "asianPct": 32.97,
+          "hispanicPct": 22.98
+        }
+      },
+      "election": {
+        "winner": "David I. Weprin",
+        "party": "Democratic",
+        "pct": 61.3,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "New York Assembly District 25",
+      "census": {
+        "censusName": "Assembly District 25 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84489,
+        "medianAge": 43.5,
+        "totalPopulation": 118455,
+        "collegePct": 41.1,
+        "renterRatePct": 45.31,
+        "race": {
+          "whitePct": 23.25,
+          "nonHispanicWhitePct": 21.22,
+          "blackPct": 6.13,
+          "asianPct": 56.79,
+          "hispanicPct": 12.83
+        }
+      },
+      "election": {
+        "winner": "Nily D. Rozic",
+        "party": "Democratic",
+        "pct": 53.13,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "New York Assembly District 26",
+      "census": {
+        "censusName": "Assembly District 26 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107097,
+        "medianAge": 47.7,
+        "totalPopulation": 129729,
+        "collegePct": 47.77,
+        "renterRatePct": 30.29,
+        "race": {
+          "whitePct": 43.63,
+          "nonHispanicWhitePct": 40.3,
+          "blackPct": 2.72,
+          "asianPct": 39.44,
+          "hispanicPct": 14.16
+        }
+      },
+      "election": {
+        "winner": "Edward C. Braunstein",
+        "party": "Democratic",
+        "pct": 67.96,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "New York Assembly District 27",
+      "census": {
+        "censusName": "Assembly District 27 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85741,
+        "medianAge": 41.1,
+        "totalPopulation": 123837,
+        "collegePct": 37.34,
+        "renterRatePct": 49.39,
+        "race": {
+          "whitePct": 39.5,
+          "nonHispanicWhitePct": 36.52,
+          "blackPct": 6.79,
+          "asianPct": 26.39,
+          "hispanicPct": 26.51
+        }
+      },
+      "election": {
+        "winner": "Sam Berger",
+        "party": "Democratic",
+        "pct": 57.42,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "New York Assembly District 28",
+      "census": {
+        "censusName": "Assembly District 28 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100226,
+        "medianAge": 43,
+        "totalPopulation": 139282,
+        "collegePct": 53.23,
+        "renterRatePct": 50.34,
+        "race": {
+          "whitePct": 54.87,
+          "nonHispanicWhitePct": 49.32,
+          "blackPct": 3.96,
+          "asianPct": 19.62,
+          "hispanicPct": 22.24
+        }
+      },
+      "election": {
+        "winner": "Andrew D. Hevesi",
+        "party": "Democratic",
+        "pct": 58.78,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "New York Assembly District 29",
+      "census": {
+        "censusName": "Assembly District 29 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89326,
+        "medianAge": 40.4,
+        "totalPopulation": 136119,
+        "collegePct": 28.86,
+        "renterRatePct": 42.79,
+        "race": {
+          "whitePct": 3.59,
+          "nonHispanicWhitePct": 2.79,
+          "blackPct": 61.88,
+          "asianPct": 15.89,
+          "hispanicPct": 11.97
+        }
+      },
+      "election": {
+        "winner": "Alicia L. Hyndman",
+        "party": "Democratic",
+        "pct": 86.05,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "New York Assembly District 30",
+      "census": {
+        "censusName": "Assembly District 30 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75318,
+        "medianAge": 41.1,
+        "totalPopulation": 127763,
+        "collegePct": 32.78,
+        "renterRatePct": 64.69,
+        "race": {
+          "whitePct": 26.97,
+          "nonHispanicWhitePct": 20.42,
+          "blackPct": 1.55,
+          "asianPct": 44.89,
+          "hispanicPct": 30.86
+        }
+      },
+      "election": {
+        "winner": "Steven B. Raga",
+        "party": "Democratic",
+        "pct": 60.55,
+        "unopposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "New York Assembly District 31",
+      "census": {
+        "censusName": "Assembly District 31 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83738,
+        "medianAge": 37.1,
+        "totalPopulation": 138592,
+        "collegePct": 20.81,
+        "renterRatePct": 46.78,
+        "race": {
+          "whitePct": 7.8,
+          "nonHispanicWhitePct": 4.47,
+          "blackPct": 46.84,
+          "asianPct": 15.52,
+          "hispanicPct": 21.94
+        }
+      },
+      "election": {
+        "winner": "Khaleel M. Anderson",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "New York Assembly District 32",
+      "census": {
+        "censusName": "Assembly District 32 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72843,
+        "medianAge": 38.2,
+        "totalPopulation": 133655,
+        "collegePct": 21.4,
+        "renterRatePct": 58.51,
+        "race": {
+          "whitePct": 4.15,
+          "nonHispanicWhitePct": 2.57,
+          "blackPct": 56.01,
+          "asianPct": 12.89,
+          "hispanicPct": 19.95
+        }
+      },
+      "election": {
+        "winner": "Vivian E. Cook",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "New York Assembly District 33",
+      "census": {
+        "censusName": "Assembly District 33 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101485,
+        "medianAge": 43.7,
+        "totalPopulation": 134978,
+        "collegePct": 30.69,
+        "renterRatePct": 24.91,
+        "race": {
+          "whitePct": 7.3,
+          "nonHispanicWhitePct": 5.96,
+          "blackPct": 50.54,
+          "asianPct": 21.84,
+          "hispanicPct": 13.95
+        }
+      },
+      "election": {
+        "winner": "Clyde Vanel",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "New York Assembly District 34",
+      "census": {
+        "censusName": "Assembly District 34 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81164,
+        "medianAge": 37.8,
+        "totalPopulation": 130864,
+        "collegePct": 33.69,
+        "renterRatePct": 69.09,
+        "race": {
+          "whitePct": 36.75,
+          "nonHispanicWhitePct": 27.26,
+          "blackPct": 3.6,
+          "asianPct": 15.76,
+          "hispanicPct": 51.02
+        }
+      },
+      "election": {
+        "winner": "Jessica Gonzalez-Rojas",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "New York Assembly District 35",
+      "census": {
+        "censusName": "Assembly District 35 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75629,
+        "medianAge": 39,
+        "totalPopulation": 113649,
+        "collegePct": 24.98,
+        "renterRatePct": 63.9,
+        "race": {
+          "whitePct": 21.02,
+          "nonHispanicWhitePct": 13.28,
+          "blackPct": 13.36,
+          "asianPct": 18.39,
+          "hispanicPct": 53.62
+        }
+      },
+      "election": {
+        "winner": "Larinda C. Hooks",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "New York Assembly District 36",
+      "census": {
+        "censusName": "Assembly District 36 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94667,
+        "medianAge": 35.7,
+        "totalPopulation": 121852,
+        "collegePct": 55.84,
+        "renterRatePct": 84.28,
+        "race": {
+          "whitePct": 48.03,
+          "nonHispanicWhitePct": 43.02,
+          "blackPct": 7.72,
+          "asianPct": 19.71,
+          "hispanicPct": 25.06
+        }
+      },
+      "election": {
+        "winner": "Zohran Kwame Mamdani",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "New York Assembly District 37",
+      "census": {
+        "censusName": "Assembly District 37 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91343,
+        "medianAge": 37.6,
+        "totalPopulation": 138373,
+        "collegePct": 46.36,
+        "renterRatePct": 72.91,
+        "race": {
+          "whitePct": 49.68,
+          "nonHispanicWhitePct": 41.5,
+          "blackPct": 2.71,
+          "asianPct": 19.25,
+          "hispanicPct": 33.15
+        }
+      },
+      "election": {
+        "winner": "Claire Valdez",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "New York Assembly District 38",
+      "census": {
+        "censusName": "Assembly District 38 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90016,
+        "medianAge": 37,
+        "totalPopulation": 128989,
+        "collegePct": 28.05,
+        "renterRatePct": 56.96,
+        "race": {
+          "whitePct": 29.67,
+          "nonHispanicWhitePct": 20.71,
+          "blackPct": 5.34,
+          "asianPct": 18.63,
+          "hispanicPct": 50.06
+        }
+      },
+      "election": {
+        "winner": "Jenifer Rajkumar",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "New York Assembly District 39",
+      "census": {
+        "censusName": "Assembly District 39 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73159,
+        "medianAge": 38.9,
+        "totalPopulation": 123887,
+        "collegePct": 28.91,
+        "renterRatePct": 70.27,
+        "race": {
+          "whitePct": 22.39,
+          "nonHispanicWhitePct": 14.28,
+          "blackPct": 2.13,
+          "asianPct": 25.28,
+          "hispanicPct": 57.12
+        }
+      },
+      "election": {
+        "winner": "Catalina Cruz",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "New York Assembly District 40",
+      "census": {
+        "censusName": "Assembly District 40 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60741,
+        "medianAge": 47.9,
+        "totalPopulation": 115679,
+        "collegePct": 28.59,
+        "renterRatePct": 61.8,
+        "race": {
+          "whitePct": 16.29,
+          "nonHispanicWhitePct": 14.09,
+          "blackPct": 2.44,
+          "asianPct": 66.13,
+          "hispanicPct": 14.57
+        }
+      },
+      "election": {
+        "winner": "Ron Kim",
+        "party": "Democratic",
+        "pct": 55.49,
+        "unopposed": false
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "New York Assembly District 41",
+      "census": {
+        "censusName": "Assembly District 41 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76089,
+        "medianAge": 43.4,
+        "totalPopulation": 134160,
+        "collegePct": 41.08,
+        "renterRatePct": 48.78,
+        "race": {
+          "whitePct": 50.68,
+          "nonHispanicWhitePct": 48.99,
+          "blackPct": 22.71,
+          "asianPct": 16.16,
+          "hispanicPct": 8.19
+        }
+      },
+      "election": {
+        "winner": "Kalman Yeger",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "New York Assembly District 42",
+      "census": {
+        "censusName": "Assembly District 42 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78881,
+        "medianAge": 37.1,
+        "totalPopulation": 125258,
+        "collegePct": 37.88,
+        "renterRatePct": 78.22,
+        "race": {
+          "whitePct": 21.08,
+          "nonHispanicWhitePct": 19.98,
+          "blackPct": 54.76,
+          "asianPct": 5.34,
+          "hispanicPct": 14.23
+        }
+      },
+      "election": {
+        "winner": "Rodneyse Bichotte",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "New York Assembly District 43",
+      "census": {
+        "censusName": "Assembly District 43 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77221,
+        "medianAge": 36.5,
+        "totalPopulation": 139427,
+        "collegePct": 39.97,
+        "renterRatePct": 80.83,
+        "race": {
+          "whitePct": 26.8,
+          "nonHispanicWhitePct": 25.25,
+          "blackPct": 56.52,
+          "asianPct": 2.93,
+          "hispanicPct": 11.33
+        }
+      },
+      "election": {
+        "winner": "Brian A. Cunningham",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "New York Assembly District 44",
+      "census": {
+        "censusName": "Assembly District 44 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 122985,
+        "medianAge": 37.6,
+        "totalPopulation": 136908,
+        "collegePct": 64.67,
+        "renterRatePct": 63.01,
+        "race": {
+          "whitePct": 58.96,
+          "nonHispanicWhitePct": 55.08,
+          "blackPct": 8.42,
+          "asianPct": 16.06,
+          "hispanicPct": 14.75
+        }
+      },
+      "election": {
+        "winner": "Robert C. Carroll",
+        "party": "Democratic",
+        "pct": 85.34,
+        "unopposed": false
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "New York Assembly District 45",
+      "census": {
+        "censusName": "Assembly District 45 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67151,
+        "medianAge": 39.8,
+        "totalPopulation": 123688,
+        "collegePct": 44.16,
+        "renterRatePct": 65.63,
+        "race": {
+          "whitePct": 66.16,
+          "nonHispanicWhitePct": 64.48,
+          "blackPct": 3.89,
+          "asianPct": 15.74,
+          "hispanicPct": 11.1
+        }
+      },
+      "election": {
+        "winner": "Michael Novakhov",
+        "party": "Republican",
+        "pct": 50.38,
+        "unopposed": false
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "New York Assembly District 46",
+      "census": {
+        "censusName": "Assembly District 46 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62114,
+        "medianAge": 44.2,
+        "totalPopulation": 137472,
+        "collegePct": 44.3,
+        "renterRatePct": 66.42,
+        "race": {
+          "whitePct": 59.33,
+          "nonHispanicWhitePct": 56.53,
+          "blackPct": 10.12,
+          "asianPct": 13.23,
+          "hispanicPct": 16.77
+        }
+      },
+      "election": {
+        "winner": "Alec Brook-Krasny",
+        "party": "Republican",
+        "pct": 51.84,
+        "unopposed": false
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "New York Assembly District 47",
+      "census": {
+        "censusName": "Assembly District 47 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68230,
+        "medianAge": 40.4,
+        "totalPopulation": 130235,
+        "collegePct": 33.41,
+        "renterRatePct": 65.02,
+        "race": {
+          "whitePct": 40.38,
+          "nonHispanicWhitePct": 38.41,
+          "blackPct": 2.65,
+          "asianPct": 39.49,
+          "hispanicPct": 15.37
+        }
+      },
+      "election": {
+        "winner": "William Colton",
+        "party": "Democratic",
+        "pct": 60.77,
+        "unopposed": false
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "New York Assembly District 48",
+      "census": {
+        "censusName": "Assembly District 48 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58755,
+        "medianAge": 24.6,
+        "totalPopulation": 129542,
+        "collegePct": 30.67,
+        "renterRatePct": 68.93,
+        "race": {
+          "whitePct": 76.36,
+          "nonHispanicWhitePct": 75.31,
+          "blackPct": 2.2,
+          "asianPct": 8.44,
+          "hispanicPct": 9.26
+        }
+      },
+      "election": {
+        "winner": "Simcha Eichenstein",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "New York Assembly District 49",
+      "census": {
+        "censusName": "Assembly District 49 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64834,
+        "medianAge": 39.8,
+        "totalPopulation": 118066,
+        "collegePct": 25.58,
+        "renterRatePct": 65.33,
+        "race": {
+          "whitePct": 30.34,
+          "nonHispanicWhitePct": 27.76,
+          "blackPct": 1.86,
+          "asianPct": 51.9,
+          "hispanicPct": 16.9
+        }
+      },
+      "election": {
+        "winner": "Lester Chang",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "New York Assembly District 50",
+      "census": {
+        "censusName": "Assembly District 50 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 121768,
+        "medianAge": 31.4,
+        "totalPopulation": 140266,
+        "collegePct": 60.83,
+        "renterRatePct": 82.07,
+        "race": {
+          "whitePct": 73.13,
+          "nonHispanicWhitePct": 69.6,
+          "blackPct": 4.99,
+          "asianPct": 5.79,
+          "hispanicPct": 14.69
+        }
+      },
+      "election": {
+        "winner": "Emily E. Gallagher",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "New York Assembly District 51",
+      "census": {
+        "censusName": "Assembly District 51 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75923,
+        "medianAge": 36.3,
+        "totalPopulation": 122133,
+        "collegePct": 34.53,
+        "renterRatePct": 73.87,
+        "race": {
+          "whitePct": 33.74,
+          "nonHispanicWhitePct": 25.5,
+          "blackPct": 7.55,
+          "asianPct": 20.48,
+          "hispanicPct": 44.73
+        }
+      },
+      "election": {
+        "winner": "Marcela Mitaynes",
+        "party": "Democratic",
+        "pct": 77.05,
+        "unopposed": false
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "New York Assembly District 52",
+      "census": {
+        "censusName": "Assembly District 52 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 181227,
+        "medianAge": 36.3,
+        "totalPopulation": 143833,
+        "collegePct": 80.69,
+        "renterRatePct": 61.85,
+        "race": {
+          "whitePct": 67.01,
+          "nonHispanicWhitePct": 64.32,
+          "blackPct": 8.42,
+          "asianPct": 9.63,
+          "hispanicPct": 11.09
+        }
+      },
+      "election": {
+        "winner": "Jo Anne Simon",
+        "party": "Democratic",
+        "pct": 94.14,
+        "unopposed": false
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "New York Assembly District 53",
+      "census": {
+        "censusName": "Assembly District 53 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79684,
+        "medianAge": 32.4,
+        "totalPopulation": 128223,
+        "collegePct": 42.64,
+        "renterRatePct": 87.82,
+        "race": {
+          "whitePct": 36.59,
+          "nonHispanicWhitePct": 30.78,
+          "blackPct": 14.31,
+          "asianPct": 7.91,
+          "hispanicPct": 47.69
+        }
+      },
+      "election": {
+        "winner": "Maritza Davila",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "New York Assembly District 54",
+      "census": {
+        "censusName": "Assembly District 54 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67516,
+        "medianAge": 34.9,
+        "totalPopulation": 123775,
+        "collegePct": 22.78,
+        "renterRatePct": 73.38,
+        "race": {
+          "whitePct": 18.12,
+          "nonHispanicWhitePct": 8.37,
+          "blackPct": 29.6,
+          "asianPct": 8.1,
+          "hispanicPct": 51.65
+        }
+      },
+      "election": {
+        "winner": "Erik Martin Dilan",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "New York Assembly District 55",
+      "census": {
+        "censusName": "Assembly District 55 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46895,
+        "medianAge": 34.7,
+        "totalPopulation": 133842,
+        "collegePct": 22.54,
+        "renterRatePct": 83.37,
+        "race": {
+          "whitePct": 9.77,
+          "nonHispanicWhitePct": 6.6,
+          "blackPct": 67.76,
+          "asianPct": 1.57,
+          "hispanicPct": 21.63
+        }
+      },
+      "election": {
+        "winner": "Latrice Walker",
+        "party": "Democratic",
+        "pct": 91.69,
+        "unopposed": false
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "New York Assembly District 56",
+      "census": {
+        "censusName": "Assembly District 56 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73201,
+        "medianAge": 34.5,
+        "totalPopulation": 142568,
+        "collegePct": 41.89,
+        "renterRatePct": 79.59,
+        "race": {
+          "whitePct": 21.97,
+          "nonHispanicWhitePct": 19.29,
+          "blackPct": 52.9,
+          "asianPct": 3.97,
+          "hispanicPct": 20.46
+        }
+      },
+      "election": {
+        "winner": "Stefani L. Zinerman",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "New York Assembly District 57",
+      "census": {
+        "censusName": "Assembly District 57 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102797,
+        "medianAge": 33.5,
+        "totalPopulation": 139478,
+        "collegePct": 58.36,
+        "renterRatePct": 77.05,
+        "race": {
+          "whitePct": 42.18,
+          "nonHispanicWhitePct": 39.82,
+          "blackPct": 33.1,
+          "asianPct": 7.49,
+          "hispanicPct": 14.35
+        }
+      },
+      "election": {
+        "winner": "Phara Souffrant Forrest",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "New York Assembly District 58",
+      "census": {
+        "censusName": "Assembly District 58 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69915,
+        "medianAge": 41.3,
+        "totalPopulation": 123000,
+        "collegePct": 25.6,
+        "renterRatePct": 61.84,
+        "race": {
+          "whitePct": 4.16,
+          "nonHispanicWhitePct": 3.57,
+          "blackPct": 79.38,
+          "asianPct": 1.92,
+          "hispanicPct": 7.63
+        }
+      },
+      "election": {
+        "winner": "Monique Chandler-Waterman",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "New York Assembly District 59",
+      "census": {
+        "censusName": "Assembly District 59 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90319,
+        "medianAge": 41.4,
+        "totalPopulation": 120193,
+        "collegePct": 34.37,
+        "renterRatePct": 39.18,
+        "race": {
+          "whitePct": 27.63,
+          "nonHispanicWhitePct": 26.04,
+          "blackPct": 55.08,
+          "asianPct": 5.71,
+          "hispanicPct": 8.67
+        }
+      },
+      "election": {
+        "winner": "Jaime R. Williams",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "New York Assembly District 60",
+      "census": {
+        "censusName": "Assembly District 60 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50263,
+        "medianAge": 37,
+        "totalPopulation": 127499,
+        "collegePct": 17.63,
+        "renterRatePct": 76.81,
+        "race": {
+          "whitePct": 6.31,
+          "nonHispanicWhitePct": 3.28,
+          "blackPct": 70.84,
+          "asianPct": 3.45,
+          "hispanicPct": 20.75
+        }
+      },
+      "election": {
+        "winner": "Nikki Lucas",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "New York Assembly District 61",
+      "census": {
+        "censusName": "Assembly District 61 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99629,
+        "medianAge": 36.1,
+        "totalPopulation": 130673,
+        "collegePct": 42.26,
+        "renterRatePct": 56.57,
+        "race": {
+          "whitePct": 42.1,
+          "nonHispanicWhitePct": 33.86,
+          "blackPct": 24.2,
+          "asianPct": 10.95,
+          "hispanicPct": 29.41
+        }
+      },
+      "election": {
+        "winner": "Charles D. Fall",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "New York Assembly District 62",
+      "census": {
+        "censusName": "Assembly District 62 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119260,
+        "medianAge": 41.9,
+        "totalPopulation": 137364,
+        "collegePct": 40.7,
+        "renterRatePct": 18.57,
+        "race": {
+          "whitePct": 82.67,
+          "nonHispanicWhitePct": 78.06,
+          "blackPct": 0.76,
+          "asianPct": 7.42,
+          "hispanicPct": 11.4
+        }
+      },
+      "election": {
+        "winner": "Michael W. Reilly, Jr",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "New York Assembly District 63",
+      "census": {
+        "censusName": "Assembly District 63 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97083,
+        "medianAge": 40.8,
+        "totalPopulation": 137877,
+        "collegePct": 35.84,
+        "renterRatePct": 31.88,
+        "race": {
+          "whitePct": 58.14,
+          "nonHispanicWhitePct": 52.17,
+          "blackPct": 10.03,
+          "asianPct": 15.83,
+          "hispanicPct": 19.49
+        }
+      },
+      "election": {
+        "winner": "Sam T. Pirozzolo",
+        "party": "Republican",
+        "pct": 57.58,
+        "unopposed": false
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "New York Assembly District 64",
+      "census": {
+        "censusName": "Assembly District 64 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95113,
+        "medianAge": 42.4,
+        "totalPopulation": 137751,
+        "collegePct": 37.13,
+        "renterRatePct": 37.62,
+        "race": {
+          "whitePct": 67.74,
+          "nonHispanicWhitePct": 62.48,
+          "blackPct": 2.95,
+          "asianPct": 16.44,
+          "hispanicPct": 16.19
+        }
+      },
+      "election": {
+        "winner": "Michael Tannousis",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "New York Assembly District 65",
+      "census": {
+        "censusName": "Assembly District 65 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71715,
+        "medianAge": 39.6,
+        "totalPopulation": 128757,
+        "collegePct": 49.16,
+        "renterRatePct": 81.51,
+        "race": {
+          "whitePct": 38.86,
+          "nonHispanicWhitePct": 35.27,
+          "blackPct": 8.46,
+          "asianPct": 33.36,
+          "hispanicPct": 19.29
+        }
+      },
+      "election": {
+        "winner": "Grace Lee",
+        "party": "Democratic",
+        "pct": 76.17,
+        "unopposed": false
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "New York Assembly District 66",
+      "census": {
+        "censusName": "Assembly District 66 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 166250,
+        "medianAge": 36,
+        "totalPopulation": 132335,
+        "collegePct": 84.35,
+        "renterRatePct": 67.31,
+        "race": {
+          "whitePct": 72.44,
+          "nonHispanicWhitePct": 68.38,
+          "blackPct": 3.71,
+          "asianPct": 13.77,
+          "hispanicPct": 10.24
+        }
+      },
+      "election": {
+        "winner": "Deborah J. Glick",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "New York Assembly District 67",
+      "census": {
+        "censusName": "Assembly District 67 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 146547,
+        "medianAge": 41.9,
+        "totalPopulation": 133284,
+        "collegePct": 81.44,
+        "renterRatePct": 67.55,
+        "race": {
+          "whitePct": 66.64,
+          "nonHispanicWhitePct": 63.85,
+          "blackPct": 4.8,
+          "asianPct": 14.63,
+          "hispanicPct": 12.46
+        }
+      },
+      "election": {
+        "winner": "Linda B. Rosenthal",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "New York Assembly District 68",
+      "census": {
+        "censusName": "Assembly District 68 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48685,
+        "medianAge": 37.9,
+        "totalPopulation": 139227,
+        "collegePct": 39.5,
+        "renterRatePct": 88.31,
+        "race": {
+          "whitePct": 26.57,
+          "nonHispanicWhitePct": 20.19,
+          "blackPct": 31.04,
+          "asianPct": 9.77,
+          "hispanicPct": 38.17
+        }
+      },
+      "election": {
+        "winner": "Edward Gibbs",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "New York Assembly District 69",
+      "census": {
+        "censusName": "Assembly District 69 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115690,
+        "medianAge": 38.8,
+        "totalPopulation": 138226,
+        "collegePct": 71.36,
+        "renterRatePct": 70.23,
+        "race": {
+          "whitePct": 59.79,
+          "nonHispanicWhitePct": 56.24,
+          "blackPct": 10.26,
+          "asianPct": 10.65,
+          "hispanicPct": 19.53
+        }
+      },
+      "election": {
+        "winner": "Micah C. Lasher",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "New York Assembly District 70",
+      "census": {
+        "censusName": "Assembly District 70 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59280,
+        "medianAge": 37.2,
+        "totalPopulation": 143268,
+        "collegePct": 45.48,
+        "renterRatePct": 84.93,
+        "race": {
+          "whitePct": 21.42,
+          "nonHispanicWhitePct": 18.08,
+          "blackPct": 48.28,
+          "asianPct": 5.64,
+          "hispanicPct": 26.68
+        }
+      },
+      "election": {
+        "winner": "Jordan J.G. Wright",
+        "party": "Democratic",
+        "pct": 91.24,
+        "unopposed": false
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "New York Assembly District 71",
+      "census": {
+        "censusName": "Assembly District 71 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68189,
+        "medianAge": 38.3,
+        "totalPopulation": 139671,
+        "collegePct": 43.94,
+        "renterRatePct": 83.79,
+        "race": {
+          "whitePct": 26.42,
+          "nonHispanicWhitePct": 22.52,
+          "blackPct": 27.11,
+          "asianPct": 4.32,
+          "hispanicPct": 43.43
+        }
+      },
+      "election": {
+        "winner": "Al Taylor",
+        "party": "Democratic",
+        "pct": 86.89,
+        "unopposed": false
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "New York Assembly District 72",
+      "census": {
+        "censusName": "Assembly District 72 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58306,
+        "medianAge": 38.3,
+        "totalPopulation": 134907,
+        "collegePct": 31.72,
+        "renterRatePct": 92.1,
+        "race": {
+          "whitePct": 21.19,
+          "nonHispanicWhitePct": 14.11,
+          "blackPct": 11.24,
+          "asianPct": 2.19,
+          "hispanicPct": 74.16
+        }
+      },
+      "election": {
+        "winner": "Manny De Los Santos",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "New York Assembly District 73",
+      "census": {
+        "censusName": "Assembly District 73 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 172536,
+        "medianAge": 43.6,
+        "totalPopulation": 126818,
+        "collegePct": 84.29,
+        "renterRatePct": 55.43,
+        "race": {
+          "whitePct": 75.82,
+          "nonHispanicWhitePct": 72.58,
+          "blackPct": 2.22,
+          "asianPct": 12.12,
+          "hispanicPct": 8.34
+        }
+      },
+      "election": {
+        "winner": "Alex Bores",
+        "party": "Democratic",
+        "pct": 73.41,
+        "unopposed": false
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "New York Assembly District 74",
+      "census": {
+        "censusName": "Assembly District 74 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 123877,
+        "medianAge": 36.9,
+        "totalPopulation": 129832,
+        "collegePct": 74.25,
+        "renterRatePct": 77.43,
+        "race": {
+          "whitePct": 61.32,
+          "nonHispanicWhitePct": 57.46,
+          "blackPct": 7.46,
+          "asianPct": 15.5,
+          "hispanicPct": 15.57
+        }
+      },
+      "election": {
+        "winner": "Harvey D. Epstein",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "New York Assembly District 75",
+      "census": {
+        "censusName": "Assembly District 75 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131143,
+        "medianAge": 39.6,
+        "totalPopulation": 126784,
+        "collegePct": 75.24,
+        "renterRatePct": 75.74,
+        "race": {
+          "whitePct": 60.93,
+          "nonHispanicWhitePct": 56.79,
+          "blackPct": 7.22,
+          "asianPct": 15.65,
+          "hispanicPct": 15.16
+        }
+      },
+      "election": {
+        "winner": "Tony Simone",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "New York Assembly District 76",
+      "census": {
+        "censusName": "Assembly District 76 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 145031,
+        "medianAge": 40,
+        "totalPopulation": 130488,
+        "collegePct": 81.58,
+        "renterRatePct": 68.31,
+        "race": {
+          "whitePct": 77.4,
+          "nonHispanicWhitePct": 74.29,
+          "blackPct": 2.66,
+          "asianPct": 11.55,
+          "hispanicPct": 7.52
+        }
+      },
+      "election": {
+        "winner": "Rebecca A. Seawright",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "New York Assembly District 77",
+      "census": {
+        "censusName": "Assembly District 77 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 39237,
+        "medianAge": 34.3,
+        "totalPopulation": 132324,
+        "collegePct": 14.82,
+        "renterRatePct": 93.6,
+        "race": {
+          "whitePct": 11.17,
+          "nonHispanicWhitePct": 3.68,
+          "blackPct": 40.24,
+          "asianPct": 1.22,
+          "hispanicPct": 58.52
+        }
+      },
+      "election": {
+        "winner": "Landon C. Dais",
+        "party": "Democratic",
+        "pct": 74.42,
+        "unopposed": false
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "New York Assembly District 78",
+      "census": {
+        "censusName": "Assembly District 78 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43815,
+        "medianAge": 32.8,
+        "totalPopulation": 132331,
+        "collegePct": 17.13,
+        "renterRatePct": 91.77,
+        "race": {
+          "whitePct": 12.89,
+          "nonHispanicWhitePct": 6.7,
+          "blackPct": 19.56,
+          "asianPct": 3.34,
+          "hispanicPct": 72.59
+        }
+      },
+      "election": {
+        "winner": "George A. Alvarez",
+        "party": "Democratic",
+        "pct": 73.47,
+        "unopposed": false
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "New York Assembly District 79",
+      "census": {
+        "censusName": "Assembly District 79 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 31816,
+        "medianAge": 34.3,
+        "totalPopulation": 126541,
+        "collegePct": 14.86,
+        "renterRatePct": 91.27,
+        "race": {
+          "whitePct": 8.44,
+          "nonHispanicWhitePct": 1.47,
+          "blackPct": 48.07,
+          "asianPct": 0.74,
+          "hispanicPct": 53.54
+        }
+      },
+      "election": {
+        "winner": "Chantel Jackson",
+        "party": "Democratic",
+        "pct": 80.21,
+        "unopposed": false
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "New York Assembly District 80",
+      "census": {
+        "censusName": "Assembly District 80 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62061,
+        "medianAge": 37.7,
+        "totalPopulation": 129351,
+        "collegePct": 26.25,
+        "renterRatePct": 76.09,
+        "race": {
+          "whitePct": 23.01,
+          "nonHispanicWhitePct": 16.81,
+          "blackPct": 23.6,
+          "asianPct": 9.84,
+          "hispanicPct": 49.17
+        }
+      },
+      "election": {
+        "winner": "John Zaccaro, Jr.",
+        "party": "Democratic",
+        "pct": 67.83,
+        "unopposed": false
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "New York Assembly District 81",
+      "census": {
+        "censusName": "Assembly District 81 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79083,
+        "medianAge": 41.8,
+        "totalPopulation": 124718,
+        "collegePct": 43.63,
+        "renterRatePct": 62.38,
+        "race": {
+          "whitePct": 39.54,
+          "nonHispanicWhitePct": 32.04,
+          "blackPct": 19.09,
+          "asianPct": 4.87,
+          "hispanicPct": 42.79
+        }
+      },
+      "election": {
+        "winner": "Jeffrey Dinowitz",
+        "party": "Democratic",
+        "pct": 76.98,
+        "unopposed": false
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "New York Assembly District 82",
+      "census": {
+        "censusName": "Assembly District 82 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72059,
+        "medianAge": 40.8,
+        "totalPopulation": 126063,
+        "collegePct": 28.86,
+        "renterRatePct": 53.8,
+        "race": {
+          "whitePct": 33.46,
+          "nonHispanicWhitePct": 25.25,
+          "blackPct": 26.83,
+          "asianPct": 6.51,
+          "hispanicPct": 41.51
+        }
+      },
+      "election": {
+        "winner": "Michael Benedetto",
+        "party": "Democratic",
+        "pct": 68.95,
+        "unopposed": false
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "New York Assembly District 83",
+      "census": {
+        "censusName": "Assembly District 83 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64274,
+        "medianAge": 36.9,
+        "totalPopulation": 134929,
+        "collegePct": 25.72,
+        "renterRatePct": 58.8,
+        "race": {
+          "whitePct": 5.2,
+          "nonHispanicWhitePct": 2.01,
+          "blackPct": 67.46,
+          "asianPct": 1.66,
+          "hispanicPct": 26.9
+        }
+      },
+      "election": {
+        "winner": "Carl E. Heastie",
+        "party": "Democratic",
+        "pct": 88.52,
+        "unopposed": false
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "New York Assembly District 84",
+      "census": {
+        "censusName": "Assembly District 84 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 35774,
+        "medianAge": 33.3,
+        "totalPopulation": 131893,
+        "collegePct": 15.48,
+        "renterRatePct": 92.53,
+        "race": {
+          "whitePct": 12.2,
+          "nonHispanicWhitePct": 3.46,
+          "blackPct": 31.07,
+          "asianPct": 1.09,
+          "hispanicPct": 68.68
+        }
+      },
+      "election": {
+        "winner": "Amanda N. Septimo",
+        "party": "Democratic",
+        "pct": 76.93,
+        "unopposed": false
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "New York Assembly District 85",
+      "census": {
+        "censusName": "Assembly District 85 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42766,
+        "medianAge": 33.8,
+        "totalPopulation": 130445,
+        "collegePct": 17.05,
+        "renterRatePct": 84.09,
+        "race": {
+          "whitePct": 9.27,
+          "nonHispanicWhitePct": 1.99,
+          "blackPct": 34.23,
+          "asianPct": 1.53,
+          "hispanicPct": 65.54
+        }
+      },
+      "election": {
+        "winner": "Emerita Torres",
+        "party": "Democratic",
+        "pct": 79.05,
+        "unopposed": false
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "New York Assembly District 86",
+      "census": {
+        "censusName": "Assembly District 86 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41954,
+        "medianAge": 33.3,
+        "totalPopulation": 134117,
+        "collegePct": 14.75,
+        "renterRatePct": 95.35,
+        "race": {
+          "whitePct": 9.39,
+          "nonHispanicWhitePct": 1.8,
+          "blackPct": 33.92,
+          "asianPct": 1.09,
+          "hispanicPct": 69.53
+        }
+      },
+      "election": {
+        "winner": "Yudelka  Tapia",
+        "party": "Democratic",
+        "pct": 74.56,
+        "unopposed": false
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "New York Assembly District 87",
+      "census": {
+        "censusName": "Assembly District 87 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50886,
+        "medianAge": 36.2,
+        "totalPopulation": 116538,
+        "collegePct": 20.07,
+        "renterRatePct": 78.09,
+        "race": {
+          "whitePct": 10.48,
+          "nonHispanicWhitePct": 3.19,
+          "blackPct": 29.07,
+          "asianPct": 14.3,
+          "hispanicPct": 54.01
+        }
+      },
+      "election": {
+        "winner": "Karines Reyes",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "New York Assembly District 88",
+      "census": {
+        "censusName": "Assembly District 88 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 178604,
+        "medianAge": 42.2,
+        "totalPopulation": 136663,
+        "collegePct": 69.44,
+        "renterRatePct": 25.5,
+        "race": {
+          "whitePct": 64.54,
+          "nonHispanicWhitePct": 61.21,
+          "blackPct": 8.97,
+          "asianPct": 11.03,
+          "hispanicPct": 15.22
+        }
+      },
+      "election": {
+        "winner": "Amy Paulin",
+        "party": "Democratic",
+        "pct": 65.13,
+        "unopposed": false
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "New York Assembly District 89",
+      "census": {
+        "censusName": "Assembly District 89 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73476,
+        "medianAge": 40,
+        "totalPopulation": 137499,
+        "collegePct": 32.78,
+        "renterRatePct": 62.83,
+        "race": {
+          "whitePct": 22.45,
+          "nonHispanicWhitePct": 17.82,
+          "blackPct": 42.3,
+          "asianPct": 2.47,
+          "hispanicPct": 34.57
+        }
+      },
+      "election": {
+        "winner": "J. Gary Pretlow",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "New York Assembly District 90",
+      "census": {
+        "censusName": "Assembly District 90 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86544,
+        "medianAge": 39.8,
+        "totalPopulation": 136752,
+        "collegePct": 36.93,
+        "renterRatePct": 45.7,
+        "race": {
+          "whitePct": 41.45,
+          "nonHispanicWhitePct": 35.81,
+          "blackPct": 14.96,
+          "asianPct": 6.37,
+          "hispanicPct": 41.08
+        }
+      },
+      "election": {
+        "winner": "Nader J. Sayegh",
+        "party": "Democratic",
+        "pct": 56.45,
+        "unopposed": false
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "New York Assembly District 91",
+      "census": {
+        "censusName": "Assembly District 91 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 114870,
+        "medianAge": 41.2,
+        "totalPopulation": 141109,
+        "collegePct": 51.76,
+        "renterRatePct": 46.12,
+        "race": {
+          "whitePct": 54.94,
+          "nonHispanicWhitePct": 49,
+          "blackPct": 9.19,
+          "asianPct": 5.16,
+          "hispanicPct": 33.36
+        }
+      },
+      "election": {
+        "winner": "Steven Otis",
+        "party": "Democratic",
+        "pct": 66.94,
+        "unopposed": false
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "New York Assembly District 92",
+      "census": {
+        "censusName": "Assembly District 92 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 139935,
+        "medianAge": 41.6,
+        "totalPopulation": 139638,
+        "collegePct": 60.88,
+        "renterRatePct": 28.46,
+        "race": {
+          "whitePct": 63.89,
+          "nonHispanicWhitePct": 60.35,
+          "blackPct": 9.21,
+          "asianPct": 7.67,
+          "hispanicPct": 19.48
+        }
+      },
+      "election": {
+        "winner": "MaryJane C. Shimsky",
+        "party": "Democratic",
+        "pct": 65.77,
+        "unopposed": false
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "New York Assembly District 93",
+      "census": {
+        "censusName": "Assembly District 93 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 154081,
+        "medianAge": 41.2,
+        "totalPopulation": 141276,
+        "collegePct": 63.52,
+        "renterRatePct": 30.22,
+        "race": {
+          "whitePct": 67.76,
+          "nonHispanicWhitePct": 63.73,
+          "blackPct": 6.14,
+          "asianPct": 6.79,
+          "hispanicPct": 20.33
+        }
+      },
+      "election": {
+        "winner": "Chris Burdick",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "New York Assembly District 94",
+      "census": {
+        "censusName": "Assembly District 94 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 134596,
+        "medianAge": 44.9,
+        "totalPopulation": 133177,
+        "collegePct": 48.63,
+        "renterRatePct": 14.64,
+        "race": {
+          "whitePct": 76.86,
+          "nonHispanicWhitePct": 72.34,
+          "blackPct": 3.68,
+          "asianPct": 3.1,
+          "hispanicPct": 18.37
+        }
+      },
+      "election": {
+        "winner": "Matthew J. Slater",
+        "party": "Republican",
+        "pct": 62.56,
+        "unopposed": false
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "New York Assembly District 95",
+      "census": {
+        "censusName": "Assembly District 95 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 122567,
+        "medianAge": 43.7,
+        "totalPopulation": 128762,
+        "collegePct": 49.96,
+        "renterRatePct": 30.18,
+        "race": {
+          "whitePct": 62.4,
+          "nonHispanicWhitePct": 56.62,
+          "blackPct": 9.5,
+          "asianPct": 3.43,
+          "hispanicPct": 27.79
+        }
+      },
+      "election": {
+        "winner": "Dana Levenberg",
+        "party": "Democratic",
+        "pct": 63.82,
+        "unopposed": false
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "New York Assembly District 96",
+      "census": {
+        "censusName": "Assembly District 96 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 121493,
+        "medianAge": 42,
+        "totalPopulation": 134986,
+        "collegePct": 47.63,
+        "renterRatePct": 26.65,
+        "race": {
+          "whitePct": 53.16,
+          "nonHispanicWhitePct": 48.09,
+          "blackPct": 11.66,
+          "asianPct": 9.24,
+          "hispanicPct": 28.31
+        }
+      },
+      "election": {
+        "winner": "Patrick Carroll",
+        "party": "Democratic",
+        "pct": 58.87,
+        "unopposed": false
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "New York Assembly District 97",
+      "census": {
+        "censusName": "Assembly District 97 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95658,
+        "medianAge": 27.1,
+        "totalPopulation": 138592,
+        "collegePct": 34.95,
+        "renterRatePct": 42.84,
+        "race": {
+          "whitePct": 69.17,
+          "nonHispanicWhitePct": 67.13,
+          "blackPct": 11.75,
+          "asianPct": 3.95,
+          "hispanicPct": 15.15
+        }
+      },
+      "election": {
+        "winner": "Aron B. Wieder",
+        "party": "Democratic",
+        "pct": 52.04,
+        "unopposed": false
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "New York Assembly District 98",
+      "census": {
+        "censusName": "Assembly District 98 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107580,
+        "medianAge": 40,
+        "totalPopulation": 136047,
+        "collegePct": 38.69,
+        "renterRatePct": 23.42,
+        "race": {
+          "whitePct": 76.53,
+          "nonHispanicWhitePct": 73.98,
+          "blackPct": 6.67,
+          "asianPct": 3.01,
+          "hispanicPct": 13.34
+        }
+      },
+      "election": {
+        "winner": "Karl A. Brabenec",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "New York Assembly District 99",
+      "census": {
+        "censusName": "Assembly District 99 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97477,
+        "medianAge": 30.2,
+        "totalPopulation": 132838,
+        "collegePct": 35.97,
+        "renterRatePct": 32.66,
+        "race": {
+          "whitePct": 74.25,
+          "nonHispanicWhitePct": 68.81,
+          "blackPct": 7.9,
+          "asianPct": 3.27,
+          "hispanicPct": 17.38
+        }
+      },
+      "election": {
+        "winner": "Christopher W. Eachus",
+        "party": "Democratic",
+        "pct": 56.66,
+        "unopposed": false
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "New York Assembly District 100",
+      "census": {
+        "censusName": "Assembly District 100 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76179,
+        "medianAge": 40.3,
+        "totalPopulation": 135579,
+        "collegePct": 27.02,
+        "renterRatePct": 35.34,
+        "race": {
+          "whitePct": 56.82,
+          "nonHispanicWhitePct": 52.26,
+          "blackPct": 15.77,
+          "asianPct": 2.95,
+          "hispanicPct": 25.31
+        }
+      },
+      "election": {
+        "winner": "Paula Elaine Kay",
+        "party": "Democratic",
+        "pct": 52.6,
+        "unopposed": false
+      }
+    },
+    "101": {
+      "districtNumber": 101,
+      "districtName": "New York Assembly District 101",
+      "census": {
+        "censusName": "Assembly District 101 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97664,
+        "medianAge": 41.6,
+        "totalPopulation": 133221,
+        "collegePct": 31.6,
+        "renterRatePct": 22.41,
+        "race": {
+          "whitePct": 74.98,
+          "nonHispanicWhitePct": 69.96,
+          "blackPct": 6.01,
+          "asianPct": 1.48,
+          "hispanicPct": 18.11
+        }
+      },
+      "election": {
+        "winner": "Brian M. Maher",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "102": {
+      "districtNumber": 102,
+      "districtName": "New York Assembly District 102",
+      "census": {
+        "censusName": "Assembly District 102 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74096,
+        "medianAge": 47.5,
+        "totalPopulation": 134203,
+        "collegePct": 29.78,
+        "renterRatePct": 21.17,
+        "race": {
+          "whitePct": 88.54,
+          "nonHispanicWhitePct": 87.14,
+          "blackPct": 2.5,
+          "asianPct": 1.15,
+          "hispanicPct": 5.1
+        }
+      },
+      "election": {
+        "winner": "Christopher Tague",
+        "party": "Republican",
+        "pct": 63.53,
+        "unopposed": false
+      }
+    },
+    "103": {
+      "districtNumber": 103,
+      "districtName": "New York Assembly District 103",
+      "census": {
+        "censusName": "Assembly District 103 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81841,
+        "medianAge": 44.6,
+        "totalPopulation": 133631,
+        "collegePct": 41.61,
+        "renterRatePct": 31.62,
+        "race": {
+          "whitePct": 77.99,
+          "nonHispanicWhitePct": 75.84,
+          "blackPct": 5.9,
+          "asianPct": 1.99,
+          "hispanicPct": 9.88
+        }
+      },
+      "election": {
+        "winner": "Sarahana Shrestha",
+        "party": "Democratic",
+        "pct": 64.23,
+        "unopposed": false
+      }
+    },
+    "104": {
+      "districtNumber": 104,
+      "districtName": "New York Assembly District 104",
+      "census": {
+        "censusName": "Assembly District 104 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79280,
+        "medianAge": 40,
+        "totalPopulation": 137258,
+        "collegePct": 31.74,
+        "renterRatePct": 43.29,
+        "race": {
+          "whitePct": 52.56,
+          "nonHispanicWhitePct": 47.18,
+          "blackPct": 18.58,
+          "asianPct": 2.15,
+          "hispanicPct": 27.37
+        }
+      },
+      "election": {
+        "winner": "Jonathan G. Jacobson",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "105": {
+      "districtNumber": 105,
+      "districtName": "New York Assembly District 105",
+      "census": {
+        "censusName": "Assembly District 105 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108024,
+        "medianAge": 43,
+        "totalPopulation": 135947,
+        "collegePct": 38.82,
+        "renterRatePct": 24.38,
+        "race": {
+          "whitePct": 73.7,
+          "nonHispanicWhitePct": 69.56,
+          "blackPct": 6.44,
+          "asianPct": 3.59,
+          "hispanicPct": 16.02
+        }
+      },
+      "election": {
+        "winner": "Anil R. Beephan, Jr.",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "106": {
+      "districtNumber": 106,
+      "districtName": "New York Assembly District 106",
+      "census": {
+        "censusName": "Assembly District 106 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92466,
+        "medianAge": 45.5,
+        "totalPopulation": 137945,
+        "collegePct": 40.17,
+        "renterRatePct": 27.56,
+        "race": {
+          "whitePct": 77.79,
+          "nonHispanicWhitePct": 75.32,
+          "blackPct": 7,
+          "asianPct": 3.99,
+          "hispanicPct": 9.14
+        }
+      },
+      "election": {
+        "winner": "Didi Barrett",
+        "party": "Democratic",
+        "pct": 57.29,
+        "unopposed": false
+      }
+    },
+    "107": {
+      "districtNumber": 107,
+      "districtName": "New York Assembly District 107",
+      "census": {
+        "censusName": "Assembly District 107 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103498,
+        "medianAge": 45.6,
+        "totalPopulation": 129881,
+        "collegePct": 42.25,
+        "renterRatePct": 19.79,
+        "race": {
+          "whitePct": 91.15,
+          "nonHispanicWhitePct": 89.53,
+          "blackPct": 1.12,
+          "asianPct": 1.71,
+          "hispanicPct": 4.3
+        }
+      },
+      "election": {
+        "winner": "Scott H. Bendett",
+        "party": "Republican",
+        "pct": 52.88,
+        "unopposed": false
+      }
+    },
+    "108": {
+      "districtNumber": 108,
+      "districtName": "New York Assembly District 108",
+      "census": {
+        "censusName": "Assembly District 108 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69976,
+        "medianAge": 37.6,
+        "totalPopulation": 129654,
+        "collegePct": 35.26,
+        "renterRatePct": 52.27,
+        "race": {
+          "whitePct": 73.43,
+          "nonHispanicWhitePct": 71.69,
+          "blackPct": 10.81,
+          "asianPct": 3.81,
+          "hispanicPct": 7.95
+        }
+      },
+      "election": {
+        "winner": "John T. McDonald, III",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "109": {
+      "districtNumber": 109,
+      "districtName": "New York Assembly District 109",
+      "census": {
+        "censusName": "Assembly District 109 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68600,
+        "medianAge": 33.8,
+        "totalPopulation": 133571,
+        "collegePct": 46.97,
+        "renterRatePct": 56.08,
+        "race": {
+          "whitePct": 59.37,
+          "nonHispanicWhitePct": 57.23,
+          "blackPct": 20.96,
+          "asianPct": 8.06,
+          "hispanicPct": 9.46
+        }
+      },
+      "election": {
+        "winner": "Gabriella A. Romero",
+        "party": "Democratic",
+        "pct": 72.4,
+        "unopposed": false
+      }
+    },
+    "110": {
+      "districtNumber": 110,
+      "districtName": "New York Assembly District 110",
+      "census": {
+        "censusName": "Assembly District 110 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104978,
+        "medianAge": 41.4,
+        "totalPopulation": 132300,
+        "collegePct": 47.37,
+        "renterRatePct": 27.38,
+        "race": {
+          "whitePct": 74.73,
+          "nonHispanicWhitePct": 73.19,
+          "blackPct": 6.5,
+          "asianPct": 9.88,
+          "hispanicPct": 4.99
+        }
+      },
+      "election": {
+        "winner": "Phillip G. Steck",
+        "party": "Democratic",
+        "pct": 58.32,
+        "unopposed": false
+      }
+    },
+    "111": {
+      "districtNumber": 111,
+      "districtName": "New York Assembly District 111",
+      "census": {
+        "censusName": "Assembly District 111 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65197,
+        "medianAge": 38.3,
+        "totalPopulation": 129624,
+        "collegePct": 25.83,
+        "renterRatePct": 41.95,
+        "race": {
+          "whitePct": 66.56,
+          "nonHispanicWhitePct": 63.68,
+          "blackPct": 12.3,
+          "asianPct": 3.67,
+          "hispanicPct": 13.29
+        }
+      },
+      "election": {
+        "winner": "Angelo L. Santabarbara",
+        "party": "Democratic",
+        "pct": 62.27,
+        "unopposed": false
+      }
+    },
+    "112": {
+      "districtNumber": 112,
+      "districtName": "New York Assembly District 112",
+      "census": {
+        "censusName": "Assembly District 112 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107582,
+        "medianAge": 43.7,
+        "totalPopulation": 132018,
+        "collegePct": 46.02,
+        "renterRatePct": 21.97,
+        "race": {
+          "whitePct": 88.23,
+          "nonHispanicWhitePct": 87.04,
+          "blackPct": 1.74,
+          "asianPct": 3.8,
+          "hispanicPct": 3.54
+        }
+      },
+      "election": {
+        "winner": "Mary Beth Walsh",
+        "party": "Republican",
+        "pct": 58.86,
+        "unopposed": false
+      }
+    },
+    "113": {
+      "districtNumber": 113,
+      "districtName": "New York Assembly District 113",
+      "census": {
+        "censusName": "Assembly District 113 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87770,
+        "medianAge": 42.6,
+        "totalPopulation": 138077,
+        "collegePct": 39.79,
+        "renterRatePct": 35.18,
+        "race": {
+          "whitePct": 91.09,
+          "nonHispanicWhitePct": 89.49,
+          "blackPct": 1.51,
+          "asianPct": 1.65,
+          "hispanicPct": 3.75
+        }
+      },
+      "election": {
+        "winner": "Carrie Woerner",
+        "party": "Democratic",
+        "pct": 54.87,
+        "unopposed": false
+      }
+    },
+    "114": {
+      "districtNumber": 114,
+      "districtName": "New York Assembly District 114",
+      "census": {
+        "censusName": "Assembly District 114 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74898,
+        "medianAge": 48.5,
+        "totalPopulation": 130797,
+        "collegePct": 28.4,
+        "renterRatePct": 21.77,
+        "race": {
+          "whitePct": 92.28,
+          "nonHispanicWhitePct": 91.18,
+          "blackPct": 1.55,
+          "asianPct": 0.69,
+          "hispanicPct": 2.76
+        }
+      },
+      "election": {
+        "winner": "Matthew J. Simpson",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "115": {
+      "districtNumber": 115,
+      "districtName": "New York Assembly District 115",
+      "census": {
+        "censusName": "Assembly District 115 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68300,
+        "medianAge": 42,
+        "totalPopulation": 139769,
+        "collegePct": 26.83,
+        "renterRatePct": 29.74,
+        "race": {
+          "whitePct": 88.12,
+          "nonHispanicWhitePct": 87.18,
+          "blackPct": 3.45,
+          "asianPct": 1.11,
+          "hispanicPct": 3.33
+        }
+      },
+      "election": {
+        "winner": "D. Billy Jones",
+        "party": "Democratic",
+        "pct": 71.37,
+        "unopposed": false
+      }
+    },
+    "116": {
+      "districtNumber": 116,
+      "districtName": "New York Assembly District 116",
+      "census": {
+        "censusName": "Assembly District 116 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63376,
+        "medianAge": 38.2,
+        "totalPopulation": 134872,
+        "collegePct": 26.28,
+        "renterRatePct": 36.49,
+        "race": {
+          "whitePct": 89.22,
+          "nonHispanicWhitePct": 88.18,
+          "blackPct": 2.97,
+          "asianPct": 1.58,
+          "hispanicPct": 3.64
+        }
+      },
+      "election": {
+        "winner": "Scott A. Gray",
+        "party": "Republican",
+        "pct": 76.7,
+        "unopposed": false
+      }
+    },
+    "117": {
+      "districtNumber": 117,
+      "districtName": "New York Assembly District 117",
+      "census": {
+        "censusName": "Assembly District 117 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66467,
+        "medianAge": 36.1,
+        "totalPopulation": 132937,
+        "collegePct": 22.62,
+        "renterRatePct": 31.66,
+        "race": {
+          "whitePct": 88.16,
+          "nonHispanicWhitePct": 86.2,
+          "blackPct": 3.11,
+          "asianPct": 0.95,
+          "hispanicPct": 5.49
+        }
+      },
+      "election": {
+        "winner": "Kenneth Blankenbush",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "118": {
+      "districtNumber": 118,
+      "districtName": "New York Assembly District 118",
+      "census": {
+        "censusName": "Assembly District 118 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66710,
+        "medianAge": 43.6,
+        "totalPopulation": 138612,
+        "collegePct": 21.94,
+        "renterRatePct": 25.8,
+        "race": {
+          "whitePct": 92.04,
+          "nonHispanicWhitePct": 91.09,
+          "blackPct": 1.19,
+          "asianPct": 0.66,
+          "hispanicPct": 3.01
+        }
+      },
+      "election": {
+        "winner": "Robert J. Smullen",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "119": {
+      "districtNumber": 119,
+      "districtName": "New York Assembly District 119",
+      "census": {
+        "censusName": "Assembly District 119 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60851,
+        "medianAge": 37.5,
+        "totalPopulation": 130245,
+        "collegePct": 24.01,
+        "renterRatePct": 41.31,
+        "race": {
+          "whitePct": 72.26,
+          "nonHispanicWhitePct": 69.83,
+          "blackPct": 9.2,
+          "asianPct": 6.25,
+          "hispanicPct": 9.7
+        }
+      },
+      "election": {
+        "winner": "Marianne Buttenschon",
+        "party": "Democratic",
+        "pct": 50.77,
+        "unopposed": false
+      }
+    },
+    "120": {
+      "districtNumber": 120,
+      "districtName": "New York Assembly District 120",
+      "census": {
+        "censusName": "Assembly District 120 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69392,
+        "medianAge": 40.8,
+        "totalPopulation": 134444,
+        "collegePct": 22.09,
+        "renterRatePct": 24.91,
+        "race": {
+          "whitePct": 92.7,
+          "nonHispanicWhitePct": 91.56,
+          "blackPct": 1.1,
+          "asianPct": 0.72,
+          "hispanicPct": 3.3
+        }
+      },
+      "election": {
+        "winner": "William A. Barclay",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "121": {
+      "districtNumber": 121,
+      "districtName": "New York Assembly District 121",
+      "census": {
+        "censusName": "Assembly District 121 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64384,
+        "medianAge": 43.8,
+        "totalPopulation": 138432,
+        "collegePct": 23.28,
+        "renterRatePct": 21.49,
+        "race": {
+          "whitePct": 91.84,
+          "nonHispanicWhitePct": 90.99,
+          "blackPct": 1.49,
+          "asianPct": 1.12,
+          "hispanicPct": 3.11
+        }
+      },
+      "election": {
+        "winner": "Joe Angelino",
+        "party": "Republican",
+        "pct": 67.52,
+        "unopposed": false
+      }
+    },
+    "122": {
+      "districtNumber": 122,
+      "districtName": "New York Assembly District 122",
+      "census": {
+        "censusName": "Assembly District 122 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75614,
+        "medianAge": 42.9,
+        "totalPopulation": 138185,
+        "collegePct": 32.17,
+        "renterRatePct": 24.96,
+        "race": {
+          "whitePct": 91.47,
+          "nonHispanicWhitePct": 90.29,
+          "blackPct": 1.58,
+          "asianPct": 1.38,
+          "hispanicPct": 3.52
+        }
+      },
+      "election": {
+        "winner": "Brian D. Miller",
+        "party": "Republican",
+        "pct": 62.87,
+        "unopposed": false
+      }
+    },
+    "123": {
+      "districtNumber": 123,
+      "districtName": "New York Assembly District 123",
+      "census": {
+        "censusName": "Assembly District 123 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56507,
+        "medianAge": 36.8,
+        "totalPopulation": 133184,
+        "collegePct": 34.16,
+        "renterRatePct": 44.06,
+        "race": {
+          "whitePct": 76.15,
+          "nonHispanicWhitePct": 74.5,
+          "blackPct": 7.52,
+          "asianPct": 6.9,
+          "hispanicPct": 6.59
+        }
+      },
+      "election": {
+        "winner": "Donna A. Lupardo",
+        "party": "Democratic",
+        "pct": 59.43,
+        "unopposed": false
+      }
+    },
+    "124": {
+      "districtNumber": 124,
+      "districtName": "New York Assembly District 124",
+      "census": {
+        "censusName": "Assembly District 124 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66751,
+        "medianAge": 43.3,
+        "totalPopulation": 133697,
+        "collegePct": 25.56,
+        "renterRatePct": 27.04,
+        "race": {
+          "whitePct": 88.83,
+          "nonHispanicWhitePct": 87.81,
+          "blackPct": 4.07,
+          "asianPct": 1.27,
+          "hispanicPct": 3.06
+        }
+      },
+      "election": {
+        "winner": "Christopher S. Friend",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "125": {
+      "districtNumber": 125,
+      "districtName": "New York Assembly District 125",
+      "census": {
+        "censusName": "Assembly District 125 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70736,
+        "medianAge": 32.6,
+        "totalPopulation": 132885,
+        "collegePct": 52.57,
+        "renterRatePct": 45.18,
+        "race": {
+          "whitePct": 79.39,
+          "nonHispanicWhitePct": 77.77,
+          "blackPct": 3.73,
+          "asianPct": 7.76,
+          "hispanicPct": 6.09
+        }
+      },
+      "election": {
+        "winner": "Anna Kelles",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "126": {
+      "districtNumber": 126,
+      "districtName": "New York Assembly District 126",
+      "census": {
+        "censusName": "Assembly District 126 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81628,
+        "medianAge": 44.5,
+        "totalPopulation": 133425,
+        "collegePct": 37.21,
+        "renterRatePct": 24.43,
+        "race": {
+          "whitePct": 89.72,
+          "nonHispanicWhitePct": 88.97,
+          "blackPct": 2.1,
+          "asianPct": 1.28,
+          "hispanicPct": 2.9
+        }
+      },
+      "election": {
+        "winner": "John Lemondes, Jr.",
+        "party": "Republican",
+        "pct": 55.01,
+        "unopposed": false
+      }
+    },
+    "127": {
+      "districtNumber": 127,
+      "districtName": "New York Assembly District 127",
+      "census": {
+        "censusName": "Assembly District 127 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96686,
+        "medianAge": 41.5,
+        "totalPopulation": 131414,
+        "collegePct": 41.82,
+        "renterRatePct": 23.16,
+        "race": {
+          "whitePct": 87.1,
+          "nonHispanicWhitePct": 86.28,
+          "blackPct": 2.81,
+          "asianPct": 2.62,
+          "hispanicPct": 3.96
+        }
+      },
+      "election": {
+        "winner": "Albert A. Stirpe, Jr.",
+        "party": "Democratic",
+        "pct": 56.56,
+        "unopposed": false
+      }
+    },
+    "128": {
+      "districtNumber": 128,
+      "districtName": "New York Assembly District 128",
+      "census": {
+        "censusName": "Assembly District 128 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66818,
+        "medianAge": 39,
+        "totalPopulation": 127809,
+        "collegePct": 35.44,
+        "renterRatePct": 37.73,
+        "race": {
+          "whitePct": 63.57,
+          "nonHispanicWhitePct": 62.12,
+          "blackPct": 20.63,
+          "asianPct": 3.91,
+          "hispanicPct": 7.55
+        }
+      },
+      "election": {
+        "winner": "Pamela Jo Hunter",
+        "party": "Democratic",
+        "pct": 63.03,
+        "unopposed": false
+      }
+    },
+    "129": {
+      "districtNumber": 129,
+      "districtName": "New York Assembly District 129",
+      "census": {
+        "censusName": "Assembly District 129 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54996,
+        "medianAge": 34.2,
+        "totalPopulation": 131315,
+        "collegePct": 33.09,
+        "renterRatePct": 51.6,
+        "race": {
+          "whitePct": 67.42,
+          "nonHispanicWhitePct": 65.24,
+          "blackPct": 15.26,
+          "asianPct": 6.83,
+          "hispanicPct": 7.67
+        }
+      },
+      "election": {
+        "winner": "William B. Magnarelli",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "130": {
+      "districtNumber": 130,
+      "districtName": "New York Assembly District 130",
+      "census": {
+        "censusName": "Assembly District 130 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79004,
+        "medianAge": 44.3,
+        "totalPopulation": 136404,
+        "collegePct": 32.03,
+        "renterRatePct": 23.28,
+        "race": {
+          "whitePct": 88.7,
+          "nonHispanicWhitePct": 87.42,
+          "blackPct": 2.57,
+          "asianPct": 1.52,
+          "hispanicPct": 4.61
+        }
+      },
+      "election": {
+        "winner": "Brian D. Manktelow",
+        "party": "Republican",
+        "pct": 63.7,
+        "unopposed": false
+      }
+    },
+    "131": {
+      "districtNumber": 131,
+      "districtName": "New York Assembly District 131",
+      "census": {
+        "censusName": "Assembly District 131 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72032,
+        "medianAge": 43.5,
+        "totalPopulation": 130892,
+        "collegePct": 28.77,
+        "renterRatePct": 27.33,
+        "race": {
+          "whitePct": 90.14,
+          "nonHispanicWhitePct": 88.4,
+          "blackPct": 2.16,
+          "asianPct": 0.87,
+          "hispanicPct": 5.12
+        }
+      },
+      "election": {
+        "winner": "Jeff Gallahan",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "132": {
+      "districtNumber": 132,
+      "districtName": "New York Assembly District 132",
+      "census": {
+        "censusName": "Assembly District 132 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65630,
+        "medianAge": 43.2,
+        "totalPopulation": 138773,
+        "collegePct": 26.87,
+        "renterRatePct": 25.15,
+        "race": {
+          "whitePct": 92.56,
+          "nonHispanicWhitePct": 91.72,
+          "blackPct": 1.98,
+          "asianPct": 1.18,
+          "hispanicPct": 2.2
+        }
+      },
+      "election": {
+        "winner": "Philip A. Palmesano",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "133": {
+      "districtNumber": 133,
+      "districtName": "New York Assembly District 133",
+      "census": {
+        "censusName": "Assembly District 133 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77858,
+        "medianAge": 43.1,
+        "totalPopulation": 133134,
+        "collegePct": 34.47,
+        "renterRatePct": 21.81,
+        "race": {
+          "whitePct": 90.89,
+          "nonHispanicWhitePct": 89.57,
+          "blackPct": 1.85,
+          "asianPct": 1.24,
+          "hispanicPct": 3.86
+        }
+      },
+      "election": {
+        "winner": "Andrea K. Bailey",
+        "party": "Republican",
+        "pct": 65.03,
+        "unopposed": false
+      }
+    },
+    "134": {
+      "districtNumber": 134,
+      "districtName": "New York Assembly District 134",
+      "census": {
+        "censusName": "Assembly District 134 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81086,
+        "medianAge": 41.6,
+        "totalPopulation": 132209,
+        "collegePct": 32.55,
+        "renterRatePct": 26.5,
+        "race": {
+          "whitePct": 81.67,
+          "nonHispanicWhitePct": 79.46,
+          "blackPct": 7.97,
+          "asianPct": 1.91,
+          "hispanicPct": 6.99
+        }
+      },
+      "election": {
+        "winner": "Josh Jensen",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "135": {
+      "districtNumber": 135,
+      "districtName": "New York Assembly District 135",
+      "census": {
+        "censusName": "Assembly District 135 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 114666,
+        "medianAge": 45.2,
+        "totalPopulation": 131716,
+        "collegePct": 62.04,
+        "renterRatePct": 19.62,
+        "race": {
+          "whitePct": 88.19,
+          "nonHispanicWhitePct": 87.01,
+          "blackPct": 2.02,
+          "asianPct": 3.63,
+          "hispanicPct": 3.76
+        }
+      },
+      "election": {
+        "winner": "Jen Lunsford",
+        "party": "Democratic",
+        "pct": 58.02,
+        "unopposed": false
+      }
+    },
+    "136": {
+      "districtNumber": 136,
+      "districtName": "New York Assembly District 136",
+      "census": {
+        "censusName": "Assembly District 136 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66867,
+        "medianAge": 39.8,
+        "totalPopulation": 136631,
+        "collegePct": 43.57,
+        "renterRatePct": 37.55,
+        "race": {
+          "whitePct": 66.96,
+          "nonHispanicWhitePct": 63,
+          "blackPct": 16.73,
+          "asianPct": 4.94,
+          "hispanicPct": 12.75
+        }
+      },
+      "election": {
+        "winner": "Sarah H. Clark",
+        "party": "Democratic",
+        "pct": 67.43,
+        "unopposed": false
+      }
+    },
+    "137": {
+      "districtNumber": 137,
+      "districtName": "New York Assembly District 137",
+      "census": {
+        "censusName": "Assembly District 137 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46168,
+        "medianAge": 34.4,
+        "totalPopulation": 135378,
+        "collegePct": 20.77,
+        "renterRatePct": 57,
+        "race": {
+          "whitePct": 36.59,
+          "nonHispanicWhitePct": 31.3,
+          "blackPct": 41.7,
+          "asianPct": 3.01,
+          "hispanicPct": 21.07
+        }
+      },
+      "election": {
+        "winner": "Demond L. Meeks",
+        "party": "Democratic",
+        "pct": 71.63,
+        "unopposed": false
+      }
+    },
+    "138": {
+      "districtNumber": 138,
+      "districtName": "New York Assembly District 138",
+      "census": {
+        "censusName": "Assembly District 138 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72160,
+        "medianAge": 35.2,
+        "totalPopulation": 135676,
+        "collegePct": 45.26,
+        "renterRatePct": 45.66,
+        "race": {
+          "whitePct": 72.73,
+          "nonHispanicWhitePct": 70.69,
+          "blackPct": 11.06,
+          "asianPct": 6.44,
+          "hispanicPct": 7.36
+        }
+      },
+      "election": {
+        "winner": "Harry B. Bronson",
+        "party": "Democratic",
+        "pct": 58.79,
+        "unopposed": false
+      }
+    },
+    "139": {
+      "districtNumber": 139,
+      "districtName": "New York Assembly District 139",
+      "census": {
+        "censusName": "Assembly District 139 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70744,
+        "medianAge": 42.2,
+        "totalPopulation": 135194,
+        "collegePct": 23.92,
+        "renterRatePct": 25.12,
+        "race": {
+          "whitePct": 88.65,
+          "nonHispanicWhitePct": 86.94,
+          "blackPct": 3.11,
+          "asianPct": 0.84,
+          "hispanicPct": 5
+        }
+      },
+      "election": {
+        "winner": "Stephen M. Hawley",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "140": {
+      "districtNumber": 140,
+      "districtName": "New York Assembly District 140",
+      "census": {
+        "censusName": "Assembly District 140 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68277,
+        "medianAge": 39.8,
+        "totalPopulation": 129859,
+        "collegePct": 35.65,
+        "renterRatePct": 34.88,
+        "race": {
+          "whitePct": 82.3,
+          "nonHispanicWhitePct": 80.66,
+          "blackPct": 6.18,
+          "asianPct": 3.18,
+          "hispanicPct": 6.18
+        }
+      },
+      "election": {
+        "winner": "William C. Conrad, III",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "141": {
+      "districtNumber": 141,
+      "districtName": "New York Assembly District 141",
+      "census": {
+        "censusName": "Assembly District 141 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44378,
+        "medianAge": 33.4,
+        "totalPopulation": 126123,
+        "collegePct": 28.04,
+        "renterRatePct": 57.85,
+        "race": {
+          "whitePct": 26.76,
+          "nonHispanicWhitePct": 25.22,
+          "blackPct": 55.14,
+          "asianPct": 8.6,
+          "hispanicPct": 8.05
+        }
+      },
+      "election": {
+        "winner": "Crystal D. Peoples",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "142": {
+      "districtNumber": 142,
+      "districtName": "New York Assembly District 142",
+      "census": {
+        "censusName": "Assembly District 142 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67753,
+        "medianAge": 42.2,
+        "totalPopulation": 130238,
+        "collegePct": 31.65,
+        "renterRatePct": 33.35,
+        "race": {
+          "whitePct": 86.04,
+          "nonHispanicWhitePct": 83.65,
+          "blackPct": 5.23,
+          "asianPct": 1,
+          "hispanicPct": 6.93
+        }
+      },
+      "election": {
+        "winner": "Patrick B. Burke",
+        "party": "Democratic",
+        "pct": 50.71,
+        "unopposed": false
+      }
+    },
+    "143": {
+      "districtNumber": 143,
+      "districtName": "New York Assembly District 143",
+      "census": {
+        "censusName": "Assembly District 143 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67112,
+        "medianAge": 40.4,
+        "totalPopulation": 130675,
+        "collegePct": 27.53,
+        "renterRatePct": 28.92,
+        "race": {
+          "whitePct": 77.47,
+          "nonHispanicWhitePct": 76.28,
+          "blackPct": 10.26,
+          "asianPct": 4.97,
+          "hispanicPct": 4.87
+        }
+      },
+      "election": {
+        "winner": "Patrick J. Chludzinski",
+        "party": "Republican",
+        "pct": 51.88,
+        "unopposed": false
+      }
+    },
+    "144": {
+      "districtNumber": 144,
+      "districtName": "New York Assembly District 144",
+      "census": {
+        "censusName": "Assembly District 144 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87676,
+        "medianAge": 44.6,
+        "totalPopulation": 136701,
+        "collegePct": 35.63,
+        "renterRatePct": 20.3,
+        "race": {
+          "whitePct": 89.36,
+          "nonHispanicWhitePct": 88.62,
+          "blackPct": 3.68,
+          "asianPct": 0.89,
+          "hispanicPct": 2.54
+        }
+      },
+      "election": {
+        "winner": "Paul A. Bologna",
+        "party": "Republican",
+        "pct": 61.81,
+        "unopposed": false
+      }
+    },
+    "145": {
+      "districtNumber": 145,
+      "districtName": "New York Assembly District 145",
+      "census": {
+        "censusName": "Assembly District 145 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68137,
+        "medianAge": 44.1,
+        "totalPopulation": 134023,
+        "collegePct": 30.02,
+        "renterRatePct": 29.63,
+        "race": {
+          "whitePct": 81.82,
+          "nonHispanicWhitePct": 80.76,
+          "blackPct": 7.66,
+          "asianPct": 1.66,
+          "hispanicPct": 4.38
+        }
+      },
+      "election": {
+        "winner": "Angelo J. Morinello",
+        "party": "Republican",
+        "pct": 61.31,
+        "unopposed": false
+      }
+    },
+    "146": {
+      "districtNumber": 146,
+      "districtName": "New York Assembly District 146",
+      "census": {
+        "censusName": "Assembly District 146 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93119,
+        "medianAge": 39,
+        "totalPopulation": 130209,
+        "collegePct": 56.54,
+        "renterRatePct": 30.02,
+        "race": {
+          "whitePct": 78.31,
+          "nonHispanicWhitePct": 77.08,
+          "blackPct": 5.31,
+          "asianPct": 9.83,
+          "hispanicPct": 4.16
+        }
+      },
+      "election": {
+        "winner": "Karen M. McMahon",
+        "party": "Democratic",
+        "pct": 60.03,
+        "unopposed": false
+      }
+    },
+    "147": {
+      "districtNumber": 147,
+      "districtName": "New York Assembly District 147",
+      "census": {
+        "censusName": "Assembly District 147 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82059,
+        "medianAge": 46.8,
+        "totalPopulation": 135352,
+        "collegePct": 29.89,
+        "renterRatePct": 18.14,
+        "race": {
+          "whitePct": 93.77,
+          "nonHispanicWhitePct": 93.07,
+          "blackPct": 1.62,
+          "asianPct": 0.52,
+          "hispanicPct": 1.98
+        }
+      },
+      "election": {
+        "winner": "David J. DiPietro",
+        "party": "Republican",
+        "pct": 68.03,
+        "unopposed": false
+      }
+    },
+    "148": {
+      "districtNumber": 148,
+      "districtName": "New York Assembly District 148",
+      "census": {
+        "censusName": "Assembly District 148 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59769,
+        "medianAge": 41.2,
+        "totalPopulation": 130793,
+        "collegePct": 21.94,
+        "renterRatePct": 23.2,
+        "race": {
+          "whitePct": 91.26,
+          "nonHispanicWhitePct": 90.4,
+          "blackPct": 1.47,
+          "asianPct": 1.03,
+          "hispanicPct": 2.14
+        }
+      },
+      "election": {
+        "winner": "Joseph Sempolinski",
+        "party": "Republican",
+        "pct": 65.87,
+        "unopposed": false
+      }
+    },
+    "149": {
+      "districtNumber": 149,
+      "districtName": "New York Assembly District 149",
+      "census": {
+        "censusName": "Assembly District 149 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66699,
+        "medianAge": 37.4,
+        "totalPopulation": 131852,
+        "collegePct": 38.38,
+        "renterRatePct": 47.24,
+        "race": {
+          "whitePct": 71.2,
+          "nonHispanicWhitePct": 68.51,
+          "blackPct": 10.22,
+          "asianPct": 4.66,
+          "hispanicPct": 13.25
+        }
+      },
+      "election": {
+        "winner": "Jonathan D. Rivera",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "150": {
+      "districtNumber": 150,
+      "districtName": "New York Assembly District 150",
+      "census": {
+        "censusName": "Assembly District 150 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56344,
+        "medianAge": 42.6,
+        "totalPopulation": 128197,
+        "collegePct": 25.05,
+        "renterRatePct": 30.84,
+        "race": {
+          "whitePct": 86.24,
+          "nonHispanicWhitePct": 83.31,
+          "blackPct": 2.68,
+          "asianPct": 0.68,
+          "hispanicPct": 9.3
+        }
+      },
+      "election": {
+        "winner": "Andrew M. Molitor",
+        "party": "Republican",
+        "pct": 62.86,
+        "unopposed": false
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "New York Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 121749,
+        "medianAge": 45,
+        "totalPopulation": 321945,
+        "collegePct": 46.22,
+        "renterRatePct": 17,
+        "race": {
+          "whitePct": 75.89,
+          "nonHispanicWhitePct": 71.18,
+          "blackPct": 3.93,
+          "asianPct": 4.73,
+          "hispanicPct": 16.98
+        }
+      },
+      "election": {
+        "winner": "Anthony H. Palumbo",
+        "party": "Republican",
+        "pct": 52.94,
+        "unopposed": false
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "New York Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 158198,
+        "medianAge": 45.6,
+        "totalPopulation": 319679,
+        "collegePct": 55.26,
+        "renterRatePct": 11.58,
+        "race": {
+          "whitePct": 79.81,
+          "nonHispanicWhitePct": 76.22,
+          "blackPct": 3.26,
+          "asianPct": 5.35,
+          "hispanicPct": 11.71
+        }
+      },
+      "election": {
+        "winner": "Mario R. Mattera",
+        "party": "Republican",
+        "pct": 58.29,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "New York Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 114812,
+        "medianAge": 39.4,
+        "totalPopulation": 330259,
+        "collegePct": 30.8,
+        "renterRatePct": 21.66,
+        "race": {
+          "whitePct": 71.39,
+          "nonHispanicWhitePct": 64.68,
+          "blackPct": 8.07,
+          "asianPct": 4.06,
+          "hispanicPct": 20.3
+        }
+      },
+      "election": {
+        "winner": "Dean Murray",
+        "party": "Republican",
+        "pct": 61.49,
+        "unopposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "New York Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120810,
+        "medianAge": 37.4,
+        "totalPopulation": 327916,
+        "collegePct": 25.79,
+        "renterRatePct": 21.29,
+        "race": {
+          "whitePct": 40.87,
+          "nonHispanicWhitePct": 31.91,
+          "blackPct": 17.22,
+          "asianPct": 4.34,
+          "hispanicPct": 44.08
+        }
+      },
+      "election": {
+        "winner": "Monica R. Martinez",
+        "party": "Democratic",
+        "pct": 56.5,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "New York Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 152720,
+        "medianAge": 42.6,
+        "totalPopulation": 322739,
+        "collegePct": 48.7,
+        "renterRatePct": 8.8,
+        "race": {
+          "whitePct": 70.78,
+          "nonHispanicWhitePct": 67.52,
+          "blackPct": 2.24,
+          "asianPct": 13.99,
+          "hispanicPct": 13.22
+        }
+      },
+      "election": {
+        "winner": "Steven D. Rhoads",
+        "party": "Republican",
+        "pct": 61.34,
+        "unopposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "New York Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 130181,
+        "medianAge": 39,
+        "totalPopulation": 325736,
+        "collegePct": 37.87,
+        "renterRatePct": 26.57,
+        "race": {
+          "whitePct": 37.86,
+          "nonHispanicWhitePct": 32.16,
+          "blackPct": 28.98,
+          "asianPct": 3.82,
+          "hispanicPct": 32.2
+        }
+      },
+      "election": {
+        "winner": "Siela A. Bynoe",
+        "party": "Democratic",
+        "pct": 60.89,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "New York Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 157315,
+        "medianAge": 44.2,
+        "totalPopulation": 321906,
+        "collegePct": 62.86,
+        "renterRatePct": 20.26,
+        "race": {
+          "whitePct": 65.18,
+          "nonHispanicWhitePct": 61.75,
+          "blackPct": 2.12,
+          "asianPct": 20.67,
+          "hispanicPct": 12.11
+        }
+      },
+      "election": {
+        "winner": "Jack M. Martins",
+        "party": "Republican",
+        "pct": 55.17,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "New York Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 140132,
+        "medianAge": 42.5,
+        "totalPopulation": 321656,
+        "collegePct": 43.12,
+        "renterRatePct": 15.75,
+        "race": {
+          "whitePct": 81.53,
+          "nonHispanicWhitePct": 77.72,
+          "blackPct": 3.3,
+          "asianPct": 2.57,
+          "hispanicPct": 14.03
+        }
+      },
+      "election": {
+        "winner": "Alexis Weik",
+        "party": "Republican",
+        "pct": 67.22,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "New York Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 134995,
+        "medianAge": 41.3,
+        "totalPopulation": 321982,
+        "collegePct": 45.7,
+        "renterRatePct": 20.96,
+        "race": {
+          "whitePct": 56.55,
+          "nonHispanicWhitePct": 52.62,
+          "blackPct": 14.15,
+          "asianPct": 10.4,
+          "hispanicPct": 18.63
+        }
+      },
+      "election": {
+        "winner": "Patricia M. Canzoneri-Fitzpatrick",
+        "party": "Republican",
+        "pct": 67.49,
+        "unopposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "New York Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81806,
+        "medianAge": 39.1,
+        "totalPopulation": 331329,
+        "collegePct": 26.67,
+        "renterRatePct": 49.36,
+        "race": {
+          "whitePct": 20.93,
+          "nonHispanicWhitePct": 18.02,
+          "blackPct": 48.23,
+          "asianPct": 8.7,
+          "hispanicPct": 18.31
+        }
+      },
+      "election": {
+        "winner": "James Sanders Jr.",
+        "party": "Democratic",
+        "pct": 71.1,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "New York Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93829,
+        "medianAge": 45.5,
+        "totalPopulation": 311857,
+        "collegePct": 39.5,
+        "renterRatePct": 36.9,
+        "race": {
+          "whitePct": 32.19,
+          "nonHispanicWhitePct": 29.5,
+          "blackPct": 9,
+          "asianPct": 37.54,
+          "hispanicPct": 18.56
+        }
+      },
+      "election": {
+        "winner": "Toby Ann Stavisky",
+        "party": "Democratic",
+        "pct": 54.38,
+        "unopposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "New York Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81231,
+        "medianAge": 38.5,
+        "totalPopulation": 303617,
+        "collegePct": 39.19,
+        "renterRatePct": 70.81,
+        "race": {
+          "whitePct": 42.13,
+          "nonHispanicWhitePct": 34.16,
+          "blackPct": 2.67,
+          "asianPct": 26.81,
+          "hispanicPct": 33.85
+        }
+      },
+      "election": {
+        "winner": "Michael N. Gianaris",
+        "party": "Democratic",
+        "pct": 67.62,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "New York Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74137,
+        "medianAge": 38.6,
+        "totalPopulation": 292737,
+        "collegePct": 23.55,
+        "renterRatePct": 68.29,
+        "race": {
+          "whitePct": 18.02,
+          "nonHispanicWhitePct": 8.8,
+          "blackPct": 6.76,
+          "asianPct": 21.11,
+          "hispanicPct": 62.01
+        }
+      },
+      "election": {
+        "winner": "Jessica Ramos",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "New York Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94855,
+        "medianAge": 40.2,
+        "totalPopulation": 325369,
+        "collegePct": 37.01,
+        "renterRatePct": 44.91,
+        "race": {
+          "whitePct": 18.67,
+          "nonHispanicWhitePct": 16.76,
+          "blackPct": 45.99,
+          "asianPct": 13.62,
+          "hispanicPct": 17.1
+        }
+      },
+      "election": {
+        "winner": "Leroy G. Comrie, Jr.",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "New York Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88462,
+        "medianAge": 41.3,
+        "totalPopulation": 319111,
+        "collegePct": 33.15,
+        "renterRatePct": 47.25,
+        "race": {
+          "whitePct": 33.33,
+          "nonHispanicWhitePct": 27.47,
+          "blackPct": 6.04,
+          "asianPct": 24.8,
+          "hispanicPct": 32.24
+        }
+      },
+      "election": {
+        "winner": "Joseph P. Addabbo, Jr.",
+        "party": "Democratic",
+        "pct": 76.88,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "New York Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72916,
+        "medianAge": 45.1,
+        "totalPopulation": 292843,
+        "collegePct": 35.41,
+        "renterRatePct": 52.68,
+        "race": {
+          "whitePct": 23.55,
+          "nonHispanicWhitePct": 20.99,
+          "blackPct": 4.21,
+          "asianPct": 56.04,
+          "hispanicPct": 15.79
+        }
+      },
+      "election": {
+        "winner": "John C. Liu",
+        "party": "Democratic",
+        "pct": 79.76,
+        "unopposed": false
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "New York Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66649,
+        "medianAge": 39.1,
+        "totalPopulation": 284875,
+        "collegePct": 29.95,
+        "renterRatePct": 66.75,
+        "race": {
+          "whitePct": 34.34,
+          "nonHispanicWhitePct": 31.82,
+          "blackPct": 2.14,
+          "asianPct": 44.08,
+          "hispanicPct": 18.87
+        }
+      },
+      "election": {
+        "winner": "Steve Chan",
+        "party": "Republican",
+        "pct": 54.89,
+        "unopposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "New York Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76962,
+        "medianAge": 31.9,
+        "totalPopulation": 307908,
+        "collegePct": 37.44,
+        "renterRatePct": 83.03,
+        "race": {
+          "whitePct": 42.47,
+          "nonHispanicWhitePct": 35.57,
+          "blackPct": 14.84,
+          "asianPct": 6.17,
+          "hispanicPct": 42.59
+        }
+      },
+      "election": {
+        "winner": "Julia Salazar",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "New York Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58942,
+        "medianAge": 38,
+        "totalPopulation": 311703,
+        "collegePct": 21.17,
+        "renterRatePct": 68.62,
+        "race": {
+          "whitePct": 8.55,
+          "nonHispanicWhitePct": 5.62,
+          "blackPct": 67.61,
+          "asianPct": 4.57,
+          "hispanicPct": 18.45
+        }
+      },
+      "election": {
+        "winner": "Roxanne J. Persaud",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "New York Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91172,
+        "medianAge": 37,
+        "totalPopulation": 321701,
+        "collegePct": 50.15,
+        "renterRatePct": 75.02,
+        "race": {
+          "whitePct": 35.9,
+          "nonHispanicWhitePct": 33.7,
+          "blackPct": 45.05,
+          "asianPct": 4.4,
+          "hispanicPct": 11.83
+        }
+      },
+      "election": {
+        "winner": "Zellnor Y. Myrie",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "New York Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83499,
+        "medianAge": 40.2,
+        "totalPopulation": 304619,
+        "collegePct": 37.48,
+        "renterRatePct": 59.59,
+        "race": {
+          "whitePct": 25.33,
+          "nonHispanicWhitePct": 23.82,
+          "blackPct": 50.71,
+          "asianPct": 8.04,
+          "hispanicPct": 12.08
+        }
+      },
+      "election": {
+        "winner": "Kevin S. Parker",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "New York Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68886,
+        "medianAge": 33,
+        "totalPopulation": 304169,
+        "collegePct": 37.78,
+        "renterRatePct": 60.34,
+        "race": {
+          "whitePct": 70.61,
+          "nonHispanicWhitePct": 68.99,
+          "blackPct": 3,
+          "asianPct": 14.25,
+          "hispanicPct": 9.29
+        }
+      },
+      "election": {
+        "winner": "Simcha Felder",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "New York Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63447,
+        "medianAge": 41.7,
+        "totalPopulation": 307030,
+        "collegePct": 35.55,
+        "renterRatePct": 58.27,
+        "race": {
+          "whitePct": 48.89,
+          "nonHispanicWhitePct": 43.43,
+          "blackPct": 19.76,
+          "asianPct": 12.07,
+          "hispanicPct": 22.54
+        }
+      },
+      "election": {
+        "winner": "Jessica Scarcella-Spanton",
+        "party": "Democratic",
+        "pct": 55.23,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "New York Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111090,
+        "medianAge": 41.3,
+        "totalPopulation": 323973,
+        "collegePct": 38.69,
+        "renterRatePct": 23.77,
+        "race": {
+          "whitePct": 74.24,
+          "nonHispanicWhitePct": 69.19,
+          "blackPct": 2.45,
+          "asianPct": 12.02,
+          "hispanicPct": 13.92
+        }
+      },
+      "election": {
+        "winner": "Andrew J. Lanza",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "New York Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73885,
+        "medianAge": 33.8,
+        "totalPopulation": 323476,
+        "collegePct": 43.25,
+        "renterRatePct": 78.2,
+        "race": {
+          "whitePct": 27.61,
+          "nonHispanicWhitePct": 24.77,
+          "blackPct": 46.71,
+          "asianPct": 4.84,
+          "hispanicPct": 20.14
+        }
+      },
+      "election": {
+        "winner": "Jabari Brisport",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "New York Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118488,
+        "medianAge": 37.6,
+        "totalPopulation": 313306,
+        "collegePct": 60.03,
+        "renterRatePct": 64.72,
+        "race": {
+          "whitePct": 55.71,
+          "nonHispanicWhitePct": 50.64,
+          "blackPct": 7.47,
+          "asianPct": 13.96,
+          "hispanicPct": 23.7
+        }
+      },
+      "election": {
+        "winner": "Andrew S. Gounardes",
+        "party": "Democratic",
+        "pct": 78.77,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "New York Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109821,
+        "medianAge": 37.1,
+        "totalPopulation": 297777,
+        "collegePct": 64.89,
+        "renterRatePct": 77.13,
+        "race": {
+          "whitePct": 53.75,
+          "nonHispanicWhitePct": 49.73,
+          "blackPct": 6.83,
+          "asianPct": 23.39,
+          "hispanicPct": 16.29
+        }
+      },
+      "election": {
+        "winner": "Brian Kavanagh",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "New York Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 159997,
+        "medianAge": 41.1,
+        "totalPopulation": 287415,
+        "collegePct": 82.41,
+        "renterRatePct": 61.77,
+        "race": {
+          "whitePct": 74.34,
+          "nonHispanicWhitePct": 71.12,
+          "blackPct": 3.4,
+          "asianPct": 12.88,
+          "hispanicPct": 8.49
+        }
+      },
+      "election": {
+        "winner": "Liz Krueger",
+        "party": "Democratic",
+        "pct": 76.01,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "New York Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43071,
+        "medianAge": 36.1,
+        "totalPopulation": 310248,
+        "collegePct": 29.39,
+        "renterRatePct": 89.83,
+        "race": {
+          "whitePct": 19.96,
+          "nonHispanicWhitePct": 13,
+          "blackPct": 32.25,
+          "asianPct": 5.05,
+          "hispanicPct": 52.17
+        }
+      },
+      "election": {
+        "winner": "Jose M. Serrano",
+        "party": "Democratic",
+        "pct": 81.87,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "New York Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59084,
+        "medianAge": 36.7,
+        "totalPopulation": 323028,
+        "collegePct": 44.94,
+        "renterRatePct": 83.76,
+        "race": {
+          "whitePct": 25.93,
+          "nonHispanicWhitePct": 21.77,
+          "blackPct": 38.75,
+          "asianPct": 6.94,
+          "hispanicPct": 30.92
+        }
+      },
+      "election": {
+        "winner": "Cordell Cleare",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "New York Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57424,
+        "medianAge": 37.5,
+        "totalPopulation": 326593,
+        "collegePct": 32.34,
+        "renterRatePct": 87.22,
+        "race": {
+          "whitePct": 22.66,
+          "nonHispanicWhitePct": 15.21,
+          "blackPct": 16.04,
+          "asianPct": 2.91,
+          "hispanicPct": 67.5
+        }
+      },
+      "election": {
+        "winner": "Robert Jackson",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "New York Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 38760,
+        "medianAge": 33.2,
+        "totalPopulation": 310567,
+        "collegePct": 15.2,
+        "renterRatePct": 91.41,
+        "race": {
+          "whitePct": 9.2,
+          "nonHispanicWhitePct": 2.15,
+          "blackPct": 40.59,
+          "asianPct": 0.84,
+          "hispanicPct": 60.75
+        }
+      },
+      "election": {
+        "winner": "Luis R. Sepulveda",
+        "party": "Democratic",
+        "pct": 79.17,
+        "unopposed": false
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "New York Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52984,
+        "medianAge": 35.8,
+        "totalPopulation": 303163,
+        "collegePct": 26.7,
+        "renterRatePct": 82.82,
+        "race": {
+          "whitePct": 22.47,
+          "nonHispanicWhitePct": 16.28,
+          "blackPct": 19.98,
+          "asianPct": 5.52,
+          "hispanicPct": 58.76
+        }
+      },
+      "election": {
+        "winner": "J. Gustavo Rivera",
+        "party": "Democratic",
+        "pct": 74.9,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "New York Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64800,
+        "medianAge": 38.2,
+        "totalPopulation": 305210,
+        "collegePct": 28.77,
+        "renterRatePct": 65.59,
+        "race": {
+          "whitePct": 28.3,
+          "nonHispanicWhitePct": 20.01,
+          "blackPct": 21.96,
+          "asianPct": 9.72,
+          "hispanicPct": 47.84
+        }
+      },
+      "election": {
+        "winner": "Nathalia Fernandez",
+        "party": "Democratic",
+        "pct": 67.64,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "New York Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102063,
+        "medianAge": 39.8,
+        "totalPopulation": 317392,
+        "collegePct": 45.56,
+        "renterRatePct": 43.97,
+        "race": {
+          "whitePct": 47.2,
+          "nonHispanicWhitePct": 42.03,
+          "blackPct": 13.91,
+          "asianPct": 6.83,
+          "hispanicPct": 34.99
+        }
+      },
+      "election": {
+        "winner": "Andrea Stewart-Cousins",
+        "party": "Democratic",
+        "pct": 66.17,
+        "unopposed": false
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "New York Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68237,
+        "medianAge": 39.7,
+        "totalPopulation": 315523,
+        "collegePct": 29.1,
+        "renterRatePct": 59.23,
+        "race": {
+          "whitePct": 11.96,
+          "nonHispanicWhitePct": 8.66,
+          "blackPct": 58.3,
+          "asianPct": 2.91,
+          "hispanicPct": 28.11
+        }
+      },
+      "election": {
+        "winner": "Jamaal T. Bailey",
+        "party": "Democratic",
+        "pct": 91.63,
+        "unopposed": false
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "New York Senate District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 144763,
+        "medianAge": 41.6,
+        "totalPopulation": 314893,
+        "collegePct": 61.97,
+        "renterRatePct": 32.73,
+        "race": {
+          "whitePct": 63.94,
+          "nonHispanicWhitePct": 59.53,
+          "blackPct": 7.1,
+          "asianPct": 7.53,
+          "hispanicPct": 22.56
+        }
+      },
+      "election": {
+        "winner": "Shelley B. Mayer",
+        "party": "Democratic",
+        "pct": 61.75,
+        "unopposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "New York Senate District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109740,
+        "medianAge": 34.6,
+        "totalPopulation": 324143,
+        "collegePct": 42.37,
+        "renterRatePct": 32.79,
+        "race": {
+          "whitePct": 63.89,
+          "nonHispanicWhitePct": 60.67,
+          "blackPct": 10.99,
+          "asianPct": 6.08,
+          "hispanicPct": 20
+        }
+      },
+      "election": {
+        "winner": "William J. Weber, Jr.",
+        "party": "Republican",
+        "pct": 52.43,
+        "unopposed": false
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "New York Senate District 39",
+      "census": {
+        "censusName": "State Senate District 39 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96643,
+        "medianAge": 40.8,
+        "totalPopulation": 320953,
+        "collegePct": 37.34,
+        "renterRatePct": 33.25,
+        "race": {
+          "whitePct": 64.07,
+          "nonHispanicWhitePct": 59.46,
+          "blackPct": 12.43,
+          "asianPct": 3.23,
+          "hispanicPct": 20.7
+        }
+      },
+      "election": {
+        "winner": "Rob Rolison",
+        "party": "Republican",
+        "pct": 50.7,
+        "unopposed": false
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "New York Senate District 40",
+      "census": {
+        "censusName": "State Senate District 40 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 133600,
+        "medianAge": 44.1,
+        "totalPopulation": 317960,
+        "collegePct": 52.28,
+        "renterRatePct": 21.35,
+        "race": {
+          "whitePct": 69.72,
+          "nonHispanicWhitePct": 64.5,
+          "blackPct": 6.46,
+          "asianPct": 3.93,
+          "hispanicPct": 22.33
+        }
+      },
+      "election": {
+        "winner": "Peter B. Harckham",
+        "party": "Democratic",
+        "pct": 53.61,
+        "unopposed": false
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "New York Senate District 41",
+      "census": {
+        "censusName": "State Senate District 41 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83239,
+        "medianAge": 46.1,
+        "totalPopulation": 322994,
+        "collegePct": 37.38,
+        "renterRatePct": 28.39,
+        "race": {
+          "whitePct": 80.56,
+          "nonHispanicWhitePct": 78.16,
+          "blackPct": 5.04,
+          "asianPct": 2.09,
+          "hispanicPct": 9.23
+        }
+      },
+      "election": {
+        "winner": "Michelle Hinchey",
+        "party": "Democratic",
+        "pct": 58.65,
+        "unopposed": false
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "New York Senate District 42",
+      "census": {
+        "censusName": "State Senate District 42 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99956,
+        "medianAge": 36.5,
+        "totalPopulation": 320090,
+        "collegePct": 33.71,
+        "renterRatePct": 29.61,
+        "race": {
+          "whitePct": 67.63,
+          "nonHispanicWhitePct": 62.95,
+          "blackPct": 10.09,
+          "asianPct": 3.1,
+          "hispanicPct": 20.61
+        }
+      },
+      "election": {
+        "winner": "James G. Skoufis",
+        "party": "Democratic",
+        "pct": 54.49,
+        "unopposed": false
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "New York Senate District 43",
+      "census": {
+        "censusName": "State Senate District 43 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84582,
+        "medianAge": 41,
+        "totalPopulation": 314431,
+        "collegePct": 35.97,
+        "renterRatePct": 35.53,
+        "race": {
+          "whitePct": 80.31,
+          "nonHispanicWhitePct": 78.73,
+          "blackPct": 6.41,
+          "asianPct": 4.79,
+          "hispanicPct": 5.43
+        }
+      },
+      "election": {
+        "winner": "Jake Ashby",
+        "party": "Republican",
+        "pct": 54.65,
+        "unopposed": false
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "New York Senate District 44",
+      "census": {
+        "censusName": "State Senate District 44 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90574,
+        "medianAge": 41.9,
+        "totalPopulation": 329001,
+        "collegePct": 41.38,
+        "renterRatePct": 32.79,
+        "race": {
+          "whitePct": 80.18,
+          "nonHispanicWhitePct": 78.64,
+          "blackPct": 5.83,
+          "asianPct": 4.1,
+          "hispanicPct": 5.84
+        }
+      },
+      "election": {
+        "winner": "James N. Tedisco",
+        "party": "Republican",
+        "pct": 57.88,
+        "unopposed": false
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "New York Senate District 45",
+      "census": {
+        "censusName": "State Senate District 45 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69414,
+        "medianAge": 42.8,
+        "totalPopulation": 322493,
+        "collegePct": 27.95,
+        "renterRatePct": 29.12,
+        "race": {
+          "whitePct": 90.44,
+          "nonHispanicWhitePct": 89.47,
+          "blackPct": 2.44,
+          "asianPct": 0.98,
+          "hispanicPct": 2.96
+        }
+      },
+      "election": {
+        "winner": "Daniel G. Stec",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "New York Senate District 46",
+      "census": {
+        "censusName": "State Senate District 46 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80748,
+        "medianAge": 38.8,
+        "totalPopulation": 315792,
+        "collegePct": 41.65,
+        "renterRatePct": 38.16,
+        "race": {
+          "whitePct": 75.15,
+          "nonHispanicWhitePct": 73.06,
+          "blackPct": 10.56,
+          "asianPct": 4.7,
+          "hispanicPct": 8.11
+        }
+      },
+      "election": {
+        "winner": "Patricia A. Fahy",
+        "party": "Democratic",
+        "pct": 55.93,
+        "unopposed": false
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "New York Senate District 47",
+      "census": {
+        "censusName": "State Senate District 47 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 140188,
+        "medianAge": 41.7,
+        "totalPopulation": 304322,
+        "collegePct": 78.91,
+        "renterRatePct": 69.58,
+        "race": {
+          "whitePct": 66.94,
+          "nonHispanicWhitePct": 63.65,
+          "blackPct": 5.34,
+          "asianPct": 12.12,
+          "hispanicPct": 14.26
+        }
+      },
+      "election": {
+        "winner": "Brad Hoylman-Sigal",
+        "party": "Democratic",
+        "pct": 83.96,
+        "unopposed": false
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "New York Senate District 48",
+      "census": {
+        "censusName": "State Senate District 48 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63887,
+        "medianAge": 38.5,
+        "totalPopulation": 321510,
+        "collegePct": 33.03,
+        "renterRatePct": 39.29,
+        "race": {
+          "whitePct": 72.06,
+          "nonHispanicWhitePct": 70.54,
+          "blackPct": 14,
+          "asianPct": 3.85,
+          "hispanicPct": 6.4
+        }
+      },
+      "election": {
+        "winner": "Rachel May",
+        "party": "Democratic",
+        "pct": 58.46,
+        "unopposed": false
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "New York Senate District 49",
+      "census": {
+        "censusName": "State Senate District 49 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64889,
+        "medianAge": 39.4,
+        "totalPopulation": 319959,
+        "collegePct": 22.6,
+        "renterRatePct": 32.33,
+        "race": {
+          "whitePct": 88.89,
+          "nonHispanicWhitePct": 87.5,
+          "blackPct": 2.71,
+          "asianPct": 1.02,
+          "hispanicPct": 4.39
+        }
+      },
+      "election": {
+        "winner": "Mark C. Walczyk",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "New York Senate District 50",
+      "census": {
+        "censusName": "State Senate District 50 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81821,
+        "medianAge": 41.4,
+        "totalPopulation": 316836,
+        "collegePct": 35.37,
+        "renterRatePct": 26.13,
+        "race": {
+          "whitePct": 87.55,
+          "nonHispanicWhitePct": 86.47,
+          "blackPct": 2.99,
+          "asianPct": 2.41,
+          "hispanicPct": 3.99
+        }
+      },
+      "election": {
+        "winner": "Christopher J. Ryan",
+        "party": "Democratic",
+        "pct": 50.47,
+        "unopposed": false
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "New York Senate District 51",
+      "census": {
+        "censusName": "State Senate District 51 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68966,
+        "medianAge": 43.9,
+        "totalPopulation": 324036,
+        "collegePct": 28.07,
+        "renterRatePct": 24.84,
+        "race": {
+          "whitePct": 83.94,
+          "nonHispanicWhitePct": 81.74,
+          "blackPct": 3.98,
+          "asianPct": 1.35,
+          "hispanicPct": 8.94
+        }
+      },
+      "election": {
+        "winner": "Peter Oberacker",
+        "party": "Republican",
+        "pct": 59.36,
+        "unopposed": false
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "New York Senate District 52",
+      "census": {
+        "censusName": "State Senate District 52 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65538,
+        "medianAge": 36.3,
+        "totalPopulation": 314966,
+        "collegePct": 40.63,
+        "renterRatePct": 40.61,
+        "race": {
+          "whitePct": 80.27,
+          "nonHispanicWhitePct": 78.82,
+          "blackPct": 4.93,
+          "asianPct": 6.34,
+          "hispanicPct": 5.58
+        }
+      },
+      "election": {
+        "winner": "Lea Webb",
+        "party": "Democratic",
+        "pct": 57.54,
+        "unopposed": false
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "New York Senate District 53",
+      "census": {
+        "censusName": "State Senate District 53 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69651,
+        "medianAge": 41.4,
+        "totalPopulation": 319563,
+        "collegePct": 27.07,
+        "renterRatePct": 28.97,
+        "race": {
+          "whitePct": 84.5,
+          "nonHispanicWhitePct": 82.88,
+          "blackPct": 4.37,
+          "asianPct": 3.22,
+          "hispanicPct": 5.56
+        }
+      },
+      "election": {
+        "winner": "Joseph A. Griffo",
+        "party": "Republican",
+        "pct": 70.21,
+        "unopposed": false
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "New York Senate District 54",
+      "census": {
+        "censusName": "State Senate District 54 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78620,
+        "medianAge": 43.4,
+        "totalPopulation": 317129,
+        "collegePct": 33.63,
+        "renterRatePct": 23.24,
+        "race": {
+          "whitePct": 88.85,
+          "nonHispanicWhitePct": 87.35,
+          "blackPct": 2.76,
+          "asianPct": 1.23,
+          "hispanicPct": 4.99
+        }
+      },
+      "election": {
+        "winner": "Pamela A. Helming",
+        "party": "Republican",
+        "pct": 64.52,
+        "unopposed": false
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "New York Senate District 55",
+      "census": {
+        "censusName": "State Senate District 55 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79889,
+        "medianAge": 40.8,
+        "totalPopulation": 318148,
+        "collegePct": 48.83,
+        "renterRatePct": 35.61,
+        "race": {
+          "whitePct": 74.18,
+          "nonHispanicWhitePct": 71.48,
+          "blackPct": 11.62,
+          "asianPct": 3.34,
+          "hispanicPct": 10.22
+        }
+      },
+      "election": {
+        "winner": "Samra G. Brouk",
+        "party": "Democratic",
+        "pct": 61.58,
+        "unopposed": false
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "New York Senate District 56",
+      "census": {
+        "censusName": "State Senate District 56 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64298,
+        "medianAge": 37.8,
+        "totalPopulation": 318688,
+        "collegePct": 33.88,
+        "renterRatePct": 42.26,
+        "race": {
+          "whitePct": 61.96,
+          "nonHispanicWhitePct": 58.49,
+          "blackPct": 21.53,
+          "asianPct": 5.17,
+          "hispanicPct": 11.29
+        }
+      },
+      "election": {
+        "winner": "Jeremy A. Cooney",
+        "party": "Democratic",
+        "pct": 58.89,
+        "unopposed": false
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "New York Senate District 57",
+      "census": {
+        "censusName": "State Senate District 57 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61530,
+        "medianAge": 42.6,
+        "totalPopulation": 323047,
+        "collegePct": 22.73,
+        "renterRatePct": 26.95,
+        "race": {
+          "whitePct": 89.1,
+          "nonHispanicWhitePct": 87.29,
+          "blackPct": 2.23,
+          "asianPct": 0.71,
+          "hispanicPct": 5.57
+        }
+      },
+      "election": {
+        "winner": "George M. Borrello",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "New York Senate District 58",
+      "census": {
+        "censusName": "State Senate District 58 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65721,
+        "medianAge": 42.7,
+        "totalPopulation": 324167,
+        "collegePct": 25.92,
+        "renterRatePct": 26.02,
+        "race": {
+          "whitePct": 90.81,
+          "nonHispanicWhitePct": 89.89,
+          "blackPct": 2.87,
+          "asianPct": 1.26,
+          "hispanicPct": 2.75
+        }
+      },
+      "election": {
+        "winner": "Thomas Fellers O'Mara",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "New York Senate District 59",
+      "census": {
+        "censusName": "State Senate District 59 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 128379,
+        "medianAge": 35,
+        "totalPopulation": 290546,
+        "collegePct": 70.79,
+        "renterRatePct": 79.69,
+        "race": {
+          "whitePct": 59.18,
+          "nonHispanicWhitePct": 55.23,
+          "blackPct": 5.91,
+          "asianPct": 16.52,
+          "hispanicPct": 16.9
+        }
+      },
+      "election": {
+        "winner": "Kristen Gonzalez",
+        "party": "Democratic",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "New York Senate District 60",
+      "census": {
+        "censusName": "State Senate District 60 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87732,
+        "medianAge": 46.4,
+        "totalPopulation": 325903,
+        "collegePct": 37.66,
+        "renterRatePct": 20.57,
+        "race": {
+          "whitePct": 93.01,
+          "nonHispanicWhitePct": 92.06,
+          "blackPct": 1.5,
+          "asianPct": 0.7,
+          "hispanicPct": 2.64
+        }
+      },
+      "election": {
+        "winner": "Patrick M. Gallivan",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "New York Senate District 61",
+      "census": {
+        "censusName": "State Senate District 61 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78061,
+        "medianAge": 38.5,
+        "totalPopulation": 315301,
+        "collegePct": 46.71,
+        "renterRatePct": 36.26,
+        "race": {
+          "whitePct": 76.74,
+          "nonHispanicWhitePct": 75.1,
+          "blackPct": 8.05,
+          "asianPct": 6.44,
+          "hispanicPct": 6.78
+        }
+      },
+      "election": {
+        "winner": "Sean M. Ryan",
+        "party": "Democratic",
+        "pct": 61.8,
+        "unopposed": false
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "New York Senate District 62",
+      "census": {
+        "censusName": "State Senate District 62 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70242,
+        "medianAge": 42.4,
+        "totalPopulation": 316251,
+        "collegePct": 27.46,
+        "renterRatePct": 27.41,
+        "race": {
+          "whitePct": 85.54,
+          "nonHispanicWhitePct": 84.25,
+          "blackPct": 5.59,
+          "asianPct": 1.07,
+          "hispanicPct": 4.13
+        }
+      },
+      "election": {
+        "winner": "Robert G. Ortt",
+        "party": "Republican",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "New York Senate District 63",
+      "census": {
+        "censusName": "State Senate District 63 (2022); New York",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51617,
+        "medianAge": 36.7,
+        "totalPopulation": 308840,
+        "collegePct": 25.81,
+        "renterRatePct": 47.21,
+        "race": {
+          "whitePct": 52.95,
+          "nonHispanicWhitePct": 50.78,
+          "blackPct": 29.23,
+          "asianPct": 6.66,
+          "hispanicPct": 9.69
+        }
+      },
+      "election": {
+        "winner": "April N. McCants-Baskin",
+        "party": "Democratic",
+        "pct": 66.41,
+        "unopposed": false
+      }
+    }
+  }
+}

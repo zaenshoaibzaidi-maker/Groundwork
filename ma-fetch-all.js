@@ -1,0 +1,289 @@
+#!/usr/bin/env node
+// ma-fetch-all.js
+// Fetches ACS 5-year Census data for all 160 Massachusetts House districts and
+// all 40 Massachusetts Senate districts, merges with pre-extracted election data
+// from ma-elections-data.json, and saves to ma-all-districts-data.json.
+//
+// Unlike most states, MA legislative districts are identified by name (e.g.
+// "1st Worcester", "Cape and Islands") rather than a sequential number, so the
+// Census district code for each is resolved via a wildcard NAME lookup first,
+// then matched to our names by normalizing both to a sorted token set.
+//
+// Usage:  node ma-fetch-all.js   (reads CENSUS_API_KEY from .env)
+// Requires: Node 18+ (native fetch)
+// Output:   ma-all-districts-data.json (created/overwritten in the same directory)
+
+require("dotenv").config();
+
+const path = require("path");
+const fs   = require("fs");
+
+// ══════════════════════════════════════════════════════════════════════════════
+//  CENSUS CONFIG
+// ══════════════════════════════════════════════════════════════════════════════
+
+const STATE_FIPS   = "25"; // Massachusetts
+const API_KEY      = process.env.CENSUS_API_KEY ? `&key=${process.env.CENSUS_API_KEY}` : "";
+const CENSUS_BASE  = "https://api.census.gov/data/2023/acs/acs5";
+
+const CENSUS_VARS = [
+  "B19013_001E", // Median household income
+  "B01002_001E", // Median age
+  "B02001_001E", // Total population (race universe)
+  "B02001_002E", // White alone
+  "B02001_003E", // Black or African American alone
+  "B02001_005E", // Asian alone
+  "B03001_001E", // Total population (Hispanic/Latino universe)
+  "B03001_003E", // Hispanic or Latino
+  "B03002_003E", // Non-Hispanic White alone
+  "B15003_001E", // Population 25+ (education universe)
+  "B15003_022E", // Bachelor's degree
+  "B15003_023E", // Master's degree
+  "B15003_024E", // Professional school degree
+  "B15003_025E", // Doctorate degree
+  "B25003_001E", // Total occupied housing units
+  "B25003_003E", // Renter-occupied units
+].join(",");
+
+const CENSUS_MISSING = -666666666;
+
+function parseRaw(raw) {
+  const n = parseFloat(raw);
+  return isNaN(n) || n === CENSUS_MISSING || n < 0 ? null : n;
+}
+
+function pctOf(numerator, denominator) {
+  if (numerator === null || denominator === null || denominator === 0) return null;
+  return parseFloat(((numerator / denominator) * 100).toFixed(2));
+}
+
+// ══════════════════════════════════════════════════════════════════════════════
+//  NAME NORMALIZATION (matches our district names to Census district names)
+// ══════════════════════════════════════════════════════════════════════════════
+
+function normalize(name) {
+  return name
+    .replace(/\(\d{4}\)/g, " ")
+    .replace(/;\s*Massachusetts/i, " ")
+    .replace(/\bDistrict\b/gi, " ")
+    .toLowerCase()
+    .replace(/\bfirst\b/g, "1st")
+    .replace(/\bsecond\b/g, "2nd")
+    .replace(/\bthird\b/g, "3rd")
+    .replace(/\bfourth\b/g, "4th")
+    .replace(/\bfifth\b/g, "5th")
+    .replace(/[-,&]/g, " ")
+    .split(/\s+/)
+    .filter(w => w && w !== "and")
+    .sort()
+    .join(" ");
+}
+
+async function fetchDistrictCodes(chamber) {
+  const url =
+    `${CENSUS_BASE}?get=NAME` +
+    `&for=state+legislative+district+(${chamber}+chamber):*` +
+    `&in=state:${STATE_FIPS}${API_KEY}`;
+
+  const res = await fetch(url);
+  if (!res.ok) {
+    throw new Error(`HTTP ${res.status}: ${await res.text()}`);
+  }
+
+  const data = await res.json();
+  const headers = data[0];
+  const nameIdx = headers.indexOf("NAME");
+  const codeIdx = headers.length - 1;
+
+  const map = {};
+  for (let i = 1; i < data.length; i++) {
+    const row = data[i];
+    const rawName = row[nameIdx];
+    if (/not defined/i.test(rawName)) continue;
+    map[normalize(rawName)] = { code: row[codeIdx], rawName };
+  }
+  return map;
+}
+
+// ══════════════════════════════════════════════════════════════════════════════
+//  PER-DISTRICT CENSUS FETCH
+// ══════════════════════════════════════════════════════════════════════════════
+
+async function fetchCensusData(code, chamber) {
+  const url =
+    `${CENSUS_BASE}?get=NAME,${CENSUS_VARS}` +
+    `&for=state+legislative+district+(${chamber}+chamber):${code}` +
+    `&in=state:${STATE_FIPS}${API_KEY}`;
+
+  const res = await fetch(url);
+  if (!res.ok) {
+    throw new Error(`HTTP ${res.status}: ${await res.text()}`);
+  }
+
+  const data = await res.json();
+  if (!Array.isArray(data) || data.length < 2) {
+    throw new Error("Empty response from Census API");
+  }
+
+  const headers = data[0];
+  const row     = data[1];
+  const get     = (key) => parseRaw(row[headers.indexOf(key)]);
+
+  const censusName       = row[headers.indexOf("NAME")];
+  const medianIncome     = get("B19013_001E");
+  const medianAge        = get("B01002_001E");
+  const totalPop         = get("B02001_001E");
+  const white            = get("B02001_002E");
+  const black            = get("B02001_003E");
+  const asian            = get("B02001_005E");
+  const hispanicTotal    = get("B03001_001E");
+  const hispanic         = get("B03001_003E");
+  const nonHispanicWhite = get("B03002_003E");
+  const edu25plus        = get("B15003_001E");
+  const bachelors        = get("B15003_022E");
+  const masters          = get("B15003_023E");
+  const professional     = get("B15003_024E");
+  const doctorate        = get("B15003_025E");
+  const totalUnits       = get("B25003_001E");
+  const renterOccupied   = get("B25003_003E");
+
+  const collegeGrad =
+    bachelors !== null && masters !== null && professional !== null && doctorate !== null
+      ? bachelors + masters + professional + doctorate
+      : null;
+
+  return {
+    censusName,
+    source: "ACS 5-Year 2023 (2019–2023)",
+    medianHouseholdIncome: medianIncome,
+    medianAge,
+    totalPopulation: totalPop !== null ? Math.round(totalPop) : null,
+    collegePct:    pctOf(collegeGrad, edu25plus),
+    renterRatePct: pctOf(renterOccupied, totalUnits),
+    race: {
+      whitePct:            pctOf(white, totalPop),
+      nonHispanicWhitePct: pctOf(nonHispanicWhite, totalPop),
+      blackPct:            pctOf(black, totalPop),
+      asianPct:            pctOf(asian, totalPop),
+      hispanicPct:         pctOf(hispanic, hispanicTotal),
+    },
+  };
+}
+
+function delay(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function fetchWithDelay(code, chamber, label, delayMs) {
+  await delay(delayMs);
+  try {
+    const data = await fetchCensusData(code, chamber);
+    process.stdout.write(`  [${label}] ✓\n`);
+    return { ok: true, data };
+  } catch (err) {
+    process.stdout.write(`  [${label}] ✗ ${err.message}\n`);
+    return { ok: false, error: err.message };
+  }
+}
+
+// ══════════════════════════════════════════════════════════════════════════════
+//  MAIN
+// ══════════════════════════════════════════════════════════════════════════════
+
+async function main() {
+  const ELECTION_FILE = path.join(__dirname, "ma-elections-data.json");
+  const OUTPUT_FILE   = path.join(__dirname, "ma-all-districts-data.json");
+
+  console.log("Loading election data from ma-elections-data.json...");
+  if (!fs.existsSync(ELECTION_FILE)) {
+    console.error(`ma-elections-data.json not found in ${__dirname}.`);
+    process.exit(1);
+  }
+  const electionData   = JSON.parse(fs.readFileSync(ELECTION_FILE, "utf8"));
+  const houseElection  = electionData.house  || {};
+  const senateElection = electionData.senate || {};
+  const houseNames     = Object.keys(houseElection);
+  const senateNames    = Object.keys(senateElection);
+  console.log(
+    `  House election districts: ${houseNames.length}`,
+    `| Senate election districts: ${senateNames.length}\n`
+  );
+
+  console.log("Resolving Census district codes for House (lower chamber) and Senate (upper chamber)...");
+  const lowerCodeMap = await fetchDistrictCodes("lower");
+  const upperCodeMap = await fetchDistrictCodes("upper");
+  console.log(`  Lower chamber codes found: ${Object.keys(lowerCodeMap).length}`);
+  console.log(`  Upper chamber codes found: ${Object.keys(upperCodeMap).length}\n`);
+
+  function resolveCode(name, codeMap) {
+    const match = codeMap[normalize(name)];
+    return match ? match.code : null;
+  }
+
+  console.log("Fetching Census data for 160 House districts (lower chamber)...");
+  console.log("  200ms delay between each request — est. ~35 seconds\n");
+
+  const houseCensus = {};
+  for (const name of houseNames) {
+    const code = resolveCode(name, lowerCodeMap);
+    const label = `HD [${name}]`;
+    if (!code) {
+      process.stdout.write(`  [${label}] ✗ no matching Census district code\n`);
+      houseCensus[name] = { ok: false, error: "No matching Census district code" };
+      continue;
+    }
+    houseCensus[name] = await fetchWithDelay(code, "lower", label, 200);
+  }
+
+  console.log("\nFetching Census data for 40 Senate districts (upper chamber)...");
+  console.log("  200ms delay between each request — est. ~10 seconds\n");
+
+  const senateCensus = {};
+  for (const name of senateNames) {
+    const code = resolveCode(name, upperCodeMap);
+    const label = `SD [${name}]`;
+    if (!code) {
+      process.stdout.write(`  [${label}] ✗ no matching Census district code\n`);
+      senateCensus[name] = { ok: false, error: "No matching Census district code" };
+      continue;
+    }
+    senateCensus[name] = await fetchWithDelay(code, "upper", label, 200);
+  }
+
+  console.log("\nCombining and writing output...");
+
+  const house = {};
+  for (const name of houseNames) {
+    house[name] = {
+      districtName: name,
+      census: houseCensus[name].ok ? houseCensus[name].data : { error: houseCensus[name].error },
+      election: houseElection[name] || { error: "District not found in ma-elections-data.json" },
+    };
+  }
+
+  const senate = {};
+  for (const name of senateNames) {
+    senate[name] = {
+      districtName: name,
+      census: senateCensus[name].ok ? senateCensus[name].data : { error: senateCensus[name].error },
+      election: senateElection[name] || { error: "District not found in ma-elections-data.json" },
+    };
+  }
+
+  fs.writeFileSync(OUTPUT_FILE, JSON.stringify({ house, senate }, null, 2));
+
+  const houseCensusOk  = houseNames.filter(n => houseCensus[n].ok).length;
+  const senateCensusOk = senateNames.filter(n => senateCensus[n].ok).length;
+  const houseElecOk    = houseNames.filter(n => !!houseElection[n]).length;
+  const senateElecOk   = senateNames.filter(n => !!senateElection[n]).length;
+
+  console.log("\nComplete.");
+  console.log(`  House  — Census: ${houseCensusOk}/160  |  Election: ${houseElecOk}/160`);
+  console.log(`  Senate — Census: ${senateCensusOk}/40   |  Election: ${senateElecOk}/40`);
+  console.log(`  Output: ${OUTPUT_FILE}\n`);
+}
+
+main().catch(err => {
+  console.error("\nFatal error:", err.message);
+  process.exit(1);
+});

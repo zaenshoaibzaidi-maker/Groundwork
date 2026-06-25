@@ -1,0 +1,1206 @@
+{
+  "house": {
+    "1st Barnstable": {
+      "winner": "Christopher Richard Flanagan",
+      "party": "Republican",
+      "pct": 56,
+      "unopposed": false
+    },
+    "2nd Barnstable": {
+      "winner": "Kip A. Diggs",
+      "party": "Democratic",
+      "pct": 59,
+      "unopposed": false
+    },
+    "3rd Barnstable": {
+      "winner": "David T. Vieira",
+      "party": "Republican",
+      "pct": 56,
+      "unopposed": false
+    },
+    "4th Barnstable": {
+      "winner": "Hadley Luddy",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "5th Barnstable": {
+      "winner": "Steven G. Xiarhos",
+      "party": "Republican",
+      "pct": 61,
+      "unopposed": false
+    },
+    "Barnstable Dukes and Nantucket": {
+      "winner": "Thomas W. Moakley",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "1st Berkshire": {
+      "winner": "John P. Barrett III",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "2nd Berkshire": {
+      "winner": "Tricia Farley-Bouvier",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "3rd Berkshire": {
+      "winner": "Leigh Susan Davis",
+      "party": "Democratic",
+      "pct": 57,
+      "unopposed": false
+    },
+    "1st Bristol": {
+      "winner": "Michael Chaisson",
+      "party": "Republican",
+      "pct": 50,
+      "unopposed": false
+    },
+    "2nd Bristol": {
+      "winner": "James K. Hawkins",
+      "party": "Democratic",
+      "pct": 68,
+      "unopposed": false
+    },
+    "3rd Bristol": {
+      "winner": "Carol Ann Doherty",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "4th Bristol": {
+      "winner": "Steven S. Howitt",
+      "party": "Republican",
+      "pct": null,
+      "unopposed": true
+    },
+    "5th Bristol": {
+      "winner": "Justin Thurber",
+      "party": "Republican",
+      "pct": 52,
+      "unopposed": false
+    },
+    "6th Bristol": {
+      "winner": "Carole A. Fiola",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "7th Bristol": {
+      "winner": "Alan Silvia",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "8th Bristol": {
+      "winner": "Steven J. Ouellette",
+      "party": "Democratic",
+      "pct": 34,
+      "unopposed": false
+    },
+    "9th Bristol": {
+      "winner": "Christopher M. Markey",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "10th Bristol": {
+      "winner": "Mark David Sylvia",
+      "party": "Democratic",
+      "pct": 53,
+      "unopposed": false
+    },
+    "11th Bristol": {
+      "winner": "Christopher Hendricks",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "12th Bristol": {
+      "winner": "Norman J. Orrall",
+      "party": "Republican",
+      "pct": null,
+      "unopposed": true
+    },
+    "13th Bristol": {
+      "winner": "Antonio d. F. Cabral",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "14th Bristol": {
+      "winner": "Adam J. Scanlon",
+      "party": "Democratic",
+      "pct": 56,
+      "unopposed": false
+    },
+    "1st Essex": {
+      "winner": "Dawne Frances Shand",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "2nd Essex": {
+      "winner": "Kristin E. Kassner",
+      "party": "Democratic",
+      "pct": 54,
+      "unopposed": false
+    },
+    "3rd Essex": {
+      "winner": "Andres X. Vargas",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "4th Essex": {
+      "winner": "Estela A. Reyes",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "5th Essex": {
+      "winner": "Ann-Margaret Ferrante",
+      "party": "Democratic",
+      "pct": 67,
+      "unopposed": false
+    },
+    "6th Essex": {
+      "winner": "Jerald A. Parisella",
+      "party": "Democratic",
+      "pct": 71,
+      "unopposed": false
+    },
+    "7th Essex": {
+      "winner": "Manny Cruz",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "8th Essex": {
+      "winner": "Jennifer Wb Armini",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "9th Essex": {
+      "winner": "Donald H. Wong",
+      "party": "Republican",
+      "pct": null,
+      "unopposed": true
+    },
+    "10th Essex": {
+      "winner": "Daniel H. Cahill",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "11th Essex": {
+      "winner": "Sean Reid",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "12th Essex": {
+      "winner": "Thomas P. Walsh",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "13th Essex": {
+      "winner": "Sally P. Kerans",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "14th Essex": {
+      "winner": "Adrianne Pusateri Ramos",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "15th Essex": {
+      "winner": "Ryan M. Hamilton",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "16th Essex": {
+      "winner": "Francisco E. Paulino",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "17th Essex": {
+      "winner": "Frank A. Moran",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "18th Essex": {
+      "winner": "Tram T. Nguyen",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "1st Franklin": {
+      "winner": "Natalie M. Blais",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "2nd Franklin": {
+      "winner": "Susannah M. Whipps",
+      "party": "Independent",
+      "pct": 66,
+      "unopposed": false
+    },
+    "1st Hampden": {
+      "winner": "Todd M. Smola",
+      "party": "Republican",
+      "pct": null,
+      "unopposed": true
+    },
+    "2nd Hampden": {
+      "winner": "Brian M. Ashe",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "3rd Hampden": {
+      "winner": "Nicholas A. Boldyga",
+      "party": "Republican",
+      "pct": null,
+      "unopposed": true
+    },
+    "4th Hampden": {
+      "winner": "Kelly W. Pease",
+      "party": "Republican",
+      "pct": 59,
+      "unopposed": false
+    },
+    "5th Hampden": {
+      "winner": "Patricia A. Duffy",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "6th Hampden": {
+      "winner": "Michael J. Finn",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "7th Hampden": {
+      "winner": "Aaron L. Saunders",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "8th Hampden": {
+      "winner": "Shirley B. Arriaga",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "9th Hampden": {
+      "winner": "Orlando Ramos",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "10th Hampden": {
+      "winner": "Carlos Gonzalez",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "11th Hampden": {
+      "winner": "Bud L. Williams",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "12th Hampden": {
+      "winner": "Angelo J. Puppolo Jr",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "1st Hampshire": {
+      "winner": "Lindsay N. Sabadosa",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "2nd Hampshire": {
+      "winner": "Homar Gomez",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "3rd Hampshire": {
+      "winner": "Mindy Domb",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "1st Middlesex": {
+      "winner": "Margaret R. Scarsdale",
+      "party": "Democratic",
+      "pct": 51,
+      "unopposed": false
+    },
+    "2nd Middlesex": {
+      "winner": "James Arciero",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "3rd Middlesex": {
+      "winner": "Kate Hogan",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "4th Middlesex": {
+      "winner": "Danielle W. Gregoire",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "5th Middlesex": {
+      "winner": "David Paul Linsky",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "6th Middlesex": {
+      "winner": "Priscila S. Sousa",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "7th Middlesex": {
+      "winner": "Jack Patrick Lewis",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "8th Middlesex": {
+      "winner": "James Arena-DeRosa",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "9th Middlesex": {
+      "winner": "Thomas M. Stanley",
+      "party": "Democratic",
+      "pct": 73,
+      "unopposed": false
+    },
+    "10th Middlesex": {
+      "winner": "John J. Lawn Jr",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "11th Middlesex": {
+      "winner": "Amy Mah Sangiolo",
+      "party": "Democratic",
+      "pct": 81,
+      "unopposed": false
+    },
+    "12th Middlesex": {
+      "winner": "Greg Schwartz",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "13th Middlesex": {
+      "winner": "Carmine Lawrence Gentile",
+      "party": "Democratic",
+      "pct": 73,
+      "unopposed": false
+    },
+    "14th Middlesex": {
+      "winner": "Simon Cataldo",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "15th Middlesex": {
+      "winner": "Michelle Ciccolo",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "16th Middlesex": {
+      "winner": "Rodney M. Elliott",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "17th Middlesex": {
+      "winner": "Vanna Howard",
+      "party": "Democratic",
+      "pct": 77,
+      "unopposed": false
+    },
+    "18th Middlesex": {
+      "winner": "Tara Thorn Hong",
+      "party": "Democratic",
+      "pct": 78,
+      "unopposed": false
+    },
+    "19th Middlesex": {
+      "winner": "David Allen Robertson",
+      "party": "Democratic",
+      "pct": 53,
+      "unopposed": false
+    },
+    "20th Middlesex": {
+      "winner": "Bradley H. Jones Jr",
+      "party": "Republican",
+      "pct": null,
+      "unopposed": true
+    },
+    "21st Middlesex": {
+      "winner": "Kenneth I. Gordon",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "22nd Middlesex": {
+      "winner": "Marc T. Lombardo",
+      "party": "Republican",
+      "pct": 60,
+      "unopposed": false
+    },
+    "23rd Middlesex": {
+      "winner": "Sean Garballey",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "24th Middlesex": {
+      "winner": "David M. Rogers",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "25th Middlesex": {
+      "winner": "Marjorie C. Decker",
+      "party": "Democratic",
+      "pct": 97,
+      "unopposed": false
+    },
+    "26th Middlesex": {
+      "winner": "Mike Connolly",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "27th Middlesex": {
+      "winner": "Erika Uyterhoeven",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "28th Middlesex": {
+      "winner": "Joseph W. Mcgonagle Jr",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "29th Middlesex": {
+      "winner": "Steven C. Owens",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "30th Middlesex": {
+      "winner": "Richard M. Haggerty",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "31st Middlesex": {
+      "winner": "Michael Seamus Day",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "32nd Middlesex": {
+      "winner": "Kate Lipper-Garabedian",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "33rd Middlesex": {
+      "winner": "Steven Ultrino",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "34th Middlesex": {
+      "winner": "Christine P. Barber",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "35th Middlesex": {
+      "winner": "Paul J. Donato Sr",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "36th Middlesex": {
+      "winner": "Colleen M. Garry",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "37th Middlesex": {
+      "winner": "Danillo A. Sena",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "1st Norfolk": {
+      "winner": "Bruce J. Ayers",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "2nd Norfolk": {
+      "winner": "Tackey Chan",
+      "party": "Democratic",
+      "pct": 69,
+      "unopposed": false
+    },
+    "3rd Norfolk": {
+      "winner": "Ronald Mariano",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "4th Norfolk": {
+      "winner": "James Michael Murphy",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "5th Norfolk": {
+      "winner": "Mark J. Cusack",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "6th Norfolk": {
+      "winner": "William C. Galvin",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "7th Norfolk": {
+      "winner": "Richard Gerard Wells Jr",
+      "party": "Democratic",
+      "pct": 64,
+      "unopposed": false
+    },
+    "8th Norfolk": {
+      "winner": "Ted Philips",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "9th Norfolk": {
+      "winner": "Marcus S. Vaughn",
+      "party": "Republican",
+      "pct": 57,
+      "unopposed": false
+    },
+    "10th Norfolk": {
+      "winner": "Jeffrey N. Roy",
+      "party": "Democratic",
+      "pct": 62,
+      "unopposed": false
+    },
+    "11th Norfolk": {
+      "winner": "Paul McMurtry",
+      "party": "Democratic",
+      "pct": 68,
+      "unopposed": false
+    },
+    "12th Norfolk": {
+      "winner": "John H. Rogers",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "13th Norfolk": {
+      "winner": "Joshua Tarsky",
+      "party": "Democratic",
+      "pct": 61,
+      "unopposed": false
+    },
+    "14th Norfolk": {
+      "winner": "Alice Hanlon Peisch",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "15th Norfolk": {
+      "winner": "Tommy Vitolo",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "1st Plymouth": {
+      "winner": "Michelle L. Badger",
+      "party": "Democratic",
+      "pct": 52,
+      "unopposed": false
+    },
+    "2nd Plymouth": {
+      "winner": "John Robert Gaskey",
+      "party": "Republican",
+      "pct": 89,
+      "unopposed": false
+    },
+    "3rd Plymouth": {
+      "winner": "Joan Meschino",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "4th Plymouth": {
+      "winner": "Patrick Joseph Kearney",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "5th Plymouth": {
+      "winner": "David F. Decoste",
+      "party": "Republican",
+      "pct": null,
+      "unopposed": true
+    },
+    "6th Plymouth": {
+      "winner": "Kenneth Peter Sweezey",
+      "party": "Republican",
+      "pct": 53,
+      "unopposed": false
+    },
+    "7th Plymouth": {
+      "winner": "Alyson M. Sullivan-Almeida",
+      "party": "Republican",
+      "pct": null,
+      "unopposed": true
+    },
+    "8th Plymouth": {
+      "winner": "Dennis C. Gallagher",
+      "party": "Democratic",
+      "pct": 50,
+      "unopposed": false
+    },
+    "9th Plymouth": {
+      "winner": "Bridget M. Plouffe",
+      "party": "Democratic",
+      "pct": 54,
+      "unopposed": false
+    },
+    "10th Plymouth": {
+      "winner": "Michelle Marie Dubois",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "11th Plymouth": {
+      "winner": "Rita A. Mendes",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "12th Plymouth": {
+      "winner": "Kathleen R. Lanatra",
+      "party": "Democratic",
+      "pct": 53,
+      "unopposed": false
+    },
+    "1st Suffolk": {
+      "winner": "Adrian C. Madaro",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "2nd Suffolk": {
+      "winner": "Daniel J. Ryan",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "3rd Suffolk": {
+      "winner": "Aaron M. Michlewitz",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "4th Suffolk": {
+      "winner": "David Biele",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "5th Suffolk": {
+      "winner": "Christopher J. Worrell",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "6th Suffolk": {
+      "winner": "Russell E. Holmes",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "7th Suffolk": {
+      "winner": "Chynah Tyler",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "8th Suffolk": {
+      "winner": "Jay D. Livingstone",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "9th Suffolk": {
+      "winner": "John Francis Moran",
+      "party": "Democratic",
+      "pct": 82,
+      "unopposed": false
+    },
+    "10th Suffolk": {
+      "winner": "William Macgregor",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "11th Suffolk": {
+      "winner": "Judith A. Garcia",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "12th Suffolk": {
+      "winner": "Brandy Fluker Oakley",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "13th Suffolk": {
+      "winner": "Daniel J. Hunt",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "14th Suffolk": {
+      "winner": "Rob Consalvo",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "15th Suffolk": {
+      "winner": "Samantha Montaño",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "16th Suffolk": {
+      "winner": "Jessica Ann Giannino",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "17th Suffolk": {
+      "winner": "Kevin G. Honan",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "18th Suffolk": {
+      "winner": "Michael J. Moran",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "19th Suffolk": {
+      "winner": "Jeffrey Rosario Turco",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "1st Worcester": {
+      "winner": "Kimberly N. Ferguson",
+      "party": "Republican",
+      "pct": 70,
+      "unopposed": false
+    },
+    "2nd Worcester": {
+      "winner": "Jonathan D. Zlotnik",
+      "party": "Democratic",
+      "pct": 52,
+      "unopposed": false
+    },
+    "3rd Worcester": {
+      "winner": "Michael P. Kushmerek",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "4th Worcester": {
+      "winner": "Natalie Higgins",
+      "party": "Democratic",
+      "pct": 57,
+      "unopposed": false
+    },
+    "5th Worcester": {
+      "winner": "Donald R. Berthiaume Jr",
+      "party": "Republican",
+      "pct": null,
+      "unopposed": true
+    },
+    "6th Worcester": {
+      "winner": "John J. Marsi Jr",
+      "party": "Republican",
+      "pct": 62,
+      "unopposed": false
+    },
+    "7th Worcester": {
+      "winner": "Paul K. Frost",
+      "party": "Republican",
+      "pct": 69,
+      "unopposed": false
+    },
+    "8th Worcester": {
+      "winner": "Michael J. Soter",
+      "party": "Republican",
+      "pct": null,
+      "unopposed": true
+    },
+    "9th Worcester": {
+      "winner": "David Kent Muradian Jr",
+      "party": "Republican",
+      "pct": null,
+      "unopposed": true
+    },
+    "10th Worcester": {
+      "winner": "Brian William Murray",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "11th Worcester": {
+      "winner": "Hannah E. Kane",
+      "party": "Republican",
+      "pct": null,
+      "unopposed": true
+    },
+    "12th Worcester": {
+      "winner": "Meghan Kilcoyne",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "13th Worcester": {
+      "winner": "John J. Mahoney Jr",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "14th Worcester": {
+      "winner": "James J. O'Day",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "15th Worcester": {
+      "winner": "Mary S. Keefe",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "16th Worcester": {
+      "winner": "Daniel M. Donahue",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "17th Worcester": {
+      "winner": "David Henry Argosky Leboeuf",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "18th Worcester": {
+      "winner": "Joseph D. Mckenna",
+      "party": "Republican",
+      "pct": null,
+      "unopposed": true
+    },
+    "19th Worcester": {
+      "winner": "Kate Donaghue",
+      "party": "Democratic",
+      "pct": 77,
+      "unopposed": false
+    }
+  },
+  "senate": {
+    "Berkshire, Hampden, Franklin & Hampshire": {
+      "winner": "Paul W. Mark",
+      "party": "Democratic",
+      "pct": 71,
+      "unopposed": false
+    },
+    "First Plymouth & Norfolk": {
+      "winner": "Patrick A. O'Connor",
+      "party": "Republican",
+      "pct": null,
+      "unopposed": true
+    },
+    "Hampden, Hampshire & Worcester": {
+      "winner": "Jacob R. Oliveira",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "Norfolk & Middlesex": {
+      "winner": "Cynthia Stone Creem",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "Norfolk, Plymouth & Bristol": {
+      "winner": "William J. Driscoll Jr",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "Norfolk, Worcester & Middlesex": {
+      "winner": "Rebecca L. Rausch",
+      "party": "Democratic",
+      "pct": 59,
+      "unopposed": false
+    },
+    "Second Plymouth & Norfolk": {
+      "winner": "Michael D. Brady",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "Third Bristol & Plymouth": {
+      "winner": "Kelly A. Dooner",
+      "party": "Republican",
+      "pct": 48,
+      "unopposed": false
+    },
+    "Worcester & Hampden": {
+      "winner": "Ryan C. Fattman",
+      "party": "Republican",
+      "pct": 66,
+      "unopposed": false
+    },
+    "Worcester & Hampshire": {
+      "winner": "Peter J. Durant",
+      "party": "Republican",
+      "pct": 58,
+      "unopposed": false
+    },
+    "Bristol and Norfolk": {
+      "winner": "Paul R. Feeney",
+      "party": "Democratic",
+      "pct": 73,
+      "unopposed": false
+    },
+    "1st Bristol and Plymouth": {
+      "winner": "Michael J. Rodrigues",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "2nd Bristol and Plymouth": {
+      "winner": "Mark C. Montigny",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "Cape and Islands": {
+      "winner": "Julian Andre Cyr",
+      "party": "Democratic",
+      "pct": 61,
+      "unopposed": false
+    },
+    "1st Essex": {
+      "winner": "Pavel M. Payano",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "2nd Essex": {
+      "winner": "Joan B. Lovely",
+      "party": "Democratic",
+      "pct": 67,
+      "unopposed": false
+    },
+    "3rd Essex": {
+      "winner": "Brendan Peter Crighton",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "1st Essex and Middlesex": {
+      "winner": "Bruce E. Tarr",
+      "party": "Republican",
+      "pct": null,
+      "unopposed": true
+    },
+    "2nd Essex and Middlesex": {
+      "winner": "Barry R. Finegold",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "Hampden": {
+      "winner": "Adam Gomez",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "Hampden and Hampshire": {
+      "winner": "John C. Velis",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "Hampshire, Franklin and Worcester": {
+      "winner": "Jo Comerford",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "1st Middlesex": {
+      "winner": "Edward J. Kennedy Jr",
+      "party": "Democratic",
+      "pct": 63,
+      "unopposed": false
+    },
+    "2nd Middlesex": {
+      "winner": "Patricia D. Jehlen",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "3rd Middlesex": {
+      "winner": "Michael J. Barrett",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "4th Middlesex": {
+      "winner": "Cindy F. Friedman",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "5th Middlesex": {
+      "winner": "Jason M. Lewis",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "Middlesex and Norfolk": {
+      "winner": "Karen E. Spilka",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "Middlesex and Worcester": {
+      "winner": "James B. Eldridge",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "Middlesex and Suffolk": {
+      "winner": "Sal N. DiDomenico",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "Norfolk and Plymouth": {
+      "winner": "John F. Keenan",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "Norfolk and Suffolk": {
+      "winner": "Michael F. Rush",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "Plymouth and Barnstable": {
+      "winner": "Dylan A. Fernandes",
+      "party": "Democratic",
+      "pct": 51,
+      "unopposed": false
+    },
+    "1st Suffolk": {
+      "winner": "Nicholas P. Collins",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "2nd Suffolk": {
+      "winner": "Liz Miranda",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "3rd Suffolk": {
+      "winner": "Lydia Marie Edwards",
+      "party": "Democratic",
+      "pct": 70,
+      "unopposed": false
+    },
+    "Suffolk and Middlesex": {
+      "winner": "William N. Brownsberger",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "Worcester and Middlesex": {
+      "winner": "John J. Cronin",
+      "party": "Democratic",
+      "pct": 59,
+      "unopposed": false
+    },
+    "1st Worcester": {
+      "winner": "Robyn K. Kennedy",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    },
+    "2nd Worcester": {
+      "winner": "Michael O. Moore",
+      "party": "Democratic",
+      "pct": null,
+      "unopposed": true
+    }
+  }
+}

@@ -1,0 +1,5006 @@
+{
+  "house": {
+    "1st Barnstable": {
+      "districtName": "1st Barnstable",
+      "census": {
+        "censusName": "1st Barnstable District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88902,
+        "medianAge": 58.3,
+        "totalPopulation": 43012,
+        "collegePct": 44.89,
+        "renterRatePct": 20.21,
+        "race": {
+          "whitePct": 89.25,
+          "nonHispanicWhitePct": 88.33,
+          "blackPct": 1.33,
+          "asianPct": 1.69,
+          "hispanicPct": 3.86
+        }
+      },
+      "election": {
+        "winner": "Christopher Richard Flanagan",
+        "party": "Republican",
+        "pct": 56,
+        "unopposed": false
+      }
+    },
+    "2nd Barnstable": {
+      "districtName": "2nd Barnstable",
+      "census": {
+        "censusName": "2nd Barnstable District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87852,
+        "medianAge": 48.9,
+        "totalPopulation": 46203,
+        "collegePct": 41.4,
+        "renterRatePct": 27.64,
+        "race": {
+          "whitePct": 75.3,
+          "nonHispanicWhitePct": 73.25,
+          "blackPct": 7.61,
+          "asianPct": 1.21,
+          "hispanicPct": 6.17
+        }
+      },
+      "election": {
+        "winner": "Kip A. Diggs",
+        "party": "Democratic",
+        "pct": 59,
+        "unopposed": false
+      }
+    },
+    "3rd Barnstable": {
+      "districtName": "3rd Barnstable",
+      "census": {
+        "censusName": "3rd Barnstable District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96839,
+        "medianAge": 55.4,
+        "totalPopulation": 45528,
+        "collegePct": 47.36,
+        "renterRatePct": 14.91,
+        "race": {
+          "whitePct": 88.48,
+          "nonHispanicWhitePct": 87.94,
+          "blackPct": 1.61,
+          "asianPct": 1.27,
+          "hispanicPct": 2.48
+        }
+      },
+      "election": {
+        "winner": "David T. Vieira",
+        "party": "Republican",
+        "pct": 56,
+        "unopposed": false
+      }
+    },
+    "4th Barnstable": {
+      "districtName": "4th Barnstable",
+      "census": {
+        "censusName": "4th Barnstable District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91052,
+        "medianAge": 60.2,
+        "totalPopulation": 41990,
+        "collegePct": 54.69,
+        "renterRatePct": 16.66,
+        "race": {
+          "whitePct": 91.46,
+          "nonHispanicWhitePct": 91.11,
+          "blackPct": 1.62,
+          "asianPct": 1,
+          "hispanicPct": 2.19
+        }
+      },
+      "election": {
+        "winner": "Hadley Luddy",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "5th Barnstable": {
+      "districtName": "5th Barnstable",
+      "census": {
+        "censusName": "5th Barnstable District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111902,
+        "medianAge": 49.2,
+        "totalPopulation": 42916,
+        "collegePct": 45.66,
+        "renterRatePct": 13.67,
+        "race": {
+          "whitePct": 91.74,
+          "nonHispanicWhitePct": 90.22,
+          "blackPct": 1.62,
+          "asianPct": 1.81,
+          "hispanicPct": 2.85
+        }
+      },
+      "election": {
+        "winner": "Steven G. Xiarhos",
+        "party": "Republican",
+        "pct": 61,
+        "unopposed": false
+      }
+    },
+    "Barnstable Dukes and Nantucket": {
+      "districtName": "Barnstable Dukes and Nantucket",
+      "census": {
+        "censusName": "Barnstable-Dukes-Nantucket District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108162,
+        "medianAge": 49.6,
+        "totalPopulation": 45474,
+        "collegePct": 54.4,
+        "renterRatePct": 27.08,
+        "race": {
+          "whitePct": 79.05,
+          "nonHispanicWhitePct": 77.86,
+          "blackPct": 4.68,
+          "asianPct": 2.28,
+          "hispanicPct": 7.44
+        }
+      },
+      "election": {
+        "winner": "Thomas W. Moakley",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "1st Berkshire": {
+      "districtName": "1st Berkshire",
+      "census": {
+        "censusName": "1st Berkshire District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64772,
+        "medianAge": 46,
+        "totalPopulation": 42243,
+        "collegePct": 33.38,
+        "renterRatePct": 30.48,
+        "race": {
+          "whitePct": 90.4,
+          "nonHispanicWhitePct": 89.48,
+          "blackPct": 1.21,
+          "asianPct": 2.64,
+          "hispanicPct": 3.48
+        }
+      },
+      "election": {
+        "winner": "John P. Barrett III",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "2nd Berkshire": {
+      "districtName": "2nd Berkshire",
+      "census": {
+        "censusName": "2nd Berkshire District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68386,
+        "medianAge": 43.2,
+        "totalPopulation": 43559,
+        "collegePct": 34.18,
+        "renterRatePct": 38.32,
+        "race": {
+          "whitePct": 79.96,
+          "nonHispanicWhitePct": 77.42,
+          "blackPct": 5.28,
+          "asianPct": 1.4,
+          "hispanicPct": 8.99
+        }
+      },
+      "election": {
+        "winner": "Tricia Farley-Bouvier",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "3rd Berkshire": {
+      "districtName": "3rd Berkshire",
+      "census": {
+        "censusName": "3rd Berkshire District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86029,
+        "medianAge": 53.4,
+        "totalPopulation": 42245,
+        "collegePct": 46.79,
+        "renterRatePct": 20.79,
+        "race": {
+          "whitePct": 91.73,
+          "nonHispanicWhitePct": 90.49,
+          "blackPct": 0.96,
+          "asianPct": 1.38,
+          "hispanicPct": 4.24
+        }
+      },
+      "election": {
+        "winner": "Leigh Susan Davis",
+        "party": "Democratic",
+        "pct": 57,
+        "unopposed": false
+      }
+    },
+    "1st Bristol": {
+      "districtName": "1st Bristol",
+      "census": {
+        "censusName": "1st Bristol District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113631,
+        "medianAge": 40.8,
+        "totalPopulation": 42889,
+        "collegePct": 52.62,
+        "renterRatePct": 25.22,
+        "race": {
+          "whitePct": 83.7,
+          "nonHispanicWhitePct": 82.17,
+          "blackPct": 4.65,
+          "asianPct": 5.53,
+          "hispanicPct": 4.16
+        }
+      },
+      "election": {
+        "winner": "Michael Chaisson",
+        "party": "Republican",
+        "pct": 50,
+        "unopposed": false
+      }
+    },
+    "2nd Bristol": {
+      "districtName": "2nd Bristol",
+      "census": {
+        "censusName": "2nd Bristol District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92672,
+        "medianAge": 39.3,
+        "totalPopulation": 42751,
+        "collegePct": 32.54,
+        "renterRatePct": 34.08,
+        "race": {
+          "whitePct": 78.84,
+          "nonHispanicWhitePct": 77.51,
+          "blackPct": 6.21,
+          "asianPct": 4.35,
+          "hispanicPct": 8.86
+        }
+      },
+      "election": {
+        "winner": "James K. Hawkins",
+        "party": "Democratic",
+        "pct": 68,
+        "unopposed": false
+      }
+    },
+    "3rd Bristol": {
+      "districtName": "3rd Bristol",
+      "census": {
+        "censusName": "3rd Bristol District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87617,
+        "medianAge": 41.2,
+        "totalPopulation": 46387,
+        "collegePct": 28.19,
+        "renterRatePct": 35.72,
+        "race": {
+          "whitePct": 74.53,
+          "nonHispanicWhitePct": 71.68,
+          "blackPct": 7.29,
+          "asianPct": 2.21,
+          "hispanicPct": 8.16
+        }
+      },
+      "election": {
+        "winner": "Carol Ann Doherty",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "4th Bristol": {
+      "districtName": "4th Bristol",
+      "census": {
+        "censusName": "4th Bristol District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120800,
+        "medianAge": 45.8,
+        "totalPopulation": 42703,
+        "collegePct": 42.3,
+        "renterRatePct": 11.81,
+        "race": {
+          "whitePct": 91.78,
+          "nonHispanicWhitePct": 90.13,
+          "blackPct": 1.82,
+          "asianPct": 1.13,
+          "hispanicPct": 4.55
+        }
+      },
+      "election": {
+        "winner": "Steven S. Howitt",
+        "party": "Republican",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "5th Bristol": {
+      "districtName": "5th Bristol",
+      "census": {
+        "censusName": "5th Bristol District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106668,
+        "medianAge": 43.1,
+        "totalPopulation": 44044,
+        "collegePct": 33.83,
+        "renterRatePct": 20.72,
+        "race": {
+          "whitePct": 87.59,
+          "nonHispanicWhitePct": 86.6,
+          "blackPct": 2.22,
+          "asianPct": 1.24,
+          "hispanicPct": 6.32
+        }
+      },
+      "election": {
+        "winner": "Justin Thurber",
+        "party": "Republican",
+        "pct": 52,
+        "unopposed": false
+      }
+    },
+    "6th Bristol": {
+      "districtName": "6th Bristol",
+      "census": {
+        "censusName": "6th Bristol District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62635,
+        "medianAge": 39,
+        "totalPopulation": 45120,
+        "collegePct": 20.32,
+        "renterRatePct": 58.12,
+        "race": {
+          "whitePct": 76.44,
+          "nonHispanicWhitePct": 74.34,
+          "blackPct": 6.2,
+          "asianPct": 2.45,
+          "hispanicPct": 10.83
+        }
+      },
+      "election": {
+        "winner": "Carole A. Fiola",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "7th Bristol": {
+      "districtName": "7th Bristol",
+      "census": {
+        "censusName": "7th Bristol District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48001,
+        "medianAge": 39,
+        "totalPopulation": 40450,
+        "collegePct": 13.88,
+        "renterRatePct": 69.85,
+        "race": {
+          "whitePct": 69.33,
+          "nonHispanicWhitePct": 64.66,
+          "blackPct": 7.21,
+          "asianPct": 3.27,
+          "hispanicPct": 14.9
+        }
+      },
+      "election": {
+        "winner": "Alan Silvia",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "8th Bristol": {
+      "districtName": "8th Bristol",
+      "census": {
+        "censusName": "8th Bristol District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94531,
+        "medianAge": 44.8,
+        "totalPopulation": 42732,
+        "collegePct": 28.94,
+        "renterRatePct": 25.1,
+        "race": {
+          "whitePct": 89.08,
+          "nonHispanicWhitePct": 87.57,
+          "blackPct": 0.76,
+          "asianPct": 1.1,
+          "hispanicPct": 5.47
+        }
+      },
+      "election": {
+        "winner": "Steven J. Ouellette",
+        "party": "Democratic",
+        "pct": 34,
+        "unopposed": false
+      }
+    },
+    "9th Bristol": {
+      "districtName": "9th Bristol",
+      "census": {
+        "censusName": "9th Bristol District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95694,
+        "medianAge": 42.3,
+        "totalPopulation": 40926,
+        "collegePct": 35.95,
+        "renterRatePct": 22.71,
+        "race": {
+          "whitePct": 83.02,
+          "nonHispanicWhitePct": 81.08,
+          "blackPct": 2.7,
+          "asianPct": 2.35,
+          "hispanicPct": 6.73
+        }
+      },
+      "election": {
+        "winner": "Christopher M. Markey",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "10th Bristol": {
+      "districtName": "10th Bristol",
+      "census": {
+        "censusName": "10th Bristol District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100670,
+        "medianAge": 47.3,
+        "totalPopulation": 43956,
+        "collegePct": 34.72,
+        "renterRatePct": 23.08,
+        "race": {
+          "whitePct": 90.6,
+          "nonHispanicWhitePct": 89.13,
+          "blackPct": 0.77,
+          "asianPct": 0.67,
+          "hispanicPct": 4.08
+        }
+      },
+      "election": {
+        "winner": "Mark David Sylvia",
+        "party": "Democratic",
+        "pct": 53,
+        "unopposed": false
+      }
+    },
+    "11th Bristol": {
+      "districtName": "11th Bristol",
+      "census": {
+        "censusName": "11th Bristol District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42910,
+        "medianAge": 35.1,
+        "totalPopulation": 42618,
+        "collegePct": 12.28,
+        "renterRatePct": 73.42,
+        "race": {
+          "whitePct": 48.09,
+          "nonHispanicWhitePct": 45.37,
+          "blackPct": 7.2,
+          "asianPct": 1.06,
+          "hispanicPct": 33.35
+        }
+      },
+      "election": {
+        "winner": "Christopher Hendricks",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "12th Bristol": {
+      "districtName": "12th Bristol",
+      "census": {
+        "censusName": "12th Bristol District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104948,
+        "medianAge": 39.8,
+        "totalPopulation": 46448,
+        "collegePct": 32.61,
+        "renterRatePct": 22.97,
+        "race": {
+          "whitePct": 87.9,
+          "nonHispanicWhitePct": 86.52,
+          "blackPct": 3.06,
+          "asianPct": 1.31,
+          "hispanicPct": 3.98
+        }
+      },
+      "election": {
+        "winner": "Norman J. Orrall",
+        "party": "Republican",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "13th Bristol": {
+      "districtName": "13th Bristol",
+      "census": {
+        "censusName": "13th Bristol District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61250,
+        "medianAge": 37.4,
+        "totalPopulation": 41004,
+        "collegePct": 19.08,
+        "renterRatePct": 57.27,
+        "race": {
+          "whitePct": 60.44,
+          "nonHispanicWhitePct": 59.22,
+          "blackPct": 6.57,
+          "asianPct": 1.89,
+          "hispanicPct": 19.25
+        }
+      },
+      "election": {
+        "winner": "Antonio d. F. Cabral",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "14th Bristol": {
+      "districtName": "14th Bristol",
+      "census": {
+        "censusName": "14th Bristol District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 110267,
+        "medianAge": 42.4,
+        "totalPopulation": 42451,
+        "collegePct": 47.61,
+        "renterRatePct": 29.08,
+        "race": {
+          "whitePct": 86.57,
+          "nonHispanicWhitePct": 85.14,
+          "blackPct": 1.63,
+          "asianPct": 5.04,
+          "hispanicPct": 3.81
+        }
+      },
+      "election": {
+        "winner": "Adam J. Scanlon",
+        "party": "Democratic",
+        "pct": 56,
+        "unopposed": false
+      }
+    },
+    "1st Essex": {
+      "districtName": "1st Essex",
+      "census": {
+        "censusName": "1st Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113907,
+        "medianAge": 47.1,
+        "totalPopulation": 46110,
+        "collegePct": 50.74,
+        "renterRatePct": 25.49,
+        "race": {
+          "whitePct": 91.26,
+          "nonHispanicWhitePct": 89.82,
+          "blackPct": 1.11,
+          "asianPct": 0.89,
+          "hispanicPct": 3.63
+        }
+      },
+      "election": {
+        "winner": "Dawne Frances Shand",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "2nd Essex": {
+      "districtName": "2nd Essex",
+      "census": {
+        "censusName": "2nd Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 140000,
+        "medianAge": 46.5,
+        "totalPopulation": 46332,
+        "collegePct": 58.19,
+        "renterRatePct": 18.88,
+        "race": {
+          "whitePct": 91.93,
+          "nonHispanicWhitePct": 90.99,
+          "blackPct": 1.02,
+          "asianPct": 2.38,
+          "hispanicPct": 2.28
+        }
+      },
+      "election": {
+        "winner": "Kristin E. Kassner",
+        "party": "Democratic",
+        "pct": 54,
+        "unopposed": false
+      }
+    },
+    "3rd Essex": {
+      "districtName": "3rd Essex",
+      "census": {
+        "censusName": "3rd Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81149,
+        "medianAge": 37.5,
+        "totalPopulation": 45908,
+        "collegePct": 30.09,
+        "renterRatePct": 45.22,
+        "race": {
+          "whitePct": 67.52,
+          "nonHispanicWhitePct": 61.03,
+          "blackPct": 3.41,
+          "asianPct": 0.98,
+          "hispanicPct": 30.88
+        }
+      },
+      "election": {
+        "winner": "Andres X. Vargas",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "4th Essex": {
+      "districtName": "4th Essex",
+      "census": {
+        "censusName": "4th Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58044,
+        "medianAge": 36.7,
+        "totalPopulation": 41321,
+        "collegePct": 16.48,
+        "renterRatePct": 58.22,
+        "race": {
+          "whitePct": 32.48,
+          "nonHispanicWhitePct": 25.96,
+          "blackPct": 5.38,
+          "asianPct": 2.16,
+          "hispanicPct": 67.42
+        }
+      },
+      "election": {
+        "winner": "Estela A. Reyes",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "5th Essex": {
+      "districtName": "5th Essex",
+      "census": {
+        "censusName": "5th Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99459,
+        "medianAge": 51.4,
+        "totalPopulation": 45887,
+        "collegePct": 49.02,
+        "renterRatePct": 34.06,
+        "race": {
+          "whitePct": 91.37,
+          "nonHispanicWhitePct": 90.4,
+          "blackPct": 0.85,
+          "asianPct": 1.22,
+          "hispanicPct": 3.92
+        }
+      },
+      "election": {
+        "winner": "Ann-Margaret Ferrante",
+        "party": "Democratic",
+        "pct": 67,
+        "unopposed": false
+      }
+    },
+    "6th Essex": {
+      "districtName": "6th Essex",
+      "census": {
+        "censusName": "6th Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105533,
+        "medianAge": 38.7,
+        "totalPopulation": 44941,
+        "collegePct": 52.72,
+        "renterRatePct": 39.18,
+        "race": {
+          "whitePct": 87.61,
+          "nonHispanicWhitePct": 85.54,
+          "blackPct": 2.72,
+          "asianPct": 2.34,
+          "hispanicPct": 5.65
+        }
+      },
+      "election": {
+        "winner": "Jerald A. Parisella",
+        "party": "Democratic",
+        "pct": 71,
+        "unopposed": false
+      }
+    },
+    "7th Essex": {
+      "districtName": "7th Essex",
+      "census": {
+        "censusName": "7th Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85137,
+        "medianAge": 38.5,
+        "totalPopulation": 44241,
+        "collegePct": 49.6,
+        "renterRatePct": 48.64,
+        "race": {
+          "whitePct": 75.18,
+          "nonHispanicWhitePct": 67.65,
+          "blackPct": 5.43,
+          "asianPct": 3.26,
+          "hispanicPct": 19.43
+        }
+      },
+      "election": {
+        "winner": "Manny Cruz",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "8th Essex": {
+      "districtName": "8th Essex",
+      "census": {
+        "censusName": "8th Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 130677,
+        "medianAge": 45.7,
+        "totalPopulation": 43400,
+        "collegePct": 63.55,
+        "renterRatePct": 27.15,
+        "race": {
+          "whitePct": 82.71,
+          "nonHispanicWhitePct": 80.7,
+          "blackPct": 3.93,
+          "asianPct": 2.82,
+          "hispanicPct": 9.39
+        }
+      },
+      "election": {
+        "winner": "Jennifer Wb Armini",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "9th Essex": {
+      "districtName": "9th Essex",
+      "census": {
+        "censusName": "9th Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109691,
+        "medianAge": 44.5,
+        "totalPopulation": 43993,
+        "collegePct": 41.19,
+        "renterRatePct": 23.95,
+        "race": {
+          "whitePct": 83.63,
+          "nonHispanicWhitePct": 81.11,
+          "blackPct": 2.99,
+          "asianPct": 4.43,
+          "hispanicPct": 6.92
+        }
+      },
+      "election": {
+        "winner": "Donald H. Wong",
+        "party": "Republican",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "10th Essex": {
+      "districtName": "10th Essex",
+      "census": {
+        "censusName": "10th Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76134,
+        "medianAge": 36.1,
+        "totalPopulation": 44111,
+        "collegePct": 20.13,
+        "renterRatePct": 44.58,
+        "race": {
+          "whitePct": 41.98,
+          "nonHispanicWhitePct": 30.64,
+          "blackPct": 12.69,
+          "asianPct": 5.39,
+          "hispanicPct": 48.53
+        }
+      },
+      "election": {
+        "winner": "Daniel H. Cahill",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "11th Essex": {
+      "districtName": "11th Essex",
+      "census": {
+        "censusName": "11th Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72012,
+        "medianAge": 37.4,
+        "totalPopulation": 45624,
+        "collegePct": 25.59,
+        "renterRatePct": 55.55,
+        "race": {
+          "whitePct": 45.84,
+          "nonHispanicWhitePct": 38.45,
+          "blackPct": 11.82,
+          "asianPct": 5.83,
+          "hispanicPct": 40.19
+        }
+      },
+      "election": {
+        "winner": "Sean Reid",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "12th Essex": {
+      "districtName": "12th Essex",
+      "census": {
+        "censusName": "12th Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90343,
+        "medianAge": 46.4,
+        "totalPopulation": 45169,
+        "collegePct": 31.83,
+        "renterRatePct": 39.53,
+        "race": {
+          "whitePct": 78.16,
+          "nonHispanicWhitePct": 74.43,
+          "blackPct": 4.14,
+          "asianPct": 1.92,
+          "hispanicPct": 14.18
+        }
+      },
+      "election": {
+        "winner": "Thomas P. Walsh",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "13th Essex": {
+      "districtName": "13th Essex",
+      "census": {
+        "censusName": "13th Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 129684,
+        "medianAge": 44.4,
+        "totalPopulation": 45223,
+        "collegePct": 48.86,
+        "renterRatePct": 22.98,
+        "race": {
+          "whitePct": 88.63,
+          "nonHispanicWhitePct": 86.69,
+          "blackPct": 2.13,
+          "asianPct": 2.35,
+          "hispanicPct": 5.81
+        }
+      },
+      "election": {
+        "winner": "Sally P. Kerans",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "14th Essex": {
+      "districtName": "14th Essex",
+      "census": {
+        "censusName": "14th Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131663,
+        "medianAge": 42.5,
+        "totalPopulation": 45829,
+        "collegePct": 56.53,
+        "renterRatePct": 24.41,
+        "race": {
+          "whitePct": 85.22,
+          "nonHispanicWhitePct": 83.62,
+          "blackPct": 2.59,
+          "asianPct": 3.53,
+          "hispanicPct": 6.43
+        }
+      },
+      "election": {
+        "winner": "Adrianne Pusateri Ramos",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "15th Essex": {
+      "districtName": "15th Essex",
+      "census": {
+        "censusName": "15th Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109769,
+        "medianAge": 42,
+        "totalPopulation": 45205,
+        "collegePct": 36.8,
+        "renterRatePct": 19.87,
+        "race": {
+          "whitePct": 73,
+          "nonHispanicWhitePct": 70.19,
+          "blackPct": 4.3,
+          "asianPct": 2.75,
+          "hispanicPct": 17.66
+        }
+      },
+      "election": {
+        "winner": "Ryan M. Hamilton",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "16th Essex": {
+      "districtName": "16th Essex",
+      "census": {
+        "censusName": "16th Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74511,
+        "medianAge": 32.9,
+        "totalPopulation": 42516,
+        "collegePct": 22.71,
+        "renterRatePct": 61.29,
+        "race": {
+          "whitePct": 31.81,
+          "nonHispanicWhitePct": 24.46,
+          "blackPct": 4.4,
+          "asianPct": 3.51,
+          "hispanicPct": 67.64
+        }
+      },
+      "election": {
+        "winner": "Francisco E. Paulino",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "17th Essex": {
+      "districtName": "17th Essex",
+      "census": {
+        "censusName": "17th Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65074,
+        "medianAge": 35.2,
+        "totalPopulation": 42788,
+        "collegePct": 29.11,
+        "renterRatePct": 55.1,
+        "race": {
+          "whitePct": 33.7,
+          "nonHispanicWhitePct": 23.5,
+          "blackPct": 4.42,
+          "asianPct": 3.8,
+          "hispanicPct": 68.87
+        }
+      },
+      "election": {
+        "winner": "Frank A. Moran",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "18th Essex": {
+      "districtName": "18th Essex",
+      "census": {
+        "censusName": "18th Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 175396,
+        "medianAge": 43.1,
+        "totalPopulation": 46027,
+        "collegePct": 68.63,
+        "renterRatePct": 16.21,
+        "race": {
+          "whitePct": 78.99,
+          "nonHispanicWhitePct": 75.97,
+          "blackPct": 1.28,
+          "asianPct": 12.4,
+          "hispanicPct": 6.51
+        }
+      },
+      "election": {
+        "winner": "Tram T. Nguyen",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "1st Franklin": {
+      "districtName": "1st Franklin",
+      "census": {
+        "censusName": "1st Franklin District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73236,
+        "medianAge": 48.3,
+        "totalPopulation": 42714,
+        "collegePct": 43.57,
+        "renterRatePct": 34.17,
+        "race": {
+          "whitePct": 88.98,
+          "nonHispanicWhitePct": 87.69,
+          "blackPct": 1.19,
+          "asianPct": 2.49,
+          "hispanicPct": 4.89
+        }
+      },
+      "election": {
+        "winner": "Natalie M. Blais",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "2nd Franklin": {
+      "districtName": "2nd Franklin",
+      "census": {
+        "censusName": "2nd Franklin District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70978,
+        "medianAge": 43.9,
+        "totalPopulation": 43067,
+        "collegePct": 27.42,
+        "renterRatePct": 26.66,
+        "race": {
+          "whitePct": 91.45,
+          "nonHispanicWhitePct": 89.46,
+          "blackPct": 1.84,
+          "asianPct": 0.91,
+          "hispanicPct": 4.87
+        }
+      },
+      "election": {
+        "winner": "Susannah M. Whipps",
+        "party": "Independent",
+        "pct": 66,
+        "unopposed": false
+      }
+    },
+    "1st Hampden": {
+      "districtName": "1st Hampden",
+      "census": {
+        "censusName": "1st Hampden District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88339,
+        "medianAge": 47.1,
+        "totalPopulation": 42125,
+        "collegePct": 32.82,
+        "renterRatePct": 20.47,
+        "race": {
+          "whitePct": 90.32,
+          "nonHispanicWhitePct": 88.99,
+          "blackPct": 1.89,
+          "asianPct": 1.4,
+          "hispanicPct": 3.39
+        }
+      },
+      "election": {
+        "winner": "Todd M. Smola",
+        "party": "Republican",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "2nd Hampden": {
+      "districtName": "2nd Hampden",
+      "census": {
+        "censusName": "2nd Hampden District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 110062,
+        "medianAge": 44,
+        "totalPopulation": 43405,
+        "collegePct": 49.12,
+        "renterRatePct": 12.66,
+        "race": {
+          "whitePct": 83.59,
+          "nonHispanicWhitePct": 82.43,
+          "blackPct": 3.43,
+          "asianPct": 4.68,
+          "hispanicPct": 5.92
+        }
+      },
+      "election": {
+        "winner": "Brian M. Ashe",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "3rd Hampden": {
+      "districtName": "3rd Hampden",
+      "census": {
+        "censusName": "3rd Hampden District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90530,
+        "medianAge": 47.5,
+        "totalPopulation": 42925,
+        "collegePct": 35.48,
+        "renterRatePct": 20.02,
+        "race": {
+          "whitePct": 90.75,
+          "nonHispanicWhitePct": 88.72,
+          "blackPct": 2.17,
+          "asianPct": 1.44,
+          "hispanicPct": 4.92
+        }
+      },
+      "election": {
+        "winner": "Nicholas A. Boldyga",
+        "party": "Republican",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "4th Hampden": {
+      "districtName": "4th Hampden",
+      "census": {
+        "censusName": "4th Hampden District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84555,
+        "medianAge": 40.3,
+        "totalPopulation": 43031,
+        "collegePct": 33.33,
+        "renterRatePct": 28.45,
+        "race": {
+          "whitePct": 86.72,
+          "nonHispanicWhitePct": 84.11,
+          "blackPct": 1.01,
+          "asianPct": 3.12,
+          "hispanicPct": 8.76
+        }
+      },
+      "election": {
+        "winner": "Kelly W. Pease",
+        "party": "Republican",
+        "pct": 59,
+        "unopposed": false
+      }
+    },
+    "5th Hampden": {
+      "districtName": "5th Hampden",
+      "census": {
+        "censusName": "5th Hampden District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52309,
+        "medianAge": 39,
+        "totalPopulation": 42180,
+        "collegePct": 23.89,
+        "renterRatePct": 58.85,
+        "race": {
+          "whitePct": 59.02,
+          "nonHispanicWhitePct": 43.18,
+          "blackPct": 4.75,
+          "asianPct": 1.17,
+          "hispanicPct": 51.66
+        }
+      },
+      "election": {
+        "winner": "Patricia A. Duffy",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "6th Hampden": {
+      "districtName": "6th Hampden",
+      "census": {
+        "censusName": "6th Hampden District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71665,
+        "medianAge": 39.7,
+        "totalPopulation": 45404,
+        "collegePct": 32.45,
+        "renterRatePct": 41.48,
+        "race": {
+          "whitePct": 77.24,
+          "nonHispanicWhitePct": 71.99,
+          "blackPct": 4.02,
+          "asianPct": 5.07,
+          "hispanicPct": 15.35
+        }
+      },
+      "election": {
+        "winner": "Michael J. Finn",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "7th Hampden": {
+      "districtName": "7th Hampden",
+      "census": {
+        "censusName": "7th Hampden District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87023,
+        "medianAge": 45,
+        "totalPopulation": 42458,
+        "collegePct": 37.5,
+        "renterRatePct": 20.18,
+        "race": {
+          "whitePct": 87.26,
+          "nonHispanicWhitePct": 84.97,
+          "blackPct": 2.35,
+          "asianPct": 1.59,
+          "hispanicPct": 7.94
+        }
+      },
+      "election": {
+        "winner": "Aaron L. Saunders",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "8th Hampden": {
+      "districtName": "8th Hampden",
+      "census": {
+        "censusName": "8th Hampden District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67007,
+        "medianAge": 42.9,
+        "totalPopulation": 42231,
+        "collegePct": 23.21,
+        "renterRatePct": 40.38,
+        "race": {
+          "whitePct": 75.14,
+          "nonHispanicWhitePct": 68.4,
+          "blackPct": 4.8,
+          "asianPct": 2.05,
+          "hispanicPct": 22.87
+        }
+      },
+      "election": {
+        "winner": "Shirley B. Arriaga",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "9th Hampden": {
+      "districtName": "9th Hampden",
+      "census": {
+        "censusName": "9th Hampden District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56877,
+        "medianAge": 34.1,
+        "totalPopulation": 42714,
+        "collegePct": 16.84,
+        "renterRatePct": 44.97,
+        "race": {
+          "whitePct": 39.97,
+          "nonHispanicWhitePct": 26.87,
+          "blackPct": 19.01,
+          "asianPct": 2.49,
+          "hispanicPct": 51.82
+        }
+      },
+      "election": {
+        "winner": "Orlando Ramos",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "10th Hampden": {
+      "districtName": "10th Hampden",
+      "census": {
+        "censusName": "10th Hampden District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 29373,
+        "medianAge": 31.2,
+        "totalPopulation": 42215,
+        "collegePct": 12.99,
+        "renterRatePct": 77.58,
+        "race": {
+          "whitePct": 28.18,
+          "nonHispanicWhitePct": 15.62,
+          "blackPct": 17.43,
+          "asianPct": 3.13,
+          "hispanicPct": 65.78
+        }
+      },
+      "election": {
+        "winner": "Carlos Gonzalez",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "11th Hampden": {
+      "districtName": "11th Hampden",
+      "census": {
+        "censusName": "11th Hampden District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49372,
+        "medianAge": 32.2,
+        "totalPopulation": 42561,
+        "collegePct": 21.05,
+        "renterRatePct": 47.02,
+        "race": {
+          "whitePct": 40.09,
+          "nonHispanicWhitePct": 28.57,
+          "blackPct": 28.28,
+          "asianPct": 1.37,
+          "hispanicPct": 39.35
+        }
+      },
+      "election": {
+        "winner": "Bud L. Williams",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "12th Hampden": {
+      "districtName": "12th Hampden",
+      "census": {
+        "censusName": "12th Hampden District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98695,
+        "medianAge": 43.3,
+        "totalPopulation": 43562,
+        "collegePct": 38.56,
+        "renterRatePct": 14.91,
+        "race": {
+          "whitePct": 76.84,
+          "nonHispanicWhitePct": 71.39,
+          "blackPct": 7.5,
+          "asianPct": 2.21,
+          "hispanicPct": 16.01
+        }
+      },
+      "election": {
+        "winner": "Angelo J. Puppolo Jr",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "1st Hampshire": {
+      "districtName": "1st Hampshire",
+      "census": {
+        "censusName": "1st Hampshire District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85188,
+        "medianAge": 43.5,
+        "totalPopulation": 40723,
+        "collegePct": 57.65,
+        "renterRatePct": 34.42,
+        "race": {
+          "whitePct": 85.87,
+          "nonHispanicWhitePct": 83.39,
+          "blackPct": 1.59,
+          "asianPct": 3,
+          "hispanicPct": 7.68
+        }
+      },
+      "election": {
+        "winner": "Lindsay N. Sabadosa",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "2nd Hampshire": {
+      "districtName": "2nd Hampshire",
+      "census": {
+        "censusName": "2nd Hampshire District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88385,
+        "medianAge": 45.8,
+        "totalPopulation": 42326,
+        "collegePct": 46.63,
+        "renterRatePct": 29.25,
+        "race": {
+          "whitePct": 88.07,
+          "nonHispanicWhitePct": 86.1,
+          "blackPct": 1,
+          "asianPct": 2.83,
+          "hispanicPct": 7.38
+        }
+      },
+      "election": {
+        "winner": "Homar Gomez",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "3rd Hampshire": {
+      "districtName": "3rd Hampshire",
+      "census": {
+        "censusName": "3rd Hampshire District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69500,
+        "medianAge": 21.5,
+        "totalPopulation": 38046,
+        "collegePct": 69.77,
+        "renterRatePct": 48.82,
+        "race": {
+          "whitePct": 69.65,
+          "nonHispanicWhitePct": 67.75,
+          "blackPct": 4.48,
+          "asianPct": 12.91,
+          "hispanicPct": 8.39
+        }
+      },
+      "election": {
+        "winner": "Mindy Domb",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "1st Middlesex": {
+      "districtName": "1st Middlesex",
+      "census": {
+        "censusName": "1st Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 129064,
+        "medianAge": 43.6,
+        "totalPopulation": 42315,
+        "collegePct": 47.97,
+        "renterRatePct": 13.95,
+        "race": {
+          "whitePct": 88.69,
+          "nonHispanicWhitePct": 87.74,
+          "blackPct": 1.89,
+          "asianPct": 3.38,
+          "hispanicPct": 4.46
+        }
+      },
+      "election": {
+        "winner": "Margaret R. Scarsdale",
+        "party": "Democratic",
+        "pct": 51,
+        "unopposed": false
+      }
+    },
+    "2nd Middlesex": {
+      "districtName": "2nd Middlesex",
+      "census": {
+        "censusName": "2nd Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 175130,
+        "medianAge": 43.3,
+        "totalPopulation": 42500,
+        "collegePct": 68.69,
+        "renterRatePct": 11.27,
+        "race": {
+          "whitePct": 75.54,
+          "nonHispanicWhitePct": 74.18,
+          "blackPct": 0.5,
+          "asianPct": 17.93,
+          "hispanicPct": 3.17
+        }
+      },
+      "election": {
+        "winner": "James Arciero",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "3rd Middlesex": {
+      "districtName": "3rd Middlesex",
+      "census": {
+        "censusName": "3rd Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 132988,
+        "medianAge": 43.2,
+        "totalPopulation": 43429,
+        "collegePct": 60.5,
+        "renterRatePct": 20.76,
+        "race": {
+          "whitePct": 82.33,
+          "nonHispanicWhitePct": 81.36,
+          "blackPct": 1.32,
+          "asianPct": 5.7,
+          "hispanicPct": 4.74
+        }
+      },
+      "election": {
+        "winner": "Kate Hogan",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "4th Middlesex": {
+      "districtName": "4th Middlesex",
+      "census": {
+        "censusName": "4th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95894,
+        "medianAge": 37.4,
+        "totalPopulation": 42720,
+        "collegePct": 42.9,
+        "renterRatePct": 42.14,
+        "race": {
+          "whitePct": 62.83,
+          "nonHispanicWhitePct": 60.65,
+          "blackPct": 3.85,
+          "asianPct": 3.84,
+          "hispanicPct": 16.35
+        }
+      },
+      "election": {
+        "winner": "Danielle W. Gregoire",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "5th Middlesex": {
+      "districtName": "5th Middlesex",
+      "census": {
+        "censusName": "5th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 143224,
+        "medianAge": 42.9,
+        "totalPopulation": 43243,
+        "collegePct": 69.92,
+        "renterRatePct": 30.02,
+        "race": {
+          "whitePct": 77.43,
+          "nonHispanicWhitePct": 75.98,
+          "blackPct": 1.35,
+          "asianPct": 13.63,
+          "hispanicPct": 3.62
+        }
+      },
+      "election": {
+        "winner": "David Paul Linsky",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "6th Middlesex": {
+      "districtName": "6th Middlesex",
+      "census": {
+        "censusName": "6th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82890,
+        "medianAge": 34.7,
+        "totalPopulation": 42308,
+        "collegePct": 40.62,
+        "renterRatePct": 63.11,
+        "race": {
+          "whitePct": 44.36,
+          "nonHispanicWhitePct": 40,
+          "blackPct": 7.59,
+          "asianPct": 6.61,
+          "hispanicPct": 24.75
+        }
+      },
+      "election": {
+        "winner": "Priscila S. Sousa",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "7th Middlesex": {
+      "districtName": "7th Middlesex",
+      "census": {
+        "censusName": "7th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 124735,
+        "medianAge": 42,
+        "totalPopulation": 41085,
+        "collegePct": 58.85,
+        "renterRatePct": 22.5,
+        "race": {
+          "whitePct": 68.57,
+          "nonHispanicWhitePct": 65.8,
+          "blackPct": 5.18,
+          "asianPct": 11.64,
+          "hispanicPct": 9.84
+        }
+      },
+      "election": {
+        "winner": "Jack Patrick Lewis",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "8th Middlesex": {
+      "districtName": "8th Middlesex",
+      "census": {
+        "censusName": "8th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 178777,
+        "medianAge": 43.1,
+        "totalPopulation": 44181,
+        "collegePct": 69.57,
+        "renterRatePct": 13.41,
+        "race": {
+          "whitePct": 79.48,
+          "nonHispanicWhitePct": 78.91,
+          "blackPct": 0.86,
+          "asianPct": 10.9,
+          "hispanicPct": 3.4
+        }
+      },
+      "election": {
+        "winner": "James Arena-DeRosa",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "9th Middlesex": {
+      "districtName": "9th Middlesex",
+      "census": {
+        "censusName": "9th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119955,
+        "medianAge": 37.6,
+        "totalPopulation": 42793,
+        "collegePct": 58.17,
+        "renterRatePct": 44.79,
+        "race": {
+          "whitePct": 65.78,
+          "nonHispanicWhitePct": 62.13,
+          "blackPct": 6.84,
+          "asianPct": 13.3,
+          "hispanicPct": 14.26
+        }
+      },
+      "election": {
+        "winner": "Thomas M. Stanley",
+        "party": "Democratic",
+        "pct": 73,
+        "unopposed": false
+      }
+    },
+    "10th Middlesex": {
+      "districtName": "10th Middlesex",
+      "census": {
+        "censusName": "10th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113446,
+        "medianAge": 34.7,
+        "totalPopulation": 44150,
+        "collegePct": 58.07,
+        "renterRatePct": 56.11,
+        "race": {
+          "whitePct": 61.53,
+          "nonHispanicWhitePct": 58.47,
+          "blackPct": 6.68,
+          "asianPct": 14.19,
+          "hispanicPct": 15.43
+        }
+      },
+      "election": {
+        "winner": "John J. Lawn Jr",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "11th Middlesex": {
+      "districtName": "11th Middlesex",
+      "census": {
+        "censusName": "11th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 193138,
+        "medianAge": 38,
+        "totalPopulation": 43245,
+        "collegePct": 81.32,
+        "renterRatePct": 33.85,
+        "race": {
+          "whitePct": 73.44,
+          "nonHispanicWhitePct": 72.1,
+          "blackPct": 2.47,
+          "asianPct": 13.25,
+          "hispanicPct": 5.2
+        }
+      },
+      "election": {
+        "winner": "Amy Mah Sangiolo",
+        "party": "Democratic",
+        "pct": 81,
+        "unopposed": false
+      }
+    },
+    "12th Middlesex": {
+      "districtName": "12th Middlesex",
+      "census": {
+        "censusName": "12th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 194523,
+        "medianAge": 45.4,
+        "totalPopulation": 45282,
+        "collegePct": 84.06,
+        "renterRatePct": 23.09,
+        "race": {
+          "whitePct": 69.6,
+          "nonHispanicWhitePct": 68.34,
+          "blackPct": 2.04,
+          "asianPct": 19,
+          "hispanicPct": 4.82
+        }
+      },
+      "election": {
+        "winner": "Greg Schwartz",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "13th Middlesex": {
+      "districtName": "13th Middlesex",
+      "census": {
+        "censusName": "13th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 214833,
+        "medianAge": 44.8,
+        "totalPopulation": 41166,
+        "collegePct": 80.78,
+        "renterRatePct": 15.41,
+        "race": {
+          "whitePct": 78.11,
+          "nonHispanicWhitePct": 77.05,
+          "blackPct": 2.06,
+          "asianPct": 10.48,
+          "hispanicPct": 3.88
+        }
+      },
+      "election": {
+        "winner": "Carmine Lawrence Gentile",
+        "party": "Democratic",
+        "pct": 73,
+        "unopposed": false
+      }
+    },
+    "14th Middlesex": {
+      "districtName": "14th Middlesex",
+      "census": {
+        "censusName": "14th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 156431,
+        "medianAge": 43.7,
+        "totalPopulation": 45693,
+        "collegePct": 68.32,
+        "renterRatePct": 24.2,
+        "race": {
+          "whitePct": 74.99,
+          "nonHispanicWhitePct": 74.17,
+          "blackPct": 3.64,
+          "asianPct": 12.23,
+          "hispanicPct": 5.59
+        }
+      },
+      "election": {
+        "winner": "Simon Cataldo",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "15th Middlesex": {
+      "districtName": "15th Middlesex",
+      "census": {
+        "censusName": "15th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 186483,
+        "medianAge": 46.5,
+        "totalPopulation": 43647,
+        "collegePct": 76.83,
+        "renterRatePct": 22.12,
+        "race": {
+          "whitePct": 62.1,
+          "nonHispanicWhitePct": 61.37,
+          "blackPct": 3.46,
+          "asianPct": 26.72,
+          "hispanicPct": 2.76
+        }
+      },
+      "election": {
+        "winner": "Michelle Ciccolo",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "16th Middlesex": {
+      "districtName": "16th Middlesex",
+      "census": {
+        "censusName": "16th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88290,
+        "medianAge": 37.1,
+        "totalPopulation": 44752,
+        "collegePct": 32.02,
+        "renterRatePct": 39.02,
+        "race": {
+          "whitePct": 66.11,
+          "nonHispanicWhitePct": 58.53,
+          "blackPct": 10.43,
+          "asianPct": 9.64,
+          "hispanicPct": 18.81
+        }
+      },
+      "election": {
+        "winner": "Rodney M. Elliott",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "17th Middlesex": {
+      "districtName": "17th Middlesex",
+      "census": {
+        "censusName": "17th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80693,
+        "medianAge": 37.9,
+        "totalPopulation": 44935,
+        "collegePct": 31.35,
+        "renterRatePct": 49.4,
+        "race": {
+          "whitePct": 57.08,
+          "nonHispanicWhitePct": 52.75,
+          "blackPct": 8.14,
+          "asianPct": 18.05,
+          "hispanicPct": 15.96
+        }
+      },
+      "election": {
+        "winner": "Vanna Howard",
+        "party": "Democratic",
+        "pct": 77,
+        "unopposed": false
+      }
+    },
+    "18th Middlesex": {
+      "districtName": "18th Middlesex",
+      "census": {
+        "censusName": "18th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72782,
+        "medianAge": 32.9,
+        "totalPopulation": 41720,
+        "collegePct": 33.08,
+        "renterRatePct": 66.6,
+        "race": {
+          "whitePct": 42.33,
+          "nonHispanicWhitePct": 36.42,
+          "blackPct": 10.69,
+          "asianPct": 30.66,
+          "hispanicPct": 17.16
+        }
+      },
+      "election": {
+        "winner": "Tara Thorn Hong",
+        "party": "Democratic",
+        "pct": 78,
+        "unopposed": false
+      }
+    },
+    "19th Middlesex": {
+      "districtName": "19th Middlesex",
+      "census": {
+        "censusName": "19th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 141167,
+        "medianAge": 44.1,
+        "totalPopulation": 41674,
+        "collegePct": 44.37,
+        "renterRatePct": 12.91,
+        "race": {
+          "whitePct": 86.87,
+          "nonHispanicWhitePct": 85.31,
+          "blackPct": 1.82,
+          "asianPct": 3.94,
+          "hispanicPct": 4.31
+        }
+      },
+      "election": {
+        "winner": "David Allen Robertson",
+        "party": "Democratic",
+        "pct": 53,
+        "unopposed": false
+      }
+    },
+    "20th Middlesex": {
+      "districtName": "20th Middlesex",
+      "census": {
+        "censusName": "20th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 167403,
+        "medianAge": 42.6,
+        "totalPopulation": 44949,
+        "collegePct": 58.04,
+        "renterRatePct": 12.29,
+        "race": {
+          "whitePct": 86.62,
+          "nonHispanicWhitePct": 85.94,
+          "blackPct": 0.95,
+          "asianPct": 5.43,
+          "hispanicPct": 3.57
+        }
+      },
+      "election": {
+        "winner": "Bradley H. Jones Jr",
+        "party": "Republican",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "21st Middlesex": {
+      "districtName": "21st Middlesex",
+      "census": {
+        "censusName": "21st Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 150962,
+        "medianAge": 44.8,
+        "totalPopulation": 44102,
+        "collegePct": 63.79,
+        "renterRatePct": 25.91,
+        "race": {
+          "whitePct": 75.42,
+          "nonHispanicWhitePct": 73.74,
+          "blackPct": 2.22,
+          "asianPct": 14.86,
+          "hispanicPct": 4.32
+        }
+      },
+      "election": {
+        "winner": "Kenneth I. Gordon",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "22nd Middlesex": {
+      "districtName": "22nd Middlesex",
+      "census": {
+        "censusName": "22nd Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 139706,
+        "medianAge": 43.3,
+        "totalPopulation": 41700,
+        "collegePct": 41,
+        "renterRatePct": 21.88,
+        "race": {
+          "whitePct": 78.1,
+          "nonHispanicWhitePct": 77,
+          "blackPct": 4.7,
+          "asianPct": 8.46,
+          "hispanicPct": 5.26
+        }
+      },
+      "election": {
+        "winner": "Marc T. Lombardo",
+        "party": "Republican",
+        "pct": 60,
+        "unopposed": false
+      }
+    },
+    "23rd Middlesex": {
+      "districtName": "23rd Middlesex",
+      "census": {
+        "censusName": "23rd Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 139507,
+        "medianAge": 42.1,
+        "totalPopulation": 43464,
+        "collegePct": 70.36,
+        "renterRatePct": 37.56,
+        "race": {
+          "whitePct": 76.23,
+          "nonHispanicWhitePct": 74.93,
+          "blackPct": 4.3,
+          "asianPct": 11.58,
+          "hispanicPct": 4.96
+        }
+      },
+      "election": {
+        "winner": "Sean Garballey",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "24th Middlesex": {
+      "districtName": "24th Middlesex",
+      "census": {
+        "censusName": "24th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 166529,
+        "medianAge": 39.8,
+        "totalPopulation": 45735,
+        "collegePct": 79.95,
+        "renterRatePct": 42.23,
+        "race": {
+          "whitePct": 71.06,
+          "nonHispanicWhitePct": 69.65,
+          "blackPct": 3.28,
+          "asianPct": 16.47,
+          "hispanicPct": 5.21
+        }
+      },
+      "election": {
+        "winner": "David M. Rogers",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "25th Middlesex": {
+      "districtName": "25th Middlesex",
+      "census": {
+        "censusName": "25th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 121196,
+        "medianAge": 28.8,
+        "totalPopulation": 42973,
+        "collegePct": 87.13,
+        "renterRatePct": 63.77,
+        "race": {
+          "whitePct": 62.15,
+          "nonHispanicWhitePct": 59.95,
+          "blackPct": 6.35,
+          "asianPct": 18.49,
+          "hispanicPct": 8.81
+        }
+      },
+      "election": {
+        "winner": "Marjorie C. Decker",
+        "party": "Democratic",
+        "pct": 97,
+        "unopposed": false
+      }
+    },
+    "26th Middlesex": {
+      "districtName": "26th Middlesex",
+      "census": {
+        "censusName": "26th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116849,
+        "medianAge": 31.8,
+        "totalPopulation": 46261,
+        "collegePct": 69.97,
+        "renterRatePct": 71.77,
+        "race": {
+          "whitePct": 57.66,
+          "nonHispanicWhitePct": 52.96,
+          "blackPct": 12.72,
+          "asianPct": 16.88,
+          "hispanicPct": 11.85
+        }
+      },
+      "election": {
+        "winner": "Mike Connolly",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "27th Middlesex": {
+      "districtName": "27th Middlesex",
+      "census": {
+        "censusName": "27th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 137357,
+        "medianAge": 32.3,
+        "totalPopulation": 46126,
+        "collegePct": 72.7,
+        "renterRatePct": 63.86,
+        "race": {
+          "whitePct": 72.84,
+          "nonHispanicWhitePct": 70.11,
+          "blackPct": 3.22,
+          "asianPct": 11.09,
+          "hispanicPct": 9.93
+        }
+      },
+      "election": {
+        "winner": "Erika Uyterhoeven",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "28th Middlesex": {
+      "districtName": "28th Middlesex",
+      "census": {
+        "censusName": "28th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78271,
+        "medianAge": 36.2,
+        "totalPopulation": 43020,
+        "collegePct": 22.71,
+        "renterRatePct": 62.77,
+        "race": {
+          "whitePct": 41.75,
+          "nonHispanicWhitePct": 38.31,
+          "blackPct": 13.3,
+          "asianPct": 8.37,
+          "hispanicPct": 29.24
+        }
+      },
+      "election": {
+        "winner": "Joseph W. Mcgonagle Jr",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "29th Middlesex": {
+      "districtName": "29th Middlesex",
+      "census": {
+        "censusName": "29th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 126319,
+        "medianAge": 38.8,
+        "totalPopulation": 44417,
+        "collegePct": 72.82,
+        "renterRatePct": 52.7,
+        "race": {
+          "whitePct": 63.5,
+          "nonHispanicWhitePct": 62.24,
+          "blackPct": 8.56,
+          "asianPct": 14.29,
+          "hispanicPct": 7.47
+        }
+      },
+      "election": {
+        "winner": "Steven C. Owens",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "30th Middlesex": {
+      "districtName": "30th Middlesex",
+      "census": {
+        "censusName": "30th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118407,
+        "medianAge": 39.8,
+        "totalPopulation": 46758,
+        "collegePct": 50.9,
+        "renterRatePct": 37.16,
+        "race": {
+          "whitePct": 78.26,
+          "nonHispanicWhitePct": 76.97,
+          "blackPct": 3.49,
+          "asianPct": 8.81,
+          "hispanicPct": 5.87
+        }
+      },
+      "election": {
+        "winner": "Richard M. Haggerty",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "31st Middlesex": {
+      "districtName": "31st Middlesex",
+      "census": {
+        "censusName": "31st Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 148838,
+        "medianAge": 42.1,
+        "totalPopulation": 43121,
+        "collegePct": 64.13,
+        "renterRatePct": 24.47,
+        "race": {
+          "whitePct": 78.06,
+          "nonHispanicWhitePct": 77.19,
+          "blackPct": 2.02,
+          "asianPct": 10.93,
+          "hispanicPct": 4.08
+        }
+      },
+      "election": {
+        "winner": "Michael Seamus Day",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "32nd Middlesex": {
+      "districtName": "32nd Middlesex",
+      "census": {
+        "censusName": "32nd Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 130278,
+        "medianAge": 43.6,
+        "totalPopulation": 45838,
+        "collegePct": 58.95,
+        "renterRatePct": 32.44,
+        "race": {
+          "whitePct": 78.87,
+          "nonHispanicWhitePct": 77.48,
+          "blackPct": 2.51,
+          "asianPct": 8.86,
+          "hispanicPct": 5.09
+        }
+      },
+      "election": {
+        "winner": "Kate Lipper-Garabedian",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "33rd Middlesex": {
+      "districtName": "33rd Middlesex",
+      "census": {
+        "censusName": "33rd Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92024,
+        "medianAge": 34.9,
+        "totalPopulation": 46418,
+        "collegePct": 46.93,
+        "renterRatePct": 64.52,
+        "race": {
+          "whitePct": 43.31,
+          "nonHispanicWhitePct": 41.57,
+          "blackPct": 12.84,
+          "asianPct": 30.64,
+          "hispanicPct": 8.66
+        }
+      },
+      "election": {
+        "winner": "Steven Ultrino",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "34th Middlesex": {
+      "districtName": "34th Middlesex",
+      "census": {
+        "censusName": "34th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118130,
+        "medianAge": 31.5,
+        "totalPopulation": 44925,
+        "collegePct": 61.48,
+        "renterRatePct": 64.23,
+        "race": {
+          "whitePct": 66.34,
+          "nonHispanicWhitePct": 63.39,
+          "blackPct": 6.25,
+          "asianPct": 11.72,
+          "hispanicPct": 11.68
+        }
+      },
+      "election": {
+        "winner": "Christine P. Barber",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "35th Middlesex": {
+      "districtName": "35th Middlesex",
+      "census": {
+        "censusName": "35th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108902,
+        "medianAge": 38.8,
+        "totalPopulation": 41907,
+        "collegePct": 48.46,
+        "renterRatePct": 40.9,
+        "race": {
+          "whitePct": 60.19,
+          "nonHispanicWhitePct": 57.41,
+          "blackPct": 10.17,
+          "asianPct": 18.36,
+          "hispanicPct": 7.73
+        }
+      },
+      "election": {
+        "winner": "Paul J. Donato Sr",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "36th Middlesex": {
+      "districtName": "36th Middlesex",
+      "census": {
+        "censusName": "36th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116822,
+        "medianAge": 41.3,
+        "totalPopulation": 44780,
+        "collegePct": 39.09,
+        "renterRatePct": 18.58,
+        "race": {
+          "whitePct": 82.11,
+          "nonHispanicWhitePct": 79.27,
+          "blackPct": 2.73,
+          "asianPct": 6.34,
+          "hispanicPct": 8.4
+        }
+      },
+      "election": {
+        "winner": "Colleen M. Garry",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "37th Middlesex": {
+      "districtName": "37th Middlesex",
+      "census": {
+        "censusName": "37th Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 143519,
+        "medianAge": 42.7,
+        "totalPopulation": 43278,
+        "collegePct": 60.29,
+        "renterRatePct": 18.89,
+        "race": {
+          "whitePct": 74.73,
+          "nonHispanicWhitePct": 73.06,
+          "blackPct": 4.39,
+          "asianPct": 11.63,
+          "hispanicPct": 6.64
+        }
+      },
+      "election": {
+        "winner": "Danillo A. Sena",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "1st Norfolk": {
+      "districtName": "1st Norfolk",
+      "census": {
+        "censusName": "1st Norfolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107556,
+        "medianAge": 39.3,
+        "totalPopulation": 47757,
+        "collegePct": 47.33,
+        "renterRatePct": 46.41,
+        "race": {
+          "whitePct": 48.19,
+          "nonHispanicWhitePct": 47.27,
+          "blackPct": 11.72,
+          "asianPct": 29.71,
+          "hispanicPct": 7.81
+        }
+      },
+      "election": {
+        "winner": "Bruce J. Ayers",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "2nd Norfolk": {
+      "districtName": "2nd Norfolk",
+      "census": {
+        "censusName": "2nd Norfolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96864,
+        "medianAge": 38.7,
+        "totalPopulation": 45524,
+        "collegePct": 47.92,
+        "renterRatePct": 51.29,
+        "race": {
+          "whitePct": 59.81,
+          "nonHispanicWhitePct": 58.36,
+          "blackPct": 7.62,
+          "asianPct": 26.8,
+          "hispanicPct": 5.1
+        }
+      },
+      "election": {
+        "winner": "Tackey Chan",
+        "party": "Democratic",
+        "pct": 69,
+        "unopposed": false
+      }
+    },
+    "3rd Norfolk": {
+      "districtName": "3rd Norfolk",
+      "census": {
+        "censusName": "3rd Norfolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95223,
+        "medianAge": 40.4,
+        "totalPopulation": 41914,
+        "collegePct": 43.44,
+        "renterRatePct": 47.14,
+        "race": {
+          "whitePct": 64.54,
+          "nonHispanicWhitePct": 62.79,
+          "blackPct": 7.8,
+          "asianPct": 14.81,
+          "hispanicPct": 5.73
+        }
+      },
+      "election": {
+        "winner": "Ronald Mariano",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "4th Norfolk": {
+      "districtName": "4th Norfolk",
+      "census": {
+        "censusName": "4th Norfolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96853,
+        "medianAge": 43.5,
+        "totalPopulation": 41857,
+        "collegePct": 43.35,
+        "renterRatePct": 35.79,
+        "race": {
+          "whitePct": 79.87,
+          "nonHispanicWhitePct": 78.77,
+          "blackPct": 5.34,
+          "asianPct": 7.48,
+          "hispanicPct": 4.66
+        }
+      },
+      "election": {
+        "winner": "James Michael Murphy",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "5th Norfolk": {
+      "districtName": "5th Norfolk",
+      "census": {
+        "censusName": "5th Norfolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 124323,
+        "medianAge": 41.9,
+        "totalPopulation": 44613,
+        "collegePct": 46.2,
+        "renterRatePct": 22.31,
+        "race": {
+          "whitePct": 69.78,
+          "nonHispanicWhitePct": 68.1,
+          "blackPct": 3.97,
+          "asianPct": 19.47,
+          "hispanicPct": 4.66
+        }
+      },
+      "election": {
+        "winner": "Mark J. Cusack",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "6th Norfolk": {
+      "districtName": "6th Norfolk",
+      "census": {
+        "censusName": "6th Norfolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112590,
+        "medianAge": 42.1,
+        "totalPopulation": 43789,
+        "collegePct": 52.88,
+        "renterRatePct": 27.49,
+        "race": {
+          "whitePct": 65.9,
+          "nonHispanicWhitePct": 64.23,
+          "blackPct": 15.73,
+          "asianPct": 8.23,
+          "hispanicPct": 4.77
+        }
+      },
+      "election": {
+        "winner": "William C. Galvin",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "7th Norfolk": {
+      "districtName": "7th Norfolk",
+      "census": {
+        "censusName": "7th Norfolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131823,
+        "medianAge": 41.2,
+        "totalPopulation": 43717,
+        "collegePct": 51.61,
+        "renterRatePct": 21.2,
+        "race": {
+          "whitePct": 52.09,
+          "nonHispanicWhitePct": 50.65,
+          "blackPct": 28.75,
+          "asianPct": 8.77,
+          "hispanicPct": 7.42
+        }
+      },
+      "election": {
+        "winner": "Richard Gerard Wells Jr",
+        "party": "Democratic",
+        "pct": 64,
+        "unopposed": false
+      }
+    },
+    "8th Norfolk": {
+      "districtName": "8th Norfolk",
+      "census": {
+        "censusName": "8th Norfolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 150425,
+        "medianAge": 43.6,
+        "totalPopulation": 42940,
+        "collegePct": 61.01,
+        "renterRatePct": 14.62,
+        "race": {
+          "whitePct": 71.12,
+          "nonHispanicWhitePct": 70.32,
+          "blackPct": 7.97,
+          "asianPct": 10.97,
+          "hispanicPct": 3.7
+        }
+      },
+      "election": {
+        "winner": "Ted Philips",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "9th Norfolk": {
+      "districtName": "9th Norfolk",
+      "census": {
+        "censusName": "9th Norfolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 149732,
+        "medianAge": 42.5,
+        "totalPopulation": 46575,
+        "collegePct": 55.78,
+        "renterRatePct": 16.88,
+        "race": {
+          "whitePct": 84.81,
+          "nonHispanicWhitePct": 84.03,
+          "blackPct": 4.58,
+          "asianPct": 3.19,
+          "hispanicPct": 4.95
+        }
+      },
+      "election": {
+        "winner": "Marcus S. Vaughn",
+        "party": "Republican",
+        "pct": 57,
+        "unopposed": false
+      }
+    },
+    "10th Norfolk": {
+      "districtName": "10th Norfolk",
+      "census": {
+        "censusName": "10th Norfolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 145470,
+        "medianAge": 41.2,
+        "totalPopulation": 42899,
+        "collegePct": 58,
+        "renterRatePct": 20.47,
+        "race": {
+          "whitePct": 84.53,
+          "nonHispanicWhitePct": 83.25,
+          "blackPct": 1.93,
+          "asianPct": 6.3,
+          "hispanicPct": 4.82
+        }
+      },
+      "election": {
+        "winner": "Jeffrey N. Roy",
+        "party": "Democratic",
+        "pct": 62,
+        "unopposed": false
+      }
+    },
+    "11th Norfolk": {
+      "districtName": "11th Norfolk",
+      "census": {
+        "censusName": "11th Norfolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 155063,
+        "medianAge": 43.6,
+        "totalPopulation": 44527,
+        "collegePct": 60.64,
+        "renterRatePct": 21.48,
+        "race": {
+          "whitePct": 81.93,
+          "nonHispanicWhitePct": 80.26,
+          "blackPct": 3.59,
+          "asianPct": 5.62,
+          "hispanicPct": 6.35
+        }
+      },
+      "election": {
+        "winner": "Paul McMurtry",
+        "party": "Democratic",
+        "pct": 68,
+        "unopposed": false
+      }
+    },
+    "12th Norfolk": {
+      "districtName": "12th Norfolk",
+      "census": {
+        "censusName": "12th Norfolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112692,
+        "medianAge": 38.7,
+        "totalPopulation": 44730,
+        "collegePct": 55.97,
+        "renterRatePct": 39.99,
+        "race": {
+          "whitePct": 75.92,
+          "nonHispanicWhitePct": 73.23,
+          "blackPct": 5.67,
+          "asianPct": 6.54,
+          "hispanicPct": 8.39
+        }
+      },
+      "election": {
+        "winner": "John H. Rogers",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "13th Norfolk": {
+      "districtName": "13th Norfolk",
+      "census": {
+        "censusName": "13th Norfolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 215488,
+        "medianAge": 42.9,
+        "totalPopulation": 44235,
+        "collegePct": 81.19,
+        "renterRatePct": 15.05,
+        "race": {
+          "whitePct": 82.89,
+          "nonHispanicWhitePct": 82.12,
+          "blackPct": 1.35,
+          "asianPct": 9.58,
+          "hispanicPct": 3.21
+        }
+      },
+      "election": {
+        "winner": "Joshua Tarsky",
+        "party": "Democratic",
+        "pct": 61,
+        "unopposed": false
+      }
+    },
+    "14th Norfolk": {
+      "districtName": "14th Norfolk",
+      "census": {
+        "censusName": "14th Norfolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 250001,
+        "medianAge": 39.7,
+        "totalPopulation": 44720,
+        "collegePct": 84.94,
+        "renterRatePct": 17.42,
+        "race": {
+          "whitePct": 73.74,
+          "nonHispanicWhitePct": 71.65,
+          "blackPct": 2.17,
+          "asianPct": 13.42,
+          "hispanicPct": 6.64
+        }
+      },
+      "election": {
+        "winner": "Alice Hanlon Peisch",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "15th Norfolk": {
+      "districtName": "15th Norfolk",
+      "census": {
+        "censusName": "15th Norfolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131115,
+        "medianAge": 33.9,
+        "totalPopulation": 45337,
+        "collegePct": 85.19,
+        "renterRatePct": 58.95,
+        "race": {
+          "whitePct": 67.81,
+          "nonHispanicWhitePct": 66.06,
+          "blackPct": 3.13,
+          "asianPct": 17.74,
+          "hispanicPct": 5.99
+        }
+      },
+      "election": {
+        "winner": "Tommy Vitolo",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "1st Plymouth": {
+      "districtName": "1st Plymouth",
+      "census": {
+        "censusName": "1st Plymouth District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 123146,
+        "medianAge": 48.6,
+        "totalPopulation": 45407,
+        "collegePct": 47.41,
+        "renterRatePct": 10.68,
+        "race": {
+          "whitePct": 91.47,
+          "nonHispanicWhitePct": 90.72,
+          "blackPct": 1.26,
+          "asianPct": 1.16,
+          "hispanicPct": 2.89
+        }
+      },
+      "election": {
+        "winner": "Michelle L. Badger",
+        "party": "Democratic",
+        "pct": 52,
+        "unopposed": false
+      }
+    },
+    "2nd Plymouth": {
+      "districtName": "2nd Plymouth",
+      "census": {
+        "censusName": "2nd Plymouth District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85243,
+        "medianAge": 49.4,
+        "totalPopulation": 42612,
+        "collegePct": 27.68,
+        "renterRatePct": 15.89,
+        "race": {
+          "whitePct": 85.18,
+          "nonHispanicWhitePct": 85,
+          "blackPct": 1.76,
+          "asianPct": 1.52,
+          "hispanicPct": 2.04
+        }
+      },
+      "election": {
+        "winner": "John Robert Gaskey",
+        "party": "Republican",
+        "pct": 89,
+        "unopposed": false
+      }
+    },
+    "3rd Plymouth": {
+      "districtName": "3rd Plymouth",
+      "census": {
+        "censusName": "3rd Plymouth District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 160177,
+        "medianAge": 49.5,
+        "totalPopulation": 42641,
+        "collegePct": 68.51,
+        "renterRatePct": 18.97,
+        "race": {
+          "whitePct": 93.6,
+          "nonHispanicWhitePct": 93,
+          "blackPct": 0.57,
+          "asianPct": 1.75,
+          "hispanicPct": 2.22
+        }
+      },
+      "election": {
+        "winner": "Joan Meschino",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "4th Plymouth": {
+      "districtName": "4th Plymouth",
+      "census": {
+        "censusName": "4th Plymouth District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 138847,
+        "medianAge": 46.4,
+        "totalPopulation": 44176,
+        "collegePct": 59.95,
+        "renterRatePct": 11.34,
+        "race": {
+          "whitePct": 94.64,
+          "nonHispanicWhitePct": 94.01,
+          "blackPct": 0.17,
+          "asianPct": 1.41,
+          "hispanicPct": 1.92
+        }
+      },
+      "election": {
+        "winner": "Patrick Joseph Kearney",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "5th Plymouth": {
+      "districtName": "5th Plymouth",
+      "census": {
+        "censusName": "5th Plymouth District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131998,
+        "medianAge": 41.3,
+        "totalPopulation": 43773,
+        "collegePct": 47.22,
+        "renterRatePct": 16.39,
+        "race": {
+          "whitePct": 88.51,
+          "nonHispanicWhitePct": 87.7,
+          "blackPct": 2.05,
+          "asianPct": 1.72,
+          "hispanicPct": 2.99
+        }
+      },
+      "election": {
+        "winner": "David F. Decoste",
+        "party": "Republican",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "6th Plymouth": {
+      "districtName": "6th Plymouth",
+      "census": {
+        "censusName": "6th Plymouth District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131665,
+        "medianAge": 46.1,
+        "totalPopulation": 46218,
+        "collegePct": 54.23,
+        "renterRatePct": 13.69,
+        "race": {
+          "whitePct": 91.41,
+          "nonHispanicWhitePct": 90.8,
+          "blackPct": 0.69,
+          "asianPct": 1.69,
+          "hispanicPct": 2.08
+        }
+      },
+      "election": {
+        "winner": "Kenneth Peter Sweezey",
+        "party": "Republican",
+        "pct": 53,
+        "unopposed": false
+      }
+    },
+    "7th Plymouth": {
+      "districtName": "7th Plymouth",
+      "census": {
+        "censusName": "7th Plymouth District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119667,
+        "medianAge": 40.6,
+        "totalPopulation": 43007,
+        "collegePct": 34.6,
+        "renterRatePct": 23.72,
+        "race": {
+          "whitePct": 88.57,
+          "nonHispanicWhitePct": 87.66,
+          "blackPct": 1.13,
+          "asianPct": 1.87,
+          "hispanicPct": 3.03
+        }
+      },
+      "election": {
+        "winner": "Alyson M. Sullivan-Almeida",
+        "party": "Republican",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "8th Plymouth": {
+      "districtName": "8th Plymouth",
+      "census": {
+        "censusName": "8th Plymouth District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113601,
+        "medianAge": 39.5,
+        "totalPopulation": 43942,
+        "collegePct": 39.86,
+        "renterRatePct": 24.4,
+        "race": {
+          "whitePct": 83,
+          "nonHispanicWhitePct": 82.28,
+          "blackPct": 6.29,
+          "asianPct": 2.79,
+          "hispanicPct": 3.21
+        }
+      },
+      "election": {
+        "winner": "Dennis C. Gallagher",
+        "party": "Democratic",
+        "pct": 50,
+        "unopposed": false
+      }
+    },
+    "9th Plymouth": {
+      "districtName": "9th Plymouth",
+      "census": {
+        "censusName": "9th Plymouth District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108250,
+        "medianAge": 41.3,
+        "totalPopulation": 45315,
+        "collegePct": 38.66,
+        "renterRatePct": 23.05,
+        "race": {
+          "whitePct": 69.92,
+          "nonHispanicWhitePct": 68.49,
+          "blackPct": 15.2,
+          "asianPct": 2.21,
+          "hispanicPct": 6.52
+        }
+      },
+      "election": {
+        "winner": "Bridget M. Plouffe",
+        "party": "Democratic",
+        "pct": 54,
+        "unopposed": false
+      }
+    },
+    "10th Plymouth": {
+      "districtName": "10th Plymouth",
+      "census": {
+        "censusName": "10th Plymouth District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80463,
+        "medianAge": 38.3,
+        "totalPopulation": 44753,
+        "collegePct": 20.88,
+        "renterRatePct": 37.71,
+        "race": {
+          "whitePct": 33.81,
+          "nonHispanicWhitePct": 30.32,
+          "blackPct": 33.89,
+          "asianPct": 2.28,
+          "hispanicPct": 14.47
+        }
+      },
+      "election": {
+        "winner": "Michelle Marie Dubois",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "11th Plymouth": {
+      "districtName": "11th Plymouth",
+      "census": {
+        "censusName": "11th Plymouth District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67014,
+        "medianAge": 33.1,
+        "totalPopulation": 42254,
+        "collegePct": 20.08,
+        "renterRatePct": 56.66,
+        "race": {
+          "whitePct": 16.77,
+          "nonHispanicWhitePct": 14.48,
+          "blackPct": 45.71,
+          "asianPct": 1.98,
+          "hispanicPct": 12.99
+        }
+      },
+      "election": {
+        "winner": "Rita A. Mendes",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "12th Plymouth": {
+      "districtName": "12th Plymouth",
+      "census": {
+        "censusName": "12th Plymouth District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94838,
+        "medianAge": 45.5,
+        "totalPopulation": 45130,
+        "collegePct": 40.44,
+        "renterRatePct": 23.94,
+        "race": {
+          "whitePct": 90.09,
+          "nonHispanicWhitePct": 88.62,
+          "blackPct": 0.85,
+          "asianPct": 0.58,
+          "hispanicPct": 3.37
+        }
+      },
+      "election": {
+        "winner": "Kathleen R. Lanatra",
+        "party": "Democratic",
+        "pct": 53,
+        "unopposed": false
+      }
+    },
+    "1st Suffolk": {
+      "districtName": "1st Suffolk",
+      "census": {
+        "censusName": "1st Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92079,
+        "medianAge": 34.9,
+        "totalPopulation": 44124,
+        "collegePct": 38.17,
+        "renterRatePct": 71.43,
+        "race": {
+          "whitePct": 45.2,
+          "nonHispanicWhitePct": 36.09,
+          "blackPct": 3.26,
+          "asianPct": 3.89,
+          "hispanicPct": 52.35
+        }
+      },
+      "election": {
+        "winner": "Adrian C. Madaro",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "2nd Suffolk": {
+      "districtName": "2nd Suffolk",
+      "census": {
+        "censusName": "2nd Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118336,
+        "medianAge": 31.1,
+        "totalPopulation": 43051,
+        "collegePct": 77.22,
+        "renterRatePct": 69.35,
+        "race": {
+          "whitePct": 63.78,
+          "nonHispanicWhitePct": 60.14,
+          "blackPct": 4.94,
+          "asianPct": 17.99,
+          "hispanicPct": 12.25
+        }
+      },
+      "election": {
+        "winner": "Daniel J. Ryan",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "3rd Suffolk": {
+      "districtName": "3rd Suffolk",
+      "census": {
+        "censusName": "3rd Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 114840,
+        "medianAge": 32.4,
+        "totalPopulation": 38490,
+        "collegePct": 71.67,
+        "renterRatePct": 73.2,
+        "race": {
+          "whitePct": 65.28,
+          "nonHispanicWhitePct": 63.29,
+          "blackPct": 4.2,
+          "asianPct": 20.49,
+          "hispanicPct": 7.69
+        }
+      },
+      "election": {
+        "winner": "Aaron M. Michlewitz",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "4th Suffolk": {
+      "districtName": "4th Suffolk",
+      "census": {
+        "censusName": "4th Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 161801,
+        "medianAge": 32.8,
+        "totalPopulation": 42957,
+        "collegePct": 72.13,
+        "renterRatePct": 59.4,
+        "race": {
+          "whitePct": 79.31,
+          "nonHispanicWhitePct": 78.03,
+          "blackPct": 3.62,
+          "asianPct": 6.95,
+          "hispanicPct": 9.04
+        }
+      },
+      "election": {
+        "winner": "David Biele",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "5th Suffolk": {
+      "districtName": "5th Suffolk",
+      "census": {
+        "censusName": "5th Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50309,
+        "medianAge": 34.2,
+        "totalPopulation": 44159,
+        "collegePct": 21.75,
+        "renterRatePct": 70.79,
+        "race": {
+          "whitePct": 12.43,
+          "nonHispanicWhitePct": 8.6,
+          "blackPct": 45.94,
+          "asianPct": 2.73,
+          "hispanicPct": 31.33
+        }
+      },
+      "election": {
+        "winner": "Christopher J. Worrell",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "6th Suffolk": {
+      "districtName": "6th Suffolk",
+      "census": {
+        "censusName": "6th Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70440,
+        "medianAge": 36.4,
+        "totalPopulation": 48334,
+        "collegePct": 23.28,
+        "renterRatePct": 60.19,
+        "race": {
+          "whitePct": 10.51,
+          "nonHispanicWhitePct": 8.58,
+          "blackPct": 58.54,
+          "asianPct": 3.82,
+          "hispanicPct": 23.72
+        }
+      },
+      "election": {
+        "winner": "Russell E. Holmes",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "7th Suffolk": {
+      "districtName": "7th Suffolk",
+      "census": {
+        "censusName": "7th Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48284,
+        "medianAge": 25.2,
+        "totalPopulation": 41479,
+        "collegePct": 36.87,
+        "renterRatePct": 78.71,
+        "race": {
+          "whitePct": 31.06,
+          "nonHispanicWhitePct": 27.76,
+          "blackPct": 33.35,
+          "asianPct": 10.86,
+          "hispanicPct": 23.64
+        }
+      },
+      "election": {
+        "winner": "Chynah Tyler",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "8th Suffolk": {
+      "districtName": "8th Suffolk",
+      "census": {
+        "censusName": "8th Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111167,
+        "medianAge": 30.2,
+        "totalPopulation": 41308,
+        "collegePct": 83.95,
+        "renterRatePct": 72.98,
+        "race": {
+          "whitePct": 69.32,
+          "nonHispanicWhitePct": 66.86,
+          "blackPct": 4.36,
+          "asianPct": 13.28,
+          "hispanicPct": 10.25
+        }
+      },
+      "election": {
+        "winner": "Jay D. Livingstone",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "9th Suffolk": {
+      "districtName": "9th Suffolk",
+      "census": {
+        "censusName": "9th Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80637,
+        "medianAge": 37.2,
+        "totalPopulation": 41177,
+        "collegePct": 58.37,
+        "renterRatePct": 69.07,
+        "race": {
+          "whitePct": 49.74,
+          "nonHispanicWhitePct": 46.58,
+          "blackPct": 17.15,
+          "asianPct": 13.16,
+          "hispanicPct": 18.47
+        }
+      },
+      "election": {
+        "winner": "John Francis Moran",
+        "party": "Democratic",
+        "pct": 82,
+        "unopposed": false
+      }
+    },
+    "10th Suffolk": {
+      "districtName": "10th Suffolk",
+      "census": {
+        "censusName": "10th Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 154269,
+        "medianAge": 41.2,
+        "totalPopulation": 45817,
+        "collegePct": 69.64,
+        "renterRatePct": 29.67,
+        "race": {
+          "whitePct": 75.65,
+          "nonHispanicWhitePct": 73.19,
+          "blackPct": 3.13,
+          "asianPct": 7.88,
+          "hispanicPct": 9.57
+        }
+      },
+      "election": {
+        "winner": "William Macgregor",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "11th Suffolk": {
+      "districtName": "11th Suffolk",
+      "census": {
+        "censusName": "11th Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74334,
+        "medianAge": 34.3,
+        "totalPopulation": 43751,
+        "collegePct": 22.18,
+        "renterRatePct": 69.81,
+        "race": {
+          "whitePct": 29.09,
+          "nonHispanicWhitePct": 21.09,
+          "blackPct": 7.61,
+          "asianPct": 2.96,
+          "hispanicPct": 62.72
+        }
+      },
+      "election": {
+        "winner": "Judith A. Garcia",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "12th Suffolk": {
+      "districtName": "12th Suffolk",
+      "census": {
+        "censusName": "12th Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92175,
+        "medianAge": 40.5,
+        "totalPopulation": 46135,
+        "collegePct": 34.92,
+        "renterRatePct": 46.93,
+        "race": {
+          "whitePct": 19.53,
+          "nonHispanicWhitePct": 17.78,
+          "blackPct": 57.97,
+          "asianPct": 2.43,
+          "hispanicPct": 14.97
+        }
+      },
+      "election": {
+        "winner": "Brandy Fluker Oakley",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "13th Suffolk": {
+      "districtName": "13th Suffolk",
+      "census": {
+        "censusName": "13th Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90820,
+        "medianAge": 36.5,
+        "totalPopulation": 43041,
+        "collegePct": 46.22,
+        "renterRatePct": 58.9,
+        "race": {
+          "whitePct": 46.23,
+          "nonHispanicWhitePct": 44.26,
+          "blackPct": 18.66,
+          "asianPct": 18.35,
+          "hispanicPct": 12.48
+        }
+      },
+      "election": {
+        "winner": "Daniel J. Hunt",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "14th Suffolk": {
+      "districtName": "14th Suffolk",
+      "census": {
+        "censusName": "14th Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98624,
+        "medianAge": 37.2,
+        "totalPopulation": 48883,
+        "collegePct": 39.89,
+        "renterRatePct": 50.05,
+        "race": {
+          "whitePct": 35.71,
+          "nonHispanicWhitePct": 31.61,
+          "blackPct": 38.8,
+          "asianPct": 3.31,
+          "hispanicPct": 25.33
+        }
+      },
+      "election": {
+        "winner": "Rob Consalvo",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "15th Suffolk": {
+      "districtName": "15th Suffolk",
+      "census": {
+        "censusName": "15th Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104224,
+        "medianAge": 33.5,
+        "totalPopulation": 45166,
+        "collegePct": 63.86,
+        "renterRatePct": 64.97,
+        "race": {
+          "whitePct": 56.31,
+          "nonHispanicWhitePct": 50.11,
+          "blackPct": 15.16,
+          "asianPct": 10.11,
+          "hispanicPct": 21.55
+        }
+      },
+      "election": {
+        "winner": "Samantha Montaño",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "16th Suffolk": {
+      "districtName": "16th Suffolk",
+      "census": {
+        "censusName": "16th Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95185,
+        "medianAge": 38.8,
+        "totalPopulation": 41034,
+        "collegePct": 26.28,
+        "renterRatePct": 43.97,
+        "race": {
+          "whitePct": 56.57,
+          "nonHispanicWhitePct": 49.05,
+          "blackPct": 6.43,
+          "asianPct": 4.55,
+          "hispanicPct": 35.76
+        }
+      },
+      "election": {
+        "winner": "Jessica Ann Giannino",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "17th Suffolk": {
+      "districtName": "17th Suffolk",
+      "census": {
+        "censusName": "17th Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82701,
+        "medianAge": 29.6,
+        "totalPopulation": 40923,
+        "collegePct": 74.32,
+        "renterRatePct": 80.21,
+        "race": {
+          "whitePct": 58.62,
+          "nonHispanicWhitePct": 56.5,
+          "blackPct": 6.12,
+          "asianPct": 19.97,
+          "hispanicPct": 11.2
+        }
+      },
+      "election": {
+        "winner": "Kevin G. Honan",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "18th Suffolk": {
+      "districtName": "18th Suffolk",
+      "census": {
+        "censusName": "18th Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93913,
+        "medianAge": 26.1,
+        "totalPopulation": 38083,
+        "collegePct": 73.37,
+        "renterRatePct": 78.29,
+        "race": {
+          "whitePct": 61.47,
+          "nonHispanicWhitePct": 59.38,
+          "blackPct": 8.41,
+          "asianPct": 18.59,
+          "hispanicPct": 8.51
+        }
+      },
+      "election": {
+        "winner": "Michael J. Moran",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "19th Suffolk": {
+      "districtName": "19th Suffolk",
+      "census": {
+        "censusName": "19th Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85988,
+        "medianAge": 41.4,
+        "totalPopulation": 43892,
+        "collegePct": 31.49,
+        "renterRatePct": 49.25,
+        "race": {
+          "whitePct": 67.43,
+          "nonHispanicWhitePct": 58.74,
+          "blackPct": 2.95,
+          "asianPct": 2.69,
+          "hispanicPct": 31.39
+        }
+      },
+      "election": {
+        "winner": "Jeffrey Rosario Turco",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "1st Worcester": {
+      "districtName": "1st Worcester",
+      "census": {
+        "censusName": "1st Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 134026,
+        "medianAge": 42.6,
+        "totalPopulation": 45872,
+        "collegePct": 51.38,
+        "renterRatePct": 12.49,
+        "race": {
+          "whitePct": 90.73,
+          "nonHispanicWhitePct": 88.93,
+          "blackPct": 1.63,
+          "asianPct": 1.86,
+          "hispanicPct": 4.36
+        }
+      },
+      "election": {
+        "winner": "Kimberly N. Ferguson",
+        "party": "Republican",
+        "pct": 70,
+        "unopposed": false
+      }
+    },
+    "2nd Worcester": {
+      "districtName": "2nd Worcester",
+      "census": {
+        "censusName": "2nd Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76476,
+        "medianAge": 41.6,
+        "totalPopulation": 42763,
+        "collegePct": 26.36,
+        "renterRatePct": 29.21,
+        "race": {
+          "whitePct": 84.87,
+          "nonHispanicWhitePct": 83.05,
+          "blackPct": 2.95,
+          "asianPct": 2.86,
+          "hispanicPct": 7.26
+        }
+      },
+      "election": {
+        "winner": "Jonathan D. Zlotnik",
+        "party": "Democratic",
+        "pct": 52,
+        "unopposed": false
+      }
+    },
+    "3rd Worcester": {
+      "districtName": "3rd Worcester",
+      "census": {
+        "censusName": "3rd Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71781,
+        "medianAge": 37.4,
+        "totalPopulation": 45378,
+        "collegePct": 25.24,
+        "renterRatePct": 42.07,
+        "race": {
+          "whitePct": 65.39,
+          "nonHispanicWhitePct": 57.98,
+          "blackPct": 6.75,
+          "asianPct": 2.59,
+          "hispanicPct": 28.71
+        }
+      },
+      "election": {
+        "winner": "Michael P. Kushmerek",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "4th Worcester": {
+      "districtName": "4th Worcester",
+      "census": {
+        "censusName": "4th Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81556,
+        "medianAge": 41.8,
+        "totalPopulation": 43697,
+        "collegePct": 32.32,
+        "renterRatePct": 37.14,
+        "race": {
+          "whitePct": 73.26,
+          "nonHispanicWhitePct": 68.29,
+          "blackPct": 5.43,
+          "asianPct": 3.04,
+          "hispanicPct": 17.14
+        }
+      },
+      "election": {
+        "winner": "Natalie Higgins",
+        "party": "Democratic",
+        "pct": 57,
+        "unopposed": false
+      }
+    },
+    "5th Worcester": {
+      "districtName": "5th Worcester",
+      "census": {
+        "censusName": "5th Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86115,
+        "medianAge": 44.3,
+        "totalPopulation": 44213,
+        "collegePct": 30.6,
+        "renterRatePct": 23.08,
+        "race": {
+          "whitePct": 91.8,
+          "nonHispanicWhitePct": 90.04,
+          "blackPct": 1.47,
+          "asianPct": 0.54,
+          "hispanicPct": 4.82
+        }
+      },
+      "election": {
+        "winner": "Donald R. Berthiaume Jr",
+        "party": "Republican",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "6th Worcester": {
+      "districtName": "6th Worcester",
+      "census": {
+        "censusName": "6th Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78052,
+        "medianAge": 41.8,
+        "totalPopulation": 43215,
+        "collegePct": 24.04,
+        "renterRatePct": 39.78,
+        "race": {
+          "whitePct": 80.46,
+          "nonHispanicWhitePct": 74.9,
+          "blackPct": 3.33,
+          "asianPct": 1.27,
+          "hispanicPct": 18.43
+        }
+      },
+      "election": {
+        "winner": "John J. Marsi Jr",
+        "party": "Republican",
+        "pct": 62,
+        "unopposed": false
+      }
+    },
+    "7th Worcester": {
+      "districtName": "7th Worcester",
+      "census": {
+        "censusName": "7th Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108039,
+        "medianAge": 44.6,
+        "totalPopulation": 43216,
+        "collegePct": 35.65,
+        "renterRatePct": 20.9,
+        "race": {
+          "whitePct": 87.52,
+          "nonHispanicWhitePct": 86.75,
+          "blackPct": 1.19,
+          "asianPct": 2.89,
+          "hispanicPct": 5.24
+        }
+      },
+      "election": {
+        "winner": "Paul K. Frost",
+        "party": "Republican",
+        "pct": 69,
+        "unopposed": false
+      }
+    },
+    "8th Worcester": {
+      "districtName": "8th Worcester",
+      "census": {
+        "censusName": "8th Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 121656,
+        "medianAge": 40.8,
+        "totalPopulation": 43562,
+        "collegePct": 39.29,
+        "renterRatePct": 20.05,
+        "race": {
+          "whitePct": 86.81,
+          "nonHispanicWhitePct": 85.88,
+          "blackPct": 1.4,
+          "asianPct": 1.62,
+          "hispanicPct": 4.37
+        }
+      },
+      "election": {
+        "winner": "Michael J. Soter",
+        "party": "Republican",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "9th Worcester": {
+      "districtName": "9th Worcester",
+      "census": {
+        "censusName": "9th Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 122173,
+        "medianAge": 42.9,
+        "totalPopulation": 44224,
+        "collegePct": 46.48,
+        "renterRatePct": 26.42,
+        "race": {
+          "whitePct": 83.22,
+          "nonHispanicWhitePct": 81.84,
+          "blackPct": 1.6,
+          "asianPct": 5.85,
+          "hispanicPct": 6.41
+        }
+      },
+      "election": {
+        "winner": "David Kent Muradian Jr",
+        "party": "Republican",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "10th Worcester": {
+      "districtName": "10th Worcester",
+      "census": {
+        "censusName": "10th Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100357,
+        "medianAge": 40,
+        "totalPopulation": 42594,
+        "collegePct": 38.57,
+        "renterRatePct": 27.55,
+        "race": {
+          "whitePct": 75.75,
+          "nonHispanicWhitePct": 73.07,
+          "blackPct": 2.63,
+          "asianPct": 2.05,
+          "hispanicPct": 12.13
+        }
+      },
+      "election": {
+        "winner": "Brian William Murray",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "11th Worcester": {
+      "districtName": "11th Worcester",
+      "census": {
+        "censusName": "11th Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 140610,
+        "medianAge": 40,
+        "totalPopulation": 42268,
+        "collegePct": 66.4,
+        "renterRatePct": 27.97,
+        "race": {
+          "whitePct": 62.44,
+          "nonHispanicWhitePct": 60.97,
+          "blackPct": 2.9,
+          "asianPct": 25.7,
+          "hispanicPct": 4.89
+        }
+      },
+      "election": {
+        "winner": "Hannah E. Kane",
+        "party": "Republican",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "12th Worcester": {
+      "districtName": "12th Worcester",
+      "census": {
+        "censusName": "12th Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113535,
+        "medianAge": 44.1,
+        "totalPopulation": 44132,
+        "collegePct": 48.54,
+        "renterRatePct": 27.3,
+        "race": {
+          "whitePct": 84.77,
+          "nonHispanicWhitePct": 81.29,
+          "blackPct": 2.49,
+          "asianPct": 2.54,
+          "hispanicPct": 10.24
+        }
+      },
+      "election": {
+        "winner": "Meghan Kilcoyne",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "13th Worcester": {
+      "districtName": "13th Worcester",
+      "census": {
+        "censusName": "13th Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97116,
+        "medianAge": 34.4,
+        "totalPopulation": 46786,
+        "collegePct": 51.67,
+        "renterRatePct": 37.41,
+        "race": {
+          "whitePct": 72.23,
+          "nonHispanicWhitePct": 68.97,
+          "blackPct": 7.23,
+          "asianPct": 6.32,
+          "hispanicPct": 12.59
+        }
+      },
+      "election": {
+        "winner": "John J. Mahoney Jr",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "14th Worcester": {
+      "districtName": "14th Worcester",
+      "census": {
+        "censusName": "14th Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76980,
+        "medianAge": 37.9,
+        "totalPopulation": 43807,
+        "collegePct": 37.46,
+        "renterRatePct": 46.51,
+        "race": {
+          "whitePct": 64.89,
+          "nonHispanicWhitePct": 58.63,
+          "blackPct": 11.92,
+          "asianPct": 3.67,
+          "hispanicPct": 20.86
+        }
+      },
+      "election": {
+        "winner": "James J. O'Day",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "15th Worcester": {
+      "districtName": "15th Worcester",
+      "census": {
+        "censusName": "15th Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54701,
+        "medianAge": 32.7,
+        "totalPopulation": 41262,
+        "collegePct": 31.16,
+        "renterRatePct": 78.64,
+        "race": {
+          "whitePct": 47.75,
+          "nonHispanicWhitePct": 37.6,
+          "blackPct": 13.47,
+          "asianPct": 9.18,
+          "hispanicPct": 33.7
+        }
+      },
+      "election": {
+        "winner": "Mary S. Keefe",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "16th Worcester": {
+      "districtName": "16th Worcester",
+      "census": {
+        "censusName": "16th Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69521,
+        "medianAge": 35,
+        "totalPopulation": 44162,
+        "collegePct": 26.58,
+        "renterRatePct": 55.05,
+        "race": {
+          "whitePct": 57.05,
+          "nonHispanicWhitePct": 49.32,
+          "blackPct": 15.15,
+          "asianPct": 4.98,
+          "hispanicPct": 23.16
+        }
+      },
+      "election": {
+        "winner": "Daniel M. Donahue",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "17th Worcester": {
+      "districtName": "17th Worcester",
+      "census": {
+        "censusName": "17th Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57686,
+        "medianAge": 34.1,
+        "totalPopulation": 42532,
+        "collegePct": 23.74,
+        "renterRatePct": 58.61,
+        "race": {
+          "whitePct": 54.84,
+          "nonHispanicWhitePct": 45.61,
+          "blackPct": 11.19,
+          "asianPct": 8.9,
+          "hispanicPct": 30.36
+        }
+      },
+      "election": {
+        "winner": "David Henry Argosky Leboeuf",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "18th Worcester": {
+      "districtName": "18th Worcester",
+      "census": {
+        "censusName": "18th Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105749,
+        "medianAge": 42.6,
+        "totalPopulation": 46621,
+        "collegePct": 34.94,
+        "renterRatePct": 27.39,
+        "race": {
+          "whitePct": 84.62,
+          "nonHispanicWhitePct": 82.5,
+          "blackPct": 2.82,
+          "asianPct": 1.33,
+          "hispanicPct": 10.42
+        }
+      },
+      "election": {
+        "winner": "Joseph D. Mckenna",
+        "party": "Republican",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "19th Worcester": {
+      "districtName": "19th Worcester",
+      "census": {
+        "censusName": "19th Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 150527,
+        "medianAge": 41.8,
+        "totalPopulation": 41354,
+        "collegePct": 67.78,
+        "renterRatePct": 25.74,
+        "race": {
+          "whitePct": 71.66,
+          "nonHispanicWhitePct": 70.02,
+          "blackPct": 2.88,
+          "asianPct": 14.68,
+          "hispanicPct": 5.39
+        }
+      },
+      "election": {
+        "winner": "Kate Donaghue",
+        "party": "Democratic",
+        "pct": 77,
+        "unopposed": false
+      }
+    }
+  },
+  "senate": {
+    "Berkshire, Hampden, Franklin & Hampshire": {
+      "districtName": "Berkshire, Hampden, Franklin & Hampshire",
+      "census": {
+        "censusName": "Berkshire-Hampden-Franklin-Hampshire District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76986,
+        "medianAge": 48.6,
+        "totalPopulation": 166255,
+        "collegePct": 39.11,
+        "renterRatePct": 26.85,
+        "race": {
+          "whitePct": 88.49,
+          "nonHispanicWhitePct": 87.02,
+          "blackPct": 2.05,
+          "asianPct": 1.57,
+          "hispanicPct": 5.15
+        }
+      },
+      "election": {
+        "winner": "Paul W. Mark",
+        "party": "Democratic",
+        "pct": 71,
+        "unopposed": false
+      }
+    },
+    "First Plymouth & Norfolk": {
+      "districtName": "First Plymouth & Norfolk",
+      "census": {
+        "censusName": "First Plymouth and Norfolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 127670,
+        "medianAge": 46,
+        "totalPopulation": 172786,
+        "collegePct": 57.39,
+        "renterRatePct": 21.63,
+        "race": {
+          "whitePct": 89.39,
+          "nonHispanicWhitePct": 88.45,
+          "blackPct": 2.16,
+          "asianPct": 3.37,
+          "hispanicPct": 2.93
+        }
+      },
+      "election": {
+        "winner": "Patrick A. O'Connor",
+        "party": "Republican",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "Hampden, Hampshire & Worcester": {
+      "districtName": "Hampden, Hampshire & Worcester",
+      "census": {
+        "censusName": "Hampden-Hampshire-Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91552,
+        "medianAge": 44.7,
+        "totalPopulation": 166065,
+        "collegePct": 39.7,
+        "renterRatePct": 19.65,
+        "race": {
+          "whitePct": 84.66,
+          "nonHispanicWhitePct": 81.48,
+          "blackPct": 3.32,
+          "asianPct": 2.77,
+          "hispanicPct": 9.31
+        }
+      },
+      "election": {
+        "winner": "Jacob R. Oliveira",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "Norfolk & Middlesex": {
+      "districtName": "Norfolk & Middlesex",
+      "census": {
+        "censusName": "Norfolk and Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 172355,
+        "medianAge": 38.6,
+        "totalPopulation": 181232,
+        "collegePct": 83.14,
+        "renterRatePct": 37.21,
+        "race": {
+          "whitePct": 70.29,
+          "nonHispanicWhitePct": 68.79,
+          "blackPct": 2.48,
+          "asianPct": 16.53,
+          "hispanicPct": 5.43
+        }
+      },
+      "election": {
+        "winner": "Cynthia Stone Creem",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "Norfolk, Plymouth & Bristol": {
+      "districtName": "Norfolk, Plymouth & Bristol",
+      "census": {
+        "censusName": "Norfolk-Plymouth-Bristol District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120300,
+        "medianAge": 41.4,
+        "totalPopulation": 168407,
+        "collegePct": 47.57,
+        "renterRatePct": 22.22,
+        "race": {
+          "whitePct": 68.54,
+          "nonHispanicWhitePct": 67.78,
+          "blackPct": 13.16,
+          "asianPct": 8.61,
+          "hispanicPct": 4.69
+        }
+      },
+      "election": {
+        "winner": "William J. Driscoll Jr",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "Norfolk, Worcester & Middlesex": {
+      "districtName": "Norfolk, Worcester & Middlesex",
+      "census": {
+        "censusName": "Norfolk-Worcester-Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 142302,
+        "medianAge": 41.7,
+        "totalPopulation": 178242,
+        "collegePct": 56.82,
+        "renterRatePct": 20.27,
+        "race": {
+          "whitePct": 81.63,
+          "nonHispanicWhitePct": 80.26,
+          "blackPct": 2.46,
+          "asianPct": 5.13,
+          "hispanicPct": 6.18
+        }
+      },
+      "election": {
+        "winner": "Rebecca L. Rausch",
+        "party": "Democratic",
+        "pct": 59,
+        "unopposed": false
+      }
+    },
+    "Second Plymouth & Norfolk": {
+      "districtName": "Second Plymouth & Norfolk",
+      "census": {
+        "censusName": "Second Plymouth and Norfolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88950,
+        "medianAge": 37.9,
+        "totalPopulation": 172087,
+        "collegePct": 25.89,
+        "renterRatePct": 33.61,
+        "race": {
+          "whitePct": 46.71,
+          "nonHispanicWhitePct": 44.59,
+          "blackPct": 28.09,
+          "asianPct": 2.74,
+          "hispanicPct": 10.2
+        }
+      },
+      "election": {
+        "winner": "Michael D. Brady",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "Third Bristol & Plymouth": {
+      "districtName": "Third Bristol & Plymouth",
+      "census": {
+        "censusName": "Third Bristol and Plymouth District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95193,
+        "medianAge": 43.6,
+        "totalPopulation": 182828,
+        "collegePct": 31.58,
+        "renterRatePct": 23.34,
+        "race": {
+          "whitePct": 83.66,
+          "nonHispanicWhitePct": 82.02,
+          "blackPct": 3.83,
+          "asianPct": 1.36,
+          "hispanicPct": 5.13
+        }
+      },
+      "election": {
+        "winner": "Kelly A. Dooner",
+        "party": "Republican",
+        "pct": 48,
+        "unopposed": false
+      }
+    },
+    "Worcester & Hampden": {
+      "districtName": "Worcester & Hampden",
+      "census": {
+        "censusName": "Worcester and Hampden District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103848,
+        "medianAge": 43.1,
+        "totalPopulation": 182193,
+        "collegePct": 35.05,
+        "renterRatePct": 25.46,
+        "race": {
+          "whitePct": 86.24,
+          "nonHispanicWhitePct": 83.84,
+          "blackPct": 2.25,
+          "asianPct": 1.52,
+          "hispanicPct": 9.59
+        }
+      },
+      "election": {
+        "winner": "Ryan C. Fattman",
+        "party": "Republican",
+        "pct": 66,
+        "unopposed": false
+      }
+    },
+    "Worcester & Hampshire": {
+      "districtName": "Worcester & Hampshire",
+      "census": {
+        "censusName": "Worcester and Hampshire District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94048,
+        "medianAge": 43.6,
+        "totalPopulation": 166868,
+        "collegePct": 35.15,
+        "renterRatePct": 23.52,
+        "race": {
+          "whitePct": 86.46,
+          "nonHispanicWhitePct": 84.39,
+          "blackPct": 3.69,
+          "asianPct": 2.24,
+          "hispanicPct": 6.77
+        }
+      },
+      "election": {
+        "winner": "Peter J. Durant",
+        "party": "Republican",
+        "pct": 58,
+        "unopposed": false
+      }
+    },
+    "Bristol and Norfolk": {
+      "districtName": "Bristol and Norfolk",
+      "census": {
+        "censusName": "Bristol and Norfolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 114989,
+        "medianAge": 41.4,
+        "totalPopulation": 181804,
+        "collegePct": 50.61,
+        "renterRatePct": 26.42,
+        "race": {
+          "whitePct": 80.52,
+          "nonHispanicWhitePct": 78.99,
+          "blackPct": 5.06,
+          "asianPct": 6.91,
+          "hispanicPct": 5.22
+        }
+      },
+      "election": {
+        "winner": "Paul R. Feeney",
+        "party": "Democratic",
+        "pct": 73,
+        "unopposed": false
+      }
+    },
+    "1st Bristol and Plymouth": {
+      "districtName": "1st Bristol and Plymouth",
+      "census": {
+        "censusName": "First Bristol and Plymouth District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75951,
+        "medianAge": 41.9,
+        "totalPopulation": 172347,
+        "collegePct": 25.63,
+        "renterRatePct": 43.14,
+        "race": {
+          "whitePct": 81.92,
+          "nonHispanicWhitePct": 79.6,
+          "blackPct": 3.77,
+          "asianPct": 2.05,
+          "hispanicPct": 8.43
+        }
+      },
+      "election": {
+        "winner": "Michael J. Rodrigues",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "2nd Bristol and Plymouth": {
+      "districtName": "2nd Bristol and Plymouth",
+      "census": {
+        "censusName": "Second Bristol and Plymouth District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69530,
+        "medianAge": 40,
+        "totalPopulation": 166356,
+        "collegePct": 24.96,
+        "renterRatePct": 45.49,
+        "race": {
+          "whitePct": 70.58,
+          "nonHispanicWhitePct": 68.78,
+          "blackPct": 4.19,
+          "asianPct": 1.54,
+          "hispanicPct": 16.16
+        }
+      },
+      "election": {
+        "winner": "Mark C. Montigny",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "Cape and Islands": {
+      "districtName": "Cape and Islands",
+      "census": {
+        "censusName": "Cape and Islands District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94967,
+        "medianAge": 53.7,
+        "totalPopulation": 176533,
+        "collegePct": 47.74,
+        "renterRatePct": 21.28,
+        "race": {
+          "whitePct": 83.82,
+          "nonHispanicWhitePct": 82.62,
+          "blackPct": 4.07,
+          "asianPct": 1.31,
+          "hispanicPct": 5.07
+        }
+      },
+      "election": {
+        "winner": "Julian Andre Cyr",
+        "party": "Democratic",
+        "pct": 61,
+        "unopposed": false
+      }
+    },
+    "1st Essex": {
+      "districtName": "1st Essex",
+      "census": {
+        "censusName": "First Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68386,
+        "medianAge": 34.9,
+        "totalPopulation": 164606,
+        "collegePct": 22.1,
+        "renterRatePct": 55.82,
+        "race": {
+          "whitePct": 38.87,
+          "nonHispanicWhitePct": 30.88,
+          "blackPct": 4.7,
+          "asianPct": 2.34,
+          "hispanicPct": 61.14
+        }
+      },
+      "election": {
+        "winner": "Pavel M. Payano",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "2nd Essex": {
+      "districtName": "2nd Essex",
+      "census": {
+        "censusName": "Second Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98230,
+        "medianAge": 41.9,
+        "totalPopulation": 168753,
+        "collegePct": 44.56,
+        "renterRatePct": 39.2,
+        "race": {
+          "whitePct": 82.28,
+          "nonHispanicWhitePct": 78.38,
+          "blackPct": 3.68,
+          "asianPct": 2.39,
+          "hispanicPct": 11.34
+        }
+      },
+      "election": {
+        "winner": "Joan B. Lovely",
+        "party": "Democratic",
+        "pct": 67,
+        "unopposed": false
+      }
+    },
+    "3rd Essex": {
+      "districtName": "3rd Essex",
+      "census": {
+        "censusName": "Third Essex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94840,
+        "medianAge": 40.1,
+        "totalPopulation": 181339,
+        "collegePct": 37.85,
+        "renterRatePct": 36.52,
+        "race": {
+          "whitePct": 62.54,
+          "nonHispanicWhitePct": 56.79,
+          "blackPct": 7.94,
+          "asianPct": 4.78,
+          "hispanicPct": 26.79
+        }
+      },
+      "election": {
+        "winner": "Brendan Peter Crighton",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "1st Essex and Middlesex": {
+      "districtName": "1st Essex and Middlesex",
+      "census": {
+        "censusName": "First Essex and Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 132026,
+        "medianAge": 47.1,
+        "totalPopulation": 179329,
+        "collegePct": 55.72,
+        "renterRatePct": 21.86,
+        "race": {
+          "whitePct": 90.66,
+          "nonHispanicWhitePct": 89.45,
+          "blackPct": 0.87,
+          "asianPct": 2.46,
+          "hispanicPct": 3.61
+        }
+      },
+      "election": {
+        "winner": "Bruce E. Tarr",
+        "party": "Republican",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "2nd Essex and Middlesex": {
+      "districtName": "2nd Essex and Middlesex",
+      "census": {
+        "censusName": "Second Essex and Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 125015,
+        "medianAge": 43.1,
+        "totalPopulation": 183228,
+        "collegePct": 49.39,
+        "renterRatePct": 22.04,
+        "race": {
+          "whitePct": 81.88,
+          "nonHispanicWhitePct": 79.77,
+          "blackPct": 2.59,
+          "asianPct": 5.57,
+          "hispanicPct": 8.14
+        }
+      },
+      "election": {
+        "winner": "Barry R. Finegold",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "Hampden": {
+      "districtName": "Hampden",
+      "census": {
+        "censusName": "Hampden District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50199,
+        "medianAge": 34.1,
+        "totalPopulation": 167061,
+        "collegePct": 18.11,
+        "renterRatePct": 54.02,
+        "race": {
+          "whitePct": 43.1,
+          "nonHispanicWhitePct": 31.72,
+          "blackPct": 18.37,
+          "asianPct": 2.39,
+          "hispanicPct": 47.19
+        }
+      },
+      "election": {
+        "winner": "Adam Gomez",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "Hampden and Hampshire": {
+      "districtName": "Hampden and Hampshire",
+      "census": {
+        "censusName": "Hampden and Hampshire District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72814,
+        "medianAge": 41.8,
+        "totalPopulation": 165700,
+        "collegePct": 32.64,
+        "renterRatePct": 39.3,
+        "race": {
+          "whitePct": 78.76,
+          "nonHispanicWhitePct": 72.68,
+          "blackPct": 2.92,
+          "asianPct": 2.8,
+          "hispanicPct": 19.13
+        }
+      },
+      "election": {
+        "winner": "John C. Velis",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "Hampshire, Franklin and Worcester": {
+      "districtName": "Hampshire, Franklin and Worcester",
+      "census": {
+        "censusName": "Hampshire-Franklin-Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75789,
+        "medianAge": 38.2,
+        "totalPopulation": 163341,
+        "collegePct": 45.94,
+        "renterRatePct": 35.23,
+        "race": {
+          "whitePct": 83.27,
+          "nonHispanicWhitePct": 81.23,
+          "blackPct": 2.44,
+          "asianPct": 4.97,
+          "hispanicPct": 6.8
+        }
+      },
+      "election": {
+        "winner": "Jo Comerford",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "1st Middlesex": {
+      "districtName": "1st Middlesex",
+      "census": {
+        "censusName": "First Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88929,
+        "medianAge": 37.3,
+        "totalPopulation": 174610,
+        "collegePct": 33.92,
+        "renterRatePct": 42.92,
+        "race": {
+          "whitePct": 62.04,
+          "nonHispanicWhitePct": 56.79,
+          "blackPct": 7.99,
+          "asianPct": 15.95,
+          "hispanicPct": 15.19
+        }
+      },
+      "election": {
+        "winner": "Edward J. Kennedy Jr",
+        "party": "Democratic",
+        "pct": 63,
+        "unopposed": false
+      }
+    },
+    "2nd Middlesex": {
+      "districtName": "2nd Middlesex",
+      "census": {
+        "censusName": "Second Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 129441,
+        "medianAge": 33.8,
+        "totalPopulation": 180016,
+        "collegePct": 67.39,
+        "renterRatePct": 56.55,
+        "race": {
+          "whitePct": 67.75,
+          "nonHispanicWhitePct": 65.03,
+          "blackPct": 6.59,
+          "asianPct": 12.99,
+          "hispanicPct": 9.45
+        }
+      },
+      "election": {
+        "winner": "Patricia D. Jehlen",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "3rd Middlesex": {
+      "districtName": "3rd Middlesex",
+      "census": {
+        "censusName": "Third Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 144709,
+        "medianAge": 40.4,
+        "totalPopulation": 168305,
+        "collegePct": 64.99,
+        "renterRatePct": 32.93,
+        "race": {
+          "whitePct": 71.29,
+          "nonHispanicWhitePct": 68.78,
+          "blackPct": 4.14,
+          "asianPct": 12.6,
+          "hispanicPct": 10.17
+        }
+      },
+      "election": {
+        "winner": "Michael J. Barrett",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "4th Middlesex": {
+      "districtName": "4th Middlesex",
+      "census": {
+        "censusName": "Fourth Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 140149,
+        "medianAge": 42.8,
+        "totalPopulation": 178033,
+        "collegePct": 59.1,
+        "renterRatePct": 31.48,
+        "race": {
+          "whitePct": 74.16,
+          "nonHispanicWhitePct": 72.93,
+          "blackPct": 3.76,
+          "asianPct": 13.14,
+          "hispanicPct": 4.93
+        }
+      },
+      "election": {
+        "winner": "Cindy F. Friedman",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "5th Middlesex": {
+      "districtName": "5th Middlesex",
+      "census": {
+        "censusName": "Fifth Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 117310,
+        "medianAge": 40.3,
+        "totalPopulation": 182868,
+        "collegePct": 55.18,
+        "renterRatePct": 38.07,
+        "race": {
+          "whitePct": 69.04,
+          "nonHispanicWhitePct": 67.57,
+          "blackPct": 5.81,
+          "asianPct": 15.33,
+          "hispanicPct": 5.74
+        }
+      },
+      "election": {
+        "winner": "Jason M. Lewis",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "Middlesex and Norfolk": {
+      "districtName": "Middlesex and Norfolk",
+      "census": {
+        "censusName": "Norfolk and Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 172355,
+        "medianAge": 38.6,
+        "totalPopulation": 181232,
+        "collegePct": 83.14,
+        "renterRatePct": 37.21,
+        "race": {
+          "whitePct": 70.29,
+          "nonHispanicWhitePct": 68.79,
+          "blackPct": 2.48,
+          "asianPct": 16.53,
+          "hispanicPct": 5.43
+        }
+      },
+      "election": {
+        "winner": "Karen E. Spilka",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "Middlesex and Worcester": {
+      "districtName": "Middlesex and Worcester",
+      "census": {
+        "censusName": "Middlesex and Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 136486,
+        "medianAge": 41.9,
+        "totalPopulation": 177414,
+        "collegePct": 61.84,
+        "renterRatePct": 24.91,
+        "race": {
+          "whitePct": 72.76,
+          "nonHispanicWhitePct": 71.3,
+          "blackPct": 2.84,
+          "asianPct": 10.32,
+          "hispanicPct": 7.66
+        }
+      },
+      "election": {
+        "winner": "James B. Eldridge",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "Middlesex and Suffolk": {
+      "districtName": "Middlesex and Suffolk",
+      "census": {
+        "censusName": "Suffolk and Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103459,
+        "medianAge": 30.6,
+        "totalPopulation": 172879,
+        "collegePct": 74.46,
+        "renterRatePct": 65.81,
+        "race": {
+          "whitePct": 64.49,
+          "nonHispanicWhitePct": 62.43,
+          "blackPct": 5.57,
+          "asianPct": 17.03,
+          "hispanicPct": 9.15
+        }
+      },
+      "election": {
+        "winner": "Sal N. DiDomenico",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "Norfolk and Plymouth": {
+      "districtName": "Norfolk and Plymouth",
+      "census": {
+        "censusName": "Norfolk and Plymouth District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103484,
+        "medianAge": 39.9,
+        "totalPopulation": 172034,
+        "collegePct": 46.25,
+        "renterRatePct": 42.61,
+        "race": {
+          "whitePct": 66.11,
+          "nonHispanicWhitePct": 64.84,
+          "blackPct": 5.33,
+          "asianPct": 19.29,
+          "hispanicPct": 5.21
+        }
+      },
+      "election": {
+        "winner": "John F. Keenan",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "Norfolk and Suffolk": {
+      "districtName": "Norfolk and Suffolk",
+      "census": {
+        "censusName": "Norfolk and Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 127480,
+        "medianAge": 40.5,
+        "totalPopulation": 182203,
+        "collegePct": 58.09,
+        "renterRatePct": 33.67,
+        "race": {
+          "whitePct": 70.47,
+          "nonHispanicWhitePct": 68.04,
+          "blackPct": 10.64,
+          "asianPct": 5.47,
+          "hispanicPct": 11.35
+        }
+      },
+      "election": {
+        "winner": "Michael F. Rush",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "Plymouth and Barnstable": {
+      "districtName": "Plymouth and Barnstable",
+      "census": {
+        "censusName": "Plymouth and Barnstable District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109623,
+        "medianAge": 50.4,
+        "totalPopulation": 186297,
+        "collegePct": 47.03,
+        "renterRatePct": 17.58,
+        "race": {
+          "whitePct": 90.39,
+          "nonHispanicWhitePct": 89.47,
+          "blackPct": 1.14,
+          "asianPct": 1.48,
+          "hispanicPct": 2.73
+        }
+      },
+      "election": {
+        "winner": "Dylan A. Fernandes",
+        "party": "Democratic",
+        "pct": 51,
+        "unopposed": false
+      }
+    },
+    "1st Suffolk": {
+      "districtName": "1st Suffolk",
+      "census": {
+        "censusName": "First Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107848,
+        "medianAge": 35.5,
+        "totalPopulation": 183560,
+        "collegePct": 53.67,
+        "renterRatePct": 60.93,
+        "race": {
+          "whitePct": 48.26,
+          "nonHispanicWhitePct": 46.26,
+          "blackPct": 21.01,
+          "asianPct": 12.82,
+          "hispanicPct": 13.3
+        }
+      },
+      "election": {
+        "winner": "Nicholas P. Collins",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "2nd Suffolk": {
+      "districtName": "2nd Suffolk",
+      "census": {
+        "censusName": "Second Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65532,
+        "medianAge": 33.5,
+        "totalPopulation": 182963,
+        "collegePct": 36.08,
+        "renterRatePct": 68.48,
+        "race": {
+          "whitePct": 25.28,
+          "nonHispanicWhitePct": 21.18,
+          "blackPct": 42.78,
+          "asianPct": 5.71,
+          "hispanicPct": 26.02
+        }
+      },
+      "election": {
+        "winner": "Liz Miranda",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "3rd Suffolk": {
+      "districtName": "3rd Suffolk",
+      "census": {
+        "censusName": "Third Suffolk District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100635,
+        "medianAge": 35.6,
+        "totalPopulation": 176710,
+        "collegePct": 47.54,
+        "renterRatePct": 62.73,
+        "race": {
+          "whitePct": 61.62,
+          "nonHispanicWhitePct": 54.99,
+          "blackPct": 3.93,
+          "asianPct": 6.32,
+          "hispanicPct": 30.56
+        }
+      },
+      "election": {
+        "winner": "Lydia Marie Edwards",
+        "party": "Democratic",
+        "pct": 70,
+        "unopposed": false
+      }
+    },
+    "Suffolk and Middlesex": {
+      "districtName": "Suffolk and Middlesex",
+      "census": {
+        "censusName": "Suffolk and Middlesex District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103459,
+        "medianAge": 30.6,
+        "totalPopulation": 172879,
+        "collegePct": 74.46,
+        "renterRatePct": 65.81,
+        "race": {
+          "whitePct": 64.49,
+          "nonHispanicWhitePct": 62.43,
+          "blackPct": 5.57,
+          "asianPct": 17.03,
+          "hispanicPct": 9.15
+        }
+      },
+      "election": {
+        "winner": "William N. Brownsberger",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "Worcester and Middlesex": {
+      "districtName": "Worcester and Middlesex",
+      "census": {
+        "censusName": "Middlesex and Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 136486,
+        "medianAge": 41.9,
+        "totalPopulation": 177414,
+        "collegePct": 61.84,
+        "renterRatePct": 24.91,
+        "race": {
+          "whitePct": 72.76,
+          "nonHispanicWhitePct": 71.3,
+          "blackPct": 2.84,
+          "asianPct": 10.32,
+          "hispanicPct": 7.66
+        }
+      },
+      "election": {
+        "winner": "John J. Cronin",
+        "party": "Democratic",
+        "pct": 59,
+        "unopposed": false
+      }
+    },
+    "1st Worcester": {
+      "districtName": "1st Worcester",
+      "census": {
+        "censusName": "First Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76260,
+        "medianAge": 36,
+        "totalPopulation": 167795,
+        "collegePct": 42.71,
+        "renterRatePct": 51.42,
+        "race": {
+          "whitePct": 63.4,
+          "nonHispanicWhitePct": 56.92,
+          "blackPct": 8.71,
+          "asianPct": 6.6,
+          "hispanicPct": 22.79
+        }
+      },
+      "election": {
+        "winner": "Robyn K. Kennedy",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    },
+    "2nd Worcester": {
+      "districtName": "2nd Worcester",
+      "census": {
+        "censusName": "Second Worcester District (2022); Massachusetts",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104284,
+        "medianAge": 39.1,
+        "totalPopulation": 166143,
+        "collegePct": 47.2,
+        "renterRatePct": 37.65,
+        "race": {
+          "whitePct": 67.32,
+          "nonHispanicWhitePct": 64.14,
+          "blackPct": 6.48,
+          "asianPct": 12.65,
+          "hispanicPct": 10.18
+        }
+      },
+      "election": {
+        "winner": "Michael O. Moore",
+        "party": "Democratic",
+        "pct": null,
+        "unopposed": true
+      }
+    }
+  }
+}
