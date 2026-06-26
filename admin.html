@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Groundwork — Admin</title>
+<style>
+  :root {
+    --green-900: #0f2318;
+    --green-800: #1a3a2a;
+    --green-700: #245034;
+    --green-600: #2e6640;
+    --green-500: #3a7d50;
+    --green-400: #4e9e68;
+    --green-200: #a8d5b5;
+    --green-100: #d4eedc;
+    --green-50:  #edf7f0;
+    --offwhite:  #f7f3ec;
+    --cream:     #ede8df;
+    --tan:       #d8d0c0;
+    --text-dark: #1a1a18;
+    --text-soft: #6b6b60;
+    --red: #a83a3a;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: 'Georgia','Times New Roman',serif;
+    background: var(--offwhite);
+    color: var(--text-dark);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  header {
+    background: var(--green-800);
+    padding: 18px 40px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.25);
+  }
+  .logo { font-size: 22px; font-weight: bold; color: var(--green-100); letter-spacing: 0.03em; }
+  .logo span { color: var(--green-400); }
+  .tagline { font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: white; margin-top: 2px; }
+
+  main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 48px 24px 60px;
+  }
+
+  #password-screen {
+    flex: 1;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .card {
+    background: var(--cream);
+    border-radius: 10px;
+    padding: 36px 40px;
+    max-width: 380px;
+    width: 100%;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+  }
+  .card h1 { font-size: 20px; color: var(--green-800); margin-bottom: 18px; text-align: center; }
+  .field { margin-bottom: 16px; }
+  .field label { display: block; font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-soft); margin-bottom: 6px; }
+  .field input {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid var(--tan);
+    border-radius: 6px;
+    font-family: inherit;
+    font-size: 15px;
+    background: var(--offwhite);
+    color: var(--text-dark);
+  }
+  .field input:focus { outline: none; border-color: var(--green-500); }
+  button {
+    font-family: inherit;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    background: var(--green-600);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 11px 18px;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  button:hover { background: var(--green-500); }
+  button.full { width: 100%; }
+  .error-msg { color: var(--red); font-size: 13px; margin-top: 10px; text-align: center; min-height: 16px; }
+
+  #dashboard { width: 100%; max-width: 760px; }
+  .dash-title { font-size: 26px; color: var(--green-800); margin-bottom: 28px; }
+
+  .panel {
+    background: var(--cream);
+    border-radius: 10px;
+    padding: 28px 32px;
+    margin-bottom: 28px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+  }
+  .panel h2 { font-size: 16px; color: var(--green-800); margin-bottom: 18px; text-transform: uppercase; letter-spacing: 0.06em; }
+
+  .add-form { display: flex; gap: 14px; flex-wrap: wrap; align-items: flex-end; }
+  .add-form .field { flex: 1; min-width: 160px; margin-bottom: 0; }
+
+  table { width: 100%; border-collapse: collapse; }
+  th, td { text-align: left; padding: 10px 8px; border-bottom: 1px solid var(--tan); font-size: 14px; }
+  th { font-size: 11px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--text-soft); }
+  .status-pill {
+    display: inline-block;
+    font-size: 11px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    padding: 3px 10px;
+    border-radius: 12px;
+  }
+  .status-pill.active { background: var(--green-100); color: var(--green-700); }
+  .status-pill.inactive { background: #e8e0e0; color: var(--red); }
+  .deactivate-btn {
+    background: var(--red);
+    padding: 6px 12px;
+    font-size: 11px;
+  }
+  .deactivate-btn:hover { background: #8c2f2f; }
+  .empty-row { color: var(--text-soft); font-style: italic; padding: 16px 8px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <div class="logo">Ground<span>work</span></div>
+    <div class="tagline">Democratizing Democracy</div>
+  </div>
+</header>
+
+<main>
+  <div id="password-screen">
+    <div class="card">
+      <h1>Admin Access</h1>
+      <form id="password-form">
+        <div class="field">
+          <label for="password-input">Admin Password</label>
+          <input type="password" id="password-input" autocomplete="current-password" required>
+        </div>
+        <button type="submit" class="full">Enter</button>
+        <div class="error-msg" id="password-error"></div>
+      </form>
+    </div>
+  </div>
+
+  <div id="dashboard" style="display:none;">
+    <h1 class="dash-title">Access Codes</h1>
+
+    <div class="panel">
+      <h2>Add a Code</h2>
+      <form class="add-form" id="add-form">
+        <div class="field">
+          <label for="add-code">Code</label>
+          <input type="text" id="add-code" required>
+        </div>
+        <div class="field">
+          <label for="add-label">Label</label>
+          <input type="text" id="add-label">
+        </div>
+        <button type="submit">Add Code</button>
+      </form>
+      <div class="error-msg" id="add-error"></div>
+    </div>
+
+    <div class="panel">
+      <h2>All Codes</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Code</th>
+            <th>Label</th>
+            <th>Status</th>
+            <th>Created</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="codes-tbody"></tbody>
+      </table>
+    </div>
+  </div>
+</main>
+
+<script>
+let adminPassword = '';
+
+const passwordScreen = document.getElementById('password-screen');
+const dashboard = document.getElementById('dashboard');
+const passwordForm = document.getElementById('password-form');
+const passwordInput = document.getElementById('password-input');
+const passwordError = document.getElementById('password-error');
+const addForm = document.getElementById('add-form');
+const addError = document.getElementById('add-error');
+const codesTbody = document.getElementById('codes-tbody');
+
+async function callAdmin(action, extra) {
+  const res = await fetch('/api/admin', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': adminPassword
+    },
+    body: JSON.stringify({ action, ...extra })
+  });
+  const data = await res.json().catch(() => ({}));
+  if (!res.ok) {
+    throw new Error(data.error || ('Request failed (' + res.status + ')'));
+  }
+  return data;
+}
+
+function renderCodes(codes) {
+  codesTbody.innerHTML = '';
+  if (!codes.length) {
+    codesTbody.innerHTML = '<tr><td colspan="5" class="empty-row">No codes yet.</td></tr>';
+    return;
+  }
+  codes.slice().reverse().forEach(entry => {
+    const tr = document.createElement('tr');
+
+    const created = entry.createdAt ? new Date(entry.createdAt).toLocaleDateString() : '';
+
+    tr.innerHTML = `
+      <td>${entry.code}</td>
+      <td>${entry.label || ''}</td>
+      <td><span class="status-pill ${entry.active ? 'active' : 'inactive'}">${entry.active ? 'Active' : 'Inactive'}</span></td>
+      <td>${created}</td>
+      <td></td>
+    `;
+
+    if (entry.active) {
+      const btn = document.createElement('button');
+      btn.textContent = 'Deactivate';
+      btn.className = 'deactivate-btn';
+      btn.addEventListener('click', () => deactivateCode(entry.code));
+      tr.lastElementChild.appendChild(btn);
+    }
+
+    codesTbody.appendChild(tr);
+  });
+}
+
+async function loadCodes() {
+  try {
+    const data = await callAdmin('list');
+    renderCodes(data.codes || []);
+  } catch (err) {
+    codesTbody.innerHTML = '<tr><td colspan="5" class="empty-row">Failed to load codes.</td></tr>';
+  }
+}
+
+async function deactivateCode(code) {
+  try {
+    await callAdmin('deactivate', { code });
+    loadCodes();
+  } catch (err) {
+    alert(err.message);
+  }
+}
+
+passwordForm.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  passwordError.textContent = '';
+  const candidate = passwordInput.value;
+
+  adminPassword = candidate;
+  try {
+    await callAdmin('list');
+    passwordScreen.style.display = 'none';
+    dashboard.style.display = 'block';
+    loadCodes();
+  } catch (err) {
+    adminPassword = '';
+    passwordError.textContent = 'Incorrect password.';
+  }
+});
+
+addForm.addEventListener('submit', async (e) => {
+  e.preventDefault();
+  addError.textContent = '';
+  const code = document.getElementById('add-code').value.trim();
+  const label = document.getElementById('add-label').value.trim();
+
+  if (!code) return;
+
+  try {
+    await callAdmin('add', { code, label });
+    document.getElementById('add-code').value = '';
+    document.getElementById('add-label').value = '';
+    loadCodes();
+  } catch (err) {
+    addError.textContent = err.message;
+  }
+});
+</script>
+</body>
+</html>
