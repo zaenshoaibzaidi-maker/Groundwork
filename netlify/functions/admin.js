@@ -20,6 +20,19 @@ function isRateLimited(ip) {
   return timestamps.length > RATE_LIMIT;
 }
 
+function getClientIp(event) {
+  const trusted = event.headers['x-nf-client-connection-ip'] || event.headers['client-ip'];
+  if (trusted) return trusted;
+
+  const xff = event.headers['x-forwarded-for'];
+  if (xff) {
+    const parts = xff.split(',').map((s) => s.trim()).filter(Boolean);
+    if (parts.length) return parts[parts.length - 1];
+  }
+
+  return 'unknown';
+}
+
 function getCodesStore() {
   return getStore({
     name: 'access-codes',
@@ -49,10 +62,7 @@ exports.handler = async (event) => {
     };
   }
 
-  const ip =
-    event.headers['x-forwarded-for']?.split(',')[0].trim() ||
-    event.headers['client-ip'] ||
-    'unknown';
+  const ip = getClientIp(event);
 
   if (isRateLimited(ip)) {
     return {
@@ -105,6 +115,15 @@ exports.handler = async (event) => {
     }
 
     const codes = await readCodes(store);
+    const exists = codes.some((c) => c.code.toLowerCase() === code.toLowerCase());
+    if (exists) {
+      return {
+        statusCode: 409,
+        headers: CORS_HEADERS,
+        body: JSON.stringify({ error: 'Code already exists' }),
+      };
+    }
+
     codes.push({
       code,
       label: typeof label === 'string' ? label : '',
@@ -131,15 +150,15 @@ exports.handler = async (event) => {
     }
 
     const codes = await readCodes(store);
-    const entry = codes.find((c) => c.code.toLowerCase() === code.toLowerCase());
-    if (!entry) {
+    const matches = codes.filter((c) => c.code.toLowerCase() === code.toLowerCase());
+    if (matches.length === 0) {
       return {
         statusCode: 404,
         headers: CORS_HEADERS,
         body: JSON.stringify({ error: 'Code not found' }),
       };
     }
-    entry.active = false;
+    matches.forEach((c) => { c.active = false; });
     await writeCodes(store, codes);
 
     return {
