@@ -21,7 +21,11 @@ function isRateLimited(ip) {
 }
 
 function getCodesStore() {
-  return getStore('access-codes');
+  return getStore({
+    name: 'access-codes',
+    siteID: process.env.NETLIFY_SITE_ID,
+    token: process.env.NETLIFY_TOKEN,
+  });
 }
 
 async function readCodes(store) {
@@ -33,6 +37,8 @@ async function writeCodes(store, codes) {
 }
 
 exports.handler = async (event) => {
+  console.log('ENV CHECK', { siteID: process.env.NETLIFY_SITE_ID, hasToken: !!process.env.NETLIFY_TOKEN });
+
   if (event.httpMethod === 'OPTIONS') {
     return { statusCode: 204, headers: CORS_HEADERS, body: '' };
   }

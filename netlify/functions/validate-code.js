@@ -40,7 +40,11 @@ exports.handler = async (event) => {
     };
   }
 
-  const store = getStore('access-codes');
+  const store = getStore({
+    name: 'access-codes',
+    siteID: process.env.NETLIFY_SITE_ID,
+    token: process.env.NETLIFY_TOKEN,
+  });
   const codes = (await store.get('codes', { type: 'json' })) || [];
 
   const valid = codes.some(
