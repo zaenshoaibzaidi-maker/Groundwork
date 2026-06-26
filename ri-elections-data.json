@@ -1,0 +1,684 @@
+{
+  "house": {
+    "1": {
+      "winner": "Edith H. Ajello",
+      "party": "DEM",
+      "pct": 98.06,
+      "unopposed": true
+    },
+    "2": {
+      "winner": "Christopher R. Blazejewski",
+      "party": "DEM",
+      "pct": 97.35,
+      "unopposed": true
+    },
+    "3": {
+      "winner": "Nathan W. Biah",
+      "party": "DEM",
+      "pct": 95.79,
+      "unopposed": true
+    },
+    "4": {
+      "winner": "Rebecca M. Kislak",
+      "party": "DEM",
+      "pct": 97.56,
+      "unopposed": true
+    },
+    "5": {
+      "winner": "Anthony J. DeSimone",
+      "party": "DEM",
+      "pct": 95.58,
+      "unopposed": true
+    },
+    "6": {
+      "winner": "Raymond A. Hull",
+      "party": "DEM",
+      "pct": 96.2,
+      "unopposed": true
+    },
+    "7": {
+      "winner": "David Morales",
+      "party": "DEM",
+      "pct": 95.67,
+      "unopposed": true
+    },
+    "8": {
+      "winner": "John J. Lombardi",
+      "party": "DEM",
+      "pct": 97.44,
+      "unopposed": true
+    },
+    "9": {
+      "winner": "Enrique G. Sanchez",
+      "party": "DEM",
+      "pct": 96.3,
+      "unopposed": true
+    },
+    "10": {
+      "winner": "Scott A. Slater",
+      "party": "DEM",
+      "pct": 95.67,
+      "unopposed": true
+    },
+    "11": {
+      "winner": "Grace Diaz",
+      "party": "DEM",
+      "pct": 95.79,
+      "unopposed": true
+    },
+    "12": {
+      "winner": "Jose F. Batista",
+      "party": "DEM",
+      "pct": 96.31,
+      "unopposed": true
+    },
+    "13": {
+      "winner": "Ramon A. Perez",
+      "party": "DEM",
+      "pct": 93.53,
+      "unopposed": true
+    },
+    "14": {
+      "winner": "Charlene Lima",
+      "party": "DEM",
+      "pct": 94.69,
+      "unopposed": true
+    },
+    "15": {
+      "winner": "Christopher G. Paplauskas",
+      "party": "REP",
+      "pct": 50.02,
+      "unopposed": false
+    },
+    "16": {
+      "winner": "Brandon C. Potter",
+      "party": "DEM",
+      "pct": 58.45,
+      "unopposed": false
+    },
+    "17": {
+      "winner": "Jacquelyn M. Baginski",
+      "party": "DEM",
+      "pct": 94.76,
+      "unopposed": true
+    },
+    "18": {
+      "winner": "Arthur Handy",
+      "party": "DEM",
+      "pct": 95.51,
+      "unopposed": true
+    },
+    "19": {
+      "winner": "Joseph McNamara",
+      "party": "DEM",
+      "pct": 95.59,
+      "unopposed": true
+    },
+    "20": {
+      "winner": "David A. Bennett",
+      "party": "DEM",
+      "pct": 94.34,
+      "unopposed": true
+    },
+    "21": {
+      "winner": "Marie A. Hopkins",
+      "party": "REP",
+      "pct": 50.53,
+      "unopposed": false
+    },
+    "22": {
+      "winner": "Joseph J. Solomon, Jr.",
+      "party": "DEM",
+      "pct": 56.9,
+      "unopposed": false
+    },
+    "23": {
+      "winner": "K. Joseph Shekarchi",
+      "party": "DEM",
+      "pct": 94,
+      "unopposed": true
+    },
+    "24": {
+      "winner": "Evan Patrick Shanley",
+      "party": "DEM",
+      "pct": 95,
+      "unopposed": true
+    },
+    "25": {
+      "winner": "Thomas E. Noret",
+      "party": "DEM",
+      "pct": 92.5,
+      "unopposed": true
+    },
+    "26": {
+      "winner": "Earl A. Read, III",
+      "party": "DEM",
+      "pct": 51.24,
+      "unopposed": false
+    },
+    "27": {
+      "winner": "Patricia A. Serpa",
+      "party": "DEM",
+      "pct": 60.02,
+      "unopposed": false
+    },
+    "28": {
+      "winner": "George A. Nardone",
+      "party": "REP",
+      "pct": 57.23,
+      "unopposed": false
+    },
+    "29": {
+      "winner": "Sherry L. Roberts",
+      "party": "REP",
+      "pct": 97.11,
+      "unopposed": true
+    },
+    "30": {
+      "winner": "Justine Caldwell",
+      "party": "DEM",
+      "pct": 93.54,
+      "unopposed": true
+    },
+    "31": {
+      "winner": "Julie A. Casimiro",
+      "party": "DEM",
+      "pct": 59.48,
+      "unopposed": false
+    },
+    "32": {
+      "winner": "Robert E. Craven",
+      "party": "DEM",
+      "pct": 95.23,
+      "unopposed": true
+    },
+    "33": {
+      "winner": "Carol Hagan McEntee",
+      "party": "DEM",
+      "pct": 58.74,
+      "unopposed": false
+    },
+    "34": {
+      "winner": "Teresa Tanzi",
+      "party": "DEM",
+      "pct": 62.71,
+      "unopposed": false
+    },
+    "35": {
+      "winner": "Kathleen A. Fogarty",
+      "party": "DEM",
+      "pct": 62.09,
+      "unopposed": false
+    },
+    "36": {
+      "winner": "Tina L. Spears",
+      "party": "DEM",
+      "pct": 96.61,
+      "unopposed": true
+    },
+    "37": {
+      "winner": "Samuel Angelo Azzinaro",
+      "party": "DEM",
+      "pct": 96.36,
+      "unopposed": true
+    },
+    "38": {
+      "winner": "Brian Patrick Kennedy",
+      "party": "DEM",
+      "pct": 95.96,
+      "unopposed": true
+    },
+    "39": {
+      "winner": "Megan L. Cotter",
+      "party": "DEM",
+      "pct": 53.99,
+      "unopposed": false
+    },
+    "40": {
+      "winner": "Michael W. Chippendale",
+      "party": "REP",
+      "pct": 69.23,
+      "unopposed": false
+    },
+    "41": {
+      "winner": "Robert Quattrocchi",
+      "party": "REP",
+      "pct": 65.01,
+      "unopposed": false
+    },
+    "42": {
+      "winner": "Richard R. Fascia",
+      "party": "REP",
+      "pct": 54.61,
+      "unopposed": false
+    },
+    "43": {
+      "winner": "Deborah A. Fellela",
+      "party": "DEM",
+      "pct": 53.36,
+      "unopposed": false
+    },
+    "44": {
+      "winner": "Gregory J. Costantino",
+      "party": "DEM",
+      "pct": 53.76,
+      "unopposed": false
+    },
+    "45": {
+      "winner": "Mia A. Ackerman",
+      "party": "DEM",
+      "pct": 94.06,
+      "unopposed": true
+    },
+    "46": {
+      "winner": "Mary Ann Shallcross Smith",
+      "party": "DEM",
+      "pct": 60.94,
+      "unopposed": false
+    },
+    "47": {
+      "winner": "David J. Place",
+      "party": "REP",
+      "pct": 69.54,
+      "unopposed": false
+    },
+    "48": {
+      "winner": "Brian C. Newberry",
+      "party": "REP",
+      "pct": 96.56,
+      "unopposed": true
+    },
+    "49": {
+      "winner": "Jon D. Brien",
+      "party": "IND",
+      "pct": 78.17,
+      "unopposed": false
+    },
+    "50": {
+      "winner": "Stephen M. Casey",
+      "party": "DEM",
+      "pct": 94.95,
+      "unopposed": true
+    },
+    "51": {
+      "winner": "Robert D. Phillips",
+      "party": "DEM",
+      "pct": 95.49,
+      "unopposed": true
+    },
+    "52": {
+      "winner": "Alex Daniel Marszalkowski",
+      "party": "DEM",
+      "pct": 95.66,
+      "unopposed": true
+    },
+    "53": {
+      "winner": "Paul M. Santucci",
+      "party": "REP",
+      "pct": 55.08,
+      "unopposed": false
+    },
+    "54": {
+      "winner": "William W. O&#39;Brien",
+      "party": "DEM",
+      "pct": 95.86,
+      "unopposed": true
+    },
+    "55": {
+      "winner": "Arthur J. Corvese",
+      "party": "DEM",
+      "pct": 96.49,
+      "unopposed": true
+    },
+    "56": {
+      "winner": "Joshua J. Giraldo",
+      "party": "DEM",
+      "pct": 97.01,
+      "unopposed": true
+    },
+    "57": {
+      "winner": "Brandon T. Voas",
+      "party": "DEM",
+      "pct": 53.48,
+      "unopposed": false
+    },
+    "58": {
+      "winner": "Cherie L. Cruz",
+      "party": "DEM",
+      "pct": 96.1,
+      "unopposed": true
+    },
+    "59": {
+      "winner": "Jennifer A. Stewart",
+      "party": "DEM",
+      "pct": 97.6,
+      "unopposed": true
+    },
+    "60": {
+      "winner": "Karen Alzate",
+      "party": "DEM",
+      "pct": 95.88,
+      "unopposed": true
+    },
+    "61": {
+      "winner": "Leonela Felix",
+      "party": "DEM",
+      "pct": 57.29,
+      "unopposed": false
+    },
+    "62": {
+      "winner": "Mary Duffy Messier",
+      "party": "DEM",
+      "pct": 95.25,
+      "unopposed": true
+    },
+    "63": {
+      "winner": "Katherine Sheena Kazarian",
+      "party": "DEM",
+      "pct": 95.22,
+      "unopposed": true
+    },
+    "64": {
+      "winner": "Jenni Azanero Furtado",
+      "party": "DEM",
+      "pct": 95.05,
+      "unopposed": true
+    },
+    "65": {
+      "winner": "Matthew S. Dawson",
+      "party": "DEM",
+      "pct": 95.4,
+      "unopposed": true
+    },
+    "66": {
+      "winner": "Jennifer Smith Boylan",
+      "party": "DEM",
+      "pct": 64.53,
+      "unopposed": false
+    },
+    "67": {
+      "winner": "Jason P. Knight",
+      "party": "DEM",
+      "pct": 94.59,
+      "unopposed": true
+    },
+    "68": {
+      "winner": "June S. Speakman",
+      "party": "DEM",
+      "pct": 58.44,
+      "unopposed": false
+    },
+    "69": {
+      "winner": "Susan Ann Donovan",
+      "party": "DEM",
+      "pct": 63.58,
+      "unopposed": false
+    },
+    "70": {
+      "winner": "John G. Edwards",
+      "party": "DEM",
+      "pct": 54.91,
+      "unopposed": false
+    },
+    "71": {
+      "winner": "Michelle E. McGaw",
+      "party": "DEM",
+      "pct": 96.09,
+      "unopposed": true
+    },
+    "72": {
+      "winner": "Terri-Denise Cortvriend",
+      "party": "DEM",
+      "pct": 96.16,
+      "unopposed": true
+    },
+    "73": {
+      "winner": "Marvin L. Abney",
+      "party": "DEM",
+      "pct": 96.97,
+      "unopposed": true
+    },
+    "74": {
+      "winner": "Alex S. Finkelman",
+      "party": "DEM",
+      "pct": 96.4,
+      "unopposed": true
+    },
+    "75": {
+      "winner": "Lauren H. Carson",
+      "party": "DEM",
+      "pct": 97.32,
+      "unopposed": true
+    }
+  },
+  "senate": {
+    "1": {
+      "winner": "Jacob Bissaillon",
+      "party": "DEM",
+      "pct": 95.42,
+      "unopposed": true
+    },
+    "2": {
+      "winner": "Ana B. Quezada",
+      "party": "DEM",
+      "pct": 95.79,
+      "unopposed": true
+    },
+    "3": {
+      "winner": "Samuel D. Zurier",
+      "party": "DEM",
+      "pct": 97.88,
+      "unopposed": true
+    },
+    "4": {
+      "winner": "Dominick J. Ruggerio",
+      "party": "DEM",
+      "pct": 94.87,
+      "unopposed": true
+    },
+    "5": {
+      "winner": "Samuel W. Bell",
+      "party": "DEM",
+      "pct": 78.59,
+      "unopposed": false
+    },
+    "6": {
+      "winner": "Tiara TyShae Mack",
+      "party": "DEM",
+      "pct": 96.48,
+      "unopposed": true
+    },
+    "7": {
+      "winner": "Frank A. Ciccone",
+      "party": "DEM",
+      "pct": 95.29,
+      "unopposed": true
+    },
+    "8": {
+      "winner": "Lori Urso",
+      "party": "DEM",
+      "pct": 64.94,
+      "unopposed": false
+    },
+    "9": {
+      "winner": "John P. Burke",
+      "party": "DEM",
+      "pct": 93,
+      "unopposed": true
+    },
+    "10": {
+      "winner": "Walter S. Felag, Jr.",
+      "party": "DEM",
+      "pct": 57.89,
+      "unopposed": false
+    },
+    "11": {
+      "winner": "Linda L. Ujifusa",
+      "party": "DEM",
+      "pct": 95.81,
+      "unopposed": true
+    },
+    "12": {
+      "winner": "Louis DiPalma",
+      "party": "DEM",
+      "pct": 96.47,
+      "unopposed": true
+    },
+    "13": {
+      "winner": "Dawn Euer",
+      "party": "DEM",
+      "pct": 70.28,
+      "unopposed": false
+    },
+    "14": {
+      "winner": "Valarie J. Lawson",
+      "party": "DEM",
+      "pct": 94.16,
+      "unopposed": true
+    },
+    "15": {
+      "winner": "Meghan E. Kallman",
+      "party": "DEM",
+      "pct": 97.22,
+      "unopposed": true
+    },
+    "16": {
+      "winner": "Jonathon Acosta",
+      "party": "DEM",
+      "pct": 96.49,
+      "unopposed": true
+    },
+    "17": {
+      "winner": "Thomas J. Paolino",
+      "party": "REP",
+      "pct": 57.94,
+      "unopposed": false
+    },
+    "18": {
+      "winner": "Robert Britto",
+      "party": "DEM",
+      "pct": 95.04,
+      "unopposed": true
+    },
+    "19": {
+      "winner": "Ryan W. Pearson",
+      "party": "DEM",
+      "pct": 56.88,
+      "unopposed": false
+    },
+    "20": {
+      "winner": "Brian J. Thompson",
+      "party": "DEM",
+      "pct": 95.54,
+      "unopposed": true
+    },
+    "21": {
+      "winner": "Gordon Rogers",
+      "party": "REP",
+      "pct": 95.51,
+      "unopposed": true
+    },
+    "22": {
+      "winner": "David P. Tikoian",
+      "party": "DEM",
+      "pct": 95.26,
+      "unopposed": true
+    },
+    "23": {
+      "winner": "Jessica de la Cruz",
+      "party": "REP",
+      "pct": 68.07,
+      "unopposed": false
+    },
+    "24": {
+      "winner": "Melissa Murray",
+      "party": "DEM",
+      "pct": 57.69,
+      "unopposed": false
+    },
+    "25": {
+      "winner": "Andrew R. Dimitri",
+      "party": "DEM",
+      "pct": 58.12,
+      "unopposed": false
+    },
+    "26": {
+      "winner": "Todd M. Patalano",
+      "party": "DEM",
+      "pct": 57.62,
+      "unopposed": false
+    },
+    "27": {
+      "winner": "Hanna Gallo",
+      "party": "DEM",
+      "pct": 94.17,
+      "unopposed": true
+    },
+    "28": {
+      "winner": "Lammis J. Vargas",
+      "party": "DEM",
+      "pct": 95.35,
+      "unopposed": true
+    },
+    "29": {
+      "winner": "Peter A. Appollonio, Jr.",
+      "party": "DEM",
+      "pct": 50.11,
+      "unopposed": false
+    },
+    "30": {
+      "winner": "Mark P. McKenney",
+      "party": "DEM",
+      "pct": 94.1,
+      "unopposed": true
+    },
+    "31": {
+      "winner": "Matthew L. LaMountain",
+      "party": "DEM",
+      "pct": 60.35,
+      "unopposed": false
+    },
+    "32": {
+      "winner": "Pamela J. Lauria",
+      "party": "DEM",
+      "pct": 95.32,
+      "unopposed": true
+    },
+    "33": {
+      "winner": "Leonidas P. Raptakis",
+      "party": "DEM",
+      "pct": 58.2,
+      "unopposed": false
+    },
+    "34": {
+      "winner": "Elaine J. Morgan",
+      "party": "REP",
+      "pct": 53.49,
+      "unopposed": false
+    },
+    "35": {
+      "winner": "Bridget G. Valverde",
+      "party": "DEM",
+      "pct": 94.38,
+      "unopposed": true
+    },
+    "36": {
+      "winner": "Alana M. DiMario",
+      "party": "DEM",
+      "pct": 95.49,
+      "unopposed": true
+    },
+    "37": {
+      "winner": "Virginia S. Sosnowski",
+      "party": "DEM",
+      "pct": 66,
+      "unopposed": false
+    },
+    "38": {
+      "winner": "Victoria Gu",
+      "party": "DEM",
+      "pct": 58.13,
+      "unopposed": false
+    }
+  }
+}

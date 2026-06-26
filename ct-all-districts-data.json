@@ -1,0 +1,4868 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Connecticut House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42647,
+        "medianAge": 34,
+        "totalPopulation": 21546,
+        "collegePct": 25.65,
+        "renterRatePct": 80.68,
+        "race": {
+          "whitePct": 23.31,
+          "nonHispanicWhitePct": 20.59,
+          "blackPct": 50.67,
+          "asianPct": 2.11,
+          "hispanicPct": 24.01
+        }
+      },
+      "election": {
+        "winner": "Matthew Ritter",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Connecticut House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104141,
+        "medianAge": 42.5,
+        "totalPopulation": 24435,
+        "collegePct": 45.41,
+        "renterRatePct": 29.64,
+        "race": {
+          "whitePct": 67.31,
+          "nonHispanicWhitePct": 65,
+          "blackPct": 8.84,
+          "asianPct": 4.89,
+          "hispanicPct": 13.24
+        }
+      },
+      "election": {
+        "winner": "Raghib Allie-Brennan",
+        "party": "DEM",
+        "pct": 57.99,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Connecticut House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43226,
+        "medianAge": 33.8,
+        "totalPopulation": 23200,
+        "collegePct": 13.8,
+        "renterRatePct": 79.12,
+        "race": {
+          "whitePct": 26.69,
+          "nonHispanicWhitePct": 9.37,
+          "blackPct": 21.17,
+          "asianPct": 1.86,
+          "hispanicPct": 67.37
+        }
+      },
+      "election": {
+        "winner": "Minnie Gonzalez",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Connecticut House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41356,
+        "medianAge": 31.1,
+        "totalPopulation": 23061,
+        "collegePct": 26.82,
+        "renterRatePct": 87.46,
+        "race": {
+          "whitePct": 31.07,
+          "nonHispanicWhitePct": 19.44,
+          "blackPct": 22.05,
+          "asianPct": 5.78,
+          "hispanicPct": 51.9
+        }
+      },
+      "election": {
+        "winner": "Julio A. Concepcion",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Connecticut House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81954,
+        "medianAge": 36.6,
+        "totalPopulation": 25236,
+        "collegePct": 30.6,
+        "renterRatePct": 38.72,
+        "race": {
+          "whitePct": 27.86,
+          "nonHispanicWhitePct": 22.67,
+          "blackPct": 47.61,
+          "asianPct": 5.58,
+          "hispanicPct": 21.26
+        }
+      },
+      "election": {
+        "winner": "Maryam Khan",
+        "party": "DEM",
+        "pct": 99.85,
+        "unopposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Connecticut House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55993,
+        "medianAge": 39.3,
+        "totalPopulation": 22905,
+        "collegePct": 14.82,
+        "renterRatePct": 51.54,
+        "race": {
+          "whitePct": 39.95,
+          "nonHispanicWhitePct": 24.37,
+          "blackPct": 20.25,
+          "asianPct": 1.78,
+          "hispanicPct": 53.39
+        }
+      },
+      "election": {
+        "winner": "James \"Jimmy\" Sanchez",
+        "party": "DEM",
+        "pct": 93.52,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Connecticut House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 40211,
+        "medianAge": 30.8,
+        "totalPopulation": 22337,
+        "collegePct": 11.96,
+        "renterRatePct": 65.44,
+        "race": {
+          "whitePct": 16.36,
+          "nonHispanicWhitePct": 10.12,
+          "blackPct": 59.26,
+          "asianPct": 1.54,
+          "hispanicPct": 27.19
+        }
+      },
+      "election": {
+        "winner": "Joshua M. Hall",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Connecticut House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116349,
+        "medianAge": 46.2,
+        "totalPopulation": 23527,
+        "collegePct": 42.35,
+        "renterRatePct": 11.94,
+        "race": {
+          "whitePct": 91.88,
+          "nonHispanicWhitePct": 89.66,
+          "blackPct": 0.62,
+          "asianPct": 1.13,
+          "hispanicPct": 5.2
+        }
+      },
+      "election": {
+        "winner": "Timothy Ackert",
+        "party": "REP",
+        "pct": 59.17,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Connecticut House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86337,
+        "medianAge": 40.9,
+        "totalPopulation": 23430,
+        "collegePct": 31.37,
+        "renterRatePct": 31.63,
+        "race": {
+          "whitePct": 52.1,
+          "nonHispanicWhitePct": 47.06,
+          "blackPct": 17.67,
+          "asianPct": 9.46,
+          "hispanicPct": 20.96
+        }
+      },
+      "election": {
+        "winner": "Jason Rojas",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Connecticut House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66677,
+        "medianAge": 41.2,
+        "totalPopulation": 22366,
+        "collegePct": 16.77,
+        "renterRatePct": 40.97,
+        "race": {
+          "whitePct": 46,
+          "nonHispanicWhitePct": 35.71,
+          "blackPct": 23.69,
+          "asianPct": 3.07,
+          "hispanicPct": 37.01
+        }
+      },
+      "election": {
+        "winner": "Henry J. Genga",
+        "party": "DEM",
+        "pct": 68.77,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Connecticut House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73242,
+        "medianAge": 33.5,
+        "totalPopulation": 24923,
+        "collegePct": 29.07,
+        "renterRatePct": 61.59,
+        "race": {
+          "whitePct": 39.55,
+          "nonHispanicWhitePct": 28.93,
+          "blackPct": 24.69,
+          "asianPct": 10.81,
+          "hispanicPct": 33.15
+        }
+      },
+      "election": {
+        "winner": "Patrick Biggins",
+        "party": "DEM",
+        "pct": 69.37,
+        "unopposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Connecticut House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83880,
+        "medianAge": 39.6,
+        "totalPopulation": 23242,
+        "collegePct": 35.7,
+        "renterRatePct": 33,
+        "race": {
+          "whitePct": 61.14,
+          "nonHispanicWhitePct": 58.4,
+          "blackPct": 15.62,
+          "asianPct": 6.73,
+          "hispanicPct": 17.18
+        }
+      },
+      "election": {
+        "winner": "Geoffrey Luxenberg",
+        "party": "DEM",
+        "pct": 66.08,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Connecticut House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92941,
+        "medianAge": 38.4,
+        "totalPopulation": 22808,
+        "collegePct": 47.68,
+        "renterRatePct": 40.26,
+        "race": {
+          "whitePct": 63.82,
+          "nonHispanicWhitePct": 60.79,
+          "blackPct": 15.15,
+          "asianPct": 6.65,
+          "hispanicPct": 18.08
+        }
+      },
+      "election": {
+        "winner": "Jason Doucette",
+        "party": "DEM",
+        "pct": 66.41,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Connecticut House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 148610,
+        "medianAge": 40.7,
+        "totalPopulation": 23455,
+        "collegePct": 60.46,
+        "renterRatePct": 14.14,
+        "race": {
+          "whitePct": 69.03,
+          "nonHispanicWhitePct": 66.91,
+          "blackPct": 4.4,
+          "asianPct": 19.07,
+          "hispanicPct": 5
+        }
+      },
+      "election": {
+        "winner": "Tom Delnicki",
+        "party": "REP",
+        "pct": 54.56,
+        "unopposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Connecticut House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100125,
+        "medianAge": 47.5,
+        "totalPopulation": 23046,
+        "collegePct": 40.07,
+        "renterRatePct": 29.52,
+        "race": {
+          "whitePct": 33.41,
+          "nonHispanicWhitePct": 32.07,
+          "blackPct": 52,
+          "asianPct": 5.25,
+          "hispanicPct": 7.26
+        }
+      },
+      "election": {
+        "winner": "Bobby Gibson",
+        "party": "DEM",
+        "pct": 81.24,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Connecticut House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 153715,
+        "medianAge": 42.8,
+        "totalPopulation": 24747,
+        "collegePct": 69.49,
+        "renterRatePct": 26.08,
+        "race": {
+          "whitePct": 84.36,
+          "nonHispanicWhitePct": 82.3,
+          "blackPct": 3.25,
+          "asianPct": 4.32,
+          "hispanicPct": 6.47
+        }
+      },
+      "election": {
+        "winner": "Melissa Osborne",
+        "party": "DEM",
+        "pct": 61.85,
+        "unopposed": false
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Connecticut House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 141404,
+        "medianAge": 45.3,
+        "totalPopulation": 24446,
+        "collegePct": 65.47,
+        "renterRatePct": 14.39,
+        "race": {
+          "whitePct": 82.61,
+          "nonHispanicWhitePct": 81.34,
+          "blackPct": 1.46,
+          "asianPct": 8.22,
+          "hispanicPct": 4.05
+        }
+      },
+      "election": {
+        "winner": "Eleni Kavros Degraw",
+        "party": "DEM",
+        "pct": 62.41,
+        "unopposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Connecticut House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113880,
+        "medianAge": 37.9,
+        "totalPopulation": 25112,
+        "collegePct": 69.25,
+        "renterRatePct": 47.32,
+        "race": {
+          "whitePct": 73.25,
+          "nonHispanicWhitePct": 70.2,
+          "blackPct": 9.2,
+          "asianPct": 4.78,
+          "hispanicPct": 10.47
+        }
+      },
+      "election": {
+        "winner": "Jillian Gilchrest",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Connecticut House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 185730,
+        "medianAge": 43.1,
+        "totalPopulation": 24402,
+        "collegePct": 79.05,
+        "renterRatePct": 14.5,
+        "race": {
+          "whitePct": 77.14,
+          "nonHispanicWhitePct": 75.99,
+          "blackPct": 3.1,
+          "asianPct": 10.91,
+          "hispanicPct": 5.13
+        }
+      },
+      "election": {
+        "winner": "Tammy Exum",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Connecticut House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98825,
+        "medianAge": 42.9,
+        "totalPopulation": 23986,
+        "collegePct": 48.88,
+        "renterRatePct": 22.84,
+        "race": {
+          "whitePct": 73.13,
+          "nonHispanicWhitePct": 67.43,
+          "blackPct": 6.76,
+          "asianPct": 8.21,
+          "hispanicPct": 14.73
+        }
+      },
+      "election": {
+        "winner": "Kate Farrar",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Connecticut House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 135718,
+        "medianAge": 42.1,
+        "totalPopulation": 24414,
+        "collegePct": 66.24,
+        "renterRatePct": 24.6,
+        "race": {
+          "whitePct": 72.34,
+          "nonHispanicWhitePct": 70.01,
+          "blackPct": 2.81,
+          "asianPct": 16.26,
+          "hispanicPct": 7.58
+        }
+      },
+      "election": {
+        "winner": "Mike Demicco",
+        "party": "DEM",
+        "pct": 64.79,
+        "unopposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Connecticut House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84485,
+        "medianAge": 44.5,
+        "totalPopulation": 23536,
+        "collegePct": 35.33,
+        "renterRatePct": 27.98,
+        "race": {
+          "whitePct": 81.08,
+          "nonHispanicWhitePct": 78.95,
+          "blackPct": 2.29,
+          "asianPct": 4.13,
+          "hispanicPct": 9.7
+        }
+      },
+      "election": {
+        "winner": "Rebecca Martinez",
+        "party": "DEM",
+        "pct": 51.75,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Connecticut House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116732,
+        "medianAge": 54.8,
+        "totalPopulation": 23523,
+        "collegePct": 54.85,
+        "renterRatePct": 14.81,
+        "race": {
+          "whitePct": 89.89,
+          "nonHispanicWhitePct": 88.65,
+          "blackPct": 0.4,
+          "asianPct": 1.61,
+          "hispanicPct": 5.32
+        }
+      },
+      "election": {
+        "winner": "Devin R. Carney",
+        "party": "REP",
+        "pct": 51.48,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Connecticut House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65170,
+        "medianAge": 34.7,
+        "totalPopulation": 24101,
+        "collegePct": 20.78,
+        "renterRatePct": 47.28,
+        "race": {
+          "whitePct": 52.56,
+          "nonHispanicWhitePct": 37.12,
+          "blackPct": 13.27,
+          "asianPct": 1.57,
+          "hispanicPct": 47.08
+        }
+      },
+      "election": {
+        "winner": "Emmanuel \"Manny\" Sanchez",
+        "party": "DEM",
+        "pct": 65.57,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Connecticut House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41769,
+        "medianAge": 34.9,
+        "totalPopulation": 23050,
+        "collegePct": 10.89,
+        "renterRatePct": 72.71,
+        "race": {
+          "whitePct": 47.99,
+          "nonHispanicWhitePct": 31.18,
+          "blackPct": 12.77,
+          "asianPct": 2.52,
+          "hispanicPct": 52.03
+        }
+      },
+      "election": {
+        "winner": "Robert \"Bobby\" Sanchez",
+        "party": "DEM",
+        "pct": 70.08,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Connecticut House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67302,
+        "medianAge": 34.9,
+        "totalPopulation": 22966,
+        "collegePct": 26.55,
+        "renterRatePct": 51.09,
+        "race": {
+          "whitePct": 60.69,
+          "nonHispanicWhitePct": 52.97,
+          "blackPct": 13.68,
+          "asianPct": 3.21,
+          "hispanicPct": 28.25
+        }
+      },
+      "election": {
+        "winner": "David DeFronzo",
+        "party": "DEM",
+        "pct": 60.42,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Connecticut House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90694,
+        "medianAge": 44,
+        "totalPopulation": 24901,
+        "collegePct": 36.39,
+        "renterRatePct": 24.79,
+        "race": {
+          "whitePct": 69.71,
+          "nonHispanicWhitePct": 64.2,
+          "blackPct": 5.91,
+          "asianPct": 6.59,
+          "hispanicPct": 16.75
+        }
+      },
+      "election": {
+        "winner": "Gary Turco",
+        "party": "DEM",
+        "pct": 88.44,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Connecticut House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 123404,
+        "medianAge": 43.1,
+        "totalPopulation": 23966,
+        "collegePct": 54.45,
+        "renterRatePct": 14.33,
+        "race": {
+          "whitePct": 81.41,
+          "nonHispanicWhitePct": 77.64,
+          "blackPct": 2.33,
+          "asianPct": 5.53,
+          "hispanicPct": 12.83
+        }
+      },
+      "election": {
+        "winner": "Amy Morrin Bello",
+        "party": "DEM",
+        "pct": 59.44,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Connecticut House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98788,
+        "medianAge": 44.9,
+        "totalPopulation": 23938,
+        "collegePct": 49.86,
+        "renterRatePct": 33.41,
+        "race": {
+          "whitePct": 73.06,
+          "nonHispanicWhitePct": 70.57,
+          "blackPct": 5.47,
+          "asianPct": 12.51,
+          "hispanicPct": 8.14
+        }
+      },
+      "election": {
+        "winner": "Kerry Szeps Wood",
+        "party": "DEM",
+        "pct": 57.62,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Connecticut House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109545,
+        "medianAge": 47.3,
+        "totalPopulation": 22728,
+        "collegePct": 41.35,
+        "renterRatePct": 20.79,
+        "race": {
+          "whitePct": 86.92,
+          "nonHispanicWhitePct": 85.5,
+          "blackPct": 0.95,
+          "asianPct": 3.47,
+          "hispanicPct": 6.97
+        }
+      },
+      "election": {
+        "winner": "Donna M. Veach",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Connecticut House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 143317,
+        "medianAge": 44.3,
+        "totalPopulation": 25136,
+        "collegePct": 66.22,
+        "renterRatePct": 20.04,
+        "race": {
+          "whitePct": 78.91,
+          "nonHispanicWhitePct": 75.74,
+          "blackPct": 2.15,
+          "asianPct": 9.75,
+          "hispanicPct": 8.37
+        }
+      },
+      "election": {
+        "winner": "Jill Barry",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Connecticut House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 110503,
+        "medianAge": 42.7,
+        "totalPopulation": 23722,
+        "collegePct": 47.23,
+        "renterRatePct": 18.95,
+        "race": {
+          "whitePct": 80.93,
+          "nonHispanicWhitePct": 79.79,
+          "blackPct": 3.91,
+          "asianPct": 5.16,
+          "hispanicPct": 6.82
+        }
+      },
+      "election": {
+        "winner": "Christie M. Carpino",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Connecticut House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75723,
+        "medianAge": 34.5,
+        "totalPopulation": 24403,
+        "collegePct": 43.27,
+        "renterRatePct": 49.36,
+        "race": {
+          "whitePct": 69.82,
+          "nonHispanicWhitePct": 66.43,
+          "blackPct": 14.29,
+          "asianPct": 6.92,
+          "hispanicPct": 9.91
+        }
+      },
+      "election": {
+        "winner": "Brandon Chafee",
+        "party": "DEM",
+        "pct": 88.46,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Connecticut House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113409,
+        "medianAge": 45.8,
+        "totalPopulation": 23072,
+        "collegePct": 39.08,
+        "renterRatePct": 13.68,
+        "race": {
+          "whitePct": 89.71,
+          "nonHispanicWhitePct": 88.61,
+          "blackPct": 0.36,
+          "asianPct": 1.85,
+          "hispanicPct": 5.75
+        }
+      },
+      "election": {
+        "winner": "Irene Haines",
+        "party": "REP",
+        "pct": 53.11,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Connecticut House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118351,
+        "medianAge": 50.8,
+        "totalPopulation": 23360,
+        "collegePct": 46.29,
+        "renterRatePct": 13.25,
+        "race": {
+          "whitePct": 86.55,
+          "nonHispanicWhitePct": 84.79,
+          "blackPct": 0.74,
+          "asianPct": 2.11,
+          "hispanicPct": 7.39
+        }
+      },
+      "election": {
+        "winner": "Chris Aniskovich",
+        "party": "REP",
+        "pct": 50.52,
+        "unopposed": false
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Connecticut House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101989,
+        "medianAge": 47.8,
+        "totalPopulation": 23546,
+        "collegePct": 48.27,
+        "renterRatePct": 21.29,
+        "race": {
+          "whitePct": 89.42,
+          "nonHispanicWhitePct": 86.7,
+          "blackPct": 1.63,
+          "asianPct": 2.83,
+          "hispanicPct": 4.85
+        }
+      },
+      "election": {
+        "winner": "Renee LaMark Muir",
+        "party": "DEM",
+        "pct": 53,
+        "unopposed": false
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Connecticut House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106884,
+        "medianAge": 47.2,
+        "totalPopulation": 25431,
+        "collegePct": 48.08,
+        "renterRatePct": 20.59,
+        "race": {
+          "whitePct": 83.17,
+          "nonHispanicWhitePct": 82.26,
+          "blackPct": 2.87,
+          "asianPct": 5.29,
+          "hispanicPct": 4.89
+        }
+      },
+      "election": {
+        "winner": "Nick Menapace",
+        "party": "DEM",
+        "pct": 50.32,
+        "unopposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Connecticut House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106352,
+        "medianAge": 46,
+        "totalPopulation": 24983,
+        "collegePct": 36.92,
+        "renterRatePct": 19.47,
+        "race": {
+          "whitePct": 84.95,
+          "nonHispanicWhitePct": 83.03,
+          "blackPct": 2.91,
+          "asianPct": 4.23,
+          "hispanicPct": 5.71
+        }
+      },
+      "election": {
+        "winner": "Nick Gauthier",
+        "party": "DEM",
+        "pct": 50.61,
+        "unopposed": false
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Connecticut House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52776,
+        "medianAge": 33.2,
+        "totalPopulation": 23773,
+        "collegePct": 24.44,
+        "renterRatePct": 65.53,
+        "race": {
+          "whitePct": 48.48,
+          "nonHispanicWhitePct": 40.42,
+          "blackPct": 13.91,
+          "asianPct": 2.89,
+          "hispanicPct": 39.26
+        }
+      },
+      "election": {
+        "winner": "Anthony Nolan",
+        "party": "DEM",
+        "pct": 80.65,
+        "unopposed": false
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Connecticut House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82995,
+        "medianAge": 32.8,
+        "totalPopulation": 24519,
+        "collegePct": 41.97,
+        "renterRatePct": 51.74,
+        "race": {
+          "whitePct": 74.51,
+          "nonHispanicWhitePct": 69.46,
+          "blackPct": 8.12,
+          "asianPct": 6.06,
+          "hispanicPct": 10.89
+        }
+      },
+      "election": {
+        "winner": "Christine Conley",
+        "party": "DEM",
+        "pct": 66.17,
+        "unopposed": false
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Connecticut House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97711,
+        "medianAge": 52.2,
+        "totalPopulation": 23905,
+        "collegePct": 50.39,
+        "renterRatePct": 35.07,
+        "race": {
+          "whitePct": 79.3,
+          "nonHispanicWhitePct": 76.24,
+          "blackPct": 3.19,
+          "asianPct": 4.4,
+          "hispanicPct": 8.82
+        }
+      },
+      "election": {
+        "winner": "Aundre Bumgardner",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Connecticut House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 240216,
+        "medianAge": 42.6,
+        "totalPopulation": 23232,
+        "collegePct": 76.83,
+        "renterRatePct": 10.57,
+        "race": {
+          "whitePct": 77.49,
+          "nonHispanicWhitePct": 76.51,
+          "blackPct": 4.14,
+          "asianPct": 5.48,
+          "hispanicPct": 5.71
+        }
+      },
+      "election": {
+        "winner": "Savet Constantine",
+        "party": "DEM",
+        "pct": 50.91,
+        "unopposed": false
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Connecticut House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103946,
+        "medianAge": 44.2,
+        "totalPopulation": 24611,
+        "collegePct": 41.6,
+        "renterRatePct": 19.44,
+        "race": {
+          "whitePct": 87,
+          "nonHispanicWhitePct": 83.79,
+          "blackPct": 1.89,
+          "asianPct": 2.26,
+          "hispanicPct": 6.8
+        }
+      },
+      "election": {
+        "winner": "Greg Howard",
+        "party": "REP",
+        "pct": 57.88,
+        "unopposed": false
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Connecticut House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82735,
+        "medianAge": 37.7,
+        "totalPopulation": 26774,
+        "collegePct": 18.63,
+        "renterRatePct": 29.25,
+        "race": {
+          "whitePct": 84.07,
+          "nonHispanicWhitePct": 83.19,
+          "blackPct": 3.96,
+          "asianPct": 2.57,
+          "hispanicPct": 5.56
+        }
+      },
+      "election": {
+        "winner": "Anne Dubay Dauphinais",
+        "party": "REP",
+        "pct": 63.34,
+        "unopposed": false
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Connecticut House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94468,
+        "medianAge": 45.4,
+        "totalPopulation": 24486,
+        "collegePct": 24.22,
+        "renterRatePct": 17.88,
+        "race": {
+          "whitePct": 87.13,
+          "nonHispanicWhitePct": 85.68,
+          "blackPct": 1.22,
+          "asianPct": 1.12,
+          "hispanicPct": 4.61
+        }
+      },
+      "election": {
+        "winner": "Brian L. Lanoue",
+        "party": "REP",
+        "pct": 62.79,
+        "unopposed": false
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Connecticut House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58594,
+        "medianAge": 36.3,
+        "totalPopulation": 23843,
+        "collegePct": 20.55,
+        "renterRatePct": 53.61,
+        "race": {
+          "whitePct": 57.69,
+          "nonHispanicWhitePct": 49.54,
+          "blackPct": 13.87,
+          "asianPct": 8.35,
+          "hispanicPct": 22.88
+        }
+      },
+      "election": {
+        "winner": "Derell Wilson",
+        "party": "DEM",
+        "pct": 65.83,
+        "unopposed": false
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Connecticut House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84124,
+        "medianAge": 44.4,
+        "totalPopulation": 25235,
+        "collegePct": 21.31,
+        "renterRatePct": 19.11,
+        "race": {
+          "whitePct": 88.06,
+          "nonHispanicWhitePct": 85.86,
+          "blackPct": 1.88,
+          "asianPct": 1.7,
+          "hispanicPct": 6.55
+        }
+      },
+      "election": {
+        "winner": "Doug Dubitsky",
+        "party": "REP",
+        "pct": 62.65,
+        "unopposed": false
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Connecticut House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112745,
+        "medianAge": 44.3,
+        "totalPopulation": 24737,
+        "collegePct": 41.99,
+        "renterRatePct": 19.57,
+        "race": {
+          "whitePct": 90.77,
+          "nonHispanicWhitePct": 89.33,
+          "blackPct": 1.81,
+          "asianPct": 0.5,
+          "hispanicPct": 4.89
+        }
+      },
+      "election": {
+        "winner": "Mark DeCaprio",
+        "party": "REP",
+        "pct": 51.17,
+        "unopposed": false
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Connecticut House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55034,
+        "medianAge": 33.5,
+        "totalPopulation": 23905,
+        "collegePct": 20.99,
+        "renterRatePct": 54.81,
+        "race": {
+          "whitePct": 67.64,
+          "nonHispanicWhitePct": 51.18,
+          "blackPct": 5.3,
+          "asianPct": 1.52,
+          "hispanicPct": 40.17
+        }
+      },
+      "election": {
+        "winner": "Susan Johnson",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Connecticut House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105347,
+        "medianAge": 44.4,
+        "totalPopulation": 24722,
+        "collegePct": 39.68,
+        "renterRatePct": 21.05,
+        "race": {
+          "whitePct": 90.66,
+          "nonHispanicWhitePct": 89.75,
+          "blackPct": 0.43,
+          "asianPct": 1.87,
+          "hispanicPct": 4.27
+        }
+      },
+      "election": {
+        "winner": "Pat Boyd",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Connecticut House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77680,
+        "medianAge": 47.7,
+        "totalPopulation": 23459,
+        "collegePct": 23.33,
+        "renterRatePct": 27.94,
+        "race": {
+          "whitePct": 90.07,
+          "nonHispanicWhitePct": 87.5,
+          "blackPct": 1.29,
+          "asianPct": 0.64,
+          "hispanicPct": 5.34
+        }
+      },
+      "election": {
+        "winner": "Chris Stewart",
+        "party": "REP",
+        "pct": 54.54,
+        "unopposed": false
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Connecticut House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102230,
+        "medianAge": 46.8,
+        "totalPopulation": 26058,
+        "collegePct": 33.82,
+        "renterRatePct": 15.16,
+        "race": {
+          "whitePct": 89.67,
+          "nonHispanicWhitePct": 87.42,
+          "blackPct": 1.92,
+          "asianPct": 0.19,
+          "hispanicPct": 5.76
+        }
+      },
+      "election": {
+        "winner": "Kurt Vail",
+        "party": "REP",
+        "pct": 57.59,
+        "unopposed": false
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Connecticut House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115325,
+        "medianAge": 40.5,
+        "totalPopulation": 23461,
+        "collegePct": 50.67,
+        "renterRatePct": 16.1,
+        "race": {
+          "whitePct": 85.38,
+          "nonHispanicWhitePct": 83.09,
+          "blackPct": 0.9,
+          "asianPct": 3.61,
+          "hispanicPct": 7.64
+        }
+      },
+      "election": {
+        "winner": "Tammy Nuccio",
+        "party": "REP",
+        "pct": 56.78,
+        "unopposed": false
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Connecticut House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62945,
+        "medianAge": 21,
+        "totalPopulation": 20451,
+        "collegePct": 56.81,
+        "renterRatePct": 49.96,
+        "race": {
+          "whitePct": 71.38,
+          "nonHispanicWhitePct": 69.04,
+          "blackPct": 6.83,
+          "asianPct": 14.51,
+          "hispanicPct": 7.39
+        }
+      },
+      "election": {
+        "winner": "Gregg Haddad",
+        "party": "DEM",
+        "pct": 74.17,
+        "unopposed": false
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Connecticut House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 144173,
+        "medianAge": 44.7,
+        "totalPopulation": 24341,
+        "collegePct": 54.23,
+        "renterRatePct": 8.88,
+        "race": {
+          "whitePct": 89.21,
+          "nonHispanicWhitePct": 87.13,
+          "blackPct": 1.36,
+          "asianPct": 3.63,
+          "hispanicPct": 5.65
+        }
+      },
+      "election": {
+        "winner": "Steve Weir",
+        "party": "REP",
+        "pct": 55.18,
+        "unopposed": false
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Connecticut House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74760,
+        "medianAge": 39.3,
+        "totalPopulation": 23105,
+        "collegePct": 32.61,
+        "renterRatePct": 51.69,
+        "race": {
+          "whitePct": 74.37,
+          "nonHispanicWhitePct": 68.76,
+          "blackPct": 6.69,
+          "asianPct": 6.8,
+          "hispanicPct": 12.52
+        }
+      },
+      "election": {
+        "winner": "Kevin Brown",
+        "party": "DEM",
+        "pct": 60.46,
+        "unopposed": false
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Connecticut House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120260,
+        "medianAge": 40.2,
+        "totalPopulation": 23841,
+        "collegePct": 47.77,
+        "renterRatePct": 30.71,
+        "race": {
+          "whitePct": 80.88,
+          "nonHispanicWhitePct": 79.34,
+          "blackPct": 4.09,
+          "asianPct": 6.2,
+          "hispanicPct": 5.98
+        }
+      },
+      "election": {
+        "winner": "Jaime S. Foster",
+        "party": "DEM",
+        "pct": 53.07,
+        "unopposed": false
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Connecticut House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79641,
+        "medianAge": 42.3,
+        "totalPopulation": 22029,
+        "collegePct": 27.94,
+        "renterRatePct": 31.01,
+        "race": {
+          "whitePct": 77.08,
+          "nonHispanicWhitePct": 73.22,
+          "blackPct": 4.22,
+          "asianPct": 2.91,
+          "hispanicPct": 12.32
+        }
+      },
+      "election": {
+        "winner": "John Santanella",
+        "party": "DEM",
+        "pct": 58.44,
+        "unopposed": false
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Connecticut House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99236,
+        "medianAge": 43.5,
+        "totalPopulation": 25600,
+        "collegePct": 34.47,
+        "renterRatePct": 19.12,
+        "race": {
+          "whitePct": 80.78,
+          "nonHispanicWhitePct": 77.46,
+          "blackPct": 5.8,
+          "asianPct": 3.37,
+          "hispanicPct": 8.8
+        }
+      },
+      "election": {
+        "winner": "Carol Hall",
+        "party": "REP",
+        "pct": 50.73,
+        "unopposed": false
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Connecticut House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100558,
+        "medianAge": 44.3,
+        "totalPopulation": 24155,
+        "collegePct": 40.33,
+        "renterRatePct": 22.27,
+        "race": {
+          "whitePct": 62.82,
+          "nonHispanicWhitePct": 60.27,
+          "blackPct": 16.48,
+          "asianPct": 6.35,
+          "hispanicPct": 10.35
+        }
+      },
+      "election": {
+        "winner": "Jane Garibay",
+        "party": "DEM",
+        "pct": 65.45,
+        "unopposed": false
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Connecticut House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115044,
+        "medianAge": 42.9,
+        "totalPopulation": 25829,
+        "collegePct": 39.34,
+        "renterRatePct": 13.54,
+        "race": {
+          "whitePct": 82.52,
+          "nonHispanicWhitePct": 80.12,
+          "blackPct": 6.02,
+          "asianPct": 2.53,
+          "hispanicPct": 7.31
+        }
+      },
+      "election": {
+        "winner": "Tami Zawistowski",
+        "party": "REP",
+        "pct": 59.42,
+        "unopposed": false
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Connecticut House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118339,
+        "medianAge": 46.5,
+        "totalPopulation": 23237,
+        "collegePct": 51.55,
+        "renterRatePct": 9.55,
+        "race": {
+          "whitePct": 92.25,
+          "nonHispanicWhitePct": 92.06,
+          "blackPct": 0.32,
+          "asianPct": 1.48,
+          "hispanicPct": 3.27
+        }
+      },
+      "election": {
+        "winner": "Mark W. Anderson",
+        "party": "REP",
+        "pct": 53.73,
+        "unopposed": false
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Connecticut House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81450,
+        "medianAge": 49.5,
+        "totalPopulation": 23115,
+        "collegePct": 29.17,
+        "renterRatePct": 23.97,
+        "race": {
+          "whitePct": 84.08,
+          "nonHispanicWhitePct": 82.37,
+          "blackPct": 4.73,
+          "asianPct": 1.8,
+          "hispanicPct": 7.91
+        }
+      },
+      "election": {
+        "winner": "Jay M. Case",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Connecticut House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99894,
+        "medianAge": 50.4,
+        "totalPopulation": 24296,
+        "collegePct": 51.21,
+        "renterRatePct": 25.8,
+        "race": {
+          "whitePct": 87.49,
+          "nonHispanicWhitePct": 84.07,
+          "blackPct": 0.85,
+          "asianPct": 2.37,
+          "hispanicPct": 7.55
+        }
+      },
+      "election": {
+        "winner": "Maria Horn",
+        "party": "DEM",
+        "pct": 64.66,
+        "unopposed": false
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Connecticut House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61333,
+        "medianAge": 41,
+        "totalPopulation": 24071,
+        "collegePct": 22.44,
+        "renterRatePct": 42.04,
+        "race": {
+          "whitePct": 75.26,
+          "nonHispanicWhitePct": 70.52,
+          "blackPct": 5.87,
+          "asianPct": 2.8,
+          "hispanicPct": 16.21
+        }
+      },
+      "election": {
+        "winner": "Joe Canino",
+        "party": "REP",
+        "pct": 50.29,
+        "unopposed": false
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "Connecticut House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119323,
+        "medianAge": 50.6,
+        "totalPopulation": 23347,
+        "collegePct": 48.27,
+        "renterRatePct": 20.41,
+        "race": {
+          "whitePct": 88.67,
+          "nonHispanicWhitePct": 87.62,
+          "blackPct": 1.73,
+          "asianPct": 2.43,
+          "hispanicPct": 4.32
+        }
+      },
+      "election": {
+        "winner": "Karen Reddington-Hughes",
+        "party": "REP",
+        "pct": 56.08,
+        "unopposed": false
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "Connecticut House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99643,
+        "medianAge": 41.5,
+        "totalPopulation": 23190,
+        "collegePct": 39.55,
+        "renterRatePct": 20.48,
+        "race": {
+          "whitePct": 82.21,
+          "nonHispanicWhitePct": 79.13,
+          "blackPct": 2.33,
+          "asianPct": 3.31,
+          "hispanicPct": 11.46
+        }
+      },
+      "election": {
+        "winner": "William Buckbee",
+        "party": "REP",
+        "pct": 62.64,
+        "unopposed": false
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "Connecticut House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97221,
+        "medianAge": 45.7,
+        "totalPopulation": 24099,
+        "collegePct": 35.92,
+        "renterRatePct": 20.39,
+        "race": {
+          "whitePct": 83.18,
+          "nonHispanicWhitePct": 77.45,
+          "blackPct": 4.01,
+          "asianPct": 3.06,
+          "hispanicPct": 12.52
+        }
+      },
+      "election": {
+        "winner": "Joe Polletta",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "Connecticut House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118031,
+        "medianAge": 51.8,
+        "totalPopulation": 24067,
+        "collegePct": 54.42,
+        "renterRatePct": 13.12,
+        "race": {
+          "whitePct": 85.56,
+          "nonHispanicWhitePct": 83.33,
+          "blackPct": 3.32,
+          "asianPct": 3.95,
+          "hispanicPct": 7.92
+        }
+      },
+      "election": {
+        "winner": "Jason Buchsbaum",
+        "party": "REP",
+        "pct": 56.34,
+        "unopposed": false
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "Connecticut House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94349,
+        "medianAge": 39.1,
+        "totalPopulation": 23899,
+        "collegePct": 31.81,
+        "renterRatePct": 29.09,
+        "race": {
+          "whitePct": 65.97,
+          "nonHispanicWhitePct": 62.49,
+          "blackPct": 9.78,
+          "asianPct": 5.83,
+          "hispanicPct": 15.25
+        }
+      },
+      "election": {
+        "winner": "Seth Bronko",
+        "party": "REP",
+        "pct": 55.06,
+        "unopposed": false
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "Connecticut House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84981,
+        "medianAge": 41,
+        "totalPopulation": 23023,
+        "collegePct": 31.94,
+        "renterRatePct": 27.4,
+        "race": {
+          "whitePct": 66.88,
+          "nonHispanicWhitePct": 61.66,
+          "blackPct": 11.77,
+          "asianPct": 3.69,
+          "hispanicPct": 20.08
+        }
+      },
+      "election": {
+        "winner": "William J. Pizzuto",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "Connecticut House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48224,
+        "medianAge": 34,
+        "totalPopulation": 26068,
+        "collegePct": 12.35,
+        "renterRatePct": 59.06,
+        "race": {
+          "whitePct": 32.25,
+          "nonHispanicWhitePct": 16.48,
+          "blackPct": 30.66,
+          "asianPct": 2.19,
+          "hispanicPct": 49.49
+        }
+      },
+      "election": {
+        "winner": "Larry B. Butler",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "Connecticut House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59368,
+        "medianAge": 39.7,
+        "totalPopulation": 22838,
+        "collegePct": 20.79,
+        "renterRatePct": 49.35,
+        "race": {
+          "whitePct": 41.17,
+          "nonHispanicWhitePct": 30.46,
+          "blackPct": 25.13,
+          "asianPct": 1.86,
+          "hispanicPct": 35.19
+        }
+      },
+      "election": {
+        "winner": "Ronald A. Napoli, Jr",
+        "party": "DEM",
+        "pct": 66.44,
+        "unopposed": false
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "Connecticut House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52661,
+        "medianAge": 42.5,
+        "totalPopulation": 23495,
+        "collegePct": 18.03,
+        "renterRatePct": 50.07,
+        "race": {
+          "whitePct": 46.36,
+          "nonHispanicWhitePct": 34.05,
+          "blackPct": 23.34,
+          "asianPct": 4.49,
+          "hispanicPct": 33.83
+        }
+      },
+      "election": {
+        "winner": "Michael DiGiovancarlo",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "Connecticut House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 36936,
+        "medianAge": 36.2,
+        "totalPopulation": 22769,
+        "collegePct": 12.87,
+        "renterRatePct": 78.6,
+        "race": {
+          "whitePct": 35.83,
+          "nonHispanicWhitePct": 25.2,
+          "blackPct": 31.04,
+          "asianPct": 1.69,
+          "hispanicPct": 39.69
+        }
+      },
+      "election": {
+        "winner": "Geraldo C. Reyes, Jr.",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "Connecticut House District 76",
+      "census": {
+        "censusName": "State House District 76 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 117500,
+        "medianAge": 42.5,
+        "totalPopulation": 24279,
+        "collegePct": 41.82,
+        "renterRatePct": 11.28,
+        "race": {
+          "whitePct": 88.88,
+          "nonHispanicWhitePct": 85.29,
+          "blackPct": 0.87,
+          "asianPct": 1.9,
+          "hispanicPct": 6.19
+        }
+      },
+      "election": {
+        "winner": "John Piscopo",
+        "party": "REP",
+        "pct": 68.25,
+        "unopposed": false
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "Connecticut House District 77",
+      "census": {
+        "censusName": "State House District 77 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97544,
+        "medianAge": 40,
+        "totalPopulation": 24306,
+        "collegePct": 32.83,
+        "renterRatePct": 24.66,
+        "race": {
+          "whitePct": 72.87,
+          "nonHispanicWhitePct": 69.24,
+          "blackPct": 5.46,
+          "asianPct": 5.36,
+          "hispanicPct": 14.63
+        }
+      },
+      "election": {
+        "winner": "Cara C. Pavalock-D'Amato",
+        "party": "REP",
+        "pct": 69.22,
+        "unopposed": false
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "Connecticut House District 78",
+      "census": {
+        "censusName": "State House District 78 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97366,
+        "medianAge": 40.6,
+        "totalPopulation": 24711,
+        "collegePct": 31.67,
+        "renterRatePct": 23.78,
+        "race": {
+          "whitePct": 76.43,
+          "nonHispanicWhitePct": 70.85,
+          "blackPct": 5.97,
+          "asianPct": 3.74,
+          "hispanicPct": 13.86
+        }
+      },
+      "election": {
+        "winner": "Joe Hoxha",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "Connecticut House District 79",
+      "census": {
+        "censusName": "State House District 79 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67049,
+        "medianAge": 36.5,
+        "totalPopulation": 23827,
+        "collegePct": 25.44,
+        "renterRatePct": 50.12,
+        "race": {
+          "whitePct": 69.21,
+          "nonHispanicWhitePct": 64.46,
+          "blackPct": 7.37,
+          "asianPct": 3,
+          "hispanicPct": 22.18
+        }
+      },
+      "election": {
+        "winner": "Mary B. Fortier",
+        "party": "DEM",
+        "pct": 56.44,
+        "unopposed": false
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "Connecticut House District 80",
+      "census": {
+        "censusName": "State House District 80 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 121766,
+        "medianAge": 42.8,
+        "totalPopulation": 23025,
+        "collegePct": 41.44,
+        "renterRatePct": 10.68,
+        "race": {
+          "whitePct": 87.84,
+          "nonHispanicWhitePct": 86,
+          "blackPct": 3.14,
+          "asianPct": 1.08,
+          "hispanicPct": 3.86
+        }
+      },
+      "election": {
+        "winner": "Gale L. Mastrofrancesco",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": false
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "Connecticut House District 81",
+      "census": {
+        "censusName": "State House District 81 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111523,
+        "medianAge": 45.5,
+        "totalPopulation": 23745,
+        "collegePct": 40.49,
+        "renterRatePct": 21.94,
+        "race": {
+          "whitePct": 87.54,
+          "nonHispanicWhitePct": 86.06,
+          "blackPct": 1.95,
+          "asianPct": 4.07,
+          "hispanicPct": 3.43
+        }
+      },
+      "election": {
+        "winner": "Chris Poulos",
+        "party": "DEM",
+        "pct": 55.99,
+        "unopposed": false
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "Connecticut House District 82",
+      "census": {
+        "censusName": "State House District 82 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79037,
+        "medianAge": 39.3,
+        "totalPopulation": 24376,
+        "collegePct": 25.07,
+        "renterRatePct": 27.02,
+        "race": {
+          "whitePct": 64.31,
+          "nonHispanicWhitePct": 56.56,
+          "blackPct": 6.76,
+          "asianPct": 2.18,
+          "hispanicPct": 32.1
+        }
+      },
+      "election": {
+        "winner": "Michael D. Quinn",
+        "party": "DEM",
+        "pct": 60.55,
+        "unopposed": false
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "Connecticut House District 83",
+      "census": {
+        "censusName": "State House District 83 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104339,
+        "medianAge": 44.8,
+        "totalPopulation": 24626,
+        "collegePct": 38.04,
+        "renterRatePct": 17.08,
+        "race": {
+          "whitePct": 77.75,
+          "nonHispanicWhitePct": 73.22,
+          "blackPct": 2.74,
+          "asianPct": 5.13,
+          "hispanicPct": 14.32
+        }
+      },
+      "election": {
+        "winner": "Jack Fazzino",
+        "party": "DEM",
+        "pct": 54.73,
+        "unopposed": false
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "Connecticut House District 84",
+      "census": {
+        "censusName": "State House District 84 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49429,
+        "medianAge": 32.8,
+        "totalPopulation": 22093,
+        "collegePct": 15.56,
+        "renterRatePct": 65,
+        "race": {
+          "whitePct": 43.92,
+          "nonHispanicWhitePct": 30.05,
+          "blackPct": 13.33,
+          "asianPct": 0.81,
+          "hispanicPct": 55.19
+        }
+      },
+      "election": {
+        "winner": "Hilda E. Santiago",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "Connecticut House District 85",
+      "census": {
+        "censusName": "State House District 85 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93076,
+        "medianAge": 40.8,
+        "totalPopulation": 23239,
+        "collegePct": 36.96,
+        "renterRatePct": 34.45,
+        "race": {
+          "whitePct": 79.21,
+          "nonHispanicWhitePct": 76.21,
+          "blackPct": 2.03,
+          "asianPct": 2.85,
+          "hispanicPct": 15.22
+        }
+      },
+      "election": {
+        "winner": "Mary M. Mushinsky",
+        "party": "DEM",
+        "pct": 55.6,
+        "unopposed": false
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "Connecticut House District 86",
+      "census": {
+        "censusName": "State House District 86 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113086,
+        "medianAge": 49,
+        "totalPopulation": 22837,
+        "collegePct": 35.94,
+        "renterRatePct": 11.05,
+        "race": {
+          "whitePct": 87.77,
+          "nonHispanicWhitePct": 86.71,
+          "blackPct": 1.13,
+          "asianPct": 2.39,
+          "hispanicPct": 6.66
+        }
+      },
+      "election": {
+        "winner": "Vincent J. Candelora",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "Connecticut House District 87",
+      "census": {
+        "censusName": "State House District 87 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 126807,
+        "medianAge": 46.1,
+        "totalPopulation": 24177,
+        "collegePct": 47.39,
+        "renterRatePct": 18.75,
+        "race": {
+          "whitePct": 80.09,
+          "nonHispanicWhitePct": 79.04,
+          "blackPct": 3.68,
+          "asianPct": 7.24,
+          "hispanicPct": 7.18
+        }
+      },
+      "election": {
+        "winner": "David W. Yaccarino",
+        "party": "REP",
+        "pct": 69.34,
+        "unopposed": false
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "Connecticut House District 88",
+      "census": {
+        "censusName": "State House District 88 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108694,
+        "medianAge": 35.6,
+        "totalPopulation": 24030,
+        "collegePct": 53.41,
+        "renterRatePct": 39.93,
+        "race": {
+          "whitePct": 71.03,
+          "nonHispanicWhitePct": 69.44,
+          "blackPct": 15.63,
+          "asianPct": 5.84,
+          "hispanicPct": 6.7
+        }
+      },
+      "election": {
+        "winner": "Joshua Elliott",
+        "party": "DEM",
+        "pct": 96.75,
+        "unopposed": false
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "Connecticut House District 89",
+      "census": {
+        "censusName": "State House District 89 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 138873,
+        "medianAge": 44.8,
+        "totalPopulation": 24070,
+        "collegePct": 50.64,
+        "renterRatePct": 7.37,
+        "race": {
+          "whitePct": 81.07,
+          "nonHispanicWhitePct": 79.61,
+          "blackPct": 4.26,
+          "asianPct": 5.58,
+          "hispanicPct": 3.39
+        }
+      },
+      "election": {
+        "winner": "Lezlye Zupkus",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": false
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "Connecticut House District 90",
+      "census": {
+        "censusName": "State House District 90 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113896,
+        "medianAge": 48.8,
+        "totalPopulation": 23072,
+        "collegePct": 41.76,
+        "renterRatePct": 18.42,
+        "race": {
+          "whitePct": 87.8,
+          "nonHispanicWhitePct": 85.16,
+          "blackPct": 2.15,
+          "asianPct": 4.88,
+          "hispanicPct": 5.47
+        }
+      },
+      "election": {
+        "winner": "Craig Fishbein",
+        "party": "REP",
+        "pct": 54.52,
+        "unopposed": false
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "Connecticut House District 91",
+      "census": {
+        "censusName": "State House District 91 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81559,
+        "medianAge": 40.5,
+        "totalPopulation": 21696,
+        "collegePct": 46.9,
+        "renterRatePct": 43.46,
+        "race": {
+          "whitePct": 51.5,
+          "nonHispanicWhitePct": 48.08,
+          "blackPct": 27.44,
+          "asianPct": 3.74,
+          "hispanicPct": 17.34
+        }
+      },
+      "election": {
+        "winner": "Laurie Sweet",
+        "party": "DEM",
+        "pct": 91.19,
+        "unopposed": false
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "Connecticut House District 92",
+      "census": {
+        "censusName": "State House District 92 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58387,
+        "medianAge": 33.1,
+        "totalPopulation": 25196,
+        "collegePct": 38.71,
+        "renterRatePct": 69.55,
+        "race": {
+          "whitePct": 38.47,
+          "nonHispanicWhitePct": 31.93,
+          "blackPct": 34.18,
+          "asianPct": 4.99,
+          "hispanicPct": 24.06
+        }
+      },
+      "election": {
+        "winner": "Patricia A. Dillon",
+        "party": "DEM",
+        "pct": 89.05,
+        "unopposed": false
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "Connecticut House District 93",
+      "census": {
+        "censusName": "State House District 93 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 39280,
+        "medianAge": 26.2,
+        "totalPopulation": 23691,
+        "collegePct": 30.63,
+        "renterRatePct": 77.7,
+        "race": {
+          "whitePct": 25.52,
+          "nonHispanicWhitePct": 21.9,
+          "blackPct": 45.05,
+          "asianPct": 3.27,
+          "hispanicPct": 25.61
+        }
+      },
+      "election": {
+        "winner": "Toni E. Walker",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "Connecticut House District 94",
+      "census": {
+        "censusName": "State House District 94 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68432,
+        "medianAge": 30.4,
+        "totalPopulation": 22855,
+        "collegePct": 42.23,
+        "renterRatePct": 56.94,
+        "race": {
+          "whitePct": 28.44,
+          "nonHispanicWhitePct": 24.97,
+          "blackPct": 45.28,
+          "asianPct": 6.93,
+          "hispanicPct": 19.97
+        }
+      },
+      "election": {
+        "winner": "Steven B. Winter",
+        "party": "DEM",
+        "pct": 93.38,
+        "unopposed": false
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "Connecticut House District 95",
+      "census": {
+        "censusName": "State House District 95 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46424,
+        "medianAge": 33.6,
+        "totalPopulation": 23803,
+        "collegePct": 17.64,
+        "renterRatePct": 74.66,
+        "race": {
+          "whitePct": 26.94,
+          "nonHispanicWhitePct": 15.48,
+          "blackPct": 25.28,
+          "asianPct": 2.1,
+          "hispanicPct": 54.72
+        }
+      },
+      "election": {
+        "winner": "Juan Candelaria",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "Connecticut House District 96",
+      "census": {
+        "censusName": "State House District 96 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69366,
+        "medianAge": 31.7,
+        "totalPopulation": 23499,
+        "collegePct": 61.69,
+        "renterRatePct": 80.31,
+        "race": {
+          "whitePct": 51.44,
+          "nonHispanicWhitePct": 45.6,
+          "blackPct": 17.68,
+          "asianPct": 8.69,
+          "hispanicPct": 23.76
+        }
+      },
+      "election": {
+        "winner": "Roland J. Lemar",
+        "party": "DEM",
+        "pct": 86.02,
+        "unopposed": false
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "Connecticut House District 97",
+      "census": {
+        "censusName": "State House District 97 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47374,
+        "medianAge": 42.5,
+        "totalPopulation": 23109,
+        "collegePct": 27.24,
+        "renterRatePct": 55.72,
+        "race": {
+          "whitePct": 45.74,
+          "nonHispanicWhitePct": 33.67,
+          "blackPct": 23.35,
+          "asianPct": 3.62,
+          "hispanicPct": 37.01
+        }
+      },
+      "election": {
+        "winner": "Alphonse Paolillo, Jr.",
+        "party": "DEM",
+        "pct": 74.24,
+        "unopposed": false
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "Connecticut House District 98",
+      "census": {
+        "censusName": "State House District 98 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 134352,
+        "medianAge": 52.5,
+        "totalPopulation": 23482,
+        "collegePct": 59.35,
+        "renterRatePct": 14.67,
+        "race": {
+          "whitePct": 90.16,
+          "nonHispanicWhitePct": 89.13,
+          "blackPct": 1.08,
+          "asianPct": 2.76,
+          "hispanicPct": 3.45
+        }
+      },
+      "election": {
+        "winner": "Moira Rader",
+        "party": "DEM",
+        "pct": 63.85,
+        "unopposed": false
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "Connecticut House District 99",
+      "census": {
+        "censusName": "State House District 99 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85134,
+        "medianAge": 43.7,
+        "totalPopulation": 23703,
+        "collegePct": 25.61,
+        "renterRatePct": 28.8,
+        "race": {
+          "whitePct": 74.99,
+          "nonHispanicWhitePct": 71.7,
+          "blackPct": 6.1,
+          "asianPct": 2.27,
+          "hispanicPct": 19.89
+        }
+      },
+      "election": {
+        "winner": "Joe Zullo",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "Connecticut House District 100",
+      "census": {
+        "censusName": "State House District 100 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72074,
+        "medianAge": 42.4,
+        "totalPopulation": 23243,
+        "collegePct": 38.27,
+        "renterRatePct": 44.46,
+        "race": {
+          "whitePct": 66.21,
+          "nonHispanicWhitePct": 62.93,
+          "blackPct": 16.1,
+          "asianPct": 3.58,
+          "hispanicPct": 13.81
+        }
+      },
+      "election": {
+        "winner": "Kai Juanna Belton",
+        "party": "DEM",
+        "pct": 63.55,
+        "unopposed": false
+      }
+    },
+    "101": {
+      "districtNumber": 101,
+      "districtName": "Connecticut House District 101",
+      "census": {
+        "censusName": "State House District 101 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 155430,
+        "medianAge": 49.9,
+        "totalPopulation": 22839,
+        "collegePct": 66.26,
+        "renterRatePct": 9.15,
+        "race": {
+          "whitePct": 88.34,
+          "nonHispanicWhitePct": 87.57,
+          "blackPct": 0.69,
+          "asianPct": 3.65,
+          "hispanicPct": 2.85
+        }
+      },
+      "election": {
+        "winner": "John-Michael Parker",
+        "party": "DEM",
+        "pct": 58.22,
+        "unopposed": false
+      }
+    },
+    "102": {
+      "districtNumber": 102,
+      "districtName": "Connecticut House District 102",
+      "census": {
+        "censusName": "State House District 102 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90348,
+        "medianAge": 53.1,
+        "totalPopulation": 23241,
+        "collegePct": 47.1,
+        "renterRatePct": 36.74,
+        "race": {
+          "whitePct": 84.73,
+          "nonHispanicWhitePct": 82.76,
+          "blackPct": 3.6,
+          "asianPct": 4.65,
+          "hispanicPct": 6.23
+        }
+      },
+      "election": {
+        "winner": "Robin Comey",
+        "party": "DEM",
+        "pct": 53.72,
+        "unopposed": false
+      }
+    },
+    "103": {
+      "districtNumber": 103,
+      "districtName": "Connecticut House District 103",
+      "census": {
+        "censusName": "State House District 103 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 133889,
+        "medianAge": 45.3,
+        "totalPopulation": 23098,
+        "collegePct": 56.53,
+        "renterRatePct": 14.56,
+        "race": {
+          "whitePct": 75.33,
+          "nonHispanicWhitePct": 73.57,
+          "blackPct": 5.09,
+          "asianPct": 7.36,
+          "hispanicPct": 8.61
+        }
+      },
+      "election": {
+        "winner": "Liz Linehan",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "104": {
+      "districtNumber": 104,
+      "districtName": "Connecticut House District 104",
+      "census": {
+        "censusName": "State House District 104 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73864,
+        "medianAge": 41.1,
+        "totalPopulation": 24120,
+        "collegePct": 24.79,
+        "renterRatePct": 45.76,
+        "race": {
+          "whitePct": 56.69,
+          "nonHispanicWhitePct": 51.24,
+          "blackPct": 19.06,
+          "asianPct": 2.55,
+          "hispanicPct": 25.13
+        }
+      },
+      "election": {
+        "winner": "Kara Rochelle",
+        "party": "DEM",
+        "pct": 54.01,
+        "unopposed": false
+      }
+    },
+    "105": {
+      "districtNumber": 105,
+      "districtName": "Connecticut House District 105",
+      "census": {
+        "censusName": "State House District 105 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101089,
+        "medianAge": 43.3,
+        "totalPopulation": 23492,
+        "collegePct": 36.57,
+        "renterRatePct": 23.88,
+        "race": {
+          "whitePct": 72.84,
+          "nonHispanicWhitePct": 69.65,
+          "blackPct": 7.49,
+          "asianPct": 2.34,
+          "hispanicPct": 15.7
+        }
+      },
+      "election": {
+        "winner": "Nicole Klarides-Ditria",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "106": {
+      "districtNumber": 106,
+      "districtName": "Connecticut House District 106",
+      "census": {
+        "censusName": "State House District 106 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 144514,
+        "medianAge": 44.3,
+        "totalPopulation": 25556,
+        "collegePct": 55.69,
+        "renterRatePct": 10.26,
+        "race": {
+          "whitePct": 82.59,
+          "nonHispanicWhitePct": 81.45,
+          "blackPct": 2.45,
+          "asianPct": 1.97,
+          "hispanicPct": 9.81
+        }
+      },
+      "election": {
+        "winner": "Mitch Bolinsky",
+        "party": "REP",
+        "pct": 51.89,
+        "unopposed": false
+      }
+    },
+    "107": {
+      "districtNumber": 107,
+      "districtName": "Connecticut House District 107",
+      "census": {
+        "censusName": "State House District 107 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 151119,
+        "medianAge": 44.9,
+        "totalPopulation": 24335,
+        "collegePct": 54.34,
+        "renterRatePct": 11.92,
+        "race": {
+          "whitePct": 79.57,
+          "nonHispanicWhitePct": 76.84,
+          "blackPct": 3.2,
+          "asianPct": 4.49,
+          "hispanicPct": 10.75
+        }
+      },
+      "election": {
+        "winner": "Martin J. Foncello",
+        "party": "REP",
+        "pct": 52.61,
+        "unopposed": false
+      }
+    },
+    "108": {
+      "districtNumber": 108,
+      "districtName": "Connecticut House District 108",
+      "census": {
+        "censusName": "State House District 108 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115201,
+        "medianAge": 45.6,
+        "totalPopulation": 25534,
+        "collegePct": 42.58,
+        "renterRatePct": 12.39,
+        "race": {
+          "whitePct": 75.32,
+          "nonHispanicWhitePct": 72.07,
+          "blackPct": 4.62,
+          "asianPct": 2.28,
+          "hispanicPct": 15.08
+        }
+      },
+      "election": {
+        "winner": "Patrick Callahan",
+        "party": "REP",
+        "pct": 57.24,
+        "unopposed": false
+      }
+    },
+    "109": {
+      "districtNumber": 109,
+      "districtName": "Connecticut House District 109",
+      "census": {
+        "censusName": "State House District 109 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88739,
+        "medianAge": 38.6,
+        "totalPopulation": 23134,
+        "collegePct": 34.94,
+        "renterRatePct": 40.45,
+        "race": {
+          "whitePct": 44.05,
+          "nonHispanicWhitePct": 41.76,
+          "blackPct": 13.98,
+          "asianPct": 6.99,
+          "hispanicPct": 30.49
+        }
+      },
+      "election": {
+        "winner": "Farley A. Santos",
+        "party": "DEM",
+        "pct": 56.47,
+        "unopposed": false
+      }
+    },
+    "110": {
+      "districtNumber": 110,
+      "districtName": "Connecticut House District 110",
+      "census": {
+        "censusName": "State House District 110 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59636,
+        "medianAge": 37.3,
+        "totalPopulation": 24419,
+        "collegePct": 25.62,
+        "renterRatePct": 69.01,
+        "race": {
+          "whitePct": 34.25,
+          "nonHispanicWhitePct": 28.96,
+          "blackPct": 15.2,
+          "asianPct": 3.39,
+          "hispanicPct": 41.7
+        }
+      },
+      "election": {
+        "winner": "Bob Godfrey",
+        "party": "DEM",
+        "pct": 61.87,
+        "unopposed": false
+      }
+    },
+    "111": {
+      "districtNumber": 111,
+      "districtName": "Connecticut House District 111",
+      "census": {
+        "censusName": "State House District 111 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 165123,
+        "medianAge": 45.9,
+        "totalPopulation": 23394,
+        "collegePct": 71.01,
+        "renterRatePct": 16.58,
+        "race": {
+          "whitePct": 85.66,
+          "nonHispanicWhitePct": 83.04,
+          "blackPct": 1.9,
+          "asianPct": 4.28,
+          "hispanicPct": 5.99
+        }
+      },
+      "election": {
+        "winner": "Aimee Berger-Girvalo",
+        "party": "DEM",
+        "pct": 59.79,
+        "unopposed": false
+      }
+    },
+    "112": {
+      "districtNumber": 112,
+      "districtName": "Connecticut House District 112",
+      "census": {
+        "censusName": "State House District 112 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 159648,
+        "medianAge": 43.3,
+        "totalPopulation": 23990,
+        "collegePct": 60.46,
+        "renterRatePct": 7.45,
+        "race": {
+          "whitePct": 83.14,
+          "nonHispanicWhitePct": 81.78,
+          "blackPct": 0.69,
+          "asianPct": 6.2,
+          "hispanicPct": 7.34
+        }
+      },
+      "election": {
+        "winner": "Tony Scott",
+        "party": "REP",
+        "pct": 56.24,
+        "unopposed": false
+      }
+    },
+    "113": {
+      "districtNumber": 113,
+      "districtName": "Connecticut House District 113",
+      "census": {
+        "censusName": "State House District 113 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111796,
+        "medianAge": 43.2,
+        "totalPopulation": 25608,
+        "collegePct": 42.87,
+        "renterRatePct": 28.55,
+        "race": {
+          "whitePct": 70.57,
+          "nonHispanicWhitePct": 66.8,
+          "blackPct": 7.65,
+          "asianPct": 9.88,
+          "hispanicPct": 13.87
+        }
+      },
+      "election": {
+        "winner": "Jason Perillo",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "114": {
+      "districtNumber": 114,
+      "districtName": "Connecticut House District 114",
+      "census": {
+        "censusName": "State House District 114 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 132405,
+        "medianAge": 48.1,
+        "totalPopulation": 22943,
+        "collegePct": 57.92,
+        "renterRatePct": 11.02,
+        "race": {
+          "whitePct": 76.14,
+          "nonHispanicWhitePct": 73.06,
+          "blackPct": 5.25,
+          "asianPct": 7.41,
+          "hispanicPct": 8.86
+        }
+      },
+      "election": {
+        "winner": "Mary Welander",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "115": {
+      "districtNumber": 115,
+      "districtName": "Connecticut House District 115",
+      "census": {
+        "censusName": "State House District 115 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68078,
+        "medianAge": 37.1,
+        "totalPopulation": 22698,
+        "collegePct": 26.55,
+        "renterRatePct": 59.2,
+        "race": {
+          "whitePct": 53.57,
+          "nonHispanicWhitePct": 47.2,
+          "blackPct": 19.58,
+          "asianPct": 4.36,
+          "hispanicPct": 26.68
+        }
+      },
+      "election": {
+        "winner": "William J. Heffernan III",
+        "party": "DEM",
+        "pct": 88.74,
+        "unopposed": false
+      }
+    },
+    "116": {
+      "districtNumber": 116,
+      "districtName": "Connecticut House District 116",
+      "census": {
+        "censusName": "State House District 116 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64569,
+        "medianAge": 31.8,
+        "totalPopulation": 21763,
+        "collegePct": 27.88,
+        "renterRatePct": 55.16,
+        "race": {
+          "whitePct": 34.15,
+          "nonHispanicWhitePct": 29.94,
+          "blackPct": 27.24,
+          "asianPct": 6.39,
+          "hispanicPct": 33.27
+        }
+      },
+      "election": {
+        "winner": "Trenee McGee",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "117": {
+      "districtNumber": 117,
+      "districtName": "Connecticut House District 117",
+      "census": {
+        "censusName": "State House District 117 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119092,
+        "medianAge": 47.8,
+        "totalPopulation": 24604,
+        "collegePct": 44.11,
+        "renterRatePct": 16.28,
+        "race": {
+          "whitePct": 86.42,
+          "nonHispanicWhitePct": 84.38,
+          "blackPct": 2.84,
+          "asianPct": 2.95,
+          "hispanicPct": 8.72
+        }
+      },
+      "election": {
+        "winner": "MJ Shannon",
+        "party": "DEM",
+        "pct": 52,
+        "unopposed": false
+      }
+    },
+    "118": {
+      "districtNumber": 118,
+      "districtName": "Connecticut House District 118",
+      "census": {
+        "censusName": "State House District 118 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98372,
+        "medianAge": 45.5,
+        "totalPopulation": 22876,
+        "collegePct": 46.2,
+        "renterRatePct": 34.51,
+        "race": {
+          "whitePct": 79.75,
+          "nonHispanicWhitePct": 76.89,
+          "blackPct": 4.24,
+          "asianPct": 4.38,
+          "hispanicPct": 10.44
+        }
+      },
+      "election": {
+        "winner": "Frank Smith",
+        "party": "DEM",
+        "pct": 56.29,
+        "unopposed": false
+      }
+    },
+    "119": {
+      "districtNumber": 119,
+      "districtName": "Connecticut House District 119",
+      "census": {
+        "censusName": "State House District 119 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 134816,
+        "medianAge": 44.8,
+        "totalPopulation": 24153,
+        "collegePct": 53.14,
+        "renterRatePct": 10.69,
+        "race": {
+          "whitePct": 80.98,
+          "nonHispanicWhitePct": 79.09,
+          "blackPct": 2.82,
+          "asianPct": 7.45,
+          "hispanicPct": 7.73
+        }
+      },
+      "election": {
+        "winner": "Kathy Kennedy",
+        "party": "REP",
+        "pct": 57.37,
+        "unopposed": false
+      }
+    },
+    "120": {
+      "districtNumber": 120,
+      "districtName": "Connecticut House District 120",
+      "census": {
+        "censusName": "State House District 120 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 114972,
+        "medianAge": 45.9,
+        "totalPopulation": 24409,
+        "collegePct": 43.6,
+        "renterRatePct": 10.55,
+        "race": {
+          "whitePct": 76.38,
+          "nonHispanicWhitePct": 71.98,
+          "blackPct": 7.33,
+          "asianPct": 2.4,
+          "hispanicPct": 15.05
+        }
+      },
+      "election": {
+        "winner": "Kaitlyn Shake",
+        "party": "DEM",
+        "pct": 54.12,
+        "unopposed": false
+      }
+    },
+    "121": {
+      "districtNumber": 121,
+      "districtName": "Connecticut House District 121",
+      "census": {
+        "censusName": "State House District 121 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80705,
+        "medianAge": 43.6,
+        "totalPopulation": 22592,
+        "collegePct": 28.78,
+        "renterRatePct": 26.48,
+        "race": {
+          "whitePct": 57.39,
+          "nonHispanicWhitePct": 51.23,
+          "blackPct": 19.37,
+          "asianPct": 2.53,
+          "hispanicPct": 26.54
+        }
+      },
+      "election": {
+        "winner": "Joseph P. Gresko",
+        "party": "DEM",
+        "pct": 66.46,
+        "unopposed": false
+      }
+    },
+    "122": {
+      "districtNumber": 122,
+      "districtName": "Connecticut House District 122",
+      "census": {
+        "censusName": "State House District 122 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105862,
+        "medianAge": 51,
+        "totalPopulation": 23864,
+        "collegePct": 45.2,
+        "renterRatePct": 17.26,
+        "race": {
+          "whitePct": 75.49,
+          "nonHispanicWhitePct": 73.94,
+          "blackPct": 4.35,
+          "asianPct": 5.93,
+          "hispanicPct": 8.54
+        }
+      },
+      "election": {
+        "winner": "Ben McGorty",
+        "party": "REP",
+        "pct": 56.54,
+        "unopposed": false
+      }
+    },
+    "123": {
+      "districtNumber": 123,
+      "districtName": "Connecticut House District 123",
+      "census": {
+        "censusName": "State House District 123 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 171916,
+        "medianAge": 42.4,
+        "totalPopulation": 24717,
+        "collegePct": 59.05,
+        "renterRatePct": 10.41,
+        "race": {
+          "whitePct": 79.16,
+          "nonHispanicWhitePct": 77.67,
+          "blackPct": 1.78,
+          "asianPct": 9.98,
+          "hispanicPct": 6.48
+        }
+      },
+      "election": {
+        "winner": "David J. Rutigliano",
+        "party": "REP",
+        "pct": 54.83,
+        "unopposed": false
+      }
+    },
+    "124": {
+      "districtNumber": 124,
+      "districtName": "Connecticut House District 124",
+      "census": {
+        "censusName": "State House District 124 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44668,
+        "medianAge": 35.1,
+        "totalPopulation": 21794,
+        "collegePct": 12.12,
+        "renterRatePct": 58.43,
+        "race": {
+          "whitePct": 22.12,
+          "nonHispanicWhitePct": 11.06,
+          "blackPct": 30.17,
+          "asianPct": 4.86,
+          "hispanicPct": 53.46
+        }
+      },
+      "election": {
+        "winner": "Andre Baker, Jr.",
+        "party": "DEM",
+        "pct": 70.86,
+        "unopposed": false
+      }
+    },
+    "125": {
+      "districtNumber": 125,
+      "districtName": "Connecticut House District 125",
+      "census": {
+        "censusName": "State House District 125 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 207801,
+        "medianAge": 44.5,
+        "totalPopulation": 22487,
+        "collegePct": 75.39,
+        "renterRatePct": 12.67,
+        "race": {
+          "whitePct": 82.15,
+          "nonHispanicWhitePct": 80.56,
+          "blackPct": 1.66,
+          "asianPct": 6.24,
+          "hispanicPct": 6.56
+        }
+      },
+      "election": {
+        "winner": "Tom O'Dea",
+        "party": "REP",
+        "pct": 56.36,
+        "unopposed": false
+      }
+    },
+    "126": {
+      "districtNumber": 126,
+      "districtName": "Connecticut House District 126",
+      "census": {
+        "censusName": "State House District 126 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72101,
+        "medianAge": 38.6,
+        "totalPopulation": 22992,
+        "collegePct": 23.45,
+        "renterRatePct": 29.84,
+        "race": {
+          "whitePct": 33.19,
+          "nonHispanicWhitePct": 22.87,
+          "blackPct": 28.84,
+          "asianPct": 3.72,
+          "hispanicPct": 41.77
+        }
+      },
+      "election": {
+        "winner": "Fred Gee, Jr.",
+        "party": "DEM",
+        "pct": 77.64,
+        "unopposed": false
+      }
+    },
+    "127": {
+      "districtNumber": 127,
+      "districtName": "Connecticut House District 127",
+      "census": {
+        "censusName": "State House District 127 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64661,
+        "medianAge": 40,
+        "totalPopulation": 28004,
+        "collegePct": 24.9,
+        "renterRatePct": 44.53,
+        "race": {
+          "whitePct": 49.21,
+          "nonHispanicWhitePct": 40.64,
+          "blackPct": 15.1,
+          "asianPct": 7.95,
+          "hispanicPct": 33.58
+        }
+      },
+      "election": {
+        "winner": "Marcus A. Brown",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "128": {
+      "districtNumber": 128,
+      "districtName": "Connecticut House District 128",
+      "census": {
+        "censusName": "State House District 128 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43391,
+        "medianAge": 33.4,
+        "totalPopulation": 20774,
+        "collegePct": 12.34,
+        "renterRatePct": 77.09,
+        "race": {
+          "whitePct": 25.58,
+          "nonHispanicWhitePct": 13.57,
+          "blackPct": 21.85,
+          "asianPct": 1.89,
+          "hispanicPct": 64.02
+        }
+      },
+      "election": {
+        "winner": "Christopher Rosario",
+        "party": "DEM",
+        "pct": 77.8,
+        "unopposed": false
+      }
+    },
+    "129": {
+      "districtNumber": 129,
+      "districtName": "Connecticut House District 129",
+      "census": {
+        "censusName": "State House District 129 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69958,
+        "medianAge": 35.7,
+        "totalPopulation": 25991,
+        "collegePct": 38.31,
+        "renterRatePct": 62.06,
+        "race": {
+          "whitePct": 43.58,
+          "nonHispanicWhitePct": 38.09,
+          "blackPct": 18.66,
+          "asianPct": 6.32,
+          "hispanicPct": 34.15
+        }
+      },
+      "election": {
+        "winner": "Steve Stafstrom",
+        "party": "DEM",
+        "pct": 76.36,
+        "unopposed": false
+      }
+    },
+    "130": {
+      "districtNumber": 130,
+      "districtName": "Connecticut House District 130",
+      "census": {
+        "censusName": "State House District 130 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 40786,
+        "medianAge": 34.5,
+        "totalPopulation": 22815,
+        "collegePct": 17.46,
+        "renterRatePct": 75.62,
+        "race": {
+          "whitePct": 23.74,
+          "nonHispanicWhitePct": 13.6,
+          "blackPct": 24.98,
+          "asianPct": 7.64,
+          "hispanicPct": 52.69
+        }
+      },
+      "election": {
+        "winner": "Antonio D. Felipe",
+        "party": "DEM",
+        "pct": 80.06,
+        "unopposed": false
+      }
+    },
+    "131": {
+      "districtNumber": 131,
+      "districtName": "Connecticut House District 131",
+      "census": {
+        "censusName": "State House District 131 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115056,
+        "medianAge": 43.1,
+        "totalPopulation": 22673,
+        "collegePct": 42.25,
+        "renterRatePct": 18.94,
+        "race": {
+          "whitePct": 77.68,
+          "nonHispanicWhitePct": 69.57,
+          "blackPct": 6.95,
+          "asianPct": 3.06,
+          "hispanicPct": 15.27
+        }
+      },
+      "election": {
+        "winner": "Arnold Jensen",
+        "party": "REP",
+        "pct": 57.01,
+        "unopposed": false
+      }
+    },
+    "132": {
+      "districtNumber": 132,
+      "districtName": "Connecticut House District 132",
+      "census": {
+        "censusName": "State House District 132 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 193657,
+        "medianAge": 37.8,
+        "totalPopulation": 25132,
+        "collegePct": 76.8,
+        "renterRatePct": 18.11,
+        "race": {
+          "whitePct": 88.19,
+          "nonHispanicWhitePct": 86.93,
+          "blackPct": 0.52,
+          "asianPct": 4.55,
+          "hispanicPct": 5.26
+        }
+      },
+      "election": {
+        "winner": "Jennifer Leeper",
+        "party": "DEM",
+        "pct": 57.63,
+        "unopposed": false
+      }
+    },
+    "133": {
+      "districtNumber": 133,
+      "districtName": "Connecticut House District 133",
+      "census": {
+        "censusName": "State House District 133 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100528,
+        "medianAge": 45.6,
+        "totalPopulation": 24711,
+        "collegePct": 55.5,
+        "renterRatePct": 29.33,
+        "race": {
+          "whitePct": 75.1,
+          "nonHispanicWhitePct": 71.6,
+          "blackPct": 3.52,
+          "asianPct": 4.86,
+          "hispanicPct": 14.38
+        }
+      },
+      "election": {
+        "winner": "Cristin McCarthy Vahey",
+        "party": "DEM",
+        "pct": 65.62,
+        "unopposed": false
+      }
+    },
+    "134": {
+      "districtNumber": 134,
+      "districtName": "Connecticut House District 134",
+      "census": {
+        "censusName": "State House District 134 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 183678,
+        "medianAge": 40.4,
+        "totalPopulation": 25551,
+        "collegePct": 73.44,
+        "renterRatePct": 6.55,
+        "race": {
+          "whitePct": 86.91,
+          "nonHispanicWhitePct": 85.11,
+          "blackPct": 1.03,
+          "asianPct": 5.15,
+          "hispanicPct": 5.51
+        }
+      },
+      "election": {
+        "winner": "Sarah Keitt",
+        "party": "DEM",
+        "pct": 52.14,
+        "unopposed": false
+      }
+    },
+    "135": {
+      "districtNumber": 135,
+      "districtName": "Connecticut House District 135",
+      "census": {
+        "censusName": "State House District 135 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 200707,
+        "medianAge": 47,
+        "totalPopulation": 23845,
+        "collegePct": 75.47,
+        "renterRatePct": 7.41,
+        "race": {
+          "whitePct": 83.48,
+          "nonHispanicWhitePct": 81.23,
+          "blackPct": 2.07,
+          "asianPct": 4.4,
+          "hispanicPct": 7.91
+        }
+      },
+      "election": {
+        "winner": "Anne Hughes",
+        "party": "DEM",
+        "pct": 60.61,
+        "unopposed": false
+      }
+    },
+    "136": {
+      "districtNumber": 136,
+      "districtName": "Connecticut House District 136",
+      "census": {
+        "censusName": "State House District 136 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 250001,
+        "medianAge": 45.9,
+        "totalPopulation": 23397,
+        "collegePct": 77.46,
+        "renterRatePct": 11.94,
+        "race": {
+          "whitePct": 81.25,
+          "nonHispanicWhitePct": 78.63,
+          "blackPct": 2.37,
+          "asianPct": 4.83,
+          "hispanicPct": 9.45
+        }
+      },
+      "election": {
+        "winner": "Jonathan Steinberg",
+        "party": "DEM",
+        "pct": 67.63,
+        "unopposed": false
+      }
+    },
+    "137": {
+      "districtNumber": 137,
+      "districtName": "Connecticut House District 137",
+      "census": {
+        "censusName": "State House District 137 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101680,
+        "medianAge": 38.8,
+        "totalPopulation": 23840,
+        "collegePct": 42.86,
+        "renterRatePct": 55.46,
+        "race": {
+          "whitePct": 49.55,
+          "nonHispanicWhitePct": 42.67,
+          "blackPct": 18.43,
+          "asianPct": 6.33,
+          "hispanicPct": 29.19
+        }
+      },
+      "election": {
+        "winner": "Kadeem Roberts",
+        "party": "DEM",
+        "pct": 66.85,
+        "unopposed": false
+      }
+    },
+    "138": {
+      "districtNumber": 138,
+      "districtName": "Connecticut House District 138",
+      "census": {
+        "censusName": "State House District 138 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100800,
+        "medianAge": 42.7,
+        "totalPopulation": 23731,
+        "collegePct": 37.97,
+        "renterRatePct": 32.08,
+        "race": {
+          "whitePct": 52.19,
+          "nonHispanicWhitePct": 48.34,
+          "blackPct": 12.03,
+          "asianPct": 3.91,
+          "hispanicPct": 30.02
+        }
+      },
+      "election": {
+        "winner": "Kenneth M. Gucker",
+        "party": "DEM",
+        "pct": 50.77,
+        "unopposed": false
+      }
+    },
+    "139": {
+      "districtNumber": 139,
+      "districtName": "Connecticut House District 139",
+      "census": {
+        "censusName": "State House District 139 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77930,
+        "medianAge": 42.9,
+        "totalPopulation": 24535,
+        "collegePct": 26.93,
+        "renterRatePct": 29.9,
+        "race": {
+          "whitePct": 71.53,
+          "nonHispanicWhitePct": 65.47,
+          "blackPct": 7.25,
+          "asianPct": 4.28,
+          "hispanicPct": 17.01
+        }
+      },
+      "election": {
+        "winner": "Kevin Ryan",
+        "party": "DEM",
+        "pct": 54.67,
+        "unopposed": false
+      }
+    },
+    "140": {
+      "districtNumber": 140,
+      "districtName": "Connecticut House District 140",
+      "census": {
+        "censusName": "State House District 140 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75443,
+        "medianAge": 33.4,
+        "totalPopulation": 25509,
+        "collegePct": 30.26,
+        "renterRatePct": 61.48,
+        "race": {
+          "whitePct": 32.23,
+          "nonHispanicWhitePct": 17.2,
+          "blackPct": 24.5,
+          "asianPct": 3.47,
+          "hispanicPct": 52.56
+        }
+      },
+      "election": {
+        "winner": "Travis Simms",
+        "party": "DEM",
+        "pct": 73.16,
+        "unopposed": false
+      }
+    },
+    "141": {
+      "districtNumber": 141,
+      "districtName": "Connecticut House District 141",
+      "census": {
+        "censusName": "State House District 141 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 250001,
+        "medianAge": 40.3,
+        "totalPopulation": 23717,
+        "collegePct": 85.74,
+        "renterRatePct": 16.62,
+        "race": {
+          "whitePct": 84.8,
+          "nonHispanicWhitePct": 83.27,
+          "blackPct": 0.43,
+          "asianPct": 6.47,
+          "hispanicPct": 5.13
+        }
+      },
+      "election": {
+        "winner": "Tracy Marra",
+        "party": "REP",
+        "pct": 58.14,
+        "unopposed": false
+      }
+    },
+    "142": {
+      "districtNumber": 142,
+      "districtName": "Connecticut House District 142",
+      "census": {
+        "censusName": "State House District 142 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 133342,
+        "medianAge": 43.1,
+        "totalPopulation": 22539,
+        "collegePct": 57.07,
+        "renterRatePct": 31.36,
+        "race": {
+          "whitePct": 62.64,
+          "nonHispanicWhitePct": 59.53,
+          "blackPct": 14.87,
+          "asianPct": 5.67,
+          "hispanicPct": 16.74
+        }
+      },
+      "election": {
+        "winner": "Lucy Dathan",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "143": {
+      "districtNumber": 143,
+      "districtName": "Connecticut House District 143",
+      "census": {
+        "censusName": "State House District 143 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 136369,
+        "medianAge": 44.7,
+        "totalPopulation": 23431,
+        "collegePct": 53.12,
+        "renterRatePct": 28.37,
+        "race": {
+          "whitePct": 64.67,
+          "nonHispanicWhitePct": 60.84,
+          "blackPct": 11.33,
+          "asianPct": 3.82,
+          "hispanicPct": 20.78
+        }
+      },
+      "election": {
+        "winner": "Dominique Johnson",
+        "party": "DEM",
+        "pct": 61.45,
+        "unopposed": false
+      }
+    },
+    "144": {
+      "districtNumber": 144,
+      "districtName": "Connecticut House District 144",
+      "census": {
+        "censusName": "State House District 144 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113323,
+        "medianAge": 38,
+        "totalPopulation": 22982,
+        "collegePct": 64.8,
+        "renterRatePct": 56.13,
+        "race": {
+          "whitePct": 55.49,
+          "nonHispanicWhitePct": 48.38,
+          "blackPct": 15.08,
+          "asianPct": 10.85,
+          "hispanicPct": 22.52
+        }
+      },
+      "election": {
+        "winner": "Hubert Delany",
+        "party": "DEM",
+        "pct": 64.47,
+        "unopposed": false
+      }
+    },
+    "145": {
+      "districtNumber": 145,
+      "districtName": "Connecticut House District 145",
+      "census": {
+        "censusName": "State House District 145 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76235,
+        "medianAge": 38.2,
+        "totalPopulation": 27364,
+        "collegePct": 33.84,
+        "renterRatePct": 66.18,
+        "race": {
+          "whitePct": 22.77,
+          "nonHispanicWhitePct": 14.43,
+          "blackPct": 38.71,
+          "asianPct": 5.01,
+          "hispanicPct": 41.66
+        }
+      },
+      "election": {
+        "winner": "Corey P. Paris",
+        "party": "DEM",
+        "pct": 75.78,
+        "unopposed": false
+      }
+    },
+    "146": {
+      "districtNumber": 146,
+      "districtName": "Connecticut House District 146",
+      "census": {
+        "censusName": "State House District 146 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104931,
+        "medianAge": 33.1,
+        "totalPopulation": 25416,
+        "collegePct": 54.98,
+        "renterRatePct": 79.01,
+        "race": {
+          "whitePct": 43.88,
+          "nonHispanicWhitePct": 38.15,
+          "blackPct": 24.7,
+          "asianPct": 8.68,
+          "hispanicPct": 26.1
+        }
+      },
+      "election": {
+        "winner": "Eilish Collins Main",
+        "party": "DEM",
+        "pct": 63.28,
+        "unopposed": false
+      }
+    },
+    "147": {
+      "districtNumber": 147,
+      "districtName": "Connecticut House District 147",
+      "census": {
+        "censusName": "State House District 147 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 126710,
+        "medianAge": 40.9,
+        "totalPopulation": 23103,
+        "collegePct": 56.35,
+        "renterRatePct": 30.26,
+        "race": {
+          "whitePct": 62.56,
+          "nonHispanicWhitePct": 57.07,
+          "blackPct": 13.53,
+          "asianPct": 4.61,
+          "hispanicPct": 21.85
+        }
+      },
+      "election": {
+        "winner": "Matt Blumenthal",
+        "party": "DEM",
+        "pct": 60.95,
+        "unopposed": false
+      }
+    },
+    "148": {
+      "districtNumber": 148,
+      "districtName": "Connecticut House District 148",
+      "census": {
+        "censusName": "State House District 148 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88846,
+        "medianAge": 37.1,
+        "totalPopulation": 22304,
+        "collegePct": 39.99,
+        "renterRatePct": 44.49,
+        "race": {
+          "whitePct": 47.5,
+          "nonHispanicWhitePct": 38.85,
+          "blackPct": 12.8,
+          "asianPct": 7.23,
+          "hispanicPct": 38.55
+        }
+      },
+      "election": {
+        "winner": "Jonathan Jacobson",
+        "party": "DEM",
+        "pct": 64.33,
+        "unopposed": false
+      }
+    },
+    "149": {
+      "districtNumber": 149,
+      "districtName": "Connecticut House District 149",
+      "census": {
+        "censusName": "State House District 149 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 230167,
+        "medianAge": 49.5,
+        "totalPopulation": 22834,
+        "collegePct": 70.13,
+        "renterRatePct": 16.73,
+        "race": {
+          "whitePct": 84.23,
+          "nonHispanicWhitePct": 81.9,
+          "blackPct": 3.42,
+          "asianPct": 4.85,
+          "hispanicPct": 7.31
+        }
+      },
+      "election": {
+        "winner": "Tina Courpas",
+        "party": "REP",
+        "pct": 51.8,
+        "unopposed": false
+      }
+    },
+    "150": {
+      "districtNumber": 150,
+      "districtName": "Connecticut House District 150",
+      "census": {
+        "censusName": "State House District 150 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 149046,
+        "medianAge": 41.2,
+        "totalPopulation": 23503,
+        "collegePct": 69.02,
+        "renterRatePct": 44.78,
+        "race": {
+          "whitePct": 66.91,
+          "nonHispanicWhitePct": 62.38,
+          "blackPct": 6.11,
+          "asianPct": 6.26,
+          "hispanicPct": 18.82
+        }
+      },
+      "election": {
+        "winner": "Steve Meskers",
+        "party": "DEM",
+        "pct": 56.24,
+        "unopposed": false
+      }
+    },
+    "151": {
+      "districtNumber": 151,
+      "districtName": "Connecticut House District 151",
+      "census": {
+        "censusName": "State House District 151 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 228833,
+        "medianAge": 41.2,
+        "totalPopulation": 24734,
+        "collegePct": 77.17,
+        "renterRatePct": 23.8,
+        "race": {
+          "whitePct": 72.5,
+          "nonHispanicWhitePct": 67.18,
+          "blackPct": 3.23,
+          "asianPct": 9.79,
+          "hispanicPct": 12.66
+        }
+      },
+      "election": {
+        "winner": "Hector Arzeno",
+        "party": "DEM",
+        "pct": 51.54,
+        "unopposed": false
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Connecticut Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56821,
+        "medianAge": 35.5,
+        "totalPopulation": 93940,
+        "collegePct": 27.64,
+        "renterRatePct": 59.96,
+        "race": {
+          "whitePct": 43.25,
+          "nonHispanicWhitePct": 31.64,
+          "blackPct": 17.55,
+          "asianPct": 3.29,
+          "hispanicPct": 47.14
+        }
+      },
+      "election": {
+        "winner": "John W. Fonfara",
+        "party": "DEM",
+        "pct": 87.29,
+        "unopposed": false
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Connecticut Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64050,
+        "medianAge": 38.7,
+        "totalPopulation": 95496,
+        "collegePct": 30.29,
+        "renterRatePct": 51.24,
+        "race": {
+          "whitePct": 29.22,
+          "nonHispanicWhitePct": 25.66,
+          "blackPct": 51.03,
+          "asianPct": 2.64,
+          "hispanicPct": 17.37
+        }
+      },
+      "election": {
+        "winner": "Douglas McCrory",
+        "party": "DEM",
+        "pct": 79.14,
+        "unopposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Connecticut Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88348,
+        "medianAge": 39.8,
+        "totalPopulation": 100807,
+        "collegePct": 34.97,
+        "renterRatePct": 32.26,
+        "race": {
+          "whitePct": 57.99,
+          "nonHispanicWhitePct": 50.98,
+          "blackPct": 15.08,
+          "asianPct": 8.7,
+          "hispanicPct": 22.47
+        }
+      },
+      "election": {
+        "winner": "Saud Anwar",
+        "party": "DEM",
+        "pct": 63.73,
+        "unopposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Connecticut Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100508,
+        "medianAge": 40.3,
+        "totalPopulation": 102605,
+        "collegePct": 50.17,
+        "renterRatePct": 33.21,
+        "race": {
+          "whitePct": 67.41,
+          "nonHispanicWhitePct": 64.69,
+          "blackPct": 10.11,
+          "asianPct": 9.8,
+          "hispanicPct": 12.38
+        }
+      },
+      "election": {
+        "winner": "M.D. Rahman",
+        "party": "DEM",
+        "pct": 64.24,
+        "unopposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Connecticut Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 130300,
+        "medianAge": 40.8,
+        "totalPopulation": 99134,
+        "collegePct": 65.16,
+        "renterRatePct": 28.31,
+        "race": {
+          "whitePct": 73.91,
+          "nonHispanicWhitePct": 70.37,
+          "blackPct": 6.01,
+          "asianPct": 9.17,
+          "hispanicPct": 10.24
+        }
+      },
+      "election": {
+        "winner": "Derek Slap",
+        "party": "DEM",
+        "pct": 68.16,
+        "unopposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Connecticut Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67209,
+        "medianAge": 37.7,
+        "totalPopulation": 96595,
+        "collegePct": 25.91,
+        "renterRatePct": 46.9,
+        "race": {
+          "whitePct": 60.72,
+          "nonHispanicWhitePct": 50.22,
+          "blackPct": 10.46,
+          "asianPct": 3.36,
+          "hispanicPct": 33.81
+        }
+      },
+      "election": {
+        "winner": "Rick Lopes",
+        "party": "DEM",
+        "pct": 58.44,
+        "unopposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Connecticut Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99788,
+        "medianAge": 42.7,
+        "totalPopulation": 99609,
+        "collegePct": 36.27,
+        "renterRatePct": 18.34,
+        "race": {
+          "whitePct": 80.66,
+          "nonHispanicWhitePct": 78.21,
+          "blackPct": 5.39,
+          "asianPct": 2.68,
+          "hispanicPct": 8.28
+        }
+      },
+      "election": {
+        "winner": "John A. Kissel",
+        "party": "REP",
+        "pct": 51.92,
+        "unopposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Connecticut Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112814,
+        "medianAge": 44.7,
+        "totalPopulation": 99144,
+        "collegePct": 52.18,
+        "renterRatePct": 22.46,
+        "race": {
+          "whitePct": 82.95,
+          "nonHispanicWhitePct": 80.95,
+          "blackPct": 2.99,
+          "asianPct": 5.1,
+          "hispanicPct": 6.81
+        }
+      },
+      "election": {
+        "winner": "Paul Honig",
+        "party": "DEM",
+        "pct": 50.28,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Connecticut Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89207,
+        "medianAge": 42.3,
+        "totalPopulation": 100747,
+        "collegePct": 43.67,
+        "renterRatePct": 34.12,
+        "race": {
+          "whitePct": 72.57,
+          "nonHispanicWhitePct": 69.47,
+          "blackPct": 8.43,
+          "asianPct": 7.97,
+          "hispanicPct": 10.24
+        }
+      },
+      "election": {
+        "winner": "Matthew Lesser",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Connecticut Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54755,
+        "medianAge": 30.7,
+        "totalPopulation": 97806,
+        "collegePct": 32.03,
+        "renterRatePct": 69.67,
+        "race": {
+          "whitePct": 31.11,
+          "nonHispanicWhitePct": 26.19,
+          "blackPct": 36.32,
+          "asianPct": 4.75,
+          "hispanicPct": 29.18
+        }
+      },
+      "election": {
+        "winner": "Gary Winfield",
+        "party": "DEM",
+        "pct": 82.56,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Connecticut Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68176,
+        "medianAge": 34.6,
+        "totalPopulation": 93679,
+        "collegePct": 45.71,
+        "renterRatePct": 61.36,
+        "race": {
+          "whitePct": 53.73,
+          "nonHispanicWhitePct": 46.07,
+          "blackPct": 18.29,
+          "asianPct": 5.91,
+          "hispanicPct": 26.44
+        }
+      },
+      "election": {
+        "winner": "Martin M. Looney",
+        "party": "DEM",
+        "pct": 77.77,
+        "unopposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Connecticut Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118520,
+        "medianAge": 51.5,
+        "totalPopulation": 97492,
+        "collegePct": 52.45,
+        "renterRatePct": 19.11,
+        "race": {
+          "whitePct": 87.89,
+          "nonHispanicWhitePct": 86.52,
+          "blackPct": 1.58,
+          "asianPct": 3.35,
+          "hispanicPct": 4.51
+        }
+      },
+      "election": {
+        "winner": "Christine Cohen",
+        "party": "DEM",
+        "pct": 56.33,
+        "unopposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Connecticut Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80307,
+        "medianAge": 40.7,
+        "totalPopulation": 98090,
+        "collegePct": 34.94,
+        "renterRatePct": 32.8,
+        "race": {
+          "whitePct": 64.4,
+          "nonHispanicWhitePct": 57.81,
+          "blackPct": 7.15,
+          "asianPct": 4.66,
+          "hispanicPct": 26.51
+        }
+      },
+      "election": {
+        "winner": "Jan Hochadel",
+        "party": "DEM",
+        "pct": 53.66,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Connecticut Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106571,
+        "medianAge": 44.9,
+        "totalPopulation": 94552,
+        "collegePct": 45.47,
+        "renterRatePct": 25.54,
+        "race": {
+          "whitePct": 77.83,
+          "nonHispanicWhitePct": 75,
+          "blackPct": 5.55,
+          "asianPct": 5.17,
+          "hispanicPct": 11.54
+        }
+      },
+      "election": {
+        "winner": "James  Maroney",
+        "party": "DEM",
+        "pct": 56,
+        "unopposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Connecticut Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54605,
+        "medianAge": 37.6,
+        "totalPopulation": 103514,
+        "collegePct": 19.64,
+        "renterRatePct": 52.69,
+        "race": {
+          "whitePct": 44.96,
+          "nonHispanicWhitePct": 34.63,
+          "blackPct": 24.14,
+          "asianPct": 2.57,
+          "hispanicPct": 34.54
+        }
+      },
+      "election": {
+        "winner": "Joan V. Hartley",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Connecticut Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99342,
+        "medianAge": 44.1,
+        "totalPopulation": 102265,
+        "collegePct": 36.56,
+        "renterRatePct": 24.32,
+        "race": {
+          "whitePct": 76.25,
+          "nonHispanicWhitePct": 72.07,
+          "blackPct": 8.08,
+          "asianPct": 3.03,
+          "hispanicPct": 11.95
+        }
+      },
+      "election": {
+        "winner": "Rob Sampson",
+        "party": "REP",
+        "pct": 56.58,
+        "unopposed": false
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Connecticut Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93946,
+        "medianAge": 42,
+        "totalPopulation": 100570,
+        "collegePct": 37.79,
+        "renterRatePct": 31.28,
+        "race": {
+          "whitePct": 60.85,
+          "nonHispanicWhitePct": 56.22,
+          "blackPct": 19.52,
+          "asianPct": 3.22,
+          "hispanicPct": 17.88
+        }
+      },
+      "election": {
+        "winner": "Jorge Cabrera",
+        "party": "DEM",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Connecticut Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86587,
+        "medianAge": 42.8,
+        "totalPopulation": 99184,
+        "collegePct": 34.79,
+        "renterRatePct": 32.88,
+        "race": {
+          "whitePct": 82.83,
+          "nonHispanicWhitePct": 79.89,
+          "blackPct": 3.33,
+          "asianPct": 3.5,
+          "hispanicPct": 7.68
+        }
+      },
+      "election": {
+        "winner": "Heather Somers",
+        "party": "REP",
+        "pct": 59.03,
+        "unopposed": false
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Connecticut Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87930,
+        "medianAge": 41.1,
+        "totalPopulation": 98274,
+        "collegePct": 30.96,
+        "renterRatePct": 28.38,
+        "race": {
+          "whitePct": 76.24,
+          "nonHispanicWhitePct": 71.35,
+          "blackPct": 6.11,
+          "asianPct": 4.12,
+          "hispanicPct": 13.24
+        }
+      },
+      "election": {
+        "winner": "Catherine A. Osten",
+        "party": "DEM",
+        "pct": 56.92,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Connecticut Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93486,
+        "medianAge": 43.5,
+        "totalPopulation": 95957,
+        "collegePct": 40.14,
+        "renterRatePct": 30.5,
+        "race": {
+          "whitePct": 75.95,
+          "nonHispanicWhitePct": 72.97,
+          "blackPct": 5.75,
+          "asianPct": 3.67,
+          "hispanicPct": 13.51
+        }
+      },
+      "election": {
+        "winner": "Martha Marx",
+        "party": "DEM",
+        "pct": 56.15,
+        "unopposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Connecticut Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112799,
+        "medianAge": 45.2,
+        "totalPopulation": 105997,
+        "collegePct": 42.94,
+        "renterRatePct": 18.41,
+        "race": {
+          "whitePct": 74.6,
+          "nonHispanicWhitePct": 71.57,
+          "blackPct": 6.64,
+          "asianPct": 5.32,
+          "hispanicPct": 13.22
+        }
+      },
+      "election": {
+        "winner": "Kevin C. Kelly",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Connecticut Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91304,
+        "medianAge": 40.3,
+        "totalPopulation": 104813,
+        "collegePct": 44.39,
+        "renterRatePct": 32.74,
+        "race": {
+          "whitePct": 59.46,
+          "nonHispanicWhitePct": 54.77,
+          "blackPct": 10.97,
+          "asianPct": 7.89,
+          "hispanicPct": 22.12
+        }
+      },
+      "election": {
+        "winner": "Sujata Gadkar-Wilcox",
+        "party": "DEM",
+        "pct": 56.13,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Connecticut Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48593,
+        "medianAge": 35.4,
+        "totalPopulation": 92969,
+        "collegePct": 15.45,
+        "renterRatePct": 63.14,
+        "race": {
+          "whitePct": 27.32,
+          "nonHispanicWhitePct": 16.31,
+          "blackPct": 26.65,
+          "asianPct": 4.04,
+          "hispanicPct": 52.4
+        }
+      },
+      "election": {
+        "winner": "Herron Gaston",
+        "party": "DEM",
+        "pct": 76.47,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Connecticut Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92188,
+        "medianAge": 40.9,
+        "totalPopulation": 103454,
+        "collegePct": 38.88,
+        "renterRatePct": 39.55,
+        "race": {
+          "whitePct": 53.29,
+          "nonHispanicWhitePct": 49.85,
+          "blackPct": 10.98,
+          "asianPct": 4.55,
+          "hispanicPct": 27.11
+        }
+      },
+      "election": {
+        "winner": "Julie Kushner",
+        "party": "DEM",
+        "pct": 53.48,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Connecticut Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 110494,
+        "medianAge": 40.2,
+        "totalPopulation": 102142,
+        "collegePct": 48.57,
+        "renterRatePct": 42.96,
+        "race": {
+          "whitePct": 53.95,
+          "nonHispanicWhitePct": 47.03,
+          "blackPct": 16.33,
+          "asianPct": 4.76,
+          "hispanicPct": 28.61
+        }
+      },
+      "election": {
+        "winner": "Bob Duff",
+        "party": "DEM",
+        "pct": 64.61,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Connecticut Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 193925,
+        "medianAge": 44.3,
+        "totalPopulation": 101576,
+        "collegePct": 72.28,
+        "renterRatePct": 16.68,
+        "race": {
+          "whitePct": 78.15,
+          "nonHispanicWhitePct": 75.08,
+          "blackPct": 4.82,
+          "asianPct": 4.64,
+          "hispanicPct": 10.57
+        }
+      },
+      "election": {
+        "winner": "Ceci Maher",
+        "party": "DEM",
+        "pct": 61.13,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Connecticut Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103076,
+        "medianAge": 37,
+        "totalPopulation": 106805,
+        "collegePct": 50.86,
+        "renterRatePct": 57.97,
+        "race": {
+          "whitePct": 45.5,
+          "nonHispanicWhitePct": 38.54,
+          "blackPct": 21.19,
+          "asianPct": 8.05,
+          "hispanicPct": 29.98
+        }
+      },
+      "election": {
+        "winner": "Pat Billie Miller",
+        "party": "DEM",
+        "pct": 62.31,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Connecticut Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 161817,
+        "medianAge": 42.2,
+        "totalPopulation": 106530,
+        "collegePct": 65.35,
+        "renterRatePct": 14.54,
+        "race": {
+          "whitePct": 83.74,
+          "nonHispanicWhitePct": 82.11,
+          "blackPct": 2.18,
+          "asianPct": 4,
+          "hispanicPct": 7.94
+        }
+      },
+      "election": {
+        "winner": "Tony Hwang",
+        "party": "REP",
+        "pct": 54.61,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Connecticut Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73132,
+        "medianAge": 36.2,
+        "totalPopulation": 100767,
+        "collegePct": 28.29,
+        "renterRatePct": 36.69,
+        "race": {
+          "whitePct": 80.26,
+          "nonHispanicWhitePct": 74.86,
+          "blackPct": 3.56,
+          "asianPct": 4,
+          "hispanicPct": 13.87
+        }
+      },
+      "election": {
+        "winner": "Chris Reddy",
+        "party": "REP",
+        "pct": 50.05,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Connecticut Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100644,
+        "medianAge": 46.8,
+        "totalPopulation": 104629,
+        "collegePct": 42.86,
+        "renterRatePct": 21.85,
+        "race": {
+          "whitePct": 83.14,
+          "nonHispanicWhitePct": 80.5,
+          "blackPct": 3.29,
+          "asianPct": 2.64,
+          "hispanicPct": 9.53
+        }
+      },
+      "election": {
+        "winner": "Stephen G. Harding",
+        "party": "REP",
+        "pct": 53.61,
+        "unopposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Connecticut Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87277,
+        "medianAge": 40.3,
+        "totalPopulation": 99957,
+        "collegePct": 30.56,
+        "renterRatePct": 31.38,
+        "race": {
+          "whitePct": 75.67,
+          "nonHispanicWhitePct": 71.22,
+          "blackPct": 5.17,
+          "asianPct": 3.59,
+          "hispanicPct": 15.14
+        }
+      },
+      "election": {
+        "winner": "Henri Martin",
+        "party": "REP",
+        "pct": 100,
+        "unopposed": true
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Connecticut Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115170,
+        "medianAge": 47,
+        "totalPopulation": 104604,
+        "collegePct": 45.29,
+        "renterRatePct": 18.34,
+        "race": {
+          "whitePct": 81.55,
+          "nonHispanicWhitePct": 77.96,
+          "blackPct": 2.63,
+          "asianPct": 3.77,
+          "hispanicPct": 11.3
+        }
+      },
+      "election": {
+        "winner": "Eric C. Berthel",
+        "party": "REP",
+        "pct": 57.22,
+        "unopposed": false
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Connecticut Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 110573,
+        "medianAge": 47.6,
+        "totalPopulation": 98854,
+        "collegePct": 46.24,
+        "renterRatePct": 18.15,
+        "race": {
+          "whitePct": 88.81,
+          "nonHispanicWhitePct": 87.11,
+          "blackPct": 1.19,
+          "asianPct": 2.11,
+          "hispanicPct": 5.95
+        }
+      },
+      "election": {
+        "winner": "Norm Needleman",
+        "party": "DEM",
+        "pct": 56.86,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Connecticut Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105305,
+        "medianAge": 44.8,
+        "totalPopulation": 95690,
+        "collegePct": 37.61,
+        "renterRatePct": 23.93,
+        "race": {
+          "whitePct": 80.43,
+          "nonHispanicWhitePct": 78.09,
+          "blackPct": 3.41,
+          "asianPct": 4.13,
+          "hispanicPct": 12.13
+        }
+      },
+      "election": {
+        "winner": "Paul Cicarella",
+        "party": "REP",
+        "pct": 56.21,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Connecticut Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98371,
+        "medianAge": 43.4,
+        "totalPopulation": 97517,
+        "collegePct": 39.91,
+        "renterRatePct": 25.85,
+        "race": {
+          "whitePct": 85.65,
+          "nonHispanicWhitePct": 83.16,
+          "blackPct": 2,
+          "asianPct": 3.4,
+          "hispanicPct": 7.47
+        }
+      },
+      "election": {
+        "winner": "Jeff Gordon",
+        "party": "REP",
+        "pct": 52.92,
+        "unopposed": false
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Connecticut Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); Connecticut",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 199194,
+        "medianAge": 43.8,
+        "totalPopulation": 102584,
+        "collegePct": 72.23,
+        "renterRatePct": 26.12,
+        "race": {
+          "whitePct": 75.42,
+          "nonHispanicWhitePct": 72.01,
+          "blackPct": 4.28,
+          "asianPct": 6.78,
+          "hispanicPct": 11.78
+        }
+      },
+      "election": {
+        "winner": "Ryan Fazio",
+        "party": "REP",
+        "pct": 51.73,
+        "unopposed": false
+      }
+    }
+  }
+}

@@ -1,0 +1,2944 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Rhode Island House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 137031,
+        "medianAge": 21.7,
+        "totalPopulation": 13575,
+        "collegePct": 85.43,
+        "renterRatePct": 41.63,
+        "race": {
+          "whitePct": 68.29,
+          "nonHispanicWhitePct": 65.19,
+          "blackPct": 5.3,
+          "asianPct": 16.29,
+          "hispanicPct": 8.39
+        }
+      },
+      "election": {
+        "winner": "Edith H. Ajello",
+        "party": "DEM",
+        "pct": 98.06,
+        "unopposed": true
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Rhode Island House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72199,
+        "medianAge": 30.8,
+        "totalPopulation": 14375,
+        "collegePct": 72.65,
+        "renterRatePct": 76.96,
+        "race": {
+          "whitePct": 62.83,
+          "nonHispanicWhitePct": 61.24,
+          "blackPct": 7.61,
+          "asianPct": 17.55,
+          "hispanicPct": 10.15
+        }
+      },
+      "election": {
+        "winner": "Christopher R. Blazejewski",
+        "party": "DEM",
+        "pct": 97.35,
+        "unopposed": true
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Rhode Island House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44804,
+        "medianAge": 41.2,
+        "totalPopulation": 12709,
+        "collegePct": 21.88,
+        "renterRatePct": 64.33,
+        "race": {
+          "whitePct": 29.96,
+          "nonHispanicWhitePct": 24.05,
+          "blackPct": 21.8,
+          "asianPct": 3.79,
+          "hispanicPct": 46.52
+        }
+      },
+      "election": {
+        "winner": "Nathan W. Biah",
+        "party": "DEM",
+        "pct": 95.79,
+        "unopposed": true
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Rhode Island House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107744,
+        "medianAge": 38.3,
+        "totalPopulation": 14349,
+        "collegePct": 73.48,
+        "renterRatePct": 49.21,
+        "race": {
+          "whitePct": 76.63,
+          "nonHispanicWhitePct": 73.52,
+          "blackPct": 4.41,
+          "asianPct": 8.23,
+          "hispanicPct": 7.06
+        }
+      },
+      "election": {
+        "winner": "Rebecca M. Kislak",
+        "party": "DEM",
+        "pct": 97.56,
+        "unopposed": true
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Rhode Island House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58154,
+        "medianAge": 27.6,
+        "totalPopulation": 16150,
+        "collegePct": 24.79,
+        "renterRatePct": 55.73,
+        "race": {
+          "whitePct": 46.74,
+          "nonHispanicWhitePct": 43.33,
+          "blackPct": 13.29,
+          "asianPct": 6.55,
+          "hispanicPct": 35.41
+        }
+      },
+      "election": {
+        "winner": "Anthony J. DeSimone",
+        "party": "DEM",
+        "pct": 95.58,
+        "unopposed": true
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Rhode Island House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72791,
+        "medianAge": 33.8,
+        "totalPopulation": 16446,
+        "collegePct": 32.45,
+        "renterRatePct": 46.51,
+        "race": {
+          "whitePct": 54.14,
+          "nonHispanicWhitePct": 39.66,
+          "blackPct": 9.85,
+          "asianPct": 2.96,
+          "hispanicPct": 45.22
+        }
+      },
+      "election": {
+        "winner": "Raymond A. Hull",
+        "party": "DEM",
+        "pct": 96.2,
+        "unopposed": true
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Rhode Island House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82375,
+        "medianAge": 34.7,
+        "totalPopulation": 16465,
+        "collegePct": 24.53,
+        "renterRatePct": 41.87,
+        "race": {
+          "whitePct": 32.61,
+          "nonHispanicWhitePct": 27.74,
+          "blackPct": 17.15,
+          "asianPct": 3.57,
+          "hispanicPct": 49.87
+        }
+      },
+      "election": {
+        "winner": "David Morales",
+        "party": "DEM",
+        "pct": 95.67,
+        "unopposed": true
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Rhode Island House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68902,
+        "medianAge": 33.3,
+        "totalPopulation": 15430,
+        "collegePct": 35.04,
+        "renterRatePct": 76.02,
+        "race": {
+          "whitePct": 52.13,
+          "nonHispanicWhitePct": 47.12,
+          "blackPct": 10.84,
+          "asianPct": 1.86,
+          "hispanicPct": 36.43
+        }
+      },
+      "election": {
+        "winner": "John J. Lombardi",
+        "party": "DEM",
+        "pct": 97.44,
+        "unopposed": true
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Rhode Island House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60176,
+        "medianAge": 30.7,
+        "totalPopulation": 14382,
+        "collegePct": 29.3,
+        "renterRatePct": 69.46,
+        "race": {
+          "whitePct": 37.09,
+          "nonHispanicWhitePct": 22.6,
+          "blackPct": 19.09,
+          "asianPct": 1.72,
+          "hispanicPct": 59.98
+        }
+      },
+      "election": {
+        "winner": "Enrique G. Sanchez",
+        "party": "DEM",
+        "pct": 96.3,
+        "unopposed": true
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Rhode Island House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62786,
+        "medianAge": 35.9,
+        "totalPopulation": 14367,
+        "collegePct": 20.96,
+        "renterRatePct": 60.73,
+        "race": {
+          "whitePct": 17.83,
+          "nonHispanicWhitePct": 11.44,
+          "blackPct": 10.23,
+          "asianPct": 7.27,
+          "hispanicPct": 65.75
+        }
+      },
+      "election": {
+        "winner": "Scott A. Slater",
+        "party": "DEM",
+        "pct": 95.67,
+        "unopposed": true
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Rhode Island House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48523,
+        "medianAge": 40.4,
+        "totalPopulation": 15497,
+        "collegePct": 19.96,
+        "renterRatePct": 55.75,
+        "race": {
+          "whitePct": 18.47,
+          "nonHispanicWhitePct": 11.21,
+          "blackPct": 13.85,
+          "asianPct": 4.61,
+          "hispanicPct": 69.43
+        }
+      },
+      "election": {
+        "winner": "Grace Diaz",
+        "party": "DEM",
+        "pct": 95.79,
+        "unopposed": true
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Rhode Island House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 39913,
+        "medianAge": 28.6,
+        "totalPopulation": 15182,
+        "collegePct": 10.27,
+        "renterRatePct": 63.48,
+        "race": {
+          "whitePct": 19.03,
+          "nonHispanicWhitePct": 12.47,
+          "blackPct": 21.67,
+          "asianPct": 1.53,
+          "hispanicPct": 65.23
+        }
+      },
+      "election": {
+        "winner": "Jose F. Batista",
+        "party": "DEM",
+        "pct": 96.31,
+        "unopposed": true
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Rhode Island House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70163,
+        "medianAge": 35.8,
+        "totalPopulation": 14349,
+        "collegePct": 12.72,
+        "renterRatePct": 40.37,
+        "race": {
+          "whitePct": 27.05,
+          "nonHispanicWhitePct": 18.08,
+          "blackPct": 15.42,
+          "asianPct": 1.55,
+          "hispanicPct": 61.33
+        }
+      },
+      "election": {
+        "winner": "Ramon A. Perez",
+        "party": "DEM",
+        "pct": 93.53,
+        "unopposed": true
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Rhode Island House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58320,
+        "medianAge": 33.8,
+        "totalPopulation": 14271,
+        "collegePct": 18.9,
+        "renterRatePct": 58.39,
+        "race": {
+          "whitePct": 54.22,
+          "nonHispanicWhitePct": 41.18,
+          "blackPct": 7.85,
+          "asianPct": 8.44,
+          "hispanicPct": 42.06
+        }
+      },
+      "election": {
+        "winner": "Charlene Lima",
+        "party": "DEM",
+        "pct": 94.69,
+        "unopposed": true
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Rhode Island House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108042,
+        "medianAge": 43.3,
+        "totalPopulation": 14625,
+        "collegePct": 37.88,
+        "renterRatePct": 15.14,
+        "race": {
+          "whitePct": 81.38,
+          "nonHispanicWhitePct": 80.36,
+          "blackPct": 4.25,
+          "asianPct": 6.84,
+          "hispanicPct": 4.39
+        }
+      },
+      "election": {
+        "winner": "Christopher G. Paplauskas",
+        "party": "REP",
+        "pct": 50.02,
+        "unopposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Rhode Island House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82796,
+        "medianAge": 38.3,
+        "totalPopulation": 15337,
+        "collegePct": 29.94,
+        "renterRatePct": 28.65,
+        "race": {
+          "whitePct": 63.73,
+          "nonHispanicWhitePct": 58.28,
+          "blackPct": 3.63,
+          "asianPct": 9.79,
+          "hispanicPct": 24.22
+        }
+      },
+      "election": {
+        "winner": "Brandon C. Potter",
+        "party": "DEM",
+        "pct": 58.45,
+        "unopposed": false
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Rhode Island House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92825,
+        "medianAge": 43.2,
+        "totalPopulation": 15028,
+        "collegePct": 41.66,
+        "renterRatePct": 35.58,
+        "race": {
+          "whitePct": 75.56,
+          "nonHispanicWhitePct": 74.25,
+          "blackPct": 7.33,
+          "asianPct": 4.4,
+          "hispanicPct": 11.25
+        }
+      },
+      "election": {
+        "winner": "Jacquelyn M. Baginski",
+        "party": "DEM",
+        "pct": 94.76,
+        "unopposed": true
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Rhode Island House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82827,
+        "medianAge": 36.6,
+        "totalPopulation": 13890,
+        "collegePct": 35.3,
+        "renterRatePct": 39.06,
+        "race": {
+          "whitePct": 60.55,
+          "nonHispanicWhitePct": 57.88,
+          "blackPct": 10.35,
+          "asianPct": 8.38,
+          "hispanicPct": 18.24
+        }
+      },
+      "election": {
+        "winner": "Arthur Handy",
+        "party": "DEM",
+        "pct": 95.51,
+        "unopposed": true
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Rhode Island House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93347,
+        "medianAge": 47.9,
+        "totalPopulation": 14469,
+        "collegePct": 42.25,
+        "renterRatePct": 18.53,
+        "race": {
+          "whitePct": 84.04,
+          "nonHispanicWhitePct": 83.42,
+          "blackPct": 4.11,
+          "asianPct": 1.62,
+          "hispanicPct": 5.65
+        }
+      },
+      "election": {
+        "winner": "Joseph McNamara",
+        "party": "DEM",
+        "pct": 95.59,
+        "unopposed": true
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Rhode Island House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79059,
+        "medianAge": 38.3,
+        "totalPopulation": 14968,
+        "collegePct": 32.5,
+        "renterRatePct": 39.47,
+        "race": {
+          "whitePct": 83.67,
+          "nonHispanicWhitePct": 82.73,
+          "blackPct": 2.08,
+          "asianPct": 5.24,
+          "hispanicPct": 5.06
+        }
+      },
+      "election": {
+        "winner": "David A. Bennett",
+        "party": "DEM",
+        "pct": 94.34,
+        "unopposed": true
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Rhode Island House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81290,
+        "medianAge": 39.4,
+        "totalPopulation": 14179,
+        "collegePct": 24.24,
+        "renterRatePct": 27.35,
+        "race": {
+          "whitePct": 82.9,
+          "nonHispanicWhitePct": 80.54,
+          "blackPct": 5.37,
+          "asianPct": 1.79,
+          "hispanicPct": 8.17
+        }
+      },
+      "election": {
+        "winner": "Marie A. Hopkins",
+        "party": "REP",
+        "pct": 50.53,
+        "unopposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Rhode Island House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85482,
+        "medianAge": 50.7,
+        "totalPopulation": 14166,
+        "collegePct": 27.07,
+        "renterRatePct": 21.31,
+        "race": {
+          "whitePct": 87.45,
+          "nonHispanicWhitePct": 85.66,
+          "blackPct": 1.92,
+          "asianPct": 2.12,
+          "hispanicPct": 6.65
+        }
+      },
+      "election": {
+        "winner": "Joseph J. Solomon, Jr.",
+        "party": "DEM",
+        "pct": 56.9,
+        "unopposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Rhode Island House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103222,
+        "medianAge": 44.2,
+        "totalPopulation": 13405,
+        "collegePct": 28.1,
+        "renterRatePct": 14.3,
+        "race": {
+          "whitePct": 87.64,
+          "nonHispanicWhitePct": 86.65,
+          "blackPct": 4.33,
+          "asianPct": 2.55,
+          "hispanicPct": 4.94
+        }
+      },
+      "election": {
+        "winner": "K. Joseph Shekarchi",
+        "party": "DEM",
+        "pct": 94,
+        "unopposed": true
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Rhode Island House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85394,
+        "medianAge": 49.8,
+        "totalPopulation": 15744,
+        "collegePct": 50.16,
+        "renterRatePct": 40.83,
+        "race": {
+          "whitePct": 88.31,
+          "nonHispanicWhitePct": 87.09,
+          "blackPct": 0.59,
+          "asianPct": 5.4,
+          "hispanicPct": 4.8
+        }
+      },
+      "election": {
+        "winner": "Evan Patrick Shanley",
+        "party": "DEM",
+        "pct": 95,
+        "unopposed": true
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Rhode Island House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66692,
+        "medianAge": 36.6,
+        "totalPopulation": 15166,
+        "collegePct": 23.15,
+        "renterRatePct": 51.53,
+        "race": {
+          "whitePct": 87.21,
+          "nonHispanicWhitePct": 85.12,
+          "blackPct": 0.59,
+          "asianPct": 2.21,
+          "hispanicPct": 7.46
+        }
+      },
+      "election": {
+        "winner": "Thomas E. Noret",
+        "party": "DEM",
+        "pct": 92.5,
+        "unopposed": true
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Rhode Island House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98702,
+        "medianAge": 42.4,
+        "totalPopulation": 14445,
+        "collegePct": 33.3,
+        "renterRatePct": 36.06,
+        "race": {
+          "whitePct": 83.98,
+          "nonHispanicWhitePct": 80.14,
+          "blackPct": 3.13,
+          "asianPct": 2.22,
+          "hispanicPct": 11.12
+        }
+      },
+      "election": {
+        "winner": "Earl A. Read, III",
+        "party": "DEM",
+        "pct": 51.24,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Rhode Island House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81532,
+        "medianAge": 45.9,
+        "totalPopulation": 14524,
+        "collegePct": 25.66,
+        "renterRatePct": 26.6,
+        "race": {
+          "whitePct": 85.37,
+          "nonHispanicWhitePct": 82.18,
+          "blackPct": 1.07,
+          "asianPct": 2.95,
+          "hispanicPct": 10.25
+        }
+      },
+      "election": {
+        "winner": "Patricia A. Serpa",
+        "party": "DEM",
+        "pct": 60.02,
+        "unopposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Rhode Island House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109548,
+        "medianAge": 42.9,
+        "totalPopulation": 14755,
+        "collegePct": 34.7,
+        "renterRatePct": 18.96,
+        "race": {
+          "whitePct": 90.17,
+          "nonHispanicWhitePct": 89.66,
+          "blackPct": 0.37,
+          "asianPct": 0.37,
+          "hispanicPct": 4.2
+        }
+      },
+      "election": {
+        "winner": "George A. Nardone",
+        "party": "REP",
+        "pct": 57.23,
+        "unopposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Rhode Island House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103870,
+        "medianAge": 47.2,
+        "totalPopulation": 12891,
+        "collegePct": 30.66,
+        "renterRatePct": 20.26,
+        "race": {
+          "whitePct": 92.65,
+          "nonHispanicWhitePct": 89.06,
+          "blackPct": 0.26,
+          "asianPct": 0.41,
+          "hispanicPct": 6.76
+        }
+      },
+      "election": {
+        "winner": "Sherry L. Roberts",
+        "party": "REP",
+        "pct": 97.11,
+        "unopposed": true
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Rhode Island House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 151556,
+        "medianAge": 43,
+        "totalPopulation": 13955,
+        "collegePct": 66.57,
+        "renterRatePct": 13.37,
+        "race": {
+          "whitePct": 85.13,
+          "nonHispanicWhitePct": 83.45,
+          "blackPct": 1.4,
+          "asianPct": 8.33,
+          "hispanicPct": 3.03
+        }
+      },
+      "election": {
+        "winner": "Justine Caldwell",
+        "party": "DEM",
+        "pct": 93.54,
+        "unopposed": true
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Rhode Island House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113618,
+        "medianAge": 41,
+        "totalPopulation": 15117,
+        "collegePct": 49.56,
+        "renterRatePct": 31.61,
+        "race": {
+          "whitePct": 89.1,
+          "nonHispanicWhitePct": 88.4,
+          "blackPct": 0.69,
+          "asianPct": 3.1,
+          "hispanicPct": 2.84
+        }
+      },
+      "election": {
+        "winner": "Julie A. Casimiro",
+        "party": "DEM",
+        "pct": 59.48,
+        "unopposed": false
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Rhode Island House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 127409,
+        "medianAge": 46.6,
+        "totalPopulation": 14668,
+        "collegePct": 55.65,
+        "renterRatePct": 22.26,
+        "race": {
+          "whitePct": 91.44,
+          "nonHispanicWhitePct": 91.05,
+          "blackPct": 0.91,
+          "asianPct": 2.65,
+          "hispanicPct": 3.22
+        }
+      },
+      "election": {
+        "winner": "Robert E. Craven",
+        "party": "DEM",
+        "pct": 95.23,
+        "unopposed": true
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Rhode Island House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104652,
+        "medianAge": 45.6,
+        "totalPopulation": 14576,
+        "collegePct": 61.81,
+        "renterRatePct": 25.27,
+        "race": {
+          "whitePct": 93.44,
+          "nonHispanicWhitePct": 92.25,
+          "blackPct": 0.8,
+          "asianPct": 0.95,
+          "hispanicPct": 3.84
+        }
+      },
+      "election": {
+        "winner": "Carol Hagan McEntee",
+        "party": "DEM",
+        "pct": 58.74,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Rhode Island House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79124,
+        "medianAge": 41.4,
+        "totalPopulation": 14658,
+        "collegePct": 58.5,
+        "renterRatePct": 37.05,
+        "race": {
+          "whitePct": 89.51,
+          "nonHispanicWhitePct": 88.49,
+          "blackPct": 3.67,
+          "asianPct": 0.47,
+          "hispanicPct": 3.75
+        }
+      },
+      "election": {
+        "winner": "Teresa Tanzi",
+        "party": "DEM",
+        "pct": 62.71,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Rhode Island House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120817,
+        "medianAge": 22.6,
+        "totalPopulation": 13698,
+        "collegePct": 67.9,
+        "renterRatePct": 15.53,
+        "race": {
+          "whitePct": 82.63,
+          "nonHispanicWhitePct": 81.07,
+          "blackPct": 2.8,
+          "asianPct": 7.11,
+          "hispanicPct": 6.48
+        }
+      },
+      "election": {
+        "winner": "Kathleen A. Fogarty",
+        "party": "DEM",
+        "pct": 62.09,
+        "unopposed": false
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Rhode Island House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105560,
+        "medianAge": 54,
+        "totalPopulation": 14302,
+        "collegePct": 47.27,
+        "renterRatePct": 12.02,
+        "race": {
+          "whitePct": 95.28,
+          "nonHispanicWhitePct": 94.83,
+          "blackPct": 0.44,
+          "asianPct": 0.73,
+          "hispanicPct": 2.03
+        }
+      },
+      "election": {
+        "winner": "Tina L. Spears",
+        "party": "DEM",
+        "pct": 96.61,
+        "unopposed": true
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Rhode Island House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92534,
+        "medianAge": 54.9,
+        "totalPopulation": 15175,
+        "collegePct": 42.69,
+        "renterRatePct": 27.03,
+        "race": {
+          "whitePct": 91.77,
+          "nonHispanicWhitePct": 91.26,
+          "blackPct": 0.5,
+          "asianPct": 2.6,
+          "hispanicPct": 2.76
+        }
+      },
+      "election": {
+        "winner": "Samuel Angelo Azzinaro",
+        "party": "DEM",
+        "pct": 96.36,
+        "unopposed": true
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Rhode Island House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81068,
+        "medianAge": 48.8,
+        "totalPopulation": 13387,
+        "collegePct": 31.73,
+        "renterRatePct": 23.84,
+        "race": {
+          "whitePct": 91.72,
+          "nonHispanicWhitePct": 90.71,
+          "blackPct": 0.99,
+          "asianPct": 1.95,
+          "hispanicPct": 3.32
+        }
+      },
+      "election": {
+        "winner": "Brian Patrick Kennedy",
+        "party": "DEM",
+        "pct": 95.96,
+        "unopposed": true
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Rhode Island House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115508,
+        "medianAge": 41.4,
+        "totalPopulation": 14492,
+        "collegePct": 46.64,
+        "renterRatePct": 6.55,
+        "race": {
+          "whitePct": 88.33,
+          "nonHispanicWhitePct": 88.2,
+          "blackPct": 1.26,
+          "asianPct": 0.29,
+          "hispanicPct": 5.21
+        }
+      },
+      "election": {
+        "winner": "Megan L. Cotter",
+        "party": "DEM",
+        "pct": 53.99,
+        "unopposed": false
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Rhode Island House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111319,
+        "medianAge": 46.6,
+        "totalPopulation": 14499,
+        "collegePct": 33.98,
+        "renterRatePct": 8.22,
+        "race": {
+          "whitePct": 93.01,
+          "nonHispanicWhitePct": 92.63,
+          "blackPct": 1.08,
+          "asianPct": 0.53,
+          "hispanicPct": 1.12
+        }
+      },
+      "election": {
+        "winner": "Michael W. Chippendale",
+        "party": "REP",
+        "pct": 69.23,
+        "unopposed": false
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Rhode Island House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 130984,
+        "medianAge": 45.6,
+        "totalPopulation": 15406,
+        "collegePct": 41.51,
+        "renterRatePct": 12.04,
+        "race": {
+          "whitePct": 89.27,
+          "nonHispanicWhitePct": 88.32,
+          "blackPct": 0.37,
+          "asianPct": 3.78,
+          "hispanicPct": 2.51
+        }
+      },
+      "election": {
+        "winner": "Robert Quattrocchi",
+        "party": "REP",
+        "pct": 65.01,
+        "unopposed": false
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Rhode Island House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88920,
+        "medianAge": 44.5,
+        "totalPopulation": 14674,
+        "collegePct": 34.34,
+        "renterRatePct": 30.03,
+        "race": {
+          "whitePct": 78.46,
+          "nonHispanicWhitePct": 75.81,
+          "blackPct": 3.48,
+          "asianPct": 0.67,
+          "hispanicPct": 18.26
+        }
+      },
+      "election": {
+        "winner": "Richard R. Fascia",
+        "party": "REP",
+        "pct": 54.61,
+        "unopposed": false
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Rhode Island House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87510,
+        "medianAge": 40.9,
+        "totalPopulation": 13642,
+        "collegePct": 25.47,
+        "renterRatePct": 24.85,
+        "race": {
+          "whitePct": 77.52,
+          "nonHispanicWhitePct": 75.77,
+          "blackPct": 3.06,
+          "asianPct": 1.26,
+          "hispanicPct": 13.6
+        }
+      },
+      "election": {
+        "winner": "Deborah A. Fellela",
+        "party": "DEM",
+        "pct": 53.36,
+        "unopposed": false
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Rhode Island House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112021,
+        "medianAge": 47.4,
+        "totalPopulation": 15232,
+        "collegePct": 43.94,
+        "renterRatePct": 14.95,
+        "race": {
+          "whitePct": 90.47,
+          "nonHispanicWhitePct": 89.8,
+          "blackPct": 0.83,
+          "asianPct": 2.26,
+          "hispanicPct": 4.13
+        }
+      },
+      "election": {
+        "winner": "Gregory J. Costantino",
+        "party": "DEM",
+        "pct": 53.76,
+        "unopposed": false
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Rhode Island House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 127255,
+        "medianAge": 40,
+        "totalPopulation": 15961,
+        "collegePct": 51.14,
+        "renterRatePct": 27.52,
+        "race": {
+          "whitePct": 84.11,
+          "nonHispanicWhitePct": 81.52,
+          "blackPct": 1.12,
+          "asianPct": 5.84,
+          "hispanicPct": 4.89
+        }
+      },
+      "election": {
+        "winner": "Mia A. Ackerman",
+        "party": "DEM",
+        "pct": 94.06,
+        "unopposed": true
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Rhode Island House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97969,
+        "medianAge": 44.7,
+        "totalPopulation": 15155,
+        "collegePct": 40.15,
+        "renterRatePct": 30.66,
+        "race": {
+          "whitePct": 76.28,
+          "nonHispanicWhitePct": 75.24,
+          "blackPct": 4.14,
+          "asianPct": 5.87,
+          "hispanicPct": 8.17
+        }
+      },
+      "election": {
+        "winner": "Mary Ann Shallcross Smith",
+        "party": "DEM",
+        "pct": 60.94,
+        "unopposed": false
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Rhode Island House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101723,
+        "medianAge": 45.1,
+        "totalPopulation": 13998,
+        "collegePct": 25.04,
+        "renterRatePct": 18.8,
+        "race": {
+          "whitePct": 91.92,
+          "nonHispanicWhitePct": 91.86,
+          "blackPct": 0.41,
+          "asianPct": 0.78,
+          "hispanicPct": 4.79
+        }
+      },
+      "election": {
+        "winner": "David J. Place",
+        "party": "REP",
+        "pct": 69.54,
+        "unopposed": false
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Rhode Island House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 114366,
+        "medianAge": 43.9,
+        "totalPopulation": 14194,
+        "collegePct": 35.09,
+        "renterRatePct": 21.02,
+        "race": {
+          "whitePct": 94.68,
+          "nonHispanicWhitePct": 93,
+          "blackPct": 0.19,
+          "asianPct": 2.21,
+          "hispanicPct": 2.67
+        }
+      },
+      "election": {
+        "winner": "Brian C. Newberry",
+        "party": "REP",
+        "pct": 96.56,
+        "unopposed": true
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Rhode Island House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49780,
+        "medianAge": 34.3,
+        "totalPopulation": 14969,
+        "collegePct": 16.37,
+        "renterRatePct": 72.12,
+        "race": {
+          "whitePct": 57.95,
+          "nonHispanicWhitePct": 50.13,
+          "blackPct": 9.68,
+          "asianPct": 4.42,
+          "hispanicPct": 29.62
+        }
+      },
+      "election": {
+        "winner": "Jon D. Brien",
+        "party": "IND",
+        "pct": 78.17,
+        "unopposed": false
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Rhode Island House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62945,
+        "medianAge": 40.6,
+        "totalPopulation": 15049,
+        "collegePct": 17.32,
+        "renterRatePct": 59.96,
+        "race": {
+          "whitePct": 66.14,
+          "nonHispanicWhitePct": 62.2,
+          "blackPct": 6.68,
+          "asianPct": 3.68,
+          "hispanicPct": 20.96
+        }
+      },
+      "election": {
+        "winner": "Stephen M. Casey",
+        "party": "DEM",
+        "pct": 94.95,
+        "unopposed": true
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Rhode Island House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64625,
+        "medianAge": 35.3,
+        "totalPopulation": 15046,
+        "collegePct": 23.38,
+        "renterRatePct": 52.53,
+        "race": {
+          "whitePct": 56.8,
+          "nonHispanicWhitePct": 53.98,
+          "blackPct": 5.05,
+          "asianPct": 12.38,
+          "hispanicPct": 23.43
+        }
+      },
+      "election": {
+        "winner": "Robert D. Phillips",
+        "party": "DEM",
+        "pct": 95.49,
+        "unopposed": true
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Rhode Island House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 125769,
+        "medianAge": 46.4,
+        "totalPopulation": 16092,
+        "collegePct": 43.39,
+        "renterRatePct": 12.62,
+        "race": {
+          "whitePct": 85.42,
+          "nonHispanicWhitePct": 84.93,
+          "blackPct": 4.91,
+          "asianPct": 2.08,
+          "hispanicPct": 1.46
+        }
+      },
+      "election": {
+        "winner": "Alex Daniel Marszalkowski",
+        "party": "DEM",
+        "pct": 95.66,
+        "unopposed": true
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Rhode Island House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109073,
+        "medianAge": 38.7,
+        "totalPopulation": 13614,
+        "collegePct": 37.78,
+        "renterRatePct": 15.69,
+        "race": {
+          "whitePct": 91.4,
+          "nonHispanicWhitePct": 89.08,
+          "blackPct": 2.07,
+          "asianPct": 2.65,
+          "hispanicPct": 5.49
+        }
+      },
+      "election": {
+        "winner": "Paul M. Santucci",
+        "party": "REP",
+        "pct": 55.08,
+        "unopposed": false
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Rhode Island House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87215,
+        "medianAge": 41.8,
+        "totalPopulation": 15813,
+        "collegePct": 33.59,
+        "renterRatePct": 39.49,
+        "race": {
+          "whitePct": 65.13,
+          "nonHispanicWhitePct": 62.78,
+          "blackPct": 13.2,
+          "asianPct": 4.21,
+          "hispanicPct": 12.07
+        }
+      },
+      "election": {
+        "winner": "William W. O&#39;Brien",
+        "party": "DEM",
+        "pct": 95.86,
+        "unopposed": true
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Rhode Island House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78384,
+        "medianAge": 40,
+        "totalPopulation": 15155,
+        "collegePct": 36.26,
+        "renterRatePct": 34.76,
+        "race": {
+          "whitePct": 73.16,
+          "nonHispanicWhitePct": 64.34,
+          "blackPct": 5.17,
+          "asianPct": 2.45,
+          "hispanicPct": 22.23
+        }
+      },
+      "election": {
+        "winner": "Arthur J. Corvese",
+        "party": "DEM",
+        "pct": 96.49,
+        "unopposed": true
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Rhode Island House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43353,
+        "medianAge": 29.9,
+        "totalPopulation": 16235,
+        "collegePct": 12.18,
+        "renterRatePct": 77.23,
+        "race": {
+          "whitePct": 23.06,
+          "nonHispanicWhitePct": 16.85,
+          "blackPct": 11.14,
+          "asianPct": 0.08,
+          "hispanicPct": 66.82
+        }
+      },
+      "election": {
+        "winner": "Joshua J. Giraldo",
+        "party": "DEM",
+        "pct": 97.01,
+        "unopposed": true
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Rhode Island House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71123,
+        "medianAge": 39.2,
+        "totalPopulation": 12328,
+        "collegePct": 26.05,
+        "renterRatePct": 44.33,
+        "race": {
+          "whitePct": 71.09,
+          "nonHispanicWhitePct": 67.3,
+          "blackPct": 1.22,
+          "asianPct": 0.09,
+          "hispanicPct": 29.14
+        }
+      },
+      "election": {
+        "winner": "Brandon T. Voas",
+        "party": "DEM",
+        "pct": 53.48,
+        "unopposed": false
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Rhode Island House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51570,
+        "medianAge": 38.2,
+        "totalPopulation": 13991,
+        "collegePct": 22.9,
+        "renterRatePct": 54.82,
+        "race": {
+          "whitePct": 44.01,
+          "nonHispanicWhitePct": 40.25,
+          "blackPct": 16.53,
+          "asianPct": 1.02,
+          "hispanicPct": 26.89
+        }
+      },
+      "election": {
+        "winner": "Cherie L. Cruz",
+        "party": "DEM",
+        "pct": 96.1,
+        "unopposed": true
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Rhode Island House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62088,
+        "medianAge": 36.8,
+        "totalPopulation": 14684,
+        "collegePct": 33.58,
+        "renterRatePct": 62.89,
+        "race": {
+          "whitePct": 46.85,
+          "nonHispanicWhitePct": 44.48,
+          "blackPct": 16.51,
+          "asianPct": 1.57,
+          "hispanicPct": 25.32
+        }
+      },
+      "election": {
+        "winner": "Jennifer A. Stewart",
+        "party": "DEM",
+        "pct": 97.6,
+        "unopposed": true
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Rhode Island House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66295,
+        "medianAge": 34.7,
+        "totalPopulation": 15510,
+        "collegePct": 14.46,
+        "renterRatePct": 62.13,
+        "race": {
+          "whitePct": 42.66,
+          "nonHispanicWhitePct": 29.4,
+          "blackPct": 16.67,
+          "asianPct": 0.74,
+          "hispanicPct": 41.95
+        }
+      },
+      "election": {
+        "winner": "Karen Alzate",
+        "party": "DEM",
+        "pct": 95.88,
+        "unopposed": true
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Rhode Island House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82117,
+        "medianAge": 40.3,
+        "totalPopulation": 15509,
+        "collegePct": 20.68,
+        "renterRatePct": 32.15,
+        "race": {
+          "whitePct": 70.29,
+          "nonHispanicWhitePct": 66.67,
+          "blackPct": 9.28,
+          "asianPct": 0.92,
+          "hispanicPct": 14
+        }
+      },
+      "election": {
+        "winner": "Leonela Felix",
+        "party": "DEM",
+        "pct": 57.29,
+        "unopposed": false
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Rhode Island House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73205,
+        "medianAge": 39,
+        "totalPopulation": 14470,
+        "collegePct": 23.85,
+        "renterRatePct": 46.75,
+        "race": {
+          "whitePct": 57.97,
+          "nonHispanicWhitePct": 50.36,
+          "blackPct": 9.97,
+          "asianPct": 3.05,
+          "hispanicPct": 25.94
+        }
+      },
+      "election": {
+        "winner": "Mary Duffy Messier",
+        "party": "DEM",
+        "pct": 95.25,
+        "unopposed": true
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Rhode Island House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84640,
+        "medianAge": 45.3,
+        "totalPopulation": 14732,
+        "collegePct": 35.54,
+        "renterRatePct": 33.26,
+        "race": {
+          "whitePct": 79.97,
+          "nonHispanicWhitePct": 79.57,
+          "blackPct": 6.75,
+          "asianPct": 1.61,
+          "hispanicPct": 6.41
+        }
+      },
+      "election": {
+        "winner": "Katherine Sheena Kazarian",
+        "party": "DEM",
+        "pct": 95.22,
+        "unopposed": true
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Rhode Island House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60556,
+        "medianAge": 42.2,
+        "totalPopulation": 13673,
+        "collegePct": 25.44,
+        "renterRatePct": 48.1,
+        "race": {
+          "whitePct": 67.57,
+          "nonHispanicWhitePct": 64.11,
+          "blackPct": 8.91,
+          "asianPct": 5.08,
+          "hispanicPct": 13.63
+        }
+      },
+      "election": {
+        "winner": "Jenni Azanero Furtado",
+        "party": "DEM",
+        "pct": 95.05,
+        "unopposed": true
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Rhode Island House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80470,
+        "medianAge": 39.8,
+        "totalPopulation": 15653,
+        "collegePct": 35.03,
+        "renterRatePct": 45.03,
+        "race": {
+          "whitePct": 72.57,
+          "nonHispanicWhitePct": 68.86,
+          "blackPct": 5.33,
+          "asianPct": 2.49,
+          "hispanicPct": 11.75
+        }
+      },
+      "election": {
+        "winner": "Matthew S. Dawson",
+        "party": "DEM",
+        "pct": 95.4,
+        "unopposed": true
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "Rhode Island House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 122500,
+        "medianAge": 43.9,
+        "totalPopulation": 15143,
+        "collegePct": 54.98,
+        "renterRatePct": 16.66,
+        "race": {
+          "whitePct": 88.79,
+          "nonHispanicWhitePct": 85.83,
+          "blackPct": 0.65,
+          "asianPct": 3.59,
+          "hispanicPct": 5.44
+        }
+      },
+      "election": {
+        "winner": "Jennifer Smith Boylan",
+        "party": "DEM",
+        "pct": 64.53,
+        "unopposed": false
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "Rhode Island House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131994,
+        "medianAge": 44.8,
+        "totalPopulation": 13243,
+        "collegePct": 56.65,
+        "renterRatePct": 21.01,
+        "race": {
+          "whitePct": 89.95,
+          "nonHispanicWhitePct": 89.07,
+          "blackPct": 0.85,
+          "asianPct": 2.23,
+          "hispanicPct": 2.93
+        }
+      },
+      "election": {
+        "winner": "Jason P. Knight",
+        "party": "DEM",
+        "pct": 94.59,
+        "unopposed": true
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "Rhode Island House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91294,
+        "medianAge": 54.1,
+        "totalPopulation": 13725,
+        "collegePct": 42.18,
+        "renterRatePct": 30.8,
+        "race": {
+          "whitePct": 91.65,
+          "nonHispanicWhitePct": 90.41,
+          "blackPct": 0.85,
+          "asianPct": 1.49,
+          "hispanicPct": 3.25
+        }
+      },
+      "election": {
+        "winner": "June S. Speakman",
+        "party": "DEM",
+        "pct": 58.44,
+        "unopposed": false
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "Rhode Island House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95409,
+        "medianAge": 34.9,
+        "totalPopulation": 13819,
+        "collegePct": 44.61,
+        "renterRatePct": 34.86,
+        "race": {
+          "whitePct": 91.74,
+          "nonHispanicWhitePct": 90.85,
+          "blackPct": 2,
+          "asianPct": 0.83,
+          "hispanicPct": 3.16
+        }
+      },
+      "election": {
+        "winner": "Susan Ann Donovan",
+        "party": "DEM",
+        "pct": 63.58,
+        "unopposed": false
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "Rhode Island House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98482,
+        "medianAge": 48.7,
+        "totalPopulation": 14620,
+        "collegePct": 39.83,
+        "renterRatePct": 22.8,
+        "race": {
+          "whitePct": 92.28,
+          "nonHispanicWhitePct": 90.95,
+          "blackPct": 1.35,
+          "asianPct": 0.49,
+          "hispanicPct": 3.87
+        }
+      },
+      "election": {
+        "winner": "John G. Edwards",
+        "party": "DEM",
+        "pct": 54.91,
+        "unopposed": false
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "Rhode Island House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116696,
+        "medianAge": 51.1,
+        "totalPopulation": 13816,
+        "collegePct": 53.72,
+        "renterRatePct": 19.15,
+        "race": {
+          "whitePct": 92.07,
+          "nonHispanicWhitePct": 91.25,
+          "blackPct": 0.77,
+          "asianPct": 1.12,
+          "hispanicPct": 5.35
+        }
+      },
+      "election": {
+        "winner": "Michelle E. McGaw",
+        "party": "DEM",
+        "pct": 96.09,
+        "unopposed": true
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "Rhode Island House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 127538,
+        "medianAge": 49.9,
+        "totalPopulation": 14154,
+        "collegePct": 65.49,
+        "renterRatePct": 20.42,
+        "race": {
+          "whitePct": 89.85,
+          "nonHispanicWhitePct": 88.99,
+          "blackPct": 1.38,
+          "asianPct": 0.55,
+          "hispanicPct": 3.93
+        }
+      },
+      "election": {
+        "winner": "Terri-Denise Cortvriend",
+        "party": "DEM",
+        "pct": 96.16,
+        "unopposed": true
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "Rhode Island House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76962,
+        "medianAge": 33.5,
+        "totalPopulation": 14694,
+        "collegePct": 47.67,
+        "renterRatePct": 47.18,
+        "race": {
+          "whitePct": 68.14,
+          "nonHispanicWhitePct": 66.14,
+          "blackPct": 9.86,
+          "asianPct": 4.55,
+          "hispanicPct": 13.43
+        }
+      },
+      "election": {
+        "winner": "Marvin L. Abney",
+        "party": "DEM",
+        "pct": 96.97,
+        "unopposed": true
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "Rhode Island House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103784,
+        "medianAge": 51.8,
+        "totalPopulation": 14131,
+        "collegePct": 54,
+        "renterRatePct": 33.7,
+        "race": {
+          "whitePct": 84.69,
+          "nonHispanicWhitePct": 82.05,
+          "blackPct": 3.27,
+          "asianPct": 2.34,
+          "hispanicPct": 5.4
+        }
+      },
+      "election": {
+        "winner": "Alex S. Finkelman",
+        "party": "DEM",
+        "pct": 96.4,
+        "unopposed": true
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "Rhode Island House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87892,
+        "medianAge": 44.8,
+        "totalPopulation": 13575,
+        "collegePct": 58.76,
+        "renterRatePct": 51.32,
+        "race": {
+          "whitePct": 82.81,
+          "nonHispanicWhitePct": 80.87,
+          "blackPct": 6.03,
+          "asianPct": 1.26,
+          "hispanicPct": 7.26
+        }
+      },
+      "election": {
+        "winner": "Lauren H. Carson",
+        "party": "DEM",
+        "pct": 97.32,
+        "unopposed": true
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Rhode Island Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56725,
+        "medianAge": 34,
+        "totalPopulation": 27368,
+        "collegePct": 26.38,
+        "renterRatePct": 60.66,
+        "race": {
+          "whitePct": 42.97,
+          "nonHispanicWhitePct": 38.74,
+          "blackPct": 16.81,
+          "asianPct": 6.48,
+          "hispanicPct": 34.85
+        }
+      },
+      "election": {
+        "winner": "Jacob Bissaillon",
+        "party": "DEM",
+        "pct": 95.42,
+        "unopposed": true
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Rhode Island Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49144,
+        "medianAge": 36.5,
+        "totalPopulation": 27732,
+        "collegePct": 20.2,
+        "renterRatePct": 59.23,
+        "race": {
+          "whitePct": 12.88,
+          "nonHispanicWhitePct": 8.55,
+          "blackPct": 15.27,
+          "asianPct": 4.46,
+          "hispanicPct": 70.96
+        }
+      },
+      "election": {
+        "winner": "Ana B. Quezada",
+        "party": "DEM",
+        "pct": 95.79,
+        "unopposed": true
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Rhode Island Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100500,
+        "medianAge": 27.8,
+        "totalPopulation": 27463,
+        "collegePct": 82.06,
+        "renterRatePct": 51.67,
+        "race": {
+          "whitePct": 70.5,
+          "nonHispanicWhitePct": 67.97,
+          "blackPct": 4.01,
+          "asianPct": 15.28,
+          "hispanicPct": 7.34
+        }
+      },
+      "election": {
+        "winner": "Samuel D. Zurier",
+        "party": "DEM",
+        "pct": 97.88,
+        "unopposed": true
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Rhode Island Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74745,
+        "medianAge": 38.7,
+        "totalPopulation": 30914,
+        "collegePct": 35.62,
+        "renterRatePct": 40.7,
+        "race": {
+          "whitePct": 64.97,
+          "nonHispanicWhitePct": 59.37,
+          "blackPct": 8.33,
+          "asianPct": 4.17,
+          "hispanicPct": 21.59
+        }
+      },
+      "election": {
+        "winner": "Dominick J. Ruggerio",
+        "party": "DEM",
+        "pct": 94.87,
+        "unopposed": true
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Rhode Island Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80466,
+        "medianAge": 33.9,
+        "totalPopulation": 33559,
+        "collegePct": 35.84,
+        "renterRatePct": 56.96,
+        "race": {
+          "whitePct": 50.2,
+          "nonHispanicWhitePct": 42.72,
+          "blackPct": 11.65,
+          "asianPct": 2.16,
+          "hispanicPct": 40.9
+        }
+      },
+      "election": {
+        "winner": "Samuel W. Bell",
+        "party": "DEM",
+        "pct": 78.59,
+        "unopposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Rhode Island Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47525,
+        "medianAge": 31,
+        "totalPopulation": 30419,
+        "collegePct": 27.22,
+        "renterRatePct": 74.78,
+        "race": {
+          "whitePct": 29.69,
+          "nonHispanicWhitePct": 22.88,
+          "blackPct": 16.93,
+          "asianPct": 7.13,
+          "hispanicPct": 51.04
+        }
+      },
+      "election": {
+        "winner": "Tiara TyShae Mack",
+        "party": "DEM",
+        "pct": 96.48,
+        "unopposed": true
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Rhode Island Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63256,
+        "medianAge": 30.6,
+        "totalPopulation": 30213,
+        "collegePct": 15.45,
+        "renterRatePct": 54.4,
+        "race": {
+          "whitePct": 34.78,
+          "nonHispanicWhitePct": 20.42,
+          "blackPct": 14.89,
+          "asianPct": 1.63,
+          "hispanicPct": 62.4
+        }
+      },
+      "election": {
+        "winner": "Frank A. Ciccone",
+        "party": "DEM",
+        "pct": 95.29,
+        "unopposed": true
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Rhode Island Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73671,
+        "medianAge": 36.9,
+        "totalPopulation": 27953,
+        "collegePct": 19.99,
+        "renterRatePct": 49.36,
+        "race": {
+          "whitePct": 58.05,
+          "nonHispanicWhitePct": 51.3,
+          "blackPct": 13.94,
+          "asianPct": 0.8,
+          "hispanicPct": 24
+        }
+      },
+      "election": {
+        "winner": "Lori Urso",
+        "party": "DEM",
+        "pct": 64.94,
+        "unopposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Rhode Island Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73507,
+        "medianAge": 42.2,
+        "totalPopulation": 29016,
+        "collegePct": 26.05,
+        "renterRatePct": 44.81,
+        "race": {
+          "whitePct": 85.41,
+          "nonHispanicWhitePct": 82.34,
+          "blackPct": 1.89,
+          "asianPct": 2.55,
+          "hispanicPct": 9.4
+        }
+      },
+      "election": {
+        "winner": "John P. Burke",
+        "party": "DEM",
+        "pct": 93,
+        "unopposed": true
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Rhode Island Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95875,
+        "medianAge": 47.7,
+        "totalPopulation": 29431,
+        "collegePct": 38.82,
+        "renterRatePct": 27.6,
+        "race": {
+          "whitePct": 93.1,
+          "nonHispanicWhitePct": 91.64,
+          "blackPct": 0.96,
+          "asianPct": 0.6,
+          "hispanicPct": 4
+        }
+      },
+      "election": {
+        "winner": "Walter S. Felag, Jr.",
+        "party": "DEM",
+        "pct": 57.89,
+        "unopposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Rhode Island Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101846,
+        "medianAge": 44.5,
+        "totalPopulation": 27613,
+        "collegePct": 55.35,
+        "renterRatePct": 32.15,
+        "race": {
+          "whitePct": 88.55,
+          "nonHispanicWhitePct": 87.49,
+          "blackPct": 1.58,
+          "asianPct": 1.31,
+          "hispanicPct": 5.41
+        }
+      },
+      "election": {
+        "winner": "Linda L. Ujifusa",
+        "party": "DEM",
+        "pct": 95.81,
+        "unopposed": true
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Rhode Island Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105417,
+        "medianAge": 47.6,
+        "totalPopulation": 29135,
+        "collegePct": 50.16,
+        "renterRatePct": 30.23,
+        "race": {
+          "whitePct": 85.43,
+          "nonHispanicWhitePct": 83.94,
+          "blackPct": 3.19,
+          "asianPct": 3.14,
+          "hispanicPct": 4.31
+        }
+      },
+      "election": {
+        "winner": "Louis DiPalma",
+        "party": "DEM",
+        "pct": 96.47,
+        "unopposed": true
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Rhode Island Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88686,
+        "medianAge": 42.1,
+        "totalPopulation": 27627,
+        "collegePct": 57.33,
+        "renterRatePct": 45.47,
+        "race": {
+          "whitePct": 78.75,
+          "nonHispanicWhitePct": 76.88,
+          "blackPct": 7.33,
+          "asianPct": 1.19,
+          "hispanicPct": 9.49
+        }
+      },
+      "election": {
+        "winner": "Dawn Euer",
+        "party": "DEM",
+        "pct": 70.28,
+        "unopposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Rhode Island Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68613,
+        "medianAge": 46.7,
+        "totalPopulation": 26307,
+        "collegePct": 29.08,
+        "renterRatePct": 39.58,
+        "race": {
+          "whitePct": 73.76,
+          "nonHispanicWhitePct": 72.04,
+          "blackPct": 7.07,
+          "asianPct": 3.25,
+          "hispanicPct": 8.71
+        }
+      },
+      "election": {
+        "winner": "Valarie J. Lawson",
+        "party": "DEM",
+        "pct": 94.16,
+        "unopposed": true
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Rhode Island Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72816,
+        "medianAge": 37.8,
+        "totalPopulation": 28344,
+        "collegePct": 38.09,
+        "renterRatePct": 48.93,
+        "race": {
+          "whitePct": 52.8,
+          "nonHispanicWhitePct": 49.66,
+          "blackPct": 15.41,
+          "asianPct": 1.39,
+          "hispanicPct": 21.9
+        }
+      },
+      "election": {
+        "winner": "Meghan E. Kallman",
+        "party": "DEM",
+        "pct": 97.22,
+        "unopposed": true
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Rhode Island Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43387,
+        "medianAge": 32.6,
+        "totalPopulation": 29375,
+        "collegePct": 13.04,
+        "renterRatePct": 73.14,
+        "race": {
+          "whitePct": 26.74,
+          "nonHispanicWhitePct": 19.95,
+          "blackPct": 11.67,
+          "asianPct": 0.41,
+          "hispanicPct": 60.22
+        }
+      },
+      "election": {
+        "winner": "Jonathon Acosta",
+        "party": "DEM",
+        "pct": 96.49,
+        "unopposed": true
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Rhode Island Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116335,
+        "medianAge": 43.5,
+        "totalPopulation": 27959,
+        "collegePct": 46.61,
+        "renterRatePct": 20.74,
+        "race": {
+          "whitePct": 85.99,
+          "nonHispanicWhitePct": 85.41,
+          "blackPct": 0.17,
+          "asianPct": 3.59,
+          "hispanicPct": 4.3
+        }
+      },
+      "election": {
+        "winner": "Thomas J. Paolino",
+        "party": "REP",
+        "pct": 57.94,
+        "unopposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Rhode Island Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83262,
+        "medianAge": 38.8,
+        "totalPopulation": 30652,
+        "collegePct": 29.37,
+        "renterRatePct": 43.13,
+        "race": {
+          "whitePct": 68.13,
+          "nonHispanicWhitePct": 62.55,
+          "blackPct": 7.28,
+          "asianPct": 2.64,
+          "hispanicPct": 17.84
+        }
+      },
+      "election": {
+        "winner": "Robert Britto",
+        "party": "DEM",
+        "pct": 95.04,
+        "unopposed": true
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Rhode Island Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 110119,
+        "medianAge": 44.4,
+        "totalPopulation": 29976,
+        "collegePct": 40.1,
+        "renterRatePct": 28.37,
+        "race": {
+          "whitePct": 86.3,
+          "nonHispanicWhitePct": 84.31,
+          "blackPct": 3.27,
+          "asianPct": 2.01,
+          "hispanicPct": 5.88
+        }
+      },
+      "election": {
+        "winner": "Ryan W. Pearson",
+        "party": "DEM",
+        "pct": 56.88,
+        "unopposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Rhode Island Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83614,
+        "medianAge": 38,
+        "totalPopulation": 26775,
+        "collegePct": 30.2,
+        "renterRatePct": 38.57,
+        "race": {
+          "whitePct": 66.79,
+          "nonHispanicWhitePct": 64.01,
+          "blackPct": 4.25,
+          "asianPct": 9.96,
+          "hispanicPct": 16.75
+        }
+      },
+      "election": {
+        "winner": "Brian J. Thompson",
+        "party": "DEM",
+        "pct": 95.54,
+        "unopposed": true
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Rhode Island Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120355,
+        "medianAge": 44.5,
+        "totalPopulation": 28692,
+        "collegePct": 35.38,
+        "renterRatePct": 10.95,
+        "race": {
+          "whitePct": 90.98,
+          "nonHispanicWhitePct": 90.39,
+          "blackPct": 0.67,
+          "asianPct": 1.07,
+          "hispanicPct": 2.07
+        }
+      },
+      "election": {
+        "winner": "Gordon Rogers",
+        "party": "REP",
+        "pct": 95.51,
+        "unopposed": true
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Rhode Island Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99358,
+        "medianAge": 43.6,
+        "totalPopulation": 29309,
+        "collegePct": 38.3,
+        "renterRatePct": 23.92,
+        "race": {
+          "whitePct": 85.08,
+          "nonHispanicWhitePct": 83.15,
+          "blackPct": 5.09,
+          "asianPct": 2.06,
+          "hispanicPct": 7.61
+        }
+      },
+      "election": {
+        "winner": "David P. Tikoian",
+        "party": "DEM",
+        "pct": 95.26,
+        "unopposed": true
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Rhode Island Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111465,
+        "medianAge": 46.5,
+        "totalPopulation": 29082,
+        "collegePct": 29.05,
+        "renterRatePct": 17.68,
+        "race": {
+          "whitePct": 94.04,
+          "nonHispanicWhitePct": 93.33,
+          "blackPct": 0.39,
+          "asianPct": 1.41,
+          "hispanicPct": 3.17
+        }
+      },
+      "election": {
+        "winner": "Jessica de la Cruz",
+        "party": "REP",
+        "pct": 68.07,
+        "unopposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Rhode Island Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54056,
+        "medianAge": 36.6,
+        "totalPopulation": 27617,
+        "collegePct": 17.41,
+        "renterRatePct": 67.65,
+        "race": {
+          "whitePct": 61.92,
+          "nonHispanicWhitePct": 55.53,
+          "blackPct": 8.13,
+          "asianPct": 4.15,
+          "hispanicPct": 25.97
+        }
+      },
+      "election": {
+        "winner": "Melissa Murray",
+        "party": "DEM",
+        "pct": 57.69,
+        "unopposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Rhode Island Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89199,
+        "medianAge": 43.3,
+        "totalPopulation": 27487,
+        "collegePct": 30.09,
+        "renterRatePct": 27.49,
+        "race": {
+          "whitePct": 77.8,
+          "nonHispanicWhitePct": 76.17,
+          "blackPct": 3.3,
+          "asianPct": 0.81,
+          "hispanicPct": 15.82
+        }
+      },
+      "election": {
+        "winner": "Andrew R. Dimitri",
+        "party": "DEM",
+        "pct": 58.12,
+        "unopposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Rhode Island Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89311,
+        "medianAge": 39.9,
+        "totalPopulation": 28188,
+        "collegePct": 36.42,
+        "renterRatePct": 36.72,
+        "race": {
+          "whitePct": 71.12,
+          "nonHispanicWhitePct": 63.83,
+          "blackPct": 5.87,
+          "asianPct": 9.01,
+          "hispanicPct": 19.36
+        }
+      },
+      "election": {
+        "winner": "Todd M. Patalano",
+        "party": "DEM",
+        "pct": 57.62,
+        "unopposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Rhode Island Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87125,
+        "medianAge": 42.2,
+        "totalPopulation": 31151,
+        "collegePct": 34.73,
+        "renterRatePct": 28.59,
+        "race": {
+          "whitePct": 76.13,
+          "nonHispanicWhitePct": 73.31,
+          "blackPct": 5.43,
+          "asianPct": 4.92,
+          "hispanicPct": 12.79
+        }
+      },
+      "election": {
+        "winner": "Hanna Gallo",
+        "party": "DEM",
+        "pct": 94.17,
+        "unopposed": true
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Rhode Island Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78883,
+        "medianAge": 37.6,
+        "totalPopulation": 29434,
+        "collegePct": 32.32,
+        "renterRatePct": 38.08,
+        "race": {
+          "whitePct": 59.09,
+          "nonHispanicWhitePct": 54.87,
+          "blackPct": 8.31,
+          "asianPct": 7.3,
+          "hispanicPct": 26.21
+        }
+      },
+      "election": {
+        "winner": "Lammis J. Vargas",
+        "party": "DEM",
+        "pct": 95.35,
+        "unopposed": true
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Rhode Island Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86604,
+        "medianAge": 42.4,
+        "totalPopulation": 27199,
+        "collegePct": 24.36,
+        "renterRatePct": 26.15,
+        "race": {
+          "whitePct": 85.97,
+          "nonHispanicWhitePct": 84.44,
+          "blackPct": 4.36,
+          "asianPct": 1.55,
+          "hispanicPct": 6.09
+        }
+      },
+      "election": {
+        "winner": "Peter A. Appollonio, Jr.",
+        "party": "DEM",
+        "pct": 50.11,
+        "unopposed": false
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Rhode Island Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90139,
+        "medianAge": 46.8,
+        "totalPopulation": 30269,
+        "collegePct": 38.44,
+        "renterRatePct": 28.66,
+        "race": {
+          "whitePct": 88.15,
+          "nonHispanicWhitePct": 86.45,
+          "blackPct": 1.88,
+          "asianPct": 4.1,
+          "hispanicPct": 5.08
+        }
+      },
+      "election": {
+        "winner": "Mark P. McKenney",
+        "party": "DEM",
+        "pct": 94.1,
+        "unopposed": true
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Rhode Island Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88119,
+        "medianAge": 42.8,
+        "totalPopulation": 27921,
+        "collegePct": 36.44,
+        "renterRatePct": 23.85,
+        "race": {
+          "whitePct": 81,
+          "nonHispanicWhitePct": 79.67,
+          "blackPct": 3.22,
+          "asianPct": 2.86,
+          "hispanicPct": 8.37
+        }
+      },
+      "election": {
+        "winner": "Matthew L. LaMountain",
+        "party": "DEM",
+        "pct": 60.35,
+        "unopposed": false
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Rhode Island Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 127924,
+        "medianAge": 46.5,
+        "totalPopulation": 28150,
+        "collegePct": 58.31,
+        "renterRatePct": 14.81,
+        "race": {
+          "whitePct": 88.45,
+          "nonHispanicWhitePct": 86.5,
+          "blackPct": 0.97,
+          "asianPct": 3.42,
+          "hispanicPct": 4.13
+        }
+      },
+      "election": {
+        "winner": "Pamela J. Lauria",
+        "party": "DEM",
+        "pct": 95.32,
+        "unopposed": true
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Rhode Island Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93970,
+        "medianAge": 45.7,
+        "totalPopulation": 27092,
+        "collegePct": 30.86,
+        "renterRatePct": 23.52,
+        "race": {
+          "whitePct": 90.37,
+          "nonHispanicWhitePct": 88.07,
+          "blackPct": 0.12,
+          "asianPct": 1.28,
+          "hispanicPct": 5.75
+        }
+      },
+      "election": {
+        "winner": "Leonidas P. Raptakis",
+        "party": "DEM",
+        "pct": 58.2,
+        "unopposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Rhode Island Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101871,
+        "medianAge": 43.2,
+        "totalPopulation": 29916,
+        "collegePct": 40.31,
+        "renterRatePct": 14.51,
+        "race": {
+          "whitePct": 91.35,
+          "nonHispanicWhitePct": 90.63,
+          "blackPct": 0.72,
+          "asianPct": 0.31,
+          "hispanicPct": 4.7
+        }
+      },
+      "election": {
+        "winner": "Elaine J. Morgan",
+        "party": "REP",
+        "pct": 53.49,
+        "unopposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Rhode Island Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 138407,
+        "medianAge": 41.9,
+        "totalPopulation": 30626,
+        "collegePct": 60.3,
+        "renterRatePct": 22.18,
+        "race": {
+          "whitePct": 86.5,
+          "nonHispanicWhitePct": 85.15,
+          "blackPct": 0.71,
+          "asianPct": 6.73,
+          "hispanicPct": 3.34
+        }
+      },
+      "election": {
+        "winner": "Bridget G. Valverde",
+        "party": "DEM",
+        "pct": 94.38,
+        "unopposed": true
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Rhode Island Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102347,
+        "medianAge": 47.1,
+        "totalPopulation": 29340,
+        "collegePct": 58.34,
+        "renterRatePct": 28.08,
+        "race": {
+          "whitePct": 92.11,
+          "nonHispanicWhitePct": 91.47,
+          "blackPct": 0.93,
+          "asianPct": 1.45,
+          "hispanicPct": 3.73
+        }
+      },
+      "election": {
+        "winner": "Alana M. DiMario",
+        "party": "DEM",
+        "pct": 95.49,
+        "unopposed": true
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Rhode Island Senate District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105433,
+        "medianAge": 35,
+        "totalPopulation": 27623,
+        "collegePct": 60.26,
+        "renterRatePct": 25.32,
+        "race": {
+          "whitePct": 85.79,
+          "nonHispanicWhitePct": 84.56,
+          "blackPct": 3.59,
+          "asianPct": 3.99,
+          "hispanicPct": 4.84
+        }
+      },
+      "election": {
+        "winner": "Virginia S. Sosnowski",
+        "party": "DEM",
+        "pct": 66,
+        "unopposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Rhode Island Senate District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); Rhode Island",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93271,
+        "medianAge": 55.1,
+        "totalPopulation": 28444,
+        "collegePct": 44.05,
+        "renterRatePct": 22.13,
+        "race": {
+          "whitePct": 91.95,
+          "nonHispanicWhitePct": 91.24,
+          "blackPct": 0.8,
+          "asianPct": 2.5,
+          "hispanicPct": 3.03
+        }
+      },
+      "election": {
+        "winner": "Victoria Gu",
+        "party": "DEM",
+        "pct": 58.13,
+        "unopposed": false
+      }
+    }
+  }
+}
