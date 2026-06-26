@@ -1,0 +1,1308 @@
+{
+  "house": [
+    {
+      "district": 1,
+      "chamber": "House",
+      "winner": "Daigle, Lucien J.B.",
+      "party": "Republican",
+      "percentage": 0.6511914543960559
+    },
+    {
+      "district": 2,
+      "chamber": "House",
+      "winner": "Albert, Roger C.",
+      "party": "Republican",
+      "percentage": 0.5556910569105691
+    },
+    {
+      "district": 3,
+      "chamber": "House",
+      "winner": "Babin, Mark Michael",
+      "party": "Republican",
+      "percentage": 0.5392341494036409
+    },
+    {
+      "district": 4,
+      "chamber": "House",
+      "winner": "Guerrette, Timothy C.",
+      "party": "Republican",
+      "percentage": 0.7512953367875648
+    },
+    {
+      "district": 5,
+      "chamber": "House",
+      "winner": "Underwood, Joseph F.",
+      "party": "Republican",
+      "percentage": 0.5474362150111469
+    },
+    {
+      "district": 6,
+      "chamber": "House",
+      "winner": "Ardell, Donald James",
+      "party": "Republican",
+      "percentage": 0.6552229432698347
+    },
+    {
+      "district": 7,
+      "chamber": "House",
+      "winner": "Swallow, Gregory L.",
+      "party": "Republican",
+      "percentage": 1
+    },
+    {
+      "district": 8,
+      "chamber": "House",
+      "winner": "Quint, Tracy Lynn",
+      "party": "Republican",
+      "percentage": 0.7790767990324531
+    },
+    {
+      "district": 9,
+      "chamber": "House",
+      "winner": "Mingo, Arthur Kevin",
+      "party": "Republican",
+      "percentage": 0.6164060826729493
+    },
+    {
+      "district": 10,
+      "chamber": "House",
+      "winner": "Tuell, William R.",
+      "party": "Republican",
+      "percentage": 0.7551020408163265
+    },
+    {
+      "district": 11,
+      "chamber": "House",
+      "winner": "Strout, Tiffany",
+      "party": "Republican",
+      "percentage": 0.693134328358209
+    },
+    {
+      "district": 12,
+      "chamber": "House",
+      "winner": "Faulkingham, Billy Bob",
+      "party": "Republican",
+      "percentage": 0.6108499095840868
+    },
+    {
+      "district": 13,
+      "chamber": "House",
+      "winner": "White, Russell P.",
+      "party": "Republican",
+      "percentage": 0.5443461160275319
+    },
+    {
+      "district": 14,
+      "chamber": "House",
+      "winner": "Friedmann, Gary",
+      "party": "Democratic",
+      "percentage": 0.6832802547770701
+    },
+    {
+      "district": 15,
+      "chamber": "House",
+      "winner": "Eaton, Holly Rae",
+      "party": "Democratic",
+      "percentage": 0.5244354566902595
+    },
+    {
+      "district": 16,
+      "chamber": "House",
+      "winner": "Milliken, Nina Azella",
+      "party": "Democratic",
+      "percentage": 1
+    },
+    {
+      "district": 17,
+      "chamber": "House",
+      "winner": "Bishop, Steven M.",
+      "party": "Republican",
+      "percentage": 0.5143781452192667
+    },
+    {
+      "district": 18,
+      "chamber": "House",
+      "winner": "McIntyre, Mathew David",
+      "party": "Republican",
+      "percentage": 1
+    },
+    {
+      "district": 19,
+      "chamber": "House",
+      "winner": "Campbell, Richard H.",
+      "party": "Republican",
+      "percentage": 1
+    },
+    {
+      "district": 20,
+      "chamber": "House",
+      "winner": "O'Halloran, Dani L.",
+      "party": "Democratic",
+      "percentage": 0.5118266746173723
+    },
+    {
+      "district": 21,
+      "chamber": "House",
+      "winner": "Rana, Ambureen",
+      "party": "Democratic",
+      "percentage": 0.5470997679814386
+    },
+    {
+      "district": 22,
+      "chamber": "House",
+      "winner": "Supica, Laura D.",
+      "party": "Democratic",
+      "percentage": 0.5461942257217848
+    },
+    {
+      "district": 23,
+      "chamber": "House",
+      "winner": "Roeder, Amy J.",
+      "party": "Democratic",
+      "percentage": 0.563249001331558
+    },
+    {
+      "district": 24,
+      "chamber": "House",
+      "winner": "Perry, Joseph C.",
+      "party": "Democratic",
+      "percentage": 0.646531972505728
+    },
+    {
+      "district": 25,
+      "chamber": "House",
+      "winner": "Osher, Laurie",
+      "party": "Democratic",
+      "percentage": 0.6753424657534246
+    },
+    {
+      "district": 26,
+      "chamber": "House",
+      "winner": "Dill, James F.",
+      "party": "Democratic",
+      "percentage": 0.5784122017989832
+    },
+    {
+      "district": 27,
+      "chamber": "House",
+      "winner": "Drinkwater, Gary A.",
+      "party": "Republican",
+      "percentage": 0.7301956226999806
+    },
+    {
+      "district": 28,
+      "chamber": "House",
+      "winner": "Gifford, Irene A.",
+      "party": "Republican",
+      "percentage": 0.7506183017312449
+    },
+    {
+      "district": 29,
+      "chamber": "House",
+      "winner": "Javner, Kathy Irene",
+      "party": "Republican",
+      "percentage": 0.6080764728833399
+    },
+    {
+      "district": 30,
+      "chamber": "House",
+      "winner": "White, James L.",
+      "party": "Republican",
+      "percentage": 0.6897058823529412
+    },
+    {
+      "district": 31,
+      "chamber": "House",
+      "winner": "Perkins, Chad R.",
+      "party": "Republican",
+      "percentage": 0.6243408563594178
+    },
+    {
+      "district": 32,
+      "chamber": "House",
+      "winner": "Foster, Steven D.",
+      "party": "Republican",
+      "percentage": 1
+    },
+    {
+      "district": 33,
+      "chamber": "House",
+      "winner": "Fredette, Kenneth Wade",
+      "party": "Republican",
+      "percentage": 1
+    },
+    {
+      "district": 34,
+      "chamber": "House",
+      "winner": "Griffin, Abigail W.",
+      "party": "Republican",
+      "percentage": 1
+    },
+    {
+      "district": 35,
+      "chamber": "House",
+      "winner": "Thorne, James E.",
+      "party": "Republican",
+      "percentage": 1
+    },
+    {
+      "district": 36,
+      "chamber": "House",
+      "winner": "Haggan, Kimberly M.",
+      "party": "Republican",
+      "percentage": 0.5503233294644337
+    },
+    {
+      "district": 37,
+      "chamber": "House",
+      "winner": "Paul, Reagan L.",
+      "party": "Republican",
+      "percentage": 0.5464244040673446
+    },
+    {
+      "district": 38,
+      "chamber": "House",
+      "winner": "Hymes, Benjamin C.",
+      "party": "Republican",
+      "percentage": 0.5518134715025906
+    },
+    {
+      "district": 39,
+      "chamber": "House",
+      "winner": "Dodge, Janice S.",
+      "party": "Democratic",
+      "percentage": 0.6788674033149171
+    },
+    {
+      "district": 40,
+      "chamber": "House",
+      "winner": "Ray, D. Michael",
+      "party": "Democratic",
+      "percentage": 0.5436711020129649
+    },
+    {
+      "district": 41,
+      "chamber": "House",
+      "winner": "Doudera, Victoria W.",
+      "party": "Democratic",
+      "percentage": 0.7486033519553073
+    },
+    {
+      "district": 42,
+      "chamber": "House",
+      "winner": "Geiger, Valli D.",
+      "party": "Democratic",
+      "percentage": 0.6072660848386442
+    },
+    {
+      "district": 43,
+      "chamber": "House",
+      "winner": "Matlack, Ann H.",
+      "party": "Democratic",
+      "percentage": 0.5594690265486726
+    },
+    {
+      "district": 44,
+      "chamber": "House",
+      "winner": "Pluecker, William D.",
+      "party": "Independent For Maine",
+      "percentage": 0.5352941176470588
+    },
+    {
+      "district": 45,
+      "chamber": "House",
+      "winner": "Simmons, Abden S.",
+      "party": "Republican",
+      "percentage": 0.5645722659827808
+    },
+    {
+      "district": 46,
+      "chamber": "House",
+      "winner": "Crafts, Lydia V.",
+      "party": "Democratic",
+      "percentage": 0.6563185951709
+    },
+    {
+      "district": 47,
+      "chamber": "House",
+      "winner": "Farrin, Wayne K.",
+      "party": "Democratic",
+      "percentage": 0.517172055620707
+    },
+    {
+      "district": 48,
+      "chamber": "House",
+      "winner": "Stover, Holly B.",
+      "party": "Democratic",
+      "percentage": 0.658873193700276
+    },
+    {
+      "district": 49,
+      "chamber": "House",
+      "winner": "Hepler, Allison Lee",
+      "party": "Democratic",
+      "percentage": 0.613543947450735
+    },
+    {
+      "district": 50,
+      "chamber": "House",
+      "winner": "Sinclair, David A.",
+      "party": "Democratic",
+      "percentage": 0.6997373206708426
+    },
+    {
+      "district": 51,
+      "chamber": "House",
+      "winner": "Macias, Rafael Leo",
+      "party": "Democratic",
+      "percentage": 0.6075102880658436
+    },
+    {
+      "district": 52,
+      "chamber": "House",
+      "winner": "Cluchey, Sally Jeane",
+      "party": "Democratic",
+      "percentage": 0.501276906238599
+    },
+    {
+      "district": 53,
+      "chamber": "House",
+      "winner": "Lemelin, Michael H.",
+      "party": "Republican",
+      "percentage": 0.5912315808622886
+    },
+    {
+      "district": 54,
+      "chamber": "House",
+      "winner": "Montell, Karen L.",
+      "party": "Democratic",
+      "percentage": 0.5426779935275081
+    },
+    {
+      "district": 55,
+      "chamber": "House",
+      "winner": "Shagoury, Daniel Joseph",
+      "party": "Democratic",
+      "percentage": 0.5110997267759563
+    },
+    {
+      "district": 56,
+      "chamber": "House",
+      "winner": "Greenwood, Randall Adam",
+      "party": "Republican",
+      "percentage": 0.5494892567805565
+    },
+    {
+      "district": 57,
+      "chamber": "House",
+      "winner": "Hasenfus, Tavis Rock",
+      "party": "Democratic",
+      "percentage": 0.5885019949220167
+    },
+    {
+      "district": 58,
+      "chamber": "House",
+      "winner": "Frost, Sharon C.",
+      "party": "Unenrolled",
+      "percentage": 0.5034262948207171
+    },
+    {
+      "district": 59,
+      "chamber": "House",
+      "winner": "Rollins, David M.",
+      "party": "Democratic",
+      "percentage": 0.5337574389493125
+    },
+    {
+      "district": 60,
+      "chamber": "House",
+      "winner": "Bridgeo, William R.",
+      "party": "Democratic",
+      "percentage": 0.5603734439834025
+    },
+    {
+      "district": 61,
+      "chamber": "House",
+      "winner": "Collins, Alicia Carol",
+      "party": "Republican",
+      "percentage": 0.5936305732484076
+    },
+    {
+      "district": 62,
+      "chamber": "House",
+      "winner": "Smith, Katrina J.",
+      "party": "Republican",
+      "percentage": 0.6405700536738849
+    },
+    {
+      "district": 63,
+      "chamber": "House",
+      "winner": "Flynn, Paul R.",
+      "party": "Republican",
+      "percentage": 0.597953216374269
+    },
+    {
+      "district": 64,
+      "chamber": "House",
+      "winner": "DeBrito, Flavia M.",
+      "party": "Democratic",
+      "percentage": 0.6543722520762091
+    },
+    {
+      "district": 65,
+      "chamber": "House",
+      "winner": "Julia, Cassie Lynn",
+      "party": "Democratic",
+      "percentage": 0.5871066768994628
+    },
+    {
+      "district": 66,
+      "chamber": "House",
+      "winner": "Nutting , Robert  W.",
+      "party": "Republican",
+      "percentage": 0.6087369420702754
+    },
+    {
+      "district": 67,
+      "chamber": "House",
+      "winner": "Rudnicki, Shelley J.",
+      "party": "Republican",
+      "percentage": 0.5205170291341814
+    },
+    {
+      "district": 68,
+      "chamber": "House",
+      "winner": "Collamore, Amanda Noelle",
+      "party": "Republican",
+      "percentage": 0.6684491978609626
+    },
+    {
+      "district": 69,
+      "chamber": "House",
+      "winner": "Cray, Dean A.",
+      "party": "Republican",
+      "percentage": 0.7271986970684039
+    },
+    {
+      "district": 70,
+      "chamber": "House",
+      "winner": "Poirier, Jennifer Lynn",
+      "party": "Republican",
+      "percentage": 0.6282967710130638
+    },
+    {
+      "district": 71,
+      "chamber": "House",
+      "winner": "Ducharme, John E.",
+      "party": "Republican",
+      "percentage": 0.6530612244897959
+    },
+    {
+      "district": 72,
+      "chamber": "House",
+      "winner": "Caruso, Elizabeth M.",
+      "party": "Republican",
+      "percentage": 0.7241091894144613
+    },
+    {
+      "district": 73,
+      "chamber": "House",
+      "winner": "Soboleski, Michael A.",
+      "party": "Republican",
+      "percentage": 0.5491095044965615
+    },
+    {
+      "district": 74,
+      "chamber": "House",
+      "winner": "Hall, Randall C.",
+      "party": "Republican",
+      "percentage": 0.6604463959019392
+    },
+    {
+      "district": 75,
+      "chamber": "House",
+      "winner": "Bunker, Stephan M.",
+      "party": "Democratic",
+      "percentage": 0.5007564296520424
+    },
+    {
+      "district": 76,
+      "chamber": "House",
+      "winner": "Lyman, Sheila A.",
+      "party": "Republican",
+      "percentage": 0.6367529686587502
+    },
+    {
+      "district": 77,
+      "chamber": "House",
+      "winner": "Schmersal-Burgess, Tammy L.",
+      "party": "Republican",
+      "percentage": 1
+    },
+    {
+      "district": 78,
+      "chamber": "House",
+      "winner": "Henderson, Rachel A.",
+      "party": "Republican",
+      "percentage": 0.5783205490512717
+    },
+    {
+      "district": 79,
+      "chamber": "House",
+      "winner": "Lance, Michael J.",
+      "party": "Republican",
+      "percentage": 0.5354775828460039
+    },
+    {
+      "district": 80,
+      "chamber": "House",
+      "winner": "Jackson, Caldwell",
+      "party": "Republican",
+      "percentage": 0.6937052670214718
+    },
+    {
+      "district": 81,
+      "chamber": "House",
+      "winner": "Wood, Peter Conley",
+      "party": "Republican",
+      "percentage": 0.5021216407355021
+    },
+    {
+      "district": 82,
+      "chamber": "House",
+      "winner": "Wadsworth, Nathan  J.",
+      "party": "Republican",
+      "percentage": 0.5765150152850207
+    },
+    {
+      "district": 83,
+      "chamber": "House",
+      "winner": "Cimino, Marygrace Caroline",
+      "party": "Republican",
+      "percentage": 0.5058539944903582
+    },
+    {
+      "district": 84,
+      "chamber": "House",
+      "winner": "Walker, Mark",
+      "party": "Republican",
+      "percentage": 0.6230518303733237
+    },
+    {
+      "district": 85,
+      "chamber": "House",
+      "winner": "Pomerleau, Kimberly",
+      "party": "Republican",
+      "percentage": 1
+    },
+    {
+      "district": 86,
+      "chamber": "House",
+      "winner": "Olsen, Rolf A.",
+      "party": "Republican",
+      "percentage": 0.5202787207432553
+    },
+    {
+      "district": 87,
+      "chamber": "House",
+      "winner": "Boyer, David W.",
+      "party": "Republican",
+      "percentage": 1
+    },
+    {
+      "district": 88,
+      "chamber": "House",
+      "winner": "Chapman, Quentin J.",
+      "party": "Republican",
+      "percentage": 0.5492957746478874
+    },
+    {
+      "district": 89,
+      "chamber": "House",
+      "winner": "Lee, Adam R.",
+      "party": "Democratic",
+      "percentage": 0.5710585950145678
+    },
+    {
+      "district": 90,
+      "chamber": "House",
+      "winner": "Libby, Laurel D.",
+      "party": "Republican",
+      "percentage": 0.5139745916515427
+    },
+    {
+      "district": 91,
+      "chamber": "House",
+      "winner": "Morris, Joshua K.",
+      "party": "Republican",
+      "percentage": 1
+    },
+    {
+      "district": 92,
+      "chamber": "House",
+      "winner": "Wood, Stephen J.",
+      "party": "Republican",
+      "percentage": 0.6160136934195511
+    },
+    {
+      "district": 93,
+      "chamber": "House",
+      "winner": "McCabe, Julia A.G.",
+      "party": "Democratic",
+      "percentage": 1
+    },
+    {
+      "district": 94,
+      "chamber": "House",
+      "winner": "Cloutier, Kristen Sarah",
+      "party": "Democratic",
+      "percentage": 0.5959115093811257
+    },
+    {
+      "district": 95,
+      "chamber": "House",
+      "winner": "Abdi, Mana Hared",
+      "party": "Democratic",
+      "percentage": 1
+    },
+    {
+      "district": 96,
+      "chamber": "House",
+      "winner": "Lajoie, Michel A.",
+      "party": "Democratic",
+      "percentage": 0.5038438793613247
+    },
+    {
+      "district": 97,
+      "chamber": "House",
+      "winner": "Mason, Richard G.",
+      "party": "Republican",
+      "percentage": 1
+    },
+    {
+      "district": 98,
+      "chamber": "House",
+      "winner": "Webb, Kilton M.",
+      "party": "Democratic",
+      "percentage": 0.504546985517009
+    },
+    {
+      "district": 99,
+      "chamber": "House",
+      "winner": "Golek, Cheryl A.",
+      "party": "Democratic",
+      "percentage": 0.6036454018227009
+    },
+    {
+      "district": 100,
+      "chamber": "House",
+      "winner": "Ankeles, Daniel J.",
+      "party": "Democratic",
+      "percentage": 0.784965034965035
+    },
+    {
+      "district": 101,
+      "chamber": "House",
+      "winner": "Arford, Poppy T.",
+      "party": "Democratic",
+      "percentage": 1
+    },
+    {
+      "district": 102,
+      "chamber": "House",
+      "winner": "Sachs, Melanie Fleming",
+      "party": "Democratic",
+      "percentage": 0.700524246395806
+    },
+    {
+      "district": 103,
+      "chamber": "House",
+      "winner": "Bell, Arthur L.",
+      "party": "Democratic",
+      "percentage": 1
+    },
+    {
+      "district": 104,
+      "chamber": "House",
+      "winner": "Arata, Amy B.",
+      "party": "Republican",
+      "percentage": 0.579312679871339
+    },
+    {
+      "district": 105,
+      "chamber": "House",
+      "winner": "Graham, Anne P.",
+      "party": "Democratic",
+      "percentage": 0.533685389662346
+    },
+    {
+      "district": 106,
+      "chamber": "House",
+      "winner": "Bagshaw, Barbara A.",
+      "party": "Republican",
+      "percentage": 0.5335087719298246
+    },
+    {
+      "district": 107,
+      "chamber": "House",
+      "winner": "Cooper, Mark C.",
+      "party": "Republican",
+      "percentage": 0.4384670744872256
+    },
+    {
+      "district": 108,
+      "chamber": "House",
+      "winner": "Terry, Parnell William",
+      "party": "Democratic",
+      "percentage": 0.5093323071002501
+    },
+    {
+      "district": 109,
+      "chamber": "House",
+      "winner": "Sato, Eleanor Y.",
+      "party": "Democratic",
+      "percentage": 0.5665024630541872
+    },
+    {
+      "district": 110,
+      "chamber": "House",
+      "winner": "Mitchell, Christina R.C.",
+      "party": "Democratic",
+      "percentage": 0.644125366682106
+    },
+    {
+      "district": 111,
+      "chamber": "House",
+      "winner": "Kuhn, Amy D.",
+      "party": "Democratic",
+      "percentage": 0.6920869827846572
+    },
+    {
+      "district": 112,
+      "chamber": "House",
+      "winner": "Crockett, W. Edward",
+      "party": "Democratic",
+      "percentage": 0.7171423688258417
+    },
+    {
+      "district": 113,
+      "chamber": "House",
+      "winner": "Lookner, Grayson B.",
+      "party": "Democratic",
+      "percentage": 1
+    },
+    {
+      "district": 114,
+      "chamber": "House",
+      "winner": "Pugh, Dylan R.",
+      "party": "Democratic",
+      "percentage": 0.7515765765765766
+    },
+    {
+      "district": 115,
+      "chamber": "House",
+      "winner": "Brennan, Michael F.",
+      "party": "Democratic",
+      "percentage": 1
+    },
+    {
+      "district": 116,
+      "chamber": "House",
+      "winner": "Zager, Samuel Lewis",
+      "party": "Democratic",
+      "percentage": 1
+    },
+    {
+      "district": 117,
+      "chamber": "House",
+      "winner": "Moonen, Matthew",
+      "party": "Democratic",
+      "percentage": 1
+    },
+    {
+      "district": 118,
+      "chamber": "House",
+      "winner": "Yusuf, Yusuf M.",
+      "party": "Democratic",
+      "percentage": 1
+    },
+    {
+      "district": 119,
+      "chamber": "House",
+      "winner": "Skold, Charles A.",
+      "party": "Democratic",
+      "percentage": 0.8522116218560277
+    },
+    {
+      "district": 120,
+      "chamber": "House",
+      "winner": "Dhalac, Deqa Abdi",
+      "party": "Democratic",
+      "percentage": 1
+    },
+    {
+      "district": 121,
+      "chamber": "House",
+      "winner": "Kessler, Christopher J.",
+      "party": "Democratic",
+      "percentage": 0.7263537906137184
+    },
+    {
+      "district": 122,
+      "chamber": "House",
+      "winner": "Beck, Matthew D.",
+      "party": "Democratic",
+      "percentage": 0.8109070464767616
+    },
+    {
+      "district": 123,
+      "chamber": "House",
+      "winner": "Boyer, Michelle Nicole",
+      "party": "Democratic",
+      "percentage": 0.7397656368893624
+    },
+    {
+      "district": 124,
+      "chamber": "House",
+      "winner": "Warren, Sophia Bailey",
+      "party": "Democratic",
+      "percentage": 0.662528963919232
+    },
+    {
+      "district": 125,
+      "chamber": "House",
+      "winner": "Murphy, Kelly Noonan",
+      "party": "Democratic",
+      "percentage": 0.6212863206007182
+    },
+    {
+      "district": 126,
+      "chamber": "House",
+      "winner": "Gattine, Andrew M.",
+      "party": "Democratic",
+      "percentage": 1
+    },
+    {
+      "district": 127,
+      "chamber": "House",
+      "winner": "Rielly, Morgan J.",
+      "party": "Democratic",
+      "percentage": 0.6912537108928979
+    },
+    {
+      "district": 128,
+      "chamber": "House",
+      "winner": "Salisbury, Suzanne M.",
+      "party": "Democratic",
+      "percentage": 0.6521063871092991
+    },
+    {
+      "district": 129,
+      "chamber": "House",
+      "winner": "Archer, Marshall F.",
+      "party": "Democratic",
+      "percentage": 1
+    },
+    {
+      "district": 130,
+      "chamber": "House",
+      "winner": "Copeland, Lynn Holland",
+      "party": "Democratic",
+      "percentage": 0.6124045801526717
+    },
+    {
+      "district": 131,
+      "chamber": "House",
+      "winner": "Gramlich, Lori Kathryn",
+      "party": "Democratic",
+      "percentage": 0.6270333724635251
+    },
+    {
+      "district": 132,
+      "chamber": "House",
+      "winner": "Fecteau, Ryan M.",
+      "party": "Democratic",
+      "percentage": 1
+    },
+    {
+      "district": 133,
+      "chamber": "House",
+      "winner": "Malon, Marc G.",
+      "party": "Democratic",
+      "percentage": 1
+    },
+    {
+      "district": 134,
+      "chamber": "House",
+      "winner": "Gere, Traci",
+      "party": "Democratic",
+      "percentage": 0.619964116783559
+    },
+    {
+      "district": 135,
+      "chamber": "House",
+      "winner": "Sayre, Daniel R.",
+      "party": "Democratic",
+      "percentage": 0.5966859227728792
+    },
+    {
+      "district": 136,
+      "chamber": "House",
+      "winner": "Eder, John M.",
+      "party": "Republican",
+      "percentage": 0.568457225538072
+    },
+    {
+      "district": 137,
+      "chamber": "House",
+      "winner": "Carlow, Nathan  M.",
+      "party": "Republican",
+      "percentage": 0.5846823324630113
+    },
+    {
+      "district": 138,
+      "chamber": "House",
+      "winner": "Blier, Mark John",
+      "party": "Republican",
+      "percentage": 0.5262966333030027
+    },
+    {
+      "district": 139,
+      "chamber": "House",
+      "winner": "Woodsome, David C.",
+      "party": "Republican",
+      "percentage": 0.6760722347629797
+    },
+    {
+      "district": 140,
+      "chamber": "House",
+      "winner": "Parry, Wayne R.",
+      "party": "Republican",
+      "percentage": 0.5914256198347108
+    },
+    {
+      "district": 141,
+      "chamber": "House",
+      "winner": "Lanigan, Lucas John",
+      "party": "Republican",
+      "percentage": 0.500100908173562
+    },
+    {
+      "district": 142,
+      "chamber": "House",
+      "winner": "Mastraccio, Anne-Marie",
+      "party": "Democratic",
+      "percentage": 0.5083945435466947
+    },
+    {
+      "district": 143,
+      "chamber": "House",
+      "winner": "Fredericks, Ann  Marie",
+      "party": "Republican",
+      "percentage": 0.5735749005744587
+    },
+    {
+      "district": 144,
+      "chamber": "House",
+      "winner": "Adams, Jeffrey Sean",
+      "party": "Republican",
+      "percentage": 0.665529695024077
+    },
+    {
+      "district": 145,
+      "chamber": "House",
+      "winner": "Foley, Robert Alan",
+      "party": "Republican",
+      "percentage": 0.5197823209295485
+    },
+    {
+      "district": 146,
+      "chamber": "House",
+      "winner": "Runte, Walter Gerard",
+      "party": "Democratic",
+      "percentage": 0.5589700996677741
+    },
+    {
+      "district": 147,
+      "chamber": "House",
+      "winner": "Sargent, Holly T.",
+      "party": "Democratic",
+      "percentage": 1
+    },
+    {
+      "district": 148,
+      "chamber": "House",
+      "winner": "Lavigne, Thomas Arthur",
+      "party": "Republican",
+      "percentage": 0.5944249584640945
+    },
+    {
+      "district": 149,
+      "chamber": "House",
+      "winner": "Roberts, Tiffany Danielle",
+      "party": "Democratic",
+      "percentage": 0.564241893076249
+    },
+    {
+      "district": 150,
+      "chamber": "House",
+      "winner": "Meyer, Michele",
+      "party": "Democratic",
+      "percentage": 0.6310169213077049
+    },
+    {
+      "district": 151,
+      "chamber": "House",
+      "winner": "Mathieson, Kristi Michele",
+      "party": "Democratic",
+      "percentage": 0.7043570294584582
+    }
+  ],
+  "senate": [
+    {
+      "district": 1,
+      "chamber": "Senate",
+      "winner": "Bernard, Susan Y.",
+      "party": "Republican",
+      "percentage": 0.6577954319761669
+    },
+    {
+      "district": 2,
+      "chamber": "Senate",
+      "winner": "Stewart, Harold L. III",
+      "party": "Republican",
+      "percentage": 0.6617860249347637
+    },
+    {
+      "district": 3,
+      "chamber": "Senate",
+      "winner": "Farrin, Bradlee Thomas",
+      "party": "Republican",
+      "percentage": 0.6763971576723641
+    },
+    {
+      "district": 4,
+      "chamber": "Senate",
+      "winner": "Guerin, Stacey K.",
+      "party": "Republican",
+      "percentage": 0.6736999786004708
+    },
+    {
+      "district": 5,
+      "chamber": "Senate",
+      "winner": "Black, Russell J.",
+      "party": "Republican",
+      "percentage": 0.6582589574440564
+    },
+    {
+      "district": 6,
+      "chamber": "Senate",
+      "winner": "Moore, Marianne",
+      "party": "Republican",
+      "percentage": 0.6764246682279469
+    },
+    {
+      "district": 7,
+      "chamber": "Senate",
+      "winner": "Grohoski, Nicole C.",
+      "party": "Democratic",
+      "percentage": 0.6202861886315124
+    },
+    {
+      "district": 8,
+      "chamber": "Senate",
+      "winner": "Tipping, Michael",
+      "party": "Democratic",
+      "percentage": 0.5032435620208374
+    },
+    {
+      "district": 9,
+      "chamber": "Senate",
+      "winner": "Baldacci, Joseph M.",
+      "party": "Democratic",
+      "percentage": 0.5859978784664344
+    },
+    {
+      "district": 10,
+      "chamber": "Senate",
+      "winner": "Haggan, David G.",
+      "party": "Republican",
+      "percentage": 0.5690121513059626
+    },
+    {
+      "district": 11,
+      "chamber": "Senate",
+      "winner": "Curry, Glenn Chip",
+      "party": "Democratic",
+      "percentage": 0.5608493641995436
+    },
+    {
+      "district": 12,
+      "chamber": "Senate",
+      "winner": "Beebe-Center, Anne H.",
+      "party": "Democratic",
+      "percentage": 0.5897298852937549
+    },
+    {
+      "district": 13,
+      "chamber": "Senate",
+      "winner": "Reny, Cameron D.",
+      "party": "Democratic",
+      "percentage": 0.5549742401853109
+    },
+    {
+      "district": 14,
+      "chamber": "Senate",
+      "winner": "Hickman, Craig V.",
+      "party": "Democratic",
+      "percentage": 0.5262224787663891
+    },
+    {
+      "district": 15,
+      "chamber": "Senate",
+      "winner": "Bradstreet, Richard T.",
+      "party": "Republican",
+      "percentage": 0.5046406417611119
+    },
+    {
+      "district": 16,
+      "chamber": "Senate",
+      "winner": "Cyrway, Scott Wynn",
+      "party": "Republican",
+      "percentage": 0.5373178857341754
+    },
+    {
+      "district": 17,
+      "chamber": "Senate",
+      "winner": "Timberlake, Jeffrey L.",
+      "party": "Republican",
+      "percentage": 0.6780198565912852
+    },
+    {
+      "district": 18,
+      "chamber": "Senate",
+      "winner": "Bennett, Richard A.",
+      "party": "Republican",
+      "percentage": 0.6466235754379996
+    },
+    {
+      "district": 19,
+      "chamber": "Senate",
+      "winner": "Martin, Joseph E.",
+      "party": "Republican",
+      "percentage": 0.5684762492288711
+    },
+    {
+      "district": 20,
+      "chamber": "Senate",
+      "winner": "Bickford, Bruce",
+      "party": "Republican",
+      "percentage": 0.5012785429096945
+    },
+    {
+      "district": 21,
+      "chamber": "Senate",
+      "winner": "Rotundo, Margaret R.",
+      "party": "Democratic",
+      "percentage": 1
+    },
+    {
+      "district": 22,
+      "chamber": "Senate",
+      "winner": "Libby, James D.",
+      "party": "Republican",
+      "percentage": 0.6357598868846137
+    },
+    {
+      "district": 23,
+      "chamber": "Senate",
+      "winner": "Daughtry, Matthea Elisabeth",
+      "party": "Democratic",
+      "percentage": 0.6900354182641399
+    },
+    {
+      "district": 24,
+      "chamber": "Senate",
+      "winner": "Tepler, Denise",
+      "party": "Democratic",
+      "percentage": 0.5309096669438834
+    },
+    {
+      "district": 25,
+      "chamber": "Senate",
+      "winner": "Pierce, Teresa S.",
+      "party": "Democratic",
+      "percentage": 0.6453427572031301
+    },
+    {
+      "district": 26,
+      "chamber": "Senate",
+      "winner": "Nangle, Timothy E.",
+      "party": "Democratic",
+      "percentage": 0.5203210162653963
+    },
+    {
+      "district": 27,
+      "chamber": "Senate",
+      "winner": "Duson, Jill C.",
+      "party": "Democratic",
+      "percentage": 0.7718937125748503
+    },
+    {
+      "district": 28,
+      "chamber": "Senate",
+      "winner": "Ross, Rachel Talbot",
+      "party": "Democratic",
+      "percentage": 1
+    },
+    {
+      "district": 29,
+      "chamber": "Senate",
+      "winner": "Carney, Anne M.",
+      "party": "Democratic",
+      "percentage": 0.7485684984189386
+    },
+    {
+      "district": 30,
+      "chamber": "Senate",
+      "winner": "Brenner, Stacy Fielding",
+      "party": "Democratic",
+      "percentage": 0.6033499357326478
+    },
+    {
+      "district": 31,
+      "chamber": "Senate",
+      "winner": "Bailey, Donna",
+      "party": "Democratic",
+      "percentage": 0.5766134353965949
+    },
+    {
+      "district": 32,
+      "chamber": "Senate",
+      "winner": "Ingwersen, Henry L.",
+      "party": "Democratic",
+      "percentage": 0.5841551140965175
+    },
+    {
+      "district": 33,
+      "chamber": "Senate",
+      "winner": "Harrington, Matthew A.",
+      "party": "Republican",
+      "percentage": 0.6062024575775308
+    },
+    {
+      "district": 34,
+      "chamber": "Senate",
+      "winner": "Rafferty, Joseph E. Jr.",
+      "party": "Democratic",
+      "percentage": 0.5578226254397334
+    },
+    {
+      "district": 35,
+      "chamber": "Senate",
+      "winner": "Lawrence, Mark W.",
+      "party": "Democratic",
+      "percentage": 0.6356382978723404
+    }
+  ]
+}

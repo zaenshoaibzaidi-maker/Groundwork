@@ -1,0 +1,3906 @@
+{
+  "house": {
+    "Addison 1": {
+      "districtName": "Addison 1",
+      "census": {
+        "censusName": "Addison-1 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85000,
+        "medianAge": 30.4,
+        "totalPopulation": 8180,
+        "collegePct": 53.57,
+        "renterRatePct": 30.11,
+        "race": {
+          "whitePct": 81.74,
+          "nonHispanicWhitePct": 80.62,
+          "blackPct": 1.59,
+          "asianPct": 6.11,
+          "hispanicPct": 4.29
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Amy Sheldon",
+            "party": "Democratic",
+            "pct": 49.6
+          },
+          {
+            "name": "Robin Scheu",
+            "party": "Democratic",
+            "pct": 47.6
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Addison 2": {
+      "districtName": "Addison 2",
+      "census": {
+        "censusName": "Addison-2 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96000,
+        "medianAge": 49.1,
+        "totalPopulation": 4122,
+        "collegePct": 44.24,
+        "renterRatePct": 10.86,
+        "race": {
+          "whitePct": 91.85,
+          "nonHispanicWhitePct": 91.65,
+          "blackPct": 1.72,
+          "asianPct": 2.28,
+          "hispanicPct": 3.06
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Peter Conlon",
+            "party": "Democratic",
+            "pct": 55.9
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Addison 3": {
+      "districtName": "Addison 3",
+      "census": {
+        "censusName": "Addison-3 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95931,
+        "medianAge": 46.5,
+        "totalPopulation": 8079,
+        "collegePct": 42.98,
+        "renterRatePct": 19.63,
+        "race": {
+          "whitePct": 94.28,
+          "nonHispanicWhitePct": 93.91,
+          "blackPct": 0.66,
+          "asianPct": 0.33,
+          "hispanicPct": 2.51
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Rob North",
+            "party": "Republican",
+            "pct": 27.7
+          },
+          {
+            "name": "Matt Birong",
+            "party": "Democratic",
+            "pct": 24.6
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Addison 4": {
+      "districtName": "Addison 4",
+      "census": {
+        "censusName": "Addison-4 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88323,
+        "medianAge": 45.3,
+        "totalPopulation": 9030,
+        "collegePct": 43.24,
+        "renterRatePct": 14.79,
+        "race": {
+          "whitePct": 94.89,
+          "nonHispanicWhitePct": 94.5,
+          "blackPct": 0.94,
+          "asianPct": 0.49,
+          "hispanicPct": 2.21
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Herb Olson",
+            "party": "Democratic",
+            "pct": 29.7
+          },
+          {
+            "name": "Mari Cordes",
+            "party": "Democratic",
+            "pct": 27.7
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Addison 5": {
+      "districtName": "Addison 5",
+      "census": {
+        "censusName": "Addison-5 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79405,
+        "medianAge": 46.2,
+        "totalPopulation": 4228,
+        "collegePct": 43.99,
+        "renterRatePct": 26.16,
+        "race": {
+          "whitePct": 89.97,
+          "nonHispanicWhitePct": 89.24,
+          "blackPct": 0.85,
+          "asianPct": 2.34,
+          "hispanicPct": 3.78
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Jubilee McGill",
+            "party": "Democratic",
+            "pct": 54.8
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Addison-Rutland": {
+      "districtName": "Addison-Rutland",
+      "census": {
+        "censusName": "Addison-Rutland State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85893,
+        "medianAge": 47.6,
+        "totalPopulation": 4516,
+        "collegePct": 31.26,
+        "renterRatePct": 14.63,
+        "race": {
+          "whitePct": 91.94,
+          "nonHispanicWhitePct": 91.7,
+          "blackPct": 0.51,
+          "asianPct": 0.31,
+          "hispanicPct": 3.7
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Jim Casey",
+            "party": "Republican",
+            "pct": 94.9
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Bennington 1": {
+      "districtName": "Bennington 1",
+      "census": {
+        "censusName": "Bennington-1 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71635,
+        "medianAge": 50.6,
+        "totalPopulation": 4214,
+        "collegePct": 33.06,
+        "renterRatePct": 6.51,
+        "race": {
+          "whitePct": 94.45,
+          "nonHispanicWhitePct": 94.38,
+          "blackPct": 0,
+          "asianPct": 0.47,
+          "hispanicPct": 2.21
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Jonathan Cooper",
+            "party": "Democratic",
+            "pct": 50.4
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Bennington 2": {
+      "districtName": "Bennington 2",
+      "census": {
+        "censusName": "Bennington-2 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60000,
+        "medianAge": 41.8,
+        "totalPopulation": 8585,
+        "collegePct": 36.55,
+        "renterRatePct": 42.13,
+        "race": {
+          "whitePct": 93.34,
+          "nonHispanicWhitePct": 91.12,
+          "blackPct": 1.34,
+          "asianPct": 0.9,
+          "hispanicPct": 3.35
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Timothy R. Corcoran, II",
+            "party": "Democratic",
+            "pct": 39.5
+          },
+          {
+            "name": "William \"Will\" Greer",
+            "party": "Democratic",
+            "pct": 34.4
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Bennington 3": {
+      "districtName": "Bennington 3",
+      "census": {
+        "censusName": "Bennington-3 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101250,
+        "medianAge": 44.7,
+        "totalPopulation": 4076,
+        "collegePct": 41.43,
+        "renterRatePct": 8.94,
+        "race": {
+          "whitePct": 92.39,
+          "nonHispanicWhitePct": 90.48,
+          "blackPct": 0.81,
+          "asianPct": 0,
+          "hispanicPct": 3.12
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "David K. Durfee",
+            "party": "Democratic",
+            "pct": 56.2
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Bennington 4": {
+      "districtName": "Bennington 4",
+      "census": {
+        "censusName": "Bennington-4 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89185,
+        "medianAge": 48,
+        "totalPopulation": 8551,
+        "collegePct": 47.18,
+        "renterRatePct": 18.09,
+        "race": {
+          "whitePct": 90.13,
+          "nonHispanicWhitePct": 89.66,
+          "blackPct": 2.33,
+          "asianPct": 0.9,
+          "hispanicPct": 4.33
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Robert Hunter",
+            "party": "Democratic",
+            "pct": 48.2
+          },
+          {
+            "name": "Kathleen James",
+            "party": "Democratic",
+            "pct": 48.2
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Bennington 5": {
+      "districtName": "Bennington 5",
+      "census": {
+        "censusName": "Bennington-5 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61847,
+        "medianAge": 46,
+        "totalPopulation": 7899,
+        "collegePct": 33.33,
+        "renterRatePct": 35.5,
+        "race": {
+          "whitePct": 93.32,
+          "nonHispanicWhitePct": 92.28,
+          "blackPct": 0.01,
+          "asianPct": 1.48,
+          "hispanicPct": 1.61
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Mary A. Morrissey",
+            "party": "Republican",
+            "pct": 36.5
+          },
+          {
+            "name": "Michael Nigro",
+            "party": "Democratic",
+            "pct": 32.8
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Bennington-Rutland": {
+      "districtName": "Bennington-Rutland",
+      "census": {
+        "censusName": "Bennington-Rutland State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81429,
+        "medianAge": 50.5,
+        "totalPopulation": 4047,
+        "collegePct": 55.25,
+        "renterRatePct": 11.73,
+        "race": {
+          "whitePct": 94.44,
+          "nonHispanicWhitePct": 94,
+          "blackPct": 0.74,
+          "asianPct": 1.01,
+          "hispanicPct": 0.44
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Sandra \"Sandy\" Pinsonault",
+            "party": "Republican",
+            "pct": 54.5
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Caledonia 1": {
+      "districtName": "Caledonia 1",
+      "census": {
+        "censusName": "Caledonia-1 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74207,
+        "medianAge": 45.4,
+        "totalPopulation": 4188,
+        "collegePct": 35.73,
+        "renterRatePct": 11.81,
+        "race": {
+          "whitePct": 96.68,
+          "nonHispanicWhitePct": 95.53,
+          "blackPct": 0.12,
+          "asianPct": 0.14,
+          "hispanicPct": 2.34
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Debra Lynn Powers",
+            "party": "Republican",
+            "pct": 57.3
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Caledonia 2": {
+      "districtName": "Caledonia 2",
+      "census": {
+        "censusName": "Caledonia-2 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82739,
+        "medianAge": 47.5,
+        "totalPopulation": 4117,
+        "collegePct": 28.28,
+        "renterRatePct": 17.06,
+        "race": {
+          "whitePct": 92.35,
+          "nonHispanicWhitePct": 91.55,
+          "blackPct": 1.99,
+          "asianPct": 0.46,
+          "hispanicPct": 1.77
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Michael \"Mike\" Southworth",
+            "party": "Republican",
+            "pct": 58.5
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Caledonia 3": {
+      "districtName": "Caledonia 3",
+      "census": {
+        "censusName": "Caledonia-3 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63975,
+        "medianAge": 44.7,
+        "totalPopulation": 8462,
+        "collegePct": 29.39,
+        "renterRatePct": 15.3,
+        "race": {
+          "whitePct": 92.68,
+          "nonHispanicWhitePct": 91.95,
+          "blackPct": 1,
+          "asianPct": 0.17,
+          "hispanicPct": 2.81
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Martha \"Marty\" Feltus",
+            "party": "Republican",
+            "pct": 32.2
+          },
+          {
+            "name": "Beth M. Quimby",
+            "party": "Republican",
+            "pct": 30.7
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Caledonia-Essex": {
+      "districtName": "Caledonia-Essex",
+      "census": {
+        "censusName": "Caledonia-Essex State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57727,
+        "medianAge": 43.9,
+        "totalPopulation": 9368,
+        "collegePct": 28.25,
+        "renterRatePct": 35.87,
+        "race": {
+          "whitePct": 91.07,
+          "nonHispanicWhitePct": 90.8,
+          "blackPct": 0.94,
+          "asianPct": 0.41,
+          "hispanicPct": 1.8
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Deborah Cordz Dolgin",
+            "party": "Republican",
+            "pct": 37.1
+          },
+          {
+            "name": "R. Scott Campbell",
+            "party": "Democratic",
+            "pct": 36
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Caledonia-Washington": {
+      "districtName": "Caledonia-Washington",
+      "census": {
+        "censusName": "Caledonia-Washington State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78333,
+        "medianAge": 47.1,
+        "totalPopulation": 4776,
+        "collegePct": 41.12,
+        "renterRatePct": 18.12,
+        "race": {
+          "whitePct": 95.21,
+          "nonHispanicWhitePct": 94.51,
+          "blackPct": 0.52,
+          "asianPct": 0.54,
+          "hispanicPct": 1.21
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Greg Burtt",
+            "party": "Republican",
+            "pct": 56.3
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Chittenden 1": {
+      "districtName": "Chittenden 1",
+      "census": {
+        "censusName": "Chittenden-1 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 117260,
+        "medianAge": 45.3,
+        "totalPopulation": 4148,
+        "collegePct": 62.57,
+        "renterRatePct": 21.36,
+        "race": {
+          "whitePct": 94.09,
+          "nonHispanicWhitePct": 92.26,
+          "blackPct": 0.92,
+          "asianPct": 1.16,
+          "hispanicPct": 2.65
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Jana Brown",
+            "party": "Democratic",
+            "pct": 97.8
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden 10": {
+      "districtName": "Chittenden 10",
+      "census": {
+        "censusName": "Chittenden-10 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88563,
+        "medianAge": 40,
+        "totalPopulation": 4167,
+        "collegePct": 49.17,
+        "renterRatePct": 38.04,
+        "race": {
+          "whitePct": 82.48,
+          "nonHispanicWhitePct": 82.03,
+          "blackPct": 1.85,
+          "asianPct": 4.06,
+          "hispanicPct": 4.8
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Kate Nugent",
+            "party": "Democratic",
+            "pct": 96.5
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden 11": {
+      "districtName": "Chittenden 11",
+      "census": {
+        "censusName": "Chittenden-11 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74378,
+        "medianAge": 35.1,
+        "totalPopulation": 4990,
+        "collegePct": 57.29,
+        "renterRatePct": 63.6,
+        "race": {
+          "whitePct": 79.92,
+          "nonHispanicWhitePct": 78.42,
+          "blackPct": 3.67,
+          "asianPct": 7.58,
+          "hispanicPct": 3.07
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Brian Minier",
+            "party": "Democratic",
+            "pct": 98
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden 12": {
+      "districtName": "Chittenden 12",
+      "census": {
+        "censusName": "Chittenden-12 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 110459,
+        "medianAge": 37.4,
+        "totalPopulation": 4683,
+        "collegePct": 75.79,
+        "renterRatePct": 34.76,
+        "race": {
+          "whitePct": 85.2,
+          "nonHispanicWhitePct": 84.13,
+          "blackPct": 0.85,
+          "asianPct": 9.31,
+          "hispanicPct": 2.93
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Martin Lalonde",
+            "party": "Democratic",
+            "pct": 97.9
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden 13": {
+      "districtName": "Chittenden 13",
+      "census": {
+        "censusName": "Chittenden-13 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88113,
+        "medianAge": 37.3,
+        "totalPopulation": 7369,
+        "collegePct": 68.06,
+        "renterRatePct": 48.64,
+        "race": {
+          "whitePct": 91.64,
+          "nonHispanicWhitePct": 91.14,
+          "blackPct": 0.91,
+          "asianPct": 2.65,
+          "hispanicPct": 1.47
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Tiff Bluemle",
+            "party": "Democratic",
+            "pct": 53.1
+          },
+          {
+            "name": "Bram Kleppner",
+            "party": "Democratic",
+            "pct": 46
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden 14": {
+      "districtName": "Chittenden 14",
+      "census": {
+        "censusName": "Chittenden-14 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 31994,
+        "medianAge": 20.1,
+        "totalPopulation": 8268,
+        "collegePct": 67.71,
+        "renterRatePct": 81.74,
+        "race": {
+          "whitePct": 88.85,
+          "nonHispanicWhitePct": 86.64,
+          "blackPct": 0.6,
+          "asianPct": 5.04,
+          "hispanicPct": 3.02
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Mary-Katherine Stone",
+            "party": "Democratic",
+            "pct": 50.4
+          },
+          {
+            "name": "Barbara Rachelson",
+            "party": "Democratic",
+            "pct": 49
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden 15": {
+      "districtName": "Chittenden 15",
+      "census": {
+        "censusName": "Chittenden-15 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61194,
+        "medianAge": 21.9,
+        "totalPopulation": 9098,
+        "collegePct": 68.38,
+        "renterRatePct": 80.31,
+        "race": {
+          "whitePct": 85.36,
+          "nonHispanicWhitePct": 84.28,
+          "blackPct": 4.63,
+          "asianPct": 2.9,
+          "hispanicPct": 3.66
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Brian Cina",
+            "party": "Democratic",
+            "pct": 52.1
+          },
+          {
+            "name": "Troy Headrick",
+            "party": "Democratic",
+            "pct": 46.6
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden 16": {
+      "districtName": "Chittenden 16",
+      "census": {
+        "censusName": "Chittenden-16 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50489,
+        "medianAge": 27.7,
+        "totalPopulation": 7263,
+        "collegePct": 60.34,
+        "renterRatePct": 84.98,
+        "race": {
+          "whitePct": 78.23,
+          "nonHispanicWhitePct": 76.25,
+          "blackPct": 9.32,
+          "asianPct": 3.66,
+          "hispanicPct": 5.93
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Jill Krowinski",
+            "party": "Democratic",
+            "pct": 54.6
+          },
+          {
+            "name": "Kate Logan",
+            "party": "Democratic",
+            "pct": 44.6
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden 17": {
+      "districtName": "Chittenden 17",
+      "census": {
+        "censusName": "Chittenden-17 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82500,
+        "medianAge": 34.9,
+        "totalPopulation": 4704,
+        "collegePct": 58.52,
+        "renterRatePct": 46.99,
+        "race": {
+          "whitePct": 88.97,
+          "nonHispanicWhitePct": 87.46,
+          "blackPct": 0.6,
+          "asianPct": 4.95,
+          "hispanicPct": 2.7
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Abbey Duke",
+            "party": "Democratic",
+            "pct": 61.8
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Chittenden 18": {
+      "districtName": "Chittenden 18",
+      "census": {
+        "censusName": "Chittenden-18 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95329,
+        "medianAge": 47,
+        "totalPopulation": 7947,
+        "collegePct": 49.6,
+        "renterRatePct": 24.83,
+        "race": {
+          "whitePct": 82.74,
+          "nonHispanicWhitePct": 82.14,
+          "blackPct": 5.31,
+          "asianPct": 3.52,
+          "hispanicPct": 2.96
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Carol Ode",
+            "party": "Democratic",
+            "pct": 50.4
+          },
+          {
+            "name": "Robert J. Hooper",
+            "party": "Democratic",
+            "pct": 47.7
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden 19": {
+      "districtName": "Chittenden 19",
+      "census": {
+        "censusName": "Chittenden-19 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102552,
+        "medianAge": 42.3,
+        "totalPopulation": 8344,
+        "collegePct": 43.07,
+        "renterRatePct": 26.12,
+        "race": {
+          "whitePct": 88.31,
+          "nonHispanicWhitePct": 87.02,
+          "blackPct": 2.95,
+          "asianPct": 0.91,
+          "hispanicPct": 4.1
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Wendy Critchlow",
+            "party": "Democratic",
+            "pct": 31.5
+          },
+          {
+            "name": "Sarita Austin",
+            "party": "Democratic",
+            "pct": 28.9
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Chittenden 2": {
+      "districtName": "Chittenden 2",
+      "census": {
+        "censusName": "Chittenden-2 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104435,
+        "medianAge": 43.7,
+        "totalPopulation": 9437,
+        "collegePct": 56.77,
+        "renterRatePct": 26.71,
+        "race": {
+          "whitePct": 90.15,
+          "nonHispanicWhitePct": 90.15,
+          "blackPct": 1.95,
+          "asianPct": 0.78,
+          "hispanicPct": 3.13
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Erin Brady",
+            "party": "Democratic",
+            "pct": 49.9
+          },
+          {
+            "name": "Angela Arsenault",
+            "party": "Democratic",
+            "pct": 47.7
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden 20": {
+      "districtName": "Chittenden 20",
+      "census": {
+        "censusName": "Chittenden-20 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97228,
+        "medianAge": 32.4,
+        "totalPopulation": 9226,
+        "collegePct": 38.49,
+        "renterRatePct": 29.97,
+        "race": {
+          "whitePct": 87.89,
+          "nonHispanicWhitePct": 86.16,
+          "blackPct": 2.7,
+          "asianPct": 3.19,
+          "hispanicPct": 3.16
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Doug Bishop",
+            "party": "Democratic",
+            "pct": 32.5
+          },
+          {
+            "name": "Gayle Pezzo",
+            "party": "Democratic",
+            "pct": 25.4
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Chittenden 21": {
+      "districtName": "Chittenden 21",
+      "census": {
+        "censusName": "Chittenden-21 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77020,
+        "medianAge": 32.7,
+        "totalPopulation": 8198,
+        "collegePct": 56.21,
+        "renterRatePct": 61.81,
+        "race": {
+          "whitePct": 78.49,
+          "nonHispanicWhitePct": 77.1,
+          "blackPct": 4.55,
+          "asianPct": 11.37,
+          "hispanicPct": 3.03
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Daisy Berbeco",
+            "party": "Democratic",
+            "pct": 53.1
+          },
+          {
+            "name": "Chloe Tomlinson",
+            "party": "Democratic",
+            "pct": 45.3
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden 22": {
+      "districtName": "Chittenden 22",
+      "census": {
+        "censusName": "Chittenden-22 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95968,
+        "medianAge": 40.8,
+        "totalPopulation": 9462,
+        "collegePct": 48.48,
+        "renterRatePct": 32.85,
+        "race": {
+          "whitePct": 85.44,
+          "nonHispanicWhitePct": 85.11,
+          "blackPct": 3.79,
+          "asianPct": 3.28,
+          "hispanicPct": 1.07
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Lori Houghton",
+            "party": "Democratic",
+            "pct": 49.6
+          },
+          {
+            "name": "Karen Dolan",
+            "party": "Democratic",
+            "pct": 47.8
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden 23": {
+      "districtName": "Chittenden 23",
+      "census": {
+        "censusName": "Chittenden-23 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84944,
+        "medianAge": 41.3,
+        "totalPopulation": 8423,
+        "collegePct": 60.14,
+        "renterRatePct": 38.92,
+        "race": {
+          "whitePct": 80.67,
+          "nonHispanicWhitePct": 79.63,
+          "blackPct": 5.59,
+          "asianPct": 6.79,
+          "hispanicPct": 4.42
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Leonora Dodge",
+            "party": "Democratic",
+            "pct": 38.5
+          },
+          {
+            "name": "Golrang \"Rey\" Garofano",
+            "party": "Democratic",
+            "pct": 32.8
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Chittenden 24": {
+      "districtName": "Chittenden 24",
+      "census": {
+        "censusName": "Chittenden-24 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 123750,
+        "medianAge": 44.7,
+        "totalPopulation": 4321,
+        "collegePct": 52.1,
+        "renterRatePct": 7.03,
+        "race": {
+          "whitePct": 88.38,
+          "nonHispanicWhitePct": 87.97,
+          "blackPct": 0,
+          "asianPct": 7.41,
+          "hispanicPct": 0.88
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Alyssa Black",
+            "party": "Democratic",
+            "pct": 57.7
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Chittenden 25": {
+      "districtName": "Chittenden 25",
+      "census": {
+        "censusName": "Chittenden-25 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 128750,
+        "medianAge": 41.9,
+        "totalPopulation": 4916,
+        "collegePct": 39.86,
+        "renterRatePct": 7.19,
+        "race": {
+          "whitePct": 92.76,
+          "nonHispanicWhitePct": 90.68,
+          "blackPct": 0.02,
+          "asianPct": 0.67,
+          "hispanicPct": 2.12
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Brenda Turner Steady",
+            "party": "Republican",
+            "pct": 52.4
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Chittenden 3": {
+      "districtName": "Chittenden 3",
+      "census": {
+        "censusName": "Chittenden-3 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104643,
+        "medianAge": 45.5,
+        "totalPopulation": 8241,
+        "collegePct": 57.65,
+        "renterRatePct": 12.18,
+        "race": {
+          "whitePct": 91.98,
+          "nonHispanicWhitePct": 91.91,
+          "blackPct": 0.69,
+          "asianPct": 0.75,
+          "hispanicPct": 1.36
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Trevor Squirrell",
+            "party": "Democratic",
+            "pct": 49.6
+          },
+          {
+            "name": "Edye Graning",
+            "party": "Democratic",
+            "pct": 48.4
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden 4": {
+      "districtName": "Chittenden 4",
+      "census": {
+        "censusName": "Chittenden-4 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115045,
+        "medianAge": 49.7,
+        "totalPopulation": 4502,
+        "collegePct": 61.52,
+        "renterRatePct": 15.06,
+        "race": {
+          "whitePct": 96.45,
+          "nonHispanicWhitePct": 95.74,
+          "blackPct": 0,
+          "asianPct": 0,
+          "hispanicPct": 0.71
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Phil Pouech",
+            "party": "Democratic",
+            "pct": 83.9
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden 5": {
+      "districtName": "Chittenden 5",
+      "census": {
+        "censusName": "Chittenden-5 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 135481,
+        "medianAge": 48.8,
+        "totalPopulation": 4090,
+        "collegePct": 61.24,
+        "renterRatePct": 5.44,
+        "race": {
+          "whitePct": 96.38,
+          "nonHispanicWhitePct": 94.89,
+          "blackPct": 0.24,
+          "asianPct": 0.46,
+          "hispanicPct": 1.49
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Chea Waters Evans",
+            "party": "Democratic",
+            "pct": 93.6
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden 6": {
+      "districtName": "Chittenden 6",
+      "census": {
+        "censusName": "Chittenden-6 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101694,
+        "medianAge": 46.4,
+        "totalPopulation": 4928,
+        "collegePct": 73.2,
+        "renterRatePct": 37.12,
+        "race": {
+          "whitePct": 88.29,
+          "nonHispanicWhitePct": 86.95,
+          "blackPct": 0.83,
+          "asianPct": 4.26,
+          "hispanicPct": 2.25
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Kate Lalley",
+            "party": "Democratic",
+            "pct": 71.1
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Chittenden 7": {
+      "districtName": "Chittenden 7",
+      "census": {
+        "censusName": "Chittenden-7 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 150208,
+        "medianAge": 51.5,
+        "totalPopulation": 3765,
+        "collegePct": 59.69,
+        "renterRatePct": 5.94,
+        "race": {
+          "whitePct": 90.31,
+          "nonHispanicWhitePct": 90.25,
+          "blackPct": 0.48,
+          "asianPct": 2.34,
+          "hispanicPct": 3.9
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Shawn Sweeney",
+            "party": "Democratic",
+            "pct": 97.9
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden 8": {
+      "districtName": "Chittenden 8",
+      "census": {
+        "censusName": "Chittenden-8 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 159412,
+        "medianAge": 45.1,
+        "totalPopulation": 4306,
+        "collegePct": 71.85,
+        "renterRatePct": 12.34,
+        "race": {
+          "whitePct": 82.14,
+          "nonHispanicWhitePct": 80.49,
+          "blackPct": 0.53,
+          "asianPct": 11.19,
+          "hispanicPct": 4.25
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Bridget Marie Burkhardt",
+            "party": "Democratic",
+            "pct": 97.3
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden 9": {
+      "districtName": "Chittenden 9",
+      "census": {
+        "censusName": "Chittenden-9 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87813,
+        "medianAge": 42.5,
+        "totalPopulation": 3003,
+        "collegePct": 69.53,
+        "renterRatePct": 32.05,
+        "race": {
+          "whitePct": 82.52,
+          "nonHispanicWhitePct": 81.59,
+          "blackPct": 0.43,
+          "asianPct": 10.56,
+          "hispanicPct": 2.13
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Emilie Krasnow",
+            "party": "Democratic",
+            "pct": 97.5
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden-Franklin": {
+      "districtName": "Chittenden-Franklin",
+      "census": {
+        "censusName": "Chittenden-Franklin State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103485,
+        "medianAge": 38,
+        "totalPopulation": 7558,
+        "collegePct": 29.51,
+        "renterRatePct": 19.42,
+        "race": {
+          "whitePct": 92.15,
+          "nonHispanicWhitePct": 91.93,
+          "blackPct": 3.78,
+          "asianPct": 0,
+          "hispanicPct": 1.63
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Chris Taylor",
+            "party": "Republican",
+            "pct": 35.2
+          },
+          {
+            "name": "Anthony \"Tony\" Micklus",
+            "party": "Republican",
+            "pct": 26.1
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Essex-Caledonia": {
+      "districtName": "Essex-Caledonia",
+      "census": {
+        "censusName": "Essex-Caledonia State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61071,
+        "medianAge": 48.3,
+        "totalPopulation": 4072,
+        "collegePct": 26.3,
+        "renterRatePct": 12.4,
+        "race": {
+          "whitePct": 94.77,
+          "nonHispanicWhitePct": 94.28,
+          "blackPct": 0.07,
+          "asianPct": 1.08,
+          "hispanicPct": 0.83
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "John R. Kascenska, II",
+            "party": "Republican",
+            "pct": 97.5
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Essex-Orleans": {
+      "districtName": "Essex-Orleans",
+      "census": {
+        "censusName": "Essex-Orleans State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56404,
+        "medianAge": 50.4,
+        "totalPopulation": 4402,
+        "collegePct": 22.35,
+        "renterRatePct": 20.5,
+        "race": {
+          "whitePct": 97.68,
+          "nonHispanicWhitePct": 95.75,
+          "blackPct": 0,
+          "asianPct": 0.09,
+          "hispanicPct": 1.98
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Larry Labor",
+            "party": "Republican",
+            "pct": 96.7
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Franklin 1": {
+      "districtName": "Franklin 1",
+      "census": {
+        "censusName": "Franklin-1 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105394,
+        "medianAge": 41,
+        "totalPopulation": 9103,
+        "collegePct": 43.14,
+        "renterRatePct": 11.65,
+        "race": {
+          "whitePct": 96.16,
+          "nonHispanicWhitePct": 94.75,
+          "blackPct": 0,
+          "asianPct": 0.53,
+          "hispanicPct": 2.08
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Carolyn Whitney Branagan",
+            "party": "Republican",
+            "pct": 49.7
+          },
+          {
+            "name": "Ashley R. Bartley",
+            "party": "Republican",
+            "pct": 49.2
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Franklin 2": {
+      "districtName": "Franklin 2",
+      "census": {
+        "censusName": "Franklin-2 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97520,
+        "medianAge": 39.2,
+        "totalPopulation": 3937,
+        "collegePct": 33.17,
+        "renterRatePct": 12.45,
+        "race": {
+          "whitePct": 90.27,
+          "nonHispanicWhitePct": 90.07,
+          "blackPct": 0.08,
+          "asianPct": 0.71,
+          "hispanicPct": 3.99
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Eileen \"Lynn\" Dickinson",
+            "party": "Republican",
+            "pct": 96.1
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Franklin 3": {
+      "districtName": "Franklin 3",
+      "census": {
+        "censusName": "Franklin-3 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57835,
+        "medianAge": 37.4,
+        "totalPopulation": 4675,
+        "collegePct": 27.6,
+        "renterRatePct": 47.6,
+        "race": {
+          "whitePct": 93.13,
+          "nonHispanicWhitePct": 93.13,
+          "blackPct": 0.6,
+          "asianPct": 0,
+          "hispanicPct": 1.52
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Joe Luneau",
+            "party": "Republican",
+            "pct": 53.9
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Franklin 4": {
+      "districtName": "Franklin 4",
+      "census": {
+        "censusName": "Franklin-4 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72623,
+        "medianAge": 42.5,
+        "totalPopulation": 9087,
+        "collegePct": 19.09,
+        "renterRatePct": 19.56,
+        "race": {
+          "whitePct": 93.42,
+          "nonHispanicWhitePct": 93.42,
+          "blackPct": 0.19,
+          "asianPct": 1.54,
+          "hispanicPct": 1.49
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Matthew E. Walker",
+            "party": "Republican",
+            "pct": 50.8
+          },
+          {
+            "name": "Thomas \"Tom\" Oliver, Jr.",
+            "party": "Republican",
+            "pct": 48.3
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Franklin 5": {
+      "districtName": "Franklin 5",
+      "census": {
+        "censusName": "Franklin-5 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73563,
+        "medianAge": 39.3,
+        "totalPopulation": 9233,
+        "collegePct": 18.13,
+        "renterRatePct": 22.1,
+        "race": {
+          "whitePct": 91.04,
+          "nonHispanicWhitePct": 90.73,
+          "blackPct": 0.16,
+          "asianPct": 0.28,
+          "hispanicPct": 1.68
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Wayne A. Laroche",
+            "party": "Republican",
+            "pct": 50.3
+          },
+          {
+            "name": "Lisa A. Hango",
+            "party": "Republican",
+            "pct": 48.6
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Franklin 6": {
+      "districtName": "Franklin 6",
+      "census": {
+        "censusName": "Franklin-6 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90806,
+        "medianAge": 43.7,
+        "totalPopulation": 4275,
+        "collegePct": 35.03,
+        "renterRatePct": 5.5,
+        "race": {
+          "whitePct": 95.2,
+          "nonHispanicWhitePct": 94.69,
+          "blackPct": 0.07,
+          "asianPct": 0.33,
+          "hispanicPct": 2.69
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "James Gregoire",
+            "party": "Republican",
+            "pct": 96.6
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Franklin 7": {
+      "districtName": "Franklin 7",
+      "census": {
+        "censusName": "Franklin-7 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58362,
+        "medianAge": 42.6,
+        "totalPopulation": 3824,
+        "collegePct": 29.92,
+        "renterRatePct": 22.72,
+        "race": {
+          "whitePct": 89.15,
+          "nonHispanicWhitePct": 89.15,
+          "blackPct": 0.1,
+          "asianPct": 0.76,
+          "hispanicPct": 0.29
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Allen \"Penny\" Demar",
+            "party": "Republican",
+            "pct": 66.6
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Franklin 8": {
+      "districtName": "Franklin 8",
+      "census": {
+        "censusName": "Franklin-8 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69375,
+        "medianAge": 43.6,
+        "totalPopulation": 5334,
+        "collegePct": 32.52,
+        "renterRatePct": 40.23,
+        "race": {
+          "whitePct": 89.37,
+          "nonHispanicWhitePct": 89.37,
+          "blackPct": 1.18,
+          "asianPct": 0,
+          "hispanicPct": 2.62
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Casey J. Toof",
+            "party": "Republican",
+            "pct": 62.9
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Grand Isle-Chittenden": {
+      "districtName": "Grand Isle-Chittenden",
+      "census": {
+        "censusName": "Grand Isle-Chittenden State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97599,
+        "medianAge": 47.2,
+        "totalPopulation": 8917,
+        "collegePct": 43.27,
+        "renterRatePct": 8.77,
+        "race": {
+          "whitePct": 93.05,
+          "nonHispanicWhitePct": 92.14,
+          "blackPct": 0.39,
+          "asianPct": 0.31,
+          "hispanicPct": 1.74
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Michael R. Morgan",
+            "party": "Republican",
+            "pct": 30.6
+          },
+          {
+            "name": "Leland J. Morgan",
+            "party": "Republican",
+            "pct": 30.2
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Lamoille 1": {
+      "districtName": "Lamoille 1",
+      "census": {
+        "censusName": "Lamoille-1 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84583,
+        "medianAge": 52.2,
+        "totalPopulation": 4604,
+        "collegePct": 65.28,
+        "renterRatePct": 27.55,
+        "race": {
+          "whitePct": 95.11,
+          "nonHispanicWhitePct": 95.11,
+          "blackPct": 0,
+          "asianPct": 0,
+          "hispanicPct": 2.17
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Jed Lipsky",
+            "party": "Independent",
+            "pct": 98.6
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Lamoille 2": {
+      "districtName": "Lamoille 2",
+      "census": {
+        "censusName": "Lamoille-2 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66287,
+        "medianAge": 38.8,
+        "totalPopulation": 8453,
+        "collegePct": 34.25,
+        "renterRatePct": 22.76,
+        "race": {
+          "whitePct": 94.57,
+          "nonHispanicWhitePct": 93.92,
+          "blackPct": 1.62,
+          "asianPct": 0.14,
+          "hispanicPct": 2.43
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Daniel Noyes",
+            "party": "Democratic",
+            "pct": 28.4
+          },
+          {
+            "name": "Richard J. Bailey",
+            "party": "Republican",
+            "pct": 27.3
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Lamoille 3": {
+      "districtName": "Lamoille 3",
+      "census": {
+        "censusName": "Lamoille-3 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77321,
+        "medianAge": 37.4,
+        "totalPopulation": 4437,
+        "collegePct": 45.7,
+        "renterRatePct": 28.56,
+        "race": {
+          "whitePct": 91.75,
+          "nonHispanicWhitePct": 91.23,
+          "blackPct": 1.58,
+          "asianPct": 0.02,
+          "hispanicPct": 1.89
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Lucy Boyden",
+            "party": "Democratic",
+            "pct": 54.2
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Lamoille-Washington": {
+      "districtName": "Lamoille-Washington",
+      "census": {
+        "censusName": "Lamoille-Washington State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66760,
+        "medianAge": 43.9,
+        "totalPopulation": 8756,
+        "collegePct": 42.49,
+        "renterRatePct": 28.85,
+        "race": {
+          "whitePct": 88.84,
+          "nonHispanicWhitePct": 88.24,
+          "blackPct": 1.04,
+          "asianPct": 2.3,
+          "hispanicPct": 2.99
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "David Yacovone",
+            "party": "Democratic",
+            "pct": 34.2
+          },
+          {
+            "name": "Saudia Lamont",
+            "party": "Democratic",
+            "pct": 26.6
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Orange 1": {
+      "districtName": "Orange 1",
+      "census": {
+        "censusName": "Orange-1 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71042,
+        "medianAge": 50,
+        "totalPopulation": 4550,
+        "collegePct": 27.73,
+        "renterRatePct": 11.53,
+        "race": {
+          "whitePct": 92.66,
+          "nonHispanicWhitePct": 92.07,
+          "blackPct": 1.54,
+          "asianPct": 0.13,
+          "hispanicPct": 1.67
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Michael Tagliavia",
+            "party": "Republican",
+            "pct": 53.4
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Orange 2": {
+      "districtName": "Orange 2",
+      "census": {
+        "censusName": "Orange-2 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77768,
+        "medianAge": 47.3,
+        "totalPopulation": 4595,
+        "collegePct": 38.16,
+        "renterRatePct": 19.55,
+        "race": {
+          "whitePct": 92.88,
+          "nonHispanicWhitePct": 92.67,
+          "blackPct": 0.07,
+          "asianPct": 1.48,
+          "hispanicPct": 3.2
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Monique Priestley",
+            "party": "Democratic",
+            "pct": 53.4
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Orange 3": {
+      "districtName": "Orange 3",
+      "census": {
+        "censusName": "Orange-3 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90872,
+        "medianAge": 43.7,
+        "totalPopulation": 4190,
+        "collegePct": 23.15,
+        "renterRatePct": 15.53,
+        "race": {
+          "whitePct": 96.32,
+          "nonHispanicWhitePct": 95.42,
+          "blackPct": 0.1,
+          "asianPct": 0.12,
+          "hispanicPct": 0.93
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Joshua Dobrovich",
+            "party": "Republican",
+            "pct": 96.6
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Orange-Caledonia": {
+      "districtName": "Orange-Caledonia",
+      "census": {
+        "censusName": "Orange-Caledonia State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64524,
+        "medianAge": 51.3,
+        "totalPopulation": 4129,
+        "collegePct": 33.57,
+        "renterRatePct": 15.26,
+        "race": {
+          "whitePct": 93.32,
+          "nonHispanicWhitePct": 93.05,
+          "blackPct": 0.27,
+          "asianPct": 0.8,
+          "hispanicPct": 1.16
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Joe Parsons",
+            "party": "Republican",
+            "pct": 62.7
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Orange-Washington-Addison": {
+      "districtName": "Orange-Washington-Addison",
+      "census": {
+        "censusName": "Orange-Washington-Addison State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73889,
+        "medianAge": 43.7,
+        "totalPopulation": 8617,
+        "collegePct": 36.42,
+        "renterRatePct": 27.38,
+        "race": {
+          "whitePct": 94.53,
+          "nonHispanicWhitePct": 94.29,
+          "blackPct": 0.07,
+          "asianPct": 0.45,
+          "hispanicPct": 1.51
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Jay Hooper",
+            "party": "Democratic",
+            "pct": 34.1
+          },
+          {
+            "name": "Larry Satcowitz",
+            "party": "Democratic",
+            "pct": 24.7
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Orleans 1": {
+      "districtName": "Orleans 1",
+      "census": {
+        "censusName": "Orleans-1 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73605,
+        "medianAge": 46.6,
+        "totalPopulation": 4538,
+        "collegePct": 33.98,
+        "renterRatePct": 18.73,
+        "race": {
+          "whitePct": 96.63,
+          "nonHispanicWhitePct": 96.3,
+          "blackPct": 1.48,
+          "asianPct": 1.01,
+          "hispanicPct": 0.33
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Richard M. Nelson",
+            "party": "Republican",
+            "pct": 98.3
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Orleans 2": {
+      "districtName": "Orleans 2",
+      "census": {
+        "censusName": "Orleans-2 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48194,
+        "medianAge": 46.3,
+        "totalPopulation": 4413,
+        "collegePct": 21.23,
+        "renterRatePct": 42.11,
+        "race": {
+          "whitePct": 92.07,
+          "nonHispanicWhitePct": 91.21,
+          "blackPct": 1.65,
+          "asianPct": 0,
+          "hispanicPct": 1.16
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Woodman \"Woody\" H. Page",
+            "party": "Republican",
+            "pct": 97.3
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Orleans 3": {
+      "districtName": "Orleans 3",
+      "census": {
+        "censusName": "Orleans-3 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65565,
+        "medianAge": 44.7,
+        "totalPopulation": 4391,
+        "collegePct": 29.72,
+        "renterRatePct": 22.4,
+        "race": {
+          "whitePct": 94.63,
+          "nonHispanicWhitePct": 92.33,
+          "blackPct": 1.23,
+          "asianPct": 0.07,
+          "hispanicPct": 3.58
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Ken Wells",
+            "party": "Republican",
+            "pct": 95.1
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Orleans 4": {
+      "districtName": "Orleans 4",
+      "census": {
+        "censusName": "Orleans-4 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71010,
+        "medianAge": 46.6,
+        "totalPopulation": 3887,
+        "collegePct": 45.86,
+        "renterRatePct": 11.01,
+        "race": {
+          "whitePct": 92.05,
+          "nonHispanicWhitePct": 91.12,
+          "blackPct": 0.67,
+          "asianPct": 0.85,
+          "hispanicPct": 1.8
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Leanne Harple",
+            "party": "Democratic",
+            "pct": 52.1
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Orleans-Lamoille": {
+      "districtName": "Orleans-Lamoille",
+      "census": {
+        "censusName": "Orleans-Lamoille State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75716,
+        "medianAge": 43.1,
+        "totalPopulation": 9131,
+        "collegePct": 22.72,
+        "renterRatePct": 13.19,
+        "race": {
+          "whitePct": 94.81,
+          "nonHispanicWhitePct": 93.6,
+          "blackPct": 0.13,
+          "asianPct": 1.33,
+          "hispanicPct": 2.19
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Mark A. Higley",
+            "party": "Republican",
+            "pct": 51.3
+          },
+          {
+            "name": "Michael J. Marcotte",
+            "party": "Republican",
+            "pct": 47.4
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Rutland 1": {
+      "districtName": "Rutland 1",
+      "census": {
+        "censusName": "Rutland-1 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67045,
+        "medianAge": 42.6,
+        "totalPopulation": 4075,
+        "collegePct": 33.56,
+        "renterRatePct": 24.58,
+        "race": {
+          "whitePct": 92.88,
+          "nonHispanicWhitePct": 92.66,
+          "blackPct": 0.1,
+          "asianPct": 0.56,
+          "hispanicPct": 2.63
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Patricia A. McCoy",
+            "party": "Republican",
+            "pct": 97.5
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Rutland 10": {
+      "districtName": "Rutland 10",
+      "census": {
+        "censusName": "Rutland-10 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66705,
+        "medianAge": 46.1,
+        "totalPopulation": 3751,
+        "collegePct": 23.43,
+        "renterRatePct": 22.49,
+        "race": {
+          "whitePct": 94.56,
+          "nonHispanicWhitePct": 94.53,
+          "blackPct": 0.19,
+          "asianPct": 0.16,
+          "hispanicPct": 0.11
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "William \"Bill\" Canfield",
+            "party": "Republican",
+            "pct": 98.6
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Rutland 11": {
+      "districtName": "Rutland 11",
+      "census": {
+        "censusName": "Rutland-11 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90400,
+        "medianAge": 51.6,
+        "totalPopulation": 3621,
+        "collegePct": 49.01,
+        "renterRatePct": 12.6,
+        "race": {
+          "whitePct": 90.09,
+          "nonHispanicWhitePct": 87.77,
+          "blackPct": 2.49,
+          "asianPct": 1.74,
+          "hispanicPct": 5.16
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Jim Harrison",
+            "party": "Republican",
+            "pct": 98.2
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Rutland 2": {
+      "districtName": "Rutland 2",
+      "census": {
+        "censusName": "Rutland-2 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64759,
+        "medianAge": 47.8,
+        "totalPopulation": 9427,
+        "collegePct": 31.66,
+        "renterRatePct": 24.4,
+        "race": {
+          "whitePct": 95.42,
+          "nonHispanicWhitePct": 94.72,
+          "blackPct": 0.6,
+          "asianPct": 0.74,
+          "hispanicPct": 1.03
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Thomas \"Tom\" Burditt",
+            "party": "Republican",
+            "pct": 37
+          },
+          {
+            "name": "David \"Dave\" Bosch",
+            "party": "Republican",
+            "pct": 34.9
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Rutland 3": {
+      "districtName": "Rutland 3",
+      "census": {
+        "censusName": "Rutland-3 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57308,
+        "medianAge": 36,
+        "totalPopulation": 4457,
+        "collegePct": 36.98,
+        "renterRatePct": 23.15,
+        "race": {
+          "whitePct": 94.73,
+          "nonHispanicWhitePct": 94.01,
+          "blackPct": 0.61,
+          "asianPct": 0.11,
+          "hispanicPct": 3.41
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Chris Brown",
+            "party": "Republican",
+            "pct": 97
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Rutland 4": {
+      "districtName": "Rutland 4",
+      "census": {
+        "censusName": "Rutland-4 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75080,
+        "medianAge": 51.4,
+        "totalPopulation": 4892,
+        "collegePct": 42.28,
+        "renterRatePct": 29.98,
+        "race": {
+          "whitePct": 98.75,
+          "nonHispanicWhitePct": 96.63,
+          "blackPct": 0,
+          "asianPct": 0,
+          "hispanicPct": 2.37
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Christopher Howland",
+            "party": "Republican",
+            "pct": 55.8
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Rutland 5": {
+      "districtName": "Rutland 5",
+      "census": {
+        "censusName": "Rutland-5 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71250,
+        "medianAge": 49.7,
+        "totalPopulation": 3479,
+        "collegePct": 40.41,
+        "renterRatePct": 28.36,
+        "race": {
+          "whitePct": 98.53,
+          "nonHispanicWhitePct": 97.9,
+          "blackPct": 0.4,
+          "asianPct": 0,
+          "hispanicPct": 0.63
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Eric Maguire",
+            "party": "Republican",
+            "pct": 96.6
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Rutland 6": {
+      "districtName": "Rutland 6",
+      "census": {
+        "censusName": "Rutland-6 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46334,
+        "medianAge": 46.6,
+        "totalPopulation": 4641,
+        "collegePct": 15.76,
+        "renterRatePct": 56.75,
+        "race": {
+          "whitePct": 94.1,
+          "nonHispanicWhitePct": 94.1,
+          "blackPct": 1.1,
+          "asianPct": 1.83,
+          "hispanicPct": 0
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Mary E. Howard",
+            "party": "Democratic",
+            "pct": 51.1
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Rutland 7": {
+      "districtName": "Rutland 7",
+      "census": {
+        "censusName": "Rutland-7 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47244,
+        "medianAge": 49.1,
+        "totalPopulation": 4439,
+        "collegePct": 35.52,
+        "renterRatePct": 58.25,
+        "race": {
+          "whitePct": 88.53,
+          "nonHispanicWhitePct": 88.31,
+          "blackPct": 1.04,
+          "asianPct": 0.41,
+          "hispanicPct": 6.2
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Chris Keyser",
+            "party": "Republican",
+            "pct": 57.9
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Rutland 8": {
+      "districtName": "Rutland 8",
+      "census": {
+        "censusName": "Rutland-8 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66515,
+        "medianAge": 43.9,
+        "totalPopulation": 4682,
+        "collegePct": 26.37,
+        "renterRatePct": 19.6,
+        "race": {
+          "whitePct": 94.28,
+          "nonHispanicWhitePct": 94.28,
+          "blackPct": 0,
+          "asianPct": 0.09,
+          "hispanicPct": 0
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Alicia Malay",
+            "party": "Republican",
+            "pct": 97.8
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Rutland 9": {
+      "districtName": "Rutland 9",
+      "census": {
+        "censusName": "Rutland-9 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56115,
+        "medianAge": 50.5,
+        "totalPopulation": 4121,
+        "collegePct": 30.9,
+        "renterRatePct": 19.75,
+        "race": {
+          "whitePct": 93.01,
+          "nonHispanicWhitePct": 93.01,
+          "blackPct": 0.99,
+          "asianPct": 0.83,
+          "hispanicPct": 0.36
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Tod Nielsen",
+            "party": "Republican",
+            "pct": 54.4
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Rutland-Bennington": {
+      "districtName": "Rutland-Bennington",
+      "census": {
+        "censusName": "Rutland-Bennington State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68875,
+        "medianAge": 50.1,
+        "totalPopulation": 3846,
+        "collegePct": 35.52,
+        "renterRatePct": 12.38,
+        "race": {
+          "whitePct": 89.96,
+          "nonHispanicWhitePct": 89.7,
+          "blackPct": 1.3,
+          "asianPct": 0.23,
+          "hispanicPct": 4.81
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Chris Pritchard",
+            "party": "Republican",
+            "pct": 55.8
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Rutland-Windsor": {
+      "districtName": "Rutland-Windsor",
+      "census": {
+        "censusName": "Rutland-Windsor State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66199,
+        "medianAge": 50.1,
+        "totalPopulation": 4622,
+        "collegePct": 42.32,
+        "renterRatePct": 19.15,
+        "race": {
+          "whitePct": 93.31,
+          "nonHispanicWhitePct": 92.86,
+          "blackPct": 0.54,
+          "asianPct": 0.22,
+          "hispanicPct": 3.01
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Kevin C. Winter",
+            "party": "Republican",
+            "pct": 57.5
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Washington 1": {
+      "districtName": "Washington 1",
+      "census": {
+        "censusName": "Washington-1 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74243,
+        "medianAge": 40.9,
+        "totalPopulation": 8803,
+        "collegePct": 33.48,
+        "renterRatePct": 22.25,
+        "race": {
+          "whitePct": 91.45,
+          "nonHispanicWhitePct": 89.21,
+          "blackPct": 0.67,
+          "asianPct": 1.24,
+          "hispanicPct": 2.85
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Anne B. Donahue",
+            "party": "Independent",
+            "pct": 34.1
+          },
+          {
+            "name": "Kenneth W. Goslant",
+            "party": "Republican",
+            "pct": 33
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Washington 2": {
+      "districtName": "Washington 2",
+      "census": {
+        "censusName": "Washington-2 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95588,
+        "medianAge": 45.8,
+        "totalPopulation": 7830,
+        "collegePct": 59.94,
+        "renterRatePct": 17.19,
+        "race": {
+          "whitePct": 94.48,
+          "nonHispanicWhitePct": 93.96,
+          "blackPct": 0.08,
+          "asianPct": 0.65,
+          "hispanicPct": 1.71
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Candice White",
+            "party": "Democratic",
+            "pct": 34.8
+          },
+          {
+            "name": "Dara Torre",
+            "party": "Democratic",
+            "pct": 29.1
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Washington 3": {
+      "districtName": "Washington 3",
+      "census": {
+        "censusName": "Washington-3 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53288,
+        "medianAge": 40.9,
+        "totalPopulation": 8461,
+        "collegePct": 32.71,
+        "renterRatePct": 49.94,
+        "race": {
+          "whitePct": 93.39,
+          "nonHispanicWhitePct": 92.86,
+          "blackPct": 0.31,
+          "asianPct": 0.85,
+          "hispanicPct": 2.45
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Michael Boutin",
+            "party": "Republican",
+            "pct": 30.7
+          },
+          {
+            "name": "Edward \"Teddy\" Waszazak",
+            "party": "Democratic",
+            "pct": 23.5
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Washington 4": {
+      "districtName": "Washington 4",
+      "census": {
+        "censusName": "Washington-4 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79175,
+        "medianAge": 43.4,
+        "totalPopulation": 8038,
+        "collegePct": 66.19,
+        "renterRatePct": 45.43,
+        "race": {
+          "whitePct": 89.8,
+          "nonHispanicWhitePct": 87.68,
+          "blackPct": 1.07,
+          "asianPct": 1.67,
+          "hispanicPct": 4.09
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Kate McCann",
+            "party": "Democratic",
+            "pct": 49.5
+          },
+          {
+            "name": "Conor Casey",
+            "party": "Democratic",
+            "pct": 48.9
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Washington 5": {
+      "districtName": "Washington 5",
+      "census": {
+        "censusName": "Washington-5 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100662,
+        "medianAge": 45.9,
+        "totalPopulation": 4621,
+        "collegePct": 55.78,
+        "renterRatePct": 9.95,
+        "race": {
+          "whitePct": 96.15,
+          "nonHispanicWhitePct": 95.15,
+          "blackPct": 1.1,
+          "asianPct": 0.17,
+          "hispanicPct": 2.06
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Elanor \"Ela\" Chapin",
+            "party": "Democratic",
+            "pct": 96.6
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Washington 6": {
+      "districtName": "Washington 6",
+      "census": {
+        "censusName": "Washington-6 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73050,
+        "medianAge": 43.5,
+        "totalPopulation": 4810,
+        "collegePct": 44.98,
+        "renterRatePct": 14.57,
+        "race": {
+          "whitePct": 91.68,
+          "nonHispanicWhitePct": 90.91,
+          "blackPct": 1.25,
+          "asianPct": 1.56,
+          "hispanicPct": 2.87
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Marc Mihaly",
+            "party": "Democratic",
+            "pct": 93.9
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Washington-Chittenden": {
+      "districtName": "Washington-Chittenden",
+      "census": {
+        "censusName": "Washington-Chittenden State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104578,
+        "medianAge": 43,
+        "totalPopulation": 8242,
+        "collegePct": 55.18,
+        "renterRatePct": 23.73,
+        "race": {
+          "whitePct": 94.12,
+          "nonHispanicWhitePct": 93.48,
+          "blackPct": 0.21,
+          "asianPct": 0.85,
+          "hispanicPct": 1.4
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Theresa A. Wood",
+            "party": "Democratic",
+            "pct": 34.8
+          },
+          {
+            "name": "Thomas Stevens",
+            "party": "Democratic",
+            "pct": 29.1
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Washington-Orange": {
+      "districtName": "Washington-Orange",
+      "census": {
+        "censusName": "Washington-Orange State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85152,
+        "medianAge": 45.4,
+        "totalPopulation": 8514,
+        "collegePct": 36.69,
+        "renterRatePct": 13.18,
+        "race": {
+          "whitePct": 94.29,
+          "nonHispanicWhitePct": 91.68,
+          "blackPct": 2.67,
+          "asianPct": 0,
+          "hispanicPct": 4.3
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Gina Galfetti",
+            "party": "Republican",
+            "pct": 40.9
+          },
+          {
+            "name": "Francis \"Topper\" McFaun",
+            "party": "Republican",
+            "pct": 36.4
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Windham 1": {
+      "districtName": "Windham 1",
+      "census": {
+        "censusName": "Windham-1 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76988,
+        "medianAge": 44.6,
+        "totalPopulation": 4860,
+        "collegePct": 31.79,
+        "renterRatePct": 20.77,
+        "race": {
+          "whitePct": 93.37,
+          "nonHispanicWhitePct": 91.34,
+          "blackPct": 0.14,
+          "asianPct": 1.17,
+          "hispanicPct": 2.49
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Zon Eastes",
+            "party": "Democratic",
+            "pct": 57
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Windham 2": {
+      "districtName": "Windham 2",
+      "census": {
+        "censusName": "Windham-2 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62194,
+        "medianAge": 48.7,
+        "totalPopulation": 3455,
+        "collegePct": 39.82,
+        "renterRatePct": 16.19,
+        "race": {
+          "whitePct": 97.66,
+          "nonHispanicWhitePct": 97.42,
+          "blackPct": 0.26,
+          "asianPct": 0,
+          "hispanicPct": 0.26
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Laura Sibilia",
+            "party": "Independent",
+            "pct": 93.2
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Windham 3": {
+      "districtName": "Windham 3",
+      "census": {
+        "censusName": "Windham-3 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72746,
+        "medianAge": 50.3,
+        "totalPopulation": 8265,
+        "collegePct": 37.74,
+        "renterRatePct": 28.68,
+        "race": {
+          "whitePct": 90.07,
+          "nonHispanicWhitePct": 89.15,
+          "blackPct": 1.33,
+          "asianPct": 1.6,
+          "hispanicPct": 3.12
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Leslie Goldman",
+            "party": "Democratic",
+            "pct": 29.9
+          },
+          {
+            "name": "Michelle Bos-Lun",
+            "party": "Democratic",
+            "pct": 29.4
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Windham 4": {
+      "districtName": "Windham 4",
+      "census": {
+        "censusName": "Windham-4 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79375,
+        "medianAge": 40,
+        "totalPopulation": 4802,
+        "collegePct": 47.77,
+        "renterRatePct": 16.58,
+        "race": {
+          "whitePct": 91.21,
+          "nonHispanicWhitePct": 88.32,
+          "blackPct": 0.67,
+          "asianPct": 1.65,
+          "hispanicPct": 5.33
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Mike Mrowicki",
+            "party": "Democratic",
+            "pct": 73
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Windham 5": {
+      "districtName": "Windham 5",
+      "census": {
+        "censusName": "Windham-5 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71875,
+        "medianAge": 48.4,
+        "totalPopulation": 4673,
+        "collegePct": 46.64,
+        "renterRatePct": 17.16,
+        "race": {
+          "whitePct": 89.81,
+          "nonHispanicWhitePct": 88.51,
+          "blackPct": 1.82,
+          "asianPct": 1.24,
+          "hispanicPct": 3.55
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Emily Long",
+            "party": "Democratic",
+            "pct": 95.2
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Windham 6": {
+      "districtName": "Windham 6",
+      "census": {
+        "censusName": "Windham-6 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77600,
+        "medianAge": 48.4,
+        "totalPopulation": 3921,
+        "collegePct": 40.39,
+        "renterRatePct": 21.62,
+        "race": {
+          "whitePct": 91.18,
+          "nonHispanicWhitePct": 90.28,
+          "blackPct": 0.59,
+          "asianPct": 0.71,
+          "hispanicPct": 3.57
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Emily Carris-Duncan",
+            "party": "Democratic",
+            "pct": 55.3
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Windham 7": {
+      "districtName": "Windham 7",
+      "census": {
+        "censusName": "Windham-7 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44504,
+        "medianAge": 46.5,
+        "totalPopulation": 3775,
+        "collegePct": 42.52,
+        "renterRatePct": 34.04,
+        "race": {
+          "whitePct": 92.03,
+          "nonHispanicWhitePct": 90.65,
+          "blackPct": 0,
+          "asianPct": 3.21,
+          "hispanicPct": 1.43
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Emilie Kornheiser",
+            "party": "Democratic",
+            "pct": 66.9
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Windham 8": {
+      "districtName": "Windham 8",
+      "census": {
+        "censusName": "Windham-8 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49837,
+        "medianAge": 40,
+        "totalPopulation": 4354,
+        "collegePct": 48.62,
+        "renterRatePct": 37.29,
+        "race": {
+          "whitePct": 92.67,
+          "nonHispanicWhitePct": 92.67,
+          "blackPct": 1.03,
+          "asianPct": 0.14,
+          "hispanicPct": 4.75
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Mollie S. Burke",
+            "party": "Democratic",
+            "pct": 79.9
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Windham 9": {
+      "districtName": "Windham 9",
+      "census": {
+        "censusName": "Windham-9 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46264,
+        "medianAge": 51.8,
+        "totalPopulation": 4023,
+        "collegePct": 55.31,
+        "renterRatePct": 56.76,
+        "race": {
+          "whitePct": 90.18,
+          "nonHispanicWhitePct": 90.16,
+          "blackPct": 1.12,
+          "asianPct": 1.76,
+          "hispanicPct": 1.32
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Ian Goodnow",
+            "party": "Democratic",
+            "pct": 97.5
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Windham-Windsor-Bennington": {
+      "districtName": "Windham-Windsor-Bennington",
+      "census": {
+        "censusName": "Windham-Windsor-Bennington State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84879,
+        "medianAge": 51.4,
+        "totalPopulation": 4287,
+        "collegePct": 46.07,
+        "renterRatePct": 14.88,
+        "race": {
+          "whitePct": 91.49,
+          "nonHispanicWhitePct": 91.21,
+          "blackPct": 0.72,
+          "asianPct": 1.8,
+          "hispanicPct": 2.08
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Chris Morrow",
+            "party": "Democratic",
+            "pct": 62.8
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Windsor 1": {
+      "districtName": "Windsor 1",
+      "census": {
+        "censusName": "Windsor-1 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72128,
+        "medianAge": 53,
+        "totalPopulation": 8119,
+        "collegePct": 35.75,
+        "renterRatePct": 23.6,
+        "race": {
+          "whitePct": 96,
+          "nonHispanicWhitePct": 95.98,
+          "blackPct": 0.16,
+          "asianPct": 0.27,
+          "hispanicPct": 0.96
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "John Bartholomew",
+            "party": "Democratic",
+            "pct": 49
+          },
+          {
+            "name": "Elizabeth Burrows",
+            "party": "Democratic",
+            "pct": 46.2
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Windsor 2": {
+      "districtName": "Windsor 2",
+      "census": {
+        "censusName": "Windsor-2 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84688,
+        "medianAge": 50.2,
+        "totalPopulation": 4553,
+        "collegePct": 34.44,
+        "renterRatePct": 9.98,
+        "race": {
+          "whitePct": 90.07,
+          "nonHispanicWhitePct": 89.94,
+          "blackPct": 0.44,
+          "asianPct": 0,
+          "hispanicPct": 1.54
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Vl Coffin",
+            "party": "Republican",
+            "pct": 52.6
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Windsor 3": {
+      "districtName": "Windsor 3",
+      "census": {
+        "censusName": "Windsor-3 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65116,
+        "medianAge": 43.4,
+        "totalPopulation": 9088,
+        "collegePct": 24.07,
+        "renterRatePct": 32.94,
+        "race": {
+          "whitePct": 94.37,
+          "nonHispanicWhitePct": 93.88,
+          "blackPct": 0.47,
+          "asianPct": 0,
+          "hispanicPct": 3.05
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Kristi C. Morris",
+            "party": "Democratic",
+            "pct": 25.6
+          },
+          {
+            "name": "Alice M. Emmons",
+            "party": "Democratic",
+            "pct": 25.4
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Windsor 4": {
+      "districtName": "Windsor 4",
+      "census": {
+        "censusName": "Windsor-4 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81890,
+        "medianAge": 54.4,
+        "totalPopulation": 4322,
+        "collegePct": 52.02,
+        "renterRatePct": 14.6,
+        "race": {
+          "whitePct": 91.46,
+          "nonHispanicWhitePct": 91.3,
+          "blackPct": 1.57,
+          "asianPct": 1.83,
+          "hispanicPct": 3.96
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Heather Surprenant",
+            "party": "Democratic",
+            "pct": 95.6
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Windsor 5": {
+      "districtName": "Windsor 5",
+      "census": {
+        "censusName": "Windsor-5 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 110811,
+        "medianAge": 55,
+        "totalPopulation": 4250,
+        "collegePct": 53.17,
+        "renterRatePct": 23.45,
+        "race": {
+          "whitePct": 91.27,
+          "nonHispanicWhitePct": 88.45,
+          "blackPct": 0.45,
+          "asianPct": 0.05,
+          "hispanicPct": 7.08
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Charlie Kimbell",
+            "party": "Democratic",
+            "pct": 74.5
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Windsor 6": {
+      "districtName": "Windsor 6",
+      "census": {
+        "censusName": "Windsor-6 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72423,
+        "medianAge": 42,
+        "totalPopulation": 9355,
+        "collegePct": 46.23,
+        "renterRatePct": 36.38,
+        "race": {
+          "whitePct": 93.63,
+          "nonHispanicWhitePct": 93.24,
+          "blackPct": 0.66,
+          "asianPct": 2.5,
+          "hispanicPct": 1.05
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Esme Cole",
+            "party": "Democratic",
+            "pct": 38.7
+          },
+          {
+            "name": "Kevin \"Coach\" Christie",
+            "party": "Democratic",
+            "pct": 34.2
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Windsor-Addison": {
+      "districtName": "Windsor-Addison",
+      "census": {
+        "censusName": "Windsor-Addison State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72045,
+        "medianAge": 50.6,
+        "totalPopulation": 4537,
+        "collegePct": 38.97,
+        "renterRatePct": 17.07,
+        "race": {
+          "whitePct": 94.93,
+          "nonHispanicWhitePct": 94.51,
+          "blackPct": 0,
+          "asianPct": 1.39,
+          "hispanicPct": 2.27
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Kirk White",
+            "party": "Democratic",
+            "pct": 92.3
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Windsor-Orange 1": {
+      "districtName": "Windsor-Orange 1",
+      "census": {
+        "censusName": "Windsor-Orange-1 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92348,
+        "medianAge": 42.3,
+        "totalPopulation": 3941,
+        "collegePct": 38.3,
+        "renterRatePct": 28.41,
+        "race": {
+          "whitePct": 92.64,
+          "nonHispanicWhitePct": 92.64,
+          "blackPct": 0.76,
+          "asianPct": 0.36,
+          "hispanicPct": 0.86
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "John O'Brien",
+            "party": "Democratic",
+            "pct": 50.8
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Windsor-Orange 2": {
+      "districtName": "Windsor-Orange 2",
+      "census": {
+        "censusName": "Windsor-Orange-2 State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99824,
+        "medianAge": 44.1,
+        "totalPopulation": 9289,
+        "collegePct": 64.52,
+        "renterRatePct": 17.78,
+        "race": {
+          "whitePct": 90.95,
+          "nonHispanicWhitePct": 90.13,
+          "blackPct": 0.41,
+          "asianPct": 1.91,
+          "hispanicPct": 1.86
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Rebecca Holcombe",
+            "party": "Democratic",
+            "pct": 39.4
+          },
+          {
+            "name": "Jim Masland",
+            "party": "Democratic",
+            "pct": 37.1
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Windsor-Windham": {
+      "districtName": "Windsor-Windham",
+      "census": {
+        "censusName": "Windsor-Windham State House District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69684,
+        "medianAge": 51.6,
+        "totalPopulation": 4668,
+        "collegePct": 38.55,
+        "renterRatePct": 18.09,
+        "race": {
+          "whitePct": 94.82,
+          "nonHispanicWhitePct": 94.41,
+          "blackPct": 1.56,
+          "asianPct": 0.36,
+          "hispanicPct": 1.24
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Thomas F. Charlton",
+            "party": "Republican",
+            "pct": 50.7
+          }
+        ],
+        "unopposed": false
+      }
+    }
+  },
+  "senate": {
+    "Addison": {
+      "districtName": "Addison",
+      "census": {
+        "censusName": "Addison Senatorial District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88352,
+        "medianAge": 44.9,
+        "totalPopulation": 40764,
+        "collegePct": 44.37,
+        "renterRatePct": 19.38,
+        "race": {
+          "whitePct": 90.9,
+          "nonHispanicWhitePct": 90.36,
+          "blackPct": 1.01,
+          "asianPct": 2.1,
+          "hispanicPct": 3.06
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Ruth Hardy",
+            "party": "Democratic",
+            "pct": 27.5
+          },
+          {
+            "name": "Steven Heffernan",
+            "party": "Republican",
+            "pct": 27.3
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Bennington": {
+      "districtName": "Bennington",
+      "census": {
+        "censusName": "Bennington Senatorial District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72524,
+        "medianAge": 47.4,
+        "totalPopulation": 41677,
+        "collegePct": 41.04,
+        "renterRatePct": 24.16,
+        "race": {
+          "whitePct": 92.58,
+          "nonHispanicWhitePct": 91.51,
+          "blackPct": 0.98,
+          "asianPct": 0.9,
+          "hispanicPct": 2.88
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Seth Bongartz",
+            "party": "Democratic",
+            "pct": 27.3
+          },
+          {
+            "name": "Rob Plunkett",
+            "party": "Democratic",
+            "pct": 24.9
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Caledonia": {
+      "districtName": "Caledonia",
+      "census": {
+        "censusName": "Caledonia Senatorial District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66960,
+        "medianAge": 47.7,
+        "totalPopulation": 22681,
+        "collegePct": 33.18,
+        "renterRatePct": 24.36,
+        "race": {
+          "whitePct": 93.07,
+          "nonHispanicWhitePct": 92.46,
+          "blackPct": 0.86,
+          "asianPct": 0.41,
+          "hispanicPct": 1.81
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Scott Beck",
+            "party": "Republican",
+            "pct": 58.2
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Chittenden Central": {
+      "districtName": "Chittenden Central",
+      "census": {
+        "censusName": "Chittenden Central Senatorial District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72319,
+        "medianAge": 28.6,
+        "totalPopulation": 66391,
+        "collegePct": 55.64,
+        "renterRatePct": 54.71,
+        "race": {
+          "whitePct": 83.7,
+          "nonHispanicWhitePct": 82.38,
+          "blackPct": 4.55,
+          "asianPct": 4.95,
+          "hispanicPct": 3.47
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Martine Larocque Gulick",
+            "party": "Democratic",
+            "pct": 34.3
+          },
+          {
+            "name": "Phil Baruth",
+            "party": "Democratic",
+            "pct": 33.6
+          },
+          {
+            "name": "Tanya Vyhovsky",
+            "party": "Democratic",
+            "pct": 30.1
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Chittenden North": {
+      "districtName": "Chittenden North",
+      "census": {
+        "censusName": "Chittenden North Senatorial District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119299,
+        "medianAge": 40.7,
+        "totalPopulation": 22546,
+        "collegePct": 41.69,
+        "renterRatePct": 13.66,
+        "race": {
+          "whitePct": 92.93,
+          "nonHispanicWhitePct": 92.18,
+          "blackPct": 1.25,
+          "asianPct": 1.74,
+          "hispanicPct": 1.47
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Chris Mattos",
+            "party": "Republican",
+            "pct": 56
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Chittenden Southeast": {
+      "districtName": "Chittenden Southeast",
+      "census": {
+        "censusName": "Chittenden South East Senatorial District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106839,
+        "medianAge": 43.1,
+        "totalPopulation": 68652,
+        "collegePct": 62.72,
+        "renterRatePct": 28.57,
+        "race": {
+          "whitePct": 89.08,
+          "nonHispanicWhitePct": 88.31,
+          "blackPct": 1.1,
+          "asianPct": 3.63,
+          "hispanicPct": 2.52
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Thomas Chittenden",
+            "party": "Democratic",
+            "pct": 26.8
+          },
+          {
+            "name": "Virginia \"Ginny\" Lyons",
+            "party": "Democratic",
+            "pct": 23.2
+          },
+          {
+            "name": "Kesha Ram Hinsdale",
+            "party": "Democratic",
+            "pct": 20
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Essex": {
+      "districtName": "Essex",
+      "census": {
+        "censusName": "Essex Senatorial District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60341,
+        "medianAge": 47.4,
+        "totalPopulation": 22833,
+        "collegePct": 26.24,
+        "renterRatePct": 22.35,
+        "race": {
+          "whitePct": 93.94,
+          "nonHispanicWhitePct": 93.29,
+          "blackPct": 0.99,
+          "asianPct": 0.47,
+          "hispanicPct": 1.59
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Russ Ingalls",
+            "party": "Republican",
+            "pct": 96.2
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Franklin": {
+      "districtName": "Franklin",
+      "census": {
+        "censusName": "Franklin Senatorial District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74554,
+        "medianAge": 40.9,
+        "totalPopulation": 44779,
+        "collegePct": 25.83,
+        "renterRatePct": 22.54,
+        "race": {
+          "whitePct": 91.88,
+          "nonHispanicWhitePct": 91.56,
+          "blackPct": 0.33,
+          "asianPct": 0.55,
+          "hispanicPct": 2
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Randy Brock",
+            "party": "Republican",
+            "pct": 50.5
+          },
+          {
+            "name": "Robert W. Norris",
+            "party": "Republican",
+            "pct": 48.2
+          }
+        ],
+        "unopposed": true
+      }
+    },
+    "Grand Isle": {
+      "districtName": "Grand Isle",
+      "census": {
+        "censusName": "Grand Isle Senatorial District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102121,
+        "medianAge": 43.9,
+        "totalPopulation": 20133,
+        "collegePct": 43.68,
+        "renterRatePct": 20.1,
+        "race": {
+          "whitePct": 89.24,
+          "nonHispanicWhitePct": 87.98,
+          "blackPct": 1.49,
+          "asianPct": 1.81,
+          "hispanicPct": 2.81
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Pat Brennan",
+            "party": "Republican",
+            "pct": 52.8
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Lamoille": {
+      "districtName": "Lamoille",
+      "census": {
+        "censusName": "Lamoille Senatorial District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67782,
+        "medianAge": 39.9,
+        "totalPopulation": 22032,
+        "collegePct": 38.08,
+        "renterRatePct": 26.18,
+        "race": {
+          "whitePct": 91.84,
+          "nonHispanicWhitePct": 91.2,
+          "blackPct": 1.34,
+          "asianPct": 1.03,
+          "hispanicPct": 2.4
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Richard A. Westman",
+            "party": "Republican",
+            "pct": 66.5
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Orange": {
+      "districtName": "Orange",
+      "census": {
+        "censusName": "Orange Senatorial District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77644,
+        "medianAge": 45,
+        "totalPopulation": 22659,
+        "collegePct": 34.27,
+        "renterRatePct": 19.72,
+        "race": {
+          "whitePct": 94.6,
+          "nonHispanicWhitePct": 94.27,
+          "blackPct": 0.36,
+          "asianPct": 0.52,
+          "hispanicPct": 1.43
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Larry Hart, Sr",
+            "party": "Republican",
+            "pct": 56.5
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Orleans": {
+      "districtName": "Orleans",
+      "census": {
+        "censusName": "Orleans Senatorial District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68590,
+        "medianAge": 44.7,
+        "totalPopulation": 21472,
+        "collegePct": 30.8,
+        "renterRatePct": 14.55,
+        "race": {
+          "whitePct": 94.66,
+          "nonHispanicWhitePct": 93.15,
+          "blackPct": 0.43,
+          "asianPct": 0.82,
+          "hispanicPct": 2.36
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Samuel A. Douglass",
+            "party": "Republican",
+            "pct": 59.2
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Rutland": {
+      "districtName": "Rutland",
+      "census": {
+        "censusName": "Rutland Senatorial District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64681,
+        "medianAge": 47.7,
+        "totalPopulation": 60085,
+        "collegePct": 33.48,
+        "renterRatePct": 27.37,
+        "race": {
+          "whitePct": 93.83,
+          "nonHispanicWhitePct": 93.24,
+          "blackPct": 0.67,
+          "asianPct": 0.55,
+          "hispanicPct": 2.13
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Brian \"BC\" Collamore",
+            "party": "Republican",
+            "pct": 22.5
+          },
+          {
+            "name": "David Weeks",
+            "party": "Republican",
+            "pct": 19.7
+          },
+          {
+            "name": "Terry K. Williams",
+            "party": "Republican",
+            "pct": 19.6
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Washington": {
+      "districtName": "Washington",
+      "census": {
+        "censusName": "Washington Senatorial District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80115,
+        "medianAge": 44.6,
+        "totalPopulation": 67262,
+        "collegePct": 47.65,
+        "renterRatePct": 26.54,
+        "race": {
+          "whitePct": 93.33,
+          "nonHispanicWhitePct": 92.1,
+          "blackPct": 0.8,
+          "asianPct": 0.69,
+          "hispanicPct": 2.67
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Ann Cummings",
+            "party": "Democratic",
+            "pct": 22.6
+          },
+          {
+            "name": "Anne Watson",
+            "party": "Democratic",
+            "pct": 19.2
+          },
+          {
+            "name": "Andrew Perchlik",
+            "party": "Democratic",
+            "pct": 17.8
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Windham": {
+      "districtName": "Windham",
+      "census": {
+        "censusName": "Windham Senatorial District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66786,
+        "medianAge": 46.6,
+        "totalPopulation": 41548,
+        "collegePct": 42.61,
+        "renterRatePct": 27.73,
+        "race": {
+          "whitePct": 91.72,
+          "nonHispanicWhitePct": 90.6,
+          "blackPct": 0.89,
+          "asianPct": 1.32,
+          "hispanicPct": 2.9
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Wendy Harrison",
+            "party": "Democratic",
+            "pct": 35.7
+          },
+          {
+            "name": "Nader Hashim",
+            "party": "Democratic",
+            "pct": 31.1
+          }
+        ],
+        "unopposed": false
+      }
+    },
+    "Windsor": {
+      "districtName": "Windsor",
+      "census": {
+        "censusName": "Windsor Senatorial District (2022); Vermont",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76474,
+        "medianAge": 47.4,
+        "totalPopulation": 59740,
+        "collegePct": 42.76,
+        "renterRatePct": 24.74,
+        "race": {
+          "whitePct": 93.07,
+          "nonHispanicWhitePct": 92.55,
+          "blackPct": 0.6,
+          "asianPct": 1.04,
+          "hispanicPct": 2.29
+        }
+      },
+      "election": {
+        "winners": [
+          {
+            "name": "Rebecca White",
+            "party": "Democratic",
+            "pct": 20
+          },
+          {
+            "name": "Alison H. Clarkson",
+            "party": "Democratic",
+            "pct": 20
+          },
+          {
+            "name": "Joe Major",
+            "party": "Democratic",
+            "pct": 18.8
+          }
+        ],
+        "unopposed": false
+      }
+    }
+  }
+}

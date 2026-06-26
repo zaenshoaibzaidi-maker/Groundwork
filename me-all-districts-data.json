@@ -1,0 +1,5028 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Maine House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54404,
+        "medianAge": 48.7,
+        "totalPopulation": 8642,
+        "collegePct": 24.1,
+        "renterRatePct": 21.26,
+        "race": {
+          "whitePct": 90.82,
+          "nonHispanicWhitePct": 90.53,
+          "blackPct": 2.92,
+          "asianPct": 0.06,
+          "hispanicPct": 3.22
+        }
+      },
+      "election": {
+        "district": 1,
+        "chamber": "House",
+        "winner": "Daigle, Lucien J.B.",
+        "party": "Republican",
+        "percentage": 0.6511914543960559
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Maine House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45878,
+        "medianAge": 56,
+        "totalPopulation": 8763,
+        "collegePct": 17.93,
+        "renterRatePct": 26.47,
+        "race": {
+          "whitePct": 96.51,
+          "nonHispanicWhitePct": 95.99,
+          "blackPct": 0.31,
+          "asianPct": 0.67,
+          "hispanicPct": 0.63
+        }
+      },
+      "election": {
+        "district": 2,
+        "chamber": "House",
+        "winner": "Albert, Roger C.",
+        "party": "Republican",
+        "percentage": 0.5556910569105691
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Maine House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55122,
+        "medianAge": 48.6,
+        "totalPopulation": 9287,
+        "collegePct": 21.99,
+        "renterRatePct": 21.09,
+        "race": {
+          "whitePct": 94.1,
+          "nonHispanicWhitePct": 93.78,
+          "blackPct": 0.14,
+          "asianPct": 0.3,
+          "hispanicPct": 1.86
+        }
+      },
+      "election": {
+        "district": 3,
+        "chamber": "House",
+        "winner": "Babin, Mark Michael",
+        "party": "Republican",
+        "percentage": 0.5392341494036409
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Maine House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53428,
+        "medianAge": 51.8,
+        "totalPopulation": 9113,
+        "collegePct": 27.82,
+        "renterRatePct": 25.09,
+        "race": {
+          "whitePct": 92.4,
+          "nonHispanicWhitePct": 92.2,
+          "blackPct": 0.08,
+          "asianPct": 0.55,
+          "hispanicPct": 0.69
+        }
+      },
+      "election": {
+        "district": 4,
+        "chamber": "House",
+        "winner": "Guerrette, Timothy C.",
+        "party": "Republican",
+        "percentage": 0.7512953367875648
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Maine House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57396,
+        "medianAge": 42,
+        "totalPopulation": 8736,
+        "collegePct": 26.77,
+        "renterRatePct": 42.73,
+        "race": {
+          "whitePct": 90.93,
+          "nonHispanicWhitePct": 90.64,
+          "blackPct": 0.88,
+          "asianPct": 0.65,
+          "hispanicPct": 1.14
+        }
+      },
+      "election": {
+        "district": 5,
+        "chamber": "House",
+        "winner": "Underwood, Joseph F.",
+        "party": "Republican",
+        "percentage": 0.5474362150111469
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Maine House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64200,
+        "medianAge": 45.6,
+        "totalPopulation": 8591,
+        "collegePct": 20.95,
+        "renterRatePct": 16.33,
+        "race": {
+          "whitePct": 94.88,
+          "nonHispanicWhitePct": 94.77,
+          "blackPct": 0.24,
+          "asianPct": 0.19,
+          "hispanicPct": 1.27
+        }
+      },
+      "election": {
+        "district": 6,
+        "chamber": "House",
+        "winner": "Ardell, Donald James",
+        "party": "Republican",
+        "percentage": 0.6552229432698347
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Maine House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53305,
+        "medianAge": 45.5,
+        "totalPopulation": 8758,
+        "collegePct": 21.11,
+        "renterRatePct": 31.04,
+        "race": {
+          "whitePct": 93.51,
+          "nonHispanicWhitePct": 92.04,
+          "blackPct": 1.05,
+          "asianPct": 0.31,
+          "hispanicPct": 2.4
+        }
+      },
+      "election": {
+        "district": 7,
+        "chamber": "House",
+        "winner": "Swallow, Gregory L.",
+        "party": "Republican",
+        "percentage": 1
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Maine House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48607,
+        "medianAge": 51.4,
+        "totalPopulation": 9915,
+        "collegePct": 13.26,
+        "renterRatePct": 12.33,
+        "race": {
+          "whitePct": 94.13,
+          "nonHispanicWhitePct": 93.55,
+          "blackPct": 0.76,
+          "asianPct": 0.56,
+          "hispanicPct": 0.99
+        }
+      },
+      "election": {
+        "district": 8,
+        "chamber": "House",
+        "winner": "Quint, Tracy Lynn",
+        "party": "Republican",
+        "percentage": 0.7790767990324531
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Maine House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51496,
+        "medianAge": 47.4,
+        "totalPopulation": 8930,
+        "collegePct": 25.37,
+        "renterRatePct": 26.15,
+        "race": {
+          "whitePct": 80.45,
+          "nonHispanicWhitePct": 80,
+          "blackPct": 1.23,
+          "asianPct": 0.32,
+          "hispanicPct": 2.02
+        }
+      },
+      "election": {
+        "district": 9,
+        "chamber": "House",
+        "winner": "Mingo, Arthur Kevin",
+        "party": "Republican",
+        "percentage": 0.6164060826729493
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Maine House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54663,
+        "medianAge": 48.2,
+        "totalPopulation": 9333,
+        "collegePct": 29,
+        "renterRatePct": 16.75,
+        "race": {
+          "whitePct": 92.21,
+          "nonHispanicWhitePct": 91.55,
+          "blackPct": 0.15,
+          "asianPct": 0.34,
+          "hispanicPct": 2.74
+        }
+      },
+      "election": {
+        "district": 10,
+        "chamber": "House",
+        "winner": "Tuell, William R.",
+        "party": "Republican",
+        "percentage": 0.7551020408163265
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Maine House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50875,
+        "medianAge": 47.5,
+        "totalPopulation": 9081,
+        "collegePct": 23.61,
+        "renterRatePct": 26,
+        "race": {
+          "whitePct": 90.6,
+          "nonHispanicWhitePct": 90.08,
+          "blackPct": 1.6,
+          "asianPct": 0.31,
+          "hispanicPct": 2.87
+        }
+      },
+      "election": {
+        "district": 11,
+        "chamber": "House",
+        "winner": "Strout, Tiffany",
+        "party": "Republican",
+        "percentage": 0.693134328358209
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Maine House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67750,
+        "medianAge": 52.4,
+        "totalPopulation": 9009,
+        "collegePct": 26.79,
+        "renterRatePct": 18.07,
+        "race": {
+          "whitePct": 93.65,
+          "nonHispanicWhitePct": 93.47,
+          "blackPct": 0.6,
+          "asianPct": 0.19,
+          "hispanicPct": 1.47
+        }
+      },
+      "election": {
+        "district": 12,
+        "chamber": "House",
+        "winner": "Faulkingham, Billy Bob",
+        "party": "Republican",
+        "percentage": 0.6108499095840868
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Maine House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70682,
+        "medianAge": 42.1,
+        "totalPopulation": 9100,
+        "collegePct": 39.8,
+        "renterRatePct": 30.17,
+        "race": {
+          "whitePct": 92.3,
+          "nonHispanicWhitePct": 91.44,
+          "blackPct": 1.23,
+          "asianPct": 1.42,
+          "hispanicPct": 0.87
+        }
+      },
+      "election": {
+        "district": 13,
+        "chamber": "House",
+        "winner": "White, Russell P.",
+        "party": "Republican",
+        "percentage": 0.5443461160275319
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Maine House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81062,
+        "medianAge": 50.2,
+        "totalPopulation": 8942,
+        "collegePct": 54.81,
+        "renterRatePct": 22.51,
+        "race": {
+          "whitePct": 92.55,
+          "nonHispanicWhitePct": 91.21,
+          "blackPct": 2.76,
+          "asianPct": 1.49,
+          "hispanicPct": 1.98
+        }
+      },
+      "election": {
+        "district": 14,
+        "chamber": "House",
+        "winner": "Friedmann, Gary",
+        "party": "Democratic",
+        "percentage": 0.6832802547770701
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Maine House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66651,
+        "medianAge": 55.6,
+        "totalPopulation": 8508,
+        "collegePct": 37.69,
+        "renterRatePct": 20.49,
+        "race": {
+          "whitePct": 95.85,
+          "nonHispanicWhitePct": 95.71,
+          "blackPct": 0.39,
+          "asianPct": 0.51,
+          "hispanicPct": 1.23
+        }
+      },
+      "election": {
+        "district": 15,
+        "chamber": "House",
+        "winner": "Eaton, Holly Rae",
+        "party": "Democratic",
+        "percentage": 0.5244354566902595
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Maine House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70196,
+        "medianAge": 49,
+        "totalPopulation": 9696,
+        "collegePct": 47.71,
+        "renterRatePct": 17.76,
+        "race": {
+          "whitePct": 92.54,
+          "nonHispanicWhitePct": 92.23,
+          "blackPct": 0.35,
+          "asianPct": 1.2,
+          "hispanicPct": 2.54
+        }
+      },
+      "election": {
+        "district": 16,
+        "chamber": "House",
+        "winner": "Milliken, Nina Azella",
+        "party": "Democratic",
+        "percentage": 1
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Maine House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64459,
+        "medianAge": 48.2,
+        "totalPopulation": 8532,
+        "collegePct": 28,
+        "renterRatePct": 20.74,
+        "race": {
+          "whitePct": 97.34,
+          "nonHispanicWhitePct": 95.91,
+          "blackPct": 0.02,
+          "asianPct": 0.45,
+          "hispanicPct": 2.38
+        }
+      },
+      "election": {
+        "district": 17,
+        "chamber": "House",
+        "winner": "Bishop, Steven M.",
+        "party": "Republican",
+        "percentage": 0.5143781452192667
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Maine House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64940,
+        "medianAge": 48.5,
+        "totalPopulation": 9733,
+        "collegePct": 27.97,
+        "renterRatePct": 15.48,
+        "race": {
+          "whitePct": 93.76,
+          "nonHispanicWhitePct": 93.21,
+          "blackPct": 0.42,
+          "asianPct": 0.7,
+          "hispanicPct": 1.37
+        }
+      },
+      "election": {
+        "district": 18,
+        "chamber": "House",
+        "winner": "McIntyre, Mathew David",
+        "party": "Republican",
+        "percentage": 1
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Maine House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90973,
+        "medianAge": 49.5,
+        "totalPopulation": 9436,
+        "collegePct": 37.11,
+        "renterRatePct": 11.27,
+        "race": {
+          "whitePct": 96.75,
+          "nonHispanicWhitePct": 95.8,
+          "blackPct": 0.25,
+          "asianPct": 0.36,
+          "hispanicPct": 0.94
+        }
+      },
+      "election": {
+        "district": 19,
+        "chamber": "House",
+        "winner": "Campbell, Richard H.",
+        "party": "Republican",
+        "percentage": 1
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Maine House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51010,
+        "medianAge": 40.5,
+        "totalPopulation": 9473,
+        "collegePct": 30.05,
+        "renterRatePct": 43.62,
+        "race": {
+          "whitePct": 91.92,
+          "nonHispanicWhitePct": 91.79,
+          "blackPct": 1.29,
+          "asianPct": 0.02,
+          "hispanicPct": 1.89
+        }
+      },
+      "election": {
+        "district": 20,
+        "chamber": "House",
+        "winner": "O'Halloran, Dani L.",
+        "party": "Democratic",
+        "percentage": 0.5118266746173723
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Maine House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43563,
+        "medianAge": 44.3,
+        "totalPopulation": 8407,
+        "collegePct": 35.79,
+        "renterRatePct": 61.62,
+        "race": {
+          "whitePct": 92.09,
+          "nonHispanicWhitePct": 90.9,
+          "blackPct": 2.01,
+          "asianPct": 1.18,
+          "hispanicPct": 1.81
+        }
+      },
+      "election": {
+        "district": 21,
+        "chamber": "House",
+        "winner": "Rana, Ambureen",
+        "party": "Democratic",
+        "percentage": 0.5470997679814386
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Maine House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60908,
+        "medianAge": 34.7,
+        "totalPopulation": 10120,
+        "collegePct": 26.19,
+        "renterRatePct": 65.23,
+        "race": {
+          "whitePct": 87.69,
+          "nonHispanicWhitePct": 86.46,
+          "blackPct": 2.71,
+          "asianPct": 0.82,
+          "hispanicPct": 3.3
+        }
+      },
+      "election": {
+        "district": 22,
+        "chamber": "House",
+        "winner": "Supica, Laura D.",
+        "party": "Democratic",
+        "percentage": 0.5461942257217848
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Maine House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71875,
+        "medianAge": 41.1,
+        "totalPopulation": 9284,
+        "collegePct": 48.4,
+        "renterRatePct": 35.92,
+        "race": {
+          "whitePct": 84.73,
+          "nonHispanicWhitePct": 83.9,
+          "blackPct": 4.41,
+          "asianPct": 2.18,
+          "hispanicPct": 4.94
+        }
+      },
+      "election": {
+        "district": 23,
+        "chamber": "House",
+        "winner": "Roeder, Amy J.",
+        "party": "Democratic",
+        "percentage": 0.563249001331558
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Maine House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79738,
+        "medianAge": 44.5,
+        "totalPopulation": 8682,
+        "collegePct": 48.91,
+        "renterRatePct": 33.47,
+        "race": {
+          "whitePct": 88.5,
+          "nonHispanicWhitePct": 86.48,
+          "blackPct": 0.25,
+          "asianPct": 2.57,
+          "hispanicPct": 5.53
+        }
+      },
+      "election": {
+        "district": 24,
+        "chamber": "House",
+        "winner": "Perry, Joseph C.",
+        "party": "Democratic",
+        "percentage": 0.646531972505728
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Maine House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51353,
+        "medianAge": 21.2,
+        "totalPopulation": 8910,
+        "collegePct": 64.41,
+        "renterRatePct": 65.19,
+        "race": {
+          "whitePct": 85.44,
+          "nonHispanicWhitePct": 83.75,
+          "blackPct": 1.93,
+          "asianPct": 5.42,
+          "hispanicPct": 4.74
+        }
+      },
+      "election": {
+        "district": 25,
+        "chamber": "House",
+        "winner": "Osher, Laurie",
+        "party": "Democratic",
+        "percentage": 0.6753424657534246
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Maine House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50332,
+        "medianAge": 38.5,
+        "totalPopulation": 9532,
+        "collegePct": 35.27,
+        "renterRatePct": 36.87,
+        "race": {
+          "whitePct": 88.03,
+          "nonHispanicWhitePct": 87.63,
+          "blackPct": 0.71,
+          "asianPct": 0.64,
+          "hispanicPct": 1.67
+        }
+      },
+      "election": {
+        "district": 26,
+        "chamber": "House",
+        "winner": "Dill, James F.",
+        "party": "Democratic",
+        "percentage": 0.5784122017989832
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Maine House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63227,
+        "medianAge": 45,
+        "totalPopulation": 9370,
+        "collegePct": 18.76,
+        "renterRatePct": 14.77,
+        "race": {
+          "whitePct": 92.33,
+          "nonHispanicWhitePct": 91.7,
+          "blackPct": 0.07,
+          "asianPct": 2.96,
+          "hispanicPct": 1.61
+        }
+      },
+      "election": {
+        "district": 27,
+        "chamber": "House",
+        "winner": "Drinkwater, Gary A.",
+        "party": "Republican",
+        "percentage": 0.7301956226999806
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Maine House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51202,
+        "medianAge": 52.4,
+        "totalPopulation": 9008,
+        "collegePct": 19.96,
+        "renterRatePct": 20.69,
+        "race": {
+          "whitePct": 97,
+          "nonHispanicWhitePct": 96.98,
+          "blackPct": 0.02,
+          "asianPct": 0.28,
+          "hispanicPct": 0.02
+        }
+      },
+      "election": {
+        "district": 28,
+        "chamber": "House",
+        "winner": "Gifford, Irene A.",
+        "party": "Republican",
+        "percentage": 0.7506183017312449
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Maine House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45619,
+        "medianAge": 53.6,
+        "totalPopulation": 9348,
+        "collegePct": 18.65,
+        "renterRatePct": 17.46,
+        "race": {
+          "whitePct": 98.68,
+          "nonHispanicWhitePct": 98.36,
+          "blackPct": 0,
+          "asianPct": 0.05,
+          "hispanicPct": 0.37
+        }
+      },
+      "election": {
+        "district": 29,
+        "chamber": "House",
+        "winner": "Javner, Kathy Irene",
+        "party": "Republican",
+        "percentage": 0.6080764728833399
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Maine House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55140,
+        "medianAge": 55.3,
+        "totalPopulation": 9201,
+        "collegePct": 21.03,
+        "renterRatePct": 16.63,
+        "race": {
+          "whitePct": 94.07,
+          "nonHispanicWhitePct": 93.91,
+          "blackPct": 0.09,
+          "asianPct": 0.78,
+          "hispanicPct": 0.72
+        }
+      },
+      "election": {
+        "district": 30,
+        "chamber": "House",
+        "winner": "White, James L.",
+        "party": "Republican",
+        "percentage": 0.6897058823529412
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Maine House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57500,
+        "medianAge": 44.8,
+        "totalPopulation": 8530,
+        "collegePct": 22.71,
+        "renterRatePct": 29.61,
+        "race": {
+          "whitePct": 92.9,
+          "nonHispanicWhitePct": 92.13,
+          "blackPct": 1.47,
+          "asianPct": 0.91,
+          "hispanicPct": 2.81
+        }
+      },
+      "election": {
+        "district": 31,
+        "chamber": "House",
+        "winner": "Perkins, Chad R.",
+        "party": "Republican",
+        "percentage": 0.6243408563594178
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Maine House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59867,
+        "medianAge": 48.5,
+        "totalPopulation": 8137,
+        "collegePct": 16.55,
+        "renterRatePct": 20.31,
+        "race": {
+          "whitePct": 94.85,
+          "nonHispanicWhitePct": 94.7,
+          "blackPct": 0.75,
+          "asianPct": 0.28,
+          "hispanicPct": 0.5
+        }
+      },
+      "election": {
+        "district": 32,
+        "chamber": "House",
+        "winner": "Foster, Steven D.",
+        "party": "Republican",
+        "percentage": 1
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Maine House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63564,
+        "medianAge": 46.1,
+        "totalPopulation": 9029,
+        "collegePct": 21.05,
+        "renterRatePct": 15.99,
+        "race": {
+          "whitePct": 95.79,
+          "nonHispanicWhitePct": 95.3,
+          "blackPct": 0.49,
+          "asianPct": 0.09,
+          "hispanicPct": 0.65
+        }
+      },
+      "election": {
+        "district": 33,
+        "chamber": "House",
+        "winner": "Fredette, Kenneth Wade",
+        "party": "Republican",
+        "percentage": 1
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Maine House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85355,
+        "medianAge": 43.7,
+        "totalPopulation": 9019,
+        "collegePct": 21.26,
+        "renterRatePct": 18.78,
+        "race": {
+          "whitePct": 97.62,
+          "nonHispanicWhitePct": 97.58,
+          "blackPct": 0.08,
+          "asianPct": 0.67,
+          "hispanicPct": 0.03
+        }
+      },
+      "election": {
+        "district": 34,
+        "chamber": "House",
+        "winner": "Griffin, Abigail W.",
+        "party": "Republican",
+        "percentage": 1
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Maine House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93957,
+        "medianAge": 40.1,
+        "totalPopulation": 9519,
+        "collegePct": 34.48,
+        "renterRatePct": 22.19,
+        "race": {
+          "whitePct": 91.83,
+          "nonHispanicWhitePct": 91.04,
+          "blackPct": 1.1,
+          "asianPct": 0.77,
+          "hispanicPct": 1.86
+        }
+      },
+      "election": {
+        "district": 35,
+        "chamber": "House",
+        "winner": "Thorne, James E.",
+        "party": "Republican",
+        "percentage": 1
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Maine House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102922,
+        "medianAge": 41.9,
+        "totalPopulation": 9322,
+        "collegePct": 45.87,
+        "renterRatePct": 13.24,
+        "race": {
+          "whitePct": 89.58,
+          "nonHispanicWhitePct": 89.32,
+          "blackPct": 0.33,
+          "asianPct": 0.47,
+          "hispanicPct": 1.79
+        }
+      },
+      "election": {
+        "district": 36,
+        "chamber": "House",
+        "winner": "Haggan, Kimberly M.",
+        "party": "Republican",
+        "percentage": 0.5503233294644337
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Maine House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80795,
+        "medianAge": 45.9,
+        "totalPopulation": 9928,
+        "collegePct": 31.89,
+        "renterRatePct": 18.28,
+        "race": {
+          "whitePct": 95.5,
+          "nonHispanicWhitePct": 93.29,
+          "blackPct": 0.44,
+          "asianPct": 0.11,
+          "hispanicPct": 2.88
+        }
+      },
+      "election": {
+        "district": 37,
+        "chamber": "House",
+        "winner": "Paul, Reagan L.",
+        "party": "Republican",
+        "percentage": 0.5464244040673446
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Maine House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60516,
+        "medianAge": 39.7,
+        "totalPopulation": 9419,
+        "collegePct": 25.2,
+        "renterRatePct": 20.46,
+        "race": {
+          "whitePct": 94.91,
+          "nonHispanicWhitePct": 94.35,
+          "blackPct": 0.14,
+          "asianPct": 0.54,
+          "hispanicPct": 1.15
+        }
+      },
+      "election": {
+        "district": 38,
+        "chamber": "House",
+        "winner": "Hymes, Benjamin C.",
+        "party": "Republican",
+        "percentage": 0.5518134715025906
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Maine House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62839,
+        "medianAge": 56.1,
+        "totalPopulation": 9470,
+        "collegePct": 45.06,
+        "renterRatePct": 28.52,
+        "race": {
+          "whitePct": 89.38,
+          "nonHispanicWhitePct": 89.03,
+          "blackPct": 1.67,
+          "asianPct": 0.36,
+          "hispanicPct": 1.15
+        }
+      },
+      "election": {
+        "district": 39,
+        "chamber": "House",
+        "winner": "Dodge, Janice S.",
+        "party": "Democratic",
+        "percentage": 0.6788674033149171
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Maine House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76447,
+        "medianAge": 48.3,
+        "totalPopulation": 8725,
+        "collegePct": 38.5,
+        "renterRatePct": 11.97,
+        "race": {
+          "whitePct": 95.04,
+          "nonHispanicWhitePct": 94.57,
+          "blackPct": 0.3,
+          "asianPct": 0.85,
+          "hispanicPct": 0.97
+        }
+      },
+      "election": {
+        "district": 40,
+        "chamber": "House",
+        "winner": "Ray, D. Michael",
+        "party": "Democratic",
+        "percentage": 0.5436711020129649
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Maine House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85917,
+        "medianAge": 49.8,
+        "totalPopulation": 8906,
+        "collegePct": 58.25,
+        "renterRatePct": 28.26,
+        "race": {
+          "whitePct": 96.01,
+          "nonHispanicWhitePct": 94.87,
+          "blackPct": 0.15,
+          "asianPct": 0.66,
+          "hispanicPct": 1.15
+        }
+      },
+      "election": {
+        "district": 41,
+        "chamber": "House",
+        "winner": "Doudera, Victoria W.",
+        "party": "Democratic",
+        "percentage": 0.7486033519553073
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Maine House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56524,
+        "medianAge": 46.9,
+        "totalPopulation": 8579,
+        "collegePct": 36.38,
+        "renterRatePct": 34.1,
+        "race": {
+          "whitePct": 96.44,
+          "nonHispanicWhitePct": 95.9,
+          "blackPct": 0.1,
+          "asianPct": 0.09,
+          "hispanicPct": 1.27
+        }
+      },
+      "election": {
+        "district": 42,
+        "chamber": "House",
+        "winner": "Geiger, Valli D.",
+        "party": "Democratic",
+        "percentage": 0.6072660848386442
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Maine House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68176,
+        "medianAge": 57.2,
+        "totalPopulation": 8560,
+        "collegePct": 37.95,
+        "renterRatePct": 16.96,
+        "race": {
+          "whitePct": 93.1,
+          "nonHispanicWhitePct": 92.48,
+          "blackPct": 0.47,
+          "asianPct": 0,
+          "hispanicPct": 3.74
+        }
+      },
+      "election": {
+        "district": 43,
+        "chamber": "House",
+        "winner": "Matlack, Ann H.",
+        "party": "Democratic",
+        "percentage": 0.5594690265486726
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Maine House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80948,
+        "medianAge": 42.3,
+        "totalPopulation": 9297,
+        "collegePct": 27.61,
+        "renterRatePct": 11.17,
+        "race": {
+          "whitePct": 93.16,
+          "nonHispanicWhitePct": 92.78,
+          "blackPct": 0.84,
+          "asianPct": 0.49,
+          "hispanicPct": 1.34
+        }
+      },
+      "election": {
+        "district": 44,
+        "chamber": "House",
+        "winner": "Pluecker, William D.",
+        "party": "Independent For Maine",
+        "percentage": 0.5352941176470588
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Maine House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66410,
+        "medianAge": 52.1,
+        "totalPopulation": 8973,
+        "collegePct": 34.89,
+        "renterRatePct": 14.35,
+        "race": {
+          "whitePct": 95.62,
+          "nonHispanicWhitePct": 94.57,
+          "blackPct": 0.09,
+          "asianPct": 0.32,
+          "hispanicPct": 1.62
+        }
+      },
+      "election": {
+        "district": 45,
+        "chamber": "House",
+        "winner": "Simmons, Abden S.",
+        "party": "Republican",
+        "percentage": 0.5645722659827808
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Maine House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80703,
+        "medianAge": 54.4,
+        "totalPopulation": 8817,
+        "collegePct": 44.1,
+        "renterRatePct": 18.91,
+        "race": {
+          "whitePct": 92.07,
+          "nonHispanicWhitePct": 91.77,
+          "blackPct": 0.02,
+          "asianPct": 0.66,
+          "hispanicPct": 1.49
+        }
+      },
+      "election": {
+        "district": 46,
+        "chamber": "House",
+        "winner": "Crafts, Lydia V.",
+        "party": "Democratic",
+        "percentage": 0.6563185951709
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Maine House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76316,
+        "medianAge": 44,
+        "totalPopulation": 9639,
+        "collegePct": 32.11,
+        "renterRatePct": 14.23,
+        "race": {
+          "whitePct": 93.71,
+          "nonHispanicWhitePct": 93.32,
+          "blackPct": 0.82,
+          "asianPct": 0.62,
+          "hispanicPct": 0.86
+        }
+      },
+      "election": {
+        "district": 47,
+        "chamber": "House",
+        "winner": "Farrin, Wayne K.",
+        "party": "Democratic",
+        "percentage": 0.517172055620707
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Maine House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68647,
+        "medianAge": 57.2,
+        "totalPopulation": 8785,
+        "collegePct": 49.11,
+        "renterRatePct": 15.26,
+        "race": {
+          "whitePct": 95.72,
+          "nonHispanicWhitePct": 94.67,
+          "blackPct": 0.5,
+          "asianPct": 1.33,
+          "hispanicPct": 1.25
+        }
+      },
+      "election": {
+        "district": 48,
+        "chamber": "House",
+        "winner": "Stover, Holly B.",
+        "party": "Democratic",
+        "percentage": 0.658873193700276
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Maine House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102587,
+        "medianAge": 52.7,
+        "totalPopulation": 8798,
+        "collegePct": 47.84,
+        "renterRatePct": 14.02,
+        "race": {
+          "whitePct": 91.62,
+          "nonHispanicWhitePct": 90.84,
+          "blackPct": 0.83,
+          "asianPct": 1.35,
+          "hispanicPct": 1.47
+        }
+      },
+      "election": {
+        "district": 49,
+        "chamber": "House",
+        "winner": "Hepler, Allison Lee",
+        "party": "Democratic",
+        "percentage": 0.613543947450735
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Maine House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65565,
+        "medianAge": 46.4,
+        "totalPopulation": 8801,
+        "collegePct": 39.59,
+        "renterRatePct": 35.38,
+        "race": {
+          "whitePct": 94.66,
+          "nonHispanicWhitePct": 94.66,
+          "blackPct": 0.48,
+          "asianPct": 0.56,
+          "hispanicPct": 0
+        }
+      },
+      "election": {
+        "district": 50,
+        "chamber": "House",
+        "winner": "Sinclair, David A.",
+        "party": "Democratic",
+        "percentage": 0.6997373206708426
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Maine House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82067,
+        "medianAge": 45.6,
+        "totalPopulation": 8814,
+        "collegePct": 44.24,
+        "renterRatePct": 22.71,
+        "race": {
+          "whitePct": 93.88,
+          "nonHispanicWhitePct": 93.07,
+          "blackPct": 0.98,
+          "asianPct": 0.4,
+          "hispanicPct": 2.64
+        }
+      },
+      "election": {
+        "district": 51,
+        "chamber": "House",
+        "winner": "Macias, Rafael Leo",
+        "party": "Democratic",
+        "percentage": 0.6075102880658436
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Maine House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82778,
+        "medianAge": 43.6,
+        "totalPopulation": 8731,
+        "collegePct": 35.6,
+        "renterRatePct": 18.97,
+        "race": {
+          "whitePct": 95.3,
+          "nonHispanicWhitePct": 94.39,
+          "blackPct": 0,
+          "asianPct": 0.15,
+          "hispanicPct": 1.07
+        }
+      },
+      "election": {
+        "district": 52,
+        "chamber": "House",
+        "winner": "Cluchey, Sally Jeane",
+        "party": "Democratic",
+        "percentage": 0.501276906238599
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Maine House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73309,
+        "medianAge": 45.9,
+        "totalPopulation": 8918,
+        "collegePct": 23.97,
+        "renterRatePct": 16.12,
+        "race": {
+          "whitePct": 92.51,
+          "nonHispanicWhitePct": 91.38,
+          "blackPct": 0.24,
+          "asianPct": 0.06,
+          "hispanicPct": 5.42
+        }
+      },
+      "election": {
+        "district": 53,
+        "chamber": "House",
+        "winner": "Lemelin, Michael H.",
+        "party": "Republican",
+        "percentage": 0.5912315808622886
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Maine House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59034,
+        "medianAge": 43.5,
+        "totalPopulation": 9048,
+        "collegePct": 32.39,
+        "renterRatePct": 35.06,
+        "race": {
+          "whitePct": 92.29,
+          "nonHispanicWhitePct": 91.57,
+          "blackPct": 0.98,
+          "asianPct": 0.59,
+          "hispanicPct": 2.61
+        }
+      },
+      "election": {
+        "district": 54,
+        "chamber": "House",
+        "winner": "Montell, Karen L.",
+        "party": "Democratic",
+        "percentage": 0.5426779935275081
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Maine House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72083,
+        "medianAge": 47.2,
+        "totalPopulation": 8717,
+        "collegePct": 39.42,
+        "renterRatePct": 24.46,
+        "race": {
+          "whitePct": 96.88,
+          "nonHispanicWhitePct": 96.82,
+          "blackPct": 0.01,
+          "asianPct": 0.56,
+          "hispanicPct": 0.47
+        }
+      },
+      "election": {
+        "district": 55,
+        "chamber": "House",
+        "winner": "Shagoury, Daniel Joseph",
+        "party": "Democratic",
+        "percentage": 0.5110997267759563
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Maine House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76789,
+        "medianAge": 46.7,
+        "totalPopulation": 9579,
+        "collegePct": 26.83,
+        "renterRatePct": 12.48,
+        "race": {
+          "whitePct": 95.98,
+          "nonHispanicWhitePct": 95.95,
+          "blackPct": 0.29,
+          "asianPct": 0.53,
+          "hispanicPct": 0.93
+        }
+      },
+      "election": {
+        "district": 56,
+        "chamber": "House",
+        "winner": "Greenwood, Randall Adam",
+        "party": "Republican",
+        "percentage": 0.5494892567805565
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Maine House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83903,
+        "medianAge": 43.5,
+        "totalPopulation": 8781,
+        "collegePct": 41.45,
+        "renterRatePct": 13.16,
+        "race": {
+          "whitePct": 92.19,
+          "nonHispanicWhitePct": 92.19,
+          "blackPct": 3.62,
+          "asianPct": 0.11,
+          "hispanicPct": 0.42
+        }
+      },
+      "election": {
+        "district": 57,
+        "chamber": "House",
+        "winner": "Hasenfus, Tavis Rock",
+        "party": "Democratic",
+        "percentage": 0.5885019949220167
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Maine House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72965,
+        "medianAge": 47.5,
+        "totalPopulation": 9644,
+        "collegePct": 39.22,
+        "renterRatePct": 11.01,
+        "race": {
+          "whitePct": 93.94,
+          "nonHispanicWhitePct": 93.64,
+          "blackPct": 0.07,
+          "asianPct": 0.27,
+          "hispanicPct": 2.07
+        }
+      },
+      "election": {
+        "district": 58,
+        "chamber": "House",
+        "winner": "Frost, Sharon C.",
+        "party": "Unenrolled",
+        "percentage": 0.5034262948207171
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Maine House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46332,
+        "medianAge": 44.1,
+        "totalPopulation": 9671,
+        "collegePct": 27.87,
+        "renterRatePct": 53.92,
+        "race": {
+          "whitePct": 90.58,
+          "nonHispanicWhitePct": 88.35,
+          "blackPct": 2.69,
+          "asianPct": 1.72,
+          "hispanicPct": 4.49
+        }
+      },
+      "election": {
+        "district": 59,
+        "chamber": "House",
+        "winner": "Rollins, David M.",
+        "party": "Democratic",
+        "percentage": 0.5337574389493125
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Maine House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51037,
+        "medianAge": 44.2,
+        "totalPopulation": 9328,
+        "collegePct": 28.1,
+        "renterRatePct": 33.99,
+        "race": {
+          "whitePct": 90.98,
+          "nonHispanicWhitePct": 90.79,
+          "blackPct": 1.04,
+          "asianPct": 1.08,
+          "hispanicPct": 1.05
+        }
+      },
+      "election": {
+        "district": 60,
+        "chamber": "House",
+        "winner": "Bridgeo, William R.",
+        "party": "Democratic",
+        "percentage": 0.5603734439834025
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Maine House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78646,
+        "medianAge": 44.2,
+        "totalPopulation": 8946,
+        "collegePct": 32.15,
+        "renterRatePct": 14.24,
+        "race": {
+          "whitePct": 95.9,
+          "nonHispanicWhitePct": 95.46,
+          "blackPct": 0,
+          "asianPct": 0.76,
+          "hispanicPct": 1.31
+        }
+      },
+      "election": {
+        "district": 61,
+        "chamber": "House",
+        "winner": "Collins, Alicia Carol",
+        "party": "Republican",
+        "percentage": 0.5936305732484076
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Maine House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86534,
+        "medianAge": 40.7,
+        "totalPopulation": 9442,
+        "collegePct": 29.3,
+        "renterRatePct": 9.85,
+        "race": {
+          "whitePct": 94.8,
+          "nonHispanicWhitePct": 94.33,
+          "blackPct": 0.64,
+          "asianPct": 0.38,
+          "hispanicPct": 1.95
+        }
+      },
+      "election": {
+        "district": 62,
+        "chamber": "House",
+        "winner": "Smith, Katrina J.",
+        "party": "Republican",
+        "percentage": 0.6405700536738849
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Maine House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66946,
+        "medianAge": 48.4,
+        "totalPopulation": 9476,
+        "collegePct": 27.76,
+        "renterRatePct": 19.96,
+        "race": {
+          "whitePct": 95.51,
+          "nonHispanicWhitePct": 93.3,
+          "blackPct": 0,
+          "asianPct": 0.53,
+          "hispanicPct": 3.26
+        }
+      },
+      "election": {
+        "district": 63,
+        "chamber": "House",
+        "winner": "Flynn, Paul R.",
+        "party": "Republican",
+        "percentage": 0.597953216374269
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Maine House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47895,
+        "medianAge": 30.2,
+        "totalPopulation": 9212,
+        "collegePct": 29.97,
+        "renterRatePct": 57.26,
+        "race": {
+          "whitePct": 88.28,
+          "nonHispanicWhitePct": 86.81,
+          "blackPct": 1.58,
+          "asianPct": 2.8,
+          "hispanicPct": 2.72
+        }
+      },
+      "election": {
+        "district": 64,
+        "chamber": "House",
+        "winner": "DeBrito, Flavia M.",
+        "party": "Democratic",
+        "percentage": 0.6543722520762091
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Maine House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47842,
+        "medianAge": 39.2,
+        "totalPopulation": 9046,
+        "collegePct": 32.21,
+        "renterRatePct": 51.36,
+        "race": {
+          "whitePct": 91.99,
+          "nonHispanicWhitePct": 91.28,
+          "blackPct": 0.4,
+          "asianPct": 0.81,
+          "hispanicPct": 2.56
+        }
+      },
+      "election": {
+        "district": 65,
+        "chamber": "House",
+        "winner": "Julia, Cassie Lynn",
+        "party": "Democratic",
+        "percentage": 0.5871066768994628
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "Maine House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74953,
+        "medianAge": 46.2,
+        "totalPopulation": 8731,
+        "collegePct": 24.66,
+        "renterRatePct": 14.89,
+        "race": {
+          "whitePct": 92.37,
+          "nonHispanicWhitePct": 92.28,
+          "blackPct": 0,
+          "asianPct": 1.56,
+          "hispanicPct": 1.42
+        }
+      },
+      "election": {
+        "district": 66,
+        "chamber": "House",
+        "winner": "Nutting , Robert  W.",
+        "party": "Republican",
+        "percentage": 0.6087369420702754
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "Maine House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61786,
+        "medianAge": 43.1,
+        "totalPopulation": 9268,
+        "collegePct": 15.89,
+        "renterRatePct": 20.16,
+        "race": {
+          "whitePct": 96.31,
+          "nonHispanicWhitePct": 96.2,
+          "blackPct": 0,
+          "asianPct": 0,
+          "hispanicPct": 0.97
+        }
+      },
+      "election": {
+        "district": 67,
+        "chamber": "House",
+        "winner": "Rudnicki, Shelley J.",
+        "party": "Republican",
+        "percentage": 0.5205170291341814
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "Maine House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59056,
+        "medianAge": 46.5,
+        "totalPopulation": 9189,
+        "collegePct": 21.59,
+        "renterRatePct": 18.36,
+        "race": {
+          "whitePct": 95.11,
+          "nonHispanicWhitePct": 94.72,
+          "blackPct": 0.94,
+          "asianPct": 0,
+          "hispanicPct": 0.66
+        }
+      },
+      "election": {
+        "district": 68,
+        "chamber": "House",
+        "winner": "Collamore, Amanda Noelle",
+        "party": "Republican",
+        "percentage": 0.6684491978609626
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "Maine House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51336,
+        "medianAge": 47.5,
+        "totalPopulation": 8322,
+        "collegePct": 20.41,
+        "renterRatePct": 16.38,
+        "race": {
+          "whitePct": 95.3,
+          "nonHispanicWhitePct": 95.17,
+          "blackPct": 1.11,
+          "asianPct": 0.07,
+          "hispanicPct": 0.3
+        }
+      },
+      "election": {
+        "district": 69,
+        "chamber": "House",
+        "winner": "Cray, Dean A.",
+        "party": "Republican",
+        "percentage": 0.7271986970684039
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "Maine House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51216,
+        "medianAge": 40.5,
+        "totalPopulation": 8639,
+        "collegePct": 23.56,
+        "renterRatePct": 35.22,
+        "race": {
+          "whitePct": 95.81,
+          "nonHispanicWhitePct": 94.3,
+          "blackPct": 0.21,
+          "asianPct": 0.49,
+          "hispanicPct": 3.03
+        }
+      },
+      "election": {
+        "district": 70,
+        "chamber": "House",
+        "winner": "Poirier, Jennifer Lynn",
+        "party": "Republican",
+        "percentage": 0.6282967710130638
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "Maine House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58549,
+        "medianAge": 49,
+        "totalPopulation": 9535,
+        "collegePct": 18.22,
+        "renterRatePct": 28.92,
+        "race": {
+          "whitePct": 97.58,
+          "nonHispanicWhitePct": 97.25,
+          "blackPct": 0.29,
+          "asianPct": 0,
+          "hispanicPct": 1.05
+        }
+      },
+      "election": {
+        "district": 71,
+        "chamber": "House",
+        "winner": "Ducharme, John E.",
+        "party": "Republican",
+        "percentage": 0.6530612244897959
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "Maine House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52486,
+        "medianAge": 52.1,
+        "totalPopulation": 9269,
+        "collegePct": 19.09,
+        "renterRatePct": 16.77,
+        "race": {
+          "whitePct": 95.21,
+          "nonHispanicWhitePct": 94.27,
+          "blackPct": 0.15,
+          "asianPct": 0.56,
+          "hispanicPct": 1.34
+        }
+      },
+      "election": {
+        "district": 72,
+        "chamber": "House",
+        "winner": "Caruso, Elizabeth M.",
+        "party": "Republican",
+        "percentage": 0.7241091894144613
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "Maine House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53526,
+        "medianAge": 54.1,
+        "totalPopulation": 8061,
+        "collegePct": 32.53,
+        "renterRatePct": 14.91,
+        "race": {
+          "whitePct": 95.11,
+          "nonHispanicWhitePct": 94.58,
+          "blackPct": 0.2,
+          "asianPct": 0.57,
+          "hispanicPct": 2.63
+        }
+      },
+      "election": {
+        "district": 73,
+        "chamber": "House",
+        "winner": "Soboleski, Michael A.",
+        "party": "Republican",
+        "percentage": 0.5491095044965615
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "Maine House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57951,
+        "medianAge": 44.5,
+        "totalPopulation": 9640,
+        "collegePct": 25.77,
+        "renterRatePct": 16.34,
+        "race": {
+          "whitePct": 93.49,
+          "nonHispanicWhitePct": 93.12,
+          "blackPct": 0.86,
+          "asianPct": 0.32,
+          "hispanicPct": 1.1
+        }
+      },
+      "election": {
+        "district": 74,
+        "chamber": "House",
+        "winner": "Hall, Randall C.",
+        "party": "Republican",
+        "percentage": 0.6604463959019392
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "Maine House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53905,
+        "medianAge": 40.8,
+        "totalPopulation": 9347,
+        "collegePct": 33.51,
+        "renterRatePct": 39.17,
+        "race": {
+          "whitePct": 93.62,
+          "nonHispanicWhitePct": 93.23,
+          "blackPct": 0.91,
+          "asianPct": 0.75,
+          "hispanicPct": 1.92
+        }
+      },
+      "election": {
+        "district": 75,
+        "chamber": "House",
+        "winner": "Bunker, Stephan M.",
+        "party": "Democratic",
+        "percentage": 0.5007564296520424
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "Maine House District 76",
+      "census": {
+        "censusName": "State House District 76 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62538,
+        "medianAge": 44.4,
+        "totalPopulation": 9105,
+        "collegePct": 20.35,
+        "renterRatePct": 20.81,
+        "race": {
+          "whitePct": 96.23,
+          "nonHispanicWhitePct": 96.11,
+          "blackPct": 0.22,
+          "asianPct": 0.78,
+          "hispanicPct": 0.12
+        }
+      },
+      "election": {
+        "district": 76,
+        "chamber": "House",
+        "winner": "Lyman, Sheila A.",
+        "party": "Republican",
+        "percentage": 0.6367529686587502
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "Maine House District 77",
+      "census": {
+        "censusName": "State House District 77 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63307,
+        "medianAge": 45.7,
+        "totalPopulation": 9366,
+        "collegePct": 20.08,
+        "renterRatePct": 15.4,
+        "race": {
+          "whitePct": 93.38,
+          "nonHispanicWhitePct": 92.45,
+          "blackPct": 0.11,
+          "asianPct": 0.54,
+          "hispanicPct": 1.68
+        }
+      },
+      "election": {
+        "district": 77,
+        "chamber": "House",
+        "winner": "Schmersal-Burgess, Tammy L.",
+        "party": "Republican",
+        "percentage": 1
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "Maine House District 78",
+      "census": {
+        "censusName": "State House District 78 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44252,
+        "medianAge": 51.2,
+        "totalPopulation": 9461,
+        "collegePct": 25.1,
+        "renterRatePct": 27.34,
+        "race": {
+          "whitePct": 92.58,
+          "nonHispanicWhitePct": 92.58,
+          "blackPct": 0.29,
+          "asianPct": 0.55,
+          "hispanicPct": 0.23
+        }
+      },
+      "election": {
+        "district": 78,
+        "chamber": "House",
+        "winner": "Henderson, Rachel A.",
+        "party": "Republican",
+        "percentage": 0.5783205490512717
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "Maine House District 79",
+      "census": {
+        "censusName": "State House District 79 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60671,
+        "medianAge": 45.9,
+        "totalPopulation": 9251,
+        "collegePct": 21.01,
+        "renterRatePct": 25.05,
+        "race": {
+          "whitePct": 96.67,
+          "nonHispanicWhitePct": 96.36,
+          "blackPct": 0.11,
+          "asianPct": 0.21,
+          "hispanicPct": 1.06
+        }
+      },
+      "election": {
+        "district": 79,
+        "chamber": "House",
+        "winner": "Lance, Michael J.",
+        "party": "Republican",
+        "percentage": 0.5354775828460039
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "Maine House District 80",
+      "census": {
+        "censusName": "State House District 80 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74422,
+        "medianAge": 42.6,
+        "totalPopulation": 9968,
+        "collegePct": 21.25,
+        "renterRatePct": 9.7,
+        "race": {
+          "whitePct": 95.26,
+          "nonHispanicWhitePct": 95.11,
+          "blackPct": 0.12,
+          "asianPct": 0.35,
+          "hispanicPct": 1.14
+        }
+      },
+      "election": {
+        "district": 80,
+        "chamber": "House",
+        "winner": "Jackson, Caldwell",
+        "party": "Republican",
+        "percentage": 0.6937052670214718
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "Maine House District 81",
+      "census": {
+        "censusName": "State House District 81 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54114,
+        "medianAge": 52.9,
+        "totalPopulation": 8942,
+        "collegePct": 25.58,
+        "renterRatePct": 19.5,
+        "race": {
+          "whitePct": 93.19,
+          "nonHispanicWhitePct": 90.94,
+          "blackPct": 1.06,
+          "asianPct": 0.03,
+          "hispanicPct": 2.42
+        }
+      },
+      "election": {
+        "district": 81,
+        "chamber": "House",
+        "winner": "Wood, Peter Conley",
+        "party": "Republican",
+        "percentage": 0.5021216407355021
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "Maine House District 82",
+      "census": {
+        "censusName": "State House District 82 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60012,
+        "medianAge": 45.8,
+        "totalPopulation": 9801,
+        "collegePct": 22.65,
+        "renterRatePct": 18.16,
+        "race": {
+          "whitePct": 90.84,
+          "nonHispanicWhitePct": 88.82,
+          "blackPct": 0.24,
+          "asianPct": 1.31,
+          "hispanicPct": 3.28
+        }
+      },
+      "election": {
+        "district": 82,
+        "chamber": "House",
+        "winner": "Wadsworth, Nathan  J.",
+        "party": "Republican",
+        "percentage": 0.5765150152850207
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "Maine House District 83",
+      "census": {
+        "censusName": "State House District 83 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69574,
+        "medianAge": 53.1,
+        "totalPopulation": 9176,
+        "collegePct": 31.75,
+        "renterRatePct": 12.72,
+        "race": {
+          "whitePct": 94.06,
+          "nonHispanicWhitePct": 92.83,
+          "blackPct": 0.35,
+          "asianPct": 0.56,
+          "hispanicPct": 3.27
+        }
+      },
+      "election": {
+        "district": 83,
+        "chamber": "House",
+        "winner": "Cimino, Marygrace Caroline",
+        "party": "Republican",
+        "percentage": 0.5058539944903582
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "Maine House District 84",
+      "census": {
+        "censusName": "State House District 84 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65900,
+        "medianAge": 45.1,
+        "totalPopulation": 8857,
+        "collegePct": 27.72,
+        "renterRatePct": 14.77,
+        "race": {
+          "whitePct": 93.11,
+          "nonHispanicWhitePct": 92.37,
+          "blackPct": 0.2,
+          "asianPct": 0,
+          "hispanicPct": 1.82
+        }
+      },
+      "election": {
+        "district": 84,
+        "chamber": "House",
+        "winner": "Walker, Mark",
+        "party": "Republican",
+        "percentage": 0.6230518303733237
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "Maine House District 85",
+      "census": {
+        "censusName": "State House District 85 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109038,
+        "medianAge": 41,
+        "totalPopulation": 8898,
+        "collegePct": 34.86,
+        "renterRatePct": 5.6,
+        "race": {
+          "whitePct": 90,
+          "nonHispanicWhitePct": 88.93,
+          "blackPct": 0.51,
+          "asianPct": 1.05,
+          "hispanicPct": 2.28
+        }
+      },
+      "election": {
+        "district": 85,
+        "chamber": "House",
+        "winner": "Pomerleau, Kimberly",
+        "party": "Republican",
+        "percentage": 1
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "Maine House District 86",
+      "census": {
+        "censusName": "State House District 86 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78067,
+        "medianAge": 48.4,
+        "totalPopulation": 8566,
+        "collegePct": 40.98,
+        "renterRatePct": 10.28,
+        "race": {
+          "whitePct": 89.13,
+          "nonHispanicWhitePct": 88.83,
+          "blackPct": 0.41,
+          "asianPct": 1.26,
+          "hispanicPct": 1.37
+        }
+      },
+      "election": {
+        "district": 86,
+        "chamber": "House",
+        "winner": "Olsen, Rolf A.",
+        "party": "Republican",
+        "percentage": 0.5202787207432553
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "Maine House District 87",
+      "census": {
+        "censusName": "State House District 87 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71490,
+        "medianAge": 39.4,
+        "totalPopulation": 8713,
+        "collegePct": 24.53,
+        "renterRatePct": 19.93,
+        "race": {
+          "whitePct": 90.26,
+          "nonHispanicWhitePct": 90.26,
+          "blackPct": 1.57,
+          "asianPct": 0.61,
+          "hispanicPct": 0.88
+        }
+      },
+      "election": {
+        "district": 87,
+        "chamber": "House",
+        "winner": "Boyer, David W.",
+        "party": "Republican",
+        "percentage": 1
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "Maine House District 88",
+      "census": {
+        "censusName": "State House District 88 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75385,
+        "medianAge": 44.8,
+        "totalPopulation": 8935,
+        "collegePct": 29.19,
+        "renterRatePct": 20.78,
+        "race": {
+          "whitePct": 93.32,
+          "nonHispanicWhitePct": 93.18,
+          "blackPct": 2.76,
+          "asianPct": 0.6,
+          "hispanicPct": 1.04
+        }
+      },
+      "election": {
+        "district": 88,
+        "chamber": "House",
+        "winner": "Chapman, Quentin J.",
+        "party": "Republican",
+        "percentage": 0.5492957746478874
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "Maine House District 89",
+      "census": {
+        "censusName": "State House District 89 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42947,
+        "medianAge": 36.4,
+        "totalPopulation": 8619,
+        "collegePct": 21.11,
+        "renterRatePct": 74.49,
+        "race": {
+          "whitePct": 84.71,
+          "nonHispanicWhitePct": 83.18,
+          "blackPct": 5.56,
+          "asianPct": 1.75,
+          "hispanicPct": 5.2
+        }
+      },
+      "election": {
+        "district": 89,
+        "chamber": "House",
+        "winner": "Lee, Adam R.",
+        "party": "Democratic",
+        "percentage": 0.5710585950145678
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "Maine House District 90",
+      "census": {
+        "censusName": "State House District 90 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92022,
+        "medianAge": 46,
+        "totalPopulation": 9514,
+        "collegePct": 33.97,
+        "renterRatePct": 13.51,
+        "race": {
+          "whitePct": 95.4,
+          "nonHispanicWhitePct": 95.28,
+          "blackPct": 0.22,
+          "asianPct": 0.55,
+          "hispanicPct": 1.26
+        }
+      },
+      "election": {
+        "district": 90,
+        "chamber": "House",
+        "winner": "Libby, Laurel D.",
+        "party": "Republican",
+        "percentage": 0.5139745916515427
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "Maine House District 91",
+      "census": {
+        "censusName": "State House District 91 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86359,
+        "medianAge": 46.2,
+        "totalPopulation": 9319,
+        "collegePct": 22.36,
+        "renterRatePct": 10,
+        "race": {
+          "whitePct": 93.7,
+          "nonHispanicWhitePct": 93.66,
+          "blackPct": 0.5,
+          "asianPct": 0.35,
+          "hispanicPct": 1.23
+        }
+      },
+      "election": {
+        "district": 91,
+        "chamber": "House",
+        "winner": "Morris, Joshua K.",
+        "party": "Republican",
+        "percentage": 1
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "Maine House District 92",
+      "census": {
+        "censusName": "State House District 92 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72183,
+        "medianAge": 43.8,
+        "totalPopulation": 9470,
+        "collegePct": 17.74,
+        "renterRatePct": 8.64,
+        "race": {
+          "whitePct": 91.07,
+          "nonHispanicWhitePct": 91.07,
+          "blackPct": 1,
+          "asianPct": 2.84,
+          "hispanicPct": 0.48
+        }
+      },
+      "election": {
+        "district": 92,
+        "chamber": "House",
+        "winner": "Wood, Stephen J.",
+        "party": "Republican",
+        "percentage": 0.6160136934195511
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "Maine House District 93",
+      "census": {
+        "censusName": "State House District 93 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52109,
+        "medianAge": 28.7,
+        "totalPopulation": 9928,
+        "collegePct": 26.61,
+        "renterRatePct": 46.41,
+        "race": {
+          "whitePct": 83.52,
+          "nonHispanicWhitePct": 82.36,
+          "blackPct": 8.51,
+          "asianPct": 2.9,
+          "hispanicPct": 2.54
+        }
+      },
+      "election": {
+        "district": 93,
+        "chamber": "House",
+        "winner": "McCabe, Julia A.G.",
+        "party": "Democratic",
+        "percentage": 1
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "Maine House District 94",
+      "census": {
+        "censusName": "State House District 94 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45346,
+        "medianAge": 43.2,
+        "totalPopulation": 9623,
+        "collegePct": 22.47,
+        "renterRatePct": 65.98,
+        "race": {
+          "whitePct": 86.64,
+          "nonHispanicWhitePct": 85.04,
+          "blackPct": 7.41,
+          "asianPct": 0.38,
+          "hispanicPct": 2.66
+        }
+      },
+      "election": {
+        "district": 94,
+        "chamber": "House",
+        "winner": "Cloutier, Kristen Sarah",
+        "party": "Democratic",
+        "percentage": 0.5959115093811257
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "Maine House District 95",
+      "census": {
+        "censusName": "State House District 95 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48695,
+        "medianAge": 33,
+        "totalPopulation": 9158,
+        "collegePct": 14.71,
+        "renterRatePct": 57.18,
+        "race": {
+          "whitePct": 66.94,
+          "nonHispanicWhitePct": 66.7,
+          "blackPct": 23.58,
+          "asianPct": 0.47,
+          "hispanicPct": 3
+        }
+      },
+      "election": {
+        "district": 95,
+        "chamber": "House",
+        "winner": "Abdi, Mana Hared",
+        "party": "Democratic",
+        "percentage": 1
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "Maine House District 96",
+      "census": {
+        "censusName": "State House District 96 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84606,
+        "medianAge": 50.1,
+        "totalPopulation": 9177,
+        "collegePct": 22.82,
+        "renterRatePct": 26.28,
+        "race": {
+          "whitePct": 85.93,
+          "nonHispanicWhitePct": 85.69,
+          "blackPct": 4.81,
+          "asianPct": 2.83,
+          "hispanicPct": 3.98
+        }
+      },
+      "election": {
+        "district": 96,
+        "chamber": "House",
+        "winner": "Lajoie, Michel A.",
+        "party": "Democratic",
+        "percentage": 0.5038438793613247
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "Maine House District 97",
+      "census": {
+        "censusName": "State House District 97 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72403,
+        "medianAge": 37.6,
+        "totalPopulation": 8848,
+        "collegePct": 21.02,
+        "renterRatePct": 26.68,
+        "race": {
+          "whitePct": 95.41,
+          "nonHispanicWhitePct": 94.46,
+          "blackPct": 0.49,
+          "asianPct": 0,
+          "hispanicPct": 2.27
+        }
+      },
+      "election": {
+        "district": 97,
+        "chamber": "House",
+        "winner": "Mason, Richard G.",
+        "party": "Republican",
+        "percentage": 1
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "Maine House District 98",
+      "census": {
+        "censusName": "State House District 98 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89470,
+        "medianAge": 43.5,
+        "totalPopulation": 8571,
+        "collegePct": 35.06,
+        "renterRatePct": 6.41,
+        "race": {
+          "whitePct": 91.93,
+          "nonHispanicWhitePct": 89.97,
+          "blackPct": 0.32,
+          "asianPct": 0.95,
+          "hispanicPct": 5.52
+        }
+      },
+      "election": {
+        "district": 98,
+        "chamber": "House",
+        "winner": "Webb, Kilton M.",
+        "party": "Democratic",
+        "percentage": 0.504546985517009
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "Maine House District 99",
+      "census": {
+        "censusName": "State House District 99 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72228,
+        "medianAge": 56.9,
+        "totalPopulation": 8766,
+        "collegePct": 46.77,
+        "renterRatePct": 17.49,
+        "race": {
+          "whitePct": 95.28,
+          "nonHispanicWhitePct": 94.87,
+          "blackPct": 1.11,
+          "asianPct": 0.62,
+          "hispanicPct": 1.32
+        }
+      },
+      "election": {
+        "district": 99,
+        "chamber": "House",
+        "winner": "Golek, Cheryl A.",
+        "party": "Democratic",
+        "percentage": 0.6036454018227009
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "Maine House District 100",
+      "census": {
+        "censusName": "State House District 100 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70541,
+        "medianAge": 32.5,
+        "totalPopulation": 9342,
+        "collegePct": 57.62,
+        "renterRatePct": 49.1,
+        "race": {
+          "whitePct": 85.31,
+          "nonHispanicWhitePct": 84.02,
+          "blackPct": 2.21,
+          "asianPct": 4.4,
+          "hispanicPct": 4.44
+        }
+      },
+      "election": {
+        "district": 100,
+        "chamber": "House",
+        "winner": "Ankeles, Daniel J.",
+        "party": "Democratic",
+        "percentage": 0.784965034965035
+      }
+    },
+    "101": {
+      "districtNumber": 101,
+      "districtName": "Maine House District 101",
+      "census": {
+        "censusName": "State House District 101 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91875,
+        "medianAge": 47.5,
+        "totalPopulation": 9002,
+        "collegePct": 54.53,
+        "renterRatePct": 10.39,
+        "race": {
+          "whitePct": 94.25,
+          "nonHispanicWhitePct": 93.71,
+          "blackPct": 0.13,
+          "asianPct": 0.53,
+          "hispanicPct": 2.75
+        }
+      },
+      "election": {
+        "district": 101,
+        "chamber": "House",
+        "winner": "Arford, Poppy T.",
+        "party": "Democratic",
+        "percentage": 1
+      }
+    },
+    "102": {
+      "districtNumber": 102,
+      "districtName": "Maine House District 102",
+      "census": {
+        "censusName": "State House District 102 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108864,
+        "medianAge": 45.4,
+        "totalPopulation": 8736,
+        "collegePct": 56.75,
+        "renterRatePct": 23.3,
+        "race": {
+          "whitePct": 89.95,
+          "nonHispanicWhitePct": 89.24,
+          "blackPct": 0.16,
+          "asianPct": 3.19,
+          "hispanicPct": 2.76
+        }
+      },
+      "election": {
+        "district": 102,
+        "chamber": "House",
+        "winner": "Sachs, Melanie Fleming",
+        "party": "Democratic",
+        "percentage": 0.700524246395806
+      }
+    },
+    "103": {
+      "districtNumber": 103,
+      "districtName": "Maine House District 103",
+      "census": {
+        "censusName": "State House District 103 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107911,
+        "medianAge": 41.1,
+        "totalPopulation": 9006,
+        "collegePct": 68.95,
+        "renterRatePct": 23.39,
+        "race": {
+          "whitePct": 94.69,
+          "nonHispanicWhitePct": 94.69,
+          "blackPct": 0.69,
+          "asianPct": 1.17,
+          "hispanicPct": 1.72
+        }
+      },
+      "election": {
+        "district": 103,
+        "chamber": "House",
+        "winner": "Bell, Arthur L.",
+        "party": "Democratic",
+        "percentage": 1
+      }
+    },
+    "104": {
+      "districtNumber": 104,
+      "districtName": "Maine House District 104",
+      "census": {
+        "censusName": "State House District 104 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104268,
+        "medianAge": 43.3,
+        "totalPopulation": 9093,
+        "collegePct": 39.05,
+        "renterRatePct": 9.37,
+        "race": {
+          "whitePct": 95.67,
+          "nonHispanicWhitePct": 95.47,
+          "blackPct": 0.19,
+          "asianPct": 0.21,
+          "hispanicPct": 0.27
+        }
+      },
+      "election": {
+        "district": 104,
+        "chamber": "House",
+        "winner": "Arata, Amy B.",
+        "party": "Republican",
+        "percentage": 0.579312679871339
+      }
+    },
+    "105": {
+      "districtNumber": 105,
+      "districtName": "Maine House District 105",
+      "census": {
+        "censusName": "State House District 105 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108828,
+        "medianAge": 46.7,
+        "totalPopulation": 9144,
+        "collegePct": 49.04,
+        "renterRatePct": 18.59,
+        "race": {
+          "whitePct": 89.2,
+          "nonHispanicWhitePct": 87.75,
+          "blackPct": 0.35,
+          "asianPct": 1.16,
+          "hispanicPct": 2.43
+        }
+      },
+      "election": {
+        "district": 105,
+        "chamber": "House",
+        "winner": "Graham, Anne P.",
+        "party": "Democratic",
+        "percentage": 0.533685389662346
+      }
+    },
+    "106": {
+      "districtNumber": 106,
+      "districtName": "Maine House District 106",
+      "census": {
+        "censusName": "State House District 106 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95084,
+        "medianAge": 44.3,
+        "totalPopulation": 9298,
+        "collegePct": 39.9,
+        "renterRatePct": 20.63,
+        "race": {
+          "whitePct": 86.53,
+          "nonHispanicWhitePct": 85.58,
+          "blackPct": 0.43,
+          "asianPct": 2.08,
+          "hispanicPct": 3.84
+        }
+      },
+      "election": {
+        "district": 106,
+        "chamber": "House",
+        "winner": "Bagshaw, Barbara A.",
+        "party": "Republican",
+        "percentage": 0.5335087719298246
+      }
+    },
+    "107": {
+      "districtNumber": 107,
+      "districtName": "Maine House District 107",
+      "census": {
+        "censusName": "State House District 107 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108611,
+        "medianAge": 41.1,
+        "totalPopulation": 9669,
+        "collegePct": 43.67,
+        "renterRatePct": 8.54,
+        "race": {
+          "whitePct": 92.88,
+          "nonHispanicWhitePct": 92.47,
+          "blackPct": 0.73,
+          "asianPct": 2.26,
+          "hispanicPct": 0.75
+        }
+      },
+      "election": {
+        "district": 107,
+        "chamber": "House",
+        "winner": "Cooper, Mark C.",
+        "party": "Republican",
+        "percentage": 0.4384670744872256
+      }
+    },
+    "108": {
+      "districtNumber": 108,
+      "districtName": "Maine House District 108",
+      "census": {
+        "censusName": "State House District 108 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106759,
+        "medianAge": 32.6,
+        "totalPopulation": 10090,
+        "collegePct": 43.09,
+        "renterRatePct": 18.34,
+        "race": {
+          "whitePct": 88.37,
+          "nonHispanicWhitePct": 87.14,
+          "blackPct": 1.41,
+          "asianPct": 2.06,
+          "hispanicPct": 2.24
+        }
+      },
+      "election": {
+        "district": 108,
+        "chamber": "House",
+        "winner": "Terry, Parnell William",
+        "party": "Democratic",
+        "percentage": 0.5093323071002501
+      }
+    },
+    "109": {
+      "districtNumber": 109,
+      "districtName": "Maine House District 109",
+      "census": {
+        "censusName": "State House District 109 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118750,
+        "medianAge": 43.5,
+        "totalPopulation": 8102,
+        "collegePct": 48.11,
+        "renterRatePct": 16.51,
+        "race": {
+          "whitePct": 87.35,
+          "nonHispanicWhitePct": 86.92,
+          "blackPct": 0.28,
+          "asianPct": 2.05,
+          "hispanicPct": 2.38
+        }
+      },
+      "election": {
+        "district": 109,
+        "chamber": "House",
+        "winner": "Sato, Eleanor Y.",
+        "party": "Democratic",
+        "percentage": 0.5665024630541872
+      }
+    },
+    "110": {
+      "districtNumber": 110,
+      "districtName": "Maine House District 110",
+      "census": {
+        "censusName": "State House District 110 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 141151,
+        "medianAge": 42.6,
+        "totalPopulation": 9414,
+        "collegePct": 69.61,
+        "renterRatePct": 10.92,
+        "race": {
+          "whitePct": 92.61,
+          "nonHispanicWhitePct": 92.3,
+          "blackPct": 0.34,
+          "asianPct": 1.76,
+          "hispanicPct": 2.78
+        }
+      },
+      "election": {
+        "district": 110,
+        "chamber": "House",
+        "winner": "Mitchell, Christina R.C.",
+        "party": "Democratic",
+        "percentage": 0.644125366682106
+      }
+    },
+    "111": {
+      "districtNumber": 111,
+      "districtName": "Maine House District 111",
+      "census": {
+        "censusName": "State House District 111 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 159375,
+        "medianAge": 48.5,
+        "totalPopulation": 9321,
+        "collegePct": 70.34,
+        "renterRatePct": 11.46,
+        "race": {
+          "whitePct": 89,
+          "nonHispanicWhitePct": 88.6,
+          "blackPct": 0.16,
+          "asianPct": 1.63,
+          "hispanicPct": 4.5
+        }
+      },
+      "election": {
+        "district": 111,
+        "chamber": "House",
+        "winner": "Kuhn, Amy D.",
+        "party": "Democratic",
+        "percentage": 0.6920869827846572
+      }
+    },
+    "112": {
+      "districtNumber": 112,
+      "districtName": "Maine House District 112",
+      "census": {
+        "censusName": "State House District 112 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107858,
+        "medianAge": 41.4,
+        "totalPopulation": 9442,
+        "collegePct": 65.63,
+        "renterRatePct": 20.11,
+        "race": {
+          "whitePct": 82.13,
+          "nonHispanicWhitePct": 81.84,
+          "blackPct": 6.28,
+          "asianPct": 2.22,
+          "hispanicPct": 2.22
+        }
+      },
+      "election": {
+        "district": 112,
+        "chamber": "House",
+        "winner": "Crockett, W. Edward",
+        "party": "Democratic",
+        "percentage": 0.7171423688258417
+      }
+    },
+    "113": {
+      "districtNumber": 113,
+      "districtName": "Maine House District 113",
+      "census": {
+        "censusName": "State House District 113 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79732,
+        "medianAge": 38.4,
+        "totalPopulation": 9752,
+        "collegePct": 46.63,
+        "renterRatePct": 28.29,
+        "race": {
+          "whitePct": 76.1,
+          "nonHispanicWhitePct": 75.54,
+          "blackPct": 10.68,
+          "asianPct": 5.37,
+          "hispanicPct": 2.77
+        }
+      },
+      "election": {
+        "district": 113,
+        "chamber": "House",
+        "winner": "Lookner, Grayson B.",
+        "party": "Democratic",
+        "percentage": 1
+      }
+    },
+    "114": {
+      "districtNumber": 114,
+      "districtName": "Maine House District 114",
+      "census": {
+        "censusName": "State House District 114 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90465,
+        "medianAge": 39,
+        "totalPopulation": 8480,
+        "collegePct": 50.85,
+        "renterRatePct": 42.76,
+        "race": {
+          "whitePct": 75.92,
+          "nonHispanicWhitePct": 75.75,
+          "blackPct": 11.92,
+          "asianPct": 3.92,
+          "hispanicPct": 2.57
+        }
+      },
+      "election": {
+        "district": 114,
+        "chamber": "House",
+        "winner": "Pugh, Dylan R.",
+        "party": "Democratic",
+        "percentage": 0.7515765765765766
+      }
+    },
+    "115": {
+      "districtNumber": 115,
+      "districtName": "Maine House District 115",
+      "census": {
+        "censusName": "State House District 115 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81128,
+        "medianAge": 38.3,
+        "totalPopulation": 9406,
+        "collegePct": 72.23,
+        "renterRatePct": 53.84,
+        "race": {
+          "whitePct": 88.4,
+          "nonHispanicWhitePct": 87.52,
+          "blackPct": 2.89,
+          "asianPct": 4.57,
+          "hispanicPct": 1.75
+        }
+      },
+      "election": {
+        "district": 115,
+        "chamber": "House",
+        "winner": "Brennan, Michael F.",
+        "party": "Democratic",
+        "percentage": 1
+      }
+    },
+    "116": {
+      "districtNumber": 116,
+      "districtName": "Maine House District 116",
+      "census": {
+        "censusName": "State House District 116 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92612,
+        "medianAge": 37,
+        "totalPopulation": 8034,
+        "collegePct": 66.12,
+        "renterRatePct": 34.58,
+        "race": {
+          "whitePct": 91.52,
+          "nonHispanicWhitePct": 91.4,
+          "blackPct": 1.61,
+          "asianPct": 2.17,
+          "hispanicPct": 2
+        }
+      },
+      "election": {
+        "district": 116,
+        "chamber": "House",
+        "winner": "Zager, Samuel Lewis",
+        "party": "Democratic",
+        "percentage": 1
+      }
+    },
+    "117": {
+      "districtNumber": 117,
+      "districtName": "Maine House District 117",
+      "census": {
+        "censusName": "State House District 117 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68620,
+        "medianAge": 34.6,
+        "totalPopulation": 8771,
+        "collegePct": 59.17,
+        "renterRatePct": 72.08,
+        "race": {
+          "whitePct": 74.52,
+          "nonHispanicWhitePct": 73.39,
+          "blackPct": 11.29,
+          "asianPct": 3.01,
+          "hispanicPct": 4.04
+        }
+      },
+      "election": {
+        "district": 117,
+        "chamber": "House",
+        "winner": "Moonen, Matthew",
+        "party": "Democratic",
+        "percentage": 1
+      }
+    },
+    "118": {
+      "districtNumber": 118,
+      "districtName": "Maine House District 118",
+      "census": {
+        "censusName": "State House District 118 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52653,
+        "medianAge": 32.9,
+        "totalPopulation": 8734,
+        "collegePct": 56.04,
+        "renterRatePct": 83.63,
+        "race": {
+          "whitePct": 70.68,
+          "nonHispanicWhitePct": 69.6,
+          "blackPct": 16.92,
+          "asianPct": 1.96,
+          "hispanicPct": 5.53
+        }
+      },
+      "election": {
+        "district": 118,
+        "chamber": "House",
+        "winner": "Yusuf, Yusuf M.",
+        "party": "Democratic",
+        "percentage": 1
+      }
+    },
+    "119": {
+      "districtNumber": 119,
+      "districtName": "Maine House District 119",
+      "census": {
+        "censusName": "State House District 119 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73724,
+        "medianAge": 40.6,
+        "totalPopulation": 9196,
+        "collegePct": 61.17,
+        "renterRatePct": 63.77,
+        "race": {
+          "whitePct": 83.78,
+          "nonHispanicWhitePct": 83.48,
+          "blackPct": 7.17,
+          "asianPct": 1.48,
+          "hispanicPct": 3.97
+        }
+      },
+      "election": {
+        "district": 119,
+        "chamber": "House",
+        "winner": "Skold, Charles A.",
+        "party": "Democratic",
+        "percentage": 0.8522116218560277
+      }
+    },
+    "120": {
+      "districtNumber": 120,
+      "districtName": "Maine House District 120",
+      "census": {
+        "censusName": "State House District 120 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75464,
+        "medianAge": 36.2,
+        "totalPopulation": 9205,
+        "collegePct": 40.95,
+        "renterRatePct": 50.07,
+        "race": {
+          "whitePct": 70.41,
+          "nonHispanicWhitePct": 69,
+          "blackPct": 18.37,
+          "asianPct": 5.39,
+          "hispanicPct": 3.47
+        }
+      },
+      "election": {
+        "district": 120,
+        "chamber": "House",
+        "winner": "Dhalac, Deqa Abdi",
+        "party": "Democratic",
+        "percentage": 1
+      }
+    },
+    "121": {
+      "districtNumber": 121,
+      "districtName": "Maine House District 121",
+      "census": {
+        "censusName": "State House District 121 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103325,
+        "medianAge": 40.6,
+        "totalPopulation": 9218,
+        "collegePct": 51.15,
+        "renterRatePct": 22.91,
+        "race": {
+          "whitePct": 92.34,
+          "nonHispanicWhitePct": 91.57,
+          "blackPct": 0.48,
+          "asianPct": 1.43,
+          "hispanicPct": 2.93
+        }
+      },
+      "election": {
+        "district": 121,
+        "chamber": "House",
+        "winner": "Kessler, Christopher J.",
+        "party": "Democratic",
+        "percentage": 0.7263537906137184
+      }
+    },
+    "122": {
+      "districtNumber": 122,
+      "districtName": "Maine House District 122",
+      "census": {
+        "censusName": "State House District 122 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74405,
+        "medianAge": 45.3,
+        "totalPopulation": 8809,
+        "collegePct": 56.8,
+        "renterRatePct": 43.13,
+        "race": {
+          "whitePct": 89.12,
+          "nonHispanicWhitePct": 87.97,
+          "blackPct": 1.15,
+          "asianPct": 1.48,
+          "hispanicPct": 3.33
+        }
+      },
+      "election": {
+        "district": 122,
+        "chamber": "House",
+        "winner": "Beck, Matthew D.",
+        "party": "Democratic",
+        "percentage": 0.8109070464767616
+      }
+    },
+    "123": {
+      "districtNumber": 123,
+      "districtName": "Maine House District 123",
+      "census": {
+        "censusName": "State House District 123 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 144850,
+        "medianAge": 50.2,
+        "totalPopulation": 9095,
+        "collegePct": 77.4,
+        "renterRatePct": 11.97,
+        "race": {
+          "whitePct": 95.96,
+          "nonHispanicWhitePct": 95.16,
+          "blackPct": 0.13,
+          "asianPct": 0.56,
+          "hispanicPct": 2.25
+        }
+      },
+      "election": {
+        "district": 123,
+        "chamber": "House",
+        "winner": "Boyer, Michelle Nicole",
+        "party": "Democratic",
+        "percentage": 0.7397656368893624
+      }
+    },
+    "124": {
+      "districtNumber": 124,
+      "districtName": "Maine House District 124",
+      "census": {
+        "censusName": "State House District 124 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 161389,
+        "medianAge": 53,
+        "totalPopulation": 10078,
+        "collegePct": 66.21,
+        "renterRatePct": 17.28,
+        "race": {
+          "whitePct": 93.68,
+          "nonHispanicWhitePct": 92.74,
+          "blackPct": 0,
+          "asianPct": 1.48,
+          "hispanicPct": 3.15
+        }
+      },
+      "election": {
+        "district": 124,
+        "chamber": "House",
+        "winner": "Warren, Sophia Bailey",
+        "party": "Democratic",
+        "percentage": 0.662528963919232
+      }
+    },
+    "125": {
+      "districtNumber": 125,
+      "districtName": "Maine House District 125",
+      "census": {
+        "censusName": "State House District 125 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88333,
+        "medianAge": 46.3,
+        "totalPopulation": 8889,
+        "collegePct": 47.66,
+        "renterRatePct": 33.7,
+        "race": {
+          "whitePct": 94.88,
+          "nonHispanicWhitePct": 92.4,
+          "blackPct": 0.48,
+          "asianPct": 1.25,
+          "hispanicPct": 4.62
+        }
+      },
+      "election": {
+        "district": 125,
+        "chamber": "House",
+        "winner": "Murphy, Kelly Noonan",
+        "party": "Democratic",
+        "percentage": 0.6212863206007182
+      }
+    },
+    "126": {
+      "districtNumber": 126,
+      "districtName": "Maine House District 126",
+      "census": {
+        "censusName": "State House District 126 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96968,
+        "medianAge": 43.3,
+        "totalPopulation": 8661,
+        "collegePct": 40.19,
+        "renterRatePct": 4.43,
+        "race": {
+          "whitePct": 87.32,
+          "nonHispanicWhitePct": 86.7,
+          "blackPct": 2.15,
+          "asianPct": 2.06,
+          "hispanicPct": 0.94
+        }
+      },
+      "election": {
+        "district": 126,
+        "chamber": "House",
+        "winner": "Gattine, Andrew M.",
+        "party": "Democratic",
+        "percentage": 1
+      }
+    },
+    "127": {
+      "districtNumber": 127,
+      "districtName": "Maine House District 127",
+      "census": {
+        "censusName": "State House District 127 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80158,
+        "medianAge": 35.7,
+        "totalPopulation": 9250,
+        "collegePct": 40.09,
+        "renterRatePct": 55.04,
+        "race": {
+          "whitePct": 79.25,
+          "nonHispanicWhitePct": 77.02,
+          "blackPct": 4.16,
+          "asianPct": 5.36,
+          "hispanicPct": 2.68
+        }
+      },
+      "election": {
+        "district": 127,
+        "chamber": "House",
+        "winner": "Rielly, Morgan J.",
+        "party": "Democratic",
+        "percentage": 0.6912537108928979
+      }
+    },
+    "128": {
+      "districtNumber": 128,
+      "districtName": "Maine House District 128",
+      "census": {
+        "censusName": "State House District 128 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105112,
+        "medianAge": 37.3,
+        "totalPopulation": 9492,
+        "collegePct": 42.76,
+        "renterRatePct": 21.25,
+        "race": {
+          "whitePct": 85.24,
+          "nonHispanicWhitePct": 83.44,
+          "blackPct": 6.88,
+          "asianPct": 1.78,
+          "hispanicPct": 1.92
+        }
+      },
+      "election": {
+        "district": 128,
+        "chamber": "House",
+        "winner": "Salisbury, Suzanne M.",
+        "party": "Democratic",
+        "percentage": 0.6521063871092991
+      }
+    },
+    "129": {
+      "districtNumber": 129,
+      "districtName": "Maine House District 129",
+      "census": {
+        "censusName": "State House District 129 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76463,
+        "medianAge": 41.7,
+        "totalPopulation": 9179,
+        "collegePct": 39.48,
+        "renterRatePct": 41.41,
+        "race": {
+          "whitePct": 87.51,
+          "nonHispanicWhitePct": 86.4,
+          "blackPct": 2.67,
+          "asianPct": 1.38,
+          "hispanicPct": 5.28
+        }
+      },
+      "election": {
+        "district": 129,
+        "chamber": "House",
+        "winner": "Archer, Marshall F.",
+        "party": "Democratic",
+        "percentage": 1
+      }
+    },
+    "130": {
+      "districtNumber": 130,
+      "districtName": "Maine House District 130",
+      "census": {
+        "censusName": "State House District 130 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93813,
+        "medianAge": 48,
+        "totalPopulation": 8318,
+        "collegePct": 44.64,
+        "renterRatePct": 26.82,
+        "race": {
+          "whitePct": 84.17,
+          "nonHispanicWhitePct": 81.99,
+          "blackPct": 4.26,
+          "asianPct": 1.23,
+          "hispanicPct": 3.4
+        }
+      },
+      "election": {
+        "district": 130,
+        "chamber": "House",
+        "winner": "Copeland, Lynn Holland",
+        "party": "Democratic",
+        "percentage": 0.6124045801526717
+      }
+    },
+    "131": {
+      "districtNumber": 131,
+      "districtName": "Maine House District 131",
+      "census": {
+        "censusName": "State House District 131 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65842,
+        "medianAge": 56.8,
+        "totalPopulation": 9150,
+        "collegePct": 42.39,
+        "renterRatePct": 31.99,
+        "race": {
+          "whitePct": 90.2,
+          "nonHispanicWhitePct": 90.2,
+          "blackPct": 1.22,
+          "asianPct": 0.55,
+          "hispanicPct": 3.44
+        }
+      },
+      "election": {
+        "district": 131,
+        "chamber": "House",
+        "winner": "Gramlich, Lori Kathryn",
+        "party": "Democratic",
+        "percentage": 0.6270333724635251
+      }
+    },
+    "132": {
+      "districtNumber": 132,
+      "districtName": "Maine House District 132",
+      "census": {
+        "censusName": "State House District 132 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60625,
+        "medianAge": 31.3,
+        "totalPopulation": 9624,
+        "collegePct": 26.25,
+        "renterRatePct": 68.38,
+        "race": {
+          "whitePct": 95.3,
+          "nonHispanicWhitePct": 95.13,
+          "blackPct": 1.57,
+          "asianPct": 1.02,
+          "hispanicPct": 0.56
+        }
+      },
+      "election": {
+        "district": 132,
+        "chamber": "House",
+        "winner": "Fecteau, Ryan M.",
+        "party": "Democratic",
+        "percentage": 1
+      }
+    },
+    "133": {
+      "districtNumber": 133,
+      "districtName": "Maine House District 133",
+      "census": {
+        "censusName": "State House District 133 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74779,
+        "medianAge": 42.5,
+        "totalPopulation": 8929,
+        "collegePct": 28.72,
+        "renterRatePct": 43.79,
+        "race": {
+          "whitePct": 91.4,
+          "nonHispanicWhitePct": 90.39,
+          "blackPct": 0.49,
+          "asianPct": 1.5,
+          "hispanicPct": 5.43
+        }
+      },
+      "election": {
+        "district": 133,
+        "chamber": "House",
+        "winner": "Malon, Marc G.",
+        "party": "Democratic",
+        "percentage": 1
+      }
+    },
+    "134": {
+      "districtNumber": 134,
+      "districtName": "Maine House District 134",
+      "census": {
+        "censusName": "State House District 134 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104338,
+        "medianAge": 55,
+        "totalPopulation": 9747,
+        "collegePct": 53.71,
+        "renterRatePct": 15.02,
+        "race": {
+          "whitePct": 94.24,
+          "nonHispanicWhitePct": 93.81,
+          "blackPct": 0.26,
+          "asianPct": 1.97,
+          "hispanicPct": 0.62
+        }
+      },
+      "election": {
+        "district": 134,
+        "chamber": "House",
+        "winner": "Gere, Traci",
+        "party": "Democratic",
+        "percentage": 0.619964116783559
+      }
+    },
+    "135": {
+      "districtNumber": 135,
+      "districtName": "Maine House District 135",
+      "census": {
+        "censusName": "State House District 135 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94981,
+        "medianAge": 49.9,
+        "totalPopulation": 9487,
+        "collegePct": 47.45,
+        "renterRatePct": 24.2,
+        "race": {
+          "whitePct": 93.28,
+          "nonHispanicWhitePct": 93.13,
+          "blackPct": 0,
+          "asianPct": 1.6,
+          "hispanicPct": 3.3
+        }
+      },
+      "election": {
+        "district": 135,
+        "chamber": "House",
+        "winner": "Sayre, Daniel R.",
+        "party": "Democratic",
+        "percentage": 0.5966859227728792
+      }
+    },
+    "136": {
+      "districtNumber": 136,
+      "districtName": "Maine House District 136",
+      "census": {
+        "censusName": "State House District 136 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78977,
+        "medianAge": 48.4,
+        "totalPopulation": 8894,
+        "collegePct": 23.81,
+        "renterRatePct": 15.78,
+        "race": {
+          "whitePct": 92.2,
+          "nonHispanicWhitePct": 91.48,
+          "blackPct": 0.53,
+          "asianPct": 0.37,
+          "hispanicPct": 0.9
+        }
+      },
+      "election": {
+        "district": 136,
+        "chamber": "House",
+        "winner": "Eder, John M.",
+        "party": "Republican",
+        "percentage": 0.568457225538072
+      }
+    },
+    "137": {
+      "districtNumber": 137,
+      "districtName": "Maine House District 137",
+      "census": {
+        "censusName": "State House District 137 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100031,
+        "medianAge": 44.9,
+        "totalPopulation": 9891,
+        "collegePct": 34.09,
+        "renterRatePct": 16.53,
+        "race": {
+          "whitePct": 88.23,
+          "nonHispanicWhitePct": 88.02,
+          "blackPct": 0.66,
+          "asianPct": 0.49,
+          "hispanicPct": 0.93
+        }
+      },
+      "election": {
+        "district": 137,
+        "chamber": "House",
+        "winner": "Carlow, Nathan  M.",
+        "party": "Republican",
+        "percentage": 0.5846823324630113
+      }
+    },
+    "138": {
+      "districtNumber": 138,
+      "districtName": "Maine House District 138",
+      "census": {
+        "censusName": "State House District 138 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65804,
+        "medianAge": 47.4,
+        "totalPopulation": 9303,
+        "collegePct": 20.95,
+        "renterRatePct": 17.98,
+        "race": {
+          "whitePct": 85.07,
+          "nonHispanicWhitePct": 84.56,
+          "blackPct": 0.17,
+          "asianPct": 0.04,
+          "hispanicPct": 0.72
+        }
+      },
+      "election": {
+        "district": 138,
+        "chamber": "House",
+        "winner": "Blier, Mark John",
+        "party": "Republican",
+        "percentage": 0.5262966333030027
+      }
+    },
+    "139": {
+      "districtNumber": 139,
+      "districtName": "Maine House District 139",
+      "census": {
+        "censusName": "State House District 139 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80406,
+        "medianAge": 37.1,
+        "totalPopulation": 8969,
+        "collegePct": 24.15,
+        "renterRatePct": 8.6,
+        "race": {
+          "whitePct": 92.15,
+          "nonHispanicWhitePct": 92.09,
+          "blackPct": 1.13,
+          "asianPct": 0.12,
+          "hispanicPct": 0.43
+        }
+      },
+      "election": {
+        "district": 139,
+        "chamber": "House",
+        "winner": "Woodsome, David C.",
+        "party": "Republican",
+        "percentage": 0.6760722347629797
+      }
+    },
+    "140": {
+      "districtNumber": 140,
+      "districtName": "Maine House District 140",
+      "census": {
+        "censusName": "State House District 140 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92554,
+        "medianAge": 47.2,
+        "totalPopulation": 9583,
+        "collegePct": 24.52,
+        "renterRatePct": 11.78,
+        "race": {
+          "whitePct": 96.18,
+          "nonHispanicWhitePct": 95.89,
+          "blackPct": 0,
+          "asianPct": 1.02,
+          "hispanicPct": 0.29
+        }
+      },
+      "election": {
+        "district": 140,
+        "chamber": "House",
+        "winner": "Parry, Wayne R.",
+        "party": "Republican",
+        "percentage": 0.5914256198347108
+      }
+    },
+    "141": {
+      "districtNumber": 141,
+      "districtName": "Maine House District 141",
+      "census": {
+        "censusName": "State House District 141 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82856,
+        "medianAge": 42.3,
+        "totalPopulation": 8639,
+        "collegePct": 30.61,
+        "renterRatePct": 13.83,
+        "race": {
+          "whitePct": 95.95,
+          "nonHispanicWhitePct": 94.51,
+          "blackPct": 0.08,
+          "asianPct": 0.15,
+          "hispanicPct": 1.72
+        }
+      },
+      "election": {
+        "district": 141,
+        "chamber": "House",
+        "winner": "Lanigan, Lucas John",
+        "party": "Republican",
+        "percentage": 0.500100908173562
+      }
+    },
+    "142": {
+      "districtNumber": 142,
+      "districtName": "Maine House District 142",
+      "census": {
+        "censusName": "State House District 142 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60918,
+        "medianAge": 37,
+        "totalPopulation": 8768,
+        "collegePct": 18.45,
+        "renterRatePct": 41.74,
+        "race": {
+          "whitePct": 86.66,
+          "nonHispanicWhitePct": 84.38,
+          "blackPct": 1.55,
+          "asianPct": 1.45,
+          "hispanicPct": 4.37
+        }
+      },
+      "election": {
+        "district": 142,
+        "chamber": "House",
+        "winner": "Mastraccio, Anne-Marie",
+        "party": "Democratic",
+        "percentage": 0.5083945435466947
+      }
+    },
+    "143": {
+      "districtNumber": 143,
+      "districtName": "Maine House District 143",
+      "census": {
+        "censusName": "State House District 143 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74980,
+        "medianAge": 46.5,
+        "totalPopulation": 9155,
+        "collegePct": 22.08,
+        "renterRatePct": 22.92,
+        "race": {
+          "whitePct": 88.71,
+          "nonHispanicWhitePct": 88.71,
+          "blackPct": 2.64,
+          "asianPct": 3.8,
+          "hispanicPct": 0.43
+        }
+      },
+      "election": {
+        "district": 143,
+        "chamber": "House",
+        "winner": "Fredericks, Ann  Marie",
+        "party": "Republican",
+        "percentage": 0.5735749005744587
+      }
+    },
+    "144": {
+      "districtNumber": 144,
+      "districtName": "Maine House District 144",
+      "census": {
+        "censusName": "State House District 144 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93709,
+        "medianAge": 42.5,
+        "totalPopulation": 9264,
+        "collegePct": 17.57,
+        "renterRatePct": 5.97,
+        "race": {
+          "whitePct": 92.01,
+          "nonHispanicWhitePct": 92.01,
+          "blackPct": 0,
+          "asianPct": 0.72,
+          "hispanicPct": 0.33
+        }
+      },
+      "election": {
+        "district": 144,
+        "chamber": "House",
+        "winner": "Adams, Jeffrey Sean",
+        "party": "Republican",
+        "percentage": 0.665529695024077
+      }
+    },
+    "145": {
+      "districtNumber": 145,
+      "districtName": "Maine House District 145",
+      "census": {
+        "censusName": "State House District 145 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85434,
+        "medianAge": 47.5,
+        "totalPopulation": 9489,
+        "collegePct": 37.28,
+        "renterRatePct": 10.33,
+        "race": {
+          "whitePct": 89.07,
+          "nonHispanicWhitePct": 88.77,
+          "blackPct": 2.78,
+          "asianPct": 1.76,
+          "hispanicPct": 1.12
+        }
+      },
+      "election": {
+        "district": 145,
+        "chamber": "House",
+        "winner": "Foley, Robert Alan",
+        "party": "Republican",
+        "percentage": 0.5197823209295485
+      }
+    },
+    "146": {
+      "districtNumber": 146,
+      "districtName": "Maine House District 146",
+      "census": {
+        "censusName": "State House District 146 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107489,
+        "medianAge": 53.2,
+        "totalPopulation": 8771,
+        "collegePct": 53.13,
+        "renterRatePct": 12.26,
+        "race": {
+          "whitePct": 94.39,
+          "nonHispanicWhitePct": 93.41,
+          "blackPct": 2.18,
+          "asianPct": 0.19,
+          "hispanicPct": 2.83
+        }
+      },
+      "election": {
+        "district": 146,
+        "chamber": "House",
+        "winner": "Runte, Walter Gerard",
+        "party": "Democratic",
+        "percentage": 0.5589700996677741
+      }
+    },
+    "147": {
+      "districtNumber": 147,
+      "districtName": "Maine House District 147",
+      "census": {
+        "censusName": "State House District 147 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97843,
+        "medianAge": 56,
+        "totalPopulation": 8421,
+        "collegePct": 45.04,
+        "renterRatePct": 24.8,
+        "race": {
+          "whitePct": 94.51,
+          "nonHispanicWhitePct": 94.22,
+          "blackPct": 0,
+          "asianPct": 0.07,
+          "hispanicPct": 0.96
+        }
+      },
+      "election": {
+        "district": 147,
+        "chamber": "House",
+        "winner": "Sargent, Holly T.",
+        "party": "Democratic",
+        "percentage": 1
+      }
+    },
+    "148": {
+      "districtNumber": 148,
+      "districtName": "Maine House District 148",
+      "census": {
+        "censusName": "State House District 148 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87287,
+        "medianAge": 39.7,
+        "totalPopulation": 9540,
+        "collegePct": 35.45,
+        "renterRatePct": 11.93,
+        "race": {
+          "whitePct": 94.2,
+          "nonHispanicWhitePct": 94.2,
+          "blackPct": 0.56,
+          "asianPct": 1.34,
+          "hispanicPct": 1.92
+        }
+      },
+      "election": {
+        "district": 148,
+        "chamber": "House",
+        "winner": "Lavigne, Thomas Arthur",
+        "party": "Republican",
+        "percentage": 0.5944249584640945
+      }
+    },
+    "149": {
+      "districtNumber": 149,
+      "districtName": "Maine House District 149",
+      "census": {
+        "censusName": "State House District 149 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92439,
+        "medianAge": 40.8,
+        "totalPopulation": 9821,
+        "collegePct": 32.81,
+        "renterRatePct": 21.9,
+        "race": {
+          "whitePct": 94.37,
+          "nonHispanicWhitePct": 92.56,
+          "blackPct": 0.08,
+          "asianPct": 1.25,
+          "hispanicPct": 2.34
+        }
+      },
+      "election": {
+        "district": 149,
+        "chamber": "House",
+        "winner": "Roberts, Tiffany Danielle",
+        "party": "Democratic",
+        "percentage": 0.564241893076249
+      }
+    },
+    "150": {
+      "districtNumber": 150,
+      "districtName": "Maine House District 150",
+      "census": {
+        "censusName": "State House District 150 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98618,
+        "medianAge": 47.5,
+        "totalPopulation": 8825,
+        "collegePct": 40.39,
+        "renterRatePct": 18.25,
+        "race": {
+          "whitePct": 90.1,
+          "nonHispanicWhitePct": 90.1,
+          "blackPct": 0.51,
+          "asianPct": 0.4,
+          "hispanicPct": 4.09
+        }
+      },
+      "election": {
+        "district": 150,
+        "chamber": "House",
+        "winner": "Meyer, Michele",
+        "party": "Democratic",
+        "percentage": 0.6310169213077049
+      }
+    },
+    "151": {
+      "districtNumber": 151,
+      "districtName": "Maine House District 151",
+      "census": {
+        "censusName": "State House District 151 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85029,
+        "medianAge": 48.9,
+        "totalPopulation": 9825,
+        "collegePct": 46.48,
+        "renterRatePct": 34.01,
+        "race": {
+          "whitePct": 91.36,
+          "nonHispanicWhitePct": 90.16,
+          "blackPct": 2.03,
+          "asianPct": 1.55,
+          "hispanicPct": 3.24
+        }
+      },
+      "election": {
+        "district": 151,
+        "chamber": "House",
+        "winner": "Mathieson, Kristi Michele",
+        "party": "Democratic",
+        "percentage": 0.7043570294584582
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Maine Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53955,
+        "medianAge": 50.7,
+        "totalPopulation": 36863,
+        "collegePct": 23.56,
+        "renterRatePct": 23.22,
+        "race": {
+          "whitePct": 93.52,
+          "nonHispanicWhitePct": 93.2,
+          "blackPct": 0.81,
+          "asianPct": 0.39,
+          "hispanicPct": 1.64
+        }
+      },
+      "election": {
+        "district": 1,
+        "chamber": "Senate",
+        "winner": "Bernard, Susan Y.",
+        "party": "Republican",
+        "percentage": 0.6577954319761669
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Maine Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51859,
+        "medianAge": 48.1,
+        "totalPopulation": 41314,
+        "collegePct": 19.82,
+        "renterRatePct": 25.32,
+        "race": {
+          "whitePct": 94.45,
+          "nonHispanicWhitePct": 93.85,
+          "blackPct": 0.59,
+          "asianPct": 0.35,
+          "hispanicPct": 1.2
+        }
+      },
+      "election": {
+        "district": 2,
+        "chamber": "Senate",
+        "winner": "Stewart, Harold L. III",
+        "party": "Republican",
+        "percentage": 0.6617860249347637
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Maine Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57163,
+        "medianAge": 45.1,
+        "totalPopulation": 39749,
+        "collegePct": 20.6,
+        "renterRatePct": 24.89,
+        "race": {
+          "whitePct": 95.94,
+          "nonHispanicWhitePct": 95.33,
+          "blackPct": 0.54,
+          "asianPct": 0.13,
+          "hispanicPct": 1.2
+        }
+      },
+      "election": {
+        "district": 3,
+        "chamber": "Senate",
+        "winner": "Farrin, Bradlee Thomas",
+        "party": "Republican",
+        "percentage": 0.6763971576723641
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Maine Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62038,
+        "medianAge": 48.2,
+        "totalPopulation": 40500,
+        "collegePct": 19.87,
+        "renterRatePct": 20.26,
+        "race": {
+          "whitePct": 95.01,
+          "nonHispanicWhitePct": 94.76,
+          "blackPct": 0.5,
+          "asianPct": 0.59,
+          "hispanicPct": 0.93
+        }
+      },
+      "election": {
+        "district": 4,
+        "chamber": "Senate",
+        "winner": "Guerin, Stacey K.",
+        "party": "Republican",
+        "percentage": 0.6736999786004708
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Maine Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57966,
+        "medianAge": 48.1,
+        "totalPopulation": 40425,
+        "collegePct": 28.01,
+        "renterRatePct": 19.24,
+        "race": {
+          "whitePct": 94.12,
+          "nonHispanicWhitePct": 93.69,
+          "blackPct": 0.62,
+          "asianPct": 0.61,
+          "hispanicPct": 1.65
+        }
+      },
+      "election": {
+        "district": 5,
+        "chamber": "Senate",
+        "winner": "Black, Russell J.",
+        "party": "Republican",
+        "percentage": 0.6582589574440564
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Maine Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55864,
+        "medianAge": 49.6,
+        "totalPopulation": 41727,
+        "collegePct": 25.47,
+        "renterRatePct": 21.02,
+        "race": {
+          "whitePct": 89.78,
+          "nonHispanicWhitePct": 89.35,
+          "blackPct": 0.9,
+          "asianPct": 0.34,
+          "hispanicPct": 2.12
+        }
+      },
+      "election": {
+        "district": 6,
+        "chamber": "Senate",
+        "winner": "Moore, Marianne",
+        "party": "Republican",
+        "percentage": 0.6764246682279469
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Maine Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71130,
+        "medianAge": 49,
+        "totalPopulation": 38183,
+        "collegePct": 44.54,
+        "renterRatePct": 21.84,
+        "race": {
+          "whitePct": 93.3,
+          "nonHispanicWhitePct": 92.67,
+          "blackPct": 1.09,
+          "asianPct": 1.16,
+          "hispanicPct": 1.67
+        }
+      },
+      "election": {
+        "district": 7,
+        "chamber": "Senate",
+        "winner": "Grohoski, Nicole C.",
+        "party": "Democratic",
+        "percentage": 0.6202861886315124
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Maine Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55201,
+        "medianAge": 37.5,
+        "totalPopulation": 38953,
+        "collegePct": 33.15,
+        "renterRatePct": 30.74,
+        "race": {
+          "whitePct": 90.46,
+          "nonHispanicWhitePct": 89.47,
+          "blackPct": 0.66,
+          "asianPct": 2.2,
+          "hispanicPct": 2.88
+        }
+      },
+      "election": {
+        "district": 8,
+        "chamber": "Senate",
+        "winner": "Tipping, Michael",
+        "party": "Democratic",
+        "percentage": 0.5032435620208374
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Maine Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63445,
+        "medianAge": 40.4,
+        "totalPopulation": 38281,
+        "collegePct": 37.17,
+        "renterRatePct": 48.74,
+        "race": {
+          "whitePct": 88.48,
+          "nonHispanicWhitePct": 87.57,
+          "blackPct": 2.55,
+          "asianPct": 1.68,
+          "hispanicPct": 2.93
+        }
+      },
+      "election": {
+        "district": 9,
+        "chamber": "Senate",
+        "winner": "Baldacci, Joseph M.",
+        "party": "Democratic",
+        "percentage": 0.5859978784664344
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Maine Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77307,
+        "medianAge": 44,
+        "totalPopulation": 41469,
+        "collegePct": 34.08,
+        "renterRatePct": 22.3,
+        "race": {
+          "whitePct": 93.55,
+          "nonHispanicWhitePct": 92.7,
+          "blackPct": 0.46,
+          "asianPct": 0.39,
+          "hispanicPct": 1.85
+        }
+      },
+      "election": {
+        "district": 10,
+        "chamber": "Senate",
+        "winner": "Haggan, David G.",
+        "party": "Republican",
+        "percentage": 0.5690121513059626
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Maine Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68441,
+        "medianAge": 46.9,
+        "totalPopulation": 40006,
+        "collegePct": 34.82,
+        "renterRatePct": 19.08,
+        "race": {
+          "whitePct": 93.87,
+          "nonHispanicWhitePct": 92.98,
+          "blackPct": 0.58,
+          "asianPct": 0.42,
+          "hispanicPct": 1.52
+        }
+      },
+      "election": {
+        "district": 11,
+        "chamber": "Senate",
+        "winner": "Curry, Glenn Chip",
+        "party": "Democratic",
+        "percentage": 0.5608493641995436
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Maine Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72269,
+        "medianAge": 49.3,
+        "totalPopulation": 39183,
+        "collegePct": 39.79,
+        "renterRatePct": 22.01,
+        "race": {
+          "whitePct": 94.66,
+          "nonHispanicWhitePct": 94.05,
+          "blackPct": 0.39,
+          "asianPct": 0.29,
+          "hispanicPct": 1.86
+        }
+      },
+      "election": {
+        "district": 12,
+        "chamber": "Senate",
+        "winner": "Beebe-Center, Anne H.",
+        "party": "Democratic",
+        "percentage": 0.5897298852937549
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Maine Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71216,
+        "medianAge": 50.2,
+        "totalPopulation": 38485,
+        "collegePct": 38.32,
+        "renterRatePct": 15.6,
+        "race": {
+          "whitePct": 94.21,
+          "nonHispanicWhitePct": 93.54,
+          "blackPct": 0.5,
+          "asianPct": 0.7,
+          "hispanicPct": 1.29
+        }
+      },
+      "election": {
+        "district": 13,
+        "chamber": "Senate",
+        "winner": "Reny, Cameron D.",
+        "party": "Democratic",
+        "percentage": 0.5549742401853109
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Maine Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72100,
+        "medianAge": 45.5,
+        "totalPopulation": 39059,
+        "collegePct": 34.76,
+        "renterRatePct": 22.29,
+        "race": {
+          "whitePct": 93.5,
+          "nonHispanicWhitePct": 93.1,
+          "blackPct": 1.16,
+          "asianPct": 0.33,
+          "hispanicPct": 2.27
+        }
+      },
+      "election": {
+        "district": 14,
+        "chamber": "Senate",
+        "winner": "Hickman, Craig V.",
+        "party": "Democratic",
+        "percentage": 0.5262224787663891
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Maine Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62647,
+        "medianAge": 43.8,
+        "totalPopulation": 37770,
+        "collegePct": 31.67,
+        "renterRatePct": 29.48,
+        "race": {
+          "whitePct": 92.84,
+          "nonHispanicWhitePct": 91.97,
+          "blackPct": 0.95,
+          "asianPct": 1,
+          "hispanicPct": 2.34
+        }
+      },
+      "election": {
+        "district": 15,
+        "chamber": "Senate",
+        "winner": "Bradstreet, Richard T.",
+        "party": "Republican",
+        "percentage": 0.5046406417611119
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Maine Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57780,
+        "medianAge": 40.4,
+        "totalPopulation": 39851,
+        "collegePct": 26.05,
+        "renterRatePct": 35.29,
+        "race": {
+          "whitePct": 92.75,
+          "nonHispanicWhitePct": 91.7,
+          "blackPct": 0.46,
+          "asianPct": 1.15,
+          "hispanicPct": 2.36
+        }
+      },
+      "election": {
+        "district": 16,
+        "chamber": "Senate",
+        "winner": "Cyrway, Scott Wynn",
+        "party": "Republican",
+        "percentage": 0.5373178857341754
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Maine Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71764,
+        "medianAge": 43.5,
+        "totalPopulation": 39116,
+        "collegePct": 20.64,
+        "renterRatePct": 15.13,
+        "race": {
+          "whitePct": 94.57,
+          "nonHispanicWhitePct": 94.3,
+          "blackPct": 0.53,
+          "asianPct": 0.88,
+          "hispanicPct": 0.96
+        }
+      },
+      "election": {
+        "district": 17,
+        "chamber": "Senate",
+        "winner": "Timberlake, Jeffrey L.",
+        "party": "Republican",
+        "percentage": 0.6780198565912852
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Maine Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67075,
+        "medianAge": 47.9,
+        "totalPopulation": 39846,
+        "collegePct": 24.22,
+        "renterRatePct": 18.55,
+        "race": {
+          "whitePct": 93.08,
+          "nonHispanicWhitePct": 92.01,
+          "blackPct": 0.48,
+          "asianPct": 0.54,
+          "hispanicPct": 2.22
+        }
+      },
+      "election": {
+        "district": 18,
+        "chamber": "Senate",
+        "winner": "Bennett, Richard A.",
+        "party": "Republican",
+        "percentage": 0.6466235754379996
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Maine Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55818,
+        "medianAge": 48.7,
+        "totalPopulation": 39618,
+        "collegePct": 23.3,
+        "renterRatePct": 18.37,
+        "race": {
+          "whitePct": 94.07,
+          "nonHispanicWhitePct": 93.55,
+          "blackPct": 0.35,
+          "asianPct": 0.57,
+          "hispanicPct": 0.91
+        }
+      },
+      "election": {
+        "district": 19,
+        "chamber": "Senate",
+        "winner": "Martin, Joseph E.",
+        "party": "Republican",
+        "percentage": 0.5684762492288711
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Maine Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79895,
+        "medianAge": 41.8,
+        "totalPopulation": 40150,
+        "collegePct": 30.43,
+        "renterRatePct": 29.75,
+        "race": {
+          "whitePct": 93.19,
+          "nonHispanicWhitePct": 92.77,
+          "blackPct": 1.95,
+          "asianPct": 0.74,
+          "hispanicPct": 1.97
+        }
+      },
+      "election": {
+        "district": 20,
+        "chamber": "Senate",
+        "winner": "Bickford, Bruce",
+        "party": "Republican",
+        "percentage": 0.5012785429096945
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Maine Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56558,
+        "medianAge": 37.8,
+        "totalPopulation": 37886,
+        "collegePct": 21.7,
+        "renterRatePct": 49.65,
+        "race": {
+          "whitePct": 80.89,
+          "nonHispanicWhitePct": 80.06,
+          "blackPct": 10.98,
+          "asianPct": 1.66,
+          "hispanicPct": 3.03
+        }
+      },
+      "election": {
+        "district": 21,
+        "chamber": "Senate",
+        "winner": "Rotundo, Margaret R.",
+        "party": "Democratic",
+        "percentage": 1
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Maine Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77760,
+        "medianAge": 44.5,
+        "totalPopulation": 39178,
+        "collegePct": 26.48,
+        "renterRatePct": 10,
+        "race": {
+          "whitePct": 89.64,
+          "nonHispanicWhitePct": 89.06,
+          "blackPct": 0.5,
+          "asianPct": 0.44,
+          "hispanicPct": 1.43
+        }
+      },
+      "election": {
+        "district": 22,
+        "chamber": "Senate",
+        "winner": "Libby, James D.",
+        "party": "Republican",
+        "percentage": 0.6357598868846137
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Maine Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86124,
+        "medianAge": 45.5,
+        "totalPopulation": 40367,
+        "collegePct": 54.84,
+        "renterRatePct": 23.61,
+        "race": {
+          "whitePct": 91.41,
+          "nonHispanicWhitePct": 90.74,
+          "blackPct": 0.91,
+          "asianPct": 2.08,
+          "hispanicPct": 2.79
+        }
+      },
+      "election": {
+        "district": 23,
+        "chamber": "Senate",
+        "winner": "Daughtry, Matthea Elisabeth",
+        "party": "Democratic",
+        "percentage": 0.6900354182641399
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Maine Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81863,
+        "medianAge": 47.5,
+        "totalPopulation": 38732,
+        "collegePct": 40.65,
+        "renterRatePct": 21.92,
+        "race": {
+          "whitePct": 93.46,
+          "nonHispanicWhitePct": 92.41,
+          "blackPct": 0.52,
+          "asianPct": 0.66,
+          "hispanicPct": 1.93
+        }
+      },
+      "election": {
+        "district": 24,
+        "chamber": "Senate",
+        "winner": "Tepler, Denise",
+        "party": "Democratic",
+        "percentage": 0.5309096669438834
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Maine Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 121433,
+        "medianAge": 44.2,
+        "totalPopulation": 40585,
+        "collegePct": 62.83,
+        "renterRatePct": 15.57,
+        "race": {
+          "whitePct": 90.94,
+          "nonHispanicWhitePct": 90.38,
+          "blackPct": 0.32,
+          "asianPct": 1.37,
+          "hispanicPct": 2.83
+        }
+      },
+      "election": {
+        "district": 25,
+        "chamber": "Senate",
+        "winner": "Pierce, Teresa S.",
+        "party": "Democratic",
+        "percentage": 0.6453427572031301
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Maine Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93052,
+        "medianAge": 43.1,
+        "totalPopulation": 39096,
+        "collegePct": 41.71,
+        "renterRatePct": 18.2,
+        "race": {
+          "whitePct": 89.94,
+          "nonHispanicWhitePct": 88.58,
+          "blackPct": 1.08,
+          "asianPct": 1.7,
+          "hispanicPct": 2.46
+        }
+      },
+      "election": {
+        "district": 26,
+        "chamber": "Senate",
+        "winner": "Nangle, Timothy E.",
+        "party": "Democratic",
+        "percentage": 0.5203210162653963
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Maine Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87487,
+        "medianAge": 37.5,
+        "totalPopulation": 38875,
+        "collegePct": 54.72,
+        "renterRatePct": 37.94,
+        "race": {
+          "whitePct": 79.13,
+          "nonHispanicWhitePct": 78.86,
+          "blackPct": 8.45,
+          "asianPct": 4.47,
+          "hispanicPct": 1.7
+        }
+      },
+      "election": {
+        "district": 27,
+        "chamber": "Senate",
+        "winner": "Duson, Jill C.",
+        "party": "Democratic",
+        "percentage": 0.7718937125748503
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Maine Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71159,
+        "medianAge": 36.7,
+        "totalPopulation": 38236,
+        "collegePct": 58.93,
+        "renterRatePct": 65.29,
+        "race": {
+          "whitePct": 79.23,
+          "nonHispanicWhitePct": 78.5,
+          "blackPct": 9.66,
+          "asianPct": 2.67,
+          "hispanicPct": 3.82
+        }
+      },
+      "election": {
+        "district": 28,
+        "chamber": "Senate",
+        "winner": "Ross, Rachel Talbot",
+        "party": "Democratic",
+        "percentage": 1
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Maine Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101116,
+        "medianAge": 44.4,
+        "totalPopulation": 38645,
+        "collegePct": 58.12,
+        "renterRatePct": 33.53,
+        "race": {
+          "whitePct": 87.39,
+          "nonHispanicWhitePct": 86.36,
+          "blackPct": 4.78,
+          "asianPct": 2.23,
+          "hispanicPct": 2.91
+        }
+      },
+      "election": {
+        "district": 29,
+        "chamber": "Senate",
+        "winner": "Carney, Anne M.",
+        "party": "Democratic",
+        "percentage": 0.7485684984189386
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Maine Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112104,
+        "medianAge": 43.1,
+        "totalPopulation": 38621,
+        "collegePct": 50.6,
+        "renterRatePct": 19.38,
+        "race": {
+          "whitePct": 89.98,
+          "nonHispanicWhitePct": 88.66,
+          "blackPct": 0.9,
+          "asianPct": 1.68,
+          "hispanicPct": 3.01
+        }
+      },
+      "election": {
+        "district": 30,
+        "chamber": "Senate",
+        "winner": "Brenner, Stacy Fielding",
+        "party": "Democratic",
+        "percentage": 0.6033499357326478
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Maine Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79116,
+        "medianAge": 47.2,
+        "totalPopulation": 38237,
+        "collegePct": 39.06,
+        "renterRatePct": 29.56,
+        "race": {
+          "whitePct": 87.28,
+          "nonHispanicWhitePct": 86.39,
+          "blackPct": 1.92,
+          "asianPct": 0.91,
+          "hispanicPct": 3.17
+        }
+      },
+      "election": {
+        "district": 31,
+        "chamber": "Senate",
+        "winner": "Bailey, Donna",
+        "party": "Democratic",
+        "percentage": 0.5766134353965949
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Maine Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74436,
+        "medianAge": 40.8,
+        "totalPopulation": 38530,
+        "collegePct": 28.39,
+        "renterRatePct": 35.38,
+        "race": {
+          "whitePct": 94.1,
+          "nonHispanicWhitePct": 93.66,
+          "blackPct": 0.66,
+          "asianPct": 1.38,
+          "hispanicPct": 1.69
+        }
+      },
+      "election": {
+        "district": 32,
+        "chamber": "Senate",
+        "winner": "Ingwersen, Henry L.",
+        "party": "Democratic",
+        "percentage": 0.5841551140965175
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Maine Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78158,
+        "medianAge": 40.3,
+        "totalPopulation": 39814,
+        "collegePct": 21.93,
+        "renterRatePct": 22.35,
+        "race": {
+          "whitePct": 90.97,
+          "nonHispanicWhitePct": 89.99,
+          "blackPct": 1.07,
+          "asianPct": 1.4,
+          "hispanicPct": 1.69
+        }
+      },
+      "election": {
+        "district": 33,
+        "chamber": "Senate",
+        "winner": "Harrington, Matthew A.",
+        "party": "Republican",
+        "percentage": 0.6062024575775308
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Maine Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92877,
+        "medianAge": 48.8,
+        "totalPopulation": 40072,
+        "collegePct": 41.38,
+        "renterRatePct": 16.04,
+        "race": {
+          "whitePct": 93.28,
+          "nonHispanicWhitePct": 93,
+          "blackPct": 1,
+          "asianPct": 1.23,
+          "hispanicPct": 1.71
+        }
+      },
+      "election": {
+        "district": 34,
+        "chamber": "Senate",
+        "winner": "Rafferty, Joseph E. Jr.",
+        "party": "Democratic",
+        "percentage": 0.5578226254397334
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Maine Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Maine",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99575,
+        "medianAge": 48.5,
+        "totalPopulation": 39978,
+        "collegePct": 45.62,
+        "renterRatePct": 23.64,
+        "race": {
+          "whitePct": 92.64,
+          "nonHispanicWhitePct": 91.75,
+          "blackPct": 0.91,
+          "asianPct": 0.83,
+          "hispanicPct": 2.97
+        }
+      },
+      "election": {
+        "district": 35,
+        "chamber": "Senate",
+        "winner": "Lawrence, Mark W.",
+        "party": "Democratic",
+        "percentage": 0.6356382978723404
+      }
+    }
+  }
+}

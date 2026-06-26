@@ -1,0 +1,1531 @@
+{
+  "house": {
+    "Addison 1": {
+      "winners": [
+        {
+          "name": "Amy Sheldon",
+          "party": "Democratic",
+          "pct": 49.6
+        },
+        {
+          "name": "Robin Scheu",
+          "party": "Democratic",
+          "pct": 47.6
+        }
+      ],
+      "unopposed": true
+    },
+    "Addison 2": {
+      "winners": [
+        {
+          "name": "Peter Conlon",
+          "party": "Democratic",
+          "pct": 55.9
+        }
+      ],
+      "unopposed": false
+    },
+    "Addison 3": {
+      "winners": [
+        {
+          "name": "Rob North",
+          "party": "Republican",
+          "pct": 27.7
+        },
+        {
+          "name": "Matt Birong",
+          "party": "Democratic",
+          "pct": 24.6
+        }
+      ],
+      "unopposed": false
+    },
+    "Addison 4": {
+      "winners": [
+        {
+          "name": "Herb Olson",
+          "party": "Democratic",
+          "pct": 29.7
+        },
+        {
+          "name": "Mari Cordes",
+          "party": "Democratic",
+          "pct": 27.7
+        }
+      ],
+      "unopposed": false
+    },
+    "Addison 5": {
+      "winners": [
+        {
+          "name": "Jubilee McGill",
+          "party": "Democratic",
+          "pct": 54.8
+        }
+      ],
+      "unopposed": false
+    },
+    "Addison-Rutland": {
+      "winners": [
+        {
+          "name": "Jim Casey",
+          "party": "Republican",
+          "pct": 94.9
+        }
+      ],
+      "unopposed": true
+    },
+    "Bennington 1": {
+      "winners": [
+        {
+          "name": "Jonathan Cooper",
+          "party": "Democratic",
+          "pct": 50.4
+        }
+      ],
+      "unopposed": false
+    },
+    "Bennington 2": {
+      "winners": [
+        {
+          "name": "Timothy R. Corcoran, II",
+          "party": "Democratic",
+          "pct": 39.5
+        },
+        {
+          "name": "William \"Will\" Greer",
+          "party": "Democratic",
+          "pct": 34.4
+        }
+      ],
+      "unopposed": false
+    },
+    "Bennington 3": {
+      "winners": [
+        {
+          "name": "David K. Durfee",
+          "party": "Democratic",
+          "pct": 56.2
+        }
+      ],
+      "unopposed": false
+    },
+    "Bennington 4": {
+      "winners": [
+        {
+          "name": "Robert Hunter",
+          "party": "Democratic",
+          "pct": 48.2
+        },
+        {
+          "name": "Kathleen James",
+          "party": "Democratic",
+          "pct": 48.2
+        }
+      ],
+      "unopposed": true
+    },
+    "Bennington 5": {
+      "winners": [
+        {
+          "name": "Mary A. Morrissey",
+          "party": "Republican",
+          "pct": 36.5
+        },
+        {
+          "name": "Michael Nigro",
+          "party": "Democratic",
+          "pct": 32.8
+        }
+      ],
+      "unopposed": false
+    },
+    "Bennington-Rutland": {
+      "winners": [
+        {
+          "name": "Sandra \"Sandy\" Pinsonault",
+          "party": "Republican",
+          "pct": 54.5
+        }
+      ],
+      "unopposed": false
+    },
+    "Caledonia 1": {
+      "winners": [
+        {
+          "name": "Debra Lynn Powers",
+          "party": "Republican",
+          "pct": 57.3
+        }
+      ],
+      "unopposed": false
+    },
+    "Caledonia 2": {
+      "winners": [
+        {
+          "name": "Michael \"Mike\" Southworth",
+          "party": "Republican",
+          "pct": 58.5
+        }
+      ],
+      "unopposed": false
+    },
+    "Caledonia 3": {
+      "winners": [
+        {
+          "name": "Martha \"Marty\" Feltus",
+          "party": "Republican",
+          "pct": 32.2
+        },
+        {
+          "name": "Beth M. Quimby",
+          "party": "Republican",
+          "pct": 30.7
+        }
+      ],
+      "unopposed": false
+    },
+    "Caledonia-Essex": {
+      "winners": [
+        {
+          "name": "Deborah Cordz Dolgin",
+          "party": "Republican",
+          "pct": 37.1
+        },
+        {
+          "name": "R. Scott Campbell",
+          "party": "Democratic",
+          "pct": 36
+        }
+      ],
+      "unopposed": false
+    },
+    "Caledonia-Washington": {
+      "winners": [
+        {
+          "name": "Greg Burtt",
+          "party": "Republican",
+          "pct": 56.3
+        }
+      ],
+      "unopposed": false
+    },
+    "Chittenden 1": {
+      "winners": [
+        {
+          "name": "Jana Brown",
+          "party": "Democratic",
+          "pct": 97.8
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden 10": {
+      "winners": [
+        {
+          "name": "Kate Nugent",
+          "party": "Democratic",
+          "pct": 96.5
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden 11": {
+      "winners": [
+        {
+          "name": "Brian Minier",
+          "party": "Democratic",
+          "pct": 98
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden 12": {
+      "winners": [
+        {
+          "name": "Martin Lalonde",
+          "party": "Democratic",
+          "pct": 97.9
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden 13": {
+      "winners": [
+        {
+          "name": "Tiff Bluemle",
+          "party": "Democratic",
+          "pct": 53.1
+        },
+        {
+          "name": "Bram Kleppner",
+          "party": "Democratic",
+          "pct": 46
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden 14": {
+      "winners": [
+        {
+          "name": "Mary-Katherine Stone",
+          "party": "Democratic",
+          "pct": 50.4
+        },
+        {
+          "name": "Barbara Rachelson",
+          "party": "Democratic",
+          "pct": 49
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden 15": {
+      "winners": [
+        {
+          "name": "Brian Cina",
+          "party": "Democratic",
+          "pct": 52.1
+        },
+        {
+          "name": "Troy Headrick",
+          "party": "Democratic",
+          "pct": 46.6
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden 16": {
+      "winners": [
+        {
+          "name": "Jill Krowinski",
+          "party": "Democratic",
+          "pct": 54.6
+        },
+        {
+          "name": "Kate Logan",
+          "party": "Democratic",
+          "pct": 44.6
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden 17": {
+      "winners": [
+        {
+          "name": "Abbey Duke",
+          "party": "Democratic",
+          "pct": 61.8
+        }
+      ],
+      "unopposed": false
+    },
+    "Chittenden 18": {
+      "winners": [
+        {
+          "name": "Carol Ode",
+          "party": "Democratic",
+          "pct": 50.4
+        },
+        {
+          "name": "Robert J. Hooper",
+          "party": "Democratic",
+          "pct": 47.7
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden 19": {
+      "winners": [
+        {
+          "name": "Wendy Critchlow",
+          "party": "Democratic",
+          "pct": 31.5
+        },
+        {
+          "name": "Sarita Austin",
+          "party": "Democratic",
+          "pct": 28.9
+        }
+      ],
+      "unopposed": false
+    },
+    "Chittenden 2": {
+      "winners": [
+        {
+          "name": "Erin Brady",
+          "party": "Democratic",
+          "pct": 49.9
+        },
+        {
+          "name": "Angela Arsenault",
+          "party": "Democratic",
+          "pct": 47.7
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden 20": {
+      "winners": [
+        {
+          "name": "Doug Bishop",
+          "party": "Democratic",
+          "pct": 32.5
+        },
+        {
+          "name": "Gayle Pezzo",
+          "party": "Democratic",
+          "pct": 25.4
+        }
+      ],
+      "unopposed": false
+    },
+    "Chittenden 21": {
+      "winners": [
+        {
+          "name": "Daisy Berbeco",
+          "party": "Democratic",
+          "pct": 53.1
+        },
+        {
+          "name": "Chloe Tomlinson",
+          "party": "Democratic",
+          "pct": 45.3
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden 22": {
+      "winners": [
+        {
+          "name": "Lori Houghton",
+          "party": "Democratic",
+          "pct": 49.6
+        },
+        {
+          "name": "Karen Dolan",
+          "party": "Democratic",
+          "pct": 47.8
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden 23": {
+      "winners": [
+        {
+          "name": "Leonora Dodge",
+          "party": "Democratic",
+          "pct": 38.5
+        },
+        {
+          "name": "Golrang \"Rey\" Garofano",
+          "party": "Democratic",
+          "pct": 32.8
+        }
+      ],
+      "unopposed": false
+    },
+    "Chittenden 24": {
+      "winners": [
+        {
+          "name": "Alyssa Black",
+          "party": "Democratic",
+          "pct": 57.7
+        }
+      ],
+      "unopposed": false
+    },
+    "Chittenden 25": {
+      "winners": [
+        {
+          "name": "Brenda Turner Steady",
+          "party": "Republican",
+          "pct": 52.4
+        }
+      ],
+      "unopposed": false
+    },
+    "Chittenden 3": {
+      "winners": [
+        {
+          "name": "Trevor Squirrell",
+          "party": "Democratic",
+          "pct": 49.6
+        },
+        {
+          "name": "Edye Graning",
+          "party": "Democratic",
+          "pct": 48.4
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden 4": {
+      "winners": [
+        {
+          "name": "Phil Pouech",
+          "party": "Democratic",
+          "pct": 83.9
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden 5": {
+      "winners": [
+        {
+          "name": "Chea Waters Evans",
+          "party": "Democratic",
+          "pct": 93.6
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden 6": {
+      "winners": [
+        {
+          "name": "Kate Lalley",
+          "party": "Democratic",
+          "pct": 71.1
+        }
+      ],
+      "unopposed": false
+    },
+    "Chittenden 7": {
+      "winners": [
+        {
+          "name": "Shawn Sweeney",
+          "party": "Democratic",
+          "pct": 97.9
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden 8": {
+      "winners": [
+        {
+          "name": "Bridget Marie Burkhardt",
+          "party": "Democratic",
+          "pct": 97.3
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden 9": {
+      "winners": [
+        {
+          "name": "Emilie Krasnow",
+          "party": "Democratic",
+          "pct": 97.5
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden-Franklin": {
+      "winners": [
+        {
+          "name": "Chris Taylor",
+          "party": "Republican",
+          "pct": 35.2
+        },
+        {
+          "name": "Anthony \"Tony\" Micklus",
+          "party": "Republican",
+          "pct": 26.1
+        }
+      ],
+      "unopposed": false
+    },
+    "Essex-Caledonia": {
+      "winners": [
+        {
+          "name": "John R. Kascenska, II",
+          "party": "Republican",
+          "pct": 97.5
+        }
+      ],
+      "unopposed": true
+    },
+    "Essex-Orleans": {
+      "winners": [
+        {
+          "name": "Larry Labor",
+          "party": "Republican",
+          "pct": 96.7
+        }
+      ],
+      "unopposed": true
+    },
+    "Franklin 1": {
+      "winners": [
+        {
+          "name": "Carolyn Whitney Branagan",
+          "party": "Republican",
+          "pct": 49.7
+        },
+        {
+          "name": "Ashley R. Bartley",
+          "party": "Republican",
+          "pct": 49.2
+        }
+      ],
+      "unopposed": true
+    },
+    "Franklin 2": {
+      "winners": [
+        {
+          "name": "Eileen \"Lynn\" Dickinson",
+          "party": "Republican",
+          "pct": 96.1
+        }
+      ],
+      "unopposed": true
+    },
+    "Franklin 3": {
+      "winners": [
+        {
+          "name": "Joe Luneau",
+          "party": "Republican",
+          "pct": 53.9
+        }
+      ],
+      "unopposed": false
+    },
+    "Franklin 4": {
+      "winners": [
+        {
+          "name": "Matthew E. Walker",
+          "party": "Republican",
+          "pct": 50.8
+        },
+        {
+          "name": "Thomas \"Tom\" Oliver, Jr.",
+          "party": "Republican",
+          "pct": 48.3
+        }
+      ],
+      "unopposed": true
+    },
+    "Franklin 5": {
+      "winners": [
+        {
+          "name": "Wayne A. Laroche",
+          "party": "Republican",
+          "pct": 50.3
+        },
+        {
+          "name": "Lisa A. Hango",
+          "party": "Republican",
+          "pct": 48.6
+        }
+      ],
+      "unopposed": true
+    },
+    "Franklin 6": {
+      "winners": [
+        {
+          "name": "James Gregoire",
+          "party": "Republican",
+          "pct": 96.6
+        }
+      ],
+      "unopposed": true
+    },
+    "Franklin 7": {
+      "winners": [
+        {
+          "name": "Allen \"Penny\" Demar",
+          "party": "Republican",
+          "pct": 66.6
+        }
+      ],
+      "unopposed": false
+    },
+    "Franklin 8": {
+      "winners": [
+        {
+          "name": "Casey J. Toof",
+          "party": "Republican",
+          "pct": 62.9
+        }
+      ],
+      "unopposed": false
+    },
+    "Grand Isle-Chittenden": {
+      "winners": [
+        {
+          "name": "Michael R. Morgan",
+          "party": "Republican",
+          "pct": 30.6
+        },
+        {
+          "name": "Leland J. Morgan",
+          "party": "Republican",
+          "pct": 30.2
+        }
+      ],
+      "unopposed": false
+    },
+    "Lamoille 1": {
+      "winners": [
+        {
+          "name": "Jed Lipsky",
+          "party": "Independent",
+          "pct": 98.6
+        }
+      ],
+      "unopposed": true
+    },
+    "Lamoille 2": {
+      "winners": [
+        {
+          "name": "Daniel Noyes",
+          "party": "Democratic",
+          "pct": 28.4
+        },
+        {
+          "name": "Richard J. Bailey",
+          "party": "Republican",
+          "pct": 27.3
+        }
+      ],
+      "unopposed": false
+    },
+    "Lamoille 3": {
+      "winners": [
+        {
+          "name": "Lucy Boyden",
+          "party": "Democratic",
+          "pct": 54.2
+        }
+      ],
+      "unopposed": false
+    },
+    "Lamoille-Washington": {
+      "winners": [
+        {
+          "name": "David Yacovone",
+          "party": "Democratic",
+          "pct": 34.2
+        },
+        {
+          "name": "Saudia Lamont",
+          "party": "Democratic",
+          "pct": 26.6
+        }
+      ],
+      "unopposed": false
+    },
+    "Orange 1": {
+      "winners": [
+        {
+          "name": "Michael Tagliavia",
+          "party": "Republican",
+          "pct": 53.4
+        }
+      ],
+      "unopposed": false
+    },
+    "Orange 2": {
+      "winners": [
+        {
+          "name": "Monique Priestley",
+          "party": "Democratic",
+          "pct": 53.4
+        }
+      ],
+      "unopposed": false
+    },
+    "Orange 3": {
+      "winners": [
+        {
+          "name": "Joshua Dobrovich",
+          "party": "Republican",
+          "pct": 96.6
+        }
+      ],
+      "unopposed": true
+    },
+    "Orange-Caledonia": {
+      "winners": [
+        {
+          "name": "Joe Parsons",
+          "party": "Republican",
+          "pct": 62.7
+        }
+      ],
+      "unopposed": false
+    },
+    "Orange-Washington-Addison": {
+      "winners": [
+        {
+          "name": "Jay Hooper",
+          "party": "Democratic",
+          "pct": 34.1
+        },
+        {
+          "name": "Larry Satcowitz",
+          "party": "Democratic",
+          "pct": 24.7
+        }
+      ],
+      "unopposed": false
+    },
+    "Orleans 1": {
+      "winners": [
+        {
+          "name": "Richard M. Nelson",
+          "party": "Republican",
+          "pct": 98.3
+        }
+      ],
+      "unopposed": true
+    },
+    "Orleans 2": {
+      "winners": [
+        {
+          "name": "Woodman \"Woody\" H. Page",
+          "party": "Republican",
+          "pct": 97.3
+        }
+      ],
+      "unopposed": true
+    },
+    "Orleans 3": {
+      "winners": [
+        {
+          "name": "Ken Wells",
+          "party": "Republican",
+          "pct": 95.1
+        }
+      ],
+      "unopposed": true
+    },
+    "Orleans 4": {
+      "winners": [
+        {
+          "name": "Leanne Harple",
+          "party": "Democratic",
+          "pct": 52.1
+        }
+      ],
+      "unopposed": false
+    },
+    "Orleans-Lamoille": {
+      "winners": [
+        {
+          "name": "Mark A. Higley",
+          "party": "Republican",
+          "pct": 51.3
+        },
+        {
+          "name": "Michael J. Marcotte",
+          "party": "Republican",
+          "pct": 47.4
+        }
+      ],
+      "unopposed": true
+    },
+    "Rutland 1": {
+      "winners": [
+        {
+          "name": "Patricia A. McCoy",
+          "party": "Republican",
+          "pct": 97.5
+        }
+      ],
+      "unopposed": true
+    },
+    "Rutland 10": {
+      "winners": [
+        {
+          "name": "William \"Bill\" Canfield",
+          "party": "Republican",
+          "pct": 98.6
+        }
+      ],
+      "unopposed": true
+    },
+    "Rutland 11": {
+      "winners": [
+        {
+          "name": "Jim Harrison",
+          "party": "Republican",
+          "pct": 98.2
+        }
+      ],
+      "unopposed": true
+    },
+    "Rutland 2": {
+      "winners": [
+        {
+          "name": "Thomas \"Tom\" Burditt",
+          "party": "Republican",
+          "pct": 37
+        },
+        {
+          "name": "David \"Dave\" Bosch",
+          "party": "Republican",
+          "pct": 34.9
+        }
+      ],
+      "unopposed": false
+    },
+    "Rutland 3": {
+      "winners": [
+        {
+          "name": "Chris Brown",
+          "party": "Republican",
+          "pct": 97
+        }
+      ],
+      "unopposed": true
+    },
+    "Rutland 4": {
+      "winners": [
+        {
+          "name": "Christopher Howland",
+          "party": "Republican",
+          "pct": 55.8
+        }
+      ],
+      "unopposed": false
+    },
+    "Rutland 5": {
+      "winners": [
+        {
+          "name": "Eric Maguire",
+          "party": "Republican",
+          "pct": 96.6
+        }
+      ],
+      "unopposed": true
+    },
+    "Rutland 6": {
+      "winners": [
+        {
+          "name": "Mary E. Howard",
+          "party": "Democratic",
+          "pct": 51.1
+        }
+      ],
+      "unopposed": false
+    },
+    "Rutland 7": {
+      "winners": [
+        {
+          "name": "Chris Keyser",
+          "party": "Republican",
+          "pct": 57.9
+        }
+      ],
+      "unopposed": false
+    },
+    "Rutland 8": {
+      "winners": [
+        {
+          "name": "Alicia Malay",
+          "party": "Republican",
+          "pct": 97.8
+        }
+      ],
+      "unopposed": true
+    },
+    "Rutland 9": {
+      "winners": [
+        {
+          "name": "Tod Nielsen",
+          "party": "Republican",
+          "pct": 54.4
+        }
+      ],
+      "unopposed": false
+    },
+    "Rutland-Bennington": {
+      "winners": [
+        {
+          "name": "Chris Pritchard",
+          "party": "Republican",
+          "pct": 55.8
+        }
+      ],
+      "unopposed": false
+    },
+    "Rutland-Windsor": {
+      "winners": [
+        {
+          "name": "Kevin C. Winter",
+          "party": "Republican",
+          "pct": 57.5
+        }
+      ],
+      "unopposed": false
+    },
+    "Washington 1": {
+      "winners": [
+        {
+          "name": "Anne B. Donahue",
+          "party": "Independent",
+          "pct": 34.1
+        },
+        {
+          "name": "Kenneth W. Goslant",
+          "party": "Republican",
+          "pct": 33
+        }
+      ],
+      "unopposed": false
+    },
+    "Washington 2": {
+      "winners": [
+        {
+          "name": "Candice White",
+          "party": "Democratic",
+          "pct": 34.8
+        },
+        {
+          "name": "Dara Torre",
+          "party": "Democratic",
+          "pct": 29.1
+        }
+      ],
+      "unopposed": false
+    },
+    "Washington 3": {
+      "winners": [
+        {
+          "name": "Michael Boutin",
+          "party": "Republican",
+          "pct": 30.7
+        },
+        {
+          "name": "Edward \"Teddy\" Waszazak",
+          "party": "Democratic",
+          "pct": 23.5
+        }
+      ],
+      "unopposed": false
+    },
+    "Washington 4": {
+      "winners": [
+        {
+          "name": "Kate McCann",
+          "party": "Democratic",
+          "pct": 49.5
+        },
+        {
+          "name": "Conor Casey",
+          "party": "Democratic",
+          "pct": 48.9
+        }
+      ],
+      "unopposed": true
+    },
+    "Washington 5": {
+      "winners": [
+        {
+          "name": "Elanor \"Ela\" Chapin",
+          "party": "Democratic",
+          "pct": 96.6
+        }
+      ],
+      "unopposed": true
+    },
+    "Washington 6": {
+      "winners": [
+        {
+          "name": "Marc Mihaly",
+          "party": "Democratic",
+          "pct": 93.9
+        }
+      ],
+      "unopposed": true
+    },
+    "Washington-Chittenden": {
+      "winners": [
+        {
+          "name": "Theresa A. Wood",
+          "party": "Democratic",
+          "pct": 34.8
+        },
+        {
+          "name": "Thomas Stevens",
+          "party": "Democratic",
+          "pct": 29.1
+        }
+      ],
+      "unopposed": false
+    },
+    "Washington-Orange": {
+      "winners": [
+        {
+          "name": "Gina Galfetti",
+          "party": "Republican",
+          "pct": 40.9
+        },
+        {
+          "name": "Francis \"Topper\" McFaun",
+          "party": "Republican",
+          "pct": 36.4
+        }
+      ],
+      "unopposed": false
+    },
+    "Windham 1": {
+      "winners": [
+        {
+          "name": "Zon Eastes",
+          "party": "Democratic",
+          "pct": 57
+        }
+      ],
+      "unopposed": false
+    },
+    "Windham 2": {
+      "winners": [
+        {
+          "name": "Laura Sibilia",
+          "party": "Independent",
+          "pct": 93.2
+        }
+      ],
+      "unopposed": true
+    },
+    "Windham 3": {
+      "winners": [
+        {
+          "name": "Leslie Goldman",
+          "party": "Democratic",
+          "pct": 29.9
+        },
+        {
+          "name": "Michelle Bos-Lun",
+          "party": "Democratic",
+          "pct": 29.4
+        }
+      ],
+      "unopposed": false
+    },
+    "Windham 4": {
+      "winners": [
+        {
+          "name": "Mike Mrowicki",
+          "party": "Democratic",
+          "pct": 73
+        }
+      ],
+      "unopposed": false
+    },
+    "Windham 5": {
+      "winners": [
+        {
+          "name": "Emily Long",
+          "party": "Democratic",
+          "pct": 95.2
+        }
+      ],
+      "unopposed": true
+    },
+    "Windham 6": {
+      "winners": [
+        {
+          "name": "Emily Carris-Duncan",
+          "party": "Democratic",
+          "pct": 55.3
+        }
+      ],
+      "unopposed": false
+    },
+    "Windham 7": {
+      "winners": [
+        {
+          "name": "Emilie Kornheiser",
+          "party": "Democratic",
+          "pct": 66.9
+        }
+      ],
+      "unopposed": false
+    },
+    "Windham 8": {
+      "winners": [
+        {
+          "name": "Mollie S. Burke",
+          "party": "Democratic",
+          "pct": 79.9
+        }
+      ],
+      "unopposed": false
+    },
+    "Windham 9": {
+      "winners": [
+        {
+          "name": "Ian Goodnow",
+          "party": "Democratic",
+          "pct": 97.5
+        }
+      ],
+      "unopposed": true
+    },
+    "Windham-Windsor-Bennington": {
+      "winners": [
+        {
+          "name": "Chris Morrow",
+          "party": "Democratic",
+          "pct": 62.8
+        }
+      ],
+      "unopposed": false
+    },
+    "Windsor 1": {
+      "winners": [
+        {
+          "name": "John Bartholomew",
+          "party": "Democratic",
+          "pct": 49
+        },
+        {
+          "name": "Elizabeth Burrows",
+          "party": "Democratic",
+          "pct": 46.2
+        }
+      ],
+      "unopposed": true
+    },
+    "Windsor 2": {
+      "winners": [
+        {
+          "name": "Vl Coffin",
+          "party": "Republican",
+          "pct": 52.6
+        }
+      ],
+      "unopposed": false
+    },
+    "Windsor 3": {
+      "winners": [
+        {
+          "name": "Kristi C. Morris",
+          "party": "Democratic",
+          "pct": 25.6
+        },
+        {
+          "name": "Alice M. Emmons",
+          "party": "Democratic",
+          "pct": 25.4
+        }
+      ],
+      "unopposed": false
+    },
+    "Windsor 4": {
+      "winners": [
+        {
+          "name": "Heather Surprenant",
+          "party": "Democratic",
+          "pct": 95.6
+        }
+      ],
+      "unopposed": true
+    },
+    "Windsor 5": {
+      "winners": [
+        {
+          "name": "Charlie Kimbell",
+          "party": "Democratic",
+          "pct": 74.5
+        }
+      ],
+      "unopposed": false
+    },
+    "Windsor 6": {
+      "winners": [
+        {
+          "name": "Esme Cole",
+          "party": "Democratic",
+          "pct": 38.7
+        },
+        {
+          "name": "Kevin \"Coach\" Christie",
+          "party": "Democratic",
+          "pct": 34.2
+        }
+      ],
+      "unopposed": false
+    },
+    "Windsor-Addison": {
+      "winners": [
+        {
+          "name": "Kirk White",
+          "party": "Democratic",
+          "pct": 92.3
+        }
+      ],
+      "unopposed": true
+    },
+    "Windsor-Orange 1": {
+      "winners": [
+        {
+          "name": "John O'Brien",
+          "party": "Democratic",
+          "pct": 50.8
+        }
+      ],
+      "unopposed": false
+    },
+    "Windsor-Orange 2": {
+      "winners": [
+        {
+          "name": "Rebecca Holcombe",
+          "party": "Democratic",
+          "pct": 39.4
+        },
+        {
+          "name": "Jim Masland",
+          "party": "Democratic",
+          "pct": 37.1
+        }
+      ],
+      "unopposed": false
+    },
+    "Windsor-Windham": {
+      "winners": [
+        {
+          "name": "Thomas F. Charlton",
+          "party": "Republican",
+          "pct": 50.7
+        }
+      ],
+      "unopposed": false
+    }
+  },
+  "senate": {
+    "Addison": {
+      "winners": [
+        {
+          "name": "Ruth Hardy",
+          "party": "Democratic",
+          "pct": 27.5
+        },
+        {
+          "name": "Steven Heffernan",
+          "party": "Republican",
+          "pct": 27.3
+        }
+      ],
+      "unopposed": false
+    },
+    "Bennington": {
+      "winners": [
+        {
+          "name": "Seth Bongartz",
+          "party": "Democratic",
+          "pct": 27.3
+        },
+        {
+          "name": "Rob Plunkett",
+          "party": "Democratic",
+          "pct": 24.9
+        }
+      ],
+      "unopposed": false
+    },
+    "Caledonia": {
+      "winners": [
+        {
+          "name": "Scott Beck",
+          "party": "Republican",
+          "pct": 58.2
+        }
+      ],
+      "unopposed": false
+    },
+    "Chittenden Central": {
+      "winners": [
+        {
+          "name": "Martine Larocque Gulick",
+          "party": "Democratic",
+          "pct": 34.3
+        },
+        {
+          "name": "Phil Baruth",
+          "party": "Democratic",
+          "pct": 33.6
+        },
+        {
+          "name": "Tanya Vyhovsky",
+          "party": "Democratic",
+          "pct": 30.1
+        }
+      ],
+      "unopposed": true
+    },
+    "Chittenden North": {
+      "winners": [
+        {
+          "name": "Chris Mattos",
+          "party": "Republican",
+          "pct": 56
+        }
+      ],
+      "unopposed": false
+    },
+    "Chittenden Southeast": {
+      "winners": [
+        {
+          "name": "Thomas Chittenden",
+          "party": "Democratic",
+          "pct": 26.8
+        },
+        {
+          "name": "Virginia \"Ginny\" Lyons",
+          "party": "Democratic",
+          "pct": 23.2
+        },
+        {
+          "name": "Kesha Ram Hinsdale",
+          "party": "Democratic",
+          "pct": 20
+        }
+      ],
+      "unopposed": false
+    },
+    "Essex": {
+      "winners": [
+        {
+          "name": "Russ Ingalls",
+          "party": "Republican",
+          "pct": 96.2
+        }
+      ],
+      "unopposed": true
+    },
+    "Franklin": {
+      "winners": [
+        {
+          "name": "Randy Brock",
+          "party": "Republican",
+          "pct": 50.5
+        },
+        {
+          "name": "Robert W. Norris",
+          "party": "Republican",
+          "pct": 48.2
+        }
+      ],
+      "unopposed": true
+    },
+    "Grand Isle": {
+      "winners": [
+        {
+          "name": "Pat Brennan",
+          "party": "Republican",
+          "pct": 52.8
+        }
+      ],
+      "unopposed": false
+    },
+    "Lamoille": {
+      "winners": [
+        {
+          "name": "Richard A. Westman",
+          "party": "Republican",
+          "pct": 66.5
+        }
+      ],
+      "unopposed": false
+    },
+    "Orange": {
+      "winners": [
+        {
+          "name": "Larry Hart, Sr",
+          "party": "Republican",
+          "pct": 56.5
+        }
+      ],
+      "unopposed": false
+    },
+    "Orleans": {
+      "winners": [
+        {
+          "name": "Samuel A. Douglass",
+          "party": "Republican",
+          "pct": 59.2
+        }
+      ],
+      "unopposed": false
+    },
+    "Rutland": {
+      "winners": [
+        {
+          "name": "Brian \"BC\" Collamore",
+          "party": "Republican",
+          "pct": 22.5
+        },
+        {
+          "name": "David Weeks",
+          "party": "Republican",
+          "pct": 19.7
+        },
+        {
+          "name": "Terry K. Williams",
+          "party": "Republican",
+          "pct": 19.6
+        }
+      ],
+      "unopposed": false
+    },
+    "Washington": {
+      "winners": [
+        {
+          "name": "Ann Cummings",
+          "party": "Democratic",
+          "pct": 22.6
+        },
+        {
+          "name": "Anne Watson",
+          "party": "Democratic",
+          "pct": 19.2
+        },
+        {
+          "name": "Andrew Perchlik",
+          "party": "Democratic",
+          "pct": 17.8
+        }
+      ],
+      "unopposed": false
+    },
+    "Windham": {
+      "winners": [
+        {
+          "name": "Wendy Harrison",
+          "party": "Democratic",
+          "pct": 35.7
+        },
+        {
+          "name": "Nader Hashim",
+          "party": "Democratic",
+          "pct": 31.1
+        }
+      ],
+      "unopposed": false
+    },
+    "Windsor": {
+      "winners": [
+        {
+          "name": "Rebecca White",
+          "party": "Democratic",
+          "pct": 20
+        },
+        {
+          "name": "Alison H. Clarkson",
+          "party": "Democratic",
+          "pct": 20
+        },
+        {
+          "name": "Joe Major",
+          "party": "Democratic",
+          "pct": 18.8
+        }
+      ],
+      "unopposed": false
+    }
+  }
+}
