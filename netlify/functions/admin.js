@@ -37,8 +37,6 @@ async function writeCodes(store, codes) {
 }
 
 exports.handler = async (event) => {
-  console.log('ENV CHECK', { siteID: process.env.NETLIFY_SITE_ID, hasToken: !!process.env.NETLIFY_TOKEN });
-
   if (event.httpMethod === 'OPTIONS') {
     return { statusCode: 204, headers: CORS_HEADERS, body: '' };
   }

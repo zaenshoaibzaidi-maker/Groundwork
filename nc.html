@@ -151,6 +151,21 @@
   .cs-what-list { list-style: none; padding: 0; display: flex; flex-direction: column; gap: 10px; }
   .cs-what-list li { display: flex; align-items: flex-start; gap: 10px; font-size: 14px; color: var(--text-mid); line-height: 1.5; }
   .cs-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green-400); flex-shrink: 0; margin-top: 5px; }
+  /* ACCESS CODE MODAL */
+  .access-modal-overlay { display: none; position: fixed; inset: 0; background: rgba(15,35,24,0.55); z-index: 1000; align-items: center; justify-content: center; padding: 24px; }
+  .access-modal-overlay.open { display: flex; }
+  .access-modal { position: relative; background: var(--offwhite); border-radius: var(--radius); box-shadow: 0 12px 48px rgba(0,0,0,0.3); padding: 34px 32px; max-width: 380px; width: 100%; text-align: center; }
+  .access-modal-close { position: absolute; top: 12px; right: 14px; background: none; border: none; font-size: 20px; color: var(--text-soft); cursor: pointer; line-height: 1; }
+  .access-modal-close:hover { color: var(--text-dark); }
+  .access-modal-eyebrow { font-size: 11px; letter-spacing: 0.15em; text-transform: uppercase; color: var(--green-600); margin-bottom: 10px; }
+  .access-modal-title { font-size: 22px; color: var(--green-800); margin-bottom: 10px; }
+  .access-modal-sub { font-size: 14px; color: var(--text-soft); line-height: 1.5; margin-bottom: 20px; }
+  .access-modal-input { width: 100%; padding: 12px 14px; font-size: 15px; font-family: 'Georgia',serif; border: 2px solid var(--green-200); border-radius: var(--radius); margin-bottom: 14px; outline: none; background: white; color: var(--text-dark); }
+  .access-modal-input:focus { border-color: var(--green-500); box-shadow: 0 0 0 3px rgba(58,125,80,0.12); }
+  .access-modal-submit { width: 100%; padding: 12px; font-size: 14px; font-weight: bold; letter-spacing: 0.04em; text-transform: uppercase; background: var(--green-600); color: white; border: none; border-radius: var(--radius); cursor: pointer; transition: background 0.2s; font-family: 'Georgia',serif; }
+  .access-modal-submit:hover { background: var(--green-500); }
+  .access-modal-submit:disabled { opacity: 0.6; cursor: default; }
+  .access-modal-error { color: var(--avoid); font-size: 13px; margin-top: 12px; min-height: 16px; }
 </style>
 </head>
 <body>
@@ -180,7 +195,7 @@
       <span class="search-icon">⌕</span>
       <input type="text" id="districtSearch" placeholder='e.g. "North Carolina House District 1", "HD-36 · Charlotte", "Raleigh"…'
         autocomplete="off" spellcheck="false"
-        oninput="onSearchInput()" onkeydown="onSearchKey(event)" onfocus="openDropdown()" />
+        oninput="onSearchInput()" onkeydown="onSearchKey(event)" onfocus="onSearchFocus()" />
     </div>
     <div class="search-hint">120 House Districts · 50 Senate Districts</div>
     <div class="search-dropdown" id="searchDropdown"></div>
@@ -266,6 +281,21 @@
   <p style="font-size:13px;color:var(--tan);">Intelligence briefs are built district by district. Check back soon.</p>
 </div>
 
+<!-- ACCESS CODE MODAL -->
+<div class="access-modal-overlay" id="accessModalOverlay">
+  <div class="access-modal">
+    <button class="access-modal-close" onclick="closeAccessModal()" aria-label="Close">&times;</button>
+    <div class="access-modal-eyebrow">Members Only</div>
+    <h2 class="access-modal-title">Enter Access Code</h2>
+    <p class="access-modal-sub">A valid Groundwork access code is required to search or view non-featured districts.</p>
+    <form id="accessForm" onsubmit="return submitAccessCode(event)">
+      <input type="text" id="accessCodeInput" class="access-modal-input" placeholder="Access code" autocomplete="off" spellcheck="false">
+      <button type="submit" class="access-modal-submit">Unlock</button>
+    </form>
+    <div class="access-modal-error" id="accessModalError"></div>
+  </div>
+</div>
+
 <script src="nc-districts.js"></script>
 <script>
 /* ── MODE ── */
@@ -311,10 +341,72 @@ function setMode(mode) {
   }
 }
 
+/* ── ACCESS CODE GATING ── */
+const ACCESS_KEY = 'gw_access_code';
+let pendingAccessAction = null;
+
+function hasAccessCode() { return !!localStorage.getItem(ACCESS_KEY); }
+
+function requireAccess(action) {
+  if (hasAccessCode()) { action(); return; }
+  pendingAccessAction = action;
+  openAccessModal();
+}
+
+function openAccessModal() {
+  document.getElementById('accessModalError').textContent = '';
+  document.getElementById('accessCodeInput').value = '';
+  document.getElementById('accessModalOverlay').classList.add('open');
+  setTimeout(() => document.getElementById('accessCodeInput').focus(), 50);
+}
+
+function closeAccessModal() {
+  document.getElementById('accessModalOverlay').classList.remove('open');
+  pendingAccessAction = null;
+  document.getElementById('districtSearch').blur();
+  closeDropdown();
+}
+
+async function submitAccessCode(e) {
+  e.preventDefault();
+  const input = document.getElementById('accessCodeInput');
+  const errorEl = document.getElementById('accessModalError');
+  const code = input.value.trim();
+  errorEl.textContent = '';
+  if (!code) return false;
+
+  const submitBtn = e.target.querySelector('.access-modal-submit');
+  submitBtn.disabled = true;
+
+  try {
+    const res = await fetch('/api/validate-code', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ code })
+    });
+    const data = await res.json().catch(() => ({}));
+    if (res.ok && data.valid) {
+      localStorage.setItem(ACCESS_KEY, code);
+      document.getElementById('accessModalOverlay').classList.remove('open');
+      const action = pendingAccessAction;
+      pendingAccessAction = null;
+      if (action) action();
+    } else {
+      errorEl.textContent = 'Invalid access code.';
+    }
+  } catch (err) {
+    errorEl.textContent = 'Something went wrong. Try again.';
+  } finally {
+    submitBtn.disabled = false;
+  }
+  return false;
+}
+
 /* ── SEARCH ── */
 let activeIndex = -1, filteredResults = [];
 
-function onSearchInput() { activeIndex = -1; openDropdown(); }
+function onSearchInput() { requireAccess(() => { activeIndex = -1; openDropdown(); }); }
+function onSearchFocus() { requireAccess(openDropdown); }
 
 function openDropdown() {
   const q = document.getElementById('districtSearch').value.trim().toLowerCase();
@@ -359,10 +451,12 @@ function closeDropdown() { document.getElementById('searchDropdown').classList.r
 
 function selectItem(idx) {
   const d = filteredResults[idx]; if (!d) return;
-  document.getElementById('districtSearch').value = d.name;
-  closeDropdown();
-  if (d.dashboard) showDistrict(d.id);
-  else showComingSoon(d);
+  requireAccess(() => {
+    document.getElementById('districtSearch').value = d.name;
+    closeDropdown();
+    if (d.dashboard) showDistrict(d.id);
+    else showComingSoon(d);
+  });
 }
 
 function onSearchKey(e) {
