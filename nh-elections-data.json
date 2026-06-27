@@ -1,0 +1,7635 @@
+{
+  "house": [
+    {
+      "districtId": "nh-hd-belknap-1",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "David Rose",
+          "party": "DEM",
+          "votes": 1000
+        },
+        {
+          "name": "Tom Ploszaj",
+          "party": "REP",
+          "votes": 1342
+        }
+      ],
+      "winners": [
+        {
+          "name": "Tom Ploszaj",
+          "party": "REP",
+          "votes": 1342
+        }
+      ],
+      "demVotes": 1000,
+      "repVotes": 1342,
+      "totalVotes": 2342,
+      "demPct": 42.7,
+      "repPct": 57.3
+    },
+    {
+      "districtId": "nh-hd-belknap-2",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Ben Brookmyer",
+          "party": "DEM",
+          "votes": 1579
+        },
+        {
+          "name": "Lynn Thomas",
+          "party": "DEM",
+          "votes": 1913
+        },
+        {
+          "name": "Matt Coker",
+          "party": "REP",
+          "votes": 2648
+        },
+        {
+          "name": "Matthew Lunney",
+          "party": "REP",
+          "votes": 2112
+        }
+      ],
+      "winners": [
+        {
+          "name": "Matt Coker",
+          "party": "REP",
+          "votes": 2648
+        },
+        {
+          "name": "Matthew Lunney",
+          "party": "REP",
+          "votes": 2112
+        }
+      ],
+      "demVotes": 3492,
+      "repVotes": 4760,
+      "totalVotes": 8252,
+      "demPct": 42.32,
+      "repPct": 57.68
+    },
+    {
+      "districtId": "nh-hd-belknap-3",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Andrew R. Sanborn",
+          "party": "DEM",
+          "votes": 1816
+        },
+        {
+          "name": "Juliet Harvey-Bolia",
+          "party": "REP",
+          "votes": 2333
+        }
+      ],
+      "winners": [
+        {
+          "name": "Juliet Harvey-Bolia",
+          "party": "REP",
+          "votes": 2333
+        }
+      ],
+      "demVotes": 1816,
+      "repVotes": 2333,
+      "totalVotes": 4149,
+      "demPct": 43.77,
+      "repPct": 56.23
+    },
+    {
+      "districtId": "nh-hd-belknap-4",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Travis Toner",
+          "party": "REP",
+          "votes": 3011
+        }
+      ],
+      "winners": [
+        {
+          "name": "Travis Toner",
+          "party": "REP",
+          "votes": 3011
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 3011,
+      "totalVotes": 3011,
+      "demPct": 0,
+      "repPct": 100
+    },
+    {
+      "districtId": "nh-hd-belknap-5",
+      "seats": 4,
+      "candidates": [
+        {
+          "name": "Wendy Chase",
+          "party": "DEM",
+          "votes": 3075
+        },
+        {
+          "name": "Erika Gray",
+          "party": "DEM",
+          "votes": 2919
+        },
+        {
+          "name": "Charlie St. Clair",
+          "party": "DEM",
+          "votes": 3641
+        },
+        {
+          "name": "Jon Hildreth",
+          "party": "DEM",
+          "votes": 3224
+        },
+        {
+          "name": "Steven T. Bogert",
+          "party": "REP",
+          "votes": 3703
+        },
+        {
+          "name": "Mike Bordes",
+          "party": "REP",
+          "votes": 4040
+        },
+        {
+          "name": "Richard Littlefield",
+          "party": "REP",
+          "votes": 3464
+        },
+        {
+          "name": "Sheri Minor",
+          "party": "REP",
+          "votes": 3852
+        }
+      ],
+      "winners": [
+        {
+          "name": "Mike Bordes",
+          "party": "REP",
+          "votes": 4040
+        },
+        {
+          "name": "Sheri Minor",
+          "party": "REP",
+          "votes": 3852
+        },
+        {
+          "name": "Steven T. Bogert",
+          "party": "REP",
+          "votes": 3703
+        },
+        {
+          "name": "Charlie St. Clair",
+          "party": "DEM",
+          "votes": 3641
+        }
+      ],
+      "demVotes": 12859,
+      "repVotes": 15059,
+      "totalVotes": 27918,
+      "demPct": 46.06,
+      "repPct": 53.94
+    },
+    {
+      "districtId": "nh-hd-belknap-6",
+      "seats": 4,
+      "candidates": [
+        {
+          "name": "Jonathan D. Arsenault",
+          "party": "DEM",
+          "votes": 2805
+        },
+        {
+          "name": "Bob McLean",
+          "party": "DEM",
+          "votes": 3642
+        },
+        {
+          "name": "Lena Nirk",
+          "party": "DEM",
+          "votes": 3382
+        },
+        {
+          "name": "Kurt Webber",
+          "party": "DEM",
+          "votes": 3645
+        },
+        {
+          "name": "David Nagel",
+          "party": "REP",
+          "votes": 4731
+        },
+        {
+          "name": "Glen Aldrich",
+          "party": "REP",
+          "votes": 4262
+        },
+        {
+          "name": "Harry H. Bean",
+          "party": "REP",
+          "votes": 4997
+        },
+        {
+          "name": "Russell Dumais",
+          "party": "REP",
+          "votes": 4673
+        }
+      ],
+      "winners": [
+        {
+          "name": "Harry H. Bean",
+          "party": "REP",
+          "votes": 4997
+        },
+        {
+          "name": "David Nagel",
+          "party": "REP",
+          "votes": 4731
+        },
+        {
+          "name": "Russell Dumais",
+          "party": "REP",
+          "votes": 4673
+        },
+        {
+          "name": "Glen Aldrich",
+          "party": "REP",
+          "votes": 4262
+        }
+      ],
+      "demVotes": 13474,
+      "repVotes": 18663,
+      "totalVotes": 32137,
+      "demPct": 41.93,
+      "repPct": 58.07
+    },
+    {
+      "districtId": "nh-hd-belknap-7",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Susan Church Stevens",
+          "party": "DEM",
+          "votes": 2130
+        },
+        {
+          "name": "Ruth Larson",
+          "party": "DEM",
+          "votes": 2547
+        },
+        {
+          "name": "Stephanie Vuolo",
+          "party": "DEM",
+          "votes": 2124
+        },
+        {
+          "name": "Barbara Comtois",
+          "party": "REP",
+          "votes": 4031
+        },
+        {
+          "name": "Paul A. Terry",
+          "party": "REP",
+          "votes": 4019
+        },
+        {
+          "name": "Peter R. Varney",
+          "party": "REP",
+          "votes": 4159
+        }
+      ],
+      "winners": [
+        {
+          "name": "Peter R. Varney",
+          "party": "REP",
+          "votes": 4159
+        },
+        {
+          "name": "Barbara Comtois",
+          "party": "REP",
+          "votes": 4031
+        },
+        {
+          "name": "Paul A. Terry",
+          "party": "REP",
+          "votes": 4019
+        }
+      ],
+      "demVotes": 6801,
+      "repVotes": 12209,
+      "totalVotes": 19010,
+      "demPct": 35.78,
+      "repPct": 64.22
+    },
+    {
+      "districtId": "nh-hd-carroll-1",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Tom Buco",
+          "party": "DEM",
+          "votes": 2901
+        },
+        {
+          "name": "David Paige",
+          "party": "DEM",
+          "votes": 2974
+        },
+        {
+          "name": "Stephen L. Woodcock",
+          "party": "DEM",
+          "votes": 3284
+        },
+        {
+          "name": "Karen C. Umberger",
+          "party": "REP",
+          "votes": 2826
+        }
+      ],
+      "winners": [
+        {
+          "name": "Stephen L. Woodcock",
+          "party": "DEM",
+          "votes": 3284
+        },
+        {
+          "name": "David Paige",
+          "party": "DEM",
+          "votes": 2974
+        },
+        {
+          "name": "Tom Buco",
+          "party": "DEM",
+          "votes": 2901
+        }
+      ],
+      "demVotes": 9159,
+      "repVotes": 2826,
+      "totalVotes": 11985,
+      "demPct": 76.42,
+      "repPct": 23.58
+    },
+    {
+      "districtId": "nh-hd-carroll-2",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Anita Burroughs",
+          "party": "DEM",
+          "votes": 2832
+        },
+        {
+          "name": "Chris McAleer",
+          "party": "DEM",
+          "votes": 2635
+        },
+        {
+          "name": "Maureen Blanchard",
+          "party": "REP",
+          "votes": 2048
+        }
+      ],
+      "winners": [
+        {
+          "name": "Anita Burroughs",
+          "party": "DEM",
+          "votes": 2832
+        },
+        {
+          "name": "Chris McAleer",
+          "party": "DEM",
+          "votes": 2635
+        }
+      ],
+      "demVotes": 5467,
+      "repVotes": 2048,
+      "totalVotes": 7515,
+      "demPct": 72.75,
+      "repPct": 27.25
+    },
+    {
+      "districtId": "nh-hd-carroll-3",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Kim Johnson",
+          "party": "DEM",
+          "votes": 3170
+        },
+        {
+          "name": "Sandra Ringelstein",
+          "party": "DEM",
+          "votes": 3115
+        },
+        {
+          "name": "Karel A. Crawford",
+          "party": "REP",
+          "votes": 3771
+        },
+        {
+          "name": "Joseph Hamblen",
+          "party": "REP",
+          "votes": 3335
+        }
+      ],
+      "winners": [
+        {
+          "name": "Karel A. Crawford",
+          "party": "REP",
+          "votes": 3771
+        },
+        {
+          "name": "Joseph Hamblen",
+          "party": "REP",
+          "votes": 3335
+        }
+      ],
+      "demVotes": 6285,
+      "repVotes": 7106,
+      "totalVotes": 13391,
+      "demPct": 46.93,
+      "repPct": 53.07
+    },
+    {
+      "districtId": "nh-hd-carroll-4",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Donna V. Ackerman",
+          "party": "DEM",
+          "votes": 2542
+        },
+        {
+          "name": "Lino M. Avellani",
+          "party": "REP",
+          "votes": 3600
+        },
+        {
+          "name": "Mike Belcher",
+          "party": "REP",
+          "votes": 3232
+        }
+      ],
+      "winners": [
+        {
+          "name": "Lino M. Avellani",
+          "party": "REP",
+          "votes": 3600
+        },
+        {
+          "name": "Mike Belcher",
+          "party": "REP",
+          "votes": 3232
+        }
+      ],
+      "demVotes": 2542,
+      "repVotes": 6832,
+      "totalVotes": 9374,
+      "demPct": 27.12,
+      "repPct": 72.88
+    },
+    {
+      "districtId": "nh-hd-carroll-5",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jonathan H. Smith",
+          "party": "REP",
+          "votes": 1890
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jonathan H. Smith",
+          "party": "REP",
+          "votes": 1890
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 1890,
+      "totalVotes": 1890,
+      "demPct": 0,
+      "repPct": 100
+    },
+    {
+      "districtId": "nh-hd-carroll-6",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Karen Burnett-Kurie",
+          "party": "DEM",
+          "votes": 2327
+        },
+        {
+          "name": "John T. MacDonald",
+          "party": "REP",
+          "votes": 3332
+        },
+        {
+          "name": "Katy Peternel",
+          "party": "REP",
+          "votes": 3134
+        },
+        {
+          "name": "Kayla Hewitt",
+          "party": "I&D",
+          "votes": 2862
+        }
+      ],
+      "winners": [
+        {
+          "name": "John T. MacDonald",
+          "party": "REP",
+          "votes": 3332
+        },
+        {
+          "name": "Katy Peternel",
+          "party": "REP",
+          "votes": 3134
+        }
+      ],
+      "demVotes": 2327,
+      "repVotes": 6466,
+      "totalVotes": 8793,
+      "demPct": 26.46,
+      "repPct": 73.54
+    },
+    {
+      "districtId": "nh-hd-cheshire-1",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Dylan Germana",
+          "party": "DEM",
+          "votes": 1639
+        }
+      ],
+      "winners": [
+        {
+          "name": "Dylan Germana",
+          "party": "DEM",
+          "votes": 1639
+        }
+      ],
+      "demVotes": 1639,
+      "repVotes": 0,
+      "totalVotes": 1639,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "nh-hd-cheshire-10",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Barry Faulkner",
+          "party": "DEM",
+          "votes": 2250
+        },
+        {
+          "name": "Alan Gross",
+          "party": "DEM",
+          "votes": 1921
+        },
+        {
+          "name": "Sly Karasinski",
+          "party": "REP",
+          "votes": 2220
+        },
+        {
+          "name": "Daniel LeClair",
+          "party": "REP",
+          "votes": 2187
+        }
+      ],
+      "winners": [
+        {
+          "name": "Barry Faulkner",
+          "party": "DEM",
+          "votes": 2250
+        },
+        {
+          "name": "Sly Karasinski",
+          "party": "REP",
+          "votes": 2220
+        }
+      ],
+      "demVotes": 4171,
+      "repVotes": 4407,
+      "totalVotes": 8578,
+      "demPct": 48.62,
+      "repPct": 51.38
+    },
+    {
+      "districtId": "nh-hd-cheshire-11",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Natalie Quevedo",
+          "party": "DEM",
+          "votes": 882
+        },
+        {
+          "name": "Denis Vincent Murphy II",
+          "party": "REP",
+          "votes": 1110
+        }
+      ],
+      "winners": [
+        {
+          "name": "Denis Vincent Murphy II",
+          "party": "REP",
+          "votes": 1110
+        }
+      ],
+      "demVotes": 882,
+      "repVotes": 1110,
+      "totalVotes": 1992,
+      "demPct": 44.28,
+      "repPct": 55.72
+    },
+    {
+      "districtId": "nh-hd-cheshire-12",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jack Gettens",
+          "party": "DEM",
+          "votes": 1128
+        },
+        {
+          "name": "Dick H. Thackston III",
+          "party": "REP",
+          "votes": 1366
+        }
+      ],
+      "winners": [
+        {
+          "name": "Dick H. Thackston III",
+          "party": "REP",
+          "votes": 1366
+        }
+      ],
+      "demVotes": 1128,
+      "repVotes": 1366,
+      "totalVotes": 2494,
+      "demPct": 45.23,
+      "repPct": 54.77
+    },
+    {
+      "districtId": "nh-hd-cheshire-13",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Richard Ames",
+          "party": "DEM",
+          "votes": 2155
+        },
+        {
+          "name": "Donald R. Primrose",
+          "party": "REP",
+          "votes": 2000
+        }
+      ],
+      "winners": [
+        {
+          "name": "Richard Ames",
+          "party": "DEM",
+          "votes": 2155
+        }
+      ],
+      "demVotes": 2155,
+      "repVotes": 2000,
+      "totalVotes": 4155,
+      "demPct": 51.87,
+      "repPct": 48.13
+    },
+    {
+      "districtId": "nh-hd-cheshire-2",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Dru Fox",
+          "party": "DEM",
+          "votes": 1563
+        },
+        {
+          "name": "Nathan Carbone",
+          "party": "REP",
+          "votes": 816
+        }
+      ],
+      "winners": [
+        {
+          "name": "Dru Fox",
+          "party": "DEM",
+          "votes": 1563
+        }
+      ],
+      "demVotes": 1563,
+      "repVotes": 816,
+      "totalVotes": 2379,
+      "demPct": 65.7,
+      "repPct": 34.3
+    },
+    {
+      "districtId": "nh-hd-cheshire-3",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Philip Jones",
+          "party": "DEM",
+          "votes": 2014
+        }
+      ],
+      "winners": [
+        {
+          "name": "Philip Jones",
+          "party": "DEM",
+          "votes": 2014
+        }
+      ],
+      "demVotes": 2014,
+      "repVotes": 0,
+      "totalVotes": 2014,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "nh-hd-cheshire-4",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jodi Newell",
+          "party": "DEM",
+          "votes": 1553
+        },
+        {
+          "name": "Thomas Savastano",
+          "party": "REP",
+          "votes": 814
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jodi Newell",
+          "party": "DEM",
+          "votes": 1553
+        }
+      ],
+      "demVotes": 1553,
+      "repVotes": 814,
+      "totalVotes": 2367,
+      "demPct": 65.61,
+      "repPct": 34.39
+    },
+    {
+      "districtId": "nh-hd-cheshire-5",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Lucy McVitty Weber",
+          "party": "DEM",
+          "votes": 1610
+        },
+        {
+          "name": "William J. Sommer",
+          "party": "REP",
+          "votes": 1211
+        }
+      ],
+      "winners": [
+        {
+          "name": "Lucy McVitty Weber",
+          "party": "DEM",
+          "votes": 1610
+        }
+      ],
+      "demVotes": 1610,
+      "repVotes": 1211,
+      "totalVotes": 2821,
+      "demPct": 57.07,
+      "repPct": 42.93
+    },
+    {
+      "districtId": "nh-hd-cheshire-6",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Paul Berch",
+          "party": "DEM",
+          "votes": 2620
+        },
+        {
+          "name": "Cathryn A. Harvey",
+          "party": "DEM",
+          "votes": 2611
+        },
+        {
+          "name": "Sean Graves",
+          "party": "REP",
+          "votes": 2500
+        },
+        {
+          "name": "Robert Sutherland",
+          "party": "REP",
+          "votes": 2063
+        }
+      ],
+      "winners": [
+        {
+          "name": "Paul Berch",
+          "party": "DEM",
+          "votes": 2620
+        },
+        {
+          "name": "Cathryn A. Harvey",
+          "party": "DEM",
+          "votes": 2611
+        }
+      ],
+      "demVotes": 5231,
+      "repVotes": 4563,
+      "totalVotes": 9794,
+      "demPct": 53.41,
+      "repPct": 46.59
+    },
+    {
+      "districtId": "nh-hd-cheshire-7",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Terri O'Rorke",
+          "party": "DEM",
+          "votes": 1899
+        }
+      ],
+      "winners": [
+        {
+          "name": "Terri O'Rorke",
+          "party": "DEM",
+          "votes": 1899
+        }
+      ],
+      "demVotes": 1899,
+      "repVotes": 0,
+      "totalVotes": 1899,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "nh-hd-cheshire-8",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Lucius Parshall",
+          "party": "DEM",
+          "votes": 2005
+        }
+      ],
+      "winners": [
+        {
+          "name": "Lucius Parshall",
+          "party": "DEM",
+          "votes": 2005
+        }
+      ],
+      "demVotes": 2005,
+      "repVotes": 0,
+      "totalVotes": 2005,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "nh-hd-cheshire-9",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Daniel Adams Eaton",
+          "party": "DEM",
+          "votes": 1485
+        },
+        {
+          "name": "Rich Nalevanko",
+          "party": "REP",
+          "votes": 1524
+        }
+      ],
+      "winners": [
+        {
+          "name": "Rich Nalevanko",
+          "party": "REP",
+          "votes": 1524
+        }
+      ],
+      "demVotes": 1485,
+      "repVotes": 1524,
+      "totalVotes": 3009,
+      "demPct": 49.35,
+      "repPct": 50.65
+    },
+    {
+      "districtId": "nh-hd-coos-1",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Cathleen A. Fountain",
+          "party": "DEM",
+          "votes": 1544
+        },
+        {
+          "name": "Sean C. Durkin",
+          "party": "REP",
+          "votes": 1960
+        },
+        {
+          "name": "James W. Tierney Jr.",
+          "party": "REP",
+          "votes": 1632
+        }
+      ],
+      "winners": [
+        {
+          "name": "Sean C. Durkin",
+          "party": "REP",
+          "votes": 1960
+        },
+        {
+          "name": "James W. Tierney Jr.",
+          "party": "REP",
+          "votes": 1632
+        }
+      ],
+      "demVotes": 1544,
+      "repVotes": 3592,
+      "totalVotes": 5136,
+      "demPct": 30.06,
+      "repPct": 69.94
+    },
+    {
+      "districtId": "nh-hd-coos-2",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Arnold G. Davis",
+          "party": "REP",
+          "votes": 1734
+        }
+      ],
+      "winners": [
+        {
+          "name": "Arnold G. Davis",
+          "party": "REP",
+          "votes": 1734
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 1734,
+      "totalVotes": 1734,
+      "demPct": 0,
+      "repPct": 100
+    },
+    {
+      "districtId": "nh-hd-coos-3",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Mike Ouellet",
+          "party": "REP",
+          "votes": 1465
+        }
+      ],
+      "winners": [
+        {
+          "name": "Mike Ouellet",
+          "party": "REP",
+          "votes": 1465
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 1465,
+      "totalVotes": 1465,
+      "demPct": 0,
+      "repPct": 100
+    },
+    {
+      "districtId": "nh-hd-coos-4",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Seth King",
+          "party": "REP",
+          "votes": 1425
+        },
+        {
+          "name": "Suzy Colt",
+          "party": "DEM",
+          "votes": 1143
+        }
+      ],
+      "winners": [
+        {
+          "name": "Seth King",
+          "party": "REP",
+          "votes": 1425
+        }
+      ],
+      "demVotes": 1143,
+      "repVotes": 1425,
+      "totalVotes": 2568,
+      "demPct": 44.51,
+      "repPct": 55.49
+    },
+    {
+      "districtId": "nh-hd-coos-5",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Corinne Cascadden",
+          "party": "DEM",
+          "votes": 1768
+        },
+        {
+          "name": "Henry W. Noel",
+          "party": "DEM",
+          "votes": 1561
+        },
+        {
+          "name": "Peter Morency",
+          "party": "REP",
+          "votes": 1932
+        },
+        {
+          "name": "Brian L. Valerino",
+          "party": "REP",
+          "votes": 2032
+        }
+      ],
+      "winners": [
+        {
+          "name": "Brian L. Valerino",
+          "party": "REP",
+          "votes": 2032
+        },
+        {
+          "name": "Peter Morency",
+          "party": "REP",
+          "votes": 1932
+        }
+      ],
+      "demVotes": 3329,
+      "repVotes": 3964,
+      "totalVotes": 7293,
+      "demPct": 45.65,
+      "repPct": 54.35
+    },
+    {
+      "districtId": "nh-hd-coos-6",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Maggie Baker",
+          "party": "DEM",
+          "votes": 981
+        },
+        {
+          "name": "Michael P. Murphy",
+          "party": "REP",
+          "votes": 1175
+        }
+      ],
+      "winners": [
+        {
+          "name": "Michael P. Murphy",
+          "party": "REP",
+          "votes": 1175
+        }
+      ],
+      "demVotes": 981,
+      "repVotes": 1175,
+      "totalVotes": 2156,
+      "demPct": 45.5,
+      "repPct": 54.5
+    },
+    {
+      "districtId": "nh-hd-grafton-1",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Timothy T. Egan",
+          "party": "DEM",
+          "votes": 2551
+        },
+        {
+          "name": "Linda Massimilla",
+          "party": "DEM",
+          "votes": 2755
+        },
+        {
+          "name": "Vern Masters",
+          "party": "DEM",
+          "votes": 2203
+        },
+        {
+          "name": "Joseph Barton",
+          "party": "REP",
+          "votes": 3039
+        },
+        {
+          "name": "Calvin Beaulier",
+          "party": "REP",
+          "votes": 2911
+        },
+        {
+          "name": "Darrell A. Louis",
+          "party": "REP",
+          "votes": 3238
+        }
+      ],
+      "winners": [
+        {
+          "name": "Darrell A. Louis",
+          "party": "REP",
+          "votes": 3238
+        },
+        {
+          "name": "Joseph Barton",
+          "party": "REP",
+          "votes": 3039
+        },
+        {
+          "name": "Calvin Beaulier",
+          "party": "REP",
+          "votes": 2911
+        }
+      ],
+      "demVotes": 7509,
+      "repVotes": 9188,
+      "totalVotes": 16697,
+      "demPct": 44.97,
+      "repPct": 55.03
+    },
+    {
+      "districtId": "nh-hd-grafton-10",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Richard A. Lobban Jr.",
+          "party": "DEM",
+          "votes": 1284
+        },
+        {
+          "name": "John Sellers",
+          "party": "REP",
+          "votes": 1490
+        }
+      ],
+      "winners": [
+        {
+          "name": "John Sellers",
+          "party": "REP",
+          "votes": 1490
+        }
+      ],
+      "demVotes": 1284,
+      "repVotes": 1490,
+      "totalVotes": 2774,
+      "demPct": 46.29,
+      "repPct": 53.71
+    },
+    {
+      "districtId": "nh-hd-grafton-11",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Lex Berezhny",
+          "party": "REP",
+          "votes": 1826
+        }
+      ],
+      "winners": [
+        {
+          "name": "Lex Berezhny",
+          "party": "REP",
+          "votes": 1826
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 1826,
+      "totalVotes": 1826,
+      "demPct": 0,
+      "repPct": 100
+    },
+    {
+      "districtId": "nh-hd-grafton-12",
+      "seats": 4,
+      "candidates": [
+        {
+          "name": "Mary Hakken-Phillips",
+          "party": "DEM",
+          "votes": 6315
+        },
+        {
+          "name": "Russell Muirhead",
+          "party": "DEM",
+          "votes": 6351
+        },
+        {
+          "name": "Ellen Rockmore",
+          "party": "DEM",
+          "votes": 6305
+        },
+        {
+          "name": "Terry Spahr",
+          "party": "DEM",
+          "votes": 6174
+        }
+      ],
+      "winners": [
+        {
+          "name": "Russell Muirhead",
+          "party": "DEM",
+          "votes": 6351
+        },
+        {
+          "name": "Mary Hakken-Phillips",
+          "party": "DEM",
+          "votes": 6315
+        },
+        {
+          "name": "Ellen Rockmore",
+          "party": "DEM",
+          "votes": 6305
+        },
+        {
+          "name": "Terry Spahr",
+          "party": "DEM",
+          "votes": 6174
+        }
+      ],
+      "demVotes": 25145,
+      "repVotes": 0,
+      "totalVotes": 25145,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "nh-hd-grafton-13",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Laurel Stavis",
+          "party": "DEM",
+          "votes": 1982
+        }
+      ],
+      "winners": [
+        {
+          "name": "Laurel Stavis",
+          "party": "DEM",
+          "votes": 1982
+        }
+      ],
+      "demVotes": 1982,
+      "repVotes": 0,
+      "totalVotes": 1982,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "nh-hd-grafton-14",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "George Sykes",
+          "party": "DEM",
+          "votes": 2216
+        }
+      ],
+      "winners": [
+        {
+          "name": "George Sykes",
+          "party": "DEM",
+          "votes": 2216
+        }
+      ],
+      "demVotes": 2216,
+      "repVotes": 0,
+      "totalVotes": 2216,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "nh-hd-grafton-15",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Thomas Cormen",
+          "party": "DEM",
+          "votes": 2170
+        }
+      ],
+      "winners": [
+        {
+          "name": "Thomas Cormen",
+          "party": "DEM",
+          "votes": 2170
+        }
+      ],
+      "demVotes": 2170,
+      "repVotes": 0,
+      "totalVotes": 2170,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "nh-hd-grafton-2",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jared Sullivan",
+          "party": "DEM",
+          "votes": 1529
+        },
+        {
+          "name": "Eddie Qi",
+          "party": "REP",
+          "votes": 849
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jared Sullivan",
+          "party": "DEM",
+          "votes": 1529
+        }
+      ],
+      "demVotes": 1529,
+      "repVotes": 849,
+      "totalVotes": 2378,
+      "demPct": 64.3,
+      "repPct": 35.7
+    },
+    {
+      "districtId": "nh-hd-grafton-3",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jerry M. Stringham",
+          "party": "DEM",
+          "votes": 1146
+        },
+        {
+          "name": "Paul H. Schirduan",
+          "party": "REP",
+          "votes": 821
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jerry M. Stringham",
+          "party": "DEM",
+          "votes": 1146
+        }
+      ],
+      "demVotes": 1146,
+      "repVotes": 821,
+      "totalVotes": 1967,
+      "demPct": 58.26,
+      "repPct": 41.74
+    },
+    {
+      "districtId": "nh-hd-grafton-4",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Heather P. Baldwin",
+          "party": "DEM",
+          "votes": 1211
+        },
+        {
+          "name": "Steven Babin",
+          "party": "REP",
+          "votes": 1046
+        }
+      ],
+      "winners": [
+        {
+          "name": "Heather P. Baldwin",
+          "party": "DEM",
+          "votes": 1211
+        }
+      ],
+      "demVotes": 1211,
+      "repVotes": 1046,
+      "totalVotes": 2257,
+      "demPct": 53.66,
+      "repPct": 46.34
+    },
+    {
+      "districtId": "nh-hd-grafton-5",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Rachael E. Booth",
+          "party": "DEM",
+          "votes": 1375
+        },
+        {
+          "name": "Dustin Vigneault",
+          "party": "DEM",
+          "votes": 1217
+        },
+        {
+          "name": "Marie L. Bjelobrk",
+          "party": "REP",
+          "votes": 2088
+        },
+        {
+          "name": "Rick Ladd",
+          "party": "REP",
+          "votes": 2126
+        }
+      ],
+      "winners": [
+        {
+          "name": "Rick Ladd",
+          "party": "REP",
+          "votes": 2126
+        },
+        {
+          "name": "Marie L. Bjelobrk",
+          "party": "REP",
+          "votes": 2088
+        }
+      ],
+      "demVotes": 2592,
+      "repVotes": 4214,
+      "totalVotes": 6806,
+      "demPct": 38.08,
+      "repPct": 61.92
+    },
+    {
+      "districtId": "nh-hd-grafton-6",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jolene T. Farmer",
+          "party": "DEM",
+          "votes": 1099
+        },
+        {
+          "name": "Linda Franz",
+          "party": "REP",
+          "votes": 1326
+        }
+      ],
+      "winners": [
+        {
+          "name": "Linda Franz",
+          "party": "REP",
+          "votes": 1326
+        }
+      ],
+      "demVotes": 1099,
+      "repVotes": 1326,
+      "totalVotes": 2425,
+      "demPct": 45.32,
+      "repPct": 54.68
+    },
+    {
+      "districtId": "nh-hd-grafton-7",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Janet Marie Lucas",
+          "party": "DEM",
+          "votes": 1057
+        },
+        {
+          "name": "Jon A. Gablinske",
+          "party": "REP",
+          "votes": 1034
+        }
+      ],
+      "winners": [
+        {
+          "name": "Janet Marie Lucas",
+          "party": "DEM",
+          "votes": 1057
+        }
+      ],
+      "demVotes": 1057,
+      "repVotes": 1034,
+      "totalVotes": 2091,
+      "demPct": 50.55,
+      "repPct": 49.45
+    },
+    {
+      "districtId": "nh-hd-grafton-8",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Bill Bolton",
+          "party": "DEM",
+          "votes": 3079
+        },
+        {
+          "name": "Sallie Fellows",
+          "party": "DEM",
+          "votes": 3204
+        },
+        {
+          "name": "Peter Lovett",
+          "party": "DEM",
+          "votes": 3165
+        },
+        {
+          "name": "Timothy F. Sweetsir",
+          "party": "REP",
+          "votes": 2685
+        }
+      ],
+      "winners": [
+        {
+          "name": "Sallie Fellows",
+          "party": "DEM",
+          "votes": 3204
+        },
+        {
+          "name": "Peter Lovett",
+          "party": "DEM",
+          "votes": 3165
+        },
+        {
+          "name": "Bill Bolton",
+          "party": "DEM",
+          "votes": 3079
+        }
+      ],
+      "demVotes": 9448,
+      "repVotes": 2685,
+      "totalVotes": 12133,
+      "demPct": 77.87,
+      "repPct": 22.13
+    },
+    {
+      "districtId": "nh-hd-grafton-9",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Thomas Oppel",
+          "party": "DEM",
+          "votes": 1305
+        },
+        {
+          "name": "Kevin M. Howard",
+          "party": "REP",
+          "votes": 1233
+        }
+      ],
+      "winners": [
+        {
+          "name": "Thomas Oppel",
+          "party": "DEM",
+          "votes": 1305
+        }
+      ],
+      "demVotes": 1305,
+      "repVotes": 1233,
+      "totalVotes": 2538,
+      "demPct": 51.42,
+      "repPct": 48.58
+    },
+    {
+      "districtId": "nh-hd-hillsborough-1",
+      "seats": 4,
+      "candidates": [
+        {
+          "name": "Ann Balcom-Dadak",
+          "party": "DEM",
+          "votes": 2772
+        },
+        {
+          "name": "Lisa Brown",
+          "party": "DEM",
+          "votes": 3059
+        },
+        {
+          "name": "Paul L. Dadak",
+          "party": "DEM",
+          "votes": 2701
+        },
+        {
+          "name": "B.J. Murphy",
+          "party": "DEM",
+          "votes": 2814
+        },
+        {
+          "name": "Tim Mannion",
+          "party": "REP",
+          "votes": 5157
+        },
+        {
+          "name": "Tom Mannion",
+          "party": "REP",
+          "votes": 5052
+        },
+        {
+          "name": "Sandra Panek",
+          "party": "REP",
+          "votes": 5250
+        },
+        {
+          "name": "Jeffrey Tenczar",
+          "party": "REP",
+          "votes": 5308
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jeffrey Tenczar",
+          "party": "REP",
+          "votes": 5308
+        },
+        {
+          "name": "Sandra Panek",
+          "party": "REP",
+          "votes": 5250
+        },
+        {
+          "name": "Tim Mannion",
+          "party": "REP",
+          "votes": 5157
+        },
+        {
+          "name": "Tom Mannion",
+          "party": "REP",
+          "votes": 5052
+        }
+      ],
+      "demVotes": 11346,
+      "repVotes": 20767,
+      "totalVotes": 32113,
+      "demPct": 35.33,
+      "repPct": 64.67
+    },
+    {
+      "districtId": "nh-hd-hillsborough-10",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Linda Harriott-Gathright",
+          "party": "DEM",
+          "votes": 2788
+        },
+        {
+          "name": "Marty Jack",
+          "party": "DEM",
+          "votes": 2746
+        },
+        {
+          "name": "Melbourne Moran Jr.",
+          "party": "DEM",
+          "votes": 2414
+        },
+        {
+          "name": "Dana Albrecht",
+          "party": "REP",
+          "votes": 2206
+        },
+        {
+          "name": "John Cawthron",
+          "party": "REP",
+          "votes": 2095
+        },
+        {
+          "name": "Bill Ohm",
+          "party": "REP",
+          "votes": 2563
+        }
+      ],
+      "winners": [
+        {
+          "name": "Linda Harriott-Gathright",
+          "party": "DEM",
+          "votes": 2788
+        },
+        {
+          "name": "Marty Jack",
+          "party": "DEM",
+          "votes": 2746
+        },
+        {
+          "name": "Bill Ohm",
+          "party": "REP",
+          "votes": 2563
+        }
+      ],
+      "demVotes": 7948,
+      "repVotes": 6864,
+      "totalVotes": 14812,
+      "demPct": 53.66,
+      "repPct": 46.34
+    },
+    {
+      "districtId": "nh-hd-hillsborough-11",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Manoj Chourasia",
+          "party": "DEM",
+          "votes": 2368
+        },
+        {
+          "name": "Will Darby",
+          "party": "DEM",
+          "votes": 2417
+        },
+        {
+          "name": "Laura Telerski",
+          "party": "DEM",
+          "votes": 2586
+        },
+        {
+          "name": "Kristie Hart",
+          "party": "REP",
+          "votes": 1856
+        },
+        {
+          "name": "Peter Silva",
+          "party": "REP",
+          "votes": 1839
+        },
+        {
+          "name": "Robert J. Sullivan",
+          "party": "REP",
+          "votes": 1779
+        }
+      ],
+      "winners": [
+        {
+          "name": "Laura Telerski",
+          "party": "DEM",
+          "votes": 2586
+        },
+        {
+          "name": "Will Darby",
+          "party": "DEM",
+          "votes": 2417
+        },
+        {
+          "name": "Manoj Chourasia",
+          "party": "DEM",
+          "votes": 2368
+        }
+      ],
+      "demVotes": 7371,
+      "repVotes": 5474,
+      "totalVotes": 12845,
+      "demPct": 57.38,
+      "repPct": 42.62
+    },
+    {
+      "districtId": "nh-hd-hillsborough-12",
+      "seats": 8,
+      "candidates": [
+        {
+          "name": "Rebecca Boutin",
+          "party": "DEM",
+          "votes": 6977
+        },
+        {
+          "name": "George R. Dieter",
+          "party": "DEM",
+          "votes": 6454
+        },
+        {
+          "name": "James Flis",
+          "party": "DEM",
+          "votes": 6447
+        },
+        {
+          "name": "Nancy A. Murphy",
+          "party": "DEM",
+          "votes": 7999
+        },
+        {
+          "name": "Marc Nozell",
+          "party": "DEM",
+          "votes": 6769
+        },
+        {
+          "name": "Rosemarie Rung",
+          "party": "DEM",
+          "votes": 7945
+        },
+        {
+          "name": "Kathryn Stack",
+          "party": "DEM",
+          "votes": 7070
+        },
+        {
+          "name": "Wendy E.N Thomas",
+          "party": "DEM",
+          "votes": 7479
+        },
+        {
+          "name": "Bill Boyd",
+          "party": "REP",
+          "votes": 7949
+        },
+        {
+          "name": "Tracy Coyer",
+          "party": "REP",
+          "votes": 7056
+        },
+        {
+          "name": "John Frechette",
+          "party": "REP",
+          "votes": 7384
+        },
+        {
+          "name": "Julie Miles",
+          "party": "REP",
+          "votes": 8096
+        },
+        {
+          "name": "Maureen Mooney",
+          "party": "REP",
+          "votes": 8483
+        },
+        {
+          "name": "Jeanine Notter",
+          "party": "REP",
+          "votes": 7881
+        },
+        {
+          "name": "Adam Presa",
+          "party": "REP",
+          "votes": 7918
+        },
+        {
+          "name": "Rebekah Woodman",
+          "party": "REP",
+          "votes": 7240
+        }
+      ],
+      "winners": [
+        {
+          "name": "Maureen Mooney",
+          "party": "REP",
+          "votes": 8483
+        },
+        {
+          "name": "Julie Miles",
+          "party": "REP",
+          "votes": 8096
+        },
+        {
+          "name": "Nancy A. Murphy",
+          "party": "DEM",
+          "votes": 7999
+        },
+        {
+          "name": "Bill Boyd",
+          "party": "REP",
+          "votes": 7949
+        },
+        {
+          "name": "Rosemarie Rung",
+          "party": "DEM",
+          "votes": 7945
+        },
+        {
+          "name": "Adam Presa",
+          "party": "REP",
+          "votes": 7918
+        },
+        {
+          "name": "Jeanine Notter",
+          "party": "REP",
+          "votes": 7881
+        },
+        {
+          "name": "Wendy E.N Thomas",
+          "party": "DEM",
+          "votes": 7479
+        }
+      ],
+      "demVotes": 57140,
+      "repVotes": 62007,
+      "totalVotes": 119147,
+      "demPct": 47.96,
+      "repPct": 52.04
+    },
+    {
+      "districtId": "nh-hd-hillsborough-13",
+      "seats": 6,
+      "candidates": [
+        {
+          "name": "Ryan Burke",
+          "party": "DEM",
+          "votes": 5387
+        },
+        {
+          "name": "John Knowles",
+          "party": "DEM",
+          "votes": 5405
+        },
+        {
+          "name": "Alejandro Urrutia",
+          "party": "DEM",
+          "votes": 5033
+        },
+        {
+          "name": "Timothy Wyatt",
+          "party": "DEM",
+          "votes": 5363
+        },
+        {
+          "name": "Dillon Dumont",
+          "party": "REP",
+          "votes": 7519
+        },
+        {
+          "name": "Cathy Kenny",
+          "party": "REP",
+          "votes": 7718
+        },
+        {
+          "name": "Andrew Prout",
+          "party": "REP",
+          "votes": 7002
+        },
+        {
+          "name": "Jeremy Slottje",
+          "party": "REP",
+          "votes": 6345
+        },
+        {
+          "name": "Jordan G. Ulery",
+          "party": "REP",
+          "votes": 6996
+        },
+        {
+          "name": "Robert Wherry",
+          "party": "REP",
+          "votes": 6573
+        }
+      ],
+      "winners": [
+        {
+          "name": "Cathy Kenny",
+          "party": "REP",
+          "votes": 7718
+        },
+        {
+          "name": "Dillon Dumont",
+          "party": "REP",
+          "votes": 7519
+        },
+        {
+          "name": "Andrew Prout",
+          "party": "REP",
+          "votes": 7002
+        },
+        {
+          "name": "Jordan G. Ulery",
+          "party": "REP",
+          "votes": 6996
+        },
+        {
+          "name": "Robert Wherry",
+          "party": "REP",
+          "votes": 6573
+        },
+        {
+          "name": "Jeremy Slottje",
+          "party": "REP",
+          "votes": 6345
+        }
+      ],
+      "demVotes": 21188,
+      "repVotes": 42153,
+      "totalVotes": 63341,
+      "demPct": 33.45,
+      "repPct": 66.55
+    },
+    {
+      "districtId": "nh-hd-hillsborough-14",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Michael Aniskovich",
+          "party": "DEM",
+          "votes": 1920
+        },
+        {
+          "name": "Mahendra Bakshi",
+          "party": "DEM",
+          "votes": 1525
+        },
+        {
+          "name": "Richard W. Lascelles",
+          "party": "REP",
+          "votes": 3111
+        },
+        {
+          "name": "Raymond C. Peeples Jr.",
+          "party": "REP",
+          "votes": 3060
+        }
+      ],
+      "winners": [
+        {
+          "name": "Richard W. Lascelles",
+          "party": "REP",
+          "votes": 3111
+        },
+        {
+          "name": "Raymond C. Peeples Jr.",
+          "party": "REP",
+          "votes": 3060
+        }
+      ],
+      "demVotes": 3445,
+      "repVotes": 6171,
+      "totalVotes": 9616,
+      "demPct": 35.83,
+      "repPct": 64.17
+    },
+    {
+      "districtId": "nh-hd-hillsborough-15",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Thomas Katsiantonis",
+          "party": "DEM",
+          "votes": 2092
+        },
+        {
+          "name": "Lara Quiroga",
+          "party": "DEM",
+          "votes": 2057
+        },
+        {
+          "name": "Mark McLean",
+          "party": "REP",
+          "votes": 2656
+        },
+        {
+          "name": "Mark Proulx",
+          "party": "REP",
+          "votes": 2605
+        }
+      ],
+      "winners": [
+        {
+          "name": "Mark McLean",
+          "party": "REP",
+          "votes": 2656
+        },
+        {
+          "name": "Mark Proulx",
+          "party": "REP",
+          "votes": 2605
+        }
+      ],
+      "demVotes": 4149,
+      "repVotes": 5261,
+      "totalVotes": 9410,
+      "demPct": 44.09,
+      "repPct": 55.91
+    },
+    {
+      "districtId": "nh-hd-hillsborough-16",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Dan Bergeron",
+          "party": "DEM",
+          "votes": 2520
+        },
+        {
+          "name": "Larry G. Gagne",
+          "party": "REP",
+          "votes": 2530
+        },
+        {
+          "name": "William Infantine",
+          "party": "REP",
+          "votes": 2387
+        }
+      ],
+      "winners": [
+        {
+          "name": "Larry G. Gagne",
+          "party": "REP",
+          "votes": 2530
+        },
+        {
+          "name": "Dan Bergeron",
+          "party": "DEM",
+          "votes": 2520
+        }
+      ],
+      "demVotes": 2520,
+      "repVotes": 4917,
+      "totalVotes": 7437,
+      "demPct": 33.88,
+      "repPct": 66.12
+    },
+    {
+      "districtId": "nh-hd-hillsborough-17",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Linda DiSilvestro",
+          "party": "DEM",
+          "votes": 2736
+        },
+        {
+          "name": "David J. Preece",
+          "party": "DEM",
+          "votes": 2368
+        },
+        {
+          "name": "Ben Prescott",
+          "party": "REP",
+          "votes": 2332
+        }
+      ],
+      "winners": [
+        {
+          "name": "Linda DiSilvestro",
+          "party": "DEM",
+          "votes": 2736
+        },
+        {
+          "name": "David J. Preece",
+          "party": "DEM",
+          "votes": 2368
+        }
+      ],
+      "demVotes": 5104,
+      "repVotes": 2332,
+      "totalVotes": 7436,
+      "demPct": 68.64,
+      "repPct": 31.36
+    },
+    {
+      "districtId": "nh-hd-hillsborough-18",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Jessica Grill",
+          "party": "DEM",
+          "votes": 2296
+        },
+        {
+          "name": "Julie Smith",
+          "party": "DEM",
+          "votes": 2041
+        },
+        {
+          "name": "Juliet Belle DiPietro",
+          "party": "REP",
+          "votes": 1934
+        },
+        {
+          "name": "Steven Kesselring",
+          "party": "REP",
+          "votes": 2050
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jessica Grill",
+          "party": "DEM",
+          "votes": 2296
+        },
+        {
+          "name": "Steven Kesselring",
+          "party": "REP",
+          "votes": 2050
+        }
+      ],
+      "demVotes": 4337,
+      "repVotes": 3984,
+      "totalVotes": 8321,
+      "demPct": 52.12,
+      "repPct": 47.88
+    },
+    {
+      "districtId": "nh-hd-hillsborough-19",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Suzanne L. Chretien",
+          "party": "DEM",
+          "votes": 1986
+        },
+        {
+          "name": "Samuel Petali",
+          "party": "DEM",
+          "votes": 1590
+        },
+        {
+          "name": "Matt Drew",
+          "party": "REP",
+          "votes": 2134
+        }
+      ],
+      "winners": [
+        {
+          "name": "Matt Drew",
+          "party": "REP",
+          "votes": 2134
+        },
+        {
+          "name": "Suzanne L. Chretien",
+          "party": "DEM",
+          "votes": 1986
+        }
+      ],
+      "demVotes": 3576,
+      "repVotes": 2134,
+      "totalVotes": 5710,
+      "demPct": 62.63,
+      "repPct": 37.37
+    },
+    {
+      "districtId": "nh-hd-hillsborough-2",
+      "seats": 7,
+      "candidates": [
+        {
+          "name": "Kevin Boyarsky",
+          "party": "DEM",
+          "votes": 5993
+        },
+        {
+          "name": "John Fitzgerald",
+          "party": "DEM",
+          "votes": 6118
+        },
+        {
+          "name": "Loren Foxx",
+          "party": "DEM",
+          "votes": 6575
+        },
+        {
+          "name": "Jeff Kerr",
+          "party": "DEM",
+          "votes": 5976
+        },
+        {
+          "name": "Shana Potvin",
+          "party": "DEM",
+          "votes": 5968
+        },
+        {
+          "name": "Catherine A. Rombeau",
+          "party": "DEM",
+          "votes": 6602
+        },
+        {
+          "name": "Matthew Sullivan",
+          "party": "DEM",
+          "votes": 6089
+        },
+        {
+          "name": "Danielle Evansic",
+          "party": "REP",
+          "votes": 6443
+        },
+        {
+          "name": "Ted Gorski",
+          "party": "REP",
+          "votes": 6894
+        },
+        {
+          "name": "Linda Gould",
+          "party": "REP",
+          "votes": 6955
+        },
+        {
+          "name": "Peter Kujawski",
+          "party": "REP",
+          "votes": 6495
+        },
+        {
+          "name": "Brian Labrie",
+          "party": "REP",
+          "votes": 6888
+        },
+        {
+          "name": "Kristin Noble",
+          "party": "REP",
+          "votes": 6929
+        },
+        {
+          "name": "John Schneller",
+          "party": "REP",
+          "votes": 6546
+        }
+      ],
+      "winners": [
+        {
+          "name": "Linda Gould",
+          "party": "REP",
+          "votes": 6955
+        },
+        {
+          "name": "Kristin Noble",
+          "party": "REP",
+          "votes": 6929
+        },
+        {
+          "name": "Ted Gorski",
+          "party": "REP",
+          "votes": 6894
+        },
+        {
+          "name": "Brian Labrie",
+          "party": "REP",
+          "votes": 6888
+        },
+        {
+          "name": "Catherine A. Rombeau",
+          "party": "DEM",
+          "votes": 6602
+        },
+        {
+          "name": "Loren Foxx",
+          "party": "DEM",
+          "votes": 6575
+        },
+        {
+          "name": "John Schneller",
+          "party": "REP",
+          "votes": 6546
+        }
+      ],
+      "demVotes": 43321,
+      "repVotes": 47150,
+      "totalVotes": 90471,
+      "demPct": 47.88,
+      "repPct": 52.12
+    },
+    {
+      "districtId": "nh-hd-hillsborough-20",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Alissandra Murray",
+          "party": "DEM",
+          "votes": 1905
+        },
+        {
+          "name": "Joshua Query",
+          "party": "DEM",
+          "votes": 1680
+        },
+        {
+          "name": "Pierre Dupont",
+          "party": "REP",
+          "votes": 1889
+        },
+        {
+          "name": "Jose R. Marte",
+          "party": "REP",
+          "votes": 1639
+        }
+      ],
+      "winners": [
+        {
+          "name": "Alissandra Murray",
+          "party": "DEM",
+          "votes": 1905
+        },
+        {
+          "name": "Pierre Dupont",
+          "party": "REP",
+          "votes": 1889
+        }
+      ],
+      "demVotes": 3585,
+      "repVotes": 3528,
+      "totalVotes": 7113,
+      "demPct": 50.4,
+      "repPct": 49.6
+    },
+    {
+      "districtId": "nh-hd-hillsborough-21",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Christine Seibert",
+          "party": "DEM",
+          "votes": 3113
+        },
+        {
+          "name": "Matthew B. Wilhelm",
+          "party": "DEM",
+          "votes": 2648
+        },
+        {
+          "name": "Andrew Fromuth",
+          "party": "REP",
+          "votes": 2439
+        }
+      ],
+      "winners": [
+        {
+          "name": "Christine Seibert",
+          "party": "DEM",
+          "votes": 3113
+        },
+        {
+          "name": "Matthew B. Wilhelm",
+          "party": "DEM",
+          "votes": 2648
+        }
+      ],
+      "demVotes": 5761,
+      "repVotes": 2439,
+      "totalVotes": 8200,
+      "demPct": 70.26,
+      "repPct": 29.74
+    },
+    {
+      "districtId": "nh-hd-hillsborough-22",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Patricia Cornell",
+          "party": "DEM",
+          "votes": 1720
+        },
+        {
+          "name": "Nicole Leapley",
+          "party": "DEM",
+          "votes": 1614
+        },
+        {
+          "name": "Karl Beisel",
+          "party": "REP",
+          "votes": 1401
+        },
+        {
+          "name": "Bill Gabler",
+          "party": "REP",
+          "votes": 1550
+        }
+      ],
+      "winners": [
+        {
+          "name": "Patricia Cornell",
+          "party": "DEM",
+          "votes": 1720
+        },
+        {
+          "name": "Nicole Leapley",
+          "party": "DEM",
+          "votes": 1614
+        }
+      ],
+      "demVotes": 3334,
+      "repVotes": 2951,
+      "totalVotes": 6285,
+      "demPct": 53.05,
+      "repPct": 46.95
+    },
+    {
+      "districtId": "nh-hd-hillsborough-23",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "MaryNgwanda Georges",
+          "party": "DEM",
+          "votes": 1763
+        },
+        {
+          "name": "Jean Jeudy",
+          "party": "DEM",
+          "votes": 1699
+        },
+        {
+          "name": "Tim Peters",
+          "party": "REP",
+          "votes": 1385
+        }
+      ],
+      "winners": [
+        {
+          "name": "MaryNgwanda Georges",
+          "party": "DEM",
+          "votes": 1763
+        },
+        {
+          "name": "Jean Jeudy",
+          "party": "DEM",
+          "votes": 1699
+        }
+      ],
+      "demVotes": 3462,
+      "repVotes": 1385,
+      "totalVotes": 4847,
+      "demPct": 71.43,
+      "repPct": 28.57
+    },
+    {
+      "districtId": "nh-hd-hillsborough-24",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Donald J. Bouchard",
+          "party": "DEM",
+          "votes": 1665
+        },
+        {
+          "name": "Chris Herbert",
+          "party": "DEM",
+          "votes": 1767
+        },
+        {
+          "name": "Dennis M. Demars",
+          "party": "REP",
+          "votes": 1632
+        }
+      ],
+      "winners": [
+        {
+          "name": "Chris Herbert",
+          "party": "DEM",
+          "votes": 1767
+        },
+        {
+          "name": "Donald J. Bouchard",
+          "party": "DEM",
+          "votes": 1665
+        }
+      ],
+      "demVotes": 3432,
+      "repVotes": 1632,
+      "totalVotes": 5064,
+      "demPct": 67.77,
+      "repPct": 32.23
+    },
+    {
+      "districtId": "nh-hd-hillsborough-25",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Hyacinth J. Landry",
+          "party": "DEM",
+          "votes": 1143
+        },
+        {
+          "name": "Kathy Staub",
+          "party": "DEM",
+          "votes": 1252
+        },
+        {
+          "name": "Kathleen Paquette",
+          "party": "REP",
+          "votes": 1333
+        }
+      ],
+      "winners": [
+        {
+          "name": "Kathleen Paquette",
+          "party": "REP",
+          "votes": 1333
+        },
+        {
+          "name": "Kathy Staub",
+          "party": "DEM",
+          "votes": 1252
+        }
+      ],
+      "demVotes": 2395,
+      "repVotes": 1333,
+      "totalVotes": 3728,
+      "demPct": 64.24,
+      "repPct": 35.76
+    },
+    {
+      "districtId": "nh-hd-hillsborough-26",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Patrick N. Long",
+          "party": "DEM",
+          "votes": 1843
+        },
+        {
+          "name": "Michael Reuschel",
+          "party": "DEM",
+          "votes": 1492
+        },
+        {
+          "name": "Brian D. Cole",
+          "party": "REP",
+          "votes": 1882
+        }
+      ],
+      "winners": [
+        {
+          "name": "Brian D. Cole",
+          "party": "REP",
+          "votes": 1882
+        },
+        {
+          "name": "Patrick N. Long",
+          "party": "DEM",
+          "votes": 1843
+        }
+      ],
+      "demVotes": 3335,
+      "repVotes": 1882,
+      "totalVotes": 5217,
+      "demPct": 63.93,
+      "repPct": 36.07
+    },
+    {
+      "districtId": "nh-hd-hillsborough-27",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Susan Kane",
+          "party": "DEM",
+          "votes": 912
+        },
+        {
+          "name": "Mary Murphy",
+          "party": "REP",
+          "votes": 1336
+        }
+      ],
+      "winners": [
+        {
+          "name": "Mary Murphy",
+          "party": "REP",
+          "votes": 1336
+        }
+      ],
+      "demVotes": 912,
+      "repVotes": 1336,
+      "totalVotes": 2248,
+      "demPct": 40.57,
+      "repPct": 59.43
+    },
+    {
+      "districtId": "nh-hd-hillsborough-28",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Luke Drake Jr.",
+          "party": "DEM",
+          "votes": 1804
+        },
+        {
+          "name": "David Erikson",
+          "party": "DEM",
+          "votes": 1961
+        },
+        {
+          "name": "Travis Corcoran",
+          "party": "REP",
+          "votes": 3004
+        },
+        {
+          "name": "Keith Erf",
+          "party": "REP",
+          "votes": 3255
+        }
+      ],
+      "winners": [
+        {
+          "name": "Keith Erf",
+          "party": "REP",
+          "votes": 3255
+        },
+        {
+          "name": "Travis Corcoran",
+          "party": "REP",
+          "votes": 3004
+        }
+      ],
+      "demVotes": 3765,
+      "repVotes": 6259,
+      "totalVotes": 10024,
+      "demPct": 37.56,
+      "repPct": 62.44
+    },
+    {
+      "districtId": "nh-hd-hillsborough-29",
+      "seats": 4,
+      "candidates": [
+        {
+          "name": "Jim Craig",
+          "party": "DEM",
+          "votes": 4484
+        },
+        {
+          "name": "Judy Johnson",
+          "party": "DEM",
+          "votes": 4323
+        },
+        {
+          "name": "Judi L. Lanza",
+          "party": "DEM",
+          "votes": 4385
+        },
+        {
+          "name": "Melanie Renfrew-Hebert",
+          "party": "DEM",
+          "votes": 4170
+        },
+        {
+          "name": "Joe Alexander",
+          "party": "REP",
+          "votes": 5027
+        },
+        {
+          "name": "Henry R. Giasson III",
+          "party": "REP",
+          "votes": 4566
+        },
+        {
+          "name": "Sherri Reinfurt",
+          "party": "REP",
+          "votes": 4652
+        },
+        {
+          "name": "Sheila Seidel",
+          "party": "REP",
+          "votes": 4876
+        }
+      ],
+      "winners": [
+        {
+          "name": "Joe Alexander",
+          "party": "REP",
+          "votes": 5027
+        },
+        {
+          "name": "Sheila Seidel",
+          "party": "REP",
+          "votes": 4876
+        },
+        {
+          "name": "Sherri Reinfurt",
+          "party": "REP",
+          "votes": 4652
+        },
+        {
+          "name": "Henry R. Giasson III",
+          "party": "REP",
+          "votes": 4566
+        }
+      ],
+      "demVotes": 17362,
+      "repVotes": 19121,
+      "totalVotes": 36483,
+      "demPct": 47.59,
+      "repPct": 52.41
+    },
+    {
+      "districtId": "nh-hd-hillsborough-3",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Paige Beauchemin",
+          "party": "DEM",
+          "votes": 1597
+        },
+        {
+          "name": "Fred Davis",
+          "party": "DEM",
+          "votes": 1419
+        },
+        {
+          "name": "Marc W. Plamondon",
+          "party": "DEM",
+          "votes": 1389
+        },
+        {
+          "name": "Joost J.G. Baumeister",
+          "party": "REP",
+          "votes": 943
+        },
+        {
+          "name": "David M. Narkunas",
+          "party": "REP",
+          "votes": 1050
+        }
+      ],
+      "winners": [
+        {
+          "name": "Paige Beauchemin",
+          "party": "DEM",
+          "votes": 1597
+        },
+        {
+          "name": "Fred Davis",
+          "party": "DEM",
+          "votes": 1419
+        },
+        {
+          "name": "Marc W. Plamondon",
+          "party": "DEM",
+          "votes": 1389
+        }
+      ],
+      "demVotes": 4405,
+      "repVotes": 1993,
+      "totalVotes": 6398,
+      "demPct": 68.85,
+      "repPct": 31.15
+    },
+    {
+      "districtId": "nh-hd-hillsborough-30",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "William Bryk",
+          "party": "DEM",
+          "votes": 2141
+        },
+        {
+          "name": "Marjorie Porter",
+          "party": "DEM",
+          "votes": 2528
+        },
+        {
+          "name": "Michael H. Schamel",
+          "party": "DEM",
+          "votes": 2233
+        },
+        {
+          "name": "Riche Colcombe",
+          "party": "REP",
+          "votes": 3172
+        },
+        {
+          "name": "Jim Creighton",
+          "party": "REP",
+          "votes": 3182
+        },
+        {
+          "name": "Jim Fedolfi",
+          "party": "REP",
+          "votes": 2884
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jim Creighton",
+          "party": "REP",
+          "votes": 3182
+        },
+        {
+          "name": "Riche Colcombe",
+          "party": "REP",
+          "votes": 3172
+        },
+        {
+          "name": "Jim Fedolfi",
+          "party": "REP",
+          "votes": 2884
+        }
+      ],
+      "demVotes": 6902,
+      "repVotes": 9238,
+      "totalVotes": 16140,
+      "demPct": 42.76,
+      "repPct": 57.24
+    },
+    {
+      "districtId": "nh-hd-hillsborough-31",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Molly C. Howard",
+          "party": "DEM",
+          "votes": 1244
+        },
+        {
+          "name": "Jarvis M. Adams IV",
+          "party": "REP",
+          "votes": 1081
+        }
+      ],
+      "winners": [
+        {
+          "name": "Molly C. Howard",
+          "party": "DEM",
+          "votes": 1244
+        }
+      ],
+      "demVotes": 1244,
+      "repVotes": 1081,
+      "totalVotes": 2325,
+      "demPct": 53.51,
+      "repPct": 46.49
+    },
+    {
+      "districtId": "nh-hd-hillsborough-32",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Jennifer Bernet",
+          "party": "DEM",
+          "votes": 2377
+        },
+        {
+          "name": "Mike Pellerito",
+          "party": "DEM",
+          "votes": 2349
+        },
+        {
+          "name": "Kermit Williams",
+          "party": "DEM",
+          "votes": 2344
+        },
+        {
+          "name": "Diane Kelley",
+          "party": "REP",
+          "votes": 3784
+        },
+        {
+          "name": "Jim Kofalt",
+          "party": "REP",
+          "votes": 3666
+        },
+        {
+          "name": "Shane Sirois",
+          "party": "REP",
+          "votes": 3689
+        }
+      ],
+      "winners": [
+        {
+          "name": "Diane Kelley",
+          "party": "REP",
+          "votes": 3784
+        },
+        {
+          "name": "Shane Sirois",
+          "party": "REP",
+          "votes": 3689
+        },
+        {
+          "name": "Jim Kofalt",
+          "party": "REP",
+          "votes": 3666
+        }
+      ],
+      "demVotes": 7070,
+      "repVotes": 11139,
+      "totalVotes": 18209,
+      "demPct": 38.83,
+      "repPct": 61.17
+    },
+    {
+      "districtId": "nh-hd-hillsborough-33",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Peter R. Leishman",
+          "party": "DEM",
+          "votes": 2932
+        },
+        {
+          "name": "Jonah Orion Wheeler",
+          "party": "DEM",
+          "votes": 2920
+        },
+        {
+          "name": "Kimberly Thomas",
+          "party": "REP",
+          "votes": 1555
+        }
+      ],
+      "winners": [
+        {
+          "name": "Peter R. Leishman",
+          "party": "DEM",
+          "votes": 2932
+        },
+        {
+          "name": "Jonah Orion Wheeler",
+          "party": "DEM",
+          "votes": 2920
+        }
+      ],
+      "demVotes": 5852,
+      "repVotes": 1555,
+      "totalVotes": 7407,
+      "demPct": 79.01,
+      "repPct": 20.99
+    },
+    {
+      "districtId": "nh-hd-hillsborough-34",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Stephanie Grund",
+          "party": "DEM",
+          "votes": 4209
+        },
+        {
+          "name": "Daniel LeClerc",
+          "party": "DEM",
+          "votes": 3979
+        },
+        {
+          "name": "Daniel Veilleux",
+          "party": "DEM",
+          "votes": 4025
+        },
+        {
+          "name": "Russ Hodgkins",
+          "party": "REP",
+          "votes": 3484
+        },
+        {
+          "name": "Diane Layton",
+          "party": "REP",
+          "votes": 3478
+        },
+        {
+          "name": "Terry Reiber",
+          "party": "REP",
+          "votes": 3240
+        }
+      ],
+      "winners": [
+        {
+          "name": "Stephanie Grund",
+          "party": "DEM",
+          "votes": 4209
+        },
+        {
+          "name": "Daniel Veilleux",
+          "party": "DEM",
+          "votes": 4025
+        },
+        {
+          "name": "Daniel LeClerc",
+          "party": "DEM",
+          "votes": 3979
+        }
+      ],
+      "demVotes": 12213,
+      "repVotes": 10202,
+      "totalVotes": 22415,
+      "demPct": 54.49,
+      "repPct": 45.51
+    },
+    {
+      "districtId": "nh-hd-hillsborough-35",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Kat McGhee",
+          "party": "DEM",
+          "votes": 2856
+        },
+        {
+          "name": "Will Walker",
+          "party": "DEM",
+          "votes": 2665
+        },
+        {
+          "name": "Liz Barbour",
+          "party": "REP",
+          "votes": 2867
+        },
+        {
+          "name": "Sue Homola",
+          "party": "REP",
+          "votes": 2682
+        }
+      ],
+      "winners": [
+        {
+          "name": "Liz Barbour",
+          "party": "REP",
+          "votes": 2867
+        },
+        {
+          "name": "Kat McGhee",
+          "party": "DEM",
+          "votes": 2856
+        }
+      ],
+      "demVotes": 5521,
+      "repVotes": 5549,
+      "totalVotes": 11070,
+      "demPct": 49.87,
+      "repPct": 50.13
+    },
+    {
+      "districtId": "nh-hd-hillsborough-36",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Peter A. Cook",
+          "party": "DEM",
+          "votes": 2409
+        },
+        {
+          "name": "Carol Schreck",
+          "party": "DEM",
+          "votes": 2257
+        },
+        {
+          "name": "Diane Pauer",
+          "party": "REP",
+          "votes": 2856
+        },
+        {
+          "name": "John W. Suiter",
+          "party": "REP",
+          "votes": 2690
+        }
+      ],
+      "winners": [
+        {
+          "name": "Diane Pauer",
+          "party": "REP",
+          "votes": 2856
+        },
+        {
+          "name": "John W. Suiter",
+          "party": "REP",
+          "votes": 2690
+        }
+      ],
+      "demVotes": 4666,
+      "repVotes": 5546,
+      "totalVotes": 10212,
+      "demPct": 45.69,
+      "repPct": 54.31
+    },
+    {
+      "districtId": "nh-hd-hillsborough-4",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Ray Newman",
+          "party": "DEM",
+          "votes": 2767
+        },
+        {
+          "name": "Sue Newman",
+          "party": "DEM",
+          "votes": 2857
+        },
+        {
+          "name": "Linda V. Ryan",
+          "party": "DEM",
+          "votes": 2853
+        },
+        {
+          "name": "Michael McCarthy",
+          "party": "REP",
+          "votes": 2690
+        }
+      ],
+      "winners": [
+        {
+          "name": "Sue Newman",
+          "party": "DEM",
+          "votes": 2857
+        },
+        {
+          "name": "Linda V. Ryan",
+          "party": "DEM",
+          "votes": 2853
+        },
+        {
+          "name": "Ray Newman",
+          "party": "DEM",
+          "votes": 2767
+        }
+      ],
+      "demVotes": 8477,
+      "repVotes": 2690,
+      "totalVotes": 11167,
+      "demPct": 75.91,
+      "repPct": 24.09
+    },
+    {
+      "districtId": "nh-hd-hillsborough-42",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Sarah E. Chadzynski",
+          "party": "DEM",
+          "votes": 3100
+        },
+        {
+          "name": "Brian Paquette",
+          "party": "DEM",
+          "votes": 3130
+        },
+        {
+          "name": "Andrew Stokinger",
+          "party": "DEM",
+          "votes": 2902
+        },
+        {
+          "name": "Keith Ammon",
+          "party": "REP",
+          "votes": 3376
+        },
+        {
+          "name": "Gerald Griffin",
+          "party": "REP",
+          "votes": 3349
+        },
+        {
+          "name": "Lisa C.M. Post",
+          "party": "REP",
+          "votes": 3376
+        }
+      ],
+      "winners": [
+        {
+          "name": "Keith Ammon",
+          "party": "REP",
+          "votes": 3376
+        },
+        {
+          "name": "Lisa C.M. Post",
+          "party": "REP",
+          "votes": 3376
+        },
+        {
+          "name": "Gerald Griffin",
+          "party": "REP",
+          "votes": 3349
+        }
+      ],
+      "demVotes": 9132,
+      "repVotes": 10101,
+      "totalVotes": 19233,
+      "demPct": 47.48,
+      "repPct": 52.52
+    },
+    {
+      "districtId": "nh-hd-hillsborough-43",
+      "seats": 4,
+      "candidates": [
+        {
+          "name": "Paul Dargie",
+          "party": "DEM",
+          "votes": 4236
+        },
+        {
+          "name": "Scott Lawrence",
+          "party": "DEM",
+          "votes": 3892
+        },
+        {
+          "name": "Peter Petrigno",
+          "party": "DEM",
+          "votes": 4480
+        },
+        {
+          "name": "Michael Varraso",
+          "party": "DEM",
+          "votes": 3821
+        },
+        {
+          "name": "Gary L. Daniels",
+          "party": "REP",
+          "votes": 4297
+        },
+        {
+          "name": "Michael Facques",
+          "party": "REP",
+          "votes": 4111
+        },
+        {
+          "name": "Elizabeth Keenan",
+          "party": "REP",
+          "votes": 4050
+        },
+        {
+          "name": "Vanessa L. Sheehan",
+          "party": "REP",
+          "votes": 4351
+        }
+      ],
+      "winners": [
+        {
+          "name": "Peter Petrigno",
+          "party": "DEM",
+          "votes": 4480
+        },
+        {
+          "name": "Vanessa L. Sheehan",
+          "party": "REP",
+          "votes": 4351
+        },
+        {
+          "name": "Gary L. Daniels",
+          "party": "REP",
+          "votes": 4297
+        },
+        {
+          "name": "Paul Dargie",
+          "party": "DEM",
+          "votes": 4236
+        }
+      ],
+      "demVotes": 16429,
+      "repVotes": 16809,
+      "totalVotes": 33238,
+      "demPct": 49.43,
+      "repPct": 50.57
+    },
+    {
+      "districtId": "nh-hd-hillsborough-44",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Eric Emmerling",
+          "party": "DEM",
+          "votes": 5899
+        },
+        {
+          "name": "Marie B. Morgan",
+          "party": "DEM",
+          "votes": 6329
+        },
+        {
+          "name": "Ross Berry",
+          "party": "REP",
+          "votes": 7871
+        },
+        {
+          "name": "Lisa Mazur",
+          "party": "REP",
+          "votes": 8269
+        }
+      ],
+      "winners": [
+        {
+          "name": "Lisa Mazur",
+          "party": "REP",
+          "votes": 8269
+        },
+        {
+          "name": "Ross Berry",
+          "party": "REP",
+          "votes": 7871
+        }
+      ],
+      "demVotes": 12228,
+      "repVotes": 16140,
+      "totalVotes": 28368,
+      "demPct": 43.1,
+      "repPct": 56.9
+    },
+    {
+      "districtId": "nh-hd-hillsborough-5",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Susan A. Elberger",
+          "party": "DEM",
+          "votes": 2929
+        },
+        {
+          "name": "Heather Raymond",
+          "party": "DEM",
+          "votes": 2964
+        },
+        {
+          "name": "Dale Swanson",
+          "party": "DEM",
+          "votes": 2795
+        },
+        {
+          "name": "Joseph Capriotti",
+          "party": "REP",
+          "votes": 2506
+        },
+        {
+          "name": "Allison Dyer",
+          "party": "REP",
+          "votes": 2510
+        },
+        {
+          "name": "Sean Rogers",
+          "party": "REP",
+          "votes": 2535
+        }
+      ],
+      "winners": [
+        {
+          "name": "Heather Raymond",
+          "party": "DEM",
+          "votes": 2964
+        },
+        {
+          "name": "Susan A. Elberger",
+          "party": "DEM",
+          "votes": 2929
+        },
+        {
+          "name": "Dale Swanson",
+          "party": "DEM",
+          "votes": 2795
+        }
+      ],
+      "demVotes": 8688,
+      "repVotes": 7551,
+      "totalVotes": 16239,
+      "demPct": 53.5,
+      "repPct": 46.5
+    },
+    {
+      "districtId": "nh-hd-hillsborough-6",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Lee Ann Kluger",
+          "party": "DEM",
+          "votes": 2322
+        },
+        {
+          "name": "Carry Spier",
+          "party": "DEM",
+          "votes": 2195
+        },
+        {
+          "name": "Suzanne Vail",
+          "party": "DEM",
+          "votes": 2251
+        },
+        {
+          "name": "Paul R. Berube",
+          "party": "REP",
+          "votes": 1923
+        },
+        {
+          "name": "Doris Hohensee",
+          "party": "REP",
+          "votes": 1634
+        },
+        {
+          "name": "Daniel Richardson",
+          "party": "REP",
+          "votes": 1687
+        }
+      ],
+      "winners": [
+        {
+          "name": "Lee Ann Kluger",
+          "party": "DEM",
+          "votes": 2322
+        },
+        {
+          "name": "Suzanne Vail",
+          "party": "DEM",
+          "votes": 2251
+        },
+        {
+          "name": "Carry Spier",
+          "party": "DEM",
+          "votes": 2195
+        }
+      ],
+      "demVotes": 6768,
+      "repVotes": 5244,
+      "totalVotes": 12012,
+      "demPct": 56.34,
+      "repPct": 43.66
+    },
+    {
+      "districtId": "nh-hd-hillsborough-7",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Alicia Gregg",
+          "party": "DEM",
+          "votes": 2123
+        },
+        {
+          "name": "Louis C. Juris",
+          "party": "DEM",
+          "votes": 1833
+        },
+        {
+          "name": "Catherine M. Sofikitis",
+          "party": "DEM",
+          "votes": 1814
+        },
+        {
+          "name": "Dee Hogan",
+          "party": "REP",
+          "votes": 1585
+        },
+        {
+          "name": "Avalon Lewis",
+          "party": "REP",
+          "votes": 1685
+        }
+      ],
+      "winners": [
+        {
+          "name": "Alicia Gregg",
+          "party": "DEM",
+          "votes": 2123
+        },
+        {
+          "name": "Louis C. Juris",
+          "party": "DEM",
+          "votes": 1833
+        },
+        {
+          "name": "Catherine M. Sofikitis",
+          "party": "DEM",
+          "votes": 1814
+        }
+      ],
+      "demVotes": 5770,
+      "repVotes": 3270,
+      "totalVotes": 9040,
+      "demPct": 63.83,
+      "repPct": 36.17
+    },
+    {
+      "districtId": "nh-hd-hillsborough-8",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Efstathia Booras",
+          "party": "DEM",
+          "votes": 1935
+        },
+        {
+          "name": "Christal Lloyd",
+          "party": "DEM",
+          "votes": 2047
+        },
+        {
+          "name": "Frances E. Nutter-Upham",
+          "party": "DEM",
+          "votes": 1798
+        },
+        {
+          "name": "Kevin Scully",
+          "party": "REP",
+          "votes": 2082
+        }
+      ],
+      "winners": [
+        {
+          "name": "Kevin Scully",
+          "party": "REP",
+          "votes": 2082
+        },
+        {
+          "name": "Christal Lloyd",
+          "party": "DEM",
+          "votes": 2047
+        },
+        {
+          "name": "Efstathia Booras",
+          "party": "DEM",
+          "votes": 1935
+        }
+      ],
+      "demVotes": 5780,
+      "repVotes": 2082,
+      "totalVotes": 7862,
+      "demPct": 73.52,
+      "repPct": 26.48
+    },
+    {
+      "districtId": "nh-hd-hillsborough-9",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "William Dolan",
+          "party": "DEM",
+          "votes": 3204
+        },
+        {
+          "name": "Sanjeev K. Manohar",
+          "party": "DEM",
+          "votes": 2940
+        },
+        {
+          "name": "Santosh Salvi",
+          "party": "DEM",
+          "votes": 3103
+        },
+        {
+          "name": "Paula Johnson",
+          "party": "REP",
+          "votes": 2868
+        },
+        {
+          "name": "Robert Dion",
+          "party": "REP",
+          "votes": 2711
+        }
+      ],
+      "winners": [
+        {
+          "name": "William Dolan",
+          "party": "DEM",
+          "votes": 3204
+        },
+        {
+          "name": "Santosh Salvi",
+          "party": "DEM",
+          "votes": 3103
+        },
+        {
+          "name": "Sanjeev K. Manohar",
+          "party": "DEM",
+          "votes": 2940
+        }
+      ],
+      "demVotes": 9247,
+      "repVotes": 5579,
+      "totalVotes": 14826,
+      "demPct": 62.37,
+      "repPct": 37.63
+    },
+    {
+      "districtId": "nh-hd-merrimack-1",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Lorrie J. Carey",
+          "party": "DEM",
+          "votes": 956
+        },
+        {
+          "name": "Rick Devoid",
+          "party": "REP",
+          "votes": 1095
+        }
+      ],
+      "winners": [
+        {
+          "name": "Rick Devoid",
+          "party": "REP",
+          "votes": 1095
+        }
+      ],
+      "demVotes": 956,
+      "repVotes": 1095,
+      "totalVotes": 2051,
+      "demPct": 46.61,
+      "repPct": 53.39
+    },
+    {
+      "districtId": "nh-hd-merrimack-10",
+      "seats": 4,
+      "candidates": [
+        {
+          "name": "Madalasa Gurung",
+          "party": "DEM",
+          "votes": 3943
+        },
+        {
+          "name": "William P. Lynch",
+          "party": "DEM",
+          "votes": 4254
+        },
+        {
+          "name": "Germano Martins",
+          "party": "DEM",
+          "votes": 3702
+        },
+        {
+          "name": "Robert A. Ray",
+          "party": "DEM",
+          "votes": 4081
+        },
+        {
+          "name": "Stephen E. Boyd",
+          "party": "REP",
+          "votes": 5235
+        },
+        {
+          "name": "John A Leavitt",
+          "party": "REP",
+          "votes": 5426
+        },
+        {
+          "name": "Yury Polozov",
+          "party": "REP",
+          "votes": 4894
+        },
+        {
+          "name": "Thomas C. Walsh",
+          "party": "REP",
+          "votes": 5723
+        }
+      ],
+      "winners": [
+        {
+          "name": "Thomas C. Walsh",
+          "party": "REP",
+          "votes": 5723
+        },
+        {
+          "name": "John A Leavitt",
+          "party": "REP",
+          "votes": 5426
+        },
+        {
+          "name": "Stephen E. Boyd",
+          "party": "REP",
+          "votes": 5235
+        },
+        {
+          "name": "Yury Polozov",
+          "party": "REP",
+          "votes": 4894
+        }
+      ],
+      "demVotes": 15980,
+      "repVotes": 21278,
+      "totalVotes": 37258,
+      "demPct": 42.89,
+      "repPct": 57.11
+    },
+    {
+      "districtId": "nh-hd-merrimack-11",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Al Turcotte",
+          "party": "DEM",
+          "votes": 1233
+        },
+        {
+          "name": "Matthew Pitaro",
+          "party": "REP",
+          "votes": 1287
+        }
+      ],
+      "winners": [
+        {
+          "name": "Matthew Pitaro",
+          "party": "REP",
+          "votes": 1287
+        }
+      ],
+      "demVotes": 1233,
+      "repVotes": 1287,
+      "totalVotes": 2520,
+      "demPct": 48.93,
+      "repPct": 51.07
+    },
+    {
+      "districtId": "nh-hd-merrimack-12",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Maurice Regan",
+          "party": "DEM",
+          "votes": 1864
+        },
+        {
+          "name": "Dianne E. Schuett",
+          "party": "DEM",
+          "votes": 2012
+        },
+        {
+          "name": "Peter L. Mehegan",
+          "party": "REP",
+          "votes": 2185
+        },
+        {
+          "name": "Brian Seaworth",
+          "party": "REP",
+          "votes": 2161
+        }
+      ],
+      "winners": [
+        {
+          "name": "Peter L. Mehegan",
+          "party": "REP",
+          "votes": 2185
+        },
+        {
+          "name": "Brian Seaworth",
+          "party": "REP",
+          "votes": 2161
+        }
+      ],
+      "demVotes": 3876,
+      "repVotes": 4346,
+      "totalVotes": 8222,
+      "demPct": 47.14,
+      "repPct": 52.86
+    },
+    {
+      "districtId": "nh-hd-merrimack-13",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Sally Kelly",
+          "party": "DEM",
+          "votes": 1509
+        },
+        {
+          "name": "Dan Schroth",
+          "party": "DEM",
+          "votes": 915
+        },
+        {
+          "name": "Cyril Aures",
+          "party": "REP",
+          "votes": 1901
+        },
+        {
+          "name": "Clayton Wood",
+          "party": "REP",
+          "votes": 2145
+        },
+        {
+          "name": "James C. Allard",
+          "party": "IND",
+          "votes": 803
+        }
+      ],
+      "winners": [
+        {
+          "name": "Clayton Wood",
+          "party": "REP",
+          "votes": 2145
+        },
+        {
+          "name": "Cyril Aures",
+          "party": "REP",
+          "votes": 1901
+        }
+      ],
+      "demVotes": 2424,
+      "repVotes": 4046,
+      "totalVotes": 6470,
+      "demPct": 37.47,
+      "repPct": 62.53
+    },
+    {
+      "districtId": "nh-hd-merrimack-14",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Dan McGuire",
+          "party": "REP",
+          "votes": 2168
+        }
+      ],
+      "winners": [
+        {
+          "name": "Dan McGuire",
+          "party": "REP",
+          "votes": 2168
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 2168,
+      "totalVotes": 2168,
+      "demPct": 0,
+      "repPct": 100
+    },
+    {
+      "districtId": "nh-hd-merrimack-15",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Tracy Anne Bricchi",
+          "party": "DEM",
+          "votes": 1750
+        }
+      ],
+      "winners": [
+        {
+          "name": "Tracy Anne Bricchi",
+          "party": "DEM",
+          "votes": 1750
+        }
+      ],
+      "demVotes": 1750,
+      "repVotes": 0,
+      "totalVotes": 1750,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "nh-hd-merrimack-16",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Connie Lane",
+          "party": "DEM",
+          "votes": 1285
+        },
+        {
+          "name": "Laurence R. Weissbrot",
+          "party": "REP",
+          "votes": 892
+        }
+      ],
+      "winners": [
+        {
+          "name": "Connie Lane",
+          "party": "DEM",
+          "votes": 1285
+        }
+      ],
+      "demVotes": 1285,
+      "repVotes": 892,
+      "totalVotes": 2177,
+      "demPct": 59.03,
+      "repPct": 40.97
+    },
+    {
+      "districtId": "nh-hd-merrimack-17",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Beth Richards",
+          "party": "DEM",
+          "votes": 787
+        },
+        {
+          "name": "Diana Freeman",
+          "party": "REP",
+          "votes": 504
+        }
+      ],
+      "winners": [
+        {
+          "name": "Beth Richards",
+          "party": "DEM",
+          "votes": 787
+        }
+      ],
+      "demVotes": 787,
+      "repVotes": 504,
+      "totalVotes": 1291,
+      "demPct": 60.96,
+      "repPct": 39.04
+    },
+    {
+      "districtId": "nh-hd-merrimack-18",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jim MacKay",
+          "party": "DEM",
+          "votes": 1526
+        },
+        {
+          "name": "Kristen Jackson",
+          "party": "REP",
+          "votes": 752
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jim MacKay",
+          "party": "DEM",
+          "votes": 1526
+        }
+      ],
+      "demVotes": 1526,
+      "repVotes": 752,
+      "totalVotes": 2278,
+      "demPct": 66.99,
+      "repPct": 33.01
+    },
+    {
+      "districtId": "nh-hd-merrimack-19",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Mary Jane Wallner",
+          "party": "DEM",
+          "votes": 2160
+        }
+      ],
+      "winners": [
+        {
+          "name": "Mary Jane Wallner",
+          "party": "DEM",
+          "votes": 2160
+        }
+      ],
+      "demVotes": 2160,
+      "repVotes": 0,
+      "totalVotes": 2160,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "nh-hd-merrimack-2",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Greg Hill",
+          "party": "REP",
+          "votes": 1901
+        }
+      ],
+      "winners": [
+        {
+          "name": "Greg Hill",
+          "party": "REP",
+          "votes": 1901
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 1901,
+      "totalVotes": 1901,
+      "demPct": 0,
+      "repPct": 100
+    },
+    {
+      "districtId": "nh-hd-merrimack-20",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Eric Gallager",
+          "party": "DEM",
+          "votes": 1437
+        }
+      ],
+      "winners": [
+        {
+          "name": "Eric Gallager",
+          "party": "DEM",
+          "votes": 1437
+        }
+      ],
+      "demVotes": 1437,
+      "repVotes": 0,
+      "totalVotes": 1437,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "nh-hd-merrimack-21",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Timothy Soucy",
+          "party": "DEM",
+          "votes": 1849
+        },
+        {
+          "name": "Robert G. Bertrand",
+          "party": "REP",
+          "votes": 907
+        }
+      ],
+      "winners": [
+        {
+          "name": "Timothy Soucy",
+          "party": "DEM",
+          "votes": 1849
+        }
+      ],
+      "demVotes": 1849,
+      "repVotes": 907,
+      "totalVotes": 2756,
+      "demPct": 67.09,
+      "repPct": 32.91
+    },
+    {
+      "districtId": "nh-hd-merrimack-22",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "James Leon Roesener",
+          "party": "DEM",
+          "votes": 1244
+        },
+        {
+          "name": "Dennis Blankenbeker",
+          "party": "REP",
+          "votes": 986
+        }
+      ],
+      "winners": [
+        {
+          "name": "James Leon Roesener",
+          "party": "DEM",
+          "votes": 1244
+        }
+      ],
+      "demVotes": 1244,
+      "repVotes": 986,
+      "totalVotes": 2230,
+      "demPct": 55.78,
+      "repPct": 44.22
+    },
+    {
+      "districtId": "nh-hd-merrimack-23",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Merryl Gibbs",
+          "party": "DEM",
+          "votes": 1099
+        },
+        {
+          "name": "Andrew Georgevits",
+          "party": "REP",
+          "votes": 974
+        }
+      ],
+      "winners": [
+        {
+          "name": "Merryl Gibbs",
+          "party": "DEM",
+          "votes": 1099
+        }
+      ],
+      "demVotes": 1099,
+      "repVotes": 974,
+      "totalVotes": 2073,
+      "demPct": 53.01,
+      "repPct": 46.99
+    },
+    {
+      "districtId": "nh-hd-merrimack-24",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Matthew S. Hicks",
+          "party": "DEM",
+          "votes": 1786
+        },
+        {
+          "name": "Thom Bloomquist",
+          "party": "REP",
+          "votes": 1166
+        }
+      ],
+      "winners": [
+        {
+          "name": "Matthew S. Hicks",
+          "party": "DEM",
+          "votes": 1786
+        }
+      ],
+      "demVotes": 1786,
+      "repVotes": 1166,
+      "totalVotes": 2952,
+      "demPct": 60.5,
+      "repPct": 39.5
+    },
+    {
+      "districtId": "nh-hd-merrimack-3",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Scott A. Burns",
+          "party": "DEM",
+          "votes": 1811
+        },
+        {
+          "name": "Justine Hoppe",
+          "party": "DEM",
+          "votes": 1531
+        },
+        {
+          "name": "Ernesto L. Gonzalez",
+          "party": "REP",
+          "votes": 2009
+        },
+        {
+          "name": "Bryan Morse",
+          "party": "REP",
+          "votes": 2178
+        }
+      ],
+      "winners": [
+        {
+          "name": "Bryan Morse",
+          "party": "REP",
+          "votes": 2178
+        },
+        {
+          "name": "Ernesto L. Gonzalez",
+          "party": "REP",
+          "votes": 2009
+        }
+      ],
+      "demVotes": 3342,
+      "repVotes": 4187,
+      "totalVotes": 7529,
+      "demPct": 44.39,
+      "repPct": 55.61
+    },
+    {
+      "districtId": "nh-hd-merrimack-4",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Edward R. Friedrich",
+          "party": "DEM",
+          "votes": 2086
+        },
+        {
+          "name": "Ruth Heath",
+          "party": "DEM",
+          "votes": 2311
+        },
+        {
+          "name": "Jose E. Cambrils",
+          "party": "REP",
+          "votes": 2523
+        },
+        {
+          "name": "Michael Moffett",
+          "party": "REP",
+          "votes": 2798
+        }
+      ],
+      "winners": [
+        {
+          "name": "Michael Moffett",
+          "party": "REP",
+          "votes": 2798
+        },
+        {
+          "name": "Jose E. Cambrils",
+          "party": "REP",
+          "votes": 2523
+        }
+      ],
+      "demVotes": 4397,
+      "repVotes": 5321,
+      "totalVotes": 9718,
+      "demPct": 45.25,
+      "repPct": 54.75
+    },
+    {
+      "districtId": "nh-hd-merrimack-5",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Lorna Carlisle",
+          "party": "DEM",
+          "votes": 2082
+        },
+        {
+          "name": "David A. Nesbitt",
+          "party": "DEM",
+          "votes": 2006
+        },
+        {
+          "name": "Louise Andrus",
+          "party": "REP",
+          "votes": 2878
+        },
+        {
+          "name": "Deborah Aylward",
+          "party": "REP",
+          "votes": 2471
+        }
+      ],
+      "winners": [
+        {
+          "name": "Louise Andrus",
+          "party": "REP",
+          "votes": 2878
+        },
+        {
+          "name": "Deborah Aylward",
+          "party": "REP",
+          "votes": 2471
+        }
+      ],
+      "demVotes": 4088,
+      "repVotes": 5349,
+      "totalVotes": 9437,
+      "demPct": 43.32,
+      "repPct": 56.68
+    },
+    {
+      "districtId": "nh-hd-merrimack-6",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Tom Schamberg",
+          "party": "DEM",
+          "votes": 1366
+        },
+        {
+          "name": "Victor Prieto",
+          "party": "REP",
+          "votes": 973
+        }
+      ],
+      "winners": [
+        {
+          "name": "Tom Schamberg",
+          "party": "DEM",
+          "votes": 1366
+        }
+      ],
+      "demVotes": 1366,
+      "repVotes": 973,
+      "totalVotes": 2339,
+      "demPct": 58.4,
+      "repPct": 41.6
+    },
+    {
+      "districtId": "nh-hd-merrimack-7",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Karen E. Ebel",
+          "party": "DEM",
+          "votes": 2721
+        },
+        {
+          "name": "Gregory M. Sargent",
+          "party": "DEM",
+          "votes": 2614
+        },
+        {
+          "name": "Dorothy L. Hitchmoth",
+          "party": "REP",
+          "votes": 1966
+        },
+        {
+          "name": "Claire A. Ketteler",
+          "party": "REP",
+          "votes": 1603
+        }
+      ],
+      "winners": [
+        {
+          "name": "Karen E. Ebel",
+          "party": "DEM",
+          "votes": 2721
+        },
+        {
+          "name": "Gregory M. Sargent",
+          "party": "DEM",
+          "votes": 2614
+        }
+      ],
+      "demVotes": 5335,
+      "repVotes": 3569,
+      "totalVotes": 8904,
+      "demPct": 59.92,
+      "repPct": 40.08
+    },
+    {
+      "districtId": "nh-hd-merrimack-8",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Tony Caplan",
+          "party": "DEM",
+          "votes": 2700
+        },
+        {
+          "name": "Eileen Kelly",
+          "party": "DEM",
+          "votes": 2765
+        },
+        {
+          "name": "Stephanie Payeur",
+          "party": "DEM",
+          "votes": 2694
+        },
+        {
+          "name": "Sherry L. Gould",
+          "party": "REP",
+          "votes": 2572
+        },
+        {
+          "name": "James Bass Parker",
+          "party": "REP",
+          "votes": 2390
+        },
+        {
+          "name": "Natalie Wells",
+          "party": "REP",
+          "votes": 2637
+        }
+      ],
+      "winners": [
+        {
+          "name": "Eileen Kelly",
+          "party": "DEM",
+          "votes": 2765
+        },
+        {
+          "name": "Tony Caplan",
+          "party": "DEM",
+          "votes": 2700
+        },
+        {
+          "name": "Stephanie Payeur",
+          "party": "DEM",
+          "votes": 2694
+        }
+      ],
+      "demVotes": 8159,
+      "repVotes": 7599,
+      "totalVotes": 15758,
+      "demPct": 51.78,
+      "repPct": 48.22
+    },
+    {
+      "districtId": "nh-hd-merrimack-9",
+      "seats": 4,
+      "candidates": [
+        {
+          "name": "Eleana Marie Colby",
+          "party": "DEM",
+          "votes": 5022
+        },
+        {
+          "name": "Muriel Hall",
+          "party": "DEM",
+          "votes": 5261
+        },
+        {
+          "name": "David Luneau",
+          "party": "DEM",
+          "votes": 4944
+        },
+        {
+          "name": "James Newsom",
+          "party": "DEM",
+          "votes": 4884
+        },
+        {
+          "name": "David Germain",
+          "party": "REP",
+          "votes": 3667
+        },
+        {
+          "name": "Darlene Gildersleeve",
+          "party": "REP",
+          "votes": 3363
+        },
+        {
+          "name": "John F. Martin",
+          "party": "REP",
+          "votes": 3515
+        },
+        {
+          "name": "Matthew Poulin",
+          "party": "REP",
+          "votes": 3979
+        }
+      ],
+      "winners": [
+        {
+          "name": "Muriel Hall",
+          "party": "DEM",
+          "votes": 5261
+        },
+        {
+          "name": "Eleana Marie Colby",
+          "party": "DEM",
+          "votes": 5022
+        },
+        {
+          "name": "David Luneau",
+          "party": "DEM",
+          "votes": 4944
+        },
+        {
+          "name": "James Newsom",
+          "party": "DEM",
+          "votes": 4884
+        }
+      ],
+      "demVotes": 20111,
+      "repVotes": 14524,
+      "totalVotes": 34635,
+      "demPct": 58.07,
+      "repPct": 41.93
+    },
+    {
+      "districtId": "nh-hd-rockingham-1",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Charlotte Fyfe",
+          "party": "DEM",
+          "votes": 2822
+        },
+        {
+          "name": "Hal Rafter",
+          "party": "DEM",
+          "votes": 2956
+        },
+        {
+          "name": "Pamela Sanderson",
+          "party": "DEM",
+          "votes": 2801
+        },
+        {
+          "name": "Scott R. Bryer",
+          "party": "REP",
+          "votes": 3336
+        },
+        {
+          "name": "James Guzofski",
+          "party": "REP",
+          "votes": 3192
+        },
+        {
+          "name": "Paul D. Tudor",
+          "party": "REP",
+          "votes": 3085
+        }
+      ],
+      "winners": [
+        {
+          "name": "Scott R. Bryer",
+          "party": "REP",
+          "votes": 3336
+        },
+        {
+          "name": "James Guzofski",
+          "party": "REP",
+          "votes": 3192
+        },
+        {
+          "name": "Paul D. Tudor",
+          "party": "REP",
+          "votes": 3085
+        }
+      ],
+      "demVotes": 8579,
+      "repVotes": 9613,
+      "totalVotes": 18192,
+      "demPct": 47.16,
+      "repPct": 52.84
+    },
+    {
+      "districtId": "nh-hd-rockingham-10",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Michael Cahill",
+          "party": "DEM",
+          "votes": 4074
+        },
+        {
+          "name": "Ellen Read",
+          "party": "DEM",
+          "votes": 3922
+        },
+        {
+          "name": "Toni Weinstein",
+          "party": "DEM",
+          "votes": 3795
+        },
+        {
+          "name": "Jeanene Cooper",
+          "party": "REP",
+          "votes": 2833
+        }
+      ],
+      "winners": [
+        {
+          "name": "Michael Cahill",
+          "party": "DEM",
+          "votes": 4074
+        },
+        {
+          "name": "Ellen Read",
+          "party": "DEM",
+          "votes": 3922
+        },
+        {
+          "name": "Toni Weinstein",
+          "party": "DEM",
+          "votes": 3795
+        }
+      ],
+      "demVotes": 11791,
+      "repVotes": 2833,
+      "totalVotes": 14624,
+      "demPct": 80.63,
+      "repPct": 19.37
+    },
+    {
+      "districtId": "nh-hd-rockingham-11",
+      "seats": 4,
+      "candidates": [
+        {
+          "name": "Julie D. Gilman",
+          "party": "DEM",
+          "votes": 6126
+        },
+        {
+          "name": "Gaby Grossman",
+          "party": "DEM",
+          "votes": 6026
+        },
+        {
+          "name": "Linda J. Haskins",
+          "party": "DEM",
+          "votes": 5840
+        },
+        {
+          "name": "Mark Paige",
+          "party": "DEM",
+          "votes": 6111
+        },
+        {
+          "name": "Robert Goeman",
+          "party": "REP",
+          "votes": 3216
+        },
+        {
+          "name": "Brian Griset",
+          "party": "REP",
+          "votes": 3233
+        },
+        {
+          "name": "William A. Smith",
+          "party": "REP",
+          "votes": 3161
+        }
+      ],
+      "winners": [
+        {
+          "name": "Julie D. Gilman",
+          "party": "DEM",
+          "votes": 6126
+        },
+        {
+          "name": "Mark Paige",
+          "party": "DEM",
+          "votes": 6111
+        },
+        {
+          "name": "Gaby Grossman",
+          "party": "DEM",
+          "votes": 6026
+        },
+        {
+          "name": "Linda J. Haskins",
+          "party": "DEM",
+          "votes": 5840
+        }
+      ],
+      "demVotes": 24103,
+      "repVotes": 9610,
+      "totalVotes": 33713,
+      "demPct": 71.49,
+      "repPct": 28.51
+    },
+    {
+      "districtId": "nh-hd-rockingham-12",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Allison Knab",
+          "party": "DEM",
+          "votes": 3046
+        },
+        {
+          "name": "Zoe R. Manos",
+          "party": "DEM",
+          "votes": 2906
+        },
+        {
+          "name": "Jessica Kliskey",
+          "party": "REP",
+          "votes": 2053
+        },
+        {
+          "name": "James Scamman",
+          "party": "REP",
+          "votes": 2326
+        }
+      ],
+      "winners": [
+        {
+          "name": "Allison Knab",
+          "party": "DEM",
+          "votes": 3046
+        },
+        {
+          "name": "Zoe R. Manos",
+          "party": "DEM",
+          "votes": 2906
+        }
+      ],
+      "demVotes": 5952,
+      "repVotes": 4379,
+      "totalVotes": 10331,
+      "demPct": 57.61,
+      "repPct": 42.39
+    },
+    {
+      "districtId": "nh-hd-rockingham-13",
+      "seats": 10,
+      "candidates": [
+        {
+          "name": "Jamie Carreau",
+          "party": "DEM",
+          "votes": 6677
+        },
+        {
+          "name": "Frances Keenan",
+          "party": "DEM",
+          "votes": 6402
+        },
+        {
+          "name": "Sanjeev Lath",
+          "party": "DEM",
+          "votes": 6174
+        },
+        {
+          "name": "Johnathan West",
+          "party": "DEM",
+          "votes": 6780
+        },
+        {
+          "name": "Elle Gallo",
+          "party": "DEM",
+          "votes": 6925
+        },
+        {
+          "name": "Richard Tripp",
+          "party": "REP",
+          "votes": 7831
+        },
+        {
+          "name": "Charles Foote",
+          "party": "REP",
+          "votes": 7983
+        },
+        {
+          "name": "Phyllis Katsakiores",
+          "party": "REP",
+          "votes": 8123
+        },
+        {
+          "name": "Erica Layon",
+          "party": "REP",
+          "votes": 8283
+        },
+        {
+          "name": "David Love",
+          "party": "REP",
+          "votes": 8646
+        },
+        {
+          "name": "David E. Milz",
+          "party": "REP",
+          "votes": 7844
+        },
+        {
+          "name": "Jodi Nelson",
+          "party": "REP",
+          "votes": 8555
+        },
+        {
+          "name": "Stephen Pearson",
+          "party": "REP",
+          "votes": 7889
+        },
+        {
+          "name": "John Potucek",
+          "party": "REP",
+          "votes": 7942
+        },
+        {
+          "name": "Katherine Prudhomme-O'Brien",
+          "party": "REP",
+          "votes": 7905
+        }
+      ],
+      "winners": [
+        {
+          "name": "David Love",
+          "party": "REP",
+          "votes": 8646
+        },
+        {
+          "name": "Jodi Nelson",
+          "party": "REP",
+          "votes": 8555
+        },
+        {
+          "name": "Erica Layon",
+          "party": "REP",
+          "votes": 8283
+        },
+        {
+          "name": "Phyllis Katsakiores",
+          "party": "REP",
+          "votes": 8123
+        },
+        {
+          "name": "Charles Foote",
+          "party": "REP",
+          "votes": 7983
+        },
+        {
+          "name": "John Potucek",
+          "party": "REP",
+          "votes": 7942
+        },
+        {
+          "name": "Katherine Prudhomme-O'Brien",
+          "party": "REP",
+          "votes": 7905
+        },
+        {
+          "name": "Stephen Pearson",
+          "party": "REP",
+          "votes": 7889
+        },
+        {
+          "name": "David E. Milz",
+          "party": "REP",
+          "votes": 7844
+        },
+        {
+          "name": "Richard Tripp",
+          "party": "REP",
+          "votes": 7831
+        }
+      ],
+      "demVotes": 32958,
+      "repVotes": 81001,
+      "totalVotes": 113959,
+      "demPct": 28.92,
+      "repPct": 71.08
+    },
+    {
+      "districtId": "nh-hd-rockingham-14",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Shaw Tilton",
+          "party": "DEM",
+          "votes": 2367
+        },
+        {
+          "name": "Pam Brown",
+          "party": "REP",
+          "votes": 2791
+        },
+        {
+          "name": "Kenneth L. Weyler",
+          "party": "REP",
+          "votes": 2797
+        }
+      ],
+      "winners": [
+        {
+          "name": "Kenneth L. Weyler",
+          "party": "REP",
+          "votes": 2797
+        },
+        {
+          "name": "Pam Brown",
+          "party": "REP",
+          "votes": 2791
+        }
+      ],
+      "demVotes": 2367,
+      "repVotes": 5588,
+      "totalVotes": 7955,
+      "demPct": 29.75,
+      "repPct": 70.25
+    },
+    {
+      "districtId": "nh-hd-rockingham-15",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Lisa DeMio",
+          "party": "DEM",
+          "votes": 1927
+        },
+        {
+          "name": "Laurie A. Warnock",
+          "party": "DEM",
+          "votes": 2234
+        },
+        {
+          "name": "Joe Guthrie",
+          "party": "REP",
+          "votes": 3292
+        },
+        {
+          "name": "Lilli Walsh",
+          "party": "REP",
+          "votes": 3101
+        }
+      ],
+      "winners": [
+        {
+          "name": "Joe Guthrie",
+          "party": "REP",
+          "votes": 3292
+        },
+        {
+          "name": "Lilli Walsh",
+          "party": "REP",
+          "votes": 3101
+        }
+      ],
+      "demVotes": 4161,
+      "repVotes": 6393,
+      "totalVotes": 10554,
+      "demPct": 39.43,
+      "repPct": 60.57
+    },
+    {
+      "districtId": "nh-hd-rockingham-16",
+      "seats": 7,
+      "candidates": [
+        {
+          "name": "William Adams",
+          "party": "DEM",
+          "votes": 5816
+        },
+        {
+          "name": "Bill Fanning",
+          "party": "DEM",
+          "votes": 5945
+        },
+        {
+          "name": "Anne H. Fenn",
+          "party": "DEM",
+          "votes": 6532
+        },
+        {
+          "name": "Jim Green",
+          "party": "DEM",
+          "votes": 6170
+        },
+        {
+          "name": "Michela Hites",
+          "party": "DEM",
+          "votes": 6082
+        },
+        {
+          "name": "Paul Skudlarek",
+          "party": "DEM",
+          "votes": 5958
+        },
+        {
+          "name": "Doug Thomas",
+          "party": "REP",
+          "votes": 7302
+        },
+        {
+          "name": "Tom Dolan",
+          "party": "REP",
+          "votes": 7895
+        },
+        {
+          "name": "Ron Dunn",
+          "party": "REP",
+          "votes": 7393
+        },
+        {
+          "name": "Wayne D. MacDonald",
+          "party": "REP",
+          "votes": 6898
+        },
+        {
+          "name": "David Lundgren",
+          "party": "REP",
+          "votes": 7917
+        },
+        {
+          "name": "Sherman Packard",
+          "party": "REP",
+          "votes": 7260
+        },
+        {
+          "name": "Kristine Perez",
+          "party": "REP",
+          "votes": 7962
+        }
+      ],
+      "winners": [
+        {
+          "name": "Kristine Perez",
+          "party": "REP",
+          "votes": 7962
+        },
+        {
+          "name": "David Lundgren",
+          "party": "REP",
+          "votes": 7917
+        },
+        {
+          "name": "Tom Dolan",
+          "party": "REP",
+          "votes": 7895
+        },
+        {
+          "name": "Ron Dunn",
+          "party": "REP",
+          "votes": 7393
+        },
+        {
+          "name": "Doug Thomas",
+          "party": "REP",
+          "votes": 7302
+        },
+        {
+          "name": "Sherman Packard",
+          "party": "REP",
+          "votes": 7260
+        },
+        {
+          "name": "Wayne D. MacDonald",
+          "party": "REP",
+          "votes": 6898
+        }
+      ],
+      "demVotes": 36503,
+      "repVotes": 52627,
+      "totalVotes": 89130,
+      "demPct": 40.95,
+      "repPct": 59.05
+    },
+    {
+      "districtId": "nh-hd-rockingham-17",
+      "seats": 4,
+      "candidates": [
+        {
+          "name": "Michael Caruso",
+          "party": "DEM",
+          "votes": 3306
+        },
+        {
+          "name": "David Martsolf",
+          "party": "DEM",
+          "votes": 3501
+        },
+        {
+          "name": "Edward Schoen",
+          "party": "DEM",
+          "votes": 2924
+        },
+        {
+          "name": "Marie Yanish",
+          "party": "DEM",
+          "votes": 3373
+        },
+        {
+          "name": "Katelyn Kuttab",
+          "party": "REP",
+          "votes": 5370
+        },
+        {
+          "name": "Bob Lynn",
+          "party": "REP",
+          "votes": 5225
+        },
+        {
+          "name": "Charles E. McMahon",
+          "party": "REP",
+          "votes": 5445
+        },
+        {
+          "name": "Daniel Popovici-Muller",
+          "party": "REP",
+          "votes": 5236
+        }
+      ],
+      "winners": [
+        {
+          "name": "Charles E. McMahon",
+          "party": "REP",
+          "votes": 5445
+        },
+        {
+          "name": "Katelyn Kuttab",
+          "party": "REP",
+          "votes": 5370
+        },
+        {
+          "name": "Daniel Popovici-Muller",
+          "party": "REP",
+          "votes": 5236
+        },
+        {
+          "name": "Bob Lynn",
+          "party": "REP",
+          "votes": 5225
+        }
+      ],
+      "demVotes": 13104,
+      "repVotes": 21276,
+      "totalVotes": 34380,
+      "demPct": 38.12,
+      "repPct": 61.88
+    },
+    {
+      "districtId": "nh-hd-rockingham-18",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Michael Boucher",
+          "party": "DEM",
+          "votes": 2064
+        },
+        {
+          "name": "Debra L. DeSimone",
+          "party": "REP",
+          "votes": 2905
+        },
+        {
+          "name": "Jay Markell",
+          "party": "REP",
+          "votes": 2540
+        }
+      ],
+      "winners": [
+        {
+          "name": "Debra L. DeSimone",
+          "party": "REP",
+          "votes": 2905
+        },
+        {
+          "name": "Jay Markell",
+          "party": "REP",
+          "votes": 2540
+        }
+      ],
+      "demVotes": 2064,
+      "repVotes": 5445,
+      "totalVotes": 7509,
+      "demPct": 27.49,
+      "repPct": 72.51
+    },
+    {
+      "districtId": "nh-hd-rockingham-19",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Wendy Larson",
+          "party": "DEM",
+          "votes": 1379
+        },
+        {
+          "name": "Susan M. Porcelli",
+          "party": "REP",
+          "votes": 1846
+        }
+      ],
+      "winners": [
+        {
+          "name": "Susan M. Porcelli",
+          "party": "REP",
+          "votes": 1846
+        }
+      ],
+      "demVotes": 1379,
+      "repVotes": 1846,
+      "totalVotes": 3225,
+      "demPct": 42.76,
+      "repPct": 57.24
+    },
+    {
+      "districtId": "nh-hd-rockingham-2",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Kendra Cohen",
+          "party": "DEM",
+          "votes": 3594
+        },
+        {
+          "name": "Nick Karakoudas",
+          "party": "DEM",
+          "votes": 3326
+        },
+        {
+          "name": "Judith Lindsey",
+          "party": "DEM",
+          "votes": 3569
+        },
+        {
+          "name": "Jason Osborne",
+          "party": "REP",
+          "votes": 5792
+        },
+        {
+          "name": "James Spillane",
+          "party": "REP",
+          "votes": 5435
+        },
+        {
+          "name": "Kevin Verville",
+          "party": "REP",
+          "votes": 5399
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jason Osborne",
+          "party": "REP",
+          "votes": 5792
+        },
+        {
+          "name": "James Spillane",
+          "party": "REP",
+          "votes": 5435
+        },
+        {
+          "name": "Kevin Verville",
+          "party": "REP",
+          "votes": 5399
+        }
+      ],
+      "demVotes": 10489,
+      "repVotes": 16626,
+      "totalVotes": 27115,
+      "demPct": 38.68,
+      "repPct": 61.32
+    },
+    {
+      "districtId": "nh-hd-rockingham-20",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Nancy Bishop",
+          "party": "DEM",
+          "votes": 2932
+        },
+        {
+          "name": "Stan G. Duncan",
+          "party": "DEM",
+          "votes": 2585
+        },
+        {
+          "name": "Elizabeth Kosta",
+          "party": "DEM",
+          "votes": 3050
+        },
+        {
+          "name": "Robert Harb",
+          "party": "REP",
+          "votes": 4297
+        },
+        {
+          "name": "Charles R. Melvin Sr.",
+          "party": "REP",
+          "votes": 4132
+        },
+        {
+          "name": "James Summers",
+          "party": "REP",
+          "votes": 3749
+        }
+      ],
+      "winners": [
+        {
+          "name": "Robert Harb",
+          "party": "REP",
+          "votes": 4297
+        },
+        {
+          "name": "Charles R. Melvin Sr.",
+          "party": "REP",
+          "votes": 4132
+        },
+        {
+          "name": "James Summers",
+          "party": "REP",
+          "votes": 3749
+        }
+      ],
+      "demVotes": 8567,
+      "repVotes": 12178,
+      "totalVotes": 20745,
+      "demPct": 41.3,
+      "repPct": 58.7
+    },
+    {
+      "districtId": "nh-hd-rockingham-21",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jennifer Mandelbaum",
+          "party": "DEM",
+          "votes": 2576
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jennifer Mandelbaum",
+          "party": "DEM",
+          "votes": 2576
+        }
+      ],
+      "demVotes": 2576,
+      "repVotes": 0,
+      "totalVotes": 2576,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "nh-hd-rockingham-22",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Kate Murray",
+          "party": "DEM",
+          "votes": 2462
+        },
+        {
+          "name": "Thom Rossi",
+          "party": "REP",
+          "votes": 1064
+        }
+      ],
+      "winners": [
+        {
+          "name": "Kate Murray",
+          "party": "DEM",
+          "votes": 2462
+        }
+      ],
+      "demVotes": 2462,
+      "repVotes": 1064,
+      "totalVotes": 3526,
+      "demPct": 69.82,
+      "repPct": 30.18
+    },
+    {
+      "districtId": "nh-hd-rockingham-23",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jim Maggiore",
+          "party": "DEM",
+          "votes": 1913
+        },
+        {
+          "name": "Jennifer L. Smith",
+          "party": "REP",
+          "votes": 1414
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jim Maggiore",
+          "party": "DEM",
+          "votes": 1913
+        }
+      ],
+      "demVotes": 1913,
+      "repVotes": 1414,
+      "totalVotes": 3327,
+      "demPct": 57.5,
+      "repPct": 42.5
+    },
+    {
+      "districtId": "nh-hd-rockingham-24",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Jaci Grote",
+          "party": "DEM",
+          "votes": 3479
+        },
+        {
+          "name": "Dennis Malloy",
+          "party": "DEM",
+          "votes": 3361
+        },
+        {
+          "name": "Marilyn Page",
+          "party": "REP",
+          "votes": 2934
+        },
+        {
+          "name": "Kevin Szmyd",
+          "party": "REP",
+          "votes": 2603
+        },
+        {
+          "name": "Lyn Leddy",
+          "party": "IND",
+          "votes": 889
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jaci Grote",
+          "party": "DEM",
+          "votes": 3479
+        },
+        {
+          "name": "Dennis Malloy",
+          "party": "DEM",
+          "votes": 3361
+        }
+      ],
+      "demVotes": 6840,
+      "repVotes": 5537,
+      "totalVotes": 12377,
+      "demPct": 55.26,
+      "repPct": 44.74
+    },
+    {
+      "districtId": "nh-hd-rockingham-25",
+      "seats": 9,
+      "candidates": [
+        {
+          "name": "Jack Connell",
+          "party": "DEM",
+          "votes": 5832
+        },
+        {
+          "name": "Greg F. Davis",
+          "party": "DEM",
+          "votes": 5663
+        },
+        {
+          "name": "Dionne Garon",
+          "party": "DEM",
+          "votes": 5596
+        },
+        {
+          "name": "Daniel Guild",
+          "party": "DEM",
+          "votes": 5486
+        },
+        {
+          "name": "Ernest M. Hicks",
+          "party": "DEM",
+          "votes": 5414
+        },
+        {
+          "name": "Claire Karibian",
+          "party": "DEM",
+          "votes": 6217
+        },
+        {
+          "name": "Donna Loranger",
+          "party": "DEM",
+          "votes": 6068
+        },
+        {
+          "name": "Lorie Ball",
+          "party": "REP",
+          "votes": 9583
+        },
+        {
+          "name": "Tanya Donnelly",
+          "party": "REP",
+          "votes": 9399
+        },
+        {
+          "name": "Fred Doucette",
+          "party": "REP",
+          "votes": 9685
+        },
+        {
+          "name": "John Janigian",
+          "party": "REP",
+          "votes": 9221
+        },
+        {
+          "name": "Dennis Mannion",
+          "party": "REP",
+          "votes": 8470
+        },
+        {
+          "name": "Valerie McDonnell",
+          "party": "REP",
+          "votes": 9084
+        },
+        {
+          "name": "Joe Sweeney",
+          "party": "REP",
+          "votes": 9723
+        },
+        {
+          "name": "John Sytek",
+          "party": "REP",
+          "votes": 9120
+        },
+        {
+          "name": "Susan J. Vandecasteele",
+          "party": "REP",
+          "votes": 8991
+        }
+      ],
+      "winners": [
+        {
+          "name": "Joe Sweeney",
+          "party": "REP",
+          "votes": 9723
+        },
+        {
+          "name": "Fred Doucette",
+          "party": "REP",
+          "votes": 9685
+        },
+        {
+          "name": "Lorie Ball",
+          "party": "REP",
+          "votes": 9583
+        },
+        {
+          "name": "Tanya Donnelly",
+          "party": "REP",
+          "votes": 9399
+        },
+        {
+          "name": "John Janigian",
+          "party": "REP",
+          "votes": 9221
+        },
+        {
+          "name": "John Sytek",
+          "party": "REP",
+          "votes": 9120
+        },
+        {
+          "name": "Valerie McDonnell",
+          "party": "REP",
+          "votes": 9084
+        },
+        {
+          "name": "Susan J. Vandecasteele",
+          "party": "REP",
+          "votes": 8991
+        },
+        {
+          "name": "Dennis Mannion",
+          "party": "REP",
+          "votes": 8470
+        }
+      ],
+      "demVotes": 40276,
+      "repVotes": 83276,
+      "totalVotes": 123552,
+      "demPct": 32.6,
+      "repPct": 67.4
+    },
+    {
+      "districtId": "nh-hd-rockingham-26",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Buzz Scherr",
+          "party": "DEM",
+          "votes": 2042
+        }
+      ],
+      "winners": [
+        {
+          "name": "Buzz Scherr",
+          "party": "DEM",
+          "votes": 2042
+        }
+      ],
+      "demVotes": 2042,
+      "repVotes": 0,
+      "totalVotes": 2042,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "nh-hd-rockingham-27",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Gerald W.R. Ward",
+          "party": "DEM",
+          "votes": 1538
+        },
+        {
+          "name": "Diane D. Bitter",
+          "party": "REP",
+          "votes": 948
+        }
+      ],
+      "winners": [
+        {
+          "name": "Gerald W.R. Ward",
+          "party": "DEM",
+          "votes": 1538
+        }
+      ],
+      "demVotes": 1538,
+      "repVotes": 948,
+      "totalVotes": 2486,
+      "demPct": 61.87,
+      "repPct": 38.13
+    },
+    {
+      "districtId": "nh-hd-rockingham-28",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Carrie Sorensen",
+          "party": "DEM",
+          "votes": 2254
+        },
+        {
+          "name": "Sue Polidura",
+          "party": "REP",
+          "votes": 790
+        }
+      ],
+      "winners": [
+        {
+          "name": "Carrie Sorensen",
+          "party": "DEM",
+          "votes": 2254
+        }
+      ],
+      "demVotes": 2254,
+      "repVotes": 790,
+      "totalVotes": 3044,
+      "demPct": 74.05,
+      "repPct": 25.95
+    },
+    {
+      "districtId": "nh-hd-rockingham-29",
+      "seats": 4,
+      "candidates": [
+        {
+          "name": "Alan S. Blair",
+          "party": "DEM",
+          "votes": 4520
+        },
+        {
+          "name": "Erica de Vries",
+          "party": "DEM",
+          "votes": 4802
+        },
+        {
+          "name": "Mike Edgar",
+          "party": "DEM",
+          "votes": 4969
+        },
+        {
+          "name": "Chris Muns",
+          "party": "DEM",
+          "votes": 5067
+        },
+        {
+          "name": "Bruce Theriault",
+          "party": "REP",
+          "votes": 4355
+        },
+        {
+          "name": "Nicholas D. Bridle",
+          "party": "REP",
+          "votes": 4823
+        },
+        {
+          "name": "David Hagen",
+          "party": "REP",
+          "votes": 4351
+        },
+        {
+          "name": "Ken Sheffert",
+          "party": "REP",
+          "votes": 4239
+        }
+      ],
+      "winners": [
+        {
+          "name": "Chris Muns",
+          "party": "DEM",
+          "votes": 5067
+        },
+        {
+          "name": "Mike Edgar",
+          "party": "DEM",
+          "votes": 4969
+        },
+        {
+          "name": "Nicholas D. Bridle",
+          "party": "REP",
+          "votes": 4823
+        },
+        {
+          "name": "Erica de Vries",
+          "party": "DEM",
+          "votes": 4802
+        }
+      ],
+      "demVotes": 19358,
+      "repVotes": 17768,
+      "totalVotes": 37126,
+      "demPct": 52.14,
+      "repPct": 47.86
+    },
+    {
+      "districtId": "nh-hd-rockingham-3",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jane W. Van Zandt",
+          "party": "DEM",
+          "votes": 1271
+        },
+        {
+          "name": "Mary J. Ford",
+          "party": "REP",
+          "votes": 2107
+        }
+      ],
+      "winners": [
+        {
+          "name": "Mary J. Ford",
+          "party": "REP",
+          "votes": 2107
+        }
+      ],
+      "demVotes": 1271,
+      "repVotes": 2107,
+      "totalVotes": 3378,
+      "demPct": 37.63,
+      "repPct": 62.37
+    },
+    {
+      "districtId": "nh-hd-rockingham-30",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Bob Albright",
+          "party": "DEM",
+          "votes": 1733
+        },
+        {
+          "name": "Justin G. Packard",
+          "party": "DEM",
+          "votes": 1503
+        },
+        {
+          "name": "Aboul B. Khan",
+          "party": "REP",
+          "votes": 2947
+        },
+        {
+          "name": "Matt Sabourin",
+          "party": "REP",
+          "votes": 2563
+        }
+      ],
+      "winners": [
+        {
+          "name": "Aboul B. Khan",
+          "party": "REP",
+          "votes": 2947
+        },
+        {
+          "name": "Matt Sabourin",
+          "party": "REP",
+          "votes": 2563
+        }
+      ],
+      "demVotes": 3236,
+      "repVotes": 5510,
+      "totalVotes": 8746,
+      "demPct": 37,
+      "repPct": 63
+    },
+    {
+      "districtId": "nh-hd-rockingham-4",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "David K. Bodman",
+          "party": "DEM",
+          "votes": 1928
+        },
+        {
+          "name": "Art Hunt",
+          "party": "DEM",
+          "votes": 1857
+        },
+        {
+          "name": "Christopher Lee",
+          "party": "DEM",
+          "votes": 1982
+        },
+        {
+          "name": "Cindy L. Bennett",
+          "party": "REP",
+          "votes": 3389
+        },
+        {
+          "name": "Mike Drago",
+          "party": "REP",
+          "votes": 3574
+        },
+        {
+          "name": "Brian Nadeau",
+          "party": "REP",
+          "votes": 3440
+        }
+      ],
+      "winners": [
+        {
+          "name": "Mike Drago",
+          "party": "REP",
+          "votes": 3574
+        },
+        {
+          "name": "Brian Nadeau",
+          "party": "REP",
+          "votes": 3440
+        },
+        {
+          "name": "Cindy L. Bennett",
+          "party": "REP",
+          "votes": 3389
+        }
+      ],
+      "demVotes": 5767,
+      "repVotes": 10403,
+      "totalVotes": 16170,
+      "demPct": 35.66,
+      "repPct": 64.34
+    },
+    {
+      "districtId": "nh-hd-rockingham-5",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Jade A. Flad-Vilardi",
+          "party": "DEM",
+          "votes": 1511
+        },
+        {
+          "name": "Mark Vallone",
+          "party": "DEM",
+          "votes": 2541
+        },
+        {
+          "name": "Cody M. Belanger",
+          "party": "REP",
+          "votes": 2337
+        },
+        {
+          "name": "Michael Vose",
+          "party": "REP",
+          "votes": 2511
+        }
+      ],
+      "winners": [
+        {
+          "name": "Mark Vallone",
+          "party": "DEM",
+          "votes": 2541
+        },
+        {
+          "name": "Michael Vose",
+          "party": "REP",
+          "votes": 2511
+        }
+      ],
+      "demVotes": 4052,
+      "repVotes": 4848,
+      "totalVotes": 8900,
+      "demPct": 45.53,
+      "repPct": 54.47
+    },
+    {
+      "districtId": "nh-hd-rockingham-6",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Eric S. Turer",
+          "party": "DEM",
+          "votes": 1534
+        },
+        {
+          "name": "Allen Cook",
+          "party": "REP",
+          "votes": 1496
+        }
+      ],
+      "winners": [
+        {
+          "name": "Eric S. Turer",
+          "party": "DEM",
+          "votes": 1534
+        }
+      ],
+      "demVotes": 1534,
+      "repVotes": 1496,
+      "totalVotes": 3030,
+      "demPct": 50.63,
+      "repPct": 49.37
+    },
+    {
+      "districtId": "nh-hd-rockingham-7",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Laurence A. Miner",
+          "party": "REP",
+          "votes": 2183
+        }
+      ],
+      "winners": [
+        {
+          "name": "Laurence A. Miner",
+          "party": "REP",
+          "votes": 2183
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 2183,
+      "totalVotes": 2183,
+      "demPct": 0,
+      "repPct": 100
+    },
+    {
+      "districtId": "nh-hd-rockingham-8",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Sheila S. Johannesen",
+          "party": "DEM",
+          "votes": 1035
+        },
+        {
+          "name": "Sayra Lynn DeVito",
+          "party": "REP",
+          "votes": 1680
+        }
+      ],
+      "winners": [
+        {
+          "name": "Sayra Lynn DeVito",
+          "party": "REP",
+          "votes": 1680
+        }
+      ],
+      "demVotes": 1035,
+      "repVotes": 1680,
+      "totalVotes": 2715,
+      "demPct": 38.12,
+      "repPct": 61.88
+    },
+    {
+      "districtId": "nh-hd-rockingham-9",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Keith D. Cronyn",
+          "party": "DEM",
+          "votes": 1357
+        },
+        {
+          "name": "Leslie Kruithof",
+          "party": "DEM",
+          "votes": 1357
+        },
+        {
+          "name": "Donald Evan Selby",
+          "party": "REP",
+          "votes": 2389
+        },
+        {
+          "name": "Vicki Wilson",
+          "party": "REP",
+          "votes": 2376
+        }
+      ],
+      "winners": [
+        {
+          "name": "Donald Evan Selby",
+          "party": "REP",
+          "votes": 2389
+        },
+        {
+          "name": "Vicki Wilson",
+          "party": "REP",
+          "votes": 2376
+        }
+      ],
+      "demVotes": 2714,
+      "repVotes": 4765,
+      "totalVotes": 7479,
+      "demPct": 36.29,
+      "repPct": 63.71
+    },
+    {
+      "districtId": "nh-hd-strafford-1",
+      "seats": 2,
+      "candidates": [
+        {
+          "name": "Manny Krasner",
+          "party": "DEM",
+          "votes": 1532
+        },
+        {
+          "name": "Fred Pitman",
+          "party": "DEM",
+          "votes": 1240
+        },
+        {
+          "name": "Sue DeLemus",
+          "party": "REP",
+          "votes": 1961
+        },
+        {
+          "name": "Robley Hall",
+          "party": "REP",
+          "votes": 1640
+        }
+      ],
+      "winners": [
+        {
+          "name": "Sue DeLemus",
+          "party": "REP",
+          "votes": 1961
+        },
+        {
+          "name": "Robley Hall",
+          "party": "REP",
+          "votes": 1640
+        }
+      ],
+      "demVotes": 2772,
+      "repVotes": 3601,
+      "totalVotes": 6373,
+      "demPct": 43.5,
+      "repPct": 56.5
+    },
+    {
+      "districtId": "nh-hd-strafford-10",
+      "seats": 4,
+      "candidates": [
+        {
+          "name": "Marjorie Smith",
+          "party": "DEM",
+          "votes": 5135
+        },
+        {
+          "name": "Wayne M. Burton",
+          "party": "DEM",
+          "votes": 4850
+        },
+        {
+          "name": "Timothy Horrigan",
+          "party": "DEM",
+          "votes": 4886
+        },
+        {
+          "name": "Loren Selig",
+          "party": "DEM",
+          "votes": 5076
+        },
+        {
+          "name": "Jeffrey D. Berlin",
+          "party": "REP",
+          "votes": 2416
+        }
+      ],
+      "winners": [
+        {
+          "name": "Marjorie Smith",
+          "party": "DEM",
+          "votes": 5135
+        },
+        {
+          "name": "Loren Selig",
+          "party": "DEM",
+          "votes": 5076
+        },
+        {
+          "name": "Timothy Horrigan",
+          "party": "DEM",
+          "votes": 4886
+        },
+        {
+          "name": "Wayne M. Burton",
+          "party": "DEM",
+          "votes": 4850
+        }
+      ],
+      "demVotes": 19947,
+      "repVotes": 2416,
+      "totalVotes": 22363,
+      "demPct": 89.2,
+      "repPct": 10.8
+    },
+    {
+      "districtId": "nh-hd-strafford-11",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Erik Johnson",
+          "party": "DEM",
+          "votes": 4250
+        },
+        {
+          "name": "Thomas Southworth",
+          "party": "DEM",
+          "votes": 4121
+        },
+        {
+          "name": "Janet G. Wall",
+          "party": "DEM",
+          "votes": 4500
+        },
+        {
+          "name": "Joe Bazo",
+          "party": "REP",
+          "votes": 2455
+        },
+        {
+          "name": "Denis Grenier",
+          "party": "REP",
+          "votes": 2439
+        },
+        {
+          "name": "Bill Taylor",
+          "party": "REP",
+          "votes": 2408
+        }
+      ],
+      "winners": [
+        {
+          "name": "Janet G. Wall",
+          "party": "DEM",
+          "votes": 4500
+        },
+        {
+          "name": "Erik Johnson",
+          "party": "DEM",
+          "votes": 4250
+        },
+        {
+          "name": "Thomas Southworth",
+          "party": "DEM",
+          "votes": 4121
+        }
+      ],
+      "demVotes": 12871,
+      "repVotes": 7302,
+      "totalVotes": 20173,
+      "demPct": 63.8,
+      "repPct": 36.2
+    },
+    {
+      "districtId": "nh-hd-strafford-12",
+      "seats": 4,
+      "candidates": [
+        {
+          "name": "Myles England",
+          "party": "DEM",
+          "votes": 3992
+        },
+        {
+          "name": "Dawn M. Evans",
+          "party": "DEM",
+          "votes": 4110
+        },
+        {
+          "name": "Wayne Pearson",
+          "party": "DEM",
+          "votes": 3905
+        },
+        {
+          "name": "John J. Stone",
+          "party": "DEM",
+          "votes": 3961
+        },
+        {
+          "name": "Ken Hilton",
+          "party": "REP",
+          "votes": 3446
+        },
+        {
+          "name": "Will Milus",
+          "party": "REP",
+          "votes": 2925
+        },
+        {
+          "name": "Padraic O'Hare",
+          "party": "REP",
+          "votes": 3101
+        },
+        {
+          "name": "Jonathan Wilson",
+          "party": "REP",
+          "votes": 3221
+        }
+      ],
+      "winners": [
+        {
+          "name": "Dawn M. Evans",
+          "party": "DEM",
+          "votes": 4110
+        },
+        {
+          "name": "Myles England",
+          "party": "DEM",
+          "votes": 3992
+        },
+        {
+          "name": "John J. Stone",
+          "party": "DEM",
+          "votes": 3961
+        },
+        {
+          "name": "Wayne Pearson",
+          "party": "DEM",
+          "votes": 3905
+        }
+      ],
+      "demVotes": 15968,
+      "repVotes": 12693,
+      "totalVotes": 28661,
+      "demPct": 55.71,
+      "repPct": 44.29
+    },
+    {
+      "districtId": "nh-hd-strafford-13",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Peter Bixby",
+          "party": "DEM",
+          "votes": 1568
+        },
+        {
+          "name": "Daniel A. Furman",
+          "party": "REP",
+          "votes": 1345
+        }
+      ],
+      "winners": [
+        {
+          "name": "Peter Bixby",
+          "party": "DEM",
+          "votes": 1568
+        }
+      ],
+      "demVotes": 1568,
+      "repVotes": 1345,
+      "totalVotes": 2913,
+      "demPct": 53.83,
+      "repPct": 46.17
+    },
+    {
+      "districtId": "nh-hd-strafford-14",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Peter B. Schmidt",
+          "party": "DEM",
+          "votes": 2255
+        },
+        {
+          "name": "Elliot Ross Boutin",
+          "party": "REP",
+          "votes": 797
+        }
+      ],
+      "winners": [
+        {
+          "name": "Peter B. Schmidt",
+          "party": "DEM",
+          "votes": 2255
+        }
+      ],
+      "demVotes": 2255,
+      "repVotes": 797,
+      "totalVotes": 3052,
+      "demPct": 73.89,
+      "repPct": 26.11
+    },
+    {
+      "districtId": "nh-hd-strafford-15",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Alice Wade",
+          "party": "DEM",
+          "votes": 2047
+        },
+        {
+          "name": "Keith Mistretta",
+          "party": "REP",
+          "votes": 869
+        }
+      ],
+      "winners": [
+        {
+          "name": "Alice Wade",
+          "party": "DEM",
+          "votes": 2047
+        }
+      ],
+      "demVotes": 2047,
+      "repVotes": 869,
+      "totalVotes": 2916,
+      "demPct": 70.2,
+      "repPct": 29.8
+    },
+    {
+      "districtId": "nh-hd-strafford-16",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Gary R. Gilmore",
+          "party": "DEM",
+          "votes": 2076
+        },
+        {
+          "name": "Diana M. Day",
+          "party": "REP",
+          "votes": 1484
+        }
+      ],
+      "winners": [
+        {
+          "name": "Gary R. Gilmore",
+          "party": "DEM",
+          "votes": 2076
+        }
+      ],
+      "demVotes": 2076,
+      "repVotes": 1484,
+      "totalVotes": 3560,
+      "demPct": 58.31,
+      "repPct": 41.69
+    },
+    {
+      "districtId": "nh-hd-strafford-17",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jessica F. LaMontagne",
+          "party": "DEM",
+          "votes": 1739
+        },
+        {
+          "name": "Matthew D. Albion",
+          "party": "REP",
+          "votes": 983
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jessica F. LaMontagne",
+          "party": "DEM",
+          "votes": 1739
+        }
+      ],
+      "demVotes": 1739,
+      "repVotes": 983,
+      "totalVotes": 2722,
+      "demPct": 63.89,
+      "repPct": 36.11
+    },
+    {
+      "districtId": "nh-hd-strafford-18",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Kimberly McGlinchey",
+          "party": "DEM",
+          "votes": 5031
+        },
+        {
+          "name": "Michael Harrington",
+          "party": "REP",
+          "votes": 6670
+        }
+      ],
+      "winners": [
+        {
+          "name": "Michael Harrington",
+          "party": "REP",
+          "votes": 6670
+        }
+      ],
+      "demVotes": 5031,
+      "repVotes": 6670,
+      "totalVotes": 11701,
+      "demPct": 43,
+      "repPct": 57
+    },
+    {
+      "districtId": "nh-hd-strafford-2",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Larry Brown",
+          "party": "DEM",
+          "votes": 2041
+        },
+        {
+          "name": "Pamela J. Hubbard",
+          "party": "DEM",
+          "votes": 2154
+        },
+        {
+          "name": "Marilyn J. Foster",
+          "party": "DEM",
+          "votes": 1969
+        },
+        {
+          "name": "Glenn Bailey",
+          "party": "REP",
+          "votes": 2935
+        },
+        {
+          "name": "Claudine R. Burnham",
+          "party": "REP",
+          "votes": 2780
+        },
+        {
+          "name": "Michael Granger",
+          "party": "REP",
+          "votes": 2835
+        }
+      ],
+      "winners": [
+        {
+          "name": "Glenn Bailey",
+          "party": "REP",
+          "votes": 2935
+        },
+        {
+          "name": "Michael Granger",
+          "party": "REP",
+          "votes": 2835
+        },
+        {
+          "name": "Claudine R. Burnham",
+          "party": "REP",
+          "votes": 2780
+        }
+      ],
+      "demVotes": 6164,
+      "repVotes": 8550,
+      "totalVotes": 14714,
+      "demPct": 41.89,
+      "repPct": 58.11
+    },
+    {
+      "districtId": "nh-hd-strafford-3",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Ellen Phillips",
+          "party": "DEM",
+          "votes": 985
+        },
+        {
+          "name": "Susan DeRoy",
+          "party": "REP",
+          "votes": 1954
+        }
+      ],
+      "winners": [
+        {
+          "name": "Susan DeRoy",
+          "party": "REP",
+          "votes": 1954
+        }
+      ],
+      "demVotes": 985,
+      "repVotes": 1954,
+      "totalVotes": 2939,
+      "demPct": 33.51,
+      "repPct": 66.49
+    },
+    {
+      "districtId": "nh-hd-strafford-4",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Heath Howard",
+          "party": "DEM",
+          "votes": 4200
+        },
+        {
+          "name": "Cassandra Levesque",
+          "party": "DEM",
+          "votes": 4286
+        },
+        {
+          "name": "Adam Mulholland",
+          "party": "DEM",
+          "votes": 3906
+        },
+        {
+          "name": "Seamus Casey",
+          "party": "REP",
+          "votes": 4050
+        },
+        {
+          "name": "Len Turcotte",
+          "party": "REP",
+          "votes": 4349
+        },
+        {
+          "name": "Kurt Wuelper",
+          "party": "REP",
+          "votes": 4184
+        }
+      ],
+      "winners": [
+        {
+          "name": "Len Turcotte",
+          "party": "REP",
+          "votes": 4349
+        },
+        {
+          "name": "Cassandra Levesque",
+          "party": "DEM",
+          "votes": 4286
+        },
+        {
+          "name": "Heath Howard",
+          "party": "DEM",
+          "votes": 4200
+        }
+      ],
+      "demVotes": 12392,
+      "repVotes": 12583,
+      "totalVotes": 24975,
+      "demPct": 49.62,
+      "repPct": 50.38
+    },
+    {
+      "districtId": "nh-hd-strafford-5",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Patricia Turner",
+          "party": "DEM",
+          "votes": 1365
+        },
+        {
+          "name": "Thomas L. Kaczynski Jr.",
+          "party": "REP",
+          "votes": 1499
+        }
+      ],
+      "winners": [
+        {
+          "name": "Thomas L. Kaczynski Jr.",
+          "party": "REP",
+          "votes": 1499
+        }
+      ],
+      "demVotes": 1365,
+      "repVotes": 1499,
+      "totalVotes": 2864,
+      "demPct": 47.66,
+      "repPct": 52.34
+    },
+    {
+      "districtId": "nh-hd-strafford-6",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Kathleen M. MacLeod",
+          "party": "DEM",
+          "votes": 1358
+        },
+        {
+          "name": "Denise DeDe-Poulin",
+          "party": "REP",
+          "votes": 1482
+        }
+      ],
+      "winners": [
+        {
+          "name": "Denise DeDe-Poulin",
+          "party": "REP",
+          "votes": 1482
+        }
+      ],
+      "demVotes": 1358,
+      "repVotes": 1482,
+      "totalVotes": 2840,
+      "demPct": 47.82,
+      "repPct": 52.18
+    },
+    {
+      "districtId": "nh-hd-strafford-7",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "David Herman",
+          "party": "DEM",
+          "votes": 1282
+        },
+        {
+          "name": "Aidan Ankarberg",
+          "party": "REP",
+          "votes": 1532
+        }
+      ],
+      "winners": [
+        {
+          "name": "Aidan Ankarberg",
+          "party": "REP",
+          "votes": 1532
+        }
+      ],
+      "demVotes": 1282,
+      "repVotes": 1532,
+      "totalVotes": 2814,
+      "demPct": 45.56,
+      "repPct": 54.44
+    },
+    {
+      "districtId": "nh-hd-strafford-8",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Chuck Grassie",
+          "party": "DEM",
+          "votes": 1232
+        },
+        {
+          "name": "Samuel Farrington",
+          "party": "REP",
+          "votes": 1498
+        }
+      ],
+      "winners": [
+        {
+          "name": "Samuel Farrington",
+          "party": "REP",
+          "votes": 1498
+        }
+      ],
+      "demVotes": 1232,
+      "repVotes": 1498,
+      "totalVotes": 2730,
+      "demPct": 45.13,
+      "repPct": 54.87
+    },
+    {
+      "districtId": "nh-hd-strafford-9",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Amy Malone",
+          "party": "DEM",
+          "votes": 1234
+        },
+        {
+          "name": "Brandon Phinney",
+          "party": "REP",
+          "votes": 1143
+        }
+      ],
+      "winners": [
+        {
+          "name": "Amy Malone",
+          "party": "DEM",
+          "votes": 1234
+        }
+      ],
+      "demVotes": 1234,
+      "repVotes": 1143,
+      "totalVotes": 2377,
+      "demPct": 51.91,
+      "repPct": 48.09
+    },
+    {
+      "districtId": "nh-hd-sullivan-1",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Brian M. Sullivan",
+          "party": "DEM",
+          "votes": 1565
+        },
+        {
+          "name": "Joel T. Hutchins",
+          "party": "REP",
+          "votes": 811
+        }
+      ],
+      "winners": [
+        {
+          "name": "Brian M. Sullivan",
+          "party": "DEM",
+          "votes": 1565
+        }
+      ],
+      "demVotes": 1565,
+      "repVotes": 811,
+      "totalVotes": 2376,
+      "demPct": 65.87,
+      "repPct": 34.13
+    },
+    {
+      "districtId": "nh-hd-sullivan-2",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "William Palmer",
+          "party": "DEM",
+          "votes": 1662
+        },
+        {
+          "name": "Virginia Drye",
+          "party": "REP",
+          "votes": 1102
+        }
+      ],
+      "winners": [
+        {
+          "name": "William Palmer",
+          "party": "DEM",
+          "votes": 1662
+        }
+      ],
+      "demVotes": 1662,
+      "repVotes": 1102,
+      "totalVotes": 2764,
+      "demPct": 60.13,
+      "repPct": 39.87
+    },
+    {
+      "districtId": "nh-hd-sullivan-3",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "Nikki Murphy",
+          "party": "DEM",
+          "votes": 2566
+        },
+        {
+          "name": "Skip Rollins",
+          "party": "REP",
+          "votes": 3936
+        },
+        {
+          "name": "Steven Smith",
+          "party": "REP",
+          "votes": 3508
+        },
+        {
+          "name": "Walter Spilsbury",
+          "party": "REP",
+          "votes": 3130
+        }
+      ],
+      "winners": [
+        {
+          "name": "Skip Rollins",
+          "party": "REP",
+          "votes": 3936
+        },
+        {
+          "name": "Steven Smith",
+          "party": "REP",
+          "votes": 3508
+        },
+        {
+          "name": "Walter Spilsbury",
+          "party": "REP",
+          "votes": 3130
+        }
+      ],
+      "demVotes": 2566,
+      "repVotes": 10574,
+      "totalVotes": 13140,
+      "demPct": 19.53,
+      "repPct": 80.47
+    },
+    {
+      "districtId": "nh-hd-sullivan-4",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Claudia Istel",
+          "party": "DEM",
+          "votes": 1154
+        },
+        {
+          "name": "Judy Aron",
+          "party": "REP",
+          "votes": 1806
+        }
+      ],
+      "winners": [
+        {
+          "name": "Judy Aron",
+          "party": "REP",
+          "votes": 1806
+        }
+      ],
+      "demVotes": 1154,
+      "repVotes": 1806,
+      "totalVotes": 2960,
+      "demPct": 38.99,
+      "repPct": 61.01
+    },
+    {
+      "districtId": "nh-hd-sullivan-5",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Linda Tanner",
+          "party": "DEM",
+          "votes": 1670
+        },
+        {
+          "name": "George C. Grant",
+          "party": "REP",
+          "votes": 1686
+        }
+      ],
+      "winners": [
+        {
+          "name": "George C. Grant",
+          "party": "REP",
+          "votes": 1686
+        }
+      ],
+      "demVotes": 1670,
+      "repVotes": 1686,
+      "totalVotes": 3356,
+      "demPct": 49.76,
+      "repPct": 50.24
+    },
+    {
+      "districtId": "nh-hd-sullivan-6",
+      "seats": 3,
+      "candidates": [
+        {
+          "name": "John R. Cloutier",
+          "party": "DEM",
+          "votes": 2804
+        },
+        {
+          "name": "Dale Girard",
+          "party": "DEM",
+          "votes": 2895
+        },
+        {
+          "name": "Gary Merchant",
+          "party": "DEM",
+          "votes": 2639
+        },
+        {
+          "name": "Wayne J. Hemingway",
+          "party": "REP",
+          "votes": 2783
+        },
+        {
+          "name": "Robert W. Merrill Jr.",
+          "party": "REP",
+          "votes": 2257
+        },
+        {
+          "name": "Emily Sandblade",
+          "party": "REP",
+          "votes": 2149
+        },
+        {
+          "name": "Sean F. McCarthy",
+          "party": "IND",
+          "votes": 626
+        }
+      ],
+      "winners": [
+        {
+          "name": "Dale Girard",
+          "party": "DEM",
+          "votes": 2895
+        },
+        {
+          "name": "John R. Cloutier",
+          "party": "DEM",
+          "votes": 2804
+        },
+        {
+          "name": "Wayne J. Hemingway",
+          "party": "REP",
+          "votes": 2783
+        }
+      ],
+      "demVotes": 8338,
+      "repVotes": 7189,
+      "totalVotes": 15527,
+      "demPct": 53.7,
+      "repPct": 46.3
+    }
+  ],
+  "senate": [
+    {
+      "districtId": "nh-sd-1",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Rusty Talbot",
+          "party": "DEM",
+          "votes": 13371
+        },
+        {
+          "name": "David Rochefort",
+          "party": "REP",
+          "votes": 17613
+        }
+      ],
+      "winners": [
+        {
+          "name": "David Rochefort",
+          "party": "REP",
+          "votes": 17613
+        }
+      ],
+      "demVotes": 13371,
+      "repVotes": 17613,
+      "totalVotes": 30984,
+      "demPct": 43.15,
+      "repPct": 56.85
+    },
+    {
+      "districtId": "nh-sd-2",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Carlos Cardona",
+          "party": "DEM",
+          "votes": 14372
+        },
+        {
+          "name": "Timothy Lang",
+          "party": "REP",
+          "votes": 20117
+        }
+      ],
+      "winners": [
+        {
+          "name": "Timothy Lang",
+          "party": "REP",
+          "votes": 20117
+        }
+      ],
+      "demVotes": 14372,
+      "repVotes": 20117,
+      "totalVotes": 34489,
+      "demPct": 41.67,
+      "repPct": 58.33
+    },
+    {
+      "districtId": "nh-sd-3",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Bill Marsh",
+          "party": "DEM",
+          "votes": 16066
+        },
+        {
+          "name": "Mark McConkey",
+          "party": "REP",
+          "votes": 21058
+        }
+      ],
+      "winners": [
+        {
+          "name": "Mark McConkey",
+          "party": "REP",
+          "votes": 21058
+        }
+      ],
+      "demVotes": 16066,
+      "repVotes": 21058,
+      "totalVotes": 37124,
+      "demPct": 43.28,
+      "repPct": 56.72
+    },
+    {
+      "districtId": "nh-sd-4",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "David H. Watters",
+          "party": "DEM",
+          "votes": 19666
+        },
+        {
+          "name": "Shawn Mickelonis",
+          "party": "REP",
+          "votes": 12847
+        }
+      ],
+      "winners": [
+        {
+          "name": "David H. Watters",
+          "party": "DEM",
+          "votes": 19666
+        }
+      ],
+      "demVotes": 19666,
+      "repVotes": 12847,
+      "totalVotes": 32513,
+      "demPct": 60.49,
+      "repPct": 39.51
+    },
+    {
+      "districtId": "nh-sd-5",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Suzanne M. Prentiss",
+          "party": "DEM",
+          "votes": 23028
+        },
+        {
+          "name": "John J. McIntyre",
+          "party": "REP",
+          "votes": 11709
+        }
+      ],
+      "winners": [
+        {
+          "name": "Suzanne M. Prentiss",
+          "party": "DEM",
+          "votes": 23028
+        }
+      ],
+      "demVotes": 23028,
+      "repVotes": 11709,
+      "totalVotes": 34737,
+      "demPct": 66.29,
+      "repPct": 33.71
+    },
+    {
+      "districtId": "nh-sd-6",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "John Ceskavich",
+          "party": "DEM",
+          "votes": 12483
+        },
+        {
+          "name": "James P. Gray",
+          "party": "REP",
+          "votes": 18561
+        }
+      ],
+      "winners": [
+        {
+          "name": "James P. Gray",
+          "party": "REP",
+          "votes": 18561
+        }
+      ],
+      "demVotes": 12483,
+      "repVotes": 18561,
+      "totalVotes": 31044,
+      "demPct": 40.21,
+      "repPct": 59.79
+    },
+    {
+      "districtId": "nh-sd-7",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Stu Green",
+          "party": "DEM",
+          "votes": 14337
+        },
+        {
+          "name": "Daniel Innis",
+          "party": "REP",
+          "votes": 17888
+        }
+      ],
+      "winners": [
+        {
+          "name": "Daniel Innis",
+          "party": "REP",
+          "votes": 17888
+        }
+      ],
+      "demVotes": 14337,
+      "repVotes": 17888,
+      "totalVotes": 32225,
+      "demPct": 44.49,
+      "repPct": 55.51
+    },
+    {
+      "districtId": "nh-sd-8",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "David Trumble",
+          "party": "DEM",
+          "votes": 13178
+        },
+        {
+          "name": "Ruth Ward",
+          "party": "REP",
+          "votes": 18463
+        }
+      ],
+      "winners": [
+        {
+          "name": "Ruth Ward",
+          "party": "REP",
+          "votes": 18463
+        }
+      ],
+      "demVotes": 13178,
+      "repVotes": 18463,
+      "totalVotes": 31641,
+      "demPct": 41.65,
+      "repPct": 58.35
+    },
+    {
+      "districtId": "nh-sd-9",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Matthew McLaughlin",
+          "party": "DEM",
+          "votes": 16211
+        },
+        {
+          "name": "Denise Ricciardi",
+          "party": "REP",
+          "votes": 17235
+        }
+      ],
+      "winners": [
+        {
+          "name": "Denise Ricciardi",
+          "party": "REP",
+          "votes": 17235
+        }
+      ],
+      "demVotes": 16211,
+      "repVotes": 17235,
+      "totalVotes": 33446,
+      "demPct": 48.47,
+      "repPct": 51.53
+    },
+    {
+      "districtId": "nh-sd-10",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Donovan Fenton",
+          "party": "DEM",
+          "votes": 20841
+        },
+        {
+          "name": "Rick Merkt",
+          "party": "REP",
+          "votes": 12166
+        }
+      ],
+      "winners": [
+        {
+          "name": "Donovan Fenton",
+          "party": "DEM",
+          "votes": 20841
+        }
+      ],
+      "demVotes": 20841,
+      "repVotes": 12166,
+      "totalVotes": 33007,
+      "demPct": 63.14,
+      "repPct": 36.86
+    },
+    {
+      "districtId": "nh-sd-11",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Shannon E. Chandley",
+          "party": "DEM",
+          "votes": 17767
+        },
+        {
+          "name": "Tim McGough",
+          "party": "REP",
+          "votes": 18440
+        }
+      ],
+      "winners": [
+        {
+          "name": "Tim McGough",
+          "party": "REP",
+          "votes": 18440
+        }
+      ],
+      "demVotes": 17767,
+      "repVotes": 18440,
+      "totalVotes": 36207,
+      "demPct": 49.07,
+      "repPct": 50.93
+    },
+    {
+      "districtId": "nh-sd-12",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Ben Ming",
+          "party": "DEM",
+          "votes": 15643
+        },
+        {
+          "name": "Kevin A. Avard",
+          "party": "REP",
+          "votes": 19841
+        }
+      ],
+      "winners": [
+        {
+          "name": "Kevin A. Avard",
+          "party": "REP",
+          "votes": 19841
+        }
+      ],
+      "demVotes": 15643,
+      "repVotes": 19841,
+      "totalVotes": 35484,
+      "demPct": 44.08,
+      "repPct": 55.92
+    },
+    {
+      "districtId": "nh-sd-13",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Cindy Rosenwald",
+          "party": "DEM",
+          "votes": 14334
+        },
+        {
+          "name": "Stephen Scaer",
+          "party": "REP",
+          "votes": 10913
+        }
+      ],
+      "winners": [
+        {
+          "name": "Cindy Rosenwald",
+          "party": "DEM",
+          "votes": 14334
+        }
+      ],
+      "demVotes": 14334,
+      "repVotes": 10913,
+      "totalVotes": 25247,
+      "demPct": 56.78,
+      "repPct": 43.22
+    },
+    {
+      "districtId": "nh-sd-14",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Kara Roy",
+          "party": "DEM",
+          "votes": 13611
+        },
+        {
+          "name": "Sharon M. Carson",
+          "party": "REP",
+          "votes": 19429
+        }
+      ],
+      "winners": [
+        {
+          "name": "Sharon M. Carson",
+          "party": "REP",
+          "votes": 19429
+        }
+      ],
+      "demVotes": 13611,
+      "repVotes": 19429,
+      "totalVotes": 33040,
+      "demPct": 41.2,
+      "repPct": 58.8
+    },
+    {
+      "districtId": "nh-sd-15",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Tara Reardon",
+          "party": "DEM",
+          "votes": 20272
+        },
+        {
+          "name": "Pamela Ean",
+          "party": "REP",
+          "votes": 11912
+        }
+      ],
+      "winners": [
+        {
+          "name": "Tara Reardon",
+          "party": "DEM",
+          "votes": 20272
+        }
+      ],
+      "demVotes": 20272,
+      "repVotes": 11912,
+      "totalVotes": 32184,
+      "demPct": 62.99,
+      "repPct": 37.01
+    },
+    {
+      "districtId": "nh-sd-16",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Michael York",
+          "party": "DEM",
+          "votes": 14080
+        },
+        {
+          "name": "Keith Murphy",
+          "party": "REP",
+          "votes": 18435
+        }
+      ],
+      "winners": [
+        {
+          "name": "Keith Murphy",
+          "party": "REP",
+          "votes": 18435
+        }
+      ],
+      "demVotes": 14080,
+      "repVotes": 18435,
+      "totalVotes": 32515,
+      "demPct": 43.3,
+      "repPct": 56.7
+    },
+    {
+      "districtId": "nh-sd-17",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Kelly Roberts",
+          "party": "DEM",
+          "votes": 14456
+        },
+        {
+          "name": "Howard Pearl",
+          "party": "REP",
+          "votes": 19762
+        }
+      ],
+      "winners": [
+        {
+          "name": "Howard Pearl",
+          "party": "REP",
+          "votes": 19762
+        }
+      ],
+      "demVotes": 14456,
+      "repVotes": 19762,
+      "totalVotes": 34218,
+      "demPct": 42.25,
+      "repPct": 57.75
+    },
+    {
+      "districtId": "nh-sd-18",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Donna M. Soucy",
+          "party": "DEM",
+          "votes": 12541
+        },
+        {
+          "name": "Victoria Sullivan",
+          "party": "REP",
+          "votes": 13289
+        }
+      ],
+      "winners": [
+        {
+          "name": "Victoria Sullivan",
+          "party": "REP",
+          "votes": 13289
+        }
+      ],
+      "demVotes": 12541,
+      "repVotes": 13289,
+      "totalVotes": 25830,
+      "demPct": 48.55,
+      "repPct": 51.45
+    },
+    {
+      "districtId": "nh-sd-19",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Michelle Moge",
+          "party": "DEM",
+          "votes": 12556
+        },
+        {
+          "name": "Regina M. Birdsell",
+          "party": "REP",
+          "votes": 19505
+        }
+      ],
+      "winners": [
+        {
+          "name": "Regina M. Birdsell",
+          "party": "REP",
+          "votes": 19505
+        }
+      ],
+      "demVotes": 12556,
+      "repVotes": 19505,
+      "totalVotes": 32061,
+      "demPct": 39.16,
+      "repPct": 60.84
+    },
+    {
+      "districtId": "nh-sd-20",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Pat Long",
+          "party": "DEM",
+          "votes": 13159
+        },
+        {
+          "name": "Brittany Ping",
+          "party": "REP",
+          "votes": 10290
+        }
+      ],
+      "winners": [
+        {
+          "name": "Pat Long",
+          "party": "DEM",
+          "votes": 13159
+        }
+      ],
+      "demVotes": 13159,
+      "repVotes": 10290,
+      "totalVotes": 23449,
+      "demPct": 56.12,
+      "repPct": 43.88
+    },
+    {
+      "districtId": "nh-sd-21",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "DEM",
+          "votes": 22700
+        },
+        {
+          "name": "Don Cardinale",
+          "party": "REP",
+          "votes": 11155
+        }
+      ],
+      "winners": [
+        {
+          "name": "Rebecca Perkins Kwoka",
+          "party": "DEM",
+          "votes": 22700
+        }
+      ],
+      "demVotes": 22700,
+      "repVotes": 11155,
+      "totalVotes": 33855,
+      "demPct": 67.05,
+      "repPct": 32.95
+    },
+    {
+      "districtId": "nh-sd-22",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Wayne Haubner",
+          "party": "DEM",
+          "votes": 12899
+        },
+        {
+          "name": "Daryl Abbas",
+          "party": "REP",
+          "votes": 22892
+        }
+      ],
+      "winners": [
+        {
+          "name": "Daryl Abbas",
+          "party": "REP",
+          "votes": 22892
+        }
+      ],
+      "demVotes": 12899,
+      "repVotes": 22892,
+      "totalVotes": 35791,
+      "demPct": 36.04,
+      "repPct": 63.96
+    },
+    {
+      "districtId": "nh-sd-23",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Brenda Oldak",
+          "party": "DEM",
+          "votes": 13648
+        },
+        {
+          "name": "Bill Gannon",
+          "party": "REP",
+          "votes": 22670
+        }
+      ],
+      "winners": [
+        {
+          "name": "Bill Gannon",
+          "party": "REP",
+          "votes": 22670
+        }
+      ],
+      "demVotes": 13648,
+      "repVotes": 22670,
+      "totalVotes": 36318,
+      "demPct": 37.58,
+      "repPct": 62.42
+    },
+    {
+      "districtId": "nh-sd-24",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Debra Altschiller",
+          "party": "DEM",
+          "votes": 20497
+        },
+        {
+          "name": "Patrick Abrami",
+          "party": "REP",
+          "votes": 16926
+        }
+      ],
+      "winners": [
+        {
+          "name": "Debra Altschiller",
+          "party": "DEM",
+          "votes": 20497
+        }
+      ],
+      "demVotes": 20497,
+      "repVotes": 16926,
+      "totalVotes": 37423,
+      "demPct": 54.77,
+      "repPct": 45.23
+    }
+  ]
+}

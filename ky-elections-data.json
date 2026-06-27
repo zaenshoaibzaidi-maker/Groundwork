@@ -1,0 +1,2717 @@
+{
+  "house": [
+    {
+      "districtId": "ky-hd-1",
+      "winner": "Steven Jack RUDY",
+      "winnerParty": "rep",
+      "demVotes": 4881,
+      "repVotes": 16074,
+      "totalVotes": 20955,
+      "demPct": 23.29,
+      "repPct": 76.71,
+      "candidates": [
+        {
+          "name": "Steven Jack RUDY",
+          "party": "rep",
+          "votes": 16074
+        },
+        {
+          "name": "Fredrick FOUNTAIN",
+          "party": "dem",
+          "votes": 4881
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-2",
+      "winner": "Kimberly HOLLOWAY",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 16855,
+      "totalVotes": 16855,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Kimberly HOLLOWAY",
+          "party": "rep",
+          "votes": 16855
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-3",
+      "winner": "Randy BRIDGES",
+      "winnerParty": "rep",
+      "demVotes": 6632,
+      "repVotes": 13455,
+      "totalVotes": 20087,
+      "demPct": 33.02,
+      "repPct": 66.98,
+      "candidates": [
+        {
+          "name": "Randy BRIDGES",
+          "party": "rep",
+          "votes": 13455
+        },
+        {
+          "name": "Carrie Gottschalk SINGLER",
+          "party": "dem",
+          "votes": 6632
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-4",
+      "winner": "D. Wade WILLIAMS",
+      "winnerParty": "rep",
+      "demVotes": 4973,
+      "repVotes": 15146,
+      "totalVotes": 20119,
+      "demPct": 24.72,
+      "repPct": 75.28,
+      "candidates": [
+        {
+          "name": "D. Wade WILLIAMS",
+          "party": "rep",
+          "votes": 15146
+        },
+        {
+          "name": "Lloyd SMITH",
+          "party": "dem",
+          "votes": 4973
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-5",
+      "winner": "Mary Beth IMES",
+      "winnerParty": "rep",
+      "demVotes": 6977,
+      "repVotes": 13247,
+      "totalVotes": 20224,
+      "demPct": 34.5,
+      "repPct": 65.5,
+      "candidates": [
+        {
+          "name": "Mary Beth IMES",
+          "party": "rep",
+          "votes": 13247
+        },
+        {
+          "name": "Lauren HINES",
+          "party": "dem",
+          "votes": 6977
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-6",
+      "winner": "Chris FREELAND",
+      "winnerParty": "rep",
+      "demVotes": 5405,
+      "repVotes": 17949,
+      "totalVotes": 23354,
+      "demPct": 23.14,
+      "repPct": 76.86,
+      "candidates": [
+        {
+          "name": "Chris FREELAND",
+          "party": "rep",
+          "votes": 17949
+        },
+        {
+          "name": "Linda Story EDWARDS",
+          "party": "dem",
+          "votes": 5405
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-7",
+      "winner": "Suzanne MILES",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 16678,
+      "totalVotes": 16678,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Suzanne MILES",
+          "party": "rep",
+          "votes": 16678
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-8",
+      "winner": "Walker Wood THOMAS",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 14661,
+      "totalVotes": 14661,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Walker Wood THOMAS",
+          "party": "rep",
+          "votes": 14661
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-9",
+      "winner": "Myron B. DOSSETT",
+      "winnerParty": "rep",
+      "demVotes": 3442,
+      "repVotes": 7124,
+      "totalVotes": 10566,
+      "demPct": 32.58,
+      "repPct": 67.42,
+      "candidates": [
+        {
+          "name": "Myron B. DOSSETT",
+          "party": "rep",
+          "votes": 7124
+        },
+        {
+          "name": "Twyla DILLARD",
+          "party": "dem",
+          "votes": 3442
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-10",
+      "winner": "Josh CALLOWAY",
+      "winnerParty": "rep",
+      "demVotes": 7047,
+      "repVotes": 15702,
+      "totalVotes": 22749,
+      "demPct": 30.98,
+      "repPct": 69.02,
+      "candidates": [
+        {
+          "name": "Josh CALLOWAY",
+          "party": "rep",
+          "votes": 15702
+        },
+        {
+          "name": "John WHIPPLE",
+          "party": "dem",
+          "votes": 7047
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-11",
+      "winner": "J. T. PAYNE",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 14964,
+      "totalVotes": 14964,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "J. T. PAYNE",
+          "party": "rep",
+          "votes": 14964
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-12",
+      "winner": "Jim GOOCH JR.",
+      "winnerParty": "rep",
+      "demVotes": 3989,
+      "repVotes": 15804,
+      "totalVotes": 19793,
+      "demPct": 20.15,
+      "repPct": 79.85,
+      "candidates": [
+        {
+          "name": "Jim GOOCH JR.",
+          "party": "rep",
+          "votes": 15804
+        },
+        {
+          "name": "Alton M. AYER",
+          "party": "dem",
+          "votes": 3989
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-13",
+      "winner": "D. J. JOHNSON",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 13913,
+      "totalVotes": 13913,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "D. J. JOHNSON",
+          "party": "rep",
+          "votes": 13913
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-14",
+      "winner": "Scott LEWIS",
+      "winnerParty": "rep",
+      "demVotes": 4106,
+      "repVotes": 17093,
+      "totalVotes": 21199,
+      "demPct": 19.37,
+      "repPct": 80.63,
+      "candidates": [
+        {
+          "name": "Scott LEWIS",
+          "party": "rep",
+          "votes": 17093
+        },
+        {
+          "name": "Chanda GARNER",
+          "party": "dem",
+          "votes": 4106
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-15",
+      "winner": "Rebecca RAYMER",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 15707,
+      "totalVotes": 15707,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Rebecca RAYMER",
+          "party": "rep",
+          "votes": 15707
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-16",
+      "winner": "Jason PETRIE",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 16503,
+      "totalVotes": 16503,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Jason PETRIE",
+          "party": "rep",
+          "votes": 16503
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-17",
+      "winner": "Robert B. DUVALL",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 14542,
+      "totalVotes": 14542,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Robert B. DUVALL",
+          "party": "rep",
+          "votes": 14542
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-18",
+      "winner": "Samara HEAVRIN",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 17483,
+      "totalVotes": 17483,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Samara HEAVRIN",
+          "party": "rep",
+          "votes": 17483
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-19",
+      "winner": "Michael Lee MEREDITH",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 18135,
+      "totalVotes": 18135,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Michael Lee MEREDITH",
+          "party": "rep",
+          "votes": 18135
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-20",
+      "winner": "Kevin L. JACKSON",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 12103,
+      "totalVotes": 12103,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Kevin L. JACKSON",
+          "party": "rep",
+          "votes": 12103
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-21",
+      "winner": "Amy NEIGHBORS",
+      "winnerParty": "rep",
+      "demVotes": 3868,
+      "repVotes": 18175,
+      "totalVotes": 22043,
+      "demPct": 17.55,
+      "repPct": 82.45,
+      "candidates": [
+        {
+          "name": "Amy NEIGHBORS",
+          "party": "rep",
+          "votes": 18175
+        },
+        {
+          "name": "Jeffery HUMBLE",
+          "party": "dem",
+          "votes": 3868
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-22",
+      "winner": "Shawn MCPHERSON",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 17979,
+      "totalVotes": 17979,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Shawn MCPHERSON",
+          "party": "rep",
+          "votes": 17979
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-23",
+      "winner": "Steve RILEY",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 16517,
+      "totalVotes": 16517,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Steve RILEY",
+          "party": "rep",
+          "votes": 16517
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-24",
+      "winner": "Ryan BIVENS",
+      "winnerParty": "rep",
+      "demVotes": 3860,
+      "repVotes": 17097,
+      "totalVotes": 20957,
+      "demPct": 18.42,
+      "repPct": 81.58,
+      "candidates": [
+        {
+          "name": "Ryan BIVENS",
+          "party": "rep",
+          "votes": 17097
+        },
+        {
+          "name": "Johnny PENNINGTON",
+          "party": "dem",
+          "votes": 3860
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-25",
+      "winner": "Steve BRATCHER",
+      "winnerParty": "rep",
+      "demVotes": 6245,
+      "repVotes": 11792,
+      "totalVotes": 18037,
+      "demPct": 34.62,
+      "repPct": 65.38,
+      "candidates": [
+        {
+          "name": "Steve BRATCHER",
+          "party": "rep",
+          "votes": 11792
+        },
+        {
+          "name": "Cherlyn Evette SMITH",
+          "party": "dem",
+          "votes": 6245
+        },
+        {
+          "name": "Eric S. PARRISH",
+          "party": "ind",
+          "votes": 744
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-26",
+      "winner": "Peyton GRIFFEE",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 15070,
+      "totalVotes": 15070,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Peyton GRIFFEE",
+          "party": "rep",
+          "votes": 15070
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-27",
+      "winner": "Nancy J. TATE",
+      "winnerParty": "rep",
+      "demVotes": 7065,
+      "repVotes": 11980,
+      "totalVotes": 19045,
+      "demPct": 37.1,
+      "repPct": 62.9,
+      "candidates": [
+        {
+          "name": "Nancy J. TATE",
+          "party": "rep",
+          "votes": 11980
+        },
+        {
+          "name": "Tyler CHAPMAN",
+          "party": "dem",
+          "votes": 7065
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-28",
+      "winner": "Jared A. BAUMAN",
+      "winnerParty": "rep",
+      "demVotes": 8134,
+      "repVotes": 11536,
+      "totalVotes": 19670,
+      "demPct": 41.35,
+      "repPct": 58.65,
+      "candidates": [
+        {
+          "name": "Jared A. BAUMAN",
+          "party": "rep",
+          "votes": 11536
+        },
+        {
+          "name": "Almaria BAKER",
+          "party": "dem",
+          "votes": 8134
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-29",
+      "winner": "Chris LEWIS",
+      "winnerParty": "rep",
+      "demVotes": 10371,
+      "repVotes": 14051,
+      "totalVotes": 24422,
+      "demPct": 42.47,
+      "repPct": 57.53,
+      "candidates": [
+        {
+          "name": "Chris LEWIS",
+          "party": "rep",
+          "votes": 14051
+        },
+        {
+          "name": "Timothy FINDLEY JR.",
+          "party": "dem",
+          "votes": 10371
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-30",
+      "winner": "Daniel GROSSBERG",
+      "winnerParty": "dem",
+      "demVotes": 10125,
+      "repVotes": 0,
+      "totalVotes": 10125,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Daniel GROSSBERG",
+          "party": "dem",
+          "votes": 10125
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-31",
+      "winner": "Susan Tyler WITTEN",
+      "winnerParty": "rep",
+      "demVotes": 11727,
+      "repVotes": 12067,
+      "totalVotes": 23794,
+      "demPct": 49.29,
+      "repPct": 50.71,
+      "candidates": [
+        {
+          "name": "Susan Tyler WITTEN",
+          "party": "rep",
+          "votes": 12067
+        },
+        {
+          "name": "Colleen Orsella DAVIS",
+          "party": "dem",
+          "votes": 11727
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-32",
+      "winner": "Tina BOJANOWSKI",
+      "winnerParty": "dem",
+      "demVotes": 16494,
+      "repVotes": 0,
+      "totalVotes": 16494,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Tina BOJANOWSKI",
+          "party": "dem",
+          "votes": 16494
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-33",
+      "winner": "Jason Michael NEMES",
+      "winnerParty": "rep",
+      "demVotes": 10882,
+      "repVotes": 14349,
+      "totalVotes": 25231,
+      "demPct": 43.13,
+      "repPct": 56.87,
+      "candidates": [
+        {
+          "name": "Jason Michael NEMES",
+          "party": "rep",
+          "votes": 14349
+        },
+        {
+          "name": "Taylor JOLLY",
+          "party": "dem",
+          "votes": 10882
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-34",
+      "winner": "Sarah STALKER",
+      "winnerParty": "dem",
+      "demVotes": 19214,
+      "repVotes": 0,
+      "totalVotes": 19214,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Sarah STALKER",
+          "party": "dem",
+          "votes": 19214
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-35",
+      "winner": "Lisa WILLNER",
+      "winnerParty": "dem",
+      "demVotes": 8662,
+      "repVotes": 0,
+      "totalVotes": 8662,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Lisa WILLNER",
+          "party": "dem",
+          "votes": 8662
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-36",
+      "winner": "John F. HODGSON",
+      "winnerParty": "rep",
+      "demVotes": 11364,
+      "repVotes": 15601,
+      "totalVotes": 26965,
+      "demPct": 42.14,
+      "repPct": 57.86,
+      "candidates": [
+        {
+          "name": "John F. HODGSON",
+          "party": "rep",
+          "votes": 15601
+        },
+        {
+          "name": "William Woody ZORN",
+          "party": "dem",
+          "votes": 11364
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-37",
+      "winner": "Emily CALLAWAY",
+      "winnerParty": "rep",
+      "demVotes": 7970,
+      "repVotes": 10330,
+      "totalVotes": 18300,
+      "demPct": 43.55,
+      "repPct": 56.45,
+      "candidates": [
+        {
+          "name": "Emily CALLAWAY",
+          "party": "rep",
+          "votes": 10330
+        },
+        {
+          "name": "John J. STOVALL",
+          "party": "dem",
+          "votes": 7970
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-38",
+      "winner": "Rachel ROARX",
+      "winnerParty": "dem",
+      "demVotes": 8743,
+      "repVotes": 8494,
+      "totalVotes": 17237,
+      "demPct": 50.72,
+      "repPct": 49.28,
+      "candidates": [
+        {
+          "name": "Rachel ROARX",
+          "party": "dem",
+          "votes": 8743
+        },
+        {
+          "name": "Carrie Sanders MCKEEHAN",
+          "party": "rep",
+          "votes": 8494
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-39",
+      "winner": "Matt LOCKETT",
+      "winnerParty": "rep",
+      "demVotes": 8513,
+      "repVotes": 12610,
+      "totalVotes": 21123,
+      "demPct": 40.3,
+      "repPct": 59.7,
+      "candidates": [
+        {
+          "name": "Matt LOCKETT",
+          "party": "rep",
+          "votes": 12610
+        },
+        {
+          "name": "Ryan STANFORD",
+          "party": "dem",
+          "votes": 8513
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-40",
+      "winner": "Nima KULKARNI",
+      "winnerParty": "dem",
+      "demVotes": 10293,
+      "repVotes": 0,
+      "totalVotes": 10293,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Nima KULKARNI",
+          "party": "dem",
+          "votes": 10293
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-41",
+      "winner": "Mary Lou MARZIAN",
+      "winnerParty": "dem",
+      "demVotes": 18485,
+      "repVotes": 6511,
+      "totalVotes": 24996,
+      "demPct": 73.95,
+      "repPct": 26.05,
+      "candidates": [
+        {
+          "name": "Mary Lou MARZIAN",
+          "party": "dem",
+          "votes": 18485
+        },
+        {
+          "name": "Sara-Elizabeth COTTRELL",
+          "party": "rep",
+          "votes": 6511
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-42",
+      "winner": "Joshua WATKINS",
+      "winnerParty": "dem",
+      "demVotes": 12350,
+      "repVotes": 0,
+      "totalVotes": 12350,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Joshua WATKINS",
+          "party": "dem",
+          "votes": 12350
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-43",
+      "winner": "Pamela STEVENSON",
+      "winnerParty": "dem",
+      "demVotes": 12088,
+      "repVotes": 0,
+      "totalVotes": 12088,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Pamela STEVENSON",
+          "party": "dem",
+          "votes": 12088
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-44",
+      "winner": "Beverly D. CHESTER-BURTON",
+      "winnerParty": "dem",
+      "demVotes": 12888,
+      "repVotes": 0,
+      "totalVotes": 12888,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Beverly D. CHESTER-BURTON",
+          "party": "dem",
+          "votes": 12888
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-45",
+      "winner": "Adam MOORE",
+      "winnerParty": "dem",
+      "demVotes": 12777,
+      "repVotes": 12646,
+      "totalVotes": 25423,
+      "demPct": 50.26,
+      "repPct": 49.74,
+      "candidates": [
+        {
+          "name": "Adam MOORE",
+          "party": "dem",
+          "votes": 12777
+        },
+        {
+          "name": "Thomas JEFFERSON",
+          "party": "rep",
+          "votes": 12646
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-46",
+      "winner": "Alan Al GENTRY",
+      "winnerParty": "dem",
+      "demVotes": 11755,
+      "repVotes": 9019,
+      "totalVotes": 20774,
+      "demPct": 56.59,
+      "repPct": 43.41,
+      "candidates": [
+        {
+          "name": "Alan Al GENTRY",
+          "party": "dem",
+          "votes": 11755
+        },
+        {
+          "name": "Bob DEVORE",
+          "party": "rep",
+          "votes": 9019
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-47",
+      "winner": "Felicia RABOURN",
+      "winnerParty": "rep",
+      "demVotes": 6844,
+      "repVotes": 14703,
+      "totalVotes": 21547,
+      "demPct": 31.76,
+      "repPct": 68.24,
+      "candidates": [
+        {
+          "name": "Felicia RABOURN",
+          "party": "rep",
+          "votes": 14703
+        },
+        {
+          "name": "Robb ADAMS",
+          "party": "dem",
+          "votes": 6844
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-48",
+      "winner": "Ken FLEMING",
+      "winnerParty": "rep",
+      "demVotes": 13081,
+      "repVotes": 15195,
+      "totalVotes": 28276,
+      "demPct": 46.26,
+      "repPct": 53.74,
+      "candidates": [
+        {
+          "name": "Ken FLEMING",
+          "party": "rep",
+          "votes": 15195
+        },
+        {
+          "name": "Kate FARROW",
+          "party": "dem",
+          "votes": 13081
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-49",
+      "winner": "Thomas HUFF",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 19471,
+      "totalVotes": 19471,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Thomas HUFF",
+          "party": "rep",
+          "votes": 19471
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-50",
+      "winner": "Candy MASSARONI",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 16783,
+      "totalVotes": 16783,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Candy MASSARONI",
+          "party": "rep",
+          "votes": 16783
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-51",
+      "winner": "Michael Sarge POLLOCK",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 17064,
+      "totalVotes": 17064,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Michael Sarge POLLOCK",
+          "party": "rep",
+          "votes": 17064
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-52",
+      "winner": "Ken UPCHURCH",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 16723,
+      "totalVotes": 16723,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Ken UPCHURCH",
+          "party": "rep",
+          "votes": 16723
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-53",
+      "winner": "James Allen TIPTON",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 20101,
+      "totalVotes": 20101,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "James Allen TIPTON",
+          "party": "rep",
+          "votes": 20101
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-54",
+      "winner": "Daniel B. ELLIOTT",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 16970,
+      "totalVotes": 16970,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Daniel B. ELLIOTT",
+          "party": "rep",
+          "votes": 16970
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-55",
+      "winner": "Kim KING",
+      "winnerParty": "rep",
+      "demVotes": 5922,
+      "repVotes": 16382,
+      "totalVotes": 22304,
+      "demPct": 26.55,
+      "repPct": 73.45,
+      "candidates": [
+        {
+          "name": "Kim KING",
+          "party": "rep",
+          "votes": 16382
+        },
+        {
+          "name": "Katrina A. SEXTON",
+          "party": "dem",
+          "votes": 5922
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-56",
+      "winner": "Daniel A. FISTER",
+      "winnerParty": "rep",
+      "demVotes": 10269,
+      "repVotes": 13863,
+      "totalVotes": 24132,
+      "demPct": 42.55,
+      "repPct": 57.45,
+      "candidates": [
+        {
+          "name": "Daniel A. FISTER",
+          "party": "rep",
+          "votes": 13863
+        },
+        {
+          "name": "Chantel BINGHAM",
+          "party": "dem",
+          "votes": 10269
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-57",
+      "winner": "Erika Marie HANCOCK",
+      "winnerParty": "dem",
+      "demVotes": 11342,
+      "repVotes": 9127,
+      "totalVotes": 20469,
+      "demPct": 55.41,
+      "repPct": 44.59,
+      "candidates": [
+        {
+          "name": "Erika Marie HANCOCK",
+          "party": "dem",
+          "votes": 11342
+        },
+        {
+          "name": "Kyle T. THOMPSON",
+          "party": "rep",
+          "votes": 9127
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-58",
+      "winner": "Jennifer Henson DECKER",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 17330,
+      "totalVotes": 17330,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Jennifer Henson DECKER",
+          "party": "rep",
+          "votes": 17330
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-59",
+      "winner": "David W. OSBORNE",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 18552,
+      "totalVotes": 18552,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "David W. OSBORNE",
+          "party": "rep",
+          "votes": 18552
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-60",
+      "winner": "Marianne PROCTOR",
+      "winnerParty": "rep",
+      "demVotes": 8060,
+      "repVotes": 16017,
+      "totalVotes": 24077,
+      "demPct": 33.48,
+      "repPct": 66.52,
+      "candidates": [
+        {
+          "name": "Marianne PROCTOR",
+          "party": "rep",
+          "votes": 16017
+        },
+        {
+          "name": "Deborah Ison FLOWERS",
+          "party": "dem",
+          "votes": 8060
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-61",
+      "winner": "Savannah MADDOX",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 18073,
+      "totalVotes": 18073,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Savannah MADDOX",
+          "party": "rep",
+          "votes": 18073
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-62",
+      "winner": "Tony HAMPTON",
+      "winnerParty": "rep",
+      "demVotes": 7565,
+      "repVotes": 14937,
+      "totalVotes": 22502,
+      "demPct": 33.62,
+      "repPct": 66.38,
+      "candidates": [
+        {
+          "name": "Tony HAMPTON",
+          "party": "rep",
+          "votes": 14937
+        },
+        {
+          "name": "Kevin KIDWELL",
+          "party": "dem",
+          "votes": 7565
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-63",
+      "winner": "Kim BANTA",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 14325,
+      "totalVotes": 14325,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Kim BANTA",
+          "party": "rep",
+          "votes": 14325
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-64",
+      "winner": "Kimberly Poore MOSER",
+      "winnerParty": "rep",
+      "demVotes": 7390,
+      "repVotes": 14407,
+      "totalVotes": 21797,
+      "demPct": 33.9,
+      "repPct": 66.1,
+      "candidates": [
+        {
+          "name": "Kimberly Poore MOSER",
+          "party": "rep",
+          "votes": 14407
+        },
+        {
+          "name": "Heather CRABBE",
+          "party": "dem",
+          "votes": 7390
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-65",
+      "winner": "Stephanie Ann DIETZ",
+      "winnerParty": "rep",
+      "demVotes": 8753,
+      "repVotes": 11284,
+      "totalVotes": 20037,
+      "demPct": 43.68,
+      "repPct": 56.32,
+      "candidates": [
+        {
+          "name": "Stephanie Ann DIETZ",
+          "party": "rep",
+          "votes": 11284
+        },
+        {
+          "name": "Aaron CURRIN",
+          "party": "dem",
+          "votes": 8753
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-66",
+      "winner": "T. J. ROBERTS",
+      "winnerParty": "rep",
+      "demVotes": 6861,
+      "repVotes": 16368,
+      "totalVotes": 23229,
+      "demPct": 29.54,
+      "repPct": 70.46,
+      "candidates": [
+        {
+          "name": "T. J. ROBERTS",
+          "party": "rep",
+          "votes": 16368
+        },
+        {
+          "name": "Peggy HOUSTON-NIENABER",
+          "party": "dem",
+          "votes": 6861
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-67",
+      "winner": "Matthew LEHMAN",
+      "winnerParty": "dem",
+      "demVotes": 9435,
+      "repVotes": 9405,
+      "totalVotes": 18840,
+      "demPct": 50.08,
+      "repPct": 49.92,
+      "candidates": [
+        {
+          "name": "Matthew LEHMAN",
+          "party": "dem",
+          "votes": 9435
+        },
+        {
+          "name": "Terry W. HATTON",
+          "party": "rep",
+          "votes": 9405
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-68",
+      "winner": "Mike CLINES",
+      "winnerParty": "rep",
+      "demVotes": 8456,
+      "repVotes": 16325,
+      "totalVotes": 24781,
+      "demPct": 34.12,
+      "repPct": 65.88,
+      "candidates": [
+        {
+          "name": "Mike CLINES",
+          "party": "rep",
+          "votes": 16325
+        },
+        {
+          "name": "K. Brandon LONG",
+          "party": "dem",
+          "votes": 8456
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-69",
+      "winner": "Steven DOAN",
+      "winnerParty": "rep",
+      "demVotes": 6563,
+      "repVotes": 10814,
+      "totalVotes": 17377,
+      "demPct": 37.77,
+      "repPct": 62.23,
+      "candidates": [
+        {
+          "name": "Steven DOAN",
+          "party": "rep",
+          "votes": 10814
+        },
+        {
+          "name": "Wilanne STANGEL",
+          "party": "dem",
+          "votes": 6563
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-70",
+      "winner": "William Lee LAWRENCE",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 17507,
+      "totalVotes": 17507,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "William Lee LAWRENCE",
+          "party": "rep",
+          "votes": 17507
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-71",
+      "winner": "Josh BRAY",
+      "winnerParty": "rep",
+      "demVotes": 4350,
+      "repVotes": 15168,
+      "totalVotes": 19518,
+      "demPct": 22.29,
+      "repPct": 77.71,
+      "candidates": [
+        {
+          "name": "Josh BRAY",
+          "party": "rep",
+          "votes": 15168
+        },
+        {
+          "name": "Rachelle RIDDLE",
+          "party": "dem",
+          "votes": 4350
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-72",
+      "winner": "Matthew R. KOCH",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 15453,
+      "totalVotes": 15453,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Matthew R. KOCH",
+          "party": "rep",
+          "votes": 15453
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-73",
+      "winner": "D. Ryan DOTSON",
+      "winnerParty": "rep",
+      "demVotes": 8446,
+      "repVotes": 12799,
+      "totalVotes": 21245,
+      "demPct": 39.76,
+      "repPct": 60.24,
+      "candidates": [
+        {
+          "name": "D. Ryan DOTSON",
+          "party": "rep",
+          "votes": 12799
+        },
+        {
+          "name": "Rory HOULIHAN",
+          "party": "dem",
+          "votes": 8446
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-74",
+      "winner": "David HALE",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 17010,
+      "totalVotes": 17010,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "David HALE",
+          "party": "rep",
+          "votes": 17010
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-75",
+      "winner": "Lindsey BURKE",
+      "winnerParty": "dem",
+      "demVotes": 11226,
+      "repVotes": 0,
+      "totalVotes": 11226,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Lindsey BURKE",
+          "party": "dem",
+          "votes": 11226
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-76",
+      "winner": "Anne Gay DONWORTH",
+      "winnerParty": "dem",
+      "demVotes": 13950,
+      "repVotes": 0,
+      "totalVotes": 13950,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Anne Gay DONWORTH",
+          "party": "dem",
+          "votes": 13950
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-77",
+      "winner": "George A. BROWN JR.",
+      "winnerParty": "dem",
+      "demVotes": 12134,
+      "repVotes": 4733,
+      "totalVotes": 16867,
+      "demPct": 71.94,
+      "repPct": 28.06,
+      "candidates": [
+        {
+          "name": "George A. BROWN JR.",
+          "party": "dem",
+          "votes": 12134
+        },
+        {
+          "name": "Jason GRIFFITH",
+          "party": "rep",
+          "votes": 4733
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-78",
+      "winner": "Mark HART",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 17024,
+      "totalVotes": 17024,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Mark HART",
+          "party": "rep",
+          "votes": 17024
+        },
+        {
+          "name": "Timothy D. JOHNSON",
+          "party": "ind",
+          "votes": 3770
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-79",
+      "winner": "Chad AULL",
+      "winnerParty": "dem",
+      "demVotes": 12189,
+      "repVotes": 0,
+      "totalVotes": 12189,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Chad AULL",
+          "party": "dem",
+          "votes": 12189
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-80",
+      "winner": "David MEADE",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 17542,
+      "totalVotes": 17542,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "David MEADE",
+          "party": "rep",
+          "votes": 17542
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-81",
+      "winner": "Deanna Frazier GORDON",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 17129,
+      "totalVotes": 17129,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Deanna Frazier GORDON",
+          "party": "rep",
+          "votes": 17129
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-82",
+      "winner": "Nick WILSON",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 15343,
+      "totalVotes": 15343,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Nick WILSON",
+          "party": "rep",
+          "votes": 15343
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-83",
+      "winner": "Joshua BRANSCUM",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 18293,
+      "totalVotes": 18293,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Joshua BRANSCUM",
+          "party": "rep",
+          "votes": 18293
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-84",
+      "winner": "Chris FUGATE",
+      "winnerParty": "rep",
+      "demVotes": 5698,
+      "repVotes": 10607,
+      "totalVotes": 16305,
+      "demPct": 34.95,
+      "repPct": 65.05,
+      "candidates": [
+        {
+          "name": "Chris FUGATE",
+          "party": "rep",
+          "votes": 10607
+        },
+        {
+          "name": "Zackary H. HALL",
+          "party": "dem",
+          "votes": 5698
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-85",
+      "winner": "R. Shane BAKER",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 17978,
+      "totalVotes": 17978,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "R. Shane BAKER",
+          "party": "rep",
+          "votes": 17978
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-86",
+      "winner": "Tom O'dell SMITH",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 15285,
+      "totalVotes": 15285,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Tom O'dell SMITH",
+          "party": "rep",
+          "votes": 15285
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-87",
+      "winner": "Adam BOWLING",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 13490,
+      "totalVotes": 13490,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Adam BOWLING",
+          "party": "rep",
+          "votes": 13490
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-88",
+      "winner": "Vanessa GROSSL",
+      "winnerParty": "rep",
+      "demVotes": 11388,
+      "repVotes": 11602,
+      "totalVotes": 22990,
+      "demPct": 49.53,
+      "repPct": 50.47,
+      "candidates": [
+        {
+          "name": "Vanessa GROSSL",
+          "party": "rep",
+          "votes": 11602
+        },
+        {
+          "name": "Cherlynn STEVENSON",
+          "party": "dem",
+          "votes": 11388
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-89",
+      "winner": "Timmy TRUETT",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 17867,
+      "totalVotes": 17867,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Timmy TRUETT",
+          "party": "rep",
+          "votes": 17867
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-90",
+      "winner": "Derek LEWIS",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 16293,
+      "totalVotes": 16293,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Derek LEWIS",
+          "party": "rep",
+          "votes": 16293
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-91",
+      "winner": "Billy E. WESLEY",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 14878,
+      "totalVotes": 14878,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Billy E. WESLEY",
+          "party": "rep",
+          "votes": 14878
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-92",
+      "winner": "John BLANTON",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 14751,
+      "totalVotes": 14751,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "John BLANTON",
+          "party": "rep",
+          "votes": 14751
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-93",
+      "winner": "Adrielle CAMUEL",
+      "winnerParty": "dem",
+      "demVotes": 13034,
+      "repVotes": 0,
+      "totalVotes": 13034,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Adrielle CAMUEL",
+          "party": "dem",
+          "votes": 13034
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-94",
+      "winner": "Mitchum Addison WHITAKER",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 13429,
+      "totalVotes": 13429,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Mitchum Addison WHITAKER",
+          "party": "rep",
+          "votes": 13429
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-95",
+      "winner": "Ashley Tackett LAFERTY",
+      "winnerParty": "dem",
+      "demVotes": 10721,
+      "repVotes": 8330,
+      "totalVotes": 19051,
+      "demPct": 56.28,
+      "repPct": 43.72,
+      "candidates": [
+        {
+          "name": "Ashley Tackett LAFERTY",
+          "party": "dem",
+          "votes": 10721
+        },
+        {
+          "name": "Brandon SPENCER",
+          "party": "rep",
+          "votes": 8330
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-96",
+      "winner": "Patrick FLANNERY",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 16465,
+      "totalVotes": 16465,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Patrick FLANNERY",
+          "party": "rep",
+          "votes": 16465
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-97",
+      "winner": "Bobby W. MCCOOL",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 14907,
+      "totalVotes": 14907,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Bobby W. MCCOOL",
+          "party": "rep",
+          "votes": 14907
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-98",
+      "winner": "Aaron THOMPSON",
+      "winnerParty": "rep",
+      "demVotes": 6087,
+      "repVotes": 15561,
+      "totalVotes": 21648,
+      "demPct": 28.12,
+      "repPct": 71.88,
+      "candidates": [
+        {
+          "name": "Aaron THOMPSON",
+          "party": "rep",
+          "votes": 15561
+        },
+        {
+          "name": "Tammie WOMACK",
+          "party": "dem",
+          "votes": 6087
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-99",
+      "winner": "Richard L. WHITE",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 13351,
+      "totalVotes": 13351,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Richard L. WHITE",
+          "party": "rep",
+          "votes": 13351
+        }
+      ]
+    },
+    {
+      "districtId": "ky-hd-100",
+      "winner": "Scott L. SHARP",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 15034,
+      "totalVotes": 15034,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Scott L. SHARP",
+          "party": "rep",
+          "votes": 15034
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "districtId": "ky-sd-1",
+      "winner": "Jason G. HOWELL",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 42109,
+      "totalVotes": 42109,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Jason G. HOWELL",
+          "party": "rep",
+          "votes": 42109
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-2",
+      "winner": "Danny CARROLL",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 34951,
+      "totalVotes": 34951,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Danny CARROLL",
+          "party": "rep",
+          "votes": 34951
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-3",
+      "winner": "Craig B. RICHARDSON",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 31672,
+      "totalVotes": 31672,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Craig B. RICHARDSON",
+          "party": "rep",
+          "votes": 31672
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-4",
+      "winner": "Robert M Robby MILLS",
+      "winnerParty": "rep",
+      "demVotes": 12585,
+      "repVotes": 25141,
+      "totalVotes": 37726,
+      "demPct": 33.36,
+      "repPct": 66.64,
+      "candidates": [
+        {
+          "name": "Robert M Robby MILLS",
+          "party": "rep",
+          "votes": 25141
+        },
+        {
+          "name": "Bruce A PRITCHETT",
+          "party": "dem",
+          "votes": 12585
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-5",
+      "winner": "Stephen MEREDITH",
+      "winnerParty": "rep",
+      "demVotes": 10404,
+      "repVotes": 41431,
+      "totalVotes": 51835,
+      "demPct": 20.07,
+      "repPct": 79.93,
+      "candidates": [
+        {
+          "name": "Stephen MEREDITH",
+          "party": "rep",
+          "votes": 41431
+        },
+        {
+          "name": "Jamie SKUDLAREK",
+          "party": "dem",
+          "votes": 10404
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-6",
+      "winner": "Lindsey TICHENOR",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 31110,
+      "totalVotes": 31110,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Lindsey TICHENOR",
+          "party": "rep",
+          "votes": 31110
+        },
+        {
+          "name": "Brian Joseph EASLEY",
+          "party": "ind",
+          "votes": 1201
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-7",
+      "winner": "Aaron REED",
+      "winnerParty": "rep",
+      "demVotes": 19112,
+      "repVotes": 40538,
+      "totalVotes": 59650,
+      "demPct": 32.04,
+      "repPct": 67.96,
+      "candidates": [
+        {
+          "name": "Aaron REED",
+          "party": "rep",
+          "votes": 40538
+        },
+        {
+          "name": "Rhonda DAVIS",
+          "party": "dem",
+          "votes": 19112
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-8",
+      "winner": "Gary M BOSWELL",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 29630,
+      "totalVotes": 29630,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Gary M BOSWELL",
+          "party": "rep",
+          "votes": 29630
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-9",
+      "winner": "David P. GIVENS",
+      "winnerParty": "rep",
+      "demVotes": 12303,
+      "repVotes": 37580,
+      "totalVotes": 49883,
+      "demPct": 24.66,
+      "repPct": 75.34,
+      "candidates": [
+        {
+          "name": "David P. GIVENS",
+          "party": "rep",
+          "votes": 37580
+        },
+        {
+          "name": "Karen M. PENNINGTON",
+          "party": "dem",
+          "votes": 12303
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-10",
+      "winner": "Matthew D DENEEN",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 23606,
+      "totalVotes": 23606,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Matthew D DENEEN",
+          "party": "rep",
+          "votes": 23606
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-11",
+      "winner": "Steve RAWLINGS",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 42770,
+      "totalVotes": 42770,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Steve RAWLINGS",
+          "party": "rep",
+          "votes": 42770
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-12",
+      "winner": "Amanda Mays BLEDSOE",
+      "winnerParty": "rep",
+      "demVotes": 19046,
+      "repVotes": 29181,
+      "totalVotes": 48227,
+      "demPct": 39.49,
+      "repPct": 60.51,
+      "candidates": [
+        {
+          "name": "Amanda Mays BLEDSOE",
+          "party": "rep",
+          "votes": 29181
+        },
+        {
+          "name": "Bill OBRIEN",
+          "party": "dem",
+          "votes": 19046
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-13",
+      "winner": "Reggie THOMAS",
+      "winnerParty": "dem",
+      "demVotes": 32218,
+      "repVotes": 0,
+      "totalVotes": 32218,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Reggie THOMAS",
+          "party": "dem",
+          "votes": 32218
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-14",
+      "winner": "Jimmy HIGDON",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 33142,
+      "totalVotes": 33142,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Jimmy HIGDON",
+          "party": "rep",
+          "votes": 33142
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-15",
+      "winner": "Rick GIRDLER",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 47378,
+      "totalVotes": 47378,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Rick GIRDLER",
+          "party": "rep",
+          "votes": 47378
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-16",
+      "winner": "George Maxwell Max WISE",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 31887,
+      "totalVotes": 31887,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "George Maxwell Max WISE",
+          "party": "rep",
+          "votes": 31887
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-17",
+      "winner": "Matt NUNN",
+      "winnerParty": "rep",
+      "demVotes": 18821,
+      "repVotes": 42263,
+      "totalVotes": 61084,
+      "demPct": 30.81,
+      "repPct": 69.19,
+      "candidates": [
+        {
+          "name": "Matt NUNN",
+          "party": "rep",
+          "votes": 42263
+        },
+        {
+          "name": "Kiana FIELDS",
+          "party": "dem",
+          "votes": 18821
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-18",
+      "winner": "Robin L WEBB",
+      "winnerParty": "dem",
+      "demVotes": 23308,
+      "repVotes": 0,
+      "totalVotes": 23308,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Robin L WEBB",
+          "party": "dem",
+          "votes": 23308
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-19",
+      "winner": "Cassie Chambers ARMSTRONG",
+      "winnerParty": "dem",
+      "demVotes": 41206,
+      "repVotes": 0,
+      "totalVotes": 41206,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Cassie Chambers ARMSTRONG",
+          "party": "dem",
+          "votes": 41206
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-20",
+      "winner": "Gex Jay WILLIAMS",
+      "winnerParty": "rep",
+      "demVotes": 17206,
+      "repVotes": 22166,
+      "totalVotes": 39372,
+      "demPct": 43.7,
+      "repPct": 56.3,
+      "candidates": [
+        {
+          "name": "Gex Jay WILLIAMS",
+          "party": "rep",
+          "votes": 22166
+        },
+        {
+          "name": "Teresa Azbill BARTON",
+          "party": "dem",
+          "votes": 17206
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-21",
+      "winner": "Brandon J. STORM",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 46323,
+      "totalVotes": 46323,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Brandon J. STORM",
+          "party": "rep",
+          "votes": 46323
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-22",
+      "winner": "Donald DOUGLAS",
+      "winnerParty": "rep",
+      "demVotes": 15843,
+      "repVotes": 23486,
+      "totalVotes": 39329,
+      "demPct": 40.28,
+      "repPct": 59.72,
+      "candidates": [
+        {
+          "name": "Chuck EDDY",
+          "party": "dem",
+          "votes": 15843
+        },
+        {
+          "name": "Donald DOUGLAS",
+          "party": "rep",
+          "votes": 23486
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-23",
+      "winner": "Chris MCDANIEL",
+      "winnerParty": "rep",
+      "demVotes": 22731,
+      "repVotes": 34101,
+      "totalVotes": 56832,
+      "demPct": 40,
+      "repPct": 60,
+      "candidates": [
+        {
+          "name": "Chris MCDANIEL",
+          "party": "rep",
+          "votes": 34101
+        },
+        {
+          "name": "Jennifer SIERRA",
+          "party": "dem",
+          "votes": 22731
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-24",
+      "winner": "Shelley Funke FROMMEYER",
+      "winnerParty": "rep",
+      "demVotes": 16960,
+      "repVotes": 27346,
+      "totalVotes": 44306,
+      "demPct": 38.28,
+      "repPct": 61.72,
+      "candidates": [
+        {
+          "name": "Shelley Funke FROMMEYER",
+          "party": "rep",
+          "votes": 27346
+        },
+        {
+          "name": "Rene HEINRICH",
+          "party": "dem",
+          "votes": 16960
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-25",
+      "winner": "Robert STIVERS",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 41174,
+      "totalVotes": 41174,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Robert STIVERS",
+          "party": "rep",
+          "votes": 41174
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-26",
+      "winner": "Karen BERG",
+      "winnerParty": "dem",
+      "demVotes": 28830,
+      "repVotes": 18855,
+      "totalVotes": 47685,
+      "demPct": 60.46,
+      "repPct": 39.54,
+      "candidates": [
+        {
+          "name": "Karen BERG",
+          "party": "dem",
+          "votes": 28830
+        },
+        {
+          "name": "James PEDEN",
+          "party": "rep",
+          "votes": 18855
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-27",
+      "winner": "Steve WEST",
+      "winnerParty": "rep",
+      "demVotes": 20513,
+      "repVotes": 34835,
+      "totalVotes": 55348,
+      "demPct": 37.06,
+      "repPct": 62.94,
+      "candidates": [
+        {
+          "name": "Steve WEST",
+          "party": "rep",
+          "votes": 34835
+        },
+        {
+          "name": "Molly Gene CRAIN",
+          "party": "dem",
+          "votes": 20513
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-28",
+      "winner": "Ralph ALVARADO",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 27097,
+      "totalVotes": 27097,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Ralph ALVARADO",
+          "party": "rep",
+          "votes": 27097
+        },
+        {
+          "name": "Joshua D BUCKMAN",
+          "party": "ind",
+          "votes": 551
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-29",
+      "winner": "Scott MADON",
+      "winnerParty": "ind",
+      "demVotes": 0,
+      "repVotes": 0,
+      "totalVotes": 0,
+      "demPct": 0,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Scott MADON",
+          "party": "ind",
+          "votes": 6825
+        },
+        {
+          "name": "Willie CRASE",
+          "party": "ind",
+          "votes": 2892
+        },
+        {
+          "name": "James Tyler WARD",
+          "party": "ind",
+          "votes": 2006
+        },
+        {
+          "name": "James Richard Tanner HESTERBERG",
+          "party": "ind",
+          "votes": 1908
+        },
+        {
+          "name": "Justin Wade NOBLE",
+          "party": "ind",
+          "votes": 1844
+        },
+        {
+          "name": "Leonard HENDRICKSON",
+          "party": "ind",
+          "votes": 1266
+        },
+        {
+          "name": "Valerie Ison HORN",
+          "party": "ind",
+          "votes": 1238
+        },
+        {
+          "name": "Craig E. BLACKBURN",
+          "party": "ind",
+          "votes": 722
+        },
+        {
+          "name": "John CLEM",
+          "party": "ind",
+          "votes": 443
+        },
+        {
+          "name": "Paul WILLIAMS",
+          "party": "ind",
+          "votes": 152
+        },
+        {
+          "name": "Andrew Thomas SAYLOR",
+          "party": "ind",
+          "votes": 106
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-30",
+      "winner": "Brandon D SMITH",
+      "winnerParty": "rep",
+      "demVotes": 9116,
+      "repVotes": 25581,
+      "totalVotes": 34697,
+      "demPct": 26.27,
+      "repPct": 73.73,
+      "candidates": [
+        {
+          "name": "Brandon D SMITH",
+          "party": "rep",
+          "votes": 25581
+        },
+        {
+          "name": "Sid ALLEN",
+          "party": "dem",
+          "votes": 9116
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-31",
+      "winner": "C. Phillip WHEELER JR.",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 37422,
+      "totalVotes": 37422,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "C. Phillip WHEELER JR.",
+          "party": "rep",
+          "votes": 37422
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-32",
+      "winner": "Mike WILSON",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 28682,
+      "totalVotes": 28682,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Mike WILSON",
+          "party": "rep",
+          "votes": 28682
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-33",
+      "winner": "Gerald A. NEAL",
+      "winnerParty": "dem",
+      "demVotes": 31265,
+      "repVotes": 0,
+      "totalVotes": 31265,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Gerald A. NEAL",
+          "party": "dem",
+          "votes": 31265
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-34",
+      "winner": "Jared K CARPENTER",
+      "winnerParty": "rep",
+      "demVotes": 17322,
+      "repVotes": 25049,
+      "totalVotes": 42371,
+      "demPct": 40.88,
+      "repPct": 59.12,
+      "candidates": [
+        {
+          "name": "Susan CINTRA",
+          "party": "dem",
+          "votes": 17322
+        },
+        {
+          "name": "Jared K CARPENTER",
+          "party": "rep",
+          "votes": 25049
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-35",
+      "winner": "Keturah J. HERRON",
+      "winnerParty": "dem",
+      "demVotes": 24717,
+      "repVotes": 0,
+      "totalVotes": 24717,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Keturah J. HERRON",
+          "party": "dem",
+          "votes": 24717
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-36",
+      "winner": "Julie Raque ADAMS",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 36845,
+      "totalVotes": 36845,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Julie Raque ADAMS",
+          "party": "rep",
+          "votes": 36845
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-37",
+      "winner": "David YATES",
+      "winnerParty": "dem",
+      "demVotes": 25124,
+      "repVotes": 16460,
+      "totalVotes": 41584,
+      "demPct": 60.42,
+      "repPct": 39.58,
+      "candidates": [
+        {
+          "name": "David YATES",
+          "party": "dem",
+          "votes": 25124
+        },
+        {
+          "name": "Calvin LEACH",
+          "party": "rep",
+          "votes": 16460
+        }
+      ]
+    },
+    {
+      "districtId": "ky-sd-38",
+      "winner": "Mike NEMES",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 26768,
+      "totalVotes": 26768,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Mike NEMES",
+          "party": "rep",
+          "votes": 26768
+        }
+      ]
+    }
+  ]
+}

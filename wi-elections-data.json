@@ -1,0 +1,2810 @@
+{
+  "house": [
+    {
+      "districtId": "wi-hd-1",
+      "winner": "Joel Kitchens",
+      "winnerParty": "rep",
+      "demVotes": 14801,
+      "repVotes": 24101,
+      "totalVotes": 38902,
+      "demPct": 38.05,
+      "repPct": 61.95,
+      "candidates": [
+        {
+          "name": "Renee Paplham",
+          "party": "dem",
+          "votes": 14801
+        },
+        {
+          "name": "Joel Kitchens",
+          "party": "rep",
+          "votes": 24101
+        },
+        {
+          "name": "Milt Swagel (Write-in)",
+          "party": "ind",
+          "votes": 5
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-2",
+      "winner": "Shae Sortwell",
+      "winnerParty": "rep",
+      "demVotes": 13474,
+      "repVotes": 23198,
+      "totalVotes": 36672,
+      "demPct": 36.74,
+      "repPct": 63.26,
+      "candidates": [
+        {
+          "name": "Alicia Saunders",
+          "party": "dem",
+          "votes": 13474
+        },
+        {
+          "name": "Shae Sortwell",
+          "party": "rep",
+          "votes": 23198
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-3",
+      "winner": "Ron Tusler",
+      "winnerParty": "rep",
+      "demVotes": 12839,
+      "repVotes": 23344,
+      "totalVotes": 36183,
+      "demPct": 35.48,
+      "repPct": 64.52,
+      "candidates": [
+        {
+          "name": "Jason Schmitz",
+          "party": "dem",
+          "votes": 12839
+        },
+        {
+          "name": "Ron Tusler",
+          "party": "rep",
+          "votes": 23344
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-4",
+      "winner": "David Steffen",
+      "winnerParty": "rep",
+      "demVotes": 12579,
+      "repVotes": 24629,
+      "totalVotes": 37208,
+      "demPct": 33.81,
+      "repPct": 66.19,
+      "candidates": [
+        {
+          "name": "Jane Benson",
+          "party": "dem",
+          "votes": 12579
+        },
+        {
+          "name": "David Steffen",
+          "party": "rep",
+          "votes": 24629
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-5",
+      "winner": "Joy Goeben",
+      "winnerParty": "rep",
+      "demVotes": 13063,
+      "repVotes": 22041,
+      "totalVotes": 35104,
+      "demPct": 37.21,
+      "repPct": 62.79,
+      "candidates": [
+        {
+          "name": "Greg Sampson",
+          "party": "dem",
+          "votes": 13063
+        },
+        {
+          "name": "Joy Goeben",
+          "party": "rep",
+          "votes": 22041
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-6",
+      "winner": "Elijah Behnke",
+      "winnerParty": "rep",
+      "demVotes": 10593,
+      "repVotes": 21941,
+      "totalVotes": 32534,
+      "demPct": 32.56,
+      "repPct": 67.44,
+      "candidates": [
+        {
+          "name": "Shirley Hinze",
+          "party": "dem",
+          "votes": 10593
+        },
+        {
+          "name": "Elijah Behnke",
+          "party": "rep",
+          "votes": 21941
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-7",
+      "winner": "Karen Kirsch",
+      "winnerParty": "dem",
+      "demVotes": 16014,
+      "repVotes": 11289,
+      "totalVotes": 27303,
+      "demPct": 58.65,
+      "repPct": 41.35,
+      "candidates": [
+        {
+          "name": "Karen Kirsch",
+          "party": "dem",
+          "votes": 16014
+        },
+        {
+          "name": "Lee Whiting",
+          "party": "rep",
+          "votes": 11289
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-8",
+      "winner": "Sylvia Ortiz-Velez",
+      "winnerParty": "dem",
+      "demVotes": 10987,
+      "repVotes": 0,
+      "totalVotes": 10987,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Sylvia Ortiz-Velez",
+          "party": "dem",
+          "votes": 10987
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-9",
+      "winner": "PRISCILLA A. PRADO",
+      "winnerParty": "dem",
+      "demVotes": 12449,
+      "repVotes": 5234,
+      "totalVotes": 17683,
+      "demPct": 70.4,
+      "repPct": 29.6,
+      "candidates": [
+        {
+          "name": "PRISCILLA A. PRADO",
+          "party": "dem",
+          "votes": 12449
+        },
+        {
+          "name": "Ryan Antczak",
+          "party": "rep",
+          "votes": 5234
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-10",
+      "winner": "Darrin Madison",
+      "winnerParty": "dem",
+      "demVotes": 24882,
+      "repVotes": 0,
+      "totalVotes": 24882,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Darrin Madison",
+          "party": "dem",
+          "votes": 24882
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-11",
+      "winner": "Sequanna Taylor",
+      "winnerParty": "dem",
+      "demVotes": 20392,
+      "repVotes": 0,
+      "totalVotes": 20392,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Sequanna Taylor",
+          "party": "dem",
+          "votes": 20392
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-12",
+      "winner": "Russell Antonio Goodwin, Sr.",
+      "winnerParty": "dem",
+      "demVotes": 18391,
+      "repVotes": 0,
+      "totalVotes": 18391,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Russell Antonio Goodwin, Sr.",
+          "party": "dem",
+          "votes": 18391
+        },
+        {
+          "name": "Deanna Alexander",
+          "party": "ind",
+          "votes": 4331
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-13",
+      "winner": "Robyn Vining",
+      "winnerParty": "dem",
+      "demVotes": 22540,
+      "repVotes": 16796,
+      "totalVotes": 39336,
+      "demPct": 57.3,
+      "repPct": 42.7,
+      "candidates": [
+        {
+          "name": "Robyn Vining",
+          "party": "dem",
+          "votes": 22540
+        },
+        {
+          "name": "Tom Michalski",
+          "party": "rep",
+          "votes": 16796
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-14",
+      "winner": "Angelito Tenorio",
+      "winnerParty": "dem",
+      "demVotes": 15637,
+      "repVotes": 12896,
+      "totalVotes": 28533,
+      "demPct": 54.8,
+      "repPct": 45.2,
+      "candidates": [
+        {
+          "name": "Angelito Tenorio",
+          "party": "dem",
+          "votes": 15637
+        },
+        {
+          "name": "Jim Engstrand",
+          "party": "rep",
+          "votes": 12896
+        },
+        {
+          "name": "Steven Shevey",
+          "party": "ind",
+          "votes": 1117
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-15",
+      "winner": "Adam Neylon",
+      "winnerParty": "rep",
+      "demVotes": 15598,
+      "repVotes": 22573,
+      "totalVotes": 38171,
+      "demPct": 40.86,
+      "repPct": 59.14,
+      "candidates": [
+        {
+          "name": "Sarah Harrison",
+          "party": "dem",
+          "votes": 15598
+        },
+        {
+          "name": "Adam Neylon",
+          "party": "rep",
+          "votes": 22573
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-16",
+      "winner": "Kalan Haywood",
+      "winnerParty": "dem",
+      "demVotes": 20079,
+      "repVotes": 0,
+      "totalVotes": 20079,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Kalan Haywood",
+          "party": "dem",
+          "votes": 20079
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-17",
+      "winner": "Supreme Moore Omokunde",
+      "winnerParty": "dem",
+      "demVotes": 24469,
+      "repVotes": 0,
+      "totalVotes": 24469,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Supreme Moore Omokunde",
+          "party": "dem",
+          "votes": 24469
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-18",
+      "winner": "Margaret Arney",
+      "winnerParty": "dem",
+      "demVotes": 20801,
+      "repVotes": 4431,
+      "totalVotes": 25232,
+      "demPct": 82.44,
+      "repPct": 17.56,
+      "candidates": [
+        {
+          "name": "Margaret Arney",
+          "party": "dem",
+          "votes": 20801
+        },
+        {
+          "name": "Kevin Anderson",
+          "party": "rep",
+          "votes": 4431
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-19",
+      "winner": "Ryan Clancy",
+      "winnerParty": "dem",
+      "demVotes": 30112,
+      "repVotes": 0,
+      "totalVotes": 30112,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Ryan Clancy",
+          "party": "dem",
+          "votes": 30112
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-20",
+      "winner": "Christine M. Sinicki",
+      "winnerParty": "dem",
+      "demVotes": 20018,
+      "repVotes": 12740,
+      "totalVotes": 32758,
+      "demPct": 61.11,
+      "repPct": 38.89,
+      "candidates": [
+        {
+          "name": "Christine M. Sinicki",
+          "party": "dem",
+          "votes": 20018
+        },
+        {
+          "name": "Mike Moeller",
+          "party": "rep",
+          "votes": 12740
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-21",
+      "winner": "Jessie Rodriguez",
+      "winnerParty": "rep",
+      "demVotes": 15993,
+      "repVotes": 16923,
+      "totalVotes": 32916,
+      "demPct": 48.59,
+      "repPct": 51.41,
+      "candidates": [
+        {
+          "name": "David L. Marstellar Jr",
+          "party": "dem",
+          "votes": 15993
+        },
+        {
+          "name": "Jessie Rodriguez",
+          "party": "rep",
+          "votes": 16923
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-22",
+      "winner": "Paul Melotik",
+      "winnerParty": "rep",
+      "demVotes": 17014,
+      "repVotes": 23566,
+      "totalVotes": 40580,
+      "demPct": 41.93,
+      "repPct": 58.07,
+      "candidates": [
+        {
+          "name": "Dana Glasstein",
+          "party": "dem",
+          "votes": 17014
+        },
+        {
+          "name": "Paul Melotik",
+          "party": "rep",
+          "votes": 23566
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-23",
+      "winner": "Deb Andraca",
+      "winnerParty": "dem",
+      "demVotes": 23804,
+      "repVotes": 14199,
+      "totalVotes": 38003,
+      "demPct": 62.64,
+      "repPct": 37.36,
+      "candidates": [
+        {
+          "name": "Deb Andraca",
+          "party": "dem",
+          "votes": 23804
+        },
+        {
+          "name": "Laurie O'Brien Wolf",
+          "party": "rep",
+          "votes": 14199
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-24",
+      "winner": "Dan Knodl",
+      "winnerParty": "rep",
+      "demVotes": 15887,
+      "repVotes": 23858,
+      "totalVotes": 39745,
+      "demPct": 39.97,
+      "repPct": 60.03,
+      "candidates": [
+        {
+          "name": "William Walter",
+          "party": "dem",
+          "votes": 15887
+        },
+        {
+          "name": "Dan Knodl",
+          "party": "rep",
+          "votes": 23858
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-25",
+      "winner": "Paul Tittl",
+      "winnerParty": "rep",
+      "demVotes": 12123,
+      "repVotes": 19587,
+      "totalVotes": 31710,
+      "demPct": 38.23,
+      "repPct": 61.77,
+      "candidates": [
+        {
+          "name": "Stephen R. Welch",
+          "party": "dem",
+          "votes": 12123
+        },
+        {
+          "name": "Paul Tittl",
+          "party": "rep",
+          "votes": 19587
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-26",
+      "winner": "Joe Sheehan",
+      "winnerParty": "dem",
+      "demVotes": 14887,
+      "repVotes": 14042,
+      "totalVotes": 28929,
+      "demPct": 51.46,
+      "repPct": 48.54,
+      "candidates": [
+        {
+          "name": "Joe Sheehan",
+          "party": "dem",
+          "votes": 14887
+        },
+        {
+          "name": "Amy Binsfeld",
+          "party": "rep",
+          "votes": 14042
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-27",
+      "winner": "Lindee Rae Brill",
+      "winnerParty": "rep",
+      "demVotes": 12139,
+      "repVotes": 25477,
+      "totalVotes": 37616,
+      "demPct": 32.27,
+      "repPct": 67.73,
+      "candidates": [
+        {
+          "name": "Kay Ladson",
+          "party": "dem",
+          "votes": 12139
+        },
+        {
+          "name": "Lindee Rae Brill",
+          "party": "rep",
+          "votes": 25477
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-28",
+      "winner": "Rob Kreibich",
+      "winnerParty": "rep",
+      "demVotes": 12245,
+      "repVotes": 23979,
+      "totalVotes": 36224,
+      "demPct": 33.8,
+      "repPct": 66.2,
+      "candidates": [
+        {
+          "name": "Danielle Johnson",
+          "party": "dem",
+          "votes": 12245
+        },
+        {
+          "name": "Rob Kreibich",
+          "party": "rep",
+          "votes": 23979
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-29",
+      "winner": "Treig E. Pronschinske",
+      "winnerParty": "rep",
+      "demVotes": 11675,
+      "repVotes": 21619,
+      "totalVotes": 33294,
+      "demPct": 35.07,
+      "repPct": 64.93,
+      "candidates": [
+        {
+          "name": "Terry Schoonover",
+          "party": "dem",
+          "votes": 11675
+        },
+        {
+          "name": "Treig E. Pronschinske",
+          "party": "rep",
+          "votes": 21619
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-30",
+      "winner": "Shannon Zimmerman",
+      "winnerParty": "rep",
+      "demVotes": 17117,
+      "repVotes": 20309,
+      "totalVotes": 37426,
+      "demPct": 45.74,
+      "repPct": 54.26,
+      "candidates": [
+        {
+          "name": "Alison H. Page",
+          "party": "dem",
+          "votes": 17117
+        },
+        {
+          "name": "Shannon Zimmerman",
+          "party": "rep",
+          "votes": 20309
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-31",
+      "winner": "Tyler August",
+      "winnerParty": "rep",
+      "demVotes": 11965,
+      "repVotes": 20769,
+      "totalVotes": 32734,
+      "demPct": 36.55,
+      "repPct": 63.45,
+      "candidates": [
+        {
+          "name": "John H. Henderson",
+          "party": "dem",
+          "votes": 11965
+        },
+        {
+          "name": "Tyler August",
+          "party": "rep",
+          "votes": 20769
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-32",
+      "winner": "Amanda Nedweski",
+      "winnerParty": "rep",
+      "demVotes": 11409,
+      "repVotes": 24257,
+      "totalVotes": 35666,
+      "demPct": 31.99,
+      "repPct": 68.01,
+      "candidates": [
+        {
+          "name": "Michael Dhindsa",
+          "party": "dem",
+          "votes": 11409
+        },
+        {
+          "name": "Amanda Nedweski",
+          "party": "rep",
+          "votes": 24257
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-33",
+      "winner": "Robin J. Vos",
+      "winnerParty": "rep",
+      "demVotes": 10739,
+      "repVotes": 20555,
+      "totalVotes": 31294,
+      "demPct": 34.32,
+      "repPct": 65.68,
+      "candidates": [
+        {
+          "name": "Alan Kupsik",
+          "party": "dem",
+          "votes": 10739
+        },
+        {
+          "name": "Robin J. Vos",
+          "party": "rep",
+          "votes": 20555
+        },
+        {
+          "name": "Kelly Clark",
+          "party": "ind",
+          "votes": 4743
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-34",
+      "winner": "Rob Swearingen",
+      "winnerParty": "rep",
+      "demVotes": 14027,
+      "repVotes": 25040,
+      "totalVotes": 39067,
+      "demPct": 35.9,
+      "repPct": 64.1,
+      "candidates": [
+        {
+          "name": "Dennis Nitzel, Sr.",
+          "party": "dem",
+          "votes": 14027
+        },
+        {
+          "name": "Rob Swearingen",
+          "party": "rep",
+          "votes": 25040
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-35",
+      "winner": "Calvin Callahan",
+      "winnerParty": "rep",
+      "demVotes": 11616,
+      "repVotes": 24421,
+      "totalVotes": 36037,
+      "demPct": 32.23,
+      "repPct": 67.77,
+      "candidates": [
+        {
+          "name": "Elizabeth McCrank",
+          "party": "dem",
+          "votes": 11616
+        },
+        {
+          "name": "Calvin Callahan",
+          "party": "rep",
+          "votes": 24421
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-36",
+      "winner": "Jeffrey L. Mursau",
+      "winnerParty": "rep",
+      "demVotes": 10182,
+      "repVotes": 24905,
+      "totalVotes": 35087,
+      "demPct": 29.02,
+      "repPct": 70.98,
+      "candidates": [
+        {
+          "name": "Ben Murray",
+          "party": "dem",
+          "votes": 10182
+        },
+        {
+          "name": "Jeffrey L. Mursau",
+          "party": "rep",
+          "votes": 24905
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-37",
+      "winner": "Mark L. Born",
+      "winnerParty": "rep",
+      "demVotes": 9608,
+      "repVotes": 20977,
+      "totalVotes": 30585,
+      "demPct": 31.41,
+      "repPct": 68.59,
+      "candidates": [
+        {
+          "name": "LaToya Bates",
+          "party": "dem",
+          "votes": 9608
+        },
+        {
+          "name": "Mark L. Born",
+          "party": "rep",
+          "votes": 20977
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-38",
+      "winner": "William Penterman",
+      "winnerParty": "rep",
+      "demVotes": 10745,
+      "repVotes": 22163,
+      "totalVotes": 32908,
+      "demPct": 32.65,
+      "repPct": 67.35,
+      "candidates": [
+        {
+          "name": "Izzy Hassey Nevarez",
+          "party": "dem",
+          "votes": 10745
+        },
+        {
+          "name": "William Penterman",
+          "party": "rep",
+          "votes": 22163
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-39",
+      "winner": "Alex Dallman",
+      "winnerParty": "rep",
+      "demVotes": 10168,
+      "repVotes": 23266,
+      "totalVotes": 33434,
+      "demPct": 30.41,
+      "repPct": 69.59,
+      "candidates": [
+        {
+          "name": "Chris Gordon",
+          "party": "dem",
+          "votes": 10168
+        },
+        {
+          "name": "Alex Dallman",
+          "party": "rep",
+          "votes": 23266
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-40",
+      "winner": "Karen DeSanto",
+      "winnerParty": "dem",
+      "demVotes": 17949,
+      "repVotes": 15221,
+      "totalVotes": 33170,
+      "demPct": 54.11,
+      "repPct": 45.89,
+      "candidates": [
+        {
+          "name": "Karen DeSanto",
+          "party": "dem",
+          "votes": 17949
+        },
+        {
+          "name": "Jerry Helmer",
+          "party": "rep",
+          "votes": 15221
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-41",
+      "winner": "Tony Kurtz",
+      "winnerParty": "rep",
+      "demVotes": 11677,
+      "repVotes": 19996,
+      "totalVotes": 31673,
+      "demPct": 36.87,
+      "repPct": 63.13,
+      "candidates": [
+        {
+          "name": "Julia Henley",
+          "party": "dem",
+          "votes": 11677
+        },
+        {
+          "name": "Tony Kurtz",
+          "party": "rep",
+          "votes": 19996
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-42",
+      "winner": "Maureen McCarville",
+      "winnerParty": "dem",
+      "demVotes": 20400,
+      "repVotes": 16648,
+      "totalVotes": 37048,
+      "demPct": 55.06,
+      "repPct": 44.94,
+      "candidates": [
+        {
+          "name": "Maureen McCarville",
+          "party": "dem",
+          "votes": 20400
+        },
+        {
+          "name": "Rebecca Witherspoon",
+          "party": "rep",
+          "votes": 16648
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-43",
+      "winner": "Brienne Brown",
+      "winnerParty": "dem",
+      "demVotes": 16736,
+      "repVotes": 15889,
+      "totalVotes": 32625,
+      "demPct": 51.3,
+      "repPct": 48.7,
+      "candidates": [
+        {
+          "name": "Brienne Brown",
+          "party": "dem",
+          "votes": 16736
+        },
+        {
+          "name": "Scott L. Johnson",
+          "party": "rep",
+          "votes": 15889
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-44",
+      "winner": "Ann Roe",
+      "winnerParty": "dem",
+      "demVotes": 17335,
+      "repVotes": 13371,
+      "totalVotes": 30706,
+      "demPct": 56.45,
+      "repPct": 43.55,
+      "candidates": [
+        {
+          "name": "Ann Roe",
+          "party": "dem",
+          "votes": 17335
+        },
+        {
+          "name": "Bruce Danielson",
+          "party": "rep",
+          "votes": 13371
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-45",
+      "winner": "Clinton Anderson",
+      "winnerParty": "dem",
+      "demVotes": 19864,
+      "repVotes": 0,
+      "totalVotes": 19864,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Clinton Anderson",
+          "party": "dem",
+          "votes": 19864
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-46",
+      "winner": "Joan Fitzgerald",
+      "winnerParty": "dem",
+      "demVotes": 18985,
+      "repVotes": 17219,
+      "totalVotes": 36204,
+      "demPct": 52.44,
+      "repPct": 47.56,
+      "candidates": [
+        {
+          "name": "Joan Fitzgerald",
+          "party": "dem",
+          "votes": 18985
+        },
+        {
+          "name": "Jenifer Quimby",
+          "party": "rep",
+          "votes": 17219
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-47",
+      "winner": "Randy Udell",
+      "winnerParty": "dem",
+      "demVotes": 29040,
+      "repVotes": 0,
+      "totalVotes": 29040,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Randy Udell",
+          "party": "dem",
+          "votes": 29040
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-48",
+      "winner": "Andrew Hysell",
+      "winnerParty": "dem",
+      "demVotes": 23816,
+      "repVotes": 11509,
+      "totalVotes": 35325,
+      "demPct": 67.42,
+      "repPct": 32.58,
+      "candidates": [
+        {
+          "name": "Andrew Hysell",
+          "party": "dem",
+          "votes": 23816
+        },
+        {
+          "name": "Lisa Rubrich",
+          "party": "rep",
+          "votes": 11509
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-49",
+      "winner": "Travis Tranel",
+      "winnerParty": "rep",
+      "demVotes": 11546,
+      "repVotes": 19701,
+      "totalVotes": 31247,
+      "demPct": 36.95,
+      "repPct": 63.05,
+      "candidates": [
+        {
+          "name": "Scott A. Walker",
+          "party": "dem",
+          "votes": 11546
+        },
+        {
+          "name": "Travis Tranel",
+          "party": "rep",
+          "votes": 19701
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-50",
+      "winner": "Jenna Jacobson",
+      "winnerParty": "dem",
+      "demVotes": 20418,
+      "repVotes": 15841,
+      "totalVotes": 36259,
+      "demPct": 56.31,
+      "repPct": 43.69,
+      "candidates": [
+        {
+          "name": "Jenna Jacobson",
+          "party": "dem",
+          "votes": 20418
+        },
+        {
+          "name": "Rich Johnson",
+          "party": "rep",
+          "votes": 15841
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-51",
+      "winner": "Todd Novak",
+      "winnerParty": "rep",
+      "demVotes": 16524,
+      "repVotes": 17682,
+      "totalVotes": 34206,
+      "demPct": 48.31,
+      "repPct": 51.69,
+      "candidates": [
+        {
+          "name": "Elizabeth Grabe",
+          "party": "dem",
+          "votes": 16524
+        },
+        {
+          "name": "Todd Novak",
+          "party": "rep",
+          "votes": 17682
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-52",
+      "winner": "Lee Snodgrass",
+      "winnerParty": "dem",
+      "demVotes": 17681,
+      "repVotes": 13203,
+      "totalVotes": 30884,
+      "demPct": 57.25,
+      "repPct": 42.75,
+      "candidates": [
+        {
+          "name": "Lee Snodgrass",
+          "party": "dem",
+          "votes": 17681
+        },
+        {
+          "name": "Chad Cooke",
+          "party": "rep",
+          "votes": 13203
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-53",
+      "winner": "Dean R. Kaufert",
+      "winnerParty": "rep",
+      "demVotes": 15437,
+      "repVotes": 15801,
+      "totalVotes": 31238,
+      "demPct": 49.42,
+      "repPct": 50.58,
+      "candidates": [
+        {
+          "name": "Duane J. Shukoski",
+          "party": "dem",
+          "votes": 15437
+        },
+        {
+          "name": "Dean R. Kaufert",
+          "party": "rep",
+          "votes": 15801
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-54",
+      "winner": "Lori Palmeri",
+      "winnerParty": "dem",
+      "demVotes": 14003,
+      "repVotes": 12590,
+      "totalVotes": 26593,
+      "demPct": 52.66,
+      "repPct": 47.34,
+      "candidates": [
+        {
+          "name": "Lori Palmeri",
+          "party": "dem",
+          "votes": 14003
+        },
+        {
+          "name": "Tim Paterson",
+          "party": "rep",
+          "votes": 12590
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-55",
+      "winner": "Nate Gustafson",
+      "winnerParty": "rep",
+      "demVotes": 14803,
+      "repVotes": 22609,
+      "totalVotes": 37412,
+      "demPct": 39.57,
+      "repPct": 60.43,
+      "candidates": [
+        {
+          "name": "Kyle Kehoe",
+          "party": "dem",
+          "votes": 14803
+        },
+        {
+          "name": "Nate Gustafson",
+          "party": "rep",
+          "votes": 22609
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-56",
+      "winner": "Dave Murphy",
+      "winnerParty": "rep",
+      "demVotes": 12950,
+      "repVotes": 23789,
+      "totalVotes": 36739,
+      "demPct": 35.25,
+      "repPct": 64.75,
+      "candidates": [
+        {
+          "name": "Emily Tseffos",
+          "party": "dem",
+          "votes": 12950
+        },
+        {
+          "name": "Dave Murphy",
+          "party": "rep",
+          "votes": 23789
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-57",
+      "winner": "Kevin Petersen",
+      "winnerParty": "rep",
+      "demVotes": 10048,
+      "repVotes": 22044,
+      "totalVotes": 32092,
+      "demPct": 31.31,
+      "repPct": 68.69,
+      "candidates": [
+        {
+          "name": "Ruth Caves",
+          "party": "dem",
+          "votes": 10048
+        },
+        {
+          "name": "Kevin Petersen",
+          "party": "rep",
+          "votes": 22044
+        },
+        {
+          "name": "Dylan Testin",
+          "party": "ind",
+          "votes": 3261
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-58",
+      "winner": "Rick Gundrum",
+      "winnerParty": "rep",
+      "demVotes": 10786,
+      "repVotes": 26847,
+      "totalVotes": 37633,
+      "demPct": 28.66,
+      "repPct": 71.34,
+      "candidates": [
+        {
+          "name": "Deb Anderson",
+          "party": "dem",
+          "votes": 10786
+        },
+        {
+          "name": "Rick Gundrum",
+          "party": "rep",
+          "votes": 26847
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-59",
+      "winner": "Robert Brooks",
+      "winnerParty": "rep",
+      "demVotes": 9369,
+      "repVotes": 29315,
+      "totalVotes": 38684,
+      "demPct": 24.22,
+      "repPct": 75.78,
+      "candidates": [
+        {
+          "name": "Jack Holzman",
+          "party": "dem",
+          "votes": 9369
+        },
+        {
+          "name": "Robert Brooks",
+          "party": "rep",
+          "votes": 29315
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-60",
+      "winner": "Jerry O'Connor",
+      "winnerParty": "rep",
+      "demVotes": 11453,
+      "repVotes": 17283,
+      "totalVotes": 28736,
+      "demPct": 39.86,
+      "repPct": 60.14,
+      "candidates": [
+        {
+          "name": "Joe Lavrenz",
+          "party": "dem",
+          "votes": 11453
+        },
+        {
+          "name": "Jerry O'Connor",
+          "party": "rep",
+          "votes": 17283
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-61",
+      "winner": "Bob Donovan",
+      "winnerParty": "rep",
+      "demVotes": 16511,
+      "repVotes": 17618,
+      "totalVotes": 34129,
+      "demPct": 48.38,
+      "repPct": 51.62,
+      "candidates": [
+        {
+          "name": "LuAnn Bird",
+          "party": "dem",
+          "votes": 16511
+        },
+        {
+          "name": "Bob Donovan",
+          "party": "rep",
+          "votes": 17618
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-62",
+      "winner": "Angelina M. Cruz",
+      "winnerParty": "dem",
+      "demVotes": 19060,
+      "repVotes": 0,
+      "totalVotes": 19060,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Angelina M. Cruz",
+          "party": "dem",
+          "votes": 19060
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-63",
+      "winner": "Robert Wittke",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 27163,
+      "totalVotes": 27163,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Robert Wittke",
+          "party": "rep",
+          "votes": 27163
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-64",
+      "winner": "Tip McGuire",
+      "winnerParty": "dem",
+      "demVotes": 15816,
+      "repVotes": 12576,
+      "totalVotes": 28392,
+      "demPct": 55.71,
+      "repPct": 44.29,
+      "candidates": [
+        {
+          "name": "Tip McGuire",
+          "party": "dem",
+          "votes": 15816
+        },
+        {
+          "name": "Ed Hibsch",
+          "party": "rep",
+          "votes": 12576
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-65",
+      "winner": "Ben DeSmidt",
+      "winnerParty": "dem",
+      "demVotes": 15065,
+      "repVotes": 13166,
+      "totalVotes": 28231,
+      "demPct": 53.36,
+      "repPct": 46.64,
+      "candidates": [
+        {
+          "name": "Ben DeSmidt",
+          "party": "dem",
+          "votes": 15065
+        },
+        {
+          "name": "Brian Gonzales",
+          "party": "rep",
+          "votes": 13166
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-66",
+      "winner": "Greta Neubauer",
+      "winnerParty": "dem",
+      "demVotes": 15769,
+      "repVotes": 13426,
+      "totalVotes": 29195,
+      "demPct": 54.01,
+      "repPct": 45.99,
+      "candidates": [
+        {
+          "name": "Greta Neubauer",
+          "party": "dem",
+          "votes": 15769
+        },
+        {
+          "name": "David DeGroot",
+          "party": "rep",
+          "votes": 13426
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-67",
+      "winner": "David Armstrong",
+      "winnerParty": "rep",
+      "demVotes": 11021,
+      "repVotes": 23049,
+      "totalVotes": 34070,
+      "demPct": 32.35,
+      "repPct": 67.65,
+      "candidates": [
+        {
+          "name": "Jeff Foster",
+          "party": "dem",
+          "votes": 11021
+        },
+        {
+          "name": "David Armstrong",
+          "party": "rep",
+          "votes": 23049
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-68",
+      "winner": "Rob Summerfield",
+      "winnerParty": "rep",
+      "demVotes": 9549,
+      "repVotes": 25631,
+      "totalVotes": 35180,
+      "demPct": 27.14,
+      "repPct": 72.86,
+      "candidates": [
+        {
+          "name": "Richard Pulcher",
+          "party": "dem",
+          "votes": 9549
+        },
+        {
+          "name": "Rob Summerfield",
+          "party": "rep",
+          "votes": 25631
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-69",
+      "winner": "Karen Hurd",
+      "winnerParty": "rep",
+      "demVotes": 6565,
+      "repVotes": 19534,
+      "totalVotes": 26099,
+      "demPct": 25.15,
+      "repPct": 74.85,
+      "candidates": [
+        {
+          "name": "Roger Halls",
+          "party": "dem",
+          "votes": 6565
+        },
+        {
+          "name": "Karen Hurd",
+          "party": "rep",
+          "votes": 19534
+        },
+        {
+          "name": "Joshua Steven Kelley",
+          "party": "ind",
+          "votes": 1058
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-70",
+      "winner": "Nancy Lynn VanderMeer",
+      "winnerParty": "rep",
+      "demVotes": 9626,
+      "repVotes": 19344,
+      "totalVotes": 28970,
+      "demPct": 33.23,
+      "repPct": 66.77,
+      "candidates": [
+        {
+          "name": "Remy Gomez",
+          "party": "dem",
+          "votes": 9626
+        },
+        {
+          "name": "Nancy Lynn VanderMeer",
+          "party": "rep",
+          "votes": 19344
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-71",
+      "winner": "Vinnie Miresse",
+      "winnerParty": "dem",
+      "demVotes": 18631,
+      "repVotes": 16416,
+      "totalVotes": 35047,
+      "demPct": 53.16,
+      "repPct": 46.84,
+      "candidates": [
+        {
+          "name": "Vinnie Miresse",
+          "party": "dem",
+          "votes": 18631
+        },
+        {
+          "name": "Bob Pahmeier",
+          "party": "rep",
+          "votes": 16416
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-72",
+      "winner": "Scott Krug",
+      "winnerParty": "rep",
+      "demVotes": 12407,
+      "repVotes": 21993,
+      "totalVotes": 34400,
+      "demPct": 36.07,
+      "repPct": 63.93,
+      "candidates": [
+        {
+          "name": "Suzanne M. Campbell",
+          "party": "dem",
+          "votes": 12407
+        },
+        {
+          "name": "Scott Krug",
+          "party": "rep",
+          "votes": 21993
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-73",
+      "winner": "Angela Stroud",
+      "winnerParty": "dem",
+      "demVotes": 19265,
+      "repVotes": 13720,
+      "totalVotes": 32985,
+      "demPct": 58.41,
+      "repPct": 41.59,
+      "candidates": [
+        {
+          "name": "Angela Stroud",
+          "party": "dem",
+          "votes": 19265
+        },
+        {
+          "name": "Frank Kostka",
+          "party": "rep",
+          "votes": 13720
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-74",
+      "winner": "Chanz J Green",
+      "winnerParty": "rep",
+      "demVotes": 14051,
+      "repVotes": 23396,
+      "totalVotes": 37447,
+      "demPct": 37.52,
+      "repPct": 62.48,
+      "candidates": [
+        {
+          "name": "Jeanne Rand Bruce",
+          "party": "dem",
+          "votes": 14051
+        },
+        {
+          "name": "Chanz J Green",
+          "party": "rep",
+          "votes": 23396
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-75",
+      "winner": "Duke Tucker",
+      "winnerParty": "rep",
+      "demVotes": 12298,
+      "repVotes": 24642,
+      "totalVotes": 36940,
+      "demPct": 33.29,
+      "repPct": 66.71,
+      "candidates": [
+        {
+          "name": "Jane Kleiss",
+          "party": "dem",
+          "votes": 12298
+        },
+        {
+          "name": "Duke Tucker",
+          "party": "rep",
+          "votes": 24642
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-76",
+      "winner": "Francesca Hong",
+      "winnerParty": "dem",
+      "demVotes": 34311,
+      "repVotes": 0,
+      "totalVotes": 34311,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Francesca Hong",
+          "party": "dem",
+          "votes": 34311
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-77",
+      "winner": "Renuka Mayadev",
+      "winnerParty": "dem",
+      "demVotes": 29888,
+      "repVotes": 0,
+      "totalVotes": 29888,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Renuka Mayadev",
+          "party": "dem",
+          "votes": 29888
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-78",
+      "winner": "Shelia Stubbs",
+      "winnerParty": "dem",
+      "demVotes": 29638,
+      "repVotes": 0,
+      "totalVotes": 29638,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Shelia Stubbs",
+          "party": "dem",
+          "votes": 29638
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-79",
+      "winner": "Lisa Subeck",
+      "winnerParty": "dem",
+      "demVotes": 32151,
+      "repVotes": 0,
+      "totalVotes": 32151,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Lisa Subeck",
+          "party": "dem",
+          "votes": 32151
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-80",
+      "winner": "Mike Bare",
+      "winnerParty": "dem",
+      "demVotes": 30593,
+      "repVotes": 11038,
+      "totalVotes": 41631,
+      "demPct": 73.49,
+      "repPct": 26.51,
+      "candidates": [
+        {
+          "name": "Mike Bare",
+          "party": "dem",
+          "votes": 30593
+        },
+        {
+          "name": "Robert Relph",
+          "party": "rep",
+          "votes": 11038
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-81",
+      "winner": "Alex Joers",
+      "winnerParty": "dem",
+      "demVotes": 30969,
+      "repVotes": 0,
+      "totalVotes": 30969,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Alex Joers",
+          "party": "dem",
+          "votes": 30969
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-82",
+      "winner": "Scott Allen",
+      "winnerParty": "rep",
+      "demVotes": 13917,
+      "repVotes": 18632,
+      "totalVotes": 32549,
+      "demPct": 42.76,
+      "repPct": 57.24,
+      "candidates": [
+        {
+          "name": "Kevin Reilly",
+          "party": "dem",
+          "votes": 13917
+        },
+        {
+          "name": "Scott Allen",
+          "party": "rep",
+          "votes": 18632
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-83",
+      "winner": "Dave Maxey",
+      "winnerParty": "rep",
+      "demVotes": 15194,
+      "repVotes": 23772,
+      "totalVotes": 38966,
+      "demPct": 38.99,
+      "repPct": 61.01,
+      "candidates": [
+        {
+          "name": "Jill Schindler",
+          "party": "dem",
+          "votes": 15194
+        },
+        {
+          "name": "Dave Maxey",
+          "party": "rep",
+          "votes": 23772
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-84",
+      "winner": "Chuck Wichgers",
+      "winnerParty": "rep",
+      "demVotes": 11174,
+      "repVotes": 28676,
+      "totalVotes": 39850,
+      "demPct": 28.04,
+      "repPct": 71.96,
+      "candidates": [
+        {
+          "name": "Zach Roper",
+          "party": "dem",
+          "votes": 11174
+        },
+        {
+          "name": "Chuck Wichgers",
+          "party": "rep",
+          "votes": 28676
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-85",
+      "winner": "Patrick Snyder",
+      "winnerParty": "rep",
+      "demVotes": 13736,
+      "repVotes": 15636,
+      "totalVotes": 29372,
+      "demPct": 46.77,
+      "repPct": 53.23,
+      "candidates": [
+        {
+          "name": "Yee Leng Xiong",
+          "party": "dem",
+          "votes": 13736
+        },
+        {
+          "name": "Patrick Snyder",
+          "party": "rep",
+          "votes": 15636
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-86",
+      "winner": "John Spiros",
+      "winnerParty": "rep",
+      "demVotes": 11513,
+      "repVotes": 23331,
+      "totalVotes": 34844,
+      "demPct": 33.04,
+      "repPct": 66.96,
+      "candidates": [
+        {
+          "name": "John H. Small",
+          "party": "dem",
+          "votes": 11513
+        },
+        {
+          "name": "John Spiros",
+          "party": "rep",
+          "votes": 23331
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-87",
+      "winner": "Brent Jacobson",
+      "winnerParty": "rep",
+      "demVotes": 12273,
+      "repVotes": 23885,
+      "totalVotes": 36158,
+      "demPct": 33.94,
+      "repPct": 66.06,
+      "candidates": [
+        {
+          "name": "William Switalla",
+          "party": "dem",
+          "votes": 12273
+        },
+        {
+          "name": "Brent Jacobson",
+          "party": "rep",
+          "votes": 23885
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-88",
+      "winner": "Benjamin Franklin",
+      "winnerParty": "rep",
+      "demVotes": 16788,
+      "repVotes": 17008,
+      "totalVotes": 33796,
+      "demPct": 49.67,
+      "repPct": 50.33,
+      "candidates": [
+        {
+          "name": "Christy Welch",
+          "party": "dem",
+          "votes": 16788
+        },
+        {
+          "name": "Benjamin Franklin",
+          "party": "rep",
+          "votes": 17008
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-89",
+      "winner": "Ryan Spaude",
+      "winnerParty": "dem",
+      "demVotes": 15169,
+      "repVotes": 14343,
+      "totalVotes": 29512,
+      "demPct": 51.4,
+      "repPct": 48.6,
+      "candidates": [
+        {
+          "name": "Ryan Spaude",
+          "party": "dem",
+          "votes": 15169
+        },
+        {
+          "name": "Patrick Buckley",
+          "party": "rep",
+          "votes": 14343
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-90",
+      "winner": "Amaad Rivera Wagner",
+      "winnerParty": "dem",
+      "demVotes": 12446,
+      "repVotes": 11222,
+      "totalVotes": 23668,
+      "demPct": 52.59,
+      "repPct": 47.41,
+      "candidates": [
+        {
+          "name": "Amaad Rivera Wagner",
+          "party": "dem",
+          "votes": 12446
+        },
+        {
+          "name": "Jessica Henderson",
+          "party": "rep",
+          "votes": 11222
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-91",
+      "winner": "Jodi Emerson",
+      "winnerParty": "dem",
+      "demVotes": 17712,
+      "repVotes": 16610,
+      "totalVotes": 34322,
+      "demPct": 51.61,
+      "repPct": 48.39,
+      "candidates": [
+        {
+          "name": "Jodi Emerson",
+          "party": "dem",
+          "votes": 17712
+        },
+        {
+          "name": "Michele Magadance Skinner",
+          "party": "rep",
+          "votes": 16610
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-92",
+      "winner": "Clint Moses",
+      "winnerParty": "rep",
+      "demVotes": 14908,
+      "repVotes": 17009,
+      "totalVotes": 31917,
+      "demPct": 46.71,
+      "repPct": 53.29,
+      "candidates": [
+        {
+          "name": "Joe Plouff",
+          "party": "dem",
+          "votes": 14908
+        },
+        {
+          "name": "Clint Moses",
+          "party": "rep",
+          "votes": 17009
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-93",
+      "winner": "Christian Phelps",
+      "winnerParty": "dem",
+      "demVotes": 18474,
+      "repVotes": 16527,
+      "totalVotes": 35001,
+      "demPct": 52.78,
+      "repPct": 47.22,
+      "candidates": [
+        {
+          "name": "Christian Phelps",
+          "party": "dem",
+          "votes": 18474
+        },
+        {
+          "name": "James Rolbiecki",
+          "party": "rep",
+          "votes": 16527
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-94",
+      "winner": "Steve Doyle",
+      "winnerParty": "dem",
+      "demVotes": 18436,
+      "repVotes": 18219,
+      "totalVotes": 36655,
+      "demPct": 50.3,
+      "repPct": 49.7,
+      "candidates": [
+        {
+          "name": "Steve Doyle",
+          "party": "dem",
+          "votes": 18436
+        },
+        {
+          "name": "Ryan Huebsch",
+          "party": "rep",
+          "votes": 18219
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-95",
+      "winner": "Jill Billings",
+      "winnerParty": "dem",
+      "demVotes": 16461,
+      "repVotes": 15191,
+      "totalVotes": 31652,
+      "demPct": 52.01,
+      "repPct": 47.99,
+      "candidates": [
+        {
+          "name": "Jill Billings",
+          "party": "dem",
+          "votes": 16461
+        },
+        {
+          "name": "Cedric Schnitzler",
+          "party": "rep",
+          "votes": 15191
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-96",
+      "winner": "Tara Johnson",
+      "winnerParty": "dem",
+      "demVotes": 16615,
+      "repVotes": 15963,
+      "totalVotes": 32578,
+      "demPct": 51,
+      "repPct": 49,
+      "candidates": [
+        {
+          "name": "Tara Johnson",
+          "party": "dem",
+          "votes": 16615
+        },
+        {
+          "name": "Loren Oldenburg",
+          "party": "rep",
+          "votes": 15963
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-97",
+      "winner": "Cindi Duchow",
+      "winnerParty": "rep",
+      "demVotes": 12011,
+      "repVotes": 29443,
+      "totalVotes": 41454,
+      "demPct": 28.97,
+      "repPct": 71.03,
+      "candidates": [
+        {
+          "name": "Beth Leonard",
+          "party": "dem",
+          "votes": 12011
+        },
+        {
+          "name": "Cindi Duchow",
+          "party": "rep",
+          "votes": 29443
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-98",
+      "winner": "Jim Piwowarczyk",
+      "winnerParty": "rep",
+      "demVotes": 11698,
+      "repVotes": 28823,
+      "totalVotes": 40521,
+      "demPct": 28.87,
+      "repPct": 71.13,
+      "candidates": [
+        {
+          "name": "Del A Schmechel",
+          "party": "dem",
+          "votes": 11698
+        },
+        {
+          "name": "Jim Piwowarczyk",
+          "party": "rep",
+          "votes": 28823
+        }
+      ]
+    },
+    {
+      "districtId": "wi-hd-99",
+      "winner": "Barbara Dittrich",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 32132,
+      "totalVotes": 32132,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Barbara Dittrich",
+          "party": "rep",
+          "votes": 32132
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "districtId": "wi-sd-1",
+      "winner": "André Jacque",
+      "winnerParty": "rep",
+      "demVotes": 35363,
+      "repVotes": 52009,
+      "totalVotes": 87372,
+      "demPct": 40.47,
+      "repPct": 59.53,
+      "candidates": [
+        {
+          "name": "Andrea Gage-Michaels",
+          "party": "dem",
+          "votes": 35363
+        },
+        {
+          "name": "André Jacque",
+          "party": "rep",
+          "votes": 52009
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-2",
+      "winner": "Eric Wimberger",
+      "winnerParty": "rep",
+      "demVotes": 37430,
+      "repVotes": 67979,
+      "totalVotes": 105409,
+      "demPct": 35.51,
+      "repPct": 64.49,
+      "candidates": [
+        {
+          "name": "Kelly Peterson",
+          "party": "dem",
+          "votes": 37430
+        },
+        {
+          "name": "Eric Wimberger",
+          "party": "rep",
+          "votes": 67979
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-3",
+      "winner": "Tim Carpenter",
+      "winnerParty": "dem",
+      "demVotes": 27958,
+      "repVotes": 12536,
+      "totalVotes": 40494,
+      "demPct": 69.04,
+      "repPct": 30.96,
+      "candidates": [
+        {
+          "name": "Tim Carpenter",
+          "party": "dem",
+          "votes": 27958
+        },
+        {
+          "name": "Angel Sanchez",
+          "party": "rep",
+          "votes": 12536
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-4",
+      "winner": "Dora Drake",
+      "winnerParty": "dem",
+      "demVotes": 67215,
+      "repVotes": 0,
+      "totalVotes": 67215,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Dora Drake",
+          "party": "dem",
+          "votes": 67215
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-5",
+      "winner": "Rob Hutton",
+      "winnerParty": "rep",
+      "demVotes": 42962,
+      "repVotes": 49025,
+      "totalVotes": 91987,
+      "demPct": 46.7,
+      "repPct": 53.3,
+      "candidates": [
+        {
+          "name": "Jessica Katzenmeyer",
+          "party": "dem",
+          "votes": 42962
+        },
+        {
+          "name": "Rob Hutton",
+          "party": "rep",
+          "votes": 49025
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-6",
+      "winner": "LaTonya Johnson",
+      "winnerParty": "dem",
+      "demVotes": 69190,
+      "repVotes": 0,
+      "totalVotes": 69190,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "LaTonya Johnson",
+          "party": "dem",
+          "votes": 69190
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-7",
+      "winner": "Chris J. Larson",
+      "winnerParty": "dem",
+      "demVotes": 54252,
+      "repVotes": 26333,
+      "totalVotes": 80585,
+      "demPct": 67.32,
+      "repPct": 32.68,
+      "candidates": [
+        {
+          "name": "Chris J. Larson",
+          "party": "dem",
+          "votes": 54252
+        },
+        {
+          "name": "Peter Gilbert",
+          "party": "rep",
+          "votes": 26333
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-8",
+      "winner": "Jodi Habush Sinykin",
+      "winnerParty": "dem",
+      "demVotes": 60471,
+      "repVotes": 58686,
+      "totalVotes": 119157,
+      "demPct": 50.75,
+      "repPct": 49.25,
+      "candidates": [
+        {
+          "name": "Jodi Habush Sinykin",
+          "party": "dem",
+          "votes": 60471
+        },
+        {
+          "name": "Duey Stroebel",
+          "party": "rep",
+          "votes": 58686
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-9",
+      "winner": "Devin LeMahieu",
+      "winnerParty": "rep",
+      "demVotes": 1237,
+      "repVotes": 57836,
+      "totalVotes": 59073,
+      "demPct": 2.09,
+      "repPct": 97.91,
+      "candidates": [
+        {
+          "name": "Devin LeMahieu",
+          "party": "rep",
+          "votes": 57836
+        },
+        {
+          "name": "Jarrod Schroeder (write-in)",
+          "party": "dem",
+          "votes": 1237
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-10",
+      "winner": "Rob Stafsholt",
+      "winnerParty": "rep",
+      "demVotes": 40158,
+      "repVotes": 66652,
+      "totalVotes": 106810,
+      "demPct": 37.6,
+      "repPct": 62.4,
+      "candidates": [
+        {
+          "name": "Paul Hambleton",
+          "party": "dem",
+          "votes": 40158
+        },
+        {
+          "name": "Rob Stafsholt",
+          "party": "rep",
+          "votes": 66652
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-11",
+      "winner": "Steve Nass",
+      "winnerParty": "rep",
+      "demVotes": 32087,
+      "repVotes": 44974,
+      "totalVotes": 77061,
+      "demPct": 41.64,
+      "repPct": 58.36,
+      "candidates": [
+        {
+          "name": "Steven J. Doelder",
+          "party": "dem",
+          "votes": 32087
+        },
+        {
+          "name": "Steve Nass",
+          "party": "rep",
+          "votes": 44974
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-12",
+      "winner": "Mary Felzkowski",
+      "winnerParty": "rep",
+      "demVotes": 35628,
+      "repVotes": 74162,
+      "totalVotes": 109790,
+      "demPct": 32.45,
+      "repPct": 67.55,
+      "candidates": [
+        {
+          "name": "Andi Rich",
+          "party": "dem",
+          "votes": 35628
+        },
+        {
+          "name": "Mary Felzkowski",
+          "party": "rep",
+          "votes": 74162
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-13",
+      "winner": "John Jagler",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 61817,
+      "totalVotes": 61817,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "John Jagler",
+          "party": "rep",
+          "votes": 61817
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-14",
+      "winner": "Sarah Keyeski",
+      "winnerParty": "dem",
+      "demVotes": 52483,
+      "repVotes": 50149,
+      "totalVotes": 102632,
+      "demPct": 51.14,
+      "repPct": 48.86,
+      "candidates": [
+        {
+          "name": "Sarah Keyeski",
+          "party": "dem",
+          "votes": 52483
+        },
+        {
+          "name": "Joan A. Ballweg",
+          "party": "rep",
+          "votes": 50149
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-15",
+      "winner": "Mark Spreitzer",
+      "winnerParty": "dem",
+      "demVotes": 46192,
+      "repVotes": 29006,
+      "totalVotes": 75198,
+      "demPct": 61.43,
+      "repPct": 38.57,
+      "candidates": [
+        {
+          "name": "Mark Spreitzer",
+          "party": "dem",
+          "votes": 46192
+        },
+        {
+          "name": "Mark Trofimchuck",
+          "party": "rep",
+          "votes": 29006
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-16",
+      "winner": "Melissa Ratcliff",
+      "winnerParty": "dem",
+      "demVotes": 82828,
+      "repVotes": 0,
+      "totalVotes": 82828,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Melissa Ratcliff",
+          "party": "dem",
+          "votes": 82828
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-17",
+      "winner": "Howard Marklein",
+      "winnerParty": "rep",
+      "demVotes": 29398,
+      "repVotes": 44405,
+      "totalVotes": 73803,
+      "demPct": 39.83,
+      "repPct": 60.17,
+      "candidates": [
+        {
+          "name": "Pat Skogen",
+          "party": "dem",
+          "votes": 29398
+        },
+        {
+          "name": "Howard Marklein",
+          "party": "rep",
+          "votes": 44405
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-18",
+      "winner": "Kristin Alfheim",
+      "winnerParty": "dem",
+      "demVotes": 46878,
+      "repVotes": 41079,
+      "totalVotes": 87957,
+      "demPct": 53.3,
+      "repPct": 46.7,
+      "candidates": [
+        {
+          "name": "Kristin Alfheim",
+          "party": "dem",
+          "votes": 46878
+        },
+        {
+          "name": "Anthony Wayne Phillips",
+          "party": "rep",
+          "votes": 41079
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-19",
+      "winner": "Rachael Cabral-Guevara",
+      "winnerParty": "rep",
+      "demVotes": 36447,
+      "repVotes": 42858,
+      "totalVotes": 79305,
+      "demPct": 45.96,
+      "repPct": 54.04,
+      "candidates": [
+        {
+          "name": "Kristin M Alfheim",
+          "party": "dem",
+          "votes": 36447
+        },
+        {
+          "name": "Rachael Cabral-Guevara",
+          "party": "rep",
+          "votes": 42858
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-20",
+      "winner": "Daniel Feyen",
+      "winnerParty": "rep",
+      "demVotes": 31434,
+      "repVotes": 73552,
+      "totalVotes": 104986,
+      "demPct": 29.94,
+      "repPct": 70.06,
+      "candidates": [
+        {
+          "name": "Michael Rapp",
+          "party": "dem",
+          "votes": 31434
+        },
+        {
+          "name": "Daniel Feyen",
+          "party": "rep",
+          "votes": 73552
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-21",
+      "winner": "Van H. Wanggaard",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 61621,
+      "totalVotes": 61621,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Van H. Wanggaard",
+          "party": "rep",
+          "votes": 61621
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-22",
+      "winner": "Robert W. Wirch",
+      "winnerParty": "dem",
+      "demVotes": 62270,
+      "repVotes": 0,
+      "totalVotes": 62270,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Robert W. Wirch",
+          "party": "dem",
+          "votes": 62270
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-23",
+      "winner": "Jesse James",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 56391,
+      "totalVotes": 56391,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Jesse James",
+          "party": "rep",
+          "votes": 56391
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-24",
+      "winner": "Patrick Testin",
+      "winnerParty": "rep",
+      "demVotes": 40599,
+      "repVotes": 57695,
+      "totalVotes": 98294,
+      "demPct": 41.3,
+      "repPct": 58.7,
+      "candidates": [
+        {
+          "name": "Collin McNamara",
+          "party": "dem",
+          "votes": 40599
+        },
+        {
+          "name": "Patrick Testin",
+          "party": "rep",
+          "votes": 57695
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-25",
+      "winner": "Romaine Robert Quinn",
+      "winnerParty": "rep",
+      "demVotes": 35652,
+      "repVotes": 47293,
+      "totalVotes": 82945,
+      "demPct": 42.98,
+      "repPct": 57.02,
+      "candidates": [
+        {
+          "name": "Kelly Westlund",
+          "party": "dem",
+          "votes": 35652
+        },
+        {
+          "name": "Romaine Robert Quinn",
+          "party": "rep",
+          "votes": 47293
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-26",
+      "winner": "Kelda Helen Roys",
+      "winnerParty": "dem",
+      "demVotes": 94495,
+      "repVotes": 0,
+      "totalVotes": 94495,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Kelda Helen Roys",
+          "party": "dem",
+          "votes": 94495
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-27",
+      "winner": "Dianne H. Hesselbein",
+      "winnerParty": "dem",
+      "demVotes": 65618,
+      "repVotes": 30863,
+      "totalVotes": 96481,
+      "demPct": 68.01,
+      "repPct": 31.99,
+      "candidates": [
+        {
+          "name": "Dianne H. Hesselbein",
+          "party": "dem",
+          "votes": 65618
+        },
+        {
+          "name": "Robert Relph",
+          "party": "rep",
+          "votes": 30863
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-28",
+      "winner": "Julian Bradley",
+      "winnerParty": "rep",
+      "demVotes": 41170,
+      "repVotes": 70543,
+      "totalVotes": 111713,
+      "demPct": 36.85,
+      "repPct": 63.15,
+      "candidates": [
+        {
+          "name": "Megan Lach",
+          "party": "dem",
+          "votes": 41170
+        },
+        {
+          "name": "Julian Bradley",
+          "party": "rep",
+          "votes": 70543
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-29",
+      "winner": "Cory Tomczyk",
+      "winnerParty": "rep",
+      "demVotes": 29798,
+      "repVotes": 49602,
+      "totalVotes": 79400,
+      "demPct": 37.53,
+      "repPct": 62.47,
+      "candidates": [
+        {
+          "name": "Bob Look",
+          "party": "dem",
+          "votes": 29798
+        },
+        {
+          "name": "Cory Tomczyk",
+          "party": "rep",
+          "votes": 49602
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-30",
+      "winner": "Jamie Wall",
+      "winnerParty": "dem",
+      "demVotes": 46247,
+      "repVotes": 41773,
+      "totalVotes": 88020,
+      "demPct": 52.54,
+      "repPct": 47.46,
+      "candidates": [
+        {
+          "name": "Jamie Wall",
+          "party": "dem",
+          "votes": 46247
+        },
+        {
+          "name": "Jim Rafter",
+          "party": "rep",
+          "votes": 41773
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-31",
+      "winner": "Jeff Smith",
+      "winnerParty": "dem",
+      "demVotes": 38936,
+      "repVotes": 38239,
+      "totalVotes": 77175,
+      "demPct": 50.45,
+      "repPct": 49.55,
+      "candidates": [
+        {
+          "name": "Jeff Smith",
+          "party": "dem",
+          "votes": 38936
+        },
+        {
+          "name": "David Estenson",
+          "party": "rep",
+          "votes": 38239
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-32",
+      "winner": "Brad Pfaff",
+      "winnerParty": "dem",
+      "demVotes": 52776,
+      "repVotes": 48058,
+      "totalVotes": 100834,
+      "demPct": 52.34,
+      "repPct": 47.66,
+      "candidates": [
+        {
+          "name": "Brad Pfaff",
+          "party": "dem",
+          "votes": 52776
+        },
+        {
+          "name": "Stacey Klein",
+          "party": "rep",
+          "votes": 48058
+        }
+      ]
+    },
+    {
+      "districtId": "wi-sd-33",
+      "winner": "Chris Kapenga",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 67323,
+      "totalVotes": 67323,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Chris Kapenga",
+          "party": "rep",
+          "votes": 67323
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3495 @@
+{
+  "house": [
+    {
+      "districtId": "il-hd-1",
+      "winner": "Aaron M. Ortiz",
+      "winnerParty": "dem",
+      "demVotes": 18308,
+      "repVotes": 0,
+      "totalVotes": 18308,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Aaron M. Ortiz",
+          "party": "dem",
+          "votes": 18308
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-2",
+      "winner": "Elizabeth \"Lisa\" Hernandez",
+      "winnerParty": "dem",
+      "demVotes": 22924,
+      "repVotes": 8782,
+      "totalVotes": 31706,
+      "demPct": 72.3,
+      "repPct": 27.7,
+      "candidates": [
+        {
+          "name": "Elizabeth \"Lisa\" Hernandez",
+          "party": "dem",
+          "votes": 22924
+        },
+        {
+          "name": "Laura Hruska",
+          "party": "rep",
+          "votes": 8782
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-3",
+      "winner": "Eva-Dina Delgado",
+      "winnerParty": "dem",
+      "demVotes": 28774,
+      "repVotes": 0,
+      "totalVotes": 28774,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Eva-Dina Delgado",
+          "party": "dem",
+          "votes": 28774
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-4",
+      "winner": "Lilian Jimenez",
+      "winnerParty": "dem",
+      "demVotes": 27277,
+      "repVotes": 0,
+      "totalVotes": 27277,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Lilian Jimenez",
+          "party": "dem",
+          "votes": 27277
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-5",
+      "winner": "Kimberly Neely DuBuclet",
+      "winnerParty": "dem",
+      "demVotes": 32549,
+      "repVotes": 5133,
+      "totalVotes": 37682,
+      "demPct": 86.38,
+      "repPct": 13.62,
+      "candidates": [
+        {
+          "name": "Kimberly Neely DuBuclet",
+          "party": "dem",
+          "votes": 32549
+        },
+        {
+          "name": "Al Rasho",
+          "party": "rep",
+          "votes": 5133
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-6",
+      "winner": "Sonya Marie Harper",
+      "winnerParty": "dem",
+      "demVotes": 21884,
+      "repVotes": 4697,
+      "totalVotes": 26581,
+      "demPct": 82.33,
+      "repPct": 17.67,
+      "candidates": [
+        {
+          "name": "Sonya Marie Harper",
+          "party": "dem",
+          "votes": 21884
+        },
+        {
+          "name": "Sean A. Dwyer",
+          "party": "rep",
+          "votes": 4697
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-7",
+      "winner": "Emanuel \"Chris\" Welch",
+      "winnerParty": "dem",
+      "demVotes": 39402,
+      "repVotes": 0,
+      "totalVotes": 39402,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Emanuel \"Chris\" Welch",
+          "party": "dem",
+          "votes": 39402
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-8",
+      "winner": "La Shawn K. Ford",
+      "winnerParty": "dem",
+      "demVotes": 29352,
+      "repVotes": 9682,
+      "totalVotes": 39034,
+      "demPct": 75.2,
+      "repPct": 24.8,
+      "candidates": [
+        {
+          "name": "La Shawn K. Ford",
+          "party": "dem",
+          "votes": 29352
+        },
+        {
+          "name": "Leslie Collazo",
+          "party": "rep",
+          "votes": 9682
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-9",
+      "winner": "Yolonda Morris",
+      "winnerParty": "dem",
+      "demVotes": 29050,
+      "repVotes": 0,
+      "totalVotes": 29050,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Yolonda Morris",
+          "party": "dem",
+          "votes": 29050
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-10",
+      "winner": "Jawaharial \"Omar\" Williams",
+      "winnerParty": "dem",
+      "demVotes": 32201,
+      "repVotes": 0,
+      "totalVotes": 32201,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Jawaharial \"Omar\" Williams",
+          "party": "dem",
+          "votes": 32201
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-11",
+      "winner": "Ann M. Williams",
+      "winnerParty": "dem",
+      "demVotes": 48345,
+      "repVotes": 0,
+      "totalVotes": 48345,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Ann M. Williams",
+          "party": "dem",
+          "votes": 48345
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-12",
+      "winner": "Margaret Croke",
+      "winnerParty": "dem",
+      "demVotes": 43586,
+      "repVotes": 0,
+      "totalVotes": 43586,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Margaret Croke",
+          "party": "dem",
+          "votes": 43586
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-13",
+      "winner": "Hoan Huynh",
+      "winnerParty": "dem",
+      "demVotes": 46432,
+      "repVotes": 6510,
+      "totalVotes": 52942,
+      "demPct": 87.7,
+      "repPct": 12.3,
+      "candidates": [
+        {
+          "name": "Hoan Huynh",
+          "party": "dem",
+          "votes": 46432
+        },
+        {
+          "name": "Terry Nguyen Le",
+          "party": "rep",
+          "votes": 6510
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-14",
+      "winner": "Kelly M. Cassidy",
+      "winnerParty": "dem",
+      "demVotes": 37519,
+      "repVotes": 0,
+      "totalVotes": 37519,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Kelly M. Cassidy",
+          "party": "dem",
+          "votes": 37519
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-15",
+      "winner": "Michael J. Kelly",
+      "winnerParty": "dem",
+      "demVotes": 28177,
+      "repVotes": 16734,
+      "totalVotes": 44911,
+      "demPct": 62.74,
+      "repPct": 37.26,
+      "candidates": [
+        {
+          "name": "Michael J. Kelly",
+          "party": "dem",
+          "votes": 28177
+        },
+        {
+          "name": "Mark R. Albers",
+          "party": "rep",
+          "votes": 16734
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-16",
+      "winner": "Kevin John Olickal",
+      "winnerParty": "dem",
+      "demVotes": 26260,
+      "repVotes": 0,
+      "totalVotes": 26260,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Kevin John Olickal",
+          "party": "dem",
+          "votes": 26260
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-17",
+      "winner": "Jennifer Gong-Gershowitz",
+      "winnerParty": "dem",
+      "demVotes": 37405,
+      "repVotes": 17080,
+      "totalVotes": 54485,
+      "demPct": 68.65,
+      "repPct": 31.35,
+      "candidates": [
+        {
+          "name": "Jennifer Gong-Gershowitz",
+          "party": "dem",
+          "votes": 37405
+        },
+        {
+          "name": "Jim Geldermann",
+          "party": "rep",
+          "votes": 17080
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-18",
+      "winner": "Robyn Gabel",
+      "winnerParty": "dem",
+      "demVotes": 40786,
+      "repVotes": 10859,
+      "totalVotes": 51645,
+      "demPct": 78.97,
+      "repPct": 21.03,
+      "candidates": [
+        {
+          "name": "Robyn Gabel",
+          "party": "dem",
+          "votes": 40786
+        },
+        {
+          "name": "Charles Hutchinson",
+          "party": "rep",
+          "votes": 10859
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-19",
+      "winner": "Lindsey LaPointe",
+      "winnerParty": "dem",
+      "demVotes": 29738,
+      "repVotes": 13924,
+      "totalVotes": 43662,
+      "demPct": 68.11,
+      "repPct": 31.89,
+      "candidates": [
+        {
+          "name": "Lindsey LaPointe",
+          "party": "dem",
+          "votes": 29738
+        },
+        {
+          "name": "John \"JZ\" Zimmers",
+          "party": "rep",
+          "votes": 13924
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-20",
+      "winner": "Brad Stephens",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 35012,
+      "totalVotes": 35012,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Brad Stephens",
+          "party": "rep",
+          "votes": 35012
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-21",
+      "winner": "Abdelnasser Rashid",
+      "winnerParty": "dem",
+      "demVotes": 27006,
+      "repVotes": 0,
+      "totalVotes": 27006,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Abdelnasser Rashid",
+          "party": "dem",
+          "votes": 27006
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-22",
+      "winner": "Angie Guerrero-Cuellar",
+      "winnerParty": "dem",
+      "demVotes": 26887,
+      "repVotes": 0,
+      "totalVotes": 26887,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Angie Guerrero-Cuellar",
+          "party": "dem",
+          "votes": 26887
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-23",
+      "winner": "Edgar Gonzalez, Jr.",
+      "winnerParty": "dem",
+      "demVotes": 13674,
+      "repVotes": 0,
+      "totalVotes": 13674,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Edgar Gonzalez, Jr.",
+          "party": "dem",
+          "votes": 13674
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-24",
+      "winner": "Theresa Mah",
+      "winnerParty": "dem",
+      "demVotes": 20337,
+      "repVotes": 5692,
+      "totalVotes": 26029,
+      "demPct": 78.13,
+      "repPct": 21.87,
+      "candidates": [
+        {
+          "name": "Theresa Mah",
+          "party": "dem",
+          "votes": 20337
+        },
+        {
+          "name": "Natalian Bolton",
+          "party": "rep",
+          "votes": 5692
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-25",
+      "winner": "Curtis J. Tarver II",
+      "winnerParty": "dem",
+      "demVotes": 30667,
+      "repVotes": 0,
+      "totalVotes": 30667,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Curtis J. Tarver II",
+          "party": "dem",
+          "votes": 30667
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-26",
+      "winner": "Kam Buckner",
+      "winnerParty": "dem",
+      "demVotes": 30735,
+      "repVotes": 6952,
+      "totalVotes": 37687,
+      "demPct": 81.55,
+      "repPct": 18.45,
+      "candidates": [
+        {
+          "name": "Kam Buckner",
+          "party": "dem",
+          "votes": 30735
+        },
+        {
+          "name": "Audrey Barrett",
+          "party": "rep",
+          "votes": 6952
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-27",
+      "winner": "Justin Q. Slaughter",
+      "winnerParty": "dem",
+      "demVotes": 36640,
+      "repVotes": 0,
+      "totalVotes": 36640,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Justin Q. Slaughter",
+          "party": "dem",
+          "votes": 36640
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-28",
+      "winner": "Robert \"Bob\" Rita",
+      "winnerParty": "dem",
+      "demVotes": 31942,
+      "repVotes": 0,
+      "totalVotes": 31942,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Robert \"Bob\" Rita",
+          "party": "dem",
+          "votes": 31942
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-29",
+      "winner": "Thaddeus Jones",
+      "winnerParty": "dem",
+      "demVotes": 38498,
+      "repVotes": 0,
+      "totalVotes": 38498,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Thaddeus Jones",
+          "party": "dem",
+          "votes": 38498
+        },
+        {
+          "name": "Marketa Franklin",
+          "party": "ind",
+          "votes": 17
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-30",
+      "winner": "William \"Will\" Davis",
+      "winnerParty": "dem",
+      "demVotes": 32481,
+      "repVotes": 9058,
+      "totalVotes": 41539,
+      "demPct": 78.19,
+      "repPct": 21.81,
+      "candidates": [
+        {
+          "name": "William \"Will\" Davis",
+          "party": "dem",
+          "votes": 32481
+        },
+        {
+          "name": "Patricia Bonk",
+          "party": "rep",
+          "votes": 9058
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-31",
+      "winner": "Michael Crawford",
+      "winnerParty": "dem",
+      "demVotes": 26588,
+      "repVotes": 9702,
+      "totalVotes": 36290,
+      "demPct": 73.27,
+      "repPct": 26.73,
+      "candidates": [
+        {
+          "name": "Michael Crawford",
+          "party": "dem",
+          "votes": 26588
+        },
+        {
+          "name": "Carl R. Kunz",
+          "party": "rep",
+          "votes": 9702
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-32",
+      "winner": "Lisa J. Davis",
+      "winnerParty": "dem",
+      "demVotes": 23240,
+      "repVotes": 0,
+      "totalVotes": 23240,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Lisa J. Davis",
+          "party": "dem",
+          "votes": 23240
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-33",
+      "winner": "Marcus C. Evans, Jr.",
+      "winnerParty": "dem",
+      "demVotes": 34406,
+      "repVotes": 0,
+      "totalVotes": 34406,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Marcus C. Evans, Jr.",
+          "party": "dem",
+          "votes": 34406
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-34",
+      "winner": "Nicholas \"Nick\" Smith",
+      "winnerParty": "dem",
+      "demVotes": 33043,
+      "repVotes": 10097,
+      "totalVotes": 43140,
+      "demPct": 76.59,
+      "repPct": 23.41,
+      "candidates": [
+        {
+          "name": "Nicholas \"Nick\" Smith",
+          "party": "dem",
+          "votes": 33043
+        },
+        {
+          "name": "Frederick L. Walls",
+          "party": "rep",
+          "votes": 10097
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-35",
+      "winner": "Mary Gill",
+      "winnerParty": "dem",
+      "demVotes": 33275,
+      "repVotes": 20451,
+      "totalVotes": 53726,
+      "demPct": 61.93,
+      "repPct": 38.07,
+      "candidates": [
+        {
+          "name": "Mary Gill",
+          "party": "dem",
+          "votes": 33275
+        },
+        {
+          "name": "Herbert Hebein",
+          "party": "rep",
+          "votes": 20451
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-36",
+      "winner": "Rick Ryan",
+      "winnerParty": "dem",
+      "demVotes": 27487,
+      "repVotes": 18938,
+      "totalVotes": 46425,
+      "demPct": 59.21,
+      "repPct": 40.79,
+      "candidates": [
+        {
+          "name": "Rick Ryan",
+          "party": "dem",
+          "votes": 27487
+        },
+        {
+          "name": "Christine Shanahan McGovern",
+          "party": "rep",
+          "votes": 18938
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-37",
+      "winner": "Patrick Sheehan",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 47607,
+      "totalVotes": 47607,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Patrick Sheehan",
+          "party": "rep",
+          "votes": 47607
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-38",
+      "winner": "Debbie Meyers-Martin",
+      "winnerParty": "dem",
+      "demVotes": 43437,
+      "repVotes": 0,
+      "totalVotes": 43437,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Debbie Meyers-Martin",
+          "party": "dem",
+          "votes": 43437
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-39",
+      "winner": "Will Guzzardi",
+      "winnerParty": "dem",
+      "demVotes": 29955,
+      "repVotes": 6968,
+      "totalVotes": 36923,
+      "demPct": 81.13,
+      "repPct": 18.87,
+      "candidates": [
+        {
+          "name": "Will Guzzardi",
+          "party": "dem",
+          "votes": 29955
+        },
+        {
+          "name": "Anthony Curran",
+          "party": "rep",
+          "votes": 6968
+        },
+        {
+          "name": "Justin Tucker",
+          "party": "ind",
+          "votes": 2
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-40",
+      "winner": "Jaime M. Andrade, Jr.",
+      "winnerParty": "dem",
+      "demVotes": 32189,
+      "repVotes": 6382,
+      "totalVotes": 38571,
+      "demPct": 83.45,
+      "repPct": 16.55,
+      "candidates": [
+        {
+          "name": "Jaime M. Andrade, Jr.",
+          "party": "dem",
+          "votes": 32189
+        },
+        {
+          "name": "Patrycja Karlin",
+          "party": "rep",
+          "votes": 6382
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-41",
+      "winner": "Janet Yang Rohr",
+      "winnerParty": "dem",
+      "demVotes": 42002,
+      "repVotes": 0,
+      "totalVotes": 42002,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Janet Yang Rohr",
+          "party": "dem",
+          "votes": 42002
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-42",
+      "winner": "Terra Costa Howard",
+      "winnerParty": "dem",
+      "demVotes": 40916,
+      "repVotes": 0,
+      "totalVotes": 40916,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Terra Costa Howard",
+          "party": "dem",
+          "votes": 40916
+        },
+        {
+          "name": "Amar Patel",
+          "party": "ind",
+          "votes": 198
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-43",
+      "winner": "Anna Moeller",
+      "winnerParty": "dem",
+      "demVotes": 18314,
+      "repVotes": 10332,
+      "totalVotes": 28646,
+      "demPct": 63.93,
+      "repPct": 36.07,
+      "candidates": [
+        {
+          "name": "Anna Moeller",
+          "party": "dem",
+          "votes": 18314
+        },
+        {
+          "name": "Donald P. Puckett",
+          "party": "rep",
+          "votes": 10332
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-44",
+      "winner": "Fred Crespo",
+      "winnerParty": "dem",
+      "demVotes": 25918,
+      "repVotes": 0,
+      "totalVotes": 25918,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Fred Crespo",
+          "party": "dem",
+          "votes": 25918
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-45",
+      "winner": "Martha \"Marti\" Deuter",
+      "winnerParty": "dem",
+      "demVotes": 30306,
+      "repVotes": 26013,
+      "totalVotes": 56319,
+      "demPct": 53.81,
+      "repPct": 46.19,
+      "candidates": [
+        {
+          "name": "Martha \"Marti\" Deuter",
+          "party": "dem",
+          "votes": 30306
+        },
+        {
+          "name": "Dennis M. Reboletti",
+          "party": "rep",
+          "votes": 26013
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-46",
+      "winner": "Diane Blair-Sherlock",
+      "winnerParty": "dem",
+      "demVotes": 23488,
+      "repVotes": 18153,
+      "totalVotes": 41641,
+      "demPct": 56.41,
+      "repPct": 43.59,
+      "candidates": [
+        {
+          "name": "Diane Blair-Sherlock",
+          "party": "dem",
+          "votes": 23488
+        },
+        {
+          "name": "Robert \"Rusty\" Stevens",
+          "party": "rep",
+          "votes": 18153
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-47",
+      "winner": "Amy L. Grant",
+      "winnerParty": "rep",
+      "demVotes": 29577,
+      "repVotes": 29869,
+      "totalVotes": 59446,
+      "demPct": 49.75,
+      "repPct": 50.25,
+      "candidates": [
+        {
+          "name": "Amy L. Grant",
+          "party": "rep",
+          "votes": 29869
+        },
+        {
+          "name": "Jackie Williamson",
+          "party": "dem",
+          "votes": 29577
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-48",
+      "winner": "Jennifer Sanalitro",
+      "winnerParty": "rep",
+      "demVotes": 21931,
+      "repVotes": 30177,
+      "totalVotes": 52108,
+      "demPct": 42.09,
+      "repPct": 57.91,
+      "candidates": [
+        {
+          "name": "Jennifer Sanalitro",
+          "party": "rep",
+          "votes": 30177
+        },
+        {
+          "name": "Maria C. Vesey",
+          "party": "dem",
+          "votes": 21931
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-49",
+      "winner": "Maura Hirschauer",
+      "winnerParty": "dem",
+      "demVotes": 24282,
+      "repVotes": 20495,
+      "totalVotes": 44777,
+      "demPct": 54.23,
+      "repPct": 45.77,
+      "candidates": [
+        {
+          "name": "Maura Hirschauer",
+          "party": "dem",
+          "votes": 24282
+        },
+        {
+          "name": "Hannah Billingsley",
+          "party": "rep",
+          "votes": 20495
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-50",
+      "winner": "Barbara Hernandez",
+      "winnerParty": "dem",
+      "demVotes": 21233,
+      "repVotes": 12083,
+      "totalVotes": 33316,
+      "demPct": 63.73,
+      "repPct": 36.27,
+      "candidates": [
+        {
+          "name": "Barbara Hernandez",
+          "party": "dem",
+          "votes": 21233
+        },
+        {
+          "name": "Teresa L. Alexander",
+          "party": "rep",
+          "votes": 12083
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-51",
+      "winner": "Nabeela Syed",
+      "winnerParty": "dem",
+      "demVotes": 32311,
+      "repVotes": 25203,
+      "totalVotes": 57514,
+      "demPct": 56.18,
+      "repPct": 43.82,
+      "candidates": [
+        {
+          "name": "Nabeela Syed",
+          "party": "dem",
+          "votes": 32311
+        },
+        {
+          "name": "Tosi Ufodike",
+          "party": "rep",
+          "votes": 25203
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-52",
+      "winner": "Martin McLaughlin",
+      "winnerParty": "rep",
+      "demVotes": 29473,
+      "repVotes": 29520,
+      "totalVotes": 58993,
+      "demPct": 49.96,
+      "repPct": 50.04,
+      "candidates": [
+        {
+          "name": "Martin McLaughlin",
+          "party": "rep",
+          "votes": 29520
+        },
+        {
+          "name": "Maria Peterson",
+          "party": "dem",
+          "votes": 29473
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-53",
+      "winner": "Nicolle Grasse",
+      "winnerParty": "dem",
+      "demVotes": 26324,
+      "repVotes": 19042,
+      "totalVotes": 45366,
+      "demPct": 58.03,
+      "repPct": 41.97,
+      "candidates": [
+        {
+          "name": "Nicolle Grasse",
+          "party": "dem",
+          "votes": 26324
+        },
+        {
+          "name": "Ronald E. Andermann",
+          "party": "rep",
+          "votes": 19042
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-54",
+      "winner": "Mary Beth Canty",
+      "winnerParty": "dem",
+      "demVotes": 28773,
+      "repVotes": 20030,
+      "totalVotes": 48803,
+      "demPct": 58.96,
+      "repPct": 41.04,
+      "candidates": [
+        {
+          "name": "Mary Beth Canty",
+          "party": "dem",
+          "votes": 28773
+        },
+        {
+          "name": "Michele Hunter",
+          "party": "rep",
+          "votes": 20030
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-55",
+      "winner": "Martin J. Moylan",
+      "winnerParty": "dem",
+      "demVotes": 28768,
+      "repVotes": 0,
+      "totalVotes": 28768,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Martin J. Moylan",
+          "party": "dem",
+          "votes": 28768
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-56",
+      "winner": "Michelle Mussman",
+      "winnerParty": "dem",
+      "demVotes": 28615,
+      "repVotes": 0,
+      "totalVotes": 28615,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Michelle Mussman",
+          "party": "dem",
+          "votes": 28615
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-57",
+      "winner": "Tracy Katz Muhl",
+      "winnerParty": "dem",
+      "demVotes": 28812,
+      "repVotes": 19586,
+      "totalVotes": 48398,
+      "demPct": 59.53,
+      "repPct": 40.47,
+      "candidates": [
+        {
+          "name": "Tracy Katz Muhl",
+          "party": "dem",
+          "votes": 28812
+        },
+        {
+          "name": "Daniel Behr",
+          "party": "rep",
+          "votes": 19586
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-58",
+      "winner": "Bob Morgan",
+      "winnerParty": "dem",
+      "demVotes": 37111,
+      "repVotes": 17539,
+      "totalVotes": 54650,
+      "demPct": 67.91,
+      "repPct": 32.09,
+      "candidates": [
+        {
+          "name": "Bob Morgan",
+          "party": "dem",
+          "votes": 37111
+        },
+        {
+          "name": "Carl Lambrecht",
+          "party": "rep",
+          "votes": 17539
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-59",
+      "winner": "Daniel Didech",
+      "winnerParty": "dem",
+      "demVotes": 26927,
+      "repVotes": 15421,
+      "totalVotes": 42348,
+      "demPct": 63.59,
+      "repPct": 36.41,
+      "candidates": [
+        {
+          "name": "Daniel Didech",
+          "party": "dem",
+          "votes": 26927
+        },
+        {
+          "name": "Chris Henning",
+          "party": "rep",
+          "votes": 15421
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-60",
+      "winner": "Rita Mayfield",
+      "winnerParty": "dem",
+      "demVotes": 21947,
+      "repVotes": 0,
+      "totalVotes": 21947,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Rita Mayfield",
+          "party": "dem",
+          "votes": 21947
+        },
+        {
+          "name": "Joseph William Kopsick",
+          "party": "ind",
+          "votes": 10
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-61",
+      "winner": "Joyce Mason",
+      "winnerParty": "dem",
+      "demVotes": 26910,
+      "repVotes": 18981,
+      "totalVotes": 45891,
+      "demPct": 58.64,
+      "repPct": 41.36,
+      "candidates": [
+        {
+          "name": "Joyce Mason",
+          "party": "dem",
+          "votes": 26910
+        },
+        {
+          "name": "James Creighton Mitchell, Jr.",
+          "party": "rep",
+          "votes": 18981
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-62",
+      "winner": "Laura Faver Dias",
+      "winnerParty": "dem",
+      "demVotes": 33440,
+      "repVotes": 0,
+      "totalVotes": 33440,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Laura Faver Dias",
+          "party": "dem",
+          "votes": 33440
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-63",
+      "winner": "Steven Reick",
+      "winnerParty": "rep",
+      "demVotes": 26565,
+      "repVotes": 29711,
+      "totalVotes": 56276,
+      "demPct": 47.2,
+      "repPct": 52.8,
+      "candidates": [
+        {
+          "name": "Steven Reick",
+          "party": "rep",
+          "votes": 29711
+        },
+        {
+          "name": "Mary Mahady",
+          "party": "dem",
+          "votes": 26565
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-64",
+      "winner": "Tom Weber",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 45429,
+      "totalVotes": 45429,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Tom Weber",
+          "party": "rep",
+          "votes": 45429
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-65",
+      "winner": "Dan Ugaste",
+      "winnerParty": "rep",
+      "demVotes": 26673,
+      "repVotes": 33393,
+      "totalVotes": 60066,
+      "demPct": 44.41,
+      "repPct": 55.59,
+      "candidates": [
+        {
+          "name": "Dan Ugaste",
+          "party": "rep",
+          "votes": 33393
+        },
+        {
+          "name": "Linda R Robertson",
+          "party": "dem",
+          "votes": 26673
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-66",
+      "winner": "Suzanne Ness",
+      "winnerParty": "dem",
+      "demVotes": 27757,
+      "repVotes": 24292,
+      "totalVotes": 52049,
+      "demPct": 53.33,
+      "repPct": 46.67,
+      "candidates": [
+        {
+          "name": "Suzanne Ness",
+          "party": "dem",
+          "votes": 27757
+        },
+        {
+          "name": "Laurie Parman",
+          "party": "rep",
+          "votes": 24292
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-67",
+      "winner": "Maurice A. West II",
+      "winnerParty": "dem",
+      "demVotes": 21171,
+      "repVotes": 14471,
+      "totalVotes": 35642,
+      "demPct": 59.4,
+      "repPct": 40.6,
+      "candidates": [
+        {
+          "name": "Maurice A. West II",
+          "party": "dem",
+          "votes": 21171
+        },
+        {
+          "name": "Glen Oland",
+          "party": "rep",
+          "votes": 14471
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-68",
+      "winner": "Dave Vella",
+      "winnerParty": "dem",
+      "demVotes": 33688,
+      "repVotes": 0,
+      "totalVotes": 33688,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Dave Vella",
+          "party": "dem",
+          "votes": 33688
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-69",
+      "winner": "Joe Sosnowski",
+      "winnerParty": "rep",
+      "demVotes": 21132,
+      "repVotes": 33658,
+      "totalVotes": 54790,
+      "demPct": 38.57,
+      "repPct": 61.43,
+      "candidates": [
+        {
+          "name": "Joe Sosnowski",
+          "party": "rep",
+          "votes": 33658
+        },
+        {
+          "name": "Peter Janko",
+          "party": "dem",
+          "votes": 21132
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-70",
+      "winner": "Jeff Keicher",
+      "winnerParty": "rep",
+      "demVotes": 24441,
+      "repVotes": 36380,
+      "totalVotes": 60821,
+      "demPct": 40.19,
+      "repPct": 59.81,
+      "candidates": [
+        {
+          "name": "Jeff Keicher",
+          "party": "rep",
+          "votes": 36380
+        },
+        {
+          "name": "Randi Olson",
+          "party": "dem",
+          "votes": 24441
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-71",
+      "winner": "Dan Swanson",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 37528,
+      "totalVotes": 37528,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Dan Swanson",
+          "party": "rep",
+          "votes": 37528
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-72",
+      "winner": "Gregg C. Johnson",
+      "winnerParty": "dem",
+      "demVotes": 26659,
+      "repVotes": 17052,
+      "totalVotes": 43711,
+      "demPct": 60.99,
+      "repPct": 39.01,
+      "candidates": [
+        {
+          "name": "Gregg C. Johnson",
+          "party": "dem",
+          "votes": 26659
+        },
+        {
+          "name": "Charlie Helmick",
+          "party": "rep",
+          "votes": 17052
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-73",
+      "winner": "Ryan Spain",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 46067,
+      "totalVotes": 46067,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Ryan Spain",
+          "party": "rep",
+          "votes": 46067
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-74",
+      "winner": "Bradley J. Fritts",
+      "winnerParty": "rep",
+      "demVotes": 17101,
+      "repVotes": 31516,
+      "totalVotes": 48617,
+      "demPct": 35.17,
+      "repPct": 64.83,
+      "candidates": [
+        {
+          "name": "Bradley J. Fritts",
+          "party": "rep",
+          "votes": 31516
+        },
+        {
+          "name": "David Simpson",
+          "party": "dem",
+          "votes": 17101
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-75",
+      "winner": "Jed Davis",
+      "winnerParty": "rep",
+      "demVotes": 21169,
+      "repVotes": 33715,
+      "totalVotes": 54884,
+      "demPct": 38.57,
+      "repPct": 61.43,
+      "candidates": [
+        {
+          "name": "Jed Davis",
+          "party": "rep",
+          "votes": 33715
+        },
+        {
+          "name": "Heidi Henry",
+          "party": "dem",
+          "votes": 21169
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-76",
+      "winner": "Amy \"Murri\" Briel",
+      "winnerParty": "dem",
+      "demVotes": 23931,
+      "repVotes": 23336,
+      "totalVotes": 47267,
+      "demPct": 50.63,
+      "repPct": 49.37,
+      "candidates": [
+        {
+          "name": "Amy \"Murri\" Briel",
+          "party": "dem",
+          "votes": 23931
+        },
+        {
+          "name": "Liz Bishop",
+          "party": "rep",
+          "votes": 23336
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-77",
+      "winner": "Norma Hernandez",
+      "winnerParty": "dem",
+      "demVotes": 18121,
+      "repVotes": 12606,
+      "totalVotes": 30727,
+      "demPct": 58.97,
+      "repPct": 41.03,
+      "candidates": [
+        {
+          "name": "Norma Hernandez",
+          "party": "dem",
+          "votes": 18121
+        },
+        {
+          "name": "Anthony Airdo",
+          "party": "rep",
+          "votes": 12606
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-78",
+      "winner": "Camille Lilly",
+      "winnerParty": "dem",
+      "demVotes": 44015,
+      "repVotes": 0,
+      "totalVotes": 44015,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Camille Lilly",
+          "party": "dem",
+          "votes": 44015
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-79",
+      "winner": "Jackie Haas",
+      "winnerParty": "rep",
+      "demVotes": 20291,
+      "repVotes": 25238,
+      "totalVotes": 45529,
+      "demPct": 44.57,
+      "repPct": 55.43,
+      "candidates": [
+        {
+          "name": "Jackie Haas",
+          "party": "rep",
+          "votes": 25238
+        },
+        {
+          "name": "William \"Billy\" Morgan",
+          "party": "dem",
+          "votes": 20291
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-80",
+      "winner": "Anthony DeLuca",
+      "winnerParty": "dem",
+      "demVotes": 27366,
+      "repVotes": 18892,
+      "totalVotes": 46258,
+      "demPct": 59.16,
+      "repPct": 40.84,
+      "candidates": [
+        {
+          "name": "Anthony DeLuca",
+          "party": "dem",
+          "votes": 27366
+        },
+        {
+          "name": "Adam M. Beaty",
+          "party": "rep",
+          "votes": 18892
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-81",
+      "winner": "Anne Stava-Murray",
+      "winnerParty": "dem",
+      "demVotes": 33289,
+      "repVotes": 25661,
+      "totalVotes": 58950,
+      "demPct": 56.47,
+      "repPct": 43.53,
+      "candidates": [
+        {
+          "name": "Anne Stava-Murray",
+          "party": "dem",
+          "votes": 33289
+        },
+        {
+          "name": "Aaron Porter",
+          "party": "rep",
+          "votes": 25661
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-82",
+      "winner": "Nicole La Ha",
+      "winnerParty": "rep",
+      "demVotes": 23813,
+      "repVotes": 34787,
+      "totalVotes": 58600,
+      "demPct": 40.64,
+      "repPct": 59.36,
+      "candidates": [
+        {
+          "name": "Nicole La Ha",
+          "party": "rep",
+          "votes": 34787
+        },
+        {
+          "name": "Suzanne Akhras",
+          "party": "dem",
+          "votes": 23813
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-83",
+      "winner": "Matt Hanson",
+      "winnerParty": "dem",
+      "demVotes": 39062,
+      "repVotes": 0,
+      "totalVotes": 39062,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Matt Hanson",
+          "party": "dem",
+          "votes": 39062
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-84",
+      "winner": "Stephanie A. Kifowit",
+      "winnerParty": "dem",
+      "demVotes": 34284,
+      "repVotes": 0,
+      "totalVotes": 34284,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Stephanie A. Kifowit",
+          "party": "dem",
+          "votes": 34284
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-85",
+      "winner": "Dagmara \"Dee\" Avelar",
+      "winnerParty": "dem",
+      "demVotes": 25360,
+      "repVotes": 18142,
+      "totalVotes": 43502,
+      "demPct": 58.3,
+      "repPct": 41.7,
+      "candidates": [
+        {
+          "name": "Dagmara \"Dee\" Avelar",
+          "party": "dem",
+          "votes": 25360
+        },
+        {
+          "name": "Chris Metcalfe",
+          "party": "rep",
+          "votes": 18142
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-86",
+      "winner": "Lawrence \"Larry\" Walsh, Jr.",
+      "winnerParty": "dem",
+      "demVotes": 24228,
+      "repVotes": 16189,
+      "totalVotes": 40417,
+      "demPct": 59.95,
+      "repPct": 40.05,
+      "candidates": [
+        {
+          "name": "Lawrence \"Larry\" Walsh, Jr.",
+          "party": "dem",
+          "votes": 24228
+        },
+        {
+          "name": "Jim Lanham",
+          "party": "rep",
+          "votes": 16189
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-87",
+      "winner": "William E Hauter",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 39955,
+      "totalVotes": 39955,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "William E Hauter",
+          "party": "rep",
+          "votes": 39955
+        },
+        {
+          "name": "David Gill INDEPENDENT",
+          "party": "ind",
+          "votes": 12126
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-88",
+      "winner": "Regan Deering",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 46760,
+      "totalVotes": 46760,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Regan Deering",
+          "party": "rep",
+          "votes": 46760
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-89",
+      "winner": "Tony M. McCombie",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 48794,
+      "totalVotes": 48794,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Tony M. McCombie",
+          "party": "rep",
+          "votes": 48794
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-90",
+      "winner": "John M. Cabello",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 41383,
+      "totalVotes": 41383,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "John M. Cabello",
+          "party": "rep",
+          "votes": 41383
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-91",
+      "winner": "Sharon Chung",
+      "winnerParty": "dem",
+      "demVotes": 27601,
+      "repVotes": 23929,
+      "totalVotes": 51530,
+      "demPct": 53.56,
+      "repPct": 46.44,
+      "candidates": [
+        {
+          "name": "Sharon Chung",
+          "party": "dem",
+          "votes": 27601
+        },
+        {
+          "name": "Desi Anderson",
+          "party": "rep",
+          "votes": 23929
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-92",
+      "winner": "Jehan Gordon-Booth",
+      "winnerParty": "dem",
+      "demVotes": 31370,
+      "repVotes": 0,
+      "totalVotes": 31370,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Jehan Gordon-Booth",
+          "party": "dem",
+          "votes": 31370
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-93",
+      "winner": "Travis Robert Weaver",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 42795,
+      "totalVotes": 42795,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Travis Robert Weaver",
+          "party": "rep",
+          "votes": 42795
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-94",
+      "winner": "Norine K. Hammond",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 45854,
+      "totalVotes": 45854,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Norine K. Hammond",
+          "party": "rep",
+          "votes": 45854
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-95",
+      "winner": "Mike Coffey",
+      "winnerParty": "rep",
+      "demVotes": 22845,
+      "repVotes": 34370,
+      "totalVotes": 57215,
+      "demPct": 39.93,
+      "repPct": 60.07,
+      "candidates": [
+        {
+          "name": "Mike Coffey",
+          "party": "rep",
+          "votes": 34370
+        },
+        {
+          "name": "Kristen Chiaro",
+          "party": "dem",
+          "votes": 22845
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-96",
+      "winner": "Sue Scherer",
+      "winnerParty": "dem",
+      "demVotes": 22970,
+      "repVotes": 16357,
+      "totalVotes": 39327,
+      "demPct": 58.41,
+      "repPct": 41.59,
+      "candidates": [
+        {
+          "name": "Sue Scherer",
+          "party": "dem",
+          "votes": 22970
+        },
+        {
+          "name": "Lisa Smith",
+          "party": "rep",
+          "votes": 16357
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-97",
+      "winner": "Harry Benton",
+      "winnerParty": "dem",
+      "demVotes": 27540,
+      "repVotes": 25205,
+      "totalVotes": 52745,
+      "demPct": 52.21,
+      "repPct": 47.79,
+      "candidates": [
+        {
+          "name": "Harry Benton",
+          "party": "dem",
+          "votes": 27540
+        },
+        {
+          "name": "Gabby Shanahan",
+          "party": "rep",
+          "votes": 25205
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-98",
+      "winner": "Natalie A. Manley",
+      "winnerParty": "dem",
+      "demVotes": 36454,
+      "repVotes": 0,
+      "totalVotes": 36454,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Natalie A. Manley",
+          "party": "dem",
+          "votes": 36454
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-99",
+      "winner": "Kyle A. Moore",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 40936,
+      "totalVotes": 40936,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Kyle A. Moore",
+          "party": "rep",
+          "votes": 40936
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-100",
+      "winner": "Christopher \"C.D.\" Davidsmeyer",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 50793,
+      "totalVotes": 50793,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Christopher \"C.D.\" Davidsmeyer",
+          "party": "rep",
+          "votes": 50793
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-101",
+      "winner": "Chris G. Miller",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 41090,
+      "totalVotes": 41090,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Chris G. Miller",
+          "party": "rep",
+          "votes": 41090
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-102",
+      "winner": "Adam M. Niemerg",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 47051,
+      "totalVotes": 47051,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Adam M. Niemerg",
+          "party": "rep",
+          "votes": 47051
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-103",
+      "winner": "Carol Ammons",
+      "winnerParty": "dem",
+      "demVotes": 32738,
+      "repVotes": 0,
+      "totalVotes": 32738,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Carol Ammons",
+          "party": "dem",
+          "votes": 32738
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-104",
+      "winner": "Brandun Schweizer",
+      "winnerParty": "rep",
+      "demVotes": 23277,
+      "repVotes": 23546,
+      "totalVotes": 46823,
+      "demPct": 49.71,
+      "repPct": 50.29,
+      "candidates": [
+        {
+          "name": "Brandun Schweizer",
+          "party": "rep",
+          "votes": 23546
+        },
+        {
+          "name": "Jarrett Clem",
+          "party": "dem",
+          "votes": 23277
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-105",
+      "winner": "Dennis Tipsword Jr.",
+      "winnerParty": "rep",
+      "demVotes": 17158,
+      "repVotes": 38132,
+      "totalVotes": 55290,
+      "demPct": 31.03,
+      "repPct": 68.97,
+      "candidates": [
+        {
+          "name": "Dennis Tipsword Jr.",
+          "party": "rep",
+          "votes": 38132
+        },
+        {
+          "name": "Morgan Phillips",
+          "party": "dem",
+          "votes": 17158
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-106",
+      "winner": "Jason R. Bunting",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 45078,
+      "totalVotes": 45078,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Jason R. Bunting",
+          "party": "rep",
+          "votes": 45078
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-107",
+      "winner": "Brad Halbrook",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 45819,
+      "totalVotes": 45819,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Brad Halbrook",
+          "party": "rep",
+          "votes": 45819
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-108",
+      "winner": "Wayne A. Rosenthal",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 48136,
+      "totalVotes": 48136,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Wayne A. Rosenthal",
+          "party": "rep",
+          "votes": 48136
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-109",
+      "winner": "Charlie Meier",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 51851,
+      "totalVotes": 51851,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Charlie Meier",
+          "party": "rep",
+          "votes": 51851
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-110",
+      "winner": "Blaine Wilhour",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 43619,
+      "totalVotes": 43619,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Blaine Wilhour",
+          "party": "rep",
+          "votes": 43619
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-111",
+      "winner": "Amy Elik",
+      "winnerParty": "rep",
+      "demVotes": 18716,
+      "repVotes": 29927,
+      "totalVotes": 48643,
+      "demPct": 38.48,
+      "repPct": 61.52,
+      "candidates": [
+        {
+          "name": "Amy Elik",
+          "party": "rep",
+          "votes": 29927
+        },
+        {
+          "name": "Nick Raftopoulos",
+          "party": "dem",
+          "votes": 18716
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-112",
+      "winner": "Katie Stuart",
+      "winnerParty": "dem",
+      "demVotes": 28373,
+      "repVotes": 23555,
+      "totalVotes": 51928,
+      "demPct": 54.64,
+      "repPct": 45.36,
+      "candidates": [
+        {
+          "name": "Katie Stuart",
+          "party": "dem",
+          "votes": 28373
+        },
+        {
+          "name": "Jay Keeven",
+          "party": "rep",
+          "votes": 23555
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-113",
+      "winner": "Jay Hoffman",
+      "winnerParty": "dem",
+      "demVotes": 40037,
+      "repVotes": 0,
+      "totalVotes": 40037,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Jay Hoffman",
+          "party": "dem",
+          "votes": 40037
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-114",
+      "winner": "Kevin Schmidt",
+      "winnerParty": "rep",
+      "demVotes": 22911,
+      "repVotes": 25057,
+      "totalVotes": 47968,
+      "demPct": 47.76,
+      "repPct": 52.24,
+      "candidates": [
+        {
+          "name": "Kevin Schmidt",
+          "party": "rep",
+          "votes": 25057
+        },
+        {
+          "name": "LaToya Greenwood",
+          "party": "dem",
+          "votes": 22911
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-115",
+      "winner": "David Friess",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 46910,
+      "totalVotes": 46910,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "David Friess",
+          "party": "rep",
+          "votes": 46910
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-116",
+      "winner": "Dave Severin",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 45378,
+      "totalVotes": 45378,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Dave Severin",
+          "party": "rep",
+          "votes": 45378
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-117",
+      "winner": "Patrick Windhorst",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 45233,
+      "totalVotes": 45233,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Patrick Windhorst",
+          "party": "rep",
+          "votes": 45233
+        }
+      ]
+    },
+    {
+      "districtId": "il-hd-118",
+      "winner": "Paul Jacobs",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 36564,
+      "totalVotes": 36564,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Paul Jacobs",
+          "party": "rep",
+          "votes": 36564
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "districtId": "il-sd-1",
+      "winner": "Javier Loera Cervantes",
+      "winnerParty": "dem",
+      "demVotes": 43813,
+      "repVotes": 0,
+      "totalVotes": 43813,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Javier Loera Cervantes",
+          "party": "dem",
+          "votes": 43813
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-2",
+      "winner": "OMAR AQUINO",
+      "winnerParty": "dem",
+      "demVotes": 39186,
+      "repVotes": 0,
+      "totalVotes": 39186,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "OMAR AQUINO",
+          "party": "dem",
+          "votes": 39186
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-3",
+      "winner": "MATTIE HUNTER",
+      "winnerParty": "dem",
+      "demVotes": 40116,
+      "repVotes": 0,
+      "totalVotes": 40116,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "MATTIE HUNTER",
+          "party": "dem",
+          "votes": 40116
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-4",
+      "winner": "Kimberly A. Lightford",
+      "winnerParty": "dem",
+      "demVotes": 65312,
+      "repVotes": 20177,
+      "totalVotes": 85489,
+      "demPct": 76.4,
+      "repPct": 23.6,
+      "candidates": [
+        {
+          "name": "Kimberly A. Lightford",
+          "party": "dem",
+          "votes": 65312
+        },
+        {
+          "name": "Robert Sumrell Jr.",
+          "party": "rep",
+          "votes": 20177
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-5",
+      "winner": "Lakesia Collins",
+      "winnerParty": "dem",
+      "demVotes": 63423,
+      "repVotes": 0,
+      "totalVotes": 63423,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Lakesia Collins",
+          "party": "dem",
+          "votes": 63423
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-6",
+      "winner": "SARA FEIGENHOLTZ",
+      "winnerParty": "dem",
+      "demVotes": 68355,
+      "repVotes": 13959,
+      "totalVotes": 82314,
+      "demPct": 83.04,
+      "repPct": 16.96,
+      "candidates": [
+        {
+          "name": "SARA FEIGENHOLTZ",
+          "party": "dem",
+          "votes": 68355
+        },
+        {
+          "name": "NICOLE DREWERY",
+          "party": "rep",
+          "votes": 13959
+        },
+        {
+          "name": "FRANK ROWDER",
+          "party": "ind",
+          "votes": 1
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-7",
+      "winner": "Mike Simmons",
+      "winnerParty": "dem",
+      "demVotes": 84513,
+      "repVotes": 0,
+      "totalVotes": 84513,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Mike Simmons",
+          "party": "dem",
+          "votes": 84513
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-8",
+      "winner": "RAM VILLIVALAM",
+      "winnerParty": "dem",
+      "demVotes": 42341,
+      "repVotes": 0,
+      "totalVotes": 42341,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "RAM VILLIVALAM",
+          "party": "dem",
+          "votes": 42341
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-9",
+      "winner": "LAURA FINE",
+      "winnerParty": "dem",
+      "demVotes": 62103,
+      "repVotes": 19143,
+      "totalVotes": 81246,
+      "demPct": 76.44,
+      "repPct": 23.56,
+      "candidates": [
+        {
+          "name": "LAURA FINE",
+          "party": "dem",
+          "votes": 62103
+        },
+        {
+          "name": "PAUL T. KELLY",
+          "party": "rep",
+          "votes": 19143
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-10",
+      "winner": "Robert Martwick",
+      "winnerParty": "dem",
+      "demVotes": 54001,
+      "repVotes": 34635,
+      "totalVotes": 88636,
+      "demPct": 60.92,
+      "repPct": 39.08,
+      "candidates": [
+        {
+          "name": "Robert Martwick",
+          "party": "dem",
+          "votes": 54001
+        },
+        {
+          "name": "Jon Luers",
+          "party": "rep",
+          "votes": 34635
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-11",
+      "winner": "MIKE PORFIRIO",
+      "winnerParty": "dem",
+      "demVotes": 29481,
+      "repVotes": 15077,
+      "totalVotes": 44558,
+      "demPct": 66.16,
+      "repPct": 33.84,
+      "candidates": [
+        {
+          "name": "MIKE PORFIRIO",
+          "party": "dem",
+          "votes": 29481
+        },
+        {
+          "name": "THOMAS \"MAC\" McGILL",
+          "party": "rep",
+          "votes": 15077
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-12",
+      "winner": "CELINA VILLANUEVA",
+      "winnerParty": "dem",
+      "demVotes": 23303,
+      "repVotes": 0,
+      "totalVotes": 23303,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "CELINA VILLANUEVA",
+          "party": "dem",
+          "votes": 23303
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-13",
+      "winner": "Robert Peters",
+      "winnerParty": "dem",
+      "demVotes": 64018,
+      "repVotes": 0,
+      "totalVotes": 64018,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Robert Peters",
+          "party": "dem",
+          "votes": 64018
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-14",
+      "winner": "EMIL JONES, III",
+      "winnerParty": "dem",
+      "demVotes": 49237,
+      "repVotes": 0,
+      "totalVotes": 49237,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "EMIL JONES, III",
+          "party": "dem",
+          "votes": 49237
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-15",
+      "winner": "NAPOLEON B. HARRIS, III",
+      "winnerParty": "dem",
+      "demVotes": 51700,
+      "repVotes": 0,
+      "totalVotes": 51700,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "NAPOLEON B. HARRIS, III",
+          "party": "dem",
+          "votes": 51700
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-16",
+      "winner": "Willie Preston",
+      "winnerParty": "dem",
+      "demVotes": 53401,
+      "repVotes": 0,
+      "totalVotes": 53401,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Willie Preston",
+          "party": "dem",
+          "votes": 53401
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-17",
+      "winner": "ELGIE R. SIMS, JR.",
+      "winnerParty": "dem",
+      "demVotes": 51061,
+      "repVotes": 0,
+      "totalVotes": 51061,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "ELGIE R. SIMS, JR.",
+          "party": "dem",
+          "votes": 51061
+        },
+        {
+          "name": "ANTHONY WILSON",
+          "party": "ind",
+          "votes": 24
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-18",
+      "winner": "BILL CUNNINGHAM",
+      "winnerParty": "dem",
+      "demVotes": 45430,
+      "repVotes": 31111,
+      "totalVotes": 76541,
+      "demPct": 59.35,
+      "repPct": 40.65,
+      "candidates": [
+        {
+          "name": "BILL CUNNINGHAM",
+          "party": "dem",
+          "votes": 45430
+        },
+        {
+          "name": "CHRISTINE SHANAHAN McGOVERN",
+          "party": "rep",
+          "votes": 31111
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-19",
+      "winner": "Michael E. Hastings",
+      "winnerParty": "dem",
+      "demVotes": 62942,
+      "repVotes": 48755,
+      "totalVotes": 111697,
+      "demPct": 56.35,
+      "repPct": 43.65,
+      "candidates": [
+        {
+          "name": "Michael E. Hastings",
+          "party": "dem",
+          "votes": 62942
+        },
+        {
+          "name": "Samantha Jean Gasca",
+          "party": "rep",
+          "votes": 48755
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-20",
+      "winner": "Graciela Guzman",
+      "winnerParty": "dem",
+      "demVotes": 61803,
+      "repVotes": 14281,
+      "totalVotes": 76084,
+      "demPct": 81.23,
+      "repPct": 18.77,
+      "candidates": [
+        {
+          "name": "Graciela Guzman",
+          "party": "dem",
+          "votes": 61803
+        },
+        {
+          "name": "Jason Proctor",
+          "party": "rep",
+          "votes": 14281
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-21",
+      "winner": "LAURA ELLMAN",
+      "winnerParty": "dem",
+      "demVotes": 51200,
+      "repVotes": 35876,
+      "totalVotes": 87076,
+      "demPct": 58.8,
+      "repPct": 41.2,
+      "candidates": [
+        {
+          "name": "LAURA ELLMAN",
+          "party": "dem",
+          "votes": 51200
+        },
+        {
+          "name": "KATHLEEN MURRAY",
+          "party": "rep",
+          "votes": 35876
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-22",
+      "winner": "Cristina Castro",
+      "winnerParty": "dem",
+      "demVotes": 47763,
+      "repVotes": 0,
+      "totalVotes": 47763,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Cristina Castro",
+          "party": "dem",
+          "votes": 47763
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-23",
+      "winner": "SUZANNE \"SUZY\" GLOWIAK HILTON",
+      "winnerParty": "dem",
+      "demVotes": 39460,
+      "repVotes": 32803,
+      "totalVotes": 72263,
+      "demPct": 54.61,
+      "repPct": 45.39,
+      "candidates": [
+        {
+          "name": "SUZANNE \"SUZY\" GLOWIAK HILTON",
+          "party": "dem",
+          "votes": 39460
+        },
+        {
+          "name": "DENNIS M. REBOLETTI",
+          "party": "rep",
+          "votes": 32803
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-24",
+      "winner": "SETH LEWIS",
+      "winnerParty": "rep",
+      "demVotes": 40329,
+      "repVotes": 43567,
+      "totalVotes": 83896,
+      "demPct": 48.07,
+      "repPct": 51.93,
+      "candidates": [
+        {
+          "name": "SETH LEWIS",
+          "party": "rep",
+          "votes": 43567
+        },
+        {
+          "name": "LAUREN \"LAURIE\" NOWAK",
+          "party": "dem",
+          "votes": 40329
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-25",
+      "winner": "Karina Villa",
+      "winnerParty": "dem",
+      "demVotes": 46205,
+      "repVotes": 32183,
+      "totalVotes": 78388,
+      "demPct": 58.94,
+      "repPct": 41.06,
+      "candidates": [
+        {
+          "name": "Karina Villa",
+          "party": "dem",
+          "votes": 46205
+        },
+        {
+          "name": "Heather Brown",
+          "party": "rep",
+          "votes": 32183
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-26",
+      "winner": "DAN McCONCHIE",
+      "winnerParty": "rep",
+      "demVotes": 44247,
+      "repVotes": 44632,
+      "totalVotes": 88879,
+      "demPct": 49.78,
+      "repPct": 50.22,
+      "candidates": [
+        {
+          "name": "DAN McCONCHIE",
+          "party": "rep",
+          "votes": 44632
+        },
+        {
+          "name": "MARIA PETERSON",
+          "party": "dem",
+          "votes": 44247
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-27",
+      "winner": "Mark L. Walker",
+      "winnerParty": "dem",
+      "demVotes": 53917,
+      "repVotes": 39769,
+      "totalVotes": 93686,
+      "demPct": 57.55,
+      "repPct": 42.45,
+      "candidates": [
+        {
+          "name": "Mark L. Walker",
+          "party": "dem",
+          "votes": 53917
+        },
+        {
+          "name": "Tom Schlenhardt",
+          "party": "rep",
+          "votes": 39769
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-28",
+      "winner": "Laura M. Murphy",
+      "winnerParty": "dem",
+      "demVotes": 57919,
+      "repVotes": 0,
+      "totalVotes": 57919,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Laura M. Murphy",
+          "party": "dem",
+          "votes": 57919
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-29",
+      "winner": "JULIE A. MORRISON",
+      "winnerParty": "dem",
+      "demVotes": 62332,
+      "repVotes": 0,
+      "totalVotes": 62332,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "JULIE A. MORRISON",
+          "party": "dem",
+          "votes": 62332
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-30",
+      "winner": "ADRIANE JOHNSON",
+      "winnerParty": "dem",
+      "demVotes": 38027,
+      "repVotes": 0,
+      "totalVotes": 38027,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "ADRIANE JOHNSON",
+          "party": "dem",
+          "votes": 38027
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-31",
+      "winner": "Mary Edly-Allen",
+      "winnerParty": "dem",
+      "demVotes": 52654,
+      "repVotes": 37880,
+      "totalVotes": 90534,
+      "demPct": 58.16,
+      "repPct": 41.84,
+      "candidates": [
+        {
+          "name": "Mary Edly-Allen",
+          "party": "dem",
+          "votes": 52654
+        },
+        {
+          "name": "Ashley Jensen",
+          "party": "rep",
+          "votes": 37880
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-32",
+      "winner": "CRAIG WILCOX",
+      "winnerParty": "rep",
+      "demVotes": 36009,
+      "repVotes": 45583,
+      "totalVotes": 81592,
+      "demPct": 44.13,
+      "repPct": 55.87,
+      "candidates": [
+        {
+          "name": "CRAIG WILCOX",
+          "party": "rep",
+          "votes": 45583
+        },
+        {
+          "name": "ALLENA BARBATO",
+          "party": "dem",
+          "votes": 36009
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-33",
+      "winner": "DONALD P. DeWITTE",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 56883,
+      "totalVotes": 56883,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "DONALD P. DeWITTE",
+          "party": "rep",
+          "votes": 56883
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-34",
+      "winner": "Steve Stadelman",
+      "winnerParty": "dem",
+      "demVotes": 49576,
+      "repVotes": 30238,
+      "totalVotes": 79814,
+      "demPct": 62.11,
+      "repPct": 37.89,
+      "candidates": [
+        {
+          "name": "Steve Stadelman",
+          "party": "dem",
+          "votes": 49576
+        },
+        {
+          "name": "Crystal Villarreal Soltow",
+          "party": "rep",
+          "votes": 30238
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-35",
+      "winner": "DAVE SYVERSON",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 65233,
+      "totalVotes": 65233,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "DAVE SYVERSON",
+          "party": "rep",
+          "votes": 65233
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-36",
+      "winner": "MICHAEL W. HALPIN",
+      "winnerParty": "dem",
+      "demVotes": 38454,
+      "repVotes": 31932,
+      "totalVotes": 70386,
+      "demPct": 54.63,
+      "repPct": 45.37,
+      "candidates": [
+        {
+          "name": "MICHAEL W. HALPIN",
+          "party": "dem",
+          "votes": 38454
+        },
+        {
+          "name": "MIKE THOMS",
+          "party": "rep",
+          "votes": 31932
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-37",
+      "winner": "Li Arellano, Jr.",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 86286,
+      "totalVotes": 86286,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Li Arellano, Jr.",
+          "party": "rep",
+          "votes": 86286
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-38",
+      "winner": "SUE REZIN",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 59006,
+      "totalVotes": 59006,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "SUE REZIN",
+          "party": "rep",
+          "votes": 59006
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-39",
+      "winner": "DON HARMON",
+      "winnerParty": "dem",
+      "demVotes": 47658,
+      "repVotes": 0,
+      "totalVotes": 47658,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "DON HARMON",
+          "party": "dem",
+          "votes": 47658
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-40",
+      "winner": "Patrick Joyce",
+      "winnerParty": "dem",
+      "demVotes": 51942,
+      "repVotes": 40153,
+      "totalVotes": 92095,
+      "demPct": 56.4,
+      "repPct": 43.6,
+      "candidates": [
+        {
+          "name": "Patrick Joyce",
+          "party": "dem",
+          "votes": 51942
+        },
+        {
+          "name": "Philip Nagel",
+          "party": "rep",
+          "votes": 40153
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-41",
+      "winner": "JOHN CURRAN",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 64100,
+      "totalVotes": 64100,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "JOHN CURRAN",
+          "party": "rep",
+          "votes": 64100
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-42",
+      "winner": "LINDA HOLMES",
+      "winnerParty": "dem",
+      "demVotes": 40896,
+      "repVotes": 26976,
+      "totalVotes": 67872,
+      "demPct": 60.25,
+      "repPct": 39.75,
+      "candidates": [
+        {
+          "name": "LINDA HOLMES",
+          "party": "dem",
+          "votes": 40896
+        },
+        {
+          "name": "PAUL J. SANTUCCI",
+          "party": "rep",
+          "votes": 26976
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-43",
+      "winner": "Rachel Ventura",
+      "winnerParty": "dem",
+      "demVotes": 49057,
+      "repVotes": 35266,
+      "totalVotes": 84323,
+      "demPct": 58.18,
+      "repPct": 41.82,
+      "candidates": [
+        {
+          "name": "Rachel Ventura",
+          "party": "dem",
+          "votes": 49057
+        },
+        {
+          "name": "Jennifer \"Jen\" Monson",
+          "party": "rep",
+          "votes": 35266
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-44",
+      "winner": "SALLY J. TURNER",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 75666,
+      "totalVotes": 75666,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "SALLY J. TURNER",
+          "party": "rep",
+          "votes": 75666
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-45",
+      "winner": "ANDREW S. CHESNEY",
+      "winnerParty": "rep",
+      "demVotes": 28368,
+      "repVotes": 56171,
+      "totalVotes": 84539,
+      "demPct": 33.56,
+      "repPct": 66.44,
+      "candidates": [
+        {
+          "name": "ANDREW S. CHESNEY",
+          "party": "rep",
+          "votes": 56171
+        },
+        {
+          "name": "GERALD H. PODRAZA",
+          "party": "dem",
+          "votes": 28368
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-46",
+      "winner": "Dave Koehler",
+      "winnerParty": "dem",
+      "demVotes": 53156,
+      "repVotes": 39168,
+      "totalVotes": 92324,
+      "demPct": 57.58,
+      "repPct": 42.42,
+      "candidates": [
+        {
+          "name": "Dave Koehler",
+          "party": "dem",
+          "votes": 53156
+        },
+        {
+          "name": "Sally Owens",
+          "party": "rep",
+          "votes": 39168
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-47",
+      "winner": "NEIL ANDERSON",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 70738,
+      "totalVotes": 70738,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "NEIL ANDERSON",
+          "party": "rep",
+          "votes": 70738
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-48",
+      "winner": "DORIS TURNER",
+      "winnerParty": "dem",
+      "demVotes": 39138,
+      "repVotes": 37731,
+      "totalVotes": 76869,
+      "demPct": 50.92,
+      "repPct": 49.08,
+      "candidates": [
+        {
+          "name": "DORIS TURNER",
+          "party": "dem",
+          "votes": 39138
+        },
+        {
+          "name": "SANDY HAMILTON",
+          "party": "rep",
+          "votes": 37731
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-49",
+      "winner": "Meg Loughran Cappel",
+      "winnerParty": "dem",
+      "demVotes": 55505,
+      "repVotes": 43537,
+      "totalVotes": 99042,
+      "demPct": 56.04,
+      "repPct": 43.96,
+      "candidates": [
+        {
+          "name": "Meg Loughran Cappel",
+          "party": "dem",
+          "votes": 55505
+        },
+        {
+          "name": "Katie Deane-Schlottman",
+          "party": "rep",
+          "votes": 43537
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-50",
+      "winner": "JIL TRACY",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 73674,
+      "totalVotes": 73674,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "JIL TRACY",
+          "party": "rep",
+          "votes": 73674
+        },
+        {
+          "name": "SCOTT D. RODGERS",
+          "party": "ind",
+          "votes": 1
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-51",
+      "winner": "CHAPIN ROSE",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 72990,
+      "totalVotes": 72990,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "CHAPIN ROSE",
+          "party": "rep",
+          "votes": 72990
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-52",
+      "winner": "Paul N. Faraci",
+      "winnerParty": "dem",
+      "demVotes": 53909,
+      "repVotes": 31405,
+      "totalVotes": 85314,
+      "demPct": 63.19,
+      "repPct": 36.81,
+      "candidates": [
+        {
+          "name": "Paul N. Faraci",
+          "party": "dem",
+          "votes": 53909
+        },
+        {
+          "name": "Jeff Brownfield",
+          "party": "rep",
+          "votes": 31405
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-53",
+      "winner": "Chris Balkema",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 90825,
+      "totalVotes": 90825,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Chris Balkema",
+          "party": "rep",
+          "votes": 90825
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-54",
+      "winner": "STEVE McCLURE",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 76814,
+      "totalVotes": 76814,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "STEVE McCLURE",
+          "party": "rep",
+          "votes": 76814
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-55",
+      "winner": "Jason Plummer",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 95805,
+      "totalVotes": 95805,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Jason Plummer",
+          "party": "rep",
+          "votes": 95805
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-56",
+      "winner": "ERICA CONWAY HARRISS",
+      "winnerParty": "rep",
+      "demVotes": 35843,
+      "repVotes": 37459,
+      "totalVotes": 73302,
+      "demPct": 48.9,
+      "repPct": 51.1,
+      "candidates": [
+        {
+          "name": "ERICA CONWAY HARRISS",
+          "party": "rep",
+          "votes": 37459
+        },
+        {
+          "name": "KRIS THARP",
+          "party": "dem",
+          "votes": 35843
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-57",
+      "winner": "CHRISTOPHER BELT",
+      "winnerParty": "dem",
+      "demVotes": 41880,
+      "repVotes": 30746,
+      "totalVotes": 72626,
+      "demPct": 57.67,
+      "repPct": 42.33,
+      "candidates": [
+        {
+          "name": "CHRISTOPHER BELT",
+          "party": "dem",
+          "votes": 41880
+        },
+        {
+          "name": "WAVEY T. LESTER II",
+          "party": "rep",
+          "votes": 30746
+        },
+        {
+          "name": "BJ HENDERSON",
+          "party": "ind",
+          "votes": 8
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-58",
+      "winner": "Terri Bryant",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 93113,
+      "totalVotes": 93113,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Terri Bryant",
+          "party": "rep",
+          "votes": 93113
+        }
+      ]
+    },
+    {
+      "districtId": "il-sd-59",
+      "winner": "DALE FOWLER",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 65708,
+      "totalVotes": 65708,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "DALE FOWLER",
+          "party": "rep",
+          "votes": 65708
+        }
+      ]
+    }
+  ]
+}

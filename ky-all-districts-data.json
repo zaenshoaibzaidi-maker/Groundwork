@@ -1,0 +1,5477 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Kentucky House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58037,
+        "medianAge": 43,
+        "totalPopulation": 44228,
+        "collegePct": 21.1,
+        "renterRatePct": 28.17,
+        "race": {
+          "whitePct": 83.63,
+          "nonHispanicWhitePct": 82.65,
+          "blackPct": 10.41,
+          "asianPct": 0.19,
+          "hispanicPct": 2.89
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-1",
+        "winner": "Steven Jack RUDY",
+        "winnerParty": "rep",
+        "demVotes": 4881,
+        "repVotes": 16074,
+        "totalVotes": 20955,
+        "demPct": 23.29,
+        "repPct": 76.71,
+        "candidates": [
+          {
+            "name": "Steven Jack RUDY",
+            "party": "rep",
+            "votes": 16074
+          },
+          {
+            "name": "Fredrick FOUNTAIN",
+            "party": "dem",
+            "votes": 4881
+          }
+        ]
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Kentucky House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54377,
+        "medianAge": 41.1,
+        "totalPopulation": 44484,
+        "collegePct": 20.2,
+        "renterRatePct": 22.61,
+        "race": {
+          "whitePct": 87.89,
+          "nonHispanicWhitePct": 86.24,
+          "blackPct": 3.86,
+          "asianPct": 0.43,
+          "hispanicPct": 6.42
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-2",
+        "winner": "Kimberly HOLLOWAY",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 16855,
+        "totalVotes": 16855,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Kimberly HOLLOWAY",
+            "party": "rep",
+            "votes": 16855
+          }
+        ]
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Kentucky House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58482,
+        "medianAge": 42,
+        "totalPopulation": 44324,
+        "collegePct": 25.66,
+        "renterRatePct": 34.43,
+        "race": {
+          "whitePct": 82.52,
+          "nonHispanicWhitePct": 81.3,
+          "blackPct": 9.61,
+          "asianPct": 1.23,
+          "hispanicPct": 3.54
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-3",
+        "winner": "Randy BRIDGES",
+        "winnerParty": "rep",
+        "demVotes": 6632,
+        "repVotes": 13455,
+        "totalVotes": 20087,
+        "demPct": 33.02,
+        "repPct": 66.98,
+        "candidates": [
+          {
+            "name": "Randy BRIDGES",
+            "party": "rep",
+            "votes": 13455
+          },
+          {
+            "name": "Carrie Gottschalk SINGLER",
+            "party": "dem",
+            "votes": 6632
+          }
+        ]
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Kentucky House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57610,
+        "medianAge": 41.3,
+        "totalPopulation": 45143,
+        "collegePct": 16.63,
+        "renterRatePct": 28.25,
+        "race": {
+          "whitePct": 87.96,
+          "nonHispanicWhitePct": 87.33,
+          "blackPct": 6.11,
+          "asianPct": 0.5,
+          "hispanicPct": 2.53
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-4",
+        "winner": "D. Wade WILLIAMS",
+        "winnerParty": "rep",
+        "demVotes": 4973,
+        "repVotes": 15146,
+        "totalVotes": 20119,
+        "demPct": 24.72,
+        "repPct": 75.28,
+        "candidates": [
+          {
+            "name": "D. Wade WILLIAMS",
+            "party": "rep",
+            "votes": 15146
+          },
+          {
+            "name": "Lloyd SMITH",
+            "party": "dem",
+            "votes": 4973
+          }
+        ]
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Kentucky House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53036,
+        "medianAge": 37.9,
+        "totalPopulation": 43983,
+        "collegePct": 30.94,
+        "renterRatePct": 33.33,
+        "race": {
+          "whitePct": 90.2,
+          "nonHispanicWhitePct": 88.58,
+          "blackPct": 3.41,
+          "asianPct": 1.43,
+          "hispanicPct": 3.27
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-5",
+        "winner": "Mary Beth IMES",
+        "winnerParty": "rep",
+        "demVotes": 6977,
+        "repVotes": 13247,
+        "totalVotes": 20224,
+        "demPct": 34.5,
+        "repPct": 65.5,
+        "candidates": [
+          {
+            "name": "Mary Beth IMES",
+            "party": "rep",
+            "votes": 13247
+          },
+          {
+            "name": "Lauren HINES",
+            "party": "dem",
+            "votes": 6977
+          }
+        ]
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Kentucky House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64277,
+        "medianAge": 45.8,
+        "totalPopulation": 44011,
+        "collegePct": 19.98,
+        "renterRatePct": 17.65,
+        "race": {
+          "whitePct": 94.26,
+          "nonHispanicWhitePct": 93.67,
+          "blackPct": 1.91,
+          "asianPct": 0.51,
+          "hispanicPct": 1.58
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-6",
+        "winner": "Chris FREELAND",
+        "winnerParty": "rep",
+        "demVotes": 5405,
+        "repVotes": 17949,
+        "totalVotes": 23354,
+        "demPct": 23.14,
+        "repPct": 76.86,
+        "candidates": [
+          {
+            "name": "Chris FREELAND",
+            "party": "rep",
+            "votes": 17949
+          },
+          {
+            "name": "Linda Story EDWARDS",
+            "party": "dem",
+            "votes": 5405
+          }
+        ]
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Kentucky House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72851,
+        "medianAge": 36.9,
+        "totalPopulation": 48597,
+        "collegePct": 26.16,
+        "renterRatePct": 31.19,
+        "race": {
+          "whitePct": 85.43,
+          "nonHispanicWhitePct": 84.84,
+          "blackPct": 4.94,
+          "asianPct": 3.16,
+          "hispanicPct": 3.24
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-7",
+        "winner": "Suzanne MILES",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 16678,
+        "totalVotes": 16678,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Suzanne MILES",
+            "party": "rep",
+            "votes": 16678
+          }
+        ]
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Kentucky House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52999,
+        "medianAge": 37.4,
+        "totalPopulation": 46279,
+        "collegePct": 18.7,
+        "renterRatePct": 39.67,
+        "race": {
+          "whitePct": 76.56,
+          "nonHispanicWhitePct": 75.63,
+          "blackPct": 16.34,
+          "asianPct": 0.19,
+          "hispanicPct": 2.8
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-8",
+        "winner": "Walker Wood THOMAS",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 14661,
+        "totalVotes": 14661,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Walker Wood THOMAS",
+            "party": "rep",
+            "votes": 14661
+          }
+        ]
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Kentucky House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55042,
+        "medianAge": 26.1,
+        "totalPopulation": 42936,
+        "collegePct": 20.7,
+        "renterRatePct": 51.56,
+        "race": {
+          "whitePct": 65.46,
+          "nonHispanicWhitePct": 60.29,
+          "blackPct": 18.1,
+          "asianPct": 1.95,
+          "hispanicPct": 12.28
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-9",
+        "winner": "Myron B. DOSSETT",
+        "winnerParty": "rep",
+        "demVotes": 3442,
+        "repVotes": 7124,
+        "totalVotes": 10566,
+        "demPct": 32.58,
+        "repPct": 67.42,
+        "candidates": [
+          {
+            "name": "Myron B. DOSSETT",
+            "party": "rep",
+            "votes": 7124
+          },
+          {
+            "name": "Twyla DILLARD",
+            "party": "dem",
+            "votes": 3442
+          }
+        ]
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Kentucky House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66198,
+        "medianAge": 40.6,
+        "totalPopulation": 45838,
+        "collegePct": 20.87,
+        "renterRatePct": 23.31,
+        "race": {
+          "whitePct": 86.96,
+          "nonHispanicWhitePct": 85.82,
+          "blackPct": 4.63,
+          "asianPct": 0.65,
+          "hispanicPct": 3.02
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-10",
+        "winner": "Josh CALLOWAY",
+        "winnerParty": "rep",
+        "demVotes": 7047,
+        "repVotes": 15702,
+        "totalVotes": 22749,
+        "demPct": 30.98,
+        "repPct": 69.02,
+        "candidates": [
+          {
+            "name": "Josh CALLOWAY",
+            "party": "rep",
+            "votes": 15702
+          },
+          {
+            "name": "John WHIPPLE",
+            "party": "dem",
+            "votes": 7047
+          }
+        ]
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Kentucky House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58239,
+        "medianAge": 41,
+        "totalPopulation": 44493,
+        "collegePct": 19.03,
+        "renterRatePct": 35.68,
+        "race": {
+          "whitePct": 85.83,
+          "nonHispanicWhitePct": 84.39,
+          "blackPct": 6.81,
+          "asianPct": 0.23,
+          "hispanicPct": 3.23
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-11",
+        "winner": "J. T. PAYNE",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 14964,
+        "totalVotes": 14964,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "J. T. PAYNE",
+            "party": "rep",
+            "votes": 14964
+          }
+        ]
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Kentucky House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59948,
+        "medianAge": 41.5,
+        "totalPopulation": 44351,
+        "collegePct": 13.54,
+        "renterRatePct": 24.71,
+        "race": {
+          "whitePct": 91.71,
+          "nonHispanicWhitePct": 90.47,
+          "blackPct": 3.94,
+          "asianPct": 0.2,
+          "hispanicPct": 3.3
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-12",
+        "winner": "Jim GOOCH JR.",
+        "winnerParty": "rep",
+        "demVotes": 3989,
+        "repVotes": 15804,
+        "totalVotes": 19793,
+        "demPct": 20.15,
+        "repPct": 79.85,
+        "candidates": [
+          {
+            "name": "Jim GOOCH JR.",
+            "party": "rep",
+            "votes": 15804
+          },
+          {
+            "name": "Alton M. AYER",
+            "party": "dem",
+            "votes": 3989
+          }
+        ]
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Kentucky House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54164,
+        "medianAge": 40.3,
+        "totalPopulation": 43320,
+        "collegePct": 26.1,
+        "renterRatePct": 39.95,
+        "race": {
+          "whitePct": 86.36,
+          "nonHispanicWhitePct": 84.28,
+          "blackPct": 4.68,
+          "asianPct": 1.59,
+          "hispanicPct": 5.17
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-13",
+        "winner": "D. J. JOHNSON",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 13913,
+        "totalVotes": 13913,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "D. J. JOHNSON",
+            "party": "rep",
+            "votes": 13913
+          }
+        ]
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Kentucky House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58982,
+        "medianAge": 40.6,
+        "totalPopulation": 44014,
+        "collegePct": 15.64,
+        "renterRatePct": 19.48,
+        "race": {
+          "whitePct": 93.37,
+          "nonHispanicWhitePct": 92.99,
+          "blackPct": 1.01,
+          "asianPct": 0.16,
+          "hispanicPct": 3.25
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-14",
+        "winner": "Scott LEWIS",
+        "winnerParty": "rep",
+        "demVotes": 4106,
+        "repVotes": 17093,
+        "totalVotes": 21199,
+        "demPct": 19.37,
+        "repPct": 80.63,
+        "candidates": [
+          {
+            "name": "Scott LEWIS",
+            "party": "rep",
+            "votes": 17093
+          },
+          {
+            "name": "Chanda GARNER",
+            "party": "dem",
+            "votes": 4106
+          }
+        ]
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Kentucky House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52440,
+        "medianAge": 42.3,
+        "totalPopulation": 43085,
+        "collegePct": 11.99,
+        "renterRatePct": 20.49,
+        "race": {
+          "whitePct": 92.9,
+          "nonHispanicWhitePct": 92.25,
+          "blackPct": 1.56,
+          "asianPct": 0.76,
+          "hispanicPct": 2.81
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-15",
+        "winner": "Rebecca RAYMER",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 15707,
+        "totalVotes": 15707,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Rebecca RAYMER",
+            "party": "rep",
+            "votes": 15707
+          }
+        ]
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Kentucky House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59884,
+        "medianAge": 39.4,
+        "totalPopulation": 44186,
+        "collegePct": 16.37,
+        "renterRatePct": 23.89,
+        "race": {
+          "whitePct": 88.57,
+          "nonHispanicWhitePct": 87.16,
+          "blackPct": 5.23,
+          "asianPct": 0.26,
+          "hispanicPct": 3.74
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-16",
+        "winner": "Jason PETRIE",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 16503,
+        "totalVotes": 16503,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Jason PETRIE",
+            "party": "rep",
+            "votes": 16503
+          }
+        ]
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Kentucky House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65728,
+        "medianAge": 33.7,
+        "totalPopulation": 47378,
+        "collegePct": 31.36,
+        "renterRatePct": 42.04,
+        "race": {
+          "whitePct": 75.59,
+          "nonHispanicWhitePct": 71.5,
+          "blackPct": 9.28,
+          "asianPct": 4.55,
+          "hispanicPct": 9.59
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-17",
+        "winner": "Robert B. DUVALL",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 14542,
+        "totalVotes": 14542,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Robert B. DUVALL",
+            "party": "rep",
+            "votes": 14542
+          }
+        ]
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Kentucky House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57918,
+        "medianAge": 40.7,
+        "totalPopulation": 42733,
+        "collegePct": 16.3,
+        "renterRatePct": 21.6,
+        "race": {
+          "whitePct": 94.91,
+          "nonHispanicWhitePct": 93.44,
+          "blackPct": 1.63,
+          "asianPct": 0.25,
+          "hispanicPct": 2
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-18",
+        "winner": "Samara HEAVRIN",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 17483,
+        "totalVotes": 17483,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Samara HEAVRIN",
+            "party": "rep",
+            "votes": 17483
+          }
+        ]
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Kentucky House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62111,
+        "medianAge": 38.5,
+        "totalPopulation": 46382,
+        "collegePct": 21.96,
+        "renterRatePct": 28.96,
+        "race": {
+          "whitePct": 82.95,
+          "nonHispanicWhitePct": 82.16,
+          "blackPct": 9.2,
+          "asianPct": 1.05,
+          "hispanicPct": 3.53
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-19",
+        "winner": "Michael Lee MEREDITH",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 18135,
+        "totalVotes": 18135,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Michael Lee MEREDITH",
+            "party": "rep",
+            "votes": 18135
+          }
+        ]
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Kentucky House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58311,
+        "medianAge": 29.3,
+        "totalPopulation": 48631,
+        "collegePct": 40.19,
+        "renterRatePct": 55.91,
+        "race": {
+          "whitePct": 77.06,
+          "nonHispanicWhitePct": 74.23,
+          "blackPct": 6.01,
+          "asianPct": 7.56,
+          "hispanicPct": 7.27
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-20",
+        "winner": "Kevin L. JACKSON",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 12103,
+        "totalVotes": 12103,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Kevin L. JACKSON",
+            "party": "rep",
+            "votes": 12103
+          }
+        ]
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Kentucky House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48436,
+        "medianAge": 41.4,
+        "totalPopulation": 46654,
+        "collegePct": 16.37,
+        "renterRatePct": 26.29,
+        "race": {
+          "whitePct": 92.71,
+          "nonHispanicWhitePct": 91.96,
+          "blackPct": 2.06,
+          "asianPct": 0.24,
+          "hispanicPct": 3.14
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-21",
+        "winner": "Amy NEIGHBORS",
+        "winnerParty": "rep",
+        "demVotes": 3868,
+        "repVotes": 18175,
+        "totalVotes": 22043,
+        "demPct": 17.55,
+        "repPct": 82.45,
+        "candidates": [
+          {
+            "name": "Amy NEIGHBORS",
+            "party": "rep",
+            "votes": 18175
+          },
+          {
+            "name": "Jeffery HUMBLE",
+            "party": "dem",
+            "votes": 3868
+          }
+        ]
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Kentucky House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64287,
+        "medianAge": 39.5,
+        "totalPopulation": 48216,
+        "collegePct": 20.27,
+        "renterRatePct": 25.86,
+        "race": {
+          "whitePct": 90.14,
+          "nonHispanicWhitePct": 89.23,
+          "blackPct": 3.89,
+          "asianPct": 0.18,
+          "hispanicPct": 2.66
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-22",
+        "winner": "Shawn MCPHERSON",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 17979,
+        "totalVotes": 17979,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Shawn MCPHERSON",
+            "party": "rep",
+            "votes": 17979
+          }
+        ]
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Kentucky House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49171,
+        "medianAge": 40.1,
+        "totalPopulation": 44670,
+        "collegePct": 17.81,
+        "renterRatePct": 34.84,
+        "race": {
+          "whitePct": 88.81,
+          "nonHispanicWhitePct": 88.09,
+          "blackPct": 3.7,
+          "asianPct": 0.78,
+          "hispanicPct": 4.26
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-23",
+        "winner": "Steve RILEY",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 16517,
+        "totalVotes": 16517,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Steve RILEY",
+            "party": "rep",
+            "votes": 16517
+          }
+        ]
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Kentucky House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52740,
+        "medianAge": 41.6,
+        "totalPopulation": 45776,
+        "collegePct": 13.85,
+        "renterRatePct": 24.92,
+        "race": {
+          "whitePct": 92.45,
+          "nonHispanicWhitePct": 91.36,
+          "blackPct": 2.98,
+          "asianPct": 0.24,
+          "hispanicPct": 2.49
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-24",
+        "winner": "Ryan BIVENS",
+        "winnerParty": "rep",
+        "demVotes": 3860,
+        "repVotes": 17097,
+        "totalVotes": 20957,
+        "demPct": 18.42,
+        "repPct": 81.58,
+        "candidates": [
+          {
+            "name": "Ryan BIVENS",
+            "party": "rep",
+            "votes": 17097
+          },
+          {
+            "name": "Johnny PENNINGTON",
+            "party": "dem",
+            "votes": 3860
+          }
+        ]
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Kentucky House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65373,
+        "medianAge": 39.1,
+        "totalPopulation": 44157,
+        "collegePct": 28.11,
+        "renterRatePct": 39.97,
+        "race": {
+          "whitePct": 76.72,
+          "nonHispanicWhitePct": 75.11,
+          "blackPct": 11.55,
+          "asianPct": 2.69,
+          "hispanicPct": 5.2
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-25",
+        "winner": "Steve BRATCHER",
+        "winnerParty": "rep",
+        "demVotes": 6245,
+        "repVotes": 11792,
+        "totalVotes": 18037,
+        "demPct": 34.62,
+        "repPct": 65.38,
+        "candidates": [
+          {
+            "name": "Steve BRATCHER",
+            "party": "rep",
+            "votes": 11792
+          },
+          {
+            "name": "Cherlyn Evette SMITH",
+            "party": "dem",
+            "votes": 6245
+          },
+          {
+            "name": "Eric S. PARRISH",
+            "party": "ind",
+            "votes": 744
+          }
+        ]
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Kentucky House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74874,
+        "medianAge": 38,
+        "totalPopulation": 45221,
+        "collegePct": 18.82,
+        "renterRatePct": 24.33,
+        "race": {
+          "whitePct": 85.51,
+          "nonHispanicWhitePct": 84.19,
+          "blackPct": 5.55,
+          "asianPct": 1.19,
+          "hispanicPct": 6.17
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-26",
+        "winner": "Peyton GRIFFEE",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 15070,
+        "totalVotes": 15070,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Peyton GRIFFEE",
+            "party": "rep",
+            "votes": 15070
+          }
+        ]
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Kentucky House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64223,
+        "medianAge": 37.7,
+        "totalPopulation": 46901,
+        "collegePct": 16.7,
+        "renterRatePct": 36.44,
+        "race": {
+          "whitePct": 80.15,
+          "nonHispanicWhitePct": 78.41,
+          "blackPct": 10.47,
+          "asianPct": 1.43,
+          "hispanicPct": 5.62
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-27",
+        "winner": "Nancy J. TATE",
+        "winnerParty": "rep",
+        "demVotes": 7065,
+        "repVotes": 11980,
+        "totalVotes": 19045,
+        "demPct": 37.1,
+        "repPct": 62.9,
+        "candidates": [
+          {
+            "name": "Nancy J. TATE",
+            "party": "rep",
+            "votes": 11980
+          },
+          {
+            "name": "Tyler CHAPMAN",
+            "party": "dem",
+            "votes": 7065
+          }
+        ]
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Kentucky House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68009,
+        "medianAge": 39.7,
+        "totalPopulation": 47343,
+        "collegePct": 18.72,
+        "renterRatePct": 26.08,
+        "race": {
+          "whitePct": 74.89,
+          "nonHispanicWhitePct": 73.85,
+          "blackPct": 14.98,
+          "asianPct": 0.69,
+          "hispanicPct": 7.41
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-28",
+        "winner": "Jared A. BAUMAN",
+        "winnerParty": "rep",
+        "demVotes": 8134,
+        "repVotes": 11536,
+        "totalVotes": 19670,
+        "demPct": 41.35,
+        "repPct": 58.65,
+        "candidates": [
+          {
+            "name": "Jared A. BAUMAN",
+            "party": "rep",
+            "votes": 11536
+          },
+          {
+            "name": "Almaria BAKER",
+            "party": "dem",
+            "votes": 8134
+          }
+        ]
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Kentucky House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97452,
+        "medianAge": 41.6,
+        "totalPopulation": 42140,
+        "collegePct": 38.49,
+        "renterRatePct": 16.43,
+        "race": {
+          "whitePct": 74.36,
+          "nonHispanicWhitePct": 71.85,
+          "blackPct": 14.18,
+          "asianPct": 2.74,
+          "hispanicPct": 6.93
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-29",
+        "winner": "Chris LEWIS",
+        "winnerParty": "rep",
+        "demVotes": 10371,
+        "repVotes": 14051,
+        "totalVotes": 24422,
+        "demPct": 42.47,
+        "repPct": 57.53,
+        "candidates": [
+          {
+            "name": "Chris LEWIS",
+            "party": "rep",
+            "votes": 14051
+          },
+          {
+            "name": "Timothy FINDLEY JR.",
+            "party": "dem",
+            "votes": 10371
+          }
+        ]
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Kentucky House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51398,
+        "medianAge": 33.7,
+        "totalPopulation": 45391,
+        "collegePct": 23.66,
+        "renterRatePct": 53.02,
+        "race": {
+          "whitePct": 41.11,
+          "nonHispanicWhitePct": 37.18,
+          "blackPct": 35.43,
+          "asianPct": 3.54,
+          "hispanicPct": 20
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-30",
+        "winner": "Daniel GROSSBERG",
+        "winnerParty": "dem",
+        "demVotes": 10125,
+        "repVotes": 0,
+        "totalVotes": 10125,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Daniel GROSSBERG",
+            "party": "dem",
+            "votes": 10125
+          }
+        ]
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Kentucky House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81940,
+        "medianAge": 40.1,
+        "totalPopulation": 43948,
+        "collegePct": 47.03,
+        "renterRatePct": 36.26,
+        "race": {
+          "whitePct": 77.4,
+          "nonHispanicWhitePct": 76.4,
+          "blackPct": 7.85,
+          "asianPct": 7.31,
+          "hispanicPct": 4.33
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-31",
+        "winner": "Susan Tyler WITTEN",
+        "winnerParty": "rep",
+        "demVotes": 11727,
+        "repVotes": 12067,
+        "totalVotes": 23794,
+        "demPct": 49.29,
+        "repPct": 50.71,
+        "candidates": [
+          {
+            "name": "Susan Tyler WITTEN",
+            "party": "rep",
+            "votes": 12067
+          },
+          {
+            "name": "Colleen Orsella DAVIS",
+            "party": "dem",
+            "votes": 11727
+          }
+        ]
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Kentucky House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74738,
+        "medianAge": 37.8,
+        "totalPopulation": 47768,
+        "collegePct": 49.06,
+        "renterRatePct": 40.47,
+        "race": {
+          "whitePct": 71.46,
+          "nonHispanicWhitePct": 69.43,
+          "blackPct": 14.35,
+          "asianPct": 4.97,
+          "hispanicPct": 6.25
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-32",
+        "winner": "Tina BOJANOWSKI",
+        "winnerParty": "dem",
+        "demVotes": 16494,
+        "repVotes": 0,
+        "totalVotes": 16494,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Tina BOJANOWSKI",
+            "party": "dem",
+            "votes": 16494
+          }
+        ]
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Kentucky House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104190,
+        "medianAge": 42.7,
+        "totalPopulation": 43056,
+        "collegePct": 54.42,
+        "renterRatePct": 22.15,
+        "race": {
+          "whitePct": 83.86,
+          "nonHispanicWhitePct": 83.2,
+          "blackPct": 7.31,
+          "asianPct": 3.36,
+          "hispanicPct": 2.73
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-33",
+        "winner": "Jason Michael NEMES",
+        "winnerParty": "rep",
+        "demVotes": 10882,
+        "repVotes": 14349,
+        "totalVotes": 25231,
+        "demPct": 43.13,
+        "repPct": 56.87,
+        "candidates": [
+          {
+            "name": "Jason Michael NEMES",
+            "party": "rep",
+            "votes": 14349
+          },
+          {
+            "name": "Taylor JOLLY",
+            "party": "dem",
+            "votes": 10882
+          }
+        ]
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Kentucky House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84620,
+        "medianAge": 42.1,
+        "totalPopulation": 45156,
+        "collegePct": 61.17,
+        "renterRatePct": 36.52,
+        "race": {
+          "whitePct": 86.09,
+          "nonHispanicWhitePct": 85.32,
+          "blackPct": 6.34,
+          "asianPct": 3.1,
+          "hispanicPct": 2.79
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-34",
+        "winner": "Sarah STALKER",
+        "winnerParty": "dem",
+        "demVotes": 19214,
+        "repVotes": 0,
+        "totalVotes": 19214,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Sarah STALKER",
+            "party": "dem",
+            "votes": 19214
+          }
+        ]
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Kentucky House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52469,
+        "medianAge": 35.2,
+        "totalPopulation": 43740,
+        "collegePct": 22.54,
+        "renterRatePct": 45.92,
+        "race": {
+          "whitePct": 53.94,
+          "nonHispanicWhitePct": 48.08,
+          "blackPct": 24.84,
+          "asianPct": 3.48,
+          "hispanicPct": 20.75
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-35",
+        "winner": "Lisa WILLNER",
+        "winnerParty": "dem",
+        "demVotes": 8662,
+        "repVotes": 0,
+        "totalVotes": 8662,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Lisa WILLNER",
+            "party": "dem",
+            "votes": 8662
+          }
+        ]
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Kentucky House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113104,
+        "medianAge": 41,
+        "totalPopulation": 45579,
+        "collegePct": 55.68,
+        "renterRatePct": 22.46,
+        "race": {
+          "whitePct": 79.01,
+          "nonHispanicWhitePct": 77.62,
+          "blackPct": 7.47,
+          "asianPct": 5.85,
+          "hispanicPct": 6.07
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-36",
+        "winner": "John F. HODGSON",
+        "winnerParty": "rep",
+        "demVotes": 11364,
+        "repVotes": 15601,
+        "totalVotes": 26965,
+        "demPct": 42.14,
+        "repPct": 57.86,
+        "candidates": [
+          {
+            "name": "John F. HODGSON",
+            "party": "rep",
+            "votes": 15601
+          },
+          {
+            "name": "William Woody ZORN",
+            "party": "dem",
+            "votes": 11364
+          }
+        ]
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Kentucky House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70644,
+        "medianAge": 37.3,
+        "totalPopulation": 46210,
+        "collegePct": 24.11,
+        "renterRatePct": 26.36,
+        "race": {
+          "whitePct": 72.54,
+          "nonHispanicWhitePct": 69.69,
+          "blackPct": 11.46,
+          "asianPct": 1.31,
+          "hispanicPct": 14.02
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-37",
+        "winner": "Emily CALLAWAY",
+        "winnerParty": "rep",
+        "demVotes": 7970,
+        "repVotes": 10330,
+        "totalVotes": 18300,
+        "demPct": 43.55,
+        "repPct": 56.45,
+        "candidates": [
+          {
+            "name": "Emily CALLAWAY",
+            "party": "rep",
+            "votes": 10330
+          },
+          {
+            "name": "John J. STOVALL",
+            "party": "dem",
+            "votes": 7970
+          }
+        ]
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Kentucky House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58675,
+        "medianAge": 37.9,
+        "totalPopulation": 44599,
+        "collegePct": 22.11,
+        "renterRatePct": 36.23,
+        "race": {
+          "whitePct": 65.88,
+          "nonHispanicWhitePct": 62.45,
+          "blackPct": 16,
+          "asianPct": 4.58,
+          "hispanicPct": 10.81
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-38",
+        "winner": "Rachel ROARX",
+        "winnerParty": "dem",
+        "demVotes": 8743,
+        "repVotes": 8494,
+        "totalVotes": 17237,
+        "demPct": 50.72,
+        "repPct": 49.28,
+        "candidates": [
+          {
+            "name": "Rachel ROARX",
+            "party": "dem",
+            "votes": 8743
+          },
+          {
+            "name": "Carrie Sanders MCKEEHAN",
+            "party": "rep",
+            "votes": 8494
+          }
+        ]
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Kentucky House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76607,
+        "medianAge": 37.6,
+        "totalPopulation": 45809,
+        "collegePct": 37.52,
+        "renterRatePct": 34.75,
+        "race": {
+          "whitePct": 84.45,
+          "nonHispanicWhitePct": 81.88,
+          "blackPct": 5.76,
+          "asianPct": 2.8,
+          "hispanicPct": 6.01
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-39",
+        "winner": "Matt LOCKETT",
+        "winnerParty": "rep",
+        "demVotes": 8513,
+        "repVotes": 12610,
+        "totalVotes": 21123,
+        "demPct": 40.3,
+        "repPct": 59.7,
+        "candidates": [
+          {
+            "name": "Matt LOCKETT",
+            "party": "rep",
+            "votes": 12610
+          },
+          {
+            "name": "Ryan STANFORD",
+            "party": "dem",
+            "votes": 8513
+          }
+        ]
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Kentucky House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 40996,
+        "medianAge": 37.3,
+        "totalPopulation": 38958,
+        "collegePct": 12.44,
+        "renterRatePct": 55.22,
+        "race": {
+          "whitePct": 39.56,
+          "nonHispanicWhitePct": 37.78,
+          "blackPct": 47.06,
+          "asianPct": 1.17,
+          "hispanicPct": 6.96
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-40",
+        "winner": "Nima KULKARNI",
+        "winnerParty": "dem",
+        "demVotes": 10293,
+        "repVotes": 0,
+        "totalVotes": 10293,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Nima KULKARNI",
+            "party": "dem",
+            "votes": 10293
+          }
+        ]
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Kentucky House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77121,
+        "medianAge": 39.5,
+        "totalPopulation": 47720,
+        "collegePct": 54.19,
+        "renterRatePct": 37.04,
+        "race": {
+          "whitePct": 84.71,
+          "nonHispanicWhitePct": 84.07,
+          "blackPct": 6.58,
+          "asianPct": 1.29,
+          "hispanicPct": 4.81
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-41",
+        "winner": "Mary Lou MARZIAN",
+        "winnerParty": "dem",
+        "demVotes": 18485,
+        "repVotes": 6511,
+        "totalVotes": 24996,
+        "demPct": 73.95,
+        "repPct": 26.05,
+        "candidates": [
+          {
+            "name": "Mary Lou MARZIAN",
+            "party": "dem",
+            "votes": 18485
+          },
+          {
+            "name": "Sara-Elizabeth COTTRELL",
+            "party": "rep",
+            "votes": 6511
+          }
+        ]
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Kentucky House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41043,
+        "medianAge": 31,
+        "totalPopulation": 42888,
+        "collegePct": 27.7,
+        "renterRatePct": 63.33,
+        "race": {
+          "whitePct": 43.37,
+          "nonHispanicWhitePct": 42.55,
+          "blackPct": 47.98,
+          "asianPct": 1.31,
+          "hispanicPct": 3.21
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-42",
+        "winner": "Joshua WATKINS",
+        "winnerParty": "dem",
+        "demVotes": 12350,
+        "repVotes": 0,
+        "totalVotes": 12350,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Joshua WATKINS",
+            "party": "dem",
+            "votes": 12350
+          }
+        ]
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Kentucky House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 38934,
+        "medianAge": 36.7,
+        "totalPopulation": 44165,
+        "collegePct": 25.69,
+        "renterRatePct": 64.07,
+        "race": {
+          "whitePct": 45.98,
+          "nonHispanicWhitePct": 45.12,
+          "blackPct": 46.76,
+          "asianPct": 1.43,
+          "hispanicPct": 3.23
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-43",
+        "winner": "Pamela STEVENSON",
+        "winnerParty": "dem",
+        "demVotes": 12088,
+        "repVotes": 0,
+        "totalVotes": 12088,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Pamela STEVENSON",
+            "party": "dem",
+            "votes": 12088
+          }
+        ]
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Kentucky House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46973,
+        "medianAge": 37,
+        "totalPopulation": 45647,
+        "collegePct": 11.1,
+        "renterRatePct": 38.46,
+        "race": {
+          "whitePct": 39.34,
+          "nonHispanicWhitePct": 37.66,
+          "blackPct": 52.37,
+          "asianPct": 0.52,
+          "hispanicPct": 5.71
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-44",
+        "winner": "Beverly D. CHESTER-BURTON",
+        "winnerParty": "dem",
+        "demVotes": 12888,
+        "repVotes": 0,
+        "totalVotes": 12888,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Beverly D. CHESTER-BURTON",
+            "party": "dem",
+            "votes": 12888
+          }
+        ]
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Kentucky House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106466,
+        "medianAge": 43.4,
+        "totalPopulation": 43731,
+        "collegePct": 59.38,
+        "renterRatePct": 23.49,
+        "race": {
+          "whitePct": 81.37,
+          "nonHispanicWhitePct": 80.27,
+          "blackPct": 3.16,
+          "asianPct": 8.88,
+          "hispanicPct": 4.17
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-45",
+        "winner": "Adam MOORE",
+        "winnerParty": "dem",
+        "demVotes": 12777,
+        "repVotes": 12646,
+        "totalVotes": 25423,
+        "demPct": 50.26,
+        "repPct": 49.74,
+        "candidates": [
+          {
+            "name": "Adam MOORE",
+            "party": "dem",
+            "votes": 12777
+          },
+          {
+            "name": "Thomas JEFFERSON",
+            "party": "rep",
+            "votes": 12646
+          }
+        ]
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Kentucky House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71314,
+        "medianAge": 38.2,
+        "totalPopulation": 47406,
+        "collegePct": 31.09,
+        "renterRatePct": 29.94,
+        "race": {
+          "whitePct": 65,
+          "nonHispanicWhitePct": 62.06,
+          "blackPct": 23.11,
+          "asianPct": 0.98,
+          "hispanicPct": 9.44
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-46",
+        "winner": "Alan Al GENTRY",
+        "winnerParty": "dem",
+        "demVotes": 11755,
+        "repVotes": 9019,
+        "totalVotes": 20774,
+        "demPct": 56.59,
+        "repPct": 43.41,
+        "candidates": [
+          {
+            "name": "Alan Al GENTRY",
+            "party": "dem",
+            "votes": 11755
+          },
+          {
+            "name": "Bob DEVORE",
+            "party": "rep",
+            "votes": 9019
+          }
+        ]
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Kentucky House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60722,
+        "medianAge": 41,
+        "totalPopulation": 46453,
+        "collegePct": 14.06,
+        "renterRatePct": 22.83,
+        "race": {
+          "whitePct": 91.35,
+          "nonHispanicWhitePct": 90.75,
+          "blackPct": 1.7,
+          "asianPct": 0.21,
+          "hispanicPct": 4.12
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-47",
+        "winner": "Felicia RABOURN",
+        "winnerParty": "rep",
+        "demVotes": 6844,
+        "repVotes": 14703,
+        "totalVotes": 21547,
+        "demPct": 31.76,
+        "repPct": 68.24,
+        "candidates": [
+          {
+            "name": "Felicia RABOURN",
+            "party": "rep",
+            "votes": 14703
+          },
+          {
+            "name": "Robb ADAMS",
+            "party": "dem",
+            "votes": 6844
+          }
+        ]
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Kentucky House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131123,
+        "medianAge": 46,
+        "totalPopulation": 44020,
+        "collegePct": 68.11,
+        "renterRatePct": 16.03,
+        "race": {
+          "whitePct": 87.23,
+          "nonHispanicWhitePct": 85.8,
+          "blackPct": 3.11,
+          "asianPct": 3.85,
+          "hispanicPct": 3.66
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-48",
+        "winner": "Ken FLEMING",
+        "winnerParty": "rep",
+        "demVotes": 13081,
+        "repVotes": 15195,
+        "totalVotes": 28276,
+        "demPct": 46.26,
+        "repPct": 53.74,
+        "candidates": [
+          {
+            "name": "Ken FLEMING",
+            "party": "rep",
+            "votes": 15195
+          },
+          {
+            "name": "Kate FARROW",
+            "party": "dem",
+            "votes": 13081
+          }
+        ]
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Kentucky House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85563,
+        "medianAge": 41,
+        "totalPopulation": 43209,
+        "collegePct": 21.79,
+        "renterRatePct": 16.87,
+        "race": {
+          "whitePct": 93.83,
+          "nonHispanicWhitePct": 93.23,
+          "blackPct": 0.6,
+          "asianPct": 0.45,
+          "hispanicPct": 2.09
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-49",
+        "winner": "Thomas HUFF",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 19471,
+        "totalVotes": 19471,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Thomas HUFF",
+            "party": "rep",
+            "votes": 19471
+          }
+        ]
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Kentucky House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67888,
+        "medianAge": 39.7,
+        "totalPopulation": 47102,
+        "collegePct": 22.83,
+        "renterRatePct": 22.73,
+        "race": {
+          "whitePct": 90.79,
+          "nonHispanicWhitePct": 89.52,
+          "blackPct": 5.26,
+          "asianPct": 0.5,
+          "hispanicPct": 2.71
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-50",
+        "winner": "Candy MASSARONI",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 16783,
+        "totalVotes": 16783,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Candy MASSARONI",
+            "party": "rep",
+            "votes": 16783
+          }
+        ]
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Kentucky House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60008,
+        "medianAge": 38.2,
+        "totalPopulation": 45885,
+        "collegePct": 17.93,
+        "renterRatePct": 28.25,
+        "race": {
+          "whitePct": 89.23,
+          "nonHispanicWhitePct": 87.91,
+          "blackPct": 5.71,
+          "asianPct": 0.8,
+          "hispanicPct": 3.16
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-51",
+        "winner": "Michael Sarge POLLOCK",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 17064,
+        "totalVotes": 17064,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Michael Sarge POLLOCK",
+            "party": "rep",
+            "votes": 17064
+          }
+        ]
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Kentucky House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45576,
+        "medianAge": 40.7,
+        "totalPopulation": 48823,
+        "collegePct": 14.84,
+        "renterRatePct": 25.44,
+        "race": {
+          "whitePct": 92.11,
+          "nonHispanicWhitePct": 91.44,
+          "blackPct": 2.93,
+          "asianPct": 0.2,
+          "hispanicPct": 3.12
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-52",
+        "winner": "Ken UPCHURCH",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 16723,
+        "totalVotes": 16723,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Ken UPCHURCH",
+            "party": "rep",
+            "votes": 16723
+          }
+        ]
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Kentucky House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79563,
+        "medianAge": 42.6,
+        "totalPopulation": 43973,
+        "collegePct": 24.07,
+        "renterRatePct": 18.35,
+        "race": {
+          "whitePct": 93.72,
+          "nonHispanicWhitePct": 92.62,
+          "blackPct": 1.98,
+          "asianPct": 0.27,
+          "hispanicPct": 2.47
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-53",
+        "winner": "James Allen TIPTON",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 20101,
+        "totalVotes": 20101,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "James Allen TIPTON",
+            "party": "rep",
+            "votes": 20101
+          }
+        ]
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Kentucky House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52640,
+        "medianAge": 40.4,
+        "totalPopulation": 46659,
+        "collegePct": 21.96,
+        "renterRatePct": 27.4,
+        "race": {
+          "whitePct": 88.09,
+          "nonHispanicWhitePct": 86.68,
+          "blackPct": 5.16,
+          "asianPct": 0.59,
+          "hispanicPct": 4.22
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-54",
+        "winner": "Daniel B. ELLIOTT",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 16970,
+        "totalVotes": 16970,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Daniel B. ELLIOTT",
+            "party": "rep",
+            "votes": 16970
+          }
+        ]
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Kentucky House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63101,
+        "medianAge": 42,
+        "totalPopulation": 44623,
+        "collegePct": 21.55,
+        "renterRatePct": 24.67,
+        "race": {
+          "whitePct": 89.76,
+          "nonHispanicWhitePct": 89,
+          "blackPct": 4.41,
+          "asianPct": 0.41,
+          "hispanicPct": 2.51
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-55",
+        "winner": "Kim KING",
+        "winnerParty": "rep",
+        "demVotes": 5922,
+        "repVotes": 16382,
+        "totalVotes": 22304,
+        "demPct": 26.55,
+        "repPct": 73.45,
+        "candidates": [
+          {
+            "name": "Kim KING",
+            "party": "rep",
+            "votes": 16382
+          },
+          {
+            "name": "Katrina A. SEXTON",
+            "party": "dem",
+            "votes": 5922
+          }
+        ]
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Kentucky House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84337,
+        "medianAge": 40.3,
+        "totalPopulation": 44691,
+        "collegePct": 40.04,
+        "renterRatePct": 26.92,
+        "race": {
+          "whitePct": 88.91,
+          "nonHispanicWhitePct": 86.6,
+          "blackPct": 4.43,
+          "asianPct": 0.26,
+          "hispanicPct": 5.65
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-56",
+        "winner": "Daniel A. FISTER",
+        "winnerParty": "rep",
+        "demVotes": 10269,
+        "repVotes": 13863,
+        "totalVotes": 24132,
+        "demPct": 42.55,
+        "repPct": 57.45,
+        "candidates": [
+          {
+            "name": "Daniel A. FISTER",
+            "party": "rep",
+            "votes": 13863
+          },
+          {
+            "name": "Chantel BINGHAM",
+            "party": "dem",
+            "votes": 10269
+          }
+        ]
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Kentucky House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61978,
+        "medianAge": 40.4,
+        "totalPopulation": 41848,
+        "collegePct": 32.05,
+        "renterRatePct": 38.62,
+        "race": {
+          "whitePct": 80.01,
+          "nonHispanicWhitePct": 79.39,
+          "blackPct": 9.94,
+          "asianPct": 2.31,
+          "hispanicPct": 4.18
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-57",
+        "winner": "Erika Marie HANCOCK",
+        "winnerParty": "dem",
+        "demVotes": 11342,
+        "repVotes": 9127,
+        "totalVotes": 20469,
+        "demPct": 55.41,
+        "repPct": 44.59,
+        "candidates": [
+          {
+            "name": "Erika Marie HANCOCK",
+            "party": "dem",
+            "votes": 11342
+          },
+          {
+            "name": "Kyle T. THOMPSON",
+            "party": "rep",
+            "votes": 9127
+          }
+        ]
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Kentucky House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81290,
+        "medianAge": 40.5,
+        "totalPopulation": 46228,
+        "collegePct": 30.53,
+        "renterRatePct": 26.58,
+        "race": {
+          "whitePct": 80.99,
+          "nonHispanicWhitePct": 77.62,
+          "blackPct": 4.91,
+          "asianPct": 1.03,
+          "hispanicPct": 11.27
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-58",
+        "winner": "Jennifer Henson DECKER",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 17330,
+        "totalVotes": 17330,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Jennifer Henson DECKER",
+            "party": "rep",
+            "votes": 17330
+          }
+        ]
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Kentucky House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 122494,
+        "medianAge": 39.7,
+        "totalPopulation": 46571,
+        "collegePct": 44.27,
+        "renterRatePct": 13.1,
+        "race": {
+          "whitePct": 86.37,
+          "nonHispanicWhitePct": 85.35,
+          "blackPct": 4.74,
+          "asianPct": 1.72,
+          "hispanicPct": 4.78
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-59",
+        "winner": "David W. OSBORNE",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 18552,
+        "totalVotes": 18552,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "David W. OSBORNE",
+            "party": "rep",
+            "votes": 18552
+          }
+        ]
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Kentucky House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99592,
+        "medianAge": 38.9,
+        "totalPopulation": 47565,
+        "collegePct": 41.06,
+        "renterRatePct": 17.23,
+        "race": {
+          "whitePct": 82.08,
+          "nonHispanicWhitePct": 80.62,
+          "blackPct": 5.31,
+          "asianPct": 3.42,
+          "hispanicPct": 5.66
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-60",
+        "winner": "Marianne PROCTOR",
+        "winnerParty": "rep",
+        "demVotes": 8060,
+        "repVotes": 16017,
+        "totalVotes": 24077,
+        "demPct": 33.48,
+        "repPct": 66.52,
+        "candidates": [
+          {
+            "name": "Marianne PROCTOR",
+            "party": "rep",
+            "votes": 16017
+          },
+          {
+            "name": "Deborah Ison FLOWERS",
+            "party": "dem",
+            "votes": 8060
+          }
+        ]
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Kentucky House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74263,
+        "medianAge": 37.2,
+        "totalPopulation": 45002,
+        "collegePct": 20.59,
+        "renterRatePct": 23.22,
+        "race": {
+          "whitePct": 92.84,
+          "nonHispanicWhitePct": 92.34,
+          "blackPct": 0.99,
+          "asianPct": 0.38,
+          "hispanicPct": 3.38
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-61",
+        "winner": "Savannah MADDOX",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 18073,
+        "totalVotes": 18073,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Savannah MADDOX",
+            "party": "rep",
+            "votes": 18073
+          }
+        ]
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Kentucky House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84277,
+        "medianAge": 38.7,
+        "totalPopulation": 43745,
+        "collegePct": 33.79,
+        "renterRatePct": 24.18,
+        "race": {
+          "whitePct": 86.12,
+          "nonHispanicWhitePct": 85.02,
+          "blackPct": 4.68,
+          "asianPct": 1.06,
+          "hispanicPct": 5.15
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-62",
+        "winner": "Tony HAMPTON",
+        "winnerParty": "rep",
+        "demVotes": 7565,
+        "repVotes": 14937,
+        "totalVotes": 22502,
+        "demPct": 33.62,
+        "repPct": 66.38,
+        "candidates": [
+          {
+            "name": "Tony HAMPTON",
+            "party": "rep",
+            "votes": 14937
+          },
+          {
+            "name": "Kevin KIDWELL",
+            "party": "dem",
+            "votes": 7565
+          }
+        ]
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Kentucky House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78077,
+        "medianAge": 39.7,
+        "totalPopulation": 42492,
+        "collegePct": 39.06,
+        "renterRatePct": 33.48,
+        "race": {
+          "whitePct": 87.41,
+          "nonHispanicWhitePct": 85.46,
+          "blackPct": 3.3,
+          "asianPct": 1.28,
+          "hispanicPct": 5.71
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-63",
+        "winner": "Kim BANTA",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 14325,
+        "totalVotes": 14325,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Kim BANTA",
+            "party": "rep",
+            "votes": 14325
+          }
+        ]
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Kentucky House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91119,
+        "medianAge": 36.9,
+        "totalPopulation": 46928,
+        "collegePct": 36.28,
+        "renterRatePct": 19.67,
+        "race": {
+          "whitePct": 89.62,
+          "nonHispanicWhitePct": 88.68,
+          "blackPct": 2.01,
+          "asianPct": 0.82,
+          "hispanicPct": 4.46
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-64",
+        "winner": "Kimberly Poore MOSER",
+        "winnerParty": "rep",
+        "demVotes": 7390,
+        "repVotes": 14407,
+        "totalVotes": 21797,
+        "demPct": 33.9,
+        "repPct": 66.1,
+        "candidates": [
+          {
+            "name": "Kimberly Poore MOSER",
+            "party": "rep",
+            "votes": 14407
+          },
+          {
+            "name": "Heather CRABBE",
+            "party": "dem",
+            "votes": 7390
+          }
+        ]
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Kentucky House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72410,
+        "medianAge": 37.5,
+        "totalPopulation": 45172,
+        "collegePct": 41.5,
+        "renterRatePct": 41.58,
+        "race": {
+          "whitePct": 81.08,
+          "nonHispanicWhitePct": 79.82,
+          "blackPct": 8.24,
+          "asianPct": 1.53,
+          "hispanicPct": 6.05
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-65",
+        "winner": "Stephanie Ann DIETZ",
+        "winnerParty": "rep",
+        "demVotes": 8753,
+        "repVotes": 11284,
+        "totalVotes": 20037,
+        "demPct": 43.68,
+        "repPct": 56.32,
+        "candidates": [
+          {
+            "name": "Stephanie Ann DIETZ",
+            "party": "rep",
+            "votes": 11284
+          },
+          {
+            "name": "Aaron CURRIN",
+            "party": "dem",
+            "votes": 8753
+          }
+        ]
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "Kentucky House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115541,
+        "medianAge": 36.5,
+        "totalPopulation": 48288,
+        "collegePct": 36.72,
+        "renterRatePct": 16.36,
+        "race": {
+          "whitePct": 87.24,
+          "nonHispanicWhitePct": 85.21,
+          "blackPct": 2.34,
+          "asianPct": 2.24,
+          "hispanicPct": 5.62
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-66",
+        "winner": "T. J. ROBERTS",
+        "winnerParty": "rep",
+        "demVotes": 6861,
+        "repVotes": 16368,
+        "totalVotes": 23229,
+        "demPct": 29.54,
+        "repPct": 70.46,
+        "candidates": [
+          {
+            "name": "T. J. ROBERTS",
+            "party": "rep",
+            "votes": 16368
+          },
+          {
+            "name": "Peggy HOUSTON-NIENABER",
+            "party": "dem",
+            "votes": 6861
+          }
+        ]
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "Kentucky House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65958,
+        "medianAge": 37.4,
+        "totalPopulation": 42639,
+        "collegePct": 39.62,
+        "renterRatePct": 40,
+        "race": {
+          "whitePct": 88.25,
+          "nonHispanicWhitePct": 87.31,
+          "blackPct": 4.55,
+          "asianPct": 1.02,
+          "hispanicPct": 3.6
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-67",
+        "winner": "Matthew LEHMAN",
+        "winnerParty": "dem",
+        "demVotes": 9435,
+        "repVotes": 9405,
+        "totalVotes": 18840,
+        "demPct": 50.08,
+        "repPct": 49.92,
+        "candidates": [
+          {
+            "name": "Matthew LEHMAN",
+            "party": "dem",
+            "votes": 9435
+          },
+          {
+            "name": "Terry W. HATTON",
+            "party": "rep",
+            "votes": 9405
+          }
+        ]
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "Kentucky House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89597,
+        "medianAge": 40.6,
+        "totalPopulation": 44356,
+        "collegePct": 40.5,
+        "renterRatePct": 18.9,
+        "race": {
+          "whitePct": 93.9,
+          "nonHispanicWhitePct": 93.37,
+          "blackPct": 1.48,
+          "asianPct": 0.99,
+          "hispanicPct": 1.55
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-68",
+        "winner": "Mike CLINES",
+        "winnerParty": "rep",
+        "demVotes": 8456,
+        "repVotes": 16325,
+        "totalVotes": 24781,
+        "demPct": 34.12,
+        "repPct": 65.88,
+        "candidates": [
+          {
+            "name": "Mike CLINES",
+            "party": "rep",
+            "votes": 16325
+          },
+          {
+            "name": "K. Brandon LONG",
+            "party": "dem",
+            "votes": 8456
+          }
+        ]
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "Kentucky House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67393,
+        "medianAge": 37.1,
+        "totalPopulation": 45329,
+        "collegePct": 24.9,
+        "renterRatePct": 39.3,
+        "race": {
+          "whitePct": 84.46,
+          "nonHispanicWhitePct": 83.13,
+          "blackPct": 5.67,
+          "asianPct": 1.68,
+          "hispanicPct": 5.58
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-69",
+        "winner": "Steven DOAN",
+        "winnerParty": "rep",
+        "demVotes": 6563,
+        "repVotes": 10814,
+        "totalVotes": 17377,
+        "demPct": 37.77,
+        "repPct": 62.23,
+        "candidates": [
+          {
+            "name": "Steven DOAN",
+            "party": "rep",
+            "votes": 10814
+          },
+          {
+            "name": "Wilanne STANGEL",
+            "party": "dem",
+            "votes": 6563
+          }
+        ]
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "Kentucky House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58370,
+        "medianAge": 42.1,
+        "totalPopulation": 46632,
+        "collegePct": 19.6,
+        "renterRatePct": 28.79,
+        "race": {
+          "whitePct": 91.92,
+          "nonHispanicWhitePct": 91.54,
+          "blackPct": 3.33,
+          "asianPct": 0.23,
+          "hispanicPct": 1.92
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-70",
+        "winner": "William Lee LAWRENCE",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 17507,
+        "totalVotes": 17507,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "William Lee LAWRENCE",
+            "party": "rep",
+            "votes": 17507
+          }
+        ]
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "Kentucky House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52609,
+        "medianAge": 38.7,
+        "totalPopulation": 43273,
+        "collegePct": 19.88,
+        "renterRatePct": 26.37,
+        "race": {
+          "whitePct": 94.27,
+          "nonHispanicWhitePct": 93,
+          "blackPct": 1.41,
+          "asianPct": 0.56,
+          "hispanicPct": 2.56
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-71",
+        "winner": "Josh BRAY",
+        "winnerParty": "rep",
+        "demVotes": 4350,
+        "repVotes": 15168,
+        "totalVotes": 19518,
+        "demPct": 22.29,
+        "repPct": 77.71,
+        "candidates": [
+          {
+            "name": "Josh BRAY",
+            "party": "rep",
+            "votes": 15168
+          },
+          {
+            "name": "Rachelle RIDDLE",
+            "party": "dem",
+            "votes": 4350
+          }
+        ]
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "Kentucky House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54249,
+        "medianAge": 41,
+        "totalPopulation": 43050,
+        "collegePct": 19.44,
+        "renterRatePct": 30.33,
+        "race": {
+          "whitePct": 91.15,
+          "nonHispanicWhitePct": 89.74,
+          "blackPct": 2.8,
+          "asianPct": 0.29,
+          "hispanicPct": 4.27
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-72",
+        "winner": "Matthew R. KOCH",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 15453,
+        "totalVotes": 15453,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Matthew R. KOCH",
+            "party": "rep",
+            "votes": 15453
+          }
+        ]
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "Kentucky House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69393,
+        "medianAge": 41,
+        "totalPopulation": 43216,
+        "collegePct": 25.89,
+        "renterRatePct": 28.7,
+        "race": {
+          "whitePct": 87.53,
+          "nonHispanicWhitePct": 86.24,
+          "blackPct": 4.2,
+          "asianPct": 1.16,
+          "hispanicPct": 5.23
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-73",
+        "winner": "D. Ryan DOTSON",
+        "winnerParty": "rep",
+        "demVotes": 8446,
+        "repVotes": 12799,
+        "totalVotes": 21245,
+        "demPct": 39.76,
+        "repPct": 60.24,
+        "candidates": [
+          {
+            "name": "D. Ryan DOTSON",
+            "party": "rep",
+            "votes": 12799
+          },
+          {
+            "name": "Rory HOULIHAN",
+            "party": "dem",
+            "votes": 8446
+          }
+        ]
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "Kentucky House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55186,
+        "medianAge": 40.7,
+        "totalPopulation": 47286,
+        "collegePct": 17.76,
+        "renterRatePct": 31.17,
+        "race": {
+          "whitePct": 93.89,
+          "nonHispanicWhitePct": 93.32,
+          "blackPct": 2.09,
+          "asianPct": 0.29,
+          "hispanicPct": 2.8
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-74",
+        "winner": "David HALE",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 17010,
+        "totalVotes": 17010,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "David HALE",
+            "party": "rep",
+            "votes": 17010
+          }
+        ]
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "Kentucky House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48459,
+        "medianAge": 28.4,
+        "totalPopulation": 46634,
+        "collegePct": 39.39,
+        "renterRatePct": 61.82,
+        "race": {
+          "whitePct": 70.33,
+          "nonHispanicWhitePct": 68.75,
+          "blackPct": 11.5,
+          "asianPct": 3.26,
+          "hispanicPct": 12.79
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-75",
+        "winner": "Lindsey BURKE",
+        "winnerParty": "dem",
+        "demVotes": 11226,
+        "repVotes": 0,
+        "totalVotes": 11226,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Lindsey BURKE",
+            "party": "dem",
+            "votes": 11226
+          }
+        ]
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "Kentucky House District 76",
+      "census": {
+        "censusName": "State House District 76 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62567,
+        "medianAge": 39.6,
+        "totalPopulation": 44460,
+        "collegePct": 40.52,
+        "renterRatePct": 41.37,
+        "race": {
+          "whitePct": 73.38,
+          "nonHispanicWhitePct": 71.08,
+          "blackPct": 12.21,
+          "asianPct": 2.1,
+          "hispanicPct": 9.96
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-76",
+        "winner": "Anne Gay DONWORTH",
+        "winnerParty": "dem",
+        "demVotes": 13950,
+        "repVotes": 0,
+        "totalVotes": 13950,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Anne Gay DONWORTH",
+            "party": "dem",
+            "votes": 13950
+          }
+        ]
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "Kentucky House District 77",
+      "census": {
+        "censusName": "State House District 77 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60193,
+        "medianAge": 35.1,
+        "totalPopulation": 47437,
+        "collegePct": 34.22,
+        "renterRatePct": 49.62,
+        "race": {
+          "whitePct": 50.68,
+          "nonHispanicWhitePct": 46.81,
+          "blackPct": 30.27,
+          "asianPct": 1.68,
+          "hispanicPct": 15.95
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-77",
+        "winner": "George A. BROWN JR.",
+        "winnerParty": "dem",
+        "demVotes": 12134,
+        "repVotes": 4733,
+        "totalVotes": 16867,
+        "demPct": 71.94,
+        "repPct": 28.06,
+        "candidates": [
+          {
+            "name": "George A. BROWN JR.",
+            "party": "dem",
+            "votes": 12134
+          },
+          {
+            "name": "Jason GRIFFITH",
+            "party": "rep",
+            "votes": 4733
+          }
+        ]
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "Kentucky House District 78",
+      "census": {
+        "censusName": "State House District 78 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83012,
+        "medianAge": 40.8,
+        "totalPopulation": 41585,
+        "collegePct": 28.1,
+        "renterRatePct": 17.2,
+        "race": {
+          "whitePct": 94.43,
+          "nonHispanicWhitePct": 93.78,
+          "blackPct": 0.41,
+          "asianPct": 0.7,
+          "hispanicPct": 1.24
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-78",
+        "winner": "Mark HART",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 17024,
+        "totalVotes": 17024,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Mark HART",
+            "party": "rep",
+            "votes": 17024
+          },
+          {
+            "name": "Timothy D. JOHNSON",
+            "party": "ind",
+            "votes": 3770
+          }
+        ]
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "Kentucky House District 79",
+      "census": {
+        "censusName": "State House District 79 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59350,
+        "medianAge": 29.4,
+        "totalPopulation": 46320,
+        "collegePct": 54.77,
+        "renterRatePct": 63.17,
+        "race": {
+          "whitePct": 71.71,
+          "nonHispanicWhitePct": 69.69,
+          "blackPct": 14.76,
+          "asianPct": 4.74,
+          "hispanicPct": 6.05
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-79",
+        "winner": "Chad AULL",
+        "winnerParty": "dem",
+        "demVotes": 12189,
+        "repVotes": 0,
+        "totalVotes": 12189,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Chad AULL",
+            "party": "dem",
+            "votes": 12189
+          }
+        ]
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "Kentucky House District 80",
+      "census": {
+        "censusName": "State House District 80 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53927,
+        "medianAge": 42.1,
+        "totalPopulation": 43268,
+        "collegePct": 16.78,
+        "renterRatePct": 22.09,
+        "race": {
+          "whitePct": 92.89,
+          "nonHispanicWhitePct": 92.48,
+          "blackPct": 1.83,
+          "asianPct": 0.17,
+          "hispanicPct": 2.25
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-80",
+        "winner": "David MEADE",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 17542,
+        "totalVotes": 17542,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "David MEADE",
+            "party": "rep",
+            "votes": 17542
+          }
+        ]
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "Kentucky House District 81",
+      "census": {
+        "censusName": "State House District 81 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76285,
+        "medianAge": 34.9,
+        "totalPopulation": 45003,
+        "collegePct": 39.07,
+        "renterRatePct": 31.29,
+        "race": {
+          "whitePct": 89.74,
+          "nonHispanicWhitePct": 88.59,
+          "blackPct": 3.22,
+          "asianPct": 0.98,
+          "hispanicPct": 2.92
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-81",
+        "winner": "Deanna Frazier GORDON",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 17129,
+        "totalVotes": 17129,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Deanna Frazier GORDON",
+            "party": "rep",
+            "votes": 17129
+          }
+        ]
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "Kentucky House District 82",
+      "census": {
+        "censusName": "State House District 82 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43644,
+        "medianAge": 36.6,
+        "totalPopulation": 42812,
+        "collegePct": 18.8,
+        "renterRatePct": 30.93,
+        "race": {
+          "whitePct": 95.8,
+          "nonHispanicWhitePct": 94.96,
+          "blackPct": 0.92,
+          "asianPct": 0.19,
+          "hispanicPct": 1.79
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-82",
+        "winner": "Nick WILSON",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 15343,
+        "totalVotes": 15343,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Nick WILSON",
+            "party": "rep",
+            "votes": 15343
+          }
+        ]
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "Kentucky House District 83",
+      "census": {
+        "censusName": "State House District 83 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46078,
+        "medianAge": 44.1,
+        "totalPopulation": 42201,
+        "collegePct": 15.38,
+        "renterRatePct": 27.82,
+        "race": {
+          "whitePct": 93.97,
+          "nonHispanicWhitePct": 92.44,
+          "blackPct": 0.71,
+          "asianPct": 0.97,
+          "hispanicPct": 4
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-83",
+        "winner": "Joshua BRANSCUM",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 18293,
+        "totalVotes": 18293,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Joshua BRANSCUM",
+            "party": "rep",
+            "votes": 18293
+          }
+        ]
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "Kentucky House District 84",
+      "census": {
+        "censusName": "State House District 84 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41815,
+        "medianAge": 42.3,
+        "totalPopulation": 45306,
+        "collegePct": 14.67,
+        "renterRatePct": 27.49,
+        "race": {
+          "whitePct": 94.89,
+          "nonHispanicWhitePct": 94.72,
+          "blackPct": 0.77,
+          "asianPct": 0.72,
+          "hispanicPct": 0.54
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-84",
+        "winner": "Chris FUGATE",
+        "winnerParty": "rep",
+        "demVotes": 5698,
+        "repVotes": 10607,
+        "totalVotes": 16305,
+        "demPct": 34.95,
+        "repPct": 65.05,
+        "candidates": [
+          {
+            "name": "Chris FUGATE",
+            "party": "rep",
+            "votes": 10607
+          },
+          {
+            "name": "Zackary H. HALL",
+            "party": "dem",
+            "votes": 5698
+          }
+        ]
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "Kentucky House District 85",
+      "census": {
+        "censusName": "State House District 85 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52114,
+        "medianAge": 40.2,
+        "totalPopulation": 48689,
+        "collegePct": 18.76,
+        "renterRatePct": 31.57,
+        "race": {
+          "whitePct": 94.73,
+          "nonHispanicWhitePct": 93.15,
+          "blackPct": 1.1,
+          "asianPct": 0.41,
+          "hispanicPct": 2.46
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-85",
+        "winner": "R. Shane BAKER",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 17978,
+        "totalVotes": 17978,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "R. Shane BAKER",
+            "party": "rep",
+            "votes": 17978
+          }
+        ]
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "Kentucky House District 86",
+      "census": {
+        "censusName": "State House District 86 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 37070,
+        "medianAge": 39.7,
+        "totalPopulation": 43500,
+        "collegePct": 14.45,
+        "renterRatePct": 36.57,
+        "race": {
+          "whitePct": 95.39,
+          "nonHispanicWhitePct": 94.76,
+          "blackPct": 0.74,
+          "asianPct": 0.15,
+          "hispanicPct": 1.17
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-86",
+        "winner": "Tom O'dell SMITH",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 15285,
+        "totalVotes": 15285,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Tom O'dell SMITH",
+            "party": "rep",
+            "votes": 15285
+          }
+        ]
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "Kentucky House District 87",
+      "census": {
+        "censusName": "State House District 87 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 33760,
+        "medianAge": 41.3,
+        "totalPopulation": 42449,
+        "collegePct": 13.62,
+        "renterRatePct": 35.12,
+        "race": {
+          "whitePct": 93.52,
+          "nonHispanicWhitePct": 93.38,
+          "blackPct": 2.13,
+          "asianPct": 0.22,
+          "hispanicPct": 0.49
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-87",
+        "winner": "Adam BOWLING",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 13490,
+        "totalVotes": 13490,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Adam BOWLING",
+            "party": "rep",
+            "votes": 13490
+          }
+        ]
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "Kentucky House District 88",
+      "census": {
+        "censusName": "State House District 88 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103292,
+        "medianAge": 35.8,
+        "totalPopulation": 47836,
+        "collegePct": 50.28,
+        "renterRatePct": 26.93,
+        "race": {
+          "whitePct": 77.45,
+          "nonHispanicWhitePct": 76.1,
+          "blackPct": 9.3,
+          "asianPct": 4.98,
+          "hispanicPct": 5.78
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-88",
+        "winner": "Vanessa GROSSL",
+        "winnerParty": "rep",
+        "demVotes": 11388,
+        "repVotes": 11602,
+        "totalVotes": 22990,
+        "demPct": 49.53,
+        "repPct": 50.47,
+        "candidates": [
+          {
+            "name": "Vanessa GROSSL",
+            "party": "rep",
+            "votes": 11602
+          },
+          {
+            "name": "Cherlynn STEVENSON",
+            "party": "dem",
+            "votes": 11388
+          }
+        ]
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "Kentucky House District 89",
+      "census": {
+        "censusName": "State House District 89 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46820,
+        "medianAge": 40.5,
+        "totalPopulation": 47182,
+        "collegePct": 15.11,
+        "renterRatePct": 21.64,
+        "race": {
+          "whitePct": 95.31,
+          "nonHispanicWhitePct": 94.48,
+          "blackPct": 1.1,
+          "asianPct": 0.25,
+          "hispanicPct": 1.35
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-89",
+        "winner": "Timmy TRUETT",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 17867,
+        "totalVotes": 17867,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Timmy TRUETT",
+            "party": "rep",
+            "votes": 17867
+          }
+        ]
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "Kentucky House District 90",
+      "census": {
+        "censusName": "State House District 90 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43823,
+        "medianAge": 41.1,
+        "totalPopulation": 44575,
+        "collegePct": 15.13,
+        "renterRatePct": 23.22,
+        "race": {
+          "whitePct": 94.25,
+          "nonHispanicWhitePct": 93.64,
+          "blackPct": 2.47,
+          "asianPct": 0.19,
+          "hispanicPct": 1.32
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-90",
+        "winner": "Derek LEWIS",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 16293,
+        "totalVotes": 16293,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Derek LEWIS",
+            "party": "rep",
+            "votes": 16293
+          }
+        ]
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "Kentucky House District 91",
+      "census": {
+        "censusName": "State House District 91 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44673,
+        "medianAge": 37.8,
+        "totalPopulation": 45884,
+        "collegePct": 19.58,
+        "renterRatePct": 43.82,
+        "race": {
+          "whitePct": 91.21,
+          "nonHispanicWhitePct": 90.51,
+          "blackPct": 2.89,
+          "asianPct": 0.73,
+          "hispanicPct": 2.67
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-91",
+        "winner": "Billy E. WESLEY",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 14878,
+        "totalVotes": 14878,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Billy E. WESLEY",
+            "party": "rep",
+            "votes": 14878
+          }
+        ]
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "Kentucky House District 92",
+      "census": {
+        "censusName": "State House District 92 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 37801,
+        "medianAge": 44.5,
+        "totalPopulation": 44878,
+        "collegePct": 14.9,
+        "renterRatePct": 23.32,
+        "race": {
+          "whitePct": 97.15,
+          "nonHispanicWhitePct": 96.93,
+          "blackPct": 0.36,
+          "asianPct": 0.52,
+          "hispanicPct": 0.83
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-92",
+        "winner": "John BLANTON",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 14751,
+        "totalVotes": 14751,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "John BLANTON",
+            "party": "rep",
+            "votes": 14751
+          }
+        ]
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "Kentucky House District 93",
+      "census": {
+        "censusName": "State House District 93 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62312,
+        "medianAge": 34.5,
+        "totalPopulation": 43332,
+        "collegePct": 46.15,
+        "renterRatePct": 52.57,
+        "race": {
+          "whitePct": 68.62,
+          "nonHispanicWhitePct": 66.37,
+          "blackPct": 17.58,
+          "asianPct": 2.44,
+          "hispanicPct": 8.29
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-93",
+        "winner": "Adrielle CAMUEL",
+        "winnerParty": "dem",
+        "demVotes": 13034,
+        "repVotes": 0,
+        "totalVotes": 13034,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Adrielle CAMUEL",
+            "party": "dem",
+            "votes": 13034
+          }
+        ]
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "Kentucky House District 94",
+      "census": {
+        "censusName": "State House District 94 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41677,
+        "medianAge": 43.9,
+        "totalPopulation": 45377,
+        "collegePct": 12.58,
+        "renterRatePct": 23.32,
+        "race": {
+          "whitePct": 96.68,
+          "nonHispanicWhitePct": 96.21,
+          "blackPct": 0.66,
+          "asianPct": 0.16,
+          "hispanicPct": 0.69
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-94",
+        "winner": "Mitchum Addison WHITAKER",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 13429,
+        "totalVotes": 13429,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Mitchum Addison WHITAKER",
+            "party": "rep",
+            "votes": 13429
+          }
+        ]
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "Kentucky House District 95",
+      "census": {
+        "censusName": "State House District 95 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42487,
+        "medianAge": 41.5,
+        "totalPopulation": 46615,
+        "collegePct": 19.02,
+        "renterRatePct": 32.59,
+        "race": {
+          "whitePct": 95.6,
+          "nonHispanicWhitePct": 95.2,
+          "blackPct": 0.93,
+          "asianPct": 0.39,
+          "hispanicPct": 1.38
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-95",
+        "winner": "Ashley Tackett LAFERTY",
+        "winnerParty": "dem",
+        "demVotes": 10721,
+        "repVotes": 8330,
+        "totalVotes": 19051,
+        "demPct": 56.28,
+        "repPct": 43.72,
+        "candidates": [
+          {
+            "name": "Ashley Tackett LAFERTY",
+            "party": "dem",
+            "votes": 10721
+          },
+          {
+            "name": "Brandon SPENCER",
+            "party": "rep",
+            "votes": 8330
+          }
+        ]
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "Kentucky House District 96",
+      "census": {
+        "censusName": "State House District 96 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52308,
+        "medianAge": 41.4,
+        "totalPopulation": 46081,
+        "collegePct": 14.39,
+        "renterRatePct": 20.92,
+        "race": {
+          "whitePct": 96.46,
+          "nonHispanicWhitePct": 96.15,
+          "blackPct": 0.3,
+          "asianPct": 0.13,
+          "hispanicPct": 0.73
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-96",
+        "winner": "Patrick FLANNERY",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 16465,
+        "totalVotes": 16465,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Patrick FLANNERY",
+            "party": "rep",
+            "votes": 16465
+          }
+        ]
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "Kentucky House District 97",
+      "census": {
+        "censusName": "State House District 97 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43583,
+        "medianAge": 41.3,
+        "totalPopulation": 43884,
+        "collegePct": 13.67,
+        "renterRatePct": 27.57,
+        "race": {
+          "whitePct": 92.88,
+          "nonHispanicWhitePct": 92.33,
+          "blackPct": 2.19,
+          "asianPct": 0.64,
+          "hispanicPct": 1.08
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-97",
+        "winner": "Bobby W. MCCOOL",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 14907,
+        "totalVotes": 14907,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Bobby W. MCCOOL",
+            "party": "rep",
+            "votes": 14907
+          }
+        ]
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "Kentucky House District 98",
+      "census": {
+        "censusName": "State House District 98 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58385,
+        "medianAge": 42.8,
+        "totalPopulation": 47675,
+        "collegePct": 16.73,
+        "renterRatePct": 24.43,
+        "race": {
+          "whitePct": 94.87,
+          "nonHispanicWhitePct": 94.67,
+          "blackPct": 0.62,
+          "asianPct": 0.57,
+          "hispanicPct": 0.99
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-98",
+        "winner": "Aaron THOMPSON",
+        "winnerParty": "rep",
+        "demVotes": 6087,
+        "repVotes": 15561,
+        "totalVotes": 21648,
+        "demPct": 28.12,
+        "repPct": 71.88,
+        "candidates": [
+          {
+            "name": "Aaron THOMPSON",
+            "party": "rep",
+            "votes": 15561
+          },
+          {
+            "name": "Tammie WOMACK",
+            "party": "dem",
+            "votes": 6087
+          }
+        ]
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "Kentucky House District 99",
+      "census": {
+        "censusName": "State House District 99 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49526,
+        "medianAge": 37.2,
+        "totalPopulation": 45799,
+        "collegePct": 19.98,
+        "renterRatePct": 29.7,
+        "race": {
+          "whitePct": 93.51,
+          "nonHispanicWhitePct": 92.48,
+          "blackPct": 2.71,
+          "asianPct": 0.75,
+          "hispanicPct": 2.47
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-99",
+        "winner": "Richard L. WHITE",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 13351,
+        "totalVotes": 13351,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Richard L. WHITE",
+            "party": "rep",
+            "votes": 13351
+          }
+        ]
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "Kentucky House District 100",
+      "census": {
+        "censusName": "State House District 100 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54508,
+        "medianAge": 43.1,
+        "totalPopulation": 45640,
+        "collegePct": 19.92,
+        "renterRatePct": 28.59,
+        "race": {
+          "whitePct": 93.65,
+          "nonHispanicWhitePct": 92.95,
+          "blackPct": 2.05,
+          "asianPct": 0.64,
+          "hispanicPct": 1.75
+        }
+      },
+      "election": {
+        "districtId": "ky-hd-100",
+        "winner": "Scott L. SHARP",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 15034,
+        "totalVotes": 15034,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Scott L. SHARP",
+            "party": "rep",
+            "votes": 15034
+          }
+        ]
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Kentucky Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51543,
+        "medianAge": 40.3,
+        "totalPopulation": 117418,
+        "collegePct": 21.55,
+        "renterRatePct": 28.3,
+        "race": {
+          "whitePct": 87.52,
+          "nonHispanicWhitePct": 85.97,
+          "blackPct": 5.51,
+          "asianPct": 0.77,
+          "hispanicPct": 4.28
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-1",
+        "winner": "Jason G. HOWELL",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 42109,
+        "totalVotes": 42109,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Jason G. HOWELL",
+            "party": "rep",
+            "votes": 42109
+          }
+        ]
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Kentucky Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62638,
+        "medianAge": 43.4,
+        "totalPopulation": 120694,
+        "collegePct": 23.93,
+        "renterRatePct": 26.37,
+        "race": {
+          "whitePct": 88.09,
+          "nonHispanicWhitePct": 87.16,
+          "blackPct": 6.08,
+          "asianPct": 0.66,
+          "hispanicPct": 2.71
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-2",
+        "winner": "Danny CARROLL",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 34951,
+        "totalVotes": 34951,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Danny CARROLL",
+            "party": "rep",
+            "votes": 34951
+          }
+        ]
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Kentucky Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54258,
+        "medianAge": 33.2,
+        "totalPopulation": 115942,
+        "collegePct": 17.62,
+        "renterRatePct": 37.15,
+        "race": {
+          "whitePct": 76.82,
+          "nonHispanicWhitePct": 74.52,
+          "blackPct": 13.19,
+          "asianPct": 1.05,
+          "hispanicPct": 6.05
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-3",
+        "winner": "Craig B. RICHARDSON",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 31672,
+        "totalVotes": 31672,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Craig B. RICHARDSON",
+            "party": "rep",
+            "votes": 31672
+          }
+        ]
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Kentucky Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58474,
+        "medianAge": 41.1,
+        "totalPopulation": 115888,
+        "collegePct": 16.55,
+        "renterRatePct": 31.06,
+        "race": {
+          "whitePct": 87.32,
+          "nonHispanicWhitePct": 86.29,
+          "blackPct": 6.41,
+          "asianPct": 0.33,
+          "hispanicPct": 3.14
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-4",
+        "winner": "Robert M Robby MILLS",
+        "winnerParty": "rep",
+        "demVotes": 12585,
+        "repVotes": 25141,
+        "totalVotes": 37726,
+        "demPct": 33.36,
+        "repPct": 66.64,
+        "candidates": [
+          {
+            "name": "Robert M Robby MILLS",
+            "party": "rep",
+            "votes": 25141
+          },
+          {
+            "name": "Bruce A PRITCHETT",
+            "party": "dem",
+            "votes": 12585
+          }
+        ]
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Kentucky Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56446,
+        "medianAge": 40.6,
+        "totalPopulation": 113417,
+        "collegePct": 15.04,
+        "renterRatePct": 23.33,
+        "race": {
+          "whitePct": 93.17,
+          "nonHispanicWhitePct": 92.08,
+          "blackPct": 1.71,
+          "asianPct": 0.33,
+          "hispanicPct": 3.15
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-5",
+        "winner": "Stephen MEREDITH",
+        "winnerParty": "rep",
+        "demVotes": 10404,
+        "repVotes": 41431,
+        "totalVotes": 51835,
+        "demPct": 20.07,
+        "repPct": 79.93,
+        "candidates": [
+          {
+            "name": "Stephen MEREDITH",
+            "party": "rep",
+            "votes": 41431
+          },
+          {
+            "name": "Jamie SKUDLAREK",
+            "party": "dem",
+            "votes": 10404
+          }
+        ]
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Kentucky Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104890,
+        "medianAge": 40,
+        "totalPopulation": 117704,
+        "collegePct": 45.96,
+        "renterRatePct": 16.66,
+        "race": {
+          "whitePct": 82.44,
+          "nonHispanicWhitePct": 81,
+          "blackPct": 7.11,
+          "asianPct": 3.04,
+          "hispanicPct": 4.98
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-6",
+        "winner": "Lindsey TICHENOR",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 31110,
+        "totalVotes": 31110,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Lindsey TICHENOR",
+            "party": "rep",
+            "votes": 31110
+          },
+          {
+            "name": "Brian Joseph EASLEY",
+            "party": "ind",
+            "votes": 1201
+          }
+        ]
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Kentucky Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78518,
+        "medianAge": 41.6,
+        "totalPopulation": 112440,
+        "collegePct": 29.09,
+        "renterRatePct": 23.52,
+        "race": {
+          "whitePct": 83.73,
+          "nonHispanicWhitePct": 81.55,
+          "blackPct": 6.88,
+          "asianPct": 0.88,
+          "hispanicPct": 6.53
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-7",
+        "winner": "Aaron REED",
+        "winnerParty": "rep",
+        "demVotes": 19112,
+        "repVotes": 40538,
+        "totalVotes": 59650,
+        "demPct": 32.04,
+        "repPct": 67.96,
+        "candidates": [
+          {
+            "name": "Aaron REED",
+            "party": "rep",
+            "votes": 40538
+          },
+          {
+            "name": "Rhonda DAVIS",
+            "party": "dem",
+            "votes": 19112
+          }
+        ]
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Kentucky Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65826,
+        "medianAge": 39.2,
+        "totalPopulation": 121354,
+        "collegePct": 24.08,
+        "renterRatePct": 31.31,
+        "race": {
+          "whitePct": 88,
+          "nonHispanicWhitePct": 86.83,
+          "blackPct": 3.86,
+          "asianPct": 1.87,
+          "hispanicPct": 3.65
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-8",
+        "winner": "Gary M BOSWELL",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 29630,
+        "totalVotes": 29630,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Gary M BOSWELL",
+            "party": "rep",
+            "votes": 29630
+          }
+        ]
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Kentucky Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48845,
+        "medianAge": 38.4,
+        "totalPopulation": 124178,
+        "collegePct": 15.9,
+        "renterRatePct": 36.28,
+        "race": {
+          "whitePct": 84.5,
+          "nonHispanicWhitePct": 82.71,
+          "blackPct": 6.06,
+          "asianPct": 1.46,
+          "hispanicPct": 5.69
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-9",
+        "winner": "David P. GIVENS",
+        "winnerParty": "rep",
+        "demVotes": 12303,
+        "repVotes": 37580,
+        "totalVotes": 49883,
+        "demPct": 24.66,
+        "repPct": 75.34,
+        "candidates": [
+          {
+            "name": "David P. GIVENS",
+            "party": "rep",
+            "votes": 37580
+          },
+          {
+            "name": "Karen M. PENNINGTON",
+            "party": "dem",
+            "votes": 12303
+          }
+        ]
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Kentucky Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67259,
+        "medianAge": 37.4,
+        "totalPopulation": 113835,
+        "collegePct": 24.16,
+        "renterRatePct": 37.27,
+        "race": {
+          "whitePct": 76.88,
+          "nonHispanicWhitePct": 75.07,
+          "blackPct": 11.36,
+          "asianPct": 1.9,
+          "hispanicPct": 6.19
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-10",
+        "winner": "Matthew D DENEEN",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 23606,
+        "totalVotes": 23606,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Matthew D DENEEN",
+            "party": "rep",
+            "votes": 23606
+          }
+        ]
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Kentucky Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96913,
+        "medianAge": 38.5,
+        "totalPopulation": 115599,
+        "collegePct": 36.43,
+        "renterRatePct": 23.48,
+        "race": {
+          "whitePct": 85.51,
+          "nonHispanicWhitePct": 83.91,
+          "blackPct": 3.7,
+          "asianPct": 2.66,
+          "hispanicPct": 5.6
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-11",
+        "winner": "Steve RAWLINGS",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 42770,
+        "totalVotes": 42770,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Steve RAWLINGS",
+            "party": "rep",
+            "votes": 42770
+          }
+        ]
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Kentucky Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78275,
+        "medianAge": 42.1,
+        "totalPopulation": 120961,
+        "collegePct": 39.97,
+        "renterRatePct": 25.7,
+        "race": {
+          "whitePct": 85.69,
+          "nonHispanicWhitePct": 84,
+          "blackPct": 4.67,
+          "asianPct": 2.75,
+          "hispanicPct": 5.02
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-12",
+        "winner": "Amanda Mays BLEDSOE",
+        "winnerParty": "rep",
+        "demVotes": 19046,
+        "repVotes": 29181,
+        "totalVotes": 48227,
+        "demPct": 39.49,
+        "repPct": 60.51,
+        "candidates": [
+          {
+            "name": "Amanda Mays BLEDSOE",
+            "party": "rep",
+            "votes": 29181
+          },
+          {
+            "name": "Bill OBRIEN",
+            "party": "dem",
+            "votes": 19046
+          }
+        ]
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Kentucky Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53165,
+        "medianAge": 31.2,
+        "totalPopulation": 123201,
+        "collegePct": 46.15,
+        "renterRatePct": 58.54,
+        "race": {
+          "whitePct": 69.73,
+          "nonHispanicWhitePct": 67.67,
+          "blackPct": 14.23,
+          "asianPct": 3.59,
+          "hispanicPct": 10.25
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-13",
+        "winner": "Reggie THOMAS",
+        "winnerParty": "dem",
+        "demVotes": 32218,
+        "repVotes": 0,
+        "totalVotes": 32218,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Reggie THOMAS",
+            "party": "dem",
+            "votes": 32218
+          }
+        ]
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Kentucky Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68203,
+        "medianAge": 40.8,
+        "totalPopulation": 113776,
+        "collegePct": 19.6,
+        "renterRatePct": 21.35,
+        "race": {
+          "whitePct": 90.74,
+          "nonHispanicWhitePct": 89.61,
+          "blackPct": 4.43,
+          "asianPct": 0.44,
+          "hispanicPct": 2.67
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-14",
+        "winner": "Jimmy HIGDON",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 33142,
+        "totalVotes": 33142,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Jimmy HIGDON",
+            "party": "rep",
+            "votes": 33142
+          }
+        ]
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Kentucky Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47890,
+        "medianAge": 42.5,
+        "totalPopulation": 118400,
+        "collegePct": 16.76,
+        "renterRatePct": 27.8,
+        "race": {
+          "whitePct": 93.89,
+          "nonHispanicWhitePct": 92.57,
+          "blackPct": 0.94,
+          "asianPct": 0.63,
+          "hispanicPct": 3.37
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-15",
+        "winner": "Rick GIRDLER",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 47378,
+        "totalVotes": 47378,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Rick GIRDLER",
+            "party": "rep",
+            "votes": 47378
+          }
+        ]
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Kentucky Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59267,
+        "medianAge": 38.7,
+        "totalPopulation": 120739,
+        "collegePct": 23.37,
+        "renterRatePct": 30.25,
+        "race": {
+          "whitePct": 89.55,
+          "nonHispanicWhitePct": 88.22,
+          "blackPct": 4.55,
+          "asianPct": 1.06,
+          "hispanicPct": 3.45
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-16",
+        "winner": "George Maxwell Max WISE",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 31887,
+        "totalVotes": 31887,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "George Maxwell Max WISE",
+            "party": "rep",
+            "votes": 31887
+          }
+        ]
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Kentucky Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84053,
+        "medianAge": 36.9,
+        "totalPopulation": 127003,
+        "collegePct": 30.69,
+        "renterRatePct": 24.18,
+        "race": {
+          "whitePct": 87.45,
+          "nonHispanicWhitePct": 86.38,
+          "blackPct": 4.57,
+          "asianPct": 1.03,
+          "hispanicPct": 4.6
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-17",
+        "winner": "Matt NUNN",
+        "winnerParty": "rep",
+        "demVotes": 18821,
+        "repVotes": 42263,
+        "totalVotes": 61084,
+        "demPct": 30.81,
+        "repPct": 69.19,
+        "candidates": [
+          {
+            "name": "Matt NUNN",
+            "party": "rep",
+            "votes": 42263
+          },
+          {
+            "name": "Kiana FIELDS",
+            "party": "dem",
+            "votes": 18821
+          }
+        ]
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Kentucky Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57266,
+        "medianAge": 42.7,
+        "totalPopulation": 123225,
+        "collegePct": 17.4,
+        "renterRatePct": 24.79,
+        "race": {
+          "whitePct": 94.69,
+          "nonHispanicWhitePct": 94.31,
+          "blackPct": 1.11,
+          "asianPct": 0.35,
+          "hispanicPct": 1.22
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-18",
+        "winner": "Robin L WEBB",
+        "winnerParty": "dem",
+        "demVotes": 23308,
+        "repVotes": 0,
+        "totalVotes": 23308,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Robin L WEBB",
+            "party": "dem",
+            "votes": 23308
+          }
+        ]
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Kentucky Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78867,
+        "medianAge": 40,
+        "totalPopulation": 110056,
+        "collegePct": 44.69,
+        "renterRatePct": 29.07,
+        "race": {
+          "whitePct": 77.26,
+          "nonHispanicWhitePct": 75.83,
+          "blackPct": 11.8,
+          "asianPct": 1.84,
+          "hispanicPct": 6.81
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-19",
+        "winner": "Cassie Chambers ARMSTRONG",
+        "winnerParty": "dem",
+        "demVotes": 41206,
+        "repVotes": 0,
+        "totalVotes": 41206,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Cassie Chambers ARMSTRONG",
+            "party": "dem",
+            "votes": 41206
+          }
+        ]
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Kentucky Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69125,
+        "medianAge": 38.4,
+        "totalPopulation": 114322,
+        "collegePct": 26.93,
+        "renterRatePct": 29.12,
+        "race": {
+          "whitePct": 85.75,
+          "nonHispanicWhitePct": 84.73,
+          "blackPct": 5.66,
+          "asianPct": 1.1,
+          "hispanicPct": 4.48
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-20",
+        "winner": "Gex Jay WILLIAMS",
+        "winnerParty": "rep",
+        "demVotes": 17206,
+        "repVotes": 22166,
+        "totalVotes": 39372,
+        "demPct": 43.7,
+        "repPct": 56.3,
+        "candidates": [
+          {
+            "name": "Gex Jay WILLIAMS",
+            "party": "rep",
+            "votes": 22166
+          },
+          {
+            "name": "Teresa Azbill BARTON",
+            "party": "dem",
+            "votes": 17206
+          }
+        ]
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Kentucky Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50933,
+        "medianAge": 40.8,
+        "totalPopulation": 119241,
+        "collegePct": 15.24,
+        "renterRatePct": 25.55,
+        "race": {
+          "whitePct": 95.34,
+          "nonHispanicWhitePct": 94.52,
+          "blackPct": 0.75,
+          "asianPct": 0.27,
+          "hispanicPct": 1.89
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-21",
+        "winner": "Brandon J. STORM",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 46323,
+        "totalVotes": 46323,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Brandon J. STORM",
+            "party": "rep",
+            "votes": 46323
+          }
+        ]
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Kentucky Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66310,
+        "medianAge": 36.7,
+        "totalPopulation": 124393,
+        "collegePct": 35.84,
+        "renterRatePct": 40.32,
+        "race": {
+          "whitePct": 81.26,
+          "nonHispanicWhitePct": 79.32,
+          "blackPct": 8.35,
+          "asianPct": 2.17,
+          "hispanicPct": 6.13
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-22",
+        "winner": "Donald DOUGLAS",
+        "winnerParty": "rep",
+        "demVotes": 15843,
+        "repVotes": 23486,
+        "totalVotes": 39329,
+        "demPct": 40.28,
+        "repPct": 59.72,
+        "candidates": [
+          {
+            "name": "Chuck EDDY",
+            "party": "dem",
+            "votes": 15843
+          },
+          {
+            "name": "Donald DOUGLAS",
+            "party": "rep",
+            "votes": 23486
+          }
+        ]
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Kentucky Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75688,
+        "medianAge": 38,
+        "totalPopulation": 123471,
+        "collegePct": 38.11,
+        "renterRatePct": 32.39,
+        "race": {
+          "whitePct": 85.52,
+          "nonHispanicWhitePct": 84.29,
+          "blackPct": 4.5,
+          "asianPct": 1.33,
+          "hispanicPct": 5.26
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-23",
+        "winner": "Chris MCDANIEL",
+        "winnerParty": "rep",
+        "demVotes": 22731,
+        "repVotes": 34101,
+        "totalVotes": 56832,
+        "demPct": 40,
+        "repPct": 60,
+        "candidates": [
+          {
+            "name": "Chris MCDANIEL",
+            "party": "rep",
+            "votes": 34101
+          },
+          {
+            "name": "Jennifer SIERRA",
+            "party": "dem",
+            "votes": 22731
+          }
+        ]
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Kentucky Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73853,
+        "medianAge": 39.5,
+        "totalPopulation": 120875,
+        "collegePct": 35.17,
+        "renterRatePct": 30.46,
+        "race": {
+          "whitePct": 90.8,
+          "nonHispanicWhitePct": 90.07,
+          "blackPct": 3.2,
+          "asianPct": 0.85,
+          "hispanicPct": 2.73
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-24",
+        "winner": "Shelley Funke FROMMEYER",
+        "winnerParty": "rep",
+        "demVotes": 16960,
+        "repVotes": 27346,
+        "totalVotes": 44306,
+        "demPct": 38.28,
+        "repPct": 61.72,
+        "candidates": [
+          {
+            "name": "Shelley Funke FROMMEYER",
+            "party": "rep",
+            "votes": 27346
+          },
+          {
+            "name": "Rene HEINRICH",
+            "party": "dem",
+            "votes": 16960
+          }
+        ]
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Kentucky Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 38598,
+        "medianAge": 38.7,
+        "totalPopulation": 120823,
+        "collegePct": 14.78,
+        "renterRatePct": 29.31,
+        "race": {
+          "whitePct": 94.42,
+          "nonHispanicWhitePct": 93.64,
+          "blackPct": 2.29,
+          "asianPct": 0.11,
+          "hispanicPct": 1.44
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-25",
+        "winner": "Robert STIVERS",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 41174,
+        "totalVotes": 41174,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Robert STIVERS",
+            "party": "rep",
+            "votes": 41174
+          }
+        ]
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Kentucky Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80922,
+        "medianAge": 39.2,
+        "totalPopulation": 111932,
+        "collegePct": 50.58,
+        "renterRatePct": 37.9,
+        "race": {
+          "whitePct": 77.25,
+          "nonHispanicWhitePct": 75.72,
+          "blackPct": 11.51,
+          "asianPct": 3.66,
+          "hispanicPct": 5.96
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-26",
+        "winner": "Karen BERG",
+        "winnerParty": "dem",
+        "demVotes": 28830,
+        "repVotes": 18855,
+        "totalVotes": 47685,
+        "demPct": 60.46,
+        "repPct": 39.54,
+        "candidates": [
+          {
+            "name": "Karen BERG",
+            "party": "dem",
+            "votes": 28830
+          },
+          {
+            "name": "James PEDEN",
+            "party": "rep",
+            "votes": 18855
+          }
+        ]
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Kentucky Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60147,
+        "medianAge": 38.4,
+        "totalPopulation": 125807,
+        "collegePct": 24.32,
+        "renterRatePct": 31.88,
+        "race": {
+          "whitePct": 87.15,
+          "nonHispanicWhitePct": 85.84,
+          "blackPct": 6,
+          "asianPct": 0.84,
+          "hispanicPct": 4.22
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-27",
+        "winner": "Steve WEST",
+        "winnerParty": "rep",
+        "demVotes": 20513,
+        "repVotes": 34835,
+        "totalVotes": 55348,
+        "demPct": 37.06,
+        "repPct": 62.94,
+        "candidates": [
+          {
+            "name": "Steve WEST",
+            "party": "rep",
+            "votes": 34835
+          },
+          {
+            "name": "Molly Gene CRAIN",
+            "party": "dem",
+            "votes": 20513
+          }
+        ]
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Kentucky Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65590,
+        "medianAge": 40.1,
+        "totalPopulation": 122356,
+        "collegePct": 25.56,
+        "renterRatePct": 31.61,
+        "race": {
+          "whitePct": 82.43,
+          "nonHispanicWhitePct": 80.81,
+          "blackPct": 8.15,
+          "asianPct": 1.8,
+          "hispanicPct": 6.73
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-28",
+        "winner": "Ralph ALVARADO",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 27097,
+        "totalVotes": 27097,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Ralph ALVARADO",
+            "party": "rep",
+            "votes": 27097
+          },
+          {
+            "name": "Joshua D BUCKMAN",
+            "party": "ind",
+            "votes": 551
+          }
+        ]
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Kentucky Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 37836,
+        "medianAge": 42.6,
+        "totalPopulation": 120597,
+        "collegePct": 14.41,
+        "renterRatePct": 30.4,
+        "race": {
+          "whitePct": 95.6,
+          "nonHispanicWhitePct": 95.34,
+          "blackPct": 1.19,
+          "asianPct": 0.25,
+          "hispanicPct": 0.68
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-29",
+        "winner": "Scott MADON",
+        "winnerParty": "ind",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Scott MADON",
+            "party": "ind",
+            "votes": 6825
+          },
+          {
+            "name": "Willie CRASE",
+            "party": "ind",
+            "votes": 2892
+          },
+          {
+            "name": "James Tyler WARD",
+            "party": "ind",
+            "votes": 2006
+          },
+          {
+            "name": "James Richard Tanner HESTERBERG",
+            "party": "ind",
+            "votes": 1908
+          },
+          {
+            "name": "Justin Wade NOBLE",
+            "party": "ind",
+            "votes": 1844
+          },
+          {
+            "name": "Leonard HENDRICKSON",
+            "party": "ind",
+            "votes": 1266
+          },
+          {
+            "name": "Valerie Ison HORN",
+            "party": "ind",
+            "votes": 1238
+          },
+          {
+            "name": "Craig E. BLACKBURN",
+            "party": "ind",
+            "votes": 722
+          },
+          {
+            "name": "John CLEM",
+            "party": "ind",
+            "votes": 443
+          },
+          {
+            "name": "Paul WILLIAMS",
+            "party": "ind",
+            "votes": 152
+          },
+          {
+            "name": "Andrew Thomas SAYLOR",
+            "party": "ind",
+            "votes": 106
+          }
+        ]
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Kentucky Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 39805,
+        "medianAge": 41.9,
+        "totalPopulation": 117974,
+        "collegePct": 13.47,
+        "renterRatePct": 25.75,
+        "race": {
+          "whitePct": 95,
+          "nonHispanicWhitePct": 94.76,
+          "blackPct": 1.18,
+          "asianPct": 0.52,
+          "hispanicPct": 1.16
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-30",
+        "winner": "Brandon D SMITH",
+        "winnerParty": "rep",
+        "demVotes": 9116,
+        "repVotes": 25581,
+        "totalVotes": 34697,
+        "demPct": 26.27,
+        "repPct": 73.73,
+        "candidates": [
+          {
+            "name": "Brandon D SMITH",
+            "party": "rep",
+            "votes": 25581
+          },
+          {
+            "name": "Sid ALLEN",
+            "party": "dem",
+            "votes": 9116
+          }
+        ]
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Kentucky Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43210,
+        "medianAge": 42.4,
+        "totalPopulation": 114618,
+        "collegePct": 14.68,
+        "renterRatePct": 25.56,
+        "race": {
+          "whitePct": 94.7,
+          "nonHispanicWhitePct": 94.19,
+          "blackPct": 1.35,
+          "asianPct": 0.65,
+          "hispanicPct": 1.12
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-31",
+        "winner": "C. Phillip WHEELER JR.",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 37422,
+        "totalVotes": 37422,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "C. Phillip WHEELER JR.",
+            "party": "rep",
+            "votes": 37422
+          }
+        ]
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Kentucky Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65347,
+        "medianAge": 36.3,
+        "totalPopulation": 128080,
+        "collegePct": 27.71,
+        "renterRatePct": 34.68,
+        "race": {
+          "whitePct": 83.63,
+          "nonHispanicWhitePct": 81.88,
+          "blackPct": 5.75,
+          "asianPct": 3.28,
+          "hispanicPct": 4.68
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-32",
+        "winner": "Mike WILSON",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 28682,
+        "totalVotes": 28682,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Mike WILSON",
+            "party": "rep",
+            "votes": 28682
+          }
+        ]
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Kentucky Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43216,
+        "medianAge": 38.1,
+        "totalPopulation": 116065,
+        "collegePct": 15.13,
+        "renterRatePct": 49.94,
+        "race": {
+          "whitePct": 36.76,
+          "nonHispanicWhitePct": 35.88,
+          "blackPct": 55.21,
+          "asianPct": 0.64,
+          "hispanicPct": 4.7
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-33",
+        "winner": "Gerald A. NEAL",
+        "winnerParty": "dem",
+        "demVotes": 31265,
+        "repVotes": 0,
+        "totalVotes": 31265,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Gerald A. NEAL",
+            "party": "dem",
+            "votes": 31265
+          }
+        ]
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Kentucky Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69637,
+        "medianAge": 35.4,
+        "totalPopulation": 128718,
+        "collegePct": 41.15,
+        "renterRatePct": 38.13,
+        "race": {
+          "whitePct": 84.64,
+          "nonHispanicWhitePct": 83.5,
+          "blackPct": 6.53,
+          "asianPct": 1.83,
+          "hispanicPct": 3.61
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-34",
+        "winner": "Jared K CARPENTER",
+        "winnerParty": "rep",
+        "demVotes": 17322,
+        "repVotes": 25049,
+        "totalVotes": 42371,
+        "demPct": 40.88,
+        "repPct": 59.12,
+        "candidates": [
+          {
+            "name": "Susan CINTRA",
+            "party": "dem",
+            "votes": 17322
+          },
+          {
+            "name": "Jared K CARPENTER",
+            "party": "rep",
+            "votes": 25049
+          }
+        ]
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Kentucky Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47617,
+        "medianAge": 32.9,
+        "totalPopulation": 111805,
+        "collegePct": 25.23,
+        "renterRatePct": 54.66,
+        "race": {
+          "whitePct": 54.12,
+          "nonHispanicWhitePct": 49.73,
+          "blackPct": 27.2,
+          "asianPct": 1.9,
+          "hispanicPct": 17.52
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-35",
+        "winner": "Keturah J. HERRON",
+        "winnerParty": "dem",
+        "demVotes": 24717,
+        "repVotes": 0,
+        "totalVotes": 24717,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Keturah J. HERRON",
+            "party": "dem",
+            "votes": 24717
+          }
+        ]
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Kentucky Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100424,
+        "medianAge": 41.8,
+        "totalPopulation": 113645,
+        "collegePct": 58.2,
+        "renterRatePct": 31.02,
+        "race": {
+          "whitePct": 80.22,
+          "nonHispanicWhitePct": 79.06,
+          "blackPct": 7.5,
+          "asianPct": 5.45,
+          "hispanicPct": 4.18
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-36",
+        "winner": "Julie Raque ADAMS",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 36845,
+        "totalVotes": 36845,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Julie Raque ADAMS",
+            "party": "rep",
+            "votes": 36845
+          }
+        ]
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Kentucky Senate District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56364,
+        "medianAge": 37.8,
+        "totalPopulation": 112841,
+        "collegePct": 18.63,
+        "renterRatePct": 39.25,
+        "race": {
+          "whitePct": 61.31,
+          "nonHispanicWhitePct": 58.71,
+          "blackPct": 23.49,
+          "asianPct": 3.24,
+          "hispanicPct": 9.02
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-37",
+        "winner": "David YATES",
+        "winnerParty": "dem",
+        "demVotes": 25124,
+        "repVotes": 16460,
+        "totalVotes": 41584,
+        "demPct": 60.42,
+        "repPct": 39.58,
+        "candidates": [
+          {
+            "name": "David YATES",
+            "party": "dem",
+            "votes": 25124
+          },
+          {
+            "name": "Calvin LEACH",
+            "party": "rep",
+            "votes": 16460
+          }
+        ]
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Kentucky Senate District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); Kentucky",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77793,
+        "medianAge": 39.6,
+        "totalPopulation": 117332,
+        "collegePct": 21.75,
+        "renterRatePct": 19.16,
+        "race": {
+          "whitePct": 85.9,
+          "nonHispanicWhitePct": 84.78,
+          "blackPct": 5.36,
+          "asianPct": 1.32,
+          "hispanicPct": 4.99
+        }
+      },
+      "election": {
+        "districtId": "ky-sd-38",
+        "winner": "Mike NEMES",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 26768,
+        "totalVotes": 26768,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Mike NEMES",
+            "party": "rep",
+            "votes": 26768
+          }
+        ]
+      }
+    }
+  }
+}

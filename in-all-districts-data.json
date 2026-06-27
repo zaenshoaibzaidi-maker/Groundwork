@@ -1,0 +1,6036 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Indiana House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53581,
+        "medianAge": 36.6,
+        "totalPopulation": 67670,
+        "collegePct": 15.62,
+        "renterRatePct": 40.35,
+        "race": {
+          "whitePct": 39.1,
+          "nonHispanicWhitePct": 31.22,
+          "blackPct": 23.09,
+          "asianPct": 1.1,
+          "hispanicPct": 42.46
+        }
+      },
+      "election": {
+        "districtId": "in-hd-1",
+        "winner": "Carolyn B Jackson",
+        "winnerParty": "dem",
+        "demVotes": 13932,
+        "repVotes": 0,
+        "totalVotes": 13932,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Carolyn B Jackson",
+            "party": "dem",
+            "votes": 13932
+          }
+        ]
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Indiana House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43980,
+        "medianAge": 35.8,
+        "totalPopulation": 68321,
+        "collegePct": 12.29,
+        "renterRatePct": 47.51,
+        "race": {
+          "whitePct": 20.53,
+          "nonHispanicWhitePct": 15.66,
+          "blackPct": 49.34,
+          "asianPct": 0.53,
+          "hispanicPct": 32.62
+        }
+      },
+      "election": {
+        "districtId": "in-hd-2",
+        "winner": "Earl Harris Jr.",
+        "winnerParty": "dem",
+        "demVotes": 14997,
+        "repVotes": 3290,
+        "totalVotes": 18287,
+        "demPct": 82.01,
+        "repPct": 17.99,
+        "candidates": [
+          {
+            "name": "Earl Harris Jr.",
+            "party": "dem",
+            "votes": 14997
+          },
+          {
+            "name": "Ben Ruiz",
+            "party": "rep",
+            "votes": 3290
+          }
+        ]
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Indiana House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52796,
+        "medianAge": 37.8,
+        "totalPopulation": 66104,
+        "collegePct": 17.39,
+        "renterRatePct": 39.35,
+        "race": {
+          "whitePct": 50.84,
+          "nonHispanicWhitePct": 44.18,
+          "blackPct": 35.57,
+          "asianPct": 0.78,
+          "hispanicPct": 17.09
+        }
+      },
+      "election": {
+        "districtId": "in-hd-3",
+        "winner": "Ragen Hatcher",
+        "winnerParty": "dem",
+        "demVotes": 14763,
+        "repVotes": 8617,
+        "totalVotes": 23380,
+        "demPct": 63.14,
+        "repPct": 36.86,
+        "candidates": [
+          {
+            "name": "Ragen Hatcher",
+            "party": "dem",
+            "votes": 14763
+          },
+          {
+            "name": "Leslie A. Dallner",
+            "party": "rep",
+            "votes": 8617
+          }
+        ]
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Indiana House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88234,
+        "medianAge": 40.4,
+        "totalPopulation": 68818,
+        "collegePct": 38.36,
+        "renterRatePct": 25.63,
+        "race": {
+          "whitePct": 87.93,
+          "nonHispanicWhitePct": 83.57,
+          "blackPct": 2.21,
+          "asianPct": 2.05,
+          "hispanicPct": 8.55
+        }
+      },
+      "election": {
+        "districtId": "in-hd-4",
+        "winner": "Ed Soliday",
+        "winnerParty": "rep",
+        "demVotes": 14800,
+        "repVotes": 20111,
+        "totalVotes": 34911,
+        "demPct": 42.39,
+        "repPct": 57.61,
+        "candidates": [
+          {
+            "name": "Erika Robinson-Watkins",
+            "party": "dem",
+            "votes": 14800
+          },
+          {
+            "name": "Ed Soliday",
+            "party": "rep",
+            "votes": 20111
+          }
+        ]
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Indiana House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73533,
+        "medianAge": 37.8,
+        "totalPopulation": 68096,
+        "collegePct": 38.6,
+        "renterRatePct": 29.06,
+        "race": {
+          "whitePct": 82.43,
+          "nonHispanicWhitePct": 79.81,
+          "blackPct": 3.55,
+          "asianPct": 4.83,
+          "hispanicPct": 6.27
+        }
+      },
+      "election": {
+        "districtId": "in-hd-5",
+        "winner": "Dale DeVon",
+        "winnerParty": "rep",
+        "demVotes": 14013,
+        "repVotes": 16835,
+        "totalVotes": 30848,
+        "demPct": 45.43,
+        "repPct": 54.57,
+        "candidates": [
+          {
+            "name": "Heidi Beidinger",
+            "party": "dem",
+            "votes": 14013
+          },
+          {
+            "name": "Dale DeVon",
+            "party": "rep",
+            "votes": 16835
+          }
+        ]
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Indiana House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50273,
+        "medianAge": 33.7,
+        "totalPopulation": 66047,
+        "collegePct": 25.67,
+        "renterRatePct": 39.52,
+        "race": {
+          "whitePct": 56.11,
+          "nonHispanicWhitePct": 52.66,
+          "blackPct": 22.78,
+          "asianPct": 1.09,
+          "hispanicPct": 17.89
+        }
+      },
+      "election": {
+        "districtId": "in-hd-6",
+        "winner": "Maureen Bauer",
+        "winnerParty": "dem",
+        "demVotes": 14861,
+        "repVotes": 0,
+        "totalVotes": 14861,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Maureen Bauer",
+            "party": "dem",
+            "votes": 14861
+          },
+          {
+            "name": "Charlie Florance",
+            "party": "ind",
+            "votes": 3483
+          }
+        ]
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Indiana House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65739,
+        "medianAge": 39.8,
+        "totalPopulation": 69211,
+        "collegePct": 26.25,
+        "renterRatePct": 22,
+        "race": {
+          "whitePct": 75.45,
+          "nonHispanicWhitePct": 73.12,
+          "blackPct": 10.5,
+          "asianPct": 0.6,
+          "hispanicPct": 11.26
+        }
+      },
+      "election": {
+        "districtId": "in-hd-7",
+        "winner": "Jake Teshka",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 20991,
+        "totalVotes": 20991,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Jake Teshka",
+            "party": "rep",
+            "votes": 20991
+          }
+        ]
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Indiana House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71063,
+        "medianAge": 35.1,
+        "totalPopulation": 68010,
+        "collegePct": 39.95,
+        "renterRatePct": 34.05,
+        "race": {
+          "whitePct": 73.32,
+          "nonHispanicWhitePct": 71.35,
+          "blackPct": 14.15,
+          "asianPct": 3.69,
+          "hispanicPct": 5.92
+        }
+      },
+      "election": {
+        "districtId": "in-hd-8",
+        "winner": "Ryan M. Dvorak",
+        "winnerParty": "dem",
+        "demVotes": 19461,
+        "repVotes": 0,
+        "totalVotes": 19461,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Ryan M. Dvorak",
+            "party": "dem",
+            "votes": 19461
+          }
+        ]
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Indiana House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72243,
+        "medianAge": 41.5,
+        "totalPopulation": 68247,
+        "collegePct": 28.04,
+        "renterRatePct": 26.52,
+        "race": {
+          "whitePct": 77.44,
+          "nonHispanicWhitePct": 75.08,
+          "blackPct": 13.65,
+          "asianPct": 0.93,
+          "hispanicPct": 6.8
+        }
+      },
+      "election": {
+        "districtId": "in-hd-9",
+        "winner": "Patricia A (Pat) Boy",
+        "winnerParty": "dem",
+        "demVotes": 15149,
+        "repVotes": 14555,
+        "totalVotes": 29704,
+        "demPct": 51,
+        "repPct": 49,
+        "candidates": [
+          {
+            "name": "Patricia A (Pat) Boy",
+            "party": "dem",
+            "votes": 15149
+          },
+          {
+            "name": "Joel Florek",
+            "party": "rep",
+            "votes": 14555
+          }
+        ]
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Indiana House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75638,
+        "medianAge": 39.3,
+        "totalPopulation": 68203,
+        "collegePct": 20.5,
+        "renterRatePct": 24.99,
+        "race": {
+          "whitePct": 79.72,
+          "nonHispanicWhitePct": 72.72,
+          "blackPct": 6.85,
+          "asianPct": 1.11,
+          "hispanicPct": 16.19
+        }
+      },
+      "election": {
+        "districtId": "in-hd-10",
+        "winner": "Charles (Chuck) Moseley",
+        "winnerParty": "dem",
+        "demVotes": 15405,
+        "repVotes": 14149,
+        "totalVotes": 29554,
+        "demPct": 52.12,
+        "repPct": 47.88,
+        "candidates": [
+          {
+            "name": "Charles (Chuck) Moseley",
+            "party": "dem",
+            "votes": 15405
+          },
+          {
+            "name": "Jeff Larson",
+            "party": "rep",
+            "votes": 14149
+          }
+        ]
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Indiana House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81968,
+        "medianAge": 41.6,
+        "totalPopulation": 68388,
+        "collegePct": 19.76,
+        "renterRatePct": 15.79,
+        "race": {
+          "whitePct": 90.43,
+          "nonHispanicWhitePct": 88.09,
+          "blackPct": 0.24,
+          "asianPct": 0.43,
+          "hispanicPct": 8.01
+        }
+      },
+      "election": {
+        "districtId": "in-hd-11",
+        "winner": "Michael J. Aylesworth",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 27017,
+        "totalVotes": 27017,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Michael J. Aylesworth",
+            "party": "rep",
+            "votes": 27017
+          }
+        ]
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Indiana House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84305,
+        "medianAge": 43.2,
+        "totalPopulation": 68260,
+        "collegePct": 35.91,
+        "renterRatePct": 20.25,
+        "race": {
+          "whitePct": 73.32,
+          "nonHispanicWhitePct": 67.82,
+          "blackPct": 9.71,
+          "asianPct": 3.5,
+          "hispanicPct": 16.81
+        }
+      },
+      "election": {
+        "districtId": "in-hd-12",
+        "winner": "Mike Andrade",
+        "winnerParty": "dem",
+        "demVotes": 17940,
+        "repVotes": 14652,
+        "totalVotes": 32592,
+        "demPct": 55.04,
+        "repPct": 44.96,
+        "candidates": [
+          {
+            "name": "Mike Andrade",
+            "party": "dem",
+            "votes": 17940
+          },
+          {
+            "name": "Jim Lietz",
+            "party": "rep",
+            "votes": 14652
+          }
+        ]
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Indiana House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74415,
+        "medianAge": 39.6,
+        "totalPopulation": 68452,
+        "collegePct": 25.5,
+        "renterRatePct": 20.34,
+        "race": {
+          "whitePct": 89.37,
+          "nonHispanicWhitePct": 87.47,
+          "blackPct": 2.38,
+          "asianPct": 1.31,
+          "hispanicPct": 6.09
+        }
+      },
+      "election": {
+        "districtId": "in-hd-13",
+        "winner": "Matthew (Matt) Commons",
+        "winnerParty": "rep",
+        "demVotes": 8355,
+        "repVotes": 23437,
+        "totalVotes": 31792,
+        "demPct": 26.28,
+        "repPct": 73.72,
+        "candidates": [
+          {
+            "name": "Edward (Ed) Moyer Jr.",
+            "party": "dem",
+            "votes": 8355
+          },
+          {
+            "name": "Matthew (Matt) Commons",
+            "party": "rep",
+            "votes": 23437
+          }
+        ]
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Indiana House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56484,
+        "medianAge": 38.7,
+        "totalPopulation": 66213,
+        "collegePct": 21.16,
+        "renterRatePct": 35.83,
+        "race": {
+          "whitePct": 38.09,
+          "nonHispanicWhitePct": 31.95,
+          "blackPct": 45.31,
+          "asianPct": 0.95,
+          "hispanicPct": 17.29
+        }
+      },
+      "election": {
+        "districtId": "in-hd-14",
+        "winner": "Vernon G Smith",
+        "winnerParty": "dem",
+        "demVotes": 17570,
+        "repVotes": 6786,
+        "totalVotes": 24356,
+        "demPct": 72.14,
+        "repPct": 27.86,
+        "candidates": [
+          {
+            "name": "Vernon G Smith",
+            "party": "dem",
+            "votes": 17570
+          },
+          {
+            "name": "Ivan Ursery II",
+            "party": "rep",
+            "votes": 6786
+          }
+        ]
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Indiana House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100570,
+        "medianAge": 44.9,
+        "totalPopulation": 68429,
+        "collegePct": 36.41,
+        "renterRatePct": 10.17,
+        "race": {
+          "whitePct": 82.03,
+          "nonHispanicWhitePct": 78.19,
+          "blackPct": 3.97,
+          "asianPct": 2.61,
+          "hispanicPct": 12.31
+        }
+      },
+      "election": {
+        "districtId": "in-hd-15",
+        "winner": "Hal Slager",
+        "winnerParty": "rep",
+        "demVotes": 13625,
+        "repVotes": 23536,
+        "totalVotes": 37161,
+        "demPct": 36.66,
+        "repPct": 63.34,
+        "candidates": [
+          {
+            "name": "John (Jack) Walter",
+            "party": "dem",
+            "votes": 13625
+          },
+          {
+            "name": "Hal Slager",
+            "party": "rep",
+            "votes": 23536
+          }
+        ]
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Indiana House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65694,
+        "medianAge": 41.5,
+        "totalPopulation": 67219,
+        "collegePct": 15.11,
+        "renterRatePct": 21.1,
+        "race": {
+          "whitePct": 89.68,
+          "nonHispanicWhitePct": 88.35,
+          "blackPct": 0.6,
+          "asianPct": 0.36,
+          "hispanicPct": 7.43
+        }
+      },
+      "election": {
+        "districtId": "in-hd-16",
+        "winner": "Kendell Culp",
+        "winnerParty": "rep",
+        "demVotes": 6740,
+        "repVotes": 22500,
+        "totalVotes": 29240,
+        "demPct": 23.05,
+        "repPct": 76.95,
+        "candidates": [
+          {
+            "name": "Dennis Collins",
+            "party": "dem",
+            "votes": 6740
+          },
+          {
+            "name": "Kendell Culp",
+            "party": "rep",
+            "votes": 22500
+          }
+        ]
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Indiana House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65743,
+        "medianAge": 40.6,
+        "totalPopulation": 67608,
+        "collegePct": 19.04,
+        "renterRatePct": 22.94,
+        "race": {
+          "whitePct": 90.68,
+          "nonHispanicWhitePct": 87.11,
+          "blackPct": 0.47,
+          "asianPct": 0.48,
+          "hispanicPct": 9.37
+        }
+      },
+      "election": {
+        "districtId": "in-hd-17",
+        "winner": "Jack Jordan",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 22867,
+        "totalVotes": 22867,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Jack Jordan",
+            "party": "rep",
+            "votes": 22867
+          }
+        ]
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Indiana House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75783,
+        "medianAge": 41.3,
+        "totalPopulation": 67821,
+        "collegePct": 20.99,
+        "renterRatePct": 16.11,
+        "race": {
+          "whitePct": 91.67,
+          "nonHispanicWhitePct": 89.26,
+          "blackPct": 0.21,
+          "asianPct": 0.39,
+          "hispanicPct": 7.87
+        }
+      },
+      "election": {
+        "districtId": "in-hd-18",
+        "winner": "David H. Abbott",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 24250,
+        "totalVotes": 24250,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "David H. Abbott",
+            "party": "rep",
+            "votes": 24250
+          }
+        ]
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Indiana House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104325,
+        "medianAge": 40.7,
+        "totalPopulation": 68994,
+        "collegePct": 34.46,
+        "renterRatePct": 13.56,
+        "race": {
+          "whitePct": 82.06,
+          "nonHispanicWhitePct": 78.64,
+          "blackPct": 6.25,
+          "asianPct": 1.81,
+          "hispanicPct": 10.02
+        }
+      },
+      "election": {
+        "districtId": "in-hd-19",
+        "winner": "Julie Olthoff",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 25348,
+        "totalVotes": 25348,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Julie Olthoff",
+            "party": "rep",
+            "votes": 25348
+          }
+        ]
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Indiana House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74991,
+        "medianAge": 40.8,
+        "totalPopulation": 67833,
+        "collegePct": 19.7,
+        "renterRatePct": 20.67,
+        "race": {
+          "whitePct": 86.19,
+          "nonHispanicWhitePct": 84.01,
+          "blackPct": 3.86,
+          "asianPct": 0.51,
+          "hispanicPct": 7.04
+        }
+      },
+      "election": {
+        "districtId": "in-hd-20",
+        "winner": "Jim Pressel",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 22170,
+        "totalVotes": 22170,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Jim Pressel",
+            "party": "rep",
+            "votes": 22170
+          }
+        ]
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Indiana House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60423,
+        "medianAge": 34.7,
+        "totalPopulation": 67089,
+        "collegePct": 15.19,
+        "renterRatePct": 29.69,
+        "race": {
+          "whitePct": 69.19,
+          "nonHispanicWhitePct": 64.82,
+          "blackPct": 8.52,
+          "asianPct": 0.85,
+          "hispanicPct": 22.4
+        }
+      },
+      "election": {
+        "districtId": "in-hd-21",
+        "winner": "Timothy Wesco",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 14904,
+        "totalVotes": 14904,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Melissa D Kauffman",
+            "party": "ind",
+            "votes": 3942
+          },
+          {
+            "name": "Timothy Wesco",
+            "party": "rep",
+            "votes": 14904
+          }
+        ]
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Indiana House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74826,
+        "medianAge": 37.4,
+        "totalPopulation": 67589,
+        "collegePct": 24.26,
+        "renterRatePct": 24.24,
+        "race": {
+          "whitePct": 86.53,
+          "nonHispanicWhitePct": 84,
+          "blackPct": 0.88,
+          "asianPct": 1.63,
+          "hispanicPct": 10.95
+        }
+      },
+      "election": {
+        "districtId": "in-hd-22",
+        "winner": "Craig Snow",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 21137,
+        "totalVotes": 21137,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Josh Vergiels",
+            "party": "ind",
+            "votes": 3332
+          },
+          {
+            "name": "Craig Snow",
+            "party": "rep",
+            "votes": 21137
+          }
+        ]
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Indiana House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57305,
+        "medianAge": 40.9,
+        "totalPopulation": 68346,
+        "collegePct": 15.79,
+        "renterRatePct": 25.24,
+        "race": {
+          "whitePct": 84.15,
+          "nonHispanicWhitePct": 79.97,
+          "blackPct": 2.57,
+          "asianPct": 1.21,
+          "hispanicPct": 11.53
+        }
+      },
+      "election": {
+        "districtId": "in-hd-23",
+        "winner": "Ethan Manning",
+        "winnerParty": "rep",
+        "demVotes": 6469,
+        "repVotes": 18330,
+        "totalVotes": 24799,
+        "demPct": 26.09,
+        "repPct": 73.91,
+        "candidates": [
+          {
+            "name": "Richard (Rick) Rouser",
+            "party": "dem",
+            "votes": 6469
+          },
+          {
+            "name": "Ethan Manning",
+            "party": "rep",
+            "votes": 18330
+          }
+        ]
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Indiana House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 129604,
+        "medianAge": 38.2,
+        "totalPopulation": 72188,
+        "collegePct": 62.63,
+        "renterRatePct": 16.44,
+        "race": {
+          "whitePct": 77.91,
+          "nonHispanicWhitePct": 74.72,
+          "blackPct": 3.36,
+          "asianPct": 9.08,
+          "hispanicPct": 7.43
+        }
+      },
+      "election": {
+        "districtId": "in-hd-24",
+        "winner": "Hunter Smith",
+        "winnerParty": "rep",
+        "demVotes": 18237,
+        "repVotes": 23364,
+        "totalVotes": 41601,
+        "demPct": 43.84,
+        "repPct": 56.16,
+        "candidates": [
+          {
+            "name": "Josh Lowry",
+            "party": "dem",
+            "votes": 18237
+          },
+          {
+            "name": "Hunter Smith",
+            "party": "rep",
+            "votes": 23364
+          }
+        ]
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Indiana House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 126139,
+        "medianAge": 37.8,
+        "totalPopulation": 70055,
+        "collegePct": 61.6,
+        "renterRatePct": 17.55,
+        "race": {
+          "whitePct": 83.52,
+          "nonHispanicWhitePct": 82.26,
+          "blackPct": 6.55,
+          "asianPct": 4.64,
+          "hispanicPct": 3.46
+        }
+      },
+      "election": {
+        "districtId": "in-hd-25",
+        "winner": "Becky Cash",
+        "winnerParty": "rep",
+        "demVotes": 18730,
+        "repVotes": 18794,
+        "totalVotes": 37524,
+        "demPct": 49.91,
+        "repPct": 50.09,
+        "candidates": [
+          {
+            "name": "Tiffany Stoner",
+            "party": "dem",
+            "votes": 18730
+          },
+          {
+            "name": "Becky Cash",
+            "party": "rep",
+            "votes": 18794
+          }
+        ]
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Indiana House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44434,
+        "medianAge": 22,
+        "totalPopulation": 68228,
+        "collegePct": 65.62,
+        "renterRatePct": 59.99,
+        "race": {
+          "whitePct": 69.29,
+          "nonHispanicWhitePct": 67.21,
+          "blackPct": 4.88,
+          "asianPct": 16.96,
+          "hispanicPct": 7.24
+        }
+      },
+      "election": {
+        "districtId": "in-hd-26",
+        "winner": "Chris Campbell",
+        "winnerParty": "dem",
+        "demVotes": 11508,
+        "repVotes": 6450,
+        "totalVotes": 17958,
+        "demPct": 64.08,
+        "repPct": 35.92,
+        "candidates": [
+          {
+            "name": "Chris Campbell",
+            "party": "dem",
+            "votes": 11508
+          },
+          {
+            "name": "James K. (Jim) Schenke",
+            "party": "rep",
+            "votes": 6450
+          }
+        ]
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Indiana House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52766,
+        "medianAge": 33.9,
+        "totalPopulation": 68298,
+        "collegePct": 28.04,
+        "renterRatePct": 52.67,
+        "race": {
+          "whitePct": 76.61,
+          "nonHispanicWhitePct": 71.32,
+          "blackPct": 9.04,
+          "asianPct": 2.31,
+          "hispanicPct": 13.87
+        }
+      },
+      "election": {
+        "districtId": "in-hd-27",
+        "winner": "Sheila J. Klinker",
+        "winnerParty": "dem",
+        "demVotes": 13398,
+        "repVotes": 8383,
+        "totalVotes": 21781,
+        "demPct": 61.51,
+        "repPct": 38.49,
+        "candidates": [
+          {
+            "name": "Sheila J. Klinker",
+            "party": "dem",
+            "votes": 13398
+          },
+          {
+            "name": "Oscar Alvarez",
+            "party": "rep",
+            "votes": 8383
+          }
+        ]
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Indiana House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95670,
+        "medianAge": 40,
+        "totalPopulation": 69269,
+        "collegePct": 34.9,
+        "renterRatePct": 17.11,
+        "race": {
+          "whitePct": 89.24,
+          "nonHispanicWhitePct": 88.66,
+          "blackPct": 4.18,
+          "asianPct": 1.32,
+          "hispanicPct": 2.72
+        }
+      },
+      "election": {
+        "districtId": "in-hd-28",
+        "winner": "Jeffrey A. Thompson",
+        "winnerParty": "rep",
+        "demVotes": 9442,
+        "repVotes": 23989,
+        "totalVotes": 33431,
+        "demPct": 28.24,
+        "repPct": 71.76,
+        "candidates": [
+          {
+            "name": "Karen Marie Whitney",
+            "party": "dem",
+            "votes": 9442
+          },
+          {
+            "name": "Jeffrey A. Thompson",
+            "party": "rep",
+            "votes": 23989
+          }
+        ]
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Indiana House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104332,
+        "medianAge": 37.1,
+        "totalPopulation": 70478,
+        "collegePct": 50.65,
+        "renterRatePct": 23.25,
+        "race": {
+          "whitePct": 85.77,
+          "nonHispanicWhitePct": 83.96,
+          "blackPct": 5.37,
+          "asianPct": 3,
+          "hispanicPct": 4.88
+        }
+      },
+      "election": {
+        "districtId": "in-hd-29",
+        "winner": "Alaina Shonkwiler",
+        "winnerParty": "rep",
+        "demVotes": 13170,
+        "repVotes": 22794,
+        "totalVotes": 35964,
+        "demPct": 36.62,
+        "repPct": 63.38,
+        "candidates": [
+          {
+            "name": "Christopher Hartig",
+            "party": "dem",
+            "votes": 13170
+          },
+          {
+            "name": "Alaina Shonkwiler",
+            "party": "rep",
+            "votes": 22794
+          }
+        ]
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Indiana House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56816,
+        "medianAge": 41,
+        "totalPopulation": 66517,
+        "collegePct": 16.73,
+        "renterRatePct": 31.3,
+        "race": {
+          "whitePct": 83.58,
+          "nonHispanicWhitePct": 81.28,
+          "blackPct": 9.16,
+          "asianPct": 1.61,
+          "hispanicPct": 4.16
+        }
+      },
+      "election": {
+        "districtId": "in-hd-30",
+        "winner": "Mike Karickhoff",
+        "winnerParty": "rep",
+        "demVotes": 9309,
+        "repVotes": 19303,
+        "totalVotes": 28612,
+        "demPct": 32.54,
+        "repPct": 67.46,
+        "candidates": [
+          {
+            "name": "Michael Katcher",
+            "party": "dem",
+            "votes": 9309
+          },
+          {
+            "name": "Mike Karickhoff",
+            "party": "rep",
+            "votes": 19303
+          }
+        ]
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Indiana House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54197,
+        "medianAge": 39.6,
+        "totalPopulation": 67825,
+        "collegePct": 20.1,
+        "renterRatePct": 27.98,
+        "race": {
+          "whitePct": 85.32,
+          "nonHispanicWhitePct": 83.68,
+          "blackPct": 4.73,
+          "asianPct": 0.89,
+          "hispanicPct": 5.11
+        }
+      },
+      "election": {
+        "districtId": "in-hd-31",
+        "winner": "Lori J. Goss-Reaves",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 19345,
+        "totalVotes": 19345,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Lori J. Goss-Reaves",
+            "party": "rep",
+            "votes": 19345
+          }
+        ]
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Indiana House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94479,
+        "medianAge": 38.4,
+        "totalPopulation": 67295,
+        "collegePct": 60.66,
+        "renterRatePct": 39.79,
+        "race": {
+          "whitePct": 78.25,
+          "nonHispanicWhitePct": 76.87,
+          "blackPct": 7.28,
+          "asianPct": 6.05,
+          "hispanicPct": 5.4
+        }
+      },
+      "election": {
+        "districtId": "in-hd-32",
+        "winner": "Victoria Garcia Wilburn",
+        "winnerParty": "dem",
+        "demVotes": 17994,
+        "repVotes": 16542,
+        "totalVotes": 34536,
+        "demPct": 52.1,
+        "repPct": 47.9,
+        "candidates": [
+          {
+            "name": "Victoria Garcia Wilburn",
+            "party": "dem",
+            "votes": 17994
+          },
+          {
+            "name": "Patricia Bratton",
+            "party": "rep",
+            "votes": 16542
+          }
+        ]
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Indiana House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59192,
+        "medianAge": 43.4,
+        "totalPopulation": 68636,
+        "collegePct": 15.13,
+        "renterRatePct": 21.1,
+        "race": {
+          "whitePct": 93.54,
+          "nonHispanicWhitePct": 92.89,
+          "blackPct": 0.47,
+          "asianPct": 0.35,
+          "hispanicPct": 3.59
+        }
+      },
+      "election": {
+        "districtId": "in-hd-33",
+        "winner": "John (J.D.) Prescott",
+        "winnerParty": "rep",
+        "demVotes": 7818,
+        "repVotes": 21160,
+        "totalVotes": 28978,
+        "demPct": 26.98,
+        "repPct": 73.02,
+        "candidates": [
+          {
+            "name": "John E Bartlett",
+            "party": "dem",
+            "votes": 7818
+          },
+          {
+            "name": "John (J.D.) Prescott",
+            "party": "rep",
+            "votes": 21160
+          }
+        ]
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Indiana House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44916,
+        "medianAge": 30.2,
+        "totalPopulation": 67842,
+        "collegePct": 25.35,
+        "renterRatePct": 46.31,
+        "race": {
+          "whitePct": 81.58,
+          "nonHispanicWhitePct": 79.61,
+          "blackPct": 8.16,
+          "asianPct": 2.17,
+          "hispanicPct": 4.29
+        }
+      },
+      "election": {
+        "districtId": "in-hd-34",
+        "winner": "Sue Errington",
+        "winnerParty": "dem",
+        "demVotes": 12156,
+        "repVotes": 9910,
+        "totalVotes": 22066,
+        "demPct": 55.09,
+        "repPct": 44.91,
+        "candidates": [
+          {
+            "name": "Sue Errington",
+            "party": "dem",
+            "votes": 12156
+          },
+          {
+            "name": "Susan Dillon",
+            "party": "rep",
+            "votes": 9910
+          }
+        ]
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Indiana House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69277,
+        "medianAge": 42.5,
+        "totalPopulation": 67851,
+        "collegePct": 23.38,
+        "renterRatePct": 20.72,
+        "race": {
+          "whitePct": 93.21,
+          "nonHispanicWhitePct": 92.07,
+          "blackPct": 1.06,
+          "asianPct": 0.78,
+          "hispanicPct": 2.36
+        }
+      },
+      "election": {
+        "districtId": "in-hd-35",
+        "winner": "Elizabeth Rowray",
+        "winnerParty": "rep",
+        "demVotes": 9204,
+        "repVotes": 22529,
+        "totalVotes": 31733,
+        "demPct": 29,
+        "repPct": 71,
+        "candidates": [
+          {
+            "name": "Philip G. (Phil) Gift",
+            "party": "dem",
+            "votes": 9204
+          },
+          {
+            "name": "Elizabeth Rowray",
+            "party": "rep",
+            "votes": 22529
+          }
+        ]
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Indiana House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54740,
+        "medianAge": 39.6,
+        "totalPopulation": 67097,
+        "collegePct": 18.45,
+        "renterRatePct": 37.35,
+        "race": {
+          "whitePct": 78.54,
+          "nonHispanicWhitePct": 75.47,
+          "blackPct": 9.93,
+          "asianPct": 0.49,
+          "hispanicPct": 7.33
+        }
+      },
+      "election": {
+        "districtId": "in-hd-36",
+        "winner": "Kyle Pierce",
+        "winnerParty": "rep",
+        "demVotes": 10623,
+        "repVotes": 15310,
+        "totalVotes": 25933,
+        "demPct": 40.96,
+        "repPct": 59.04,
+        "candidates": [
+          {
+            "name": "Thonja M Nicholson",
+            "party": "dem",
+            "votes": 10623
+          },
+          {
+            "name": "Kyle Pierce",
+            "party": "rep",
+            "votes": 15310
+          }
+        ]
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Indiana House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115709,
+        "medianAge": 37.3,
+        "totalPopulation": 67728,
+        "collegePct": 57.16,
+        "renterRatePct": 20.74,
+        "race": {
+          "whitePct": 82.27,
+          "nonHispanicWhitePct": 80.56,
+          "blackPct": 3.84,
+          "asianPct": 7.21,
+          "hispanicPct": 3.87
+        }
+      },
+      "election": {
+        "districtId": "in-hd-37",
+        "winner": "Todd Huston",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 24212,
+        "totalVotes": 24212,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Todd Huston",
+            "party": "rep",
+            "votes": 24212
+          }
+        ]
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Indiana House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79801,
+        "medianAge": 42.8,
+        "totalPopulation": 67476,
+        "collegePct": 24.87,
+        "renterRatePct": 16.06,
+        "race": {
+          "whitePct": 93.37,
+          "nonHispanicWhitePct": 91.15,
+          "blackPct": 1.31,
+          "asianPct": 0.38,
+          "hispanicPct": 4.64
+        }
+      },
+      "election": {
+        "districtId": "in-hd-38",
+        "winner": "Heath R. VanNatter",
+        "winnerParty": "rep",
+        "demVotes": 8339,
+        "repVotes": 25387,
+        "totalVotes": 33726,
+        "demPct": 24.73,
+        "repPct": 75.27,
+        "candidates": [
+          {
+            "name": "Carl A. Seese",
+            "party": "dem",
+            "votes": 8339
+          },
+          {
+            "name": "Heath R. VanNatter",
+            "party": "rep",
+            "votes": 25387
+          }
+        ]
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Indiana House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 124671,
+        "medianAge": 39.7,
+        "totalPopulation": 70359,
+        "collegePct": 71.16,
+        "renterRatePct": 29.11,
+        "race": {
+          "whitePct": 81.19,
+          "nonHispanicWhitePct": 79.29,
+          "blackPct": 2.94,
+          "asianPct": 8.03,
+          "hispanicPct": 6.24
+        }
+      },
+      "election": {
+        "districtId": "in-hd-39",
+        "winner": "Daniel (Danny) Lopez",
+        "winnerParty": "rep",
+        "demVotes": 18223,
+        "repVotes": 21164,
+        "totalVotes": 39387,
+        "demPct": 46.27,
+        "repPct": 53.73,
+        "candidates": [
+          {
+            "name": "Matt McNally",
+            "party": "dem",
+            "votes": 18223
+          },
+          {
+            "name": "Daniel (Danny) Lopez",
+            "party": "rep",
+            "votes": 21164
+          }
+        ]
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Indiana House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97255,
+        "medianAge": 38.7,
+        "totalPopulation": 69260,
+        "collegePct": 39.56,
+        "renterRatePct": 23.82,
+        "race": {
+          "whitePct": 74.31,
+          "nonHispanicWhitePct": 72.65,
+          "blackPct": 11.49,
+          "asianPct": 5.16,
+          "hispanicPct": 6.68
+        }
+      },
+      "election": {
+        "districtId": "in-hd-40",
+        "winner": "Gregory E. Steuerwald",
+        "winnerParty": "rep",
+        "demVotes": 12478,
+        "repVotes": 17489,
+        "totalVotes": 29967,
+        "demPct": 41.64,
+        "repPct": 58.36,
+        "candidates": [
+          {
+            "name": "Robert Pope III",
+            "party": "dem",
+            "votes": 12478
+          },
+          {
+            "name": "Gregory E. Steuerwald",
+            "party": "rep",
+            "votes": 17489
+          }
+        ]
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Indiana House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67553,
+        "medianAge": 35.9,
+        "totalPopulation": 68777,
+        "collegePct": 22.98,
+        "renterRatePct": 25.63,
+        "race": {
+          "whitePct": 85.56,
+          "nonHispanicWhitePct": 82.52,
+          "blackPct": 1.31,
+          "asianPct": 1.26,
+          "hispanicPct": 12.39
+        }
+      },
+      "election": {
+        "districtId": "in-hd-41",
+        "winner": "Mark Genda",
+        "winnerParty": "rep",
+        "demVotes": 7542,
+        "repVotes": 20495,
+        "totalVotes": 28037,
+        "demPct": 26.9,
+        "repPct": 73.1,
+        "candidates": [
+          {
+            "name": "Dan Sikes",
+            "party": "dem",
+            "votes": 7542
+          },
+          {
+            "name": "Mark Genda",
+            "party": "rep",
+            "votes": 20495
+          }
+        ]
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Indiana House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66698,
+        "medianAge": 42.6,
+        "totalPopulation": 66859,
+        "collegePct": 17.87,
+        "renterRatePct": 21.22,
+        "race": {
+          "whitePct": 95.1,
+          "nonHispanicWhitePct": 94.26,
+          "blackPct": 0.93,
+          "asianPct": 0.3,
+          "hispanicPct": 1.84
+        }
+      },
+      "election": {
+        "districtId": "in-hd-42",
+        "winner": "Alan Morrison",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 24611,
+        "totalVotes": 24611,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Alan Morrison",
+            "party": "rep",
+            "votes": 24611
+          }
+        ]
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Indiana House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43922,
+        "medianAge": 32.8,
+        "totalPopulation": 67384,
+        "collegePct": 24.07,
+        "renterRatePct": 42.6,
+        "race": {
+          "whitePct": 83.21,
+          "nonHispanicWhitePct": 82.51,
+          "blackPct": 6.73,
+          "asianPct": 1.84,
+          "hispanicPct": 3.28
+        }
+      },
+      "election": {
+        "districtId": "in-hd-43",
+        "winner": "Tonya Pfaff",
+        "winnerParty": "dem",
+        "demVotes": 16847,
+        "repVotes": 0,
+        "totalVotes": 16847,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Tonya Pfaff",
+            "party": "dem",
+            "votes": 16847
+          }
+        ]
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Indiana House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70248,
+        "medianAge": 38.9,
+        "totalPopulation": 68048,
+        "collegePct": 19.68,
+        "renterRatePct": 25.47,
+        "race": {
+          "whitePct": 90.6,
+          "nonHispanicWhitePct": 89.62,
+          "blackPct": 2.22,
+          "asianPct": 1.07,
+          "hispanicPct": 4.28
+        }
+      },
+      "election": {
+        "districtId": "in-hd-44",
+        "winner": "Beau Baird",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 24061,
+        "totalVotes": 24061,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Beau Baird",
+            "party": "rep",
+            "votes": 24061
+          }
+        ]
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Indiana House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57712,
+        "medianAge": 42.1,
+        "totalPopulation": 67863,
+        "collegePct": 14.57,
+        "renterRatePct": 24.18,
+        "race": {
+          "whitePct": 94.1,
+          "nonHispanicWhitePct": 93.65,
+          "blackPct": 1.25,
+          "asianPct": 0.38,
+          "hispanicPct": 1.73
+        }
+      },
+      "election": {
+        "districtId": "in-hd-45",
+        "winner": "Bruce Borders",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 23309,
+        "totalVotes": 23309,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Bruce Borders",
+            "party": "rep",
+            "votes": 23309
+          }
+        ]
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Indiana House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70630,
+        "medianAge": 41,
+        "totalPopulation": 68394,
+        "collegePct": 26.86,
+        "renterRatePct": 22.13,
+        "race": {
+          "whitePct": 91.23,
+          "nonHispanicWhitePct": 90.53,
+          "blackPct": 3,
+          "asianPct": 1.63,
+          "hispanicPct": 2.19
+        }
+      },
+      "election": {
+        "districtId": "in-hd-46",
+        "winner": "Bob Heaton",
+        "winnerParty": "rep",
+        "demVotes": 9847,
+        "repVotes": 20852,
+        "totalVotes": 30699,
+        "demPct": 32.08,
+        "repPct": 67.92,
+        "candidates": [
+          {
+            "name": "Kurtis J Cummings",
+            "party": "dem",
+            "votes": 9847
+          },
+          {
+            "name": "Bob Heaton",
+            "party": "rep",
+            "votes": 20852
+          }
+        ]
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Indiana House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81300,
+        "medianAge": 38.8,
+        "totalPopulation": 69169,
+        "collegePct": 26.42,
+        "renterRatePct": 24.14,
+        "race": {
+          "whitePct": 92.59,
+          "nonHispanicWhitePct": 92.02,
+          "blackPct": 2.06,
+          "asianPct": 1.53,
+          "hispanicPct": 2.17
+        }
+      },
+      "election": {
+        "districtId": "in-hd-47",
+        "winner": "Robb Greene",
+        "winnerParty": "rep",
+        "demVotes": 8402,
+        "repVotes": 23888,
+        "totalVotes": 32290,
+        "demPct": 26.02,
+        "repPct": 73.98,
+        "candidates": [
+          {
+            "name": "Michael E Potter",
+            "party": "dem",
+            "votes": 8402
+          },
+          {
+            "name": "Robb Greene",
+            "party": "rep",
+            "votes": 23888
+          }
+        ]
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Indiana House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61858,
+        "medianAge": 39.1,
+        "totalPopulation": 67781,
+        "collegePct": 21.23,
+        "renterRatePct": 31.19,
+        "race": {
+          "whitePct": 77.43,
+          "nonHispanicWhitePct": 72.97,
+          "blackPct": 4.49,
+          "asianPct": 1.56,
+          "hispanicPct": 15.91
+        }
+      },
+      "election": {
+        "districtId": "in-hd-48",
+        "winner": "Doug Miller",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 18878,
+        "totalVotes": 18878,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Doug Miller",
+            "party": "rep",
+            "votes": 18878
+          }
+        ]
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Indiana House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73893,
+        "medianAge": 33.3,
+        "totalPopulation": 67650,
+        "collegePct": 23.39,
+        "renterRatePct": 26.2,
+        "race": {
+          "whitePct": 78.3,
+          "nonHispanicWhitePct": 73.57,
+          "blackPct": 2.09,
+          "asianPct": 0.99,
+          "hispanicPct": 20.4
+        }
+      },
+      "election": {
+        "districtId": "in-hd-49",
+        "winner": "Joanna King",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 17915,
+        "totalVotes": 17915,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Joanna King",
+            "party": "rep",
+            "votes": 17915
+          }
+        ]
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Indiana House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65318,
+        "medianAge": 41.7,
+        "totalPopulation": 67434,
+        "collegePct": 22.2,
+        "renterRatePct": 21.65,
+        "race": {
+          "whitePct": 94.54,
+          "nonHispanicWhitePct": 93.05,
+          "blackPct": 0.92,
+          "asianPct": 0.52,
+          "hispanicPct": 3.03
+        }
+      },
+      "election": {
+        "districtId": "in-hd-50",
+        "winner": "Lorissa Sweet",
+        "winnerParty": "rep",
+        "demVotes": 7136,
+        "repVotes": 23785,
+        "totalVotes": 30921,
+        "demPct": 23.08,
+        "repPct": 76.92,
+        "candidates": [
+          {
+            "name": "Joe Swisher",
+            "party": "dem",
+            "votes": 7136
+          },
+          {
+            "name": "Lorissa Sweet",
+            "party": "rep",
+            "votes": 23785
+          }
+        ]
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Indiana House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76186,
+        "medianAge": 36.7,
+        "totalPopulation": 69030,
+        "collegePct": 17.59,
+        "renterRatePct": 19.63,
+        "race": {
+          "whitePct": 93.82,
+          "nonHispanicWhitePct": 92.68,
+          "blackPct": 0.57,
+          "asianPct": 0.11,
+          "hispanicPct": 4.5
+        }
+      },
+      "election": {
+        "districtId": "in-hd-51",
+        "winner": "Tony Isa",
+        "winnerParty": "rep",
+        "demVotes": 5764,
+        "repVotes": 16777,
+        "totalVotes": 22541,
+        "demPct": 25.57,
+        "repPct": 74.43,
+        "candidates": [
+          {
+            "name": "Judy Rowe",
+            "party": "dem",
+            "votes": 5764
+          },
+          {
+            "name": "Tony Isa",
+            "party": "rep",
+            "votes": 16777
+          }
+        ]
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Indiana House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70031,
+        "medianAge": 39.4,
+        "totalPopulation": 67763,
+        "collegePct": 19.4,
+        "renterRatePct": 21.13,
+        "race": {
+          "whitePct": 93.8,
+          "nonHispanicWhitePct": 92.5,
+          "blackPct": 0.19,
+          "asianPct": 0.69,
+          "hispanicPct": 4.03
+        }
+      },
+      "election": {
+        "districtId": "in-hd-52",
+        "winner": "Ben Smaltz",
+        "winnerParty": "rep",
+        "demVotes": 6750,
+        "repVotes": 22279,
+        "totalVotes": 29029,
+        "demPct": 23.25,
+        "repPct": 76.75,
+        "candidates": [
+          {
+            "name": "Walt Sorg",
+            "party": "dem",
+            "votes": 6750
+          },
+          {
+            "name": "Ben Smaltz",
+            "party": "rep",
+            "votes": 22279
+          }
+        ]
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Indiana House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87823,
+        "medianAge": 40.7,
+        "totalPopulation": 69645,
+        "collegePct": 29.78,
+        "renterRatePct": 22.29,
+        "race": {
+          "whitePct": 91.62,
+          "nonHispanicWhitePct": 90.99,
+          "blackPct": 2.23,
+          "asianPct": 0.88,
+          "hispanicPct": 2.82
+        }
+      },
+      "election": {
+        "districtId": "in-hd-53",
+        "winner": "Ethan J. Lawson",
+        "winnerParty": "rep",
+        "demVotes": 10281,
+        "repVotes": 24454,
+        "totalVotes": 34735,
+        "demPct": 29.6,
+        "repPct": 70.4,
+        "candidates": [
+          {
+            "name": "Nate Anderson",
+            "party": "dem",
+            "votes": 10281
+          },
+          {
+            "name": "Ethan J. Lawson",
+            "party": "rep",
+            "votes": 24454
+          }
+        ]
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Indiana House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62114,
+        "medianAge": 42.5,
+        "totalPopulation": 66718,
+        "collegePct": 16.48,
+        "renterRatePct": 24.58,
+        "race": {
+          "whitePct": 93.97,
+          "nonHispanicWhitePct": 93.22,
+          "blackPct": 1.88,
+          "asianPct": 0.4,
+          "hispanicPct": 1.92
+        }
+      },
+      "election": {
+        "districtId": "in-hd-54",
+        "winner": "Cory Criswell",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 24738,
+        "totalVotes": 24738,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Cory Criswell",
+            "party": "rep",
+            "votes": 24738
+          }
+        ]
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Indiana House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68632,
+        "medianAge": 42.8,
+        "totalPopulation": 66915,
+        "collegePct": 19.46,
+        "renterRatePct": 22.69,
+        "race": {
+          "whitePct": 95.04,
+          "nonHispanicWhitePct": 94.36,
+          "blackPct": 0.51,
+          "asianPct": 0.42,
+          "hispanicPct": 1.81
+        }
+      },
+      "election": {
+        "districtId": "in-hd-55",
+        "winner": "Lindsay Patterson",
+        "winnerParty": "rep",
+        "demVotes": 6016,
+        "repVotes": 24820,
+        "totalVotes": 30836,
+        "demPct": 19.51,
+        "repPct": 80.49,
+        "candidates": [
+          {
+            "name": "Victoria C Martz",
+            "party": "dem",
+            "votes": 6016
+          },
+          {
+            "name": "Lindsay Patterson",
+            "party": "rep",
+            "votes": 24820
+          }
+        ]
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Indiana House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56937,
+        "medianAge": 40.9,
+        "totalPopulation": 67287,
+        "collegePct": 20.14,
+        "renterRatePct": 30.09,
+        "race": {
+          "whitePct": 87.12,
+          "nonHispanicWhitePct": 86.32,
+          "blackPct": 4.07,
+          "asianPct": 1.04,
+          "hispanicPct": 3.76
+        }
+      },
+      "election": {
+        "districtId": "in-hd-56",
+        "winner": "Bradford Barrett",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 20218,
+        "totalVotes": 20218,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Bradford Barrett",
+            "party": "rep",
+            "votes": 20218
+          }
+        ]
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Indiana House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91605,
+        "medianAge": 40.3,
+        "totalPopulation": 70721,
+        "collegePct": 32.46,
+        "renterRatePct": 23.26,
+        "race": {
+          "whitePct": 86.5,
+          "nonHispanicWhitePct": 85.36,
+          "blackPct": 3.82,
+          "asianPct": 3.57,
+          "hispanicPct": 3.84
+        }
+      },
+      "election": {
+        "districtId": "in-hd-57",
+        "winner": "Craig Haggard",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 22413,
+        "totalVotes": 22413,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Craig Haggard",
+            "party": "rep",
+            "votes": 22413
+          }
+        ]
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Indiana House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81509,
+        "medianAge": 36.4,
+        "totalPopulation": 69015,
+        "collegePct": 29.83,
+        "renterRatePct": 33.1,
+        "race": {
+          "whitePct": 79.67,
+          "nonHispanicWhitePct": 77.52,
+          "blackPct": 4.94,
+          "asianPct": 6.65,
+          "hispanicPct": 6.8
+        }
+      },
+      "election": {
+        "districtId": "in-hd-58",
+        "winner": "Michelle Davis",
+        "winnerParty": "rep",
+        "demVotes": 9051,
+        "repVotes": 18731,
+        "totalVotes": 27782,
+        "demPct": 32.58,
+        "repPct": 67.42,
+        "candidates": [
+          {
+            "name": "Sandy James",
+            "party": "dem",
+            "votes": 9051
+          },
+          {
+            "name": "Michelle Davis",
+            "party": "rep",
+            "votes": 18731
+          }
+        ]
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Indiana House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79413,
+        "medianAge": 37.3,
+        "totalPopulation": 68486,
+        "collegePct": 37.64,
+        "renterRatePct": 32.54,
+        "race": {
+          "whitePct": 77.46,
+          "nonHispanicWhitePct": 74.98,
+          "blackPct": 1.9,
+          "asianPct": 8.93,
+          "hispanicPct": 10.04
+        }
+      },
+      "election": {
+        "districtId": "in-hd-59",
+        "winner": "Ryan Lauer",
+        "winnerParty": "rep",
+        "demVotes": 9711,
+        "repVotes": 17151,
+        "totalVotes": 26862,
+        "demPct": 36.15,
+        "repPct": 63.85,
+        "candidates": [
+          {
+            "name": "Ross Thomas",
+            "party": "dem",
+            "votes": 9711
+          },
+          {
+            "name": "Ryan Lauer",
+            "party": "rep",
+            "votes": 17151
+          }
+        ]
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Indiana House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87083,
+        "medianAge": 41.9,
+        "totalPopulation": 66661,
+        "collegePct": 27.23,
+        "renterRatePct": 14.16,
+        "race": {
+          "whitePct": 95.23,
+          "nonHispanicWhitePct": 94.76,
+          "blackPct": 0.48,
+          "asianPct": 0.78,
+          "hispanicPct": 1.64
+        }
+      },
+      "election": {
+        "districtId": "in-hd-60",
+        "winner": "Peggy Mayfield",
+        "winnerParty": "rep",
+        "demVotes": 8274,
+        "repVotes": 25764,
+        "totalVotes": 34038,
+        "demPct": 24.31,
+        "repPct": 75.69,
+        "candidates": [
+          {
+            "name": "Michelle Higgs",
+            "party": "dem",
+            "votes": 8274
+          },
+          {
+            "name": "Peggy Mayfield",
+            "party": "rep",
+            "votes": 25764
+          }
+        ]
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Indiana House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44201,
+        "medianAge": 23.7,
+        "totalPopulation": 67188,
+        "collegePct": 60.53,
+        "renterRatePct": 69.65,
+        "race": {
+          "whitePct": 77.67,
+          "nonHispanicWhitePct": 75.32,
+          "blackPct": 4.83,
+          "asianPct": 10.14,
+          "hispanicPct": 5.52
+        }
+      },
+      "election": {
+        "districtId": "in-hd-61",
+        "winner": "Matt Pierce",
+        "winnerParty": "dem",
+        "demVotes": 17018,
+        "repVotes": 0,
+        "totalVotes": 17018,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Matt Pierce",
+            "party": "dem",
+            "votes": 17018
+          }
+        ]
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Indiana House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80889,
+        "medianAge": 43.6,
+        "totalPopulation": 69696,
+        "collegePct": 39.47,
+        "renterRatePct": 22.41,
+        "race": {
+          "whitePct": 88.57,
+          "nonHispanicWhitePct": 87.39,
+          "blackPct": 2.4,
+          "asianPct": 3.41,
+          "hispanicPct": 4.28
+        }
+      },
+      "election": {
+        "districtId": "in-hd-62",
+        "winner": "Dave Hall",
+        "winnerParty": "rep",
+        "demVotes": 17586,
+        "repVotes": 18395,
+        "totalVotes": 35981,
+        "demPct": 48.88,
+        "repPct": 51.12,
+        "candidates": [
+          {
+            "name": "Thomas Horrocks",
+            "party": "dem",
+            "votes": 17586
+          },
+          {
+            "name": "Dave Hall",
+            "party": "rep",
+            "votes": 18395
+          }
+        ]
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Indiana House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69617,
+        "medianAge": 37.5,
+        "totalPopulation": 68120,
+        "collegePct": 19.28,
+        "renterRatePct": 26.67,
+        "race": {
+          "whitePct": 91.65,
+          "nonHispanicWhitePct": 89.59,
+          "blackPct": 1.04,
+          "asianPct": 0.51,
+          "hispanicPct": 5.6
+        }
+      },
+      "election": {
+        "districtId": "in-hd-63",
+        "winner": "Shane M. Lindauer",
+        "winnerParty": "rep",
+        "demVotes": 6710,
+        "repVotes": 21652,
+        "totalVotes": 28362,
+        "demPct": 23.66,
+        "repPct": 76.34,
+        "candidates": [
+          {
+            "name": "Teresa Kendall",
+            "party": "dem",
+            "votes": 6710
+          },
+          {
+            "name": "Shane M. Lindauer",
+            "party": "rep",
+            "votes": 21652
+          }
+        ]
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Indiana House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70485,
+        "medianAge": 40.3,
+        "totalPopulation": 67227,
+        "collegePct": 22.98,
+        "renterRatePct": 25.93,
+        "race": {
+          "whitePct": 91.29,
+          "nonHispanicWhitePct": 90.89,
+          "blackPct": 1.95,
+          "asianPct": 0.78,
+          "hispanicPct": 2.46
+        }
+      },
+      "election": {
+        "districtId": "in-hd-64",
+        "winner": "Matt Hostettler",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 26027,
+        "totalVotes": 26027,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Matt Hostettler",
+            "party": "rep",
+            "votes": 26027
+          }
+        ]
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Indiana House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65213,
+        "medianAge": 43.2,
+        "totalPopulation": 68110,
+        "collegePct": 18.18,
+        "renterRatePct": 20.24,
+        "race": {
+          "whitePct": 94.42,
+          "nonHispanicWhitePct": 93.95,
+          "blackPct": 0.7,
+          "asianPct": 0.52,
+          "hispanicPct": 1.77
+        }
+      },
+      "election": {
+        "districtId": "in-hd-65",
+        "winner": "Chris D. May",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 24786,
+        "totalVotes": 24786,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Chris D. May",
+            "party": "rep",
+            "votes": 24786
+          }
+        ]
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "Indiana House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74758,
+        "medianAge": 39.3,
+        "totalPopulation": 68457,
+        "collegePct": 23.49,
+        "renterRatePct": 19.63,
+        "race": {
+          "whitePct": 90.9,
+          "nonHispanicWhitePct": 89.7,
+          "blackPct": 1.91,
+          "asianPct": 0.79,
+          "hispanicPct": 3.75
+        }
+      },
+      "election": {
+        "districtId": "in-hd-66",
+        "winner": "Zach Payne",
+        "winnerParty": "rep",
+        "demVotes": 9926,
+        "repVotes": 22507,
+        "totalVotes": 32433,
+        "demPct": 30.6,
+        "repPct": 69.4,
+        "candidates": [
+          {
+            "name": "Jennifer David",
+            "party": "dem",
+            "votes": 9926
+          },
+          {
+            "name": "Zach Payne",
+            "party": "rep",
+            "votes": 22507
+          }
+        ]
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "Indiana House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66340,
+        "medianAge": 41.8,
+        "totalPopulation": 68933,
+        "collegePct": 17.19,
+        "renterRatePct": 25.39,
+        "race": {
+          "whitePct": 94.67,
+          "nonHispanicWhitePct": 93.72,
+          "blackPct": 0.72,
+          "asianPct": 0.66,
+          "hispanicPct": 2.28
+        }
+      },
+      "election": {
+        "districtId": "in-hd-67",
+        "winner": "Alex Zimmerman",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 25408,
+        "totalVotes": 25408,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Alex Zimmerman",
+            "party": "rep",
+            "votes": 25408
+          }
+        ]
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "Indiana House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77761,
+        "medianAge": 42.1,
+        "totalPopulation": 67826,
+        "collegePct": 22.81,
+        "renterRatePct": 17,
+        "race": {
+          "whitePct": 95.21,
+          "nonHispanicWhitePct": 94.61,
+          "blackPct": 0.24,
+          "asianPct": 0.61,
+          "hispanicPct": 1.31
+        }
+      },
+      "election": {
+        "districtId": "in-hd-68",
+        "winner": "Garrett R. Bascom",
+        "winnerParty": "rep",
+        "demVotes": 6970,
+        "repVotes": 26983,
+        "totalVotes": 33953,
+        "demPct": 20.53,
+        "repPct": 79.47,
+        "candidates": [
+          {
+            "name": "Lisa Barker",
+            "party": "dem",
+            "votes": 6970
+          },
+          {
+            "name": "Garrett R. Bascom",
+            "party": "rep",
+            "votes": 26983
+          }
+        ]
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "Indiana House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65226,
+        "medianAge": 39.5,
+        "totalPopulation": 68338,
+        "collegePct": 17.42,
+        "renterRatePct": 26.07,
+        "race": {
+          "whitePct": 86.75,
+          "nonHispanicWhitePct": 85.98,
+          "blackPct": 0.78,
+          "asianPct": 1.52,
+          "hispanicPct": 9.41
+        }
+      },
+      "election": {
+        "districtId": "in-hd-69",
+        "winner": "Jim Lucas",
+        "winnerParty": "rep",
+        "demVotes": 8410,
+        "repVotes": 18438,
+        "totalVotes": 26848,
+        "demPct": 31.32,
+        "repPct": 68.68,
+        "candidates": [
+          {
+            "name": "Trish Whitcomb",
+            "party": "dem",
+            "votes": 8410
+          },
+          {
+            "name": "Jim Lucas",
+            "party": "rep",
+            "votes": 18438
+          }
+        ]
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "Indiana House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79578,
+        "medianAge": 42.5,
+        "totalPopulation": 67788,
+        "collegePct": 25.17,
+        "renterRatePct": 13.11,
+        "race": {
+          "whitePct": 95.35,
+          "nonHispanicWhitePct": 94.52,
+          "blackPct": 0.87,
+          "asianPct": 0.61,
+          "hispanicPct": 2.05
+        }
+      },
+      "election": {
+        "districtId": "in-hd-70",
+        "winner": "Karen Engleman",
+        "winnerParty": "rep",
+        "demVotes": 9325,
+        "repVotes": 25765,
+        "totalVotes": 35090,
+        "demPct": 26.57,
+        "repPct": 73.43,
+        "candidates": [
+          {
+            "name": "Sarah Blessing",
+            "party": "dem",
+            "votes": 9325
+          },
+          {
+            "name": "Karen Engleman",
+            "party": "rep",
+            "votes": 25765
+          }
+        ]
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "Indiana House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62976,
+        "medianAge": 39.5,
+        "totalPopulation": 68805,
+        "collegePct": 22.66,
+        "renterRatePct": 33.27,
+        "race": {
+          "whitePct": 76.83,
+          "nonHispanicWhitePct": 72.31,
+          "blackPct": 11.2,
+          "asianPct": 1.2,
+          "hispanicPct": 9.59
+        }
+      },
+      "election": {
+        "districtId": "in-hd-71",
+        "winner": "Wendy Dant Chesser",
+        "winnerParty": "dem",
+        "demVotes": 14413,
+        "repVotes": 13537,
+        "totalVotes": 27950,
+        "demPct": 51.57,
+        "repPct": 48.43,
+        "candidates": [
+          {
+            "name": "Wendy Dant Chesser",
+            "party": "dem",
+            "votes": 14413
+          },
+          {
+            "name": "Gregory T (Greg) Hertzsch",
+            "party": "ind",
+            "votes": 1123
+          },
+          {
+            "name": "Scott Hawkins",
+            "party": "rep",
+            "votes": 13537
+          }
+        ]
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "Indiana House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75780,
+        "medianAge": 40.3,
+        "totalPopulation": 68351,
+        "collegePct": 30.82,
+        "renterRatePct": 29.52,
+        "race": {
+          "whitePct": 86.37,
+          "nonHispanicWhitePct": 85.33,
+          "blackPct": 5.32,
+          "asianPct": 1.29,
+          "hispanicPct": 3.94
+        }
+      },
+      "election": {
+        "districtId": "in-hd-72",
+        "winner": "Edward D. (Ed) Clere",
+        "winnerParty": "rep",
+        "demVotes": 14553,
+        "repVotes": 19507,
+        "totalVotes": 34060,
+        "demPct": 42.73,
+        "repPct": 57.27,
+        "candidates": [
+          {
+            "name": "Jason Applegate",
+            "party": "dem",
+            "votes": 14553
+          },
+          {
+            "name": "Edward D. (Ed) Clere",
+            "party": "rep",
+            "votes": 19507
+          }
+        ]
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "Indiana House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70862,
+        "medianAge": 38.8,
+        "totalPopulation": 68078,
+        "collegePct": 18.69,
+        "renterRatePct": 26.14,
+        "race": {
+          "whitePct": 91.46,
+          "nonHispanicWhitePct": 89.95,
+          "blackPct": 1.19,
+          "asianPct": 0.74,
+          "hispanicPct": 5
+        }
+      },
+      "election": {
+        "districtId": "in-hd-73",
+        "winner": "Jennifer Meltzer",
+        "winnerParty": "rep",
+        "demVotes": 6284,
+        "repVotes": 20900,
+        "totalVotes": 27184,
+        "demPct": 23.12,
+        "repPct": 76.88,
+        "candidates": [
+          {
+            "name": "Hollie Payton",
+            "party": "dem",
+            "votes": 6284
+          },
+          {
+            "name": "Jennifer Meltzer",
+            "party": "rep",
+            "votes": 20900
+          }
+        ]
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "Indiana House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64919,
+        "medianAge": 42.3,
+        "totalPopulation": 68615,
+        "collegePct": 18.37,
+        "renterRatePct": 20.38,
+        "race": {
+          "whitePct": 91.93,
+          "nonHispanicWhitePct": 90.85,
+          "blackPct": 1.65,
+          "asianPct": 0.3,
+          "hispanicPct": 5.3
+        }
+      },
+      "election": {
+        "districtId": "in-hd-74",
+        "winner": "Stephen R. Bartels",
+        "winnerParty": "rep",
+        "demVotes": 9944,
+        "repVotes": 21681,
+        "totalVotes": 31625,
+        "demPct": 31.44,
+        "repPct": 68.56,
+        "candidates": [
+          {
+            "name": "Bob Compton",
+            "party": "dem",
+            "votes": 9944
+          },
+          {
+            "name": "Stephen R. Bartels",
+            "party": "rep",
+            "votes": 21681
+          }
+        ]
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "Indiana House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85491,
+        "medianAge": 41.1,
+        "totalPopulation": 68972,
+        "collegePct": 30.21,
+        "renterRatePct": 17.05,
+        "race": {
+          "whitePct": 92.33,
+          "nonHispanicWhitePct": 91.77,
+          "blackPct": 1.81,
+          "asianPct": 1.35,
+          "hispanicPct": 1.64
+        }
+      },
+      "election": {
+        "districtId": "in-hd-75",
+        "winner": "Cindy Ledbetter",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 26617,
+        "totalVotes": 26617,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Cindy Ledbetter",
+            "party": "rep",
+            "votes": 26617
+          }
+        ]
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "Indiana House District 76",
+      "census": {
+        "censusName": "State House District 76 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67778,
+        "medianAge": 39.8,
+        "totalPopulation": 67028,
+        "collegePct": 26.02,
+        "renterRatePct": 25.37,
+        "race": {
+          "whitePct": 92.83,
+          "nonHispanicWhitePct": 92.05,
+          "blackPct": 1.55,
+          "asianPct": 0.85,
+          "hispanicPct": 2.04
+        }
+      },
+      "election": {
+        "districtId": "in-hd-76",
+        "winner": "Wendy (Mac) McNamara",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 25585,
+        "totalVotes": 25585,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Wendy (Mac) McNamara",
+            "party": "rep",
+            "votes": 25585
+          }
+        ]
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "Indiana House District 77",
+      "census": {
+        "censusName": "State House District 77 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50637,
+        "medianAge": 36.5,
+        "totalPopulation": 69079,
+        "collegePct": 21.24,
+        "renterRatePct": 48.88,
+        "race": {
+          "whitePct": 71.55,
+          "nonHispanicWhitePct": 70.2,
+          "blackPct": 18.98,
+          "asianPct": 1.06,
+          "hispanicPct": 3.79
+        }
+      },
+      "election": {
+        "districtId": "in-hd-77",
+        "winner": "Alex Burton",
+        "winnerParty": "dem",
+        "demVotes": 14395,
+        "repVotes": 0,
+        "totalVotes": 14395,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Alex Burton",
+            "party": "dem",
+            "votes": 14395
+          }
+        ]
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "Indiana House District 78",
+      "census": {
+        "censusName": "State House District 78 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73084,
+        "medianAge": 42.5,
+        "totalPopulation": 67357,
+        "collegePct": 33.32,
+        "renterRatePct": 28.05,
+        "race": {
+          "whitePct": 85.05,
+          "nonHispanicWhitePct": 83.25,
+          "blackPct": 5.3,
+          "asianPct": 1.9,
+          "hispanicPct": 5.01
+        }
+      },
+      "election": {
+        "districtId": "in-hd-78",
+        "winner": "Tim O'Brien",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 24110,
+        "totalVotes": 24110,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Tim O'Brien",
+            "party": "rep",
+            "votes": 24110
+          }
+        ]
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "Indiana House District 79",
+      "census": {
+        "censusName": "State House District 79 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64619,
+        "medianAge": 36.7,
+        "totalPopulation": 67092,
+        "collegePct": 16.42,
+        "renterRatePct": 20.41,
+        "race": {
+          "whitePct": 93.78,
+          "nonHispanicWhitePct": 92.74,
+          "blackPct": 0.66,
+          "asianPct": 0.27,
+          "hispanicPct": 4.23
+        }
+      },
+      "election": {
+        "districtId": "in-hd-79",
+        "winner": "Matthew S. Lehman",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 23426,
+        "totalVotes": 23426,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Matthew S. Lehman",
+            "party": "rep",
+            "votes": 23426
+          }
+        ]
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "Indiana House District 80",
+      "census": {
+        "censusName": "State House District 80 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49058,
+        "medianAge": 32.4,
+        "totalPopulation": 67839,
+        "collegePct": 14.89,
+        "renterRatePct": 45.59,
+        "race": {
+          "whitePct": 41.93,
+          "nonHispanicWhitePct": 37.12,
+          "blackPct": 27.08,
+          "asianPct": 10.88,
+          "hispanicPct": 18.96
+        }
+      },
+      "election": {
+        "districtId": "in-hd-80",
+        "winner": "Phil GiaQuinta",
+        "winnerParty": "dem",
+        "demVotes": 13519,
+        "repVotes": 0,
+        "totalVotes": 13519,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Phil GiaQuinta",
+            "party": "dem",
+            "votes": 13519
+          }
+        ]
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "Indiana House District 81",
+      "census": {
+        "censusName": "State House District 81 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84840,
+        "medianAge": 36.5,
+        "totalPopulation": 68235,
+        "collegePct": 36.24,
+        "renterRatePct": 23.7,
+        "race": {
+          "whitePct": 79.39,
+          "nonHispanicWhitePct": 78.33,
+          "blackPct": 5.67,
+          "asianPct": 6.4,
+          "hispanicPct": 5
+        }
+      },
+      "election": {
+        "districtId": "in-hd-81",
+        "winner": "Martin Carbaugh",
+        "winnerParty": "rep",
+        "demVotes": 11332,
+        "repVotes": 20913,
+        "totalVotes": 32245,
+        "demPct": 35.14,
+        "repPct": 64.86,
+        "candidates": [
+          {
+            "name": "Abby Norden",
+            "party": "dem",
+            "votes": 11332
+          },
+          {
+            "name": "Martin Carbaugh",
+            "party": "rep",
+            "votes": 20913
+          }
+        ]
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "Indiana House District 82",
+      "census": {
+        "censusName": "State House District 82 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46203,
+        "medianAge": 33.6,
+        "totalPopulation": 69793,
+        "collegePct": 22.98,
+        "renterRatePct": 49.18,
+        "race": {
+          "whitePct": 65.49,
+          "nonHispanicWhitePct": 62.84,
+          "blackPct": 16.56,
+          "asianPct": 3.16,
+          "hispanicPct": 12.16
+        }
+      },
+      "election": {
+        "districtId": "in-hd-82",
+        "winner": "Kyle Miller",
+        "winnerParty": "dem",
+        "demVotes": 14151,
+        "repVotes": 0,
+        "totalVotes": 14151,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Kyle Miller",
+            "party": "dem",
+            "votes": 14151
+          }
+        ]
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "Indiana House District 83",
+      "census": {
+        "censusName": "State House District 83 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90108,
+        "medianAge": 39.8,
+        "totalPopulation": 68329,
+        "collegePct": 41.77,
+        "renterRatePct": 24.55,
+        "race": {
+          "whitePct": 85.77,
+          "nonHispanicWhitePct": 84.27,
+          "blackPct": 3.33,
+          "asianPct": 3.24,
+          "hispanicPct": 4.21
+        }
+      },
+      "election": {
+        "districtId": "in-hd-83",
+        "winner": "Christopher N. Judy",
+        "winnerParty": "rep",
+        "demVotes": 12426,
+        "repVotes": 22111,
+        "totalVotes": 34537,
+        "demPct": 35.98,
+        "repPct": 64.02,
+        "candidates": [
+          {
+            "name": "Kyle Thele",
+            "party": "dem",
+            "votes": 12426
+          },
+          {
+            "name": "Christopher N. Judy",
+            "party": "rep",
+            "votes": 22111
+          }
+        ]
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "Indiana House District 84",
+      "census": {
+        "censusName": "State House District 84 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76516,
+        "medianAge": 37.8,
+        "totalPopulation": 66974,
+        "collegePct": 38.36,
+        "renterRatePct": 24.81,
+        "race": {
+          "whitePct": 78.98,
+          "nonHispanicWhitePct": 77.68,
+          "blackPct": 7.19,
+          "asianPct": 3.48,
+          "hispanicPct": 6.91
+        }
+      },
+      "election": {
+        "districtId": "in-hd-84",
+        "winner": "Bob Morris",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 21927,
+        "totalVotes": 21927,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Bob Morris",
+            "party": "rep",
+            "votes": 21927
+          }
+        ]
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "Indiana House District 85",
+      "census": {
+        "censusName": "State House District 85 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81166,
+        "medianAge": 38.7,
+        "totalPopulation": 67958,
+        "collegePct": 28.42,
+        "renterRatePct": 12.22,
+        "race": {
+          "whitePct": 90.81,
+          "nonHispanicWhitePct": 89.89,
+          "blackPct": 2.21,
+          "asianPct": 1.3,
+          "hispanicPct": 3.78
+        }
+      },
+      "election": {
+        "districtId": "in-hd-85",
+        "winner": "Dave Heine",
+        "winnerParty": "rep",
+        "demVotes": 7970,
+        "repVotes": 23160,
+        "totalVotes": 31130,
+        "demPct": 25.6,
+        "repPct": 74.4,
+        "candidates": [
+          {
+            "name": "Phil Goss",
+            "party": "dem",
+            "votes": 7970
+          },
+          {
+            "name": "Dave Heine",
+            "party": "rep",
+            "votes": 23160
+          }
+        ]
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "Indiana House District 86",
+      "census": {
+        "censusName": "State House District 86 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92210,
+        "medianAge": 37.3,
+        "totalPopulation": 68721,
+        "collegePct": 60.8,
+        "renterRatePct": 35.66,
+        "race": {
+          "whitePct": 65.34,
+          "nonHispanicWhitePct": 63.58,
+          "blackPct": 22.27,
+          "asianPct": 3.13,
+          "hispanicPct": 6.34
+        }
+      },
+      "election": {
+        "districtId": "in-hd-86",
+        "winner": "Edward O. DeLaney",
+        "winnerParty": "dem",
+        "demVotes": 28998,
+        "repVotes": 0,
+        "totalVotes": 28998,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Edward O. DeLaney",
+            "party": "dem",
+            "votes": 28998
+          }
+        ]
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "Indiana House District 87",
+      "census": {
+        "censusName": "State House District 87 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78866,
+        "medianAge": 37.8,
+        "totalPopulation": 66170,
+        "collegePct": 55.78,
+        "renterRatePct": 43.65,
+        "race": {
+          "whitePct": 69.09,
+          "nonHispanicWhitePct": 66.96,
+          "blackPct": 17.86,
+          "asianPct": 2.47,
+          "hispanicPct": 7.93
+        }
+      },
+      "election": {
+        "districtId": "in-hd-87",
+        "winner": "Carey Hamilton",
+        "winnerParty": "dem",
+        "demVotes": 25517,
+        "repVotes": 0,
+        "totalVotes": 25517,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Carey Hamilton",
+            "party": "dem",
+            "votes": 25517
+          }
+        ]
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "Indiana House District 88",
+      "census": {
+        "censusName": "State House District 88 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 130208,
+        "medianAge": 38.8,
+        "totalPopulation": 70087,
+        "collegePct": 57.21,
+        "renterRatePct": 10.76,
+        "race": {
+          "whitePct": 82.4,
+          "nonHispanicWhitePct": 81.75,
+          "blackPct": 6.6,
+          "asianPct": 2.96,
+          "hispanicPct": 4.46
+        }
+      },
+      "election": {
+        "districtId": "in-hd-88",
+        "winner": "Chris Jeter",
+        "winnerParty": "rep",
+        "demVotes": 16838,
+        "repVotes": 23075,
+        "totalVotes": 39913,
+        "demPct": 42.19,
+        "repPct": 57.81,
+        "candidates": [
+          {
+            "name": "Stephanie Jo Yocum",
+            "party": "dem",
+            "votes": 16838
+          },
+          {
+            "name": "Chris Jeter",
+            "party": "rep",
+            "votes": 23075
+          }
+        ]
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "Indiana House District 89",
+      "census": {
+        "censusName": "State House District 89 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65190,
+        "medianAge": 34.6,
+        "totalPopulation": 64978,
+        "collegePct": 22.09,
+        "renterRatePct": 29.4,
+        "race": {
+          "whitePct": 59.43,
+          "nonHispanicWhitePct": 53.75,
+          "blackPct": 25.25,
+          "asianPct": 1.58,
+          "hispanicPct": 14.42
+        }
+      },
+      "election": {
+        "districtId": "in-hd-89",
+        "winner": "Mitch Gore",
+        "winnerParty": "dem",
+        "demVotes": 12948,
+        "repVotes": 10240,
+        "totalVotes": 23188,
+        "demPct": 55.84,
+        "repPct": 44.16,
+        "candidates": [
+          {
+            "name": "Mitch Gore",
+            "party": "dem",
+            "votes": 12948
+          },
+          {
+            "name": "Yvonne Metcalfe",
+            "party": "rep",
+            "votes": 10240
+          }
+        ]
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "Indiana House District 90",
+      "census": {
+        "censusName": "State House District 90 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98235,
+        "medianAge": 36.2,
+        "totalPopulation": 67342,
+        "collegePct": 40.62,
+        "renterRatePct": 20.34,
+        "race": {
+          "whitePct": 74.59,
+          "nonHispanicWhitePct": 72.28,
+          "blackPct": 4.83,
+          "asianPct": 11.74,
+          "hispanicPct": 6.43
+        }
+      },
+      "election": {
+        "districtId": "in-hd-90",
+        "winner": "Andrew Ireland",
+        "winnerParty": "rep",
+        "demVotes": 11124,
+        "repVotes": 19450,
+        "totalVotes": 30574,
+        "demPct": 36.38,
+        "repPct": 63.62,
+        "candidates": [
+          {
+            "name": "Dominique Davie",
+            "party": "dem",
+            "votes": 11124
+          },
+          {
+            "name": "Andrew Ireland",
+            "party": "rep",
+            "votes": 19450
+          }
+        ]
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "Indiana House District 91",
+      "census": {
+        "censusName": "State House District 91 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72416,
+        "medianAge": 33.7,
+        "totalPopulation": 70485,
+        "collegePct": 24.99,
+        "renterRatePct": 30.8,
+        "race": {
+          "whitePct": 63.45,
+          "nonHispanicWhitePct": 60.9,
+          "blackPct": 15.28,
+          "asianPct": 9.03,
+          "hispanicPct": 11.13
+        }
+      },
+      "election": {
+        "districtId": "in-hd-91",
+        "winner": "Robert W. Behning",
+        "winnerParty": "rep",
+        "demVotes": 9101,
+        "repVotes": 13723,
+        "totalVotes": 22824,
+        "demPct": 39.87,
+        "repPct": 60.13,
+        "candidates": [
+          {
+            "name": "Andrew Locke",
+            "party": "dem",
+            "votes": 9101
+          },
+          {
+            "name": "Robert W. Behning",
+            "party": "rep",
+            "votes": 13723
+          }
+        ]
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "Indiana House District 92",
+      "census": {
+        "censusName": "State House District 92 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65149,
+        "medianAge": 36.7,
+        "totalPopulation": 68403,
+        "collegePct": 29.57,
+        "renterRatePct": 44.2,
+        "race": {
+          "whitePct": 50.38,
+          "nonHispanicWhitePct": 46.63,
+          "blackPct": 30.98,
+          "asianPct": 1.42,
+          "hispanicPct": 16.78
+        }
+      },
+      "election": {
+        "districtId": "in-hd-92",
+        "winner": "Reneé Pack",
+        "winnerParty": "dem",
+        "demVotes": 13173,
+        "repVotes": 9144,
+        "totalVotes": 22317,
+        "demPct": 59.03,
+        "repPct": 40.97,
+        "candidates": [
+          {
+            "name": "Reneé Pack",
+            "party": "dem",
+            "votes": 13173
+          },
+          {
+            "name": "John L. Couch",
+            "party": "rep",
+            "votes": 9144
+          }
+        ]
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "Indiana House District 93",
+      "census": {
+        "censusName": "State House District 93 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56057,
+        "medianAge": 35.1,
+        "totalPopulation": 68581,
+        "collegePct": 23.48,
+        "renterRatePct": 48.47,
+        "race": {
+          "whitePct": 68.24,
+          "nonHispanicWhitePct": 65.4,
+          "blackPct": 9.03,
+          "asianPct": 12.49,
+          "hispanicPct": 8.25
+        }
+      },
+      "election": {
+        "districtId": "in-hd-93",
+        "winner": "Julie A. McGuire",
+        "winnerParty": "rep",
+        "demVotes": 8258,
+        "repVotes": 13562,
+        "totalVotes": 21820,
+        "demPct": 37.85,
+        "repPct": 62.15,
+        "candidates": [
+          {
+            "name": "Ryan Hughey",
+            "party": "dem",
+            "votes": 8258
+          },
+          {
+            "name": "Julie A. McGuire",
+            "party": "rep",
+            "votes": 13562
+          }
+        ]
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "Indiana House District 94",
+      "census": {
+        "censusName": "State House District 94 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58105,
+        "medianAge": 32.6,
+        "totalPopulation": 66669,
+        "collegePct": 32.01,
+        "renterRatePct": 51.93,
+        "race": {
+          "whitePct": 24.58,
+          "nonHispanicWhitePct": 20.76,
+          "blackPct": 57.01,
+          "asianPct": 2.85,
+          "hispanicPct": 17.72
+        }
+      },
+      "election": {
+        "districtId": "in-hd-94",
+        "winner": "Cherrish S. Pryor",
+        "winnerParty": "dem",
+        "demVotes": 18772,
+        "repVotes": 0,
+        "totalVotes": 18772,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Cherrish S. Pryor",
+            "party": "dem",
+            "votes": 18772
+          }
+        ]
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "Indiana House District 95",
+      "census": {
+        "censusName": "State House District 95 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56922,
+        "medianAge": 31.4,
+        "totalPopulation": 68560,
+        "collegePct": 27.73,
+        "renterRatePct": 47.02,
+        "race": {
+          "whitePct": 37.76,
+          "nonHispanicWhitePct": 32.72,
+          "blackPct": 42.99,
+          "asianPct": 1.27,
+          "hispanicPct": 18.15
+        }
+      },
+      "election": {
+        "districtId": "in-hd-95",
+        "winner": "John L. Bartlett",
+        "winnerParty": "dem",
+        "demVotes": 17901,
+        "repVotes": 0,
+        "totalVotes": 17901,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "John L. Bartlett",
+            "party": "dem",
+            "votes": 17901
+          }
+        ]
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "Indiana House District 96",
+      "census": {
+        "censusName": "State House District 96 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57534,
+        "medianAge": 33.1,
+        "totalPopulation": 68802,
+        "collegePct": 44.77,
+        "renterRatePct": 49.48,
+        "race": {
+          "whitePct": 49,
+          "nonHispanicWhitePct": 46.63,
+          "blackPct": 39.1,
+          "asianPct": 2.32,
+          "hispanicPct": 6.55
+        }
+      },
+      "election": {
+        "districtId": "in-hd-96",
+        "winner": "Gregory W. Porter",
+        "winnerParty": "dem",
+        "demVotes": 25952,
+        "repVotes": 0,
+        "totalVotes": 25952,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Gregory W. Porter",
+            "party": "dem",
+            "votes": 25952
+          }
+        ]
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "Indiana House District 97",
+      "census": {
+        "censusName": "State House District 97 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55803,
+        "medianAge": 30.7,
+        "totalPopulation": 65743,
+        "collegePct": 23.94,
+        "renterRatePct": 53.16,
+        "race": {
+          "whitePct": 62.65,
+          "nonHispanicWhitePct": 55.68,
+          "blackPct": 13.76,
+          "asianPct": 2.78,
+          "hispanicPct": 23.51
+        }
+      },
+      "election": {
+        "districtId": "in-hd-97",
+        "winner": "Justin Moed",
+        "winnerParty": "dem",
+        "demVotes": 8831,
+        "repVotes": 5907,
+        "totalVotes": 14738,
+        "demPct": 59.92,
+        "repPct": 40.08,
+        "candidates": [
+          {
+            "name": "Justin Moed",
+            "party": "dem",
+            "votes": 8831
+          },
+          {
+            "name": "Mark A Renholzberger",
+            "party": "ind",
+            "votes": 429
+          },
+          {
+            "name": "Stephen Whitmer",
+            "party": "rep",
+            "votes": 5907
+          }
+        ]
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "Indiana House District 98",
+      "census": {
+        "censusName": "State House District 98 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44053,
+        "medianAge": 32.7,
+        "totalPopulation": 69198,
+        "collegePct": 15.98,
+        "renterRatePct": 54.75,
+        "race": {
+          "whitePct": 25.61,
+          "nonHispanicWhitePct": 21.34,
+          "blackPct": 58.3,
+          "asianPct": 0.42,
+          "hispanicPct": 14.49
+        }
+      },
+      "election": {
+        "districtId": "in-hd-98",
+        "winner": "Robin Shackleford",
+        "winnerParty": "dem",
+        "demVotes": 14781,
+        "repVotes": 0,
+        "totalVotes": 14781,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Robin Shackleford",
+            "party": "dem",
+            "votes": 14781
+          },
+          {
+            "name": "Elizabeth (Libby) Glass",
+            "party": "ind",
+            "votes": 1817
+          }
+        ]
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "Indiana House District 99",
+      "census": {
+        "censusName": "State House District 99 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50114,
+        "medianAge": 31.2,
+        "totalPopulation": 67069,
+        "collegePct": 25.35,
+        "renterRatePct": 56.06,
+        "race": {
+          "whitePct": 37.93,
+          "nonHispanicWhitePct": 32.47,
+          "blackPct": 38.14,
+          "asianPct": 1.98,
+          "hispanicPct": 22.34
+        }
+      },
+      "election": {
+        "districtId": "in-hd-99",
+        "winner": "Vanessa J. Summers",
+        "winnerParty": "dem",
+        "demVotes": 13661,
+        "repVotes": 3151,
+        "totalVotes": 16812,
+        "demPct": 81.26,
+        "repPct": 18.74,
+        "candidates": [
+          {
+            "name": "Vanessa J. Summers",
+            "party": "dem",
+            "votes": 13661
+          },
+          {
+            "name": "Felipe Rios",
+            "party": "rep",
+            "votes": 3151
+          }
+        ]
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "Indiana House District 100",
+      "census": {
+        "censusName": "State House District 100 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54275,
+        "medianAge": 35.5,
+        "totalPopulation": 67786,
+        "collegePct": 31.58,
+        "renterRatePct": 49.36,
+        "race": {
+          "whitePct": 65.08,
+          "nonHispanicWhitePct": 61.14,
+          "blackPct": 16.57,
+          "asianPct": 1.49,
+          "hispanicPct": 15.77
+        }
+      },
+      "election": {
+        "districtId": "in-hd-100",
+        "winner": "Blake Johnson",
+        "winnerParty": "dem",
+        "demVotes": 16667,
+        "repVotes": 6585,
+        "totalVotes": 23252,
+        "demPct": 71.68,
+        "repPct": 28.32,
+        "candidates": [
+          {
+            "name": "Blake Johnson",
+            "party": "dem",
+            "votes": 16667
+          },
+          {
+            "name": "Joseph Bortka",
+            "party": "rep",
+            "votes": 6585
+          }
+        ]
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Indiana Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84431,
+        "medianAge": 42.7,
+        "totalPopulation": 138194,
+        "collegePct": 32.26,
+        "renterRatePct": 20.25,
+        "race": {
+          "whitePct": 72.79,
+          "nonHispanicWhitePct": 67.92,
+          "blackPct": 11.47,
+          "asianPct": 2.26,
+          "hispanicPct": 15.38
+        }
+      },
+      "election": {
+        "districtId": "in-sd-1",
+        "winner": "Daniel E. Dernulc",
+        "winnerParty": "rep",
+        "demVotes": 21392,
+        "repVotes": 23486,
+        "totalVotes": 44878,
+        "demPct": 47.67,
+        "repPct": 52.33,
+        "candidates": [
+          {
+            "name": "Michael W. Griffin",
+            "party": "dem",
+            "votes": 21392
+          },
+          {
+            "name": "Daniel E. Dernulc",
+            "party": "rep",
+            "votes": 23486
+          }
+        ]
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Indiana Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56831,
+        "medianAge": 38,
+        "totalPopulation": 132793,
+        "collegePct": 20.79,
+        "renterRatePct": 36.99,
+        "race": {
+          "whitePct": 41.78,
+          "nonHispanicWhitePct": 34.59,
+          "blackPct": 22.3,
+          "asianPct": 1.89,
+          "hispanicPct": 39.57
+        }
+      },
+      "election": {
+        "districtId": "in-sd-2",
+        "winner": "Lonnie M. Randolph",
+        "winnerParty": "dem",
+        "demVotes": 27981,
+        "repVotes": 14635,
+        "totalVotes": 42616,
+        "demPct": 65.66,
+        "repPct": 34.34,
+        "candidates": [
+          {
+            "name": "Lonnie M. Randolph",
+            "party": "dem",
+            "votes": 27981
+          },
+          {
+            "name": "Humberto Prado",
+            "party": "rep",
+            "votes": 14635
+          }
+        ]
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Indiana Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49673,
+        "medianAge": 37.6,
+        "totalPopulation": 134863,
+        "collegePct": 17.06,
+        "renterRatePct": 40.64,
+        "race": {
+          "whitePct": 37.06,
+          "nonHispanicWhitePct": 31.88,
+          "blackPct": 49.74,
+          "asianPct": 0.74,
+          "hispanicPct": 14.5
+        }
+      },
+      "election": {
+        "districtId": "in-sd-3",
+        "winner": "Mark Spencer",
+        "winnerParty": "dem",
+        "demVotes": 33401,
+        "repVotes": 12279,
+        "totalVotes": 45680,
+        "demPct": 73.12,
+        "repPct": 26.88,
+        "candidates": [
+          {
+            "name": "Mark Spencer",
+            "party": "dem",
+            "votes": 33401
+          },
+          {
+            "name": "Will Miller",
+            "party": "rep",
+            "votes": 12279
+          }
+        ]
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Indiana Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73719,
+        "medianAge": 40.2,
+        "totalPopulation": 135744,
+        "collegePct": 23.04,
+        "renterRatePct": 26.26,
+        "race": {
+          "whitePct": 77.59,
+          "nonHispanicWhitePct": 72.76,
+          "blackPct": 11.25,
+          "asianPct": 1.01,
+          "hispanicPct": 11.95
+        }
+      },
+      "election": {
+        "districtId": "in-sd-4",
+        "winner": "Rodney Pol Jr.",
+        "winnerParty": "dem",
+        "demVotes": 20295,
+        "repVotes": 18500,
+        "totalVotes": 38795,
+        "demPct": 52.31,
+        "repPct": 47.69,
+        "candidates": [
+          {
+            "name": "Rodney Pol Jr.",
+            "party": "dem",
+            "votes": 20295
+          },
+          {
+            "name": "Jeff Larson",
+            "party": "rep",
+            "votes": 18500
+          }
+        ]
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Indiana Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81594,
+        "medianAge": 41.4,
+        "totalPopulation": 134373,
+        "collegePct": 28.44,
+        "renterRatePct": 21.63,
+        "race": {
+          "whitePct": 88.51,
+          "nonHispanicWhitePct": 85.27,
+          "blackPct": 1.91,
+          "asianPct": 1.21,
+          "hispanicPct": 8.44
+        }
+      },
+      "election": {
+        "districtId": "in-sd-5",
+        "winner": "Ed Charbonneau",
+        "winnerParty": "rep",
+        "demVotes": 22419,
+        "repVotes": 43489,
+        "totalVotes": 65908,
+        "demPct": 34.02,
+        "repPct": 65.98,
+        "candidates": [
+          {
+            "name": "Leslie Nuss Bamesberger",
+            "party": "dem",
+            "votes": 22419
+          },
+          {
+            "name": "Ed Charbonneau",
+            "party": "rep",
+            "votes": 43489
+          }
+        ]
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Indiana Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85301,
+        "medianAge": 40.8,
+        "totalPopulation": 137944,
+        "collegePct": 26.07,
+        "renterRatePct": 15.43,
+        "race": {
+          "whitePct": 86.47,
+          "nonHispanicWhitePct": 83.78,
+          "blackPct": 2.66,
+          "asianPct": 0.95,
+          "hispanicPct": 9.12
+        }
+      },
+      "election": {
+        "districtId": "in-sd-6",
+        "winner": "Rick Niemeyer",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 32366,
+        "totalVotes": 32366,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Rick Niemeyer",
+            "party": "rep",
+            "votes": 32366
+          }
+        ]
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Indiana Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81842,
+        "medianAge": 37.8,
+        "totalPopulation": 140345,
+        "collegePct": 30.9,
+        "renterRatePct": 20.68,
+        "race": {
+          "whitePct": 87.71,
+          "nonHispanicWhitePct": 85.66,
+          "blackPct": 2,
+          "asianPct": 1.16,
+          "hispanicPct": 8.15
+        }
+      },
+      "election": {
+        "districtId": "in-sd-7",
+        "winner": "Brian W. Buchanan",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 49168,
+        "totalVotes": 49168,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Brian W. Buchanan",
+            "party": "rep",
+            "votes": 49168
+          }
+        ]
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Indiana Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71373,
+        "medianAge": 41.3,
+        "totalPopulation": 134567,
+        "collegePct": 20.59,
+        "renterRatePct": 19.92,
+        "race": {
+          "whitePct": 89.98,
+          "nonHispanicWhitePct": 87.27,
+          "blackPct": 1.28,
+          "asianPct": 0.44,
+          "hispanicPct": 6.93
+        }
+      },
+      "election": {
+        "districtId": "in-sd-8",
+        "winner": "Mike Bohacek",
+        "winnerParty": "rep",
+        "demVotes": 16782,
+        "repVotes": 42545,
+        "totalVotes": 59327,
+        "demPct": 28.29,
+        "repPct": 71.71,
+        "candidates": [
+          {
+            "name": "Leon P Smith",
+            "party": "dem",
+            "votes": 16782
+          },
+          {
+            "name": "Mike Bohacek",
+            "party": "rep",
+            "votes": 42545
+          }
+        ]
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Indiana Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69435,
+        "medianAge": 36.4,
+        "totalPopulation": 133920,
+        "collegePct": 24.19,
+        "renterRatePct": 29.31,
+        "race": {
+          "whitePct": 85.33,
+          "nonHispanicWhitePct": 83.1,
+          "blackPct": 3.31,
+          "asianPct": 1.56,
+          "hispanicPct": 8.71
+        }
+      },
+      "election": {
+        "districtId": "in-sd-9",
+        "winner": "Ryan Mishler",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 42276,
+        "totalVotes": 42276,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Ryan Mishler",
+            "party": "rep",
+            "votes": 42276
+          }
+        ]
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Indiana Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57493,
+        "medianAge": 35.3,
+        "totalPopulation": 133878,
+        "collegePct": 29.26,
+        "renterRatePct": 32.28,
+        "race": {
+          "whitePct": 62.54,
+          "nonHispanicWhitePct": 59.18,
+          "blackPct": 18.7,
+          "asianPct": 1.49,
+          "hispanicPct": 15.4
+        }
+      },
+      "election": {
+        "districtId": "in-sd-10",
+        "winner": "David Lee Niezgodski",
+        "winnerParty": "dem",
+        "demVotes": 30420,
+        "repVotes": 0,
+        "totalVotes": 30420,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "David Lee Niezgodski",
+            "party": "dem",
+            "votes": 30420
+          },
+          {
+            "name": "Tim Cotton",
+            "party": "ind",
+            "votes": 8686
+          }
+        ]
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Indiana Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73905,
+        "medianAge": 38.7,
+        "totalPopulation": 133322,
+        "collegePct": 34.38,
+        "renterRatePct": 28.67,
+        "race": {
+          "whitePct": 79.74,
+          "nonHispanicWhitePct": 77.03,
+          "blackPct": 5.82,
+          "asianPct": 3.85,
+          "hispanicPct": 8.5
+        }
+      },
+      "election": {
+        "districtId": "in-sd-11",
+        "winner": "Linda Rogers",
+        "winnerParty": "rep",
+        "demVotes": 14327,
+        "repVotes": 23037,
+        "totalVotes": 37364,
+        "demPct": 38.34,
+        "repPct": 61.66,
+        "candidates": [
+          {
+            "name": "Melinda (Mindy) Fountain",
+            "party": "dem",
+            "votes": 14327
+          },
+          {
+            "name": "Linda Rogers",
+            "party": "rep",
+            "votes": 23037
+          }
+        ]
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Indiana Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64152,
+        "medianAge": 34.9,
+        "totalPopulation": 135246,
+        "collegePct": 20.55,
+        "renterRatePct": 30.37,
+        "race": {
+          "whitePct": 71.77,
+          "nonHispanicWhitePct": 66.59,
+          "blackPct": 5.71,
+          "asianPct": 1.03,
+          "hispanicPct": 23.11
+        }
+      },
+      "election": {
+        "districtId": "in-sd-12",
+        "winner": "Blake Doriot",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 33582,
+        "totalVotes": 33582,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Blake Doriot",
+            "party": "rep",
+            "votes": 33582
+          }
+        ]
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Indiana Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73334,
+        "medianAge": 38.6,
+        "totalPopulation": 134893,
+        "collegePct": 17.82,
+        "renterRatePct": 20.12,
+        "race": {
+          "whitePct": 92.17,
+          "nonHispanicWhitePct": 90.14,
+          "blackPct": 0.46,
+          "asianPct": 0.33,
+          "hispanicPct": 6.68
+        }
+      },
+      "election": {
+        "districtId": "in-sd-13",
+        "winner": "C. Susan Glick",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 41096,
+        "totalVotes": 41096,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "C. Susan Glick",
+            "party": "rep",
+            "votes": 41096
+          }
+        ]
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Indiana Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59957,
+        "medianAge": 34.6,
+        "totalPopulation": 136092,
+        "collegePct": 19.31,
+        "renterRatePct": 30.61,
+        "race": {
+          "whitePct": 67.62,
+          "nonHispanicWhitePct": 64.95,
+          "blackPct": 15.67,
+          "asianPct": 5.4,
+          "hispanicPct": 10.68
+        }
+      },
+      "election": {
+        "districtId": "in-sd-14",
+        "winner": "Tyler Johnson",
+        "winnerParty": "rep",
+        "demVotes": 10123,
+        "repVotes": 18907,
+        "totalVotes": 29030,
+        "demPct": 34.87,
+        "repPct": 65.13,
+        "candidates": [
+          {
+            "name": "Zach Heimach",
+            "party": "dem",
+            "votes": 10123
+          },
+          {
+            "name": "Tyler Johnson",
+            "party": "rep",
+            "votes": 18907
+          }
+        ]
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Indiana Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78792,
+        "medianAge": 36.7,
+        "totalPopulation": 139623,
+        "collegePct": 38.61,
+        "renterRatePct": 26.26,
+        "race": {
+          "whitePct": 78.59,
+          "nonHispanicWhitePct": 77.54,
+          "blackPct": 6.98,
+          "asianPct": 5.51,
+          "hispanicPct": 5.37
+        }
+      },
+      "election": {
+        "districtId": "in-sd-15",
+        "winner": "Elizabeth (Liz) Brown",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 29588,
+        "totalVotes": 29588,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Elizabeth (Liz) Brown",
+            "party": "rep",
+            "votes": 29588
+          }
+        ]
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Indiana Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73364,
+        "medianAge": 38.6,
+        "totalPopulation": 138359,
+        "collegePct": 32.13,
+        "renterRatePct": 29.22,
+        "race": {
+          "whitePct": 83.46,
+          "nonHispanicWhitePct": 81.8,
+          "blackPct": 4.9,
+          "asianPct": 2.63,
+          "hispanicPct": 5.97
+        }
+      },
+      "election": {
+        "districtId": "in-sd-16",
+        "winner": "Justin Busch",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 45442,
+        "totalVotes": 45442,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Justin Busch",
+            "party": "rep",
+            "votes": 45442
+          }
+        ]
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Indiana Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59599,
+        "medianAge": 40.8,
+        "totalPopulation": 134035,
+        "collegePct": 21.44,
+        "renterRatePct": 25.01,
+        "race": {
+          "whitePct": 89.81,
+          "nonHispanicWhitePct": 88.19,
+          "blackPct": 2.89,
+          "asianPct": 0.71,
+          "hispanicPct": 4.15
+        }
+      },
+      "election": {
+        "districtId": "in-sd-17",
+        "winner": "Andy Zay",
+        "winnerParty": "rep",
+        "demVotes": 9146,
+        "repVotes": 27512,
+        "totalVotes": 36658,
+        "demPct": 24.95,
+        "repPct": 75.05,
+        "candidates": [
+          {
+            "name": "Joe Swisher",
+            "party": "dem",
+            "votes": 9146
+          },
+          {
+            "name": "Andy Zay",
+            "party": "rep",
+            "votes": 27512
+          }
+        ]
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Indiana Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64981,
+        "medianAge": 41.3,
+        "totalPopulation": 132873,
+        "collegePct": 17.84,
+        "renterRatePct": 20.09,
+        "race": {
+          "whitePct": 87.88,
+          "nonHispanicWhitePct": 84.94,
+          "blackPct": 1.65,
+          "asianPct": 0.66,
+          "hispanicPct": 8.83
+        }
+      },
+      "election": {
+        "districtId": "in-sd-18",
+        "winner": "Stacey A. Donato",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 45901,
+        "totalVotes": 45901,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Stacey A. Donato",
+            "party": "rep",
+            "votes": 45901
+          }
+        ]
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Indiana Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59822,
+        "medianAge": 37.5,
+        "totalPopulation": 137001,
+        "collegePct": 17.93,
+        "renterRatePct": 26.02,
+        "race": {
+          "whitePct": 86.29,
+          "nonHispanicWhitePct": 84.72,
+          "blackPct": 3.74,
+          "asianPct": 0.85,
+          "hispanicPct": 6.94
+        }
+      },
+      "election": {
+        "districtId": "in-sd-19",
+        "winner": "Travis Holdman",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 27865,
+        "totalVotes": 27865,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Travis Holdman",
+            "party": "rep",
+            "votes": 27865
+          }
+        ]
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Indiana Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106844,
+        "medianAge": 38.9,
+        "totalPopulation": 137295,
+        "collegePct": 56.9,
+        "renterRatePct": 24.18,
+        "race": {
+          "whitePct": 84.52,
+          "nonHispanicWhitePct": 82.49,
+          "blackPct": 4,
+          "asianPct": 4.3,
+          "hispanicPct": 5.52
+        }
+      },
+      "election": {
+        "districtId": "in-sd-20",
+        "winner": "Scott A. Baldwin",
+        "winnerParty": "rep",
+        "demVotes": 29380,
+        "repVotes": 43886,
+        "totalVotes": 73266,
+        "demPct": 40.1,
+        "repPct": 59.9,
+        "candidates": [
+          {
+            "name": "Joel Levi",
+            "party": "dem",
+            "votes": 29380
+          },
+          {
+            "name": "Scott A. Baldwin",
+            "party": "rep",
+            "votes": 43886
+          }
+        ]
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Indiana Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77648,
+        "medianAge": 39.2,
+        "totalPopulation": 142070,
+        "collegePct": 33.98,
+        "renterRatePct": 26.29,
+        "race": {
+          "whitePct": 84.15,
+          "nonHispanicWhitePct": 81.56,
+          "blackPct": 5.83,
+          "asianPct": 2.23,
+          "hispanicPct": 6.06
+        }
+      },
+      "election": {
+        "districtId": "in-sd-21",
+        "winner": "James R. Buck",
+        "winnerParty": "rep",
+        "demVotes": 16148,
+        "repVotes": 28675,
+        "totalVotes": 44823,
+        "demPct": 36.03,
+        "repPct": 63.97,
+        "candidates": [
+          {
+            "name": "Josh Lowry",
+            "party": "dem",
+            "votes": 16148
+          },
+          {
+            "name": "James R. Buck",
+            "party": "rep",
+            "votes": 28675
+          }
+        ]
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Indiana Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62297,
+        "medianAge": 35.8,
+        "totalPopulation": 135466,
+        "collegePct": 29.52,
+        "renterRatePct": 37.28,
+        "race": {
+          "whitePct": 81.27,
+          "nonHispanicWhitePct": 77.37,
+          "blackPct": 6.13,
+          "asianPct": 2.42,
+          "hispanicPct": 10.58
+        }
+      },
+      "election": {
+        "districtId": "in-sd-22",
+        "winner": "Ronnie J. Alting",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 24342,
+        "totalVotes": 24342,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Ronnie J. Alting",
+            "party": "rep",
+            "votes": 24342
+          }
+        ]
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Indiana Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58331,
+        "medianAge": 28.1,
+        "totalPopulation": 134212,
+        "collegePct": 33.56,
+        "renterRatePct": 39.79,
+        "race": {
+          "whitePct": 82.18,
+          "nonHispanicWhitePct": 80.78,
+          "blackPct": 2.67,
+          "asianPct": 8.61,
+          "hispanicPct": 4.96
+        }
+      },
+      "election": {
+        "districtId": "in-sd-23",
+        "winner": "Spencer R. Deery",
+        "winnerParty": "rep",
+        "demVotes": 11523,
+        "repVotes": 20115,
+        "totalVotes": 31638,
+        "demPct": 36.42,
+        "repPct": 63.58,
+        "candidates": [
+          {
+            "name": "David A Sanders",
+            "party": "dem",
+            "votes": 11523
+          },
+          {
+            "name": "Spencer R. Deery",
+            "party": "rep",
+            "votes": 20115
+          }
+        ]
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Indiana Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94632,
+        "medianAge": 38.3,
+        "totalPopulation": 138808,
+        "collegePct": 36.67,
+        "renterRatePct": 23.12,
+        "race": {
+          "whitePct": 80.91,
+          "nonHispanicWhitePct": 79.67,
+          "blackPct": 9.1,
+          "asianPct": 3.37,
+          "hispanicPct": 4.73
+        }
+      },
+      "election": {
+        "districtId": "in-sd-24",
+        "winner": "Brett Clark",
+        "winnerParty": "rep",
+        "demVotes": 21185,
+        "repVotes": 40337,
+        "totalVotes": 61522,
+        "demPct": 34.43,
+        "repPct": 65.57,
+        "candidates": [
+          {
+            "name": "Veronica J Pejril",
+            "party": "dem",
+            "votes": 21185
+          },
+          {
+            "name": "Brett Clark",
+            "party": "rep",
+            "votes": 40337
+          }
+        ]
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Indiana Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63681,
+        "medianAge": 40.7,
+        "totalPopulation": 136830,
+        "collegePct": 20.44,
+        "renterRatePct": 29.77,
+        "race": {
+          "whitePct": 85.08,
+          "nonHispanicWhitePct": 82.85,
+          "blackPct": 6.06,
+          "asianPct": 0.59,
+          "hispanicPct": 5.28
+        }
+      },
+      "election": {
+        "districtId": "in-sd-25",
+        "winner": "Mike Gaskill",
+        "winnerParty": "rep",
+        "demVotes": 13447,
+        "repVotes": 23967,
+        "totalVotes": 37414,
+        "demPct": 35.94,
+        "repPct": 64.06,
+        "candidates": [
+          {
+            "name": "Tamie Dixon-Tatum",
+            "party": "dem",
+            "votes": 13447
+          },
+          {
+            "name": "Mike Gaskill",
+            "party": "rep",
+            "votes": 23967
+          }
+        ]
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Indiana Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57617,
+        "medianAge": 37,
+        "totalPopulation": 136534,
+        "collegePct": 23.49,
+        "renterRatePct": 31.52,
+        "race": {
+          "whitePct": 87.22,
+          "nonHispanicWhitePct": 86.01,
+          "blackPct": 4.5,
+          "asianPct": 1.43,
+          "hispanicPct": 3.49
+        }
+      },
+      "election": {
+        "districtId": "in-sd-26",
+        "winner": "Scott Alexander",
+        "winnerParty": "rep",
+        "demVotes": 14450,
+        "repVotes": 22566,
+        "totalVotes": 37016,
+        "demPct": 39.04,
+        "repPct": 60.96,
+        "candidates": [
+          {
+            "name": "Melanie M. Wright",
+            "party": "dem",
+            "votes": 14450
+          },
+          {
+            "name": "Scott Alexander",
+            "party": "rep",
+            "votes": 22566
+          }
+        ]
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Indiana Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60910,
+        "medianAge": 41.7,
+        "totalPopulation": 134499,
+        "collegePct": 18.93,
+        "renterRatePct": 26.69,
+        "race": {
+          "whitePct": 90.43,
+          "nonHispanicWhitePct": 89.77,
+          "blackPct": 2.91,
+          "asianPct": 0.84,
+          "hispanicPct": 2.86
+        }
+      },
+      "election": {
+        "districtId": "in-sd-27",
+        "winner": "Jeffrey S. Raatz",
+        "winnerParty": "rep",
+        "demVotes": 10553,
+        "repVotes": 26040,
+        "totalVotes": 36593,
+        "demPct": 28.84,
+        "repPct": 71.16,
+        "candidates": [
+          {
+            "name": "Ronald Itnyre",
+            "party": "dem",
+            "votes": 10553
+          },
+          {
+            "name": "Jeffrey S. Raatz",
+            "party": "rep",
+            "votes": 26040
+          }
+        ]
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Indiana Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80464,
+        "medianAge": 39.1,
+        "totalPopulation": 139360,
+        "collegePct": 28.98,
+        "renterRatePct": 24.38,
+        "race": {
+          "whitePct": 82.08,
+          "nonHispanicWhitePct": 80.3,
+          "blackPct": 9.25,
+          "asianPct": 1.18,
+          "hispanicPct": 5.99
+        }
+      },
+      "election": {
+        "districtId": "in-sd-28",
+        "winner": "Michael Crider",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 44687,
+        "totalVotes": 44687,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Travis E. Chittum",
+            "party": "ind",
+            "votes": 12638
+          },
+          {
+            "name": "Michael Crider",
+            "party": "rep",
+            "votes": 44687
+          }
+        ]
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Indiana Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96341,
+        "medianAge": 38.6,
+        "totalPopulation": 136215,
+        "collegePct": 57.95,
+        "renterRatePct": 33.5,
+        "race": {
+          "whitePct": 64.04,
+          "nonHispanicWhitePct": 61.73,
+          "blackPct": 17.71,
+          "asianPct": 7.92,
+          "hispanicPct": 9.21
+        }
+      },
+      "election": {
+        "districtId": "in-sd-29",
+        "winner": "J.D. Ford",
+        "winnerParty": "dem",
+        "demVotes": 22670,
+        "repVotes": 21200,
+        "totalVotes": 43870,
+        "demPct": 51.68,
+        "repPct": 48.32,
+        "candidates": [
+          {
+            "name": "J.D. Ford",
+            "party": "dem",
+            "votes": 22670
+          },
+          {
+            "name": "Alex Choi",
+            "party": "rep",
+            "votes": 21200
+          }
+        ]
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Indiana Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70884,
+        "medianAge": 36,
+        "totalPopulation": 131978,
+        "collegePct": 50.05,
+        "renterRatePct": 50.06,
+        "race": {
+          "whitePct": 56.89,
+          "nonHispanicWhitePct": 54.05,
+          "blackPct": 27.82,
+          "asianPct": 3.11,
+          "hispanicPct": 10.37
+        }
+      },
+      "election": {
+        "districtId": "in-sd-30",
+        "winner": "Fady Qaddoura",
+        "winnerParty": "dem",
+        "demVotes": 47526,
+        "repVotes": 0,
+        "totalVotes": 47526,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Fady Qaddoura",
+            "party": "dem",
+            "votes": 47526
+          }
+        ]
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Indiana Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 126780,
+        "medianAge": 37.8,
+        "totalPopulation": 137878,
+        "collegePct": 64.4,
+        "renterRatePct": 20.81,
+        "race": {
+          "whitePct": 79.21,
+          "nonHispanicWhitePct": 78.3,
+          "blackPct": 6.74,
+          "asianPct": 6.65,
+          "hispanicPct": 4.15
+        }
+      },
+      "election": {
+        "districtId": "in-sd-31",
+        "winner": "Kyle Walker",
+        "winnerParty": "rep",
+        "demVotes": 22839,
+        "repVotes": 28397,
+        "totalVotes": 51236,
+        "demPct": 44.58,
+        "repPct": 55.42,
+        "candidates": [
+          {
+            "name": "Jocelyn Vare",
+            "party": "dem",
+            "votes": 22839
+          },
+          {
+            "name": "Kyle Walker",
+            "party": "rep",
+            "votes": 28397
+          }
+        ]
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Indiana Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82218,
+        "medianAge": 36.3,
+        "totalPopulation": 139430,
+        "collegePct": 32.81,
+        "renterRatePct": 27.75,
+        "race": {
+          "whitePct": 74.23,
+          "nonHispanicWhitePct": 71.32,
+          "blackPct": 10,
+          "asianPct": 6.42,
+          "hispanicPct": 7.85
+        }
+      },
+      "election": {
+        "districtId": "in-sd-32",
+        "winner": "Aaron Freeman",
+        "winnerParty": "rep",
+        "demVotes": 22368,
+        "repVotes": 34243,
+        "totalVotes": 56611,
+        "demPct": 39.51,
+        "repPct": 60.49,
+        "candidates": [
+          {
+            "name": "Katrina Owens",
+            "party": "dem",
+            "votes": 22368
+          },
+          {
+            "name": "Aaron Freeman",
+            "party": "rep",
+            "votes": 34243
+          }
+        ]
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Indiana Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60313,
+        "medianAge": 32.1,
+        "totalPopulation": 138274,
+        "collegePct": 39.04,
+        "renterRatePct": 45.39,
+        "race": {
+          "whitePct": 42.54,
+          "nonHispanicWhitePct": 39.24,
+          "blackPct": 38.08,
+          "asianPct": 2.2,
+          "hispanicPct": 15.65
+        }
+      },
+      "election": {
+        "districtId": "in-sd-33",
+        "winner": "Greg Taylor",
+        "winnerParty": "dem",
+        "demVotes": 42134,
+        "repVotes": 0,
+        "totalVotes": 42134,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Greg Taylor",
+            "party": "dem",
+            "votes": 42134
+          }
+        ]
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Indiana Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48545,
+        "medianAge": 32.7,
+        "totalPopulation": 140306,
+        "collegePct": 23.57,
+        "renterRatePct": 50.59,
+        "race": {
+          "whitePct": 29.05,
+          "nonHispanicWhitePct": 24.91,
+          "blackPct": 54.03,
+          "asianPct": 0.97,
+          "hispanicPct": 15.09
+        }
+      },
+      "election": {
+        "districtId": "in-sd-34",
+        "winner": "La Keisha Jackson",
+        "winnerParty": "dem",
+        "demVotes": 36165,
+        "repVotes": 0,
+        "totalVotes": 36165,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "La Keisha Jackson",
+            "party": "dem",
+            "votes": 36165
+          }
+        ]
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Indiana Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67010,
+        "medianAge": 34.6,
+        "totalPopulation": 138289,
+        "collegePct": 24.14,
+        "renterRatePct": 41.63,
+        "race": {
+          "whitePct": 65.77,
+          "nonHispanicWhitePct": 61.51,
+          "blackPct": 18.52,
+          "asianPct": 1.66,
+          "hispanicPct": 14.74
+        }
+      },
+      "election": {
+        "districtId": "in-sd-35",
+        "winner": "R. Michael Young",
+        "winnerParty": "rep",
+        "demVotes": 18707,
+        "repVotes": 24689,
+        "totalVotes": 43396,
+        "demPct": 43.11,
+        "repPct": 56.89,
+        "candidates": [
+          {
+            "name": "Jessica McCormick",
+            "party": "dem",
+            "votes": 18707
+          },
+          {
+            "name": "R. Michael Young",
+            "party": "rep",
+            "votes": 24689
+          }
+        ]
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Indiana Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68937,
+        "medianAge": 35.6,
+        "totalPopulation": 137901,
+        "collegePct": 29.49,
+        "renterRatePct": 38.16,
+        "race": {
+          "whitePct": 68.84,
+          "nonHispanicWhitePct": 65.54,
+          "blackPct": 8.27,
+          "asianPct": 13.48,
+          "hispanicPct": 8.4
+        }
+      },
+      "election": {
+        "districtId": "in-sd-36",
+        "winner": "Cynthia (Cyndi) Carrasco",
+        "winnerParty": "rep",
+        "demVotes": 18203,
+        "repVotes": 30274,
+        "totalVotes": 48477,
+        "demPct": 37.55,
+        "repPct": 62.45,
+        "candidates": [
+          {
+            "name": "Suzanne Fortenberry",
+            "party": "dem",
+            "votes": 18203
+          },
+          {
+            "name": "Cynthia (Cyndi) Carrasco",
+            "party": "rep",
+            "votes": 30274
+          }
+        ]
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Indiana Senate District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82513,
+        "medianAge": 41.5,
+        "totalPopulation": 136854,
+        "collegePct": 26.43,
+        "renterRatePct": 17.73,
+        "race": {
+          "whitePct": 93.02,
+          "nonHispanicWhitePct": 92.44,
+          "blackPct": 1.38,
+          "asianPct": 1.93,
+          "hispanicPct": 1.56
+        }
+      },
+      "election": {
+        "districtId": "in-sd-37",
+        "winner": "Rodric D. Bray",
+        "winnerParty": "rep",
+        "demVotes": 15938,
+        "repVotes": 50188,
+        "totalVotes": 66126,
+        "demPct": 24.1,
+        "repPct": 75.9,
+        "candidates": [
+          {
+            "name": "Kimberly M Schofield",
+            "party": "dem",
+            "votes": 15938
+          },
+          {
+            "name": "Rodric D. Bray",
+            "party": "rep",
+            "votes": 50188
+          }
+        ]
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Indiana Senate District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54660,
+        "medianAge": 37.6,
+        "totalPopulation": 137915,
+        "collegePct": 23.41,
+        "renterRatePct": 33.48,
+        "race": {
+          "whitePct": 87.59,
+          "nonHispanicWhitePct": 86.64,
+          "blackPct": 4.8,
+          "asianPct": 1.69,
+          "hispanicPct": 2.81
+        }
+      },
+      "election": {
+        "districtId": "in-sd-38",
+        "winner": "Jon Ford",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 27510,
+        "totalVotes": 27510,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Jon Ford",
+            "party": "rep",
+            "votes": 27510
+          }
+        ]
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Indiana Senate District 39",
+      "census": {
+        "censusName": "State Senate District 39 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62397,
+        "medianAge": 39.5,
+        "totalPopulation": 134597,
+        "collegePct": 15.88,
+        "renterRatePct": 27.24,
+        "race": {
+          "whitePct": 92.31,
+          "nonHispanicWhitePct": 91.34,
+          "blackPct": 1.45,
+          "asianPct": 0.44,
+          "hispanicPct": 3.23
+        }
+      },
+      "election": {
+        "districtId": "in-sd-39",
+        "winner": "Eric Bassler",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 31128,
+        "totalVotes": 31128,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Eric Bassler",
+            "party": "rep",
+            "votes": 31128
+          }
+        ]
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Indiana Senate District 40",
+      "census": {
+        "censusName": "State Senate District 40 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62789,
+        "medianAge": 30.4,
+        "totalPopulation": 133743,
+        "collegePct": 49.59,
+        "renterRatePct": 46.87,
+        "race": {
+          "whitePct": 82.87,
+          "nonHispanicWhitePct": 81.07,
+          "blackPct": 3.7,
+          "asianPct": 6.93,
+          "hispanicPct": 4.74
+        }
+      },
+      "election": {
+        "districtId": "in-sd-40",
+        "winner": "Shelli Yoder",
+        "winnerParty": "dem",
+        "demVotes": 38424,
+        "repVotes": 0,
+        "totalVotes": 38424,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Shelli Yoder",
+            "party": "dem",
+            "votes": 38424
+          }
+        ]
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Indiana Senate District 41",
+      "census": {
+        "censusName": "State Senate District 41 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81382,
+        "medianAge": 37.2,
+        "totalPopulation": 138338,
+        "collegePct": 31.1,
+        "renterRatePct": 28.09,
+        "race": {
+          "whitePct": 83.7,
+          "nonHispanicWhitePct": 82.09,
+          "blackPct": 2.32,
+          "asianPct": 5.42,
+          "hispanicPct": 6.33
+        }
+      },
+      "election": {
+        "districtId": "in-sd-41",
+        "winner": "Greg Walker",
+        "winnerParty": "rep",
+        "demVotes": 11729,
+        "repVotes": 24698,
+        "totalVotes": 36427,
+        "demPct": 32.2,
+        "repPct": 67.8,
+        "candidates": [
+          {
+            "name": "Bryan Muñoz",
+            "party": "dem",
+            "votes": 11729
+          },
+          {
+            "name": "Greg Walker",
+            "party": "rep",
+            "votes": 24698
+          }
+        ]
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Indiana Senate District 42",
+      "census": {
+        "censusName": "State Senate District 42 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68210,
+        "medianAge": 41.7,
+        "totalPopulation": 136613,
+        "collegePct": 17.17,
+        "renterRatePct": 23.46,
+        "race": {
+          "whitePct": 94.77,
+          "nonHispanicWhitePct": 94.06,
+          "blackPct": 0.52,
+          "asianPct": 0.33,
+          "hispanicPct": 2.18
+        }
+      },
+      "election": {
+        "districtId": "in-sd-42",
+        "winner": "Jean Leising",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 52778,
+        "totalVotes": 52778,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Jean Leising",
+            "party": "rep",
+            "votes": 52778
+          }
+        ]
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Indiana Senate District 43",
+      "census": {
+        "censusName": "State Senate District 43 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69580,
+        "medianAge": 41.9,
+        "totalPopulation": 133971,
+        "collegePct": 19.65,
+        "renterRatePct": 21.86,
+        "race": {
+          "whitePct": 94.85,
+          "nonHispanicWhitePct": 94.01,
+          "blackPct": 0.45,
+          "asianPct": 0.5,
+          "hispanicPct": 1.97
+        }
+      },
+      "election": {
+        "districtId": "in-sd-43",
+        "winner": "Chip Perfect",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 30804,
+        "totalVotes": 30804,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Chip Perfect",
+            "party": "rep",
+            "votes": 30804
+          }
+        ]
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Indiana Senate District 44",
+      "census": {
+        "censusName": "State Senate District 44 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68472,
+        "medianAge": 42.9,
+        "totalPopulation": 132764,
+        "collegePct": 21.42,
+        "renterRatePct": 21.13,
+        "race": {
+          "whitePct": 89.94,
+          "nonHispanicWhitePct": 89.37,
+          "blackPct": 0.85,
+          "asianPct": 1.11,
+          "hispanicPct": 5.95
+        }
+      },
+      "election": {
+        "districtId": "in-sd-44",
+        "winner": "Eric A. Koch",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 48749,
+        "totalVotes": 48749,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Eric A. Koch",
+            "party": "rep",
+            "votes": 48749
+          }
+        ]
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Indiana Senate District 45",
+      "census": {
+        "censusName": "State Senate District 45 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74505,
+        "medianAge": 40.1,
+        "totalPopulation": 138178,
+        "collegePct": 26.92,
+        "renterRatePct": 24.47,
+        "race": {
+          "whitePct": 83.86,
+          "nonHispanicWhitePct": 81.15,
+          "blackPct": 6.84,
+          "asianPct": 1.22,
+          "hispanicPct": 6.1
+        }
+      },
+      "election": {
+        "districtId": "in-sd-45",
+        "winner": "Chris Garten",
+        "winnerParty": "rep",
+        "demVotes": 15746,
+        "repVotes": 25767,
+        "totalVotes": 41513,
+        "demPct": 37.93,
+        "repPct": 62.07,
+        "candidates": [
+          {
+            "name": "Nick Marshall",
+            "party": "dem",
+            "votes": 15746
+          },
+          {
+            "name": "Chris Garten",
+            "party": "rep",
+            "votes": 25767
+          }
+        ]
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Indiana Senate District 46",
+      "census": {
+        "censusName": "State Senate District 46 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55473,
+        "medianAge": 33.3,
+        "totalPopulation": 134243,
+        "collegePct": 32.81,
+        "renterRatePct": 53.94,
+        "race": {
+          "whitePct": 63.75,
+          "nonHispanicWhitePct": 59.27,
+          "blackPct": 17.31,
+          "asianPct": 2.12,
+          "hispanicPct": 16.67
+        }
+      },
+      "election": {
+        "districtId": "in-sd-46",
+        "winner": "Andrea Hunley",
+        "winnerParty": "dem",
+        "demVotes": 19503,
+        "repVotes": 7238,
+        "totalVotes": 26741,
+        "demPct": 72.93,
+        "repPct": 27.07,
+        "candidates": [
+          {
+            "name": "Andrea Hunley",
+            "party": "dem",
+            "votes": 19503
+          },
+          {
+            "name": "Evan Russell Shearin",
+            "party": "rep",
+            "votes": 7238
+          }
+        ]
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Indiana Senate District 47",
+      "census": {
+        "censusName": "State Senate District 47 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71122,
+        "medianAge": 41.1,
+        "totalPopulation": 133086,
+        "collegePct": 23.93,
+        "renterRatePct": 22.43,
+        "race": {
+          "whitePct": 91.18,
+          "nonHispanicWhitePct": 90.24,
+          "blackPct": 2.78,
+          "asianPct": 0.71,
+          "hispanicPct": 3.25
+        }
+      },
+      "election": {
+        "districtId": "in-sd-47",
+        "winner": "Gary Byrne",
+        "winnerParty": "rep",
+        "demVotes": 14404,
+        "repVotes": 28959,
+        "totalVotes": 43363,
+        "demPct": 33.22,
+        "repPct": 66.78,
+        "candidates": [
+          {
+            "name": "Kathleen Forte",
+            "party": "dem",
+            "votes": 14404
+          },
+          {
+            "name": "Gary Byrne",
+            "party": "rep",
+            "votes": 28959
+          }
+        ]
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Indiana Senate District 48",
+      "census": {
+        "censusName": "State Senate District 48 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67014,
+        "medianAge": 41.4,
+        "totalPopulation": 138319,
+        "collegePct": 19.7,
+        "renterRatePct": 22.19,
+        "race": {
+          "whitePct": 92.19,
+          "nonHispanicWhitePct": 91.16,
+          "blackPct": 1.47,
+          "asianPct": 0.46,
+          "hispanicPct": 4.41
+        }
+      },
+      "election": {
+        "districtId": "in-sd-48",
+        "winner": "Mark Messmer",
+        "winnerParty": "rep",
+        "demVotes": 12456,
+        "repVotes": 32564,
+        "totalVotes": 45020,
+        "demPct": 27.67,
+        "repPct": 72.33,
+        "candidates": [
+          {
+            "name": "Jeff Hill",
+            "party": "dem",
+            "votes": 12456
+          },
+          {
+            "name": "Mark Messmer",
+            "party": "rep",
+            "votes": 32564
+          }
+        ]
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Indiana Senate District 49",
+      "census": {
+        "censusName": "State Senate District 49 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61894,
+        "medianAge": 39.2,
+        "totalPopulation": 135409,
+        "collegePct": 25.26,
+        "renterRatePct": 32.85,
+        "race": {
+          "whitePct": 85.14,
+          "nonHispanicWhitePct": 84.23,
+          "blackPct": 7.32,
+          "asianPct": 0.88,
+          "hispanicPct": 2.8
+        }
+      },
+      "election": {
+        "districtId": "in-sd-49",
+        "winner": "Jim Tomes",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 26320,
+        "totalVotes": 26320,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Jim Tomes",
+            "party": "rep",
+            "votes": 26320
+          }
+        ]
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Indiana Senate District 50",
+      "census": {
+        "censusName": "State Senate District 50 (2022); Indiana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74740,
+        "medianAge": 40.4,
+        "totalPopulation": 134312,
+        "collegePct": 32.5,
+        "renterRatePct": 26.98,
+        "race": {
+          "whitePct": 85.49,
+          "nonHispanicWhitePct": 84.16,
+          "blackPct": 6.71,
+          "asianPct": 1.77,
+          "hispanicPct": 3.4
+        }
+      },
+      "election": {
+        "districtId": "in-sd-50",
+        "winner": "Vaneta Becker",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 43371,
+        "totalVotes": 43371,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "John Woodard",
+            "party": "ind",
+            "votes": 10367
+          },
+          {
+            "name": "Vaneta Becker",
+            "party": "rep",
+            "votes": 43371
+          }
+        ]
+      }
+    }
+  }
+}
