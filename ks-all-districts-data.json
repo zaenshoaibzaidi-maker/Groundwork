@@ -1,0 +1,6676 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Kansas House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56353,
+        "medianAge": 42,
+        "totalPopulation": 23373,
+        "collegePct": 19.2,
+        "renterRatePct": 27.9,
+        "race": {
+          "whitePct": 87.43,
+          "nonHispanicWhitePct": 85.79,
+          "blackPct": 0.9,
+          "asianPct": 0.47,
+          "hispanicPct": 3.02
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-1",
+        "winner": "Dale Helwig",
+        "winnerParty": "rep",
+        "demVotes": 2646,
+        "repVotes": 7805,
+        "totalVotes": 10451,
+        "demPct": 25.32,
+        "repPct": 74.68,
+        "candidates": [
+          {
+            "name": "Dale Helwig",
+            "party": "rep",
+            "votes": 7805
+          },
+          {
+            "name": "Janie G. Jarrett",
+            "party": "dem",
+            "votes": 2646
+          }
+        ]
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Kansas House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57188,
+        "medianAge": 42,
+        "totalPopulation": 22633,
+        "collegePct": 26.01,
+        "renterRatePct": 24.16,
+        "race": {
+          "whitePct": 92.1,
+          "nonHispanicWhitePct": 90.36,
+          "blackPct": 1.16,
+          "asianPct": 0.67,
+          "hispanicPct": 2.63
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-2",
+        "winner": "Kenneth (Ken) Collins",
+        "winnerParty": "rep",
+        "demVotes": 3355,
+        "repVotes": 7547,
+        "totalVotes": 10902,
+        "demPct": 30.77,
+        "repPct": 69.23,
+        "candidates": [
+          {
+            "name": "Kenneth (Ken) Collins",
+            "party": "rep",
+            "votes": 7547
+          },
+          {
+            "name": "Melesia \"Lissa\" Rhodes",
+            "party": "dem",
+            "votes": 3355
+          }
+        ]
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Kansas House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47434,
+        "medianAge": 28.3,
+        "totalPopulation": 24075,
+        "collegePct": 37.06,
+        "renterRatePct": 48.67,
+        "race": {
+          "whitePct": 86.27,
+          "nonHispanicWhitePct": 79.96,
+          "blackPct": 2.97,
+          "asianPct": 2.45,
+          "hispanicPct": 10.45
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-3",
+        "winner": "Chuck Smith",
+        "winnerParty": "rep",
+        "demVotes": 3481,
+        "repVotes": 5261,
+        "totalVotes": 8742,
+        "demPct": 39.82,
+        "repPct": 60.18,
+        "candidates": [
+          {
+            "name": "Chuck Smith",
+            "party": "rep",
+            "votes": 5261
+          },
+          {
+            "name": "Jordan Metcalf",
+            "party": "dem",
+            "votes": 3481
+          }
+        ]
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Kansas House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60625,
+        "medianAge": 41.6,
+        "totalPopulation": 22966,
+        "collegePct": 23.63,
+        "renterRatePct": 25.24,
+        "race": {
+          "whitePct": 91.84,
+          "nonHispanicWhitePct": 90.27,
+          "blackPct": 1.71,
+          "asianPct": 0.54,
+          "hispanicPct": 2.53
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-4",
+        "winner": "Rick James",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 9500,
+        "totalVotes": 9500,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Rick James",
+            "party": "rep",
+            "votes": 9500
+          }
+        ]
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Kansas House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88680,
+        "medianAge": 38.5,
+        "totalPopulation": 24889,
+        "collegePct": 32.2,
+        "renterRatePct": 23.16,
+        "race": {
+          "whitePct": 89.63,
+          "nonHispanicWhitePct": 87.98,
+          "blackPct": 0.59,
+          "asianPct": 1.21,
+          "hispanicPct": 5.75
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-5",
+        "winner": "Carrie Barth",
+        "winnerParty": "rep",
+        "demVotes": 3921,
+        "repVotes": 8464,
+        "totalVotes": 12385,
+        "demPct": 31.66,
+        "repPct": 68.34,
+        "candidates": [
+          {
+            "name": "Carrie Barth",
+            "party": "rep",
+            "votes": 8464
+          },
+          {
+            "name": "Henry Johns",
+            "party": "dem",
+            "votes": 3921
+          }
+        ]
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Kansas House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82025,
+        "medianAge": 44.1,
+        "totalPopulation": 21337,
+        "collegePct": 33.13,
+        "renterRatePct": 22.04,
+        "race": {
+          "whitePct": 92.9,
+          "nonHispanicWhitePct": 92.01,
+          "blackPct": 1.58,
+          "asianPct": 0.68,
+          "hispanicPct": 2.4
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-6",
+        "winner": "Samantha M. Poetter Parshall",
+        "winnerParty": "rep",
+        "demVotes": 3600,
+        "repVotes": 8703,
+        "totalVotes": 12303,
+        "demPct": 29.26,
+        "repPct": 70.74,
+        "candidates": [
+          {
+            "name": "Samantha M. Poetter Parshall",
+            "party": "rep",
+            "votes": 8703
+          },
+          {
+            "name": "Elena Super",
+            "party": "dem",
+            "votes": 3600
+          }
+        ]
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Kansas House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55038,
+        "medianAge": 40,
+        "totalPopulation": 23782,
+        "collegePct": 20.8,
+        "renterRatePct": 25.65,
+        "race": {
+          "whitePct": 87.1,
+          "nonHispanicWhitePct": 84.58,
+          "blackPct": 3.11,
+          "asianPct": 0.11,
+          "hispanicPct": 6.01
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-7",
+        "winner": "Dan Goddard",
+        "winnerParty": "rep",
+        "demVotes": 2377,
+        "repVotes": 6595,
+        "totalVotes": 8972,
+        "demPct": 26.49,
+        "repPct": 73.51,
+        "candidates": [
+          {
+            "name": "Dan Goddard",
+            "party": "rep",
+            "votes": 6595
+          },
+          {
+            "name": "Vicki N. Pribble",
+            "party": "dem",
+            "votes": 2377
+          }
+        ]
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Kansas House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 181215,
+        "medianAge": 39.2,
+        "totalPopulation": 21919,
+        "collegePct": 73.89,
+        "renterRatePct": 18.7,
+        "race": {
+          "whitePct": 80.71,
+          "nonHispanicWhitePct": 79.31,
+          "blackPct": 2.41,
+          "asianPct": 9.59,
+          "hispanicPct": 3.69
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-8",
+        "winner": "Chris Croft",
+        "winnerParty": "rep",
+        "demVotes": 5899,
+        "repVotes": 7287,
+        "totalVotes": 13186,
+        "demPct": 44.74,
+        "repPct": 55.26,
+        "candidates": [
+          {
+            "name": "Chris Croft",
+            "party": "rep",
+            "votes": 7287
+          },
+          {
+            "name": "Pam Shernuk",
+            "party": "dem",
+            "votes": 5899
+          }
+        ]
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Kansas House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62574,
+        "medianAge": 41.7,
+        "totalPopulation": 23930,
+        "collegePct": 19.83,
+        "renterRatePct": 21.34,
+        "race": {
+          "whitePct": 90.68,
+          "nonHispanicWhitePct": 88.42,
+          "blackPct": 1.31,
+          "asianPct": 0.39,
+          "hispanicPct": 4.85
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-9",
+        "winner": "Fred Gardner",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 9944,
+        "totalVotes": 9944,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Fred Gardner",
+            "party": "rep",
+            "votes": 9944
+          }
+        ]
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Kansas House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55057,
+        "medianAge": 27.4,
+        "totalPopulation": 23946,
+        "collegePct": 43.6,
+        "renterRatePct": 64.22,
+        "race": {
+          "whitePct": 67.74,
+          "nonHispanicWhitePct": 65.32,
+          "blackPct": 6.62,
+          "asianPct": 9.73,
+          "hispanicPct": 9.71
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-10",
+        "winner": "Suzanne Wikle",
+        "winnerParty": "dem",
+        "demVotes": 7864,
+        "repVotes": 0,
+        "totalVotes": 7864,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Suzanne Wikle",
+            "party": "dem",
+            "votes": 7864
+          }
+        ]
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Kansas House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52413,
+        "medianAge": 41.2,
+        "totalPopulation": 22694,
+        "collegePct": 22.33,
+        "renterRatePct": 30.27,
+        "race": {
+          "whitePct": 78.43,
+          "nonHispanicWhitePct": 76.1,
+          "blackPct": 5.15,
+          "asianPct": 0.34,
+          "hispanicPct": 9.07
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-11",
+        "winner": "Ron Bryce",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 7653,
+        "totalVotes": 7653,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Ron Bryce",
+            "party": "rep",
+            "votes": 7653
+          }
+        ]
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Kansas House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61233,
+        "medianAge": 42.6,
+        "totalPopulation": 22841,
+        "collegePct": 20.79,
+        "renterRatePct": 17,
+        "race": {
+          "whitePct": 87,
+          "nonHispanicWhitePct": 85.98,
+          "blackPct": 0.9,
+          "asianPct": 0.14,
+          "hispanicPct": 3.7
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-12",
+        "winner": "Doug Blex",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 10133,
+        "totalVotes": 10133,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Doug Blex",
+            "party": "rep",
+            "votes": 10133
+          }
+        ]
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Kansas House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56350,
+        "medianAge": 45.1,
+        "totalPopulation": 22441,
+        "collegePct": 21.97,
+        "renterRatePct": 23.25,
+        "race": {
+          "whitePct": 91.03,
+          "nonHispanicWhitePct": 88.3,
+          "blackPct": 0.44,
+          "asianPct": 0.1,
+          "hispanicPct": 6.64
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-13",
+        "winner": "Duane Droge",
+        "winnerParty": "rep",
+        "demVotes": 1984,
+        "repVotes": 8065,
+        "totalVotes": 10049,
+        "demPct": 19.74,
+        "repPct": 80.26,
+        "candidates": [
+          {
+            "name": "Duane Droge",
+            "party": "rep",
+            "votes": 8065
+          },
+          {
+            "name": "Edgar D. Chrisman",
+            "party": "dem",
+            "votes": 1984
+          }
+        ]
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Kansas House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 129927,
+        "medianAge": 38.5,
+        "totalPopulation": 25838,
+        "collegePct": 58.88,
+        "renterRatePct": 13.05,
+        "race": {
+          "whitePct": 85.71,
+          "nonHispanicWhitePct": 79.96,
+          "blackPct": 3.21,
+          "asianPct": 3.26,
+          "hispanicPct": 9.05
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-14",
+        "winner": "Charlotte Esau",
+        "winnerParty": "rep",
+        "demVotes": 7185,
+        "repVotes": 7589,
+        "totalVotes": 14774,
+        "demPct": 48.63,
+        "repPct": 51.37,
+        "candidates": [
+          {
+            "name": "Charlotte Esau",
+            "party": "rep",
+            "votes": 7589
+          },
+          {
+            "name": "Dennis Miller",
+            "party": "dem",
+            "votes": 7185
+          }
+        ]
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Kansas House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63854,
+        "medianAge": 35,
+        "totalPopulation": 22421,
+        "collegePct": 26.96,
+        "renterRatePct": 45.36,
+        "race": {
+          "whitePct": 72.03,
+          "nonHispanicWhitePct": 61.92,
+          "blackPct": 5.69,
+          "asianPct": 2.59,
+          "hispanicPct": 25.69
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-15",
+        "winner": "Lauren N. Bohi",
+        "winnerParty": "rep",
+        "demVotes": 3829,
+        "repVotes": 3935,
+        "totalVotes": 7764,
+        "demPct": 49.32,
+        "repPct": 50.68,
+        "candidates": [
+          {
+            "name": "Lauren N. Bohi",
+            "party": "rep",
+            "votes": 3935
+          },
+          {
+            "name": "Allison Hougland",
+            "party": "dem",
+            "votes": 3829
+          }
+        ]
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Kansas House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106259,
+        "medianAge": 39.4,
+        "totalPopulation": 22429,
+        "collegePct": 67.95,
+        "renterRatePct": 38.75,
+        "race": {
+          "whitePct": 79.77,
+          "nonHispanicWhitePct": 77.89,
+          "blackPct": 5.31,
+          "asianPct": 4.44,
+          "hispanicPct": 7.41
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-16",
+        "winner": "Linda Featherston",
+        "winnerParty": "dem",
+        "demVotes": 8742,
+        "repVotes": 0,
+        "totalVotes": 8742,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Linda Featherston",
+            "party": "dem",
+            "votes": 8742
+          }
+        ]
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Kansas House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112742,
+        "medianAge": 40,
+        "totalPopulation": 23161,
+        "collegePct": 60.4,
+        "renterRatePct": 34.48,
+        "race": {
+          "whitePct": 81.46,
+          "nonHispanicWhitePct": 80.37,
+          "blackPct": 2.57,
+          "asianPct": 6.23,
+          "hispanicPct": 8.39
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-17",
+        "winner": "Jo Ella Hoye",
+        "winnerParty": "dem",
+        "demVotes": 8150,
+        "repVotes": 0,
+        "totalVotes": 12223,
+        "demPct": 66.68,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Jo Ella Hoye",
+            "party": "dem",
+            "votes": 8150
+          },
+          {
+            "name": "Michael Kerner",
+            "party": "lib",
+            "votes": 4073
+          }
+        ]
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Kansas House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90770,
+        "medianAge": 42,
+        "totalPopulation": 23840,
+        "collegePct": 39.14,
+        "renterRatePct": 18.15,
+        "race": {
+          "whitePct": 80.41,
+          "nonHispanicWhitePct": 75.94,
+          "blackPct": 3.96,
+          "asianPct": 2.6,
+          "hispanicPct": 13.72
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-18",
+        "winner": "Cindy Neighbor",
+        "winnerParty": "dem",
+        "demVotes": 7049,
+        "repVotes": 4988,
+        "totalVotes": 12597,
+        "demPct": 55.96,
+        "repPct": 39.6,
+        "candidates": [
+          {
+            "name": "Cindy Neighbor",
+            "party": "dem",
+            "votes": 7049
+          },
+          {
+            "name": "Robert Whitman",
+            "party": "rep",
+            "votes": 4988
+          },
+          {
+            "name": "Steven A Hohe",
+            "party": "lib",
+            "votes": 560
+          }
+        ]
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Kansas House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 117447,
+        "medianAge": 42.5,
+        "totalPopulation": 25103,
+        "collegePct": 70.08,
+        "renterRatePct": 22.81,
+        "race": {
+          "whitePct": 87.73,
+          "nonHispanicWhitePct": 86.34,
+          "blackPct": 2.2,
+          "asianPct": 2.85,
+          "hispanicPct": 5.29
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-19",
+        "winner": "Stephanie Sawyer Clayton",
+        "winnerParty": "dem",
+        "demVotes": 9682,
+        "repVotes": 5823,
+        "totalVotes": 15505,
+        "demPct": 62.44,
+        "repPct": 37.56,
+        "candidates": [
+          {
+            "name": "Stephanie Sawyer Clayton",
+            "party": "dem",
+            "votes": 9682
+          },
+          {
+            "name": "Mark Hermes",
+            "party": "rep",
+            "votes": 5823
+          }
+        ]
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Kansas House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 141122,
+        "medianAge": 48.1,
+        "totalPopulation": 24718,
+        "collegePct": 72.54,
+        "renterRatePct": 24.9,
+        "race": {
+          "whitePct": 90.86,
+          "nonHispanicWhitePct": 89.07,
+          "blackPct": 1.2,
+          "asianPct": 2.86,
+          "hispanicPct": 4.29
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-20",
+        "winner": "Mari-Lynn Poskin",
+        "winnerParty": "dem",
+        "demVotes": 8826,
+        "repVotes": 6501,
+        "totalVotes": 15327,
+        "demPct": 57.58,
+        "repPct": 42.42,
+        "candidates": [
+          {
+            "name": "Mari-Lynn Poskin",
+            "party": "dem",
+            "votes": 8826
+          },
+          {
+            "name": "Jerry Charlton",
+            "party": "rep",
+            "votes": 6501
+          }
+        ]
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Kansas House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95549,
+        "medianAge": 39.5,
+        "totalPopulation": 23333,
+        "collegePct": 64.7,
+        "renterRatePct": 26.84,
+        "race": {
+          "whitePct": 88.67,
+          "nonHispanicWhitePct": 84.88,
+          "blackPct": 2.43,
+          "asianPct": 1.82,
+          "hispanicPct": 7.2
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-21",
+        "winner": "Jerry Stogsdill",
+        "winnerParty": "dem",
+        "demVotes": 10708,
+        "repVotes": 0,
+        "totalVotes": 10708,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Jerry Stogsdill",
+            "party": "dem",
+            "votes": 10708
+          }
+        ]
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Kansas House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80211,
+        "medianAge": 35.3,
+        "totalPopulation": 22685,
+        "collegePct": 43.65,
+        "renterRatePct": 44.96,
+        "race": {
+          "whitePct": 78.76,
+          "nonHispanicWhitePct": 74.04,
+          "blackPct": 7.76,
+          "asianPct": 2.13,
+          "hispanicPct": 12.11
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-22",
+        "winner": "Lindsay Vaughn",
+        "winnerParty": "dem",
+        "demVotes": 8149,
+        "repVotes": 0,
+        "totalVotes": 8149,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Lindsay Vaughn",
+            "party": "dem",
+            "votes": 8149
+          }
+        ]
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Kansas House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74481,
+        "medianAge": 33.1,
+        "totalPopulation": 24961,
+        "collegePct": 44.53,
+        "renterRatePct": 50.42,
+        "race": {
+          "whitePct": 63.82,
+          "nonHispanicWhitePct": 60.3,
+          "blackPct": 14.62,
+          "asianPct": 4.33,
+          "hispanicPct": 15.51
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-23",
+        "winner": "Susan Ruiz",
+        "winnerParty": "dem",
+        "demVotes": 7536,
+        "repVotes": 0,
+        "totalVotes": 7536,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Susan Ruiz",
+            "party": "dem",
+            "votes": 7536
+          }
+        ]
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Kansas House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67785,
+        "medianAge": 34.5,
+        "totalPopulation": 23260,
+        "collegePct": 44.55,
+        "renterRatePct": 53.36,
+        "race": {
+          "whitePct": 78.94,
+          "nonHispanicWhitePct": 71.91,
+          "blackPct": 8.07,
+          "asianPct": 1.63,
+          "hispanicPct": 15.19
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-24",
+        "winner": "Jarrod Ousley",
+        "winnerParty": "dem",
+        "demVotes": 7121,
+        "repVotes": 3865,
+        "totalVotes": 10986,
+        "demPct": 64.82,
+        "repPct": 35.18,
+        "candidates": [
+          {
+            "name": "Jarrod Ousley",
+            "party": "dem",
+            "votes": 7121
+          },
+          {
+            "name": "Dale L. Redick",
+            "party": "rep",
+            "votes": 3865
+          }
+        ]
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Kansas House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111278,
+        "medianAge": 38.8,
+        "totalPopulation": 24297,
+        "collegePct": 68.47,
+        "renterRatePct": 22.5,
+        "race": {
+          "whitePct": 88.45,
+          "nonHispanicWhitePct": 84.94,
+          "blackPct": 1.51,
+          "asianPct": 2.35,
+          "hispanicPct": 8.27
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-25",
+        "winner": "Rui Xu",
+        "winnerParty": "dem",
+        "demVotes": 9719,
+        "repVotes": 5358,
+        "totalVotes": 15077,
+        "demPct": 64.46,
+        "repPct": 35.54,
+        "candidates": [
+          {
+            "name": "Rui Xu",
+            "party": "dem",
+            "votes": 9719
+          },
+          {
+            "name": "Greg J. Schoofs",
+            "party": "rep",
+            "votes": 5358
+          }
+        ]
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Kansas House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 122750,
+        "medianAge": 37.1,
+        "totalPopulation": 25425,
+        "collegePct": 55.53,
+        "renterRatePct": 16.37,
+        "race": {
+          "whitePct": 84.38,
+          "nonHispanicWhitePct": 80.96,
+          "blackPct": 2.15,
+          "asianPct": 3.1,
+          "hispanicPct": 8.41
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-26",
+        "winner": "Chip VanHouden",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 10502,
+        "totalVotes": 10502,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Chip VanHouden",
+            "party": "rep",
+            "votes": 10502
+          }
+        ]
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Kansas House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 161395,
+        "medianAge": 42.9,
+        "totalPopulation": 22729,
+        "collegePct": 66.76,
+        "renterRatePct": 10.23,
+        "race": {
+          "whitePct": 83.91,
+          "nonHispanicWhitePct": 82.61,
+          "blackPct": 0.9,
+          "asianPct": 10.23,
+          "hispanicPct": 3.4
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-27",
+        "winner": "Sean E. Tarwater, Sr",
+        "winnerParty": "rep",
+        "demVotes": 6307,
+        "repVotes": 9049,
+        "totalVotes": 15356,
+        "demPct": 41.07,
+        "repPct": 58.93,
+        "candidates": [
+          {
+            "name": "Sean E. Tarwater, Sr",
+            "party": "rep",
+            "votes": 9049
+          },
+          {
+            "name": "David Benson",
+            "party": "dem",
+            "votes": 6307
+          }
+        ]
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Kansas House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 124372,
+        "medianAge": 41.1,
+        "totalPopulation": 23617,
+        "collegePct": 73.04,
+        "renterRatePct": 41.32,
+        "race": {
+          "whitePct": 72.27,
+          "nonHispanicWhitePct": 70.76,
+          "blackPct": 6.02,
+          "asianPct": 16.88,
+          "hispanicPct": 4.58
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-28",
+        "winner": "Carl Turner",
+        "winnerParty": "rep",
+        "demVotes": 6449,
+        "repVotes": 6604,
+        "totalVotes": 13053,
+        "demPct": 49.41,
+        "repPct": 50.59,
+        "candidates": [
+          {
+            "name": "Carl Turner",
+            "party": "rep",
+            "votes": 6604
+          },
+          {
+            "name": "Ace Allen",
+            "party": "dem",
+            "votes": 6449
+          }
+        ]
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Kansas House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87656,
+        "medianAge": 38.6,
+        "totalPopulation": 25571,
+        "collegePct": 60.48,
+        "renterRatePct": 48.89,
+        "race": {
+          "whitePct": 70.94,
+          "nonHispanicWhitePct": 68.74,
+          "blackPct": 7.4,
+          "asianPct": 10.35,
+          "hispanicPct": 9.21
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-29",
+        "winner": "Heather Meyer",
+        "winnerParty": "dem",
+        "demVotes": 8708,
+        "repVotes": 0,
+        "totalVotes": 8708,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Heather Meyer",
+            "party": "dem",
+            "votes": 8708
+          }
+        ]
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Kansas House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101528,
+        "medianAge": 38.2,
+        "totalPopulation": 22208,
+        "collegePct": 49.64,
+        "renterRatePct": 39.15,
+        "race": {
+          "whitePct": 72.25,
+          "nonHispanicWhitePct": 68.93,
+          "blackPct": 8.67,
+          "asianPct": 3.78,
+          "hispanicPct": 15.96
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-30",
+        "winner": "Laura Williams",
+        "winnerParty": "rep",
+        "demVotes": 5542,
+        "repVotes": 6149,
+        "totalVotes": 11691,
+        "demPct": 47.4,
+        "repPct": 52.6,
+        "candidates": [
+          {
+            "name": "Laura Williams",
+            "party": "rep",
+            "votes": 6149
+          },
+          {
+            "name": "Betsey Lasister",
+            "party": "dem",
+            "votes": 5542
+          }
+        ]
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Kansas House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50693,
+        "medianAge": 32.4,
+        "totalPopulation": 23644,
+        "collegePct": 24.7,
+        "renterRatePct": 54.83,
+        "race": {
+          "whitePct": 53.17,
+          "nonHispanicWhitePct": 43.03,
+          "blackPct": 14.01,
+          "asianPct": 3.39,
+          "hispanicPct": 35.53
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-31",
+        "winner": "Louis E. Ruiz",
+        "winnerParty": "dem",
+        "demVotes": 4405,
+        "repVotes": 1863,
+        "totalVotes": 6268,
+        "demPct": 70.28,
+        "repPct": 29.72,
+        "candidates": [
+          {
+            "name": "Louis E. Ruiz",
+            "party": "dem",
+            "votes": 4405
+          },
+          {
+            "name": "Dennis Grindel",
+            "party": "rep",
+            "votes": 1863
+          }
+        ]
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Kansas House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50237,
+        "medianAge": 30.9,
+        "totalPopulation": 23310,
+        "collegePct": 11.91,
+        "renterRatePct": 45.49,
+        "race": {
+          "whitePct": 39.25,
+          "nonHispanicWhitePct": 18.19,
+          "blackPct": 8.76,
+          "asianPct": 6.38,
+          "hispanicPct": 64.1
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-32",
+        "winner": "Pam Curtis",
+        "winnerParty": "dem",
+        "demVotes": 2636,
+        "repVotes": 919,
+        "totalVotes": 3555,
+        "demPct": 74.15,
+        "repPct": 25.85,
+        "candidates": [
+          {
+            "name": "Pam Curtis",
+            "party": "dem",
+            "votes": 2636
+          },
+          {
+            "name": "Joe Quinn",
+            "party": "rep",
+            "votes": 919
+          }
+        ]
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Kansas House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76097,
+        "medianAge": 36,
+        "totalPopulation": 23955,
+        "collegePct": 23.66,
+        "renterRatePct": 32.32,
+        "race": {
+          "whitePct": 72.45,
+          "nonHispanicWhitePct": 64.73,
+          "blackPct": 8.35,
+          "asianPct": 3.48,
+          "hispanicPct": 17.85
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-33",
+        "winner": "Mike Thompson",
+        "winnerParty": "rep",
+        "demVotes": 4009,
+        "repVotes": 5244,
+        "totalVotes": 9253,
+        "demPct": 43.33,
+        "repPct": 56.67,
+        "candidates": [
+          {
+            "name": "Mike Thompson",
+            "party": "rep",
+            "votes": 5244
+          },
+          {
+            "name": "Eli Woody",
+            "party": "dem",
+            "votes": 4009
+          }
+        ]
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Kansas House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46637,
+        "medianAge": 31.9,
+        "totalPopulation": 21620,
+        "collegePct": 15.61,
+        "renterRatePct": 47.27,
+        "race": {
+          "whitePct": 24.76,
+          "nonHispanicWhitePct": 18.56,
+          "blackPct": 35.26,
+          "asianPct": 6.23,
+          "hispanicPct": 35.63
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-34",
+        "winner": "Valdenia Winn",
+        "winnerParty": "dem",
+        "demVotes": 3894,
+        "repVotes": 0,
+        "totalVotes": 3894,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Valdenia Winn",
+            "party": "dem",
+            "votes": 3894
+          }
+        ]
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Kansas House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56766,
+        "medianAge": 35.8,
+        "totalPopulation": 24005,
+        "collegePct": 13.77,
+        "renterRatePct": 38.55,
+        "race": {
+          "whitePct": 23.68,
+          "nonHispanicWhitePct": 15.62,
+          "blackPct": 38,
+          "asianPct": 4.44,
+          "hispanicPct": 36.48
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-35",
+        "winner": "Wanda Brownlee Paige",
+        "winnerParty": "dem",
+        "demVotes": 4837,
+        "repVotes": 0,
+        "totalVotes": 4837,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Wanda Brownlee Paige",
+            "party": "dem",
+            "votes": 4837
+          }
+        ]
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Kansas House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86187,
+        "medianAge": 37.1,
+        "totalPopulation": 25672,
+        "collegePct": 32.19,
+        "renterRatePct": 20.31,
+        "race": {
+          "whitePct": 53.93,
+          "nonHispanicWhitePct": 51.52,
+          "blackPct": 20.07,
+          "asianPct": 7.2,
+          "hispanicPct": 14.75
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-36",
+        "winner": "Lynn Melton",
+        "winnerParty": "dem",
+        "demVotes": 6629,
+        "repVotes": 4247,
+        "totalVotes": 10876,
+        "demPct": 60.95,
+        "repPct": 39.05,
+        "candidates": [
+          {
+            "name": "Lynn Melton",
+            "party": "dem",
+            "votes": 6629
+          },
+          {
+            "name": "Mark S. Gilstrap",
+            "party": "rep",
+            "votes": 4247
+          }
+        ]
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Kansas House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60618,
+        "medianAge": 33.3,
+        "totalPopulation": 22926,
+        "collegePct": 17.19,
+        "renterRatePct": 33.06,
+        "race": {
+          "whitePct": 52.68,
+          "nonHispanicWhitePct": 41.86,
+          "blackPct": 12.72,
+          "asianPct": 5.85,
+          "hispanicPct": 34.04
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-37",
+        "winner": "Melissa M Oropeza",
+        "winnerParty": "dem",
+        "demVotes": 4336,
+        "repVotes": 2566,
+        "totalVotes": 6902,
+        "demPct": 62.82,
+        "repPct": 37.18,
+        "candidates": [
+          {
+            "name": "Melissa M Oropeza",
+            "party": "dem",
+            "votes": 4336
+          },
+          {
+            "name": "Kevan Myers",
+            "party": "rep",
+            "votes": 2566
+          }
+        ]
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Kansas House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108819,
+        "medianAge": 41.2,
+        "totalPopulation": 24394,
+        "collegePct": 38.72,
+        "renterRatePct": 17.97,
+        "race": {
+          "whitePct": 87.72,
+          "nonHispanicWhitePct": 85.41,
+          "blackPct": 3.38,
+          "asianPct": 0.83,
+          "hispanicPct": 5.92
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-38",
+        "winner": "Timothy H. Johnson",
+        "winnerParty": "rep",
+        "demVotes": 4533,
+        "repVotes": 8965,
+        "totalVotes": 13498,
+        "demPct": 33.58,
+        "repPct": 66.42,
+        "candidates": [
+          {
+            "name": "Timothy H. Johnson",
+            "party": "rep",
+            "votes": 8965
+          },
+          {
+            "name": "Richard Paz",
+            "party": "dem",
+            "votes": 4533
+          }
+        ]
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Kansas House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 138325,
+        "medianAge": 37.3,
+        "totalPopulation": 23324,
+        "collegePct": 62.59,
+        "renterRatePct": 21.51,
+        "race": {
+          "whitePct": 84.7,
+          "nonHispanicWhitePct": 82.41,
+          "blackPct": 5.16,
+          "asianPct": 2.62,
+          "hispanicPct": 7.01
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-39",
+        "winner": "Angela Stiens",
+        "winnerParty": "rep",
+        "demVotes": 6418,
+        "repVotes": 6837,
+        "totalVotes": 13255,
+        "demPct": 48.42,
+        "repPct": 51.58,
+        "candidates": [
+          {
+            "name": "Angela Stiens",
+            "party": "rep",
+            "votes": 6837
+          },
+          {
+            "name": "Vanessa Vaughn West",
+            "party": "dem",
+            "votes": 6418
+          }
+        ]
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Kansas House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92174,
+        "medianAge": 38,
+        "totalPopulation": 23054,
+        "collegePct": 40.47,
+        "renterRatePct": 28.29,
+        "race": {
+          "whitePct": 75.05,
+          "nonHispanicWhitePct": 72.35,
+          "blackPct": 10.89,
+          "asianPct": 1.17,
+          "hispanicPct": 8.32
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-40",
+        "winner": "David Buehler",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 7678,
+        "totalVotes": 7678,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "David Buehler",
+            "party": "rep",
+            "votes": 7678
+          }
+        ]
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Kansas House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66549,
+        "medianAge": 35,
+        "totalPopulation": 23512,
+        "collegePct": 30.32,
+        "renterRatePct": 55.13,
+        "race": {
+          "whitePct": 73.94,
+          "nonHispanicWhitePct": 69.62,
+          "blackPct": 11.48,
+          "asianPct": 1.85,
+          "hispanicPct": 8.43
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-41",
+        "winner": "Pat Proctor",
+        "winnerParty": "rep",
+        "demVotes": 3014,
+        "repVotes": 3338,
+        "totalVotes": 6352,
+        "demPct": 47.45,
+        "repPct": 52.55,
+        "candidates": [
+          {
+            "name": "Pat Proctor",
+            "party": "rep",
+            "votes": 3338
+          },
+          {
+            "name": "Aimee M. Bateman",
+            "party": "dem",
+            "votes": 3014
+          }
+        ]
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Kansas House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91393,
+        "medianAge": 42,
+        "totalPopulation": 22786,
+        "collegePct": 33.4,
+        "renterRatePct": 21.16,
+        "race": {
+          "whitePct": 88.99,
+          "nonHispanicWhitePct": 87.38,
+          "blackPct": 0.78,
+          "asianPct": 0.83,
+          "hispanicPct": 5.81
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-42",
+        "winner": "Lance W. Neelly",
+        "winnerParty": "rep",
+        "demVotes": 3980,
+        "repVotes": 7866,
+        "totalVotes": 11846,
+        "demPct": 33.6,
+        "repPct": 66.4,
+        "candidates": [
+          {
+            "name": "Lance W. Neelly",
+            "party": "rep",
+            "votes": 7866
+          },
+          {
+            "name": "Eddy Martinez",
+            "party": "dem",
+            "votes": 3980
+          }
+        ]
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Kansas House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95026,
+        "medianAge": 32.4,
+        "totalPopulation": 24633,
+        "collegePct": 33.94,
+        "renterRatePct": 29.88,
+        "race": {
+          "whitePct": 80.62,
+          "nonHispanicWhitePct": 77.9,
+          "blackPct": 7.74,
+          "asianPct": 1.41,
+          "hispanicPct": 8.26
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-43",
+        "winner": "Bill Sutton",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 8166,
+        "totalVotes": 8166,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Bill Sutton",
+            "party": "rep",
+            "votes": 8166
+          }
+        ]
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Kansas House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61265,
+        "medianAge": 32.3,
+        "totalPopulation": 24646,
+        "collegePct": 56.29,
+        "renterRatePct": 54.36,
+        "race": {
+          "whitePct": 78.8,
+          "nonHispanicWhitePct": 76.87,
+          "blackPct": 3.71,
+          "asianPct": 4.5,
+          "hispanicPct": 7.16
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-44",
+        "winner": "Barbara W. Ballard",
+        "winnerParty": "dem",
+        "demVotes": 10466,
+        "repVotes": 0,
+        "totalVotes": 10466,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Barbara W. Ballard",
+            "party": "dem",
+            "votes": 10466
+          }
+        ]
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Kansas House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92839,
+        "medianAge": 37.8,
+        "totalPopulation": 23359,
+        "collegePct": 61.77,
+        "renterRatePct": 43.15,
+        "race": {
+          "whitePct": 80.71,
+          "nonHispanicWhitePct": 77.43,
+          "blackPct": 3.97,
+          "asianPct": 4.87,
+          "hispanicPct": 5.7
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-45",
+        "winner": "Mike Amyx",
+        "winnerParty": "dem",
+        "demVotes": 11195,
+        "repVotes": 0,
+        "totalVotes": 11195,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Mike Amyx",
+            "party": "dem",
+            "votes": 11195
+          }
+        ]
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Kansas House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55401,
+        "medianAge": 22.7,
+        "totalPopulation": 23898,
+        "collegePct": 58.42,
+        "renterRatePct": 66.28,
+        "race": {
+          "whitePct": 79.69,
+          "nonHispanicWhitePct": 76.17,
+          "blackPct": 4.13,
+          "asianPct": 2.72,
+          "hispanicPct": 8.28
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-46",
+        "winner": "Brooklynne Mosley",
+        "winnerParty": "dem",
+        "demVotes": 6651,
+        "repVotes": 0,
+        "totalVotes": 6651,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Brooklynne Mosley",
+            "party": "dem",
+            "votes": 6651
+          }
+        ]
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Kansas House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81939,
+        "medianAge": 45.8,
+        "totalPopulation": 22641,
+        "collegePct": 26.73,
+        "renterRatePct": 14.54,
+        "race": {
+          "whitePct": 91.75,
+          "nonHispanicWhitePct": 90.37,
+          "blackPct": 1.11,
+          "asianPct": 0.19,
+          "hispanicPct": 3.1
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-47",
+        "winner": "Ronald B. Ellis",
+        "winnerParty": "rep",
+        "demVotes": 4248,
+        "repVotes": 8298,
+        "totalVotes": 12546,
+        "demPct": 33.86,
+        "repPct": 66.14,
+        "candidates": [
+          {
+            "name": "Ronald B. Ellis",
+            "party": "rep",
+            "votes": 8298
+          },
+          {
+            "name": "Mary T. Williams",
+            "party": "dem",
+            "votes": 4248
+          }
+        ]
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Kansas House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131361,
+        "medianAge": 39.6,
+        "totalPopulation": 24550,
+        "collegePct": 70.62,
+        "renterRatePct": 30.38,
+        "race": {
+          "whitePct": 74.33,
+          "nonHispanicWhitePct": 71.77,
+          "blackPct": 2.82,
+          "asianPct": 17.52,
+          "hispanicPct": 4.7
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-48",
+        "winner": "Dan Osman",
+        "winnerParty": "dem",
+        "demVotes": 6632,
+        "repVotes": 5909,
+        "totalVotes": 12541,
+        "demPct": 52.88,
+        "repPct": 47.12,
+        "candidates": [
+          {
+            "name": "Dan Osman",
+            "party": "dem",
+            "votes": 6632
+          },
+          {
+            "name": "Randy Ross",
+            "party": "rep",
+            "votes": 5909
+          }
+        ]
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Kansas House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 129850,
+        "medianAge": 36.6,
+        "totalPopulation": 23176,
+        "collegePct": 60.65,
+        "renterRatePct": 32.31,
+        "race": {
+          "whitePct": 76.73,
+          "nonHispanicWhitePct": 74.87,
+          "blackPct": 6.77,
+          "asianPct": 7.81,
+          "hispanicPct": 5.41
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-49",
+        "winner": "Nikki L. McDonald",
+        "winnerParty": "dem",
+        "demVotes": 6305,
+        "repVotes": 6157,
+        "totalVotes": 12462,
+        "demPct": 50.59,
+        "repPct": 49.41,
+        "candidates": [
+          {
+            "name": "Nikki L. McDonald",
+            "party": "dem",
+            "votes": 6305
+          },
+          {
+            "name": "Kurtis Ruf",
+            "party": "rep",
+            "votes": 6157
+          }
+        ]
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Kansas House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91285,
+        "medianAge": 41.2,
+        "totalPopulation": 22712,
+        "collegePct": 33.82,
+        "renterRatePct": 15.38,
+        "race": {
+          "whitePct": 89.25,
+          "nonHispanicWhitePct": 87.54,
+          "blackPct": 1.26,
+          "asianPct": 0.84,
+          "hispanicPct": 4.47
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-50",
+        "winner": "Kyle McNorton",
+        "winnerParty": "rep",
+        "demVotes": 4396,
+        "repVotes": 8663,
+        "totalVotes": 13059,
+        "demPct": 33.66,
+        "repPct": 66.34,
+        "candidates": [
+          {
+            "name": "Kyle McNorton",
+            "party": "rep",
+            "votes": 8663
+          },
+          {
+            "name": "Jessica \"JP\" Porter",
+            "party": "dem",
+            "votes": 4396
+          }
+        ]
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Kansas House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83672,
+        "medianAge": 38.6,
+        "totalPopulation": 22594,
+        "collegePct": 35.23,
+        "renterRatePct": 17.32,
+        "race": {
+          "whitePct": 87.49,
+          "nonHispanicWhitePct": 85.5,
+          "blackPct": 1.95,
+          "asianPct": 0.77,
+          "hispanicPct": 7.52
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-51",
+        "winner": "Megan D. Steele",
+        "winnerParty": "rep",
+        "demVotes": 3672,
+        "repVotes": 8090,
+        "totalVotes": 11762,
+        "demPct": 31.22,
+        "repPct": 68.78,
+        "candidates": [
+          {
+            "name": "Megan D. Steele",
+            "party": "rep",
+            "votes": 8090
+          },
+          {
+            "name": "Linda Morse",
+            "party": "dem",
+            "votes": 3672
+          }
+        ]
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Kansas House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96543,
+        "medianAge": 45.3,
+        "totalPopulation": 23240,
+        "collegePct": 52.86,
+        "renterRatePct": 15.73,
+        "race": {
+          "whitePct": 87.65,
+          "nonHispanicWhitePct": 84.94,
+          "blackPct": 2.48,
+          "asianPct": 3.15,
+          "hispanicPct": 5.7
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-52",
+        "winner": "Jesse Borjon",
+        "winnerParty": "rep",
+        "demVotes": 6097,
+        "repVotes": 7646,
+        "totalVotes": 13743,
+        "demPct": 44.36,
+        "repPct": 55.64,
+        "candidates": [
+          {
+            "name": "Jesse Borjon",
+            "party": "rep",
+            "votes": 7646
+          },
+          {
+            "name": "Jacquie Whitney Lightcap",
+            "party": "dem",
+            "votes": 6097
+          }
+        ]
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Kansas House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66563,
+        "medianAge": 39.4,
+        "totalPopulation": 22269,
+        "collegePct": 34.28,
+        "renterRatePct": 43.66,
+        "race": {
+          "whitePct": 78.57,
+          "nonHispanicWhitePct": 74.41,
+          "blackPct": 5.8,
+          "asianPct": 2.59,
+          "hispanicPct": 12.11
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-53",
+        "winner": "Kirk R. Haskins",
+        "winnerParty": "dem",
+        "demVotes": 5556,
+        "repVotes": 4742,
+        "totalVotes": 10873,
+        "demPct": 51.1,
+        "repPct": 43.61,
+        "candidates": [
+          {
+            "name": "Kirk R. Haskins",
+            "party": "dem",
+            "votes": 5556
+          },
+          {
+            "name": "Jeff Coen",
+            "party": "rep",
+            "votes": 4742
+          },
+          {
+            "name": "Aric Hermann",
+            "party": "lib",
+            "votes": 575
+          }
+        ]
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Kansas House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84017,
+        "medianAge": 42.8,
+        "totalPopulation": 21847,
+        "collegePct": 30.99,
+        "renterRatePct": 19.41,
+        "race": {
+          "whitePct": 86.2,
+          "nonHispanicWhitePct": 84.8,
+          "blackPct": 4.9,
+          "asianPct": 0.2,
+          "hispanicPct": 6.06
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-54",
+        "winner": "Ken Corbet",
+        "winnerParty": "rep",
+        "demVotes": 3825,
+        "repVotes": 8028,
+        "totalVotes": 11853,
+        "demPct": 32.27,
+        "repPct": 67.73,
+        "candidates": [
+          {
+            "name": "Ken Corbet",
+            "party": "rep",
+            "votes": 8028
+          },
+          {
+            "name": "Jade Pearson Ramsdell",
+            "party": "dem",
+            "votes": 3825
+          }
+        ]
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Kansas House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58801,
+        "medianAge": 35.7,
+        "totalPopulation": 23383,
+        "collegePct": 36.09,
+        "renterRatePct": 40.48,
+        "race": {
+          "whitePct": 76.87,
+          "nonHispanicWhitePct": 73.74,
+          "blackPct": 5.82,
+          "asianPct": 1.19,
+          "hispanicPct": 12.62
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-55",
+        "winner": "Tobias Schlingensiepen",
+        "winnerParty": "dem",
+        "demVotes": 5662,
+        "repVotes": 3292,
+        "totalVotes": 8954,
+        "demPct": 63.23,
+        "repPct": 36.77,
+        "candidates": [
+          {
+            "name": "Tobias Schlingensiepen",
+            "party": "dem",
+            "votes": 5662
+          },
+          {
+            "name": "Michael Barron",
+            "party": "rep",
+            "votes": 3292
+          }
+        ]
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Kansas House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62166,
+        "medianAge": 40.7,
+        "totalPopulation": 25179,
+        "collegePct": 34.18,
+        "renterRatePct": 40.75,
+        "race": {
+          "whitePct": 72.72,
+          "nonHispanicWhitePct": 69.34,
+          "blackPct": 9.35,
+          "asianPct": 2.21,
+          "hispanicPct": 10.73
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-56",
+        "winner": "Virgil Weigel",
+        "winnerParty": "dem",
+        "demVotes": 5925,
+        "repVotes": 4918,
+        "totalVotes": 10843,
+        "demPct": 54.64,
+        "repPct": 45.36,
+        "candidates": [
+          {
+            "name": "Virgil Weigel",
+            "party": "dem",
+            "votes": 5925
+          },
+          {
+            "name": "Pennie Boyer-Kloos",
+            "party": "rep",
+            "votes": 4918
+          }
+        ]
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Kansas House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50289,
+        "medianAge": 39.3,
+        "totalPopulation": 25121,
+        "collegePct": 13.43,
+        "renterRatePct": 37.52,
+        "race": {
+          "whitePct": 67.67,
+          "nonHispanicWhitePct": 58.75,
+          "blackPct": 11.26,
+          "asianPct": 0.15,
+          "hispanicPct": 25.28
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-57",
+        "winner": "John Alcala",
+        "winnerParty": "dem",
+        "demVotes": 4140,
+        "repVotes": 2882,
+        "totalVotes": 7022,
+        "demPct": 58.96,
+        "repPct": 41.04,
+        "candidates": [
+          {
+            "name": "John Alcala",
+            "party": "dem",
+            "votes": 4140
+          },
+          {
+            "name": "Donna J. McGinty",
+            "party": "rep",
+            "votes": 2882
+          }
+        ]
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Kansas House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48470,
+        "medianAge": 36.4,
+        "totalPopulation": 21972,
+        "collegePct": 18.31,
+        "renterRatePct": 42.24,
+        "race": {
+          "whitePct": 55.27,
+          "nonHispanicWhitePct": 47.24,
+          "blackPct": 17.49,
+          "asianPct": 0.9,
+          "hispanicPct": 28.14
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-58",
+        "winner": "Alexis Simmons",
+        "winnerParty": "dem",
+        "demVotes": 4759,
+        "repVotes": 2731,
+        "totalVotes": 7490,
+        "demPct": 63.54,
+        "repPct": 36.46,
+        "candidates": [
+          {
+            "name": "Alexis Simmons",
+            "party": "dem",
+            "votes": 4759
+          },
+          {
+            "name": "Michael Mathewson",
+            "party": "rep",
+            "votes": 2731
+          }
+        ]
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Kansas House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70663,
+        "medianAge": 39.9,
+        "totalPopulation": 22909,
+        "collegePct": 25.67,
+        "renterRatePct": 27.36,
+        "race": {
+          "whitePct": 91.16,
+          "nonHispanicWhitePct": 89.52,
+          "blackPct": 0.9,
+          "asianPct": 0.7,
+          "hispanicPct": 4.17
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-59",
+        "winner": "Rebecca Schmoe",
+        "winnerParty": "rep",
+        "demVotes": 3030,
+        "repVotes": 7895,
+        "totalVotes": 10925,
+        "demPct": 27.73,
+        "repPct": 72.27,
+        "candidates": [
+          {
+            "name": "Rebecca Schmoe",
+            "party": "rep",
+            "votes": 7895
+          },
+          {
+            "name": "Michael Lewis",
+            "party": "dem",
+            "votes": 3030
+          }
+        ]
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Kansas House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55941,
+        "medianAge": 30.5,
+        "totalPopulation": 23204,
+        "collegePct": 29,
+        "renterRatePct": 49.7,
+        "race": {
+          "whitePct": 71.82,
+          "nonHispanicWhitePct": 66.24,
+          "blackPct": 2.02,
+          "asianPct": 2.46,
+          "hispanicPct": 25.12
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-60",
+        "winner": "Mark Schreiber",
+        "winnerParty": "rep",
+        "demVotes": 3580,
+        "repVotes": 4948,
+        "totalVotes": 8528,
+        "demPct": 41.98,
+        "repPct": 58.02,
+        "candidates": [
+          {
+            "name": "Mark Schreiber",
+            "party": "rep",
+            "votes": 4948
+          },
+          {
+            "name": "Mic McGuire",
+            "party": "dem",
+            "votes": 3580
+          }
+        ]
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Kansas House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70037,
+        "medianAge": 36.2,
+        "totalPopulation": 21632,
+        "collegePct": 28.31,
+        "renterRatePct": 29.18,
+        "race": {
+          "whitePct": 84.67,
+          "nonHispanicWhitePct": 82.21,
+          "blackPct": 1.47,
+          "asianPct": 0.43,
+          "hispanicPct": 8.58
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-61",
+        "winner": "Francis Awerkamp",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 6678,
+        "totalVotes": 10278,
+        "demPct": 0,
+        "repPct": 64.97,
+        "candidates": [
+          {
+            "name": "Francis Awerkamp",
+            "party": "rep",
+            "votes": 6678
+          },
+          {
+            "name": "Robert Thomas",
+            "party": "lib",
+            "votes": 3600
+          }
+        ]
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Kansas House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69375,
+        "medianAge": 41.2,
+        "totalPopulation": 23383,
+        "collegePct": 24.16,
+        "renterRatePct": 21.78,
+        "race": {
+          "whitePct": 89.59,
+          "nonHispanicWhitePct": 88.44,
+          "blackPct": 0.91,
+          "asianPct": 0.33,
+          "hispanicPct": 3
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-62",
+        "winner": "Sean M. Willcott",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 9874,
+        "totalVotes": 9874,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Sean M. Willcott",
+            "party": "rep",
+            "votes": 9874
+          }
+        ]
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Kansas House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66173,
+        "medianAge": 37.8,
+        "totalPopulation": 23703,
+        "collegePct": 22.45,
+        "renterRatePct": 23.95,
+        "race": {
+          "whitePct": 88.5,
+          "nonHispanicWhitePct": 87.06,
+          "blackPct": 3.91,
+          "asianPct": 0.49,
+          "hispanicPct": 3.46
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-63",
+        "winner": "Allen B. Reavis",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 8881,
+        "totalVotes": 8881,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Allen B. Reavis",
+            "party": "rep",
+            "votes": 8881
+          }
+        ]
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Kansas House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67159,
+        "medianAge": 33.7,
+        "totalPopulation": 21878,
+        "collegePct": 29.34,
+        "renterRatePct": 20.38,
+        "race": {
+          "whitePct": 87.64,
+          "nonHispanicWhitePct": 84.92,
+          "blackPct": 6.74,
+          "asianPct": 1.45,
+          "hispanicPct": 4.37
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-64",
+        "winner": "Lewis (Bill) Bloom",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 8214,
+        "totalVotes": 8214,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Lewis (Bill) Bloom",
+            "party": "rep",
+            "votes": 8214
+          }
+        ]
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Kansas House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62438,
+        "medianAge": 27.7,
+        "totalPopulation": 22667,
+        "collegePct": 22.79,
+        "renterRatePct": 55.32,
+        "race": {
+          "whitePct": 62.12,
+          "nonHispanicWhitePct": 57.07,
+          "blackPct": 15.31,
+          "asianPct": 2.37,
+          "hispanicPct": 17.03
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-65",
+        "winner": "Shawn Chauncey",
+        "winnerParty": "rep",
+        "demVotes": 2653,
+        "repVotes": 3519,
+        "totalVotes": 6172,
+        "demPct": 42.98,
+        "repPct": 57.02,
+        "candidates": [
+          {
+            "name": "Shawn Chauncey",
+            "party": "rep",
+            "votes": 3519
+          },
+          {
+            "name": "Lorraine M Ceniceros",
+            "party": "dem",
+            "votes": 2653
+          }
+        ]
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "Kansas House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 37250,
+        "medianAge": 21.9,
+        "totalPopulation": 26321,
+        "collegePct": 46.59,
+        "renterRatePct": 73.02,
+        "race": {
+          "whitePct": 79.99,
+          "nonHispanicWhitePct": 77.58,
+          "blackPct": 3.72,
+          "asianPct": 5.16,
+          "hispanicPct": 7.57
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-66",
+        "winner": "Sydney Carlin",
+        "winnerParty": "dem",
+        "demVotes": 4546,
+        "repVotes": 0,
+        "totalVotes": 4546,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Sydney Carlin",
+            "party": "dem",
+            "votes": 4546
+          }
+        ]
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "Kansas House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83620,
+        "medianAge": 35,
+        "totalPopulation": 23055,
+        "collegePct": 59.54,
+        "renterRatePct": 47.65,
+        "race": {
+          "whitePct": 80.09,
+          "nonHispanicWhitePct": 75.3,
+          "blackPct": 5.23,
+          "asianPct": 3.85,
+          "hispanicPct": 9.03
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-67",
+        "winner": "Angel Roeser",
+        "winnerParty": "rep",
+        "demVotes": 5175,
+        "repVotes": 5704,
+        "totalVotes": 10879,
+        "demPct": 47.57,
+        "repPct": 52.43,
+        "candidates": [
+          {
+            "name": "Angel Roeser",
+            "party": "rep",
+            "votes": 5704
+          },
+          {
+            "name": "Kim Zito",
+            "party": "dem",
+            "votes": 5175
+          }
+        ]
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "Kansas House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55969,
+        "medianAge": 27.3,
+        "totalPopulation": 25275,
+        "collegePct": 28.1,
+        "renterRatePct": 53.63,
+        "race": {
+          "whitePct": 67.71,
+          "nonHispanicWhitePct": 62.5,
+          "blackPct": 12.87,
+          "asianPct": 3.81,
+          "hispanicPct": 13.63
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-68",
+        "winner": "Nathan (Nate) Butler",
+        "winnerParty": "rep",
+        "demVotes": 1990,
+        "repVotes": 4417,
+        "totalVotes": 6407,
+        "demPct": 31.06,
+        "repPct": 68.94,
+        "candidates": [
+          {
+            "name": "Nathan (Nate) Butler",
+            "party": "rep",
+            "votes": 4417
+          },
+          {
+            "name": "Michael Seymour II",
+            "party": "dem",
+            "votes": 1990
+          }
+        ]
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "Kansas House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65876,
+        "medianAge": 38.3,
+        "totalPopulation": 24113,
+        "collegePct": 24.82,
+        "renterRatePct": 27.66,
+        "race": {
+          "whitePct": 81.49,
+          "nonHispanicWhitePct": 73.56,
+          "blackPct": 4.59,
+          "asianPct": 3.4,
+          "hispanicPct": 15.94
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-69",
+        "winner": "Clarke Sanders",
+        "winnerParty": "rep",
+        "demVotes": 4013,
+        "repVotes": 5590,
+        "totalVotes": 9603,
+        "demPct": 41.79,
+        "repPct": 58.21,
+        "candidates": [
+          {
+            "name": "Clarke Sanders",
+            "party": "rep",
+            "votes": 5590
+          },
+          {
+            "name": "Lori Blake",
+            "party": "dem",
+            "votes": 4013
+          }
+        ]
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "Kansas House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66293,
+        "medianAge": 43,
+        "totalPopulation": 22996,
+        "collegePct": 22.68,
+        "renterRatePct": 20.99,
+        "race": {
+          "whitePct": 91.85,
+          "nonHispanicWhitePct": 89.19,
+          "blackPct": 0.33,
+          "asianPct": 0.39,
+          "hispanicPct": 5.46
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-70",
+        "winner": "Scott Hill",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 9874,
+        "totalVotes": 9874,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Scott Hill",
+            "party": "rep",
+            "votes": 9874
+          }
+        ]
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "Kansas House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61696,
+        "medianAge": 41.8,
+        "totalPopulation": 23462,
+        "collegePct": 35.35,
+        "renterRatePct": 35.32,
+        "race": {
+          "whitePct": 88.29,
+          "nonHispanicWhitePct": 83.65,
+          "blackPct": 2.99,
+          "asianPct": 1.11,
+          "hispanicPct": 9.61
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-71",
+        "winner": "Steven K. Howe",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 9223,
+        "totalVotes": 9223,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Steven K. Howe",
+            "party": "rep",
+            "votes": 9223
+          }
+        ]
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "Kansas House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68859,
+        "medianAge": 40.4,
+        "totalPopulation": 22865,
+        "collegePct": 28.79,
+        "renterRatePct": 29.32,
+        "race": {
+          "whitePct": 82.74,
+          "nonHispanicWhitePct": 76.79,
+          "blackPct": 1.17,
+          "asianPct": 0.12,
+          "hispanicPct": 16.36
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-72",
+        "winner": "Avery Anderson",
+        "winnerParty": "rep",
+        "demVotes": 3633,
+        "repVotes": 6788,
+        "totalVotes": 10421,
+        "demPct": 34.86,
+        "repPct": 65.14,
+        "candidates": [
+          {
+            "name": "Avery Anderson",
+            "party": "rep",
+            "votes": 6788
+          },
+          {
+            "name": "Heidi Hoskinson",
+            "party": "dem",
+            "votes": 3633
+          }
+        ]
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "Kansas House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78913,
+        "medianAge": 37.5,
+        "totalPopulation": 23746,
+        "collegePct": 35.82,
+        "renterRatePct": 25.74,
+        "race": {
+          "whitePct": 92.29,
+          "nonHispanicWhitePct": 88.51,
+          "blackPct": 2.03,
+          "asianPct": 0.92,
+          "hispanicPct": 5.89
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-73",
+        "winner": "Richard Wilborn",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 8973,
+        "totalVotes": 8973,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Richard Wilborn",
+            "party": "rep",
+            "votes": 8973
+          }
+        ]
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "Kansas House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73365,
+        "medianAge": 40.5,
+        "totalPopulation": 22782,
+        "collegePct": 33.69,
+        "renterRatePct": 26.35,
+        "race": {
+          "whitePct": 92,
+          "nonHispanicWhitePct": 90.87,
+          "blackPct": 1.28,
+          "asianPct": 1.16,
+          "hispanicPct": 3.45
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-74",
+        "winner": "Mike King",
+        "winnerParty": "rep",
+        "demVotes": 3236,
+        "repVotes": 7794,
+        "totalVotes": 11030,
+        "demPct": 29.34,
+        "repPct": 70.66,
+        "candidates": [
+          {
+            "name": "Mike King",
+            "party": "rep",
+            "votes": 7794
+          },
+          {
+            "name": "Jenna Ratzlaff",
+            "party": "dem",
+            "votes": 3236
+          }
+        ]
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "Kansas House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60038,
+        "medianAge": 37.3,
+        "totalPopulation": 23873,
+        "collegePct": 23.93,
+        "renterRatePct": 27.41,
+        "race": {
+          "whitePct": 87.77,
+          "nonHispanicWhitePct": 85.78,
+          "blackPct": 3.99,
+          "asianPct": 0.98,
+          "hispanicPct": 5.34
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-75",
+        "winner": "Will Carpenter",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 8995,
+        "totalVotes": 8995,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Will Carpenter",
+            "party": "rep",
+            "votes": 8995
+          }
+        ]
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "Kansas House District 76",
+      "census": {
+        "censusName": "State House District 76 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70214,
+        "medianAge": 42.3,
+        "totalPopulation": 23388,
+        "collegePct": 22.7,
+        "renterRatePct": 21.12,
+        "race": {
+          "whitePct": 92.19,
+          "nonHispanicWhitePct": 89.64,
+          "blackPct": 0.58,
+          "asianPct": 0.35,
+          "hispanicPct": 6.29
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-76",
+        "winner": "Brad Barrett",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 10083,
+        "totalVotes": 10083,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Brad Barrett",
+            "party": "rep",
+            "votes": 10083
+          }
+        ]
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "Kansas House District 77",
+      "census": {
+        "censusName": "State House District 77 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80704,
+        "medianAge": 39.4,
+        "totalPopulation": 24177,
+        "collegePct": 31.46,
+        "renterRatePct": 20.71,
+        "race": {
+          "whitePct": 90.86,
+          "nonHispanicWhitePct": 88.8,
+          "blackPct": 0.95,
+          "asianPct": 0.62,
+          "hispanicPct": 5.95
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-77",
+        "winner": "Kristey S. Williams",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 9340,
+        "totalVotes": 9340,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Kristey S. Williams",
+            "party": "rep",
+            "votes": 9340
+          }
+        ]
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "Kansas House District 78",
+      "census": {
+        "censusName": "State House District 78 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 129773,
+        "medianAge": 35.4,
+        "totalPopulation": 23301,
+        "collegePct": 53.93,
+        "renterRatePct": 5.55,
+        "race": {
+          "whitePct": 83.35,
+          "nonHispanicWhitePct": 78.9,
+          "blackPct": 2.64,
+          "asianPct": 5,
+          "hispanicPct": 8.15
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-78",
+        "winner": "Robyn R. Essex",
+        "winnerParty": "rep",
+        "demVotes": 5767,
+        "repVotes": 6880,
+        "totalVotes": 12647,
+        "demPct": 45.6,
+        "repPct": 54.4,
+        "candidates": [
+          {
+            "name": "Robyn R. Essex",
+            "party": "rep",
+            "votes": 6880
+          },
+          {
+            "name": "Daniel Goodman",
+            "party": "dem",
+            "votes": 5767
+          }
+        ]
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "Kansas House District 79",
+      "census": {
+        "censusName": "State House District 79 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64442,
+        "medianAge": 41.2,
+        "totalPopulation": 23258,
+        "collegePct": 29.12,
+        "renterRatePct": 26.63,
+        "race": {
+          "whitePct": 87.03,
+          "nonHispanicWhitePct": 84.49,
+          "blackPct": 1.57,
+          "asianPct": 2.06,
+          "hispanicPct": 6.7
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-79",
+        "winner": "Webster T. Roth",
+        "winnerParty": "rep",
+        "demVotes": 2806,
+        "repVotes": 7491,
+        "totalVotes": 10297,
+        "demPct": 27.25,
+        "repPct": 72.75,
+        "candidates": [
+          {
+            "name": "Webster T. Roth",
+            "party": "rep",
+            "votes": 7491
+          },
+          {
+            "name": "Siobhan McIntyre",
+            "party": "dem",
+            "votes": 2806
+          }
+        ]
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "Kansas House District 80",
+      "census": {
+        "censusName": "State House District 80 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54116,
+        "medianAge": 37.7,
+        "totalPopulation": 24044,
+        "collegePct": 20.51,
+        "renterRatePct": 32.33,
+        "race": {
+          "whitePct": 81.54,
+          "nonHispanicWhitePct": 73.98,
+          "blackPct": 2.55,
+          "asianPct": 1.06,
+          "hispanicPct": 14.83
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-80",
+        "winner": "Bill Rhiley",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 7369,
+        "totalVotes": 7369,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Bill Rhiley",
+            "party": "rep",
+            "votes": 7369
+          }
+        ]
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "Kansas House District 81",
+      "census": {
+        "censusName": "State House District 81 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64509,
+        "medianAge": 32.5,
+        "totalPopulation": 22467,
+        "collegePct": 28.9,
+        "renterRatePct": 47.58,
+        "race": {
+          "whitePct": 70.14,
+          "nonHispanicWhitePct": 64.58,
+          "blackPct": 6.4,
+          "asianPct": 5.07,
+          "hispanicPct": 16.26
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-81",
+        "winner": "Blake Carpenter",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 5896,
+        "totalVotes": 5896,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Blake Carpenter",
+            "party": "rep",
+            "votes": 5896
+          }
+        ]
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "Kansas House District 82",
+      "census": {
+        "censusName": "State House District 82 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81851,
+        "medianAge": 39.2,
+        "totalPopulation": 23406,
+        "collegePct": 34.96,
+        "renterRatePct": 20.45,
+        "race": {
+          "whitePct": 84.62,
+          "nonHispanicWhitePct": 82.27,
+          "blackPct": 0.88,
+          "asianPct": 0.65,
+          "hispanicPct": 10.42
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-82",
+        "winner": "Leah Howell",
+        "winnerParty": "rep",
+        "demVotes": 3626,
+        "repVotes": 7464,
+        "totalVotes": 11090,
+        "demPct": 32.7,
+        "repPct": 67.3,
+        "candidates": [
+          {
+            "name": "Leah Howell",
+            "party": "rep",
+            "votes": 7464
+          },
+          {
+            "name": "Kyle Beauchamp",
+            "party": "dem",
+            "votes": 3626
+          }
+        ]
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "Kansas House District 83",
+      "census": {
+        "censusName": "State House District 83 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50629,
+        "medianAge": 34.9,
+        "totalPopulation": 23020,
+        "collegePct": 25.65,
+        "renterRatePct": 48.36,
+        "race": {
+          "whitePct": 56.68,
+          "nonHispanicWhitePct": 51.78,
+          "blackPct": 15.89,
+          "asianPct": 3.85,
+          "hispanicPct": 20.7
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-83",
+        "winner": "Henry Helgerson",
+        "winnerParty": "dem",
+        "demVotes": 4037,
+        "repVotes": 2921,
+        "totalVotes": 6958,
+        "demPct": 58.02,
+        "repPct": 41.98,
+        "candidates": [
+          {
+            "name": "Henry Helgerson",
+            "party": "dem",
+            "votes": 4037
+          },
+          {
+            "name": "Erik Seligman",
+            "party": "rep",
+            "votes": 2921
+          }
+        ]
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "Kansas House District 84",
+      "census": {
+        "censusName": "State House District 84 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46491,
+        "medianAge": 33.6,
+        "totalPopulation": 24045,
+        "collegePct": 32.29,
+        "renterRatePct": 52,
+        "race": {
+          "whitePct": 50.43,
+          "nonHispanicWhitePct": 44.94,
+          "blackPct": 24.65,
+          "asianPct": 2.43,
+          "hispanicPct": 21.57
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-84",
+        "winner": "Ford Carr",
+        "winnerParty": "dem",
+        "demVotes": 5195,
+        "repVotes": 0,
+        "totalVotes": 5195,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Ford Carr",
+            "party": "dem",
+            "votes": 5195
+          }
+        ]
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "Kansas House District 85",
+      "census": {
+        "censusName": "State House District 85 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93439,
+        "medianAge": 36.3,
+        "totalPopulation": 23941,
+        "collegePct": 55.47,
+        "renterRatePct": 40.28,
+        "race": {
+          "whitePct": 75.66,
+          "nonHispanicWhitePct": 72.68,
+          "blackPct": 10.29,
+          "asianPct": 6.27,
+          "hispanicPct": 5.9
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-85",
+        "winner": "Patrick A. Penn",
+        "winnerParty": "rep",
+        "demVotes": 5005,
+        "repVotes": 6870,
+        "totalVotes": 11875,
+        "demPct": 42.15,
+        "repPct": 57.85,
+        "candidates": [
+          {
+            "name": "Patrick A. Penn",
+            "party": "rep",
+            "votes": 6870
+          },
+          {
+            "name": "Aonya Kendrick Barnett",
+            "party": "dem",
+            "votes": 5005
+          }
+        ]
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "Kansas House District 86",
+      "census": {
+        "censusName": "State House District 86 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48745,
+        "medianAge": 35.7,
+        "totalPopulation": 23871,
+        "collegePct": 14.92,
+        "renterRatePct": 50.85,
+        "race": {
+          "whitePct": 56.99,
+          "nonHispanicWhitePct": 50.82,
+          "blackPct": 11.73,
+          "asianPct": 2.96,
+          "hispanicPct": 23.99
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-86",
+        "winner": "Silas Miller",
+        "winnerParty": "dem",
+        "demVotes": 4098,
+        "repVotes": 0,
+        "totalVotes": 4098,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Silas Miller",
+            "party": "dem",
+            "votes": 4098
+          }
+        ]
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "Kansas House District 87",
+      "census": {
+        "censusName": "State House District 87 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79609,
+        "medianAge": 37.6,
+        "totalPopulation": 24418,
+        "collegePct": 54.53,
+        "renterRatePct": 42.22,
+        "race": {
+          "whitePct": 71.27,
+          "nonHispanicWhitePct": 68.83,
+          "blackPct": 8.67,
+          "asianPct": 8.64,
+          "hispanicPct": 9.15
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-87",
+        "winner": "Susan Oliver Estes",
+        "winnerParty": "rep",
+        "demVotes": 5140,
+        "repVotes": 6105,
+        "totalVotes": 11245,
+        "demPct": 45.71,
+        "repPct": 54.29,
+        "candidates": [
+          {
+            "name": "Susan Oliver Estes",
+            "party": "rep",
+            "votes": 6105
+          },
+          {
+            "name": "Mike Snider",
+            "party": "dem",
+            "votes": 5140
+          }
+        ]
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "Kansas House District 88",
+      "census": {
+        "censusName": "State House District 88 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73572,
+        "medianAge": 34.7,
+        "totalPopulation": 23921,
+        "collegePct": 31.15,
+        "renterRatePct": 48.04,
+        "race": {
+          "whitePct": 56.46,
+          "nonHispanicWhitePct": 48.61,
+          "blackPct": 14.08,
+          "asianPct": 15.71,
+          "hispanicPct": 14.09
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-88",
+        "winner": "Sandy Pickert",
+        "winnerParty": "rep",
+        "demVotes": 4337,
+        "repVotes": 4524,
+        "totalVotes": 8861,
+        "demPct": 48.94,
+        "repPct": 51.06,
+        "candidates": [
+          {
+            "name": "Sandy Pickert",
+            "party": "rep",
+            "votes": 4524
+          },
+          {
+            "name": "Veronica Gillette",
+            "party": "dem",
+            "votes": 4337
+          }
+        ]
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "Kansas House District 89",
+      "census": {
+        "censusName": "State House District 89 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56511,
+        "medianAge": 31.4,
+        "totalPopulation": 23489,
+        "collegePct": 34.42,
+        "renterRatePct": 46.03,
+        "race": {
+          "whitePct": 51.23,
+          "nonHispanicWhitePct": 45.57,
+          "blackPct": 26.91,
+          "asianPct": 7.37,
+          "hispanicPct": 14.5
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-89",
+        "winner": "KC Ohaebosim",
+        "winnerParty": "dem",
+        "demVotes": 5967,
+        "repVotes": 0,
+        "totalVotes": 5967,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "KC Ohaebosim",
+            "party": "dem",
+            "votes": 5967
+          }
+        ]
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "Kansas House District 90",
+      "census": {
+        "censusName": "State House District 90 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87347,
+        "medianAge": 40.2,
+        "totalPopulation": 24019,
+        "collegePct": 43.62,
+        "renterRatePct": 29.66,
+        "race": {
+          "whitePct": 89.68,
+          "nonHispanicWhitePct": 86.24,
+          "blackPct": 0.95,
+          "asianPct": 1.48,
+          "hispanicPct": 7.32
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-90",
+        "winner": "Steve Huebert",
+        "winnerParty": "rep",
+        "demVotes": 3373,
+        "repVotes": 8243,
+        "totalVotes": 11616,
+        "demPct": 29.04,
+        "repPct": 70.96,
+        "candidates": [
+          {
+            "name": "Steve Huebert",
+            "party": "rep",
+            "votes": 8243
+          },
+          {
+            "name": "Tracy Edingfield",
+            "party": "dem",
+            "votes": 3373
+          }
+        ]
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "Kansas House District 91",
+      "census": {
+        "censusName": "State House District 91 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92500,
+        "medianAge": 35.9,
+        "totalPopulation": 25266,
+        "collegePct": 37.26,
+        "renterRatePct": 18.95,
+        "race": {
+          "whitePct": 80.94,
+          "nonHispanicWhitePct": 78.26,
+          "blackPct": 3.46,
+          "asianPct": 4.04,
+          "hispanicPct": 7.55
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-91",
+        "winner": "Emil Bergquist",
+        "winnerParty": "rep",
+        "demVotes": 4216,
+        "repVotes": 8145,
+        "totalVotes": 12361,
+        "demPct": 34.11,
+        "repPct": 65.89,
+        "candidates": [
+          {
+            "name": "Emil Bergquist",
+            "party": "rep",
+            "votes": 8145
+          },
+          {
+            "name": "Keisha McClish Couts",
+            "party": "dem",
+            "votes": 4216
+          }
+        ]
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "Kansas House District 92",
+      "census": {
+        "censusName": "State House District 92 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55707,
+        "medianAge": 38.2,
+        "totalPopulation": 24175,
+        "collegePct": 29.16,
+        "renterRatePct": 45.78,
+        "race": {
+          "whitePct": 70.13,
+          "nonHispanicWhitePct": 58.97,
+          "blackPct": 6.93,
+          "asianPct": 1.68,
+          "hispanicPct": 28.58
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-92",
+        "winner": "John Carmichael",
+        "winnerParty": "dem",
+        "demVotes": 6116,
+        "repVotes": 0,
+        "totalVotes": 6116,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "John Carmichael",
+            "party": "dem",
+            "votes": 6116
+          }
+        ]
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "Kansas House District 93",
+      "census": {
+        "censusName": "State House District 93 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88545,
+        "medianAge": 39.4,
+        "totalPopulation": 22790,
+        "collegePct": 27.74,
+        "renterRatePct": 13.94,
+        "race": {
+          "whitePct": 88.76,
+          "nonHispanicWhitePct": 84.13,
+          "blackPct": 0.52,
+          "asianPct": 1.25,
+          "hispanicPct": 8.11
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-93",
+        "winner": "Brian Bergkamp",
+        "winnerParty": "rep",
+        "demVotes": 2863,
+        "repVotes": 8464,
+        "totalVotes": 11327,
+        "demPct": 25.28,
+        "repPct": 74.72,
+        "candidates": [
+          {
+            "name": "Brian Bergkamp",
+            "party": "rep",
+            "votes": 8464
+          },
+          {
+            "name": "Justin L. Shore",
+            "party": "dem",
+            "votes": 2863
+          }
+        ]
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "Kansas House District 94",
+      "census": {
+        "censusName": "State House District 94 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101539,
+        "medianAge": 40.6,
+        "totalPopulation": 22664,
+        "collegePct": 40.57,
+        "renterRatePct": 12.53,
+        "race": {
+          "whitePct": 84.79,
+          "nonHispanicWhitePct": 81.74,
+          "blackPct": 3.45,
+          "asianPct": 1.52,
+          "hispanicPct": 7.12
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-94",
+        "winner": "Leo Delperdang",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 8812,
+        "totalVotes": 8812,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Leo Delperdang",
+            "party": "rep",
+            "votes": 8812
+          }
+        ]
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "Kansas House District 95",
+      "census": {
+        "censusName": "State House District 95 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45900,
+        "medianAge": 35.1,
+        "totalPopulation": 23001,
+        "collegePct": 14.06,
+        "renterRatePct": 54.07,
+        "race": {
+          "whitePct": 70.38,
+          "nonHispanicWhitePct": 60.53,
+          "blackPct": 7.21,
+          "asianPct": 3.28,
+          "hispanicPct": 23.18
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-95",
+        "winner": "Tom Sawyer",
+        "winnerParty": "dem",
+        "demVotes": 3289,
+        "repVotes": 2806,
+        "totalVotes": 6095,
+        "demPct": 53.96,
+        "repPct": 46.04,
+        "candidates": [
+          {
+            "name": "Tom Sawyer",
+            "party": "dem",
+            "votes": 3289
+          },
+          {
+            "name": "Christopher Parisho",
+            "party": "rep",
+            "votes": 2806
+          }
+        ]
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "Kansas House District 96",
+      "census": {
+        "censusName": "State House District 96 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48824,
+        "medianAge": 34.9,
+        "totalPopulation": 21871,
+        "collegePct": 10.74,
+        "renterRatePct": 45.28,
+        "race": {
+          "whitePct": 62.8,
+          "nonHispanicWhitePct": 58.63,
+          "blackPct": 6.05,
+          "asianPct": 6.5,
+          "hispanicPct": 20.29
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-96",
+        "winner": "Tom Kessler",
+        "winnerParty": "rep",
+        "demVotes": 2412,
+        "repVotes": 2947,
+        "totalVotes": 5663,
+        "demPct": 42.59,
+        "repPct": 52.04,
+        "candidates": [
+          {
+            "name": "Tom Kessler",
+            "party": "rep",
+            "votes": 2947
+          },
+          {
+            "name": "Dan Johnson",
+            "party": "dem",
+            "votes": 2412
+          },
+          {
+            "name": "Joseph Trotter",
+            "party": "lib",
+            "votes": 304
+          }
+        ]
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "Kansas House District 97",
+      "census": {
+        "censusName": "State House District 97 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72750,
+        "medianAge": 34.2,
+        "totalPopulation": 24631,
+        "collegePct": 26.05,
+        "renterRatePct": 27.31,
+        "race": {
+          "whitePct": 71.47,
+          "nonHispanicWhitePct": 64.69,
+          "blackPct": 5.29,
+          "asianPct": 4.31,
+          "hispanicPct": 19.51
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-97",
+        "winner": "Nick Hoheisel",
+        "winnerParty": "rep",
+        "demVotes": 3244,
+        "repVotes": 5177,
+        "totalVotes": 8421,
+        "demPct": 38.52,
+        "repPct": 61.48,
+        "candidates": [
+          {
+            "name": "Nick Hoheisel",
+            "party": "rep",
+            "votes": 5177
+          },
+          {
+            "name": "Christine Pruitt",
+            "party": "dem",
+            "votes": 3244
+          }
+        ]
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "Kansas House District 98",
+      "census": {
+        "censusName": "State House District 98 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63189,
+        "medianAge": 34.4,
+        "totalPopulation": 24289,
+        "collegePct": 11.98,
+        "renterRatePct": 31.97,
+        "race": {
+          "whitePct": 74.68,
+          "nonHispanicWhitePct": 67.34,
+          "blackPct": 4.48,
+          "asianPct": 4.87,
+          "hispanicPct": 15.77
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-98",
+        "winner": "Cyndi Howerton",
+        "winnerParty": "rep",
+        "demVotes": 2654,
+        "repVotes": 4370,
+        "totalVotes": 7024,
+        "demPct": 37.78,
+        "repPct": 62.22,
+        "candidates": [
+          {
+            "name": "Cyndi Howerton",
+            "party": "rep",
+            "votes": 4370
+          },
+          {
+            "name": "Carol Brewer",
+            "party": "dem",
+            "votes": 2654
+          }
+        ]
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "Kansas House District 99",
+      "census": {
+        "censusName": "State House District 99 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 126083,
+        "medianAge": 38,
+        "totalPopulation": 23246,
+        "collegePct": 58.44,
+        "renterRatePct": 15.07,
+        "race": {
+          "whitePct": 79.94,
+          "nonHispanicWhitePct": 77.57,
+          "blackPct": 2.8,
+          "asianPct": 8.43,
+          "hispanicPct": 6.06
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-99",
+        "winner": "Susan Humphries",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 9696,
+        "totalVotes": 9696,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Susan Humphries",
+            "party": "rep",
+            "votes": 9696
+          }
+        ]
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "Kansas House District 100",
+      "census": {
+        "censusName": "State House District 100 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86607,
+        "medianAge": 39.3,
+        "totalPopulation": 23963,
+        "collegePct": 37.77,
+        "renterRatePct": 25.63,
+        "race": {
+          "whitePct": 80.94,
+          "nonHispanicWhitePct": 74.45,
+          "blackPct": 2.28,
+          "asianPct": 1.53,
+          "hispanicPct": 12.36
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-100",
+        "winner": "Daniel Hawkins",
+        "winnerParty": "rep",
+        "demVotes": 4753,
+        "repVotes": 7368,
+        "totalVotes": 12121,
+        "demPct": 39.21,
+        "repPct": 60.79,
+        "candidates": [
+          {
+            "name": "Daniel Hawkins",
+            "party": "rep",
+            "votes": 7368
+          },
+          {
+            "name": "Mike McCorkle",
+            "party": "dem",
+            "votes": 4753
+          }
+        ]
+      }
+    },
+    "101": {
+      "districtNumber": 101,
+      "districtName": "Kansas House District 101",
+      "census": {
+        "censusName": "State House District 101 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101855,
+        "medianAge": 38.2,
+        "totalPopulation": 24072,
+        "collegePct": 38.75,
+        "renterRatePct": 12.57,
+        "race": {
+          "whitePct": 91.98,
+          "nonHispanicWhitePct": 89.37,
+          "blackPct": 0.83,
+          "asianPct": 0.61,
+          "hispanicPct": 6.12
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-101",
+        "winner": "Joe Seiwert",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 10267,
+        "totalVotes": 10267,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Joe Seiwert",
+            "party": "rep",
+            "votes": 10267
+          }
+        ]
+      }
+    },
+    "102": {
+      "districtNumber": 102,
+      "districtName": "Kansas House District 102",
+      "census": {
+        "censusName": "State House District 102 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51451,
+        "medianAge": 36.1,
+        "totalPopulation": 24253,
+        "collegePct": 11.16,
+        "renterRatePct": 43.28,
+        "race": {
+          "whitePct": 78.69,
+          "nonHispanicWhitePct": 73.46,
+          "blackPct": 5.08,
+          "asianPct": 0.79,
+          "hispanicPct": 14.89
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-102",
+        "winner": "Kyler Sweely",
+        "winnerParty": "rep",
+        "demVotes": 3478,
+        "repVotes": 3772,
+        "totalVotes": 7250,
+        "demPct": 47.97,
+        "repPct": 52.03,
+        "candidates": [
+          {
+            "name": "Kyler Sweely",
+            "party": "rep",
+            "votes": 3772
+          },
+          {
+            "name": "Jason Probst",
+            "party": "dem",
+            "votes": 3478
+          }
+        ]
+      }
+    },
+    "103": {
+      "districtNumber": 103,
+      "districtName": "Kansas House District 103",
+      "census": {
+        "censusName": "State House District 103 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49372,
+        "medianAge": 32.4,
+        "totalPopulation": 24659,
+        "collegePct": 15.82,
+        "renterRatePct": 58.18,
+        "race": {
+          "whitePct": 50.5,
+          "nonHispanicWhitePct": 34.81,
+          "blackPct": 8.61,
+          "asianPct": 1.01,
+          "hispanicPct": 50.17
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-103",
+        "winner": "Angela Martinez",
+        "winnerParty": "dem",
+        "demVotes": 2817,
+        "repVotes": 0,
+        "totalVotes": 2817,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Angela Martinez",
+            "party": "dem",
+            "votes": 2817
+          }
+        ]
+      }
+    },
+    "104": {
+      "districtNumber": 104,
+      "districtName": "Kansas House District 104",
+      "census": {
+        "censusName": "State House District 104 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74058,
+        "medianAge": 47.9,
+        "totalPopulation": 22710,
+        "collegePct": 30.65,
+        "renterRatePct": 25.37,
+        "race": {
+          "whitePct": 93.32,
+          "nonHispanicWhitePct": 88.27,
+          "blackPct": 0.41,
+          "asianPct": 0.63,
+          "hispanicPct": 8.58
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-104",
+        "winner": "Paul Waggoner",
+        "winnerParty": "rep",
+        "demVotes": 4355,
+        "repVotes": 7925,
+        "totalVotes": 12280,
+        "demPct": 35.46,
+        "repPct": 64.54,
+        "candidates": [
+          {
+            "name": "Paul Waggoner",
+            "party": "rep",
+            "votes": 7925
+          },
+          {
+            "name": "Lynnette Krieger-Zook",
+            "party": "dem",
+            "votes": 4355
+          }
+        ]
+      }
+    },
+    "105": {
+      "districtNumber": 105,
+      "districtName": "Kansas House District 105",
+      "census": {
+        "censusName": "State House District 105 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52190,
+        "medianAge": 37,
+        "totalPopulation": 22473,
+        "collegePct": 28.66,
+        "renterRatePct": 47.1,
+        "race": {
+          "whitePct": 78.63,
+          "nonHispanicWhitePct": 74.04,
+          "blackPct": 5.01,
+          "asianPct": 3.68,
+          "hispanicPct": 13.36
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-105",
+        "winner": "Jill Ann Ward",
+        "winnerParty": "rep",
+        "demVotes": 3654,
+        "repVotes": 5258,
+        "totalVotes": 8912,
+        "demPct": 41,
+        "repPct": 59,
+        "candidates": [
+          {
+            "name": "Jill Ann Ward",
+            "party": "rep",
+            "votes": 5258
+          },
+          {
+            "name": "John Burke",
+            "party": "dem",
+            "votes": 3654
+          }
+        ]
+      }
+    },
+    "106": {
+      "districtNumber": 106,
+      "districtName": "Kansas House District 106",
+      "census": {
+        "censusName": "State House District 106 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60594,
+        "medianAge": 44.1,
+        "totalPopulation": 23091,
+        "collegePct": 21.23,
+        "renterRatePct": 20.08,
+        "race": {
+          "whitePct": 94.21,
+          "nonHispanicWhitePct": 93.03,
+          "blackPct": 0.56,
+          "asianPct": 0.45,
+          "hispanicPct": 3.08
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-106",
+        "winner": "Lisa M. Moser",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 10449,
+        "totalVotes": 10449,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Lisa M. Moser",
+            "party": "rep",
+            "votes": 10449
+          }
+        ]
+      }
+    },
+    "107": {
+      "districtNumber": 107,
+      "districtName": "Kansas House District 107",
+      "census": {
+        "censusName": "State House District 107 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59128,
+        "medianAge": 40.8,
+        "totalPopulation": 24265,
+        "collegePct": 23.09,
+        "renterRatePct": 31.59,
+        "race": {
+          "whitePct": 90.33,
+          "nonHispanicWhitePct": 88.2,
+          "blackPct": 1.28,
+          "asianPct": 0.36,
+          "hispanicPct": 5.09
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-107",
+        "winner": "Dawn Wolf",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 9778,
+        "totalVotes": 9778,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Dawn Wolf",
+            "party": "rep",
+            "votes": 9778
+          }
+        ]
+      }
+    },
+    "108": {
+      "districtNumber": 108,
+      "districtName": "Kansas House District 108",
+      "census": {
+        "censusName": "State House District 108 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85126,
+        "medianAge": 36.3,
+        "totalPopulation": 24017,
+        "collegePct": 49.98,
+        "renterRatePct": 61.24,
+        "race": {
+          "whitePct": 78.18,
+          "nonHispanicWhitePct": 74.95,
+          "blackPct": 7.76,
+          "asianPct": 2.78,
+          "hispanicPct": 9.66
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-108",
+        "winner": "Brandon Woodard",
+        "winnerParty": "dem",
+        "demVotes": 8527,
+        "repVotes": 0,
+        "totalVotes": 8527,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Brandon Woodard",
+            "party": "dem",
+            "votes": 8527
+          }
+        ]
+      }
+    },
+    "109": {
+      "districtNumber": 109,
+      "districtName": "Kansas House District 109",
+      "census": {
+        "censusName": "State House District 109 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58714,
+        "medianAge": 45.8,
+        "totalPopulation": 23059,
+        "collegePct": 21.41,
+        "renterRatePct": 20.96,
+        "race": {
+          "whitePct": 90.81,
+          "nonHispanicWhitePct": 89.69,
+          "blackPct": 1.07,
+          "asianPct": 0.51,
+          "hispanicPct": 3.96
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-109",
+        "winner": "Troy L. Waymaster",
+        "winnerParty": "rep",
+        "demVotes": 1288,
+        "repVotes": 8884,
+        "totalVotes": 11136,
+        "demPct": 11.57,
+        "repPct": 79.78,
+        "candidates": [
+          {
+            "name": "Troy L. Waymaster",
+            "party": "rep",
+            "votes": 8884
+          },
+          {
+            "name": "Keith Griffin",
+            "party": "dem",
+            "votes": 1288
+          },
+          {
+            "name": "Peter Solie",
+            "party": "lib",
+            "votes": 964
+          }
+        ]
+      }
+    },
+    "110": {
+      "districtNumber": 110,
+      "districtName": "Kansas House District 110",
+      "census": {
+        "censusName": "State House District 110 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58228,
+        "medianAge": 42.9,
+        "totalPopulation": 22148,
+        "collegePct": 23.97,
+        "renterRatePct": 22.85,
+        "race": {
+          "whitePct": 92.13,
+          "nonHispanicWhitePct": 89.68,
+          "blackPct": 2.1,
+          "asianPct": 0.47,
+          "hispanicPct": 4.33
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-110",
+        "winner": "Ken Rahjes",
+        "winnerParty": "rep",
+        "demVotes": 1665,
+        "repVotes": 9531,
+        "totalVotes": 11196,
+        "demPct": 14.87,
+        "repPct": 85.13,
+        "candidates": [
+          {
+            "name": "Ken Rahjes",
+            "party": "rep",
+            "votes": 9531
+          },
+          {
+            "name": "ellace Henderson",
+            "party": "dem",
+            "votes": 1665
+          }
+        ]
+      }
+    },
+    "111": {
+      "districtNumber": 111,
+      "districtName": "Kansas House District 111",
+      "census": {
+        "censusName": "State House District 111 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58768,
+        "medianAge": 31.4,
+        "totalPopulation": 24263,
+        "collegePct": 41.64,
+        "renterRatePct": 40.28,
+        "race": {
+          "whitePct": 89.66,
+          "nonHispanicWhitePct": 87.08,
+          "blackPct": 1.85,
+          "asianPct": 1.57,
+          "hispanicPct": 7.37
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-111",
+        "winner": "Barb Wasinger",
+        "winnerParty": "rep",
+        "demVotes": 2826,
+        "repVotes": 7739,
+        "totalVotes": 10565,
+        "demPct": 26.75,
+        "repPct": 73.25,
+        "candidates": [
+          {
+            "name": "Barb Wasinger",
+            "party": "rep",
+            "votes": 7739
+          },
+          {
+            "name": "Joseph Burt Lantz IV",
+            "party": "dem",
+            "votes": 2826
+          }
+        ]
+      }
+    },
+    "112": {
+      "districtNumber": 112,
+      "districtName": "Kansas House District 112",
+      "census": {
+        "censusName": "State House District 112 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57138,
+        "medianAge": 38.6,
+        "totalPopulation": 21975,
+        "collegePct": 22.81,
+        "renterRatePct": 35.36,
+        "race": {
+          "whitePct": 82.68,
+          "nonHispanicWhitePct": 77.95,
+          "blackPct": 0.75,
+          "asianPct": 0.42,
+          "hispanicPct": 17.83
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-112",
+        "winner": "Sherri Brantley",
+        "winnerParty": "rep",
+        "demVotes": 2547,
+        "repVotes": 6375,
+        "totalVotes": 8922,
+        "demPct": 28.55,
+        "repPct": 71.45,
+        "candidates": [
+          {
+            "name": "Sherri Brantley",
+            "party": "rep",
+            "votes": 6375
+          },
+          {
+            "name": "Mark Rondeau",
+            "party": "dem",
+            "votes": 2547
+          }
+        ]
+      }
+    },
+    "113": {
+      "districtNumber": 113,
+      "districtName": "Kansas House District 113",
+      "census": {
+        "censusName": "State House District 113 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62319,
+        "medianAge": 41.8,
+        "totalPopulation": 24005,
+        "collegePct": 22.83,
+        "renterRatePct": 24.33,
+        "race": {
+          "whitePct": 86.21,
+          "nonHispanicWhitePct": 83.02,
+          "blackPct": 1.41,
+          "asianPct": 0.05,
+          "hispanicPct": 10.79
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-113",
+        "winner": "Brett Fairchild",
+        "winnerParty": "rep",
+        "demVotes": 2467,
+        "repVotes": 8296,
+        "totalVotes": 10763,
+        "demPct": 22.92,
+        "repPct": 77.08,
+        "candidates": [
+          {
+            "name": "Brett Fairchild",
+            "party": "rep",
+            "votes": 8296
+          },
+          {
+            "name": "Jo Ann Roth",
+            "party": "dem",
+            "votes": 2467
+          }
+        ]
+      }
+    },
+    "114": {
+      "districtNumber": 114,
+      "districtName": "Kansas House District 114",
+      "census": {
+        "censusName": "State House District 114 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59460,
+        "medianAge": 43.4,
+        "totalPopulation": 23864,
+        "collegePct": 21.03,
+        "renterRatePct": 27.73,
+        "race": {
+          "whitePct": 91.11,
+          "nonHispanicWhitePct": 89.16,
+          "blackPct": 0.57,
+          "asianPct": 0.26,
+          "hispanicPct": 5.14
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-114",
+        "winner": "Kevin D. Schwertfeger",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 9971,
+        "totalVotes": 9971,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Kevin D. Schwertfeger",
+            "party": "rep",
+            "votes": 9971
+          }
+        ]
+      }
+    },
+    "115": {
+      "districtNumber": 115,
+      "districtName": "Kansas House District 115",
+      "census": {
+        "censusName": "State House District 115 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74726,
+        "medianAge": 39.7,
+        "totalPopulation": 23552,
+        "collegePct": 26,
+        "renterRatePct": 22.5,
+        "race": {
+          "whitePct": 82.07,
+          "nonHispanicWhitePct": 71.82,
+          "blackPct": 1.93,
+          "asianPct": 0.5,
+          "hispanicPct": 24.11
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-115",
+        "winner": "Gary White",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 8311,
+        "totalVotes": 8311,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Gary White",
+            "party": "rep",
+            "votes": 8311
+          }
+        ]
+      }
+    },
+    "116": {
+      "districtNumber": 116,
+      "districtName": "Kansas House District 116",
+      "census": {
+        "censusName": "State House District 116 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60583,
+        "medianAge": 40.1,
+        "totalPopulation": 23752,
+        "collegePct": 25.52,
+        "renterRatePct": 22.9,
+        "race": {
+          "whitePct": 91.77,
+          "nonHispanicWhitePct": 88.85,
+          "blackPct": 1.06,
+          "asianPct": 0.42,
+          "hispanicPct": 5.72
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-116",
+        "winner": "Kyle D. Hoffman",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 9879,
+        "totalVotes": 9879,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Kyle D. Hoffman",
+            "party": "rep",
+            "votes": 9879
+          }
+        ]
+      }
+    },
+    "117": {
+      "districtNumber": 117,
+      "districtName": "Kansas House District 117",
+      "census": {
+        "censusName": "State House District 117 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 125382,
+        "medianAge": 38.3,
+        "totalPopulation": 25098,
+        "collegePct": 55.43,
+        "renterRatePct": 16.37,
+        "race": {
+          "whitePct": 87.33,
+          "nonHispanicWhitePct": 85.06,
+          "blackPct": 3.5,
+          "asianPct": 2.39,
+          "hispanicPct": 4.82
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-117",
+        "winner": "Adam Turk",
+        "winnerParty": "rep",
+        "demVotes": 6320,
+        "repVotes": 8552,
+        "totalVotes": 14872,
+        "demPct": 42.5,
+        "repPct": 57.5,
+        "candidates": [
+          {
+            "name": "Adam Turk",
+            "party": "rep",
+            "votes": 8552
+          },
+          {
+            "name": "Bill Hammond",
+            "party": "dem",
+            "votes": 6320
+          }
+        ]
+      }
+    },
+    "118": {
+      "districtNumber": 118,
+      "districtName": "Kansas House District 118",
+      "census": {
+        "censusName": "State House District 118 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69462,
+        "medianAge": 43.1,
+        "totalPopulation": 23374,
+        "collegePct": 26.55,
+        "renterRatePct": 29.04,
+        "race": {
+          "whitePct": 88.13,
+          "nonHispanicWhitePct": 84.11,
+          "blackPct": 0.1,
+          "asianPct": 0.57,
+          "hispanicPct": 12.33
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-118",
+        "winner": "Jim Minnix",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 10435,
+        "totalVotes": 10435,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Jim Minnix",
+            "party": "rep",
+            "votes": 10435
+          }
+        ]
+      }
+    },
+    "119": {
+      "districtNumber": 119,
+      "districtName": "Kansas House District 119",
+      "census": {
+        "censusName": "State House District 119 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64019,
+        "medianAge": 29.2,
+        "totalPopulation": 23557,
+        "collegePct": 17.07,
+        "renterRatePct": 41.66,
+        "race": {
+          "whitePct": 48.62,
+          "nonHispanicWhitePct": 25.35,
+          "blackPct": 2.64,
+          "asianPct": 0.94,
+          "hispanicPct": 68.43
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-119",
+        "winner": "Jason W. Goetz",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 3383,
+        "totalVotes": 3383,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Jason W. Goetz",
+            "party": "rep",
+            "votes": 3383
+          }
+        ]
+      }
+    },
+    "120": {
+      "districtNumber": 120,
+      "districtName": "Kansas House District 120",
+      "census": {
+        "censusName": "State House District 120 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65351,
+        "medianAge": 39.9,
+        "totalPopulation": 23198,
+        "collegePct": 25.62,
+        "renterRatePct": 26.32,
+        "race": {
+          "whitePct": 89.33,
+          "nonHispanicWhitePct": 87.26,
+          "blackPct": 1.69,
+          "asianPct": 0.25,
+          "hispanicPct": 8.76
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-120",
+        "winner": "Adam Smith",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 10157,
+        "totalVotes": 10157,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Adam Smith",
+            "party": "rep",
+            "votes": 10157
+          }
+        ]
+      }
+    },
+    "121": {
+      "districtNumber": 121,
+      "districtName": "Kansas House District 121",
+      "census": {
+        "censusName": "State House District 121 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 136635,
+        "medianAge": 37.8,
+        "totalPopulation": 21909,
+        "collegePct": 48.08,
+        "renterRatePct": 14.03,
+        "race": {
+          "whitePct": 79.42,
+          "nonHispanicWhitePct": 75.69,
+          "blackPct": 5.51,
+          "asianPct": 3.05,
+          "hispanicPct": 9.39
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-121",
+        "winner": "John Resman",
+        "winnerParty": "rep",
+        "demVotes": 5454,
+        "repVotes": 6800,
+        "totalVotes": 12254,
+        "demPct": 44.51,
+        "repPct": 55.49,
+        "candidates": [
+          {
+            "name": "John Resman",
+            "party": "rep",
+            "votes": 6800
+          },
+          {
+            "name": "Mel Pinick",
+            "party": "dem",
+            "votes": 5454
+          }
+        ]
+      }
+    },
+    "122": {
+      "districtNumber": 122,
+      "districtName": "Kansas House District 122",
+      "census": {
+        "censusName": "State House District 122 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67758,
+        "medianAge": 33.6,
+        "totalPopulation": 22360,
+        "collegePct": 17.74,
+        "renterRatePct": 26.31,
+        "race": {
+          "whitePct": 62.96,
+          "nonHispanicWhitePct": 48.81,
+          "blackPct": 2.04,
+          "asianPct": 1.98,
+          "hispanicPct": 45.12
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-122",
+        "winner": "Lon E. Pishny",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 5989,
+        "totalVotes": 5989,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Lon E. Pishny",
+            "party": "rep",
+            "votes": 5989
+          }
+        ]
+      }
+    },
+    "123": {
+      "districtNumber": 123,
+      "districtName": "Kansas House District 123",
+      "census": {
+        "censusName": "State House District 123 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74975,
+        "medianAge": 33.6,
+        "totalPopulation": 23207,
+        "collegePct": 20.3,
+        "renterRatePct": 41.49,
+        "race": {
+          "whitePct": 53.1,
+          "nonHispanicWhitePct": 37.82,
+          "blackPct": 6.79,
+          "asianPct": 4.71,
+          "hispanicPct": 49.37
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-123",
+        "winner": "Bob Lewis",
+        "winnerParty": "rep",
+        "demVotes": 2288,
+        "repVotes": 4327,
+        "totalVotes": 6615,
+        "demPct": 34.59,
+        "repPct": 65.41,
+        "candidates": [
+          {
+            "name": "Bob Lewis",
+            "party": "rep",
+            "votes": 4327
+          },
+          {
+            "name": "Tracy Meinzer",
+            "party": "dem",
+            "votes": 2288
+          }
+        ]
+      }
+    },
+    "124": {
+      "districtNumber": 124,
+      "districtName": "Kansas House District 124",
+      "census": {
+        "censusName": "State House District 124 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67358,
+        "medianAge": 36.4,
+        "totalPopulation": 23341,
+        "collegePct": 21.15,
+        "renterRatePct": 23.57,
+        "race": {
+          "whitePct": 69.44,
+          "nonHispanicWhitePct": 55.49,
+          "blackPct": 0.27,
+          "asianPct": 0.31,
+          "hispanicPct": 40.84
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-124",
+        "winner": "Martin (Marty) Long",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 7013,
+        "totalVotes": 7013,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Martin (Marty) Long",
+            "party": "rep",
+            "votes": 7013
+          }
+        ]
+      }
+    },
+    "125": {
+      "districtNumber": 125,
+      "districtName": "Kansas House District 125",
+      "census": {
+        "censusName": "State House District 125 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64129,
+        "medianAge": 30.8,
+        "totalPopulation": 22998,
+        "collegePct": 13.14,
+        "renterRatePct": 37.93,
+        "race": {
+          "whitePct": 41.57,
+          "nonHispanicWhitePct": 27.15,
+          "blackPct": 2.75,
+          "asianPct": 2.23,
+          "hispanicPct": 65.46
+        }
+      },
+      "election": {
+        "districtId": "ks-hd-125",
+        "winner": "Shannon Francis",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 4292,
+        "totalVotes": 4292,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Shannon Francis",
+            "party": "rep",
+            "votes": 4292
+          }
+        ]
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Kansas Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70159,
+        "medianAge": 41.2,
+        "totalPopulation": 71869,
+        "collegePct": 23.38,
+        "renterRatePct": 21.62,
+        "race": {
+          "whitePct": 89.37,
+          "nonHispanicWhitePct": 88.06,
+          "blackPct": 1.88,
+          "asianPct": 0.36,
+          "hispanicPct": 3.39
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-1",
+        "winner": "Craig Bowser",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 29530,
+        "totalVotes": 29530,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Craig Bowser",
+            "party": "rep",
+            "votes": 29530
+          }
+        ]
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Kansas Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57211,
+        "medianAge": 26.8,
+        "totalPopulation": 74686,
+        "collegePct": 51.33,
+        "renterRatePct": 60.5,
+        "race": {
+          "whitePct": 75,
+          "nonHispanicWhitePct": 72.13,
+          "blackPct": 4.91,
+          "asianPct": 5.52,
+          "hispanicPct": 8.69
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-2",
+        "winner": "Marci Francisco",
+        "winnerParty": "dem",
+        "demVotes": 24004,
+        "repVotes": 6651,
+        "totalVotes": 30655,
+        "demPct": 78.3,
+        "repPct": 21.7,
+        "candidates": [
+          {
+            "name": "Marci Francisco",
+            "party": "dem",
+            "votes": 24004
+          },
+          {
+            "name": "David G. Miller",
+            "party": "rep",
+            "votes": 6651
+          }
+        ]
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Kansas Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86217,
+        "medianAge": 41.7,
+        "totalPopulation": 73383,
+        "collegePct": 36.83,
+        "renterRatePct": 24.85,
+        "race": {
+          "whitePct": 88.32,
+          "nonHispanicWhitePct": 86.66,
+          "blackPct": 2.11,
+          "asianPct": 1.32,
+          "hispanicPct": 5.35
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-3",
+        "winner": "Rick Kloos",
+        "winnerParty": "rep",
+        "demVotes": 16285,
+        "repVotes": 21942,
+        "totalVotes": 38227,
+        "demPct": 42.6,
+        "repPct": 57.4,
+        "candidates": [
+          {
+            "name": "Rick Kloos",
+            "party": "rep",
+            "votes": 21942
+          },
+          {
+            "name": "Dena Sattler",
+            "party": "dem",
+            "votes": 16285
+          }
+        ]
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Kansas Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54587,
+        "medianAge": 33.5,
+        "totalPopulation": 71289,
+        "collegePct": 16.43,
+        "renterRatePct": 42.05,
+        "race": {
+          "whitePct": 29.06,
+          "nonHispanicWhitePct": 21.23,
+          "blackPct": 30.77,
+          "asianPct": 7.48,
+          "hispanicPct": 35.35
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-4",
+        "winner": "David Haley",
+        "winnerParty": "dem",
+        "demVotes": 13941,
+        "repVotes": 0,
+        "totalVotes": 13941,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "David Haley",
+            "party": "dem",
+            "votes": 13941
+          }
+        ]
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Kansas Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89392,
+        "medianAge": 36.9,
+        "totalPopulation": 77282,
+        "collegePct": 36.75,
+        "renterRatePct": 35.07,
+        "race": {
+          "whitePct": 75,
+          "nonHispanicWhitePct": 71.95,
+          "blackPct": 11.46,
+          "asianPct": 1.88,
+          "hispanicPct": 7.77
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-5",
+        "winner": "Jeff Klemp",
+        "winnerParty": "rep",
+        "demVotes": 15701,
+        "repVotes": 15732,
+        "totalVotes": 31433,
+        "demPct": 49.95,
+        "repPct": 50.05,
+        "candidates": [
+          {
+            "name": "Jeff Klemp",
+            "party": "rep",
+            "votes": 15732
+          },
+          {
+            "name": "Jeff Pittman",
+            "party": "dem",
+            "votes": 15701
+          }
+        ]
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Kansas Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56036,
+        "medianAge": 33.2,
+        "totalPopulation": 71253,
+        "collegePct": 21,
+        "renterRatePct": 39.88,
+        "race": {
+          "whitePct": 55.63,
+          "nonHispanicWhitePct": 42.41,
+          "blackPct": 9.99,
+          "asianPct": 3.52,
+          "hispanicPct": 40.23
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-6",
+        "winner": "Pat Pettey",
+        "winnerParty": "dem",
+        "demVotes": 12882,
+        "repVotes": 7634,
+        "totalVotes": 20516,
+        "demPct": 62.79,
+        "repPct": 37.21,
+        "candidates": [
+          {
+            "name": "Pat Pettey",
+            "party": "dem",
+            "votes": 12882
+          },
+          {
+            "name": "Tabitha S. Burt",
+            "party": "rep",
+            "votes": 7634
+          }
+        ]
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Kansas Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97116,
+        "medianAge": 39.1,
+        "totalPopulation": 74566,
+        "collegePct": 64.19,
+        "renterRatePct": 30.89,
+        "race": {
+          "whitePct": 87.8,
+          "nonHispanicWhitePct": 84.56,
+          "blackPct": 2.42,
+          "asianPct": 2.35,
+          "hispanicPct": 7.17
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-7",
+        "winner": "Ethan Corson",
+        "winnerParty": "dem",
+        "demVotes": 29014,
+        "repVotes": 16085,
+        "totalVotes": 45099,
+        "demPct": 64.33,
+        "repPct": 35.67,
+        "candidates": [
+          {
+            "name": "Ethan Corson",
+            "party": "dem",
+            "votes": 29014
+          },
+          {
+            "name": "Dave Dannov",
+            "party": "rep",
+            "votes": 16085
+          }
+        ]
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Kansas Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93938,
+        "medianAge": 39.1,
+        "totalPopulation": 75863,
+        "collegePct": 61.34,
+        "renterRatePct": 41.79,
+        "race": {
+          "whitePct": 77.74,
+          "nonHispanicWhitePct": 75.4,
+          "blackPct": 5.83,
+          "asianPct": 6.32,
+          "hispanicPct": 8.26
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-8",
+        "winner": "Cindy Holscher",
+        "winnerParty": "dem",
+        "demVotes": 24795,
+        "repVotes": 15758,
+        "totalVotes": 40553,
+        "demPct": 61.14,
+        "repPct": 38.86,
+        "candidates": [
+          {
+            "name": "Cindy Holscher",
+            "party": "dem",
+            "votes": 24795
+          },
+          {
+            "name": "Benee' Hudson",
+            "party": "rep",
+            "votes": 15758
+          }
+        ]
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Kansas Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100854,
+        "medianAge": 38.4,
+        "totalPopulation": 78216,
+        "collegePct": 41.49,
+        "renterRatePct": 21.23,
+        "race": {
+          "whitePct": 83.89,
+          "nonHispanicWhitePct": 80.13,
+          "blackPct": 3.13,
+          "asianPct": 2.13,
+          "hispanicPct": 9.95
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-9",
+        "winner": "Beverly Gossage",
+        "winnerParty": "rep",
+        "demVotes": 15389,
+        "repVotes": 24242,
+        "totalVotes": 39631,
+        "demPct": 38.83,
+        "repPct": 61.17,
+        "candidates": [
+          {
+            "name": "Beverly Gossage",
+            "party": "rep",
+            "votes": 24242
+          },
+          {
+            "name": "Norman Mallicoat",
+            "party": "dem",
+            "votes": 15389
+          }
+        ]
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Kansas Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115443,
+        "medianAge": 39.6,
+        "totalPopulation": 75425,
+        "collegePct": 56.24,
+        "renterRatePct": 19.98,
+        "race": {
+          "whitePct": 83.75,
+          "nonHispanicWhitePct": 81.63,
+          "blackPct": 4.21,
+          "asianPct": 3.14,
+          "hispanicPct": 7.61
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-10",
+        "winner": "Mike Thompson",
+        "winnerParty": "rep",
+        "demVotes": 21708,
+        "repVotes": 23884,
+        "totalVotes": 45592,
+        "demPct": 47.61,
+        "repPct": 52.39,
+        "candidates": [
+          {
+            "name": "Mike Thompson",
+            "party": "rep",
+            "votes": 23884
+          },
+          {
+            "name": "Andrew Mall",
+            "party": "dem",
+            "votes": 21708
+          }
+        ]
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Kansas Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 144761,
+        "medianAge": 42.9,
+        "totalPopulation": 74842,
+        "collegePct": 71.06,
+        "renterRatePct": 26.19,
+        "race": {
+          "whitePct": 79.72,
+          "nonHispanicWhitePct": 78.24,
+          "blackPct": 2.96,
+          "asianPct": 12.48,
+          "hispanicPct": 3.76
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-11",
+        "winner": "Kellie Warren",
+        "winnerParty": "rep",
+        "demVotes": 21000,
+        "repVotes": 22905,
+        "totalVotes": 43905,
+        "demPct": 47.83,
+        "repPct": 52.17,
+        "candidates": [
+          {
+            "name": "Kellie Warren",
+            "party": "rep",
+            "votes": 22905
+          },
+          {
+            "name": "Karen Thurlow",
+            "party": "dem",
+            "votes": 21000
+          }
+        ]
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Kansas Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64490,
+        "medianAge": 42.8,
+        "totalPopulation": 73124,
+        "collegePct": 21.93,
+        "renterRatePct": 22.46,
+        "race": {
+          "whitePct": 92.1,
+          "nonHispanicWhitePct": 90.24,
+          "blackPct": 1.14,
+          "asianPct": 0.41,
+          "hispanicPct": 3.59
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-12",
+        "winner": "Caryn Tyson",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 27480,
+        "totalVotes": 33758,
+        "demPct": 0,
+        "repPct": 81.4,
+        "candidates": [
+          {
+            "name": "Caryn Tyson",
+            "party": "rep",
+            "votes": 27480
+          },
+          {
+            "name": "Cullene Lang",
+            "party": "lib",
+            "votes": 6278
+          }
+        ]
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Kansas Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53740,
+        "medianAge": 37.8,
+        "totalPopulation": 72583,
+        "collegePct": 26.98,
+        "renterRatePct": 34.13,
+        "race": {
+          "whitePct": 88.65,
+          "nonHispanicWhitePct": 85.62,
+          "blackPct": 1.84,
+          "asianPct": 1.21,
+          "hispanicPct": 5.17
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-13",
+        "winner": "Tim Shallenburger",
+        "winnerParty": "rep",
+        "demVotes": 9771,
+        "repVotes": 21366,
+        "totalVotes": 31137,
+        "demPct": 31.38,
+        "repPct": 68.62,
+        "candidates": [
+          {
+            "name": "Tim Shallenburger",
+            "party": "rep",
+            "votes": 21366
+          },
+          {
+            "name": "Austin B. Stapleton",
+            "party": "dem",
+            "votes": 9771
+          }
+        ]
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Kansas Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67017,
+        "medianAge": 40.5,
+        "totalPopulation": 74722,
+        "collegePct": 27.96,
+        "renterRatePct": 24.02,
+        "race": {
+          "whitePct": 91.65,
+          "nonHispanicWhitePct": 89.17,
+          "blackPct": 2.07,
+          "asianPct": 0.69,
+          "hispanicPct": 4.84
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-14",
+        "winner": "Michael A. Fagg",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 29264,
+        "totalVotes": 29264,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Michael A. Fagg",
+            "party": "rep",
+            "votes": 29264
+          }
+        ]
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Kansas Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54611,
+        "medianAge": 41.1,
+        "totalPopulation": 72641,
+        "collegePct": 21.18,
+        "renterRatePct": 25.61,
+        "race": {
+          "whitePct": 84.25,
+          "nonHispanicWhitePct": 81.98,
+          "blackPct": 3.14,
+          "asianPct": 0.27,
+          "hispanicPct": 6.37
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-15",
+        "winner": "Virgil Peck",
+        "winnerParty": "rep",
+        "demVotes": 8069,
+        "repVotes": 21354,
+        "totalVotes": 29423,
+        "demPct": 27.42,
+        "repPct": 72.58,
+        "candidates": [
+          {
+            "name": "Virgil Peck",
+            "party": "rep",
+            "votes": 21354
+          },
+          {
+            "name": "Jerry Reeves",
+            "party": "dem",
+            "votes": 8069
+          }
+        ]
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Kansas Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97236,
+        "medianAge": 37.5,
+        "totalPopulation": 74949,
+        "collegePct": 51.8,
+        "renterRatePct": 28.38,
+        "race": {
+          "whitePct": 80.08,
+          "nonHispanicWhitePct": 77.55,
+          "blackPct": 6.33,
+          "asianPct": 5.06,
+          "hispanicPct": 6.88
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-16",
+        "winner": "Ty Masterson",
+        "winnerParty": "rep",
+        "demVotes": 13300,
+        "repVotes": 25347,
+        "totalVotes": 38647,
+        "demPct": 34.41,
+        "repPct": 65.59,
+        "candidates": [
+          {
+            "name": "Ty Masterson",
+            "party": "rep",
+            "votes": 25347
+          },
+          {
+            "name": "Sasha Islam",
+            "party": "dem",
+            "votes": 13300
+          }
+        ]
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Kansas Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58284,
+        "medianAge": 29.8,
+        "totalPopulation": 73428,
+        "collegePct": 26.16,
+        "renterRatePct": 47.21,
+        "race": {
+          "whitePct": 69.25,
+          "nonHispanicWhitePct": 64.09,
+          "blackPct": 8.65,
+          "asianPct": 2.44,
+          "hispanicPct": 18.49
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-17",
+        "winner": "Mike Argabright",
+        "winnerParty": "rep",
+        "demVotes": 9851,
+        "repVotes": 14689,
+        "totalVotes": 24540,
+        "demPct": 40.14,
+        "repPct": 59.86,
+        "candidates": [
+          {
+            "name": "Mike Argabright",
+            "party": "rep",
+            "votes": 14689
+          },
+          {
+            "name": "Lillian G. Lingenfelter",
+            "party": "dem",
+            "votes": 9851
+          }
+        ]
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Kansas Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80784,
+        "medianAge": 39.9,
+        "totalPopulation": 73342,
+        "collegePct": 31.05,
+        "renterRatePct": 20.39,
+        "race": {
+          "whitePct": 88.82,
+          "nonHispanicWhitePct": 86.94,
+          "blackPct": 2.21,
+          "asianPct": 0.51,
+          "hispanicPct": 5.18
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-18",
+        "winner": "Kenny Titus",
+        "winnerParty": "rep",
+        "demVotes": 12657,
+        "repVotes": 25445,
+        "totalVotes": 38102,
+        "demPct": 33.22,
+        "repPct": 66.78,
+        "candidates": [
+          {
+            "name": "Kenny Titus",
+            "party": "rep",
+            "votes": 25445
+          },
+          {
+            "name": "Matthew Robin",
+            "party": "dem",
+            "votes": 12657
+          }
+        ]
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Kansas Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51449,
+        "medianAge": 35.9,
+        "totalPopulation": 71284,
+        "collegePct": 26.95,
+        "renterRatePct": 45.15,
+        "race": {
+          "whitePct": 66.29,
+          "nonHispanicWhitePct": 58.88,
+          "blackPct": 11.78,
+          "asianPct": 0.99,
+          "hispanicPct": 21.19
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-19",
+        "winner": "Patrick Schmidt",
+        "winnerParty": "dem",
+        "demVotes": 16784,
+        "repVotes": 9216,
+        "totalVotes": 26000,
+        "demPct": 64.55,
+        "repPct": 35.45,
+        "candidates": [
+          {
+            "name": "Patrick Schmidt",
+            "party": "dem",
+            "votes": 16784
+          },
+          {
+            "name": "Tyler Wible",
+            "party": "rep",
+            "votes": 9216
+          }
+        ]
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Kansas Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75218,
+        "medianAge": 42.2,
+        "totalPopulation": 73033,
+        "collegePct": 40.3,
+        "renterRatePct": 29.41,
+        "race": {
+          "whitePct": 81.32,
+          "nonHispanicWhitePct": 78.52,
+          "blackPct": 5.19,
+          "asianPct": 2.75,
+          "hispanicPct": 8.92
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-20",
+        "winner": "Brenda S. Dietrich",
+        "winnerParty": "rep",
+        "demVotes": 14357,
+        "repVotes": 23270,
+        "totalVotes": 37627,
+        "demPct": 38.16,
+        "repPct": 61.84,
+        "candidates": [
+          {
+            "name": "Brenda S. Dietrich",
+            "party": "rep",
+            "votes": 23270
+          },
+          {
+            "name": "Candace L. Ayars",
+            "party": "dem",
+            "votes": 14357
+          }
+        ]
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Kansas Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80735,
+        "medianAge": 35.5,
+        "totalPopulation": 74370,
+        "collegePct": 48.69,
+        "renterRatePct": 51.52,
+        "race": {
+          "whitePct": 72.87,
+          "nonHispanicWhitePct": 68.44,
+          "blackPct": 10.23,
+          "asianPct": 3.6,
+          "hispanicPct": 13.99
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-21",
+        "winner": "Dinah Sykes",
+        "winnerParty": "dem",
+        "demVotes": 25979,
+        "repVotes": 0,
+        "totalVotes": 25979,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Dinah Sykes",
+            "party": "dem",
+            "votes": 25979
+          }
+        ]
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Kansas Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59560,
+        "medianAge": 25.2,
+        "totalPopulation": 71710,
+        "collegePct": 47.98,
+        "renterRatePct": 55.15,
+        "race": {
+          "whitePct": 77.86,
+          "nonHispanicWhitePct": 74.06,
+          "blackPct": 6.35,
+          "asianPct": 4.06,
+          "hispanicPct": 9.93
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-22",
+        "winner": "Brad Starnes",
+        "winnerParty": "rep",
+        "demVotes": 11825,
+        "repVotes": 12262,
+        "totalVotes": 24087,
+        "demPct": 49.09,
+        "repPct": 50.91,
+        "candidates": [
+          {
+            "name": "Brad Starnes",
+            "party": "rep",
+            "votes": 12262
+          },
+          {
+            "name": "Usha Reddi",
+            "party": "dem",
+            "votes": 11825
+          }
+        ]
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Kansas Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99238,
+        "medianAge": 36.1,
+        "totalPopulation": 73260,
+        "collegePct": 42.86,
+        "renterRatePct": 29.13,
+        "race": {
+          "whitePct": 78.19,
+          "nonHispanicWhitePct": 72.46,
+          "blackPct": 4.4,
+          "asianPct": 4.18,
+          "hispanicPct": 14.15
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-23",
+        "winner": "Adam Thomas",
+        "winnerParty": "rep",
+        "demVotes": 16686,
+        "repVotes": 18362,
+        "totalVotes": 35048,
+        "demPct": 47.61,
+        "repPct": 52.39,
+        "candidates": [
+          {
+            "name": "Adam Thomas",
+            "party": "rep",
+            "votes": 18362
+          },
+          {
+            "name": "Stacey B. Knoell",
+            "party": "dem",
+            "votes": 16686
+          }
+        ]
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Kansas Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64512,
+        "medianAge": 40.4,
+        "totalPopulation": 72224,
+        "collegePct": 27.21,
+        "renterRatePct": 29.98,
+        "race": {
+          "whitePct": 86.56,
+          "nonHispanicWhitePct": 81.35,
+          "blackPct": 2.85,
+          "asianPct": 1.66,
+          "hispanicPct": 10.68
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-24",
+        "winner": "J.R. Claeys",
+        "winnerParty": "rep",
+        "demVotes": 10210,
+        "repVotes": 21548,
+        "totalVotes": 31758,
+        "demPct": 32.15,
+        "repPct": 67.85,
+        "candidates": [
+          {
+            "name": "J.R. Claeys",
+            "party": "rep",
+            "votes": 21548
+          },
+          {
+            "name": "John Baker",
+            "party": "dem",
+            "votes": 10210
+          }
+        ]
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Kansas Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47916,
+        "medianAge": 35.5,
+        "totalPopulation": 73511,
+        "collegePct": 19.91,
+        "renterRatePct": 53.58,
+        "race": {
+          "whitePct": 63.39,
+          "nonHispanicWhitePct": 54.05,
+          "blackPct": 8.97,
+          "asianPct": 3.23,
+          "hispanicPct": 25.96
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-25",
+        "winner": "Mary Ware",
+        "winnerParty": "dem",
+        "demVotes": 11638,
+        "repVotes": 8746,
+        "totalVotes": 20384,
+        "demPct": 57.09,
+        "repPct": 42.91,
+        "candidates": [
+          {
+            "name": "Mary Ware",
+            "party": "dem",
+            "votes": 11638
+          },
+          {
+            "name": "Keenen Smith",
+            "party": "rep",
+            "votes": 8746
+          }
+        ]
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Kansas Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92221,
+        "medianAge": 36.4,
+        "totalPopulation": 73258,
+        "collegePct": 32.82,
+        "renterRatePct": 17.62,
+        "race": {
+          "whitePct": 85.46,
+          "nonHispanicWhitePct": 81.74,
+          "blackPct": 1.66,
+          "asianPct": 1.95,
+          "hispanicPct": 9.41
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-26",
+        "winner": "Chase Blasi",
+        "winnerParty": "rep",
+        "demVotes": 8014,
+        "repVotes": 24824,
+        "totalVotes": 34844,
+        "demPct": 23,
+        "repPct": 71.24,
+        "candidates": [
+          {
+            "name": "Chase Blasi",
+            "party": "rep",
+            "votes": 24824
+          },
+          {
+            "name": "Raymond H. Shore Jr",
+            "party": "dem",
+            "votes": 8014
+          },
+          {
+            "name": "J.C. Moore",
+            "party": "ind",
+            "votes": 2006
+          }
+        ]
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Kansas Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76813,
+        "medianAge": 39.7,
+        "totalPopulation": 70692,
+        "collegePct": 38.68,
+        "renterRatePct": 32.9,
+        "race": {
+          "whitePct": 82.92,
+          "nonHispanicWhitePct": 77.95,
+          "blackPct": 3.2,
+          "asianPct": 2.11,
+          "hispanicPct": 10.47
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-27",
+        "winner": "Joe Claeys",
+        "winnerParty": "rep",
+        "demVotes": 13733,
+        "repVotes": 20833,
+        "totalVotes": 34566,
+        "demPct": 39.73,
+        "repPct": 60.27,
+        "candidates": [
+          {
+            "name": "Joe Claeys",
+            "party": "rep",
+            "votes": 20833
+          },
+          {
+            "name": "Jennifer Herington",
+            "party": "dem",
+            "votes": 13733
+          }
+        ]
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Kansas Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57752,
+        "medianAge": 33.9,
+        "totalPopulation": 74006,
+        "collegePct": 15.71,
+        "renterRatePct": 40.04,
+        "race": {
+          "whitePct": 69.72,
+          "nonHispanicWhitePct": 63.25,
+          "blackPct": 5.66,
+          "asianPct": 4.92,
+          "hispanicPct": 18.68
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-28",
+        "winner": "Mike Petersen",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 15406,
+        "totalVotes": 15406,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Mike Petersen",
+            "party": "rep",
+            "votes": 15406
+          }
+        ]
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Kansas Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45820,
+        "medianAge": 32.3,
+        "totalPopulation": 72806,
+        "collegePct": 23.63,
+        "renterRatePct": 55.71,
+        "race": {
+          "whitePct": 48.46,
+          "nonHispanicWhitePct": 39.75,
+          "blackPct": 22.04,
+          "asianPct": 3.57,
+          "hispanicPct": 28.28
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-29",
+        "winner": "Oletha Faust Goudeau",
+        "winnerParty": "dem",
+        "demVotes": 14158,
+        "repVotes": 0,
+        "totalVotes": 14158,
+        "demPct": 100,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Oletha Faust Goudeau",
+            "party": "dem",
+            "votes": 14158
+          }
+        ]
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Kansas Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82068,
+        "medianAge": 37.5,
+        "totalPopulation": 71593,
+        "collegePct": 41.23,
+        "renterRatePct": 32.75,
+        "race": {
+          "whitePct": 69.25,
+          "nonHispanicWhitePct": 65.21,
+          "blackPct": 8.42,
+          "asianPct": 9.48,
+          "hispanicPct": 10.41
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-30",
+        "winner": "Renee Erickson",
+        "winnerParty": "rep",
+        "demVotes": 11180,
+        "repVotes": 18085,
+        "totalVotes": 31650,
+        "demPct": 35.32,
+        "repPct": 57.14,
+        "candidates": [
+          {
+            "name": "Renee Erickson",
+            "party": "rep",
+            "votes": 18085
+          },
+          {
+            "name": "Richard Smith",
+            "party": "dem",
+            "votes": 11180
+          },
+          {
+            "name": "Olivia Hayse",
+            "party": "lib",
+            "votes": 2385
+          }
+        ]
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Kansas Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75117,
+        "medianAge": 38.7,
+        "totalPopulation": 77511,
+        "collegePct": 32.75,
+        "renterRatePct": 26.37,
+        "race": {
+          "whitePct": 82.09,
+          "nonHispanicWhitePct": 78.28,
+          "blackPct": 2.12,
+          "asianPct": 1.59,
+          "hispanicPct": 13.27
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-31",
+        "winner": "Stephen Owens",
+        "winnerParty": "rep",
+        "demVotes": 12472,
+        "repVotes": 22422,
+        "totalVotes": 34894,
+        "demPct": 35.74,
+        "repPct": 64.26,
+        "candidates": [
+          {
+            "name": "Stephen Owens",
+            "party": "rep",
+            "votes": 22422
+          },
+          {
+            "name": "Jason Miller",
+            "party": "dem",
+            "votes": 12472
+          }
+        ]
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Kansas Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60592,
+        "medianAge": 39.3,
+        "totalPopulation": 76280,
+        "collegePct": 24.73,
+        "renterRatePct": 26.83,
+        "race": {
+          "whitePct": 87,
+          "nonHispanicWhitePct": 83.07,
+          "blackPct": 1.43,
+          "asianPct": 1.02,
+          "hispanicPct": 8.77
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-32",
+        "winner": "Larry W Alley",
+        "winnerParty": "rep",
+        "demVotes": 8562,
+        "repVotes": 23603,
+        "totalVotes": 32165,
+        "demPct": 26.62,
+        "repPct": 73.38,
+        "candidates": [
+          {
+            "name": "Larry W Alley",
+            "party": "rep",
+            "votes": 23603
+          },
+          {
+            "name": "Lawrence Moreno",
+            "party": "dem",
+            "votes": 8562
+          }
+        ]
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Kansas Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61311,
+        "medianAge": 40.7,
+        "totalPopulation": 72914,
+        "collegePct": 22.7,
+        "renterRatePct": 27.68,
+        "race": {
+          "whitePct": 85.31,
+          "nonHispanicWhitePct": 81.58,
+          "blackPct": 1.66,
+          "asianPct": 0.32,
+          "hispanicPct": 12.29
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-33",
+        "winner": "Tory Marie Blew",
+        "winnerParty": "rep",
+        "demVotes": 6082,
+        "repVotes": 24998,
+        "totalVotes": 31080,
+        "demPct": 19.57,
+        "repPct": 80.43,
+        "candidates": [
+          {
+            "name": "Tory Marie Blew",
+            "party": "rep",
+            "votes": 24998
+          },
+          {
+            "name": "Matthew Westenfeld",
+            "party": "dem",
+            "votes": 6082
+          }
+        ]
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Kansas Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60205,
+        "medianAge": 40.9,
+        "totalPopulation": 73130,
+        "collegePct": 21.25,
+        "renterRatePct": 30.04,
+        "race": {
+          "whitePct": 87.93,
+          "nonHispanicWhitePct": 83.81,
+          "blackPct": 1.97,
+          "asianPct": 0.57,
+          "hispanicPct": 9.28
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-34",
+        "winner": "Michael Murphy",
+        "winnerParty": "rep",
+        "demVotes": 9375,
+        "repVotes": 22757,
+        "totalVotes": 32132,
+        "demPct": 29.18,
+        "repPct": 70.82,
+        "candidates": [
+          {
+            "name": "Michael Murphy",
+            "party": "rep",
+            "votes": 22757
+          },
+          {
+            "name": "Shanna Henry",
+            "party": "dem",
+            "votes": 9375
+          }
+        ]
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Kansas Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 148325,
+        "medianAge": 38.8,
+        "totalPopulation": 74294,
+        "collegePct": 69.05,
+        "renterRatePct": 25.12,
+        "race": {
+          "whitePct": 81.39,
+          "nonHispanicWhitePct": 79.79,
+          "blackPct": 3.07,
+          "asianPct": 7.52,
+          "hispanicPct": 4.82
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-35",
+        "winner": "TJ Rose",
+        "winnerParty": "rep",
+        "demVotes": 20664,
+        "repVotes": 23088,
+        "totalVotes": 43752,
+        "demPct": 47.23,
+        "repPct": 52.77,
+        "candidates": [
+          {
+            "name": "TJ Rose",
+            "party": "rep",
+            "votes": 23088
+          },
+          {
+            "name": "Jason Anderson",
+            "party": "dem",
+            "votes": 20664
+          }
+        ]
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Kansas Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59588,
+        "medianAge": 43.8,
+        "totalPopulation": 71476,
+        "collegePct": 22.65,
+        "renterRatePct": 23.82,
+        "race": {
+          "whitePct": 93.15,
+          "nonHispanicWhitePct": 91.84,
+          "blackPct": 0.87,
+          "asianPct": 0.38,
+          "hispanicPct": 3.21
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-36",
+        "winner": "Elaine S. Bowers",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 33162,
+        "totalVotes": 33162,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Elaine S. Bowers",
+            "party": "rep",
+            "votes": 33162
+          }
+        ]
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Kansas Senate District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105100,
+        "medianAge": 36.8,
+        "totalPopulation": 70490,
+        "collegePct": 38.32,
+        "renterRatePct": 21.67,
+        "race": {
+          "whitePct": 82.8,
+          "nonHispanicWhitePct": 79.24,
+          "blackPct": 5.17,
+          "asianPct": 1.83,
+          "hispanicPct": 9.24
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-37",
+        "winner": "Douglas Shane",
+        "winnerParty": "rep",
+        "demVotes": 14705,
+        "repVotes": 21460,
+        "totalVotes": 36165,
+        "demPct": 40.66,
+        "repPct": 59.34,
+        "candidates": [
+          {
+            "name": "Douglas Shane",
+            "party": "rep",
+            "votes": 21460
+          },
+          {
+            "name": "Sherry Giebler",
+            "party": "dem",
+            "votes": 14705
+          }
+        ]
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Kansas Senate District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68204,
+        "medianAge": 32.7,
+        "totalPopulation": 72776,
+        "collegePct": 19.46,
+        "renterRatePct": 33.2,
+        "race": {
+          "whitePct": 58.16,
+          "nonHispanicWhitePct": 42.83,
+          "blackPct": 2.36,
+          "asianPct": 1.15,
+          "hispanicPct": 51.45
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-38",
+        "winner": "Ronald Ryckman",
+        "winnerParty": "rep",
+        "demVotes": 5023,
+        "repVotes": 14112,
+        "totalVotes": 19135,
+        "demPct": 26.25,
+        "repPct": 73.75,
+        "candidates": [
+          {
+            "name": "Ronald Ryckman",
+            "party": "rep",
+            "votes": 14112
+          },
+          {
+            "name": "Jose G. Lara",
+            "party": "dem",
+            "votes": 5023
+          }
+        ]
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Kansas Senate District 39",
+      "census": {
+        "censusName": "State Senate District 39 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70385,
+        "medianAge": 34.3,
+        "totalPopulation": 71536,
+        "collegePct": 21.21,
+        "renterRatePct": 31.92,
+        "race": {
+          "whitePct": 63.25,
+          "nonHispanicWhitePct": 48.59,
+          "blackPct": 2.53,
+          "asianPct": 2.37,
+          "hispanicPct": 44.49
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-39",
+        "winner": "William Clifford",
+        "winnerParty": "rep",
+        "demVotes": 4463,
+        "repVotes": 18095,
+        "totalVotes": 22558,
+        "demPct": 19.78,
+        "repPct": 80.22,
+        "candidates": [
+          {
+            "name": "William Clifford",
+            "party": "rep",
+            "votes": 18095
+          },
+          {
+            "name": "Isidro Marino",
+            "party": "dem",
+            "votes": 4463
+          }
+        ]
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Kansas Senate District 40",
+      "census": {
+        "censusName": "State Senate District 40 (2022); Kansas",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61548,
+        "medianAge": 38.2,
+        "totalPopulation": 71952,
+        "collegePct": 30.15,
+        "renterRatePct": 30.05,
+        "race": {
+          "whitePct": 90.55,
+          "nonHispanicWhitePct": 88.26,
+          "blackPct": 1.61,
+          "asianPct": 0.8,
+          "hispanicPct": 6.76
+        }
+      },
+      "election": {
+        "districtId": "ks-sd-40",
+        "winner": "Richard (Rick) Billinger",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 30795,
+        "totalVotes": 30795,
+        "demPct": 0,
+        "repPct": 100,
+        "candidates": [
+          {
+            "name": "Richard (Rick) Billinger",
+            "party": "rep",
+            "votes": 30795
+          }
+        ]
+      }
+    }
+  }
+}

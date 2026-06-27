@@ -1,0 +1,3376 @@
+{
+  "house": [
+    {
+      "districtId": "ks-hd-1",
+      "winner": "Dale Helwig",
+      "winnerParty": "rep",
+      "demVotes": 2646,
+      "repVotes": 7805,
+      "totalVotes": 10451,
+      "demPct": 25.32,
+      "repPct": 74.68,
+      "candidates": [
+        {
+          "name": "Dale Helwig",
+          "party": "rep",
+          "votes": 7805
+        },
+        {
+          "name": "Janie G. Jarrett",
+          "party": "dem",
+          "votes": 2646
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-2",
+      "winner": "Kenneth (Ken) Collins",
+      "winnerParty": "rep",
+      "demVotes": 3355,
+      "repVotes": 7547,
+      "totalVotes": 10902,
+      "demPct": 30.77,
+      "repPct": 69.23,
+      "candidates": [
+        {
+          "name": "Kenneth (Ken) Collins",
+          "party": "rep",
+          "votes": 7547
+        },
+        {
+          "name": "Melesia \"Lissa\" Rhodes",
+          "party": "dem",
+          "votes": 3355
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-3",
+      "winner": "Chuck Smith",
+      "winnerParty": "rep",
+      "demVotes": 3481,
+      "repVotes": 5261,
+      "totalVotes": 8742,
+      "demPct": 39.82,
+      "repPct": 60.18,
+      "candidates": [
+        {
+          "name": "Chuck Smith",
+          "party": "rep",
+          "votes": 5261
+        },
+        {
+          "name": "Jordan Metcalf",
+          "party": "dem",
+          "votes": 3481
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-4",
+      "winner": "Rick James",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 9500,
+      "totalVotes": 9500,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Rick James",
+          "party": "rep",
+          "votes": 9500
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-5",
+      "winner": "Carrie Barth",
+      "winnerParty": "rep",
+      "demVotes": 3921,
+      "repVotes": 8464,
+      "totalVotes": 12385,
+      "demPct": 31.66,
+      "repPct": 68.34,
+      "candidates": [
+        {
+          "name": "Carrie Barth",
+          "party": "rep",
+          "votes": 8464
+        },
+        {
+          "name": "Henry Johns",
+          "party": "dem",
+          "votes": 3921
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-6",
+      "winner": "Samantha M. Poetter Parshall",
+      "winnerParty": "rep",
+      "demVotes": 3600,
+      "repVotes": 8703,
+      "totalVotes": 12303,
+      "demPct": 29.26,
+      "repPct": 70.74,
+      "candidates": [
+        {
+          "name": "Samantha M. Poetter Parshall",
+          "party": "rep",
+          "votes": 8703
+        },
+        {
+          "name": "Elena Super",
+          "party": "dem",
+          "votes": 3600
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-7",
+      "winner": "Dan Goddard",
+      "winnerParty": "rep",
+      "demVotes": 2377,
+      "repVotes": 6595,
+      "totalVotes": 8972,
+      "demPct": 26.49,
+      "repPct": 73.51,
+      "candidates": [
+        {
+          "name": "Dan Goddard",
+          "party": "rep",
+          "votes": 6595
+        },
+        {
+          "name": "Vicki N. Pribble",
+          "party": "dem",
+          "votes": 2377
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-8",
+      "winner": "Chris Croft",
+      "winnerParty": "rep",
+      "demVotes": 5899,
+      "repVotes": 7287,
+      "totalVotes": 13186,
+      "demPct": 44.74,
+      "repPct": 55.26,
+      "candidates": [
+        {
+          "name": "Chris Croft",
+          "party": "rep",
+          "votes": 7287
+        },
+        {
+          "name": "Pam Shernuk",
+          "party": "dem",
+          "votes": 5899
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-9",
+      "winner": "Fred Gardner",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 9944,
+      "totalVotes": 9944,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Fred Gardner",
+          "party": "rep",
+          "votes": 9944
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-10",
+      "winner": "Suzanne Wikle",
+      "winnerParty": "dem",
+      "demVotes": 7864,
+      "repVotes": 0,
+      "totalVotes": 7864,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Suzanne Wikle",
+          "party": "dem",
+          "votes": 7864
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-11",
+      "winner": "Ron Bryce",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 7653,
+      "totalVotes": 7653,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Ron Bryce",
+          "party": "rep",
+          "votes": 7653
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-12",
+      "winner": "Doug Blex",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 10133,
+      "totalVotes": 10133,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Doug Blex",
+          "party": "rep",
+          "votes": 10133
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-13",
+      "winner": "Duane Droge",
+      "winnerParty": "rep",
+      "demVotes": 1984,
+      "repVotes": 8065,
+      "totalVotes": 10049,
+      "demPct": 19.74,
+      "repPct": 80.26,
+      "candidates": [
+        {
+          "name": "Duane Droge",
+          "party": "rep",
+          "votes": 8065
+        },
+        {
+          "name": "Edgar D. Chrisman",
+          "party": "dem",
+          "votes": 1984
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-14",
+      "winner": "Charlotte Esau",
+      "winnerParty": "rep",
+      "demVotes": 7185,
+      "repVotes": 7589,
+      "totalVotes": 14774,
+      "demPct": 48.63,
+      "repPct": 51.37,
+      "candidates": [
+        {
+          "name": "Charlotte Esau",
+          "party": "rep",
+          "votes": 7589
+        },
+        {
+          "name": "Dennis Miller",
+          "party": "dem",
+          "votes": 7185
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-15",
+      "winner": "Lauren N. Bohi",
+      "winnerParty": "rep",
+      "demVotes": 3829,
+      "repVotes": 3935,
+      "totalVotes": 7764,
+      "demPct": 49.32,
+      "repPct": 50.68,
+      "candidates": [
+        {
+          "name": "Lauren N. Bohi",
+          "party": "rep",
+          "votes": 3935
+        },
+        {
+          "name": "Allison Hougland",
+          "party": "dem",
+          "votes": 3829
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-16",
+      "winner": "Linda Featherston",
+      "winnerParty": "dem",
+      "demVotes": 8742,
+      "repVotes": 0,
+      "totalVotes": 8742,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Linda Featherston",
+          "party": "dem",
+          "votes": 8742
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-17",
+      "winner": "Jo Ella Hoye",
+      "winnerParty": "dem",
+      "demVotes": 8150,
+      "repVotes": 0,
+      "totalVotes": 12223,
+      "demPct": 66.68,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Jo Ella Hoye",
+          "party": "dem",
+          "votes": 8150
+        },
+        {
+          "name": "Michael Kerner",
+          "party": "lib",
+          "votes": 4073
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-18",
+      "winner": "Cindy Neighbor",
+      "winnerParty": "dem",
+      "demVotes": 7049,
+      "repVotes": 4988,
+      "totalVotes": 12597,
+      "demPct": 55.96,
+      "repPct": 39.6,
+      "candidates": [
+        {
+          "name": "Cindy Neighbor",
+          "party": "dem",
+          "votes": 7049
+        },
+        {
+          "name": "Robert Whitman",
+          "party": "rep",
+          "votes": 4988
+        },
+        {
+          "name": "Steven A Hohe",
+          "party": "lib",
+          "votes": 560
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-19",
+      "winner": "Stephanie Sawyer Clayton",
+      "winnerParty": "dem",
+      "demVotes": 9682,
+      "repVotes": 5823,
+      "totalVotes": 15505,
+      "demPct": 62.44,
+      "repPct": 37.56,
+      "candidates": [
+        {
+          "name": "Stephanie Sawyer Clayton",
+          "party": "dem",
+          "votes": 9682
+        },
+        {
+          "name": "Mark Hermes",
+          "party": "rep",
+          "votes": 5823
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-20",
+      "winner": "Mari-Lynn Poskin",
+      "winnerParty": "dem",
+      "demVotes": 8826,
+      "repVotes": 6501,
+      "totalVotes": 15327,
+      "demPct": 57.58,
+      "repPct": 42.42,
+      "candidates": [
+        {
+          "name": "Mari-Lynn Poskin",
+          "party": "dem",
+          "votes": 8826
+        },
+        {
+          "name": "Jerry Charlton",
+          "party": "rep",
+          "votes": 6501
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-21",
+      "winner": "Jerry Stogsdill",
+      "winnerParty": "dem",
+      "demVotes": 10708,
+      "repVotes": 0,
+      "totalVotes": 10708,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Jerry Stogsdill",
+          "party": "dem",
+          "votes": 10708
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-22",
+      "winner": "Lindsay Vaughn",
+      "winnerParty": "dem",
+      "demVotes": 8149,
+      "repVotes": 0,
+      "totalVotes": 8149,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Lindsay Vaughn",
+          "party": "dem",
+          "votes": 8149
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-23",
+      "winner": "Susan Ruiz",
+      "winnerParty": "dem",
+      "demVotes": 7536,
+      "repVotes": 0,
+      "totalVotes": 7536,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Susan Ruiz",
+          "party": "dem",
+          "votes": 7536
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-24",
+      "winner": "Jarrod Ousley",
+      "winnerParty": "dem",
+      "demVotes": 7121,
+      "repVotes": 3865,
+      "totalVotes": 10986,
+      "demPct": 64.82,
+      "repPct": 35.18,
+      "candidates": [
+        {
+          "name": "Jarrod Ousley",
+          "party": "dem",
+          "votes": 7121
+        },
+        {
+          "name": "Dale L. Redick",
+          "party": "rep",
+          "votes": 3865
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-25",
+      "winner": "Rui Xu",
+      "winnerParty": "dem",
+      "demVotes": 9719,
+      "repVotes": 5358,
+      "totalVotes": 15077,
+      "demPct": 64.46,
+      "repPct": 35.54,
+      "candidates": [
+        {
+          "name": "Rui Xu",
+          "party": "dem",
+          "votes": 9719
+        },
+        {
+          "name": "Greg J. Schoofs",
+          "party": "rep",
+          "votes": 5358
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-26",
+      "winner": "Chip VanHouden",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 10502,
+      "totalVotes": 10502,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Chip VanHouden",
+          "party": "rep",
+          "votes": 10502
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-27",
+      "winner": "Sean E. Tarwater, Sr",
+      "winnerParty": "rep",
+      "demVotes": 6307,
+      "repVotes": 9049,
+      "totalVotes": 15356,
+      "demPct": 41.07,
+      "repPct": 58.93,
+      "candidates": [
+        {
+          "name": "Sean E. Tarwater, Sr",
+          "party": "rep",
+          "votes": 9049
+        },
+        {
+          "name": "David Benson",
+          "party": "dem",
+          "votes": 6307
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-28",
+      "winner": "Carl Turner",
+      "winnerParty": "rep",
+      "demVotes": 6449,
+      "repVotes": 6604,
+      "totalVotes": 13053,
+      "demPct": 49.41,
+      "repPct": 50.59,
+      "candidates": [
+        {
+          "name": "Carl Turner",
+          "party": "rep",
+          "votes": 6604
+        },
+        {
+          "name": "Ace Allen",
+          "party": "dem",
+          "votes": 6449
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-29",
+      "winner": "Heather Meyer",
+      "winnerParty": "dem",
+      "demVotes": 8708,
+      "repVotes": 0,
+      "totalVotes": 8708,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Heather Meyer",
+          "party": "dem",
+          "votes": 8708
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-30",
+      "winner": "Laura Williams",
+      "winnerParty": "rep",
+      "demVotes": 5542,
+      "repVotes": 6149,
+      "totalVotes": 11691,
+      "demPct": 47.4,
+      "repPct": 52.6,
+      "candidates": [
+        {
+          "name": "Laura Williams",
+          "party": "rep",
+          "votes": 6149
+        },
+        {
+          "name": "Betsey Lasister",
+          "party": "dem",
+          "votes": 5542
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-31",
+      "winner": "Louis E. Ruiz",
+      "winnerParty": "dem",
+      "demVotes": 4405,
+      "repVotes": 1863,
+      "totalVotes": 6268,
+      "demPct": 70.28,
+      "repPct": 29.72,
+      "candidates": [
+        {
+          "name": "Louis E. Ruiz",
+          "party": "dem",
+          "votes": 4405
+        },
+        {
+          "name": "Dennis Grindel",
+          "party": "rep",
+          "votes": 1863
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-32",
+      "winner": "Pam Curtis",
+      "winnerParty": "dem",
+      "demVotes": 2636,
+      "repVotes": 919,
+      "totalVotes": 3555,
+      "demPct": 74.15,
+      "repPct": 25.85,
+      "candidates": [
+        {
+          "name": "Pam Curtis",
+          "party": "dem",
+          "votes": 2636
+        },
+        {
+          "name": "Joe Quinn",
+          "party": "rep",
+          "votes": 919
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-33",
+      "winner": "Mike Thompson",
+      "winnerParty": "rep",
+      "demVotes": 4009,
+      "repVotes": 5244,
+      "totalVotes": 9253,
+      "demPct": 43.33,
+      "repPct": 56.67,
+      "candidates": [
+        {
+          "name": "Mike Thompson",
+          "party": "rep",
+          "votes": 5244
+        },
+        {
+          "name": "Eli Woody",
+          "party": "dem",
+          "votes": 4009
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-34",
+      "winner": "Valdenia Winn",
+      "winnerParty": "dem",
+      "demVotes": 3894,
+      "repVotes": 0,
+      "totalVotes": 3894,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Valdenia Winn",
+          "party": "dem",
+          "votes": 3894
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-35",
+      "winner": "Wanda Brownlee Paige",
+      "winnerParty": "dem",
+      "demVotes": 4837,
+      "repVotes": 0,
+      "totalVotes": 4837,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Wanda Brownlee Paige",
+          "party": "dem",
+          "votes": 4837
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-36",
+      "winner": "Lynn Melton",
+      "winnerParty": "dem",
+      "demVotes": 6629,
+      "repVotes": 4247,
+      "totalVotes": 10876,
+      "demPct": 60.95,
+      "repPct": 39.05,
+      "candidates": [
+        {
+          "name": "Lynn Melton",
+          "party": "dem",
+          "votes": 6629
+        },
+        {
+          "name": "Mark S. Gilstrap",
+          "party": "rep",
+          "votes": 4247
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-37",
+      "winner": "Melissa M Oropeza",
+      "winnerParty": "dem",
+      "demVotes": 4336,
+      "repVotes": 2566,
+      "totalVotes": 6902,
+      "demPct": 62.82,
+      "repPct": 37.18,
+      "candidates": [
+        {
+          "name": "Melissa M Oropeza",
+          "party": "dem",
+          "votes": 4336
+        },
+        {
+          "name": "Kevan Myers",
+          "party": "rep",
+          "votes": 2566
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-38",
+      "winner": "Timothy H. Johnson",
+      "winnerParty": "rep",
+      "demVotes": 4533,
+      "repVotes": 8965,
+      "totalVotes": 13498,
+      "demPct": 33.58,
+      "repPct": 66.42,
+      "candidates": [
+        {
+          "name": "Timothy H. Johnson",
+          "party": "rep",
+          "votes": 8965
+        },
+        {
+          "name": "Richard Paz",
+          "party": "dem",
+          "votes": 4533
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-39",
+      "winner": "Angela Stiens",
+      "winnerParty": "rep",
+      "demVotes": 6418,
+      "repVotes": 6837,
+      "totalVotes": 13255,
+      "demPct": 48.42,
+      "repPct": 51.58,
+      "candidates": [
+        {
+          "name": "Angela Stiens",
+          "party": "rep",
+          "votes": 6837
+        },
+        {
+          "name": "Vanessa Vaughn West",
+          "party": "dem",
+          "votes": 6418
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-40",
+      "winner": "David Buehler",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 7678,
+      "totalVotes": 7678,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "David Buehler",
+          "party": "rep",
+          "votes": 7678
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-41",
+      "winner": "Pat Proctor",
+      "winnerParty": "rep",
+      "demVotes": 3014,
+      "repVotes": 3338,
+      "totalVotes": 6352,
+      "demPct": 47.45,
+      "repPct": 52.55,
+      "candidates": [
+        {
+          "name": "Pat Proctor",
+          "party": "rep",
+          "votes": 3338
+        },
+        {
+          "name": "Aimee M. Bateman",
+          "party": "dem",
+          "votes": 3014
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-42",
+      "winner": "Lance W. Neelly",
+      "winnerParty": "rep",
+      "demVotes": 3980,
+      "repVotes": 7866,
+      "totalVotes": 11846,
+      "demPct": 33.6,
+      "repPct": 66.4,
+      "candidates": [
+        {
+          "name": "Lance W. Neelly",
+          "party": "rep",
+          "votes": 7866
+        },
+        {
+          "name": "Eddy Martinez",
+          "party": "dem",
+          "votes": 3980
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-43",
+      "winner": "Bill Sutton",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 8166,
+      "totalVotes": 8166,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Bill Sutton",
+          "party": "rep",
+          "votes": 8166
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-44",
+      "winner": "Barbara W. Ballard",
+      "winnerParty": "dem",
+      "demVotes": 10466,
+      "repVotes": 0,
+      "totalVotes": 10466,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Barbara W. Ballard",
+          "party": "dem",
+          "votes": 10466
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-45",
+      "winner": "Mike Amyx",
+      "winnerParty": "dem",
+      "demVotes": 11195,
+      "repVotes": 0,
+      "totalVotes": 11195,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Mike Amyx",
+          "party": "dem",
+          "votes": 11195
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-46",
+      "winner": "Brooklynne Mosley",
+      "winnerParty": "dem",
+      "demVotes": 6651,
+      "repVotes": 0,
+      "totalVotes": 6651,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Brooklynne Mosley",
+          "party": "dem",
+          "votes": 6651
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-47",
+      "winner": "Ronald B. Ellis",
+      "winnerParty": "rep",
+      "demVotes": 4248,
+      "repVotes": 8298,
+      "totalVotes": 12546,
+      "demPct": 33.86,
+      "repPct": 66.14,
+      "candidates": [
+        {
+          "name": "Ronald B. Ellis",
+          "party": "rep",
+          "votes": 8298
+        },
+        {
+          "name": "Mary T. Williams",
+          "party": "dem",
+          "votes": 4248
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-48",
+      "winner": "Dan Osman",
+      "winnerParty": "dem",
+      "demVotes": 6632,
+      "repVotes": 5909,
+      "totalVotes": 12541,
+      "demPct": 52.88,
+      "repPct": 47.12,
+      "candidates": [
+        {
+          "name": "Dan Osman",
+          "party": "dem",
+          "votes": 6632
+        },
+        {
+          "name": "Randy Ross",
+          "party": "rep",
+          "votes": 5909
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-49",
+      "winner": "Nikki L. McDonald",
+      "winnerParty": "dem",
+      "demVotes": 6305,
+      "repVotes": 6157,
+      "totalVotes": 12462,
+      "demPct": 50.59,
+      "repPct": 49.41,
+      "candidates": [
+        {
+          "name": "Nikki L. McDonald",
+          "party": "dem",
+          "votes": 6305
+        },
+        {
+          "name": "Kurtis Ruf",
+          "party": "rep",
+          "votes": 6157
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-50",
+      "winner": "Kyle McNorton",
+      "winnerParty": "rep",
+      "demVotes": 4396,
+      "repVotes": 8663,
+      "totalVotes": 13059,
+      "demPct": 33.66,
+      "repPct": 66.34,
+      "candidates": [
+        {
+          "name": "Kyle McNorton",
+          "party": "rep",
+          "votes": 8663
+        },
+        {
+          "name": "Jessica \"JP\" Porter",
+          "party": "dem",
+          "votes": 4396
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-51",
+      "winner": "Megan D. Steele",
+      "winnerParty": "rep",
+      "demVotes": 3672,
+      "repVotes": 8090,
+      "totalVotes": 11762,
+      "demPct": 31.22,
+      "repPct": 68.78,
+      "candidates": [
+        {
+          "name": "Megan D. Steele",
+          "party": "rep",
+          "votes": 8090
+        },
+        {
+          "name": "Linda Morse",
+          "party": "dem",
+          "votes": 3672
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-52",
+      "winner": "Jesse Borjon",
+      "winnerParty": "rep",
+      "demVotes": 6097,
+      "repVotes": 7646,
+      "totalVotes": 13743,
+      "demPct": 44.36,
+      "repPct": 55.64,
+      "candidates": [
+        {
+          "name": "Jesse Borjon",
+          "party": "rep",
+          "votes": 7646
+        },
+        {
+          "name": "Jacquie Whitney Lightcap",
+          "party": "dem",
+          "votes": 6097
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-53",
+      "winner": "Kirk R. Haskins",
+      "winnerParty": "dem",
+      "demVotes": 5556,
+      "repVotes": 4742,
+      "totalVotes": 10873,
+      "demPct": 51.1,
+      "repPct": 43.61,
+      "candidates": [
+        {
+          "name": "Kirk R. Haskins",
+          "party": "dem",
+          "votes": 5556
+        },
+        {
+          "name": "Jeff Coen",
+          "party": "rep",
+          "votes": 4742
+        },
+        {
+          "name": "Aric Hermann",
+          "party": "lib",
+          "votes": 575
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-54",
+      "winner": "Ken Corbet",
+      "winnerParty": "rep",
+      "demVotes": 3825,
+      "repVotes": 8028,
+      "totalVotes": 11853,
+      "demPct": 32.27,
+      "repPct": 67.73,
+      "candidates": [
+        {
+          "name": "Ken Corbet",
+          "party": "rep",
+          "votes": 8028
+        },
+        {
+          "name": "Jade Pearson Ramsdell",
+          "party": "dem",
+          "votes": 3825
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-55",
+      "winner": "Tobias Schlingensiepen",
+      "winnerParty": "dem",
+      "demVotes": 5662,
+      "repVotes": 3292,
+      "totalVotes": 8954,
+      "demPct": 63.23,
+      "repPct": 36.77,
+      "candidates": [
+        {
+          "name": "Tobias Schlingensiepen",
+          "party": "dem",
+          "votes": 5662
+        },
+        {
+          "name": "Michael Barron",
+          "party": "rep",
+          "votes": 3292
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-56",
+      "winner": "Virgil Weigel",
+      "winnerParty": "dem",
+      "demVotes": 5925,
+      "repVotes": 4918,
+      "totalVotes": 10843,
+      "demPct": 54.64,
+      "repPct": 45.36,
+      "candidates": [
+        {
+          "name": "Virgil Weigel",
+          "party": "dem",
+          "votes": 5925
+        },
+        {
+          "name": "Pennie Boyer-Kloos",
+          "party": "rep",
+          "votes": 4918
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-57",
+      "winner": "John Alcala",
+      "winnerParty": "dem",
+      "demVotes": 4140,
+      "repVotes": 2882,
+      "totalVotes": 7022,
+      "demPct": 58.96,
+      "repPct": 41.04,
+      "candidates": [
+        {
+          "name": "John Alcala",
+          "party": "dem",
+          "votes": 4140
+        },
+        {
+          "name": "Donna J. McGinty",
+          "party": "rep",
+          "votes": 2882
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-58",
+      "winner": "Alexis Simmons",
+      "winnerParty": "dem",
+      "demVotes": 4759,
+      "repVotes": 2731,
+      "totalVotes": 7490,
+      "demPct": 63.54,
+      "repPct": 36.46,
+      "candidates": [
+        {
+          "name": "Alexis Simmons",
+          "party": "dem",
+          "votes": 4759
+        },
+        {
+          "name": "Michael Mathewson",
+          "party": "rep",
+          "votes": 2731
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-59",
+      "winner": "Rebecca Schmoe",
+      "winnerParty": "rep",
+      "demVotes": 3030,
+      "repVotes": 7895,
+      "totalVotes": 10925,
+      "demPct": 27.73,
+      "repPct": 72.27,
+      "candidates": [
+        {
+          "name": "Rebecca Schmoe",
+          "party": "rep",
+          "votes": 7895
+        },
+        {
+          "name": "Michael Lewis",
+          "party": "dem",
+          "votes": 3030
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-60",
+      "winner": "Mark Schreiber",
+      "winnerParty": "rep",
+      "demVotes": 3580,
+      "repVotes": 4948,
+      "totalVotes": 8528,
+      "demPct": 41.98,
+      "repPct": 58.02,
+      "candidates": [
+        {
+          "name": "Mark Schreiber",
+          "party": "rep",
+          "votes": 4948
+        },
+        {
+          "name": "Mic McGuire",
+          "party": "dem",
+          "votes": 3580
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-61",
+      "winner": "Francis Awerkamp",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 6678,
+      "totalVotes": 10278,
+      "demPct": 0,
+      "repPct": 64.97,
+      "candidates": [
+        {
+          "name": "Francis Awerkamp",
+          "party": "rep",
+          "votes": 6678
+        },
+        {
+          "name": "Robert Thomas",
+          "party": "lib",
+          "votes": 3600
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-62",
+      "winner": "Sean M. Willcott",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 9874,
+      "totalVotes": 9874,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Sean M. Willcott",
+          "party": "rep",
+          "votes": 9874
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-63",
+      "winner": "Allen B. Reavis",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 8881,
+      "totalVotes": 8881,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Allen B. Reavis",
+          "party": "rep",
+          "votes": 8881
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-64",
+      "winner": "Lewis (Bill) Bloom",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 8214,
+      "totalVotes": 8214,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Lewis (Bill) Bloom",
+          "party": "rep",
+          "votes": 8214
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-65",
+      "winner": "Shawn Chauncey",
+      "winnerParty": "rep",
+      "demVotes": 2653,
+      "repVotes": 3519,
+      "totalVotes": 6172,
+      "demPct": 42.98,
+      "repPct": 57.02,
+      "candidates": [
+        {
+          "name": "Shawn Chauncey",
+          "party": "rep",
+          "votes": 3519
+        },
+        {
+          "name": "Lorraine M Ceniceros",
+          "party": "dem",
+          "votes": 2653
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-66",
+      "winner": "Sydney Carlin",
+      "winnerParty": "dem",
+      "demVotes": 4546,
+      "repVotes": 0,
+      "totalVotes": 4546,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Sydney Carlin",
+          "party": "dem",
+          "votes": 4546
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-67",
+      "winner": "Angel Roeser",
+      "winnerParty": "rep",
+      "demVotes": 5175,
+      "repVotes": 5704,
+      "totalVotes": 10879,
+      "demPct": 47.57,
+      "repPct": 52.43,
+      "candidates": [
+        {
+          "name": "Angel Roeser",
+          "party": "rep",
+          "votes": 5704
+        },
+        {
+          "name": "Kim Zito",
+          "party": "dem",
+          "votes": 5175
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-68",
+      "winner": "Nathan (Nate) Butler",
+      "winnerParty": "rep",
+      "demVotes": 1990,
+      "repVotes": 4417,
+      "totalVotes": 6407,
+      "demPct": 31.06,
+      "repPct": 68.94,
+      "candidates": [
+        {
+          "name": "Nathan (Nate) Butler",
+          "party": "rep",
+          "votes": 4417
+        },
+        {
+          "name": "Michael Seymour II",
+          "party": "dem",
+          "votes": 1990
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-69",
+      "winner": "Clarke Sanders",
+      "winnerParty": "rep",
+      "demVotes": 4013,
+      "repVotes": 5590,
+      "totalVotes": 9603,
+      "demPct": 41.79,
+      "repPct": 58.21,
+      "candidates": [
+        {
+          "name": "Clarke Sanders",
+          "party": "rep",
+          "votes": 5590
+        },
+        {
+          "name": "Lori Blake",
+          "party": "dem",
+          "votes": 4013
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-70",
+      "winner": "Scott Hill",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 9874,
+      "totalVotes": 9874,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Scott Hill",
+          "party": "rep",
+          "votes": 9874
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-71",
+      "winner": "Steven K. Howe",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 9223,
+      "totalVotes": 9223,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Steven K. Howe",
+          "party": "rep",
+          "votes": 9223
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-72",
+      "winner": "Avery Anderson",
+      "winnerParty": "rep",
+      "demVotes": 3633,
+      "repVotes": 6788,
+      "totalVotes": 10421,
+      "demPct": 34.86,
+      "repPct": 65.14,
+      "candidates": [
+        {
+          "name": "Avery Anderson",
+          "party": "rep",
+          "votes": 6788
+        },
+        {
+          "name": "Heidi Hoskinson",
+          "party": "dem",
+          "votes": 3633
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-73",
+      "winner": "Richard Wilborn",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 8973,
+      "totalVotes": 8973,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Richard Wilborn",
+          "party": "rep",
+          "votes": 8973
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-74",
+      "winner": "Mike King",
+      "winnerParty": "rep",
+      "demVotes": 3236,
+      "repVotes": 7794,
+      "totalVotes": 11030,
+      "demPct": 29.34,
+      "repPct": 70.66,
+      "candidates": [
+        {
+          "name": "Mike King",
+          "party": "rep",
+          "votes": 7794
+        },
+        {
+          "name": "Jenna Ratzlaff",
+          "party": "dem",
+          "votes": 3236
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-75",
+      "winner": "Will Carpenter",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 8995,
+      "totalVotes": 8995,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Will Carpenter",
+          "party": "rep",
+          "votes": 8995
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-76",
+      "winner": "Brad Barrett",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 10083,
+      "totalVotes": 10083,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Brad Barrett",
+          "party": "rep",
+          "votes": 10083
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-77",
+      "winner": "Kristey S. Williams",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 9340,
+      "totalVotes": 9340,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Kristey S. Williams",
+          "party": "rep",
+          "votes": 9340
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-78",
+      "winner": "Robyn R. Essex",
+      "winnerParty": "rep",
+      "demVotes": 5767,
+      "repVotes": 6880,
+      "totalVotes": 12647,
+      "demPct": 45.6,
+      "repPct": 54.4,
+      "candidates": [
+        {
+          "name": "Robyn R. Essex",
+          "party": "rep",
+          "votes": 6880
+        },
+        {
+          "name": "Daniel Goodman",
+          "party": "dem",
+          "votes": 5767
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-79",
+      "winner": "Webster T. Roth",
+      "winnerParty": "rep",
+      "demVotes": 2806,
+      "repVotes": 7491,
+      "totalVotes": 10297,
+      "demPct": 27.25,
+      "repPct": 72.75,
+      "candidates": [
+        {
+          "name": "Webster T. Roth",
+          "party": "rep",
+          "votes": 7491
+        },
+        {
+          "name": "Siobhan McIntyre",
+          "party": "dem",
+          "votes": 2806
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-80",
+      "winner": "Bill Rhiley",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 7369,
+      "totalVotes": 7369,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Bill Rhiley",
+          "party": "rep",
+          "votes": 7369
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-81",
+      "winner": "Blake Carpenter",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 5896,
+      "totalVotes": 5896,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Blake Carpenter",
+          "party": "rep",
+          "votes": 5896
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-82",
+      "winner": "Leah Howell",
+      "winnerParty": "rep",
+      "demVotes": 3626,
+      "repVotes": 7464,
+      "totalVotes": 11090,
+      "demPct": 32.7,
+      "repPct": 67.3,
+      "candidates": [
+        {
+          "name": "Leah Howell",
+          "party": "rep",
+          "votes": 7464
+        },
+        {
+          "name": "Kyle Beauchamp",
+          "party": "dem",
+          "votes": 3626
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-83",
+      "winner": "Henry Helgerson",
+      "winnerParty": "dem",
+      "demVotes": 4037,
+      "repVotes": 2921,
+      "totalVotes": 6958,
+      "demPct": 58.02,
+      "repPct": 41.98,
+      "candidates": [
+        {
+          "name": "Henry Helgerson",
+          "party": "dem",
+          "votes": 4037
+        },
+        {
+          "name": "Erik Seligman",
+          "party": "rep",
+          "votes": 2921
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-84",
+      "winner": "Ford Carr",
+      "winnerParty": "dem",
+      "demVotes": 5195,
+      "repVotes": 0,
+      "totalVotes": 5195,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Ford Carr",
+          "party": "dem",
+          "votes": 5195
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-85",
+      "winner": "Patrick A. Penn",
+      "winnerParty": "rep",
+      "demVotes": 5005,
+      "repVotes": 6870,
+      "totalVotes": 11875,
+      "demPct": 42.15,
+      "repPct": 57.85,
+      "candidates": [
+        {
+          "name": "Patrick A. Penn",
+          "party": "rep",
+          "votes": 6870
+        },
+        {
+          "name": "Aonya Kendrick Barnett",
+          "party": "dem",
+          "votes": 5005
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-86",
+      "winner": "Silas Miller",
+      "winnerParty": "dem",
+      "demVotes": 4098,
+      "repVotes": 0,
+      "totalVotes": 4098,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Silas Miller",
+          "party": "dem",
+          "votes": 4098
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-87",
+      "winner": "Susan Oliver Estes",
+      "winnerParty": "rep",
+      "demVotes": 5140,
+      "repVotes": 6105,
+      "totalVotes": 11245,
+      "demPct": 45.71,
+      "repPct": 54.29,
+      "candidates": [
+        {
+          "name": "Susan Oliver Estes",
+          "party": "rep",
+          "votes": 6105
+        },
+        {
+          "name": "Mike Snider",
+          "party": "dem",
+          "votes": 5140
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-88",
+      "winner": "Sandy Pickert",
+      "winnerParty": "rep",
+      "demVotes": 4337,
+      "repVotes": 4524,
+      "totalVotes": 8861,
+      "demPct": 48.94,
+      "repPct": 51.06,
+      "candidates": [
+        {
+          "name": "Sandy Pickert",
+          "party": "rep",
+          "votes": 4524
+        },
+        {
+          "name": "Veronica Gillette",
+          "party": "dem",
+          "votes": 4337
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-89",
+      "winner": "KC Ohaebosim",
+      "winnerParty": "dem",
+      "demVotes": 5967,
+      "repVotes": 0,
+      "totalVotes": 5967,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "KC Ohaebosim",
+          "party": "dem",
+          "votes": 5967
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-90",
+      "winner": "Steve Huebert",
+      "winnerParty": "rep",
+      "demVotes": 3373,
+      "repVotes": 8243,
+      "totalVotes": 11616,
+      "demPct": 29.04,
+      "repPct": 70.96,
+      "candidates": [
+        {
+          "name": "Steve Huebert",
+          "party": "rep",
+          "votes": 8243
+        },
+        {
+          "name": "Tracy Edingfield",
+          "party": "dem",
+          "votes": 3373
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-91",
+      "winner": "Emil Bergquist",
+      "winnerParty": "rep",
+      "demVotes": 4216,
+      "repVotes": 8145,
+      "totalVotes": 12361,
+      "demPct": 34.11,
+      "repPct": 65.89,
+      "candidates": [
+        {
+          "name": "Emil Bergquist",
+          "party": "rep",
+          "votes": 8145
+        },
+        {
+          "name": "Keisha McClish Couts",
+          "party": "dem",
+          "votes": 4216
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-92",
+      "winner": "John Carmichael",
+      "winnerParty": "dem",
+      "demVotes": 6116,
+      "repVotes": 0,
+      "totalVotes": 6116,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "John Carmichael",
+          "party": "dem",
+          "votes": 6116
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-93",
+      "winner": "Brian Bergkamp",
+      "winnerParty": "rep",
+      "demVotes": 2863,
+      "repVotes": 8464,
+      "totalVotes": 11327,
+      "demPct": 25.28,
+      "repPct": 74.72,
+      "candidates": [
+        {
+          "name": "Brian Bergkamp",
+          "party": "rep",
+          "votes": 8464
+        },
+        {
+          "name": "Justin L. Shore",
+          "party": "dem",
+          "votes": 2863
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-94",
+      "winner": "Leo Delperdang",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 8812,
+      "totalVotes": 8812,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Leo Delperdang",
+          "party": "rep",
+          "votes": 8812
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-95",
+      "winner": "Tom Sawyer",
+      "winnerParty": "dem",
+      "demVotes": 3289,
+      "repVotes": 2806,
+      "totalVotes": 6095,
+      "demPct": 53.96,
+      "repPct": 46.04,
+      "candidates": [
+        {
+          "name": "Tom Sawyer",
+          "party": "dem",
+          "votes": 3289
+        },
+        {
+          "name": "Christopher Parisho",
+          "party": "rep",
+          "votes": 2806
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-96",
+      "winner": "Tom Kessler",
+      "winnerParty": "rep",
+      "demVotes": 2412,
+      "repVotes": 2947,
+      "totalVotes": 5663,
+      "demPct": 42.59,
+      "repPct": 52.04,
+      "candidates": [
+        {
+          "name": "Tom Kessler",
+          "party": "rep",
+          "votes": 2947
+        },
+        {
+          "name": "Dan Johnson",
+          "party": "dem",
+          "votes": 2412
+        },
+        {
+          "name": "Joseph Trotter",
+          "party": "lib",
+          "votes": 304
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-97",
+      "winner": "Nick Hoheisel",
+      "winnerParty": "rep",
+      "demVotes": 3244,
+      "repVotes": 5177,
+      "totalVotes": 8421,
+      "demPct": 38.52,
+      "repPct": 61.48,
+      "candidates": [
+        {
+          "name": "Nick Hoheisel",
+          "party": "rep",
+          "votes": 5177
+        },
+        {
+          "name": "Christine Pruitt",
+          "party": "dem",
+          "votes": 3244
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-98",
+      "winner": "Cyndi Howerton",
+      "winnerParty": "rep",
+      "demVotes": 2654,
+      "repVotes": 4370,
+      "totalVotes": 7024,
+      "demPct": 37.78,
+      "repPct": 62.22,
+      "candidates": [
+        {
+          "name": "Cyndi Howerton",
+          "party": "rep",
+          "votes": 4370
+        },
+        {
+          "name": "Carol Brewer",
+          "party": "dem",
+          "votes": 2654
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-99",
+      "winner": "Susan Humphries",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 9696,
+      "totalVotes": 9696,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Susan Humphries",
+          "party": "rep",
+          "votes": 9696
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-100",
+      "winner": "Daniel Hawkins",
+      "winnerParty": "rep",
+      "demVotes": 4753,
+      "repVotes": 7368,
+      "totalVotes": 12121,
+      "demPct": 39.21,
+      "repPct": 60.79,
+      "candidates": [
+        {
+          "name": "Daniel Hawkins",
+          "party": "rep",
+          "votes": 7368
+        },
+        {
+          "name": "Mike McCorkle",
+          "party": "dem",
+          "votes": 4753
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-101",
+      "winner": "Joe Seiwert",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 10267,
+      "totalVotes": 10267,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Joe Seiwert",
+          "party": "rep",
+          "votes": 10267
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-102",
+      "winner": "Kyler Sweely",
+      "winnerParty": "rep",
+      "demVotes": 3478,
+      "repVotes": 3772,
+      "totalVotes": 7250,
+      "demPct": 47.97,
+      "repPct": 52.03,
+      "candidates": [
+        {
+          "name": "Kyler Sweely",
+          "party": "rep",
+          "votes": 3772
+        },
+        {
+          "name": "Jason Probst",
+          "party": "dem",
+          "votes": 3478
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-103",
+      "winner": "Angela Martinez",
+      "winnerParty": "dem",
+      "demVotes": 2817,
+      "repVotes": 0,
+      "totalVotes": 2817,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Angela Martinez",
+          "party": "dem",
+          "votes": 2817
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-104",
+      "winner": "Paul Waggoner",
+      "winnerParty": "rep",
+      "demVotes": 4355,
+      "repVotes": 7925,
+      "totalVotes": 12280,
+      "demPct": 35.46,
+      "repPct": 64.54,
+      "candidates": [
+        {
+          "name": "Paul Waggoner",
+          "party": "rep",
+          "votes": 7925
+        },
+        {
+          "name": "Lynnette Krieger-Zook",
+          "party": "dem",
+          "votes": 4355
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-105",
+      "winner": "Jill Ann Ward",
+      "winnerParty": "rep",
+      "demVotes": 3654,
+      "repVotes": 5258,
+      "totalVotes": 8912,
+      "demPct": 41,
+      "repPct": 59,
+      "candidates": [
+        {
+          "name": "Jill Ann Ward",
+          "party": "rep",
+          "votes": 5258
+        },
+        {
+          "name": "John Burke",
+          "party": "dem",
+          "votes": 3654
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-106",
+      "winner": "Lisa M. Moser",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 10449,
+      "totalVotes": 10449,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Lisa M. Moser",
+          "party": "rep",
+          "votes": 10449
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-107",
+      "winner": "Dawn Wolf",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 9778,
+      "totalVotes": 9778,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Dawn Wolf",
+          "party": "rep",
+          "votes": 9778
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-108",
+      "winner": "Brandon Woodard",
+      "winnerParty": "dem",
+      "demVotes": 8527,
+      "repVotes": 0,
+      "totalVotes": 8527,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Brandon Woodard",
+          "party": "dem",
+          "votes": 8527
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-109",
+      "winner": "Troy L. Waymaster",
+      "winnerParty": "rep",
+      "demVotes": 1288,
+      "repVotes": 8884,
+      "totalVotes": 11136,
+      "demPct": 11.57,
+      "repPct": 79.78,
+      "candidates": [
+        {
+          "name": "Troy L. Waymaster",
+          "party": "rep",
+          "votes": 8884
+        },
+        {
+          "name": "Keith Griffin",
+          "party": "dem",
+          "votes": 1288
+        },
+        {
+          "name": "Peter Solie",
+          "party": "lib",
+          "votes": 964
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-110",
+      "winner": "Ken Rahjes",
+      "winnerParty": "rep",
+      "demVotes": 1665,
+      "repVotes": 9531,
+      "totalVotes": 11196,
+      "demPct": 14.87,
+      "repPct": 85.13,
+      "candidates": [
+        {
+          "name": "Ken Rahjes",
+          "party": "rep",
+          "votes": 9531
+        },
+        {
+          "name": "ellace Henderson",
+          "party": "dem",
+          "votes": 1665
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-111",
+      "winner": "Barb Wasinger",
+      "winnerParty": "rep",
+      "demVotes": 2826,
+      "repVotes": 7739,
+      "totalVotes": 10565,
+      "demPct": 26.75,
+      "repPct": 73.25,
+      "candidates": [
+        {
+          "name": "Barb Wasinger",
+          "party": "rep",
+          "votes": 7739
+        },
+        {
+          "name": "Joseph Burt Lantz IV",
+          "party": "dem",
+          "votes": 2826
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-112",
+      "winner": "Sherri Brantley",
+      "winnerParty": "rep",
+      "demVotes": 2547,
+      "repVotes": 6375,
+      "totalVotes": 8922,
+      "demPct": 28.55,
+      "repPct": 71.45,
+      "candidates": [
+        {
+          "name": "Sherri Brantley",
+          "party": "rep",
+          "votes": 6375
+        },
+        {
+          "name": "Mark Rondeau",
+          "party": "dem",
+          "votes": 2547
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-113",
+      "winner": "Brett Fairchild",
+      "winnerParty": "rep",
+      "demVotes": 2467,
+      "repVotes": 8296,
+      "totalVotes": 10763,
+      "demPct": 22.92,
+      "repPct": 77.08,
+      "candidates": [
+        {
+          "name": "Brett Fairchild",
+          "party": "rep",
+          "votes": 8296
+        },
+        {
+          "name": "Jo Ann Roth",
+          "party": "dem",
+          "votes": 2467
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-114",
+      "winner": "Kevin D. Schwertfeger",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 9971,
+      "totalVotes": 9971,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Kevin D. Schwertfeger",
+          "party": "rep",
+          "votes": 9971
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-115",
+      "winner": "Gary White",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 8311,
+      "totalVotes": 8311,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Gary White",
+          "party": "rep",
+          "votes": 8311
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-116",
+      "winner": "Kyle D. Hoffman",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 9879,
+      "totalVotes": 9879,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Kyle D. Hoffman",
+          "party": "rep",
+          "votes": 9879
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-117",
+      "winner": "Adam Turk",
+      "winnerParty": "rep",
+      "demVotes": 6320,
+      "repVotes": 8552,
+      "totalVotes": 14872,
+      "demPct": 42.5,
+      "repPct": 57.5,
+      "candidates": [
+        {
+          "name": "Adam Turk",
+          "party": "rep",
+          "votes": 8552
+        },
+        {
+          "name": "Bill Hammond",
+          "party": "dem",
+          "votes": 6320
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-118",
+      "winner": "Jim Minnix",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 10435,
+      "totalVotes": 10435,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Jim Minnix",
+          "party": "rep",
+          "votes": 10435
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-119",
+      "winner": "Jason W. Goetz",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 3383,
+      "totalVotes": 3383,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Jason W. Goetz",
+          "party": "rep",
+          "votes": 3383
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-120",
+      "winner": "Adam Smith",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 10157,
+      "totalVotes": 10157,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Adam Smith",
+          "party": "rep",
+          "votes": 10157
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-121",
+      "winner": "John Resman",
+      "winnerParty": "rep",
+      "demVotes": 5454,
+      "repVotes": 6800,
+      "totalVotes": 12254,
+      "demPct": 44.51,
+      "repPct": 55.49,
+      "candidates": [
+        {
+          "name": "John Resman",
+          "party": "rep",
+          "votes": 6800
+        },
+        {
+          "name": "Mel Pinick",
+          "party": "dem",
+          "votes": 5454
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-122",
+      "winner": "Lon E. Pishny",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 5989,
+      "totalVotes": 5989,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Lon E. Pishny",
+          "party": "rep",
+          "votes": 5989
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-123",
+      "winner": "Bob Lewis",
+      "winnerParty": "rep",
+      "demVotes": 2288,
+      "repVotes": 4327,
+      "totalVotes": 6615,
+      "demPct": 34.59,
+      "repPct": 65.41,
+      "candidates": [
+        {
+          "name": "Bob Lewis",
+          "party": "rep",
+          "votes": 4327
+        },
+        {
+          "name": "Tracy Meinzer",
+          "party": "dem",
+          "votes": 2288
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-124",
+      "winner": "Martin (Marty) Long",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 7013,
+      "totalVotes": 7013,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Martin (Marty) Long",
+          "party": "rep",
+          "votes": 7013
+        }
+      ]
+    },
+    {
+      "districtId": "ks-hd-125",
+      "winner": "Shannon Francis",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 4292,
+      "totalVotes": 4292,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Shannon Francis",
+          "party": "rep",
+          "votes": 4292
+        }
+      ]
+    }
+  ],
+  "senate": [
+    {
+      "districtId": "ks-sd-1",
+      "winner": "Craig Bowser",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 29530,
+      "totalVotes": 29530,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Craig Bowser",
+          "party": "rep",
+          "votes": 29530
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-2",
+      "winner": "Marci Francisco",
+      "winnerParty": "dem",
+      "demVotes": 24004,
+      "repVotes": 6651,
+      "totalVotes": 30655,
+      "demPct": 78.3,
+      "repPct": 21.7,
+      "candidates": [
+        {
+          "name": "Marci Francisco",
+          "party": "dem",
+          "votes": 24004
+        },
+        {
+          "name": "David G. Miller",
+          "party": "rep",
+          "votes": 6651
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-3",
+      "winner": "Rick Kloos",
+      "winnerParty": "rep",
+      "demVotes": 16285,
+      "repVotes": 21942,
+      "totalVotes": 38227,
+      "demPct": 42.6,
+      "repPct": 57.4,
+      "candidates": [
+        {
+          "name": "Rick Kloos",
+          "party": "rep",
+          "votes": 21942
+        },
+        {
+          "name": "Dena Sattler",
+          "party": "dem",
+          "votes": 16285
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-4",
+      "winner": "David Haley",
+      "winnerParty": "dem",
+      "demVotes": 13941,
+      "repVotes": 0,
+      "totalVotes": 13941,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "David Haley",
+          "party": "dem",
+          "votes": 13941
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-5",
+      "winner": "Jeff Klemp",
+      "winnerParty": "rep",
+      "demVotes": 15701,
+      "repVotes": 15732,
+      "totalVotes": 31433,
+      "demPct": 49.95,
+      "repPct": 50.05,
+      "candidates": [
+        {
+          "name": "Jeff Klemp",
+          "party": "rep",
+          "votes": 15732
+        },
+        {
+          "name": "Jeff Pittman",
+          "party": "dem",
+          "votes": 15701
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-6",
+      "winner": "Pat Pettey",
+      "winnerParty": "dem",
+      "demVotes": 12882,
+      "repVotes": 7634,
+      "totalVotes": 20516,
+      "demPct": 62.79,
+      "repPct": 37.21,
+      "candidates": [
+        {
+          "name": "Pat Pettey",
+          "party": "dem",
+          "votes": 12882
+        },
+        {
+          "name": "Tabitha S. Burt",
+          "party": "rep",
+          "votes": 7634
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-7",
+      "winner": "Ethan Corson",
+      "winnerParty": "dem",
+      "demVotes": 29014,
+      "repVotes": 16085,
+      "totalVotes": 45099,
+      "demPct": 64.33,
+      "repPct": 35.67,
+      "candidates": [
+        {
+          "name": "Ethan Corson",
+          "party": "dem",
+          "votes": 29014
+        },
+        {
+          "name": "Dave Dannov",
+          "party": "rep",
+          "votes": 16085
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-8",
+      "winner": "Cindy Holscher",
+      "winnerParty": "dem",
+      "demVotes": 24795,
+      "repVotes": 15758,
+      "totalVotes": 40553,
+      "demPct": 61.14,
+      "repPct": 38.86,
+      "candidates": [
+        {
+          "name": "Cindy Holscher",
+          "party": "dem",
+          "votes": 24795
+        },
+        {
+          "name": "Benee' Hudson",
+          "party": "rep",
+          "votes": 15758
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-9",
+      "winner": "Beverly Gossage",
+      "winnerParty": "rep",
+      "demVotes": 15389,
+      "repVotes": 24242,
+      "totalVotes": 39631,
+      "demPct": 38.83,
+      "repPct": 61.17,
+      "candidates": [
+        {
+          "name": "Beverly Gossage",
+          "party": "rep",
+          "votes": 24242
+        },
+        {
+          "name": "Norman Mallicoat",
+          "party": "dem",
+          "votes": 15389
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-10",
+      "winner": "Mike Thompson",
+      "winnerParty": "rep",
+      "demVotes": 21708,
+      "repVotes": 23884,
+      "totalVotes": 45592,
+      "demPct": 47.61,
+      "repPct": 52.39,
+      "candidates": [
+        {
+          "name": "Mike Thompson",
+          "party": "rep",
+          "votes": 23884
+        },
+        {
+          "name": "Andrew Mall",
+          "party": "dem",
+          "votes": 21708
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-11",
+      "winner": "Kellie Warren",
+      "winnerParty": "rep",
+      "demVotes": 21000,
+      "repVotes": 22905,
+      "totalVotes": 43905,
+      "demPct": 47.83,
+      "repPct": 52.17,
+      "candidates": [
+        {
+          "name": "Kellie Warren",
+          "party": "rep",
+          "votes": 22905
+        },
+        {
+          "name": "Karen Thurlow",
+          "party": "dem",
+          "votes": 21000
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-12",
+      "winner": "Caryn Tyson",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 27480,
+      "totalVotes": 33758,
+      "demPct": 0,
+      "repPct": 81.4,
+      "candidates": [
+        {
+          "name": "Caryn Tyson",
+          "party": "rep",
+          "votes": 27480
+        },
+        {
+          "name": "Cullene Lang",
+          "party": "lib",
+          "votes": 6278
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-13",
+      "winner": "Tim Shallenburger",
+      "winnerParty": "rep",
+      "demVotes": 9771,
+      "repVotes": 21366,
+      "totalVotes": 31137,
+      "demPct": 31.38,
+      "repPct": 68.62,
+      "candidates": [
+        {
+          "name": "Tim Shallenburger",
+          "party": "rep",
+          "votes": 21366
+        },
+        {
+          "name": "Austin B. Stapleton",
+          "party": "dem",
+          "votes": 9771
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-14",
+      "winner": "Michael A. Fagg",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 29264,
+      "totalVotes": 29264,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Michael A. Fagg",
+          "party": "rep",
+          "votes": 29264
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-15",
+      "winner": "Virgil Peck",
+      "winnerParty": "rep",
+      "demVotes": 8069,
+      "repVotes": 21354,
+      "totalVotes": 29423,
+      "demPct": 27.42,
+      "repPct": 72.58,
+      "candidates": [
+        {
+          "name": "Virgil Peck",
+          "party": "rep",
+          "votes": 21354
+        },
+        {
+          "name": "Jerry Reeves",
+          "party": "dem",
+          "votes": 8069
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-16",
+      "winner": "Ty Masterson",
+      "winnerParty": "rep",
+      "demVotes": 13300,
+      "repVotes": 25347,
+      "totalVotes": 38647,
+      "demPct": 34.41,
+      "repPct": 65.59,
+      "candidates": [
+        {
+          "name": "Ty Masterson",
+          "party": "rep",
+          "votes": 25347
+        },
+        {
+          "name": "Sasha Islam",
+          "party": "dem",
+          "votes": 13300
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-17",
+      "winner": "Mike Argabright",
+      "winnerParty": "rep",
+      "demVotes": 9851,
+      "repVotes": 14689,
+      "totalVotes": 24540,
+      "demPct": 40.14,
+      "repPct": 59.86,
+      "candidates": [
+        {
+          "name": "Mike Argabright",
+          "party": "rep",
+          "votes": 14689
+        },
+        {
+          "name": "Lillian G. Lingenfelter",
+          "party": "dem",
+          "votes": 9851
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-18",
+      "winner": "Kenny Titus",
+      "winnerParty": "rep",
+      "demVotes": 12657,
+      "repVotes": 25445,
+      "totalVotes": 38102,
+      "demPct": 33.22,
+      "repPct": 66.78,
+      "candidates": [
+        {
+          "name": "Kenny Titus",
+          "party": "rep",
+          "votes": 25445
+        },
+        {
+          "name": "Matthew Robin",
+          "party": "dem",
+          "votes": 12657
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-19",
+      "winner": "Patrick Schmidt",
+      "winnerParty": "dem",
+      "demVotes": 16784,
+      "repVotes": 9216,
+      "totalVotes": 26000,
+      "demPct": 64.55,
+      "repPct": 35.45,
+      "candidates": [
+        {
+          "name": "Patrick Schmidt",
+          "party": "dem",
+          "votes": 16784
+        },
+        {
+          "name": "Tyler Wible",
+          "party": "rep",
+          "votes": 9216
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-20",
+      "winner": "Brenda S. Dietrich",
+      "winnerParty": "rep",
+      "demVotes": 14357,
+      "repVotes": 23270,
+      "totalVotes": 37627,
+      "demPct": 38.16,
+      "repPct": 61.84,
+      "candidates": [
+        {
+          "name": "Brenda S. Dietrich",
+          "party": "rep",
+          "votes": 23270
+        },
+        {
+          "name": "Candace L. Ayars",
+          "party": "dem",
+          "votes": 14357
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-21",
+      "winner": "Dinah Sykes",
+      "winnerParty": "dem",
+      "demVotes": 25979,
+      "repVotes": 0,
+      "totalVotes": 25979,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Dinah Sykes",
+          "party": "dem",
+          "votes": 25979
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-22",
+      "winner": "Brad Starnes",
+      "winnerParty": "rep",
+      "demVotes": 11825,
+      "repVotes": 12262,
+      "totalVotes": 24087,
+      "demPct": 49.09,
+      "repPct": 50.91,
+      "candidates": [
+        {
+          "name": "Brad Starnes",
+          "party": "rep",
+          "votes": 12262
+        },
+        {
+          "name": "Usha Reddi",
+          "party": "dem",
+          "votes": 11825
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-23",
+      "winner": "Adam Thomas",
+      "winnerParty": "rep",
+      "demVotes": 16686,
+      "repVotes": 18362,
+      "totalVotes": 35048,
+      "demPct": 47.61,
+      "repPct": 52.39,
+      "candidates": [
+        {
+          "name": "Adam Thomas",
+          "party": "rep",
+          "votes": 18362
+        },
+        {
+          "name": "Stacey B. Knoell",
+          "party": "dem",
+          "votes": 16686
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-24",
+      "winner": "J.R. Claeys",
+      "winnerParty": "rep",
+      "demVotes": 10210,
+      "repVotes": 21548,
+      "totalVotes": 31758,
+      "demPct": 32.15,
+      "repPct": 67.85,
+      "candidates": [
+        {
+          "name": "J.R. Claeys",
+          "party": "rep",
+          "votes": 21548
+        },
+        {
+          "name": "John Baker",
+          "party": "dem",
+          "votes": 10210
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-25",
+      "winner": "Mary Ware",
+      "winnerParty": "dem",
+      "demVotes": 11638,
+      "repVotes": 8746,
+      "totalVotes": 20384,
+      "demPct": 57.09,
+      "repPct": 42.91,
+      "candidates": [
+        {
+          "name": "Mary Ware",
+          "party": "dem",
+          "votes": 11638
+        },
+        {
+          "name": "Keenen Smith",
+          "party": "rep",
+          "votes": 8746
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-26",
+      "winner": "Chase Blasi",
+      "winnerParty": "rep",
+      "demVotes": 8014,
+      "repVotes": 24824,
+      "totalVotes": 34844,
+      "demPct": 23,
+      "repPct": 71.24,
+      "candidates": [
+        {
+          "name": "Chase Blasi",
+          "party": "rep",
+          "votes": 24824
+        },
+        {
+          "name": "Raymond H. Shore Jr",
+          "party": "dem",
+          "votes": 8014
+        },
+        {
+          "name": "J.C. Moore",
+          "party": "ind",
+          "votes": 2006
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-27",
+      "winner": "Joe Claeys",
+      "winnerParty": "rep",
+      "demVotes": 13733,
+      "repVotes": 20833,
+      "totalVotes": 34566,
+      "demPct": 39.73,
+      "repPct": 60.27,
+      "candidates": [
+        {
+          "name": "Joe Claeys",
+          "party": "rep",
+          "votes": 20833
+        },
+        {
+          "name": "Jennifer Herington",
+          "party": "dem",
+          "votes": 13733
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-28",
+      "winner": "Mike Petersen",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 15406,
+      "totalVotes": 15406,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Mike Petersen",
+          "party": "rep",
+          "votes": 15406
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-29",
+      "winner": "Oletha Faust Goudeau",
+      "winnerParty": "dem",
+      "demVotes": 14158,
+      "repVotes": 0,
+      "totalVotes": 14158,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Oletha Faust Goudeau",
+          "party": "dem",
+          "votes": 14158
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-30",
+      "winner": "Renee Erickson",
+      "winnerParty": "rep",
+      "demVotes": 11180,
+      "repVotes": 18085,
+      "totalVotes": 31650,
+      "demPct": 35.32,
+      "repPct": 57.14,
+      "candidates": [
+        {
+          "name": "Renee Erickson",
+          "party": "rep",
+          "votes": 18085
+        },
+        {
+          "name": "Richard Smith",
+          "party": "dem",
+          "votes": 11180
+        },
+        {
+          "name": "Olivia Hayse",
+          "party": "lib",
+          "votes": 2385
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-31",
+      "winner": "Stephen Owens",
+      "winnerParty": "rep",
+      "demVotes": 12472,
+      "repVotes": 22422,
+      "totalVotes": 34894,
+      "demPct": 35.74,
+      "repPct": 64.26,
+      "candidates": [
+        {
+          "name": "Stephen Owens",
+          "party": "rep",
+          "votes": 22422
+        },
+        {
+          "name": "Jason Miller",
+          "party": "dem",
+          "votes": 12472
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-32",
+      "winner": "Larry W Alley",
+      "winnerParty": "rep",
+      "demVotes": 8562,
+      "repVotes": 23603,
+      "totalVotes": 32165,
+      "demPct": 26.62,
+      "repPct": 73.38,
+      "candidates": [
+        {
+          "name": "Larry W Alley",
+          "party": "rep",
+          "votes": 23603
+        },
+        {
+          "name": "Lawrence Moreno",
+          "party": "dem",
+          "votes": 8562
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-33",
+      "winner": "Tory Marie Blew",
+      "winnerParty": "rep",
+      "demVotes": 6082,
+      "repVotes": 24998,
+      "totalVotes": 31080,
+      "demPct": 19.57,
+      "repPct": 80.43,
+      "candidates": [
+        {
+          "name": "Tory Marie Blew",
+          "party": "rep",
+          "votes": 24998
+        },
+        {
+          "name": "Matthew Westenfeld",
+          "party": "dem",
+          "votes": 6082
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-34",
+      "winner": "Michael Murphy",
+      "winnerParty": "rep",
+      "demVotes": 9375,
+      "repVotes": 22757,
+      "totalVotes": 32132,
+      "demPct": 29.18,
+      "repPct": 70.82,
+      "candidates": [
+        {
+          "name": "Michael Murphy",
+          "party": "rep",
+          "votes": 22757
+        },
+        {
+          "name": "Shanna Henry",
+          "party": "dem",
+          "votes": 9375
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-35",
+      "winner": "TJ Rose",
+      "winnerParty": "rep",
+      "demVotes": 20664,
+      "repVotes": 23088,
+      "totalVotes": 43752,
+      "demPct": 47.23,
+      "repPct": 52.77,
+      "candidates": [
+        {
+          "name": "TJ Rose",
+          "party": "rep",
+          "votes": 23088
+        },
+        {
+          "name": "Jason Anderson",
+          "party": "dem",
+          "votes": 20664
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-36",
+      "winner": "Elaine S. Bowers",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 33162,
+      "totalVotes": 33162,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Elaine S. Bowers",
+          "party": "rep",
+          "votes": 33162
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-37",
+      "winner": "Douglas Shane",
+      "winnerParty": "rep",
+      "demVotes": 14705,
+      "repVotes": 21460,
+      "totalVotes": 36165,
+      "demPct": 40.66,
+      "repPct": 59.34,
+      "candidates": [
+        {
+          "name": "Douglas Shane",
+          "party": "rep",
+          "votes": 21460
+        },
+        {
+          "name": "Sherry Giebler",
+          "party": "dem",
+          "votes": 14705
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-38",
+      "winner": "Ronald Ryckman",
+      "winnerParty": "rep",
+      "demVotes": 5023,
+      "repVotes": 14112,
+      "totalVotes": 19135,
+      "demPct": 26.25,
+      "repPct": 73.75,
+      "candidates": [
+        {
+          "name": "Ronald Ryckman",
+          "party": "rep",
+          "votes": 14112
+        },
+        {
+          "name": "Jose G. Lara",
+          "party": "dem",
+          "votes": 5023
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-39",
+      "winner": "William Clifford",
+      "winnerParty": "rep",
+      "demVotes": 4463,
+      "repVotes": 18095,
+      "totalVotes": 22558,
+      "demPct": 19.78,
+      "repPct": 80.22,
+      "candidates": [
+        {
+          "name": "William Clifford",
+          "party": "rep",
+          "votes": 18095
+        },
+        {
+          "name": "Isidro Marino",
+          "party": "dem",
+          "votes": 4463
+        }
+      ]
+    },
+    {
+      "districtId": "ks-sd-40",
+      "winner": "Richard (Rick) Billinger",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 30795,
+      "totalVotes": 30795,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "Richard (Rick) Billinger",
+          "party": "rep",
+          "votes": 30795
+        }
+      ]
+    }
+  ]
+}

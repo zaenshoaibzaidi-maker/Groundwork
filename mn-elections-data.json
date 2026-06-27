@@ -1,0 +1,6614 @@
+{
+  "house": [
+    {
+      "districtId": "mn-hd-1a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "James Sceville",
+          "party": "Democratic",
+          "votes": 5466
+        },
+        {
+          "name": "John Burkel",
+          "party": "Republican",
+          "votes": 17420
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 15
+        }
+      ],
+      "winners": [
+        {
+          "name": "John Burkel",
+          "party": "Republican",
+          "votes": 17420
+        }
+      ],
+      "demVotes": 5466,
+      "repVotes": 17420,
+      "totalVotes": 22886,
+      "demPct": 23.88,
+      "repPct": 76.12
+    },
+    {
+      "districtId": "mn-hd-1b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Steve Gander",
+          "party": "Republican",
+          "votes": 13939
+        },
+        {
+          "name": "Mike Christopherson",
+          "party": "Democratic",
+          "votes": 6791
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 14
+        }
+      ],
+      "winners": [
+        {
+          "name": "Steve Gander",
+          "party": "Republican",
+          "votes": 13939
+        }
+      ],
+      "demVotes": 6791,
+      "repVotes": 13939,
+      "totalVotes": 20730,
+      "demPct": 32.76,
+      "repPct": 67.24
+    },
+    {
+      "districtId": "mn-hd-2a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Bidal Duran Jr",
+          "party": "Republican",
+          "votes": 11518
+        },
+        {
+          "name": "Reed Olson",
+          "party": "Democratic",
+          "votes": 10667
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 26
+        }
+      ],
+      "winners": [
+        {
+          "name": "Bidal Duran Jr",
+          "party": "Republican",
+          "votes": 11518
+        }
+      ],
+      "demVotes": 10667,
+      "repVotes": 11518,
+      "totalVotes": 22185,
+      "demPct": 48.08,
+      "repPct": 51.92
+    },
+    {
+      "districtId": "mn-hd-2b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Matt Bliss",
+          "party": "Republican",
+          "votes": 14372
+        },
+        {
+          "name": "Michael Reyes",
+          "party": "Democratic",
+          "votes": 8168
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 10
+        }
+      ],
+      "winners": [
+        {
+          "name": "Matt Bliss",
+          "party": "Republican",
+          "votes": 14372
+        }
+      ],
+      "demVotes": 8168,
+      "repVotes": 14372,
+      "totalVotes": 22540,
+      "demPct": 36.24,
+      "repPct": 63.76
+    },
+    {
+      "districtId": "mn-hd-3a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Roger J. Skraba",
+          "party": "Republican",
+          "votes": 14443
+        },
+        {
+          "name": "Harley Droba",
+          "party": "Democratic",
+          "votes": 10779
+        },
+        {
+          "name": "Rich Tru",
+          "party": "Forward Party Independent",
+          "votes": 712
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 73
+        }
+      ],
+      "winners": [
+        {
+          "name": "Roger J. Skraba",
+          "party": "Republican",
+          "votes": 14443
+        }
+      ],
+      "demVotes": 10779,
+      "repVotes": 14443,
+      "totalVotes": 25222,
+      "demPct": 42.74,
+      "repPct": 57.26
+    },
+    {
+      "districtId": "mn-hd-3b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Natalie Zeleznikar",
+          "party": "Republican",
+          "votes": 13480
+        },
+        {
+          "name": "Mark Munger",
+          "party": "Democratic",
+          "votes": 13321
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 27
+        }
+      ],
+      "winners": [
+        {
+          "name": "Natalie Zeleznikar",
+          "party": "Republican",
+          "votes": 13480
+        }
+      ],
+      "demVotes": 13321,
+      "repVotes": 13480,
+      "totalVotes": 26801,
+      "demPct": 49.7,
+      "repPct": 50.3
+    },
+    {
+      "districtId": "mn-hd-4a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Joshua Zincke",
+          "party": "Republican",
+          "votes": 7822
+        },
+        {
+          "name": "Heather M. Keeler",
+          "party": "Democratic",
+          "votes": 11072
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 32
+        }
+      ],
+      "winners": [
+        {
+          "name": "Heather M. Keeler",
+          "party": "Democratic",
+          "votes": 11072
+        }
+      ],
+      "demVotes": 11072,
+      "repVotes": 7822,
+      "totalVotes": 18894,
+      "demPct": 58.6,
+      "repPct": 41.4
+    },
+    {
+      "districtId": "mn-hd-4b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jim Joy",
+          "party": "Republican",
+          "votes": 15273
+        },
+        {
+          "name": "Thaddeus Laugisch",
+          "party": "Democratic",
+          "votes": 7709
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 16
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jim Joy",
+          "party": "Republican",
+          "votes": 15273
+        }
+      ],
+      "demVotes": 7709,
+      "repVotes": 15273,
+      "totalVotes": 22982,
+      "demPct": 33.54,
+      "repPct": 66.46
+    },
+    {
+      "districtId": "mn-hd-5a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Krista Knudsen",
+          "party": "Republican",
+          "votes": 18855
+        },
+        {
+          "name": "Brian Hobson",
+          "party": "Democratic",
+          "votes": 7551
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 22
+        }
+      ],
+      "winners": [
+        {
+          "name": "Krista Knudsen",
+          "party": "Republican",
+          "votes": 18855
+        }
+      ],
+      "demVotes": 7551,
+      "repVotes": 18855,
+      "totalVotes": 26406,
+      "demPct": 28.6,
+      "repPct": 71.4
+    },
+    {
+      "districtId": "mn-hd-5b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Mike Wiener",
+          "party": "Republican",
+          "votes": 17604
+        },
+        {
+          "name": "Gregg Hendrickson",
+          "party": "Democratic",
+          "votes": 5729
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 21
+        }
+      ],
+      "winners": [
+        {
+          "name": "Mike Wiener",
+          "party": "Republican",
+          "votes": 17604
+        }
+      ],
+      "demVotes": 5729,
+      "repVotes": 17604,
+      "totalVotes": 23333,
+      "demPct": 24.55,
+      "repPct": 75.45
+    },
+    {
+      "districtId": "mn-hd-6a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Ben Davis",
+          "party": "Republican",
+          "votes": 17765
+        },
+        {
+          "name": "Earl Butenhoff",
+          "party": "Democratic",
+          "votes": 9116
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 19
+        }
+      ],
+      "winners": [
+        {
+          "name": "Ben Davis",
+          "party": "Republican",
+          "votes": 17765
+        }
+      ],
+      "demVotes": 9116,
+      "repVotes": 17765,
+      "totalVotes": 26881,
+      "demPct": 33.91,
+      "repPct": 66.09
+    },
+    {
+      "districtId": "mn-hd-6b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Josh Heintzeman",
+          "party": "Republican",
+          "votes": 15744
+        },
+        {
+          "name": "Emily LeClaire",
+          "party": "Democratic",
+          "votes": 8209
+        },
+        {
+          "name": "Troy Kenneth Scheffler",
+          "party": "Americans First",
+          "votes": 848
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 32
+        }
+      ],
+      "winners": [
+        {
+          "name": "Josh Heintzeman",
+          "party": "Republican",
+          "votes": 15744
+        }
+      ],
+      "demVotes": 8209,
+      "repVotes": 15744,
+      "totalVotes": 23953,
+      "demPct": 34.27,
+      "repPct": 65.73
+    },
+    {
+      "districtId": "mn-hd-7a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Aron Schnaser",
+          "party": "Democratic",
+          "votes": 9467
+        },
+        {
+          "name": "Spencer Igo",
+          "party": "Republican",
+          "votes": 14422
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 23
+        }
+      ],
+      "winners": [
+        {
+          "name": "Spencer Igo",
+          "party": "Republican",
+          "votes": 14422
+        }
+      ],
+      "demVotes": 9467,
+      "repVotes": 14422,
+      "totalVotes": 23889,
+      "demPct": 39.63,
+      "repPct": 60.37
+    },
+    {
+      "districtId": "mn-hd-7b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Cal Warwas",
+          "party": "Republican",
+          "votes": 13781
+        },
+        {
+          "name": "Lorrie Janatopoulos",
+          "party": "Democratic",
+          "votes": 10655
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 23
+        }
+      ],
+      "winners": [
+        {
+          "name": "Cal Warwas",
+          "party": "Republican",
+          "votes": 13781
+        }
+      ],
+      "demVotes": 10655,
+      "repVotes": 13781,
+      "totalVotes": 24436,
+      "demPct": 43.6,
+      "repPct": 56.4
+    },
+    {
+      "districtId": "mn-hd-8a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Mark McGrew",
+          "party": "Republican",
+          "votes": 6962
+        },
+        {
+          "name": "Peter Johnson",
+          "party": "Democratic",
+          "votes": 15006
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 29
+        }
+      ],
+      "winners": [
+        {
+          "name": "Peter Johnson",
+          "party": "Democratic",
+          "votes": 15006
+        }
+      ],
+      "demVotes": 15006,
+      "repVotes": 6962,
+      "totalVotes": 21968,
+      "demPct": 68.31,
+      "repPct": 31.69
+    },
+    {
+      "districtId": "mn-hd-8b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Shawn Savela",
+          "party": "Republican",
+          "votes": 7954
+        },
+        {
+          "name": "Alicia (Liish) Kozlowski",
+          "party": "Democratic",
+          "votes": 17440
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 55
+        }
+      ],
+      "winners": [
+        {
+          "name": "Alicia (Liish) Kozlowski",
+          "party": "Democratic",
+          "votes": 17440
+        }
+      ],
+      "demVotes": 17440,
+      "repVotes": 7954,
+      "totalVotes": 25394,
+      "demPct": 68.68,
+      "repPct": 31.32
+    },
+    {
+      "districtId": "mn-hd-9a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jeff Backer",
+          "party": "Republican",
+          "votes": 15587
+        },
+        {
+          "name": "Michael Ziomko",
+          "party": "Democratic",
+          "votes": 7042
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 41
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jeff Backer",
+          "party": "Republican",
+          "votes": 15587
+        }
+      ],
+      "demVotes": 7042,
+      "repVotes": 15587,
+      "totalVotes": 22629,
+      "demPct": 31.12,
+      "repPct": 68.88
+    },
+    {
+      "districtId": "mn-hd-9b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jason Satter",
+          "party": "Democratic",
+          "votes": 7661
+        },
+        {
+          "name": "Tom Murphy",
+          "party": "Republican",
+          "votes": 19366
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 18
+        }
+      ],
+      "winners": [
+        {
+          "name": "Tom Murphy",
+          "party": "Republican",
+          "votes": 19366
+        }
+      ],
+      "demVotes": 7661,
+      "repVotes": 19366,
+      "totalVotes": 27027,
+      "demPct": 28.35,
+      "repPct": 71.65
+    },
+    {
+      "districtId": "mn-hd-10a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Julia Samsal Hipp",
+          "party": "Democratic",
+          "votes": 7159
+        },
+        {
+          "name": "Ron Kresha",
+          "party": "Republican",
+          "votes": 17957
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 134
+        }
+      ],
+      "winners": [
+        {
+          "name": "Ron Kresha",
+          "party": "Republican",
+          "votes": 17957
+        }
+      ],
+      "demVotes": 7159,
+      "repVotes": 17957,
+      "totalVotes": 25116,
+      "demPct": 28.5,
+      "repPct": 71.5
+    },
+    {
+      "districtId": "mn-hd-10b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Isaac Schultz",
+          "party": "Republican",
+          "votes": 19959
+        },
+        {
+          "name": "JoEllen Burns",
+          "party": "Democratic",
+          "votes": 5079
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 24
+        }
+      ],
+      "winners": [
+        {
+          "name": "Isaac Schultz",
+          "party": "Republican",
+          "votes": 19959
+        }
+      ],
+      "demVotes": 5079,
+      "repVotes": 19959,
+      "totalVotes": 25038,
+      "demPct": 20.29,
+      "repPct": 79.71
+    },
+    {
+      "districtId": "mn-hd-11a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jeff Dotseth",
+          "party": "Republican",
+          "votes": 12252
+        },
+        {
+          "name": "Pete Radosevich",
+          "party": "Democratic",
+          "votes": 11588
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 96
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jeff Dotseth",
+          "party": "Republican",
+          "votes": 12252
+        }
+      ],
+      "demVotes": 11588,
+      "repVotes": 12252,
+      "totalVotes": 23840,
+      "demPct": 48.61,
+      "repPct": 51.39
+    },
+    {
+      "districtId": "mn-hd-11b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Nathan Nelson",
+          "party": "Republican",
+          "votes": 16047
+        },
+        {
+          "name": "Eric Olson",
+          "party": "Democratic",
+          "votes": 7320
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 20
+        }
+      ],
+      "winners": [
+        {
+          "name": "Nathan Nelson",
+          "party": "Republican",
+          "votes": 16047
+        }
+      ],
+      "demVotes": 7320,
+      "repVotes": 16047,
+      "totalVotes": 23367,
+      "demPct": 31.33,
+      "repPct": 68.67
+    },
+    {
+      "districtId": "mn-hd-12a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Becky K. Parker",
+          "party": "Democratic",
+          "votes": 6058
+        },
+        {
+          "name": "Paul H. Anderson",
+          "party": "Republican",
+          "votes": 17110
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 15
+        }
+      ],
+      "winners": [
+        {
+          "name": "Paul H. Anderson",
+          "party": "Republican",
+          "votes": 17110
+        }
+      ],
+      "demVotes": 6058,
+      "repVotes": 17110,
+      "totalVotes": 23168,
+      "demPct": 26.15,
+      "repPct": 73.85
+    },
+    {
+      "districtId": "mn-hd-12b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Mary Franson",
+          "party": "Republican",
+          "votes": 18571
+        },
+        {
+          "name": "Judd Hoff",
+          "party": "Democratic",
+          "votes": 4946
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 685
+        }
+      ],
+      "winners": [
+        {
+          "name": "Mary Franson",
+          "party": "Republican",
+          "votes": 18571
+        }
+      ],
+      "demVotes": 4946,
+      "repVotes": 18571,
+      "totalVotes": 23517,
+      "demPct": 21.03,
+      "repPct": 78.97
+    },
+    {
+      "districtId": "mn-hd-13a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Lisa Demuth",
+          "party": "Republican",
+          "votes": 19215
+        },
+        {
+          "name": "Cindy Aho",
+          "party": "Democratic",
+          "votes": 6282
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 20
+        }
+      ],
+      "winners": [
+        {
+          "name": "Lisa Demuth",
+          "party": "Republican",
+          "votes": 19215
+        }
+      ],
+      "demVotes": 6282,
+      "repVotes": 19215,
+      "totalVotes": 25497,
+      "demPct": 24.64,
+      "repPct": 75.36
+    },
+    {
+      "districtId": "mn-hd-13b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Tim O'Driscoll",
+          "party": "Republican",
+          "votes": 16467
+        },
+        {
+          "name": "Dusty Bolstad",
+          "party": "Democratic",
+          "votes": 7505
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 23
+        }
+      ],
+      "winners": [
+        {
+          "name": "Tim O'Driscoll",
+          "party": "Republican",
+          "votes": 16467
+        }
+      ],
+      "demVotes": 7505,
+      "repVotes": 16467,
+      "totalVotes": 23972,
+      "demPct": 31.31,
+      "repPct": 68.69
+    },
+    {
+      "districtId": "mn-hd-14a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Bernie Perryman",
+          "party": "Republican",
+          "votes": 10967
+        },
+        {
+          "name": "Abdi Daisane",
+          "party": "Democratic",
+          "votes": 8463
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 45
+        }
+      ],
+      "winners": [
+        {
+          "name": "Bernie Perryman",
+          "party": "Republican",
+          "votes": 10967
+        }
+      ],
+      "demVotes": 8463,
+      "repVotes": 10967,
+      "totalVotes": 19430,
+      "demPct": 43.56,
+      "repPct": 56.44
+    },
+    {
+      "districtId": "mn-hd-14b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Dan Wolgamott",
+          "party": "Democratic",
+          "votes": 10005
+        },
+        {
+          "name": "Sue Ek",
+          "party": "Republican",
+          "votes": 9814
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 48
+        }
+      ],
+      "winners": [
+        {
+          "name": "Dan Wolgamott",
+          "party": "Democratic",
+          "votes": 10005
+        }
+      ],
+      "demVotes": 10005,
+      "repVotes": 9814,
+      "totalVotes": 19819,
+      "demPct": 50.48,
+      "repPct": 49.52
+    },
+    {
+      "districtId": "mn-hd-15a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Chris Swedzinski",
+          "party": "Republican",
+          "votes": 16111
+        },
+        {
+          "name": "Anthony M Studemann",
+          "party": "Democratic",
+          "votes": 6347
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 18
+        }
+      ],
+      "winners": [
+        {
+          "name": "Chris Swedzinski",
+          "party": "Republican",
+          "votes": 16111
+        }
+      ],
+      "demVotes": 6347,
+      "repVotes": 16111,
+      "totalVotes": 22458,
+      "demPct": 28.26,
+      "repPct": 71.74
+    },
+    {
+      "districtId": "mn-hd-15b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Paul Torkelson",
+          "party": "Republican",
+          "votes": 16814
+        },
+        {
+          "name": "Tom Kuster",
+          "party": "Democratic",
+          "votes": 6315
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 14
+        }
+      ],
+      "winners": [
+        {
+          "name": "Paul Torkelson",
+          "party": "Republican",
+          "votes": 16814
+        }
+      ],
+      "demVotes": 6315,
+      "repVotes": 16814,
+      "totalVotes": 23129,
+      "demPct": 27.3,
+      "repPct": 72.7
+    },
+    {
+      "districtId": "mn-hd-16a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Scott Van Binsbergen",
+          "party": "Republican",
+          "votes": 16039
+        },
+        {
+          "name": "Kathy Hegstad",
+          "party": "Democratic",
+          "votes": 6338
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 24
+        }
+      ],
+      "winners": [
+        {
+          "name": "Scott Van Binsbergen",
+          "party": "Republican",
+          "votes": 16039
+        }
+      ],
+      "demVotes": 6338,
+      "repVotes": 16039,
+      "totalVotes": 22377,
+      "demPct": 28.32,
+      "repPct": 71.68
+    },
+    {
+      "districtId": "mn-hd-16b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Josiah Ampian",
+          "party": "Democratic",
+          "votes": 5271
+        },
+        {
+          "name": "Dave Baker",
+          "party": "Republican",
+          "votes": 16847
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 20
+        }
+      ],
+      "winners": [
+        {
+          "name": "Dave Baker",
+          "party": "Republican",
+          "votes": 16847
+        }
+      ],
+      "demVotes": 5271,
+      "repVotes": 16847,
+      "totalVotes": 22118,
+      "demPct": 23.83,
+      "repPct": 76.17
+    },
+    {
+      "districtId": "mn-hd-17a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Dawn Gillman",
+          "party": "Republican",
+          "votes": 17053
+        },
+        {
+          "name": "Chad Tschimperle",
+          "party": "Democratic",
+          "votes": 6930
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 24
+        }
+      ],
+      "winners": [
+        {
+          "name": "Dawn Gillman",
+          "party": "Republican",
+          "votes": 17053
+        }
+      ],
+      "demVotes": 6930,
+      "repVotes": 17053,
+      "totalVotes": 23983,
+      "demPct": 28.9,
+      "repPct": 71.1
+    },
+    {
+      "districtId": "mn-hd-17b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jennifer Nuesse",
+          "party": "Democratic",
+          "votes": 7431
+        },
+        {
+          "name": "Bobbie Harder",
+          "party": "Republican",
+          "votes": 17424
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 25
+        }
+      ],
+      "winners": [
+        {
+          "name": "Bobbie Harder",
+          "party": "Republican",
+          "votes": 17424
+        }
+      ],
+      "demVotes": 7431,
+      "repVotes": 17424,
+      "totalVotes": 24855,
+      "demPct": 29.9,
+      "repPct": 70.1
+    },
+    {
+      "districtId": "mn-hd-18a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jeff Brand",
+          "party": "Democratic",
+          "votes": 11480
+        },
+        {
+          "name": "Erica Schwartz",
+          "party": "Republican",
+          "votes": 12282
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 42
+        }
+      ],
+      "winners": [
+        {
+          "name": "Erica Schwartz",
+          "party": "Republican",
+          "votes": 12282
+        }
+      ],
+      "demVotes": 11480,
+      "repVotes": 12282,
+      "totalVotes": 23762,
+      "demPct": 48.31,
+      "repPct": 51.69
+    },
+    {
+      "districtId": "mn-hd-18b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Dar Vosburg",
+          "party": "Republican",
+          "votes": 8650
+        },
+        {
+          "name": "Luke Frederick",
+          "party": "Democratic",
+          "votes": 10892
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 35
+        }
+      ],
+      "winners": [
+        {
+          "name": "Luke Frederick",
+          "party": "Democratic",
+          "votes": 10892
+        }
+      ],
+      "demVotes": 10892,
+      "repVotes": 8650,
+      "totalVotes": 19542,
+      "demPct": 55.74,
+      "repPct": 44.26
+    },
+    {
+      "districtId": "mn-hd-19a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Keith Allen",
+          "party": "Republican",
+          "votes": 13366
+        },
+        {
+          "name": "Jessica Navarro",
+          "party": "Democratic",
+          "votes": 7311
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 16
+        }
+      ],
+      "winners": [
+        {
+          "name": "Keith Allen",
+          "party": "Republican",
+          "votes": 13366
+        }
+      ],
+      "demVotes": 7311,
+      "repVotes": 13366,
+      "totalVotes": 20677,
+      "demPct": 35.36,
+      "repPct": 64.64
+    },
+    {
+      "districtId": "mn-hd-19b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Thomas J. Sexton",
+          "party": "Republican",
+          "votes": 14620
+        },
+        {
+          "name": "Edelgard Fernandez Mejia",
+          "party": "Democratic",
+          "votes": 7495
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 28
+        }
+      ],
+      "winners": [
+        {
+          "name": "Thomas J. Sexton",
+          "party": "Republican",
+          "votes": 14620
+        }
+      ],
+      "demVotes": 7495,
+      "repVotes": 14620,
+      "totalVotes": 22115,
+      "demPct": 33.89,
+      "repPct": 66.11
+    },
+    {
+      "districtId": "mn-hd-20a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Pam Altendorf",
+          "party": "Republican",
+          "votes": 14333
+        },
+        {
+          "name": "Heather Arndt",
+          "party": "Democratic",
+          "votes": 10535
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 15
+        }
+      ],
+      "winners": [
+        {
+          "name": "Pam Altendorf",
+          "party": "Republican",
+          "votes": 14333
+        }
+      ],
+      "demVotes": 10535,
+      "repVotes": 14333,
+      "totalVotes": 24868,
+      "demPct": 42.36,
+      "repPct": 57.64
+    },
+    {
+      "districtId": "mn-hd-20b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Michael Hutchinson",
+          "party": "Democratic",
+          "votes": 8333
+        },
+        {
+          "name": "Steven E Jacob",
+          "party": "Republican",
+          "votes": 16854
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 24
+        }
+      ],
+      "winners": [
+        {
+          "name": "Steven E Jacob",
+          "party": "Republican",
+          "votes": 16854
+        }
+      ],
+      "demVotes": 8333,
+      "repVotes": 16854,
+      "totalVotes": 25187,
+      "demPct": 33.08,
+      "repPct": 66.92
+    },
+    {
+      "districtId": "mn-hd-21a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Creedence Matthew Petroff",
+          "party": "Independence-Alliance",
+          "votes": 3517
+        },
+        {
+          "name": "Joe Schomacker",
+          "party": "Republican",
+          "votes": 18669
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 67
+        }
+      ],
+      "winners": [
+        {
+          "name": "Joe Schomacker",
+          "party": "Republican",
+          "votes": 18669
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 18669,
+      "totalVotes": 18669,
+      "demPct": 0,
+      "repPct": 100
+    },
+    {
+      "districtId": "mn-hd-21b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Marj J Fogelman",
+          "party": "Republican",
+          "votes": 11983
+        },
+        {
+          "name": "Jon Wilson",
+          "party": "Democratic",
+          "votes": 6078
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 12
+        }
+      ],
+      "winners": [
+        {
+          "name": "Marj J Fogelman",
+          "party": "Republican",
+          "votes": 11983
+        }
+      ],
+      "demVotes": 6078,
+      "repVotes": 11983,
+      "totalVotes": 18061,
+      "demPct": 33.65,
+      "repPct": 66.35
+    },
+    {
+      "districtId": "mn-hd-22a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Bjorn Olson",
+          "party": "Republican",
+          "votes": 15699
+        },
+        {
+          "name": "Marisa Ulmen",
+          "party": "Democratic",
+          "votes": 6896
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 21
+        }
+      ],
+      "winners": [
+        {
+          "name": "Bjorn Olson",
+          "party": "Republican",
+          "votes": 15699
+        }
+      ],
+      "demVotes": 6896,
+      "repVotes": 15699,
+      "totalVotes": 22595,
+      "demPct": 30.52,
+      "repPct": 69.48
+    },
+    {
+      "districtId": "mn-hd-22b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Sara Nett-Torgrimson",
+          "party": "Democratic",
+          "votes": 7740
+        },
+        {
+          "name": "Terry M. Stier",
+          "party": "Republican",
+          "votes": 17053
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 16
+        }
+      ],
+      "winners": [
+        {
+          "name": "Terry M. Stier",
+          "party": "Republican",
+          "votes": 17053
+        }
+      ],
+      "demVotes": 7740,
+      "repVotes": 17053,
+      "totalVotes": 24793,
+      "demPct": 31.22,
+      "repPct": 68.78
+    },
+    {
+      "districtId": "mn-hd-23a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Joe Staloch",
+          "party": "Democratic",
+          "votes": 7379
+        },
+        {
+          "name": "Peggy Bennett",
+          "party": "Republican",
+          "votes": 15554
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 26
+        }
+      ],
+      "winners": [
+        {
+          "name": "Peggy Bennett",
+          "party": "Republican",
+          "votes": 15554
+        }
+      ],
+      "demVotes": 7379,
+      "repVotes": 15554,
+      "totalVotes": 22933,
+      "demPct": 32.18,
+      "repPct": 67.82
+    },
+    {
+      "districtId": "mn-hd-23b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Patricia Mueller",
+          "party": "Republican",
+          "votes": 11465
+        },
+        {
+          "name": "Joseph Pacovsky",
+          "party": "Democratic",
+          "votes": 8174
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 12
+        }
+      ],
+      "winners": [
+        {
+          "name": "Patricia Mueller",
+          "party": "Republican",
+          "votes": 11465
+        }
+      ],
+      "demVotes": 8174,
+      "repVotes": 11465,
+      "totalVotes": 19639,
+      "demPct": 41.62,
+      "repPct": 58.38
+    },
+    {
+      "districtId": "mn-hd-24a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Heather Holmes",
+          "party": "Democratic",
+          "votes": 9019
+        },
+        {
+          "name": "Duane Quam",
+          "party": "Republican",
+          "votes": 15661
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 23
+        }
+      ],
+      "winners": [
+        {
+          "name": "Duane Quam",
+          "party": "Republican",
+          "votes": 15661
+        }
+      ],
+      "demVotes": 9019,
+      "repVotes": 15661,
+      "totalVotes": 24680,
+      "demPct": 36.54,
+      "repPct": 63.46
+    },
+    {
+      "districtId": "mn-hd-24b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Dan Sepeda",
+          "party": "Republican",
+          "votes": 9369
+        },
+        {
+          "name": "Tina Liebling",
+          "party": "Democratic",
+          "votes": 12863
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 21
+        }
+      ],
+      "winners": [
+        {
+          "name": "Tina Liebling",
+          "party": "Democratic",
+          "votes": 12863
+        }
+      ],
+      "demVotes": 12863,
+      "repVotes": 9369,
+      "totalVotes": 22232,
+      "demPct": 57.86,
+      "repPct": 42.14
+    },
+    {
+      "districtId": "mn-hd-25a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Ken Navitsky",
+          "party": "Republican",
+          "votes": 10260
+        },
+        {
+          "name": "Kim Hicks",
+          "party": "Democratic",
+          "votes": 13085
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 29
+        }
+      ],
+      "winners": [
+        {
+          "name": "Kim Hicks",
+          "party": "Democratic",
+          "votes": 13085
+        }
+      ],
+      "demVotes": 13085,
+      "repVotes": 10260,
+      "totalVotes": 23345,
+      "demPct": 56.05,
+      "repPct": 43.95
+    },
+    {
+      "districtId": "mn-hd-25b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Andy Smith",
+          "party": "Democratic",
+          "votes": 12847
+        },
+        {
+          "name": "Wes Lund",
+          "party": "Republican",
+          "votes": 7184
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 40
+        }
+      ],
+      "winners": [
+        {
+          "name": "Andy Smith",
+          "party": "Democratic",
+          "votes": 12847
+        }
+      ],
+      "demVotes": 12847,
+      "repVotes": 7184,
+      "totalVotes": 20031,
+      "demPct": 64.14,
+      "repPct": 35.86
+    },
+    {
+      "districtId": "mn-hd-26a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Aaron Repinski",
+          "party": "Republican",
+          "votes": 12240
+        },
+        {
+          "name": "Sarah Kruger",
+          "party": "Democratic",
+          "votes": 10916
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 52
+        }
+      ],
+      "winners": [
+        {
+          "name": "Aaron Repinski",
+          "party": "Republican",
+          "votes": 12240
+        }
+      ],
+      "demVotes": 10916,
+      "repVotes": 12240,
+      "totalVotes": 23156,
+      "demPct": 47.14,
+      "repPct": 52.86
+    },
+    {
+      "districtId": "mn-hd-26b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Gregory M. Davids",
+          "party": "Republican",
+          "votes": 15714
+        },
+        {
+          "name": "Allie Wolf",
+          "party": "Democratic",
+          "votes": 9044
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 59
+        }
+      ],
+      "winners": [
+        {
+          "name": "Gregory M. Davids",
+          "party": "Republican",
+          "votes": 15714
+        }
+      ],
+      "demVotes": 9044,
+      "repVotes": 15714,
+      "totalVotes": 24758,
+      "demPct": 36.53,
+      "repPct": 63.47
+    },
+    {
+      "districtId": "mn-hd-27a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Kathryn A. Geary",
+          "party": "Democratic",
+          "votes": 7026
+        },
+        {
+          "name": "Shane Mekeland",
+          "party": "Republican",
+          "votes": 17597
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 31
+        }
+      ],
+      "winners": [
+        {
+          "name": "Shane Mekeland",
+          "party": "Republican",
+          "votes": 17597
+        }
+      ],
+      "demVotes": 7026,
+      "repVotes": 17597,
+      "totalVotes": 24623,
+      "demPct": 28.53,
+      "repPct": 71.47
+    },
+    {
+      "districtId": "mn-hd-27b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Bryan Lawrence",
+          "party": "Republican",
+          "votes": 18229
+        },
+        {
+          "name": "Andrew Scouten",
+          "party": "Democratic",
+          "votes": 6338
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 36
+        }
+      ],
+      "winners": [
+        {
+          "name": "Bryan Lawrence",
+          "party": "Republican",
+          "votes": 18229
+        }
+      ],
+      "demVotes": 6338,
+      "repVotes": 18229,
+      "totalVotes": 24567,
+      "demPct": 25.8,
+      "repPct": 74.2
+    },
+    {
+      "districtId": "mn-hd-28a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "James \"Jimmy\" Gordon",
+          "party": "Republican",
+          "votes": 17550
+        },
+        {
+          "name": "Tim Dummer",
+          "party": "Democratic",
+          "votes": 8163
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 54
+        }
+      ],
+      "winners": [
+        {
+          "name": "James \"Jimmy\" Gordon",
+          "party": "Republican",
+          "votes": 17550
+        }
+      ],
+      "demVotes": 8163,
+      "repVotes": 17550,
+      "totalVotes": 25713,
+      "demPct": 31.75,
+      "repPct": 68.25
+    },
+    {
+      "districtId": "mn-hd-28b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Max Rymer",
+          "party": "Republican",
+          "votes": 16768
+        },
+        {
+          "name": "Mary J Murphy",
+          "party": "Democratic",
+          "votes": 8983
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 22
+        }
+      ],
+      "winners": [
+        {
+          "name": "Max Rymer",
+          "party": "Republican",
+          "votes": 16768
+        }
+      ],
+      "demVotes": 8983,
+      "repVotes": 16768,
+      "totalVotes": 25751,
+      "demPct": 34.88,
+      "repPct": 65.12
+    },
+    {
+      "districtId": "mn-hd-29a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Joe McDonald",
+          "party": "Republican",
+          "votes": 18788
+        },
+        {
+          "name": "Chris Brazelton",
+          "party": "Democratic",
+          "votes": 7750
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 21
+        }
+      ],
+      "winners": [
+        {
+          "name": "Joe McDonald",
+          "party": "Republican",
+          "votes": 18788
+        }
+      ],
+      "demVotes": 7750,
+      "repVotes": 18788,
+      "totalVotes": 26538,
+      "demPct": 29.2,
+      "repPct": 70.8
+    },
+    {
+      "districtId": "mn-hd-29b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Marion (O'Neill) Rarick",
+          "party": "Republican",
+          "votes": 15741
+        },
+        {
+          "name": "Colton Kratky",
+          "party": "Democratic",
+          "votes": 7909
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 35
+        }
+      ],
+      "winners": [
+        {
+          "name": "Marion (O'Neill) Rarick",
+          "party": "Republican",
+          "votes": 15741
+        }
+      ],
+      "demVotes": 7909,
+      "repVotes": 15741,
+      "totalVotes": 23650,
+      "demPct": 33.44,
+      "repPct": 66.56
+    },
+    {
+      "districtId": "mn-hd-30a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Sonja Buckmeier",
+          "party": "Democratic",
+          "votes": 9936
+        },
+        {
+          "name": "Walter Hudson",
+          "party": "Republican",
+          "votes": 16763
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 18
+        }
+      ],
+      "winners": [
+        {
+          "name": "Walter Hudson",
+          "party": "Republican",
+          "votes": 16763
+        }
+      ],
+      "demVotes": 9936,
+      "repVotes": 16763,
+      "totalVotes": 26699,
+      "demPct": 37.21,
+      "repPct": 62.79
+    },
+    {
+      "districtId": "mn-hd-30b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Paul Novotny",
+          "party": "Republican",
+          "votes": 17075
+        },
+        {
+          "name": "Paul Bolin",
+          "party": "Democratic",
+          "votes": 8825
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 22
+        }
+      ],
+      "winners": [
+        {
+          "name": "Paul Novotny",
+          "party": "Republican",
+          "votes": 17075
+        }
+      ],
+      "demVotes": 8825,
+      "repVotes": 17075,
+      "totalVotes": 25900,
+      "demPct": 34.07,
+      "repPct": 65.93
+    },
+    {
+      "districtId": "mn-hd-31a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Dara Grimmer",
+          "party": "Democratic",
+          "votes": 9802
+        },
+        {
+          "name": "Harry Niska",
+          "party": "Republican",
+          "votes": 15461
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 39
+        }
+      ],
+      "winners": [
+        {
+          "name": "Harry Niska",
+          "party": "Republican",
+          "votes": 15461
+        }
+      ],
+      "demVotes": 9802,
+      "repVotes": 15461,
+      "totalVotes": 25263,
+      "demPct": 38.8,
+      "repPct": 61.2
+    },
+    {
+      "districtId": "mn-hd-31b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Gadisa Berkessa",
+          "party": "Democratic",
+          "votes": 7799
+        },
+        {
+          "name": "Peggy Scott",
+          "party": "Republican",
+          "votes": 18727
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 40
+        }
+      ],
+      "winners": [
+        {
+          "name": "Peggy Scott",
+          "party": "Republican",
+          "votes": 18727
+        }
+      ],
+      "demVotes": 7799,
+      "repVotes": 18727,
+      "totalVotes": 26526,
+      "demPct": 29.4,
+      "repPct": 70.6
+    },
+    {
+      "districtId": "mn-hd-32a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Nolan West",
+          "party": "Republican",
+          "votes": 14816
+        },
+        {
+          "name": "Ashton Ramsammy",
+          "party": "Democratic",
+          "votes": 10620
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 45
+        }
+      ],
+      "winners": [
+        {
+          "name": "Nolan West",
+          "party": "Republican",
+          "votes": 14816
+        }
+      ],
+      "demVotes": 10620,
+      "repVotes": 14816,
+      "totalVotes": 25436,
+      "demPct": 41.75,
+      "repPct": 58.25
+    },
+    {
+      "districtId": "mn-hd-32b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Alex Moe",
+          "party": "Republican",
+          "votes": 11620
+        },
+        {
+          "name": "Matt Norris",
+          "party": "Democratic",
+          "votes": 12030
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 44
+        }
+      ],
+      "winners": [
+        {
+          "name": "Matt Norris",
+          "party": "Democratic",
+          "votes": 12030
+        }
+      ],
+      "demVotes": 12030,
+      "repVotes": 11620,
+      "totalVotes": 23650,
+      "demPct": 50.87,
+      "repPct": 49.13
+    },
+    {
+      "districtId": "mn-hd-33a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Patti Anderson",
+          "party": "Republican",
+          "votes": 15262
+        },
+        {
+          "name": "Jake Ross",
+          "party": "Democratic",
+          "votes": 11020
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 25
+        }
+      ],
+      "winners": [
+        {
+          "name": "Patti Anderson",
+          "party": "Republican",
+          "votes": 15262
+        }
+      ],
+      "demVotes": 11020,
+      "repVotes": 15262,
+      "totalVotes": 26282,
+      "demPct": 41.93,
+      "repPct": 58.07
+    },
+    {
+      "districtId": "mn-hd-33b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jessica L. Johnson",
+          "party": "Republican",
+          "votes": 12913
+        },
+        {
+          "name": "Josiah Hill",
+          "party": "Democratic",
+          "votes": 13631
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 28
+        }
+      ],
+      "winners": [
+        {
+          "name": "Josiah Hill",
+          "party": "Democratic",
+          "votes": 13631
+        }
+      ],
+      "demVotes": 13631,
+      "repVotes": 12913,
+      "totalVotes": 26544,
+      "demPct": 51.35,
+      "repPct": 48.65
+    },
+    {
+      "districtId": "mn-hd-34a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Danny Nadeau",
+          "party": "Republican",
+          "votes": 15261
+        },
+        {
+          "name": "Brian Raines",
+          "party": "Democratic",
+          "votes": 13240
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 33
+        }
+      ],
+      "winners": [
+        {
+          "name": "Danny Nadeau",
+          "party": "Republican",
+          "votes": 15261
+        }
+      ],
+      "demVotes": 13240,
+      "repVotes": 15261,
+      "totalVotes": 28501,
+      "demPct": 46.45,
+      "repPct": 53.55
+    },
+    {
+      "districtId": "mn-hd-34b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Melissa Hortman",
+          "party": "Democratic",
+          "votes": 13649
+        },
+        {
+          "name": "Scott Simmons",
+          "party": "Republican",
+          "votes": 7950
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 40
+        }
+      ],
+      "winners": [
+        {
+          "name": "Melissa Hortman",
+          "party": "Democratic",
+          "votes": 13649
+        }
+      ],
+      "demVotes": 13649,
+      "repVotes": 7950,
+      "totalVotes": 21599,
+      "demPct": 63.19,
+      "repPct": 36.81
+    },
+    {
+      "districtId": "mn-hd-35a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Zack Stephenson",
+          "party": "Democratic",
+          "votes": 11822
+        },
+        {
+          "name": "Josh Jungling",
+          "party": "Republican",
+          "votes": 10950
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 37
+        }
+      ],
+      "winners": [
+        {
+          "name": "Zack Stephenson",
+          "party": "Democratic",
+          "votes": 11822
+        }
+      ],
+      "demVotes": 11822,
+      "repVotes": 10950,
+      "totalVotes": 22772,
+      "demPct": 51.91,
+      "repPct": 48.09
+    },
+    {
+      "districtId": "mn-hd-35b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Steve Pape",
+          "party": "Republican",
+          "votes": 11280
+        },
+        {
+          "name": "Kari Rehrauer",
+          "party": "Democratic",
+          "votes": 11560
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 47
+        }
+      ],
+      "winners": [
+        {
+          "name": "Kari Rehrauer",
+          "party": "Democratic",
+          "votes": 11560
+        }
+      ],
+      "demVotes": 11560,
+      "repVotes": 11280,
+      "totalVotes": 22840,
+      "demPct": 50.61,
+      "repPct": 49.39
+    },
+    {
+      "districtId": "mn-hd-36a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Elliott Engen",
+          "party": "Republican",
+          "votes": 14998
+        },
+        {
+          "name": "Janelle Calhoun",
+          "party": "Democratic",
+          "votes": 12714
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 29
+        }
+      ],
+      "winners": [
+        {
+          "name": "Elliott Engen",
+          "party": "Republican",
+          "votes": 14998
+        }
+      ],
+      "demVotes": 12714,
+      "repVotes": 14998,
+      "totalVotes": 27712,
+      "demPct": 45.88,
+      "repPct": 54.12
+    },
+    {
+      "districtId": "mn-hd-36b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Brion Curran",
+          "party": "Democratic",
+          "votes": 12977
+        },
+        {
+          "name": "Patty Bradway",
+          "party": "Republican",
+          "votes": 12152
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 37
+        }
+      ],
+      "winners": [
+        {
+          "name": "Brion Curran",
+          "party": "Democratic",
+          "votes": 12977
+        }
+      ],
+      "demVotes": 12977,
+      "repVotes": 12152,
+      "totalVotes": 25129,
+      "demPct": 51.64,
+      "repPct": 48.36
+    },
+    {
+      "districtId": "mn-hd-37a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Laurie Wolfe",
+          "party": "Democratic",
+          "votes": 11851
+        },
+        {
+          "name": "Kristin Robbins",
+          "party": "Republican",
+          "votes": 15817
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 22
+        }
+      ],
+      "winners": [
+        {
+          "name": "Kristin Robbins",
+          "party": "Republican",
+          "votes": 15817
+        }
+      ],
+      "demVotes": 11851,
+      "repVotes": 15817,
+      "totalVotes": 27668,
+      "demPct": 42.83,
+      "repPct": 57.17
+    },
+    {
+      "districtId": "mn-hd-37b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Kristin Bahner",
+          "party": "Democratic",
+          "votes": 14726
+        },
+        {
+          "name": "John R. Bristol",
+          "party": "Republican",
+          "votes": 11841
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 18
+        }
+      ],
+      "winners": [
+        {
+          "name": "Kristin Bahner",
+          "party": "Democratic",
+          "votes": 14726
+        }
+      ],
+      "demVotes": 14726,
+      "repVotes": 11841,
+      "totalVotes": 26567,
+      "demPct": 55.43,
+      "repPct": 44.57
+    },
+    {
+      "districtId": "mn-hd-38a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Brad Olson",
+          "party": "Republican",
+          "votes": 5410
+        },
+        {
+          "name": "Huldah Hiltsley",
+          "party": "Democratic",
+          "votes": 10030
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 42
+        }
+      ],
+      "winners": [
+        {
+          "name": "Huldah Hiltsley",
+          "party": "Democratic",
+          "votes": 10030
+        }
+      ],
+      "demVotes": 10030,
+      "repVotes": 5410,
+      "totalVotes": 15440,
+      "demPct": 64.96,
+      "repPct": 35.04
+    },
+    {
+      "districtId": "mn-hd-38b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Samantha Vang",
+          "party": "Democratic",
+          "votes": 11078
+        },
+        {
+          "name": "Robert Marvin",
+          "party": "Republican",
+          "votes": 3793
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 48
+        }
+      ],
+      "winners": [
+        {
+          "name": "Samantha Vang",
+          "party": "Democratic",
+          "votes": 11078
+        }
+      ],
+      "demVotes": 11078,
+      "repVotes": 3793,
+      "totalVotes": 14871,
+      "demPct": 74.49,
+      "repPct": 25.51
+    },
+    {
+      "districtId": "mn-hd-39a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Rod Sylvester",
+          "party": "Republican",
+          "votes": 6749
+        },
+        {
+          "name": "Erin Koegel",
+          "party": "Democratic",
+          "votes": 11751
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 55
+        }
+      ],
+      "winners": [
+        {
+          "name": "Erin Koegel",
+          "party": "Democratic",
+          "votes": 11751
+        }
+      ],
+      "demVotes": 11751,
+      "repVotes": 6749,
+      "totalVotes": 18500,
+      "demPct": 63.52,
+      "repPct": 36.48
+    },
+    {
+      "districtId": "mn-hd-39b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Kt Jacobs",
+          "party": "Republican",
+          "votes": 5875
+        },
+        {
+          "name": "Sandra Feist",
+          "party": "Democratic",
+          "votes": 14427
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 44
+        }
+      ],
+      "winners": [
+        {
+          "name": "Sandra Feist",
+          "party": "Democratic",
+          "votes": 14427
+        }
+      ],
+      "demVotes": 14427,
+      "repVotes": 5875,
+      "totalVotes": 20302,
+      "demPct": 71.06,
+      "repPct": 28.94
+    },
+    {
+      "districtId": "mn-hd-40a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Kelly Moller",
+          "party": "Democratic",
+          "votes": 16869
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 727
+        }
+      ],
+      "winners": [
+        {
+          "name": "Kelly Moller",
+          "party": "Democratic",
+          "votes": 16869
+        }
+      ],
+      "demVotes": 16869,
+      "repVotes": 0,
+      "totalVotes": 16869,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "mn-hd-40b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Curtis Johnson",
+          "party": "Democratic",
+          "votes": 15963
+        },
+        {
+          "name": "Paul Wikstrom",
+          "party": "Republican",
+          "votes": 8460
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 63
+        }
+      ],
+      "winners": [
+        {
+          "name": "Curtis Johnson",
+          "party": "Democratic",
+          "votes": 15963
+        }
+      ],
+      "demVotes": 15963,
+      "repVotes": 8460,
+      "totalVotes": 24423,
+      "demPct": 65.36,
+      "repPct": 34.64
+    },
+    {
+      "districtId": "mn-hd-41a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Wayne A Johnson",
+          "party": "Republican",
+          "votes": 15167
+        },
+        {
+          "name": "Lucia Wroblewski",
+          "party": "Democratic",
+          "votes": 14840
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 32
+        }
+      ],
+      "winners": [
+        {
+          "name": "Wayne A Johnson",
+          "party": "Republican",
+          "votes": 15167
+        }
+      ],
+      "demVotes": 14840,
+      "repVotes": 15167,
+      "totalVotes": 30007,
+      "demPct": 49.46,
+      "repPct": 50.54
+    },
+    {
+      "districtId": "mn-hd-41b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jen Fox",
+          "party": "Democratic",
+          "votes": 12019
+        },
+        {
+          "name": "Tom Dippel",
+          "party": "Republican",
+          "votes": 12529
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 50
+        }
+      ],
+      "winners": [
+        {
+          "name": "Tom Dippel",
+          "party": "Republican",
+          "votes": 12529
+        }
+      ],
+      "demVotes": 12019,
+      "repVotes": 12529,
+      "totalVotes": 24548,
+      "demPct": 48.96,
+      "repPct": 51.04
+    },
+    {
+      "districtId": "mn-hd-42a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Kathy Burkett",
+          "party": "Republican",
+          "votes": 10617
+        },
+        {
+          "name": "Ned Carroll",
+          "party": "Democratic",
+          "votes": 14288
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 31
+        }
+      ],
+      "winners": [
+        {
+          "name": "Ned Carroll",
+          "party": "Democratic",
+          "votes": 14288
+        }
+      ],
+      "demVotes": 14288,
+      "repVotes": 10617,
+      "totalVotes": 24905,
+      "demPct": 57.37,
+      "repPct": 42.63
+    },
+    {
+      "districtId": "mn-hd-42b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Perry Nouis",
+          "party": "Republican",
+          "votes": 8757
+        },
+        {
+          "name": "Ginny Klevorn",
+          "party": "Democratic",
+          "votes": 15561
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 31
+        }
+      ],
+      "winners": [
+        {
+          "name": "Ginny Klevorn",
+          "party": "Democratic",
+          "votes": 15561
+        }
+      ],
+      "demVotes": 15561,
+      "repVotes": 8757,
+      "totalVotes": 24318,
+      "demPct": 63.99,
+      "repPct": 36.01
+    },
+    {
+      "districtId": "mn-hd-43a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Cedrick B. Frazier",
+          "party": "Democratic",
+          "votes": 13845
+        },
+        {
+          "name": "Todd Hesemann",
+          "party": "Republican",
+          "votes": 6999
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 29
+        }
+      ],
+      "winners": [
+        {
+          "name": "Cedrick B. Frazier",
+          "party": "Democratic",
+          "votes": 13845
+        }
+      ],
+      "demVotes": 13845,
+      "repVotes": 6999,
+      "totalVotes": 20844,
+      "demPct": 66.42,
+      "repPct": 33.58
+    },
+    {
+      "districtId": "mn-hd-43b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Mike Freiberg",
+          "party": "Democratic",
+          "votes": 19023
+        },
+        {
+          "name": "Steve Merriman",
+          "party": "Republican",
+          "votes": 6232
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 45
+        }
+      ],
+      "winners": [
+        {
+          "name": "Mike Freiberg",
+          "party": "Democratic",
+          "votes": 19023
+        }
+      ],
+      "demVotes": 19023,
+      "repVotes": 6232,
+      "totalVotes": 25255,
+      "demPct": 75.32,
+      "repPct": 24.68
+    },
+    {
+      "districtId": "mn-hd-44a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Peter M Fischer",
+          "party": "Democratic",
+          "votes": 12085
+        },
+        {
+          "name": "Karla J. Nelson",
+          "party": "Republican",
+          "votes": 7255
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 35
+        }
+      ],
+      "winners": [
+        {
+          "name": "Peter M Fischer",
+          "party": "Democratic",
+          "votes": 12085
+        }
+      ],
+      "demVotes": 12085,
+      "repVotes": 7255,
+      "totalVotes": 19340,
+      "demPct": 62.49,
+      "repPct": 37.51
+    },
+    {
+      "districtId": "mn-hd-44b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "TJ Hawthorne",
+          "party": "Libertarian Party",
+          "votes": 1298
+        },
+        {
+          "name": "Leon M. Lillie",
+          "party": "Democratic",
+          "votes": 12369
+        },
+        {
+          "name": "Bill Dahn",
+          "party": "Republican",
+          "votes": 8254
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 29
+        }
+      ],
+      "winners": [
+        {
+          "name": "Leon M. Lillie",
+          "party": "Democratic",
+          "votes": 12369
+        }
+      ],
+      "demVotes": 12369,
+      "repVotes": 8254,
+      "totalVotes": 20623,
+      "demPct": 59.98,
+      "repPct": 40.02
+    },
+    {
+      "districtId": "mn-hd-45a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Andrew Myers",
+          "party": "Republican",
+          "votes": 15897
+        },
+        {
+          "name": "Tracey Breazeale",
+          "party": "Democratic",
+          "votes": 12972
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 26
+        }
+      ],
+      "winners": [
+        {
+          "name": "Andrew Myers",
+          "party": "Republican",
+          "votes": 15897
+        }
+      ],
+      "demVotes": 12972,
+      "repVotes": 15897,
+      "totalVotes": 28869,
+      "demPct": 44.93,
+      "repPct": 55.07
+    },
+    {
+      "districtId": "mn-hd-45b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Patty Acomb",
+          "party": "Democratic",
+          "votes": 19625
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 994
+        }
+      ],
+      "winners": [
+        {
+          "name": "Patty Acomb",
+          "party": "Democratic",
+          "votes": 19625
+        }
+      ],
+      "demVotes": 19625,
+      "repVotes": 0,
+      "totalVotes": 19625,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "mn-hd-46a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "John Nagel",
+          "party": "Republican",
+          "votes": 6168
+        },
+        {
+          "name": "Larry Kraft",
+          "party": "Democratic",
+          "votes": 18627
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 34
+        }
+      ],
+      "winners": [
+        {
+          "name": "Larry Kraft",
+          "party": "Democratic",
+          "votes": 18627
+        }
+      ],
+      "demVotes": 18627,
+      "repVotes": 6168,
+      "totalVotes": 24795,
+      "demPct": 75.12,
+      "repPct": 24.88
+    },
+    {
+      "districtId": "mn-hd-46b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Kim Rich",
+          "party": "Republican",
+          "votes": 7863
+        },
+        {
+          "name": "Cheryl Youakim",
+          "party": "Democratic",
+          "votes": 16510
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 42
+        }
+      ],
+      "winners": [
+        {
+          "name": "Cheryl Youakim",
+          "party": "Democratic",
+          "votes": 16510
+        }
+      ],
+      "demVotes": 16510,
+      "repVotes": 7863,
+      "totalVotes": 24373,
+      "demPct": 67.74,
+      "repPct": 32.26
+    },
+    {
+      "districtId": "mn-hd-47a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Teresa Whitson",
+          "party": "Republican",
+          "votes": 9143
+        },
+        {
+          "name": "Amanda Hemmingsen-Jaeger",
+          "party": "Democratic",
+          "votes": 14106
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 21
+        }
+      ],
+      "winners": [
+        {
+          "name": "Amanda Hemmingsen-Jaeger",
+          "party": "Democratic",
+          "votes": 14106
+        }
+      ],
+      "demVotes": 14106,
+      "repVotes": 9143,
+      "totalVotes": 23249,
+      "demPct": 60.67,
+      "repPct": 39.33
+    },
+    {
+      "districtId": "mn-hd-47b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Dwight Dorau",
+          "party": "Republican",
+          "votes": 11867
+        },
+        {
+          "name": "Ethan Cha",
+          "party": "Democratic",
+          "votes": 14202
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 35
+        }
+      ],
+      "winners": [
+        {
+          "name": "Ethan Cha",
+          "party": "Democratic",
+          "votes": 14202
+        }
+      ],
+      "demVotes": 14202,
+      "repVotes": 11867,
+      "totalVotes": 26069,
+      "demPct": 54.48,
+      "repPct": 45.52
+    },
+    {
+      "districtId": "mn-hd-48a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jim Nash",
+          "party": "Republican",
+          "votes": 16818
+        },
+        {
+          "name": "Nathan Kells",
+          "party": "Democratic",
+          "votes": 11000
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 23
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jim Nash",
+          "party": "Republican",
+          "votes": 16818
+        }
+      ],
+      "demVotes": 11000,
+      "repVotes": 16818,
+      "totalVotes": 27818,
+      "demPct": 39.54,
+      "repPct": 60.46
+    },
+    {
+      "districtId": "mn-hd-48b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Caleb Steffenhagen",
+          "party": "Republican",
+          "votes": 12728
+        },
+        {
+          "name": "Lucille \"Lucy\" Rehm",
+          "party": "Democratic",
+          "votes": 12953
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 22
+        }
+      ],
+      "winners": [
+        {
+          "name": "Lucille \"Lucy\" Rehm",
+          "party": "Democratic",
+          "votes": 12953
+        }
+      ],
+      "demVotes": 12953,
+      "repVotes": 12728,
+      "totalVotes": 25681,
+      "demPct": 50.44,
+      "repPct": 49.56
+    },
+    {
+      "districtId": "mn-hd-49a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Alex Falconer",
+          "party": "Democratic",
+          "votes": 16104
+        },
+        {
+          "name": "Stacy L. Bettison",
+          "party": "Republican",
+          "votes": 10342
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 37
+        }
+      ],
+      "winners": [
+        {
+          "name": "Alex Falconer",
+          "party": "Democratic",
+          "votes": 16104
+        }
+      ],
+      "demVotes": 16104,
+      "repVotes": 10342,
+      "totalVotes": 26446,
+      "demPct": 60.89,
+      "repPct": 39.11
+    },
+    {
+      "districtId": "mn-hd-49b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Carlie Kotyza-Witthuhn",
+          "party": "Democratic",
+          "votes": 13529
+        },
+        {
+          "name": "Wendi Russo",
+          "party": "Republican",
+          "votes": 10138
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 21
+        }
+      ],
+      "winners": [
+        {
+          "name": "Carlie Kotyza-Witthuhn",
+          "party": "Democratic",
+          "votes": 13529
+        }
+      ],
+      "demVotes": 13529,
+      "repVotes": 10138,
+      "totalVotes": 23667,
+      "demPct": 57.16,
+      "repPct": 42.84
+    },
+    {
+      "districtId": "mn-hd-50a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Julie Greene",
+          "party": "Democratic",
+          "votes": 16766
+        },
+        {
+          "name": "Owen Michaelson",
+          "party": "Republican",
+          "votes": 9161
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 40
+        }
+      ],
+      "winners": [
+        {
+          "name": "Julie Greene",
+          "party": "Democratic",
+          "votes": 16766
+        }
+      ],
+      "demVotes": 16766,
+      "repVotes": 9161,
+      "totalVotes": 25927,
+      "demPct": 64.67,
+      "repPct": 35.33
+    },
+    {
+      "districtId": "mn-hd-50b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Steve Elkins",
+          "party": "Democratic",
+          "votes": 16524
+        },
+        {
+          "name": "Bob Gust",
+          "party": "Republican",
+          "votes": 9596
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 33
+        }
+      ],
+      "winners": [
+        {
+          "name": "Steve Elkins",
+          "party": "Democratic",
+          "votes": 16524
+        }
+      ],
+      "demVotes": 16524,
+      "repVotes": 9596,
+      "totalVotes": 26120,
+      "demPct": 63.26,
+      "repPct": 36.74
+    },
+    {
+      "districtId": "mn-hd-51a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Michael Howard",
+          "party": "Democratic",
+          "votes": 15440
+        },
+        {
+          "name": "Jeffrey Thompson",
+          "party": "Republican",
+          "votes": 5533
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 51
+        }
+      ],
+      "winners": [
+        {
+          "name": "Michael Howard",
+          "party": "Democratic",
+          "votes": 15440
+        }
+      ],
+      "demVotes": 15440,
+      "repVotes": 5533,
+      "totalVotes": 20973,
+      "demPct": 73.62,
+      "repPct": 26.38
+    },
+    {
+      "districtId": "mn-hd-51b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Nathan Coulter",
+          "party": "Democratic",
+          "votes": 13244
+        },
+        {
+          "name": "Lion Dale Johnson",
+          "party": "Republican",
+          "votes": 7373
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 51
+        }
+      ],
+      "winners": [
+        {
+          "name": "Nathan Coulter",
+          "party": "Democratic",
+          "votes": 13244
+        }
+      ],
+      "demVotes": 13244,
+      "repVotes": 7373,
+      "totalVotes": 20617,
+      "demPct": 64.24,
+      "repPct": 35.76
+    },
+    {
+      "districtId": "mn-hd-52a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Diane Anderson",
+          "party": "Republican",
+          "votes": 8833
+        },
+        {
+          "name": "Liz Reyer",
+          "party": "Democratic",
+          "votes": 13784
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 26
+        }
+      ],
+      "winners": [
+        {
+          "name": "Liz Reyer",
+          "party": "Democratic",
+          "votes": 13784
+        }
+      ],
+      "demVotes": 13784,
+      "repVotes": 8833,
+      "totalVotes": 22617,
+      "demPct": 60.95,
+      "repPct": 39.05
+    },
+    {
+      "districtId": "mn-hd-52b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Bianca Virnig",
+          "party": "Democratic",
+          "votes": 15857
+        },
+        {
+          "name": "Douglas Willetts",
+          "party": "Republican",
+          "votes": 10291
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 31
+        }
+      ],
+      "winners": [
+        {
+          "name": "Bianca Virnig",
+          "party": "Democratic",
+          "votes": 15857
+        }
+      ],
+      "demVotes": 15857,
+      "repVotes": 10291,
+      "totalVotes": 26148,
+      "demPct": 60.64,
+      "repPct": 39.36
+    },
+    {
+      "districtId": "mn-hd-53a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Mary Frances Clardy",
+          "party": "Democratic",
+          "votes": 14011
+        },
+        {
+          "name": "Nathan Herschbach",
+          "party": "Republican",
+          "votes": 10226
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 31
+        }
+      ],
+      "winners": [
+        {
+          "name": "Mary Frances Clardy",
+          "party": "Democratic",
+          "votes": 14011
+        }
+      ],
+      "demVotes": 14011,
+      "repVotes": 10226,
+      "totalVotes": 24237,
+      "demPct": 57.81,
+      "repPct": 42.19
+    },
+    {
+      "districtId": "mn-hd-53b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Aaron M. Brooksby",
+          "party": "Republican",
+          "votes": 9002
+        },
+        {
+          "name": "Rick Hansen",
+          "party": "Democratic",
+          "votes": 13203
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 33
+        }
+      ],
+      "winners": [
+        {
+          "name": "Rick Hansen",
+          "party": "Democratic",
+          "votes": 13203
+        }
+      ],
+      "demVotes": 13203,
+      "repVotes": 9002,
+      "totalVotes": 22205,
+      "demPct": 59.46,
+      "repPct": 40.54
+    },
+    {
+      "districtId": "mn-hd-54a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Aaron Paul",
+          "party": "Republican",
+          "votes": 10965
+        },
+        {
+          "name": "Brad Tabke",
+          "party": "Democratic",
+          "votes": 10979
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 36
+        }
+      ],
+      "winners": [
+        {
+          "name": "Brad Tabke",
+          "party": "Democratic",
+          "votes": 10979
+        }
+      ],
+      "demVotes": 10979,
+      "repVotes": 10965,
+      "totalVotes": 21944,
+      "demPct": 50.03,
+      "repPct": 49.97
+    },
+    {
+      "districtId": "mn-hd-54b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Ben Bakeberg",
+          "party": "Republican",
+          "votes": 15807
+        },
+        {
+          "name": "Jean Lee",
+          "party": "Democratic",
+          "votes": 9696
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 18
+        }
+      ],
+      "winners": [
+        {
+          "name": "Ben Bakeberg",
+          "party": "Republican",
+          "votes": 15807
+        }
+      ],
+      "demVotes": 9696,
+      "repVotes": 15807,
+      "totalVotes": 25503,
+      "demPct": 38.02,
+      "repPct": 61.98
+    },
+    {
+      "districtId": "mn-hd-55a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Gabriela Kroetch",
+          "party": "Republican",
+          "votes": 10576
+        },
+        {
+          "name": "Jessica Hanson",
+          "party": "Democratic",
+          "votes": 12114
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 24
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jessica Hanson",
+          "party": "Democratic",
+          "votes": 12114
+        }
+      ],
+      "demVotes": 12114,
+      "repVotes": 10576,
+      "totalVotes": 22690,
+      "demPct": 53.39,
+      "repPct": 46.61
+    },
+    {
+      "districtId": "mn-hd-55b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Van Holston",
+          "party": "Republican",
+          "votes": 7968
+        },
+        {
+          "name": "Kaela Berg",
+          "party": "Democratic",
+          "votes": 11616
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 24
+        }
+      ],
+      "winners": [
+        {
+          "name": "Kaela Berg",
+          "party": "Democratic",
+          "votes": 11616
+        }
+      ],
+      "demVotes": 11616,
+      "repVotes": 7968,
+      "totalVotes": 19584,
+      "demPct": 59.31,
+      "repPct": 40.69
+    },
+    {
+      "districtId": "mn-hd-56a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Angela Zorn",
+          "party": "Republican",
+          "votes": 8687
+        },
+        {
+          "name": "Robert Bierman",
+          "party": "Democratic",
+          "votes": 13750
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 24
+        }
+      ],
+      "winners": [
+        {
+          "name": "Robert Bierman",
+          "party": "Democratic",
+          "votes": 13750
+        }
+      ],
+      "demVotes": 13750,
+      "repVotes": 8687,
+      "totalVotes": 22437,
+      "demPct": 61.28,
+      "repPct": 38.72
+    },
+    {
+      "districtId": "mn-hd-56b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "John Huot",
+          "party": "Democratic",
+          "votes": 14736
+        },
+        {
+          "name": "Angeline Anderson",
+          "party": "Republican",
+          "votes": 11575
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 19
+        }
+      ],
+      "winners": [
+        {
+          "name": "John Huot",
+          "party": "Democratic",
+          "votes": 14736
+        }
+      ],
+      "demVotes": 14736,
+      "repVotes": 11575,
+      "totalVotes": 26311,
+      "demPct": 56.01,
+      "repPct": 43.99
+    },
+    {
+      "districtId": "mn-hd-57a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jon Koznick",
+          "party": "Republican",
+          "votes": 16479
+        },
+        {
+          "name": "Veda Kanitz",
+          "party": "Democratic",
+          "votes": 9848
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 18
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jon Koznick",
+          "party": "Republican",
+          "votes": 16479
+        }
+      ],
+      "demVotes": 9848,
+      "repVotes": 16479,
+      "totalVotes": 26327,
+      "demPct": 37.41,
+      "repPct": 62.59
+    },
+    {
+      "districtId": "mn-hd-57b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jeff Witte",
+          "party": "Republican",
+          "votes": 13781
+        },
+        {
+          "name": "Brian Cohn",
+          "party": "Democratic",
+          "votes": 12520
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 24
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jeff Witte",
+          "party": "Republican",
+          "votes": 13781
+        }
+      ],
+      "demVotes": 12520,
+      "repVotes": 13781,
+      "totalVotes": 26301,
+      "demPct": 47.6,
+      "repPct": 52.4
+    },
+    {
+      "districtId": "mn-hd-58a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Rita Hillmann Olson",
+          "party": "Republican",
+          "votes": 12067
+        },
+        {
+          "name": "Kristi Pursell",
+          "party": "Democratic",
+          "votes": 13325
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 22
+        }
+      ],
+      "winners": [
+        {
+          "name": "Kristi Pursell",
+          "party": "Democratic",
+          "votes": 13325
+        }
+      ],
+      "demVotes": 13325,
+      "repVotes": 12067,
+      "totalVotes": 25392,
+      "demPct": 52.48,
+      "repPct": 47.52
+    },
+    {
+      "districtId": "mn-hd-58b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Ian English",
+          "party": "Democratic",
+          "votes": 9962
+        },
+        {
+          "name": "Drew Roach",
+          "party": "Republican",
+          "votes": 14886
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 29
+        }
+      ],
+      "winners": [
+        {
+          "name": "Drew Roach",
+          "party": "Republican",
+          "votes": 14886
+        }
+      ],
+      "demVotes": 9962,
+      "repVotes": 14886,
+      "totalVotes": 24848,
+      "demPct": 40.09,
+      "repPct": 59.91
+    },
+    {
+      "districtId": "mn-hd-59a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Fue Lee",
+          "party": "Democratic",
+          "votes": 11672
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 247
+        }
+      ],
+      "winners": [
+        {
+          "name": "Fue Lee",
+          "party": "Democratic",
+          "votes": 11672
+        }
+      ],
+      "demVotes": 11672,
+      "repVotes": 0,
+      "totalVotes": 11672,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "mn-hd-59b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Esther Agbaje",
+          "party": "Democratic",
+          "votes": 16791
+        },
+        {
+          "name": "Kenneth Smoron",
+          "party": "Republican",
+          "votes": 3549
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 52
+        }
+      ],
+      "winners": [
+        {
+          "name": "Esther Agbaje",
+          "party": "Democratic",
+          "votes": 16791
+        }
+      ],
+      "demVotes": 16791,
+      "repVotes": 3549,
+      "totalVotes": 20340,
+      "demPct": 82.55,
+      "repPct": 17.45
+    },
+    {
+      "districtId": "mn-hd-60a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Mary Holmberg",
+          "party": "Republican",
+          "votes": 3535
+        },
+        {
+          "name": "Sydney Jordan",
+          "party": "Democratic",
+          "votes": 19684
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 51
+        }
+      ],
+      "winners": [
+        {
+          "name": "Sydney Jordan",
+          "party": "Democratic",
+          "votes": 19684
+        }
+      ],
+      "demVotes": 19684,
+      "repVotes": 3535,
+      "totalVotes": 23219,
+      "demPct": 84.78,
+      "repPct": 15.22
+    },
+    {
+      "districtId": "mn-hd-60b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Abigail Wolters",
+          "party": "Republican",
+          "votes": 2041
+        },
+        {
+          "name": "Mohamud Noor",
+          "party": "Democratic",
+          "votes": 9993
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 50
+        }
+      ],
+      "winners": [
+        {
+          "name": "Mohamud Noor",
+          "party": "Democratic",
+          "votes": 9993
+        }
+      ],
+      "demVotes": 9993,
+      "repVotes": 2041,
+      "totalVotes": 12034,
+      "demPct": 83.04,
+      "repPct": 16.96
+    },
+    {
+      "districtId": "mn-hd-61a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Toya López",
+          "party": "Green Party",
+          "votes": 3284
+        },
+        {
+          "name": "Katie Jones",
+          "party": "Democratic",
+          "votes": 18234
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 209
+        }
+      ],
+      "winners": [
+        {
+          "name": "Katie Jones",
+          "party": "Democratic",
+          "votes": 18234
+        }
+      ],
+      "demVotes": 18234,
+      "repVotes": 0,
+      "totalVotes": 18234,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "mn-hd-61b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Bob \"Again\" Carney Jr",
+          "party": "Republican",
+          "votes": 2861
+        },
+        {
+          "name": "Jamie Long",
+          "party": "Democratic",
+          "votes": 23864
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 61
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jamie Long",
+          "party": "Democratic",
+          "votes": 23864
+        }
+      ],
+      "demVotes": 23864,
+      "repVotes": 2861,
+      "totalVotes": 26725,
+      "demPct": 89.29,
+      "repPct": 10.71
+    },
+    {
+      "districtId": "mn-hd-62a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Alexandra (ZaZa) Hoffman Novick",
+          "party": "Republican",
+          "votes": 1434
+        },
+        {
+          "name": "Aisha Gomez",
+          "party": "Democratic",
+          "votes": 13349
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 38
+        }
+      ],
+      "winners": [
+        {
+          "name": "Aisha Gomez",
+          "party": "Democratic",
+          "votes": 13349
+        }
+      ],
+      "demVotes": 13349,
+      "repVotes": 1434,
+      "totalVotes": 14783,
+      "demPct": 90.3,
+      "repPct": 9.7
+    },
+    {
+      "districtId": "mn-hd-62b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Bob Sullentrop",
+          "party": "Republican",
+          "votes": 2093
+        },
+        {
+          "name": "Anquam Mahamoud",
+          "party": "Democratic",
+          "votes": 14747
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 66
+        }
+      ],
+      "winners": [
+        {
+          "name": "Anquam Mahamoud",
+          "party": "Democratic",
+          "votes": 14747
+        }
+      ],
+      "demVotes": 14747,
+      "repVotes": 2093,
+      "totalVotes": 16840,
+      "demPct": 87.57,
+      "repPct": 12.43
+    },
+    {
+      "districtId": "mn-hd-63a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Samantha Sencer-Mura",
+          "party": "Democratic",
+          "votes": 20289
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 255
+        }
+      ],
+      "winners": [
+        {
+          "name": "Samantha Sencer-Mura",
+          "party": "Democratic",
+          "votes": 20289
+        }
+      ],
+      "demVotes": 20289,
+      "repVotes": 0,
+      "totalVotes": 20289,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "mn-hd-63b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Diane Napper",
+          "party": "Republican",
+          "votes": 3878
+        },
+        {
+          "name": "Emma Greenman",
+          "party": "Democratic",
+          "votes": 22790
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 58
+        }
+      ],
+      "winners": [
+        {
+          "name": "Emma Greenman",
+          "party": "Democratic",
+          "votes": 22790
+        }
+      ],
+      "demVotes": 22790,
+      "repVotes": 3878,
+      "totalVotes": 26668,
+      "demPct": 85.46,
+      "repPct": 14.54
+    },
+    {
+      "districtId": "mn-hd-64a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Kaohly Vang Her",
+          "party": "Democratic",
+          "votes": 20441
+        },
+        {
+          "name": "Dan Walsh",
+          "party": "Republican",
+          "votes": 4080
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 56
+        }
+      ],
+      "winners": [
+        {
+          "name": "Kaohly Vang Her",
+          "party": "Democratic",
+          "votes": 20441
+        }
+      ],
+      "demVotes": 20441,
+      "repVotes": 4080,
+      "totalVotes": 24521,
+      "demPct": 83.36,
+      "repPct": 16.64
+    },
+    {
+      "districtId": "mn-hd-64b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Dave Pinto",
+          "party": "Democratic",
+          "votes": 20922
+        },
+        {
+          "name": "Peter Donahue",
+          "party": "Republican",
+          "votes": 5152
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 47
+        }
+      ],
+      "winners": [
+        {
+          "name": "Dave Pinto",
+          "party": "Democratic",
+          "votes": 20922
+        }
+      ],
+      "demVotes": 20922,
+      "repVotes": 5152,
+      "totalVotes": 26074,
+      "demPct": 80.24,
+      "repPct": 19.76
+    },
+    {
+      "districtId": "mn-hd-65a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Samakab Hussein",
+          "party": "Democratic",
+          "votes": 10068
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 304
+        }
+      ],
+      "winners": [
+        {
+          "name": "Samakab Hussein",
+          "party": "Democratic",
+          "votes": 10068
+        }
+      ],
+      "demVotes": 10068,
+      "repVotes": 0,
+      "totalVotes": 10068,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "mn-hd-65b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "María Isa Pérez-Vega",
+          "party": "Democratic",
+          "votes": 15100
+        },
+        {
+          "name": "Mike Hilborn",
+          "party": "Republican",
+          "votes": 4572
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 63
+        }
+      ],
+      "winners": [
+        {
+          "name": "María Isa Pérez-Vega",
+          "party": "Democratic",
+          "votes": 15100
+        }
+      ],
+      "demVotes": 15100,
+      "repVotes": 4572,
+      "totalVotes": 19672,
+      "demPct": 76.76,
+      "repPct": 23.24
+    },
+    {
+      "districtId": "mn-hd-66a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Fadil Jama",
+          "party": "Republican",
+          "votes": 4180
+        },
+        {
+          "name": "Leigh Finke",
+          "party": "Democratic",
+          "votes": 18166
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 84
+        }
+      ],
+      "winners": [
+        {
+          "name": "Leigh Finke",
+          "party": "Democratic",
+          "votes": 18166
+        }
+      ],
+      "demVotes": 18166,
+      "repVotes": 4180,
+      "totalVotes": 22346,
+      "demPct": 81.29,
+      "repPct": 18.71
+    },
+    {
+      "districtId": "mn-hd-66b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Athena Hollins",
+          "party": "Democratic",
+          "votes": 10864
+        },
+        {
+          "name": "Greg Copeland",
+          "party": "Republican",
+          "votes": 3370
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 38
+        }
+      ],
+      "winners": [
+        {
+          "name": "Athena Hollins",
+          "party": "Democratic",
+          "votes": 10864
+        }
+      ],
+      "demVotes": 10864,
+      "repVotes": 3370,
+      "totalVotes": 14234,
+      "demPct": 76.32,
+      "repPct": 23.68
+    },
+    {
+      "districtId": "mn-hd-67a",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Scott Hesselgrave",
+          "party": "Republican",
+          "votes": 3178
+        },
+        {
+          "name": "Liz Lee",
+          "party": "Democratic",
+          "votes": 9133
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 37
+        }
+      ],
+      "winners": [
+        {
+          "name": "Liz Lee",
+          "party": "Democratic",
+          "votes": 9133
+        }
+      ],
+      "demVotes": 9133,
+      "repVotes": 3178,
+      "totalVotes": 12311,
+      "demPct": 74.19,
+      "repPct": 25.81
+    },
+    {
+      "districtId": "mn-hd-67b",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jay Xiong",
+          "party": "Democratic",
+          "votes": 10610
+        },
+        {
+          "name": "Sharon Anderson",
+          "party": "Republican",
+          "votes": 3538
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 56
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jay Xiong",
+          "party": "Democratic",
+          "votes": 10610
+        }
+      ],
+      "demVotes": 10610,
+      "repVotes": 3538,
+      "totalVotes": 14148,
+      "demPct": 74.99,
+      "repPct": 25.01
+    }
+  ],
+  "senate": [
+    {
+      "districtId": "mn-sd-1",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Mark Johnson",
+          "party": "Republican",
+          "votes": 27320
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 830
+        }
+      ],
+      "winners": [
+        {
+          "name": "Mark Johnson",
+          "party": "Republican",
+          "votes": 27320
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 27320,
+      "totalVotes": 27320,
+      "demPct": 0,
+      "repPct": 100
+    },
+    {
+      "districtId": "mn-sd-2",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Steve Green",
+          "party": "Republican",
+          "votes": 20397
+        },
+        {
+          "name": "Leonard Alan Roy",
+          "party": "Democratic",
+          "votes": 13589
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 31
+        }
+      ],
+      "winners": [
+        {
+          "name": "Steve Green",
+          "party": "Republican",
+          "votes": 20397
+        }
+      ],
+      "demVotes": 13589,
+      "repVotes": 20397,
+      "totalVotes": 33986,
+      "demPct": 39.98,
+      "repPct": 60.02
+    },
+    {
+      "districtId": "mn-sd-3",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Andrea Zupancich",
+          "party": "Republican",
+          "votes": 21349
+        },
+        {
+          "name": "Grant Hauschild",
+          "party": "Democratic",
+          "votes": 22052
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 38
+        }
+      ],
+      "winners": [
+        {
+          "name": "Grant Hauschild",
+          "party": "Democratic",
+          "votes": 22052
+        }
+      ],
+      "demVotes": 22052,
+      "repVotes": 21349,
+      "totalVotes": 43401,
+      "demPct": 50.81,
+      "repPct": 49.19
+    },
+    {
+      "districtId": "mn-sd-4",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Dan Bohmer",
+          "party": "Republican",
+          "votes": 14202
+        },
+        {
+          "name": "Rob Kupec",
+          "party": "Democratic",
+          "votes": 15929
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 214
+        }
+      ],
+      "winners": [
+        {
+          "name": "Rob Kupec",
+          "party": "Democratic",
+          "votes": 15929
+        }
+      ],
+      "demVotes": 15929,
+      "repVotes": 14202,
+      "totalVotes": 30131,
+      "demPct": 52.87,
+      "repPct": 47.13
+    },
+    {
+      "districtId": "mn-sd-5",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Paul J. Utke",
+          "party": "Republican",
+          "votes": 28731
+        },
+        {
+          "name": "A. John Peters",
+          "party": "Democratic",
+          "votes": 10687
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 32
+        }
+      ],
+      "winners": [
+        {
+          "name": "Paul J. Utke",
+          "party": "Republican",
+          "votes": 28731
+        }
+      ],
+      "demVotes": 10687,
+      "repVotes": 28731,
+      "totalVotes": 39418,
+      "demPct": 27.11,
+      "repPct": 72.89
+    },
+    {
+      "districtId": "mn-sd-6",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Justin Eichorn",
+          "party": "Republican",
+          "votes": 26218
+        },
+        {
+          "name": "Steve Samuelson",
+          "party": "Democratic",
+          "votes": 15045
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 26
+        }
+      ],
+      "winners": [
+        {
+          "name": "Justin Eichorn",
+          "party": "Republican",
+          "votes": 26218
+        }
+      ],
+      "demVotes": 15045,
+      "repVotes": 26218,
+      "totalVotes": 41263,
+      "demPct": 36.46,
+      "repPct": 63.54
+    },
+    {
+      "districtId": "mn-sd-7",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Robert Farnsworth",
+          "party": "Republican",
+          "votes": 20797
+        },
+        {
+          "name": "Ben DeNucci",
+          "party": "Democratic",
+          "votes": 18056
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 346
+        }
+      ],
+      "winners": [
+        {
+          "name": "Robert Farnsworth",
+          "party": "Republican",
+          "votes": 20797
+        }
+      ],
+      "demVotes": 18056,
+      "repVotes": 20797,
+      "totalVotes": 38853,
+      "demPct": 46.47,
+      "repPct": 53.53
+    },
+    {
+      "districtId": "mn-sd-8",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Alex Moe",
+          "party": "Republican",
+          "votes": 10481
+        },
+        {
+          "name": "Jen McEwen",
+          "party": "Democratic",
+          "votes": 26518
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 76
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jen McEwen",
+          "party": "Democratic",
+          "votes": 26518
+        }
+      ],
+      "demVotes": 26518,
+      "repVotes": 10481,
+      "totalVotes": 36999,
+      "demPct": 71.67,
+      "repPct": 28.33
+    },
+    {
+      "districtId": "mn-sd-9",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jordan Rasmusson",
+          "party": "Republican",
+          "votes": 25372
+        },
+        {
+          "name": "Cornel Walker",
+          "party": "Democratic",
+          "votes": 11560
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 3507
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jordan Rasmusson",
+          "party": "Republican",
+          "votes": 25372
+        }
+      ],
+      "demVotes": 11560,
+      "repVotes": 25372,
+      "totalVotes": 36932,
+      "demPct": 31.3,
+      "repPct": 68.7
+    },
+    {
+      "districtId": "mn-sd-10",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Nathan Wesenberg",
+          "party": "Republican",
+          "votes": 28395
+        },
+        {
+          "name": "Suzanne M. Cekalla",
+          "party": "Democratic",
+          "votes": 10719
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 102
+        }
+      ],
+      "winners": [
+        {
+          "name": "Nathan Wesenberg",
+          "party": "Republican",
+          "votes": 28395
+        }
+      ],
+      "demVotes": 10719,
+      "repVotes": 28395,
+      "totalVotes": 39114,
+      "demPct": 27.4,
+      "repPct": 72.6
+    },
+    {
+      "districtId": "mn-sd-11",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jason Rarick",
+          "party": "Republican",
+          "votes": 22111
+        },
+        {
+          "name": "Michelle Boyechko",
+          "party": "Democratic",
+          "votes": 14152
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 48
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jason Rarick",
+          "party": "Republican",
+          "votes": 22111
+        }
+      ],
+      "demVotes": 14152,
+      "repVotes": 22111,
+      "totalVotes": 36263,
+      "demPct": 39.03,
+      "repPct": 60.97
+    },
+    {
+      "districtId": "mn-sd-12",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Torrey Westrom",
+          "party": "Republican",
+          "votes": 26178
+        },
+        {
+          "name": "Kari Dorry",
+          "party": "Democratic",
+          "votes": 10813
+        },
+        {
+          "name": "Ashley Klingbeil",
+          "party": "We The People",
+          "votes": 1485
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 16
+        }
+      ],
+      "winners": [
+        {
+          "name": "Torrey Westrom",
+          "party": "Republican",
+          "votes": 26178
+        }
+      ],
+      "demVotes": 10813,
+      "repVotes": 26178,
+      "totalVotes": 36991,
+      "demPct": 29.23,
+      "repPct": 70.77
+    },
+    {
+      "districtId": "mn-sd-13",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jeff Howe",
+          "party": "Republican",
+          "votes": 27295
+        },
+        {
+          "name": "Alissa Brickman",
+          "party": "Democratic",
+          "votes": 11647
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 36
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jeff Howe",
+          "party": "Republican",
+          "votes": 27295
+        }
+      ],
+      "demVotes": 11647,
+      "repVotes": 27295,
+      "totalVotes": 38942,
+      "demPct": 29.91,
+      "repPct": 70.09
+    },
+    {
+      "districtId": "mn-sd-14",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Tama Theis",
+          "party": "Republican",
+          "votes": 13969
+        },
+        {
+          "name": "Aric Putnam",
+          "party": "Democratic",
+          "votes": 15350
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 37
+        }
+      ],
+      "winners": [
+        {
+          "name": "Aric Putnam",
+          "party": "Democratic",
+          "votes": 15350
+        }
+      ],
+      "demVotes": 15350,
+      "repVotes": 13969,
+      "totalVotes": 29319,
+      "demPct": 52.36,
+      "repPct": 47.64
+    },
+    {
+      "districtId": "mn-sd-15",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Gary Dahms",
+          "party": "Republican",
+          "votes": 25780
+        },
+        {
+          "name": "Anita Gaul",
+          "party": "Democratic",
+          "votes": 10417
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 20
+        }
+      ],
+      "winners": [
+        {
+          "name": "Gary Dahms",
+          "party": "Republican",
+          "votes": 25780
+        }
+      ],
+      "demVotes": 10417,
+      "repVotes": 25780,
+      "totalVotes": 36197,
+      "demPct": 28.78,
+      "repPct": 71.22
+    },
+    {
+      "districtId": "mn-sd-16",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Andrew Robert Lang",
+          "party": "Republican",
+          "votes": 24596
+        },
+        {
+          "name": "Fernando Alvarado",
+          "party": "Democratic",
+          "votes": 10690
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 22
+        }
+      ],
+      "winners": [
+        {
+          "name": "Andrew Robert Lang",
+          "party": "Republican",
+          "votes": 24596
+        }
+      ],
+      "demVotes": 10690,
+      "repVotes": 24596,
+      "totalVotes": 35286,
+      "demPct": 30.3,
+      "repPct": 69.7
+    },
+    {
+      "districtId": "mn-sd-17",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Glenn Gruenhagen",
+          "party": "Republican",
+          "votes": 27810
+        },
+        {
+          "name": "Chad Tschimperle",
+          "party": "Democratic",
+          "votes": 11797
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 24
+        }
+      ],
+      "winners": [
+        {
+          "name": "Glenn Gruenhagen",
+          "party": "Republican",
+          "votes": 27810
+        }
+      ],
+      "demVotes": 11797,
+      "repVotes": 27810,
+      "totalVotes": 39607,
+      "demPct": 29.79,
+      "repPct": 70.21
+    },
+    {
+      "districtId": "mn-sd-18",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Mark Wright",
+          "party": "Republican",
+          "votes": 13944
+        },
+        {
+          "name": "Nick Frentz",
+          "party": "Democratic",
+          "votes": 19136
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 39
+        }
+      ],
+      "winners": [
+        {
+          "name": "Nick Frentz",
+          "party": "Democratic",
+          "votes": 19136
+        }
+      ],
+      "demVotes": 19136,
+      "repVotes": 13944,
+      "totalVotes": 33080,
+      "demPct": 57.85,
+      "repPct": 42.15
+    },
+    {
+      "districtId": "mn-sd-19",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "John R. Jasinski",
+          "party": "Republican",
+          "votes": 22450
+        },
+        {
+          "name": "Kate E. Falvey",
+          "party": "Democratic",
+          "votes": 11908
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 26
+        }
+      ],
+      "winners": [
+        {
+          "name": "John R. Jasinski",
+          "party": "Republican",
+          "votes": 22450
+        }
+      ],
+      "demVotes": 11908,
+      "repVotes": 22450,
+      "totalVotes": 34358,
+      "demPct": 34.66,
+      "repPct": 65.34
+    },
+    {
+      "districtId": "mn-sd-20",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Steve Drazkowski",
+          "party": "Republican",
+          "votes": 25129
+        },
+        {
+          "name": "Bradley Robert Drenckhahn",
+          "party": "Democratic",
+          "votes": 15546
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 70
+        }
+      ],
+      "winners": [
+        {
+          "name": "Steve Drazkowski",
+          "party": "Republican",
+          "votes": 25129
+        }
+      ],
+      "demVotes": 15546,
+      "repVotes": 25129,
+      "totalVotes": 40675,
+      "demPct": 38.22,
+      "repPct": 61.78
+    },
+    {
+      "districtId": "mn-sd-21",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Bill Weber",
+          "party": "Republican",
+          "votes": 27829
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 625
+        }
+      ],
+      "winners": [
+        {
+          "name": "Bill Weber",
+          "party": "Republican",
+          "votes": 27829
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 27829,
+      "totalVotes": 27829,
+      "demPct": 0,
+      "repPct": 100
+    },
+    {
+      "districtId": "mn-sd-22",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Rich Draheim",
+          "party": "Republican",
+          "votes": 29799
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 962
+        }
+      ],
+      "winners": [
+        {
+          "name": "Rich Draheim",
+          "party": "Republican",
+          "votes": 29799
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 29799,
+      "totalVotes": 29799,
+      "demPct": 0,
+      "repPct": 100
+    },
+    {
+      "districtId": "mn-sd-23",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Gene Dornink",
+          "party": "Republican",
+          "votes": 20273
+        },
+        {
+          "name": "Brandon Lawhead",
+          "party": "Democratic",
+          "votes": 13051
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 67
+        }
+      ],
+      "winners": [
+        {
+          "name": "Gene Dornink",
+          "party": "Republican",
+          "votes": 20273
+        }
+      ],
+      "demVotes": 13051,
+      "repVotes": 20273,
+      "totalVotes": 33324,
+      "demPct": 39.16,
+      "repPct": 60.84
+    },
+    {
+      "districtId": "mn-sd-24",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Carla Nelson",
+          "party": "Republican",
+          "votes": 20991
+        },
+        {
+          "name": "Aleta Borrud",
+          "party": "Democratic",
+          "votes": 15529
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 19
+        }
+      ],
+      "winners": [
+        {
+          "name": "Carla Nelson",
+          "party": "Republican",
+          "votes": 20991
+        }
+      ],
+      "demVotes": 15529,
+      "repVotes": 20991,
+      "totalVotes": 36520,
+      "demPct": 42.52,
+      "repPct": 57.48
+    },
+    {
+      "districtId": "mn-sd-25",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Bill Rood",
+          "party": "Grassroots - Legalize Cannabis",
+          "votes": 699
+        },
+        {
+          "name": "Ken Navitsky",
+          "party": "Republican",
+          "votes": 13251
+        },
+        {
+          "name": "Liz Boldon",
+          "party": "Democratic",
+          "votes": 19673
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 10
+        }
+      ],
+      "winners": [
+        {
+          "name": "Liz Boldon",
+          "party": "Democratic",
+          "votes": 19673
+        }
+      ],
+      "demVotes": 19673,
+      "repVotes": 13251,
+      "totalVotes": 32924,
+      "demPct": 59.75,
+      "repPct": 40.25
+    },
+    {
+      "districtId": "mn-sd-26",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Eric M. Leitzen",
+          "party": "Legal Marijuana Now",
+          "votes": 1060
+        },
+        {
+          "name": "Jeremy Miller",
+          "party": "Republican",
+          "votes": 21444
+        },
+        {
+          "name": "Daniel Wilson",
+          "party": "Democratic",
+          "votes": 14280
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 9
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jeremy Miller",
+          "party": "Republican",
+          "votes": 21444
+        }
+      ],
+      "demVotes": 14280,
+      "repVotes": 21444,
+      "totalVotes": 35724,
+      "demPct": 39.97,
+      "repPct": 60.03
+    },
+    {
+      "districtId": "mn-sd-27",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Andrew Mathews",
+          "party": "Republican",
+          "votes": 26479
+        },
+        {
+          "name": "Emy Minzel",
+          "party": "Democratic",
+          "votes": 10397
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 16
+        }
+      ],
+      "winners": [
+        {
+          "name": "Andrew Mathews",
+          "party": "Republican",
+          "votes": 26479
+        }
+      ],
+      "demVotes": 10397,
+      "repVotes": 26479,
+      "totalVotes": 36876,
+      "demPct": 28.19,
+      "repPct": 71.81
+    },
+    {
+      "districtId": "mn-sd-28",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Mark Koran",
+          "party": "Republican",
+          "votes": 26012
+        },
+        {
+          "name": "Victoria Ann Bird",
+          "party": "Democratic",
+          "votes": 12670
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 38
+        }
+      ],
+      "winners": [
+        {
+          "name": "Mark Koran",
+          "party": "Republican",
+          "votes": 26012
+        }
+      ],
+      "demVotes": 12670,
+      "repVotes": 26012,
+      "totalVotes": 38682,
+      "demPct": 32.75,
+      "repPct": 67.25
+    },
+    {
+      "districtId": "mn-sd-29",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Bruce Anderson",
+          "party": "Republican",
+          "votes": 26505
+        },
+        {
+          "name": "Chris Brazelton",
+          "party": "Democratic",
+          "votes": 12422
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 28
+        }
+      ],
+      "winners": [
+        {
+          "name": "Bruce Anderson",
+          "party": "Republican",
+          "votes": 26505
+        }
+      ],
+      "demVotes": 12422,
+      "repVotes": 26505,
+      "totalVotes": 38927,
+      "demPct": 31.91,
+      "repPct": 68.09
+    },
+    {
+      "districtId": "mn-sd-30",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Eric Lucero",
+          "party": "Republican",
+          "votes": 26146
+        },
+        {
+          "name": "Diane Nguyen",
+          "party": "Democratic",
+          "votes": 13946
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 20
+        }
+      ],
+      "winners": [
+        {
+          "name": "Eric Lucero",
+          "party": "Republican",
+          "votes": 26146
+        }
+      ],
+      "demVotes": 13946,
+      "repVotes": 26146,
+      "totalVotes": 40092,
+      "demPct": 34.78,
+      "repPct": 65.22
+    },
+    {
+      "districtId": "mn-sd-31",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Cal K. Bahr",
+          "party": "Republican",
+          "votes": 25705
+        },
+        {
+          "name": "Jason Ruffalo",
+          "party": "Democratic",
+          "votes": 14585
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 32
+        }
+      ],
+      "winners": [
+        {
+          "name": "Cal K. Bahr",
+          "party": "Republican",
+          "votes": 25705
+        }
+      ],
+      "demVotes": 14585,
+      "repVotes": 25705,
+      "totalVotes": 40290,
+      "demPct": 36.2,
+      "repPct": 63.8
+    },
+    {
+      "districtId": "mn-sd-32",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Michael Kreun",
+          "party": "Republican",
+          "votes": 19684
+        },
+        {
+          "name": "Kate Luthner",
+          "party": "Democratic",
+          "votes": 17459
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 34
+        }
+      ],
+      "winners": [
+        {
+          "name": "Michael Kreun",
+          "party": "Republican",
+          "votes": 19684
+        }
+      ],
+      "demVotes": 17459,
+      "repVotes": 19684,
+      "totalVotes": 37143,
+      "demPct": 47,
+      "repPct": 53
+    },
+    {
+      "districtId": "mn-sd-33",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Karin Housley",
+          "party": "Republican",
+          "votes": 23091
+        },
+        {
+          "name": "Nancy McLean",
+          "party": "Democratic",
+          "votes": 20624
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 17
+        }
+      ],
+      "winners": [
+        {
+          "name": "Karin Housley",
+          "party": "Republican",
+          "votes": 23091
+        }
+      ],
+      "demVotes": 20624,
+      "repVotes": 23091,
+      "totalVotes": 43715,
+      "demPct": 47.18,
+      "repPct": 52.82
+    },
+    {
+      "districtId": "mn-sd-34",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Karen Attia",
+          "party": "Republican",
+          "votes": 17181
+        },
+        {
+          "name": "John Hoffman",
+          "party": "Democratic",
+          "votes": 20925
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 33
+        }
+      ],
+      "winners": [
+        {
+          "name": "John Hoffman",
+          "party": "Democratic",
+          "votes": 20925
+        }
+      ],
+      "demVotes": 20925,
+      "repVotes": 17181,
+      "totalVotes": 38106,
+      "demPct": 54.91,
+      "repPct": 45.09
+    },
+    {
+      "districtId": "mn-sd-35",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jim Abeler",
+          "party": "Republican",
+          "votes": 17300
+        },
+        {
+          "name": "Kari Rehrauer",
+          "party": "Democratic",
+          "votes": 17114
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 34
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jim Abeler",
+          "party": "Republican",
+          "votes": 17300
+        }
+      ],
+      "demVotes": 17114,
+      "repVotes": 17300,
+      "totalVotes": 34414,
+      "demPct": 49.73,
+      "repPct": 50.27
+    },
+    {
+      "districtId": "mn-sd-36",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Roger Chamberlain",
+          "party": "Republican",
+          "votes": 20838
+        },
+        {
+          "name": "Heather Gustafson",
+          "party": "Democratic",
+          "votes": 23348
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 26
+        }
+      ],
+      "winners": [
+        {
+          "name": "Heather Gustafson",
+          "party": "Democratic",
+          "votes": 23348
+        }
+      ],
+      "demVotes": 23348,
+      "repVotes": 20838,
+      "totalVotes": 44186,
+      "demPct": 52.84,
+      "repPct": 47.16
+    },
+    {
+      "districtId": "mn-sd-37",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Warren Limmer",
+          "party": "Republican",
+          "votes": 24463
+        },
+        {
+          "name": "Farhio Khalif",
+          "party": "Democratic",
+          "votes": 20077
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 34
+        }
+      ],
+      "winners": [
+        {
+          "name": "Warren Limmer",
+          "party": "Republican",
+          "votes": 24463
+        }
+      ],
+      "demVotes": 20077,
+      "repVotes": 24463,
+      "totalVotes": 44540,
+      "demPct": 45.08,
+      "repPct": 54.92
+    },
+    {
+      "districtId": "mn-sd-38",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Mary O'Connor",
+          "party": "Legal Marijuana Now",
+          "votes": 1602
+        },
+        {
+          "name": "Brad Kohler",
+          "party": "Republican",
+          "votes": 6337
+        },
+        {
+          "name": "Susan Pha",
+          "party": "Democratic",
+          "votes": 14116
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 33
+        }
+      ],
+      "winners": [
+        {
+          "name": "Susan Pha",
+          "party": "Democratic",
+          "votes": 14116
+        }
+      ],
+      "demVotes": 14116,
+      "repVotes": 6337,
+      "totalVotes": 20453,
+      "demPct": 69.02,
+      "repPct": 30.98
+    },
+    {
+      "districtId": "mn-sd-39",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Pam Wolf",
+          "party": "Republican",
+          "votes": 10327
+        },
+        {
+          "name": "Mary K Kunesh",
+          "party": "Democratic",
+          "votes": 20563
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 35
+        }
+      ],
+      "winners": [
+        {
+          "name": "Mary K Kunesh",
+          "party": "Democratic",
+          "votes": 20563
+        }
+      ],
+      "demVotes": 20563,
+      "repVotes": 10327,
+      "totalVotes": 30890,
+      "demPct": 66.57,
+      "repPct": 33.43
+    },
+    {
+      "districtId": "mn-sd-40",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Rachel Japuntich",
+          "party": "Republican",
+          "votes": 14371
+        },
+        {
+          "name": "John Marty",
+          "party": "Democratic",
+          "votes": 26490
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 42
+        }
+      ],
+      "winners": [
+        {
+          "name": "John Marty",
+          "party": "Democratic",
+          "votes": 26490
+        }
+      ],
+      "demVotes": 26490,
+      "repVotes": 14371,
+      "totalVotes": 40861,
+      "demPct": 64.83,
+      "repPct": 35.17
+    },
+    {
+      "districtId": "mn-sd-41",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Tom Dippel",
+          "party": "Republican",
+          "votes": 21215
+        },
+        {
+          "name": "Judy Seeberger",
+          "party": "Democratic",
+          "votes": 21536
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 40
+        }
+      ],
+      "winners": [
+        {
+          "name": "Judy Seeberger",
+          "party": "Democratic",
+          "votes": 21536
+        }
+      ],
+      "demVotes": 21536,
+      "repVotes": 21215,
+      "totalVotes": 42751,
+      "demPct": 50.38,
+      "repPct": 49.62
+    },
+    {
+      "districtId": "mn-sd-42",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Paul Hillen",
+          "party": "Republican",
+          "votes": 17395
+        },
+        {
+          "name": "Bonnie Westlin",
+          "party": "Democratic",
+          "votes": 23752
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 19
+        }
+      ],
+      "winners": [
+        {
+          "name": "Bonnie Westlin",
+          "party": "Democratic",
+          "votes": 23752
+        }
+      ],
+      "demVotes": 23752,
+      "repVotes": 17395,
+      "totalVotes": 41147,
+      "demPct": 57.72,
+      "repPct": 42.28
+    },
+    {
+      "districtId": "mn-sd-43",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Andrew Thomas Schuler",
+          "party": "Legal Marijuana Now",
+          "votes": 7686
+        },
+        {
+          "name": "Ann H. Rest",
+          "party": "Democratic",
+          "votes": 27350
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 352
+        }
+      ],
+      "winners": [
+        {
+          "name": "Ann H. Rest",
+          "party": "Democratic",
+          "votes": 27350
+        }
+      ],
+      "demVotes": 27350,
+      "repVotes": 0,
+      "totalVotes": 27350,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "mn-sd-44",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Paul Babin",
+          "party": "Republican",
+          "votes": 12984
+        },
+        {
+          "name": "Tou Xiong",
+          "party": "Democratic",
+          "votes": 19173
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 43
+        }
+      ],
+      "winners": [
+        {
+          "name": "Tou Xiong",
+          "party": "Democratic",
+          "votes": 19173
+        }
+      ],
+      "demVotes": 19173,
+      "repVotes": 12984,
+      "totalVotes": 32157,
+      "demPct": 59.62,
+      "repPct": 40.38
+    },
+    {
+      "districtId": "mn-sd-45",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Kathleen Fowke",
+          "party": "Republican",
+          "votes": 21128
+        },
+        {
+          "name": "Kelly Morrison",
+          "party": "Democratic",
+          "votes": 27222
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 26
+        }
+      ],
+      "winners": [
+        {
+          "name": "Kelly Morrison",
+          "party": "Democratic",
+          "votes": 27222
+        }
+      ],
+      "demVotes": 27222,
+      "repVotes": 21128,
+      "totalVotes": 48350,
+      "demPct": 56.3,
+      "repPct": 43.7
+    },
+    {
+      "districtId": "mn-sd-46",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Ron Latz",
+          "party": "Democratic",
+          "votes": 31027
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 874
+        }
+      ],
+      "winners": [
+        {
+          "name": "Ron Latz",
+          "party": "Democratic",
+          "votes": 31027
+        }
+      ],
+      "demVotes": 31027,
+      "repVotes": 0,
+      "totalVotes": 31027,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "mn-sd-47",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Dwight Dorau",
+          "party": "Republican",
+          "votes": 16111
+        },
+        {
+          "name": "Nicole Mitchell",
+          "party": "Democratic",
+          "votes": 22936
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 17
+        }
+      ],
+      "winners": [
+        {
+          "name": "Nicole Mitchell",
+          "party": "Democratic",
+          "votes": 22936
+        }
+      ],
+      "demVotes": 22936,
+      "repVotes": 16111,
+      "totalVotes": 39047,
+      "demPct": 58.74,
+      "repPct": 41.26
+    },
+    {
+      "districtId": "mn-sd-48",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Julia Coleman",
+          "party": "Republican",
+          "votes": 23306
+        },
+        {
+          "name": "Dan Kessler",
+          "party": "Democratic",
+          "votes": 19564
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 20
+        }
+      ],
+      "winners": [
+        {
+          "name": "Julia Coleman",
+          "party": "Republican",
+          "votes": 23306
+        }
+      ],
+      "demVotes": 19564,
+      "repVotes": 23306,
+      "totalVotes": 42870,
+      "demPct": 45.64,
+      "repPct": 54.36
+    },
+    {
+      "districtId": "mn-sd-49",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Marla Helseth",
+          "party": "Republican",
+          "votes": 15998
+        },
+        {
+          "name": "Steve Cwodzinski",
+          "party": "Democratic",
+          "votes": 26448
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 23
+        }
+      ],
+      "winners": [
+        {
+          "name": "Steve Cwodzinski",
+          "party": "Democratic",
+          "votes": 26448
+        }
+      ],
+      "demVotes": 26448,
+      "repVotes": 15998,
+      "totalVotes": 42446,
+      "demPct": 62.31,
+      "repPct": 37.69
+    },
+    {
+      "districtId": "mn-sd-50",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Doug Fulton",
+          "party": "Republican",
+          "votes": 16457
+        },
+        {
+          "name": "Alice Mann",
+          "party": "Democratic",
+          "votes": 28575
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 23
+        }
+      ],
+      "winners": [
+        {
+          "name": "Alice Mann",
+          "party": "Democratic",
+          "votes": 28575
+        }
+      ],
+      "demVotes": 28575,
+      "repVotes": 16457,
+      "totalVotes": 45032,
+      "demPct": 63.45,
+      "repPct": 36.55
+    },
+    {
+      "districtId": "mn-sd-51",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Frank Pafko",
+          "party": "Republican",
+          "votes": 10049
+        },
+        {
+          "name": "Melissa Halvorson Wiklund",
+          "party": "Democratic",
+          "votes": 23141
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 38
+        }
+      ],
+      "winners": [
+        {
+          "name": "Melissa Halvorson Wiklund",
+          "party": "Democratic",
+          "votes": 23141
+        }
+      ],
+      "demVotes": 23141,
+      "repVotes": 10049,
+      "totalVotes": 33190,
+      "demPct": 69.72,
+      "repPct": 30.28
+    },
+    {
+      "districtId": "mn-sd-52",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Stephen Lowell",
+          "party": "Republican",
+          "votes": 15068
+        },
+        {
+          "name": "Jim Carlson",
+          "party": "Democratic",
+          "votes": 26004
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 61
+        }
+      ],
+      "winners": [
+        {
+          "name": "Jim Carlson",
+          "party": "Democratic",
+          "votes": 26004
+        }
+      ],
+      "demVotes": 26004,
+      "repVotes": 15068,
+      "totalVotes": 41072,
+      "demPct": 63.31,
+      "repPct": 36.69
+    },
+    {
+      "districtId": "mn-sd-53",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Chris Rausch",
+          "party": "Republican",
+          "votes": 15373
+        },
+        {
+          "name": "Matt Klein",
+          "party": "Democratic",
+          "votes": 21501
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 42
+        }
+      ],
+      "winners": [
+        {
+          "name": "Matt Klein",
+          "party": "Democratic",
+          "votes": 21501
+        }
+      ],
+      "demVotes": 21501,
+      "repVotes": 15373,
+      "totalVotes": 36874,
+      "demPct": 58.31,
+      "repPct": 41.69
+    },
+    {
+      "districtId": "mn-sd-54",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Eric Pratt",
+          "party": "Republican",
+          "votes": 20632
+        },
+        {
+          "name": "Alicia Donahue",
+          "party": "Democratic",
+          "votes": 15753
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 75
+        }
+      ],
+      "winners": [
+        {
+          "name": "Eric Pratt",
+          "party": "Republican",
+          "votes": 20632
+        }
+      ],
+      "demVotes": 15753,
+      "repVotes": 20632,
+      "totalVotes": 36385,
+      "demPct": 43.3,
+      "repPct": 56.7
+    },
+    {
+      "districtId": "mn-sd-55",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Pam Myhra",
+          "party": "Republican",
+          "votes": 15316
+        },
+        {
+          "name": "Lindsey Port",
+          "party": "Democratic",
+          "votes": 18996
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 39
+        }
+      ],
+      "winners": [
+        {
+          "name": "Lindsey Port",
+          "party": "Democratic",
+          "votes": 18996
+        }
+      ],
+      "demVotes": 18996,
+      "repVotes": 15316,
+      "totalVotes": 34312,
+      "demPct": 55.36,
+      "repPct": 44.64
+    },
+    {
+      "districtId": "mn-sd-56",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Jim Bean",
+          "party": "Republican",
+          "votes": 17007
+        },
+        {
+          "name": "Erin Maye Quade",
+          "party": "Democratic",
+          "votes": 22281
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 38
+        }
+      ],
+      "winners": [
+        {
+          "name": "Erin Maye Quade",
+          "party": "Democratic",
+          "votes": 22281
+        }
+      ],
+      "demVotes": 22281,
+      "repVotes": 17007,
+      "totalVotes": 39288,
+      "demPct": 56.71,
+      "repPct": 43.29
+    },
+    {
+      "districtId": "mn-sd-57",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Zach Duckworth",
+          "party": "Republican",
+          "votes": 24258
+        },
+        {
+          "name": "Jackie Craig",
+          "party": "Democratic",
+          "votes": 17106
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 28
+        }
+      ],
+      "winners": [
+        {
+          "name": "Zach Duckworth",
+          "party": "Republican",
+          "votes": 24258
+        }
+      ],
+      "demVotes": 17106,
+      "repVotes": 24258,
+      "totalVotes": 41364,
+      "demPct": 41.35,
+      "repPct": 58.65
+    },
+    {
+      "districtId": "mn-sd-58",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Bill Lieske",
+          "party": "Republican",
+          "votes": 21125
+        },
+        {
+          "name": "Clarice Grabau",
+          "party": "Democratic",
+          "votes": 18854
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 38
+        }
+      ],
+      "winners": [
+        {
+          "name": "Bill Lieske",
+          "party": "Republican",
+          "votes": 21125
+        }
+      ],
+      "demVotes": 18854,
+      "repVotes": 21125,
+      "totalVotes": 39979,
+      "demPct": 47.16,
+      "repPct": 52.84
+    },
+    {
+      "districtId": "mn-sd-59",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Bobby Joe Champion",
+          "party": "Democratic",
+          "votes": 22806
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 399
+        }
+      ],
+      "winners": [
+        {
+          "name": "Bobby Joe Champion",
+          "party": "Democratic",
+          "votes": 22806
+        }
+      ],
+      "demVotes": 22806,
+      "repVotes": 0,
+      "totalVotes": 22806,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "mn-sd-60",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Kari Dziedzic",
+          "party": "Democratic",
+          "votes": 26484
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 360
+        }
+      ],
+      "winners": [
+        {
+          "name": "Kari Dziedzic",
+          "party": "Democratic",
+          "votes": 26484
+        }
+      ],
+      "demVotes": 26484,
+      "repVotes": 0,
+      "totalVotes": 26484,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "mn-sd-61",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Scott Dibble",
+          "party": "Democratic",
+          "votes": 37366
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 487
+        }
+      ],
+      "winners": [
+        {
+          "name": "Scott Dibble",
+          "party": "Democratic",
+          "votes": 37366
+        }
+      ],
+      "demVotes": 37366,
+      "repVotes": 0,
+      "totalVotes": 37366,
+      "demPct": 100,
+      "repPct": 0
+    },
+    {
+      "districtId": "mn-sd-62",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Andrew Schmitz",
+          "party": "Republican",
+          "votes": 2528
+        },
+        {
+          "name": "Omar Fateh",
+          "party": "Democratic",
+          "votes": 24271
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 84
+        }
+      ],
+      "winners": [
+        {
+          "name": "Omar Fateh",
+          "party": "Democratic",
+          "votes": 24271
+        }
+      ],
+      "demVotes": 24271,
+      "repVotes": 2528,
+      "totalVotes": 26799,
+      "demPct": 90.57,
+      "repPct": 9.43
+    },
+    {
+      "districtId": "mn-sd-63",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Shawn Holster",
+          "party": "Republican",
+          "votes": 6449
+        },
+        {
+          "name": "Zaynab Mohamed",
+          "party": "Democratic",
+          "votes": 39063
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 106
+        }
+      ],
+      "winners": [
+        {
+          "name": "Zaynab Mohamed",
+          "party": "Democratic",
+          "votes": 39063
+        }
+      ],
+      "demVotes": 39063,
+      "repVotes": 6449,
+      "totalVotes": 45512,
+      "demPct": 85.83,
+      "repPct": 14.17
+    },
+    {
+      "districtId": "mn-sd-64",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Robert Bushard",
+          "party": "Republican",
+          "votes": 6823
+        },
+        {
+          "name": "Erin Murphy",
+          "party": "Democratic",
+          "votes": 36686
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 65
+        }
+      ],
+      "winners": [
+        {
+          "name": "Erin Murphy",
+          "party": "Democratic",
+          "votes": 36686
+        }
+      ],
+      "demVotes": 36686,
+      "repVotes": 6823,
+      "totalVotes": 43509,
+      "demPct": 84.32,
+      "repPct": 15.68
+    },
+    {
+      "districtId": "mn-sd-65",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Paul Holmgren",
+          "party": "Republican",
+          "votes": 4960
+        },
+        {
+          "name": "Sandy Pappas",
+          "party": "Democratic",
+          "votes": 20228
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 58
+        }
+      ],
+      "winners": [
+        {
+          "name": "Sandy Pappas",
+          "party": "Democratic",
+          "votes": 20228
+        }
+      ],
+      "demVotes": 20228,
+      "repVotes": 4960,
+      "totalVotes": 25188,
+      "demPct": 80.31,
+      "repPct": 19.69
+    },
+    {
+      "districtId": "mn-sd-66",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Mikki M Murray",
+          "party": "Republican",
+          "votes": 5522
+        },
+        {
+          "name": "Clare Oumou Verbeten",
+          "party": "Democratic",
+          "votes": 23987
+        },
+        {
+          "name": "Jeremy J. Peichel",
+          "party": "Libertarian",
+          "votes": 1061
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 23
+        }
+      ],
+      "winners": [
+        {
+          "name": "Clare Oumou Verbeten",
+          "party": "Democratic",
+          "votes": 23987
+        }
+      ],
+      "demVotes": 23987,
+      "repVotes": 5522,
+      "totalVotes": 29509,
+      "demPct": 81.29,
+      "repPct": 18.71
+    },
+    {
+      "districtId": "mn-sd-67",
+      "seats": 1,
+      "candidates": [
+        {
+          "name": "Foung Hawj",
+          "party": "Democratic",
+          "votes": 14692
+        },
+        {
+          "name": "WRITE-IN",
+          "party": "WRITE-IN",
+          "votes": 518
+        }
+      ],
+      "winners": [
+        {
+          "name": "Foung Hawj",
+          "party": "Democratic",
+          "votes": 14692
+        }
+      ],
+      "demVotes": 14692,
+      "repVotes": 0,
+      "totalVotes": 14692,
+      "demPct": 100,
+      "repPct": 0
+    }
+  ]
+}

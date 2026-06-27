@@ -1,0 +1,2633 @@
+{
+  "senate": [
+    {
+      "districtId": "nd-sd-1",
+      "demVotes": 0,
+      "repVotes": 2939,
+      "totalVotes": 2977,
+      "demPct": 0,
+      "repPct": 98.72,
+      "candidates": [
+        {
+          "name": "Brad Bekkedahl",
+          "party": "rep",
+          "votes": 2939
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Brad Bekkedahl",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-2",
+      "demVotes": 1154,
+      "repVotes": 6615,
+      "totalVotes": 7795,
+      "demPct": 14.8,
+      "repPct": 84.86,
+      "candidates": [
+        {
+          "name": "Mark Enget",
+          "party": "rep",
+          "votes": 6615
+        },
+        {
+          "name": "Rosemary Tanberg",
+          "party": "dem",
+          "votes": 1154
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Mark Enget",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-3",
+      "demVotes": 0,
+      "repVotes": 2941,
+      "totalVotes": 3057,
+      "demPct": 0,
+      "repPct": 96.21,
+      "candidates": [
+        {
+          "name": "Bob Paulson",
+          "party": "rep",
+          "votes": 2941
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Bob Paulson",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-4",
+      "demVotes": 0,
+      "repVotes": 5599,
+      "totalVotes": 5798,
+      "demPct": 0,
+      "repPct": 96.57,
+      "candidates": [
+        {
+          "name": "Chuck Walen",
+          "party": "rep",
+          "votes": 5599
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Chuck Walen",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-5",
+      "demVotes": 0,
+      "repVotes": 3795,
+      "totalVotes": 3911,
+      "demPct": 0,
+      "repPct": 97.03,
+      "candidates": [
+        {
+          "name": "Randy A Burckhard",
+          "party": "rep",
+          "votes": 3795
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Randy A Burckhard",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-6",
+      "demVotes": 0,
+      "repVotes": 7331,
+      "totalVotes": 8929,
+      "demPct": 0,
+      "repPct": 82.1,
+      "candidates": [
+        {
+          "name": "Paul John Thomas",
+          "party": "rep",
+          "votes": 7331
+        },
+        {
+          "name": "Robert Tolar",
+          "party": "ind",
+          "votes": 1533
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Paul John Thomas",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-7",
+      "demVotes": 0,
+      "repVotes": 5386,
+      "totalVotes": 5509,
+      "demPct": 0,
+      "repPct": 97.77,
+      "candidates": [
+        {
+          "name": "Michelle Axtman",
+          "party": "rep",
+          "votes": 5386
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Michelle Axtman",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-8",
+      "demVotes": 0,
+      "repVotes": 8907,
+      "totalVotes": 9120,
+      "demPct": 0,
+      "repPct": 97.66,
+      "candidates": [
+        {
+          "name": "Jeffery J Magrum",
+          "party": "rep",
+          "votes": 8907
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Jeffery J Magrum",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-9",
+      "demVotes": 3395,
+      "repVotes": 2134,
+      "totalVotes": 5534,
+      "demPct": 61.35,
+      "repPct": 38.56,
+      "candidates": [
+        {
+          "name": "Richard Marcellais",
+          "party": "dem",
+          "votes": 3395
+        },
+        {
+          "name": "Judy Estenson",
+          "party": "rep",
+          "votes": 2134
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Richard Marcellais",
+      "winnerParty": "dem"
+    },
+    {
+      "districtId": "nd-sd-10",
+      "demVotes": 3064,
+      "repVotes": 2955,
+      "totalVotes": 6030,
+      "demPct": 50.81,
+      "repPct": 49,
+      "candidates": [
+        {
+          "name": "Ryan G Braunberger",
+          "party": "dem",
+          "votes": 3064
+        },
+        {
+          "name": "George Roughead",
+          "party": "rep",
+          "votes": 2955
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Ryan G Braunberger",
+      "winnerParty": "dem"
+    },
+    {
+      "districtId": "nd-sd-11",
+      "demVotes": 3627,
+      "repVotes": 0,
+      "totalVotes": 3879,
+      "demPct": 93.5,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Tim Mathern",
+          "party": "dem",
+          "votes": 3627
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Tim Mathern",
+      "winnerParty": "dem"
+    },
+    {
+      "districtId": "nd-sd-12",
+      "demVotes": 2183,
+      "repVotes": 4417,
+      "totalVotes": 6613,
+      "demPct": 33.01,
+      "repPct": 66.79,
+      "candidates": [
+        {
+          "name": "Cole Conley",
+          "party": "rep",
+          "votes": 4417
+        },
+        {
+          "name": "Olivia Schloegel",
+          "party": "dem",
+          "votes": 2183
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Cole Conley",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-13",
+      "demVotes": 0,
+      "repVotes": 4441,
+      "totalVotes": 4607,
+      "demPct": 0,
+      "repPct": 96.4,
+      "candidates": [
+        {
+          "name": "Judy Lee",
+          "party": "rep",
+          "votes": 4441
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Judy Lee",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-14",
+      "demVotes": 1784,
+      "repVotes": 6813,
+      "totalVotes": 8657,
+      "demPct": 20.61,
+      "repPct": 78.7,
+      "candidates": [
+        {
+          "name": "Jerry Klein",
+          "party": "rep",
+          "votes": 6813
+        },
+        {
+          "name": "Mark Nelson",
+          "party": "dem",
+          "votes": 1784
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Jerry Klein",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-15",
+      "demVotes": 0,
+      "repVotes": 6777,
+      "totalVotes": 6881,
+      "demPct": 0,
+      "repPct": 98.49,
+      "candidates": [
+        {
+          "name": "Kent Weston",
+          "party": "rep",
+          "votes": 6777
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Kent Weston",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-16",
+      "demVotes": 3044,
+      "repVotes": 4898,
+      "totalVotes": 7958,
+      "demPct": 38.25,
+      "repPct": 61.55,
+      "candidates": [
+        {
+          "name": "David A Clemens",
+          "party": "rep",
+          "votes": 4898
+        },
+        {
+          "name": "Heather Tyulyandin",
+          "party": "dem",
+          "votes": 3044
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "David A Clemens",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-17",
+      "demVotes": 0,
+      "repVotes": 4025,
+      "totalVotes": 4125,
+      "demPct": 0,
+      "repPct": 97.58,
+      "candidates": [
+        {
+          "name": "Jonathan L Sickler",
+          "party": "rep",
+          "votes": 4025
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Jonathan L Sickler",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-18",
+      "demVotes": 2971,
+      "repVotes": 3492,
+      "totalVotes": 6473,
+      "demPct": 45.9,
+      "repPct": 53.95,
+      "candidates": [
+        {
+          "name": "Scott Meyer",
+          "party": "rep",
+          "votes": 3492
+        },
+        {
+          "name": "Kyle Thorson",
+          "party": "dem",
+          "votes": 2971
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Scott Meyer",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-19",
+      "demVotes": 1392,
+      "repVotes": 4369,
+      "totalVotes": 5772,
+      "demPct": 24.12,
+      "repPct": 75.69,
+      "candidates": [
+        {
+          "name": "Janne Myrdal",
+          "party": "rep",
+          "votes": 4369
+        },
+        {
+          "name": "Travis Hipsher",
+          "party": "dem",
+          "votes": 1392
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Janne Myrdal",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-20",
+      "demVotes": 2505,
+      "repVotes": 6151,
+      "totalVotes": 8673,
+      "demPct": 28.88,
+      "repPct": 70.92,
+      "candidates": [
+        {
+          "name": "Randy D Lemm",
+          "party": "rep",
+          "votes": 6151
+        },
+        {
+          "name": "John Pederson",
+          "party": "dem",
+          "votes": 2505
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Randy D Lemm",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-21",
+      "demVotes": 2283,
+      "repVotes": 1366,
+      "totalVotes": 3657,
+      "demPct": 62.43,
+      "repPct": 37.35,
+      "candidates": [
+        {
+          "name": "Kathy Hogan",
+          "party": "dem",
+          "votes": 2283
+        },
+        {
+          "name": "William Kloubec",
+          "party": "rep",
+          "votes": 1366
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Kathy Hogan",
+      "winnerParty": "dem"
+    },
+    {
+      "districtId": "nd-sd-22",
+      "demVotes": 0,
+      "repVotes": 8547,
+      "totalVotes": 8760,
+      "demPct": 0,
+      "repPct": 97.57,
+      "candidates": [
+        {
+          "name": "Mark F Weber",
+          "party": "rep",
+          "votes": 8547
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Mark F Weber",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-23",
+      "demVotes": 0,
+      "repVotes": 1518,
+      "totalVotes": 1533,
+      "demPct": 0,
+      "repPct": 99.02,
+      "candidates": [
+        {
+          "name": "Todd Beard",
+          "party": "rep",
+          "votes": 1518
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Todd Beard",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-24",
+      "demVotes": 2722,
+      "repVotes": 5047,
+      "totalVotes": 7781,
+      "demPct": 34.98,
+      "repPct": 64.86,
+      "candidates": [
+        {
+          "name": "Mike Wobbema",
+          "party": "rep",
+          "votes": 5047
+        },
+        {
+          "name": "Knut Gjovik",
+          "party": "dem",
+          "votes": 2722
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Mike Wobbema",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-25",
+      "demVotes": 2172,
+      "repVotes": 3782,
+      "totalVotes": 5957,
+      "demPct": 36.46,
+      "repPct": 63.49,
+      "candidates": [
+        {
+          "name": "Larry Luick",
+          "party": "rep",
+          "votes": 3782
+        },
+        {
+          "name": "Jim Dotzenrod",
+          "party": "dem",
+          "votes": 2172
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Larry Luick",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-26",
+      "demVotes": 0,
+      "repVotes": 6168,
+      "totalVotes": 6236,
+      "demPct": 0,
+      "repPct": 98.91,
+      "candidates": [
+        {
+          "name": "Dale Patten",
+          "party": "rep",
+          "votes": 6168
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Dale Patten",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-27",
+      "demVotes": 2082,
+      "repVotes": 3023,
+      "totalVotes": 5118,
+      "demPct": 40.68,
+      "repPct": 59.07,
+      "candidates": [
+        {
+          "name": "Kristin Roers",
+          "party": "rep",
+          "votes": 3023
+        },
+        {
+          "name": "Sonja Kaye",
+          "party": "dem",
+          "votes": 2082
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Kristin Roers",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-28",
+      "demVotes": 2217,
+      "repVotes": 6528,
+      "totalVotes": 8764,
+      "demPct": 25.3,
+      "repPct": 74.49,
+      "candidates": [
+        {
+          "name": "Robert Erbele",
+          "party": "rep",
+          "votes": 6528
+        },
+        {
+          "name": "Richard F Schlosser",
+          "party": "dem",
+          "votes": 2217
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Robert Erbele",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-29",
+      "demVotes": 1785,
+      "repVotes": 4828,
+      "totalVotes": 6624,
+      "demPct": 26.95,
+      "repPct": 72.89,
+      "candidates": [
+        {
+          "name": "Terry M Wanzek",
+          "party": "rep",
+          "votes": 4828
+        },
+        {
+          "name": "Ben Vig",
+          "party": "dem",
+          "votes": 1785
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Terry M Wanzek",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-30",
+      "demVotes": 1921,
+      "repVotes": 5454,
+      "totalVotes": 7421,
+      "demPct": 25.89,
+      "repPct": 73.49,
+      "candidates": [
+        {
+          "name": "Diane Larson",
+          "party": "rep",
+          "votes": 5454
+        },
+        {
+          "name": "Matthew Zimny",
+          "party": "dem",
+          "votes": 1921
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Diane Larson",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-31",
+      "demVotes": 0,
+      "repVotes": 4192,
+      "totalVotes": 4271,
+      "demPct": 0,
+      "repPct": 98.15,
+      "candidates": [
+        {
+          "name": "Donald Schaible",
+          "party": "rep",
+          "votes": 4192
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Donald Schaible",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-32",
+      "demVotes": 0,
+      "repVotes": 6141,
+      "totalVotes": 6356,
+      "demPct": 0,
+      "repPct": 96.62,
+      "candidates": [
+        {
+          "name": "Dick Dever",
+          "party": "rep",
+          "votes": 6141
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Dick Dever",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-33",
+      "demVotes": 0,
+      "repVotes": 6378,
+      "totalVotes": 6567,
+      "demPct": 0,
+      "repPct": 97.12,
+      "candidates": [
+        {
+          "name": "Keith Boehm",
+          "party": "rep",
+          "votes": 6378
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Keith Boehm",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-34",
+      "demVotes": 2101,
+      "repVotes": 5918,
+      "totalVotes": 8036,
+      "demPct": 26.14,
+      "repPct": 73.64,
+      "candidates": [
+        {
+          "name": "Justin Gerhardt",
+          "party": "rep",
+          "votes": 5918
+        },
+        {
+          "name": "Joshua Johnson",
+          "party": "dem",
+          "votes": 2101
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Justin Gerhardt",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-35",
+      "demVotes": 2406,
+      "repVotes": 3644,
+      "totalVotes": 6077,
+      "demPct": 39.59,
+      "repPct": 59.96,
+      "candidates": [
+        {
+          "name": "Sean Cleary",
+          "party": "rep",
+          "votes": 3644
+        },
+        {
+          "name": "Tracy Potter",
+          "party": "dem",
+          "votes": 2406
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Sean Cleary",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-36",
+      "demVotes": 0,
+      "repVotes": 6314,
+      "totalVotes": 6370,
+      "demPct": 0,
+      "repPct": 99.12,
+      "candidates": [
+        {
+          "name": "Desiree Van Oosting",
+          "party": "rep",
+          "votes": 6314
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Desiree Van Oosting",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-37",
+      "demVotes": 0,
+      "repVotes": 3468,
+      "totalVotes": 3531,
+      "demPct": 0,
+      "repPct": 98.22,
+      "candidates": [
+        {
+          "name": "Dean Rummel",
+          "party": "rep",
+          "votes": 3468
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Dean Rummel",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-38",
+      "demVotes": 0,
+      "repVotes": 6183,
+      "totalVotes": 6320,
+      "demPct": 0,
+      "repPct": 97.83,
+      "candidates": [
+        {
+          "name": "David Hogue",
+          "party": "rep",
+          "votes": 6183
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "David Hogue",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-39",
+      "demVotes": 0,
+      "repVotes": 4421,
+      "totalVotes": 6285,
+      "demPct": 0,
+      "repPct": 70.34,
+      "candidates": [
+        {
+          "name": "Greg Kessel",
+          "party": "rep",
+          "votes": 4421
+        },
+        {
+          "name": "Thea Lee",
+          "party": "ind",
+          "votes": 1844
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Greg Kessel",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-40",
+      "demVotes": 0,
+      "repVotes": 4057,
+      "totalVotes": 4169,
+      "demPct": 0,
+      "repPct": 97.31,
+      "candidates": [
+        {
+          "name": "Jose Castaneda",
+          "party": "rep",
+          "votes": 4057
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Jose Castaneda",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-41",
+      "demVotes": 0,
+      "repVotes": 4301,
+      "totalVotes": 4499,
+      "demPct": 0,
+      "repPct": 95.6,
+      "candidates": [
+        {
+          "name": "Kyle Davison",
+          "party": "rep",
+          "votes": 4301
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Kyle Davison",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-42",
+      "demVotes": 1867,
+      "repVotes": 2890,
+      "totalVotes": 4771,
+      "demPct": 39.13,
+      "repPct": 60.57,
+      "candidates": [
+        {
+          "name": "Claire Cory",
+          "party": "rep",
+          "votes": 2890
+        },
+        {
+          "name": "Rodney John Gigstad",
+          "party": "dem",
+          "votes": 1867
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Claire Cory",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-43",
+      "demVotes": 1738,
+      "repVotes": 1963,
+      "totalVotes": 3706,
+      "demPct": 46.9,
+      "repPct": 52.97,
+      "candidates": [
+        {
+          "name": "Jeff Barta",
+          "party": "rep",
+          "votes": 1963
+        },
+        {
+          "name": "JoNell Bakke",
+          "party": "dem",
+          "votes": 1738
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Jeff Barta",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-44",
+      "demVotes": 5362,
+      "repVotes": 0,
+      "totalVotes": 5669,
+      "demPct": 94.58,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Joshua A Boschee",
+          "party": "dem",
+          "votes": 5362
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Joshua A Boschee",
+      "winnerParty": "dem"
+    },
+    {
+      "districtId": "nd-sd-45",
+      "demVotes": 0,
+      "repVotes": 3935,
+      "totalVotes": 4113,
+      "demPct": 0,
+      "repPct": 95.67,
+      "candidates": [
+        {
+          "name": "Ronald G Sorvaag",
+          "party": "rep",
+          "votes": 3935
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Ronald G Sorvaag",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-46",
+      "demVotes": 4242,
+      "repVotes": 5102,
+      "totalVotes": 9363,
+      "demPct": 45.31,
+      "repPct": 54.49,
+      "candidates": [
+        {
+          "name": "Michelle Powers",
+          "party": "rep",
+          "votes": 5102
+        },
+        {
+          "name": "Jess Arneson",
+          "party": "dem",
+          "votes": 4242
+        }
+      ],
+      "electionYear": 2024,
+      "winner": "Michelle Powers",
+      "winnerParty": "rep"
+    },
+    {
+      "districtId": "nd-sd-47",
+      "demVotes": 0,
+      "repVotes": 5413,
+      "totalVotes": 5535,
+      "demPct": 0,
+      "repPct": 97.8,
+      "candidates": [
+        {
+          "name": "Mike Dwyer",
+          "party": "rep",
+          "votes": 5413
+        }
+      ],
+      "electionYear": 2022,
+      "winner": "Mike Dwyer",
+      "winnerParty": "rep"
+    }
+  ],
+  "house": [
+    {
+      "districtId": "nd-hd-1",
+      "demVotes": 0,
+      "repVotes": 4715,
+      "totalVotes": 4782,
+      "demPct": 0,
+      "repPct": 98.6,
+      "candidates": [
+        {
+          "name": "David Richter",
+          "party": "rep",
+          "votes": 2394
+        },
+        {
+          "name": "Patrick Hatlestad",
+          "party": "rep",
+          "votes": 2321
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "David Richter",
+          "party": "rep"
+        },
+        {
+          "name": "Patrick Hatlestad",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-2",
+      "demVotes": 2243,
+      "repVotes": 11482,
+      "totalVotes": 13831,
+      "demPct": 16.22,
+      "repPct": 83.02,
+      "candidates": [
+        {
+          "name": "Donald Longmuir",
+          "party": "rep",
+          "votes": 5804
+        },
+        {
+          "name": "Bert Anderson",
+          "party": "rep",
+          "votes": 5678
+        },
+        {
+          "name": "Betty L Dhuyvetter",
+          "party": "dem",
+          "votes": 1159
+        },
+        {
+          "name": "Gene Nygaard",
+          "party": "dem",
+          "votes": 1084
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Donald Longmuir",
+          "party": "rep"
+        },
+        {
+          "name": "Bert Anderson",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-3",
+      "demVotes": 1027,
+      "repVotes": 4563,
+      "totalVotes": 5637,
+      "demPct": 18.22,
+      "repPct": 80.95,
+      "candidates": [
+        {
+          "name": "Lori VanWinkle",
+          "party": "rep",
+          "votes": 2305
+        },
+        {
+          "name": "Jeff Hoverson",
+          "party": "rep",
+          "votes": 2258
+        },
+        {
+          "name": "Joseph A Nesdahl",
+          "party": "dem",
+          "votes": 1027
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Lori VanWinkle",
+          "party": "rep"
+        },
+        {
+          "name": "Jeff Hoverson",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-4a",
+      "demVotes": 1627,
+      "repVotes": 919,
+      "totalVotes": 2561,
+      "demPct": 63.53,
+      "repPct": 35.88,
+      "candidates": [
+        {
+          "name": "Lisa Finley-DeVille",
+          "party": "dem",
+          "votes": 1627
+        },
+        {
+          "name": "Ronald Brugh",
+          "party": "rep",
+          "votes": 919
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Lisa Finley-DeVille",
+          "party": "dem"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-4b",
+      "demVotes": 0,
+      "repVotes": 3857,
+      "totalVotes": 3900,
+      "demPct": 0,
+      "repPct": 98.9,
+      "candidates": [
+        {
+          "name": "Clayton Fegley",
+          "party": "rep",
+          "votes": 3857
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Clayton Fegley",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-5",
+      "demVotes": 0,
+      "repVotes": 6320,
+      "totalVotes": 6458,
+      "demPct": 0,
+      "repPct": 97.86,
+      "candidates": [
+        {
+          "name": "Scott Louser",
+          "party": "rep",
+          "votes": 3225
+        },
+        {
+          "name": "Jay Fisher",
+          "party": "rep",
+          "votes": 3095
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Scott Louser",
+          "party": "rep"
+        },
+        {
+          "name": "Jay Fisher",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-6",
+      "demVotes": 0,
+      "repVotes": 12914,
+      "totalVotes": 13153,
+      "demPct": 0,
+      "repPct": 98.18,
+      "candidates": [
+        {
+          "name": "Dick Anderson",
+          "party": "rep",
+          "votes": 6532
+        },
+        {
+          "name": "Dan Vollmer",
+          "party": "rep",
+          "votes": 6382
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Dick Anderson",
+          "party": "rep"
+        },
+        {
+          "name": "Dan Vollmer",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-7",
+      "demVotes": 0,
+      "repVotes": 8989,
+      "totalVotes": 9161,
+      "demPct": 0,
+      "repPct": 98.12,
+      "candidates": [
+        {
+          "name": "Jason Dockter",
+          "party": "rep",
+          "votes": 4501
+        },
+        {
+          "name": "Matthew Heilman",
+          "party": "rep",
+          "votes": 4488
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Jason Dockter",
+          "party": "rep"
+        },
+        {
+          "name": "Matthew Heilman",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-8",
+      "demVotes": 0,
+      "repVotes": 14546,
+      "totalVotes": 14732,
+      "demPct": 0,
+      "repPct": 98.74,
+      "candidates": [
+        {
+          "name": "Mike Berg",
+          "party": "rep",
+          "votes": 8066
+        },
+        {
+          "name": "SuAnn Carol Olson",
+          "party": "rep",
+          "votes": 6480
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Mike Berg",
+          "party": "rep"
+        },
+        {
+          "name": "SuAnn Carol Olson",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-9",
+      "demVotes": 5334,
+      "repVotes": 4083,
+      "totalVotes": 9421,
+      "demPct": 56.62,
+      "repPct": 43.34,
+      "candidates": [
+        {
+          "name": "Jayme Davis",
+          "party": "dem",
+          "votes": 3032
+        },
+        {
+          "name": "Collette Brown",
+          "party": "dem",
+          "votes": 2302
+        },
+        {
+          "name": "David Brien",
+          "party": "rep",
+          "votes": 2266
+        },
+        {
+          "name": "Robert Graywater",
+          "party": "rep",
+          "votes": 1817
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Jayme Davis",
+          "party": "dem"
+        },
+        {
+          "name": "Collette Brown",
+          "party": "dem"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-10",
+      "demVotes": 2873,
+      "repVotes": 6186,
+      "totalVotes": 9129,
+      "demPct": 31.47,
+      "repPct": 67.76,
+      "candidates": [
+        {
+          "name": "Steve Swiontek",
+          "party": "rep",
+          "votes": 3132
+        },
+        {
+          "name": "Jared Hendrix",
+          "party": "rep",
+          "votes": 3054
+        },
+        {
+          "name": "Hamida Dakane",
+          "party": "dem",
+          "votes": 2873
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Steve Swiontek",
+          "party": "rep"
+        },
+        {
+          "name": "Jared Hendrix",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-11",
+      "demVotes": 5113,
+      "repVotes": 3949,
+      "totalVotes": 9073,
+      "demPct": 56.35,
+      "repPct": 43.52,
+      "candidates": [
+        {
+          "name": "Liz Conmy",
+          "party": "dem",
+          "votes": 2573
+        },
+        {
+          "name": "Gretchen Dobervich",
+          "party": "dem",
+          "votes": 2540
+        },
+        {
+          "name": "Carter Eisinger",
+          "party": "rep",
+          "votes": 1994
+        },
+        {
+          "name": "Brad Leeser",
+          "party": "rep",
+          "votes": 1955
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Liz Conmy",
+          "party": "dem"
+        },
+        {
+          "name": "Gretchen Dobervich",
+          "party": "dem"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-12",
+      "demVotes": 0,
+      "repVotes": 8736,
+      "totalVotes": 8830,
+      "demPct": 0,
+      "repPct": 98.94,
+      "candidates": [
+        {
+          "name": "Mitch Ostlie",
+          "party": "rep",
+          "votes": 4376
+        },
+        {
+          "name": "Bernie Satrom",
+          "party": "rep",
+          "votes": 4360
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Mitch Ostlie",
+          "party": "rep"
+        },
+        {
+          "name": "Bernie Satrom",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-13",
+      "demVotes": 0,
+      "repVotes": 7459,
+      "totalVotes": 7660,
+      "demPct": 0,
+      "repPct": 97.38,
+      "candidates": [
+        {
+          "name": "Austen Schauer",
+          "party": "rep",
+          "votes": 3889
+        },
+        {
+          "name": "Jim Jonas",
+          "party": "rep",
+          "votes": 3570
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Austen Schauer",
+          "party": "rep"
+        },
+        {
+          "name": "Jim Jonas",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-14",
+      "demVotes": 3328,
+      "repVotes": 12542,
+      "totalVotes": 15993,
+      "demPct": 20.81,
+      "repPct": 78.42,
+      "candidates": [
+        {
+          "name": "Jon Nelson",
+          "party": "rep",
+          "votes": 6271
+        },
+        {
+          "name": "Robin Weisz",
+          "party": "rep",
+          "votes": 6271
+        },
+        {
+          "name": "Cathy Jelsing",
+          "party": "dem",
+          "votes": 1723
+        },
+        {
+          "name": "Jessica Hawkes",
+          "party": "dem",
+          "votes": 1605
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Jon Nelson",
+          "party": "rep"
+        },
+        {
+          "name": "Robin Weisz",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-15",
+      "demVotes": 0,
+      "repVotes": 10066,
+      "totalVotes": 10159,
+      "demPct": 0,
+      "repPct": 99.08,
+      "candidates": [
+        {
+          "name": "Kathy Frelich",
+          "party": "rep",
+          "votes": 5712
+        },
+        {
+          "name": "Donna Henderson",
+          "party": "rep",
+          "votes": 4354
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Kathy Frelich",
+          "party": "rep"
+        },
+        {
+          "name": "Donna Henderson",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-16",
+      "demVotes": 5885,
+      "repVotes": 8646,
+      "totalVotes": 14553,
+      "demPct": 40.44,
+      "repPct": 59.41,
+      "candidates": [
+        {
+          "name": "Ben Koppelman",
+          "party": "rep",
+          "votes": 4736
+        },
+        {
+          "name": "Andrew Marschall",
+          "party": "rep",
+          "votes": 3910
+        },
+        {
+          "name": "Julie West",
+          "party": "dem",
+          "votes": 3266
+        },
+        {
+          "name": "Phil Weiss",
+          "party": "dem",
+          "votes": 2619
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Ben Koppelman",
+          "party": "rep"
+        },
+        {
+          "name": "Andrew Marschall",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-17",
+      "demVotes": 0,
+      "repVotes": 6752,
+      "totalVotes": 6861,
+      "demPct": 0,
+      "repPct": 98.41,
+      "candidates": [
+        {
+          "name": "Mark Sanford",
+          "party": "rep",
+          "votes": 3899
+        },
+        {
+          "name": "Landon Bahl",
+          "party": "rep",
+          "votes": 2853
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Mark Sanford",
+          "party": "rep"
+        },
+        {
+          "name": "Landon Bahl",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-18",
+      "demVotes": 5341,
+      "repVotes": 6302,
+      "totalVotes": 11657,
+      "demPct": 45.82,
+      "repPct": 54.06,
+      "candidates": [
+        {
+          "name": "Steve Vetter",
+          "party": "rep",
+          "votes": 3465
+        },
+        {
+          "name": "Nels Christianson",
+          "party": "rep",
+          "votes": 2837
+        },
+        {
+          "name": "Mary Adams",
+          "party": "dem",
+          "votes": 2779
+        },
+        {
+          "name": "Scott Nelson",
+          "party": "dem",
+          "votes": 2562
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Steve Vetter",
+          "party": "rep"
+        },
+        {
+          "name": "Nels Christianson",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-19",
+      "demVotes": 2336,
+      "repVotes": 8061,
+      "totalVotes": 10443,
+      "demPct": 22.37,
+      "repPct": 77.19,
+      "candidates": [
+        {
+          "name": "David Monson",
+          "party": "rep",
+          "votes": 4150
+        },
+        {
+          "name": "Karen A Anderson",
+          "party": "rep",
+          "votes": 3911
+        },
+        {
+          "name": "Jill Hipsher",
+          "party": "dem",
+          "votes": 1222
+        },
+        {
+          "name": "Lynnell Popowski",
+          "party": "dem",
+          "votes": 1114
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "David Monson",
+          "party": "rep"
+        },
+        {
+          "name": "Karen A Anderson",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-20",
+      "demVotes": 0,
+      "repVotes": 11426,
+      "totalVotes": 11567,
+      "demPct": 0,
+      "repPct": 98.78,
+      "candidates": [
+        {
+          "name": "Mike Beltz",
+          "party": "rep",
+          "votes": 6107
+        },
+        {
+          "name": "Jared Curtis Hagert",
+          "party": "rep",
+          "votes": 5319
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Mike Beltz",
+          "party": "rep"
+        },
+        {
+          "name": "Jared Curtis Hagert",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-21",
+      "demVotes": 4633,
+      "repVotes": 0,
+      "totalVotes": 4806,
+      "demPct": 96.4,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Mary Schneider",
+          "party": "dem",
+          "votes": 2407
+        },
+        {
+          "name": "LaurieBeth Hager",
+          "party": "dem",
+          "votes": 2226
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Mary Schneider",
+          "party": "dem"
+        },
+        {
+          "name": "LaurieBeth Hager",
+          "party": "dem"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-22",
+      "demVotes": 2823,
+      "repVotes": 13044,
+      "totalVotes": 15970,
+      "demPct": 17.68,
+      "repPct": 81.68,
+      "candidates": [
+        {
+          "name": "Brandy L Pyle",
+          "party": "rep",
+          "votes": 6890
+        },
+        {
+          "name": "Jonathan Warrey",
+          "party": "rep",
+          "votes": 6154
+        },
+        {
+          "name": "Darrell Hansen",
+          "party": "dem",
+          "votes": 2823
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Brandy L Pyle",
+          "party": "rep"
+        },
+        {
+          "name": "Jonathan Warrey",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-23",
+      "demVotes": 735,
+      "repVotes": 3892,
+      "totalVotes": 4649,
+      "demPct": 15.81,
+      "repPct": 83.72,
+      "candidates": [
+        {
+          "name": "Dennis Nehring",
+          "party": "rep",
+          "votes": 3892
+        },
+        {
+          "name": "Mark Casler",
+          "party": "dem",
+          "votes": 735
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Dennis Nehring",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-24",
+      "demVotes": 5499,
+      "repVotes": 8977,
+      "totalVotes": 14492,
+      "demPct": 37.95,
+      "repPct": 61.94,
+      "candidates": [
+        {
+          "name": "Dwight Kiefert",
+          "party": "rep",
+          "votes": 4779
+        },
+        {
+          "name": "Daniel Johnston",
+          "party": "rep",
+          "votes": 4198
+        },
+        {
+          "name": "Nancy Farnham",
+          "party": "dem",
+          "votes": 2830
+        },
+        {
+          "name": "Shawn Olauson",
+          "party": "dem",
+          "votes": 2669
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Dwight Kiefert",
+          "party": "rep"
+        },
+        {
+          "name": "Daniel Johnston",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-25",
+      "demVotes": 2805,
+      "repVotes": 6700,
+      "totalVotes": 9531,
+      "demPct": 29.43,
+      "repPct": 70.3,
+      "candidates": [
+        {
+          "name": "Cindy Beck",
+          "party": "rep",
+          "votes": 3980
+        },
+        {
+          "name": "Alisa Mitskog",
+          "party": "dem",
+          "votes": 2805
+        },
+        {
+          "name": "Kathy Skroch",
+          "party": "rep",
+          "votes": 2720
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Cindy Beck",
+          "party": "rep"
+        },
+        {
+          "name": "Alisa Mitskog",
+          "party": "dem"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-26",
+      "demVotes": 0,
+      "repVotes": 8912,
+      "totalVotes": 9016,
+      "demPct": 0,
+      "repPct": 98.85,
+      "candidates": [
+        {
+          "name": "Jeremy Olson",
+          "party": "rep",
+          "votes": 4774
+        },
+        {
+          "name": "Roger Maki",
+          "party": "rep",
+          "votes": 4138
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Jeremy Olson",
+          "party": "rep"
+        },
+        {
+          "name": "Roger Maki",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-27",
+      "demVotes": 3985,
+      "repVotes": 5317,
+      "totalVotes": 9311,
+      "demPct": 42.8,
+      "repPct": 57.1,
+      "candidates": [
+        {
+          "name": "Greg Stemen",
+          "party": "rep",
+          "votes": 2703
+        },
+        {
+          "name": "Josh Christy",
+          "party": "rep",
+          "votes": 2614
+        },
+        {
+          "name": "Ruth Anna Buffalo",
+          "party": "dem",
+          "votes": 2245
+        },
+        {
+          "name": "Thomas R Casler",
+          "party": "dem",
+          "votes": 1740
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Greg Stemen",
+          "party": "rep"
+        },
+        {
+          "name": "Josh Christy",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-28",
+      "demVotes": 4027,
+      "repVotes": 12203,
+      "totalVotes": 16262,
+      "demPct": 24.76,
+      "repPct": 75.04,
+      "candidates": [
+        {
+          "name": "Mike Brandenburg",
+          "party": "rep",
+          "votes": 6319
+        },
+        {
+          "name": "Jim Grueneich",
+          "party": "rep",
+          "votes": 5884
+        },
+        {
+          "name": "Mary Schlosser",
+          "party": "dem",
+          "votes": 2163
+        },
+        {
+          "name": "Sara Dux",
+          "party": "dem",
+          "votes": 1864
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Mike Brandenburg",
+          "party": "rep"
+        },
+        {
+          "name": "Jim Grueneich",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-29",
+      "demVotes": 1732,
+      "repVotes": 8804,
+      "totalVotes": 10552,
+      "demPct": 16.41,
+      "repPct": 83.43,
+      "candidates": [
+        {
+          "name": "Don Vigesaa",
+          "party": "rep",
+          "votes": 4662
+        },
+        {
+          "name": "Craig Headland",
+          "party": "rep",
+          "votes": 4142
+        },
+        {
+          "name": "Charles Linderman",
+          "party": "dem",
+          "votes": 1732
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Don Vigesaa",
+          "party": "rep"
+        },
+        {
+          "name": "Craig Headland",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-30",
+      "demVotes": 0,
+      "repVotes": 10540,
+      "totalVotes": 10757,
+      "demPct": 0,
+      "repPct": 97.98,
+      "candidates": [
+        {
+          "name": "Glenn Bosch",
+          "party": "rep",
+          "votes": 5539
+        },
+        {
+          "name": "Mike Nathe",
+          "party": "rep",
+          "votes": 5001
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Glenn Bosch",
+          "party": "rep"
+        },
+        {
+          "name": "Mike Nathe",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-31",
+      "demVotes": 1360,
+      "repVotes": 6638,
+      "totalVotes": 8031,
+      "demPct": 16.93,
+      "repPct": 82.65,
+      "candidates": [
+        {
+          "name": "Karen Rohr",
+          "party": "rep",
+          "votes": 3374
+        },
+        {
+          "name": "Dawson Holle",
+          "party": "rep",
+          "votes": 3264
+        },
+        {
+          "name": "Mike Faith",
+          "party": "dem",
+          "votes": 1360
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Karen Rohr",
+          "party": "rep"
+        },
+        {
+          "name": "Dawson Holle",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-32",
+      "demVotes": 2466,
+      "repVotes": 9395,
+      "totalVotes": 11955,
+      "demPct": 20.63,
+      "repPct": 78.59,
+      "candidates": [
+        {
+          "name": "Lisa Meier",
+          "party": "rep",
+          "votes": 4700
+        },
+        {
+          "name": "Pat D Heinert",
+          "party": "rep",
+          "votes": 4695
+        },
+        {
+          "name": "Shari Orser",
+          "party": "dem",
+          "votes": 2466
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Lisa Meier",
+          "party": "rep"
+        },
+        {
+          "name": "Pat D Heinert",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-33",
+      "demVotes": 0,
+      "repVotes": 10475,
+      "totalVotes": 10681,
+      "demPct": 0,
+      "repPct": 98.07,
+      "candidates": [
+        {
+          "name": "Anna Novak",
+          "party": "rep",
+          "votes": 5386
+        },
+        {
+          "name": "Bill Tveit",
+          "party": "rep",
+          "votes": 5089
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Anna Novak",
+          "party": "rep"
+        },
+        {
+          "name": "Bill Tveit",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-34",
+      "demVotes": 0,
+      "repVotes": 10676,
+      "totalVotes": 10805,
+      "demPct": 0,
+      "repPct": 98.81,
+      "candidates": [
+        {
+          "name": "Todd Kenneth Porter",
+          "party": "rep",
+          "votes": 5573
+        },
+        {
+          "name": "Nathan Toman",
+          "party": "rep",
+          "votes": 5103
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Todd Kenneth Porter",
+          "party": "rep"
+        },
+        {
+          "name": "Nathan Toman",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-35",
+      "demVotes": 4361,
+      "repVotes": 6903,
+      "totalVotes": 11300,
+      "demPct": 38.59,
+      "repPct": 61.09,
+      "candidates": [
+        {
+          "name": "Bob Martinson",
+          "party": "rep",
+          "votes": 3528
+        },
+        {
+          "name": "Karen Karls",
+          "party": "rep",
+          "votes": 3375
+        },
+        {
+          "name": "Kris Mount",
+          "party": "dem",
+          "votes": 2194
+        },
+        {
+          "name": "Don Morrison",
+          "party": "dem",
+          "votes": 2167
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Bob Martinson",
+          "party": "rep"
+        },
+        {
+          "name": "Karen Karls",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-36",
+      "demVotes": 0,
+      "repVotes": 9753,
+      "totalVotes": 9807,
+      "demPct": 0,
+      "repPct": 99.45,
+      "candidates": [
+        {
+          "name": "Ty Dressler",
+          "party": "rep",
+          "votes": 5281
+        },
+        {
+          "name": "Dori Hauck",
+          "party": "rep",
+          "votes": 4472
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Ty Dressler",
+          "party": "rep"
+        },
+        {
+          "name": "Dori Hauck",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-37",
+      "demVotes": 0,
+      "repVotes": 5956,
+      "totalVotes": 6014,
+      "demPct": 0,
+      "repPct": 99.04,
+      "candidates": [
+        {
+          "name": "Mike Lefor",
+          "party": "rep",
+          "votes": 3091
+        },
+        {
+          "name": "Vicky Steiner",
+          "party": "rep",
+          "votes": 2865
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Mike Lefor",
+          "party": "rep"
+        },
+        {
+          "name": "Vicky Steiner",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-38",
+      "demVotes": 1713,
+      "repVotes": 9928,
+      "totalVotes": 11684,
+      "demPct": 14.66,
+      "repPct": 84.97,
+      "candidates": [
+        {
+          "name": "Dan Ruby",
+          "party": "rep",
+          "votes": 5009
+        },
+        {
+          "name": "Christina Wolff",
+          "party": "rep",
+          "votes": 4919
+        },
+        {
+          "name": "Lisa Hermosillo",
+          "party": "dem",
+          "votes": 1713
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Dan Ruby",
+          "party": "rep"
+        },
+        {
+          "name": "Christina Wolff",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-39",
+      "demVotes": 0,
+      "repVotes": 8812,
+      "totalVotes": 8944,
+      "demPct": 0,
+      "repPct": 98.52,
+      "candidates": [
+        {
+          "name": "Mike Schatz",
+          "party": "rep",
+          "votes": 4628
+        },
+        {
+          "name": "Keith Kempenich",
+          "party": "rep",
+          "votes": 4184
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Mike Schatz",
+          "party": "rep"
+        },
+        {
+          "name": "Keith Kempenich",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-40",
+      "demVotes": 1441,
+      "repVotes": 6129,
+      "totalVotes": 7605,
+      "demPct": 18.95,
+      "repPct": 80.59,
+      "candidates": [
+        {
+          "name": "Matthew Ruby",
+          "party": "rep",
+          "votes": 3211
+        },
+        {
+          "name": "Macy Bolinske",
+          "party": "rep",
+          "votes": 2918
+        },
+        {
+          "name": "Alexandra Deufel",
+          "party": "dem",
+          "votes": 1441
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Matthew Ruby",
+          "party": "rep"
+        },
+        {
+          "name": "Macy Bolinske",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-41",
+      "demVotes": 4372,
+      "repVotes": 6032,
+      "totalVotes": 10413,
+      "demPct": 41.99,
+      "repPct": 57.93,
+      "candidates": [
+        {
+          "name": "Michelle Strinden",
+          "party": "rep",
+          "votes": 3219
+        },
+        {
+          "name": "Jorin James Johnson",
+          "party": "rep",
+          "votes": 2813
+        },
+        {
+          "name": "Megan Edwardson",
+          "party": "dem",
+          "votes": 2281
+        },
+        {
+          "name": "Lillian Jones",
+          "party": "dem",
+          "votes": 2091
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Michelle Strinden",
+          "party": "rep"
+        },
+        {
+          "name": "Jorin James Johnson",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-42",
+      "demVotes": 3354,
+      "repVotes": 5076,
+      "totalVotes": 8449,
+      "demPct": 39.7,
+      "repPct": 60.08,
+      "candidates": [
+        {
+          "name": "Doug Osowski",
+          "party": "rep",
+          "votes": 2654
+        },
+        {
+          "name": "Emily O'Brien",
+          "party": "rep",
+          "votes": 2422
+        },
+        {
+          "name": "Sarah Grossbauer",
+          "party": "dem",
+          "votes": 1687
+        },
+        {
+          "name": "Carol L Hagen",
+          "party": "dem",
+          "votes": 1667
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Doug Osowski",
+          "party": "rep"
+        },
+        {
+          "name": "Emily O'Brien",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-43",
+      "demVotes": 3428,
+      "repVotes": 3336,
+      "totalVotes": 6773,
+      "demPct": 50.61,
+      "repPct": 49.25,
+      "candidates": [
+        {
+          "name": "Eric J Murphy",
+          "party": "rep",
+          "votes": 1756
+        },
+        {
+          "name": "Zachary Ista",
+          "party": "dem",
+          "votes": 1716
+        },
+        {
+          "name": "Mary Adams",
+          "party": "dem",
+          "votes": 1712
+        },
+        {
+          "name": "Ethan Harsell",
+          "party": "rep",
+          "votes": 1580
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Eric J Murphy",
+          "party": "rep"
+        },
+        {
+          "name": "Zachary Ista",
+          "party": "dem"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-44",
+      "demVotes": 8983,
+      "repVotes": 0,
+      "totalVotes": 9317,
+      "demPct": 96.42,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "Karla Rose Hanson",
+          "party": "dem",
+          "votes": 4774
+        },
+        {
+          "name": "Austin James Foss",
+          "party": "dem",
+          "votes": 4209
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Karla Rose Hanson",
+          "party": "dem"
+        },
+        {
+          "name": "Austin James Foss",
+          "party": "dem"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-45",
+      "demVotes": 0,
+      "repVotes": 6605,
+      "totalVotes": 6789,
+      "demPct": 0,
+      "repPct": 97.29,
+      "candidates": [
+        {
+          "name": "Carrie McLeod",
+          "party": "rep",
+          "votes": 3330
+        },
+        {
+          "name": "Scott Wagner",
+          "party": "rep",
+          "votes": 3275
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Carrie McLeod",
+          "party": "rep"
+        },
+        {
+          "name": "Scott Wagner",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-46",
+      "demVotes": 8002,
+      "repVotes": 9098,
+      "totalVotes": 17142,
+      "demPct": 46.68,
+      "repPct": 53.07,
+      "candidates": [
+        {
+          "name": "Jim Kasper",
+          "party": "rep",
+          "votes": 4634
+        },
+        {
+          "name": "Desiree Morton",
+          "party": "rep",
+          "votes": 4464
+        },
+        {
+          "name": "Todd Reisenauer",
+          "party": "dem",
+          "votes": 4042
+        },
+        {
+          "name": "Will Thompson",
+          "party": "dem",
+          "votes": 3960
+        }
+      ],
+      "electionYear": 2024,
+      "winners": [
+        {
+          "name": "Jim Kasper",
+          "party": "rep"
+        },
+        {
+          "name": "Desiree Morton",
+          "party": "rep"
+        }
+      ]
+    },
+    {
+      "districtId": "nd-hd-47",
+      "demVotes": 0,
+      "repVotes": 9507,
+      "totalVotes": 9638,
+      "demPct": 0,
+      "repPct": 98.64,
+      "candidates": [
+        {
+          "name": "Lawrence R (Larry) Klemin",
+          "party": "rep",
+          "votes": 4775
+        },
+        {
+          "name": "Michael Motschenbacher",
+          "party": "rep",
+          "votes": 4732
+        }
+      ],
+      "electionYear": 2022,
+      "winners": [
+        {
+          "name": "Lawrence R (Larry) Klemin",
+          "party": "rep"
+        },
+        {
+          "name": "Michael Motschenbacher",
+          "party": "rep"
+        }
+      ]
+    }
+  ]
+}

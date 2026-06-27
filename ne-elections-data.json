@@ -1,0 +1,817 @@
+{
+  "districts": [
+    {
+      "districtId": "ne-ld-1",
+      "winner": "Robert Hallstrom",
+      "winnerParty": "rep",
+      "totalVotes": 17207,
+      "candidates": [
+        {
+          "name": "Dennis Schaardt",
+          "votes": 8302
+        },
+        {
+          "name": "Robert Hallstrom",
+          "votes": 8905
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-2",
+      "winner": "Robert Clements",
+      "winnerParty": "rep",
+      "totalVotes": 16378,
+      "candidates": [
+        {
+          "name": "Robert Clements",
+          "votes": 9261
+        },
+        {
+          "name": "Sarah J. Slattery",
+          "votes": 7117
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-3",
+      "winner": "Victor Rountree",
+      "winnerParty": "ind",
+      "totalVotes": 14819,
+      "candidates": [
+        {
+          "name": "Felix Ungerman",
+          "votes": 7325
+        },
+        {
+          "name": "Victor Rountree",
+          "votes": 7494
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-4",
+      "winner": "R. Brad von Gillern",
+      "winnerParty": "rep",
+      "totalVotes": 16618,
+      "candidates": [
+        {
+          "name": "Cindy Maxwell- Ostdiek",
+          "votes": 7908
+        },
+        {
+          "name": "R. Brad von Gillern",
+          "votes": 8710
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-5",
+      "winner": "Margo R. Juarez",
+      "winnerParty": "dem",
+      "totalVotes": 10885,
+      "candidates": [
+        {
+          "name": "Margo R. Juarez",
+          "votes": 6275
+        },
+        {
+          "name": "Gilbert Ayala",
+          "votes": 4610
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-6",
+      "winner": "Machaela Cavanaugh",
+      "winnerParty": "dem",
+      "totalVotes": 14329,
+      "candidates": [
+        {
+          "name": "Christian Mirch",
+          "votes": 6360
+        },
+        {
+          "name": "Machaela Cavanaugh",
+          "votes": 7969
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-7",
+      "winner": "Dunixi Guereca",
+      "winnerParty": "dem",
+      "totalVotes": 7793,
+      "candidates": [
+        {
+          "name": "Dunixi Guereca",
+          "votes": 4497
+        },
+        {
+          "name": "Tim C. Pendrell",
+          "votes": 3296
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-8",
+      "winner": "Megan Hunt",
+      "winnerParty": "ind",
+      "totalVotes": 13438,
+      "candidates": [
+        {
+          "name": "Megan Hunt",
+          "votes": 9322
+        },
+        {
+          "name": "Marilyn Arant Asher",
+          "votes": 4116
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-9",
+      "winner": "John Cavanaugh Jr.",
+      "winnerParty": "dem",
+      "totalVotes": 14357,
+      "candidates": [
+        {
+          "name": "Julia K. Palzer",
+          "votes": 4287
+        },
+        {
+          "name": "John Cavanaugh Jr.",
+          "votes": 10070
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-10",
+      "winner": "Wendy DeBoer",
+      "winnerParty": "dem",
+      "totalVotes": 13317,
+      "candidates": [
+        {
+          "name": "Wendy DeBoer",
+          "votes": 7120
+        },
+        {
+          "name": "Lou Ann Goding",
+          "votes": 6197
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-11",
+      "winner": "Terrell McKinney",
+      "winnerParty": "dem",
+      "totalVotes": 9398,
+      "candidates": [
+        {
+          "name": "Terrell McKinney",
+          "votes": 9025
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-12",
+      "winner": "Merv Riepe",
+      "winnerParty": "rep",
+      "totalVotes": 11360,
+      "candidates": [
+        {
+          "name": "Robin Richards",
+          "votes": 5418
+        },
+        {
+          "name": "Merv Riepe",
+          "votes": 5942
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-13",
+      "winner": "Ashlei Spivey",
+      "winnerParty": "dem",
+      "totalVotes": 14463,
+      "candidates": [
+        {
+          "name": "Nick Batter",
+          "votes": 7156
+        },
+        {
+          "name": "Ashlei Spivey",
+          "votes": 7307
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-14",
+      "winner": "John Arch",
+      "winnerParty": "rep",
+      "totalVotes": 12130,
+      "candidates": [
+        {
+          "name": "John Arch",
+          "votes": 7606
+        },
+        {
+          "name": "Cori Villegas",
+          "votes": 4524
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-15",
+      "winner": "Dave Wordekemper",
+      "winnerParty": "rep",
+      "totalVotes": 17382,
+      "candidates": [
+        {
+          "name": "Dave Wordekemper",
+          "votes": 9164
+        },
+        {
+          "name": "Roxie Kracl",
+          "votes": 8218
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-16",
+      "winner": "Ben Hansen",
+      "winnerParty": "rep",
+      "totalVotes": 13867,
+      "candidates": [
+        {
+          "name": "Ben Hansen",
+          "votes": 9744
+        },
+        {
+          "name": "Connie L. Petersen",
+          "votes": 4123
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-17",
+      "winner": "Glen Meyer",
+      "winnerParty": "rep",
+      "totalVotes": 11552,
+      "candidates": [
+        {
+          "name": "Glen Meyer",
+          "votes": 6042
+        },
+        {
+          "name": "Mike Albrecht",
+          "votes": 5510
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-18",
+      "winner": "Christy Armendariz",
+      "winnerParty": "rep",
+      "totalVotes": 13214,
+      "candidates": [
+        {
+          "name": "Christy Armendariz",
+          "votes": 7430
+        },
+        {
+          "name": "Michael Young",
+          "votes": 5784
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-19",
+      "winner": "Rob Dover",
+      "winnerParty": "rep",
+      "totalVotes": 16477,
+      "candidates": [
+        {
+          "name": "Rob Dover",
+          "votes": 8992
+        },
+        {
+          "name": "Jeanne M. Reigle",
+          "votes": 7485
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-20",
+      "winner": "John A. Fredrickson",
+      "winnerParty": "dem",
+      "totalVotes": 16196,
+      "candidates": [
+        {
+          "name": "Stu Dornan",
+          "votes": 8057
+        },
+        {
+          "name": "John A. Fredrickson",
+          "votes": 8139
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-21",
+      "winner": "Beau Ballard",
+      "winnerParty": "rep",
+      "totalVotes": 17198,
+      "candidates": [
+        {
+          "name": "Seth Derner",
+          "votes": 7689
+        },
+        {
+          "name": "Beau Ballard",
+          "votes": 9509
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-22",
+      "winner": "Mike Moser",
+      "winnerParty": "rep",
+      "totalVotes": 11916,
+      "candidates": [
+        {
+          "name": "Mike Moser",
+          "votes": 9561
+        },
+        {
+          "name": "Roy M. Zach",
+          "votes": 2355
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-23",
+      "winner": "Jared Storm",
+      "winnerParty": "rep",
+      "totalVotes": 17442,
+      "candidates": [
+        {
+          "name": "Dennis C. Fujan",
+          "votes": 7873
+        },
+        {
+          "name": "Jared Storm",
+          "votes": 9569
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-24",
+      "winner": "Jana Hughes",
+      "winnerParty": "rep",
+      "totalVotes": 13710,
+      "candidates": [
+        {
+          "name": "Jana Hughes",
+          "votes": 7551
+        },
+        {
+          "name": "Patrick Hotovy",
+          "votes": 6159
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-25",
+      "winner": "Carolyn Bosn",
+      "winnerParty": "rep",
+      "totalVotes": 23971,
+      "candidates": [
+        {
+          "name": "Carolyn Bosn",
+          "votes": 12707
+        },
+        {
+          "name": "Nicki Behmer Popp",
+          "votes": 11264
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-26",
+      "winner": "George C. Dungan III",
+      "winnerParty": "dem",
+      "totalVotes": 11696,
+      "candidates": [
+        {
+          "name": "George C. Dungan III",
+          "votes": 5960
+        },
+        {
+          "name": "Russ Barger",
+          "votes": 5736
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-27",
+      "winner": "Jason Prokop",
+      "winnerParty": "dem",
+      "totalVotes": 13703,
+      "candidates": [
+        {
+          "name": "Jason Prokop",
+          "votes": 7201
+        },
+        {
+          "name": "Dawn Liphardt",
+          "votes": 6502
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-28",
+      "winner": "Jane Raybould",
+      "winnerParty": "dem",
+      "totalVotes": 11856,
+      "candidates": [
+        {
+          "name": "Jane Raybould",
+          "votes": 7879
+        },
+        {
+          "name": "Roy A. Christensen",
+          "votes": 3977
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-29",
+      "winner": "Eliot Bostar",
+      "winnerParty": "dem",
+      "totalVotes": 14084,
+      "candidates": [
+        {
+          "name": "Eliot Bostar",
+          "votes": 14084
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-30",
+      "winner": "Myron Dorn",
+      "winnerParty": "rep",
+      "totalVotes": 12603,
+      "candidates": [
+        {
+          "name": "Myron Dorn",
+          "votes": 12603
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-31",
+      "winner": "Kathleen Kauth",
+      "winnerParty": "rep",
+      "totalVotes": 19728,
+      "candidates": [
+        {
+          "name": "Kathleen Kauth",
+          "votes": 10664
+        },
+        {
+          "name": "Mary Ann Folchert",
+          "votes": 9064
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-32",
+      "winner": "Tom Brandt",
+      "winnerParty": "rep",
+      "totalVotes": 11253,
+      "candidates": [
+        {
+          "name": "Tom Brandt",
+          "votes": 11253
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-33",
+      "winner": "Dan Lonowski",
+      "winnerParty": "rep",
+      "totalVotes": 17642,
+      "candidates": [
+        {
+          "name": "Michelle R. Smith",
+          "votes": 5767
+        },
+        {
+          "name": "Dan Lonowski",
+          "votes": 11875
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-34",
+      "winner": "Loren Lippincott",
+      "winnerParty": "rep",
+      "totalVotes": 12987,
+      "candidates": [
+        {
+          "name": "Loren Lippincott",
+          "votes": 8788
+        },
+        {
+          "name": "Michael Reimers",
+          "votes": 4199
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-35",
+      "winner": "Dan Quick",
+      "winnerParty": "dem",
+      "totalVotes": 9859,
+      "candidates": [
+        {
+          "name": "Dan Quick",
+          "votes": 4997
+        },
+        {
+          "name": "Ray Aguilar",
+          "votes": 4862
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-36",
+      "winner": "Rick Holdcroft",
+      "winnerParty": "rep",
+      "totalVotes": 14632,
+      "candidates": [
+        {
+          "name": "Angie Lauritsen",
+          "votes": 6444
+        },
+        {
+          "name": "Rick Holdcroft",
+          "votes": 8188
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-37",
+      "winner": "Stanley Clouse",
+      "winnerParty": "rep",
+      "totalVotes": 16635,
+      "candidates": [
+        {
+          "name": "Stanley Clouse",
+          "votes": 9776
+        },
+        {
+          "name": "Lana Peister",
+          "votes": 6859
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-38",
+      "winner": "Dave Murman",
+      "winnerParty": "rep",
+      "totalVotes": 14399,
+      "candidates": [
+        {
+          "name": "Tyler R. Cappel",
+          "votes": 5031
+        },
+        {
+          "name": "Dave Murman",
+          "votes": 9368
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-39",
+      "winner": "Tony Sorrentino",
+      "winnerParty": "rep",
+      "totalVotes": 22743,
+      "candidates": [
+        {
+          "name": "Tony Sorrentino",
+          "votes": 11847
+        },
+        {
+          "name": "Allison Heimes",
+          "votes": 10896
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-40",
+      "winner": "Barry DeKay",
+      "winnerParty": "rep",
+      "totalVotes": 15980,
+      "candidates": [
+        {
+          "name": "Barry DeKay",
+          "votes": 9486
+        },
+        {
+          "name": "Keith F. Kube",
+          "votes": 6494
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-41",
+      "winner": "Daniel D. McKeon",
+      "winnerParty": "rep",
+      "totalVotes": 17892,
+      "candidates": [
+        {
+          "name": "Daniel D. McKeon",
+          "votes": 9311
+        },
+        {
+          "name": "Ethan Clark",
+          "votes": 8581
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-42",
+      "winner": "Mike Jacobson",
+      "winnerParty": "rep",
+      "totalVotes": 13365,
+      "candidates": [
+        {
+          "name": "Chris Bruns",
+          "votes": 6497
+        },
+        {
+          "name": "Mike Jacobson",
+          "votes": 6868
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-43",
+      "winner": "Tanya Storer",
+      "winnerParty": "rep",
+      "totalVotes": 18972,
+      "candidates": [
+        {
+          "name": "Tanya Storer",
+          "votes": 11519
+        },
+        {
+          "name": "Tony Tangwall",
+          "votes": 7453
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-44",
+      "winner": "Teresa J. Ibach",
+      "winnerParty": "rep",
+      "totalVotes": 9708,
+      "candidates": [
+        {
+          "name": "Teresa J. Ibach",
+          "votes": 9708
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-45",
+      "winner": "Rita Sanders",
+      "winnerParty": "rep",
+      "totalVotes": 15249,
+      "candidates": [
+        {
+          "name": "Rita Sanders",
+          "votes": 8062
+        },
+        {
+          "name": "Sarah F. Centineo",
+          "votes": 7187
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-46",
+      "winner": "Danielle Conrad",
+      "winnerParty": "dem",
+      "totalVotes": 6111,
+      "candidates": [
+        {
+          "name": "James Michael Bowers",
+          "votes": 2965
+        },
+        {
+          "name": "Danielle Conrad",
+          "votes": 3146
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-47",
+      "winner": "Paul E. Strommen",
+      "winnerParty": "rep",
+      "totalVotes": 15883,
+      "candidates": [
+        {
+          "name": "Paul E. Strommen",
+          "votes": 12253
+        },
+        {
+          "name": "Larry L.S. Bolinger",
+          "votes": 3630
+        }
+      ],
+      "electionYear": 2024
+    },
+    {
+      "districtId": "ne-ld-48",
+      "winner": "Brian Hardin",
+      "winnerParty": "rep",
+      "totalVotes": 10597,
+      "candidates": [
+        {
+          "name": "Don L. Lease II",
+          "votes": 5071
+        },
+        {
+          "name": "Brian Hardin",
+          "votes": 5526
+        }
+      ],
+      "electionYear": 2022
+    },
+    {
+      "districtId": "ne-ld-49",
+      "winner": "Bob Andersen",
+      "winnerParty": "rep",
+      "totalVotes": 21402,
+      "candidates": [
+        {
+          "name": "Bob Andersen",
+          "votes": 11155
+        },
+        {
+          "name": "Jen Day",
+          "votes": 10247
+        }
+      ],
+      "electionYear": 2024
+    }
+  ]
+}

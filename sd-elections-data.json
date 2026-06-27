@@ -1,0 +1,1945 @@
+{
+  "senate": [
+    {
+      "districtId": "sd-sd-1",
+      "winner": "MICHAEL H. ROHL",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 8447,
+      "totalVotes": 8447,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "MICHAEL H. ROHL",
+          "party": "rep",
+          "votes": 8447
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-2",
+      "winner": "STEVE KOLBECK",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 10327,
+      "totalVotes": 10327,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "STEVE KOLBECK",
+          "party": "rep",
+          "votes": 10327
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-3",
+      "winner": "CARL PERRY",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 6899,
+      "totalVotes": 6899,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "CARL PERRY",
+          "party": "rep",
+          "votes": 6899
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-4",
+      "winner": "STEPHANIE SAUDER",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 10374,
+      "totalVotes": 10374,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "STEPHANIE SAUDER",
+          "party": "rep",
+          "votes": 10374
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-5",
+      "winner": "GLEN A VILHAUER",
+      "winnerParty": "rep",
+      "demVotes": 3203,
+      "repVotes": 7889,
+      "totalVotes": 11092,
+      "demPct": 28.9,
+      "repPct": 71.1,
+      "candidates": [
+        {
+          "name": "DENNIS SOLBERG",
+          "party": "dem",
+          "votes": 3203
+        },
+        {
+          "name": "GLEN A VILHAUER",
+          "party": "rep",
+          "votes": 7889
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-6",
+      "winner": "ERNIE OTTEN",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 8961,
+      "totalVotes": 8961,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "ERNIE OTTEN",
+          "party": "rep",
+          "votes": 8961
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-7",
+      "winner": "TIM REED",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 7597,
+      "totalVotes": 7597,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "TIM REED",
+          "party": "rep",
+          "votes": 7597
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-8",
+      "winner": "CASEY CRABTREE",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 10033,
+      "totalVotes": 10033,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "CASEY CRABTREE",
+          "party": "rep",
+          "votes": 10033
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-9",
+      "winner": "JOY HOHN",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 8135,
+      "totalVotes": 8135,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "JOY HOHN",
+          "party": "rep",
+          "votes": 8135
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-10",
+      "winner": "LIZ LARSON",
+      "winnerParty": "dem",
+      "demVotes": 5606,
+      "repVotes": 0,
+      "totalVotes": 5606,
+      "demPct": 100,
+      "repPct": 0,
+      "candidates": [
+        {
+          "name": "LIZ LARSON",
+          "party": "dem",
+          "votes": 5606
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-11",
+      "winner": "CHRIS KARR",
+      "winnerParty": "rep",
+      "demVotes": 4746,
+      "repVotes": 6793,
+      "totalVotes": 11539,
+      "demPct": 41.1,
+      "repPct": 58.9,
+      "candidates": [
+        {
+          "name": "STEVE NATZ",
+          "party": "dem",
+          "votes": 4746
+        },
+        {
+          "name": "CHRIS KARR",
+          "party": "rep",
+          "votes": 6793
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-12",
+      "winner": "ARCH BEAL",
+      "winnerParty": "rep",
+      "demVotes": 4907,
+      "repVotes": 6167,
+      "totalVotes": 11074,
+      "demPct": 44.3,
+      "repPct": 55.7,
+      "candidates": [
+        {
+          "name": "CLAY HOFFMAN",
+          "party": "dem",
+          "votes": 4907
+        },
+        {
+          "name": "ARCH BEAL",
+          "party": "rep",
+          "votes": 6167
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-13",
+      "winner": "SUE PETERSON",
+      "winnerParty": "rep",
+      "demVotes": 5948,
+      "repVotes": 8384,
+      "totalVotes": 14332,
+      "demPct": 41.5,
+      "repPct": 58.5,
+      "candidates": [
+        {
+          "name": "ALI RAE HORSTED",
+          "party": "dem",
+          "votes": 5948
+        },
+        {
+          "name": "SUE PETERSON",
+          "party": "rep",
+          "votes": 8384
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-14",
+      "winner": "LARRY P. ZIKMUND",
+      "winnerParty": "rep",
+      "demVotes": 5933,
+      "repVotes": 7124,
+      "totalVotes": 13057,
+      "demPct": 45.4,
+      "repPct": 54.6,
+      "candidates": [
+        {
+          "name": "SANDRA HENRY",
+          "party": "dem",
+          "votes": 5933
+        },
+        {
+          "name": "LARRY P. ZIKMUND",
+          "party": "rep",
+          "votes": 7124
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-15",
+      "winner": "JAMIE SMITH",
+      "winnerParty": "dem",
+      "demVotes": 5050,
+      "repVotes": 4580,
+      "totalVotes": 9630,
+      "demPct": 52.4,
+      "repPct": 47.6,
+      "candidates": [
+        {
+          "name": "JAMIE SMITH",
+          "party": "dem",
+          "votes": 5050
+        },
+        {
+          "name": "BRENDA LAWRENCE",
+          "party": "rep",
+          "votes": 4580
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-16",
+      "winner": "KEVIN D. JENSEN",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 9315,
+      "totalVotes": 9315,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "KEVIN D. JENSEN",
+          "party": "rep",
+          "votes": 9315
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-17",
+      "winner": "SYDNEY DAVIS",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 7775,
+      "totalVotes": 7775,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "SYDNEY DAVIS",
+          "party": "rep",
+          "votes": 7775
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-18",
+      "winner": "LAUREN NELSON",
+      "winnerParty": "rep",
+      "demVotes": 4629,
+      "repVotes": 6188,
+      "totalVotes": 10817,
+      "demPct": 42.8,
+      "repPct": 57.2,
+      "candidates": [
+        {
+          "name": "SARAH CARDA",
+          "party": "dem",
+          "votes": 4629
+        },
+        {
+          "name": "LAUREN NELSON",
+          "party": "rep",
+          "votes": 6188
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-19",
+      "winner": "KYLE SCHOENFISH",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 8735,
+      "totalVotes": 11317,
+      "demPct": 0,
+      "repPct": 77.2,
+      "candidates": [
+        {
+          "name": "KYLE SCHOENFISH",
+          "party": "rep",
+          "votes": 8735
+        },
+        {
+          "name": "MICHAEL J. MILLER",
+          "party": "ind",
+          "votes": 2582
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-20",
+      "winner": "PAUL MISKIMINS",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 8184,
+      "totalVotes": 8184,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "PAUL MISKIMINS",
+          "party": "rep",
+          "votes": 8184
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-21",
+      "winner": "MYKALA VOITA",
+      "winnerParty": "rep",
+      "demVotes": 2515,
+      "repVotes": 8450,
+      "totalVotes": 10965,
+      "demPct": 22.9,
+      "repPct": 77.1,
+      "candidates": [
+        {
+          "name": "DAN ANDERSSON",
+          "party": "dem",
+          "votes": 2515
+        },
+        {
+          "name": "MYKALA VOITA",
+          "party": "rep",
+          "votes": 8450
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-22",
+      "winner": "DAVID WHEELER",
+      "winnerParty": "rep",
+      "demVotes": 2666,
+      "repVotes": 7271,
+      "totalVotes": 9937,
+      "demPct": 26.8,
+      "repPct": 73.2,
+      "candidates": [
+        {
+          "name": "JIM A. SCHMIDT",
+          "party": "dem",
+          "votes": 2666
+        },
+        {
+          "name": "DAVID WHEELER",
+          "party": "rep",
+          "votes": 7271
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-23",
+      "winner": "MARK LAPKA",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 9181,
+      "totalVotes": 9181,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "MARK LAPKA",
+          "party": "rep",
+          "votes": 9181
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-24",
+      "winner": "JIM MEHLHAFF",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 9554,
+      "totalVotes": 9554,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "JIM MEHLHAFF",
+          "party": "rep",
+          "votes": 9554
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-25",
+      "winner": "TOM PISCHKE",
+      "winnerParty": "rep",
+      "demVotes": 3634,
+      "repVotes": 9666,
+      "totalVotes": 13300,
+      "demPct": 27.3,
+      "repPct": 72.7,
+      "candidates": [
+        {
+          "name": "BRIAN WIRTH",
+          "party": "dem",
+          "votes": 3634
+        },
+        {
+          "name": "TOM PISCHKE",
+          "party": "rep",
+          "votes": 9666
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-26",
+      "winner": "TAMARA GROVE",
+      "winnerParty": "rep",
+      "demVotes": 3221,
+      "repVotes": 4328,
+      "totalVotes": 7549,
+      "demPct": 42.7,
+      "repPct": 57.3,
+      "candidates": [
+        {
+          "name": "SHAWN BORDEAUX",
+          "party": "dem",
+          "votes": 3221
+        },
+        {
+          "name": "TAMARA GROVE",
+          "party": "rep",
+          "votes": 4328
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-27",
+      "winner": "RED DAWN FOSTER",
+      "winnerParty": "dem",
+      "demVotes": 3803,
+      "repVotes": 3517,
+      "totalVotes": 7320,
+      "demPct": 52,
+      "repPct": 48,
+      "candidates": [
+        {
+          "name": "RED DAWN FOSTER",
+          "party": "dem",
+          "votes": 3803
+        },
+        {
+          "name": "ANTHONY G. KATHOL",
+          "party": "rep",
+          "votes": 3517
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-28",
+      "winner": "SAM MARTY",
+      "winnerParty": "rep",
+      "demVotes": 2474,
+      "repVotes": 6969,
+      "totalVotes": 10879,
+      "demPct": 22.7,
+      "repPct": 64.1,
+      "candidates": [
+        {
+          "name": "DEAN SCHREMPP",
+          "party": "dem",
+          "votes": 2474
+        },
+        {
+          "name": "SAM MARTY",
+          "party": "rep",
+          "votes": 6969
+        },
+        {
+          "name": "SHANE C. FARLEE",
+          "party": "ind",
+          "votes": 1436
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-29",
+      "winner": "JOHN CARLEY",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 8630,
+      "totalVotes": 8630,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "JOHN CARLEY",
+          "party": "rep",
+          "votes": 8630
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-30",
+      "winner": "AMBER HULSE",
+      "winnerParty": "rep",
+      "demVotes": 3867,
+      "repVotes": 11210,
+      "totalVotes": 15077,
+      "demPct": 25.6,
+      "repPct": 74.4,
+      "candidates": [
+        {
+          "name": "BRET SWANSON",
+          "party": "dem",
+          "votes": 3867
+        },
+        {
+          "name": "AMBER HULSE",
+          "party": "rep",
+          "votes": 11210
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-31",
+      "winner": "RANDY DEIBERT",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 10293,
+      "totalVotes": 10293,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "RANDY DEIBERT",
+          "party": "rep",
+          "votes": 10293
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-32",
+      "winner": "HELENE DUHAMEL",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 5188,
+      "totalVotes": 8651,
+      "demPct": 0,
+      "repPct": 60,
+      "candidates": [
+        {
+          "name": "HELENE DUHAMEL",
+          "party": "rep",
+          "votes": 5188
+        },
+        {
+          "name": "KAREN M. MCNEAL",
+          "party": "ind",
+          "votes": 3463
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-33",
+      "winner": "CURT VOIGHT",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 9246,
+      "totalVotes": 9246,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "CURT VOIGHT",
+          "party": "rep",
+          "votes": 9246
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-34",
+      "winner": "TAFFY HOWARD",
+      "winnerParty": "rep",
+      "demVotes": 5015,
+      "repVotes": 7585,
+      "totalVotes": 12600,
+      "demPct": 39.8,
+      "repPct": 60.2,
+      "candidates": [
+        {
+          "name": "KEHALA TWO BULLS",
+          "party": "dem",
+          "votes": 5015
+        },
+        {
+          "name": "TAFFY HOWARD",
+          "party": "rep",
+          "votes": 7585
+        }
+      ]
+    },
+    {
+      "districtId": "sd-sd-35",
+      "winner": "GREG BLANC",
+      "winnerParty": "rep",
+      "demVotes": 0,
+      "repVotes": 9851,
+      "totalVotes": 9851,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "GREG BLANC",
+          "party": "rep",
+          "votes": 9851
+        }
+      ]
+    }
+  ],
+  "house": [
+    {
+      "districtId": "sd-hd-1",
+      "winners": [
+        {
+          "name": "LOGAN MANHART",
+          "party": "rep"
+        },
+        {
+          "name": "CHRISTOPHER REDER",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 8404,
+      "repVotes": 11489,
+      "totalVotes": 21421,
+      "demPct": 39.2,
+      "repPct": 53.6,
+      "candidates": [
+        {
+          "name": "STEVEN D. MCCLEEREY",
+          "party": "dem",
+          "votes": 4174
+        },
+        {
+          "name": "MARK SUMPTION",
+          "party": "dem",
+          "votes": 4230
+        },
+        {
+          "name": "JOSH DENNERT",
+          "party": "lib",
+          "votes": 950
+        },
+        {
+          "name": "TAMARA LESNAR",
+          "party": "lib",
+          "votes": 578
+        },
+        {
+          "name": "LOGAN MANHART",
+          "party": "rep",
+          "votes": 5945
+        },
+        {
+          "name": "CHRISTOPHER REDER",
+          "party": "rep",
+          "votes": 5544
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-2",
+      "winners": [
+        {
+          "name": "DAVID KULL",
+          "party": "rep"
+        },
+        {
+          "name": "JOHN SJAARDA",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 16616,
+      "totalVotes": 16616,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "DAVID KULL",
+          "party": "rep",
+          "votes": 8231
+        },
+        {
+          "name": "JOHN SJAARDA",
+          "party": "rep",
+          "votes": 8385
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-3",
+      "winners": [
+        {
+          "name": "BRANDEI SCHAEFBAUER",
+          "party": "rep"
+        },
+        {
+          "name": "AL NOVSTRUP",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 4515,
+      "repVotes": 11785,
+      "totalVotes": 16300,
+      "demPct": 27.7,
+      "repPct": 72.3,
+      "candidates": [
+        {
+          "name": "ERIN R RUDNER",
+          "party": "dem",
+          "votes": 4515
+        },
+        {
+          "name": "BRANDEI SCHAEFBAUER",
+          "party": "rep",
+          "votes": 6048
+        },
+        {
+          "name": "AL NOVSTRUP",
+          "party": "rep",
+          "votes": 5737
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-4",
+      "winners": [
+        {
+          "name": "KENT ROE",
+          "party": "rep"
+        },
+        {
+          "name": "DYLAN C. JORDAN",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 15266,
+      "totalVotes": 15266,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "KENT ROE",
+          "party": "rep",
+          "votes": 7959
+        },
+        {
+          "name": "DYLAN C. JORDAN",
+          "party": "rep",
+          "votes": 7307
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-5",
+      "winners": [
+        {
+          "name": "JOSEPHINE GARCIA",
+          "party": "rep"
+        },
+        {
+          "name": "MATT ROBY",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 4261,
+      "repVotes": 14206,
+      "totalVotes": 18467,
+      "demPct": 23.1,
+      "repPct": 76.9,
+      "candidates": [
+        {
+          "name": "DIANE M DRAKE",
+          "party": "dem",
+          "votes": 2308
+        },
+        {
+          "name": "AMY D. RAMBOW",
+          "party": "dem",
+          "votes": 1953
+        },
+        {
+          "name": "JOSEPHINE GARCIA",
+          "party": "rep",
+          "votes": 5892
+        },
+        {
+          "name": "MATT ROBY",
+          "party": "rep",
+          "votes": 8314
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-6",
+      "winners": [
+        {
+          "name": "HERMAN OTTEN",
+          "party": "rep"
+        },
+        {
+          "name": "AARON AYLWARD",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 3546,
+      "repVotes": 13750,
+      "totalVotes": 17296,
+      "demPct": 20.5,
+      "repPct": 79.5,
+      "candidates": [
+        {
+          "name": "GARRET M CAMPBELL",
+          "party": "dem",
+          "votes": 3546
+        },
+        {
+          "name": "HERMAN OTTEN",
+          "party": "rep",
+          "votes": 7216
+        },
+        {
+          "name": "AARON AYLWARD",
+          "party": "rep",
+          "votes": 6534
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-7",
+      "winners": [
+        {
+          "name": "MELLISSA HEERMANN",
+          "party": "rep"
+        },
+        {
+          "name": "ROGER DEGROOT",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 6722,
+      "repVotes": 11711,
+      "totalVotes": 18433,
+      "demPct": 36.5,
+      "repPct": 63.5,
+      "candidates": [
+        {
+          "name": "BLAKE STEVENS",
+          "party": "dem",
+          "votes": 3189
+        },
+        {
+          "name": "FEDORA SUTTON-BUTLER",
+          "party": "dem",
+          "votes": 3533
+        },
+        {
+          "name": "MELLISSA HEERMANN",
+          "party": "rep",
+          "votes": 5666
+        },
+        {
+          "name": "ROGER DEGROOT",
+          "party": "rep",
+          "votes": 6045
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-8",
+      "winners": [
+        {
+          "name": "TIM REISCH",
+          "party": "rep"
+        },
+        {
+          "name": "TIM WALBURG",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 18235,
+      "totalVotes": 20193,
+      "demPct": 0,
+      "repPct": 90.3,
+      "candidates": [
+        {
+          "name": "GREG ZIMMERMAN",
+          "party": "lib",
+          "votes": 1958
+        },
+        {
+          "name": "TIM REISCH",
+          "party": "rep",
+          "votes": 8953
+        },
+        {
+          "name": "TIM WALBURG",
+          "party": "rep",
+          "votes": 9282
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-9",
+      "winners": [
+        {
+          "name": "BETHANY SOYE",
+          "party": "rep"
+        },
+        {
+          "name": "TESA SCHWANS",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 4002,
+      "repVotes": 13031,
+      "totalVotes": 17033,
+      "demPct": 23.5,
+      "repPct": 76.5,
+      "candidates": [
+        {
+          "name": "BEVERLY FROSLIE JOHNSON",
+          "party": "dem",
+          "votes": 4002
+        },
+        {
+          "name": "BETHANY SOYE",
+          "party": "rep",
+          "votes": 6472
+        },
+        {
+          "name": "TESA SCHWANS",
+          "party": "rep",
+          "votes": 6559
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-10",
+      "winners": [
+        {
+          "name": "ERIN HEALY",
+          "party": "dem"
+        },
+        {
+          "name": "BOBBI L ANDERA",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 9183,
+      "repVotes": 4234,
+      "totalVotes": 13417,
+      "demPct": 68.4,
+      "repPct": 31.6,
+      "candidates": [
+        {
+          "name": "KAMERON NELSON",
+          "party": "dem",
+          "votes": 4045
+        },
+        {
+          "name": "ERIN HEALY",
+          "party": "dem",
+          "votes": 5138
+        },
+        {
+          "name": "BOBBI L ANDERA",
+          "party": "rep",
+          "votes": 4234
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-11",
+      "winners": [
+        {
+          "name": "KERI K WEEMS",
+          "party": "rep"
+        },
+        {
+          "name": "BRIAN K MULDER",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 8857,
+      "repVotes": 12156,
+      "totalVotes": 21013,
+      "demPct": 42.2,
+      "repPct": 57.8,
+      "candidates": [
+        {
+          "name": "AARON MATSON",
+          "party": "dem",
+          "votes": 4259
+        },
+        {
+          "name": "SONJA MENTZER",
+          "party": "dem",
+          "votes": 4598
+        },
+        {
+          "name": "KERI K WEEMS",
+          "party": "rep",
+          "votes": 5923
+        },
+        {
+          "name": "BRIAN K MULDER",
+          "party": "rep",
+          "votes": 6233
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-12",
+      "winners": [
+        {
+          "name": "AMBER ARLINT",
+          "party": "rep"
+        },
+        {
+          "name": "GREG JAMISON",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 7947,
+      "repVotes": 12218,
+      "totalVotes": 20165,
+      "demPct": 39.4,
+      "repPct": 60.6,
+      "candidates": [
+        {
+          "name": "ERIN ROYER",
+          "party": "dem",
+          "votes": 4413
+        },
+        {
+          "name": "JR ANDERSON",
+          "party": "dem",
+          "votes": 3534
+        },
+        {
+          "name": "AMBER ARLINT",
+          "party": "rep",
+          "votes": 6257
+        },
+        {
+          "name": "GREG JAMISON",
+          "party": "rep",
+          "votes": 5961
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-13",
+      "winners": [
+        {
+          "name": "TONY VENHUIZEN",
+          "party": "rep"
+        },
+        {
+          "name": "JOHN HUGHES",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 15005,
+      "totalVotes": 15005,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "TONY VENHUIZEN",
+          "party": "rep",
+          "votes": 7270
+        },
+        {
+          "name": "JOHN HUGHES",
+          "party": "rep",
+          "votes": 7735
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-14",
+      "winners": [
+        {
+          "name": "TAYLOR RAE REHFELDT",
+          "party": "rep"
+        },
+        {
+          "name": "TONY KAYSER",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 9240,
+      "repVotes": 14216,
+      "totalVotes": 23456,
+      "demPct": 39.4,
+      "repPct": 60.6,
+      "candidates": [
+        {
+          "name": "KEITH BLOCK",
+          "party": "dem",
+          "votes": 4989
+        },
+        {
+          "name": "B.J. MOTLEY",
+          "party": "dem",
+          "votes": 4251
+        },
+        {
+          "name": "TAYLOR RAE REHFELDT",
+          "party": "rep",
+          "votes": 7830
+        },
+        {
+          "name": "TONY KAYSER",
+          "party": "rep",
+          "votes": 6386
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-15",
+      "winners": [
+        {
+          "name": "ERIK MUCKEY",
+          "party": "dem"
+        },
+        {
+          "name": "KADYN WITTMAN",
+          "party": "dem"
+        }
+      ],
+      "demVotes": 8913,
+      "repVotes": 8271,
+      "totalVotes": 17184,
+      "demPct": 51.9,
+      "repPct": 48.1,
+      "candidates": [
+        {
+          "name": "ERIK MUCKEY",
+          "party": "dem",
+          "votes": 4364
+        },
+        {
+          "name": "KADYN WITTMAN",
+          "party": "dem",
+          "votes": 4549
+        },
+        {
+          "name": "JONI TSCHETTER",
+          "party": "rep",
+          "votes": 4355
+        },
+        {
+          "name": "BRAD LINDWURM",
+          "party": "rep",
+          "votes": 3916
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-16",
+      "winners": [
+        {
+          "name": "KARLA J LEMS",
+          "party": "rep"
+        },
+        {
+          "name": "RICHARD VASGAARD",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 2910,
+      "repVotes": 15273,
+      "totalVotes": 18183,
+      "demPct": 16,
+      "repPct": 84,
+      "candidates": [
+        {
+          "name": "MATTHEW CARL NESS",
+          "party": "dem",
+          "votes": 2910
+        },
+        {
+          "name": "KARLA J LEMS",
+          "party": "rep",
+          "votes": 7913
+        },
+        {
+          "name": "RICHARD VASGAARD",
+          "party": "rep",
+          "votes": 7360
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-17",
+      "winners": [
+        {
+          "name": "WILLIAM (BILL) SHORMA",
+          "party": "rep"
+        },
+        {
+          "name": "CHRIS KASSIN",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 4240,
+      "repVotes": 12159,
+      "totalVotes": 16399,
+      "demPct": 25.9,
+      "repPct": 74.1,
+      "candidates": [
+        {
+          "name": "RAY RING",
+          "party": "dem",
+          "votes": 4240
+        },
+        {
+          "name": "WILLIAM (BILL) SHORMA",
+          "party": "rep",
+          "votes": 5479
+        },
+        {
+          "name": "CHRIS KASSIN",
+          "party": "rep",
+          "votes": 6680
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-18",
+      "winners": [
+        {
+          "name": "MIKE STEVENS",
+          "party": "rep"
+        },
+        {
+          "name": "JULIE AUCH",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 6327,
+      "repVotes": 12986,
+      "totalVotes": 19313,
+      "demPct": 32.8,
+      "repPct": 67.2,
+      "candidates": [
+        {
+          "name": "PAUL HARENS",
+          "party": "dem",
+          "votes": 4094
+        },
+        {
+          "name": "SARAH MECHTENBERG",
+          "party": "dem",
+          "votes": 2233
+        },
+        {
+          "name": "MIKE STEVENS",
+          "party": "rep",
+          "votes": 6871
+        },
+        {
+          "name": "JULIE AUCH",
+          "party": "rep",
+          "votes": 6115
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-19",
+      "winners": [
+        {
+          "name": "DREW PETERSON",
+          "party": "rep"
+        },
+        {
+          "name": "JESSICA BAHMULLER",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 14683,
+      "totalVotes": 14683,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "DREW PETERSON",
+          "party": "rep",
+          "votes": 6968
+        },
+        {
+          "name": "JESSICA BAHMULLER",
+          "party": "rep",
+          "votes": 7715
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-20",
+      "winners": [
+        {
+          "name": "JEFF BATHKE",
+          "party": "rep"
+        },
+        {
+          "name": "KALEY NOLZ",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 12966,
+      "totalVotes": 12966,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "JEFF BATHKE",
+          "party": "rep",
+          "votes": 6953
+        },
+        {
+          "name": "KALEY NOLZ",
+          "party": "rep",
+          "votes": 6013
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-21",
+      "winners": [
+        {
+          "name": "JIM HALVERSON",
+          "party": "rep"
+        },
+        {
+          "name": "MARTY OVERWEG",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 13882,
+      "totalVotes": 13882,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "JIM HALVERSON",
+          "party": "rep",
+          "votes": 6685
+        },
+        {
+          "name": "MARTY OVERWEG",
+          "party": "rep",
+          "votes": 7197
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-22",
+      "winners": [
+        {
+          "name": "KEVIN VAN DIEPEN",
+          "party": "rep"
+        },
+        {
+          "name": "LANA GREENFIELD",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 11918,
+      "totalVotes": 11918,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "KEVIN VAN DIEPEN",
+          "party": "rep",
+          "votes": 6021
+        },
+        {
+          "name": "LANA GREENFIELD",
+          "party": "rep",
+          "votes": 5897
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-23",
+      "winners": [
+        {
+          "name": "SCOTT MOORE",
+          "party": "rep"
+        },
+        {
+          "name": "SPENCER GOSCH",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 15389,
+      "totalVotes": 15389,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "SCOTT MOORE",
+          "party": "rep",
+          "votes": 7419
+        },
+        {
+          "name": "SPENCER GOSCH",
+          "party": "rep",
+          "votes": 7970
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-24",
+      "winners": [
+        {
+          "name": "WILL D. MORTENSON",
+          "party": "rep"
+        },
+        {
+          "name": "MIKE WEISGRAM",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 17188,
+      "totalVotes": 17188,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "WILL D. MORTENSON",
+          "party": "rep",
+          "votes": 8893
+        },
+        {
+          "name": "MIKE WEISGRAM",
+          "party": "rep",
+          "votes": 8295
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-25",
+      "winners": [
+        {
+          "name": "LES HEINEMANN",
+          "party": "rep"
+        },
+        {
+          "name": "JON HANSEN",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 15759,
+      "totalVotes": 15759,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "LES HEINEMANN",
+          "party": "rep",
+          "votes": 7479
+        },
+        {
+          "name": "JON HANSEN",
+          "party": "rep",
+          "votes": 8280
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-26A",
+      "winners": [
+        {
+          "name": "ERIC E. EMERY",
+          "party": "dem"
+        }
+      ],
+      "demVotes": 1531,
+      "repVotes": 904,
+      "totalVotes": 2994,
+      "demPct": 51.1,
+      "repPct": 30.2,
+      "candidates": [
+        {
+          "name": "ERIC E. EMERY",
+          "party": "dem",
+          "votes": 1531
+        },
+        {
+          "name": "RON FREDERICK",
+          "party": "rep",
+          "votes": 904
+        },
+        {
+          "name": "WILLIAM CRAIG LAFFERTY",
+          "party": "ind",
+          "votes": 559
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-26B",
+      "winners": [
+        {
+          "name": "REBECCA REIMER",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 2746,
+      "totalVotes": 4577,
+      "demPct": 0,
+      "repPct": 60,
+      "candidates": [
+        {
+          "name": "REBECCA REIMER",
+          "party": "rep",
+          "votes": 2746
+        },
+        {
+          "name": "DAVID REIS",
+          "party": "ind",
+          "votes": 1831
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-27",
+      "winners": [
+        {
+          "name": "PERI POURIER",
+          "party": "dem"
+        },
+        {
+          "name": "LIZ MAY",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 6365,
+      "repVotes": 3716,
+      "totalVotes": 10081,
+      "demPct": 63.1,
+      "repPct": 36.9,
+      "candidates": [
+        {
+          "name": "PERI POURIER",
+          "party": "dem",
+          "votes": 3447
+        },
+        {
+          "name": "ELSIE MEEKS",
+          "party": "dem",
+          "votes": 2918
+        },
+        {
+          "name": "LIZ MAY",
+          "party": "rep",
+          "votes": 3716
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-28A",
+      "winners": [
+        {
+          "name": "JANA HUNT",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 1892,
+      "repVotes": 2562,
+      "totalVotes": 4454,
+      "demPct": 42.5,
+      "repPct": 57.5,
+      "candidates": [
+        {
+          "name": "CARL J. PETERSEN",
+          "party": "dem",
+          "votes": 1892
+        },
+        {
+          "name": "JANA HUNT",
+          "party": "rep",
+          "votes": 2562
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-28B",
+      "winners": [
+        {
+          "name": "TRAVIS ISMAY",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 5039,
+      "totalVotes": 5039,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "TRAVIS ISMAY",
+          "party": "rep",
+          "votes": 5039
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-29",
+      "winners": [
+        {
+          "name": "KATHY RICE",
+          "party": "rep"
+        },
+        {
+          "name": "TERRI JORGENSON",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 13578,
+      "totalVotes": 13578,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "KATHY RICE",
+          "party": "rep",
+          "votes": 6614
+        },
+        {
+          "name": "TERRI JORGENSON",
+          "party": "rep",
+          "votes": 6964
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-30",
+      "winners": [
+        {
+          "name": "TRISH LADNER",
+          "party": "rep"
+        },
+        {
+          "name": "TIM GOODWIN",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 3871,
+      "repVotes": 19791,
+      "totalVotes": 23662,
+      "demPct": 16.4,
+      "repPct": 83.6,
+      "candidates": [
+        {
+          "name": "SUSAN SCHEIRBECK",
+          "party": "dem",
+          "votes": 3871
+        },
+        {
+          "name": "TRISH LADNER",
+          "party": "rep",
+          "votes": 9703
+        },
+        {
+          "name": "TIM GOODWIN",
+          "party": "rep",
+          "votes": 10088
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-31",
+      "winners": [
+        {
+          "name": "SCOTT ODENBACH",
+          "party": "rep"
+        },
+        {
+          "name": "MARY J FITZGERALD",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 16867,
+      "totalVotes": 23902,
+      "demPct": 0,
+      "repPct": 70.6,
+      "candidates": [
+        {
+          "name": "SCOTT ODENBACH",
+          "party": "rep",
+          "votes": 9100
+        },
+        {
+          "name": "MARY J FITZGERALD",
+          "party": "rep",
+          "votes": 7767
+        },
+        {
+          "name": "VICTORIA GREENLEE",
+          "party": "ind",
+          "votes": 3986
+        },
+        {
+          "name": "SHANA MCVICKERS",
+          "party": "ind",
+          "votes": 3049
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-32",
+      "winners": [
+        {
+          "name": "NICOLE UHRE-BALK",
+          "party": "dem"
+        },
+        {
+          "name": "STEVE DUFFY",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 4133,
+      "repVotes": 7658,
+      "totalVotes": 11791,
+      "demPct": 35.1,
+      "repPct": 64.9,
+      "candidates": [
+        {
+          "name": "NICOLE UHRE-BALK",
+          "party": "dem",
+          "votes": 4133
+        },
+        {
+          "name": "STEVE DUFFY",
+          "party": "rep",
+          "votes": 4111
+        },
+        {
+          "name": "BROOK KAUFMAN",
+          "party": "rep",
+          "votes": 3547
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-33",
+      "winners": [
+        {
+          "name": "CURT MASSIE",
+          "party": "rep"
+        },
+        {
+          "name": "PHIL JENSEN",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 14679,
+      "totalVotes": 14679,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "CURT MASSIE",
+          "party": "rep",
+          "votes": 7354
+        },
+        {
+          "name": "PHIL JENSEN",
+          "party": "rep",
+          "votes": 7325
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-34",
+      "winners": [
+        {
+          "name": "MIKE DERBY",
+          "party": "rep"
+        },
+        {
+          "name": "HEATHER BAXTER",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 0,
+      "repVotes": 13486,
+      "totalVotes": 13486,
+      "demPct": 0,
+      "repPct": 100,
+      "candidates": [
+        {
+          "name": "MIKE DERBY",
+          "party": "rep",
+          "votes": 7107
+        },
+        {
+          "name": "HEATHER BAXTER",
+          "party": "rep",
+          "votes": 6379
+        }
+      ]
+    },
+    {
+      "districtId": "sd-hd-35",
+      "winners": [
+        {
+          "name": "TINA L MULALLY",
+          "party": "rep"
+        },
+        {
+          "name": "TONY RANDOLPH",
+          "party": "rep"
+        }
+      ],
+      "demVotes": 7776,
+      "repVotes": 17364,
+      "totalVotes": 25140,
+      "demPct": 30.9,
+      "repPct": 69.1,
+      "candidates": [
+        {
+          "name": "PAT CROMWELL",
+          "party": "dem",
+          "votes": 4004
+        },
+        {
+          "name": "JASON LIND",
+          "party": "dem",
+          "votes": 3772
+        },
+        {
+          "name": "TINA L MULALLY",
+          "party": "rep",
+          "votes": 8586
+        },
+        {
+          "name": "TONY RANDOLPH",
+          "party": "rep",
+          "votes": 8778
+        }
+      ]
+    }
+  ]
+}

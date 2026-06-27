@@ -1,0 +1,1797 @@
+{
+  "districts": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Nebraska Legislative District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66739,
+        "medianAge": 42,
+        "totalPopulation": 38709,
+        "collegePct": 24.92,
+        "renterRatePct": 24.11,
+        "race": {
+          "whitePct": 88.67,
+          "nonHispanicWhitePct": 87.33,
+          "blackPct": 1.46,
+          "asianPct": 0.23,
+          "hispanicPct": 6.16
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-1",
+        "winner": "Robert Hallstrom",
+        "winnerParty": "rep",
+        "totalVotes": 17207,
+        "candidates": [
+          {
+            "name": "Dennis Schaardt",
+            "votes": 8302
+          },
+          {
+            "name": "Robert Hallstrom",
+            "votes": 8905
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Nebraska Legislative District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89425,
+        "medianAge": 41.1,
+        "totalPopulation": 42838,
+        "collegePct": 37.76,
+        "renterRatePct": 20.46,
+        "race": {
+          "whitePct": 89.49,
+          "nonHispanicWhitePct": 88.18,
+          "blackPct": 0.97,
+          "asianPct": 1.32,
+          "hispanicPct": 4.6
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-2",
+        "winner": "Robert Clements",
+        "winnerParty": "rep",
+        "totalVotes": 16378,
+        "candidates": [
+          {
+            "name": "Robert Clements",
+            "votes": 9261
+          },
+          {
+            "name": "Sarah J. Slattery",
+            "votes": 7117
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Nebraska Legislative District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96152,
+        "medianAge": 34.6,
+        "totalPopulation": 40549,
+        "collegePct": 35.81,
+        "renterRatePct": 35.79,
+        "race": {
+          "whitePct": 74.73,
+          "nonHispanicWhitePct": 69.33,
+          "blackPct": 4.1,
+          "asianPct": 2.67,
+          "hispanicPct": 17.34
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-3",
+        "winner": "Victor Rountree",
+        "winnerParty": "ind",
+        "totalVotes": 14819,
+        "candidates": [
+          {
+            "name": "Felix Ungerman",
+            "votes": 7325
+          },
+          {
+            "name": "Victor Rountree",
+            "votes": 7494
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Nebraska Legislative District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 121300,
+        "medianAge": 40.4,
+        "totalPopulation": 40060,
+        "collegePct": 58.63,
+        "renterRatePct": 16.09,
+        "race": {
+          "whitePct": 84.63,
+          "nonHispanicWhitePct": 83.02,
+          "blackPct": 3.7,
+          "asianPct": 4.33,
+          "hispanicPct": 5.45
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-4",
+        "winner": "R. Brad von Gillern",
+        "winnerParty": "rep",
+        "totalVotes": 16618,
+        "candidates": [
+          {
+            "name": "Cindy Maxwell- Ostdiek",
+            "votes": 7908
+          },
+          {
+            "name": "R. Brad von Gillern",
+            "votes": 8710
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Nebraska Legislative District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63894,
+        "medianAge": 31.6,
+        "totalPopulation": 42984,
+        "collegePct": 17.59,
+        "renterRatePct": 34.57,
+        "race": {
+          "whitePct": 53.81,
+          "nonHispanicWhitePct": 43.01,
+          "blackPct": 6.82,
+          "asianPct": 0.87,
+          "hispanicPct": 46.73
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-5",
+        "winner": "Margo R. Juarez",
+        "winnerParty": "dem",
+        "totalVotes": 10885,
+        "candidates": [
+          {
+            "name": "Margo R. Juarez",
+            "votes": 6275
+          },
+          {
+            "name": "Gilbert Ayala",
+            "votes": 4610
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Nebraska Legislative District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71100,
+        "medianAge": 37.3,
+        "totalPopulation": 40491,
+        "collegePct": 50.04,
+        "renterRatePct": 54.38,
+        "race": {
+          "whitePct": 77.45,
+          "nonHispanicWhitePct": 75.51,
+          "blackPct": 7.5,
+          "asianPct": 4.37,
+          "hispanicPct": 8.16
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-6",
+        "winner": "Machaela Cavanaugh",
+        "winnerParty": "dem",
+        "totalVotes": 14329,
+        "candidates": [
+          {
+            "name": "Christian Mirch",
+            "votes": 6360
+          },
+          {
+            "name": "Machaela Cavanaugh",
+            "votes": 7969
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Nebraska Legislative District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54157,
+        "medianAge": 31.4,
+        "totalPopulation": 38406,
+        "collegePct": 26.89,
+        "renterRatePct": 58.48,
+        "race": {
+          "whitePct": 57.27,
+          "nonHispanicWhitePct": 41.39,
+          "blackPct": 5.92,
+          "asianPct": 1.85,
+          "hispanicPct": 47.85
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-7",
+        "winner": "Dunixi Guereca",
+        "winnerParty": "dem",
+        "totalVotes": 7793,
+        "candidates": [
+          {
+            "name": "Dunixi Guereca",
+            "votes": 4497
+          },
+          {
+            "name": "Tim C. Pendrell",
+            "votes": 3296
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Nebraska Legislative District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69213,
+        "medianAge": 36.5,
+        "totalPopulation": 42357,
+        "collegePct": 44.07,
+        "renterRatePct": 37.37,
+        "race": {
+          "whitePct": 73.73,
+          "nonHispanicWhitePct": 70.35,
+          "blackPct": 12.23,
+          "asianPct": 4.58,
+          "hispanicPct": 6.93
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-8",
+        "winner": "Megan Hunt",
+        "winnerParty": "ind",
+        "totalVotes": 13438,
+        "candidates": [
+          {
+            "name": "Megan Hunt",
+            "votes": 9322
+          },
+          {
+            "name": "Marilyn Arant Asher",
+            "votes": 4116
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Nebraska Legislative District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59333,
+        "medianAge": 29.8,
+        "totalPopulation": 39772,
+        "collegePct": 51.14,
+        "renterRatePct": 60.95,
+        "race": {
+          "whitePct": 77.21,
+          "nonHispanicWhitePct": 72.07,
+          "blackPct": 8.47,
+          "asianPct": 4.3,
+          "hispanicPct": 11.65
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-9",
+        "winner": "John Cavanaugh Jr.",
+        "winnerParty": "dem",
+        "totalVotes": 14357,
+        "candidates": [
+          {
+            "name": "Julia K. Palzer",
+            "votes": 4287
+          },
+          {
+            "name": "John Cavanaugh Jr.",
+            "votes": 10070
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Nebraska Legislative District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91239,
+        "medianAge": 34.9,
+        "totalPopulation": 42600,
+        "collegePct": 42.83,
+        "renterRatePct": 32.97,
+        "race": {
+          "whitePct": 74.33,
+          "nonHispanicWhitePct": 71.87,
+          "blackPct": 11.24,
+          "asianPct": 3.42,
+          "hispanicPct": 6.98
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-10",
+        "winner": "Wendy DeBoer",
+        "winnerParty": "dem",
+        "totalVotes": 13317,
+        "candidates": [
+          {
+            "name": "Wendy DeBoer",
+            "votes": 7120
+          },
+          {
+            "name": "Lou Ann Goding",
+            "votes": 6197
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Nebraska Legislative District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41121,
+        "medianAge": 30.5,
+        "totalPopulation": 40158,
+        "collegePct": 15.7,
+        "renterRatePct": 60.26,
+        "race": {
+          "whitePct": 28.13,
+          "nonHispanicWhitePct": 22.57,
+          "blackPct": 47.05,
+          "asianPct": 4.49,
+          "hispanicPct": 19.49
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-11",
+        "winner": "Terrell McKinney",
+        "winnerParty": "dem",
+        "totalVotes": 9398,
+        "candidates": [
+          {
+            "name": "Terrell McKinney",
+            "votes": 9025
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Nebraska Legislative District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70379,
+        "medianAge": 37.1,
+        "totalPopulation": 36740,
+        "collegePct": 35.34,
+        "renterRatePct": 46.98,
+        "race": {
+          "whitePct": 78.36,
+          "nonHispanicWhitePct": 73.67,
+          "blackPct": 2.49,
+          "asianPct": 4.26,
+          "hispanicPct": 15.37
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-12",
+        "winner": "Merv Riepe",
+        "winnerParty": "rep",
+        "totalVotes": 11360,
+        "candidates": [
+          {
+            "name": "Robin Richards",
+            "votes": 5418
+          },
+          {
+            "name": "Merv Riepe",
+            "votes": 5942
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Nebraska Legislative District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59885,
+        "medianAge": 36.2,
+        "totalPopulation": 41179,
+        "collegePct": 26.01,
+        "renterRatePct": 36.52,
+        "race": {
+          "whitePct": 51.86,
+          "nonHispanicWhitePct": 49.54,
+          "blackPct": 25.79,
+          "asianPct": 10.21,
+          "hispanicPct": 8.91
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-13",
+        "winner": "Ashlei Spivey",
+        "winnerParty": "dem",
+        "totalVotes": 14463,
+        "candidates": [
+          {
+            "name": "Nick Batter",
+            "votes": 7156
+          },
+          {
+            "name": "Ashlei Spivey",
+            "votes": 7307
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Nebraska Legislative District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92828,
+        "medianAge": 37.6,
+        "totalPopulation": 40787,
+        "collegePct": 42.26,
+        "renterRatePct": 36.59,
+        "race": {
+          "whitePct": 84.48,
+          "nonHispanicWhitePct": 80.68,
+          "blackPct": 3.93,
+          "asianPct": 1.89,
+          "hispanicPct": 10.1
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-14",
+        "winner": "John Arch",
+        "winnerParty": "rep",
+        "totalVotes": 12130,
+        "candidates": [
+          {
+            "name": "John Arch",
+            "votes": 7606
+          },
+          {
+            "name": "Cori Villegas",
+            "votes": 4524
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Nebraska Legislative District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74274,
+        "medianAge": 39.6,
+        "totalPopulation": 41824,
+        "collegePct": 25.06,
+        "renterRatePct": 32.12,
+        "race": {
+          "whitePct": 87.04,
+          "nonHispanicWhitePct": 80.49,
+          "blackPct": 0.56,
+          "asianPct": 0.46,
+          "hispanicPct": 15.47
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-15",
+        "winner": "Dave Wordekemper",
+        "winnerParty": "rep",
+        "totalVotes": 17382,
+        "candidates": [
+          {
+            "name": "Dave Wordekemper",
+            "votes": 9164
+          },
+          {
+            "name": "Roxie Kracl",
+            "votes": 8218
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Nebraska Legislative District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79086,
+        "medianAge": 42.4,
+        "totalPopulation": 38242,
+        "collegePct": 31.26,
+        "renterRatePct": 21.79,
+        "race": {
+          "whitePct": 92.43,
+          "nonHispanicWhitePct": 91.25,
+          "blackPct": 0.35,
+          "asianPct": 0.31,
+          "hispanicPct": 5.19
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-16",
+        "winner": "Ben Hansen",
+        "winnerParty": "rep",
+        "totalVotes": 13867,
+        "candidates": [
+          {
+            "name": "Ben Hansen",
+            "votes": 9744
+          },
+          {
+            "name": "Connie L. Petersen",
+            "votes": 4123
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Nebraska Legislative District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68461,
+        "medianAge": 31.7,
+        "totalPopulation": 39783,
+        "collegePct": 19.4,
+        "renterRatePct": 34.61,
+        "race": {
+          "whitePct": 57.15,
+          "nonHispanicWhitePct": 53.46,
+          "blackPct": 4.63,
+          "asianPct": 1.77,
+          "hispanicPct": 27.14
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-17",
+        "winner": "Glen Meyer",
+        "winnerParty": "rep",
+        "totalVotes": 11552,
+        "candidates": [
+          {
+            "name": "Glen Meyer",
+            "votes": 6042
+          },
+          {
+            "name": "Mike Albrecht",
+            "votes": 5510
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Nebraska Legislative District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107195,
+        "medianAge": 35.2,
+        "totalPopulation": 42019,
+        "collegePct": 47.3,
+        "renterRatePct": 18.9,
+        "race": {
+          "whitePct": 72.29,
+          "nonHispanicWhitePct": 70.44,
+          "blackPct": 11.99,
+          "asianPct": 4.44,
+          "hispanicPct": 6.69
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-18",
+        "winner": "Christy Armendariz",
+        "winnerParty": "rep",
+        "totalVotes": 13214,
+        "candidates": [
+          {
+            "name": "Christy Armendariz",
+            "votes": 7430
+          },
+          {
+            "name": "Michael Young",
+            "votes": 5784
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Nebraska Legislative District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65234,
+        "medianAge": 37.2,
+        "totalPopulation": 39630,
+        "collegePct": 23.73,
+        "renterRatePct": 31.22,
+        "race": {
+          "whitePct": 82.85,
+          "nonHispanicWhitePct": 79.86,
+          "blackPct": 0.89,
+          "asianPct": 1.11,
+          "hispanicPct": 14.43
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-19",
+        "winner": "Rob Dover",
+        "winnerParty": "rep",
+        "totalVotes": 16477,
+        "candidates": [
+          {
+            "name": "Rob Dover",
+            "votes": 8992
+          },
+          {
+            "name": "Jeanne M. Reigle",
+            "votes": 7485
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Nebraska Legislative District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86537,
+        "medianAge": 39.7,
+        "totalPopulation": 42777,
+        "collegePct": 49.12,
+        "renterRatePct": 33.66,
+        "race": {
+          "whitePct": 84.85,
+          "nonHispanicWhitePct": 82.6,
+          "blackPct": 4.3,
+          "asianPct": 2.45,
+          "hispanicPct": 7.91
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-20",
+        "winner": "John A. Fredrickson",
+        "winnerParty": "dem",
+        "totalVotes": 16196,
+        "candidates": [
+          {
+            "name": "Stu Dornan",
+            "votes": 8057
+          },
+          {
+            "name": "John A. Fredrickson",
+            "votes": 8139
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Nebraska Legislative District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86732,
+        "medianAge": 33.2,
+        "totalPopulation": 40744,
+        "collegePct": 36.64,
+        "renterRatePct": 30.3,
+        "race": {
+          "whitePct": 83.55,
+          "nonHispanicWhitePct": 78.54,
+          "blackPct": 3.82,
+          "asianPct": 4.36,
+          "hispanicPct": 8.64
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-21",
+        "winner": "Beau Ballard",
+        "winnerParty": "rep",
+        "totalVotes": 17198,
+        "candidates": [
+          {
+            "name": "Seth Derner",
+            "votes": 7689
+          },
+          {
+            "name": "Beau Ballard",
+            "votes": 9509
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Nebraska Legislative District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72708,
+        "medianAge": 39.1,
+        "totalPopulation": 38646,
+        "collegePct": 23.92,
+        "renterRatePct": 26.72,
+        "race": {
+          "whitePct": 80.67,
+          "nonHispanicWhitePct": 75.7,
+          "blackPct": 0.72,
+          "asianPct": 0.32,
+          "hispanicPct": 20.76
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-22",
+        "winner": "Mike Moser",
+        "winnerParty": "rep",
+        "totalVotes": 11916,
+        "candidates": [
+          {
+            "name": "Mike Moser",
+            "votes": 9561
+          },
+          {
+            "name": "Roy M. Zach",
+            "votes": 2355
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Nebraska Legislative District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82868,
+        "medianAge": 39.2,
+        "totalPopulation": 39823,
+        "collegePct": 25.91,
+        "renterRatePct": 20.64,
+        "race": {
+          "whitePct": 82.54,
+          "nonHispanicWhitePct": 80.22,
+          "blackPct": 1.32,
+          "asianPct": 0.19,
+          "hispanicPct": 14.84
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-23",
+        "winner": "Jared Storm",
+        "winnerParty": "rep",
+        "totalVotes": 17442,
+        "candidates": [
+          {
+            "name": "Dennis C. Fujan",
+            "votes": 7873
+          },
+          {
+            "name": "Jared Storm",
+            "votes": 9569
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Nebraska Legislative District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77847,
+        "medianAge": 39.3,
+        "totalPopulation": 38968,
+        "collegePct": 26.07,
+        "renterRatePct": 24.53,
+        "race": {
+          "whitePct": 92.56,
+          "nonHispanicWhitePct": 91.22,
+          "blackPct": 0.79,
+          "asianPct": 0.42,
+          "hispanicPct": 4.75
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-24",
+        "winner": "Jana Hughes",
+        "winnerParty": "rep",
+        "totalVotes": 13710,
+        "candidates": [
+          {
+            "name": "Jana Hughes",
+            "votes": 7551
+          },
+          {
+            "name": "Patrick Hotovy",
+            "votes": 6159
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Nebraska Legislative District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111939,
+        "medianAge": 40,
+        "totalPopulation": 41466,
+        "collegePct": 60.25,
+        "renterRatePct": 22.48,
+        "race": {
+          "whitePct": 90.78,
+          "nonHispanicWhitePct": 88.38,
+          "blackPct": 1.27,
+          "asianPct": 2.86,
+          "hispanicPct": 3.99
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-25",
+        "winner": "Carolyn Bosn",
+        "winnerParty": "rep",
+        "totalVotes": 23971,
+        "candidates": [
+          {
+            "name": "Carolyn Bosn",
+            "votes": 12707
+          },
+          {
+            "name": "Nicki Behmer Popp",
+            "votes": 11264
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Nebraska Legislative District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60383,
+        "medianAge": 31.5,
+        "totalPopulation": 40908,
+        "collegePct": 31.46,
+        "renterRatePct": 47.81,
+        "race": {
+          "whitePct": 82.77,
+          "nonHispanicWhitePct": 79.36,
+          "blackPct": 3.98,
+          "asianPct": 3.66,
+          "hispanicPct": 7.94
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-26",
+        "winner": "George C. Dungan III",
+        "winnerParty": "dem",
+        "totalVotes": 11696,
+        "candidates": [
+          {
+            "name": "George C. Dungan III",
+            "votes": 5960
+          },
+          {
+            "name": "Russ Barger",
+            "votes": 5736
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Nebraska Legislative District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75119,
+        "medianAge": 31.8,
+        "totalPopulation": 41549,
+        "collegePct": 33.09,
+        "renterRatePct": 45.02,
+        "race": {
+          "whitePct": 77.84,
+          "nonHispanicWhitePct": 72.03,
+          "blackPct": 5.05,
+          "asianPct": 3.6,
+          "hispanicPct": 13.98
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-27",
+        "winner": "Jason Prokop",
+        "winnerParty": "dem",
+        "totalVotes": 13703,
+        "candidates": [
+          {
+            "name": "Jason Prokop",
+            "votes": 7201
+          },
+          {
+            "name": "Dawn Liphardt",
+            "votes": 6502
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Nebraska Legislative District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48745,
+        "medianAge": 35.6,
+        "totalPopulation": 38299,
+        "collegePct": 37.49,
+        "renterRatePct": 60.27,
+        "race": {
+          "whitePct": 78.4,
+          "nonHispanicWhitePct": 75,
+          "blackPct": 5.02,
+          "asianPct": 4.86,
+          "hispanicPct": 9.71
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-28",
+        "winner": "Jane Raybould",
+        "winnerParty": "dem",
+        "totalVotes": 11856,
+        "candidates": [
+          {
+            "name": "Jane Raybould",
+            "votes": 7879
+          },
+          {
+            "name": "Roy A. Christensen",
+            "votes": 3977
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Nebraska Legislative District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72170,
+        "medianAge": 38.8,
+        "totalPopulation": 39643,
+        "collegePct": 43.98,
+        "renterRatePct": 34.66,
+        "race": {
+          "whitePct": 86.36,
+          "nonHispanicWhitePct": 84.15,
+          "blackPct": 1.79,
+          "asianPct": 1.8,
+          "hispanicPct": 6.53
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-29",
+        "winner": "Eliot Bostar",
+        "winnerParty": "dem",
+        "totalVotes": 14084,
+        "candidates": [
+          {
+            "name": "Eliot Bostar",
+            "votes": 14084
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Nebraska Legislative District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82774,
+        "medianAge": 40.6,
+        "totalPopulation": 41036,
+        "collegePct": 36.76,
+        "renterRatePct": 27.4,
+        "race": {
+          "whitePct": 91.98,
+          "nonHispanicWhitePct": 90.45,
+          "blackPct": 1.05,
+          "asianPct": 2.24,
+          "hispanicPct": 3.14
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-30",
+        "winner": "Myron Dorn",
+        "winnerParty": "rep",
+        "totalVotes": 12603,
+        "candidates": [
+          {
+            "name": "Myron Dorn",
+            "votes": 12603
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Nebraska Legislative District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 124139,
+        "medianAge": 39.3,
+        "totalPopulation": 40608,
+        "collegePct": 53.16,
+        "renterRatePct": 18.5,
+        "race": {
+          "whitePct": 84.14,
+          "nonHispanicWhitePct": 82.76,
+          "blackPct": 2.43,
+          "asianPct": 4.49,
+          "hispanicPct": 6.81
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-31",
+        "winner": "Kathleen Kauth",
+        "winnerParty": "rep",
+        "totalVotes": 19728,
+        "candidates": [
+          {
+            "name": "Kathleen Kauth",
+            "votes": 10664
+          },
+          {
+            "name": "Mary Ann Folchert",
+            "votes": 9064
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Nebraska Legislative District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76300,
+        "medianAge": 41.9,
+        "totalPopulation": 39192,
+        "collegePct": 23.89,
+        "renterRatePct": 22.4,
+        "race": {
+          "whitePct": 85.98,
+          "nonHispanicWhitePct": 82.39,
+          "blackPct": 0.34,
+          "asianPct": 1.14,
+          "hispanicPct": 13.11
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-32",
+        "winner": "Tom Brandt",
+        "winnerParty": "rep",
+        "totalVotes": 11253,
+        "candidates": [
+          {
+            "name": "Tom Brandt",
+            "votes": 11253
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Nebraska Legislative District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67937,
+        "medianAge": 39,
+        "totalPopulation": 40330,
+        "collegePct": 29.47,
+        "renterRatePct": 28.86,
+        "race": {
+          "whitePct": 87.22,
+          "nonHispanicWhitePct": 85.47,
+          "blackPct": 1.07,
+          "asianPct": 0.9,
+          "hispanicPct": 10.54
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-33",
+        "winner": "Dan Lonowski",
+        "winnerParty": "rep",
+        "totalVotes": 17642,
+        "candidates": [
+          {
+            "name": "Michelle R. Smith",
+            "votes": 5767
+          },
+          {
+            "name": "Dan Lonowski",
+            "votes": 11875
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Nebraska Legislative District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75518,
+        "medianAge": 41.7,
+        "totalPopulation": 37232,
+        "collegePct": 26.98,
+        "renterRatePct": 24.47,
+        "race": {
+          "whitePct": 90.33,
+          "nonHispanicWhitePct": 87.87,
+          "blackPct": 0.6,
+          "asianPct": 0.83,
+          "hispanicPct": 8.23
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-34",
+        "winner": "Loren Lippincott",
+        "winnerParty": "rep",
+        "totalVotes": 12987,
+        "candidates": [
+          {
+            "name": "Loren Lippincott",
+            "votes": 8788
+          },
+          {
+            "name": "Michael Reimers",
+            "votes": 4199
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Nebraska Legislative District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59027,
+        "medianAge": 33.6,
+        "totalPopulation": 38308,
+        "collegePct": 16.35,
+        "renterRatePct": 42.38,
+        "race": {
+          "whitePct": 56.05,
+          "nonHispanicWhitePct": 48.6,
+          "blackPct": 5.3,
+          "asianPct": 1.27,
+          "hispanicPct": 43.24
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-35",
+        "winner": "Dan Quick",
+        "winnerParty": "dem",
+        "totalVotes": 9859,
+        "candidates": [
+          {
+            "name": "Dan Quick",
+            "votes": 4997
+          },
+          {
+            "name": "Ray Aguilar",
+            "votes": 4862
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Nebraska Legislative District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 129992,
+        "medianAge": 34.7,
+        "totalPopulation": 43127,
+        "collegePct": 52.42,
+        "renterRatePct": 14.24,
+        "race": {
+          "whitePct": 88.12,
+          "nonHispanicWhitePct": 86.04,
+          "blackPct": 2.28,
+          "asianPct": 2.5,
+          "hispanicPct": 4.25
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-36",
+        "winner": "Rick Holdcroft",
+        "winnerParty": "rep",
+        "totalVotes": 14632,
+        "candidates": [
+          {
+            "name": "Angie Lauritsen",
+            "votes": 6444
+          },
+          {
+            "name": "Rick Holdcroft",
+            "votes": 8188
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Nebraska Legislative District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71515,
+        "medianAge": 33.9,
+        "totalPopulation": 40449,
+        "collegePct": 35.81,
+        "renterRatePct": 38.11,
+        "race": {
+          "whitePct": 85.68,
+          "nonHispanicWhitePct": 82.36,
+          "blackPct": 1.1,
+          "asianPct": 1.97,
+          "hispanicPct": 11.96
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-37",
+        "winner": "Stanley Clouse",
+        "winnerParty": "rep",
+        "totalVotes": 16635,
+        "candidates": [
+          {
+            "name": "Stanley Clouse",
+            "votes": 9776
+          },
+          {
+            "name": "Lana Peister",
+            "votes": 6859
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Nebraska Legislative District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63169,
+        "medianAge": 43.8,
+        "totalPopulation": 41032,
+        "collegePct": 24.31,
+        "renterRatePct": 23.82,
+        "race": {
+          "whitePct": 92.25,
+          "nonHispanicWhitePct": 90.28,
+          "blackPct": 0.58,
+          "asianPct": 0.14,
+          "hispanicPct": 5.97
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-38",
+        "winner": "Dave Murman",
+        "winnerParty": "rep",
+        "totalVotes": 14399,
+        "candidates": [
+          {
+            "name": "Tyler R. Cappel",
+            "votes": 5031
+          },
+          {
+            "name": "Dave Murman",
+            "votes": 9368
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Nebraska Legislative District 39",
+      "census": {
+        "censusName": "State Senate District 39 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 144891,
+        "medianAge": 37.5,
+        "totalPopulation": 44127,
+        "collegePct": 63,
+        "renterRatePct": 23.53,
+        "race": {
+          "whitePct": 87.5,
+          "nonHispanicWhitePct": 86.19,
+          "blackPct": 1.11,
+          "asianPct": 4.82,
+          "hispanicPct": 3.93
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-39",
+        "winner": "Tony Sorrentino",
+        "winnerParty": "rep",
+        "totalVotes": 22743,
+        "candidates": [
+          {
+            "name": "Tony Sorrentino",
+            "votes": 11847
+          },
+          {
+            "name": "Allison Heimes",
+            "votes": 10896
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Nebraska Legislative District 40",
+      "census": {
+        "censusName": "State Senate District 40 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67610,
+        "medianAge": 42.8,
+        "totalPopulation": 39879,
+        "collegePct": 23.27,
+        "renterRatePct": 23.35,
+        "race": {
+          "whitePct": 92.89,
+          "nonHispanicWhitePct": 91.67,
+          "blackPct": 0.43,
+          "asianPct": 0.46,
+          "hispanicPct": 3.63
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-40",
+        "winner": "Barry DeKay",
+        "winnerParty": "rep",
+        "totalVotes": 15980,
+        "candidates": [
+          {
+            "name": "Barry DeKay",
+            "votes": 9486
+          },
+          {
+            "name": "Keith F. Kube",
+            "votes": 6494
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Nebraska Legislative District 41",
+      "census": {
+        "censusName": "State Senate District 41 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73138,
+        "medianAge": 42,
+        "totalPopulation": 39163,
+        "collegePct": 23.66,
+        "renterRatePct": 22.09,
+        "race": {
+          "whitePct": 94.06,
+          "nonHispanicWhitePct": 92.27,
+          "blackPct": 0.29,
+          "asianPct": 0.16,
+          "hispanicPct": 4.72
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-41",
+        "winner": "Daniel D. McKeon",
+        "winnerParty": "rep",
+        "totalVotes": 17892,
+        "candidates": [
+          {
+            "name": "Daniel D. McKeon",
+            "votes": 9311
+          },
+          {
+            "name": "Ethan Clark",
+            "votes": 8581
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Nebraska Legislative District 42",
+      "census": {
+        "censusName": "State Senate District 42 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64028,
+        "medianAge": 42.6,
+        "totalPopulation": 37588,
+        "collegePct": 20.72,
+        "renterRatePct": 34.95,
+        "race": {
+          "whitePct": 89.74,
+          "nonHispanicWhitePct": 87.2,
+          "blackPct": 0.85,
+          "asianPct": 0.76,
+          "hispanicPct": 8.35
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-42",
+        "winner": "Mike Jacobson",
+        "winnerParty": "rep",
+        "totalVotes": 13365,
+        "candidates": [
+          {
+            "name": "Chris Bruns",
+            "votes": 6497
+          },
+          {
+            "name": "Mike Jacobson",
+            "votes": 6868
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Nebraska Legislative District 43",
+      "census": {
+        "censusName": "State Senate District 43 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58590,
+        "medianAge": 42.8,
+        "totalPopulation": 38745,
+        "collegePct": 26.55,
+        "renterRatePct": 30.28,
+        "race": {
+          "whitePct": 89.94,
+          "nonHispanicWhitePct": 88.82,
+          "blackPct": 0.69,
+          "asianPct": 0.58,
+          "hispanicPct": 4.04
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-43",
+        "winner": "Tanya Storer",
+        "winnerParty": "rep",
+        "totalVotes": 18972,
+        "candidates": [
+          {
+            "name": "Tanya Storer",
+            "votes": 11519
+          },
+          {
+            "name": "Tony Tangwall",
+            "votes": 7453
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Nebraska Legislative District 44",
+      "census": {
+        "censusName": "State Senate District 44 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64606,
+        "medianAge": 38.8,
+        "totalPopulation": 39299,
+        "collegePct": 20.32,
+        "renterRatePct": 30.4,
+        "race": {
+          "whitePct": 73.64,
+          "nonHispanicWhitePct": 67.43,
+          "blackPct": 4.4,
+          "asianPct": 0.61,
+          "hispanicPct": 25.31
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-44",
+        "winner": "Teresa J. Ibach",
+        "winnerParty": "rep",
+        "totalVotes": 9708,
+        "candidates": [
+          {
+            "name": "Teresa J. Ibach",
+            "votes": 9708
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Nebraska Legislative District 45",
+      "census": {
+        "censusName": "State Senate District 45 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81373,
+        "medianAge": 35.3,
+        "totalPopulation": 37748,
+        "collegePct": 33.61,
+        "renterRatePct": 36.96,
+        "race": {
+          "whitePct": 73.38,
+          "nonHispanicWhitePct": 66.28,
+          "blackPct": 8.03,
+          "asianPct": 2.91,
+          "hispanicPct": 17.07
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-45",
+        "winner": "Rita Sanders",
+        "winnerParty": "rep",
+        "totalVotes": 15249,
+        "candidates": [
+          {
+            "name": "Rita Sanders",
+            "votes": 8062
+          },
+          {
+            "name": "Sarah F. Centineo",
+            "votes": 7187
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Nebraska Legislative District 46",
+      "census": {
+        "censusName": "State Senate District 46 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53615,
+        "medianAge": 24.1,
+        "totalPopulation": 38893,
+        "collegePct": 30.7,
+        "renterRatePct": 63.26,
+        "race": {
+          "whitePct": 69.59,
+          "nonHispanicWhitePct": 64.7,
+          "blackPct": 8.15,
+          "asianPct": 8.56,
+          "hispanicPct": 11.39
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-46",
+        "winner": "Danielle Conrad",
+        "winnerParty": "dem",
+        "totalVotes": 6111,
+        "candidates": [
+          {
+            "name": "James Michael Bowers",
+            "votes": 2965
+          },
+          {
+            "name": "Danielle Conrad",
+            "votes": 3146
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Nebraska Legislative District 47",
+      "census": {
+        "censusName": "State Senate District 47 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60687,
+        "medianAge": 43.8,
+        "totalPopulation": 38932,
+        "collegePct": 21.66,
+        "renterRatePct": 27.62,
+        "race": {
+          "whitePct": 88.59,
+          "nonHispanicWhitePct": 85.18,
+          "blackPct": 1.75,
+          "asianPct": 0.73,
+          "hispanicPct": 9.76
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-47",
+        "winner": "Paul E. Strommen",
+        "winnerParty": "rep",
+        "totalVotes": 15883,
+        "candidates": [
+          {
+            "name": "Paul E. Strommen",
+            "votes": 12253
+          },
+          {
+            "name": "Larry L.S. Bolinger",
+            "votes": 3630
+          }
+        ],
+        "electionYear": 2024
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Nebraska Legislative District 48",
+      "census": {
+        "censusName": "State Senate District 48 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60911,
+        "medianAge": 40.6,
+        "totalPopulation": 39942,
+        "collegePct": 24.97,
+        "renterRatePct": 31.23,
+        "race": {
+          "whitePct": 80.55,
+          "nonHispanicWhitePct": 72.93,
+          "blackPct": 0.62,
+          "asianPct": 0.64,
+          "hispanicPct": 21.98
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-48",
+        "winner": "Brian Hardin",
+        "winnerParty": "rep",
+        "totalVotes": 10597,
+        "candidates": [
+          {
+            "name": "Don L. Lease II",
+            "votes": 5071
+          },
+          {
+            "name": "Brian Hardin",
+            "votes": 5526
+          }
+        ],
+        "electionYear": 2022
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Nebraska Legislative District 49",
+      "census": {
+        "censusName": "State Senate District 49 (2022); Nebraska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111231,
+        "medianAge": 35.4,
+        "totalPopulation": 38345,
+        "collegePct": 46.51,
+        "renterRatePct": 19.78,
+        "race": {
+          "whitePct": 87.25,
+          "nonHispanicWhitePct": 84.97,
+          "blackPct": 1.96,
+          "asianPct": 4.44,
+          "hispanicPct": 5.96
+        }
+      },
+      "election": {
+        "districtId": "ne-ld-49",
+        "winner": "Bob Andersen",
+        "winnerParty": "rep",
+        "totalVotes": 21402,
+        "candidates": [
+          {
+            "name": "Bob Andersen",
+            "votes": 11155
+          },
+          {
+            "name": "Jen Day",
+            "votes": 10247
+          }
+        ],
+        "electionYear": 2024
+      }
+    }
+  }
+}

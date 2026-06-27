@@ -1,0 +1,4110 @@
+{
+  "house": {
+    "1": {
+      "district": 1,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Jeff Farnan",
+          "party": "Republican",
+          "votes": 15770
+        }
+      ],
+      "winner": "Jeff Farnan",
+      "winner_party": "Republican",
+      "winner_votes": 15770,
+      "total_votes": 15770,
+      "winner_pct": 100
+    },
+    "2": {
+      "district": 2,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Mazzie Christensen",
+          "party": "Republican",
+          "votes": 15873
+        }
+      ],
+      "winner": "Mazzie Christensen",
+      "winner_party": "Republican",
+      "winner_votes": 15873,
+      "total_votes": 15873,
+      "winner_pct": 100
+    },
+    "3": {
+      "district": 3,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Danny Busick",
+          "party": "Republican",
+          "votes": 13811
+        }
+      ],
+      "winner": "Danny Busick",
+      "winner_party": "Republican",
+      "winner_votes": 13811,
+      "total_votes": 13811,
+      "winner_pct": 100
+    },
+    "4": {
+      "district": 4,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Greg Sharpe",
+          "party": "Republican",
+          "votes": 14066
+        },
+        {
+          "name": "Melissa Jo Viloria",
+          "party": "Democratic",
+          "votes": 2916
+        }
+      ],
+      "winner": "Greg Sharpe",
+      "winner_party": "Republican",
+      "winner_votes": 14066,
+      "total_votes": 16982,
+      "winner_pct": 82.8
+    },
+    "5": {
+      "district": 5,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Louis Riggs",
+          "party": "Republican",
+          "votes": 16446
+        }
+      ],
+      "winner": "Louis Riggs",
+      "winner_party": "Republican",
+      "winner_votes": 16446,
+      "total_votes": 16446,
+      "winner_pct": 100
+    },
+    "6": {
+      "district": 6,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Ed Lewis",
+          "party": "Republican",
+          "votes": 13234
+        },
+        {
+          "name": "John Akins",
+          "party": "Democratic",
+          "votes": 3622
+        }
+      ],
+      "winner": "Ed Lewis",
+      "winner_party": "Republican",
+      "winner_votes": 13234,
+      "total_votes": 16856,
+      "winner_pct": 78.5
+    },
+    "7": {
+      "district": 7,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Peggy McGaugh",
+          "party": "Republican",
+          "votes": 14814
+        },
+        {
+          "name": "Terrence Fiala",
+          "party": "Democratic",
+          "votes": 3396
+        }
+      ],
+      "winner": "Peggy McGaugh",
+      "winner_party": "Republican",
+      "winner_votes": 14814,
+      "total_votes": 18210,
+      "winner_pct": 81.4
+    },
+    "8": {
+      "district": 8,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Josh Hurlbert",
+          "party": "Republican",
+          "votes": 15167
+        },
+        {
+          "name": "Sandy Van Wagner",
+          "party": "Democratic",
+          "votes": 6946
+        }
+      ],
+      "winner": "Josh Hurlbert",
+      "winner_party": "Republican",
+      "winner_votes": 15167,
+      "total_votes": 22113,
+      "winner_pct": 68.6
+    },
+    "9": {
+      "district": 9,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Dean A VanSchoiack",
+          "party": "Republican",
+          "votes": 15866
+        }
+      ],
+      "winner": "Dean A VanSchoiack",
+      "winner_party": "Republican",
+      "winner_votes": 15866,
+      "total_votes": 15866,
+      "winner_pct": 100
+    },
+    "10": {
+      "district": 10,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Bill Falkner",
+          "party": "Republican",
+          "votes": 8154
+        },
+        {
+          "name": "Andrew Gibson",
+          "party": "Democratic",
+          "votes": 5009
+        }
+      ],
+      "winner": "Bill Falkner",
+      "winner_party": "Republican",
+      "winner_votes": 8154,
+      "total_votes": 13163,
+      "winner_pct": 61.9
+    },
+    "11": {
+      "district": 11,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Brenda Shields",
+          "party": "Republican",
+          "votes": 14119
+        }
+      ],
+      "winner": "Brenda Shields",
+      "winner_party": "Republican",
+      "winner_votes": 14119,
+      "total_votes": 14119,
+      "winner_pct": 100
+    },
+    "12": {
+      "district": 12,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Mike Jones",
+          "party": "Republican",
+          "votes": 10131
+        },
+        {
+          "name": "Jamie J. Johnson",
+          "party": "Democratic",
+          "votes": 9952
+        }
+      ],
+      "winner": "Mike Jones",
+      "winner_party": "Republican",
+      "winner_votes": 10131,
+      "total_votes": 20083,
+      "winner_pct": 50.4
+    },
+    "13": {
+      "district": 13,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Sean Pouche",
+          "party": "Republican",
+          "votes": 14444
+        },
+        {
+          "name": "Andrea Denning",
+          "party": "Democratic",
+          "votes": 7271
+        }
+      ],
+      "winner": "Sean Pouche",
+      "winner_party": "Republican",
+      "winner_votes": 14444,
+      "total_votes": 21715,
+      "winner_pct": 66.5
+    },
+    "14": {
+      "district": 14,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Ashley Aune",
+          "party": "Democratic",
+          "votes": 10959
+        },
+        {
+          "name": "Frank Pendleton",
+          "party": "Republican",
+          "votes": 9132
+        }
+      ],
+      "winner": "Ashley Aune",
+      "winner_party": "Democratic",
+      "winner_votes": 10959,
+      "total_votes": 20091,
+      "winner_pct": 54.5
+    },
+    "15": {
+      "district": 15,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Kenneth Jamison",
+          "party": "Democratic",
+          "votes": 9618
+        },
+        {
+          "name": "Mike Jones",
+          "party": "Republican",
+          "votes": 8543
+        }
+      ],
+      "winner": "Kenneth Jamison",
+      "winner_party": "Democratic",
+      "winner_votes": 9618,
+      "total_votes": 18161,
+      "winner_pct": 53
+    },
+    "16": {
+      "district": 16,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Chris Brown",
+          "party": "Republican",
+          "votes": 11001
+        },
+        {
+          "name": "Gloria Young",
+          "party": "Democratic",
+          "votes": 8750
+        }
+      ],
+      "winner": "Chris Brown",
+      "winner_party": "Republican",
+      "winner_votes": 11001,
+      "total_votes": 19751,
+      "winner_pct": 55.7
+    },
+    "17": {
+      "district": 17,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Bill Allen",
+          "party": "Republican",
+          "votes": 8992
+        },
+        {
+          "name": "Shirley Mata",
+          "party": "Democratic",
+          "votes": 8353
+        }
+      ],
+      "winner": "Bill Allen",
+      "winner_party": "Republican",
+      "winner_votes": 8992,
+      "total_votes": 17345,
+      "winner_pct": 51.8
+    },
+    "18": {
+      "district": 18,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Eric Woods",
+          "party": "Democratic",
+          "votes": 12050
+        }
+      ],
+      "winner": "Eric Woods",
+      "winner_party": "Democratic",
+      "winner_votes": 12050,
+      "total_votes": 12050,
+      "winner_pct": 100
+    },
+    "19": {
+      "district": 19,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Wick Thomas",
+          "party": "Democratic",
+          "votes": 6373
+        },
+        {
+          "name": "Karen I Spalding",
+          "party": "Republican",
+          "votes": 2186
+        }
+      ],
+      "winner": "Wick Thomas",
+      "winner_party": "Democratic",
+      "winner_votes": 6373,
+      "total_votes": 8559,
+      "winner_pct": 74.5
+    },
+    "20": {
+      "district": 20,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Mike Steinmeyer",
+          "party": "Republican",
+          "votes": 9664
+        },
+        {
+          "name": "Clarence Franklin, Jr.",
+          "party": "Democratic",
+          "votes": 6608
+        }
+      ],
+      "winner": "Mike Steinmeyer",
+      "winner_party": "Republican",
+      "winner_votes": 9664,
+      "total_votes": 16272,
+      "winner_pct": 59.4
+    },
+    "21": {
+      "district": 21,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Will Jobe",
+          "party": "Democratic",
+          "votes": 5922
+        },
+        {
+          "name": "Marjain Breitenbach",
+          "party": "Republican",
+          "votes": 5610
+        }
+      ],
+      "winner": "Will Jobe",
+      "winner_party": "Democratic",
+      "winner_votes": 5922,
+      "total_votes": 11532,
+      "winner_pct": 51.4
+    },
+    "22": {
+      "district": 22,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Yolanda Young",
+          "party": "Democratic",
+          "votes": 9516
+        },
+        {
+          "name": "Mireya Barragan",
+          "party": "Republican",
+          "votes": 2790
+        }
+      ],
+      "winner": "Yolanda Young",
+      "winner_party": "Democratic",
+      "winner_votes": 9516,
+      "total_votes": 12306,
+      "winner_pct": 77.3
+    },
+    "23": {
+      "district": 23,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Michael L Johnson",
+          "party": "Democratic",
+          "votes": 6782
+        },
+        {
+          "name": "Daniel P. Contreras",
+          "party": "Republican",
+          "votes": 1107
+        }
+      ],
+      "winner": "Michael L Johnson",
+      "winner_party": "Democratic",
+      "winner_votes": 6782,
+      "total_votes": 7889,
+      "winner_pct": 86
+    },
+    "24": {
+      "district": 24,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Emily Weber",
+          "party": "Democratic",
+          "votes": 14797
+        },
+        {
+          "name": "Claudia S Toomim",
+          "party": "Republican",
+          "votes": 2604
+        }
+      ],
+      "winner": "Emily Weber",
+      "winner_party": "Democratic",
+      "winner_votes": 14797,
+      "total_votes": 17401,
+      "winner_pct": 85
+    },
+    "25": {
+      "district": 25,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Pattie Mansur",
+          "party": "Democratic",
+          "votes": 17477
+        },
+        {
+          "name": "Steven Bright",
+          "party": "Republican",
+          "votes": 5297
+        }
+      ],
+      "winner": "Pattie Mansur",
+      "winner_party": "Democratic",
+      "winner_votes": 17477,
+      "total_votes": 22774,
+      "winner_pct": 76.7
+    },
+    "26": {
+      "district": 26,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Tiffany Price",
+          "party": "Democratic",
+          "votes": 11150
+        },
+        {
+          "name": "Anthony Zarantonello",
+          "party": "Republican",
+          "votes": 2162
+        }
+      ],
+      "winner": "Tiffany Price",
+      "winner_party": "Democratic",
+      "winner_votes": 11150,
+      "total_votes": 13312,
+      "winner_pct": 83.8
+    },
+    "27": {
+      "district": 27,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Melissa A. Douglas",
+          "party": "Democratic",
+          "votes": 12696
+        }
+      ],
+      "winner": "Melissa A. Douglas",
+      "winner_party": "Democratic",
+      "winner_votes": 12696,
+      "total_votes": 12696,
+      "winner_pct": 100
+    },
+    "28": {
+      "district": 28,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Donna Barnes",
+          "party": "Democratic",
+          "votes": 10287
+        },
+        {
+          "name": "Steven W. Hinton",
+          "party": "Republican",
+          "votes": 4792
+        }
+      ],
+      "winner": "Donna Barnes",
+      "winner_party": "Democratic",
+      "winner_votes": 10287,
+      "total_votes": 15079,
+      "winner_pct": 68.2
+    },
+    "29": {
+      "district": 29,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Aaron Crossley",
+          "party": "Democratic",
+          "votes": 9572
+        },
+        {
+          "name": "Robert A. Bruette",
+          "party": "Republican",
+          "votes": 7462
+        }
+      ],
+      "winner": "Aaron Crossley",
+      "winner_party": "Democratic",
+      "winner_votes": 9572,
+      "total_votes": 17034,
+      "winner_pct": 56.2
+    },
+    "30": {
+      "district": 30,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Jon Patterson",
+          "party": "Republican",
+          "votes": 11830
+        },
+        {
+          "name": "Kevin Grover",
+          "party": "Democratic",
+          "votes": 9854
+        },
+        {
+          "name": "Frank Lawrence",
+          "party": "Green",
+          "votes": 261
+        }
+      ],
+      "winner": "Jon Patterson",
+      "winner_party": "Republican",
+      "winner_votes": 11830,
+      "total_votes": 21945,
+      "winner_pct": 53.9
+    },
+    "31": {
+      "district": 31,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Ron Fowler",
+          "party": "Republican",
+          "votes": 10665
+        },
+        {
+          "name": "Jeremy Rowan",
+          "party": "Democratic",
+          "votes": 8501
+        }
+      ],
+      "winner": "Ron Fowler",
+      "winner_party": "Republican",
+      "winner_votes": 10665,
+      "total_votes": 19166,
+      "winner_pct": 55.6
+    },
+    "32": {
+      "district": 32,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Jeff Coleman",
+          "party": "Republican",
+          "votes": 13067
+        },
+        {
+          "name": "Jennifer Cassidy",
+          "party": "Democratic",
+          "votes": 6544
+        }
+      ],
+      "winner": "Jeff Coleman",
+      "winner_party": "Republican",
+      "winner_votes": 13067,
+      "total_votes": 19611,
+      "winner_pct": 66.6
+    },
+    "33": {
+      "district": 33,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Carolyn S. Caton",
+          "party": "Republican",
+          "votes": 16427
+        }
+      ],
+      "winner": "Carolyn S. Caton",
+      "winner_party": "Republican",
+      "winner_votes": 16427,
+      "total_votes": 16427,
+      "winner_pct": 100
+    },
+    "34": {
+      "district": 34,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Kemp Strickler",
+          "party": "Democratic",
+          "votes": 10172
+        },
+        {
+          "name": "JC Crossley",
+          "party": "Republican",
+          "votes": 9463
+        }
+      ],
+      "winner": "Kemp Strickler",
+      "winner_party": "Democratic",
+      "winner_votes": 10172,
+      "total_votes": 19635,
+      "winner_pct": 51.8
+    },
+    "35": {
+      "district": 35,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Keri Ingle",
+          "party": "Democratic",
+          "votes": 12494
+        },
+        {
+          "name": "Michael C. Green",
+          "party": "Republican",
+          "votes": 9249
+        }
+      ],
+      "winner": "Keri Ingle",
+      "winner_party": "Democratic",
+      "winner_votes": 12494,
+      "total_votes": 21743,
+      "winner_pct": 57.5
+    },
+    "36": {
+      "district": 36,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Anthony Ealy",
+          "party": "Democratic",
+          "votes": 9304
+        },
+        {
+          "name": "Dave Thomas",
+          "party": "Republican",
+          "votes": 5806
+        }
+      ],
+      "winner": "Anthony Ealy",
+      "winner_party": "Democratic",
+      "winner_votes": 9304,
+      "total_votes": 15110,
+      "winner_pct": 61.6
+    },
+    "37": {
+      "district": 37,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Mark A. Sharp",
+          "party": "Democratic",
+          "votes": 12004
+        }
+      ],
+      "winner": "Mark A. Sharp",
+      "winner_party": "Democratic",
+      "winner_votes": 12004,
+      "total_votes": 12004,
+      "winner_pct": 100
+    },
+    "38": {
+      "district": 38,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Martin Jacobs",
+          "party": "Democratic",
+          "votes": 10344
+        },
+        {
+          "name": "Chris Lonsdale",
+          "party": "Republican",
+          "votes": 9829
+        }
+      ],
+      "winner": "Martin Jacobs",
+      "winner_party": "Democratic",
+      "winner_votes": 10344,
+      "total_votes": 20173,
+      "winner_pct": 51.3
+    },
+    "39": {
+      "district": 39,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Mark Meirath",
+          "party": "Republican",
+          "votes": 16905
+        }
+      ],
+      "winner": "Mark Meirath",
+      "winner_party": "Republican",
+      "winner_votes": 16905,
+      "total_votes": 16905,
+      "winner_pct": 100
+    },
+    "40": {
+      "district": 40,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Chad Perkins",
+          "party": "Republican",
+          "votes": 14958
+        },
+        {
+          "name": "Sheri Jay",
+          "party": "Libertarian",
+          "votes": 2981
+        }
+      ],
+      "winner": "Chad Perkins",
+      "winner_party": "Republican",
+      "winner_votes": 14958,
+      "total_votes": 17939,
+      "winner_pct": 83.4
+    },
+    "41": {
+      "district": 41,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Doyle Justus",
+          "party": "Republican",
+          "votes": 15505
+        },
+        {
+          "name": "Hans H Stock",
+          "party": "Democratic",
+          "votes": 4133
+        },
+        {
+          "name": "Dalton P. Johnson",
+          "party": "Libertarian",
+          "votes": 521
+        }
+      ],
+      "winner": "Doyle Justus",
+      "winner_party": "Republican",
+      "winner_votes": 15505,
+      "total_votes": 20159,
+      "winner_pct": 76.9
+    },
+    "42": {
+      "district": 42,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Jeff Myers",
+          "party": "Republican",
+          "votes": 16261
+        },
+        {
+          "name": "Shaun Sparks",
+          "party": "Democratic",
+          "votes": 4748
+        }
+      ],
+      "winner": "Jeff Myers",
+      "winner_party": "Republican",
+      "winner_votes": 16261,
+      "total_votes": 21009,
+      "winner_pct": 77.4
+    },
+    "43": {
+      "district": 43,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Kent Haden",
+          "party": "Republican",
+          "votes": 13257
+        },
+        {
+          "name": "Erik Richardson",
+          "party": "Democratic",
+          "votes": 3637
+        }
+      ],
+      "winner": "Kent Haden",
+      "winner_party": "Republican",
+      "winner_votes": 13257,
+      "total_votes": 16894,
+      "winner_pct": 78.5
+    },
+    "44": {
+      "district": 44,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "John Martin",
+          "party": "Republican",
+          "votes": 12864
+        },
+        {
+          "name": "Dave Raithel",
+          "party": "Democratic",
+          "votes": 7023
+        }
+      ],
+      "winner": "John Martin",
+      "winner_party": "Republican",
+      "winner_votes": 12864,
+      "total_votes": 19887,
+      "winner_pct": 64.7
+    },
+    "45": {
+      "district": 45,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Kathy Steinhoff",
+          "party": "Democratic",
+          "votes": 9559
+        }
+      ],
+      "winner": "Kathy Steinhoff",
+      "winner_party": "Democratic",
+      "winner_votes": 9559,
+      "total_votes": 9559,
+      "winner_pct": 100
+    },
+    "46": {
+      "district": 46,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "David Tyson Smith",
+          "party": "Democratic",
+          "votes": 11343
+        }
+      ],
+      "winner": "David Tyson Smith",
+      "winner_party": "Democratic",
+      "winner_votes": 11343,
+      "total_votes": 11343,
+      "winner_pct": 100
+    },
+    "47": {
+      "district": 47,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Adrian Plank",
+          "party": "Democratic",
+          "votes": 11600
+        },
+        {
+          "name": "John Potter",
+          "party": "Republican",
+          "votes": 9672
+        }
+      ],
+      "winner": "Adrian Plank",
+      "winner_party": "Democratic",
+      "winner_votes": 11600,
+      "total_votes": 21272,
+      "winner_pct": 54.5
+    },
+    "48": {
+      "district": 48,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Tim Taylor",
+          "party": "Republican",
+          "votes": 14478
+        },
+        {
+          "name": "Joseph Jefferies",
+          "party": "Democratic",
+          "votes": 4228
+        }
+      ],
+      "winner": "Tim Taylor",
+      "winner_party": "Republican",
+      "winner_votes": 14478,
+      "total_votes": 18706,
+      "winner_pct": 77.4
+    },
+    "49": {
+      "district": 49,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Jim Schulte",
+          "party": "Republican",
+          "votes": 13147
+        },
+        {
+          "name": "Jessica O'Neal-Slisz",
+          "party": "Democratic",
+          "votes": 4937
+        }
+      ],
+      "winner": "Jim Schulte",
+      "winner_party": "Republican",
+      "winner_votes": 13147,
+      "total_votes": 18084,
+      "winner_pct": 72.7
+    },
+    "50": {
+      "district": 50,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Gregg Bush",
+          "party": "Democratic",
+          "votes": 10329
+        },
+        {
+          "name": "John T. Lane",
+          "party": "Republican",
+          "votes": 8111
+        }
+      ],
+      "winner": "Gregg Bush",
+      "winner_party": "Democratic",
+      "winner_votes": 10329,
+      "total_votes": 18440,
+      "winner_pct": 56
+    },
+    "51": {
+      "district": 51,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Mark W Nolte",
+          "party": "Republican",
+          "votes": 12409
+        },
+        {
+          "name": "Glenda Bainbridge",
+          "party": "Democratic",
+          "votes": 4377
+        }
+      ],
+      "winner": "Mark W Nolte",
+      "winner_party": "Republican",
+      "winner_votes": 12409,
+      "total_votes": 16786,
+      "winner_pct": 73.9
+    },
+    "52": {
+      "district": 52,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Bradley Pollitt",
+          "party": "Republican",
+          "votes": 11020
+        },
+        {
+          "name": "Rene Vance",
+          "party": "Democratic",
+          "votes": 3816
+        }
+      ],
+      "winner": "Bradley Pollitt",
+      "winner_party": "Republican",
+      "winner_votes": 11020,
+      "total_votes": 14836,
+      "winner_pct": 74.3
+    },
+    "53": {
+      "district": 53,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Terry Thompson",
+          "party": "Republican",
+          "votes": 13550
+        },
+        {
+          "name": "Beth Grubb",
+          "party": "Democratic",
+          "votes": 5039
+        }
+      ],
+      "winner": "Terry Thompson",
+      "winner_party": "Republican",
+      "winner_votes": 13550,
+      "total_votes": 18589,
+      "winner_pct": 72.9
+    },
+    "54": {
+      "district": 54,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Brandon Phelps",
+          "party": "Republican",
+          "votes": 11614
+        },
+        {
+          "name": "Eric Stevens",
+          "party": "Democratic",
+          "votes": 4911
+        }
+      ],
+      "winner": "Brandon Phelps",
+      "winner_party": "Republican",
+      "winner_votes": 11614,
+      "total_votes": 16525,
+      "winner_pct": 70.3
+    },
+    "55": {
+      "district": 55,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "William (Bill) Irwin",
+          "party": "Republican",
+          "votes": 17544
+        }
+      ],
+      "winner": "William (Bill) Irwin",
+      "winner_party": "Republican",
+      "winner_votes": 17544,
+      "total_votes": 17544,
+      "winner_pct": 100
+    },
+    "56": {
+      "district": 56,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Michael Davis",
+          "party": "Republican",
+          "votes": 9871
+        },
+        {
+          "name": "Pam Jenkins Hatcher",
+          "party": "Democratic",
+          "votes": 8353
+        }
+      ],
+      "winner": "Michael Davis",
+      "winner_party": "Republican",
+      "winner_votes": 9871,
+      "total_votes": 18224,
+      "winner_pct": 54.2
+    },
+    "57": {
+      "district": 57,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Rodger L. Reedy",
+          "party": "Republican",
+          "votes": 15240
+        },
+        {
+          "name": "Michael D. Walbom",
+          "party": "Democratic",
+          "votes": 3526
+        }
+      ],
+      "winner": "Rodger L. Reedy",
+      "winner_party": "Republican",
+      "winner_votes": 15240,
+      "total_votes": 18766,
+      "winner_pct": 81.2
+    },
+    "58": {
+      "district": 58,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Willard Haley",
+          "party": "Republican",
+          "votes": 14689
+        }
+      ],
+      "winner": "Willard Haley",
+      "winner_party": "Republican",
+      "winner_votes": 14689,
+      "total_votes": 14689,
+      "winner_pct": 100
+    },
+    "59": {
+      "district": 59,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Rudy Veit",
+          "party": "Republican",
+          "votes": 19534
+        }
+      ],
+      "winner": "Rudy Veit",
+      "winner_party": "Republican",
+      "winner_votes": 19534,
+      "total_votes": 19534,
+      "winner_pct": 100
+    },
+    "60": {
+      "district": 60,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Dave Griffith",
+          "party": "Republican",
+          "votes": 10412
+        },
+        {
+          "name": "Jamie Howard",
+          "party": "Democratic",
+          "votes": 6232
+        }
+      ],
+      "winner": "Dave Griffith",
+      "winner_party": "Republican",
+      "winner_votes": 10412,
+      "total_votes": 16644,
+      "winner_pct": 62.6
+    },
+    "61": {
+      "district": 61,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Bruce Sassmann",
+          "party": "Republican",
+          "votes": 18231
+        }
+      ],
+      "winner": "Bruce Sassmann",
+      "winner_party": "Republican",
+      "winner_votes": 18231,
+      "total_votes": 18231,
+      "winner_pct": 100
+    },
+    "62": {
+      "district": 62,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Sherri Gallick",
+          "party": "Republican",
+          "votes": 18315
+        }
+      ],
+      "winner": "Sherri Gallick",
+      "winner_party": "Republican",
+      "winner_votes": 18315,
+      "total_votes": 18315,
+      "winner_pct": 100
+    },
+    "63": {
+      "district": 63,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Tricia K. Byrnes",
+          "party": "Republican",
+          "votes": 12167
+        },
+        {
+          "name": "Jenna Roberson",
+          "party": "Democratic",
+          "votes": 6428
+        }
+      ],
+      "winner": "Tricia K. Byrnes",
+      "winner_party": "Republican",
+      "winner_votes": 12167,
+      "total_votes": 18595,
+      "winner_pct": 65.4
+    },
+    "64": {
+      "district": 64,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Deanna Self",
+          "party": "Republican",
+          "votes": 16576
+        },
+        {
+          "name": "Arnie C. AC (Arn) Dienoff",
+          "party": "Write-in",
+          "votes": 45
+        }
+      ],
+      "winner": "Deanna Self",
+      "winner_party": "Republican",
+      "winner_votes": 16576,
+      "total_votes": 16621,
+      "winner_pct": 99.7
+    },
+    "65": {
+      "district": 65,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Wendy L. Hausman",
+          "party": "Republican",
+          "votes": 14540
+        }
+      ],
+      "winner": "Wendy L. Hausman",
+      "winner_party": "Republican",
+      "winner_votes": 14540,
+      "total_votes": 14540,
+      "winner_pct": 100
+    },
+    "66": {
+      "district": 66,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Marlene Terry",
+          "party": "Democratic",
+          "votes": 9747
+        }
+      ],
+      "winner": "Marlene Terry",
+      "winner_party": "Democratic",
+      "winner_votes": 9747,
+      "total_votes": 9747,
+      "winner_pct": 100
+    },
+    "67": {
+      "district": 67,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Tonya Rush",
+          "party": "Democratic",
+          "votes": 16559
+        }
+      ],
+      "winner": "Tonya Rush",
+      "winner_party": "Democratic",
+      "winner_votes": 16559,
+      "total_votes": 16559,
+      "winner_pct": 100
+    },
+    "68": {
+      "district": 68,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Kem Smith",
+          "party": "Democratic",
+          "votes": 12589
+        }
+      ],
+      "winner": "Kem Smith",
+      "winner_party": "Democratic",
+      "winner_votes": 12589,
+      "total_votes": 12589,
+      "winner_pct": 100
+    },
+    "69": {
+      "district": 69,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Scott A. Miller",
+          "party": "Republican",
+          "votes": 12262
+        },
+        {
+          "name": "Chris Chapman",
+          "party": "Democratic",
+          "votes": 8974
+        }
+      ],
+      "winner": "Scott A. Miller",
+      "winner_party": "Republican",
+      "winner_votes": 12262,
+      "total_votes": 21236,
+      "winner_pct": 57.7
+    },
+    "70": {
+      "district": 70,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Stephanie Boykin",
+          "party": "Democratic",
+          "votes": 11008
+        },
+        {
+          "name": "Dustin Coffell",
+          "party": "Libertarian",
+          "votes": 2904
+        }
+      ],
+      "winner": "Stephanie Boykin",
+      "winner_party": "Democratic",
+      "winner_votes": 11008,
+      "total_votes": 13912,
+      "winner_pct": 79.1
+    },
+    "71": {
+      "district": 71,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "LaDonna Appelbaum",
+          "party": "Democratic",
+          "votes": 15265
+        }
+      ],
+      "winner": "LaDonna Appelbaum",
+      "winner_party": "Democratic",
+      "winner_votes": 15265,
+      "total_votes": 15265,
+      "winner_pct": 100
+    },
+    "72": {
+      "district": 72,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Doug Clemens",
+          "party": "Democratic",
+          "votes": 10787
+        }
+      ],
+      "winner": "Doug Clemens",
+      "winner_party": "Democratic",
+      "winner_votes": 10787,
+      "total_votes": 10787,
+      "winner_pct": 100
+    },
+    "73": {
+      "district": 73,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Raychel C Proudie",
+          "party": "Democratic",
+          "votes": 10482
+        }
+      ],
+      "winner": "Raychel C Proudie",
+      "winner_party": "Democratic",
+      "winner_votes": 10482,
+      "total_votes": 10482,
+      "winner_pct": 100
+    },
+    "74": {
+      "district": 74,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Marla Smith",
+          "party": "Democratic",
+          "votes": 10195
+        },
+        {
+          "name": "Jack Howard",
+          "party": "Republican",
+          "votes": 1999
+        }
+      ],
+      "winner": "Marla Smith",
+      "winner_party": "Democratic",
+      "winner_votes": 10195,
+      "total_votes": 12194,
+      "winner_pct": 83.6
+    },
+    "75": {
+      "district": 75,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Chanel Mosley",
+          "party": "Democratic",
+          "votes": 12772
+        }
+      ],
+      "winner": "Chanel Mosley",
+      "winner_party": "Democratic",
+      "winner_votes": 12772,
+      "total_votes": 12772,
+      "winner_pct": 100
+    },
+    "76": {
+      "district": 76,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Marlon Anderson",
+          "party": "Democratic",
+          "votes": 10927
+        },
+        {
+          "name": "Cameron McCarty",
+          "party": "Libertarian",
+          "votes": 1147
+        }
+      ],
+      "winner": "Marlon Anderson",
+      "winner_party": "Democratic",
+      "winner_votes": 10927,
+      "total_votes": 12074,
+      "winner_pct": 90.5
+    },
+    "77": {
+      "district": 77,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Kimberly-Ann Collins",
+          "party": "Democratic",
+          "votes": 12327
+        }
+      ],
+      "winner": "Kimberly-Ann Collins",
+      "winner_party": "Democratic",
+      "winner_votes": 12327,
+      "total_votes": 12327,
+      "winner_pct": 100
+    },
+    "78": {
+      "district": 78,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Marty (Joe) Murray",
+          "party": "Democratic",
+          "votes": 9788
+        },
+        {
+          "name": "Jim Povolish",
+          "party": "Republican",
+          "votes": 1280
+        }
+      ],
+      "winner": "Marty (Joe) Murray",
+      "winner_party": "Democratic",
+      "winner_votes": 9788,
+      "total_votes": 11068,
+      "winner_pct": 88.4
+    },
+    "79": {
+      "district": 79,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "LaKeySha Bosley",
+          "party": "Democratic",
+          "votes": 10867
+        }
+      ],
+      "winner": "LaKeySha Bosley",
+      "winner_party": "Democratic",
+      "winner_votes": 10867,
+      "total_votes": 10867,
+      "winner_pct": 100
+    },
+    "80": {
+      "district": 80,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Elizabeth (Lilly) Fuchs",
+          "party": "Democratic",
+          "votes": 12115
+        },
+        {
+          "name": "Kirk Hilzinger",
+          "party": "Republican",
+          "votes": 2277
+        }
+      ],
+      "winner": "Elizabeth (Lilly) Fuchs",
+      "winner_party": "Democratic",
+      "winner_votes": 12115,
+      "total_votes": 14392,
+      "winner_pct": 84.2
+    },
+    "81": {
+      "district": 81,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Steve Butz",
+          "party": "Democratic",
+          "votes": 10407
+        },
+        {
+          "name": "Jake Koehr",
+          "party": "Republican",
+          "votes": 2921
+        }
+      ],
+      "winner": "Steve Butz",
+      "winner_party": "Democratic",
+      "winner_votes": 10407,
+      "total_votes": 13328,
+      "winner_pct": 78.1
+    },
+    "82": {
+      "district": 82,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Nick Kimble",
+          "party": "Democratic",
+          "votes": 16013
+        },
+        {
+          "name": "Donald W. Flecke",
+          "party": "Republican",
+          "votes": 5639
+        }
+      ],
+      "winner": "Nick Kimble",
+      "winner_party": "Democratic",
+      "winner_votes": 16013,
+      "total_votes": 21652,
+      "winner_pct": 74
+    },
+    "83": {
+      "district": 83,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Ray Reed",
+          "party": "Democratic",
+          "votes": 14337
+        },
+        {
+          "name": "Andrew Bolin",
+          "party": "Libertarian",
+          "votes": 3704
+        },
+        {
+          "name": "James Annala",
+          "party": "Green",
+          "votes": 596
+        }
+      ],
+      "winner": "Ray Reed",
+      "winner_party": "Democratic",
+      "winner_votes": 14337,
+      "total_votes": 18637,
+      "winner_pct": 76.9
+    },
+    "84": {
+      "district": 84,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Del Taylor",
+          "party": "Democratic",
+          "votes": 11470
+        },
+        {
+          "name": "Richard (Ricky) Cowell",
+          "party": "Republican",
+          "votes": 1577
+        }
+      ],
+      "winner": "Del Taylor",
+      "winner_party": "Democratic",
+      "winner_votes": 11470,
+      "total_votes": 13047,
+      "winner_pct": 87.9
+    },
+    "85": {
+      "district": 85,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Yolonda Fountain Henderson",
+          "party": "Democratic",
+          "votes": 10977
+        }
+      ],
+      "winner": "Yolonda Fountain Henderson",
+      "winner_party": "Democratic",
+      "winner_votes": 10977,
+      "total_votes": 10977,
+      "winner_pct": 100
+    },
+    "86": {
+      "district": 86,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Jeff Hales",
+          "party": "Democratic",
+          "votes": 15612
+        }
+      ],
+      "winner": "Jeff Hales",
+      "winner_party": "Democratic",
+      "winner_votes": 15612,
+      "total_votes": 15612,
+      "winner_pct": 100
+    },
+    "87": {
+      "district": 87,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Connie Steinmetz",
+          "party": "Democratic",
+          "votes": 10267
+        },
+        {
+          "name": "John Rommel",
+          "party": "Republican",
+          "votes": 6324
+        }
+      ],
+      "winner": "Connie Steinmetz",
+      "winner_party": "Democratic",
+      "winner_votes": 10267,
+      "total_votes": 16591,
+      "winner_pct": 61.9
+    },
+    "88": {
+      "district": 88,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Holly Jones",
+          "party": "Republican",
+          "votes": 12960
+        },
+        {
+          "name": "John Kiehne",
+          "party": "Democratic",
+          "votes": 8674
+        }
+      ],
+      "winner": "Holly Jones",
+      "winner_party": "Republican",
+      "winner_votes": 12960,
+      "total_votes": 21634,
+      "winner_pct": 59.9
+    },
+    "89": {
+      "district": 89,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "George Hruza",
+          "party": "Republican",
+          "votes": 12711
+        },
+        {
+          "name": "Eric Morse",
+          "party": "Democratic",
+          "votes": 9471
+        }
+      ],
+      "winner": "George Hruza",
+      "winner_party": "Republican",
+      "winner_votes": 12711,
+      "total_votes": 22182,
+      "winner_pct": 57.3
+    },
+    "90": {
+      "district": 90,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Mark Boyko",
+          "party": "Democratic",
+          "votes": 13670
+        },
+        {
+          "name": "Scott Mathewson",
+          "party": "Republican",
+          "votes": 8874
+        }
+      ],
+      "winner": "Mark Boyko",
+      "winner_party": "Democratic",
+      "winner_votes": 13670,
+      "total_votes": 22544,
+      "winner_pct": 60.6
+    },
+    "91": {
+      "district": 91,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Jo Doll",
+          "party": "Democratic",
+          "votes": 16872
+        }
+      ],
+      "winner": "Jo Doll",
+      "winner_party": "Democratic",
+      "winner_votes": 16872,
+      "total_votes": 16872,
+      "winner_pct": 100
+    },
+    "92": {
+      "district": 92,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Michael Burton",
+          "party": "Democratic",
+          "votes": 10244
+        },
+        {
+          "name": "Kenneth Abram",
+          "party": "Republican",
+          "votes": 8626
+        }
+      ],
+      "winner": "Michael Burton",
+      "winner_party": "Democratic",
+      "winner_votes": 10244,
+      "total_votes": 18870,
+      "winner_pct": 54.3
+    },
+    "93": {
+      "district": 93,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Bridget Walsh Moore",
+          "party": "Democratic",
+          "votes": 8416
+        },
+        {
+          "name": "James O'Donnell",
+          "party": "Libertarian",
+          "votes": 3813
+        }
+      ],
+      "winner": "Bridget Walsh Moore",
+      "winner_party": "Democratic",
+      "winner_votes": 8416,
+      "total_votes": 12229,
+      "winner_pct": 68.8
+    },
+    "94": {
+      "district": 94,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Jim Murphy",
+          "party": "Republican",
+          "votes": 10457
+        },
+        {
+          "name": "Kyle W. Kerns",
+          "party": "Democratic",
+          "votes": 8103
+        }
+      ],
+      "winner": "Jim Murphy",
+      "winner_party": "Republican",
+      "winner_votes": 10457,
+      "total_votes": 18560,
+      "winner_pct": 56.3
+    },
+    "95": {
+      "district": 95,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Michael A. O'Donnell",
+          "party": "Republican",
+          "votes": 13311
+        },
+        {
+          "name": "Deb Langland",
+          "party": "Democratic",
+          "votes": 8327
+        }
+      ],
+      "winner": "Michael A. O'Donnell",
+      "winner_party": "Republican",
+      "winner_votes": 13311,
+      "total_votes": 21638,
+      "winner_pct": 61.5
+    },
+    "96": {
+      "district": 96,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Brad Christ",
+          "party": "Republican",
+          "votes": 12297
+        },
+        {
+          "name": "Leslie Derrington",
+          "party": "Democratic",
+          "votes": 9967
+        }
+      ],
+      "winner": "Brad Christ",
+      "winner_party": "Republican",
+      "winner_votes": 12297,
+      "total_votes": 22264,
+      "winner_pct": 55.2
+    },
+    "97": {
+      "district": 97,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "David Casteel",
+          "party": "Republican",
+          "votes": 11459
+        },
+        {
+          "name": "Dan Schaefer",
+          "party": "Democratic",
+          "votes": 6309
+        }
+      ],
+      "winner": "David Casteel",
+      "winner_party": "Republican",
+      "winner_votes": 11459,
+      "total_votes": 17768,
+      "winner_pct": 64.5
+    },
+    "98": {
+      "district": 98,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Jaclyn Zimmermann",
+          "party": "Democratic",
+          "votes": 10758
+        },
+        {
+          "name": "Carol Veillette",
+          "party": "Republican",
+          "votes": 9813
+        }
+      ],
+      "winner": "Jaclyn Zimmermann",
+      "winner_party": "Democratic",
+      "winner_votes": 10758,
+      "total_votes": 20571,
+      "winner_pct": 52.3
+    },
+    "99": {
+      "district": 99,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Ian Mackey",
+          "party": "Democratic",
+          "votes": 14356
+        }
+      ],
+      "winner": "Ian Mackey",
+      "winner_party": "Democratic",
+      "winner_votes": 14356,
+      "total_votes": 14356,
+      "winner_pct": 100
+    },
+    "100": {
+      "district": 100,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Philip Oehlerking",
+          "party": "Republican",
+          "votes": 10954
+        },
+        {
+          "name": "Colin Lovett",
+          "party": "Democratic",
+          "votes": 10811
+        }
+      ],
+      "winner": "Philip Oehlerking",
+      "winner_party": "Republican",
+      "winner_votes": 10954,
+      "total_votes": 21765,
+      "winner_pct": 50.3
+    },
+    "101": {
+      "district": 101,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Ben Keathley",
+          "party": "Republican",
+          "votes": 12246
+        },
+        {
+          "name": "Jacqueline Cotton",
+          "party": "Democratic",
+          "votes": 10198
+        }
+      ],
+      "winner": "Ben Keathley",
+      "winner_party": "Republican",
+      "winner_votes": 12246,
+      "total_votes": 22444,
+      "winner_pct": 54.6
+    },
+    "102": {
+      "district": 102,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Richard William West",
+          "party": "Republican",
+          "votes": 14344
+        },
+        {
+          "name": "Alex Hissong",
+          "party": "Democratic",
+          "votes": 7873
+        }
+      ],
+      "winner": "Richard William West",
+      "winner_party": "Republican",
+      "winner_votes": 14344,
+      "total_votes": 22217,
+      "winner_pct": 64.6
+    },
+    "103": {
+      "district": 103,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Dave Hinman",
+          "party": "Republican",
+          "votes": 10286
+        },
+        {
+          "name": "Amanda Taylor",
+          "party": "Democratic",
+          "votes": 7776
+        }
+      ],
+      "winner": "Dave Hinman",
+      "winner_party": "Republican",
+      "winner_votes": 10286,
+      "total_votes": 18062,
+      "winner_pct": 56.9
+    },
+    "104": {
+      "district": 104,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Terri Violet",
+          "party": "Republican",
+          "votes": 10929
+        },
+        {
+          "name": "Tara L Murray",
+          "party": "Democratic",
+          "votes": 8974
+        }
+      ],
+      "winner": "Terri Violet",
+      "winner_party": "Republican",
+      "winner_votes": 10929,
+      "total_votes": 19903,
+      "winner_pct": 54.9
+    },
+    "105": {
+      "district": 105,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Colin Wellenkamp",
+          "party": "Republican",
+          "votes": 8178
+        },
+        {
+          "name": "Ron Odenthal",
+          "party": "Democratic",
+          "votes": 7280
+        }
+      ],
+      "winner": "Colin Wellenkamp",
+      "winner_party": "Republican",
+      "winner_votes": 8178,
+      "total_votes": 15458,
+      "winner_pct": 52.9
+    },
+    "106": {
+      "district": 106,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Travis Wilson",
+          "party": "Republican",
+          "votes": 11236
+        },
+        {
+          "name": "Karen Edge",
+          "party": "Democratic",
+          "votes": 9091
+        }
+      ],
+      "winner": "Travis Wilson",
+      "winner_party": "Republican",
+      "winner_votes": 11236,
+      "total_votes": 20327,
+      "winner_pct": 55.3
+    },
+    "107": {
+      "district": 107,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Mark Matthiesen",
+          "party": "Republican",
+          "votes": 11930
+        },
+        {
+          "name": "Gary Wester",
+          "party": "Democratic",
+          "votes": 7789
+        }
+      ],
+      "winner": "Mark Matthiesen",
+      "winner_party": "Republican",
+      "winner_votes": 11930,
+      "total_votes": 19719,
+      "winner_pct": 60.5
+    },
+    "108": {
+      "district": 108,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Mike Costlow",
+          "party": "Republican",
+          "votes": 13059
+        },
+        {
+          "name": "Susan Shumway",
+          "party": "Democratic",
+          "votes": 7434
+        },
+        {
+          "name": "Patrick Andrew Miller",
+          "party": "Green",
+          "votes": 311
+        }
+      ],
+      "winner": "Mike Costlow",
+      "winner_party": "Republican",
+      "winner_votes": 13059,
+      "total_votes": 20804,
+      "winner_pct": 62.8
+    },
+    "109": {
+      "district": 109,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "John Simmons",
+          "party": "Republican",
+          "votes": 16043
+        },
+        {
+          "name": "Eleanor Maynard",
+          "party": "Democratic",
+          "votes": 6165
+        }
+      ],
+      "winner": "John Simmons",
+      "winner_party": "Republican",
+      "winner_votes": 16043,
+      "total_votes": 22208,
+      "winner_pct": 72.2
+    },
+    "110": {
+      "district": 110,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Justin Sparks",
+          "party": "Republican",
+          "votes": 14683
+        },
+        {
+          "name": "Josh Thackston",
+          "party": "Democratic",
+          "votes": 8747
+        }
+      ],
+      "winner": "Justin Sparks",
+      "winner_party": "Republican",
+      "winner_votes": 14683,
+      "total_votes": 23430,
+      "winner_pct": 62.7
+    },
+    "111": {
+      "district": 111,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Cecelie Williams",
+          "party": "Republican",
+          "votes": 16096
+        }
+      ],
+      "winner": "Cecelie Williams",
+      "winner_party": "Republican",
+      "winner_votes": 16096,
+      "total_votes": 16096,
+      "winner_pct": 100
+    },
+    "112": {
+      "district": 112,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Renee Reuter",
+          "party": "Republican",
+          "votes": 13697
+        },
+        {
+          "name": "Dave Rekosh",
+          "party": "Democratic",
+          "votes": 6068
+        }
+      ],
+      "winner": "Renee Reuter",
+      "winner_party": "Republican",
+      "winner_votes": 13697,
+      "total_votes": 19765,
+      "winner_pct": 69.3
+    },
+    "113": {
+      "district": 113,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Phil Amato",
+          "party": "Republican",
+          "votes": 15099
+        }
+      ],
+      "winner": "Phil Amato",
+      "winner_party": "Republican",
+      "winner_votes": 15099,
+      "total_votes": 15099,
+      "winner_pct": 100
+    },
+    "114": {
+      "district": 114,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Ken Waller",
+          "party": "Republican",
+          "votes": 13374
+        },
+        {
+          "name": "Jessie Shepherd",
+          "party": "Democratic",
+          "votes": 5738
+        }
+      ],
+      "winner": "Ken Waller",
+      "winner_party": "Republican",
+      "winner_votes": 13374,
+      "total_votes": 19112,
+      "winner_pct": 70
+    },
+    "115": {
+      "district": 115,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Bill Lucas",
+          "party": "Republican",
+          "votes": 13736
+        },
+        {
+          "name": "David George",
+          "party": "Democratic",
+          "votes": 4853
+        }
+      ],
+      "winner": "Bill Lucas",
+      "winner_party": "Republican",
+      "winner_votes": 13736,
+      "total_votes": 18589,
+      "winner_pct": 73.9
+    },
+    "116": {
+      "district": 116,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Dale L. Wright",
+          "party": "Republican",
+          "votes": 12847
+        },
+        {
+          "name": "Ethan Jones",
+          "party": "Libertarian",
+          "votes": 2552
+        }
+      ],
+      "winner": "Dale L. Wright",
+      "winner_party": "Republican",
+      "winner_votes": 12847,
+      "total_votes": 15399,
+      "winner_pct": 83.4
+    },
+    "117": {
+      "district": 117,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Becky Laubinger",
+          "party": "Republican",
+          "votes": 11965
+        },
+        {
+          "name": "Casey Cassidy",
+          "party": "Democratic",
+          "votes": 3788
+        }
+      ],
+      "winner": "Becky Laubinger",
+      "winner_party": "Republican",
+      "winner_votes": 11965,
+      "total_votes": 15753,
+      "winner_pct": 76
+    },
+    "118": {
+      "district": 118,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Mike McGirl",
+          "party": "Republican",
+          "votes": 15791
+        }
+      ],
+      "winner": "Mike McGirl",
+      "winner_party": "Republican",
+      "winner_votes": 15791,
+      "total_votes": 15791,
+      "winner_pct": 100
+    },
+    "119": {
+      "district": 119,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Brad Banderman",
+          "party": "Republican",
+          "votes": 12751
+        },
+        {
+          "name": "Amy Thompson",
+          "party": "Democratic",
+          "votes": 4976
+        }
+      ],
+      "winner": "Brad Banderman",
+      "winner_party": "Republican",
+      "winner_votes": 12751,
+      "total_votes": 17727,
+      "winner_pct": 71.9
+    },
+    "120": {
+      "district": 120,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "John W. Hewkin",
+          "party": "Republican",
+          "votes": 13989
+        },
+        {
+          "name": "Jen Tracy",
+          "party": "Democratic",
+          "votes": 3487
+        }
+      ],
+      "winner": "John W. Hewkin",
+      "winner_party": "Republican",
+      "winner_votes": 13989,
+      "total_votes": 17476,
+      "winner_pct": 80
+    },
+    "121": {
+      "district": 121,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Bill Hardwick",
+          "party": "Republican",
+          "votes": 5601
+        },
+        {
+          "name": "Brandon Swartz",
+          "party": "Democratic",
+          "votes": 2229
+        }
+      ],
+      "winner": "Bill Hardwick",
+      "winner_party": "Republican",
+      "winner_votes": 5601,
+      "total_votes": 7830,
+      "winner_pct": 71.5
+    },
+    "122": {
+      "district": 122,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Tara J Peters",
+          "party": "Republican",
+          "votes": 11524
+        },
+        {
+          "name": "Tara Anura",
+          "party": "Democratic",
+          "votes": 4238
+        }
+      ],
+      "winner": "Tara J Peters",
+      "winner_party": "Republican",
+      "winner_votes": 11524,
+      "total_votes": 15762,
+      "winner_pct": 73.1
+    },
+    "123": {
+      "district": 123,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Jeff Vernetti",
+          "party": "Republican",
+          "votes": 17208
+        },
+        {
+          "name": "Nancy Bates",
+          "party": "Democratic",
+          "votes": 5262
+        }
+      ],
+      "winner": "Jeff Vernetti",
+      "winner_party": "Republican",
+      "winner_votes": 17208,
+      "total_votes": 22470,
+      "winner_pct": 76.6
+    },
+    "124": {
+      "district": 124,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Don Mayhew",
+          "party": "Republican",
+          "votes": 15637
+        },
+        {
+          "name": "Tara Hallmark",
+          "party": "Democratic",
+          "votes": 3247
+        }
+      ],
+      "winner": "Don Mayhew",
+      "winner_party": "Republican",
+      "winner_votes": 15637,
+      "total_votes": 18884,
+      "winner_pct": 82.8
+    },
+    "125": {
+      "district": 125,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Dane Diehl",
+          "party": "Republican",
+          "votes": 14970
+        },
+        {
+          "name": "Lynda Jones",
+          "party": "Democratic",
+          "votes": 2929
+        }
+      ],
+      "winner": "Dane Diehl",
+      "winner_party": "Republican",
+      "winner_votes": 14970,
+      "total_votes": 17899,
+      "winner_pct": 83.6
+    },
+    "126": {
+      "district": 126,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Jim Kalberloh",
+          "party": "Republican",
+          "votes": 14800
+        },
+        {
+          "name": "Kirsten Hockaday",
+          "party": "Democratic",
+          "votes": 3894
+        }
+      ],
+      "winner": "Jim Kalberloh",
+      "winner_party": "Republican",
+      "winner_votes": 14800,
+      "total_votes": 18694,
+      "winner_pct": 79.2
+    },
+    "127": {
+      "district": 127,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Ann Kelley",
+          "party": "Republican",
+          "votes": 16473
+        },
+        {
+          "name": "Marvin Manring",
+          "party": "Democratic",
+          "votes": 2802
+        }
+      ],
+      "winner": "Ann Kelley",
+      "winner_party": "Republican",
+      "winner_votes": 16473,
+      "total_votes": 19275,
+      "winner_pct": 85.5
+    },
+    "128": {
+      "district": 128,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Christopher D Warwick",
+          "party": "Republican",
+          "votes": 15497
+        },
+        {
+          "name": "Rich Horton",
+          "party": "Democratic",
+          "votes": 3453
+        }
+      ],
+      "winner": "Christopher D Warwick",
+      "winner_party": "Republican",
+      "winner_votes": 15497,
+      "total_votes": 18950,
+      "winner_pct": 81.8
+    },
+    "129": {
+      "district": 129,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "John F. Black",
+          "party": "Republican",
+          "votes": 15751
+        },
+        {
+          "name": "Louise Hansen",
+          "party": "Democratic",
+          "votes": 3382
+        }
+      ],
+      "winner": "John F. Black",
+      "winner_party": "Republican",
+      "winner_votes": 15751,
+      "total_votes": 19133,
+      "winner_pct": 82.3
+    },
+    "130": {
+      "district": 130,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Bishop Davidson",
+          "party": "Republican",
+          "votes": 12578
+        },
+        {
+          "name": "Leslie Jones",
+          "party": "Democratic",
+          "votes": 5957
+        }
+      ],
+      "winner": "Bishop Davidson",
+      "winner_party": "Republican",
+      "winner_votes": 12578,
+      "total_votes": 18535,
+      "winner_pct": 67.9
+    },
+    "131": {
+      "district": 131,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Bill Owen",
+          "party": "Republican",
+          "votes": 15781
+        },
+        {
+          "name": "Ashley Cossins",
+          "party": "Democratic",
+          "votes": 4997
+        }
+      ],
+      "winner": "Bill Owen",
+      "winner_party": "Republican",
+      "winner_votes": 15781,
+      "total_votes": 20778,
+      "winner_pct": 76
+    },
+    "132": {
+      "district": 132,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Jeremy Dean",
+          "party": "Democratic",
+          "votes": 5450
+        },
+        {
+          "name": "Stephanos Freeman",
+          "party": "Republican",
+          "votes": 5109
+        }
+      ],
+      "winner": "Jeremy Dean",
+      "winner_party": "Democratic",
+      "winner_votes": 5450,
+      "total_votes": 10559,
+      "winner_pct": 51.6
+    },
+    "133": {
+      "district": 133,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Melanie Stinnett",
+          "party": "Republican",
+          "votes": 7431
+        },
+        {
+          "name": "Derrick Nowlin",
+          "party": "Democratic",
+          "votes": 5810
+        }
+      ],
+      "winner": "Melanie Stinnett",
+      "winner_party": "Republican",
+      "winner_votes": 7431,
+      "total_votes": 13241,
+      "winner_pct": 56.1
+    },
+    "134": {
+      "district": 134,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Alex Riley",
+          "party": "Republican",
+          "votes": 16472
+        }
+      ],
+      "winner": "Alex Riley",
+      "winner_party": "Republican",
+      "winner_votes": 16472,
+      "total_votes": 16472,
+      "winner_pct": 100
+    },
+    "135": {
+      "district": 135,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Betsy Fogle",
+          "party": "Democratic",
+          "votes": 8529
+        },
+        {
+          "name": "Michael Hasty",
+          "party": "Republican",
+          "votes": 6974
+        }
+      ],
+      "winner": "Betsy Fogle",
+      "winner_party": "Democratic",
+      "winner_votes": 8529,
+      "total_votes": 15503,
+      "winner_pct": 55
+    },
+    "136": {
+      "district": 136,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Stephanie Hein",
+          "party": "Democratic",
+          "votes": 9329
+        },
+        {
+          "name": "Jim Robinette",
+          "party": "Republican",
+          "votes": 8964
+        }
+      ],
+      "winner": "Stephanie Hein",
+      "winner_party": "Democratic",
+      "winner_votes": 9329,
+      "total_votes": 18293,
+      "winner_pct": 51
+    },
+    "137": {
+      "district": 137,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Darin Chappell",
+          "party": "Republican",
+          "votes": 16584
+        },
+        {
+          "name": "Bryce Lockwood",
+          "party": "Democratic",
+          "votes": 6988
+        }
+      ],
+      "winner": "Darin Chappell",
+      "winner_party": "Republican",
+      "winner_votes": 16584,
+      "total_votes": 23572,
+      "winner_pct": 70.4
+    },
+    "138": {
+      "district": 138,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Burt Whaley",
+          "party": "Republican",
+          "votes": 20287
+        }
+      ],
+      "winner": "Burt Whaley",
+      "winner_party": "Republican",
+      "winner_votes": 20287,
+      "total_votes": 20287,
+      "winner_pct": 100
+    },
+    "139": {
+      "district": 139,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Bob Titus",
+          "party": "Republican",
+          "votes": 16312
+        },
+        {
+          "name": "Mark Gray",
+          "party": "Democratic",
+          "votes": 5432
+        }
+      ],
+      "winner": "Bob Titus",
+      "winner_party": "Republican",
+      "winner_votes": 16312,
+      "total_votes": 21744,
+      "winner_pct": 75
+    },
+    "140": {
+      "district": 140,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Jamie Ray Gragg",
+          "party": "Republican",
+          "votes": 15895
+        },
+        {
+          "name": "Julia Curran",
+          "party": "Democratic",
+          "votes": 4897
+        }
+      ],
+      "winner": "Jamie Ray Gragg",
+      "winner_party": "Republican",
+      "winner_votes": 15895,
+      "total_votes": 20792,
+      "winner_pct": 76.4
+    },
+    "141": {
+      "district": 141,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Melissa Schmidt",
+          "party": "Republican",
+          "votes": 17657
+        },
+        {
+          "name": "Michael Bates",
+          "party": "Democratic",
+          "votes": 2372
+        }
+      ],
+      "winner": "Melissa Schmidt",
+      "winner_party": "Republican",
+      "winner_votes": 17657,
+      "total_votes": 20029,
+      "winner_pct": 88.2
+    },
+    "142": {
+      "district": 142,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Jeff Knight",
+          "party": "Republican",
+          "votes": 16122
+        }
+      ],
+      "winner": "Jeff Knight",
+      "winner_party": "Republican",
+      "winner_votes": 16122,
+      "total_votes": 16122,
+      "winner_pct": 100
+    },
+    "143": {
+      "district": 143,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Bennie Cook",
+          "party": "Republican",
+          "votes": 16299
+        },
+        {
+          "name": "Bernadette Holzer",
+          "party": "Democratic",
+          "votes": 2742
+        }
+      ],
+      "winner": "Bennie Cook",
+      "winner_party": "Republican",
+      "winner_votes": 16299,
+      "total_votes": 19041,
+      "winner_pct": 85.6
+    },
+    "144": {
+      "district": 144,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Tony R Harbison",
+          "party": "Republican",
+          "votes": 15749
+        },
+        {
+          "name": "Andrew J. Eye",
+          "party": "Democratic",
+          "votes": 3320
+        }
+      ],
+      "winner": "Tony R Harbison",
+      "winner_party": "Republican",
+      "winner_votes": 15749,
+      "total_votes": 19069,
+      "winner_pct": 82.6
+    },
+    "145": {
+      "district": 145,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Bryant Wolfin",
+          "party": "Republican",
+          "votes": 15567
+        }
+      ],
+      "winner": "Bryant Wolfin",
+      "winner_party": "Republican",
+      "winner_votes": 15567,
+      "total_votes": 15567,
+      "winner_pct": 100
+    },
+    "146": {
+      "district": 146,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Barry D. Hovis",
+          "party": "Republican",
+          "votes": 19211
+        }
+      ],
+      "winner": "Barry D. Hovis",
+      "winner_party": "Republican",
+      "winner_votes": 19211,
+      "total_votes": 19211,
+      "winner_pct": 100
+    },
+    "147": {
+      "district": 147,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "John Voss",
+          "party": "Republican",
+          "votes": 9362
+        },
+        {
+          "name": "J. Michael Davis",
+          "party": "Democratic",
+          "votes": 5118
+        },
+        {
+          "name": "Greg Tlapek",
+          "party": "Libertarian",
+          "votes": 632
+        }
+      ],
+      "winner": "John Voss",
+      "winner_party": "Republican",
+      "winner_votes": 9362,
+      "total_votes": 15112,
+      "winner_pct": 62
+    },
+    "148": {
+      "district": 148,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "David A Dolan",
+          "party": "Republican",
+          "votes": 15168
+        }
+      ],
+      "winner": "David A Dolan",
+      "winner_party": "Republican",
+      "winner_votes": 15168,
+      "total_votes": 15168,
+      "winner_pct": 100
+    },
+    "149": {
+      "district": 149,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Donnie Brown",
+          "party": "Republican",
+          "votes": 11928
+        }
+      ],
+      "winner": "Donnie Brown",
+      "winner_party": "Republican",
+      "winner_votes": 11928,
+      "total_votes": 11928,
+      "winner_pct": 100
+    },
+    "150": {
+      "district": 150,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Cameron Bunting Parker",
+          "party": "Republican",
+          "votes": 11859
+        },
+        {
+          "name": "Kay Collier",
+          "party": "Democratic",
+          "votes": 2568
+        }
+      ],
+      "winner": "Cameron Bunting Parker",
+      "winner_party": "Republican",
+      "winner_votes": 11859,
+      "total_votes": 14427,
+      "winner_pct": 82.2
+    },
+    "151": {
+      "district": 151,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Steve W Jordan",
+          "party": "Republican",
+          "votes": 15972
+        },
+        {
+          "name": "Donnie Lynn Hovis Jr.",
+          "party": "Democratic",
+          "votes": 2773
+        }
+      ],
+      "winner": "Steve W Jordan",
+      "winner_party": "Republican",
+      "winner_votes": 15972,
+      "total_votes": 18745,
+      "winner_pct": 85.2
+    },
+    "152": {
+      "district": 152,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Hardy Billington",
+          "party": "Republican",
+          "votes": 13294
+        }
+      ],
+      "winner": "Hardy Billington",
+      "winner_party": "Republican",
+      "winner_votes": 13294,
+      "total_votes": 13294,
+      "winner_pct": 100
+    },
+    "153": {
+      "district": 153,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Keith W. Elliott",
+          "party": "Republican",
+          "votes": 16984
+        },
+        {
+          "name": "Sheila Bristol",
+          "party": "Democratic",
+          "votes": 2916
+        }
+      ],
+      "winner": "Keith W. Elliott",
+      "winner_party": "Republican",
+      "winner_votes": 16984,
+      "total_votes": 19900,
+      "winner_pct": 85.3
+    },
+    "154": {
+      "district": 154,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Lisa Durnell",
+          "party": "Republican",
+          "votes": 15196
+        },
+        {
+          "name": "JoJo Stewart",
+          "party": "Democratic",
+          "votes": 2728
+        }
+      ],
+      "winner": "Lisa Durnell",
+      "winner_party": "Republican",
+      "winner_votes": 15196,
+      "total_votes": 17924,
+      "winner_pct": 84.8
+    },
+    "155": {
+      "district": 155,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Matthew Overcast",
+          "party": "Republican",
+          "votes": 17480
+        },
+        {
+          "name": "Courtney Sweeney-Legore",
+          "party": "Democratic",
+          "votes": 3573
+        }
+      ],
+      "winner": "Matthew Overcast",
+      "winner_party": "Republican",
+      "winner_votes": 17480,
+      "total_votes": 21053,
+      "winner_pct": 83
+    },
+    "156": {
+      "district": 156,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Brian H. Seitz",
+          "party": "Republican",
+          "votes": 13399
+        },
+        {
+          "name": "Janis Beacham",
+          "party": "Democratic",
+          "votes": 3583
+        }
+      ],
+      "winner": "Brian H. Seitz",
+      "winner_party": "Republican",
+      "winner_votes": 13399,
+      "total_votes": 16982,
+      "winner_pct": 78.9
+    },
+    "157": {
+      "district": 157,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Mitch Boggs",
+          "party": "Republican",
+          "votes": 15504
+        }
+      ],
+      "winner": "Mitch Boggs",
+      "winner_party": "Republican",
+      "winner_votes": 15504,
+      "total_votes": 15504,
+      "winner_pct": 100
+    },
+    "158": {
+      "district": 158,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Scott Cupps",
+          "party": "Republican",
+          "votes": 14924
+        },
+        {
+          "name": "Yma Sautbine",
+          "party": "Democratic",
+          "votes": 2616
+        }
+      ],
+      "winner": "Scott Cupps",
+      "winner_party": "Republican",
+      "winner_votes": 14924,
+      "total_votes": 17540,
+      "winner_pct": 85.1
+    },
+    "159": {
+      "district": 159,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Dirk E. Deaton",
+          "party": "Republican",
+          "votes": 15865
+        }
+      ],
+      "winner": "Dirk E. Deaton",
+      "winner_party": "Republican",
+      "winner_votes": 15865,
+      "total_votes": 15865,
+      "winner_pct": 100
+    },
+    "160": {
+      "district": 160,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Ben Baker",
+          "party": "Republican",
+          "votes": 14416
+        },
+        {
+          "name": "Rebecca Stipp Jensen",
+          "party": "Democratic",
+          "votes": 4085
+        }
+      ],
+      "winner": "Ben Baker",
+      "winner_party": "Republican",
+      "winner_votes": 14416,
+      "total_votes": 18501,
+      "winner_pct": 77.9
+    },
+    "161": {
+      "district": 161,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Lane Jay Roberts",
+          "party": "Republican",
+          "votes": 8490
+        },
+        {
+          "name": "Shawna Ackerson",
+          "party": "Democratic",
+          "votes": 4783
+        }
+      ],
+      "winner": "Lane Jay Roberts",
+      "winner_party": "Republican",
+      "winner_votes": 8490,
+      "total_votes": 13273,
+      "winner_pct": 64
+    },
+    "162": {
+      "district": 162,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Bob Bromley",
+          "party": "Republican",
+          "votes": 15495
+        }
+      ],
+      "winner": "Bob Bromley",
+      "winner_party": "Republican",
+      "winner_votes": 15495,
+      "total_votes": 15495,
+      "winner_pct": 100
+    },
+    "163": {
+      "district": 163,
+      "chamber": "house",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Cathy Jo Loy",
+          "party": "Republican",
+          "votes": 11855
+        },
+        {
+          "name": "Philip D. Wilson",
+          "party": "Democratic",
+          "votes": 3278
+        }
+      ],
+      "winner": "Cathy Jo Loy",
+      "winner_party": "Republican",
+      "winner_votes": 11855,
+      "total_votes": 15133,
+      "winner_pct": 78.3
+    }
+  },
+  "senate": {
+    "1": {
+      "district": 1,
+      "chamber": "senate",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Doug Beck",
+          "party": "Democratic",
+          "votes": 53263
+        },
+        {
+          "name": "Robert J. Crump",
+          "party": "Republican",
+          "votes": 41598
+        }
+      ],
+      "winner": "Doug Beck",
+      "winner_party": "Democratic",
+      "winner_votes": 53263,
+      "total_votes": 94861,
+      "winner_pct": 56.1
+    },
+    "2": {
+      "district": 2,
+      "chamber": "senate",
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Nick Schroer",
+          "party": "Republican",
+          "votes": 42568
+        },
+        {
+          "name": "Michael Sinclair",
+          "party": "Democratic",
+          "votes": 24998
+        }
+      ],
+      "winner": "Nick Schroer",
+      "winner_party": "Republican",
+      "winner_votes": 42568,
+      "total_votes": 67566,
+      "winner_pct": 63
+    },
+    "3": {
+      "district": 3,
+      "chamber": "senate",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Mike Henderson",
+          "party": "Republican",
+          "votes": 60548
+        },
+        {
+          "name": "Doug Halbert",
+          "party": "Democratic",
+          "votes": 19273
+        }
+      ],
+      "winner": "Mike Henderson",
+      "winner_party": "Republican",
+      "winner_votes": 60548,
+      "total_votes": 79821,
+      "winner_pct": 75.9
+    },
+    "4": {
+      "district": 4,
+      "chamber": "senate",
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Karla May",
+          "party": "Democratic",
+          "votes": 51419
+        },
+        {
+          "name": "Mary Theresa McLean",
+          "party": "Republican",
+          "votes": 17906
+        }
+      ],
+      "winner": "Karla May",
+      "winner_party": "Democratic",
+      "winner_votes": 51419,
+      "total_votes": 69325,
+      "winner_pct": 74.2
+    },
+    "5": {
+      "district": 5,
+      "chamber": "senate",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Steve Roberts",
+          "party": "Democratic",
+          "votes": 47670
+        },
+        {
+          "name": "Robert Vroman",
+          "party": "Republican",
+          "votes": 6151
+        }
+      ],
+      "winner": "Steve Roberts",
+      "winner_party": "Democratic",
+      "winner_votes": 47670,
+      "total_votes": 53821,
+      "winner_pct": 88.6
+    },
+    "6": {
+      "district": 6,
+      "chamber": "senate",
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Mike Bernskoetter",
+          "party": "Republican",
+          "votes": 56424
+        }
+      ],
+      "winner": "Mike Bernskoetter",
+      "winner_party": "Republican",
+      "winner_votes": 56424,
+      "total_votes": 56424,
+      "winner_pct": 100
+    },
+    "7": {
+      "district": 7,
+      "chamber": "senate",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Patty Lewis",
+          "party": "Democratic",
+          "votes": 58149
+        },
+        {
+          "name": "Joey LaSalle",
+          "party": "Republican",
+          "votes": 19939
+        }
+      ],
+      "winner": "Patty Lewis",
+      "winner_party": "Democratic",
+      "winner_votes": 58149,
+      "total_votes": 78088,
+      "winner_pct": 74.5
+    },
+    "8": {
+      "district": 8,
+      "chamber": "senate",
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Mike Cierpiot",
+          "party": "Republican",
+          "votes": 38018
+        },
+        {
+          "name": "Antoine D. Jennings",
+          "party": "Democratic",
+          "votes": 30100
+        }
+      ],
+      "winner": "Mike Cierpiot",
+      "winner_party": "Republican",
+      "winner_votes": 38018,
+      "total_votes": 68118,
+      "winner_pct": 55.8
+    },
+    "9": {
+      "district": 9,
+      "chamber": "senate",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Barbara Anne Washington",
+          "party": "Democratic",
+          "votes": 50220
+        },
+        {
+          "name": "Derron Black",
+          "party": "Republican",
+          "votes": 13103
+        }
+      ],
+      "winner": "Barbara Anne Washington",
+      "winner_party": "Democratic",
+      "winner_votes": 50220,
+      "total_votes": 63323,
+      "winner_pct": 79.3
+    },
+    "10": {
+      "district": 10,
+      "chamber": "senate",
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Travis Fitzwater",
+          "party": "Republican",
+          "votes": 44169
+        },
+        {
+          "name": "Catherine Dreher",
+          "party": "Libertarian",
+          "votes": 12728
+        }
+      ],
+      "winner": "Travis Fitzwater",
+      "winner_party": "Republican",
+      "winner_votes": 44169,
+      "total_votes": 56897,
+      "winner_pct": 77.6
+    },
+    "11": {
+      "district": 11,
+      "chamber": "senate",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Joe Nicola",
+          "party": "Republican",
+          "votes": 37008
+        },
+        {
+          "name": "Robert Sauls",
+          "party": "Democratic",
+          "votes": 33680
+        }
+      ],
+      "winner": "Joe Nicola",
+      "winner_party": "Republican",
+      "winner_votes": 37008,
+      "total_votes": 70688,
+      "winner_pct": 52.4
+    },
+    "12": {
+      "district": 12,
+      "chamber": "senate",
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Rusty Black",
+          "party": "Republican",
+          "votes": 51470
+        },
+        {
+          "name": "Michael J. Baumli",
+          "party": "Democratic",
+          "votes": 12254
+        }
+      ],
+      "winner": "Rusty Black",
+      "winner_party": "Republican",
+      "winner_votes": 51470,
+      "total_votes": 63724,
+      "winner_pct": 80.8
+    },
+    "13": {
+      "district": 13,
+      "chamber": "senate",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Angela Walton Mosley",
+          "party": "Democratic",
+          "votes": 63076
+        }
+      ],
+      "winner": "Angela Walton Mosley",
+      "winner_party": "Democratic",
+      "winner_votes": 63076,
+      "total_votes": 63076,
+      "winner_pct": 100
+    },
+    "14": {
+      "district": 14,
+      "chamber": "senate",
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Brian Williams",
+          "party": "Democratic",
+          "votes": 41832
+        },
+        {
+          "name": "John Winkler",
+          "party": "Write-in",
+          "votes": 24
+        }
+      ],
+      "winner": "Brian Williams",
+      "winner_party": "Democratic",
+      "winner_votes": 41832,
+      "total_votes": 41856,
+      "winner_pct": 99.9
+    },
+    "15": {
+      "district": 15,
+      "chamber": "senate",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "David Gregory",
+          "party": "Republican",
+          "votes": 56093
+        },
+        {
+          "name": "Joe Pereles",
+          "party": "Democratic",
+          "votes": 50841
+        },
+        {
+          "name": "Jeff Coleman",
+          "party": "Libertarian",
+          "votes": 1733
+        }
+      ],
+      "winner": "David Gregory",
+      "winner_party": "Republican",
+      "winner_votes": 56093,
+      "total_votes": 108667,
+      "winner_pct": 51.6
+    },
+    "16": {
+      "district": 16,
+      "chamber": "senate",
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Justin Dan Brown",
+          "party": "Republican",
+          "votes": 39087
+        },
+        {
+          "name": "Tara Anura",
+          "party": "Democratic",
+          "votes": 9363
+        }
+      ],
+      "winner": "Justin Dan Brown",
+      "winner_party": "Republican",
+      "winner_votes": 39087,
+      "total_votes": 48450,
+      "winner_pct": 80.7
+    },
+    "17": {
+      "district": 17,
+      "chamber": "senate",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Maggie Nurrenbern",
+          "party": "Democratic",
+          "votes": 44709
+        },
+        {
+          "name": "Jerry Nolte",
+          "party": "Republican",
+          "votes": 39650
+        }
+      ],
+      "winner": "Maggie Nurrenbern",
+      "winner_party": "Democratic",
+      "winner_votes": 44709,
+      "total_votes": 84359,
+      "winner_pct": 53
+    },
+    "18": {
+      "district": 18,
+      "chamber": "senate",
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Cindy Olaughlin",
+          "party": "Republican",
+          "votes": 42989
+        },
+        {
+          "name": "Ayanna Shivers",
+          "party": "Democratic",
+          "votes": 13739
+        }
+      ],
+      "winner": "Cindy Olaughlin",
+      "winner_party": "Republican",
+      "winner_votes": 42989,
+      "total_votes": 56728,
+      "winner_pct": 75.8
+    },
+    "19": {
+      "district": 19,
+      "chamber": "senate",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Stephen Webber",
+          "party": "Democratic",
+          "votes": 48998
+        },
+        {
+          "name": "James Coyne",
+          "party": "Republican",
+          "votes": 37010
+        }
+      ],
+      "winner": "Stephen Webber",
+      "winner_party": "Democratic",
+      "winner_votes": 48998,
+      "total_votes": 86008,
+      "winner_pct": 57
+    },
+    "20": {
+      "district": 20,
+      "chamber": "senate",
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Curtis Trent",
+          "party": "Republican",
+          "votes": 54504
+        }
+      ],
+      "winner": "Curtis Trent",
+      "winner_party": "Republican",
+      "winner_votes": 54504,
+      "total_votes": 54504,
+      "winner_pct": 100
+    },
+    "21": {
+      "district": 21,
+      "chamber": "senate",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Kurtis Gregory",
+          "party": "Republican",
+          "votes": 64446
+        },
+        {
+          "name": "Jim Bates",
+          "party": "Democratic",
+          "votes": 28521
+        }
+      ],
+      "winner": "Kurtis Gregory",
+      "winner_party": "Republican",
+      "winner_votes": 64446,
+      "total_votes": 92967,
+      "winner_pct": 69.3
+    },
+    "22": {
+      "district": 22,
+      "chamber": "senate",
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Mary Elizabeth Coleman",
+          "party": "Republican",
+          "votes": 40695
+        },
+        {
+          "name": "Benjamin Hagin",
+          "party": "Democratic",
+          "votes": 21456
+        }
+      ],
+      "winner": "Mary Elizabeth Coleman",
+      "winner_party": "Republican",
+      "winner_votes": 40695,
+      "total_votes": 62151,
+      "winner_pct": 65.5
+    },
+    "23": {
+      "district": 23,
+      "chamber": "senate",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Adam Schnelting",
+          "party": "Republican",
+          "votes": 51308
+        },
+        {
+          "name": "Matt Williams",
+          "party": "Democratic",
+          "votes": 41822
+        }
+      ],
+      "winner": "Adam Schnelting",
+      "winner_party": "Republican",
+      "winner_votes": 51308,
+      "total_votes": 93130,
+      "winner_pct": 55.1
+    },
+    "24": {
+      "district": 24,
+      "chamber": "senate",
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Tracy McCreery",
+          "party": "Democratic",
+          "votes": 43081
+        },
+        {
+          "name": "George J Hruza",
+          "party": "Republican",
+          "votes": 36164
+        },
+        {
+          "name": "LaDonna Higgins",
+          "party": "Libertarian",
+          "votes": 1481
+        }
+      ],
+      "winner": "Tracy McCreery",
+      "winner_party": "Democratic",
+      "winner_votes": 43081,
+      "total_votes": 80726,
+      "winner_pct": 53.4
+    },
+    "25": {
+      "district": 25,
+      "chamber": "senate",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Jason Bean",
+          "party": "Republican",
+          "votes": 62593
+        },
+        {
+          "name": "Chuck Banks",
+          "party": "Democratic",
+          "votes": 12215
+        }
+      ],
+      "winner": "Jason Bean",
+      "winner_party": "Republican",
+      "winner_votes": 62593,
+      "total_votes": 74808,
+      "winner_pct": 83.7
+    },
+    "26": {
+      "district": 26,
+      "chamber": "senate",
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Ben Brown",
+          "party": "Republican",
+          "votes": 48469
+        },
+        {
+          "name": "John Kiehne",
+          "party": "Democratic",
+          "votes": 17115
+        }
+      ],
+      "winner": "Ben Brown",
+      "winner_party": "Republican",
+      "winner_votes": 48469,
+      "total_votes": 65584,
+      "winner_pct": 73.9
+    },
+    "27": {
+      "district": 27,
+      "chamber": "senate",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Jamie Burger",
+          "party": "Republican",
+          "votes": 72629
+        }
+      ],
+      "winner": "Jamie Burger",
+      "winner_party": "Republican",
+      "winner_votes": 72629,
+      "total_votes": 72629,
+      "winner_pct": 100
+    },
+    "28": {
+      "district": 28,
+      "chamber": "senate",
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Sandy Crawford",
+          "party": "Republican",
+          "votes": 55062
+        }
+      ],
+      "winner": "Sandy Crawford",
+      "winner_party": "Republican",
+      "winner_votes": 55062,
+      "total_votes": 55062,
+      "winner_pct": 100
+    },
+    "29": {
+      "district": 29,
+      "chamber": "senate",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Mike Moon",
+          "party": "Republican",
+          "votes": 73685
+        },
+        {
+          "name": "Ron Monnig",
+          "party": "Democratic",
+          "votes": 18326
+        }
+      ],
+      "winner": "Mike Moon",
+      "winner_party": "Republican",
+      "winner_votes": 73685,
+      "total_votes": 92011,
+      "winner_pct": 80.1
+    },
+    "30": {
+      "district": 30,
+      "chamber": "senate",
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Lincoln Hough",
+          "party": "Republican",
+          "votes": 30483
+        },
+        {
+          "name": "Raymond Lampert",
+          "party": "Democratic",
+          "votes": 22464
+        }
+      ],
+      "winner": "Lincoln Hough",
+      "winner_party": "Republican",
+      "winner_votes": 30483,
+      "total_votes": 52947,
+      "winner_pct": 57.6
+    },
+    "31": {
+      "district": 31,
+      "chamber": "senate",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Rick Brattin",
+          "party": "Republican",
+          "votes": 60541
+        },
+        {
+          "name": "Raymond L. James",
+          "party": "Democratic",
+          "votes": 27825
+        }
+      ],
+      "winner": "Rick Brattin",
+      "winner_party": "Republican",
+      "winner_votes": 60541,
+      "total_votes": 88366,
+      "winner_pct": 68.5
+    },
+    "32": {
+      "district": 32,
+      "chamber": "senate",
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Jill Carter",
+          "party": "Republican",
+          "votes": 46763
+        }
+      ],
+      "winner": "Jill Carter",
+      "winner_party": "Republican",
+      "winner_votes": 46763,
+      "total_votes": 46763,
+      "winner_pct": 100
+    },
+    "33": {
+      "district": 33,
+      "chamber": "senate",
+      "year": 2024,
+      "candidates": [
+        {
+          "name": "Brad Hudson",
+          "party": "Republican",
+          "votes": 79814
+        }
+      ],
+      "winner": "Brad Hudson",
+      "winner_party": "Republican",
+      "winner_votes": 79814,
+      "total_votes": 79814,
+      "winner_pct": 100
+    },
+    "34": {
+      "district": 34,
+      "chamber": "senate",
+      "year": 2022,
+      "candidates": [
+        {
+          "name": "Tony Luetkemeyer",
+          "party": "Republican",
+          "votes": 37236
+        },
+        {
+          "name": "Sarah Shorter",
+          "party": "Democratic",
+          "votes": 25767
+        }
+      ],
+      "winner": "Tony Luetkemeyer",
+      "winner_party": "Republican",
+      "winner_votes": 37236,
+      "total_votes": 63003,
+      "winner_pct": 59.1
+    }
+  }
+}

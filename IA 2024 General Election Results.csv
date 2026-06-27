@@ -1,0 +1,612 @@
+summary
+line number,contest name,choice name,party name,total votes,percent of votes,registered voters,ballots cast,num Area total,num Area rptg,over votes,under votes
+1,President and Vice President (Vote For 1),Kamala D. Harris and Tim Walz,DEM,707278,42.52,0,1674011,99,99,0,0
+2,President and Vice President (Vote For 1),Donald J. Trump and JD Vance,REP,927019,55.73,0,1674011,99,99,0,0
+3,President and Vice President (Vote For 1),Chase Oliver and Mike ter Maat,LIB,7218,0.43,0,1674011,99,99,0,0
+4,President and Vice President (Vote For 1),Shiva Ayyadurai and Crystal Ellis,,424,0.03,0,1674011,99,99,0,0
+5,President and Vice President (Vote For 1),Claudia De la Cruz and Karina Garcia,PSL,1427,0.09,0,1674011,99,99,0,0
+6,President and Vice President (Vote For 1),William P. Stodden and Stephanie H. Cholensky,SOC,361,0.02,0,1674011,99,99,0,0
+7,President and Vice President (Vote For 1),Robert F. Kennedy Jr and Nicole Shanahan,WTP,13122,0.79,0,1674011,99,99,0,0
+8,President and Vice President (Vote For 1),Write-in,,6657,0.40,0,1674011,99,99,0,0
+9,United States Representative District 1 (Vote For 1),Christina Bohannan,DEM,206156,49.79,0,427338,20,20,0,0
+10,United States Representative District 1 (Vote For 1),Mariannette Miller-Meeks,REP,206955,49.98,0,427338,20,20,0,0
+11,United States Representative District 1 (Vote For 1),Write-in,,967,0.23,0,427338,20,20,0,0
+12,United States Representative District 2 (Vote For 1),Sarah Corkery,DEM,169740,41.52,0,424019,22,22,0,0
+13,United States Representative District 2 (Vote For 1),Ashley Hinson,REP,233340,57.08,0,424019,22,22,0,0
+14,United States Representative District 2 (Vote For 1),Jody Madlom Puffett,,5381,1.32,0,424019,22,22,0,0
+15,United States Representative District 2 (Vote For 1),Write-in,,341,0.08,0,424019,22,22,0,0
+16,United States Representative District 3 (Vote For 1),Lanon Baccam,DEM,197962,47.94,0,426546,21,21,0,0
+17,United States Representative District 3 (Vote For 1),Zach Nunn,REP,213746,51.77,0,426546,21,21,0,0
+18,United States Representative District 3 (Vote For 1),Write-in,,1197,0.29,0,426546,21,21,0,0
+19,United States Representative District 4 (Vote For 1),Ryan Melton,DEM,122175,32.68,0,396108,36,36,0,0
+20,United States Representative District 4 (Vote For 1),Randy Feenstra,REP,250522,67.02,0,396108,36,36,0,0
+21,United States Representative District 4 (Vote For 1),Write-in,,1127,0.30,0,396108,36,36,0,0
+22,State Senator District 2 (Vote For 1),Jeff Taylor,REP,27438,99.11,0,34415,3,3,0,0
+23,State Senator District 2 (Vote For 1),Write-in,,245,0.89,0,34415,3,3,0,0
+24,State Senator District 4 (Vote For 1),Tim Kraayenbrink,REP,23727,97.81,0,31044,4,4,0,0
+25,State Senator District 4 (Vote For 1),Write-in,,531,2.19,0,31044,4,4,0,0
+26,State Senator District 6 (Vote For 1),Jason Schultz,REP,23108,80.98,0,32468,6,6,0,0
+27,State Senator District 6 (Vote For 1),David M. Davis,LIB,5337,18.70,0,32468,6,6,0,0
+28,State Senator District 6 (Vote For 1),Write-in,,90,0.32,0,32468,6,6,0,0
+29,State Senator District 8 (Vote For 1),Ryan Lee Roenfeld,DEM,10432,29.32,0,37960,4,4,0,0
+30,State Senator District 8 (Vote For 1),Mark Costello,REP,25069,70.47,0,37960,4,4,0,0
+31,State Senator District 8 (Vote For 1),Write-in,,73,0.21,0,37960,4,4,0,0
+32,State Senator District 10 (Vote For 1),Steve Gorman,DEM,10842,43.88,0,25810,1,1,0,0
+33,State Senator District 10 (Vote For 1),Dan Dawson,REP,13840,56.01,0,25810,1,1,0,0
+34,State Senator District 10 (Vote For 1),Write-in,,27,0.11,0,25810,1,1,0,0
+35,State Senator District 12 (Vote For 1),Nicole Loew,DEM,9682,29.52,0,34592,9,9,0,0
+36,State Senator District 12 (Vote For 1),Amy Sinclair,REP,23075,70.35,0,34592,9,9,0,0
+37,State Senator District 12 (Vote For 1),Write-in,,43,0.13,0,34592,9,9,0,0
+38,State Senator District 14 (Vote For 1),Sarah Trone Garriott,DEM,20467,49.96,0,42455,1,1,0,0
+39,State Senator District 14 (Vote For 1),Mark A. Hanson,REP,20438,49.89,0,42455,1,1,0,0
+40,State Senator District 14 (Vote For 1),Write-in,,59,0.14,0,42455,1,1,0,0
+41,State Senator District 16 (Vote For 1),Claire Celsi,DEM,21557,69.46,0,36373,2,2,0,0
+42,State Senator District 16 (Vote For 1),Joshua Smith,LIB,9184,29.59,0,36373,2,2,0,0
+43,State Senator District 16 (Vote For 1),Write-in,,296,0.95,0,36373,2,2,0,0
+44,State Senator District 18 (Vote For 1),Janet Petersen,DEM,25564,97.09,0,34196,1,1,0,0
+45,State Senator District 18 (Vote For 1),Write-in,,766,2.91,0,34196,1,1,0,0
+46,State Senator District 20 (Vote For 1),Nate Boulton,DEM,15600,49.82,0,33014,1,1,0,0
+47,State Senator District 20 (Vote For 1),Mike Pike,REP,15644,49.96,0,33014,1,1,0,0
+48,State Senator District 20 (Vote For 1),Write-in,,66,0.21,0,33014,1,1,0,0
+49,State Senator District 22 (Vote For 1),Matt Blake,DEM,19128,52.37,0,37765,1,1,0,0
+50,State Senator District 22 (Vote For 1),Brad Zaun,REP,17336,47.46,0,37765,1,1,0,0
+51,State Senator District 22 (Vote For 1),Write-in,,64,0.18,0,37765,1,1,0,0
+52,State Senator District 24 (Vote For 1),Margaret Liston,DEM,12580,37.40,0,35754,5,5,0,0
+53,State Senator District 24 (Vote For 1),Jesse Green,REP,21004,62.45,0,35754,5,5,0,0
+54,State Senator District 24 (Vote For 1),Write-in,,50,0.15,0,35754,5,5,0,0
+55,State Senator District 26 (Vote For 1),Mike Wolfe,DEM,12121,40.22,0,31638,2,2,0,0
+56,State Senator District 26 (Vote For 1),Kara Warme,REP,17967,59.62,0,31638,2,2,0,0
+57,State Senator District 26 (Vote For 1),Write-in,,48,0.16,0,31638,2,2,0,0
+58,State Senator District 28 (Vote For 1),Cynthia Oppedal Paschen,DEM,9302,30.45,0,32983,6,6,0,0
+59,State Senator District 28 (Vote For 1),Dennis Guth,REP,21185,69.36,0,32983,6,6,0,0
+60,State Senator District 28 (Vote For 1),Write-in,,58,0.19,0,32983,6,6,0,0
+61,State Senator District 30 (Vote For 1),Richard Lorence,DEM,12762,38.57,0,34784,4,4,0,0
+62,State Senator District 30 (Vote For 1),Doug Campbell,REP,20272,61.26,0,34784,4,4,0,0
+63,State Senator District 30 (Vote For 1),Write-in,,58,0.18,0,34784,4,4,0,0
+64,State Senator District 32 (Vote For 1),Brian Bruening,DEM,12080,35.32,0,35723,6,6,0,0
+65,State Senator District 32 (Vote For 1),Mike Klimesh,REP,22097,64.60,0,35723,6,6,0,0
+66,State Senator District 32 (Vote For 1),Write-in,,27,0.08,0,35723,6,6,0,0
+67,State Senator District 34 (Vote For 1),Joe Hegland,DEM,10937,33.21,0,34441,5,5,0,0
+68,State Senator District 34 (Vote For 1),Dan Zumbach,REP,21962,66.68,0,34441,5,5,0,0
+69,State Senator District 34 (Vote For 1),Write-in,,36,0.11,0,34441,5,5,0,0
+70,State Senator District 36 (Vote For 1),Thomas Townsend,DEM,15274,50.45,0,31804,1,1,0,0
+71,State Senator District 36 (Vote For 1),Nicholas Molo,REP,14958,49.41,0,31804,1,1,0,0
+72,State Senator District 36 (Vote For 1),Write-in,,43,0.14,0,31804,1,1,0,0
+73,State Senator District 38 (Vote For 1),Eric Giddens,DEM,16846,49.38,0,35553,3,3,0,0
+74,State Senator District 38 (Vote For 1),Dave Sires,REP,17232,50.51,0,35553,3,3,0,0
+75,State Senator District 38 (Vote For 1),Write-in,,38,0.11,0,35553,3,3,0,0
+76,State Senator District 40 (Vote For 1),Art Staed,DEM,18157,55.10,0,34402,1,1,0,0
+77,State Senator District 40 (Vote For 1),Kris G Gulick,REP,14763,44.80,0,34402,1,1,0,0
+78,State Senator District 40 (Vote For 1),Write-in,,30,0.09,0,34402,1,1,0,0
+79,State Senator District 42 (Vote For 1),Charlie McClintock,REP,27726,97.22,0,61176,2,2,0,0
+80,State Senator District 42 (Vote For 1),Write-in,,792,2.78,0,61176,2,2,0,0
+81,State Senator District 44 (Vote For 1),Adrian Dickey,REP,19207,68.32,0,32307,5,5,0,0
+82,State Senator District 44 (Vote For 1),Lisa Ossian,,8826,31.39,0,32307,5,5,0,0
+83,State Senator District 44 (Vote For 1),Write-in,,81,0.29,0,32307,5,5,0,0
+84,State Senator District 46 (Vote For 1),Ed Chabal,DEM,13769,39.22,0,38102,3,3,0,0
+85,State Senator District 46 (Vote For 1),Dawn Driscoll,REP,21299,60.67,0,38102,3,3,0,0
+86,State Senator District 46 (Vote For 1),Write-in,,38,0.11,0,38102,3,3,0,0
+87,State Senator District 48 (Vote For 1),John Dabeet,DEM,10281,34.18,0,31471,4,4,0,0
+88,State Senator District 48 (Vote For 1),Mark S. Lofgren,REP,19755,65.67,0,31471,4,4,0,0
+89,State Senator District 48 (Vote For 1),Write-in,,45,0.15,0,31471,4,4,0,0
+90,State Senator District 50 (Vote For 1),Nannette Griffin,DEM,11869,41.42,0,30516,2,2,0,0
+91,State Senator District 50 (Vote For 1),Jeff Reichman,REP,16735,58.40,0,30516,2,2,0,0
+92,State Senator District 50 (Vote For 1),Write-in,,50,0.17,0,30516,2,2,0,0
+93,State Representative District 1 (Vote For 1),J.D. Scholten,DEM,4615,53.40,0,9308,1,1,0,0
+94,State Representative District 1 (Vote For 1),Josh Steinhoff,REP,4017,46.48,0,9308,1,1,0,0
+95,State Representative District 1 (Vote For 1),Write-in,,11,0.13,0,9308,1,1,0,0
+96,State Representative District 2 (Vote For 1),Jessica Lopez-Walker,DEM,4613,39.22,0,12630,1,1,0,0
+97,State Representative District 2 (Vote For 1),Robert Henderson,REP,7130,60.62,0,12630,1,1,0,0
+98,State Representative District 2 (Vote For 1),Write-in,,18,0.15,0,12630,1,1,0,0
+99,State Representative District 3 (Vote For 1),Emma Bouza,DEM,3236,21.19,0,16853,2,2,0,0
+100,State Representative District 3 (Vote For 1),Thomas Jeneary,REP,12012,78.65,0,16853,2,2,0,0
+101,State Representative District 3 (Vote For 1),Write-in,,24,0.16,0,16853,2,2,0,0
+102,State Representative District 4 (Vote For 1),Skyler Wheeler,REP,14292,98.13,0,17562,2,2,0,0
+103,State Representative District 4 (Vote For 1),Write-in,,272,1.87,0,17562,2,2,0,0
+104,State Representative District 5 (Vote For 1),Zachary M. Dieken,REP,11146,77.85,0,16521,4,4,0,0
+105,State Representative District 5 (Vote For 1),Michael Schnoes,,3136,21.90,0,16521,4,4,0,0
+106,State Representative District 5 (Vote For 1),Write-in,,36,0.25,0,16521,4,4,0,0
+107,State Representative District 6 (Vote For 1),Megan Jones,REP,10020,97.72,0,13487,2,2,0,0
+108,State Representative District 6 (Vote For 1),Write-in,,234,2.28,0,13487,2,2,0,0
+109,State Representative District 7 (Vote For 1),Mike Sexton,REP,12743,83.43,0,17145,4,4,0,0
+110,State Representative District 7 (Vote For 1),Martin Podraza,,2465,16.14,0,17145,4,4,0,0
+111,State Representative District 7 (Vote For 1),Write-in,,66,0.43,0,17145,4,4,0,0
+112,State Representative District 8 (Vote For 1),Ann Meyer,REP,10459,97.47,0,13899,1,1,0,0
+113,State Representative District 8 (Vote For 1),Write-in,,272,2.53,0,13899,1,1,0,0
+114,State Representative District 9 (Vote For 1),Christian He-Man Schlaerth,DEM,4270,26.63,0,17113,3,3,0,0
+115,State Representative District 9 (Vote For 1),Henry Stone,REP,11744,73.24,0,17113,3,3,0,0
+116,State Representative District 9 (Vote For 1),Write-in,,21,0.13,0,17113,3,3,0,0
+117,State Representative District 10 (Vote For 1),John H. Wills,REP,15293,98.39,0,19477,4,4,0,0
+118,State Representative District 10 (Vote For 1),Write-in,,251,1.61,0,19477,4,4,0,0
+119,State Representative District 11 (Vote For 1),Jeff Rich,DEM,4329,27.53,0,17631,4,4,0,0
+120,State Representative District 11 (Vote For 1),Craig Steven Williams,REP,11381,72.38,0,17631,4,4,0,0
+121,State Representative District 11 (Vote For 1),Write-in,,14,0.09,0,17631,4,4,0,0
+122,State Representative District 12 (Vote For 1),Dustin Durbin,DEM,3643,26.15,0,14837,3,3,0,0
+123,State Representative District 12 (Vote For 1),Steven Holt,REP,10269,73.72,0,14837,3,3,0,0
+124,State Representative District 12 (Vote For 1),Write-in,,18,0.13,0,14837,3,3,0,0
+125,State Representative District 13 (Vote For 1),Rosanne Plante,DEM,3192,18.72,0,19518,4,4,0,0
+126,State Representative District 13 (Vote For 1),Travis M Sitzmann,REP,12462,73.07,0,19518,4,4,0,0
+127,State Representative District 13 (Vote For 1),Parker Hansen,,1370,8.03,0,19518,4,4,0,0
+128,State Representative District 13 (Vote For 1),Write-in,,31,0.18,0,19518,4,4,0,0
+129,State Representative District 14 (Vote For 1),Jacob Bossman,REP,11116,97.50,0,15466,1,1,0,0
+130,State Representative District 14 (Vote For 1),Write-in,,285,2.50,0,15466,1,1,0,0
+131,State Representative District 15 (Vote For 1),Benjamin Schauer,DEM,5655,30.60,0,19611,2,2,0,0
+132,State Representative District 15 (Vote For 1),Matt W. Windschitl,REP,12795,69.23,0,19611,2,2,0,0
+133,State Representative District 15 (Vote For 1),Write-in,,31,0.17,0,19611,2,2,0,0
+134,State Representative District 16 (Vote For 1),Candella Foley-Finchem,DEM,4265,24.84,0,18349,3,3,0,0
+135,State Representative District 16 (Vote For 1),David Sieck,REP,12876,74.98,0,18349,3,3,0,0
+136,State Representative District 16 (Vote For 1),Write-in,,31,0.18,0,18349,3,3,0,0
+137,State Representative District 17 (Vote For 1),Devon Wood,REP,12638,98.37,0,16281,5,5,0,0
+138,State Representative District 17 (Vote For 1),Write-in,,209,1.63,0,16281,5,5,0,0
+139,State Representative District 18 (Vote For 1),Tripp Narup,DEM,3938,26.00,0,16749,3,3,0,0
+140,State Representative District 18 (Vote For 1),Thomas Jay Moore,REP,11165,73.70,0,16749,3,3,0,0
+141,State Representative District 18 (Vote For 1),Write-in,,46,0.30,0,16749,3,3,0,0
+142,State Representative District 19 (Vote For 1),Roger Petersen,DEM,5469,41.29,0,14054,1,1,0,0
+143,State Representative District 19 (Vote For 1),Brent Siegrist,REP,7751,58.52,0,14054,1,1,0,0
+144,State Representative District 19 (Vote For 1),Write-in,,26,0.20,0,14054,1,1,0,0
+145,State Representative District 20 (Vote For 1),Josh Turek,DEM,5881,52.47,0,11756,1,1,0,0
+146,State Representative District 20 (Vote For 1),James Wassell,REP,5320,47.47,0,11756,1,1,0,0
+147,State Representative District 20 (Vote For 1),Write-in,,7,0.06,0,11756,1,1,0,0
+148,State Representative District 21 (Vote For 1),Spencer A Waugh,DEM,7166,41.25,0,18047,2,2,0,0
+149,State Representative District 21 (Vote For 1),Brooke Boden,REP,10184,58.62,0,18047,2,2,0,0
+150,State Representative District 21 (Vote For 1),Write-in,,23,0.13,0,18047,2,2,0,0
+151,State Representative District 22 (Vote For 1),Rory D. Taylor,DEM,8134,40.62,0,21082,1,1,0,0
+152,State Representative District 22 (Vote For 1),Samantha Fett,REP,11861,59.23,0,21082,1,1,0,0
+153,State Representative District 22 (Vote For 1),Write-in,,30,0.15,0,21082,1,1,0,0
+154,State Representative District 23 (Vote For 1),Karen Varley,DEM,4939,27.73,0,18722,5,5,0,0
+155,State Representative District 23 (Vote For 1),Ray Bubba Sorensen,REP,12837,72.07,0,18722,5,5,0,0
+156,State Representative District 23 (Vote For 1),Write-in,,36,0.20,0,18722,5,5,0,0
+157,State Representative District 24 (Vote For 1),Sonya Hicks,DEM,4873,32.91,0,15870,5,5,0,0
+158,State Representative District 24 (Vote For 1),Sam Wengryn,REP,9901,66.86,0,15870,5,5,0,0
+159,State Representative District 24 (Vote For 1),Write-in,,35,0.24,0,15870,5,5,0,0
+160,State Representative District 25 (Vote For 1),Brenda Curran,DEM,4321,35.12,0,12796,1,1,0,0
+161,State Representative District 25 (Vote For 1),Hans Wilz,REP,7972,64.79,0,12796,1,1,0,0
+162,State Representative District 25 (Vote For 1),Write-in,,12,0.10,0,12796,1,1,0,0
+163,State Representative District 26 (Vote For 1),Darcie Whitlow,DEM,3658,24.12,0,16137,4,4,0,0
+164,State Representative District 26 (Vote For 1),Austin Harris,REP,10843,71.49,0,16137,4,4,0,0
+165,State Representative District 26 (Vote For 1),Donald Gier,LIB,634,4.18,0,16137,4,4,0,0
+166,State Representative District 26 (Vote For 1),Write-in,,32,0.21,0,16137,4,4,0,0
+167,State Representative District 27 (Vote For 1),Kenan Judge,DEM,11886,55.72,0,22236,1,1,0,0
+168,State Representative District 27 (Vote For 1),Oliver Bardwell,REP,9429,44.20,0,22236,1,1,0,0
+169,State Representative District 27 (Vote For 1),Write-in,,18,0.08,0,22236,1,1,0,0
+170,State Representative District 28 (Vote For 1),Laura Snider,DEM,9095,46.63,0,20219,1,1,0,0
+171,State Representative District 28 (Vote For 1),David Young,REP,10381,53.23,0,20219,1,1,0,0
+172,State Representative District 28 (Vote For 1),Write-in,,27,0.14,0,20219,1,1,0,0
+173,State Representative District 29 (Vote For 1),Brian Meyer,DEM,7948,95.72,0,11571,1,1,0,0
+174,State Representative District 29 (Vote For 1),Write-in,,355,4.28,0,11571,1,1,0,0
+175,State Representative District 30 (Vote For 1),Megan L. Srinivas,DEM,7515,62.39,0,13070,1,1,0,0
+176,State Representative District 30 (Vote For 1),Jerry Cheevers,REP,4477,37.17,0,13070,1,1,0,0
+177,State Representative District 30 (Vote For 1),Write-in,,53,0.44,0,13070,1,1,0,0
+178,State Representative District 31 (Vote For 1),Mary Lee Madison,DEM,12465,96.05,0,18850,2,2,0,0
+179,State Representative District 31 (Vote For 1),Write-in,,513,3.95,0,18850,2,2,0,0
+180,State Representative District 32 (Vote For 1),Jennifer Konfrst,DEM,11837,95.95,0,17523,1,1,0,0
+181,State Representative District 32 (Vote For 1),Write-in,,500,4.05,0,17523,1,1,0,0
+182,State Representative District 33 (Vote For 1),Ruth Ann Gaines,DEM,7058,75.13,0,11071,1,1,0,0
+183,State Representative District 33 (Vote For 1),Toya S. Johnson,LIB,2181,23.21,0,11071,1,1,0,0
+184,State Representative District 33 (Vote For 1),Write-in,,156,1.66,0,11071,1,1,0,0
+185,State Representative District 34 (Vote For 1),Rob Johnson,DEM,7783,76.45,0,10932,1,1,0,0
+186,State Representative District 34 (Vote For 1),Danielle Duggan,REP,2345,23.04,0,10932,1,1,0,0
+187,State Representative District 34 (Vote For 1),Write-in,,52,0.51,0,10932,1,1,0,0
+188,State Representative District 35 (Vote For 1),Sean Bagniewski,DEM,10574,66.40,0,17080,1,1,0,0
+189,State Representative District 35 (Vote For 1),Angela Kay Schreader,REP,4503,28.28,0,17080,1,1,0,0
+190,State Representative District 35 (Vote For 1),David G. Green,LIB,802,5.04,0,17080,1,1,0,0
+191,State Representative District 35 (Vote For 1),Write-in,,45,0.28,0,17080,1,1,0,0
+192,State Representative District 36 (Vote For 1),Austin Baeth,DEM,13031,97.64,0,17116,1,1,0,0
+193,State Representative District 36 (Vote For 1),Write-in,,315,2.36,0,17116,1,1,0,0
+194,State Representative District 37 (Vote For 1),Barb Kniff McCulla,REP,14955,98.30,0,19236,3,3,0,0
+195,State Representative District 37 (Vote For 1),Write-in,,258,1.70,0,19236,3,3,0,0
+196,State Representative District 38 (Vote For 1),Brad Magg,DEM,7164,44.20,0,16804,1,1,0,0
+197,State Representative District 38 (Vote For 1),Jon Dunwell,REP,9035,55.75,0,16804,1,1,0,0
+198,State Representative District 38 (Vote For 1),Write-in,,8,0.05,0,16804,1,1,0,0
+199,State Representative District 39 (Vote For 1),Rick L. Olson,DEM,7511,54.57,0,14969,1,1,0,0
+200,State Representative District 39 (Vote For 1),Troy Clark,REP,6217,45.17,0,14969,1,1,0,0
+201,State Representative District 39 (Vote For 1),Write-in,,35,0.25,0,14969,1,1,0,0
+202,State Representative District 40 (Vote For 1),Heather Sievers,DEM,8402,49.00,0,18045,1,1,0,0
+203,State Representative District 40 (Vote For 1),Bill Gustoff,REP,8720,50.86,0,18045,1,1,0,0
+204,State Representative District 40 (Vote For 1),Write-in,,24,0.14,0,18045,1,1,0,0
+205,State Representative District 41 (Vote For 1),Molly Buck,DEM,10569,49.60,0,22025,1,1,0,0
+206,State Representative District 41 (Vote For 1),Ryan Weldon,REP,10707,50.25,0,22025,1,1,0,0
+207,State Representative District 41 (Vote For 1),Write-in,,33,0.15,0,22025,1,1,0,0
+208,State Representative District 42 (Vote For 1),Heather Matson,DEM,9108,50.34,0,18890,1,1,0,0
+209,State Representative District 42 (Vote For 1),Heather Stephenson,REP,8959,49.51,0,18890,1,1,0,0
+210,State Representative District 42 (Vote For 1),Write-in,,27,0.15,0,18890,1,1,0,0
+211,State Representative District 43 (Vote For 1),Tiara Mays-Sims,DEM,8959,47.50,0,19612,1,1,0,0
+212,State Representative District 43 (Vote For 1),Eddie Andrews,REP,9598,50.89,0,19612,1,1,0,0
+213,State Representative District 43 (Vote For 1),Brett Harvey Nelson,,280,1.48,0,19612,1,1,0,0
+214,State Representative District 43 (Vote For 1),Write-in,,23,0.12,0,19612,1,1,0,0
+215,State Representative District 44 (Vote For 1),Larry McBurney,DEM,9769,64.25,0,18153,1,1,0,0
+216,State Representative District 44 (Vote For 1),Jake Heard,LIB,5313,34.94,0,18153,1,1,0,0
+217,State Representative District 44 (Vote For 1),Write-in,,122,0.80,0,18153,1,1,0,0
+218,State Representative District 45 (Vote For 1),Anthony William Thompson,DEM,6998,35.23,0,20974,1,1,0,0
+219,State Representative District 45 (Vote For 1),Brian K. Lohse,REP,12827,64.57,0,20974,1,1,0,0
+220,State Representative District 45 (Vote For 1),Write-in,,40,0.20,0,20974,1,1,0,0
+221,State Representative District 46 (Vote For 1),Lynne Campbell,DEM,8834,44.79,0,23396,2,2,0,0
+222,State Representative District 46 (Vote For 1),Dan Gehlbach,REP,10868,55.11,0,23396,2,2,0,0
+223,State Representative District 46 (Vote For 1),Write-in,,20,0.10,0,23396,2,2,0,0
+224,State Representative District 47 (Vote For 1),Joe Shelly,DEM,5570,35.82,0,17019,3,3,0,0
+225,State Representative District 47 (Vote For 1),Carter Nordman,REP,9956,64.02,0,17019,3,3,0,0
+226,State Representative District 47 (Vote For 1),Write-in,,25,0.16,0,17019,3,3,0,0
+227,State Representative District 48 (Vote For 1),Penny Vossler,DEM,7022,39.66,0,18735,2,2,0,0
+228,State Representative District 48 (Vote For 1),Chad Behn,REP,10654,60.18,0,18735,2,2,0,0
+229,State Representative District 48 (Vote For 1),Write-in,,29,0.16,0,18735,2,2,0,0
+230,State Representative District 49 (Vote For 1),Beth Wessel-Kroeschell,DEM,7500,73.31,0,12366,1,1,0,0
+231,State Representative District 49 (Vote For 1),Eric Cooper,LIB,2639,25.79,0,12366,1,1,0,0
+232,State Representative District 49 (Vote For 1),Write-in,,92,0.90,0,12366,1,1,0,0
+233,State Representative District 50 (Vote For 1),Ross Wilburn,DEM,11802,97.02,0,16498,1,1,0,0
+234,State Representative District 50 (Vote For 1),Write-in,,363,2.98,0,16498,1,1,0,0
+235,State Representative District 51 (Vote For 1),Ryan Condon,DEM,6719,37.28,0,18888,2,2,0,0
+236,State Representative District 51 (Vote For 1),Brett Barker,REP,11275,62.55,0,18888,2,2,0,0
+237,State Representative District 51 (Vote For 1),Write-in,,31,0.17,0,18888,2,2,0,0
+238,State Representative District 52 (Vote For 1),Sue Cahill,DEM,5869,47.65,0,12750,1,1,0,0
+239,State Representative District 52 (Vote For 1),David Blom,REP,6437,52.27,0,12750,1,1,0,0
+240,State Representative District 52 (Vote For 1),Write-in,,10,0.08,0,12750,1,1,0,0
+241,State Representative District 53 (Vote For 1),Tommy Hexter,DEM,6745,43.08,0,16415,2,2,0,0
+242,State Representative District 53 (Vote For 1),Dean Fisher,REP,8889,56.77,0,16415,2,2,0,0
+243,State Representative District 53 (Vote For 1),Write-in,,24,0.15,0,16415,2,2,0,0
+244,State Representative District 54 (Vote For 1),Joshua Meggers,REP,13435,98.45,0,19119,3,3,0,0
+245,State Representative District 54 (Vote For 1),Write-in,,211,1.55,0,19119,3,3,0,0
+246,State Representative District 55 (Vote For 1),Shannon Latham,REP,13003,98.28,0,16745,4,4,0,0
+247,State Representative District 55 (Vote For 1),Write-in,,228,1.72,0,16745,4,4,0,0
+248,State Representative District 56 (Vote For 1),Kyle Kruse,DEM,3876,25.73,0,16238,3,3,0,0
+249,State Representative District 56 (Vote For 1),Mark I. Thompson,REP,11167,74.12,0,16238,3,3,0,0
+250,State Representative District 56 (Vote For 1),Write-in,,23,0.15,0,16238,3,3,0,0
+251,State Representative District 57 (Vote For 1),Shawn Ellerbroek,DEM,7180,39.74,0,18492,2,2,0,0
+252,State Representative District 57 (Vote For 1),Pat Grassley,REP,10869,60.16,0,18492,2,2,0,0
+253,State Representative District 57 (Vote For 1),Write-in,,18,0.10,0,18492,2,2,0,0
+254,State Representative District 58 (Vote For 1),Gail Allison,DEM,5782,36.45,0,16741,3,3,0,0
+255,State Representative District 58 (Vote For 1),Charley Thomson,REP,10060,63.42,0,16741,3,3,0,0
+256,State Representative District 58 (Vote For 1),Write-in,,21,0.13,0,16741,3,3,0,0
+257,State Representative District 59 (Vote For 1),Jeremy True,DEM,7698,48.78,0,16477,1,1,0,0
+258,State Representative District 59 (Vote For 1),Christian Hermanson,REP,8069,51.13,0,16477,1,1,0,0
+259,State Representative District 59 (Vote For 1),Write-in,,15,0.10,0,16477,1,1,0,0
+260,State Representative District 60 (Vote For 1),Jane E. Bloomingdale,REP,14459,98.37,0,18307,4,4,0,0
+261,State Representative District 60 (Vote For 1),Write-in,,240,1.63,0,18307,4,4,0,0
+262,State Representative District 61 (Vote For 1),Timi Brown-Powers,DEM,9230,97.72,0,14074,1,1,0,0
+263,State Representative District 61 (Vote For 1),Write-in,,215,2.28,0,14074,1,1,0,0
+264,State Representative District 62 (Vote For 1),Jerome Amos Jr,DEM,7135,75.30,0,11352,1,1,0,0
+265,State Representative District 62 (Vote For 1),Ervin Sabic,LIB,2273,23.99,0,11352,1,1,0,0
+266,State Representative District 62 (Vote For 1),Write-in,,67,0.71,0,11352,1,1,0,0
+267,State Representative District 63 (Vote For 1),Michael R. Bergan,REP,13566,91.43,0,18356,3,3,0,0
+268,State Representative District 63 (Vote For 1),Write-in,,288,1.94,0,18356,3,3,0,0
+269,State Representative District 63 (Vote For 1),Kayla Koether,,984,6.63,0,18356,3,3,0,0
+270,State Representative District 64 (Vote For 1),Jason Gearhart,REP,10824,67.72,0,17367,3,3,0,0
+271,State Representative District 64 (Vote For 1),Ian Zahren,,5114,32.00,0,17367,3,3,0,0
+272,State Representative District 64 (Vote For 1),Write-in,,45,0.28,0,17367,3,3,0,0
+273,State Representative District 65 (Vote For 1),Carolyn Wiezorek,DEM,6623,35.65,0,19399,1,1,0,0
+274,State Representative District 65 (Vote For 1),Shannon Lundgren,REP,11934,64.24,0,19399,1,1,0,0
+275,State Representative District 65 (Vote For 1),Write-in,,20,0.11,0,19399,1,1,0,0
+276,State Representative District 66 (Vote For 1),Andy McKean,DEM,7670,44.53,0,17846,2,2,0,0
+277,State Representative District 66 (Vote For 1),Steven P Bradley,REP,9541,55.39,0,17846,2,2,0,0
+278,State Representative District 66 (Vote For 1),Write-in,,13,0.08,0,17846,2,2,0,0
+279,State Representative District 67 (Vote For 1),Craig Johnson,REP,14178,98.17,0,18256,3,3,0,0
+280,State Representative District 67 (Vote For 1),Write-in,,265,1.83,0,18256,3,3,0,0
+281,State Representative District 68 (Vote For 1),Tim O'Brien,DEM,5037,32.70,0,16185,3,3,0,0
+282,State Representative District 68 (Vote For 1),Chad Ingels,REP,10355,67.21,0,16185,3,3,0,0
+283,State Representative District 68 (Vote For 1),Write-in,,14,0.09,0,16185,3,3,0,0
+284,State Representative District 69 (Vote For 1),Randy Meier,DEM,6454,42.94,0,15538,1,1,0,0
+285,State Representative District 69 (Vote For 1),Tom Determann,REP,8568,57.00,0,15538,1,1,0,0
+286,State Representative District 69 (Vote For 1),Write-in,,9,0.06,0,15538,1,1,0,0
+287,State Representative District 70 (Vote For 1),Kay Pence,DEM,6708,38.57,0,18249,3,3,0,0
+288,State Representative District 70 (Vote For 1),Norlin Mommsen,REP,10661,61.30,0,18249,3,3,0,0
+289,State Representative District 70 (Vote For 1),Write-in,,22,0.13,0,18249,3,3,0,0
+290,State Representative District 71 (Vote For 1),Lindsay James,DEM,7971,56.09,0,14950,1,1,0,0
+291,State Representative District 71 (Vote For 1),James W. McClain,REP,6220,43.77,0,14950,1,1,0,0
+292,State Representative District 71 (Vote For 1),Write-in,,21,0.15,0,14950,1,1,0,0
+293,State Representative District 72 (Vote For 1),Charles Isenhart,DEM,7513,46.62,0,16854,1,1,0,0
+294,State Representative District 72 (Vote For 1),Jennifer J. Smith,REP,8575,53.21,0,16854,1,1,0,0
+295,State Representative District 72 (Vote For 1),Write-in,,26,0.16,0,16854,1,1,0,0
+296,State Representative District 73 (Vote For 1),Elizabeth Wilson,DEM,12213,95.51,0,18930,1,1,0,0
+297,State Representative District 73 (Vote For 1),Write-in,,574,4.49,0,18930,1,1,0,0
+298,State Representative District 74 (Vote For 1),Eric Gjerde,DEM,11368,96.38,0,16845,1,1,0,0
+299,State Representative District 74 (Vote For 1),Write-in,,427,3.62,0,16845,1,1,0,0
+300,State Representative District 75 (Vote For 1),Bob Kressig,DEM,11529,97.70,0,17135,1,1,0,0
+301,State Representative District 75 (Vote For 1),Write-in,,271,2.30,0,17135,1,1,0,0
+302,State Representative District 76 (Vote For 1),Jarred Johnston,DEM,6762,39.48,0,18418,3,3,0,0
+303,State Representative District 76 (Vote For 1),Derek Wulf,REP,10347,60.41,0,18418,3,3,0,0
+304,State Representative District 76 (Vote For 1),Write-in,,19,0.11,0,18418,3,3,0,0
+305,State Representative District 77 (Vote For 1),Jeff Cooling,DEM,9523,96.65,0,16112,1,1,0,0
+306,State Representative District 77 (Vote For 1),Write-in,,330,3.35,0,16112,1,1,0,0
+307,State Representative District 78 (Vote For 1),Sami Scheetz,DEM,10803,96.73,0,14778,1,1,0,0
+308,State Representative District 78 (Vote For 1),Write-in,,365,3.27,0,14778,1,1,0,0
+309,State Representative District 79 (Vote For 1),Tracy Ehlert,DEM,9222,60.72,0,16194,1,1,0,0
+310,State Representative District 79 (Vote For 1),Barclay Woerner,REP,5947,39.16,0,16194,1,1,0,0
+311,State Representative District 79 (Vote For 1),Write-in,,19,0.13,0,16194,1,1,0,0
+312,State Representative District 80 (Vote For 1),Aime J. Wichtendahl,DEM,9070,52.34,0,18208,1,1,0,0
+313,State Representative District 80 (Vote For 1),John Thompson,REP,8242,47.56,0,18208,1,1,0,0
+314,State Representative District 80 (Vote For 1),Write-in,,17,0.10,0,18208,1,1,0,0
+315,State Representative District 81 (Vote For 1),Daniel Gosa,DEM,9806,94.45,0,15442,1,1,0,0
+316,State Representative District 81 (Vote For 1),Write-in,,576,5.55,0,15442,1,1,0,0
+317,State Representative District 82 (Vote For 1),Phil Wiese,DEM,6716,39.42,0,17550,3,3,0,0
+318,State Representative District 82 (Vote For 1),Bobby Kaufmann,REP,10312,60.53,0,17550,3,3,0,0
+319,State Representative District 82 (Vote For 1),Write-in,,9,0.05,0,17550,3,3,0,0
+320,State Representative District 83 (Vote For 1),Kent McNally,DEM,7947,41.21,0,35507,1,1,0,0
+321,State Representative District 83 (Vote For 1),Cindy Golding,REP,11321,58.71,0,35507,1,1,0,0
+322,State Representative District 83 (Vote For 1),Write-in,,14,0.07,0,35507,1,1,0,0
+323,State Representative District 84 (Vote For 1),Thomas Gerhold,REP,11672,72.85,0,25669,2,2,0,0
+324,State Representative District 84 (Vote For 1),Ashley Meredith,LIB,4250,26.53,0,25669,2,2,0,0
+325,State Representative District 84 (Vote For 1),Write-in,,99,0.62,0,25669,2,2,0,0
+326,State Representative District 85 (Vote For 1),Amy Nielsen,DEM,13794,97.69,0,19641,1,1,0,0
+327,State Representative District 85 (Vote For 1),Write-in,,326,2.31,0,19641,1,1,0,0
+328,State Representative District 86 (Vote For 1),Dave Jacoby,DEM,12544,76.01,0,17406,1,1,0,0
+329,State Representative District 86 (Vote For 1),Stephen Knoner,REP,3934,23.84,0,17406,1,1,0,0
+330,State Representative District 86 (Vote For 1),Write-in,,26,0.16,0,17406,1,1,0,0
+331,State Representative District 87 (Vote For 1),Thomas O'Donnell,DEM,5655,39.58,0,15269,3,3,0,0
+332,State Representative District 87 (Vote For 1),Jeff Shipley,REP,8221,57.54,0,15269,3,3,0,0
+333,State Representative District 87 (Vote For 1),Curtis Oliver,,386,2.70,0,15269,3,3,0,0
+334,State Representative District 87 (Vote For 1),Write-in,,25,0.17,0,15269,3,3,0,0
+335,State Representative District 88 (Vote For 1),Helena Hayes,REP,12191,97.72,0,17038,3,3,0,0
+336,State Representative District 88 (Vote For 1),Write-in,,284,2.28,0,17038,3,3,0,0
+337,State Representative District 89 (Vote For 1),Elinor A. Levin,DEM,11945,98.72,0,15850,1,1,0,0
+338,State Representative District 89 (Vote For 1),Write-in,,155,1.28,0,15850,1,1,0,0
+339,State Representative District 90 (Vote For 1),Adam Zabner,DEM,14477,98.51,0,18985,1,1,0,0
+340,State Representative District 90 (Vote For 1),Write-in,,219,1.49,0,18985,1,1,0,0
+341,State Representative District 91 (Vote For 1),Jay Gorsh,DEM,8762,45.11,0,20388,2,2,0,0
+342,State Representative District 91 (Vote For 1),Judd Lawler,REP,10646,54.81,0,20388,2,2,0,0
+343,State Representative District 91 (Vote For 1),Write-in,,16,0.08,0,20388,2,2,0,0
+344,State Representative District 92 (Vote For 1),Anna Banowsky,DEM,6073,39.21,0,17714,2,2,0,0
+345,State Representative District 92 (Vote For 1),Heather Hora,REP,9390,60.62,0,17714,2,2,0,0
+346,State Representative District 92 (Vote For 1),Write-in,,26,0.17,0,17714,2,2,0,0
+347,State Representative District 93 (Vote For 1),Mindy Smith-Pace,DEM,7681,39.73,0,20009,1,1,0,0
+348,State Representative District 93 (Vote For 1),Gary Mohr,REP,11630,60.15,0,20009,1,1,0,0
+349,State Representative District 93 (Vote For 1),Write-in,,24,0.12,0,20009,1,1,0,0
+350,State Representative District 94 (Vote For 1),Tracy J. Jones,DEM,7465,42.31,0,18289,1,1,0,0
+351,State Representative District 94 (Vote For 1),Mike Vondran,REP,10151,57.54,0,18289,1,1,0,0
+352,State Representative District 94 (Vote For 1),Write-in,,27,0.15,0,18289,1,1,0,0
+353,State Representative District 95 (Vote For 1),Jeff Poulter,DEM,4523,28.55,0,17105,4,4,0,0
+354,State Representative District 95 (Vote For 1),Taylor Collins,REP,11284,71.23,0,17105,4,4,0,0
+355,State Representative District 95 (Vote For 1),Write-in,,34,0.21,0,17105,4,4,0,0
+356,State Representative District 96 (Vote For 1),Mandy Moody,DEM,5649,41.12,0,14366,1,1,0,0
+357,State Representative District 96 (Vote For 1),Mark Cisneros,REP,8071,58.75,0,14366,1,1,0,0
+358,State Representative District 96 (Vote For 1),Write-in,,19,0.14,0,14366,1,1,0,0
+359,State Representative District 97 (Vote For 1),Ken Croken,DEM,7753,58.74,0,13729,1,1,0,0
+360,State Representative District 97 (Vote For 1),Josue Rodriguez,REP,5429,41.13,0,13729,1,1,0,0
+361,State Representative District 97 (Vote For 1),Write-in,,17,0.13,0,13729,1,1,0,0
+362,State Representative District 98 (Vote For 1),Monica Kurth,DEM,6585,50.06,0,13806,1,1,0,0
+363,State Representative District 98 (Vote For 1),Nathan Ramker,REP,6540,49.72,0,13806,1,1,0,0
+364,State Representative District 98 (Vote For 1),Write-in,,29,0.22,0,13806,1,1,0,0
+365,State Representative District 99 (Vote For 1),Jim Beres,DEM,6162,44.16,0,15248,2,2,0,0
+366,State Representative District 99 (Vote For 1),Matthew Rinker,REP,7755,55.57,0,15248,2,2,0,0
+367,State Representative District 99 (Vote For 1),Write-in,,38,0.27,0,15248,2,2,0,0
+368,State Representative District 100 (Vote For 1),Martin L. Graber,REP,9466,67.61,0,15268,1,1,0,0
+369,State Representative District 100 (Vote For 1),Nicolas Atwood,,4489,32.06,0,15268,1,1,0,0
+370,State Representative District 100 (Vote For 1),Write-in,,46,0.33,0,15268,1,1,0,0
+371,Constitutional Amendment 1 (Vote For 1),Yes,,1150332,77.13,0,1674011,99,99,0,0
+372,Constitutional Amendment 1 (Vote For 1),No,,341034,22.87,0,1674011,99,99,0,0
+373,Constitutional Amendment 2 (Vote For 1),Yes,,1190003,81.05,0,1674011,99,99,0,0
+374,Constitutional Amendment 2 (Vote For 1),No,,278282,18.95,0,1674011,99,99,0,0
+375,Supreme Court Justice - David May (Vote For 1),Yes,,776472,63.29,0,1674011,99,99,0,0
+376,Supreme Court Justice - David May (Vote For 1),No,,450373,36.71,0,1674011,99,99,0,0
+377,Court of Appeals Judge - Tyler J. Buller (Vote For 1),Yes,,769806,68.05,0,1674011,99,99,0,0
+378,Court of Appeals Judge - Tyler J. Buller (Vote For 1),No,,361356,31.95,0,1674011,99,99,0,0
+379,Court of Appeals Judge - Mary Elizabeth Chicchelly (Vote For 1),Yes,,785925,69.34,0,1674011,99,99,0,0
+380,Court of Appeals Judge - Mary Elizabeth Chicchelly (Vote For 1),No,,347541,30.66,0,1674011,99,99,0,0
+381,Court of Appeals Judge - Samuel Langholz (Vote For 1),Yes,,734532,64.87,0,1674011,99,99,0,0
+382,Court of Appeals Judge - Samuel Langholz (Vote For 1),No,,397742,35.13,0,1674011,99,99,0,0
+383,Court of Appeals Judge - Mary Ellen Tabor (Vote For 1),Yes,,804390,70.84,0,1674011,99,99,0,0
+384,Court of Appeals Judge - Mary Ellen Tabor (Vote For 1),No,,331159,29.16,0,1674011,99,99,0,0
+385,District 1A Judge - Monica Ackley (Vote For 1),Yes,,47392,71.96,0,92218,5,5,0,0
+386,District 1A Judge - Monica Ackley (Vote For 1),No,,18466,28.04,0,92218,5,5,0,0
+387,District 1A Judge - Thomas A. Bitter (Vote For 1),Yes,,50593,76.47,0,92218,5,5,0,0
+388,District 1A Judge - Thomas A. Bitter (Vote For 1),No,,15571,23.53,0,92218,5,5,0,0
+389,District 1A Associate Judge - Robert James Richter (Vote For 1),Yes,,49356,77.89,0,92218,5,5,0,0
+390,District 1A Associate Judge - Robert James Richter (Vote For 1),No,,14014,22.11,0,92218,5,5,0,0
+391,District 1B Judge - Andrea J. Dryer (Vote For 1),Yes,,51194,73.92,0,102426,6,6,0,0
+392,District 1B Judge - Andrea J. Dryer (Vote For 1),No,,18059,26.08,0,102426,6,6,0,0
+393,District 1B Judge - Kellyann Lekar (Vote For 1),Yes,,50619,73.47,0,102426,6,6,0,0
+394,District 1B Judge - Kellyann Lekar (Vote For 1),No,,18279,26.53,0,102426,6,6,0,0
+395,District 1B Judge - David F. Staudt (Vote For 1),Yes,,49046,71.63,0,102426,6,6,0,0
+396,District 1B Judge - David F. Staudt (Vote For 1),No,,19426,28.37,0,102426,6,6,0,0
+397,District 1B Judge - John James Sullivan (Vote For 1),Yes,,49405,72.11,0,102426,6,6,0,0
+398,District 1B Judge - John James Sullivan (Vote For 1),No,,19111,27.89,0,102426,6,6,0,0
+399,District 1B Associate Judge - Brook K. Jacobsen (Vote For 1),Yes,,51747,75.54,0,102426,6,6,0,0
+400,District 1B Associate Judge - Brook K. Jacobsen (Vote For 1),No,,16755,24.46,0,102426,6,6,0,0
+401,District 1B Associate Judge - Patrick Wegman (Vote For 1),Yes,,49977,73.37,0,102426,6,6,0,0
+402,District 1B Associate Judge - Patrick Wegman (Vote For 1),No,,18140,26.63,0,102426,6,6,0,0
+403,District 2A Judge - Rustin Davenport (Vote For 1),Yes,,40853,71.14,0,80334,9,9,0,0
+404,District 2A Judge - Rustin Davenport (Vote For 1),No,,16572,28.86,0,80334,9,9,0,0
+405,District 2A Judge - Blake H. Norman (Vote For 1),Yes,,42213,74.48,0,80334,9,9,0,0
+406,District 2A Judge - Blake H. Norman (Vote For 1),No,,14464,25.52,0,80334,9,9,0,0
+407,District 2A Associate Judge - Elizabeth Batey (Vote For 1),Yes,,42406,74.67,0,80334,9,9,0,0
+408,District 2A Associate Judge - Elizabeth Batey (Vote For 1),No,,14385,25.33,0,80334,9,9,0,0
+409,District 2B Judge - Adria Kester (Vote For 1),Yes,,72488,71.30,0,157053,13,13,0,0
+410,District 2B Judge - Adria Kester (Vote For 1),No,,29177,28.70,0,157053,13,13,0,0
+411,District 2B Judge - Derek Johnson (Vote For 1),Yes,,73208,72.04,0,157053,13,13,0,0
+412,District 2B Judge - Derek Johnson (Vote For 1),No,,28414,27.96,0,157053,13,13,0,0
+413,District 2B Judge - Kurt John Stoebe (Vote For 1),Yes,,72260,70.44,0,157053,13,13,0,0
+414,District 2B Judge - Kurt John Stoebe (Vote For 1),No,,30322,29.56,0,157053,13,13,0,0
+415,District 2B Associate Judge - Kathryn E. Austin (Vote For 1),Yes,,71204,71.76,0,157053,13,13,0,0
+416,District 2B Associate Judge - Kathryn E. Austin (Vote For 1),No,,28028,28.24,0,157053,13,13,0,0
+417,District 2B Associate Judge - Hans Becker (Vote For 1),Yes,,69703,70.58,0,157053,13,13,0,0
+418,District 2B Associate Judge - Hans Becker (Vote For 1),No,,29057,29.42,0,157053,13,13,0,0
+419,District 2B Associate Judge - Ashley Beisch (Vote For 1),Yes,,71987,72.46,0,157053,13,13,0,0
+420,District 2B Associate Judge - Ashley Beisch (Vote For 1),No,,27355,27.54,0,157053,13,13,0,0
+421,District 2B Associate Judge - Paul G. Crawford (Vote For 1),Yes,,70822,71.16,0,157053,13,13,0,0
+422,District 2B Associate Judge - Paul G. Crawford (Vote For 1),No,,28699,28.84,0,157053,13,13,0,0
+423,District 2B Associate Judge - Joseph B. McCarville (Vote For 1),Yes,,71090,70.79,0,157053,13,13,0,0
+424,District 2B Associate Judge - Joseph B. McCarville (Vote For 1),No,,29330,29.21,0,157053,13,13,0,0
+425,District 2B Associate Judge - Hunter Thorpe (Vote For 1),Yes,,69834,70.61,0,157053,13,13,0,0
+426,District 2B Associate Judge - Hunter Thorpe (Vote For 1),No,,29069,29.39,0,157053,13,13,0,0
+427,District 3B Judge - Robert D. Tiefenthaler (Vote For 1),Yes,,49243,77.29,0,91396,6,6,0,0
+428,District 3B Judge - Robert D. Tiefenthaler (Vote For 1),No,,14471,22.71,0,91396,6,6,0,0
+429,District 3B Associate Judge - Stephanie S. Forker Parry (Vote For 1),Yes,,44747,73.93,0,91396,6,6,0,0
+430,District 3B Associate Judge - Stephanie S. Forker Parry (Vote For 1),No,,15777,26.07,0,91396,6,6,0,0
+431,District 3B Associate Judge - Jessica R. Noll (Vote For 1),Yes,,49026,79.36,0,91396,6,6,0,0
+432,District 3B Associate Judge - Jessica R. Noll (Vote For 1),No,,12752,20.64,0,91396,6,6,0,0
+433,District 4 Judge - Jennifer Benson Bahr (Vote For 1),Yes,,46379,70.46,0,94569,9,9,0,0
+434,District 4 Judge - Jennifer Benson Bahr (Vote For 1),No,,19440,29.54,0,94569,9,9,0,0
+435,District 4 Judge - Eric John Nelson (Vote For 1),Yes,,46140,70.06,0,94569,9,9,0,0
+436,District 4 Judge - Eric John Nelson (Vote For 1),No,,19717,29.94,0,94569,9,9,0,0
+437,District 4 Associate Judge - David W. Brooks (Vote For 1),Yes,,46251,70.34,0,94569,9,9,0,0
+438,District 4 Associate Judge - David W. Brooks (Vote For 1),No,,19506,29.66,0,94569,9,9,0,0
+439,District 5A Judge - David Faith (Vote For 1),Yes,,70628,70.21,0,153143,6,6,0,0
+440,District 5A Judge - David Faith (Vote For 1),No,,29966,29.79,0,153143,6,6,0,0
+441,District 5A Judge - Bradley McCall (Vote For 1),Yes,,69518,68.67,0,153143,6,6,0,0
+442,District 5A Judge - Bradley McCall (Vote For 1),No,,31720,31.33,0,153143,6,6,0,0
+443,District 5A Judge - Terry R. Rickers (Vote For 1),Yes,,70969,70.19,0,153143,6,6,0,0
+444,District 5A Judge - Terry R. Rickers (Vote For 1),No,,30143,29.81,0,153143,6,6,0,0
+445,District 5A Judge - Charles Sinnard (Vote For 1),Yes,,68902,69.02,0,153143,6,6,0,0
+446,District 5A Judge - Charles Sinnard (Vote For 1),No,,30921,30.98,0,153143,6,6,0,0
+447,District 5A Associate Judge - Virginia Cobb (Vote For 1),Yes,,71592,71.21,0,153143,6,6,0,0
+448,District 5A Associate Judge - Virginia Cobb (Vote For 1),No,,28939,28.79,0,153143,6,6,0,0
+449,District 5A Associate Judge - Kevin Parker (Vote For 1),Yes,,70784,70.26,0,153143,6,6,0,0
+450,District 5A Associate Judge - Kevin Parker (Vote For 1),No,,29959,29.74,0,153143,6,6,0,0
+451,District 5B Judge - Patrick W. Greenwood (Vote For 1),Yes,,18215,74.09,0,34255,9,9,0,0
+452,District 5B Judge - Patrick W. Greenwood (Vote For 1),No,,6371,25.91,0,34255,9,9,0,0
+453,District 5C Judge - Heather L. Lauber (Vote For 1),Yes,,113805,69.72,0,258067,1,1,0,0
+454,District 5C Judge - Heather L. Lauber (Vote For 1),No,,49419,30.28,0,258067,1,1,0,0
+455,District 5C Judge - Patrick D. Smith (Vote For 1),Yes,,106241,66.26,0,258067,1,1,0,0
+456,District 5C Judge - Patrick D. Smith (Vote For 1),No,,54108,33.74,0,258067,1,1,0,0
+457,District 5C Associate Judge - Gregory Brandt (Vote For 1),Yes,,106069,65.50,0,258067,1,1,0,0
+458,District 5C Associate Judge - Gregory Brandt (Vote For 1),No,,55862,34.50,0,258067,1,1,0,0
+459,District 5C Associate Judge - Kristen Formanek (Vote For 1),Yes,,111220,69.22,0,258067,1,1,0,0
+460,District 5C Associate Judge - Kristen Formanek (Vote For 1),No,,49446,30.78,0,258067,1,1,0,0
+461,District 5C Associate Judge - Becky Goettsch (Vote For 1),Yes,,111346,69.29,0,258067,1,1,0,0
+462,District 5C Associate Judge - Becky Goettsch (Vote For 1),No,,49350,30.71,0,258067,1,1,0,0
+463,District 5C Associate Judge - Erik Howe (Vote For 1),Yes,,106273,66.54,0,258067,1,1,0,0
+464,District 5C Associate Judge - Erik Howe (Vote For 1),No,,53436,33.46,0,258067,1,1,0,0
+465,District 5C Associate Judge - Rachael E. Seymour (Vote For 1),Yes,,103227,63.70,0,258067,1,1,0,0
+466,District 5C Associate Judge - Rachael E. Seymour (Vote For 1),No,,58830,36.30,0,258067,1,1,0,0
+467,District 5C Associate Probate Judge - Katie Ranes (Vote For 1),Yes,,115660,71.31,0,258067,1,1,0,0
+468,District 5C Associate Probate Judge - Katie Ranes (Vote For 1),No,,46540,28.69,0,258067,1,1,0,0
+469,District 6 Judge - Andrew B. Chappell (Vote For 1),Yes,,112470,68.74,0,254893,6,6,0,0
+470,District 6 Judge - Andrew B. Chappell (Vote For 1),No,,51153,31.26,0,254893,6,6,0,0
+471,District 6 Judge - David M. Cox (Vote For 1),Yes,,113168,69.00,0,254893,6,6,0,0
+472,District 6 Judge - David M. Cox (Vote For 1),No,,50835,31.00,0,254893,6,6,0,0
+473,District 6 Judge - Elizabeth Dupuich (Vote For 1),Yes,,115348,70.05,0,254893,6,6,0,0
+474,District 6 Judge - Elizabeth Dupuich (Vote For 1),No,,49309,29.95,0,254893,6,6,0,0
+475,District 6 Associate Judge - Joan M. Black (Vote For 1),Yes,,115874,70.88,0,254893,6,6,0,0
+476,District 6 Associate Judge - Joan M. Black (Vote For 1),No,,47611,29.12,0,254893,6,6,0,0
+477,District 6 Associate Judge - Brandon L. Schrock (Vote For 1),Yes,,112474,68.89,0,254893,6,6,0,0
+478,District 6 Associate Judge - Brandon L. Schrock (Vote For 1),No,,50797,31.11,0,254893,6,6,0,0
+479,District 6 Associate Judge - Nicholas Scott (Vote For 1),Yes,,115369,71.00,0,254893,6,6,0,0
+480,District 6 Associate Judge - Nicholas Scott (Vote For 1),No,,47119,29.00,0,254893,6,6,0,0
+481,District 7 Judge - Thomas Reidel (Vote For 1),Yes,,82480,71.56,0,156069,5,5,0,0
+482,District 7 Judge - Thomas Reidel (Vote For 1),No,,32780,28.44,0,156069,5,5,0,0
+483,District 7 Associate Judge - Gary Patrick Strausser (Vote For 1),Yes,,78366,68.87,0,156069,5,5,0,0
+484,District 7 Associate Judge - Gary Patrick Strausser (Vote For 1),No,,35419,31.13,0,156069,5,5,0,0
+485,District 8A Judge - Michael Carpenter (Vote For 1),Yes,,36918,70.54,0,79437,10,10,0,0
+486,District 8A Judge - Michael Carpenter (Vote For 1),No,,15415,29.46,0,79437,10,10,0,0
+487,District 8A Judge - Crystal S. Cronk (Vote For 1),Yes,,37248,70.93,0,79437,10,10,0,0
+488,District 8A Judge - Crystal S. Cronk (Vote For 1),No,,15265,29.07,0,79437,10,10,0,0
+489,District 8A Judge - Myron Gookin (Vote For 1),Yes,,37367,70.81,0,79437,10,10,0,0
+490,District 8A Judge - Myron Gookin (Vote For 1),No,,15404,29.19,0,79437,10,10,0,0
+491,District 8A Judge - Shawn R. Showers (Vote For 1),Yes,,37274,71.41,0,79437,10,10,0,0
+492,District 8A Judge - Shawn R. Showers (Vote For 1),No,,14920,28.59,0,79437,10,10,0,0
+493,District 8A Associate Judge - Daniel Perry Kitchen (Vote For 1),Yes,,36965,71.14,0,79437,10,10,0,0
+494,District 8A Associate Judge - Daniel Perry Kitchen (Vote For 1),No,,14998,28.86,0,79437,10,10,0,0
+495,District 8A Associate Judge - Richelle Mahaffey (Vote For 1),Yes,,37213,71.32,0,79437,10,10,0,0
+496,District 8A Associate Judge - Richelle Mahaffey (Vote For 1),No,,14962,28.68,0,79437,10,10,0,0
+497,District 8A Associate Judge - Patrick J. McAvan (Vote For 1),Yes,,37200,71.81,0,79437,10,10,0,0
+498,District 8A Associate Judge - Patrick J. McAvan (Vote For 1),No,,14606,28.19,0,79437,10,10,0,0
+499,District 8B Judge - Clinton R. Boddicker (Vote For 1),Yes,,24846,72.29,0,50333,4,4,0,0
+500,District 8B Judge - Clinton R. Boddicker (Vote For 1),No,,9523,27.71,0,50333,4,4,0,0
+501,District 8B Judge - Joshua P. Schier (Vote For 1),Yes,,24873,72.72,0,50333,4,4,0,0
+502,District 8B Judge - Joshua P. Schier (Vote For 1),No,,9333,27.28,0,50333,4,4,0,0
+503,District 8B Judge - Shane Wiley (Vote For 1),Yes,,25132,73.56,0,50333,4,4,0,0
+504,District 8B Judge - Shane Wiley (Vote For 1),No,,9034,26.44,0,50333,4,4,0,0
+505,District 8B Judge - John M. Wright (Vote For 1),Yes,,25680,73.29,0,50333,4,4,0,0
+506,District 8B Judge - John M. Wright (Vote For 1),No,,9359,26.71,0,50333,4,4,0,0
+507,District 8B Associate Judge - Tyron T. Rogers (Vote For 1),Yes,,24510,72.42,0,50333,4,4,0,0
+508,District 8B Associate Judge - Tyron T. Rogers (Vote For 1),No,,9334,27.58,0,50333,4,4,0,0
+509,District 8B Associate Judge - Jennifer Slocum Bailey (Vote For 1),Yes,,26245,75.80,0,50333,4,4,0,0
+510,District 8B Associate Judge - Jennifer Slocum Bailey (Vote For 1),No,,8381,24.20,0,50333,4,4,0,0
+511,District 8B Associate Judge - Jonathan Michael Stensvaag (Vote For 1),Yes,,24479,72.08,0,50333,4,4,0,0
+512,District 8B Associate Judge - Jonathan Michael Stensvaag (Vote For 1),No,,9481,27.92,0,50333,4,4,0,0
+513,City of Boone - Public Measure A (Vote For 1),Yes,,3073,48.26,0,6811,1,1,0,0
+514,City of Boone - Public Measure A (Vote For 1),No,,3294,51.74,0,6811,1,1,0,0
+515,City of Carlisle - Public Measure B (Vote For 1),Yes,,1592,70.04,0,2951,2,2,0,0
+516,City of Carlisle - Public Measure B (Vote For 1),No,,681,29.96,0,2951,2,2,0,0
+517,City of Fort Madison - Public Measure MX (Vote For 1),Yes,,2821,70.51,0,4376,1,1,0,0
+518,City of Fort Madison - Public Measure MX (Vote For 1),No,,1180,29.49,0,4376,1,1,0,0
+519,City of Polk City - Public Measure A (Vote For 1),Yes,,1969,52.52,0,3924,1,1,0,0
+520,City of Polk City - Public Measure A (Vote For 1),No,,1780,47.48,0,3924,1,1,0,0
+521,City of Slater - Public Measure TP (Vote For 1),Yes,,555,55.84,0,2150,2,2,0,0
+522,City of Slater - Public Measure TP (Vote For 1),No,,439,44.16,0,2150,2,2,0,0
+523,City of State Center - Public Measure OY (Vote For 1),Yes,,439,60.72,0,1105,1,1,0,0
+524,City of State Center - Public Measure OY (Vote For 1),No,,284,39.28,0,1105,1,1,0,0
+525,City of Waukee - Public Measure FQ (Vote For 1),Yes,,8279,54.95,0,17066,1,1,0,0
+526,City of Waukee - Public Measure FQ (Vote For 1),No,,6787,45.05,0,17066,1,1,0,0
+527,City of Waverly - Public Measure A (Vote For 1),Yes,,1845,32.93,0,5931,1,1,0,0
+528,City of Waverly - Public Measure A (Vote For 1),No,,3758,67.07,0,5931,1,1,0,0
+529,City of Waverly - Public Measure B (Vote For 1),Yes,,3982,70.33,0,5931,1,1,0,0
+530,City of Waverly - Public Measure B (Vote For 1),No,,1680,29.67,0,5931,1,1,0,0
+531,City of Webster City - Public Measure B (Vote For 1),Yes,,2017,67.57,0,3375,1,1,0,0
+532,City of Webster City - Public Measure B (Vote For 1),No,,968,32.43,0,3375,1,1,0,0
+533,City of Woodward - Public Measure FT (Vote For 1),Yes,,265,44.39,0,2037,2,2,0,0
+534,City of Woodward - Public Measure FT (Vote For 1),No,,332,55.61,0,2037,2,2,0,0
+535,AGWSR School - Public Measure IQ (Vote For 1),Yes,,1384,59.94,0,6638,4,4,0,0
+536,AGWSR School - Public Measure IQ (Vote For 1),No,,925,40.06,0,6638,4,4,0,0
+537,Aplington-Parkersburg School - Public Measure CQ (Vote For 1),Yes,,1128,44.41,0,8036,2,2,0,0
+538,Aplington-Parkersburg School - Public Measure CQ (Vote For 1),No,,1412,55.59,0,8036,2,2,0,0
+539,Calamus Wheatland School - Public Measure FF (Vote For 1),Yes,,806,58.49,0,3678,2,2,0,0
+540,Calamus Wheatland School - Public Measure FF (Vote For 1),No,,572,41.51,0,3678,2,2,0,0
+541,CAM School - Public Measure B (Vote For 1),Yes,,698,44.12,0,5787,4,4,0,0
+542,CAM School - Public Measure B (Vote For 1),No,,884,55.88,0,5787,4,4,0,0
+543,Center Point-Urbana School - Public Measure NE (Vote For 1),Yes,,2232,63.34,0,7335,2,2,0,0
+544,Center Point-Urbana School - Public Measure NE (Vote For 1),No,,1292,36.66,0,7335,2,2,0,0
+545,Earlham School - Public Measure A (Vote For 1),Yes,,574,43.16,0,2001,1,1,0,0
+546,Earlham School - Public Measure A (Vote For 1),No,,756,56.84,0,2001,1,1,0,0
+547,East Marshall School - Public Measure OW (Vote For 1),Yes,,1049,52.93,0,10388,4,4,0,0
+548,East Marshall School - Public Measure OW (Vote For 1),No,,933,47.07,0,10388,4,4,0,0
+549,Emmetsburg School - Public Measure B (Vote For 1),Yes,,1247,50.73,0,3408,1,1,0,0
+550,Emmetsburg School - Public Measure B (Vote For 1),No,,1211,49.27,0,3408,1,1,0,0
+551,Fairfield School - Public Measure LR (Vote For 1),Yes,,4118,57.81,0,12744,5,5,0,0
+552,Fairfield School - Public Measure LR (Vote For 1),No,,3005,42.19,0,12744,5,5,0,0
+553,Garner-Hayfield-Ventura School - Public Measure JJ (Vote For 1),Yes,,2254,67.42,0,8203,2,2,0,0
+554,Garner-Hayfield-Ventura School - Public Measure JJ (Vote For 1),No,,1089,32.58,0,8203,2,2,0,0
+555,Gladbrook Reinbeck School - Public Measure TV (Vote For 1),Yes,,1235,50.53,0,5577,4,4,0,0
+556,Gladbrook Reinbeck School - Public Measure TV (Vote For 1),No,,1209,49.47,0,5577,4,4,0,0
+557,Gladbrook-Reinbeck School Director At Large To Fill a Vacancy (Vote For 1),Jordan Wentzien,,1914,98.51,0,5577,4,4,0,0
+558,Gladbrook-Reinbeck School Director At Large To Fill a Vacancy (Vote For 1),Write-in,,29,1.49,0,5577,4,4,0,0
+559,GMG School - Public Measure OV (Vote For 1),Yes,,654,66.26,0,3867,2,2,0,0
+560,GMG School - Public Measure OV (Vote For 1),No,,333,33.74,0,3867,2,2,0,0
+561,GMG School Director At Large To Fill a Vacancy (Vote For 1),Write-in,,64,24.06,0,3867,2,2,0,0
+562,GMG School Director At Large To Fill a Vacancy (Vote For 1),Wade Raymond,,68,25.56,0,3867,2,2,0,0
+563,GMG School Director At Large To Fill a Vacancy (Vote For 1),Rod Claassen,,91,34.21,0,3867,2,2,0,0
+564,GMG School Director At Large To Fill a Vacancy (Vote For 1),Rod Claasen,,17,6.39,0,3867,2,2,0,0
+565,GMG School Director At Large To Fill a Vacancy (Vote For 1),Wade Raymond,,26,9.77,0,3867,2,2,0,0
+566,Hampton-Dumont School - Public Measure HX (Vote For 1),Yes,,1539,54.15,0,7363,2,2,0,0
+567,Hampton-Dumont School - Public Measure HX (Vote For 1),No,,1303,45.85,0,7363,2,2,0,0
+568,Highland School - Public Measure VF (Vote For 1),Yes,,1361,61.25,0,8120,3,3,0,0
+569,Highland School - Public Measure VF (Vote For 1),No,,861,38.75,0,8120,3,3,0,0
+570,Hinton School - Public Measure RV (Vote For 1),Yes,,1044,57.39,0,4601,1,1,0,0
+571,Hinton School - Public Measure RV (Vote For 1),No,,775,42.61,0,4601,1,1,0,0
+572,Iowa Western Community College - Public Measure SB (Vote For 1),Yes,,45443,59.43,0,93906,13,13,0,0
+573,Iowa Western Community College - Public Measure SB (Vote For 1),No,,31022,40.57,0,93906,13,13,0,0
+574,Lawton-Bronson School - Public Measure WA (Vote For 1),Yes,,922,47.21,0,9838,2,2,0,0
+575,Lawton-Bronson School - Public Measure WA (Vote For 1),No,,1031,52.79,0,9838,2,2,0,0
+576,Le Mars School - Public Measure RW (Vote For 1),Yes,,4255,61.44,0,10502,1,1,0,0
+577,Le Mars School - Public Measure RW (Vote For 1),No,,2671,38.56,0,10502,1,1,0,0
+578,Lewis Central School - Public Measure RZ (Vote For 1),Yes,,5279,60.90,0,17049,2,2,0,0
+579,Lewis Central School - Public Measure RZ (Vote For 1),No,,3389,39.10,0,17049,2,2,0,0
+580,Lewis Central School Director At-Large To Fill a Vacancy (Vote For 1),Write-in,,550,41.11,0,17049,2,2,0,0
+581,Lewis Central School Director At-Large To Fill a Vacancy (Vote For 1),Travis Houseton,,331,24.74,0,17049,2,2,0,0
+582,Lewis Central School Director At-Large To Fill a Vacancy (Vote For 1),Greg Sturm,,457,34.16,0,17049,2,2,0,0
+583,Louisa Muscatine School - Public Measure QD (Vote For 1),Yes,,1241,58.79,0,4126,2,2,0,0
+584,Louisa Muscatine School - Public Measure QD (Vote For 1),No,,870,41.21,0,4126,2,2,0,0
+585,Marshalltown School - Public Measure OU (Vote For 1),Yes,,7359,68.58,0,16301,1,1,0,0
+586,Marshalltown School - Public Measure OU (Vote For 1),No,,3372,31.42,0,16301,1,1,0,0
+587,Martensdale-St. Mary's School - Public Measure C (Vote For 1),Yes,,1230,66.38,0,7156,2,2,0,0
+588,Martensdale-St. Mary's School - Public Measure C (Vote For 1),No,,623,33.62,0,7156,2,2,0,0
+589,Monticello School - Public Measure MD (Vote For 1),Yes,,2116,60.70,0,8756,4,4,0,0
+590,Monticello School - Public Measure MD (Vote For 1),No,,1370,39.30,0,8756,4,4,0,0
+591,Okoboji School - Public Measure GW (Vote For 1),Yes,,2649,62.77,0,7116,2,2,0,0
+592,Okoboji School - Public Measure GW (Vote For 1),No,,1571,37.23,0,7116,2,2,0,0
+593,Sergeant Bluff-Luton School - Public Measure WB (Vote For 1),Yes,,1887,55.52,0,6789,1,1,0,0
+594,Sergeant Bluff-Luton School - Public Measure WB (Vote For 1),No,,1512,44.48,0,6789,1,1,0,0
+595,Underwood School - Public Measure SA (Vote For 1),Yes,,1491,61.76,0,8377,1,1,0,0
+596,Underwood School - Public Measure SA (Vote For 1),No,,923,38.24,0,8377,1,1,0,0
+597,Union School - Public Measure BL (Vote For 1),Yes,,2013,59.84,0,8726,4,4,0,0
+598,Union School - Public Measure BL (Vote For 1),No,,1351,40.16,0,8726,4,4,0,0
+599,Van Buren County School - Public Measure UR (Vote For 1),Yes,,742,21.06,0,6827,4,4,0,0
+600,Van Buren County School - Public Measure UR (Vote For 1),No,,2782,78.94,0,6827,4,4,0,0
+601,Waterloo School - Public Measure BK (Vote For 1),Yes,,17416,59.72,0,36422,1,1,0,0
+602,Waterloo School - Public Measure BK (Vote For 1),No,,11745,40.28,0,36422,1,1,0,0
+603,West Fork School - Public Measure DT (Vote For 1),Yes,,1592,62.55,0,7126,4,4,0,0
+604,West Fork School - Public Measure DT (Vote For 1),No,,953,37.45,0,7126,4,4,0,0
+605,West Marshall School - Public Measure OX (Vote For 1),Yes,,1395,56.27,0,5114,2,2,0,0
+606,West Marshall School - Public Measure OX (Vote For 1),No,,1084,43.73,0,5114,2,2,0,0
+607,Westwood School - Public Measure WC (Vote For 1),Yes,,926,50.99,0,4195,2,2,0,0
+608,Westwood School - Public Measure WC (Vote For 1),No,,890,49.01,0,4195,2,2,0,0
+609,Williamsburg School - Public Measure LA (Vote For 1),Yes,,1902,50.57,0,9289,2,2,0,0
+610,Williamsburg School - Public Measure LA (Vote For 1),No,,1859,49.43,0,9289,2,2,0,0
