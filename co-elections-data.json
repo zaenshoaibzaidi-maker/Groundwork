@@ -1,0 +1,1272 @@
+{
+  "HD-01": {
+    "district": "HD-01",
+    "winner": "Javier Mabrey",
+    "winner_party": "D",
+    "winner_pct": 64.8,
+    "other_candidates": [
+      {
+        "name": "Barbara DeHaan",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-02": {
+    "district": "HD-02",
+    "winner": "Steven Woodrow",
+    "winner_party": "D",
+    "winner_pct": 74.2,
+    "other_candidates": [
+      {
+        "name": "Michael F. DiManna",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-03": {
+    "district": "HD-03",
+    "winner": "Meg Froelich",
+    "winner_party": "D",
+    "winner_pct": 64.0,
+    "other_candidates": [
+      {
+        "count": 2,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-04": {
+    "district": "HD-04",
+    "winner": "Cecelia Espenoza",
+    "winner_party": "D",
+    "winner_pct": 78.9,
+    "other_candidates": [
+      {
+        "name": "Jack Daus",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-05": {
+    "district": "HD-05",
+    "winner": "Alex Valdez",
+    "winner_party": "D",
+    "winner_pct": 79.6,
+    "other_candidates": [
+      {
+        "name": "Johnnie Wesley Johnson",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-06": {
+    "district": "HD-06",
+    "winner": "Sean Camacho",
+    "winner_party": "D",
+    "winner_pct": 84.6,
+    "other_candidates": [
+      {
+        "name": "Kyle Witter",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-07": {
+    "district": "HD-07",
+    "winner": "Jennifer Bacon",
+    "winner_party": "D",
+    "winner_pct": 73.1,
+    "other_candidates": [
+      {
+        "count": 3,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-08": {
+    "district": "HD-08",
+    "winner": "Lindsay Gilchrist",
+    "winner_party": "D",
+    "winner_pct": 85.2,
+    "other_candidates": [
+      {
+        "count": 3,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-09": {
+    "district": "HD-09",
+    "winner": "Emily Sirota",
+    "winner_party": "D",
+    "winner_pct": 74.5,
+    "other_candidates": [
+      {
+        "name": "Tom Cowhick",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-10": {
+    "district": "HD-10",
+    "winner": "Junie Joseph",
+    "winner_party": "D",
+    "winner_pct": 84.3,
+    "other_candidates": [
+      {
+        "name": "William B. DeOreo",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-11": {
+    "district": "HD-11",
+    "winner": "Karen McCormick",
+    "winner_party": "D",
+    "winner_pct": 69.3,
+    "other_candidates": [
+      {
+        "name": "Kathy Reeves",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-12": {
+    "district": "HD-12",
+    "winner": "Kyle Brown",
+    "winner_party": "D",
+    "winner_pct": 76.6,
+    "other_candidates": [
+      {
+        "name": "Mark Milliman",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-13": {
+    "district": "HD-13",
+    "winner": "Julie McCluskie",
+    "winner_party": "D",
+    "winner_pct": 55.2,
+    "other_candidates": [
+      {
+        "name": "Dave Williams",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-14": {
+    "district": "HD-14",
+    "winner": "Rose Pugliese",
+    "winner_party": "R",
+    "winner_pct": 60.7,
+    "other_candidates": [
+      {
+        "name": "Katherine \"Kat\" Gayle",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-15": {
+    "district": "HD-15",
+    "winner": "Scott Bottoms",
+    "winner_party": "R",
+    "winner_pct": 58.0,
+    "other_candidates": [
+      {
+        "name": "Jeff K. Livingston",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-16": {
+    "district": "HD-16",
+    "winner": "Rebecca Keltie",
+    "winner_party": "R",
+    "winner_pct": 50.0,
+    "other_candidates": [
+      {
+        "name": "Steph Vigil",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-17": {
+    "district": "HD-17",
+    "winner": "Regina English",
+    "winner_party": "D",
+    "winner_pct": 55.9,
+    "other_candidates": [
+      {
+        "name": "Elizabeth Riggs",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-18": {
+    "district": "HD-18",
+    "winner": "Amy T. Paschal",
+    "winner_party": "D",
+    "winner_pct": 53.5,
+    "other_candidates": [
+      {
+        "name": "James R. Boelens Jr.",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-19": {
+    "district": "HD-19",
+    "winner": "Dan Woog",
+    "winner_party": "R",
+    "winner_pct": 50.1,
+    "other_candidates": [
+      {
+        "name": "Jillaire McMillan",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-20": {
+    "district": "HD-20",
+    "winner": "Jarvis Caldwell",
+    "winner_party": "R",
+    "winner_pct": 71.9,
+    "other_candidates": [
+      {
+        "name": "Arik Dougherty",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-21": {
+    "district": "HD-21",
+    "winner": "Mary Bradfield",
+    "winner_party": "R",
+    "winner_pct": 58.2,
+    "other_candidates": [
+      {
+        "name": "Liz Rosenbaum",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-22": {
+    "district": "HD-22",
+    "winner": "Ken deGraaf",
+    "winner_party": "R",
+    "winner_pct": 56.6,
+    "other_candidates": [
+      {
+        "count": 2,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-23": {
+    "district": "HD-23",
+    "winner": "Monica Irasema Duran",
+    "winner_party": "D",
+    "winner_pct": 63.8,
+    "other_candidates": [
+      {
+        "name": "Cory Ohnesorge",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-24": {
+    "district": "HD-24",
+    "winner": "Lisa Feret",
+    "winner_party": "D",
+    "winner_pct": 56.6,
+    "other_candidates": [
+      {
+        "name": "Gwen Henderson",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-25": {
+    "district": "HD-25",
+    "winner": "Tammy Story",
+    "winner_party": "D",
+    "winner_pct": 52.1,
+    "other_candidates": [
+      {
+        "name": "George B. Mumma Jr",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-26": {
+    "district": "HD-26",
+    "winner": "Meghan Lukens",
+    "winner_party": "D",
+    "winner_pct": 56.6,
+    "other_candidates": [
+      {
+        "name": "Nathan Butler",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-27": {
+    "district": "HD-27",
+    "winner": "Brianna Titone",
+    "winner_party": "D",
+    "winner_pct": 56.8,
+    "other_candidates": [
+      {
+        "name": "Ed Cox",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-28": {
+    "district": "HD-28",
+    "winner": "Sheila Lieder",
+    "winner_party": "D",
+    "winner_pct": 52.8,
+    "other_candidates": [
+      {
+        "name": "Peter Boddie",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-29": {
+    "district": "HD-29",
+    "winner": "Shannon Bird",
+    "winner_party": "D",
+    "winner_pct": 60.8,
+    "other_candidates": [
+      {
+        "name": "Evan Shields Hunt",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-30": {
+    "district": "HD-30",
+    "winner": "Rebekah Stewart",
+    "winner_party": "D",
+    "winner_pct": 62.2,
+    "other_candidates": [
+      {
+        "name": "Ramey Johnson",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-31": {
+    "district": "HD-31",
+    "winner": "Jacqueline \"Jacque\" Phillips",
+    "winner_party": "D",
+    "winner_pct": 55.9,
+    "other_candidates": [
+      {
+        "name": "Heidi Pitchforth",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-32": {
+    "district": "HD-32",
+    "winner": "Manny Rutinel",
+    "winner_party": "D",
+    "winner_pct": 100.0,
+    "other_candidates": [],
+    "year": 2024
+  },
+  "HD-33": {
+    "district": "HD-33",
+    "winner": "William Lindstedt",
+    "winner_party": "D",
+    "winner_pct": 58.6,
+    "other_candidates": [
+      {
+        "name": "Michael Martinez",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-34": {
+    "district": "HD-34",
+    "winner": "Jenny Willford",
+    "winner_party": "D",
+    "winner_pct": 50.6,
+    "other_candidates": [
+      {
+        "count": 3,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-35": {
+    "district": "HD-35",
+    "winner": "Lorena Garcia",
+    "winner_party": "D",
+    "winner_pct": 64.6,
+    "other_candidates": [
+      {
+        "name": "Lee J Knoll",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-36": {
+    "district": "HD-36",
+    "winner": "Michael Carter",
+    "winner_party": "D",
+    "winner_pct": 71.5,
+    "other_candidates": [
+      {
+        "name": "Eric Mulder",
+        "party": "F"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-37": {
+    "district": "HD-37",
+    "winner": "Chad Clifford",
+    "winner_party": "D",
+    "winner_pct": 97.3,
+    "other_candidates": [
+      {
+        "name": "Kevin Biehl",
+        "party": "U"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-38": {
+    "district": "HD-38",
+    "winner": "Gretchen Jeannette Rydin",
+    "winner_party": "D",
+    "winner_pct": 54.6,
+    "other_candidates": [
+      {
+        "name": "Jeffrey Patty",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-39": {
+    "district": "HD-39",
+    "winner": "Brandi Bradley",
+    "winner_party": "R",
+    "winner_pct": 59.0,
+    "other_candidates": [
+      {
+        "name": "Eric Brody",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-40": {
+    "district": "HD-40",
+    "winner": "Naquetta Ricks",
+    "winner_party": "D",
+    "winner_pct": 56.6,
+    "other_candidates": [
+      {
+        "count": 2,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-41": {
+    "district": "HD-41",
+    "winner": "Iman Jodeh",
+    "winner_party": "D",
+    "winner_pct": 61.3,
+    "other_candidates": [
+      {
+        "count": 2,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-42": {
+    "district": "HD-42",
+    "winner": "Mandy Lindsay",
+    "winner_party": "D",
+    "winner_pct": 100.0,
+    "other_candidates": [],
+    "year": 2024
+  },
+  "HD-43": {
+    "district": "HD-43",
+    "winner": "Bob Marshall",
+    "winner_party": "D",
+    "winner_pct": 51.3,
+    "other_candidates": [
+      {
+        "name": "Matt Burcham",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-44": {
+    "district": "HD-44",
+    "winner": "Anthony Hartsook",
+    "winner_party": "R",
+    "winner_pct": 58.6,
+    "other_candidates": [
+      {
+        "name": "Alyssa Nilemo",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-45": {
+    "district": "HD-45",
+    "winner": "Max Brooks",
+    "winner_party": "R",
+    "winner_pct": 62.3,
+    "other_candidates": [
+      {
+        "name": "Chad Cox",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-46": {
+    "district": "HD-46",
+    "winner": "Tisha Mauro",
+    "winner_party": "D",
+    "winner_pct": 52.3,
+    "other_candidates": [
+      {
+        "name": "Kim Swearingen",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-47": {
+    "district": "HD-47",
+    "winner": "Ty S. Winter",
+    "winner_party": "R",
+    "winner_pct": 67.2,
+    "other_candidates": [
+      {
+        "name": "Elizabeth Bulthuis",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-48": {
+    "district": "HD-48",
+    "winner": "Carlos Barron",
+    "winner_party": "R",
+    "winner_pct": 100.0,
+    "other_candidates": [],
+    "year": 2024
+  },
+  "HD-49": {
+    "district": "HD-49",
+    "winner": "Lesley Smith",
+    "winner_party": "D",
+    "winner_pct": 63.8,
+    "other_candidates": [
+      {
+        "name": "Steve Ferrante",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-50": {
+    "district": "HD-50",
+    "winner": "Ryan Gonzalez",
+    "winner_party": "R",
+    "winner_pct": 51.1,
+    "other_candidates": [
+      {
+        "name": "Mary Young",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-51": {
+    "district": "HD-51",
+    "winner": "Ron Weinberg",
+    "winner_party": "R",
+    "winner_pct": 52.6,
+    "other_candidates": [
+      {
+        "name": "Sarah McKeen",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-52": {
+    "district": "HD-52",
+    "winner": "Yara Zokaie",
+    "winner_party": "D",
+    "winner_pct": 63.3,
+    "other_candidates": [
+      {
+        "name": "Steve Yurash",
+        "party": "C"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-53": {
+    "district": "HD-53",
+    "winner": "Andy Boesenecker",
+    "winner_party": "D",
+    "winner_pct": 73.5,
+    "other_candidates": [
+      {
+        "name": "Donna Walter",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-54": {
+    "district": "HD-54",
+    "winner": "Matt Soper",
+    "winner_party": "R",
+    "winner_pct": 100.0,
+    "other_candidates": [],
+    "year": 2024
+  },
+  "HD-55": {
+    "district": "HD-55",
+    "winner": "Rick Taggart",
+    "winner_party": "R",
+    "winner_pct": 100.0,
+    "other_candidates": [],
+    "year": 2024
+  },
+  "HD-56": {
+    "district": "HD-56",
+    "winner": "Chris Richardson",
+    "winner_party": "R",
+    "winner_pct": 75.7,
+    "other_candidates": [
+      {
+        "name": "Alessandra A. Navetta",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-57": {
+    "district": "HD-57",
+    "winner": "Elizabeth Velasco",
+    "winner_party": "D",
+    "winner_pct": 55.8,
+    "other_candidates": [
+      {
+        "name": "Caleb Waller",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-58": {
+    "district": "HD-58",
+    "winner": "Larry Don Suckla",
+    "winner_party": "R",
+    "winner_pct": 54.6,
+    "other_candidates": [
+      {
+        "name": "Kathleen Curry",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-59": {
+    "district": "HD-59",
+    "winner": "Katie Stewart",
+    "winner_party": "D",
+    "winner_pct": 51.2,
+    "other_candidates": [
+      {
+        "name": "Clark Craig",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-60": {
+    "district": "HD-60",
+    "winner": "Stephanie Luck",
+    "winner_party": "R",
+    "winner_pct": 69.8,
+    "other_candidates": [
+      {
+        "name": "Kathryn Green",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-61": {
+    "district": "HD-61",
+    "winner": "Eliza Hamrick",
+    "winner_party": "D",
+    "winner_pct": 100.0,
+    "other_candidates": [],
+    "year": 2024
+  },
+  "HD-62": {
+    "district": "HD-62",
+    "winner": "Matthew Martinez",
+    "winner_party": "D",
+    "winner_pct": 53.8,
+    "other_candidates": [
+      {
+        "name": "Carol Riggenbach",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-63": {
+    "district": "HD-63",
+    "winner": "Dusty A Johnson",
+    "winner_party": "R",
+    "winner_pct": 100.0,
+    "other_candidates": [],
+    "year": 2024
+  },
+  "HD-64": {
+    "district": "HD-64",
+    "winner": "Ryan Armagost",
+    "winner_party": "R",
+    "winner_pct": 63.5,
+    "other_candidates": [
+      {
+        "name": "Mark K Matthews",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "HD-65": {
+    "district": "HD-65",
+    "winner": "Lori Garcia Sander",
+    "winner_party": "R",
+    "winner_pct": 62.7,
+    "other_candidates": [
+      {
+        "name": "Will Walters",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "SD-02": {
+    "district": "SD-02",
+    "winner": "Lisa Frizell",
+    "winner_party": "R",
+    "winner_pct": 60.7,
+    "other_candidates": [
+      {
+        "count": 2,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2024
+  },
+  "SD-05": {
+    "district": "SD-05",
+    "winner": "Marc Catlin",
+    "winner_party": "R",
+    "winner_pct": 52.2,
+    "other_candidates": [
+      {
+        "name": "Cole Buerger",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "SD-06": {
+    "district": "SD-06",
+    "winner": "Cleave Alan Simpson",
+    "winner_party": "R",
+    "winner_pct": 55.9,
+    "other_candidates": [
+      {
+        "name": "Vivian Smotherman",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "SD-10": {
+    "district": "SD-10",
+    "winner": "Larry G. Liston",
+    "winner_party": "R",
+    "winner_pct": 57.1,
+    "other_candidates": [
+      {
+        "count": 2,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2024
+  },
+  "SD-12": {
+    "district": "SD-12",
+    "winner": "Marc Snyder",
+    "winner_party": "D",
+    "winner_pct": 48.9,
+    "other_candidates": [
+      {
+        "count": 2,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2024
+  },
+  "SD-13": {
+    "district": "SD-13",
+    "winner": "Scott Bright",
+    "winner_party": "R",
+    "winner_pct": 56.6,
+    "other_candidates": [
+      {
+        "name": "Matt Johnston",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "SD-14": {
+    "district": "SD-14",
+    "winner": "Cathy Kipp",
+    "winner_party": "D",
+    "winner_pct": 68.2,
+    "other_candidates": [
+      {
+        "count": 2,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2024
+  },
+  "SD-16": {
+    "district": "SD-16",
+    "winner": "Chris Kolker",
+    "winner_party": "D",
+    "winner_pct": 52.1,
+    "other_candidates": [
+      {
+        "count": 2,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2024
+  },
+  "SD-17": {
+    "district": "SD-17",
+    "winner": "Sonya Jaquez Lewis",
+    "winner_party": "D",
+    "winner_pct": 66.8,
+    "other_candidates": [
+      {
+        "name": "Tom Van Lone",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "SD-18": {
+    "district": "SD-18",
+    "winner": "Judy Amabile",
+    "winner_party": "D",
+    "winner_pct": 90.5,
+    "other_candidates": [
+      {
+        "name": "Gary Swing",
+        "party": "U"
+      }
+    ],
+    "year": 2024
+  },
+  "SD-19": {
+    "district": "SD-19",
+    "winner": "Lindsey Daugherty",
+    "winner_party": "D",
+    "winner_pct": 56.1,
+    "other_candidates": [
+      {
+        "count": 2,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2024
+  },
+  "SD-21": {
+    "district": "SD-21",
+    "winner": "Dafna Michaelson Jenet",
+    "winner_party": "D",
+    "winner_pct": 51.1,
+    "other_candidates": [
+      {
+        "name": "Frederick Alfred Jr",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "SD-23": {
+    "district": "SD-23",
+    "winner": "Barb Kirkmeyer",
+    "winner_party": "R",
+    "winner_pct": 97.8,
+    "other_candidates": [
+      {
+        "name": "Joseph Bobko",
+        "party": "D"
+      }
+    ],
+    "year": 2024
+  },
+  "SD-26": {
+    "district": "SD-26",
+    "winner": "Jeff Bridges",
+    "winner_party": "D",
+    "winner_pct": 62.0,
+    "other_candidates": [
+      {
+        "count": 2,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2024
+  },
+  "SD-28": {
+    "district": "SD-28",
+    "winner": "Mike Weissman",
+    "winner_party": "D",
+    "winner_pct": 63.5,
+    "other_candidates": [
+      {
+        "name": "Pedro Espinoza",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "SD-29": {
+    "district": "SD-29",
+    "winner": "Janet Buckner",
+    "winner_party": "D",
+    "winner_pct": 100.0,
+    "other_candidates": [],
+    "year": 2024
+  },
+  "SD-31": {
+    "district": "SD-31",
+    "winner": "Chris Hansen",
+    "winner_party": "D",
+    "winner_pct": 83.9,
+    "other_candidates": [
+      {
+        "name": "David Aitken",
+        "party": "L"
+      }
+    ],
+    "year": 2024
+  },
+  "SD-33": {
+    "district": "SD-33",
+    "winner": "James Coleman",
+    "winner_party": "D",
+    "winner_pct": 81.8,
+    "other_candidates": [
+      {
+        "name": "Max Minnig",
+        "party": "R"
+      }
+    ],
+    "year": 2024
+  },
+  "SD-01": {
+    "district": "SD-01",
+    "winner": "Byron Pelton",
+    "winner_party": "R",
+    "winner_pct": 100.0,
+    "other_candidates": [],
+    "year": 2022
+  },
+  "SD-03": {
+    "district": "SD-03",
+    "winner": "Nick Hinrichsen",
+    "winner_party": "D",
+    "winner_pct": 51.2,
+    "other_candidates": [
+      {
+        "count": 2,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2022
+  },
+  "SD-04": {
+    "district": "SD-04",
+    "winner": "Mark Baisley",
+    "winner_party": "R",
+    "winner_pct": 60.8,
+    "other_candidates": [
+      {
+        "name": "Jeff Ravage",
+        "party": "D"
+      }
+    ],
+    "year": 2022
+  },
+  "SD-07": {
+    "district": "SD-07",
+    "winner": "Janice Rich",
+    "winner_party": "R",
+    "winner_pct": 70.1,
+    "other_candidates": [
+      {
+        "name": "David C. Stahlke",
+        "party": "D"
+      }
+    ],
+    "year": 2022
+  },
+  "SD-08": {
+    "district": "SD-08",
+    "winner": "Dylan Roberts",
+    "winner_party": "D",
+    "winner_pct": 55.7,
+    "other_candidates": [
+      {
+        "name": "Matt Solomon",
+        "party": "R"
+      }
+    ],
+    "year": 2022
+  },
+  "SD-09": {
+    "district": "SD-09",
+    "winner": "Paul Lundeen",
+    "winner_party": "R",
+    "winner_pct": 62.3,
+    "other_candidates": [
+      {
+        "count": 2,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2022
+  },
+  "SD-11": {
+    "district": "SD-11",
+    "winner": "Tony Exum",
+    "winner_party": "D",
+    "winner_pct": 49.9,
+    "other_candidates": [
+      {
+        "count": 2,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2022
+  },
+  "SD-15": {
+    "district": "SD-15",
+    "winner": "Janice Marchman",
+    "winner_party": "D",
+    "winner_pct": 50.6,
+    "other_candidates": [
+      {
+        "name": "Rob Woodward",
+        "party": "R"
+      }
+    ],
+    "year": 2022
+  },
+  "SD-20": {
+    "district": "SD-20",
+    "winner": "Lisa A. Cutter",
+    "winner_party": "D",
+    "winner_pct": 54.2,
+    "other_candidates": [
+      {
+        "count": 2,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2022
+  },
+  "SD-22": {
+    "district": "SD-22",
+    "winner": "Jessie Danielson",
+    "winner_party": "D",
+    "winner_pct": 67.3,
+    "other_candidates": [
+      {
+        "name": "Colby Drechsel",
+        "party": "R"
+      }
+    ],
+    "year": 2022
+  },
+  "SD-24": {
+    "district": "SD-24",
+    "winner": "Kyle Mullica",
+    "winner_party": "D",
+    "winner_pct": 53.8,
+    "other_candidates": [
+      {
+        "count": 2,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2022
+  },
+  "SD-25": {
+    "district": "SD-25",
+    "winner": "Faith Winter",
+    "winner_party": "D",
+    "winner_pct": 61.5,
+    "other_candidates": [
+      {
+        "name": "Melody Peotter",
+        "party": "R"
+      }
+    ],
+    "year": 2022
+  },
+  "SD-27": {
+    "district": "SD-27",
+    "winner": "Tom Sullivan",
+    "winner_party": "D",
+    "winner_pct": 54.9,
+    "other_candidates": [
+      {
+        "count": 2,
+        "name": null,
+        "note": "opponents not individually named in source"
+      }
+    ],
+    "year": 2022
+  },
+  "SD-30": {
+    "district": "SD-30",
+    "winner": "Kevin Van Winkle",
+    "winner_party": "R",
+    "winner_pct": 53.8,
+    "other_candidates": [
+      {
+        "name": "Braeden Miguel",
+        "party": "D"
+      }
+    ],
+    "year": 2022
+  },
+  "SD-32": {
+    "district": "SD-32",
+    "winner": "Robert Rodriguez",
+    "winner_party": "D",
+    "winner_pct": 76.0,
+    "other_candidates": [
+      {
+        "name": "Dean Flanders",
+        "party": "R"
+      }
+    ],
+    "year": 2022
+  },
+  "SD-34": {
+    "district": "SD-34",
+    "winner": "Julie C. Gonzales",
+    "winner_party": "D",
+    "winner_pct": 100.0,
+    "other_candidates": [],
+    "year": 2022
+  },
+  "SD-35": {
+    "district": "SD-35",
+    "winner": "Rod Pelton",
+    "winner_party": "R",
+    "winner_pct": 74.3,
+    "other_candidates": [
+      {
+        "name": "Travis Star Nelson",
+        "party": "D"
+      }
+    ],
+    "year": 2022
+  }
+}

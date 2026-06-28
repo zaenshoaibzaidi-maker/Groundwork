@@ -1,0 +1,1253 @@
+{
+  "HD-01": {
+    "district": "HD-01",
+    "candidates": [
+      {
+        "name": "Chip Neiman",
+        "party": "R",
+        "votes": 5096
+      }
+    ],
+    "winner": "Chip Neiman",
+    "year": 2024
+  },
+  "HD-02": {
+    "district": "HD-02",
+    "candidates": [
+      {
+        "name": "JD Williams",
+        "party": "R",
+        "votes": 3834
+      }
+    ],
+    "winner": "JD Williams",
+    "year": 2024
+  },
+  "HD-03": {
+    "district": "HD-03",
+    "candidates": [
+      {
+        "name": "Abby Angelos",
+        "party": "R",
+        "votes": 3753
+      }
+    ],
+    "winner": "Abby Angelos",
+    "year": 2024
+  },
+  "HD-04": {
+    "district": "HD-04",
+    "candidates": [
+      {
+        "name": "Jeremy Haroldson",
+        "party": "R",
+        "votes": 3516
+      },
+      {
+        "name": "Charles Randolph",
+        "party": "D",
+        "votes": 1014
+      }
+    ],
+    "winner": "Jeremy Haroldson",
+    "year": 2024
+  },
+  "HD-05": {
+    "district": "HD-05",
+    "candidates": [
+      {
+        "name": "Scott Smith",
+        "party": "R",
+        "votes": 3893
+      }
+    ],
+    "winner": "Scott Smith",
+    "year": 2024
+  },
+  "HD-06": {
+    "district": "HD-06",
+    "candidates": [
+      {
+        "name": "Tomi Strock",
+        "party": "R",
+        "votes": 3742
+      }
+    ],
+    "winner": "Tomi Strock",
+    "year": 2024
+  },
+  "HD-07": {
+    "district": "HD-07",
+    "candidates": [
+      {
+        "name": "Bob Nicholas",
+        "party": "R",
+        "votes": 2791
+      },
+      {
+        "name": "Jordan Evans",
+        "party": "D",
+        "votes": 1456
+      }
+    ],
+    "winner": "Bob Nicholas",
+    "year": 2024
+  },
+  "HD-08": {
+    "district": "HD-08",
+    "candidates": [
+      {
+        "name": "Steve Johnson",
+        "party": "R",
+        "votes": 4229
+      }
+    ],
+    "winner": "Steve Johnson",
+    "year": 2024
+  },
+  "HD-09": {
+    "district": "HD-09",
+    "candidates": [
+      {
+        "name": "Landon J. Brown",
+        "party": "R",
+        "votes": 3453
+      }
+    ],
+    "winner": "Landon J. Brown",
+    "year": 2024
+  },
+  "HD-10": {
+    "district": "HD-10",
+    "candidates": [
+      {
+        "name": "John Eklund",
+        "party": "R",
+        "votes": 3963
+      },
+      {
+        "name": "Timothy (Tim) Forbis",
+        "party": "I",
+        "votes": 865
+      }
+    ],
+    "winner": "John Eklund",
+    "year": 2024
+  },
+  "HD-11": {
+    "district": "HD-11",
+    "candidates": [
+      {
+        "name": "Jacob Wasserburger",
+        "party": "R",
+        "votes": 1774
+      },
+      {
+        "name": "Sara Burlingame",
+        "party": "D",
+        "votes": 1482
+      }
+    ],
+    "winner": "Jacob Wasserburger",
+    "year": 2024
+  },
+  "HD-12": {
+    "district": "HD-12",
+    "candidates": [
+      {
+        "name": "Clarence Styvar",
+        "party": "R",
+        "votes": 2252
+      }
+    ],
+    "winner": "Clarence Styvar",
+    "year": 2024
+  },
+  "HD-13": {
+    "district": "HD-13",
+    "candidates": [
+      {
+        "name": "Shane Swett",
+        "party": "R",
+        "votes": 1718
+      },
+      {
+        "name": "Ken Chestek",
+        "party": "D",
+        "votes": 1941
+      }
+    ],
+    "winner": "Ken Chestek",
+    "year": 2024
+  },
+  "HD-14": {
+    "district": "HD-14",
+    "candidates": [
+      {
+        "name": "Joe Giustozzi",
+        "party": "R",
+        "votes": 2279
+      },
+      {
+        "name": "Trey Sherwood",
+        "party": "D",
+        "votes": 2472
+      }
+    ],
+    "winner": "Trey Sherwood",
+    "year": 2024
+  },
+  "HD-15": {
+    "district": "HD-15",
+    "candidates": [
+      {
+        "name": "Pamela Thayer",
+        "party": "R",
+        "votes": 2790
+      }
+    ],
+    "winner": "Pamela Thayer",
+    "year": 2024
+  },
+  "HD-16": {
+    "district": "HD-16",
+    "candidates": [
+      {
+        "name": "Mike Yin",
+        "party": "D",
+        "votes": 3545
+      }
+    ],
+    "winner": "Mike Yin",
+    "year": 2024
+  },
+  "HD-17": {
+    "district": "HD-17",
+    "candidates": [
+      {
+        "name": "J.T. Larson",
+        "party": "R",
+        "votes": 2590
+      }
+    ],
+    "winner": "J.T. Larson",
+    "year": 2024
+  },
+  "HD-18": {
+    "district": "HD-18",
+    "candidates": [
+      {
+        "name": "Scott Heiner",
+        "party": "R",
+        "votes": 3781
+      }
+    ],
+    "winner": "Scott Heiner",
+    "year": 2024
+  },
+  "HD-19": {
+    "district": "HD-19",
+    "candidates": [
+      {
+        "name": "Joe Webb",
+        "party": "R",
+        "votes": 3012
+      }
+    ],
+    "winner": "Joe Webb",
+    "year": 2024
+  },
+  "HD-20": {
+    "district": "HD-20",
+    "candidates": [
+      {
+        "name": "Mike Schmid",
+        "party": "R",
+        "votes": 4354
+      }
+    ],
+    "winner": "Mike Schmid",
+    "year": 2024
+  },
+  "HD-21": {
+    "district": "HD-21",
+    "candidates": [
+      {
+        "name": "McKay L. Erickson",
+        "party": "R",
+        "votes": 4947
+      }
+    ],
+    "winner": "McKay L. Erickson",
+    "year": 2024
+  },
+  "HD-22": {
+    "district": "HD-22",
+    "candidates": [
+      {
+        "name": "Andrew P Byron",
+        "party": "R",
+        "votes": 4189
+      }
+    ],
+    "winner": "Andrew P Byron",
+    "year": 2024
+  },
+  "HD-23": {
+    "district": "HD-23",
+    "candidates": [
+      {
+        "name": "Liz Storer",
+        "party": "D",
+        "votes": 4434
+      }
+    ],
+    "winner": "Liz Storer",
+    "year": 2024
+  },
+  "HD-24": {
+    "district": "HD-24",
+    "candidates": [
+      {
+        "name": "Nina Webber",
+        "party": "R",
+        "votes": 3372
+      }
+    ],
+    "winner": "Nina Webber",
+    "year": 2024
+  },
+  "HD-25": {
+    "district": "HD-25",
+    "candidates": [
+      {
+        "name": "Paul Hoeft",
+        "party": "R",
+        "votes": 3673
+      }
+    ],
+    "winner": "Paul Hoeft",
+    "year": 2024
+  },
+  "HD-26": {
+    "district": "HD-26",
+    "candidates": [
+      {
+        "name": "Dalton Banks",
+        "party": "R",
+        "votes": 3942
+      }
+    ],
+    "winner": "Dalton Banks",
+    "year": 2024
+  },
+  "HD-27": {
+    "district": "HD-27",
+    "candidates": [
+      {
+        "name": "Martha Lawley",
+        "party": "R",
+        "votes": 3918
+      }
+    ],
+    "winner": "Martha Lawley",
+    "year": 2024
+  },
+  "HD-28": {
+    "district": "HD-28",
+    "candidates": [
+      {
+        "name": "John R. Winter",
+        "party": "R",
+        "votes": 3986
+      },
+      {
+        "name": "Larry Alwin",
+        "party": "D",
+        "votes": 857
+      }
+    ],
+    "winner": "John R. Winter",
+    "year": 2024
+  },
+  "HD-29": {
+    "district": "HD-29",
+    "candidates": [
+      {
+        "name": "Ken Pendergraft",
+        "party": "R",
+        "votes": 3009
+      },
+      {
+        "name": "Martha J Wright",
+        "party": "D",
+        "votes": 1325
+      }
+    ],
+    "winner": "Ken Pendergraft",
+    "year": 2024
+  },
+  "HD-30": {
+    "district": "HD-30",
+    "candidates": [
+      {
+        "name": "Tom Kelly",
+        "party": "R",
+        "votes": 3944
+      }
+    ],
+    "winner": "Tom Kelly",
+    "year": 2024
+  },
+  "HD-31": {
+    "district": "HD-31",
+    "candidates": [
+      {
+        "name": "John W Bear",
+        "party": "R",
+        "votes": 2726
+      }
+    ],
+    "winner": "John W Bear",
+    "year": 2024
+  },
+  "HD-32": {
+    "district": "HD-32",
+    "candidates": [
+      {
+        "name": "Ken L. Clouston",
+        "party": "R",
+        "votes": 3342
+      }
+    ],
+    "winner": "Ken L. Clouston",
+    "year": 2024
+  },
+  "HD-33": {
+    "district": "HD-33",
+    "candidates": [
+      {
+        "name": "Sarah Penn",
+        "party": "R",
+        "votes": 1210
+      },
+      {
+        "name": "Ivan D. Posey",
+        "party": "D",
+        "votes": 1675
+      }
+    ],
+    "winner": "Ivan D. Posey",
+    "year": 2024
+  },
+  "HD-34": {
+    "district": "HD-34",
+    "candidates": [
+      {
+        "name": "Pepper L. Ottman",
+        "party": "R",
+        "votes": 4117
+      }
+    ],
+    "winner": "Pepper L. Ottman",
+    "year": 2024
+  },
+  "HD-35": {
+    "district": "HD-35",
+    "candidates": [
+      {
+        "name": "Tony Locke",
+        "party": "R",
+        "votes": 3409
+      }
+    ],
+    "winner": "Tony Locke",
+    "year": 2024
+  },
+  "HD-36": {
+    "district": "HD-36",
+    "candidates": [
+      {
+        "name": "Art Washut",
+        "party": "R",
+        "votes": 2727
+      }
+    ],
+    "winner": "Art Washut",
+    "year": 2024
+  },
+  "HD-37": {
+    "district": "HD-37",
+    "candidates": [
+      {
+        "name": "Steve Harshman",
+        "party": "R",
+        "votes": 4004
+      }
+    ],
+    "winner": "Steve Harshman",
+    "year": 2024
+  },
+  "HD-38": {
+    "district": "HD-38",
+    "candidates": [
+      {
+        "name": "Jayme Lien",
+        "party": "R",
+        "votes": 3253
+      }
+    ],
+    "winner": "Jayme Lien",
+    "year": 2024
+  },
+  "HD-39": {
+    "district": "HD-39",
+    "candidates": [
+      {
+        "name": "Cody Wylie",
+        "party": "R",
+        "votes": 2966
+      }
+    ],
+    "winner": "Cody Wylie",
+    "year": 2024
+  },
+  "HD-40": {
+    "district": "HD-40",
+    "candidates": [
+      {
+        "name": "Marilyn Connoly",
+        "party": "R",
+        "votes": 4806
+      }
+    ],
+    "winner": "Marilyn Connoly",
+    "year": 2024
+  },
+  "HD-41": {
+    "district": "HD-41",
+    "candidates": [
+      {
+        "name": "Gary Brown",
+        "party": "R",
+        "votes": 2039
+      },
+      {
+        "name": "Jen Solis",
+        "party": "D",
+        "votes": 1852
+      }
+    ],
+    "winner": "Gary Brown",
+    "year": 2024
+  },
+  "HD-42": {
+    "district": "HD-42",
+    "candidates": [
+      {
+        "name": "Rob Geringer",
+        "party": "R",
+        "votes": 3270
+      },
+      {
+        "name": "Bob Ray",
+        "party": "D",
+        "votes": 853
+      }
+    ],
+    "winner": "Rob Geringer",
+    "year": 2024
+  },
+  "HD-43": {
+    "district": "HD-43",
+    "candidates": [
+      {
+        "name": "Ann Lucas",
+        "party": "R",
+        "votes": 3540
+      }
+    ],
+    "winner": "Ann Lucas",
+    "year": 2024
+  },
+  "HD-44": {
+    "district": "HD-44",
+    "candidates": [
+      {
+        "name": "Lee Filer",
+        "party": "R",
+        "votes": 2265
+      }
+    ],
+    "winner": "Lee Filer",
+    "year": 2024
+  },
+  "HD-45": {
+    "district": "HD-45",
+    "candidates": [
+      {
+        "name": "Paul Crouch",
+        "party": "R",
+        "votes": 1477
+      },
+      {
+        "name": "Karlee Provenza",
+        "party": "D",
+        "votes": 2493
+      }
+    ],
+    "winner": "Karlee Provenza",
+    "year": 2024
+  },
+  "HD-46": {
+    "district": "HD-46",
+    "candidates": [
+      {
+        "name": "Ocean Andrew",
+        "party": "R",
+        "votes": 3411
+      },
+      {
+        "name": "Chris Lowry",
+        "party": "D",
+        "votes": 1481
+      }
+    ],
+    "winner": "Ocean Andrew",
+    "year": 2024
+  },
+  "HD-47": {
+    "district": "HD-47",
+    "candidates": [
+      {
+        "name": "Bob Davis",
+        "party": "R",
+        "votes": 3488
+      },
+      {
+        "name": "James A Wilson",
+        "party": "D",
+        "votes": 666
+      }
+    ],
+    "winner": "Bob Davis",
+    "year": 2024
+  },
+  "HD-48": {
+    "district": "HD-48",
+    "candidates": [
+      {
+        "name": "Darin M. McCann",
+        "party": "R",
+        "votes": 2715
+      }
+    ],
+    "winner": "Darin M. McCann",
+    "year": 2024
+  },
+  "HD-49": {
+    "district": "HD-49",
+    "candidates": [
+      {
+        "name": "Robert Wharff",
+        "party": "R",
+        "votes": 3046
+      }
+    ],
+    "winner": "Robert Wharff",
+    "year": 2024
+  },
+  "HD-50": {
+    "district": "HD-50",
+    "candidates": [
+      {
+        "name": "Rachel Rodriguez-Williams",
+        "party": "R",
+        "votes": 4510
+      }
+    ],
+    "winner": "Rachel Rodriguez-Williams",
+    "year": 2024
+  },
+  "HD-51": {
+    "district": "HD-51",
+    "candidates": [
+      {
+        "name": "Laurie Bratten",
+        "party": "R",
+        "votes": 4910
+      }
+    ],
+    "winner": "Laurie Bratten",
+    "year": 2024
+  },
+  "HD-52": {
+    "district": "HD-52",
+    "candidates": [
+      {
+        "name": "Reuben Tarver",
+        "party": "R",
+        "votes": 3402
+      }
+    ],
+    "winner": "Reuben Tarver",
+    "year": 2024
+  },
+  "HD-53": {
+    "district": "HD-53",
+    "candidates": [
+      {
+        "name": "Christopher R. Knapp",
+        "party": "R",
+        "votes": 2466
+      }
+    ],
+    "winner": "Christopher R. Knapp",
+    "year": 2024
+  },
+  "HD-54": {
+    "district": "HD-54",
+    "candidates": [
+      {
+        "name": "Lloyd Charles Larsen",
+        "party": "R",
+        "votes": 3821
+      }
+    ],
+    "winner": "Lloyd Charles Larsen",
+    "year": 2024
+  },
+  "HD-55": {
+    "district": "HD-55",
+    "candidates": [
+      {
+        "name": "Joel Guggenmos",
+        "party": "R",
+        "votes": 2858
+      }
+    ],
+    "winner": "Joel Guggenmos",
+    "year": 2024
+  },
+  "HD-56": {
+    "district": "HD-56",
+    "candidates": [
+      {
+        "name": "Elissa Campbell",
+        "party": "R",
+        "votes": 2938
+      }
+    ],
+    "winner": "Elissa Campbell",
+    "year": 2024
+  },
+  "HD-57": {
+    "district": "HD-57",
+    "candidates": [
+      {
+        "name": "Julie Jarvis",
+        "party": "R",
+        "votes": 2405
+      }
+    ],
+    "winner": "Julie Jarvis",
+    "year": 2024
+  },
+  "HD-58": {
+    "district": "HD-58",
+    "candidates": [
+      {
+        "name": "Bill Allemand",
+        "party": "R",
+        "votes": 3055
+      }
+    ],
+    "winner": "Bill Allemand",
+    "year": 2024
+  },
+  "HD-59": {
+    "district": "HD-59",
+    "candidates": [
+      {
+        "name": "J.R. Riggins",
+        "party": "R",
+        "votes": 2740
+      }
+    ],
+    "winner": "J.R. Riggins",
+    "year": 2024
+  },
+  "HD-60": {
+    "district": "HD-60",
+    "candidates": [
+      {
+        "name": "Marlene Brady",
+        "party": "R",
+        "votes": 2484
+      },
+      {
+        "name": "Carmen Whitehead",
+        "party": "D",
+        "votes": 951
+      }
+    ],
+    "winner": "Marlene Brady",
+    "year": 2024
+  },
+  "HD-61": {
+    "district": "HD-61",
+    "candidates": [
+      {
+        "name": "Daniel J. Singh",
+        "party": "R",
+        "votes": 2516
+      }
+    ],
+    "winner": "Daniel J. Singh",
+    "year": 2024
+  },
+  "HD-62": {
+    "district": "HD-62",
+    "candidates": [
+      {
+        "name": "Kevin Campbell",
+        "party": "R",
+        "votes": 3496
+      }
+    ],
+    "winner": "Kevin Campbell",
+    "year": 2024
+  },
+  "SD-01": {
+    "district": "SD-01",
+    "candidates": [
+      {
+        "name": "Ogden Driskill",
+        "party": "R",
+        "votes": 4785
+      }
+    ],
+    "winner": "Ogden Driskill",
+    "year": 2022
+  },
+  "SD-02": {
+    "district": "SD-02",
+    "candidates": [
+      {
+        "name": "Brian Boner",
+        "party": "R",
+        "votes": 7712
+      }
+    ],
+    "winner": "Brian Boner",
+    "year": 2024
+  },
+  "SD-03": {
+    "district": "SD-03",
+    "candidates": [
+      {
+        "name": "Cheri Steinmetz",
+        "party": "R",
+        "votes": 6352
+      }
+    ],
+    "winner": "Cheri Steinmetz",
+    "year": 2022
+  },
+  "SD-04": {
+    "district": "SD-04",
+    "candidates": [
+      {
+        "name": "Tara Nethercott",
+        "party": "R",
+        "votes": 8255
+      }
+    ],
+    "winner": "Tara Nethercott",
+    "year": 2024
+  },
+  "SD-05": {
+    "district": "SD-05",
+    "candidates": [
+      {
+        "name": "Lynn Hutchings",
+        "party": "R",
+        "votes": 3284
+      },
+      {
+        "name": "Ted Hanlon",
+        "party": "D",
+        "votes": 1354
+      }
+    ],
+    "winner": "Lynn Hutchings",
+    "year": 2022
+  },
+  "SD-06": {
+    "district": "SD-06",
+    "candidates": [
+      {
+        "name": "Darin Smith",
+        "party": "R",
+        "votes": 8484
+      }
+    ],
+    "winner": "Darin Smith",
+    "year": 2024
+  },
+  "SD-07": {
+    "district": "SD-07",
+    "candidates": [
+      {
+        "name": "Stephan Pappas",
+        "party": "R",
+        "votes": 3238
+      },
+      {
+        "name": "Marcie Kindred",
+        "party": "D",
+        "votes": 2437
+      }
+    ],
+    "winner": "Stephan Pappas",
+    "year": 2022
+  },
+  "SD-08": {
+    "district": "SD-08",
+    "candidates": [
+      {
+        "name": "Jared Olsen",
+        "party": "R",
+        "votes": 3444
+      },
+      {
+        "name": "Marguerite Herman",
+        "party": "D",
+        "votes": 2464
+      }
+    ],
+    "winner": "Jared Olsen",
+    "year": 2024
+  },
+  "SD-09": {
+    "district": "SD-09",
+    "candidates": [
+      {
+        "name": "Diana Seabeck",
+        "party": "R",
+        "votes": 1900
+      },
+      {
+        "name": "Chris Rothfuss",
+        "party": "D",
+        "votes": 3223
+      }
+    ],
+    "winner": "Chris Rothfuss",
+    "year": 2022
+  },
+  "SD-10": {
+    "district": "SD-10",
+    "candidates": [
+      {
+        "name": "Gary E Crum",
+        "party": "R",
+        "votes": 6331
+      },
+      {
+        "name": "Mike Selmer",
+        "party": "D",
+        "votes": 3405
+      }
+    ],
+    "winner": "Gary E Crum",
+    "year": 2024
+  },
+  "SD-11": {
+    "district": "SD-11",
+    "candidates": [
+      {
+        "name": "Larry Hicks",
+        "party": "R",
+        "votes": 4153
+      },
+      {
+        "name": "Michael Ray Williams",
+        "party": "C",
+        "votes": 1104
+      }
+    ],
+    "winner": "Larry Hicks",
+    "year": 2022
+  },
+  "SD-12": {
+    "district": "SD-12",
+    "candidates": [
+      {
+        "name": "John K Kolb",
+        "party": "R",
+        "votes": 4359
+      },
+      {
+        "name": "Kenilynn S Zanetti",
+        "party": "D",
+        "votes": 1873
+      }
+    ],
+    "winner": "John K Kolb",
+    "year": 2024
+  },
+  "SD-13": {
+    "district": "SD-13",
+    "candidates": [
+      {
+        "name": "Stacy Jones",
+        "party": "R",
+        "votes": 3859
+      },
+      {
+        "name": "Leesa Kuhlmann",
+        "party": "D",
+        "votes": 1220
+      }
+    ],
+    "winner": "Stacy Jones",
+    "year": 2022
+  },
+  "SD-14": {
+    "district": "SD-14",
+    "candidates": [
+      {
+        "name": "Laura Taliaferro Pearson",
+        "party": "R",
+        "votes": 8025
+      }
+    ],
+    "winner": "Laura Taliaferro Pearson",
+    "year": 2024
+  },
+  "SD-15": {
+    "district": "SD-15",
+    "candidates": [
+      {
+        "name": "Wendy Davis Schuler",
+        "party": "R",
+        "votes": 5243
+      }
+    ],
+    "winner": "Wendy Davis Schuler",
+    "year": 2022
+  },
+  "SD-16": {
+    "district": "SD-16",
+    "candidates": [
+      {
+        "name": "Dan Dockstader",
+        "party": "R",
+        "votes": 8830
+      }
+    ],
+    "winner": "Dan Dockstader",
+    "year": 2024
+  },
+  "SD-17": {
+    "district": "SD-17",
+    "candidates": [
+      {
+        "name": "Steve Duerr",
+        "party": "R",
+        "votes": 2615
+      },
+      {
+        "name": "Michael F. 'Mike' Gierau",
+        "party": "D",
+        "votes": 5142
+      },
+      {
+        "name": "Amanda Padilla",
+        "party": "L",
+        "votes": 421
+      }
+    ],
+    "winner": "Michael F. 'Mike' Gierau",
+    "year": 2022
+  },
+  "SD-18": {
+    "district": "SD-18",
+    "candidates": [
+      {
+        "name": "Tim A. French",
+        "party": "R",
+        "votes": 8568
+      }
+    ],
+    "winner": "Tim A. French",
+    "year": 2024
+  },
+  "SD-19": {
+    "district": "SD-19",
+    "candidates": [
+      {
+        "name": "Dan Laursen",
+        "party": "R",
+        "votes": 5538
+      }
+    ],
+    "winner": "Dan Laursen",
+    "year": 2022
+  },
+  "SD-20": {
+    "district": "SD-20",
+    "candidates": [
+      {
+        "name": "Ed Cooper",
+        "party": "R",
+        "votes": 8236
+      }
+    ],
+    "winner": "Ed Cooper",
+    "year": 2024
+  },
+  "SD-21": {
+    "district": "SD-21",
+    "candidates": [
+      {
+        "name": "Bo Biteman",
+        "party": "R",
+        "votes": 5815
+      },
+      {
+        "name": "Mark Hansen",
+        "party": "D",
+        "votes": 2101
+      }
+    ],
+    "winner": "Bo Biteman",
+    "year": 2022
+  },
+  "SD-22": {
+    "district": "SD-22",
+    "candidates": [
+      {
+        "name": "Barry Crago",
+        "party": "R",
+        "votes": 8599
+      }
+    ],
+    "winner": "Barry Crago",
+    "year": 2024
+  },
+  "SD-23": {
+    "district": "SD-23",
+    "candidates": [
+      {
+        "name": "Eric Barlow",
+        "party": "R",
+        "votes": 3611
+      },
+      {
+        "name": "Patricia Junek",
+        "party": "I",
+        "votes": 1369
+      }
+    ],
+    "winner": "Eric Barlow",
+    "year": 2022
+  },
+  "SD-24": {
+    "district": "SD-24",
+    "candidates": [
+      {
+        "name": "Troy D McKeown",
+        "party": "R",
+        "votes": 5305
+      }
+    ],
+    "winner": "Troy D McKeown",
+    "year": 2024
+  },
+  "SD-25": {
+    "district": "SD-25",
+    "candidates": [
+      {
+        "name": "Cale Case",
+        "party": "R",
+        "votes": 4365
+      }
+    ],
+    "winner": "Cale Case",
+    "year": 2022
+  },
+  "SD-26": {
+    "district": "SD-26",
+    "candidates": [
+      {
+        "name": "Tim Salazar",
+        "party": "R",
+        "votes": 7266
+      }
+    ],
+    "winner": "Tim Salazar",
+    "year": 2024
+  },
+  "SD-27": {
+    "district": "SD-27",
+    "candidates": [
+      {
+        "name": "Bill Landen",
+        "party": "R",
+        "votes": 4477
+      }
+    ],
+    "winner": "Bill Landen",
+    "year": 2022
+  },
+  "SD-28": {
+    "district": "SD-28",
+    "candidates": [
+      {
+        "name": "Jim Anderson",
+        "party": "R",
+        "votes": 5354
+      }
+    ],
+    "winner": "Jim Anderson",
+    "year": 2024
+  },
+  "SD-29": {
+    "district": "SD-29",
+    "candidates": [
+      {
+        "name": "Bob Ide",
+        "party": "R",
+        "votes": 4402
+      }
+    ],
+    "winner": "Bob Ide",
+    "year": 2022
+  },
+  "SD-30": {
+    "district": "SD-30",
+    "candidates": [
+      {
+        "name": "Charles K. Scott",
+        "party": "R",
+        "votes": 6406
+      }
+    ],
+    "winner": "Charles K. Scott",
+    "year": 2024
+  },
+  "SD-31": {
+    "district": "SD-31",
+    "candidates": [
+      {
+        "name": "Evie Brennan",
+        "party": "R",
+        "votes": 3807
+      }
+    ],
+    "winner": "Evie Brennan",
+    "year": 2022
+  }
+}

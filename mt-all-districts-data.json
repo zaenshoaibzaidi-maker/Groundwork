@@ -1,0 +1,5451 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Montana House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41725,
+        "medianAge": 49.7,
+        "totalPopulation": 9938,
+        "collegePct": 13.76,
+        "renterRatePct": 26.62,
+        "race": {
+          "whitePct": 89.78,
+          "nonHispanicWhitePct": 89.09,
+          "blackPct": 0.08,
+          "asianPct": 0.25,
+          "hispanicPct": 3.11
+        }
+      },
+      "election": {
+        "district": "HD-01",
+        "candidates": [
+          {
+            "name": "ADAMS",
+            "party": "Democratic",
+            "votes": 1388
+          },
+          {
+            "name": "DURAM",
+            "party": "Republican",
+            "votes": 5541
+          }
+        ],
+        "winner": "DURAM",
+        "year": 2024
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Montana House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59875,
+        "medianAge": 54.4,
+        "totalPopulation": 10718,
+        "collegePct": 21.81,
+        "renterRatePct": 15.25,
+        "race": {
+          "whitePct": 93.21,
+          "nonHispanicWhitePct": 92.39,
+          "blackPct": 0.07,
+          "asianPct": 0.27,
+          "hispanicPct": 2.85
+        }
+      },
+      "election": {
+        "district": "HD-02",
+        "candidates": [
+          {
+            "name": "SIMONIS",
+            "party": "Democratic",
+            "votes": 1245
+          },
+          {
+            "name": "MILLETT",
+            "party": "Republican",
+            "votes": 4600
+          }
+        ],
+        "winner": "MILLETT",
+        "year": 2024
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Montana House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68295,
+        "medianAge": 41.7,
+        "totalPopulation": 10791,
+        "collegePct": 31.46,
+        "renterRatePct": 23.97,
+        "race": {
+          "whitePct": 92.08,
+          "nonHispanicWhitePct": 91.97,
+          "blackPct": 0.4,
+          "asianPct": 0.61,
+          "hispanicPct": 2.68
+        }
+      },
+      "election": {
+        "district": "HD-03",
+        "candidates": [
+          {
+            "name": "POWERS",
+            "party": "Democratic",
+            "votes": 3554
+          },
+          {
+            "name": "MITCHELL",
+            "party": "Republican",
+            "votes": 3310
+          }
+        ],
+        "winner": "POWERS",
+        "year": 2024
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Montana House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74015,
+        "medianAge": 39.9,
+        "totalPopulation": 12356,
+        "collegePct": 32.04,
+        "renterRatePct": 15.85,
+        "race": {
+          "whitePct": 92.68,
+          "nonHispanicWhitePct": 92.35,
+          "blackPct": 0.27,
+          "asianPct": 1.12,
+          "hispanicPct": 1.73
+        }
+      },
+      "election": {
+        "district": "HD-04",
+        "candidates": [
+          {
+            "name": "JORDAN",
+            "party": "Democratic",
+            "votes": 2922
+          },
+          {
+            "name": "BENNETT",
+            "party": "Republican",
+            "votes": 3171
+          }
+        ],
+        "winner": "BENNETT",
+        "year": 2024
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Montana House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70767,
+        "medianAge": 47.2,
+        "totalPopulation": 11979,
+        "collegePct": 52.64,
+        "renterRatePct": 31.63,
+        "race": {
+          "whitePct": 94.79,
+          "nonHispanicWhitePct": 94.65,
+          "blackPct": 0,
+          "asianPct": 0,
+          "hispanicPct": 1.94
+        }
+      },
+      "election": {
+        "district": "HD-05",
+        "candidates": [
+          {
+            "name": "PAUGH",
+            "party": "Democratic",
+            "votes": 1654
+          },
+          {
+            "name": "MITCHELL",
+            "party": "Republican",
+            "votes": 4671
+          }
+        ],
+        "winner": "MITCHELL",
+        "year": 2024
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Montana House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74651,
+        "medianAge": 47.5,
+        "totalPopulation": 10883,
+        "collegePct": 40.77,
+        "renterRatePct": 14.57,
+        "race": {
+          "whitePct": 92.11,
+          "nonHispanicWhitePct": 90.43,
+          "blackPct": 0.15,
+          "asianPct": 0.99,
+          "hispanicPct": 5.81
+        }
+      },
+      "election": {
+        "district": "HD-06",
+        "candidates": [
+          {
+            "name": "PHILLIPS SULLIVAN",
+            "party": "Democratic",
+            "votes": 2250
+          },
+          {
+            "name": "REGIER",
+            "party": "Republican",
+            "votes": 5131
+          }
+        ],
+        "winner": "REGIER",
+        "year": 2024
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Montana House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49909,
+        "medianAge": 35.9,
+        "totalPopulation": 11568,
+        "collegePct": 30.27,
+        "renterRatePct": 49.87,
+        "race": {
+          "whitePct": 91.94,
+          "nonHispanicWhitePct": 90.9,
+          "blackPct": 0,
+          "asianPct": 1.11,
+          "hispanicPct": 4.52
+        }
+      },
+      "election": {
+        "district": "HD-07",
+        "candidates": [
+          {
+            "name": "FRETHEIM",
+            "party": "Democratic",
+            "votes": 1633
+          },
+          {
+            "name": "SPRUNGER",
+            "party": "Republican",
+            "votes": 3081
+          }
+        ],
+        "winner": "SPRUNGER",
+        "year": 2024
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Montana House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74359,
+        "medianAge": 33,
+        "totalPopulation": 13737,
+        "collegePct": 29.95,
+        "renterRatePct": 29.18,
+        "race": {
+          "whitePct": 88.64,
+          "nonHispanicWhitePct": 87.05,
+          "blackPct": 0.5,
+          "asianPct": 1.37,
+          "hispanicPct": 5.09
+        }
+      },
+      "election": {
+        "district": "HD-08",
+        "candidates": [
+          {
+            "name": "SIBERT",
+            "party": "Democratic",
+            "votes": 1671
+          },
+          {
+            "name": "SCHUBERT",
+            "party": "Republican",
+            "votes": 4030
+          }
+        ],
+        "winner": "SCHUBERT",
+        "year": 2024
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Montana House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72336,
+        "medianAge": 40.5,
+        "totalPopulation": 11559,
+        "collegePct": 26.55,
+        "renterRatePct": 30.16,
+        "race": {
+          "whitePct": 89.19,
+          "nonHispanicWhitePct": 89,
+          "blackPct": 0.22,
+          "asianPct": 0.76,
+          "hispanicPct": 2.17
+        }
+      },
+      "election": {
+        "district": "HD-09",
+        "candidates": [
+          {
+            "name": "MORROW",
+            "party": "Democratic",
+            "votes": 1641
+          },
+          {
+            "name": "KELLY",
+            "party": "Republican",
+            "votes": 4807
+          }
+        ],
+        "winner": "KELLY",
+        "year": 2024
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Montana House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80593,
+        "medianAge": 50.3,
+        "totalPopulation": 12294,
+        "collegePct": 46.76,
+        "renterRatePct": 14.01,
+        "race": {
+          "whitePct": 90,
+          "nonHispanicWhitePct": 88.64,
+          "blackPct": 0.24,
+          "asianPct": 0.36,
+          "hispanicPct": 6.11
+        }
+      },
+      "election": {
+        "district": "HD-10",
+        "candidates": [
+          {
+            "name": "MARCONI",
+            "party": "Democratic",
+            "votes": 1453
+          },
+          {
+            "name": "FALK",
+            "party": "Republican",
+            "votes": 4350
+          }
+        ],
+        "winner": "FALK",
+        "year": 2024
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Montana House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74246,
+        "medianAge": 46.5,
+        "totalPopulation": 11967,
+        "collegePct": 36.79,
+        "renterRatePct": 20.38,
+        "race": {
+          "whitePct": 91.98,
+          "nonHispanicWhitePct": 91.89,
+          "blackPct": 0,
+          "asianPct": 1.43,
+          "hispanicPct": 1.53
+        }
+      },
+      "election": {
+        "district": "HD-11",
+        "candidates": [
+          {
+            "name": "ALLEN",
+            "party": "Democratic",
+            "votes": 1665
+          },
+          {
+            "name": "BYRNE",
+            "party": "Republican",
+            "votes": 5214
+          }
+        ],
+        "winner": "BYRNE",
+        "year": 2024
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Montana House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60493,
+        "medianAge": 50.2,
+        "totalPopulation": 11942,
+        "collegePct": 32.77,
+        "renterRatePct": 30.97,
+        "race": {
+          "whitePct": 69.29,
+          "nonHispanicWhitePct": 68.25,
+          "blackPct": 0.27,
+          "asianPct": 0.61,
+          "hispanicPct": 3.68
+        }
+      },
+      "election": {
+        "district": "HD-12",
+        "candidates": [
+          {
+            "name": "OLSON",
+            "party": "Democratic",
+            "votes": 2107
+          },
+          {
+            "name": "SHARP",
+            "party": "Republican",
+            "votes": 5117
+          }
+        ],
+        "winner": "SHARP",
+        "year": 2024
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Montana House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61568,
+        "medianAge": 53.7,
+        "totalPopulation": 10737,
+        "collegePct": 24.04,
+        "renterRatePct": 12.8,
+        "race": {
+          "whitePct": 92.25,
+          "nonHispanicWhitePct": 91.31,
+          "blackPct": 0.99,
+          "asianPct": 0.2,
+          "hispanicPct": 3.37
+        }
+      },
+      "election": {
+        "district": "HD-13",
+        "candidates": [
+          {
+            "name": "AZZOPARDI",
+            "party": "Democratic",
+            "votes": 2322
+          },
+          {
+            "name": "REKSTEN",
+            "party": "Republican",
+            "votes": 3589
+          }
+        ],
+        "winner": "REKSTEN",
+        "year": 2024
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Montana House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54946,
+        "medianAge": 50.4,
+        "totalPopulation": 11260,
+        "collegePct": 24.08,
+        "renterRatePct": 23.19,
+        "race": {
+          "whitePct": 90.18,
+          "nonHispanicWhitePct": 88.51,
+          "blackPct": 0.48,
+          "asianPct": 0.46,
+          "hispanicPct": 2.78
+        }
+      },
+      "election": {
+        "district": "HD-14",
+        "candidates": [
+          {
+            "name": "HINDS",
+            "party": "Democratic",
+            "votes": 1710
+          },
+          {
+            "name": "FIELDER",
+            "party": "Republican",
+            "votes": 5133
+          }
+        ],
+        "winner": "FIELDER",
+        "year": 2024
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Montana House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45794,
+        "medianAge": 34.3,
+        "totalPopulation": 9834,
+        "collegePct": 20.04,
+        "renterRatePct": 35.42,
+        "race": {
+          "whitePct": 37.43,
+          "nonHispanicWhitePct": 36.74,
+          "blackPct": 0.21,
+          "asianPct": 0.08,
+          "hispanicPct": 2.7
+        }
+      },
+      "election": {
+        "district": "HD-15",
+        "candidates": [
+          {
+            "name": "CROWE",
+            "party": "Democratic",
+            "votes": 2087
+          },
+          {
+            "name": "FOSTER",
+            "party": "Republican",
+            "votes": 1939
+          }
+        ],
+        "winner": "CROWE",
+        "year": 2024
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Montana House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45156,
+        "medianAge": 33.7,
+        "totalPopulation": 9433,
+        "collegePct": 20.23,
+        "renterRatePct": 32.45,
+        "race": {
+          "whitePct": 23.15,
+          "nonHispanicWhitePct": 22.72,
+          "blackPct": 0.24,
+          "asianPct": 0.76,
+          "hispanicPct": 1.63
+        }
+      },
+      "election": {
+        "district": "HD-16",
+        "candidates": [
+          {
+            "name": "RUNNING WOLF",
+            "party": "Democratic",
+            "votes": 2455
+          },
+          {
+            "name": "UTTERBACK MITCHELL",
+            "party": "Republican",
+            "votes": 1682
+          }
+        ],
+        "winner": "RUNNING WOLF",
+        "year": 2024
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Montana House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66687,
+        "medianAge": 46.3,
+        "totalPopulation": 9822,
+        "collegePct": 23.02,
+        "renterRatePct": 26.2,
+        "race": {
+          "whitePct": 90.48,
+          "nonHispanicWhitePct": 90.31,
+          "blackPct": 0.24,
+          "asianPct": 0.18,
+          "hispanicPct": 1.99
+        }
+      },
+      "election": {
+        "district": "HD-17",
+        "candidates": [
+          {
+            "name": "BATES",
+            "party": "Democratic",
+            "votes": 1577
+          },
+          {
+            "name": "WIRTH",
+            "party": "Republican",
+            "votes": 4807
+          }
+        ],
+        "winner": "WIRTH",
+        "year": 2024
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Montana House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52718,
+        "medianAge": 38,
+        "totalPopulation": 10137,
+        "collegePct": 20.54,
+        "renterRatePct": 33.47,
+        "race": {
+          "whitePct": 85.8,
+          "nonHispanicWhitePct": 83.52,
+          "blackPct": 0.92,
+          "asianPct": 0.57,
+          "hispanicPct": 4.38
+        }
+      },
+      "election": {
+        "district": "HD-18",
+        "candidates": [
+          {
+            "name": "ARENDS",
+            "party": "Democratic",
+            "votes": 1441
+          },
+          {
+            "name": "JONES",
+            "party": "Republican",
+            "votes": 3982
+          }
+        ],
+        "winner": "JONES",
+        "year": 2024
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Montana House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76400,
+        "medianAge": 44.2,
+        "totalPopulation": 10678,
+        "collegePct": 27.43,
+        "renterRatePct": 14.44,
+        "race": {
+          "whitePct": 89.52,
+          "nonHispanicWhitePct": 89,
+          "blackPct": 0.54,
+          "asianPct": 0.65,
+          "hispanicPct": 4.44
+        }
+      },
+      "election": {
+        "district": "HD-19",
+        "candidates": [
+          {
+            "name": "WEBER",
+            "party": "Democratic",
+            "votes": 1798
+          },
+          {
+            "name": "TREBAS",
+            "party": "Republican",
+            "votes": 1491
+          }
+        ],
+        "winner": "WEBER",
+        "year": 2024
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Montana House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103953,
+        "medianAge": 44.8,
+        "totalPopulation": 10723,
+        "collegePct": 46,
+        "renterRatePct": 8.19,
+        "race": {
+          "whitePct": 93.21,
+          "nonHispanicWhitePct": 91.82,
+          "blackPct": 0.76,
+          "asianPct": 0.37,
+          "hispanicPct": 4.06
+        }
+      },
+      "election": {
+        "district": "HD-20",
+        "candidates": [
+          {
+            "name": "FONTANA MOORE",
+            "party": "Democratic",
+            "votes": 2327
+          },
+          {
+            "name": "NIKOLAKAKOS",
+            "party": "Republican",
+            "votes": 2686
+          }
+        ],
+        "winner": "NIKOLAKAKOS",
+        "year": 2024
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Montana House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69431,
+        "medianAge": 40.5,
+        "totalPopulation": 8864,
+        "collegePct": 26.65,
+        "renterRatePct": 22.5,
+        "race": {
+          "whitePct": 93.34,
+          "nonHispanicWhitePct": 91.6,
+          "blackPct": 0,
+          "asianPct": 0,
+          "hispanicPct": 2.85
+        }
+      },
+      "election": {
+        "district": "HD-21",
+        "candidates": [
+          {
+            "name": "GRAHAM",
+            "party": "Democratic",
+            "votes": 1758
+          },
+          {
+            "name": "BUTTREY",
+            "party": "Republican",
+            "votes": 3662
+          }
+        ],
+        "winner": "BUTTREY",
+        "year": 2024
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Montana House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62567,
+        "medianAge": 41.8,
+        "totalPopulation": 10018,
+        "collegePct": 20.36,
+        "renterRatePct": 23.5,
+        "race": {
+          "whitePct": 84.17,
+          "nonHispanicWhitePct": 82.8,
+          "blackPct": 0.9,
+          "asianPct": 3.13,
+          "hispanicPct": 4.1
+        }
+      },
+      "election": {
+        "district": "HD-22",
+        "candidates": [
+          {
+            "name": "PAULICK",
+            "party": "Democratic",
+            "votes": 1225
+          },
+          {
+            "name": "NIKOLAKAKOS",
+            "party": "Republican",
+            "votes": 2017
+          }
+        ],
+        "winner": "NIKOLAKAKOS",
+        "year": 2024
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Montana House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43984,
+        "medianAge": 37.8,
+        "totalPopulation": 10901,
+        "collegePct": 28.76,
+        "renterRatePct": 52.16,
+        "race": {
+          "whitePct": 79.77,
+          "nonHispanicWhitePct": 78.42,
+          "blackPct": 0.72,
+          "asianPct": 0.54,
+          "hispanicPct": 4.64
+        }
+      },
+      "election": {
+        "district": "HD-23",
+        "candidates": [
+          {
+            "name": "HOPKINS",
+            "party": "Democratic",
+            "votes": 1811
+          },
+          {
+            "name": "LEATHERBARROW",
+            "party": "Libertarian",
+            "votes": 137
+          },
+          {
+            "name": "TILLEMAN",
+            "party": "Republican",
+            "votes": 2504
+          }
+        ],
+        "winner": "TILLEMAN",
+        "year": 2024
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Montana House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59063,
+        "medianAge": 37.2,
+        "totalPopulation": 9493,
+        "collegePct": 23.93,
+        "renterRatePct": 29.89,
+        "race": {
+          "whitePct": 80.09,
+          "nonHispanicWhitePct": 78.62,
+          "blackPct": 3.89,
+          "asianPct": 1.61,
+          "hispanicPct": 4.93
+        }
+      },
+      "election": {
+        "district": "HD-24",
+        "candidates": [
+          {
+            "name": "FITZPATRICK",
+            "party": "Republican",
+            "votes": 4019
+          }
+        ],
+        "winner": "FITZPATRICK",
+        "year": 2024
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Montana House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58221,
+        "medianAge": 36.4,
+        "totalPopulation": 9479,
+        "collegePct": 28.2,
+        "renterRatePct": 36.57,
+        "race": {
+          "whitePct": 84.28,
+          "nonHispanicWhitePct": 83.62,
+          "blackPct": 0.69,
+          "asianPct": 1.35,
+          "hispanicPct": 4.48
+        }
+      },
+      "election": {
+        "district": "HD-25",
+        "candidates": [
+          {
+            "name": "RICKLEY",
+            "party": "Democratic",
+            "votes": 1338
+          },
+          {
+            "name": "GIST",
+            "party": "Republican",
+            "votes": 4088
+          }
+        ],
+        "winner": "GIST",
+        "year": 2024
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Montana House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62874,
+        "medianAge": 29.3,
+        "totalPopulation": 11606,
+        "collegePct": 25.33,
+        "renterRatePct": 52.07,
+        "race": {
+          "whitePct": 74.13,
+          "nonHispanicWhitePct": 70.76,
+          "blackPct": 3.56,
+          "asianPct": 2.13,
+          "hispanicPct": 10.93
+        }
+      },
+      "election": {
+        "district": "HD-26",
+        "candidates": [
+          {
+            "name": "MINER",
+            "party": "Republican",
+            "votes": 5054
+          }
+        ],
+        "winner": "MINER",
+        "year": 2024
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Montana House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69544,
+        "medianAge": 41.7,
+        "totalPopulation": 10847,
+        "collegePct": 26.3,
+        "renterRatePct": 25.7,
+        "race": {
+          "whitePct": 91.66,
+          "nonHispanicWhitePct": 90.23,
+          "blackPct": 0.8,
+          "asianPct": 0.06,
+          "hispanicPct": 2.36
+        }
+      },
+      "election": {
+        "district": "HD-27",
+        "candidates": [
+          {
+            "name": "TUSS",
+            "party": "Democratic",
+            "votes": 2329
+          },
+          {
+            "name": "HILL",
+            "party": "Republican",
+            "votes": 2110
+          }
+        ],
+        "winner": "TUSS",
+        "year": 2024
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Montana House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59159,
+        "medianAge": 32.6,
+        "totalPopulation": 9618,
+        "collegePct": 30.38,
+        "renterRatePct": 31.28,
+        "race": {
+          "whitePct": 78.02,
+          "nonHispanicWhitePct": 76.3,
+          "blackPct": 0.48,
+          "asianPct": 0.31,
+          "hispanicPct": 3.83
+        }
+      },
+      "election": {
+        "district": "HD-28",
+        "candidates": [
+          {
+            "name": "BORST",
+            "party": "Democratic",
+            "votes": 1225
+          },
+          {
+            "name": "ALBUS",
+            "party": "Republican",
+            "votes": 4118
+          }
+        ],
+        "winner": "ALBUS",
+        "year": 2024
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Montana House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55808,
+        "medianAge": 48.2,
+        "totalPopulation": 9752,
+        "collegePct": 19.02,
+        "renterRatePct": 32.62,
+        "race": {
+          "whitePct": 92.74,
+          "nonHispanicWhitePct": 92.18,
+          "blackPct": 0.73,
+          "asianPct": 1.08,
+          "hispanicPct": 2.38
+        }
+      },
+      "election": {
+        "district": "HD-29",
+        "candidates": [
+          {
+            "name": "MOORE",
+            "party": "Republican",
+            "votes": 5026
+          }
+        ],
+        "winner": "MOORE",
+        "year": 2024
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Montana House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61509,
+        "medianAge": 49.3,
+        "totalPopulation": 9934,
+        "collegePct": 29.92,
+        "renterRatePct": 24.52,
+        "race": {
+          "whitePct": 94.16,
+          "nonHispanicWhitePct": 93.28,
+          "blackPct": 0.53,
+          "asianPct": 0.06,
+          "hispanicPct": 3.33
+        }
+      },
+      "election": {
+        "district": "HD-30",
+        "candidates": [
+          {
+            "name": "THIEL",
+            "party": "Republican",
+            "votes": 4281
+          }
+        ],
+        "winner": "THIEL",
+        "year": 2024
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Montana House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48300,
+        "medianAge": 30.8,
+        "totalPopulation": 9509,
+        "collegePct": 16.95,
+        "renterRatePct": 32.09,
+        "race": {
+          "whitePct": 25.68,
+          "nonHispanicWhitePct": 25.57,
+          "blackPct": 0.08,
+          "asianPct": 0.84,
+          "hispanicPct": 3.06
+        }
+      },
+      "election": {
+        "district": "HD-31",
+        "candidates": [
+          {
+            "name": "SMITH",
+            "party": "Democratic",
+            "votes": 2182
+          },
+          {
+            "name": "TAYLOR",
+            "party": "Republican",
+            "votes": 1461
+          }
+        ],
+        "winner": "SMITH",
+        "year": 2024
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Montana House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55750,
+        "medianAge": 33.4,
+        "totalPopulation": 10115,
+        "collegePct": 18.07,
+        "renterRatePct": 40.65,
+        "race": {
+          "whitePct": 25.6,
+          "nonHispanicWhitePct": 25.48,
+          "blackPct": 0.46,
+          "asianPct": 0.03,
+          "hispanicPct": 2.51
+        }
+      },
+      "election": {
+        "district": "HD-32",
+        "candidates": [
+          {
+            "name": "FOX",
+            "party": "Democratic",
+            "votes": 2240
+          },
+          {
+            "name": "ULRICH",
+            "party": "Republican",
+            "votes": 1507
+          }
+        ],
+        "winner": "FOX",
+        "year": 2024
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Montana House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55875,
+        "medianAge": 44.1,
+        "totalPopulation": 10098,
+        "collegePct": 22.77,
+        "renterRatePct": 30.43,
+        "race": {
+          "whitePct": 90.5,
+          "nonHispanicWhitePct": 89.95,
+          "blackPct": 0.31,
+          "asianPct": 0,
+          "hispanicPct": 1.75
+        }
+      },
+      "election": {
+        "district": "HD-33",
+        "candidates": [
+          {
+            "name": "LER",
+            "party": "Republican",
+            "votes": 4576
+          }
+        ],
+        "winner": "LER",
+        "year": 2024
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Montana House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67531,
+        "medianAge": 41.1,
+        "totalPopulation": 10612,
+        "collegePct": 26.42,
+        "renterRatePct": 20.18,
+        "race": {
+          "whitePct": 86.34,
+          "nonHispanicWhitePct": 85,
+          "blackPct": 0.23,
+          "asianPct": 0.36,
+          "hispanicPct": 3.15
+        }
+      },
+      "election": {
+        "district": "HD-34",
+        "candidates": [
+          {
+            "name": "SCHILLINGER",
+            "party": "Republican",
+            "votes": 5554
+          }
+        ],
+        "winner": "SCHILLINGER",
+        "year": 2024
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Montana House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69578,
+        "medianAge": 38,
+        "totalPopulation": 11329,
+        "collegePct": 19.41,
+        "renterRatePct": 30.2,
+        "race": {
+          "whitePct": 90.6,
+          "nonHispanicWhitePct": 87.61,
+          "blackPct": 0.25,
+          "asianPct": 0.27,
+          "hispanicPct": 5.48
+        }
+      },
+      "election": {
+        "district": "HD-35",
+        "candidates": [
+          {
+            "name": "KREIDER",
+            "party": "Democratic",
+            "votes": 1144
+          },
+          {
+            "name": "PARRY",
+            "party": "Republican",
+            "votes": 4780
+          }
+        ],
+        "winner": "PARRY",
+        "year": 2024
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Montana House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70810,
+        "medianAge": 43.6,
+        "totalPopulation": 10022,
+        "collegePct": 25.57,
+        "renterRatePct": 27.29,
+        "race": {
+          "whitePct": 93.34,
+          "nonHispanicWhitePct": 90.84,
+          "blackPct": 0.14,
+          "asianPct": 0.04,
+          "hispanicPct": 3.68
+        }
+      },
+      "election": {
+        "district": "HD-36",
+        "candidates": [
+          {
+            "name": "TAYLOR",
+            "party": "Democratic",
+            "votes": 1519
+          },
+          {
+            "name": "KMETZ",
+            "party": "Republican",
+            "votes": 3558
+          }
+        ],
+        "winner": "KMETZ",
+        "year": 2024
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Montana House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68563,
+        "medianAge": 45.7,
+        "totalPopulation": 10401,
+        "collegePct": 21.63,
+        "renterRatePct": 24.18,
+        "race": {
+          "whitePct": 92.92,
+          "nonHispanicWhitePct": 92.6,
+          "blackPct": 0.11,
+          "asianPct": 0.93,
+          "hispanicPct": 0.89
+        }
+      },
+      "election": {
+        "district": "HD-37",
+        "candidates": [
+          {
+            "name": "PAYNE",
+            "party": "Democratic",
+            "votes": 1614
+          },
+          {
+            "name": "KLAKKEN",
+            "party": "Republican",
+            "votes": 4684
+          }
+        ],
+        "winner": "KLAKKEN",
+        "year": 2024
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Montana House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61449,
+        "medianAge": 42.6,
+        "totalPopulation": 9909,
+        "collegePct": 29.21,
+        "renterRatePct": 35.12,
+        "race": {
+          "whitePct": 90.67,
+          "nonHispanicWhitePct": 88.82,
+          "blackPct": 0.42,
+          "asianPct": 0.47,
+          "hispanicPct": 3.54
+        }
+      },
+      "election": {
+        "district": "HD-38",
+        "candidates": [
+          {
+            "name": "OBLANDER",
+            "party": "Republican",
+            "votes": 5894
+          }
+        ],
+        "winner": "OBLANDER",
+        "year": 2024
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Montana House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70727,
+        "medianAge": 40.2,
+        "totalPopulation": 10003,
+        "collegePct": 22.36,
+        "renterRatePct": 22.76,
+        "race": {
+          "whitePct": 90.43,
+          "nonHispanicWhitePct": 87.7,
+          "blackPct": 0,
+          "asianPct": 0.65,
+          "hispanicPct": 4.56
+        }
+      },
+      "election": {
+        "district": "HD-39",
+        "candidates": [
+          {
+            "name": "SMITH",
+            "party": "Democratic",
+            "votes": 1624
+          },
+          {
+            "name": "SEEKINS-CROWE",
+            "party": "Republican",
+            "votes": 3151
+          }
+        ],
+        "winner": "SEEKINS-CROWE",
+        "year": 2024
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Montana House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62659,
+        "medianAge": 47.8,
+        "totalPopulation": 11343,
+        "collegePct": 22.45,
+        "renterRatePct": 11.3,
+        "race": {
+          "whitePct": 90.43,
+          "nonHispanicWhitePct": 89.47,
+          "blackPct": 0,
+          "asianPct": 0.82,
+          "hispanicPct": 2.78
+        }
+      },
+      "election": {
+        "district": "HD-40",
+        "candidates": [
+          {
+            "name": "AUCH",
+            "party": "Democratic",
+            "votes": 1261
+          },
+          {
+            "name": "VINTON",
+            "party": "Republican",
+            "votes": 3679
+          }
+        ],
+        "winner": "VINTON",
+        "year": 2024
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Montana House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51488,
+        "medianAge": 33.7,
+        "totalPopulation": 9091,
+        "collegePct": 20.99,
+        "renterRatePct": 38.8,
+        "race": {
+          "whitePct": 28.6,
+          "nonHispanicWhitePct": 28.24,
+          "blackPct": 0.15,
+          "asianPct": 0.4,
+          "hispanicPct": 2.28
+        }
+      },
+      "election": {
+        "district": "HD-41",
+        "candidates": [
+          {
+            "name": "SOOKTIS",
+            "party": "Democratic",
+            "votes": 1839
+          },
+          {
+            "name": "WALLOWING BULL",
+            "party": "Republican",
+            "votes": 1042
+          }
+        ],
+        "winner": "SOOKTIS",
+        "year": 2024
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Montana House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57818,
+        "medianAge": 32.2,
+        "totalPopulation": 9932,
+        "collegePct": 20.93,
+        "renterRatePct": 31.12,
+        "race": {
+          "whitePct": 33.52,
+          "nonHispanicWhitePct": 31.42,
+          "blackPct": 0.01,
+          "asianPct": 0.17,
+          "hispanicPct": 5.23
+        }
+      },
+      "election": {
+        "district": "HD-42",
+        "candidates": [
+          {
+            "name": "FITZPATRICK",
+            "party": "Democratic",
+            "votes": 1922
+          },
+          {
+            "name": "HODGES",
+            "party": "Republican",
+            "votes": 1735
+          }
+        ],
+        "winner": "FITZPATRICK",
+        "year": 2024
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Montana House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69890,
+        "medianAge": 37.1,
+        "totalPopulation": 11946,
+        "collegePct": 21.45,
+        "renterRatePct": 20.72,
+        "race": {
+          "whitePct": 85.39,
+          "nonHispanicWhitePct": 83.99,
+          "blackPct": 0.2,
+          "asianPct": 0.49,
+          "hispanicPct": 5.84
+        }
+      },
+      "election": {
+        "district": "HD-43",
+        "candidates": [
+          {
+            "name": "CLARK",
+            "party": "Democratic",
+            "votes": 1649
+          },
+          {
+            "name": "BREWSTER",
+            "party": "Republican",
+            "votes": 2965
+          }
+        ],
+        "winner": "BREWSTER",
+        "year": 2024
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Montana House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68313,
+        "medianAge": 36.9,
+        "totalPopulation": 10071,
+        "collegePct": 30.81,
+        "renterRatePct": 26.5,
+        "race": {
+          "whitePct": 89.52,
+          "nonHispanicWhitePct": 85.06,
+          "blackPct": 0.55,
+          "asianPct": 0.3,
+          "hispanicPct": 6.45
+        }
+      },
+      "election": {
+        "district": "HD-44",
+        "candidates": [
+          {
+            "name": "ZOLNIKOV",
+            "party": "Republican",
+            "votes": 4508
+          }
+        ],
+        "winner": "ZOLNIKOV",
+        "year": 2024
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Montana House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90468,
+        "medianAge": 36.8,
+        "totalPopulation": 12237,
+        "collegePct": 38.59,
+        "renterRatePct": 22.75,
+        "race": {
+          "whitePct": 91.94,
+          "nonHispanicWhitePct": 85.6,
+          "blackPct": 0.03,
+          "asianPct": 0.32,
+          "hispanicPct": 8.13
+        }
+      },
+      "election": {
+        "district": "HD-45",
+        "candidates": [
+          {
+            "name": "BAUM",
+            "party": "Democratic",
+            "votes": 2603
+          },
+          {
+            "name": "OLSON",
+            "party": "Republican",
+            "votes": 2314
+          }
+        ],
+        "winner": "BAUM",
+        "year": 2024
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Montana House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107844,
+        "medianAge": 43.3,
+        "totalPopulation": 11109,
+        "collegePct": 57.45,
+        "renterRatePct": 16.63,
+        "race": {
+          "whitePct": 93.1,
+          "nonHispanicWhitePct": 92.72,
+          "blackPct": 0.68,
+          "asianPct": 1.63,
+          "hispanicPct": 0.79
+        }
+      },
+      "election": {
+        "district": "HD-46",
+        "candidates": [
+          {
+            "name": "KERR CARPENTER",
+            "party": "Democratic",
+            "votes": 2507
+          },
+          {
+            "name": "EMERY",
+            "party": "Republican",
+            "votes": 2231
+          }
+        ],
+        "winner": "KERR CARPENTER",
+        "year": 2024
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Montana House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66176,
+        "medianAge": 36.6,
+        "totalPopulation": 9802,
+        "collegePct": 43.77,
+        "renterRatePct": 51.01,
+        "race": {
+          "whitePct": 81.53,
+          "nonHispanicWhitePct": 79.85,
+          "blackPct": 1.7,
+          "asianPct": 0.14,
+          "hispanicPct": 5.93
+        }
+      },
+      "election": {
+        "district": "HD-47",
+        "candidates": [
+          {
+            "name": "REAVIS",
+            "party": "Democratic",
+            "votes": 1819
+          },
+          {
+            "name": "MONCADA",
+            "party": "Republican",
+            "votes": 1621
+          }
+        ],
+        "winner": "REAVIS",
+        "year": 2024
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Montana House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75268,
+        "medianAge": 39.4,
+        "totalPopulation": 10182,
+        "collegePct": 51.13,
+        "renterRatePct": 42.57,
+        "race": {
+          "whitePct": 88.76,
+          "nonHispanicWhitePct": 83.31,
+          "blackPct": 0.95,
+          "asianPct": 0.71,
+          "hispanicPct": 10.13
+        }
+      },
+      "election": {
+        "district": "HD-48",
+        "candidates": [
+          {
+            "name": "ROSS",
+            "party": "Democratic",
+            "votes": 1924
+          },
+          {
+            "name": "SCHOMER",
+            "party": "Republican",
+            "votes": 2565
+          }
+        ],
+        "winner": "SCHOMER",
+        "year": 2024
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Montana House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44592,
+        "medianAge": 40.7,
+        "totalPopulation": 8106,
+        "collegePct": 23.14,
+        "renterRatePct": 53.03,
+        "race": {
+          "whitePct": 82.08,
+          "nonHispanicWhitePct": 78.58,
+          "blackPct": 1.04,
+          "asianPct": 1.96,
+          "hispanicPct": 10.47
+        }
+      },
+      "election": {
+        "district": "HD-49",
+        "candidates": [
+          {
+            "name": "HADEN",
+            "party": "Democratic",
+            "votes": 1841
+          },
+          {
+            "name": "ESSMANN",
+            "party": "Republican",
+            "votes": 3063
+          }
+        ],
+        "winner": "ESSMANN",
+        "year": 2024
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Montana House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57092,
+        "medianAge": 33.5,
+        "totalPopulation": 9884,
+        "collegePct": 21.06,
+        "renterRatePct": 43.6,
+        "race": {
+          "whitePct": 79.56,
+          "nonHispanicWhitePct": 76.63,
+          "blackPct": 0.2,
+          "asianPct": 2.58,
+          "hispanicPct": 8.68
+        }
+      },
+      "election": {
+        "district": "HD-50",
+        "candidates": [
+          {
+            "name": "GIESICK",
+            "party": "Democratic",
+            "votes": 2053
+          },
+          {
+            "name": "NICASTRO",
+            "party": "Republican",
+            "votes": 4019
+          }
+        ],
+        "winner": "NICASTRO",
+        "year": 2024
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Montana House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64826,
+        "medianAge": 32.3,
+        "totalPopulation": 12411,
+        "collegePct": 29.02,
+        "renterRatePct": 42.87,
+        "race": {
+          "whitePct": 78.3,
+          "nonHispanicWhitePct": 77.21,
+          "blackPct": 4.64,
+          "asianPct": 0.52,
+          "hispanicPct": 10.22
+        }
+      },
+      "election": {
+        "district": "HD-51",
+        "candidates": [
+          {
+            "name": "HAFER",
+            "party": "Independent",
+            "votes": 2320
+          },
+          {
+            "name": "ETCHART",
+            "party": "Republican",
+            "votes": 3124
+          }
+        ],
+        "winner": "ETCHART",
+        "year": 2024
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Montana House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59606,
+        "medianAge": 40.7,
+        "totalPopulation": 9968,
+        "collegePct": 24.23,
+        "renterRatePct": 28.62,
+        "race": {
+          "whitePct": 84.59,
+          "nonHispanicWhitePct": 77.86,
+          "blackPct": 0,
+          "asianPct": 1.94,
+          "hispanicPct": 10.64
+        }
+      },
+      "election": {
+        "district": "HD-52",
+        "candidates": [
+          {
+            "name": "BOERNER",
+            "party": "Democratic",
+            "votes": 2162
+          },
+          {
+            "name": "MERCER",
+            "party": "Republican",
+            "votes": 4522
+          }
+        ],
+        "winner": "MERCER",
+        "year": 2024
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Montana House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 127407,
+        "medianAge": 44,
+        "totalPopulation": 15213,
+        "collegePct": 52.82,
+        "renterRatePct": 6.7,
+        "race": {
+          "whitePct": 86.83,
+          "nonHispanicWhitePct": 86.24,
+          "blackPct": 1.74,
+          "asianPct": 0.12,
+          "hispanicPct": 4.15
+        }
+      },
+      "election": {
+        "district": "HD-53",
+        "candidates": [
+          {
+            "name": "KERNS",
+            "party": "Democratic",
+            "votes": 1536
+          },
+          {
+            "name": "NICOL",
+            "party": "Republican",
+            "votes": 4838
+          }
+        ],
+        "winner": "NICOL",
+        "year": 2024
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Montana House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82843,
+        "medianAge": 40.8,
+        "totalPopulation": 12903,
+        "collegePct": 38.51,
+        "renterRatePct": 42.58,
+        "race": {
+          "whitePct": 90.9,
+          "nonHispanicWhitePct": 89.37,
+          "blackPct": 0.4,
+          "asianPct": 0.05,
+          "hispanicPct": 2.6
+        }
+      },
+      "election": {
+        "district": "HD-54",
+        "candidates": [
+          {
+            "name": "DEMING",
+            "party": "Republican",
+            "votes": 4247
+          }
+        ],
+        "winner": "DEMING",
+        "year": 2024
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Montana House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71469,
+        "medianAge": 36.6,
+        "totalPopulation": 11040,
+        "collegePct": 22.83,
+        "renterRatePct": 33.95,
+        "race": {
+          "whitePct": 89.43,
+          "nonHispanicWhitePct": 86.2,
+          "blackPct": 0.33,
+          "asianPct": 1.6,
+          "hispanicPct": 5.54
+        }
+      },
+      "election": {
+        "district": "HD-55",
+        "candidates": [
+          {
+            "name": "GILLAN",
+            "party": "Democratic",
+            "votes": 2546
+          },
+          {
+            "name": "BARKER",
+            "party": "Republican",
+            "votes": 4931
+          }
+        ],
+        "winner": "BARKER",
+        "year": 2024
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Montana House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81992,
+        "medianAge": 40.6,
+        "totalPopulation": 10702,
+        "collegePct": 21.37,
+        "renterRatePct": 16.45,
+        "race": {
+          "whitePct": 87.79,
+          "nonHispanicWhitePct": 84.53,
+          "blackPct": 0.09,
+          "asianPct": 0.07,
+          "hispanicPct": 6.6
+        }
+      },
+      "election": {
+        "district": "HD-56",
+        "candidates": [
+          {
+            "name": "NAVE",
+            "party": "Republican",
+            "votes": 6005
+          }
+        ],
+        "winner": "NAVE",
+        "year": 2024
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Montana House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81250,
+        "medianAge": 47.5,
+        "totalPopulation": 9492,
+        "collegePct": 28.99,
+        "renterRatePct": 18.86,
+        "race": {
+          "whitePct": 92.72,
+          "nonHispanicWhitePct": 91.76,
+          "blackPct": 0.09,
+          "asianPct": 0.35,
+          "hispanicPct": 3.49
+        }
+      },
+      "election": {
+        "district": "HD-57",
+        "candidates": [
+          {
+            "name": "ROSENZWEIG",
+            "party": "Democratic",
+            "votes": 3803
+          },
+          {
+            "name": "MALONE",
+            "party": "Republican",
+            "votes": 3783
+          }
+        ],
+        "winner": "ROSENZWEIG",
+        "year": 2024
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Montana House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71017,
+        "medianAge": 50.5,
+        "totalPopulation": 10877,
+        "collegePct": 30.28,
+        "renterRatePct": 25.93,
+        "race": {
+          "whitePct": 93.04,
+          "nonHispanicWhitePct": 91.59,
+          "blackPct": 0.46,
+          "asianPct": 0.47,
+          "hispanicPct": 2.86
+        }
+      },
+      "election": {
+        "district": "HD-58",
+        "candidates": [
+          {
+            "name": "ISALY",
+            "party": "Democratic",
+            "votes": 3690
+          },
+          {
+            "name": "GUNDERSON",
+            "party": "Republican",
+            "votes": 3196
+          }
+        ],
+        "winner": "ISALY",
+        "year": 2024
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Montana House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66690,
+        "medianAge": 52,
+        "totalPopulation": 10703,
+        "collegePct": 37.97,
+        "renterRatePct": 25.9,
+        "race": {
+          "whitePct": 91.36,
+          "nonHispanicWhitePct": 90.6,
+          "blackPct": 0.78,
+          "asianPct": 0.39,
+          "hispanicPct": 2.62
+        }
+      },
+      "election": {
+        "district": "HD-59",
+        "candidates": [
+          {
+            "name": "STAFMAN",
+            "party": "Democratic",
+            "votes": 4851
+          },
+          {
+            "name": "GREENDORFER",
+            "party": "Republican",
+            "votes": 2871
+          }
+        ],
+        "winner": "STAFMAN",
+        "year": 2024
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Montana House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68854,
+        "medianAge": 43.3,
+        "totalPopulation": 10749,
+        "collegePct": 36.02,
+        "renterRatePct": 32.48,
+        "race": {
+          "whitePct": 92.57,
+          "nonHispanicWhitePct": 92.46,
+          "blackPct": 0,
+          "asianPct": 0.21,
+          "hispanicPct": 3.4
+        }
+      },
+      "election": {
+        "district": "HD-60",
+        "candidates": [
+          {
+            "name": "GRIFFITH",
+            "party": "Democratic",
+            "votes": 3338
+          },
+          {
+            "name": "JOHNSON",
+            "party": "Republican",
+            "votes": 3062
+          }
+        ],
+        "winner": "GRIFFITH",
+        "year": 2024
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Montana House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111708,
+        "medianAge": 45.5,
+        "totalPopulation": 11456,
+        "collegePct": 63.24,
+        "renterRatePct": 27.06,
+        "race": {
+          "whitePct": 92.07,
+          "nonHispanicWhitePct": 91.14,
+          "blackPct": 0.13,
+          "asianPct": 1.51,
+          "hispanicPct": 1.92
+        }
+      },
+      "election": {
+        "district": "HD-61",
+        "candidates": [
+          {
+            "name": "EDWARDS",
+            "party": "Democratic",
+            "votes": 2695
+          },
+          {
+            "name": "CARLSON",
+            "party": "Republican",
+            "votes": 1082
+          }
+        ],
+        "winner": "EDWARDS",
+        "year": 2024
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Montana House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102344,
+        "medianAge": 27.6,
+        "totalPopulation": 13386,
+        "collegePct": 80.06,
+        "renterRatePct": 39.4,
+        "race": {
+          "whitePct": 88.16,
+          "nonHispanicWhitePct": 86.48,
+          "blackPct": 1.35,
+          "asianPct": 1.68,
+          "hispanicPct": 5.51
+        }
+      },
+      "election": {
+        "district": "HD-62",
+        "candidates": [
+          {
+            "name": "SECKINGER",
+            "party": "Democratic",
+            "votes": 2926
+          },
+          {
+            "name": "LANG",
+            "party": "Republican",
+            "votes": 2804
+          }
+        ],
+        "winner": "SECKINGER",
+        "year": 2024
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Montana House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72741,
+        "medianAge": 25,
+        "totalPopulation": 14775,
+        "collegePct": 53.55,
+        "renterRatePct": 63.02,
+        "race": {
+          "whitePct": 85.82,
+          "nonHispanicWhitePct": 83.75,
+          "blackPct": 1.29,
+          "asianPct": 3.09,
+          "hispanicPct": 6.87
+        }
+      },
+      "election": {
+        "district": "HD-63",
+        "candidates": [
+          {
+            "name": "STRAND",
+            "party": "Democratic",
+            "votes": 3255
+          },
+          {
+            "name": "LEWIS",
+            "party": "Republican",
+            "votes": 2838
+          }
+        ],
+        "winner": "STRAND",
+        "year": 2024
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Montana House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94643,
+        "medianAge": 36.8,
+        "totalPopulation": 13494,
+        "collegePct": 50.88,
+        "renterRatePct": 21.69,
+        "race": {
+          "whitePct": 87,
+          "nonHispanicWhitePct": 84.67,
+          "blackPct": 0.51,
+          "asianPct": 0.66,
+          "hispanicPct": 9.04
+        }
+      },
+      "election": {
+        "district": "HD-64",
+        "candidates": [
+          {
+            "name": "KORTUM",
+            "party": "Democratic",
+            "votes": 3177
+          },
+          {
+            "name": "CRUM",
+            "party": "Republican",
+            "votes": 2673
+          }
+        ],
+        "winner": "KORTUM",
+        "year": 2024
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Montana House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83558,
+        "medianAge": 31.8,
+        "totalPopulation": 18406,
+        "collegePct": 57.46,
+        "renterRatePct": 55.59,
+        "race": {
+          "whitePct": 89.56,
+          "nonHispanicWhitePct": 87.84,
+          "blackPct": 0.68,
+          "asianPct": 1.08,
+          "hispanicPct": 5.89
+        }
+      },
+      "election": {
+        "district": "HD-65",
+        "candidates": [
+          {
+            "name": "CLOSE",
+            "party": "Democratic",
+            "votes": 3456
+          },
+          {
+            "name": "FISHBAUGH",
+            "party": "Republican",
+            "votes": 2746
+          }
+        ],
+        "winner": "CLOSE",
+        "year": 2024
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "Montana House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80114,
+        "medianAge": 28.8,
+        "totalPopulation": 11132,
+        "collegePct": 62.71,
+        "renterRatePct": 56.58,
+        "race": {
+          "whitePct": 87.59,
+          "nonHispanicWhitePct": 86.27,
+          "blackPct": 0,
+          "asianPct": 2.02,
+          "hispanicPct": 5.55
+        }
+      },
+      "election": {
+        "district": "HD-66",
+        "candidates": [
+          {
+            "name": "MATTHEWS",
+            "party": "Democratic",
+            "votes": 4009
+          },
+          {
+            "name": "DAVIS",
+            "party": "Republican",
+            "votes": 3057
+          }
+        ],
+        "winner": "MATTHEWS",
+        "year": 2024
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "Montana House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91610,
+        "medianAge": 35.1,
+        "totalPopulation": 14276,
+        "collegePct": 41.05,
+        "renterRatePct": 38.64,
+        "race": {
+          "whitePct": 88.56,
+          "nonHispanicWhitePct": 88.01,
+          "blackPct": 0.09,
+          "asianPct": 0.7,
+          "hispanicPct": 4.85
+        }
+      },
+      "election": {
+        "district": "HD-67",
+        "candidates": [
+          {
+            "name": "ANDERSON",
+            "party": "Democratic",
+            "votes": 2170
+          },
+          {
+            "name": "HINKLE",
+            "party": "Republican",
+            "votes": 3757
+          }
+        ],
+        "winner": "HINKLE",
+        "year": 2024
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "Montana House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93397,
+        "medianAge": 36,
+        "totalPopulation": 12206,
+        "collegePct": 36.56,
+        "renterRatePct": 14.32,
+        "race": {
+          "whitePct": 94.5,
+          "nonHispanicWhitePct": 93.4,
+          "blackPct": 0,
+          "asianPct": 0.22,
+          "hispanicPct": 3.61
+        }
+      },
+      "election": {
+        "district": "HD-68",
+        "candidates": [
+          {
+            "name": "COLAFRANCESCO",
+            "party": "Democratic",
+            "votes": 1500
+          },
+          {
+            "name": "HINKLE",
+            "party": "Republican",
+            "votes": 4283
+          }
+        ],
+        "winner": "HINKLE",
+        "year": 2024
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "Montana House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85809,
+        "medianAge": 45.4,
+        "totalPopulation": 12368,
+        "collegePct": 38.32,
+        "renterRatePct": 19.05,
+        "race": {
+          "whitePct": 95.21,
+          "nonHispanicWhitePct": 94.67,
+          "blackPct": 0,
+          "asianPct": 0.47,
+          "hispanicPct": 1.83
+        }
+      },
+      "election": {
+        "district": "HD-69",
+        "candidates": [
+          {
+            "name": "WALSH",
+            "party": "Republican",
+            "votes": 6222
+          }
+        ],
+        "winner": "WALSH",
+        "year": 2024
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "Montana House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72790,
+        "medianAge": 48.1,
+        "totalPopulation": 12431,
+        "collegePct": 36.91,
+        "renterRatePct": 15.06,
+        "race": {
+          "whitePct": 91.55,
+          "nonHispanicWhitePct": 91.3,
+          "blackPct": 0.41,
+          "asianPct": 0.43,
+          "hispanicPct": 2.24
+        }
+      },
+      "election": {
+        "district": "HD-70",
+        "candidates": [
+          {
+            "name": "MANESS",
+            "party": "Republican",
+            "votes": 5384
+          }
+        ],
+        "winner": "MANESS",
+        "year": 2024
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "Montana House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67725,
+        "medianAge": 52.6,
+        "totalPopulation": 11394,
+        "collegePct": 32.82,
+        "renterRatePct": 18.19,
+        "race": {
+          "whitePct": 93.63,
+          "nonHispanicWhitePct": 92.47,
+          "blackPct": 0,
+          "asianPct": 0.63,
+          "hispanicPct": 3.16
+        }
+      },
+      "election": {
+        "district": "HD-71",
+        "candidates": [
+          {
+            "name": "DEMAROIS",
+            "party": "Democratic",
+            "votes": 3375
+          },
+          {
+            "name": "STEIGER",
+            "party": "Republican",
+            "votes": 2083
+          }
+        ],
+        "winner": "DEMAROIS",
+        "year": 2024
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "Montana House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58637,
+        "medianAge": 43.2,
+        "totalPopulation": 10614,
+        "collegePct": 35.47,
+        "renterRatePct": 30.85,
+        "race": {
+          "whitePct": 92.6,
+          "nonHispanicWhitePct": 89.73,
+          "blackPct": 0.56,
+          "asianPct": 0.28,
+          "hispanicPct": 5.04
+        }
+      },
+      "election": {
+        "district": "HD-72",
+        "candidates": [
+          {
+            "name": "HAWK",
+            "party": "Democratic",
+            "votes": 3081
+          },
+          {
+            "name": "JOHNSON",
+            "party": "Republican",
+            "votes": 1859
+          }
+        ],
+        "winner": "HAWK",
+        "year": 2024
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "Montana House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57362,
+        "medianAge": 43.1,
+        "totalPopulation": 10557,
+        "collegePct": 21.69,
+        "renterRatePct": 21.76,
+        "race": {
+          "whitePct": 91.2,
+          "nonHispanicWhitePct": 90.58,
+          "blackPct": 0.17,
+          "asianPct": 0.1,
+          "hispanicPct": 4.88
+        }
+      },
+      "election": {
+        "district": "HD-73",
+        "candidates": [
+          {
+            "name": "LYNCH",
+            "party": "Democratic",
+            "votes": 2766
+          },
+          {
+            "name": "TOMASZEWSKI",
+            "party": "Republican",
+            "votes": 1716
+          }
+        ],
+        "winner": "LYNCH",
+        "year": 2024
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "Montana House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 38804,
+        "medianAge": 30.8,
+        "totalPopulation": 10074,
+        "collegePct": 23.75,
+        "renterRatePct": 53.15,
+        "race": {
+          "whitePct": 87.9,
+          "nonHispanicWhitePct": 85.92,
+          "blackPct": 0.24,
+          "asianPct": 0.98,
+          "hispanicPct": 3.44
+        }
+      },
+      "election": {
+        "district": "HD-74",
+        "candidates": [
+          {
+            "name": "LEE",
+            "party": "Democratic",
+            "votes": 3744
+          },
+          {
+            "name": "BAYLESS",
+            "party": "Republican",
+            "votes": 2364
+          }
+        ],
+        "winner": "LEE",
+        "year": 2024
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "Montana House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79386,
+        "medianAge": 46.2,
+        "totalPopulation": 10838,
+        "collegePct": 34.72,
+        "renterRatePct": 16.65,
+        "race": {
+          "whitePct": 92.3,
+          "nonHispanicWhitePct": 90.88,
+          "blackPct": 0.13,
+          "asianPct": 0.47,
+          "hispanicPct": 2.73
+        }
+      },
+      "election": {
+        "district": "HD-75",
+        "candidates": [
+          {
+            "name": "LIEN",
+            "party": "Democratic",
+            "votes": 2097
+          },
+          {
+            "name": "BERTOGLIO",
+            "party": "Republican",
+            "votes": 5166
+          }
+        ],
+        "winner": "BERTOGLIO",
+        "year": 2024
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "Montana House District 76",
+      "census": {
+        "censusName": "State House District 76 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73255,
+        "medianAge": 42.4,
+        "totalPopulation": 11027,
+        "collegePct": 35.93,
+        "renterRatePct": 19.14,
+        "race": {
+          "whitePct": 91.92,
+          "nonHispanicWhitePct": 90.22,
+          "blackPct": 0.01,
+          "asianPct": 0,
+          "hispanicPct": 4.97
+        }
+      },
+      "election": {
+        "district": "HD-76",
+        "candidates": [
+          {
+            "name": "GAGLIANO",
+            "party": "Libertarian",
+            "votes": 1361
+          },
+          {
+            "name": "FITZPATRICK",
+            "party": "Republican",
+            "votes": 4957
+          }
+        ],
+        "winner": "FITZPATRICK",
+        "year": 2024
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "Montana House District 77",
+      "census": {
+        "censusName": "State House District 77 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52679,
+        "medianAge": 50.1,
+        "totalPopulation": 10616,
+        "collegePct": 26.29,
+        "renterRatePct": 27.92,
+        "race": {
+          "whitePct": 92.33,
+          "nonHispanicWhitePct": 91.72,
+          "blackPct": 0.4,
+          "asianPct": 0.83,
+          "hispanicPct": 2.41
+        }
+      },
+      "election": {
+        "district": "HD-77",
+        "candidates": [
+          {
+            "name": "DAWSON",
+            "party": "Democratic",
+            "votes": 1492
+          },
+          {
+            "name": "GILLETTE",
+            "party": "Republican",
+            "votes": 5458
+          }
+        ],
+        "winner": "GILLETTE",
+        "year": 2024
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "Montana House District 78",
+      "census": {
+        "censusName": "State House District 78 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55096,
+        "medianAge": 46.5,
+        "totalPopulation": 9861,
+        "collegePct": 18.29,
+        "renterRatePct": 29.45,
+        "race": {
+          "whitePct": 87.92,
+          "nonHispanicWhitePct": 86.56,
+          "blackPct": 1.01,
+          "asianPct": 1.26,
+          "hispanicPct": 4.38
+        }
+      },
+      "election": {
+        "district": "HD-78",
+        "candidates": [
+          {
+            "name": "LAMBERT",
+            "party": "Democratic",
+            "votes": 1357
+          },
+          {
+            "name": "GREGG",
+            "party": "Republican",
+            "votes": 4877
+          }
+        ],
+        "winner": "GREGG",
+        "year": 2024
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "Montana House District 79",
+      "census": {
+        "censusName": "State House District 79 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79630,
+        "medianAge": 39.4,
+        "totalPopulation": 11344,
+        "collegePct": 51.86,
+        "renterRatePct": 24.12,
+        "race": {
+          "whitePct": 92.67,
+          "nonHispanicWhitePct": 90.79,
+          "blackPct": 0.18,
+          "asianPct": 0.26,
+          "hispanicPct": 2.55
+        }
+      },
+      "election": {
+        "district": "HD-79",
+        "candidates": [
+          {
+            "name": "MUSZKIEWICZ",
+            "party": "Democratic",
+            "votes": 3678
+          },
+          {
+            "name": "SARK",
+            "party": "Republican",
+            "votes": 3194
+          }
+        ],
+        "winner": "MUSZKIEWICZ",
+        "year": 2024
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "Montana House District 80",
+      "census": {
+        "censusName": "State House District 80 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96005,
+        "medianAge": 41.8,
+        "totalPopulation": 12180,
+        "collegePct": 35.94,
+        "renterRatePct": 10.26,
+        "race": {
+          "whitePct": 92.84,
+          "nonHispanicWhitePct": 92.4,
+          "blackPct": 0.06,
+          "asianPct": 0.45,
+          "hispanicPct": 1.66
+        }
+      },
+      "election": {
+        "district": "HD-80",
+        "candidates": [
+          {
+            "name": "ROMANO",
+            "party": "Democratic",
+            "votes": 2937
+          },
+          {
+            "name": "BURRIGHT",
+            "party": "Republican",
+            "votes": 2520
+          }
+        ],
+        "winner": "ROMANO",
+        "year": 2024
+      }
+    },
+    "81": {
+      "districtNumber": 81,
+      "districtName": "Montana House District 81",
+      "census": {
+        "censusName": "State House District 81 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67840,
+        "medianAge": 37.8,
+        "totalPopulation": 11654,
+        "collegePct": 46.56,
+        "renterRatePct": 39.1,
+        "race": {
+          "whitePct": 91.32,
+          "nonHispanicWhitePct": 88,
+          "blackPct": 0.68,
+          "asianPct": 0.83,
+          "hispanicPct": 5.2
+        }
+      },
+      "election": {
+        "district": "HD-81",
+        "candidates": [
+          {
+            "name": "CAFERRO",
+            "party": "Democratic",
+            "votes": 3498
+          },
+          {
+            "name": "SCOTT",
+            "party": "Republican",
+            "votes": 2801
+          }
+        ],
+        "winner": "CAFERRO",
+        "year": 2024
+      }
+    },
+    "82": {
+      "districtNumber": 82,
+      "districtName": "Montana House District 82",
+      "census": {
+        "censusName": "State House District 82 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73532,
+        "medianAge": 45.2,
+        "totalPopulation": 10422,
+        "collegePct": 42.31,
+        "renterRatePct": 37.31,
+        "race": {
+          "whitePct": 89.4,
+          "nonHispanicWhitePct": 86,
+          "blackPct": 0.18,
+          "asianPct": 0.11,
+          "hispanicPct": 6.31
+        }
+      },
+      "election": {
+        "district": "HD-82",
+        "candidates": [
+          {
+            "name": "ELVERUM",
+            "party": "Democratic",
+            "votes": 2990
+          },
+          {
+            "name": "LOONEY",
+            "party": "Republican",
+            "votes": 2459
+          }
+        ],
+        "winner": "ELVERUM",
+        "year": 2024
+      }
+    },
+    "83": {
+      "districtNumber": 83,
+      "districtName": "Montana House District 83",
+      "census": {
+        "censusName": "State House District 83 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63832,
+        "medianAge": 37.2,
+        "totalPopulation": 11001,
+        "collegePct": 32.06,
+        "renterRatePct": 41.7,
+        "race": {
+          "whitePct": 90.92,
+          "nonHispanicWhitePct": 88.66,
+          "blackPct": 1.75,
+          "asianPct": 0.4,
+          "hispanicPct": 3.75
+        }
+      },
+      "election": {
+        "district": "HD-83",
+        "candidates": [
+          {
+            "name": "COHENOUR",
+            "party": "Democratic",
+            "votes": 3549
+          },
+          {
+            "name": "FEIST",
+            "party": "Republican",
+            "votes": 2830
+          }
+        ],
+        "winner": "COHENOUR",
+        "year": 2024
+      }
+    },
+    "84": {
+      "districtNumber": 84,
+      "districtName": "Montana House District 84",
+      "census": {
+        "censusName": "State House District 84 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70753,
+        "medianAge": 41.6,
+        "totalPopulation": 11526,
+        "collegePct": 44.6,
+        "renterRatePct": 36.58,
+        "race": {
+          "whitePct": 90.67,
+          "nonHispanicWhitePct": 87.27,
+          "blackPct": 0.69,
+          "asianPct": 2.01,
+          "hispanicPct": 4.66
+        }
+      },
+      "election": {
+        "district": "HD-84",
+        "candidates": [
+          {
+            "name": "CREPEAU",
+            "party": "Democratic",
+            "votes": 2312
+          },
+          {
+            "name": "DOOLING",
+            "party": "Republican",
+            "votes": 4770
+          }
+        ],
+        "winner": "DOOLING",
+        "year": 2024
+      }
+    },
+    "85": {
+      "districtNumber": 85,
+      "districtName": "Montana House District 85",
+      "census": {
+        "censusName": "State House District 85 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74123,
+        "medianAge": 55.8,
+        "totalPopulation": 10330,
+        "collegePct": 26.73,
+        "renterRatePct": 16.41,
+        "race": {
+          "whitePct": 90.42,
+          "nonHispanicWhitePct": 88.82,
+          "blackPct": 0.28,
+          "asianPct": 0.76,
+          "hispanicPct": 4.4
+        }
+      },
+      "election": {
+        "district": "HD-85",
+        "candidates": [
+          {
+            "name": "JACKSON",
+            "party": "Democratic",
+            "votes": 1692
+          },
+          {
+            "name": "LOVE",
+            "party": "Republican",
+            "votes": 5716
+          }
+        ],
+        "winner": "LOVE",
+        "year": 2024
+      }
+    },
+    "86": {
+      "districtNumber": 86,
+      "districtName": "Montana House District 86",
+      "census": {
+        "censusName": "State House District 86 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56409,
+        "medianAge": 48.8,
+        "totalPopulation": 11079,
+        "collegePct": 33.51,
+        "renterRatePct": 36.02,
+        "race": {
+          "whitePct": 94.38,
+          "nonHispanicWhitePct": 93.73,
+          "blackPct": 0,
+          "asianPct": 0.32,
+          "hispanicPct": 2.79
+        }
+      },
+      "election": {
+        "district": "HD-86",
+        "candidates": [
+          {
+            "name": "KEMPKA",
+            "party": "Democratic",
+            "votes": 1891
+          },
+          {
+            "name": "BEDEY",
+            "party": "Republican",
+            "votes": 4798
+          }
+        ],
+        "winner": "BEDEY",
+        "year": 2024
+      }
+    },
+    "87": {
+      "districtNumber": 87,
+      "districtName": "Montana House District 87",
+      "census": {
+        "censusName": "State House District 87 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75813,
+        "medianAge": 47,
+        "totalPopulation": 11648,
+        "collegePct": 28.37,
+        "renterRatePct": 16.29,
+        "race": {
+          "whitePct": 89.69,
+          "nonHispanicWhitePct": 88.66,
+          "blackPct": 0.49,
+          "asianPct": 0.27,
+          "hispanicPct": 3.34
+        }
+      },
+      "election": {
+        "district": "HD-87",
+        "candidates": [
+          {
+            "name": "MILLIGAN",
+            "party": "Democratic",
+            "votes": 1846
+          },
+          {
+            "name": "MARSHALL",
+            "party": "Republican",
+            "votes": 5457
+          }
+        ],
+        "winner": "MARSHALL",
+        "year": 2024
+      }
+    },
+    "88": {
+      "districtNumber": 88,
+      "districtName": "Montana House District 88",
+      "census": {
+        "censusName": "State House District 88 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80598,
+        "medianAge": 47.4,
+        "totalPopulation": 12750,
+        "collegePct": 30.4,
+        "renterRatePct": 15.36,
+        "race": {
+          "whitePct": 88.53,
+          "nonHispanicWhitePct": 86.17,
+          "blackPct": 0.6,
+          "asianPct": 0.85,
+          "hispanicPct": 5.23
+        }
+      },
+      "election": {
+        "district": "HD-88",
+        "candidates": [
+          {
+            "name": "SCHROEDEL",
+            "party": "Democratic",
+            "votes": 2183
+          },
+          {
+            "name": "OVERSTREET",
+            "party": "Republican",
+            "votes": 5086
+          }
+        ],
+        "winner": "OVERSTREET",
+        "year": 2024
+      }
+    },
+    "89": {
+      "districtNumber": 89,
+      "districtName": "Montana House District 89",
+      "census": {
+        "censusName": "State House District 89 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94366,
+        "medianAge": 33.8,
+        "totalPopulation": 9532,
+        "collegePct": 54.11,
+        "renterRatePct": 28.93,
+        "race": {
+          "whitePct": 92.34,
+          "nonHispanicWhitePct": 89.36,
+          "blackPct": 0.2,
+          "asianPct": 1.16,
+          "hispanicPct": 4.52
+        }
+      },
+      "election": {
+        "district": "HD-89",
+        "candidates": [
+          {
+            "name": "THANE",
+            "party": "Democratic",
+            "votes": 3590
+          },
+          {
+            "name": "HELLEGAARD",
+            "party": "Republican",
+            "votes": 2868
+          }
+        ],
+        "winner": "THANE",
+        "year": 2024
+      }
+    },
+    "90": {
+      "districtNumber": 90,
+      "districtName": "Montana House District 90",
+      "census": {
+        "censusName": "State House District 90 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74781,
+        "medianAge": 35,
+        "totalPopulation": 10192,
+        "collegePct": 57.13,
+        "renterRatePct": 47.66,
+        "race": {
+          "whitePct": 89.37,
+          "nonHispanicWhitePct": 85.1,
+          "blackPct": 0,
+          "asianPct": 0.61,
+          "hispanicPct": 6.27
+        }
+      },
+      "election": {
+        "district": "HD-90",
+        "candidates": [
+          {
+            "name": "COCHRAN",
+            "party": "Republican",
+            "votes": 5381
+          }
+        ],
+        "winner": "COCHRAN",
+        "year": 2024
+      }
+    },
+    "91": {
+      "districtNumber": 91,
+      "districtName": "Montana House District 91",
+      "census": {
+        "censusName": "State House District 91 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68684,
+        "medianAge": 35.4,
+        "totalPopulation": 10350,
+        "collegePct": 61.34,
+        "renterRatePct": 54.6,
+        "race": {
+          "whitePct": 83.12,
+          "nonHispanicWhitePct": 82.62,
+          "blackPct": 0.05,
+          "asianPct": 3.05,
+          "hispanicPct": 7.19
+        }
+      },
+      "election": {
+        "district": "HD-91",
+        "candidates": [
+          {
+            "name": "FYANT",
+            "party": "Democratic",
+            "votes": 3249
+          },
+          {
+            "name": "PASSIERI",
+            "party": "Republican",
+            "votes": 2745
+          }
+        ],
+        "winner": "FYANT",
+        "year": 2024
+      }
+    },
+    "92": {
+      "districtNumber": 92,
+      "districtName": "Montana House District 92",
+      "census": {
+        "censusName": "State House District 92 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66757,
+        "medianAge": 44.8,
+        "totalPopulation": 10041,
+        "collegePct": 30.54,
+        "renterRatePct": 18.39,
+        "race": {
+          "whitePct": 86.51,
+          "nonHispanicWhitePct": 84.4,
+          "blackPct": 0.36,
+          "asianPct": 0.64,
+          "hispanicPct": 3.66
+        }
+      },
+      "election": {
+        "district": "HD-92",
+        "candidates": [
+          {
+            "name": "KEOGH",
+            "party": "Democratic",
+            "votes": 4059
+          },
+          {
+            "name": "MORGAN",
+            "party": "Republican",
+            "votes": 2587
+          }
+        ],
+        "winner": "KEOGH",
+        "year": 2024
+      }
+    },
+    "93": {
+      "districtNumber": 93,
+      "districtName": "Montana House District 93",
+      "census": {
+        "censusName": "State House District 93 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64847,
+        "medianAge": 41.6,
+        "totalPopulation": 10406,
+        "collegePct": 26.71,
+        "renterRatePct": 23.77,
+        "race": {
+          "whitePct": 65.83,
+          "nonHispanicWhitePct": 64.3,
+          "blackPct": 0.15,
+          "asianPct": 0.69,
+          "hispanicPct": 6.17
+        }
+      },
+      "election": {
+        "district": "HD-93",
+        "candidates": [
+          {
+            "name": "SULLIVAN",
+            "party": "Democratic",
+            "votes": 4024
+          },
+          {
+            "name": "HANDLEY",
+            "party": "Republican",
+            "votes": 2472
+          }
+        ],
+        "winner": "SULLIVAN",
+        "year": 2024
+      }
+    },
+    "94": {
+      "districtNumber": 94,
+      "districtName": "Montana House District 94",
+      "census": {
+        "censusName": "State House District 94 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80309,
+        "medianAge": 36.6,
+        "totalPopulation": 10298,
+        "collegePct": 45.95,
+        "renterRatePct": 29.94,
+        "race": {
+          "whitePct": 83.85,
+          "nonHispanicWhitePct": 81.36,
+          "blackPct": 0.9,
+          "asianPct": 0.51,
+          "hispanicPct": 6.57
+        }
+      },
+      "election": {
+        "district": "HD-94",
+        "candidates": [
+          {
+            "name": "MARLER",
+            "party": "Democratic",
+            "votes": 4076
+          },
+          {
+            "name": "HENSON",
+            "party": "Republican",
+            "votes": 2846
+          }
+        ],
+        "winner": "MARLER",
+        "year": 2024
+      }
+    },
+    "95": {
+      "districtNumber": 95,
+      "districtName": "Montana House District 95",
+      "census": {
+        "censusName": "State House District 95 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50975,
+        "medianAge": 34.1,
+        "totalPopulation": 10648,
+        "collegePct": 44.24,
+        "renterRatePct": 66.24,
+        "race": {
+          "whitePct": 85.26,
+          "nonHispanicWhitePct": 82.45,
+          "blackPct": 1.13,
+          "asianPct": 1.89,
+          "hispanicPct": 9.12
+        }
+      },
+      "election": {
+        "district": "HD-95",
+        "candidates": [
+          {
+            "name": "ZEPHYR",
+            "party": "Democratic",
+            "votes": 5189
+          },
+          {
+            "name": "STARMER",
+            "party": "Republican",
+            "votes": 1309
+          }
+        ],
+        "winner": "ZEPHYR",
+        "year": 2024
+      }
+    },
+    "96": {
+      "districtNumber": 96,
+      "districtName": "Montana House District 96",
+      "census": {
+        "censusName": "State House District 96 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75954,
+        "medianAge": 35,
+        "totalPopulation": 14696,
+        "collegePct": 41.96,
+        "renterRatePct": 37.75,
+        "race": {
+          "whitePct": 90.42,
+          "nonHispanicWhitePct": 88.88,
+          "blackPct": 0.09,
+          "asianPct": 3.19,
+          "hispanicPct": 2.69
+        }
+      },
+      "election": {
+        "district": "HD-96",
+        "candidates": [
+          {
+            "name": "CARTER",
+            "party": "Democratic",
+            "votes": 3684
+          },
+          {
+            "name": "LABAIR",
+            "party": "Republican",
+            "votes": 2394
+          }
+        ],
+        "winner": "CARTER",
+        "year": 2024
+      }
+    },
+    "97": {
+      "districtNumber": 97,
+      "districtName": "Montana House District 97",
+      "census": {
+        "censusName": "State House District 97 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88742,
+        "medianAge": 39.1,
+        "totalPopulation": 11248,
+        "collegePct": 35.69,
+        "renterRatePct": 16.41,
+        "race": {
+          "whitePct": 90.8,
+          "nonHispanicWhitePct": 89.46,
+          "blackPct": 0.21,
+          "asianPct": 0.99,
+          "hispanicPct": 4.93
+        }
+      },
+      "election": {
+        "district": "HD-97",
+        "candidates": [
+          {
+            "name": "CUNNINGHAM",
+            "party": "Democratic",
+            "votes": 3651
+          },
+          {
+            "name": "ARMERDING",
+            "party": "Libertarian",
+            "votes": 247
+          },
+          {
+            "name": "KNOWLES",
+            "party": "Republican",
+            "votes": 2152
+          }
+        ],
+        "winner": "CUNNINGHAM",
+        "year": 2024
+      }
+    },
+    "98": {
+      "districtNumber": 98,
+      "districtName": "Montana House District 98",
+      "census": {
+        "censusName": "State House District 98 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64392,
+        "medianAge": 40.9,
+        "totalPopulation": 10027,
+        "collegePct": 43.39,
+        "renterRatePct": 40.07,
+        "race": {
+          "whitePct": 90.17,
+          "nonHispanicWhitePct": 89.14,
+          "blackPct": 0,
+          "asianPct": 3.37,
+          "hispanicPct": 3.52
+        }
+      },
+      "election": {
+        "district": "HD-98",
+        "candidates": [
+          {
+            "name": "KARLEN",
+            "party": "Democratic",
+            "votes": 3684
+          },
+          {
+            "name": "BEARD",
+            "party": "Republican",
+            "votes": 2700
+          }
+        ],
+        "winner": "KARLEN",
+        "year": 2024
+      }
+    },
+    "99": {
+      "districtNumber": 99,
+      "districtName": "Montana House District 99",
+      "census": {
+        "censusName": "State House District 99 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89127,
+        "medianAge": 39.2,
+        "totalPopulation": 10733,
+        "collegePct": 45.83,
+        "renterRatePct": 32.84,
+        "race": {
+          "whitePct": 86.32,
+          "nonHispanicWhitePct": 85.72,
+          "blackPct": 0.9,
+          "asianPct": 1.59,
+          "hispanicPct": 3.95
+        }
+      },
+      "election": {
+        "district": "HD-99",
+        "candidates": [
+          {
+            "name": "FRANCE",
+            "party": "Democratic",
+            "votes": 3757
+          },
+          {
+            "name": "DARLING",
+            "party": "Republican",
+            "votes": 2958
+          }
+        ],
+        "winner": "FRANCE",
+        "year": 2024
+      }
+    },
+    "100": {
+      "districtNumber": 100,
+      "districtName": "Montana House District 100",
+      "census": {
+        "censusName": "State House District 100 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63391,
+        "medianAge": 32,
+        "totalPopulation": 11429,
+        "collegePct": 50.37,
+        "renterRatePct": 59.26,
+        "race": {
+          "whitePct": 84.6,
+          "nonHispanicWhitePct": 83.56,
+          "blackPct": 2.7,
+          "asianPct": 0.42,
+          "hispanicPct": 3.01
+        }
+      },
+      "election": {
+        "district": "HD-100",
+        "candidates": [
+          {
+            "name": "HOWELL",
+            "party": "Democratic",
+            "votes": 4440
+          },
+          {
+            "name": "BUCKLES",
+            "party": "Republican",
+            "votes": 1274
+          }
+        ],
+        "winner": "HOWELL",
+        "year": 2024
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Montana Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47018,
+        "medianAge": 52.6,
+        "totalPopulation": 20656,
+        "collegePct": 18.05,
+        "renterRatePct": 20.99,
+        "race": {
+          "whitePct": 91.56,
+          "nonHispanicWhitePct": 90.8,
+          "blackPct": 0.07,
+          "asianPct": 0.26,
+          "hispanicPct": 2.97
+        }
+      },
+      "election": {
+        "district": "SD-01",
+        "candidates": [
+          {
+            "name": "CUFFE",
+            "party": "Republican",
+            "votes": 7586
+          }
+        ],
+        "winner": "CUFFE",
+        "year": 2022
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Montana Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72403,
+        "medianAge": 41.2,
+        "totalPopulation": 23147,
+        "collegePct": 31.77,
+        "renterRatePct": 19.73,
+        "race": {
+          "whitePct": 92.4,
+          "nonHispanicWhitePct": 92.17,
+          "blackPct": 0.33,
+          "asianPct": 0.88,
+          "hispanicPct": 2.17
+        }
+      },
+      "election": {
+        "district": "SD-02",
+        "candidates": [
+          {
+            "name": "FERN",
+            "party": "Democratic",
+            "votes": 6860
+          },
+          {
+            "name": "ADAMS",
+            "party": "Republican",
+            "votes": 6227
+          }
+        ],
+        "winner": "FERN",
+        "year": 2024
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Montana Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71971,
+        "medianAge": 47.3,
+        "totalPopulation": 22862,
+        "collegePct": 47.18,
+        "renterRatePct": 24.18,
+        "race": {
+          "whitePct": 93.51,
+          "nonHispanicWhitePct": 92.64,
+          "blackPct": 0.07,
+          "asianPct": 0.47,
+          "hispanicPct": 3.78
+        }
+      },
+      "election": {
+        "district": "SD-03",
+        "candidates": [
+          {
+            "name": "KENNEDY",
+            "party": "Democratic",
+            "votes": 4100
+          },
+          {
+            "name": "GLIMM",
+            "party": "Republican",
+            "votes": 9590
+          }
+        ],
+        "winner": "GLIMM",
+        "year": 2024
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Montana Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64413,
+        "medianAge": 34,
+        "totalPopulation": 25305,
+        "collegePct": 30.1,
+        "renterRatePct": 39.33,
+        "race": {
+          "whitePct": 90.15,
+          "nonHispanicWhitePct": 88.81,
+          "blackPct": 0.27,
+          "asianPct": 1.25,
+          "hispanicPct": 4.83
+        }
+      },
+      "election": {
+        "district": "SD-04",
+        "candidates": [
+          {
+            "name": "WATERMAN",
+            "party": "Democratic",
+            "votes": 3149
+          },
+          {
+            "name": "FULLER",
+            "party": "Republican",
+            "votes": 5180
+          }
+        ],
+        "winner": "FULLER",
+        "year": 2022
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Montana Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76487,
+        "medianAge": 45.3,
+        "totalPopulation": 23853,
+        "collegePct": 37.33,
+        "renterRatePct": 21.48,
+        "race": {
+          "whitePct": 89.6,
+          "nonHispanicWhitePct": 88.82,
+          "blackPct": 0.23,
+          "asianPct": 0.55,
+          "hispanicPct": 4.2
+        }
+      },
+      "election": {
+        "district": "SD-05",
+        "candidates": [
+          {
+            "name": "NEIMARK",
+            "party": "Democratic",
+            "votes": 3162
+          },
+          {
+            "name": "REGIER",
+            "party": "Republican",
+            "votes": 9157
+          }
+        ],
+        "winner": "REGIER",
+        "year": 2024
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Montana Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66241,
+        "medianAge": 48.1,
+        "totalPopulation": 23909,
+        "collegePct": 34.77,
+        "renterRatePct": 25.9,
+        "race": {
+          "whitePct": 80.65,
+          "nonHispanicWhitePct": 80.09,
+          "blackPct": 0.13,
+          "asianPct": 1.02,
+          "hispanicPct": 2.6
+        }
+      },
+      "election": {
+        "district": "SD-06",
+        "candidates": [
+          {
+            "name": "NOLAND",
+            "party": "Republican",
+            "votes": 7995
+          }
+        ],
+        "winner": "NOLAND",
+        "year": 2022
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Montana Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58763,
+        "medianAge": 51.8,
+        "totalPopulation": 21997,
+        "collegePct": 24.06,
+        "renterRatePct": 18.29,
+        "race": {
+          "whitePct": 91.19,
+          "nonHispanicWhitePct": 89.88,
+          "blackPct": 0.73,
+          "asianPct": 0.34,
+          "hispanicPct": 3.07
+        }
+      },
+      "election": {
+        "district": "SD-07",
+        "candidates": [
+          {
+            "name": "PABLO",
+            "party": "Democratic",
+            "votes": 3472
+          },
+          {
+            "name": "HERTZ",
+            "party": "Republican",
+            "votes": 9271
+          }
+        ],
+        "winner": "HERTZ",
+        "year": 2024
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Montana Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45621,
+        "medianAge": 33.9,
+        "totalPopulation": 19267,
+        "collegePct": 20.13,
+        "renterRatePct": 34.03,
+        "race": {
+          "whitePct": 30.44,
+          "nonHispanicWhitePct": 29.87,
+          "blackPct": 0.23,
+          "asianPct": 0.42,
+          "hispanicPct": 2.18
+        }
+      },
+      "election": {
+        "district": "SD-08",
+        "candidates": [
+          {
+            "name": "WEBBER",
+            "party": "Democratic",
+            "votes": 2675
+          },
+          {
+            "name": "JENNISON",
+            "party": "Republican",
+            "votes": 1996
+          }
+        ],
+        "winner": "WEBBER",
+        "year": 2022
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Montana Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57776,
+        "medianAge": 41.8,
+        "totalPopulation": 19959,
+        "collegePct": 21.76,
+        "renterRatePct": 29.76,
+        "race": {
+          "whitePct": 88.11,
+          "nonHispanicWhitePct": 86.86,
+          "blackPct": 0.59,
+          "asianPct": 0.38,
+          "hispanicPct": 3.2
+        }
+      },
+      "election": {
+        "district": "SD-09",
+        "candidates": [
+          {
+            "name": "GILLESPIE",
+            "party": "Republican",
+            "votes": 6780
+          }
+        ],
+        "winner": "GILLESPIE",
+        "year": 2022
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Montana Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85703,
+        "medianAge": 44.6,
+        "totalPopulation": 21401,
+        "collegePct": 36.56,
+        "renterRatePct": 11.28,
+        "race": {
+          "whitePct": 91.37,
+          "nonHispanicWhitePct": 90.41,
+          "blackPct": 0.65,
+          "asianPct": 0.51,
+          "hispanicPct": 4.25
+        }
+      },
+      "election": {
+        "district": "SD-10",
+        "candidates": [
+          {
+            "name": "SCHREINER",
+            "party": "Democratic",
+            "votes": 2508
+          },
+          {
+            "name": "TREBAS",
+            "party": "Republican",
+            "votes": 2681
+          }
+        ],
+        "winner": "TREBAS",
+        "year": 2022
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Montana Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66382,
+        "medianAge": 40.9,
+        "totalPopulation": 18882,
+        "collegePct": 23.43,
+        "renterRatePct": 23,
+        "race": {
+          "whitePct": 88.48,
+          "nonHispanicWhitePct": 86.93,
+          "blackPct": 0.48,
+          "asianPct": 1.66,
+          "hispanicPct": 3.52
+        }
+      },
+      "election": {
+        "district": "SD-11",
+        "candidates": [
+          {
+            "name": "JACOBSON",
+            "party": "Democratic",
+            "votes": 3276
+          },
+          {
+            "name": "EMRICH",
+            "party": "Republican",
+            "votes": 3683
+          }
+        ],
+        "winner": "EMRICH",
+        "year": 2022
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Montana Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52402,
+        "medianAge": 37.4,
+        "totalPopulation": 20394,
+        "collegePct": 26.51,
+        "renterRatePct": 42.17,
+        "race": {
+          "whitePct": 79.92,
+          "nonHispanicWhitePct": 78.51,
+          "blackPct": 2.19,
+          "asianPct": 1.04,
+          "hispanicPct": 4.78
+        }
+      },
+      "election": {
+        "district": "SD-12",
+        "candidates": [
+          {
+            "name": "BACHMEIER",
+            "party": "Democratic",
+            "votes": 2641
+          },
+          {
+            "name": "MCKAMEY",
+            "party": "Republican",
+            "votes": 3358
+          }
+        ],
+        "winner": "MCKAMEY",
+        "year": 2022
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Montana Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61162,
+        "medianAge": 32.1,
+        "totalPopulation": 21085,
+        "collegePct": 26.75,
+        "renterRatePct": 44.03,
+        "race": {
+          "whitePct": 78.69,
+          "nonHispanicWhitePct": 76.54,
+          "blackPct": 2.27,
+          "asianPct": 1.78,
+          "hispanicPct": 8.03
+        }
+      },
+      "election": {
+        "district": "SD-13",
+        "candidates": [
+          {
+            "name": "KASSMIER",
+            "party": "Republican",
+            "votes": 9676
+          }
+        ],
+        "winner": "KASSMIER",
+        "year": 2024
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Montana Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64583,
+        "medianAge": 37.9,
+        "totalPopulation": 20465,
+        "collegePct": 28.12,
+        "renterRatePct": 28.41,
+        "race": {
+          "whitePct": 85.25,
+          "nonHispanicWhitePct": 83.68,
+          "blackPct": 0.65,
+          "asianPct": 0.18,
+          "hispanicPct": 3.05
+        }
+      },
+      "election": {
+        "district": "SD-14",
+        "candidates": [
+          {
+            "name": "BREWER",
+            "party": "Democratic",
+            "votes": 2231
+          },
+          {
+            "name": "TEMPEL",
+            "party": "Republican",
+            "votes": 5624
+          }
+        ],
+        "winner": "TEMPEL",
+        "year": 2022
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Montana Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58240,
+        "medianAge": 48.5,
+        "totalPopulation": 19686,
+        "collegePct": 24.5,
+        "renterRatePct": 28.67,
+        "race": {
+          "whitePct": 93.46,
+          "nonHispanicWhitePct": 92.73,
+          "blackPct": 0.63,
+          "asianPct": 0.56,
+          "hispanicPct": 2.86
+        }
+      },
+      "election": {
+        "district": "SD-15",
+        "candidates": [
+          {
+            "name": "HUNTER",
+            "party": "Republican",
+            "votes": 9311
+          }
+        ],
+        "winner": "HUNTER",
+        "year": 2024
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Montana Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52517,
+        "medianAge": 32.2,
+        "totalPopulation": 19624,
+        "collegePct": 17.53,
+        "renterRatePct": 36.64,
+        "race": {
+          "whitePct": 25.64,
+          "nonHispanicWhitePct": 25.52,
+          "blackPct": 0.28,
+          "asianPct": 0.42,
+          "hispanicPct": 2.78
+        }
+      },
+      "election": {
+        "district": "SD-16",
+        "candidates": [
+          {
+            "name": "WINDY BOY",
+            "party": "Democratic",
+            "votes": 4554
+          },
+          {
+            "name": "JACOBS",
+            "party": "Republican",
+            "votes": 2902
+          }
+        ],
+        "winner": "WINDY BOY",
+        "year": 2024
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Montana Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61704,
+        "medianAge": 42.3,
+        "totalPopulation": 20710,
+        "collegePct": 24.6,
+        "renterRatePct": 25.39,
+        "race": {
+          "whitePct": 88.37,
+          "nonHispanicWhitePct": 87.41,
+          "blackPct": 0.27,
+          "asianPct": 0.18,
+          "hispanicPct": 2.47
+        }
+      },
+      "election": {
+        "district": "SD-17",
+        "candidates": [
+          {
+            "name": "PHALEN",
+            "party": "Republican",
+            "votes": 10096
+          }
+        ],
+        "winner": "PHALEN",
+        "year": 2024
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Montana Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70353,
+        "medianAge": 39.9,
+        "totalPopulation": 21351,
+        "collegePct": 22.37,
+        "renterRatePct": 28.8,
+        "race": {
+          "whitePct": 91.89,
+          "nonHispanicWhitePct": 89.12,
+          "blackPct": 0.2,
+          "asianPct": 0.16,
+          "hispanicPct": 4.64
+        }
+      },
+      "election": {
+        "district": "SD-18",
+        "candidates": [
+          {
+            "name": "BOGNER",
+            "party": "Republican",
+            "votes": 7643
+          }
+        ],
+        "winner": "BOGNER",
+        "year": 2022
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Montana Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63750,
+        "medianAge": 44,
+        "totalPopulation": 20310,
+        "collegePct": 25.36,
+        "renterRatePct": 29.58,
+        "race": {
+          "whitePct": 91.82,
+          "nonHispanicWhitePct": 90.75,
+          "blackPct": 0.26,
+          "asianPct": 0.71,
+          "hispanicPct": 2.19
+        }
+      },
+      "election": {
+        "district": "SD-19",
+        "candidates": [
+          {
+            "name": "USHER",
+            "party": "Republican",
+            "votes": 7739
+          }
+        ],
+        "winner": "USHER",
+        "year": 2022
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Montana Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66563,
+        "medianAge": 44.3,
+        "totalPopulation": 21346,
+        "collegePct": 22.41,
+        "renterRatePct": 16.72,
+        "race": {
+          "whitePct": 90.43,
+          "nonHispanicWhitePct": 88.64,
+          "blackPct": 0,
+          "asianPct": 0.74,
+          "hispanicPct": 3.61
+        }
+      },
+      "election": {
+        "district": "SD-20",
+        "candidates": [
+          {
+            "name": "AUCH",
+            "party": "Democratic",
+            "votes": 2841
+          },
+          {
+            "name": "VINTON",
+            "party": "Republican",
+            "votes": 6820
+          }
+        ],
+        "winner": "VINTON",
+        "year": 2024
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Montana Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56290,
+        "medianAge": 32.9,
+        "totalPopulation": 19023,
+        "collegePct": 20.96,
+        "renterRatePct": 34.82,
+        "race": {
+          "whitePct": 31.17,
+          "nonHispanicWhitePct": 29.9,
+          "blackPct": 0.08,
+          "asianPct": 0.28,
+          "hispanicPct": 3.82
+        }
+      },
+      "election": {
+        "district": "SD-21",
+        "candidates": [
+          {
+            "name": "PEREGOY",
+            "party": "Democratic",
+            "votes": 2885
+          },
+          {
+            "name": "LAMMERS",
+            "party": "Republican",
+            "votes": 3796
+          }
+        ],
+        "winner": "LAMMERS",
+        "year": 2024
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Montana Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69481,
+        "medianAge": 37.1,
+        "totalPopulation": 22017,
+        "collegePct": 25.62,
+        "renterRatePct": 23.38,
+        "race": {
+          "whitePct": 87.28,
+          "nonHispanicWhitePct": 84.48,
+          "blackPct": 0.36,
+          "asianPct": 0.4,
+          "hispanicPct": 6.12
+        }
+      },
+      "election": {
+        "district": "SD-22",
+        "candidates": [
+          {
+            "name": "DENNIS",
+            "party": "Democratic",
+            "votes": 2529
+          },
+          {
+            "name": "ZOLNIKOV",
+            "party": "Republican",
+            "votes": 4853
+          }
+        ],
+        "winner": "ZOLNIKOV",
+        "year": 2022
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Montana Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97971,
+        "medianAge": 41.5,
+        "totalPopulation": 23346,
+        "collegePct": 48.04,
+        "renterRatePct": 19.8,
+        "race": {
+          "whitePct": 92.49,
+          "nonHispanicWhitePct": 88.99,
+          "blackPct": 0.34,
+          "asianPct": 0.94,
+          "hispanicPct": 4.64
+        }
+      },
+      "election": {
+        "district": "SD-23",
+        "candidates": [
+          {
+            "name": "KELKER",
+            "party": "Democratic",
+            "votes": 3950
+          },
+          {
+            "name": "TIDSWELL",
+            "party": "Republican",
+            "votes": 3109
+          }
+        ],
+        "winner": "KELKER",
+        "year": 2022
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Montana Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71485,
+        "medianAge": 38.2,
+        "totalPopulation": 19984,
+        "collegePct": 47.63,
+        "renterRatePct": 46.61,
+        "race": {
+          "whitePct": 85.22,
+          "nonHispanicWhitePct": 81.62,
+          "blackPct": 1.32,
+          "asianPct": 0.43,
+          "hispanicPct": 8.07
+        }
+      },
+      "election": {
+        "district": "SD-24",
+        "candidates": [
+          {
+            "name": "NICHOLSON",
+            "party": "Democratic",
+            "votes": 3675
+          },
+          {
+            "name": "YAKAWICH",
+            "party": "Republican",
+            "votes": 4283
+          }
+        ],
+        "winner": "YAKAWICH",
+        "year": 2024
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Montana Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49714,
+        "medianAge": 36.3,
+        "totalPopulation": 17990,
+        "collegePct": 22.06,
+        "renterRatePct": 48.13,
+        "race": {
+          "whitePct": 80.69,
+          "nonHispanicWhitePct": 77.51,
+          "blackPct": 0.58,
+          "asianPct": 2.3,
+          "hispanicPct": 9.49
+        }
+      },
+      "election": {
+        "district": "SD-25",
+        "candidates": [
+          {
+            "name": "LENZ",
+            "party": "Republican",
+            "votes": 9670
+          }
+        ],
+        "winner": "LENZ",
+        "year": 2022
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Montana Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60628,
+        "medianAge": 35.3,
+        "totalPopulation": 22379,
+        "collegePct": 26.87,
+        "renterRatePct": 36.56,
+        "race": {
+          "whitePct": 81.1,
+          "nonHispanicWhitePct": 77.5,
+          "blackPct": 2.57,
+          "asianPct": 1.15,
+          "hispanicPct": 10.41
+        }
+      },
+      "election": {
+        "district": "SD-26",
+        "candidates": [
+          {
+            "name": "LYNCOLN",
+            "party": "Democratic",
+            "votes": 4347
+          },
+          {
+            "name": "MCGILLVRAY",
+            "party": "Republican",
+            "votes": 7696
+          }
+        ],
+        "winner": "MCGILLVRAY",
+        "year": 2024
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Montana Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97538,
+        "medianAge": 42.6,
+        "totalPopulation": 28116,
+        "collegePct": 46.24,
+        "renterRatePct": 25.25,
+        "race": {
+          "whitePct": 88.7,
+          "nonHispanicWhitePct": 87.68,
+          "blackPct": 1.13,
+          "asianPct": 0.09,
+          "hispanicPct": 3.44
+        }
+      },
+      "election": {
+        "district": "SD-27",
+        "candidates": [
+          {
+            "name": "GILLULY",
+            "party": "Democratic",
+            "votes": 2942
+          },
+          {
+            "name": "RICCI",
+            "party": "Republican",
+            "votes": 8446
+          }
+        ],
+        "winner": "RICCI",
+        "year": 2024
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Montana Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75984,
+        "medianAge": 38.2,
+        "totalPopulation": 21742,
+        "collegePct": 22.1,
+        "renterRatePct": 25.75,
+        "race": {
+          "whitePct": 88.62,
+          "nonHispanicWhitePct": 85.38,
+          "blackPct": 0.21,
+          "asianPct": 0.85,
+          "hispanicPct": 6.06
+        }
+      },
+      "election": {
+        "district": "SD-28",
+        "candidates": [
+          {
+            "name": "MANDEVILLE",
+            "party": "Republican",
+            "votes": 8437
+          }
+        ],
+        "winner": "MANDEVILLE",
+        "year": 2022
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Montana Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76491,
+        "medianAge": 49.1,
+        "totalPopulation": 20369,
+        "collegePct": 29.69,
+        "renterRatePct": 22.66,
+        "race": {
+          "whitePct": 92.89,
+          "nonHispanicWhitePct": 91.67,
+          "blackPct": 0.29,
+          "asianPct": 0.41,
+          "hispanicPct": 3.15
+        }
+      },
+      "election": {
+        "district": "SD-29",
+        "candidates": [
+          {
+            "name": "ISALY",
+            "party": "Democratic",
+            "votes": 4879
+          },
+          {
+            "name": "ESP",
+            "party": "Republican",
+            "votes": 6041
+          }
+        ],
+        "winner": "ESP",
+        "year": 2022
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Montana Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67484,
+        "medianAge": 46.4,
+        "totalPopulation": 21452,
+        "collegePct": 37.01,
+        "renterRatePct": 29.24,
+        "race": {
+          "whitePct": 91.96,
+          "nonHispanicWhitePct": 91.53,
+          "blackPct": 0.39,
+          "asianPct": 0.3,
+          "hispanicPct": 3.01
+        }
+      },
+      "election": {
+        "district": "SD-30",
+        "candidates": [
+          {
+            "name": "NEUMANN",
+            "party": "Democratic",
+            "votes": 8221
+          },
+          {
+            "name": "ROGERS",
+            "party": "Republican",
+            "votes": 5853
+          }
+        ],
+        "winner": "NEUMANN",
+        "year": 2024
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Montana Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107557,
+        "medianAge": 38,
+        "totalPopulation": 24842,
+        "collegePct": 71.01,
+        "renterRatePct": 33.32,
+        "race": {
+          "whitePct": 89.96,
+          "nonHispanicWhitePct": 88.63,
+          "blackPct": 0.79,
+          "asianPct": 1.6,
+          "hispanicPct": 3.85
+        }
+      },
+      "election": {
+        "district": "SD-31",
+        "candidates": [
+          {
+            "name": "FLOWERS",
+            "party": "Democratic",
+            "votes": 5572
+          },
+          {
+            "name": "CHAMBERLIN",
+            "party": "Republican",
+            "votes": 5082
+          }
+        ],
+        "winner": "FLOWERS",
+        "year": 2022
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Montana Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79963,
+        "medianAge": 29.5,
+        "totalPopulation": 28269,
+        "collegePct": 52.07,
+        "renterRatePct": 42.33,
+        "race": {
+          "whitePct": 86.38,
+          "nonHispanicWhitePct": 84.19,
+          "blackPct": 0.92,
+          "asianPct": 1.93,
+          "hispanicPct": 7.91
+        }
+      },
+      "election": {
+        "district": "SD-32",
+        "candidates": [
+          {
+            "name": "HAYMAN",
+            "party": "Democratic",
+            "votes": 8039
+          },
+          {
+            "name": "DEWIS",
+            "party": "Republican",
+            "votes": 3799
+          }
+        ],
+        "winner": "HAYMAN",
+        "year": 2022
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Montana Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82591,
+        "medianAge": 30.8,
+        "totalPopulation": 29538,
+        "collegePct": 59.4,
+        "renterRatePct": 55.96,
+        "race": {
+          "whitePct": 88.81,
+          "nonHispanicWhitePct": 87.25,
+          "blackPct": 0.42,
+          "asianPct": 1.43,
+          "hispanicPct": 5.77
+        }
+      },
+      "election": {
+        "district": "SD-33",
+        "candidates": [
+          {
+            "name": "POPE",
+            "party": "Democratic",
+            "votes": 7534
+          },
+          {
+            "name": "GANSER",
+            "party": "Republican",
+            "votes": 5772
+          }
+        ],
+        "winner": "POPE",
+        "year": 2024
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Montana Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92500,
+        "medianAge": 35.7,
+        "totalPopulation": 26482,
+        "collegePct": 38.97,
+        "renterRatePct": 27.67,
+        "race": {
+          "whitePct": 91.3,
+          "nonHispanicWhitePct": 90.5,
+          "blackPct": 0.05,
+          "asianPct": 0.48,
+          "hispanicPct": 4.28
+        }
+      },
+      "election": {
+        "district": "SD-34",
+        "candidates": [
+          {
+            "name": "LYNN",
+            "party": "Democratic",
+            "votes": 3683
+          },
+          {
+            "name": "VANCE",
+            "party": "Republican",
+            "votes": 6516
+          }
+        ],
+        "winner": "VANCE",
+        "year": 2022
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Montana Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80713,
+        "medianAge": 47.1,
+        "totalPopulation": 24799,
+        "collegePct": 37.59,
+        "renterRatePct": 17.07,
+        "race": {
+          "whitePct": 93.38,
+          "nonHispanicWhitePct": 92.98,
+          "blackPct": 0.21,
+          "asianPct": 0.45,
+          "hispanicPct": 2.03
+        }
+      },
+      "election": {
+        "district": "SD-35",
+        "candidates": [
+          {
+            "name": "TEZAK",
+            "party": "Republican",
+            "votes": 11666
+          }
+        ],
+        "winner": "TEZAK",
+        "year": 2024
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Montana Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62354,
+        "medianAge": 48.1,
+        "totalPopulation": 22008,
+        "collegePct": 34.02,
+        "renterRatePct": 24.38,
+        "race": {
+          "whitePct": 93.13,
+          "nonHispanicWhitePct": 91.15,
+          "blackPct": 0.27,
+          "asianPct": 0.46,
+          "hispanicPct": 4.07
+        }
+      },
+      "election": {
+        "district": "SD-36",
+        "candidates": [
+          {
+            "name": "NOVAK",
+            "party": "Democratic",
+            "votes": 6549
+          },
+          {
+            "name": "NEWMAN",
+            "party": "Republican",
+            "votes": 3948
+          }
+        ],
+        "winner": "NOVAK",
+        "year": 2024
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Montana Senate District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47619,
+        "medianAge": 38.7,
+        "totalPopulation": 20631,
+        "collegePct": 22.61,
+        "renterRatePct": 36.61,
+        "race": {
+          "whitePct": 89.59,
+          "nonHispanicWhitePct": 88.31,
+          "blackPct": 0.2,
+          "asianPct": 0.53,
+          "hispanicPct": 4.18
+        }
+      },
+      "election": {
+        "district": "SD-37",
+        "candidates": [
+          {
+            "name": "HARVEY",
+            "party": "Democratic",
+            "votes": 6291
+          },
+          {
+            "name": "KEPHART",
+            "party": "Republican",
+            "votes": 4226
+          }
+        ],
+        "winner": "HARVEY",
+        "year": 2024
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Montana Senate District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74901,
+        "medianAge": 44.1,
+        "totalPopulation": 21865,
+        "collegePct": 35.32,
+        "renterRatePct": 17.91,
+        "race": {
+          "whitePct": 92.11,
+          "nonHispanicWhitePct": 90.55,
+          "blackPct": 0.07,
+          "asianPct": 0.23,
+          "hispanicPct": 3.86
+        }
+      },
+      "election": {
+        "district": "SD-38",
+        "candidates": [
+          {
+            "name": "BENSON",
+            "party": "Democratic",
+            "votes": 3819
+          },
+          {
+            "name": "BEARD",
+            "party": "Republican",
+            "votes": 10056
+          }
+        ],
+        "winner": "BEARD",
+        "year": 2024
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Montana Senate District 39",
+      "census": {
+        "censusName": "State Senate District 39 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53424,
+        "medianAge": 48.4,
+        "totalPopulation": 20477,
+        "collegePct": 22.4,
+        "renterRatePct": 28.56,
+        "race": {
+          "whitePct": 90.21,
+          "nonHispanicWhitePct": 89.24,
+          "blackPct": 0.69,
+          "asianPct": 1.04,
+          "hispanicPct": 3.36
+        }
+      },
+      "election": {
+        "district": "SD-39",
+        "candidates": [
+          {
+            "name": "SHULTZ",
+            "party": "Democratic",
+            "votes": 2896
+          },
+          {
+            "name": "GALT",
+            "party": "Republican",
+            "votes": 10302
+          }
+        ],
+        "winner": "GALT",
+        "year": 2024
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Montana Senate District 40",
+      "census": {
+        "censusName": "State Senate District 40 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88937,
+        "medianAge": 40.9,
+        "totalPopulation": 23524,
+        "collegePct": 43.43,
+        "renterRatePct": 17.3,
+        "race": {
+          "whitePct": 92.76,
+          "nonHispanicWhitePct": 91.62,
+          "blackPct": 0.11,
+          "asianPct": 0.36,
+          "hispanicPct": 2.09
+        }
+      },
+      "election": {
+        "district": "SD-40",
+        "candidates": [
+          {
+            "name": "SMITH",
+            "party": "Democratic",
+            "votes": 6633
+          },
+          {
+            "name": "GUTHRIE",
+            "party": "Republican",
+            "votes": 5713
+          }
+        ],
+        "winner": "SMITH",
+        "year": 2024
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Montana Senate District 41",
+      "census": {
+        "censusName": "State Senate District 41 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71572,
+        "medianAge": 40.2,
+        "totalPopulation": 22076,
+        "collegePct": 44.47,
+        "renterRatePct": 38.22,
+        "race": {
+          "whitePct": 90.41,
+          "nonHispanicWhitePct": 87.05,
+          "blackPct": 0.44,
+          "asianPct": 0.49,
+          "hispanicPct": 5.73
+        }
+      },
+      "election": {
+        "district": "SD-41",
+        "candidates": [
+          {
+            "name": "ELLIS",
+            "party": "Democratic",
+            "votes": 5423
+          },
+          {
+            "name": "GALT",
+            "party": "Republican",
+            "votes": 4372
+          }
+        ],
+        "winner": "ELLIS",
+        "year": 2022
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Montana Senate District 42",
+      "census": {
+        "censusName": "State Senate District 42 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65131,
+        "medianAge": 39,
+        "totalPopulation": 22527,
+        "collegePct": 38.61,
+        "renterRatePct": 39.02,
+        "race": {
+          "whitePct": 90.79,
+          "nonHispanicWhitePct": 87.95,
+          "blackPct": 1.21,
+          "asianPct": 1.23,
+          "hispanicPct": 4.22
+        }
+      },
+      "election": {
+        "district": "SD-42",
+        "candidates": [
+          {
+            "name": "DUNWELL",
+            "party": "Democratic",
+            "votes": 5071
+          },
+          {
+            "name": "OLSON",
+            "party": "Republican",
+            "votes": 4103
+          }
+        ],
+        "winner": "DUNWELL",
+        "year": 2022
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Montana Senate District 43",
+      "census": {
+        "censusName": "State Senate District 43 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66380,
+        "medianAge": 52.1,
+        "totalPopulation": 21409,
+        "collegePct": 30.14,
+        "renterRatePct": 26.96,
+        "race": {
+          "whitePct": 92.47,
+          "nonHispanicWhitePct": 91.36,
+          "blackPct": 0.14,
+          "asianPct": 0.53,
+          "hispanicPct": 3.57
+        }
+      },
+      "election": {
+        "district": "SD-43",
+        "candidates": [
+          {
+            "name": "SCHNEEBERGER",
+            "party": "Democratic",
+            "votes": 3766
+          },
+          {
+            "name": "ELLSWORTH",
+            "party": "Republican",
+            "votes": 7868
+          }
+        ],
+        "winner": "ELLSWORTH",
+        "year": 2022
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Montana Senate District 44",
+      "census": {
+        "censusName": "State Senate District 44 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78750,
+        "medianAge": 47.2,
+        "totalPopulation": 24398,
+        "collegePct": 29.43,
+        "renterRatePct": 15.81,
+        "race": {
+          "whitePct": 89.09,
+          "nonHispanicWhitePct": 87.36,
+          "blackPct": 0.55,
+          "asianPct": 0.57,
+          "hispanicPct": 4.33
+        }
+      },
+      "election": {
+        "district": "SD-44",
+        "candidates": [
+          {
+            "name": "SCATOLINI",
+            "party": "Democratic",
+            "votes": 4054
+          },
+          {
+            "name": "MANZELLA",
+            "party": "Republican",
+            "votes": 10349
+          }
+        ],
+        "winner": "MANZELLA",
+        "year": 2024
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Montana Senate District 45",
+      "census": {
+        "censusName": "State Senate District 45 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85123,
+        "medianAge": 34.5,
+        "totalPopulation": 19724,
+        "collegePct": 55.73,
+        "renterRatePct": 39.7,
+        "race": {
+          "whitePct": 90.81,
+          "nonHispanicWhitePct": 87.16,
+          "blackPct": 0.1,
+          "asianPct": 0.88,
+          "hispanicPct": 5.42
+        }
+      },
+      "election": {
+        "district": "SD-45",
+        "candidates": [
+          {
+            "name": "JACKSON",
+            "party": "Democratic",
+            "votes": 4321
+          },
+          {
+            "name": "DURBIN-WILLIAMS",
+            "party": "Independent",
+            "votes": 1029
+          },
+          {
+            "name": "LOGE",
+            "party": "Republican",
+            "votes": 7714
+          }
+        ],
+        "winner": "LOGE",
+        "year": 2024
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Montana Senate District 46",
+      "census": {
+        "censusName": "State Senate District 46 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67258,
+        "medianAge": 41,
+        "totalPopulation": 20391,
+        "collegePct": 45.26,
+        "renterRatePct": 37,
+        "race": {
+          "whitePct": 84.79,
+          "nonHispanicWhitePct": 83.5,
+          "blackPct": 0.2,
+          "asianPct": 1.86,
+          "hispanicPct": 5.45
+        }
+      },
+      "election": {
+        "district": "SD-46",
+        "candidates": [
+          {
+            "name": "MORIGEAU",
+            "party": "Democratic",
+            "votes": 7328
+          },
+          {
+            "name": "HEADLEY",
+            "party": "Republican",
+            "votes": 5252
+          }
+        ],
+        "winner": "MORIGEAU",
+        "year": 2024
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Montana Senate District 47",
+      "census": {
+        "censusName": "State Senate District 47 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73534,
+        "medianAge": 38.5,
+        "totalPopulation": 20704,
+        "collegePct": 36.41,
+        "renterRatePct": 27.14,
+        "race": {
+          "whitePct": 74.79,
+          "nonHispanicWhitePct": 72.78,
+          "blackPct": 0.53,
+          "asianPct": 0.6,
+          "hispanicPct": 6.37
+        }
+      },
+      "election": {
+        "district": "SD-47",
+        "candidates": [
+          {
+            "name": "HILL BOLDMAN",
+            "party": "Democratic",
+            "votes": 7858
+          },
+          {
+            "name": "MAKI",
+            "party": "Republican",
+            "votes": 5486
+          }
+        ],
+        "winner": "HILL BOLDMAN",
+        "year": 2024
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Montana Senate District 48",
+      "census": {
+        "censusName": "State Senate District 48 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57231,
+        "medianAge": 34.6,
+        "totalPopulation": 25344,
+        "collegePct": 43.02,
+        "renterRatePct": 51.27,
+        "race": {
+          "whitePct": 88.25,
+          "nonHispanicWhitePct": 86.18,
+          "blackPct": 0.52,
+          "asianPct": 2.64,
+          "hispanicPct": 5.39
+        }
+      },
+      "election": {
+        "district": "SD-48",
+        "candidates": [
+          {
+            "name": "OLSEN",
+            "party": "Democratic",
+            "votes": 7455
+          },
+          {
+            "name": "KNOWLES",
+            "party": "Republican",
+            "votes": 2808
+          }
+        ],
+        "winner": "OLSEN",
+        "year": 2022
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Montana Senate District 49",
+      "census": {
+        "censusName": "State Senate District 49 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76755,
+        "medianAge": 39.8,
+        "totalPopulation": 21275,
+        "collegePct": 39.49,
+        "renterRatePct": 28.28,
+        "race": {
+          "whitePct": 90.5,
+          "nonHispanicWhitePct": 89.31,
+          "blackPct": 0.11,
+          "asianPct": 2.11,
+          "hispanicPct": 4.27
+        }
+      },
+      "election": {
+        "district": "SD-49",
+        "candidates": [
+          {
+            "name": "CURDY",
+            "party": "Democratic",
+            "votes": 5630
+          },
+          {
+            "name": "TSCHIDA",
+            "party": "Republican",
+            "votes": 4714
+          }
+        ],
+        "winner": "CURDY",
+        "year": 2022
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Montana Senate District 50",
+      "census": {
+        "censusName": "State Senate District 50 (2022); Montana",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71218,
+        "medianAge": 35,
+        "totalPopulation": 22162,
+        "collegePct": 48.23,
+        "renterRatePct": 47.83,
+        "race": {
+          "whitePct": 85.43,
+          "nonHispanicWhitePct": 84.6,
+          "blackPct": 1.83,
+          "asianPct": 0.99,
+          "hispanicPct": 3.47
+        }
+      },
+      "election": {
+        "district": "SD-50",
+        "candidates": [
+          {
+            "name": "MORIGEAU",
+            "party": "Democratic",
+            "votes": 6329
+          },
+          {
+            "name": "VAN HORN",
+            "party": "Republican",
+            "votes": 3579
+          }
+        ],
+        "winner": "MORIGEAU",
+        "year": 2022
+      }
+    }
+  }
+}

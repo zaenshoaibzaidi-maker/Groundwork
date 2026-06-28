@@ -1,0 +1,2447 @@
+[
+  {
+    "district": "HD-01",
+    "candidates": [
+      {
+        "name": "ADAMS",
+        "party": "Democratic",
+        "votes": 1388
+      },
+      {
+        "name": "DURAM",
+        "party": "Republican",
+        "votes": 5541
+      }
+    ],
+    "winner": "DURAM",
+    "year": 2024
+  },
+  {
+    "district": "HD-02",
+    "candidates": [
+      {
+        "name": "SIMONIS",
+        "party": "Democratic",
+        "votes": 1245
+      },
+      {
+        "name": "MILLETT",
+        "party": "Republican",
+        "votes": 4600
+      }
+    ],
+    "winner": "MILLETT",
+    "year": 2024
+  },
+  {
+    "district": "HD-03",
+    "candidates": [
+      {
+        "name": "POWERS",
+        "party": "Democratic",
+        "votes": 3554
+      },
+      {
+        "name": "MITCHELL",
+        "party": "Republican",
+        "votes": 3310
+      }
+    ],
+    "winner": "POWERS",
+    "year": 2024
+  },
+  {
+    "district": "HD-04",
+    "candidates": [
+      {
+        "name": "JORDAN",
+        "party": "Democratic",
+        "votes": 2922
+      },
+      {
+        "name": "BENNETT",
+        "party": "Republican",
+        "votes": 3171
+      }
+    ],
+    "winner": "BENNETT",
+    "year": 2024
+  },
+  {
+    "district": "HD-05",
+    "candidates": [
+      {
+        "name": "PAUGH",
+        "party": "Democratic",
+        "votes": 1654
+      },
+      {
+        "name": "MITCHELL",
+        "party": "Republican",
+        "votes": 4671
+      }
+    ],
+    "winner": "MITCHELL",
+    "year": 2024
+  },
+  {
+    "district": "HD-06",
+    "candidates": [
+      {
+        "name": "PHILLIPS SULLIVAN",
+        "party": "Democratic",
+        "votes": 2250
+      },
+      {
+        "name": "REGIER",
+        "party": "Republican",
+        "votes": 5131
+      }
+    ],
+    "winner": "REGIER",
+    "year": 2024
+  },
+  {
+    "district": "HD-07",
+    "candidates": [
+      {
+        "name": "FRETHEIM",
+        "party": "Democratic",
+        "votes": 1633
+      },
+      {
+        "name": "SPRUNGER",
+        "party": "Republican",
+        "votes": 3081
+      }
+    ],
+    "winner": "SPRUNGER",
+    "year": 2024
+  },
+  {
+    "district": "HD-08",
+    "candidates": [
+      {
+        "name": "SIBERT",
+        "party": "Democratic",
+        "votes": 1671
+      },
+      {
+        "name": "SCHUBERT",
+        "party": "Republican",
+        "votes": 4030
+      }
+    ],
+    "winner": "SCHUBERT",
+    "year": 2024
+  },
+  {
+    "district": "HD-09",
+    "candidates": [
+      {
+        "name": "MORROW",
+        "party": "Democratic",
+        "votes": 1641
+      },
+      {
+        "name": "KELLY",
+        "party": "Republican",
+        "votes": 4807
+      }
+    ],
+    "winner": "KELLY",
+    "year": 2024
+  },
+  {
+    "district": "HD-10",
+    "candidates": [
+      {
+        "name": "MARCONI",
+        "party": "Democratic",
+        "votes": 1453
+      },
+      {
+        "name": "FALK",
+        "party": "Republican",
+        "votes": 4350
+      }
+    ],
+    "winner": "FALK",
+    "year": 2024
+  },
+  {
+    "district": "HD-11",
+    "candidates": [
+      {
+        "name": "ALLEN",
+        "party": "Democratic",
+        "votes": 1665
+      },
+      {
+        "name": "BYRNE",
+        "party": "Republican",
+        "votes": 5214
+      }
+    ],
+    "winner": "BYRNE",
+    "year": 2024
+  },
+  {
+    "district": "HD-12",
+    "candidates": [
+      {
+        "name": "OLSON",
+        "party": "Democratic",
+        "votes": 2107
+      },
+      {
+        "name": "SHARP",
+        "party": "Republican",
+        "votes": 5117
+      }
+    ],
+    "winner": "SHARP",
+    "year": 2024
+  },
+  {
+    "district": "HD-13",
+    "candidates": [
+      {
+        "name": "AZZOPARDI",
+        "party": "Democratic",
+        "votes": 2322
+      },
+      {
+        "name": "REKSTEN",
+        "party": "Republican",
+        "votes": 3589
+      }
+    ],
+    "winner": "REKSTEN",
+    "year": 2024
+  },
+  {
+    "district": "HD-14",
+    "candidates": [
+      {
+        "name": "HINDS",
+        "party": "Democratic",
+        "votes": 1710
+      },
+      {
+        "name": "FIELDER",
+        "party": "Republican",
+        "votes": 5133
+      }
+    ],
+    "winner": "FIELDER",
+    "year": 2024
+  },
+  {
+    "district": "HD-15",
+    "candidates": [
+      {
+        "name": "CROWE",
+        "party": "Democratic",
+        "votes": 2087
+      },
+      {
+        "name": "FOSTER",
+        "party": "Republican",
+        "votes": 1939
+      }
+    ],
+    "winner": "CROWE",
+    "year": 2024
+  },
+  {
+    "district": "HD-16",
+    "candidates": [
+      {
+        "name": "RUNNING WOLF",
+        "party": "Democratic",
+        "votes": 2455
+      },
+      {
+        "name": "UTTERBACK MITCHELL",
+        "party": "Republican",
+        "votes": 1682
+      }
+    ],
+    "winner": "RUNNING WOLF",
+    "year": 2024
+  },
+  {
+    "district": "HD-17",
+    "candidates": [
+      {
+        "name": "BATES",
+        "party": "Democratic",
+        "votes": 1577
+      },
+      {
+        "name": "WIRTH",
+        "party": "Republican",
+        "votes": 4807
+      }
+    ],
+    "winner": "WIRTH",
+    "year": 2024
+  },
+  {
+    "district": "HD-18",
+    "candidates": [
+      {
+        "name": "ARENDS",
+        "party": "Democratic",
+        "votes": 1441
+      },
+      {
+        "name": "JONES",
+        "party": "Republican",
+        "votes": 3982
+      }
+    ],
+    "winner": "JONES",
+    "year": 2024
+  },
+  {
+    "district": "HD-19",
+    "candidates": [
+      {
+        "name": "WEBER",
+        "party": "Democratic",
+        "votes": 1798
+      },
+      {
+        "name": "TREBAS",
+        "party": "Republican",
+        "votes": 1491
+      }
+    ],
+    "winner": "WEBER",
+    "year": 2024
+  },
+  {
+    "district": "HD-20",
+    "candidates": [
+      {
+        "name": "FONTANA MOORE",
+        "party": "Democratic",
+        "votes": 2327
+      },
+      {
+        "name": "NIKOLAKAKOS",
+        "party": "Republican",
+        "votes": 2686
+      }
+    ],
+    "winner": "NIKOLAKAKOS",
+    "year": 2024
+  },
+  {
+    "district": "HD-21",
+    "candidates": [
+      {
+        "name": "GRAHAM",
+        "party": "Democratic",
+        "votes": 1758
+      },
+      {
+        "name": "BUTTREY",
+        "party": "Republican",
+        "votes": 3662
+      }
+    ],
+    "winner": "BUTTREY",
+    "year": 2024
+  },
+  {
+    "district": "HD-22",
+    "candidates": [
+      {
+        "name": "PAULICK",
+        "party": "Democratic",
+        "votes": 1225
+      },
+      {
+        "name": "NIKOLAKAKOS",
+        "party": "Republican",
+        "votes": 2017
+      }
+    ],
+    "winner": "NIKOLAKAKOS",
+    "year": 2024
+  },
+  {
+    "district": "HD-23",
+    "candidates": [
+      {
+        "name": "HOPKINS",
+        "party": "Democratic",
+        "votes": 1811
+      },
+      {
+        "name": "LEATHERBARROW",
+        "party": "Libertarian",
+        "votes": 137
+      },
+      {
+        "name": "TILLEMAN",
+        "party": "Republican",
+        "votes": 2504
+      }
+    ],
+    "winner": "TILLEMAN",
+    "year": 2024
+  },
+  {
+    "district": "HD-24",
+    "candidates": [
+      {
+        "name": "FITZPATRICK",
+        "party": "Republican",
+        "votes": 4019
+      }
+    ],
+    "winner": "FITZPATRICK",
+    "year": 2024
+  },
+  {
+    "district": "HD-25",
+    "candidates": [
+      {
+        "name": "RICKLEY",
+        "party": "Democratic",
+        "votes": 1338
+      },
+      {
+        "name": "GIST",
+        "party": "Republican",
+        "votes": 4088
+      }
+    ],
+    "winner": "GIST",
+    "year": 2024
+  },
+  {
+    "district": "HD-26",
+    "candidates": [
+      {
+        "name": "MINER",
+        "party": "Republican",
+        "votes": 5054
+      }
+    ],
+    "winner": "MINER",
+    "year": 2024
+  },
+  {
+    "district": "HD-27",
+    "candidates": [
+      {
+        "name": "TUSS",
+        "party": "Democratic",
+        "votes": 2329
+      },
+      {
+        "name": "HILL",
+        "party": "Republican",
+        "votes": 2110
+      }
+    ],
+    "winner": "TUSS",
+    "year": 2024
+  },
+  {
+    "district": "HD-28",
+    "candidates": [
+      {
+        "name": "BORST",
+        "party": "Democratic",
+        "votes": 1225
+      },
+      {
+        "name": "ALBUS",
+        "party": "Republican",
+        "votes": 4118
+      }
+    ],
+    "winner": "ALBUS",
+    "year": 2024
+  },
+  {
+    "district": "HD-29",
+    "candidates": [
+      {
+        "name": "MOORE",
+        "party": "Republican",
+        "votes": 5026
+      }
+    ],
+    "winner": "MOORE",
+    "year": 2024
+  },
+  {
+    "district": "HD-30",
+    "candidates": [
+      {
+        "name": "THIEL",
+        "party": "Republican",
+        "votes": 4281
+      }
+    ],
+    "winner": "THIEL",
+    "year": 2024
+  },
+  {
+    "district": "HD-31",
+    "candidates": [
+      {
+        "name": "SMITH",
+        "party": "Democratic",
+        "votes": 2182
+      },
+      {
+        "name": "TAYLOR",
+        "party": "Republican",
+        "votes": 1461
+      }
+    ],
+    "winner": "SMITH",
+    "year": 2024
+  },
+  {
+    "district": "HD-32",
+    "candidates": [
+      {
+        "name": "FOX",
+        "party": "Democratic",
+        "votes": 2240
+      },
+      {
+        "name": "ULRICH",
+        "party": "Republican",
+        "votes": 1507
+      }
+    ],
+    "winner": "FOX",
+    "year": 2024
+  },
+  {
+    "district": "HD-33",
+    "candidates": [
+      {
+        "name": "LER",
+        "party": "Republican",
+        "votes": 4576
+      }
+    ],
+    "winner": "LER",
+    "year": 2024
+  },
+  {
+    "district": "HD-34",
+    "candidates": [
+      {
+        "name": "SCHILLINGER",
+        "party": "Republican",
+        "votes": 5554
+      }
+    ],
+    "winner": "SCHILLINGER",
+    "year": 2024
+  },
+  {
+    "district": "HD-35",
+    "candidates": [
+      {
+        "name": "KREIDER",
+        "party": "Democratic",
+        "votes": 1144
+      },
+      {
+        "name": "PARRY",
+        "party": "Republican",
+        "votes": 4780
+      }
+    ],
+    "winner": "PARRY",
+    "year": 2024
+  },
+  {
+    "district": "HD-36",
+    "candidates": [
+      {
+        "name": "TAYLOR",
+        "party": "Democratic",
+        "votes": 1519
+      },
+      {
+        "name": "KMETZ",
+        "party": "Republican",
+        "votes": 3558
+      }
+    ],
+    "winner": "KMETZ",
+    "year": 2024
+  },
+  {
+    "district": "HD-37",
+    "candidates": [
+      {
+        "name": "PAYNE",
+        "party": "Democratic",
+        "votes": 1614
+      },
+      {
+        "name": "KLAKKEN",
+        "party": "Republican",
+        "votes": 4684
+      }
+    ],
+    "winner": "KLAKKEN",
+    "year": 2024
+  },
+  {
+    "district": "HD-38",
+    "candidates": [
+      {
+        "name": "OBLANDER",
+        "party": "Republican",
+        "votes": 5894
+      }
+    ],
+    "winner": "OBLANDER",
+    "year": 2024
+  },
+  {
+    "district": "HD-39",
+    "candidates": [
+      {
+        "name": "SMITH",
+        "party": "Democratic",
+        "votes": 1624
+      },
+      {
+        "name": "SEEKINS-CROWE",
+        "party": "Republican",
+        "votes": 3151
+      }
+    ],
+    "winner": "SEEKINS-CROWE",
+    "year": 2024
+  },
+  {
+    "district": "HD-40",
+    "candidates": [
+      {
+        "name": "AUCH",
+        "party": "Democratic",
+        "votes": 1261
+      },
+      {
+        "name": "VINTON",
+        "party": "Republican",
+        "votes": 3679
+      }
+    ],
+    "winner": "VINTON",
+    "year": 2024
+  },
+  {
+    "district": "HD-41",
+    "candidates": [
+      {
+        "name": "SOOKTIS",
+        "party": "Democratic",
+        "votes": 1839
+      },
+      {
+        "name": "WALLOWING BULL",
+        "party": "Republican",
+        "votes": 1042
+      }
+    ],
+    "winner": "SOOKTIS",
+    "year": 2024
+  },
+  {
+    "district": "HD-42",
+    "candidates": [
+      {
+        "name": "FITZPATRICK",
+        "party": "Democratic",
+        "votes": 1922
+      },
+      {
+        "name": "HODGES",
+        "party": "Republican",
+        "votes": 1735
+      }
+    ],
+    "winner": "FITZPATRICK",
+    "year": 2024
+  },
+  {
+    "district": "HD-43",
+    "candidates": [
+      {
+        "name": "CLARK",
+        "party": "Democratic",
+        "votes": 1649
+      },
+      {
+        "name": "BREWSTER",
+        "party": "Republican",
+        "votes": 2965
+      }
+    ],
+    "winner": "BREWSTER",
+    "year": 2024
+  },
+  {
+    "district": "HD-44",
+    "candidates": [
+      {
+        "name": "ZOLNIKOV",
+        "party": "Republican",
+        "votes": 4508
+      }
+    ],
+    "winner": "ZOLNIKOV",
+    "year": 2024
+  },
+  {
+    "district": "HD-45",
+    "candidates": [
+      {
+        "name": "BAUM",
+        "party": "Democratic",
+        "votes": 2603
+      },
+      {
+        "name": "OLSON",
+        "party": "Republican",
+        "votes": 2314
+      }
+    ],
+    "winner": "BAUM",
+    "year": 2024
+  },
+  {
+    "district": "HD-46",
+    "candidates": [
+      {
+        "name": "KERR CARPENTER",
+        "party": "Democratic",
+        "votes": 2507
+      },
+      {
+        "name": "EMERY",
+        "party": "Republican",
+        "votes": 2231
+      }
+    ],
+    "winner": "KERR CARPENTER",
+    "year": 2024
+  },
+  {
+    "district": "HD-47",
+    "candidates": [
+      {
+        "name": "REAVIS",
+        "party": "Democratic",
+        "votes": 1819
+      },
+      {
+        "name": "MONCADA",
+        "party": "Republican",
+        "votes": 1621
+      }
+    ],
+    "winner": "REAVIS",
+    "year": 2024
+  },
+  {
+    "district": "HD-48",
+    "candidates": [
+      {
+        "name": "ROSS",
+        "party": "Democratic",
+        "votes": 1924
+      },
+      {
+        "name": "SCHOMER",
+        "party": "Republican",
+        "votes": 2565
+      }
+    ],
+    "winner": "SCHOMER",
+    "year": 2024
+  },
+  {
+    "district": "HD-49",
+    "candidates": [
+      {
+        "name": "HADEN",
+        "party": "Democratic",
+        "votes": 1841
+      },
+      {
+        "name": "ESSMANN",
+        "party": "Republican",
+        "votes": 3063
+      }
+    ],
+    "winner": "ESSMANN",
+    "year": 2024
+  },
+  {
+    "district": "HD-50",
+    "candidates": [
+      {
+        "name": "GIESICK",
+        "party": "Democratic",
+        "votes": 2053
+      },
+      {
+        "name": "NICASTRO",
+        "party": "Republican",
+        "votes": 4019
+      }
+    ],
+    "winner": "NICASTRO",
+    "year": 2024
+  },
+  {
+    "district": "HD-51",
+    "candidates": [
+      {
+        "name": "HAFER",
+        "party": "Independent",
+        "votes": 2320
+      },
+      {
+        "name": "ETCHART",
+        "party": "Republican",
+        "votes": 3124
+      }
+    ],
+    "winner": "ETCHART",
+    "year": 2024
+  },
+  {
+    "district": "HD-52",
+    "candidates": [
+      {
+        "name": "BOERNER",
+        "party": "Democratic",
+        "votes": 2162
+      },
+      {
+        "name": "MERCER",
+        "party": "Republican",
+        "votes": 4522
+      }
+    ],
+    "winner": "MERCER",
+    "year": 2024
+  },
+  {
+    "district": "HD-53",
+    "candidates": [
+      {
+        "name": "KERNS",
+        "party": "Democratic",
+        "votes": 1536
+      },
+      {
+        "name": "NICOL",
+        "party": "Republican",
+        "votes": 4838
+      }
+    ],
+    "winner": "NICOL",
+    "year": 2024
+  },
+  {
+    "district": "HD-54",
+    "candidates": [
+      {
+        "name": "DEMING",
+        "party": "Republican",
+        "votes": 4247
+      }
+    ],
+    "winner": "DEMING",
+    "year": 2024
+  },
+  {
+    "district": "HD-55",
+    "candidates": [
+      {
+        "name": "GILLAN",
+        "party": "Democratic",
+        "votes": 2546
+      },
+      {
+        "name": "BARKER",
+        "party": "Republican",
+        "votes": 4931
+      }
+    ],
+    "winner": "BARKER",
+    "year": 2024
+  },
+  {
+    "district": "HD-56",
+    "candidates": [
+      {
+        "name": "NAVE",
+        "party": "Republican",
+        "votes": 6005
+      }
+    ],
+    "winner": "NAVE",
+    "year": 2024
+  },
+  {
+    "district": "HD-57",
+    "candidates": [
+      {
+        "name": "ROSENZWEIG",
+        "party": "Democratic",
+        "votes": 3803
+      },
+      {
+        "name": "MALONE",
+        "party": "Republican",
+        "votes": 3783
+      }
+    ],
+    "winner": "ROSENZWEIG",
+    "year": 2024
+  },
+  {
+    "district": "HD-58",
+    "candidates": [
+      {
+        "name": "ISALY",
+        "party": "Democratic",
+        "votes": 3690
+      },
+      {
+        "name": "GUNDERSON",
+        "party": "Republican",
+        "votes": 3196
+      }
+    ],
+    "winner": "ISALY",
+    "year": 2024
+  },
+  {
+    "district": "HD-59",
+    "candidates": [
+      {
+        "name": "STAFMAN",
+        "party": "Democratic",
+        "votes": 4851
+      },
+      {
+        "name": "GREENDORFER",
+        "party": "Republican",
+        "votes": 2871
+      }
+    ],
+    "winner": "STAFMAN",
+    "year": 2024
+  },
+  {
+    "district": "HD-60",
+    "candidates": [
+      {
+        "name": "GRIFFITH",
+        "party": "Democratic",
+        "votes": 3338
+      },
+      {
+        "name": "JOHNSON",
+        "party": "Republican",
+        "votes": 3062
+      }
+    ],
+    "winner": "GRIFFITH",
+    "year": 2024
+  },
+  {
+    "district": "HD-61",
+    "candidates": [
+      {
+        "name": "EDWARDS",
+        "party": "Democratic",
+        "votes": 2695
+      },
+      {
+        "name": "CARLSON",
+        "party": "Republican",
+        "votes": 1082
+      }
+    ],
+    "winner": "EDWARDS",
+    "year": 2024
+  },
+  {
+    "district": "HD-62",
+    "candidates": [
+      {
+        "name": "SECKINGER",
+        "party": "Democratic",
+        "votes": 2926
+      },
+      {
+        "name": "LANG",
+        "party": "Republican",
+        "votes": 2804
+      }
+    ],
+    "winner": "SECKINGER",
+    "year": 2024
+  },
+  {
+    "district": "HD-63",
+    "candidates": [
+      {
+        "name": "STRAND",
+        "party": "Democratic",
+        "votes": 3255
+      },
+      {
+        "name": "LEWIS",
+        "party": "Republican",
+        "votes": 2838
+      }
+    ],
+    "winner": "STRAND",
+    "year": 2024
+  },
+  {
+    "district": "HD-64",
+    "candidates": [
+      {
+        "name": "KORTUM",
+        "party": "Democratic",
+        "votes": 3177
+      },
+      {
+        "name": "CRUM",
+        "party": "Republican",
+        "votes": 2673
+      }
+    ],
+    "winner": "KORTUM",
+    "year": 2024
+  },
+  {
+    "district": "HD-65",
+    "candidates": [
+      {
+        "name": "CLOSE",
+        "party": "Democratic",
+        "votes": 3456
+      },
+      {
+        "name": "FISHBAUGH",
+        "party": "Republican",
+        "votes": 2746
+      }
+    ],
+    "winner": "CLOSE",
+    "year": 2024
+  },
+  {
+    "district": "HD-66",
+    "candidates": [
+      {
+        "name": "MATTHEWS",
+        "party": "Democratic",
+        "votes": 4009
+      },
+      {
+        "name": "DAVIS",
+        "party": "Republican",
+        "votes": 3057
+      }
+    ],
+    "winner": "MATTHEWS",
+    "year": 2024
+  },
+  {
+    "district": "HD-67",
+    "candidates": [
+      {
+        "name": "ANDERSON",
+        "party": "Democratic",
+        "votes": 2170
+      },
+      {
+        "name": "HINKLE",
+        "party": "Republican",
+        "votes": 3757
+      }
+    ],
+    "winner": "HINKLE",
+    "year": 2024
+  },
+  {
+    "district": "HD-68",
+    "candidates": [
+      {
+        "name": "COLAFRANCESCO",
+        "party": "Democratic",
+        "votes": 1500
+      },
+      {
+        "name": "HINKLE",
+        "party": "Republican",
+        "votes": 4283
+      }
+    ],
+    "winner": "HINKLE",
+    "year": 2024
+  },
+  {
+    "district": "HD-69",
+    "candidates": [
+      {
+        "name": "WALSH",
+        "party": "Republican",
+        "votes": 6222
+      }
+    ],
+    "winner": "WALSH",
+    "year": 2024
+  },
+  {
+    "district": "HD-70",
+    "candidates": [
+      {
+        "name": "MANESS",
+        "party": "Republican",
+        "votes": 5384
+      }
+    ],
+    "winner": "MANESS",
+    "year": 2024
+  },
+  {
+    "district": "HD-71",
+    "candidates": [
+      {
+        "name": "DEMAROIS",
+        "party": "Democratic",
+        "votes": 3375
+      },
+      {
+        "name": "STEIGER",
+        "party": "Republican",
+        "votes": 2083
+      }
+    ],
+    "winner": "DEMAROIS",
+    "year": 2024
+  },
+  {
+    "district": "HD-72",
+    "candidates": [
+      {
+        "name": "HAWK",
+        "party": "Democratic",
+        "votes": 3081
+      },
+      {
+        "name": "JOHNSON",
+        "party": "Republican",
+        "votes": 1859
+      }
+    ],
+    "winner": "HAWK",
+    "year": 2024
+  },
+  {
+    "district": "HD-73",
+    "candidates": [
+      {
+        "name": "LYNCH",
+        "party": "Democratic",
+        "votes": 2766
+      },
+      {
+        "name": "TOMASZEWSKI",
+        "party": "Republican",
+        "votes": 1716
+      }
+    ],
+    "winner": "LYNCH",
+    "year": 2024
+  },
+  {
+    "district": "HD-74",
+    "candidates": [
+      {
+        "name": "LEE",
+        "party": "Democratic",
+        "votes": 3744
+      },
+      {
+        "name": "BAYLESS",
+        "party": "Republican",
+        "votes": 2364
+      }
+    ],
+    "winner": "LEE",
+    "year": 2024
+  },
+  {
+    "district": "HD-75",
+    "candidates": [
+      {
+        "name": "LIEN",
+        "party": "Democratic",
+        "votes": 2097
+      },
+      {
+        "name": "BERTOGLIO",
+        "party": "Republican",
+        "votes": 5166
+      }
+    ],
+    "winner": "BERTOGLIO",
+    "year": 2024
+  },
+  {
+    "district": "HD-76",
+    "candidates": [
+      {
+        "name": "GAGLIANO",
+        "party": "Libertarian",
+        "votes": 1361
+      },
+      {
+        "name": "FITZPATRICK",
+        "party": "Republican",
+        "votes": 4957
+      }
+    ],
+    "winner": "FITZPATRICK",
+    "year": 2024
+  },
+  {
+    "district": "HD-77",
+    "candidates": [
+      {
+        "name": "DAWSON",
+        "party": "Democratic",
+        "votes": 1492
+      },
+      {
+        "name": "GILLETTE",
+        "party": "Republican",
+        "votes": 5458
+      }
+    ],
+    "winner": "GILLETTE",
+    "year": 2024
+  },
+  {
+    "district": "HD-78",
+    "candidates": [
+      {
+        "name": "LAMBERT",
+        "party": "Democratic",
+        "votes": 1357
+      },
+      {
+        "name": "GREGG",
+        "party": "Republican",
+        "votes": 4877
+      }
+    ],
+    "winner": "GREGG",
+    "year": 2024
+  },
+  {
+    "district": "HD-79",
+    "candidates": [
+      {
+        "name": "MUSZKIEWICZ",
+        "party": "Democratic",
+        "votes": 3678
+      },
+      {
+        "name": "SARK",
+        "party": "Republican",
+        "votes": 3194
+      }
+    ],
+    "winner": "MUSZKIEWICZ",
+    "year": 2024
+  },
+  {
+    "district": "HD-80",
+    "candidates": [
+      {
+        "name": "ROMANO",
+        "party": "Democratic",
+        "votes": 2937
+      },
+      {
+        "name": "BURRIGHT",
+        "party": "Republican",
+        "votes": 2520
+      }
+    ],
+    "winner": "ROMANO",
+    "year": 2024
+  },
+  {
+    "district": "HD-81",
+    "candidates": [
+      {
+        "name": "CAFERRO",
+        "party": "Democratic",
+        "votes": 3498
+      },
+      {
+        "name": "SCOTT",
+        "party": "Republican",
+        "votes": 2801
+      }
+    ],
+    "winner": "CAFERRO",
+    "year": 2024
+  },
+  {
+    "district": "HD-82",
+    "candidates": [
+      {
+        "name": "ELVERUM",
+        "party": "Democratic",
+        "votes": 2990
+      },
+      {
+        "name": "LOONEY",
+        "party": "Republican",
+        "votes": 2459
+      }
+    ],
+    "winner": "ELVERUM",
+    "year": 2024
+  },
+  {
+    "district": "HD-83",
+    "candidates": [
+      {
+        "name": "COHENOUR",
+        "party": "Democratic",
+        "votes": 3549
+      },
+      {
+        "name": "FEIST",
+        "party": "Republican",
+        "votes": 2830
+      }
+    ],
+    "winner": "COHENOUR",
+    "year": 2024
+  },
+  {
+    "district": "HD-84",
+    "candidates": [
+      {
+        "name": "CREPEAU",
+        "party": "Democratic",
+        "votes": 2312
+      },
+      {
+        "name": "DOOLING",
+        "party": "Republican",
+        "votes": 4770
+      }
+    ],
+    "winner": "DOOLING",
+    "year": 2024
+  },
+  {
+    "district": "HD-85",
+    "candidates": [
+      {
+        "name": "JACKSON",
+        "party": "Democratic",
+        "votes": 1692
+      },
+      {
+        "name": "LOVE",
+        "party": "Republican",
+        "votes": 5716
+      }
+    ],
+    "winner": "LOVE",
+    "year": 2024
+  },
+  {
+    "district": "HD-86",
+    "candidates": [
+      {
+        "name": "KEMPKA",
+        "party": "Democratic",
+        "votes": 1891
+      },
+      {
+        "name": "BEDEY",
+        "party": "Republican",
+        "votes": 4798
+      }
+    ],
+    "winner": "BEDEY",
+    "year": 2024
+  },
+  {
+    "district": "HD-87",
+    "candidates": [
+      {
+        "name": "MILLIGAN",
+        "party": "Democratic",
+        "votes": 1846
+      },
+      {
+        "name": "MARSHALL",
+        "party": "Republican",
+        "votes": 5457
+      }
+    ],
+    "winner": "MARSHALL",
+    "year": 2024
+  },
+  {
+    "district": "HD-88",
+    "candidates": [
+      {
+        "name": "SCHROEDEL",
+        "party": "Democratic",
+        "votes": 2183
+      },
+      {
+        "name": "OVERSTREET",
+        "party": "Republican",
+        "votes": 5086
+      }
+    ],
+    "winner": "OVERSTREET",
+    "year": 2024
+  },
+  {
+    "district": "HD-89",
+    "candidates": [
+      {
+        "name": "THANE",
+        "party": "Democratic",
+        "votes": 3590
+      },
+      {
+        "name": "HELLEGAARD",
+        "party": "Republican",
+        "votes": 2868
+      }
+    ],
+    "winner": "THANE",
+    "year": 2024
+  },
+  {
+    "district": "HD-90",
+    "candidates": [
+      {
+        "name": "COCHRAN",
+        "party": "Republican",
+        "votes": 5381
+      }
+    ],
+    "winner": "COCHRAN",
+    "year": 2024
+  },
+  {
+    "district": "HD-91",
+    "candidates": [
+      {
+        "name": "FYANT",
+        "party": "Democratic",
+        "votes": 3249
+      },
+      {
+        "name": "PASSIERI",
+        "party": "Republican",
+        "votes": 2745
+      }
+    ],
+    "winner": "FYANT",
+    "year": 2024
+  },
+  {
+    "district": "HD-92",
+    "candidates": [
+      {
+        "name": "KEOGH",
+        "party": "Democratic",
+        "votes": 4059
+      },
+      {
+        "name": "MORGAN",
+        "party": "Republican",
+        "votes": 2587
+      }
+    ],
+    "winner": "KEOGH",
+    "year": 2024
+  },
+  {
+    "district": "HD-93",
+    "candidates": [
+      {
+        "name": "SULLIVAN",
+        "party": "Democratic",
+        "votes": 4024
+      },
+      {
+        "name": "HANDLEY",
+        "party": "Republican",
+        "votes": 2472
+      }
+    ],
+    "winner": "SULLIVAN",
+    "year": 2024
+  },
+  {
+    "district": "HD-94",
+    "candidates": [
+      {
+        "name": "MARLER",
+        "party": "Democratic",
+        "votes": 4076
+      },
+      {
+        "name": "HENSON",
+        "party": "Republican",
+        "votes": 2846
+      }
+    ],
+    "winner": "MARLER",
+    "year": 2024
+  },
+  {
+    "district": "HD-95",
+    "candidates": [
+      {
+        "name": "ZEPHYR",
+        "party": "Democratic",
+        "votes": 5189
+      },
+      {
+        "name": "STARMER",
+        "party": "Republican",
+        "votes": 1309
+      }
+    ],
+    "winner": "ZEPHYR",
+    "year": 2024
+  },
+  {
+    "district": "HD-96",
+    "candidates": [
+      {
+        "name": "CARTER",
+        "party": "Democratic",
+        "votes": 3684
+      },
+      {
+        "name": "LABAIR",
+        "party": "Republican",
+        "votes": 2394
+      }
+    ],
+    "winner": "CARTER",
+    "year": 2024
+  },
+  {
+    "district": "HD-97",
+    "candidates": [
+      {
+        "name": "CUNNINGHAM",
+        "party": "Democratic",
+        "votes": 3651
+      },
+      {
+        "name": "ARMERDING",
+        "party": "Libertarian",
+        "votes": 247
+      },
+      {
+        "name": "KNOWLES",
+        "party": "Republican",
+        "votes": 2152
+      }
+    ],
+    "winner": "CUNNINGHAM",
+    "year": 2024
+  },
+  {
+    "district": "HD-98",
+    "candidates": [
+      {
+        "name": "KARLEN",
+        "party": "Democratic",
+        "votes": 3684
+      },
+      {
+        "name": "BEARD",
+        "party": "Republican",
+        "votes": 2700
+      }
+    ],
+    "winner": "KARLEN",
+    "year": 2024
+  },
+  {
+    "district": "HD-99",
+    "candidates": [
+      {
+        "name": "FRANCE",
+        "party": "Democratic",
+        "votes": 3757
+      },
+      {
+        "name": "DARLING",
+        "party": "Republican",
+        "votes": 2958
+      }
+    ],
+    "winner": "FRANCE",
+    "year": 2024
+  },
+  {
+    "district": "HD-100",
+    "candidates": [
+      {
+        "name": "HOWELL",
+        "party": "Democratic",
+        "votes": 4440
+      },
+      {
+        "name": "BUCKLES",
+        "party": "Republican",
+        "votes": 1274
+      }
+    ],
+    "winner": "HOWELL",
+    "year": 2024
+  },
+  {
+    "district": "SD-02",
+    "candidates": [
+      {
+        "name": "FERN",
+        "party": "Democratic",
+        "votes": 6860
+      },
+      {
+        "name": "ADAMS",
+        "party": "Republican",
+        "votes": 6227
+      }
+    ],
+    "winner": "FERN",
+    "year": 2024
+  },
+  {
+    "district": "SD-03",
+    "candidates": [
+      {
+        "name": "KENNEDY",
+        "party": "Democratic",
+        "votes": 4100
+      },
+      {
+        "name": "GLIMM",
+        "party": "Republican",
+        "votes": 9590
+      }
+    ],
+    "winner": "GLIMM",
+    "year": 2024
+  },
+  {
+    "district": "SD-05",
+    "candidates": [
+      {
+        "name": "NEIMARK",
+        "party": "Democratic",
+        "votes": 3162
+      },
+      {
+        "name": "REGIER",
+        "party": "Republican",
+        "votes": 9157
+      }
+    ],
+    "winner": "REGIER",
+    "year": 2024
+  },
+  {
+    "district": "SD-07",
+    "candidates": [
+      {
+        "name": "PABLO",
+        "party": "Democratic",
+        "votes": 3472
+      },
+      {
+        "name": "HERTZ",
+        "party": "Republican",
+        "votes": 9271
+      }
+    ],
+    "winner": "HERTZ",
+    "year": 2024
+  },
+  {
+    "district": "SD-13",
+    "candidates": [
+      {
+        "name": "KASSMIER",
+        "party": "Republican",
+        "votes": 9676
+      }
+    ],
+    "winner": "KASSMIER",
+    "year": 2024
+  },
+  {
+    "district": "SD-15",
+    "candidates": [
+      {
+        "name": "HUNTER",
+        "party": "Republican",
+        "votes": 9311
+      }
+    ],
+    "winner": "HUNTER",
+    "year": 2024
+  },
+  {
+    "district": "SD-16",
+    "candidates": [
+      {
+        "name": "WINDY BOY",
+        "party": "Democratic",
+        "votes": 4554
+      },
+      {
+        "name": "JACOBS",
+        "party": "Republican",
+        "votes": 2902
+      }
+    ],
+    "winner": "WINDY BOY",
+    "year": 2024
+  },
+  {
+    "district": "SD-17",
+    "candidates": [
+      {
+        "name": "PHALEN",
+        "party": "Republican",
+        "votes": 10096
+      }
+    ],
+    "winner": "PHALEN",
+    "year": 2024
+  },
+  {
+    "district": "SD-20",
+    "candidates": [
+      {
+        "name": "AUCH",
+        "party": "Democratic",
+        "votes": 2841
+      },
+      {
+        "name": "VINTON",
+        "party": "Republican",
+        "votes": 6820
+      }
+    ],
+    "winner": "VINTON",
+    "year": 2024
+  },
+  {
+    "district": "SD-21",
+    "candidates": [
+      {
+        "name": "PEREGOY",
+        "party": "Democratic",
+        "votes": 2885
+      },
+      {
+        "name": "LAMMERS",
+        "party": "Republican",
+        "votes": 3796
+      }
+    ],
+    "winner": "LAMMERS",
+    "year": 2024
+  },
+  {
+    "district": "SD-24",
+    "candidates": [
+      {
+        "name": "NICHOLSON",
+        "party": "Democratic",
+        "votes": 3675
+      },
+      {
+        "name": "YAKAWICH",
+        "party": "Republican",
+        "votes": 4283
+      }
+    ],
+    "winner": "YAKAWICH",
+    "year": 2024
+  },
+  {
+    "district": "SD-26",
+    "candidates": [
+      {
+        "name": "LYNCOLN",
+        "party": "Democratic",
+        "votes": 4347
+      },
+      {
+        "name": "MCGILLVRAY",
+        "party": "Republican",
+        "votes": 7696
+      }
+    ],
+    "winner": "MCGILLVRAY",
+    "year": 2024
+  },
+  {
+    "district": "SD-27",
+    "candidates": [
+      {
+        "name": "GILLULY",
+        "party": "Democratic",
+        "votes": 2942
+      },
+      {
+        "name": "RICCI",
+        "party": "Republican",
+        "votes": 8446
+      }
+    ],
+    "winner": "RICCI",
+    "year": 2024
+  },
+  {
+    "district": "SD-30",
+    "candidates": [
+      {
+        "name": "NEUMANN",
+        "party": "Democratic",
+        "votes": 8221
+      },
+      {
+        "name": "ROGERS",
+        "party": "Republican",
+        "votes": 5853
+      }
+    ],
+    "winner": "NEUMANN",
+    "year": 2024
+  },
+  {
+    "district": "SD-33",
+    "candidates": [
+      {
+        "name": "POPE",
+        "party": "Democratic",
+        "votes": 7534
+      },
+      {
+        "name": "GANSER",
+        "party": "Republican",
+        "votes": 5772
+      }
+    ],
+    "winner": "POPE",
+    "year": 2024
+  },
+  {
+    "district": "SD-35",
+    "candidates": [
+      {
+        "name": "TEZAK",
+        "party": "Republican",
+        "votes": 11666
+      }
+    ],
+    "winner": "TEZAK",
+    "year": 2024
+  },
+  {
+    "district": "SD-36",
+    "candidates": [
+      {
+        "name": "NOVAK",
+        "party": "Democratic",
+        "votes": 6549
+      },
+      {
+        "name": "NEWMAN",
+        "party": "Republican",
+        "votes": 3948
+      }
+    ],
+    "winner": "NOVAK",
+    "year": 2024
+  },
+  {
+    "district": "SD-37",
+    "candidates": [
+      {
+        "name": "HARVEY",
+        "party": "Democratic",
+        "votes": 6291
+      },
+      {
+        "name": "KEPHART",
+        "party": "Republican",
+        "votes": 4226
+      }
+    ],
+    "winner": "HARVEY",
+    "year": 2024
+  },
+  {
+    "district": "SD-38",
+    "candidates": [
+      {
+        "name": "BENSON",
+        "party": "Democratic",
+        "votes": 3819
+      },
+      {
+        "name": "BEARD",
+        "party": "Republican",
+        "votes": 10056
+      }
+    ],
+    "winner": "BEARD",
+    "year": 2024
+  },
+  {
+    "district": "SD-39",
+    "candidates": [
+      {
+        "name": "SHULTZ",
+        "party": "Democratic",
+        "votes": 2896
+      },
+      {
+        "name": "GALT",
+        "party": "Republican",
+        "votes": 10302
+      }
+    ],
+    "winner": "GALT",
+    "year": 2024
+  },
+  {
+    "district": "SD-40",
+    "candidates": [
+      {
+        "name": "SMITH",
+        "party": "Democratic",
+        "votes": 6633
+      },
+      {
+        "name": "GUTHRIE",
+        "party": "Republican",
+        "votes": 5713
+      }
+    ],
+    "winner": "SMITH",
+    "year": 2024
+  },
+  {
+    "district": "SD-44",
+    "candidates": [
+      {
+        "name": "SCATOLINI",
+        "party": "Democratic",
+        "votes": 4054
+      },
+      {
+        "name": "MANZELLA",
+        "party": "Republican",
+        "votes": 10349
+      }
+    ],
+    "winner": "MANZELLA",
+    "year": 2024
+  },
+  {
+    "district": "SD-45",
+    "candidates": [
+      {
+        "name": "JACKSON",
+        "party": "Democratic",
+        "votes": 4321
+      },
+      {
+        "name": "DURBIN-WILLIAMS",
+        "party": "Independent",
+        "votes": 1029
+      },
+      {
+        "name": "LOGE",
+        "party": "Republican",
+        "votes": 7714
+      }
+    ],
+    "winner": "LOGE",
+    "year": 2024
+  },
+  {
+    "district": "SD-46",
+    "candidates": [
+      {
+        "name": "MORIGEAU",
+        "party": "Democratic",
+        "votes": 7328
+      },
+      {
+        "name": "HEADLEY",
+        "party": "Republican",
+        "votes": 5252
+      }
+    ],
+    "winner": "MORIGEAU",
+    "year": 2024
+  },
+  {
+    "district": "SD-47",
+    "candidates": [
+      {
+        "name": "HILL BOLDMAN",
+        "party": "Democratic",
+        "votes": 7858
+      },
+      {
+        "name": "MAKI",
+        "party": "Republican",
+        "votes": 5486
+      }
+    ],
+    "winner": "HILL BOLDMAN",
+    "year": 2024
+  },
+  {
+    "district": "SD-01",
+    "candidates": [
+      {
+        "name": "CUFFE",
+        "party": "Republican",
+        "votes": 7586
+      }
+    ],
+    "winner": "CUFFE",
+    "year": 2022
+  },
+  {
+    "district": "SD-04",
+    "candidates": [
+      {
+        "name": "WATERMAN",
+        "party": "Democratic",
+        "votes": 3149
+      },
+      {
+        "name": "FULLER",
+        "party": "Republican",
+        "votes": 5180
+      }
+    ],
+    "winner": "FULLER",
+    "year": 2022
+  },
+  {
+    "district": "SD-08",
+    "candidates": [
+      {
+        "name": "WEBBER",
+        "party": "Democratic",
+        "votes": 2675
+      },
+      {
+        "name": "JENNISON",
+        "party": "Republican",
+        "votes": 1996
+      }
+    ],
+    "winner": "WEBBER",
+    "year": 2022
+  },
+  {
+    "district": "SD-09",
+    "candidates": [
+      {
+        "name": "GILLESPIE",
+        "party": "Republican",
+        "votes": 6780
+      }
+    ],
+    "winner": "GILLESPIE",
+    "year": 2022
+  },
+  {
+    "district": "SD-11",
+    "candidates": [
+      {
+        "name": "JACOBSON",
+        "party": "Democratic",
+        "votes": 3276
+      },
+      {
+        "name": "EMRICH",
+        "party": "Republican",
+        "votes": 3683
+      }
+    ],
+    "winner": "EMRICH",
+    "year": 2022
+  },
+  {
+    "district": "SD-12",
+    "candidates": [
+      {
+        "name": "BACHMEIER",
+        "party": "Democratic",
+        "votes": 2641
+      },
+      {
+        "name": "MCKAMEY",
+        "party": "Republican",
+        "votes": 3358
+      }
+    ],
+    "winner": "MCKAMEY",
+    "year": 2022
+  },
+  {
+    "district": "SD-14",
+    "candidates": [
+      {
+        "name": "BREWER",
+        "party": "Democratic",
+        "votes": 2231
+      },
+      {
+        "name": "TEMPEL",
+        "party": "Republican",
+        "votes": 5624
+      }
+    ],
+    "winner": "TEMPEL",
+    "year": 2022
+  },
+  {
+    "district": "SD-19",
+    "candidates": [
+      {
+        "name": "USHER",
+        "party": "Republican",
+        "votes": 7739
+      }
+    ],
+    "winner": "USHER",
+    "year": 2022
+  },
+  {
+    "district": "SD-22",
+    "candidates": [
+      {
+        "name": "DENNIS",
+        "party": "Democratic",
+        "votes": 2529
+      },
+      {
+        "name": "ZOLNIKOV",
+        "party": "Republican",
+        "votes": 4853
+      }
+    ],
+    "winner": "ZOLNIKOV",
+    "year": 2022
+  },
+  {
+    "district": "SD-29",
+    "candidates": [
+      {
+        "name": "ISALY",
+        "party": "Democratic",
+        "votes": 4879
+      },
+      {
+        "name": "ESP",
+        "party": "Republican",
+        "votes": 6041
+      }
+    ],
+    "winner": "ESP",
+    "year": 2022
+  },
+  {
+    "district": "SD-32",
+    "candidates": [
+      {
+        "name": "HAYMAN",
+        "party": "Democratic",
+        "votes": 8039
+      },
+      {
+        "name": "DEWIS",
+        "party": "Republican",
+        "votes": 3799
+      }
+    ],
+    "winner": "HAYMAN",
+    "year": 2022
+  },
+  {
+    "district": "SD-34",
+    "candidates": [
+      {
+        "name": "LYNN",
+        "party": "Democratic",
+        "votes": 3683
+      },
+      {
+        "name": "VANCE",
+        "party": "Republican",
+        "votes": 6516
+      }
+    ],
+    "winner": "VANCE",
+    "year": 2022
+  },
+  {
+    "district": "SD-41",
+    "candidates": [
+      {
+        "name": "ELLIS",
+        "party": "Democratic",
+        "votes": 5423
+      },
+      {
+        "name": "GALT",
+        "party": "Republican",
+        "votes": 4372
+      }
+    ],
+    "winner": "ELLIS",
+    "year": 2022
+  },
+  {
+    "district": "SD-42",
+    "candidates": [
+      {
+        "name": "DUNWELL",
+        "party": "Democratic",
+        "votes": 5071
+      },
+      {
+        "name": "OLSON",
+        "party": "Republican",
+        "votes": 4103
+      }
+    ],
+    "winner": "DUNWELL",
+    "year": 2022
+  },
+  {
+    "district": "SD-43",
+    "candidates": [
+      {
+        "name": "SCHNEEBERGER",
+        "party": "Democratic",
+        "votes": 3766
+      },
+      {
+        "name": "ELLSWORTH",
+        "party": "Republican",
+        "votes": 7868
+      }
+    ],
+    "winner": "ELLSWORTH",
+    "year": 2022
+  },
+  {
+    "district": "SD-48",
+    "candidates": [
+      {
+        "name": "OLSEN",
+        "party": "Democratic",
+        "votes": 7455
+      },
+      {
+        "name": "KNOWLES",
+        "party": "Republican",
+        "votes": 2808
+      }
+    ],
+    "winner": "OLSEN",
+    "year": 2022
+  },
+  {
+    "district": "SD-49",
+    "candidates": [
+      {
+        "name": "CURDY",
+        "party": "Democratic",
+        "votes": 5630
+      },
+      {
+        "name": "TSCHIDA",
+        "party": "Republican",
+        "votes": 4714
+      }
+    ],
+    "winner": "CURDY",
+    "year": 2022
+  },
+  {
+    "district": "SD-50",
+    "candidates": [
+      {
+        "name": "MORIGEAU",
+        "party": "Democratic",
+        "votes": 6329
+      },
+      {
+        "name": "VAN HORN",
+        "party": "Republican",
+        "votes": 3579
+      }
+    ],
+    "winner": "MORIGEAU",
+    "year": 2022
+  },
+  {
+    "district": "SD-06",
+    "candidates": [
+      {
+        "name": "NOLAND",
+        "party": "Republican",
+        "votes": 7995
+      }
+    ],
+    "winner": "NOLAND",
+    "year": 2022
+  },
+  {
+    "district": "SD-10",
+    "candidates": [
+      {
+        "name": "SCHREINER",
+        "party": "Democratic",
+        "votes": 2508
+      },
+      {
+        "name": "TREBAS",
+        "party": "Republican",
+        "votes": 2681
+      }
+    ],
+    "winner": "TREBAS",
+    "year": 2022
+  },
+  {
+    "district": "SD-18",
+    "candidates": [
+      {
+        "name": "BOGNER",
+        "party": "Republican",
+        "votes": 7643
+      }
+    ],
+    "winner": "BOGNER",
+    "year": 2022
+  },
+  {
+    "district": "SD-23",
+    "candidates": [
+      {
+        "name": "KELKER",
+        "party": "Democratic",
+        "votes": 3950
+      },
+      {
+        "name": "TIDSWELL",
+        "party": "Republican",
+        "votes": 3109
+      }
+    ],
+    "winner": "KELKER",
+    "year": 2022
+  },
+  {
+    "district": "SD-25",
+    "candidates": [
+      {
+        "name": "LENZ",
+        "party": "Republican",
+        "votes": 9670
+      }
+    ],
+    "winner": "LENZ",
+    "year": 2022
+  },
+  {
+    "district": "SD-28",
+    "candidates": [
+      {
+        "name": "MANDEVILLE",
+        "party": "Republican",
+        "votes": 8437
+      }
+    ],
+    "winner": "MANDEVILLE",
+    "year": 2022
+  },
+  {
+    "district": "SD-31",
+    "candidates": [
+      {
+        "name": "FLOWERS",
+        "party": "Democratic",
+        "votes": 5572
+      },
+      {
+        "name": "CHAMBERLIN",
+        "party": "Republican",
+        "votes": 5082
+      }
+    ],
+    "winner": "FLOWERS",
+    "year": 2022
+  }
+]

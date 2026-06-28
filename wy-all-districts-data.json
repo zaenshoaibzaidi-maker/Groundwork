@@ -1,0 +1,3117 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Wyoming House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71560,
+        "medianAge": 46.9,
+        "totalPopulation": 9688,
+        "collegePct": 22.9,
+        "renterRatePct": 19.6,
+        "race": {
+          "whitePct": 92.74,
+          "nonHispanicWhitePct": 92.36,
+          "blackPct": 0,
+          "asianPct": 0.75,
+          "hispanicPct": 2.1
+        }
+      },
+      "election": {
+        "district": "HD-01",
+        "candidates": [
+          {
+            "name": "Chip Neiman",
+            "party": "R",
+            "votes": 5096
+          }
+        ],
+        "winner": "Chip Neiman",
+        "year": 2024
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Wyoming House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73404,
+        "medianAge": 43.5,
+        "totalPopulation": 9353,
+        "collegePct": 20.26,
+        "renterRatePct": 19.32,
+        "race": {
+          "whitePct": 88.44,
+          "nonHispanicWhitePct": 86.45,
+          "blackPct": 0.67,
+          "asianPct": 0.17,
+          "hispanicPct": 4.89
+        }
+      },
+      "election": {
+        "district": "HD-02",
+        "candidates": [
+          {
+            "name": "JD Williams",
+            "party": "R",
+            "votes": 3834
+          }
+        ],
+        "winner": "JD Williams",
+        "year": 2024
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Wyoming House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103040,
+        "medianAge": 36.6,
+        "totalPopulation": 8530,
+        "collegePct": 25.38,
+        "renterRatePct": 15.92,
+        "race": {
+          "whitePct": 90.81,
+          "nonHispanicWhitePct": 88.05,
+          "blackPct": 1.23,
+          "asianPct": 0,
+          "hispanicPct": 6.81
+        }
+      },
+      "election": {
+        "district": "HD-03",
+        "candidates": [
+          {
+            "name": "Abby Angelos",
+            "party": "R",
+            "votes": 3753
+          }
+        ],
+        "winner": "Abby Angelos",
+        "year": 2024
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Wyoming House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65938,
+        "medianAge": 47.9,
+        "totalPopulation": 8726,
+        "collegePct": 20.04,
+        "renterRatePct": 27.91,
+        "race": {
+          "whitePct": 87.96,
+          "nonHispanicWhitePct": 85.81,
+          "blackPct": 0.37,
+          "asianPct": 0,
+          "hispanicPct": 8.39
+        }
+      },
+      "election": {
+        "district": "HD-04",
+        "candidates": [
+          {
+            "name": "Jeremy Haroldson",
+            "party": "R",
+            "votes": 3516
+          },
+          {
+            "name": "Charles Randolph",
+            "party": "D",
+            "votes": 1014
+          }
+        ],
+        "winner": "Jeremy Haroldson",
+        "year": 2024
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Wyoming House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57333,
+        "medianAge": 41,
+        "totalPopulation": 10135,
+        "collegePct": 24.14,
+        "renterRatePct": 29.07,
+        "race": {
+          "whitePct": 87.34,
+          "nonHispanicWhitePct": 83.84,
+          "blackPct": 0.73,
+          "asianPct": 0.03,
+          "hispanicPct": 11.04
+        }
+      },
+      "election": {
+        "district": "HD-05",
+        "candidates": [
+          {
+            "name": "Scott Smith",
+            "party": "R",
+            "votes": 3893
+          }
+        ],
+        "winner": "Scott Smith",
+        "year": 2024
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Wyoming House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81033,
+        "medianAge": 39.9,
+        "totalPopulation": 9581,
+        "collegePct": 25.23,
+        "renterRatePct": 21.96,
+        "race": {
+          "whitePct": 95.19,
+          "nonHispanicWhitePct": 86.91,
+          "blackPct": 0.33,
+          "asianPct": 0,
+          "hispanicPct": 9.84
+        }
+      },
+      "election": {
+        "district": "HD-06",
+        "candidates": [
+          {
+            "name": "Tomi Strock",
+            "party": "R",
+            "votes": 3742
+          }
+        ],
+        "winner": "Tomi Strock",
+        "year": 2024
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Wyoming House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85435,
+        "medianAge": 53.2,
+        "totalPopulation": 8209,
+        "collegePct": 35.63,
+        "renterRatePct": 25.83,
+        "race": {
+          "whitePct": 88.8,
+          "nonHispanicWhitePct": 85.25,
+          "blackPct": 1.02,
+          "asianPct": 1.11,
+          "hispanicPct": 9.84
+        }
+      },
+      "election": {
+        "district": "HD-07",
+        "candidates": [
+          {
+            "name": "Bob Nicholas",
+            "party": "R",
+            "votes": 2791
+          },
+          {
+            "name": "Jordan Evans",
+            "party": "D",
+            "votes": 1456
+          }
+        ],
+        "winner": "Bob Nicholas",
+        "year": 2024
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Wyoming House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119715,
+        "medianAge": 51.8,
+        "totalPopulation": 8060,
+        "collegePct": 51,
+        "renterRatePct": 12.34,
+        "race": {
+          "whitePct": 89.76,
+          "nonHispanicWhitePct": 85.01,
+          "blackPct": 0.92,
+          "asianPct": 1.04,
+          "hispanicPct": 7.3
+        }
+      },
+      "election": {
+        "district": "HD-08",
+        "candidates": [
+          {
+            "name": "Steve Johnson",
+            "party": "R",
+            "votes": 4229
+          }
+        ],
+        "winner": "Steve Johnson",
+        "year": 2024
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Wyoming House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91382,
+        "medianAge": 39.2,
+        "totalPopulation": 9966,
+        "collegePct": 32.9,
+        "renterRatePct": 19.76,
+        "race": {
+          "whitePct": 80.64,
+          "nonHispanicWhitePct": 72.26,
+          "blackPct": 3.81,
+          "asianPct": 2.12,
+          "hispanicPct": 16.01
+        }
+      },
+      "election": {
+        "district": "HD-09",
+        "candidates": [
+          {
+            "name": "Landon J. Brown",
+            "party": "R",
+            "votes": 3453
+          }
+        ],
+        "winner": "Landon J. Brown",
+        "year": 2024
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Wyoming House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101729,
+        "medianAge": 36.6,
+        "totalPopulation": 9392,
+        "collegePct": 29.15,
+        "renterRatePct": 11.73,
+        "race": {
+          "whitePct": 87.34,
+          "nonHispanicWhitePct": 84.35,
+          "blackPct": 0,
+          "asianPct": 0.21,
+          "hispanicPct": 10.03
+        }
+      },
+      "election": {
+        "district": "HD-10",
+        "candidates": [
+          {
+            "name": "John Eklund",
+            "party": "R",
+            "votes": 3963
+          },
+          {
+            "name": "Timothy (Tim) Forbis",
+            "party": "I",
+            "votes": 865
+          }
+        ],
+        "winner": "John Eklund",
+        "year": 2024
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Wyoming House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62130,
+        "medianAge": 35.5,
+        "totalPopulation": 9293,
+        "collegePct": 34.34,
+        "renterRatePct": 47.54,
+        "race": {
+          "whitePct": 84.25,
+          "nonHispanicWhitePct": 81.61,
+          "blackPct": 2.31,
+          "asianPct": 0.69,
+          "hispanicPct": 9.67
+        }
+      },
+      "election": {
+        "district": "HD-11",
+        "candidates": [
+          {
+            "name": "Jacob Wasserburger",
+            "party": "R",
+            "votes": 1774
+          },
+          {
+            "name": "Sara Burlingame",
+            "party": "D",
+            "votes": 1482
+          }
+        ],
+        "winner": "Jacob Wasserburger",
+        "year": 2024
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Wyoming House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54988,
+        "medianAge": 35.1,
+        "totalPopulation": 8916,
+        "collegePct": 12.05,
+        "renterRatePct": 32.58,
+        "race": {
+          "whitePct": 74.57,
+          "nonHispanicWhitePct": 65.3,
+          "blackPct": 1.54,
+          "asianPct": 0.01,
+          "hispanicPct": 28.28
+        }
+      },
+      "election": {
+        "district": "HD-12",
+        "candidates": [
+          {
+            "name": "Clarence Styvar",
+            "party": "R",
+            "votes": 2252
+          }
+        ],
+        "winner": "Clarence Styvar",
+        "year": 2024
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Wyoming House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43438,
+        "medianAge": 23.5,
+        "totalPopulation": 8770,
+        "collegePct": 63.16,
+        "renterRatePct": 62.14,
+        "race": {
+          "whitePct": 83.91,
+          "nonHispanicWhitePct": 78.72,
+          "blackPct": 3.09,
+          "asianPct": 5.15,
+          "hispanicPct": 9.22
+        }
+      },
+      "election": {
+        "district": "HD-13",
+        "candidates": [
+          {
+            "name": "Shane Swett",
+            "party": "R",
+            "votes": 1718
+          },
+          {
+            "name": "Ken Chestek",
+            "party": "D",
+            "votes": 1941
+          }
+        ],
+        "winner": "Ken Chestek",
+        "year": 2024
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Wyoming House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65878,
+        "medianAge": 28,
+        "totalPopulation": 9620,
+        "collegePct": 60.45,
+        "renterRatePct": 47.56,
+        "race": {
+          "whitePct": 86.86,
+          "nonHispanicWhitePct": 85.61,
+          "blackPct": 1.2,
+          "asianPct": 4.62,
+          "hispanicPct": 4.71
+        }
+      },
+      "election": {
+        "district": "HD-14",
+        "candidates": [
+          {
+            "name": "Joe Giustozzi",
+            "party": "R",
+            "votes": 2279
+          },
+          {
+            "name": "Trey Sherwood",
+            "party": "D",
+            "votes": 2472
+          }
+        ],
+        "winner": "Trey Sherwood",
+        "year": 2024
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Wyoming House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69708,
+        "medianAge": 38.5,
+        "totalPopulation": 9020,
+        "collegePct": 18.37,
+        "renterRatePct": 25.31,
+        "race": {
+          "whitePct": 82.35,
+          "nonHispanicWhitePct": 71.32,
+          "blackPct": 2.08,
+          "asianPct": 1,
+          "hispanicPct": 22.63
+        }
+      },
+      "election": {
+        "district": "HD-15",
+        "candidates": [
+          {
+            "name": "Pamela Thayer",
+            "party": "R",
+            "votes": 2790
+          }
+        ],
+        "winner": "Pamela Thayer",
+        "year": 2024
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Wyoming House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112919,
+        "medianAge": 35.3,
+        "totalPopulation": 9613,
+        "collegePct": 54.45,
+        "renterRatePct": 53.39,
+        "race": {
+          "whitePct": 68.97,
+          "nonHispanicWhitePct": 67.36,
+          "blackPct": 0.97,
+          "asianPct": 1.88,
+          "hispanicPct": 24.19
+        }
+      },
+      "election": {
+        "district": "HD-16",
+        "candidates": [
+          {
+            "name": "Mike Yin",
+            "party": "D",
+            "votes": 3545
+          }
+        ],
+        "winner": "Mike Yin",
+        "year": 2024
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Wyoming House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69033,
+        "medianAge": 37.3,
+        "totalPopulation": 7892,
+        "collegePct": 18.22,
+        "renterRatePct": 26.93,
+        "race": {
+          "whitePct": 82.63,
+          "nonHispanicWhitePct": 73.94,
+          "blackPct": 2.26,
+          "asianPct": 0.58,
+          "hispanicPct": 17.55
+        }
+      },
+      "election": {
+        "district": "HD-17",
+        "candidates": [
+          {
+            "name": "J.T. Larson",
+            "party": "R",
+            "votes": 2590
+          }
+        ],
+        "winner": "J.T. Larson",
+        "year": 2024
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Wyoming House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83074,
+        "medianAge": 39.4,
+        "totalPopulation": 10972,
+        "collegePct": 21.15,
+        "renterRatePct": 21.73,
+        "race": {
+          "whitePct": 91.55,
+          "nonHispanicWhitePct": 90.23,
+          "blackPct": 0.07,
+          "asianPct": 0.15,
+          "hispanicPct": 4.39
+        }
+      },
+      "election": {
+        "district": "HD-18",
+        "candidates": [
+          {
+            "name": "Scott Heiner",
+            "party": "R",
+            "votes": 3781
+          }
+        ],
+        "winner": "Scott Heiner",
+        "year": 2024
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Wyoming House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82619,
+        "medianAge": 38.5,
+        "totalPopulation": 8163,
+        "collegePct": 21.48,
+        "renterRatePct": 24.31,
+        "race": {
+          "whitePct": 90.52,
+          "nonHispanicWhitePct": 85.31,
+          "blackPct": 0.01,
+          "asianPct": 0.34,
+          "hispanicPct": 11.56
+        }
+      },
+      "election": {
+        "district": "HD-19",
+        "candidates": [
+          {
+            "name": "Joe Webb",
+            "party": "R",
+            "votes": 3012
+          }
+        ],
+        "winner": "Joe Webb",
+        "year": 2024
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Wyoming House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84264,
+        "medianAge": 43.8,
+        "totalPopulation": 9430,
+        "collegePct": 30.4,
+        "renterRatePct": 18.14,
+        "race": {
+          "whitePct": 92.69,
+          "nonHispanicWhitePct": 90.14,
+          "blackPct": 0.02,
+          "asianPct": 0,
+          "hispanicPct": 7
+        }
+      },
+      "election": {
+        "district": "HD-20",
+        "candidates": [
+          {
+            "name": "Mike Schmid",
+            "party": "R",
+            "votes": 4354
+          }
+        ],
+        "winner": "Mike Schmid",
+        "year": 2024
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Wyoming House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86150,
+        "medianAge": 37.8,
+        "totalPopulation": 9918,
+        "collegePct": 20.67,
+        "renterRatePct": 20.81,
+        "race": {
+          "whitePct": 93.65,
+          "nonHispanicWhitePct": 92.08,
+          "blackPct": 0,
+          "asianPct": 0.11,
+          "hispanicPct": 5.04
+        }
+      },
+      "election": {
+        "district": "HD-21",
+        "candidates": [
+          {
+            "name": "McKay L. Erickson",
+            "party": "R",
+            "votes": 4947
+          }
+        ],
+        "winner": "McKay L. Erickson",
+        "year": 2024
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Wyoming House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105975,
+        "medianAge": 42,
+        "totalPopulation": 8124,
+        "collegePct": 47.48,
+        "renterRatePct": 22.94,
+        "race": {
+          "whitePct": 89.14,
+          "nonHispanicWhitePct": 85.43,
+          "blackPct": 0.07,
+          "asianPct": 1.29,
+          "hispanicPct": 11.09
+        }
+      },
+      "election": {
+        "district": "HD-22",
+        "candidates": [
+          {
+            "name": "Andrew P Byron",
+            "party": "R",
+            "votes": 4189
+          }
+        ],
+        "winner": "Andrew P Byron",
+        "year": 2024
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Wyoming House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107868,
+        "medianAge": 50.4,
+        "totalPopulation": 10229,
+        "collegePct": 66.3,
+        "renterRatePct": 28.24,
+        "race": {
+          "whitePct": 89.57,
+          "nonHispanicWhitePct": 87.83,
+          "blackPct": 0.43,
+          "asianPct": 0.84,
+          "hispanicPct": 6.32
+        }
+      },
+      "election": {
+        "district": "HD-23",
+        "candidates": [
+          {
+            "name": "Liz Storer",
+            "party": "D",
+            "votes": 4434
+          }
+        ],
+        "winner": "Liz Storer",
+        "year": 2024
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Wyoming House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62440,
+        "medianAge": 49.5,
+        "totalPopulation": 8842,
+        "collegePct": 38.4,
+        "renterRatePct": 29.3,
+        "race": {
+          "whitePct": 90.59,
+          "nonHispanicWhitePct": 90.1,
+          "blackPct": 0.6,
+          "asianPct": 0.55,
+          "hispanicPct": 5.82
+        }
+      },
+      "election": {
+        "district": "HD-24",
+        "candidates": [
+          {
+            "name": "Nina Webber",
+            "party": "R",
+            "votes": 3372
+          }
+        ],
+        "winner": "Nina Webber",
+        "year": 2024
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Wyoming House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70600,
+        "medianAge": 40.1,
+        "totalPopulation": 8995,
+        "collegePct": 31.03,
+        "renterRatePct": 23.27,
+        "race": {
+          "whitePct": 87.46,
+          "nonHispanicWhitePct": 83.1,
+          "blackPct": 0.18,
+          "asianPct": 0.53,
+          "hispanicPct": 9.79
+        }
+      },
+      "election": {
+        "district": "HD-25",
+        "candidates": [
+          {
+            "name": "Paul Hoeft",
+            "party": "R",
+            "votes": 3673
+          }
+        ],
+        "winner": "Paul Hoeft",
+        "year": 2024
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Wyoming House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61731,
+        "medianAge": 41.9,
+        "totalPopulation": 9515,
+        "collegePct": 20.19,
+        "renterRatePct": 21.35,
+        "race": {
+          "whitePct": 88.39,
+          "nonHispanicWhitePct": 84.79,
+          "blackPct": 0.64,
+          "asianPct": 0.87,
+          "hispanicPct": 9.89
+        }
+      },
+      "election": {
+        "district": "HD-26",
+        "candidates": [
+          {
+            "name": "Dalton Banks",
+            "party": "R",
+            "votes": 3942
+          }
+        ],
+        "winner": "Dalton Banks",
+        "year": 2024
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Wyoming House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62686,
+        "medianAge": 45.1,
+        "totalPopulation": 9085,
+        "collegePct": 22.38,
+        "renterRatePct": 24.76,
+        "race": {
+          "whitePct": 83.9,
+          "nonHispanicWhitePct": 82.39,
+          "blackPct": 0.15,
+          "asianPct": 0.32,
+          "hispanicPct": 13.2
+        }
+      },
+      "election": {
+        "district": "HD-27",
+        "candidates": [
+          {
+            "name": "Martha Lawley",
+            "party": "R",
+            "votes": 3918
+          }
+        ],
+        "winner": "Martha Lawley",
+        "year": 2024
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Wyoming House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63311,
+        "medianAge": 46.5,
+        "totalPopulation": 8798,
+        "collegePct": 26.37,
+        "renterRatePct": 26.5,
+        "race": {
+          "whitePct": 90.16,
+          "nonHispanicWhitePct": 88.76,
+          "blackPct": 0.4,
+          "asianPct": 0.26,
+          "hispanicPct": 4.94
+        }
+      },
+      "election": {
+        "district": "HD-28",
+        "candidates": [
+          {
+            "name": "John R. Winter",
+            "party": "R",
+            "votes": 3986
+          },
+          {
+            "name": "Larry Alwin",
+            "party": "D",
+            "votes": 857
+          }
+        ],
+        "winner": "John R. Winter",
+        "year": 2024
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Wyoming House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57618,
+        "medianAge": 38.5,
+        "totalPopulation": 10418,
+        "collegePct": 33.67,
+        "renterRatePct": 44.92,
+        "race": {
+          "whitePct": 89.51,
+          "nonHispanicWhitePct": 84.15,
+          "blackPct": 0.5,
+          "asianPct": 2.96,
+          "hispanicPct": 7.89
+        }
+      },
+      "election": {
+        "district": "HD-29",
+        "candidates": [
+          {
+            "name": "Ken Pendergraft",
+            "party": "R",
+            "votes": 3009
+          },
+          {
+            "name": "Martha J Wright",
+            "party": "D",
+            "votes": 1325
+          }
+        ],
+        "winner": "Ken Pendergraft",
+        "year": 2024
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Wyoming House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74842,
+        "medianAge": 45.3,
+        "totalPopulation": 9611,
+        "collegePct": 32.57,
+        "renterRatePct": 20.49,
+        "race": {
+          "whitePct": 94.15,
+          "nonHispanicWhitePct": 91.85,
+          "blackPct": 0.21,
+          "asianPct": 0.15,
+          "hispanicPct": 3.71
+        }
+      },
+      "election": {
+        "district": "HD-30",
+        "candidates": [
+          {
+            "name": "Tom Kelly",
+            "party": "R",
+            "votes": 3944
+          }
+        ],
+        "winner": "Tom Kelly",
+        "year": 2024
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Wyoming House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86577,
+        "medianAge": 29.9,
+        "totalPopulation": 9432,
+        "collegePct": 23.47,
+        "renterRatePct": 12.26,
+        "race": {
+          "whitePct": 79.21,
+          "nonHispanicWhitePct": 77.4,
+          "blackPct": 0.35,
+          "asianPct": 0,
+          "hispanicPct": 15.02
+        }
+      },
+      "election": {
+        "district": "HD-31",
+        "candidates": [
+          {
+            "name": "John W Bear",
+            "party": "R",
+            "votes": 2726
+          }
+        ],
+        "winner": "John W Bear",
+        "year": 2024
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Wyoming House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118670,
+        "medianAge": 34.3,
+        "totalPopulation": 9446,
+        "collegePct": 31.02,
+        "renterRatePct": 16.52,
+        "race": {
+          "whitePct": 91,
+          "nonHispanicWhitePct": 88.88,
+          "blackPct": 0.2,
+          "asianPct": 0.13,
+          "hispanicPct": 7.03
+        }
+      },
+      "election": {
+        "district": "HD-32",
+        "candidates": [
+          {
+            "name": "Ken L. Clouston",
+            "party": "R",
+            "votes": 3342
+          }
+        ],
+        "winner": "Ken L. Clouston",
+        "year": 2024
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Wyoming House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65608,
+        "medianAge": 32.9,
+        "totalPopulation": 9757,
+        "collegePct": 14.34,
+        "renterRatePct": 26.79,
+        "race": {
+          "whitePct": 38.54,
+          "nonHispanicWhitePct": 37.36,
+          "blackPct": 0.6,
+          "asianPct": 0,
+          "hispanicPct": 4.96
+        }
+      },
+      "election": {
+        "district": "HD-33",
+        "candidates": [
+          {
+            "name": "Sarah Penn",
+            "party": "R",
+            "votes": 1210
+          },
+          {
+            "name": "Ivan D. Posey",
+            "party": "D",
+            "votes": 1675
+          }
+        ],
+        "winner": "Ivan D. Posey",
+        "year": 2024
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Wyoming House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64794,
+        "medianAge": 48.1,
+        "totalPopulation": 9415,
+        "collegePct": 20.32,
+        "renterRatePct": 22.13,
+        "race": {
+          "whitePct": 85.3,
+          "nonHispanicWhitePct": 83.96,
+          "blackPct": 0.24,
+          "asianPct": 0.41,
+          "hispanicPct": 4.1
+        }
+      },
+      "election": {
+        "district": "HD-34",
+        "candidates": [
+          {
+            "name": "Pepper L. Ottman",
+            "party": "R",
+            "votes": 4117
+          }
+        ],
+        "winner": "Pepper L. Ottman",
+        "year": 2024
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Wyoming House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109478,
+        "medianAge": 42.3,
+        "totalPopulation": 8200,
+        "collegePct": 42.06,
+        "renterRatePct": 18.88,
+        "race": {
+          "whitePct": 93.05,
+          "nonHispanicWhitePct": 90.68,
+          "blackPct": 0.28,
+          "asianPct": 1.21,
+          "hispanicPct": 4.98
+        }
+      },
+      "election": {
+        "district": "HD-35",
+        "candidates": [
+          {
+            "name": "Tony Locke",
+            "party": "R",
+            "votes": 3409
+          }
+        ],
+        "winner": "Tony Locke",
+        "year": 2024
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Wyoming House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62399,
+        "medianAge": 37.4,
+        "totalPopulation": 9758,
+        "collegePct": 26.2,
+        "renterRatePct": 37.86,
+        "race": {
+          "whitePct": 90.27,
+          "nonHispanicWhitePct": 84.76,
+          "blackPct": 1.27,
+          "asianPct": 0.09,
+          "hispanicPct": 9.92
+        }
+      },
+      "election": {
+        "district": "HD-36",
+        "candidates": [
+          {
+            "name": "Art Washut",
+            "party": "R",
+            "votes": 2727
+          }
+        ],
+        "winner": "Art Washut",
+        "year": 2024
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Wyoming House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87771,
+        "medianAge": 41.2,
+        "totalPopulation": 10528,
+        "collegePct": 39.69,
+        "renterRatePct": 23.31,
+        "race": {
+          "whitePct": 93.49,
+          "nonHispanicWhitePct": 89.18,
+          "blackPct": 0.54,
+          "asianPct": 0.8,
+          "hispanicPct": 6.51
+        }
+      },
+      "election": {
+        "district": "HD-37",
+        "candidates": [
+          {
+            "name": "Steve Harshman",
+            "party": "R",
+            "votes": 4004
+          }
+        ],
+        "winner": "Steve Harshman",
+        "year": 2024
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Wyoming House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81670,
+        "medianAge": 38,
+        "totalPopulation": 9529,
+        "collegePct": 23.05,
+        "renterRatePct": 10.98,
+        "race": {
+          "whitePct": 90.7,
+          "nonHispanicWhitePct": 89.17,
+          "blackPct": 0.8,
+          "asianPct": 0.28,
+          "hispanicPct": 5.46
+        }
+      },
+      "election": {
+        "district": "HD-38",
+        "candidates": [
+          {
+            "name": "Jayme Lien",
+            "party": "R",
+            "votes": 3253
+          }
+        ],
+        "winner": "Jayme Lien",
+        "year": 2024
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Wyoming House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100563,
+        "medianAge": 36.9,
+        "totalPopulation": 9093,
+        "collegePct": 28.94,
+        "renterRatePct": 24.48,
+        "race": {
+          "whitePct": 81.16,
+          "nonHispanicWhitePct": 75.44,
+          "blackPct": 1.22,
+          "asianPct": 0.47,
+          "hispanicPct": 17.43
+        }
+      },
+      "election": {
+        "district": "HD-39",
+        "candidates": [
+          {
+            "name": "Cody Wylie",
+            "party": "R",
+            "votes": 2966
+          }
+        ],
+        "winner": "Cody Wylie",
+        "year": 2024
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Wyoming House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67043,
+        "medianAge": 46.6,
+        "totalPopulation": 10443,
+        "collegePct": 30.2,
+        "renterRatePct": 20.71,
+        "race": {
+          "whitePct": 93.58,
+          "nonHispanicWhitePct": 91.51,
+          "blackPct": 0.02,
+          "asianPct": 0.43,
+          "hispanicPct": 3.87
+        }
+      },
+      "election": {
+        "district": "HD-40",
+        "candidates": [
+          {
+            "name": "Marilyn Connoly",
+            "party": "R",
+            "votes": 4806
+          }
+        ],
+        "winner": "Marilyn Connoly",
+        "year": 2024
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Wyoming House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78765,
+        "medianAge": 41.3,
+        "totalPopulation": 9309,
+        "collegePct": 36.35,
+        "renterRatePct": 37.04,
+        "race": {
+          "whitePct": 84.93,
+          "nonHispanicWhitePct": 79.56,
+          "blackPct": 1.62,
+          "asianPct": 1.18,
+          "hispanicPct": 13.59
+        }
+      },
+      "election": {
+        "district": "HD-41",
+        "candidates": [
+          {
+            "name": "Gary Brown",
+            "party": "R",
+            "votes": 2039
+          },
+          {
+            "name": "Jen Solis",
+            "party": "D",
+            "votes": 1852
+          }
+        ],
+        "winner": "Gary Brown",
+        "year": 2024
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Wyoming House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101759,
+        "medianAge": 35.5,
+        "totalPopulation": 9227,
+        "collegePct": 43.83,
+        "renterRatePct": 27.03,
+        "race": {
+          "whitePct": 84.35,
+          "nonHispanicWhitePct": 80,
+          "blackPct": 1.32,
+          "asianPct": 2.28,
+          "hispanicPct": 10.68
+        }
+      },
+      "election": {
+        "district": "HD-42",
+        "candidates": [
+          {
+            "name": "Rob Geringer",
+            "party": "R",
+            "votes": 3270
+          },
+          {
+            "name": "Bob Ray",
+            "party": "D",
+            "votes": 853
+          }
+        ],
+        "winner": "Rob Geringer",
+        "year": 2024
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Wyoming House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88417,
+        "medianAge": 34.7,
+        "totalPopulation": 9892,
+        "collegePct": 38.55,
+        "renterRatePct": 14.94,
+        "race": {
+          "whitePct": 73.87,
+          "nonHispanicWhitePct": 65.86,
+          "blackPct": 7.93,
+          "asianPct": 1.03,
+          "hispanicPct": 18.62
+        }
+      },
+      "election": {
+        "district": "HD-43",
+        "candidates": [
+          {
+            "name": "Ann Lucas",
+            "party": "R",
+            "votes": 3540
+          }
+        ],
+        "winner": "Ann Lucas",
+        "year": 2024
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Wyoming House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50625,
+        "medianAge": 31.3,
+        "totalPopulation": 9661,
+        "collegePct": 17.65,
+        "renterRatePct": 46.17,
+        "race": {
+          "whitePct": 70.59,
+          "nonHispanicWhitePct": 59.69,
+          "blackPct": 2.68,
+          "asianPct": 2.3,
+          "hispanicPct": 30.46
+        }
+      },
+      "election": {
+        "district": "HD-44",
+        "candidates": [
+          {
+            "name": "Lee Filer",
+            "party": "R",
+            "votes": 2265
+          }
+        ],
+        "winner": "Lee Filer",
+        "year": 2024
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Wyoming House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46671,
+        "medianAge": 28.2,
+        "totalPopulation": 9602,
+        "collegePct": 58.41,
+        "renterRatePct": 67.21,
+        "race": {
+          "whitePct": 82.57,
+          "nonHispanicWhitePct": 76.98,
+          "blackPct": 0.69,
+          "asianPct": 4.29,
+          "hispanicPct": 13.62
+        }
+      },
+      "election": {
+        "district": "HD-45",
+        "candidates": [
+          {
+            "name": "Paul Crouch",
+            "party": "R",
+            "votes": 1477
+          },
+          {
+            "name": "Karlee Provenza",
+            "party": "D",
+            "votes": 2493
+          }
+        ],
+        "winner": "Karlee Provenza",
+        "year": 2024
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Wyoming House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81767,
+        "medianAge": 38.3,
+        "totalPopulation": 9721,
+        "collegePct": 44.93,
+        "renterRatePct": 24.73,
+        "race": {
+          "whitePct": 86.45,
+          "nonHispanicWhitePct": 79.85,
+          "blackPct": 0.02,
+          "asianPct": 1.09,
+          "hispanicPct": 14.41
+        }
+      },
+      "election": {
+        "district": "HD-46",
+        "candidates": [
+          {
+            "name": "Ocean Andrew",
+            "party": "R",
+            "votes": 3411
+          },
+          {
+            "name": "Chris Lowry",
+            "party": "D",
+            "votes": 1481
+          }
+        ],
+        "winner": "Ocean Andrew",
+        "year": 2024
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Wyoming House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63889,
+        "medianAge": 42.7,
+        "totalPopulation": 9572,
+        "collegePct": 21.77,
+        "renterRatePct": 29.32,
+        "race": {
+          "whitePct": 83.87,
+          "nonHispanicWhitePct": 81.17,
+          "blackPct": 0.26,
+          "asianPct": 0.14,
+          "hispanicPct": 14.75
+        }
+      },
+      "election": {
+        "district": "HD-47",
+        "candidates": [
+          {
+            "name": "Bob Davis",
+            "party": "R",
+            "votes": 3488
+          },
+          {
+            "name": "James A Wilson",
+            "party": "D",
+            "votes": 666
+          }
+        ],
+        "winner": "Bob Davis",
+        "year": 2024
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Wyoming House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68940,
+        "medianAge": 35.9,
+        "totalPopulation": 8638,
+        "collegePct": 14.77,
+        "renterRatePct": 23.91,
+        "race": {
+          "whitePct": 77.27,
+          "nonHispanicWhitePct": 72.49,
+          "blackPct": 2.19,
+          "asianPct": 1.67,
+          "hispanicPct": 19.68
+        }
+      },
+      "election": {
+        "district": "HD-48",
+        "candidates": [
+          {
+            "name": "Darin M. McCann",
+            "party": "R",
+            "votes": 2715
+          }
+        ],
+        "winner": "Darin M. McCann",
+        "year": 2024
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Wyoming House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79425,
+        "medianAge": 36.1,
+        "totalPopulation": 10061,
+        "collegePct": 20.58,
+        "renterRatePct": 23.88,
+        "race": {
+          "whitePct": 90.2,
+          "nonHispanicWhitePct": 86.36,
+          "blackPct": 0.44,
+          "asianPct": 0.16,
+          "hispanicPct": 9.84
+        }
+      },
+      "election": {
+        "district": "HD-49",
+        "candidates": [
+          {
+            "name": "Robert Wharff",
+            "party": "R",
+            "votes": 3046
+          }
+        ],
+        "winner": "Robert Wharff",
+        "year": 2024
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Wyoming House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75357,
+        "medianAge": 44,
+        "totalPopulation": 9671,
+        "collegePct": 36.25,
+        "renterRatePct": 24.53,
+        "race": {
+          "whitePct": 92.47,
+          "nonHispanicWhitePct": 91.24,
+          "blackPct": 0.1,
+          "asianPct": 0.09,
+          "hispanicPct": 2.62
+        }
+      },
+      "election": {
+        "district": "HD-50",
+        "candidates": [
+          {
+            "name": "Rachel Rodriguez-Williams",
+            "party": "R",
+            "votes": 4510
+          }
+        ],
+        "winner": "Rachel Rodriguez-Williams",
+        "year": 2024
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Wyoming House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76101,
+        "medianAge": 45.1,
+        "totalPopulation": 9715,
+        "collegePct": 34.6,
+        "renterRatePct": 24.37,
+        "race": {
+          "whitePct": 92.8,
+          "nonHispanicWhitePct": 92.13,
+          "blackPct": 0.62,
+          "asianPct": 0.17,
+          "hispanicPct": 3.13
+        }
+      },
+      "election": {
+        "district": "HD-51",
+        "candidates": [
+          {
+            "name": "Laurie Bratten",
+            "party": "R",
+            "votes": 4910
+          }
+        ],
+        "winner": "Laurie Bratten",
+        "year": 2024
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Wyoming House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101511,
+        "medianAge": 43.5,
+        "totalPopulation": 10804,
+        "collegePct": 18.7,
+        "renterRatePct": 19.11,
+        "race": {
+          "whitePct": 86.01,
+          "nonHispanicWhitePct": 85.16,
+          "blackPct": 0,
+          "asianPct": 0,
+          "hispanicPct": 9.92
+        }
+      },
+      "election": {
+        "district": "HD-52",
+        "candidates": [
+          {
+            "name": "Reuben Tarver",
+            "party": "R",
+            "votes": 3402
+          }
+        ],
+        "winner": "Reuben Tarver",
+        "year": 2024
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Wyoming House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59429,
+        "medianAge": 33.9,
+        "totalPopulation": 8806,
+        "collegePct": 13.17,
+        "renterRatePct": 41.27,
+        "race": {
+          "whitePct": 87.51,
+          "nonHispanicWhitePct": 86.68,
+          "blackPct": 0.08,
+          "asianPct": 0.76,
+          "hispanicPct": 7.65
+        }
+      },
+      "election": {
+        "district": "HD-53",
+        "candidates": [
+          {
+            "name": "Christopher R. Knapp",
+            "party": "R",
+            "votes": 2466
+          }
+        ],
+        "winner": "Christopher R. Knapp",
+        "year": 2024
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Wyoming House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73759,
+        "medianAge": 39.8,
+        "totalPopulation": 9490,
+        "collegePct": 42.31,
+        "renterRatePct": 29.37,
+        "race": {
+          "whitePct": 84.3,
+          "nonHispanicWhitePct": 82.91,
+          "blackPct": 0.73,
+          "asianPct": 0.12,
+          "hispanicPct": 5.41
+        }
+      },
+      "election": {
+        "district": "HD-54",
+        "candidates": [
+          {
+            "name": "Lloyd Charles Larsen",
+            "party": "R",
+            "votes": 3821
+          }
+        ],
+        "winner": "Lloyd Charles Larsen",
+        "year": 2024
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Wyoming House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57163,
+        "medianAge": 37.3,
+        "totalPopulation": 10076,
+        "collegePct": 24.69,
+        "renterRatePct": 39.46,
+        "race": {
+          "whitePct": 78.68,
+          "nonHispanicWhitePct": 74.04,
+          "blackPct": 0.59,
+          "asianPct": 1.22,
+          "hispanicPct": 12.15
+        }
+      },
+      "election": {
+        "district": "HD-55",
+        "candidates": [
+          {
+            "name": "Joel Guggenmos",
+            "party": "R",
+            "votes": 2858
+          }
+        ],
+        "winner": "Joel Guggenmos",
+        "year": 2024
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Wyoming House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65231,
+        "medianAge": 39.3,
+        "totalPopulation": 8873,
+        "collegePct": 35.51,
+        "renterRatePct": 35.8,
+        "race": {
+          "whitePct": 90.09,
+          "nonHispanicWhitePct": 87.68,
+          "blackPct": 0.11,
+          "asianPct": 0.52,
+          "hispanicPct": 6.24
+        }
+      },
+      "election": {
+        "district": "HD-56",
+        "candidates": [
+          {
+            "name": "Elissa Campbell",
+            "party": "R",
+            "votes": 2938
+          }
+        ],
+        "winner": "Elissa Campbell",
+        "year": 2024
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Wyoming House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61110,
+        "medianAge": 33.6,
+        "totalPopulation": 9337,
+        "collegePct": 25.54,
+        "renterRatePct": 38.28,
+        "race": {
+          "whitePct": 87.74,
+          "nonHispanicWhitePct": 79.16,
+          "blackPct": 0.26,
+          "asianPct": 1.22,
+          "hispanicPct": 15.22
+        }
+      },
+      "election": {
+        "district": "HD-57",
+        "candidates": [
+          {
+            "name": "Julie Jarvis",
+            "party": "R",
+            "votes": 2405
+          }
+        ],
+        "winner": "Julie Jarvis",
+        "year": 2024
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Wyoming House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73925,
+        "medianAge": 40.1,
+        "totalPopulation": 9919,
+        "collegePct": 15.19,
+        "renterRatePct": 19.12,
+        "race": {
+          "whitePct": 86.98,
+          "nonHispanicWhitePct": 84.66,
+          "blackPct": 0.2,
+          "asianPct": 0.09,
+          "hispanicPct": 10.53
+        }
+      },
+      "election": {
+        "district": "HD-58",
+        "candidates": [
+          {
+            "name": "Bill Allemand",
+            "party": "R",
+            "votes": 3055
+          }
+        ],
+        "winner": "Bill Allemand",
+        "year": 2024
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Wyoming House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59040,
+        "medianAge": 35.6,
+        "totalPopulation": 9414,
+        "collegePct": 18.28,
+        "renterRatePct": 23.81,
+        "race": {
+          "whitePct": 84.88,
+          "nonHispanicWhitePct": 78.55,
+          "blackPct": 0.96,
+          "asianPct": 0,
+          "hispanicPct": 12.81
+        }
+      },
+      "election": {
+        "district": "HD-59",
+        "candidates": [
+          {
+            "name": "J.R. Riggins",
+            "party": "R",
+            "votes": 2740
+          }
+        ],
+        "winner": "J.R. Riggins",
+        "year": 2024
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Wyoming House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86193,
+        "medianAge": 36.3,
+        "totalPopulation": 8537,
+        "collegePct": 25.36,
+        "renterRatePct": 21.35,
+        "race": {
+          "whitePct": 88.66,
+          "nonHispanicWhitePct": 84.06,
+          "blackPct": 0,
+          "asianPct": 0.62,
+          "hispanicPct": 13.53
+        }
+      },
+      "election": {
+        "district": "HD-60",
+        "candidates": [
+          {
+            "name": "Marlene Brady",
+            "party": "R",
+            "votes": 2484
+          },
+          {
+            "name": "Carmen Whitehead",
+            "party": "D",
+            "votes": 951
+          }
+        ],
+        "winner": "Marlene Brady",
+        "year": 2024
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Wyoming House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67009,
+        "medianAge": 40.1,
+        "totalPopulation": 8616,
+        "collegePct": 18.6,
+        "renterRatePct": 35.79,
+        "race": {
+          "whitePct": 87.67,
+          "nonHispanicWhitePct": 79.7,
+          "blackPct": 0.64,
+          "asianPct": 0,
+          "hispanicPct": 15.85
+        }
+      },
+      "election": {
+        "district": "HD-61",
+        "candidates": [
+          {
+            "name": "Daniel J. Singh",
+            "party": "R",
+            "votes": 2516
+          }
+        ],
+        "winner": "Daniel J. Singh",
+        "year": 2024
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Wyoming House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78857,
+        "medianAge": 41.4,
+        "totalPopulation": 8355,
+        "collegePct": 16.82,
+        "renterRatePct": 23.29,
+        "race": {
+          "whitePct": 88.88,
+          "nonHispanicWhitePct": 84.97,
+          "blackPct": 0.67,
+          "asianPct": 0.89,
+          "hispanicPct": 8.89
+        }
+      },
+      "election": {
+        "district": "HD-62",
+        "candidates": [
+          {
+            "name": "Kevin Campbell",
+            "party": "R",
+            "votes": 3496
+          }
+        ],
+        "winner": "Kevin Campbell",
+        "year": 2024
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Wyoming Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91655,
+        "medianAge": 45.6,
+        "totalPopulation": 20492,
+        "collegePct": 20.69,
+        "renterRatePct": 19.34,
+        "race": {
+          "whitePct": 89.2,
+          "nonHispanicWhitePct": 88.57,
+          "blackPct": 0,
+          "asianPct": 0.36,
+          "hispanicPct": 6.22
+        }
+      },
+      "election": {
+        "district": "SD-01",
+        "candidates": [
+          {
+            "name": "Ogden Driskill",
+            "party": "R",
+            "votes": 4785
+          }
+        ],
+        "winner": "Ogden Driskill",
+        "year": 2022
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Wyoming Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79704,
+        "medianAge": 40.4,
+        "totalPopulation": 17936,
+        "collegePct": 21.3,
+        "renterRatePct": 22.56,
+        "race": {
+          "whitePct": 92.25,
+          "nonHispanicWhitePct": 86.01,
+          "blackPct": 0.49,
+          "asianPct": 0.41,
+          "hispanicPct": 9.4
+        }
+      },
+      "election": {
+        "district": "SD-02",
+        "candidates": [
+          {
+            "name": "Brian Boner",
+            "party": "R",
+            "votes": 7712
+          }
+        ],
+        "winner": "Brian Boner",
+        "year": 2024
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Wyoming Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66616,
+        "medianAge": 42.3,
+        "totalPopulation": 19488,
+        "collegePct": 22.19,
+        "renterRatePct": 24.56,
+        "race": {
+          "whitePct": 87.87,
+          "nonHispanicWhitePct": 85.09,
+          "blackPct": 0.7,
+          "asianPct": 0.1,
+          "hispanicPct": 8.09
+        }
+      },
+      "election": {
+        "district": "SD-03",
+        "candidates": [
+          {
+            "name": "Cheri Steinmetz",
+            "party": "R",
+            "votes": 6352
+          }
+        ],
+        "winner": "Cheri Steinmetz",
+        "year": 2022
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Wyoming Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95908,
+        "medianAge": 52.5,
+        "totalPopulation": 16269,
+        "collegePct": 43.1,
+        "renterRatePct": 19.77,
+        "race": {
+          "whitePct": 89.28,
+          "nonHispanicWhitePct": 85.13,
+          "blackPct": 0.97,
+          "asianPct": 1.08,
+          "hispanicPct": 8.58
+        }
+      },
+      "election": {
+        "district": "SD-04",
+        "candidates": [
+          {
+            "name": "Tara Nethercott",
+            "party": "R",
+            "votes": 8255
+          }
+        ],
+        "winner": "Tara Nethercott",
+        "year": 2024
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Wyoming Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71236,
+        "medianAge": 35.1,
+        "totalPopulation": 18143,
+        "collegePct": 27.83,
+        "renterRatePct": 29.98,
+        "race": {
+          "whitePct": 79.55,
+          "nonHispanicWhitePct": 72.78,
+          "blackPct": 1.43,
+          "asianPct": 1.16,
+          "hispanicPct": 19.32
+        }
+      },
+      "election": {
+        "district": "SD-05",
+        "candidates": [
+          {
+            "name": "Lynn Hutchings",
+            "party": "R",
+            "votes": 3284
+          },
+          {
+            "name": "Ted Hanlon",
+            "party": "D",
+            "votes": 1354
+          }
+        ],
+        "winner": "Lynn Hutchings",
+        "year": 2022
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Wyoming Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74564,
+        "medianAge": 42.5,
+        "totalPopulation": 18118,
+        "collegePct": 24.43,
+        "renterRatePct": 20.42,
+        "race": {
+          "whitePct": 87.64,
+          "nonHispanicWhitePct": 85.05,
+          "blackPct": 0.18,
+          "asianPct": 0.11,
+          "hispanicPct": 9.24
+        }
+      },
+      "election": {
+        "district": "SD-06",
+        "candidates": [
+          {
+            "name": "Darin Smith",
+            "party": "R",
+            "votes": 8484
+          }
+        ],
+        "winner": "Darin Smith",
+        "year": 2024
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Wyoming Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85800,
+        "medianAge": 39.9,
+        "totalPopulation": 19275,
+        "collegePct": 34.61,
+        "renterRatePct": 28.91,
+        "race": {
+          "whitePct": 82.71,
+          "nonHispanicWhitePct": 75.78,
+          "blackPct": 2.75,
+          "asianPct": 1.67,
+          "hispanicPct": 14.84
+        }
+      },
+      "election": {
+        "district": "SD-07",
+        "candidates": [
+          {
+            "name": "Stephan Pappas",
+            "party": "R",
+            "votes": 3238
+          },
+          {
+            "name": "Marcie Kindred",
+            "party": "D",
+            "votes": 2437
+          }
+        ],
+        "winner": "Stephan Pappas",
+        "year": 2022
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Wyoming Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56578,
+        "medianAge": 33.2,
+        "totalPopulation": 18954,
+        "collegePct": 26.43,
+        "renterRatePct": 46.87,
+        "race": {
+          "whitePct": 77.29,
+          "nonHispanicWhitePct": 70.44,
+          "blackPct": 2.5,
+          "asianPct": 1.51,
+          "hispanicPct": 20.27
+        }
+      },
+      "election": {
+        "district": "SD-08",
+        "candidates": [
+          {
+            "name": "Jared Olsen",
+            "party": "R",
+            "votes": 3444
+          },
+          {
+            "name": "Marguerite Herman",
+            "party": "D",
+            "votes": 2464
+          }
+        ],
+        "winner": "Jared Olsen",
+        "year": 2024
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Wyoming Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46028,
+        "medianAge": 25.5,
+        "totalPopulation": 18372,
+        "collegePct": 60.34,
+        "renterRatePct": 65.09,
+        "race": {
+          "whitePct": 83.21,
+          "nonHispanicWhitePct": 77.81,
+          "blackPct": 1.83,
+          "asianPct": 4.7,
+          "hispanicPct": 11.52
+        }
+      },
+      "election": {
+        "district": "SD-09",
+        "candidates": [
+          {
+            "name": "Diana Seabeck",
+            "party": "R",
+            "votes": 1900
+          },
+          {
+            "name": "Chris Rothfuss",
+            "party": "D",
+            "votes": 3223
+          }
+        ],
+        "winner": "Chris Rothfuss",
+        "year": 2022
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Wyoming Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71503,
+        "medianAge": 34.4,
+        "totalPopulation": 19341,
+        "collegePct": 51.74,
+        "renterRatePct": 35.89,
+        "race": {
+          "whitePct": 86.66,
+          "nonHispanicWhitePct": 82.72,
+          "blackPct": 0.6,
+          "asianPct": 2.84,
+          "hispanicPct": 9.59
+        }
+      },
+      "election": {
+        "district": "SD-10",
+        "candidates": [
+          {
+            "name": "Gary E Crum",
+            "party": "R",
+            "votes": 6331
+          },
+          {
+            "name": "Mike Selmer",
+            "party": "D",
+            "votes": 3405
+          }
+        ],
+        "winner": "Gary E Crum",
+        "year": 2024
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Wyoming Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66479,
+        "medianAge": 40.6,
+        "totalPopulation": 18592,
+        "collegePct": 20.15,
+        "renterRatePct": 27.46,
+        "race": {
+          "whitePct": 83.13,
+          "nonHispanicWhitePct": 76.39,
+          "blackPct": 1.15,
+          "asianPct": 0.55,
+          "hispanicPct": 18.57
+        }
+      },
+      "election": {
+        "district": "SD-11",
+        "candidates": [
+          {
+            "name": "Larry Hicks",
+            "party": "R",
+            "votes": 4153
+          },
+          {
+            "name": "Michael Ray Williams",
+            "party": "C",
+            "votes": 1104
+          }
+        ],
+        "winner": "Larry Hicks",
+        "year": 2022
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Wyoming Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68988,
+        "medianAge": 36.6,
+        "totalPopulation": 16530,
+        "collegePct": 16.39,
+        "renterRatePct": 25.3,
+        "race": {
+          "whitePct": 79.83,
+          "nonHispanicWhitePct": 73.18,
+          "blackPct": 2.22,
+          "asianPct": 1.15,
+          "hispanicPct": 18.66
+        }
+      },
+      "election": {
+        "district": "SD-12",
+        "candidates": [
+          {
+            "name": "John K Kolb",
+            "party": "R",
+            "votes": 4359
+          },
+          {
+            "name": "Kenilynn S Zanetti",
+            "party": "D",
+            "votes": 1873
+          }
+        ],
+        "winner": "John K Kolb",
+        "year": 2024
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Wyoming Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94130,
+        "medianAge": 36.6,
+        "totalPopulation": 17630,
+        "collegePct": 27.14,
+        "renterRatePct": 22.91,
+        "race": {
+          "whitePct": 84.79,
+          "nonHispanicWhitePct": 79.61,
+          "blackPct": 0.63,
+          "asianPct": 0.54,
+          "hispanicPct": 15.54
+        }
+      },
+      "election": {
+        "district": "SD-13",
+        "candidates": [
+          {
+            "name": "Stacy Jones",
+            "party": "R",
+            "votes": 3859
+          },
+          {
+            "name": "Leesa Kuhlmann",
+            "party": "D",
+            "votes": 1220
+          }
+        ],
+        "winner": "Stacy Jones",
+        "year": 2022
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Wyoming Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83722,
+        "medianAge": 40.6,
+        "totalPopulation": 20402,
+        "collegePct": 25.55,
+        "renterRatePct": 20,
+        "race": {
+          "whitePct": 92.08,
+          "nonHispanicWhitePct": 90.19,
+          "blackPct": 0.05,
+          "asianPct": 0.08,
+          "hispanicPct": 5.6
+        }
+      },
+      "election": {
+        "district": "SD-14",
+        "candidates": [
+          {
+            "name": "Laura Taliaferro Pearson",
+            "party": "R",
+            "votes": 8025
+          }
+        ],
+        "winner": "Laura Taliaferro Pearson",
+        "year": 2024
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Wyoming Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80152,
+        "medianAge": 37.3,
+        "totalPopulation": 18224,
+        "collegePct": 20.98,
+        "renterRatePct": 24.07,
+        "race": {
+          "whitePct": 90.34,
+          "nonHispanicWhitePct": 85.89,
+          "blackPct": 0.25,
+          "asianPct": 0.24,
+          "hispanicPct": 10.61
+        }
+      },
+      "election": {
+        "district": "SD-15",
+        "candidates": [
+          {
+            "name": "Wendy Davis Schuler",
+            "party": "R",
+            "votes": 5243
+          }
+        ],
+        "winner": "Wendy Davis Schuler",
+        "year": 2022
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Wyoming Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97852,
+        "medianAge": 40.6,
+        "totalPopulation": 18042,
+        "collegePct": 33.88,
+        "renterRatePct": 21.9,
+        "race": {
+          "whitePct": 91.62,
+          "nonHispanicWhitePct": 89.08,
+          "blackPct": 0.03,
+          "asianPct": 0.64,
+          "hispanicPct": 7.77
+        }
+      },
+      "election": {
+        "district": "SD-16",
+        "candidates": [
+          {
+            "name": "Dan Dockstader",
+            "party": "R",
+            "votes": 8830
+          }
+        ],
+        "winner": "Dan Dockstader",
+        "year": 2024
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Wyoming Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109944,
+        "medianAge": 38.9,
+        "totalPopulation": 19842,
+        "collegePct": 60.48,
+        "renterRatePct": 40.32,
+        "race": {
+          "whitePct": 79.59,
+          "nonHispanicWhitePct": 77.91,
+          "blackPct": 0.69,
+          "asianPct": 1.35,
+          "hispanicPct": 14.97
+        }
+      },
+      "election": {
+        "district": "SD-17",
+        "candidates": [
+          {
+            "name": "Steve Duerr",
+            "party": "R",
+            "votes": 2615
+          },
+          {
+            "name": "Michael F. 'Mike' Gierau",
+            "party": "D",
+            "votes": 5142
+          },
+          {
+            "name": "Amanda Padilla",
+            "party": "L",
+            "votes": 421
+          }
+        ],
+        "winner": "Michael F. 'Mike' Gierau",
+        "year": 2022
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Wyoming Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70566,
+        "medianAge": 46.1,
+        "totalPopulation": 18513,
+        "collegePct": 37.31,
+        "renterRatePct": 26.86,
+        "race": {
+          "whitePct": 91.57,
+          "nonHispanicWhitePct": 90.7,
+          "blackPct": 0.34,
+          "asianPct": 0.31,
+          "hispanicPct": 4.15
+        }
+      },
+      "election": {
+        "district": "SD-18",
+        "candidates": [
+          {
+            "name": "Tim A. French",
+            "party": "R",
+            "votes": 8568
+          }
+        ],
+        "winner": "Tim A. French",
+        "year": 2024
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Wyoming Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67207,
+        "medianAge": 40.7,
+        "totalPopulation": 18510,
+        "collegePct": 25.42,
+        "renterRatePct": 22.36,
+        "race": {
+          "whitePct": 87.94,
+          "nonHispanicWhitePct": 83.97,
+          "blackPct": 0.42,
+          "asianPct": 0.71,
+          "hispanicPct": 9.84
+        }
+      },
+      "election": {
+        "district": "SD-19",
+        "candidates": [
+          {
+            "name": "Dan Laursen",
+            "party": "R",
+            "votes": 5538
+          }
+        ],
+        "winner": "Dan Laursen",
+        "year": 2022
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Wyoming Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62839,
+        "medianAge": 45.7,
+        "totalPopulation": 17883,
+        "collegePct": 24.37,
+        "renterRatePct": 25.6,
+        "race": {
+          "whitePct": 86.98,
+          "nonHispanicWhitePct": 85.52,
+          "blackPct": 0.27,
+          "asianPct": 0.29,
+          "hispanicPct": 9.14
+        }
+      },
+      "election": {
+        "district": "SD-20",
+        "candidates": [
+          {
+            "name": "Ed Cooper",
+            "party": "R",
+            "votes": 8236
+          }
+        ],
+        "winner": "Ed Cooper",
+        "year": 2024
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Wyoming Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66120,
+        "medianAge": 43.6,
+        "totalPopulation": 19709,
+        "collegePct": 33.38,
+        "renterRatePct": 35,
+        "race": {
+          "whitePct": 92.22,
+          "nonHispanicWhitePct": 89.74,
+          "blackPct": 0.57,
+          "asianPct": 0.44,
+          "hispanicPct": 4.89
+        }
+      },
+      "election": {
+        "district": "SD-21",
+        "candidates": [
+          {
+            "name": "Bo Biteman",
+            "party": "R",
+            "votes": 5815
+          },
+          {
+            "name": "Mark Hansen",
+            "party": "D",
+            "votes": 2101
+          }
+        ],
+        "winner": "Bo Biteman",
+        "year": 2022
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Wyoming Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69208,
+        "medianAge": 43.9,
+        "totalPopulation": 20478,
+        "collegePct": 32.06,
+        "renterRatePct": 20.98,
+        "race": {
+          "whitePct": 92.72,
+          "nonHispanicWhitePct": 89.93,
+          "blackPct": 0.11,
+          "asianPct": 1.45,
+          "hispanicPct": 4.51
+        }
+      },
+      "election": {
+        "district": "SD-22",
+        "candidates": [
+          {
+            "name": "Barry Crago",
+            "party": "R",
+            "votes": 8599
+          }
+        ],
+        "winner": "Barry Crago",
+        "year": 2024
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Wyoming Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94922,
+        "medianAge": 33.9,
+        "totalPopulation": 17962,
+        "collegePct": 24.46,
+        "renterRatePct": 14.12,
+        "race": {
+          "whitePct": 84.72,
+          "nonHispanicWhitePct": 82.46,
+          "blackPct": 0.77,
+          "asianPct": 0,
+          "hispanicPct": 11.12
+        }
+      },
+      "election": {
+        "district": "SD-23",
+        "candidates": [
+          {
+            "name": "Eric Barlow",
+            "party": "R",
+            "votes": 3611
+          },
+          {
+            "name": "Patricia Junek",
+            "party": "I",
+            "votes": 1369
+          }
+        ],
+        "winner": "Eric Barlow",
+        "year": 2022
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Wyoming Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86457,
+        "medianAge": 34.2,
+        "totalPopulation": 18252,
+        "collegePct": 22.44,
+        "renterRatePct": 29.32,
+        "race": {
+          "whitePct": 89.32,
+          "nonHispanicWhitePct": 87.82,
+          "blackPct": 0.14,
+          "asianPct": 0.43,
+          "hispanicPct": 7.33
+        }
+      },
+      "election": {
+        "district": "SD-24",
+        "candidates": [
+          {
+            "name": "Troy D McKeown",
+            "party": "R",
+            "votes": 5305
+          }
+        ],
+        "winner": "Troy D McKeown",
+        "year": 2024
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Wyoming Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72126,
+        "medianAge": 37,
+        "totalPopulation": 19247,
+        "collegePct": 29.01,
+        "renterRatePct": 28.28,
+        "race": {
+          "whitePct": 61.1,
+          "nonHispanicWhitePct": 59.82,
+          "blackPct": 0.67,
+          "asianPct": 0.06,
+          "hispanicPct": 5.18
+        }
+      },
+      "election": {
+        "district": "SD-25",
+        "candidates": [
+          {
+            "name": "Cale Case",
+            "party": "R",
+            "votes": 4365
+          }
+        ],
+        "winner": "Cale Case",
+        "year": 2022
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Wyoming Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60773,
+        "medianAge": 41.9,
+        "totalPopulation": 19491,
+        "collegePct": 22.43,
+        "renterRatePct": 30.57,
+        "race": {
+          "whitePct": 81.88,
+          "nonHispanicWhitePct": 78.83,
+          "blackPct": 0.42,
+          "asianPct": 0.83,
+          "hispanicPct": 8.26
+        }
+      },
+      "election": {
+        "district": "SD-26",
+        "candidates": [
+          {
+            "name": "Tim Salazar",
+            "party": "R",
+            "votes": 7266
+          }
+        ],
+        "winner": "Tim Salazar",
+        "year": 2024
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Wyoming Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77181,
+        "medianAge": 39.9,
+        "totalPopulation": 17958,
+        "collegePct": 33.64,
+        "renterRatePct": 29.55,
+        "race": {
+          "whitePct": 91.54,
+          "nonHispanicWhitePct": 87.47,
+          "blackPct": 0.82,
+          "asianPct": 0.6,
+          "hispanicPct": 7.66
+        }
+      },
+      "election": {
+        "district": "SD-27",
+        "candidates": [
+          {
+            "name": "Bill Landen",
+            "party": "R",
+            "votes": 4477
+          }
+        ],
+        "winner": "Bill Landen",
+        "year": 2022
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Wyoming Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62331,
+        "medianAge": 36.1,
+        "totalPopulation": 18210,
+        "collegePct": 30.67,
+        "renterRatePct": 37.04,
+        "race": {
+          "whitePct": 88.89,
+          "nonHispanicWhitePct": 83.31,
+          "blackPct": 0.19,
+          "asianPct": 0.88,
+          "hispanicPct": 10.85
+        }
+      },
+      "election": {
+        "district": "SD-28",
+        "candidates": [
+          {
+            "name": "Jim Anderson",
+            "party": "R",
+            "votes": 5354
+          }
+        ],
+        "winner": "Jim Anderson",
+        "year": 2024
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Wyoming Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70554,
+        "medianAge": 37.2,
+        "totalPopulation": 19942,
+        "collegePct": 29.51,
+        "renterRatePct": 23.56,
+        "race": {
+          "whitePct": 89.43,
+          "nonHispanicWhitePct": 84.16,
+          "blackPct": 0.74,
+          "asianPct": 0.42,
+          "hispanicPct": 9.48
+        }
+      },
+      "election": {
+        "district": "SD-29",
+        "candidates": [
+          {
+            "name": "Bob Ide",
+            "party": "R",
+            "votes": 4402
+          }
+        ],
+        "winner": "Bob Ide",
+        "year": 2022
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Wyoming Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77591,
+        "medianAge": 39.6,
+        "totalPopulation": 19448,
+        "collegePct": 18.97,
+        "renterRatePct": 14.96,
+        "race": {
+          "whitePct": 88.81,
+          "nonHispanicWhitePct": 86.87,
+          "blackPct": 0.49,
+          "asianPct": 0.19,
+          "hispanicPct": 8.04
+        }
+      },
+      "election": {
+        "district": "SD-30",
+        "candidates": [
+          {
+            "name": "Charles K. Scott",
+            "party": "R",
+            "votes": 6406
+          }
+        ],
+        "winner": "Charles K. Scott",
+        "year": 2024
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Wyoming Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Wyoming",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76412,
+        "medianAge": 36.6,
+        "totalPopulation": 18508,
+        "collegePct": 28.95,
+        "renterRatePct": 25.86,
+        "race": {
+          "whitePct": 80.3,
+          "nonHispanicWhitePct": 72.3,
+          "blackPct": 4.53,
+          "asianPct": 0.55,
+          "hispanicPct": 17.33
+        }
+      },
+      "election": {
+        "district": "SD-31",
+        "candidates": [
+          {
+            "name": "Evie Brennan",
+            "party": "R",
+            "votes": 3807
+          }
+        ],
+        "winner": "Evie Brennan",
+        "year": 2022
+      }
+    }
+  }
+}

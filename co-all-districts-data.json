@@ -1,0 +1,3276 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Colorado House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81721,
+        "medianAge": 36.1,
+        "totalPopulation": 86943,
+        "collegePct": 33.53,
+        "renterRatePct": 41.27,
+        "race": {
+          "whitePct": 58.43,
+          "nonHispanicWhitePct": 42.46,
+          "blackPct": 2.77,
+          "asianPct": 5.28,
+          "hispanicPct": 45.06
+        }
+      },
+      "election": {
+        "district": "HD-01",
+        "winner": "Javier Mabrey",
+        "winner_party": "D",
+        "winner_pct": 64.8,
+        "other_candidates": [
+          {
+            "name": "Barbara DeHaan",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Colorado House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 122898,
+        "medianAge": 37.4,
+        "totalPopulation": 85194,
+        "collegePct": 79.64,
+        "renterRatePct": 46.19,
+        "race": {
+          "whitePct": 85.32,
+          "nonHispanicWhitePct": 82.02,
+          "blackPct": 1.74,
+          "asianPct": 2.98,
+          "hispanicPct": 8.66
+        }
+      },
+      "election": {
+        "district": "HD-02",
+        "winner": "Steven Woodrow",
+        "winner_party": "D",
+        "winner_pct": 74.2,
+        "other_candidates": [
+          {
+            "name": "Michael F. DiManna",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Colorado House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81366,
+        "medianAge": 35.7,
+        "totalPopulation": 86535,
+        "collegePct": 50.69,
+        "renterRatePct": 53.98,
+        "race": {
+          "whitePct": 69.45,
+          "nonHispanicWhitePct": 63.48,
+          "blackPct": 6.95,
+          "asianPct": 3.04,
+          "hispanicPct": 21.29
+        }
+      },
+      "election": {
+        "district": "HD-03",
+        "winner": "Meg Froelich",
+        "winner_party": "D",
+        "winner_pct": 64,
+        "other_candidates": [
+          {
+            "count": 2,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Colorado House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93792,
+        "medianAge": 34.3,
+        "totalPopulation": 86949,
+        "collegePct": 52.92,
+        "renterRatePct": 47.34,
+        "race": {
+          "whitePct": 63.91,
+          "nonHispanicWhitePct": 51.54,
+          "blackPct": 2.52,
+          "asianPct": 1.95,
+          "hispanicPct": 39.04
+        }
+      },
+      "election": {
+        "district": "HD-04",
+        "winner": "Cecelia Espenoza",
+        "winner_party": "D",
+        "winner_pct": 78.9,
+        "other_candidates": [
+          {
+            "name": "Jack Daus",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Colorado House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97088,
+        "medianAge": 33.2,
+        "totalPopulation": 85457,
+        "collegePct": 57.98,
+        "renterRatePct": 65.94,
+        "race": {
+          "whitePct": 63.92,
+          "nonHispanicWhitePct": 54.6,
+          "blackPct": 4.09,
+          "asianPct": 2.88,
+          "hispanicPct": 33.06
+        }
+      },
+      "election": {
+        "district": "HD-05",
+        "winner": "Alex Valdez",
+        "winner_party": "D",
+        "winner_pct": 79.6,
+        "other_candidates": [
+          {
+            "name": "Johnnie Wesley Johnson",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Colorado House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76258,
+        "medianAge": 36.5,
+        "totalPopulation": 87579,
+        "collegePct": 63.98,
+        "renterRatePct": 63.15,
+        "race": {
+          "whitePct": 72.45,
+          "nonHispanicWhitePct": 67.49,
+          "blackPct": 8.26,
+          "asianPct": 2.99,
+          "hispanicPct": 15.69
+        }
+      },
+      "election": {
+        "district": "HD-06",
+        "winner": "Sean Camacho",
+        "winner_party": "D",
+        "winner_pct": 84.6,
+        "other_candidates": [
+          {
+            "name": "Kyle Witter",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Colorado House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97686,
+        "medianAge": 32.4,
+        "totalPopulation": 93266,
+        "collegePct": 30.13,
+        "renterRatePct": 29.96,
+        "race": {
+          "whitePct": 29.88,
+          "nonHispanicWhitePct": 19.48,
+          "blackPct": 24.7,
+          "asianPct": 5.78,
+          "hispanicPct": 46
+        }
+      },
+      "election": {
+        "district": "HD-07",
+        "winner": "Jennifer Bacon",
+        "winner_party": "D",
+        "winner_pct": 73.1,
+        "other_candidates": [
+          {
+            "count": 3,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Colorado House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111210,
+        "medianAge": 35.7,
+        "totalPopulation": 89783,
+        "collegePct": 62.92,
+        "renterRatePct": 44.96,
+        "race": {
+          "whitePct": 63.46,
+          "nonHispanicWhitePct": 58.06,
+          "blackPct": 14.33,
+          "asianPct": 3.14,
+          "hispanicPct": 18.35
+        }
+      },
+      "election": {
+        "district": "HD-08",
+        "winner": "Lindsay Gilchrist",
+        "winner_party": "D",
+        "winner_pct": 85.2,
+        "other_candidates": [
+          {
+            "count": 3,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Colorado House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77711,
+        "medianAge": 35.2,
+        "totalPopulation": 90356,
+        "collegePct": 55.83,
+        "renterRatePct": 58.65,
+        "race": {
+          "whitePct": 65.15,
+          "nonHispanicWhitePct": 61.04,
+          "blackPct": 12.47,
+          "asianPct": 4.02,
+          "hispanicPct": 16.09
+        }
+      },
+      "election": {
+        "district": "HD-09",
+        "winner": "Emily Sirota",
+        "winner_party": "D",
+        "winner_pct": 74.5,
+        "other_candidates": [
+          {
+            "name": "Tom Cowhick",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Colorado House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72883,
+        "medianAge": 26.9,
+        "totalPopulation": 87504,
+        "collegePct": 75.25,
+        "renterRatePct": 57.4,
+        "race": {
+          "whitePct": 80.24,
+          "nonHispanicWhitePct": 76.42,
+          "blackPct": 1.17,
+          "asianPct": 6.13,
+          "hispanicPct": 11.81
+        }
+      },
+      "election": {
+        "district": "HD-10",
+        "winner": "Junie Joseph",
+        "winner_party": "D",
+        "winner_pct": 84.3,
+        "other_candidates": [
+          {
+            "name": "William B. DeOreo",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Colorado House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87988,
+        "medianAge": 39.9,
+        "totalPopulation": 87801,
+        "collegePct": 45.27,
+        "renterRatePct": 37.79,
+        "race": {
+          "whitePct": 76.43,
+          "nonHispanicWhitePct": 66.71,
+          "blackPct": 1.14,
+          "asianPct": 3.05,
+          "hispanicPct": 25.12
+        }
+      },
+      "election": {
+        "district": "HD-11",
+        "winner": "Karen McCormick",
+        "winner_party": "D",
+        "winner_pct": 69.3,
+        "other_candidates": [
+          {
+            "name": "Kathy Reeves",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Colorado House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 132489,
+        "medianAge": 40.9,
+        "totalPopulation": 86323,
+        "collegePct": 68.95,
+        "renterRatePct": 31.22,
+        "race": {
+          "whitePct": 81.03,
+          "nonHispanicWhitePct": 77.42,
+          "blackPct": 0.63,
+          "asianPct": 5.74,
+          "hispanicPct": 10.69
+        }
+      },
+      "election": {
+        "district": "HD-12",
+        "winner": "Kyle Brown",
+        "winner_party": "D",
+        "winner_pct": 76.6,
+        "other_candidates": [
+          {
+            "name": "Mark Milliman",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Colorado House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90905,
+        "medianAge": 43.9,
+        "totalPopulation": 91669,
+        "collegePct": 45.7,
+        "renterRatePct": 24.54,
+        "race": {
+          "whitePct": 83.01,
+          "nonHispanicWhitePct": 78.49,
+          "blackPct": 0.61,
+          "asianPct": 0.95,
+          "hispanicPct": 13.91
+        }
+      },
+      "election": {
+        "district": "HD-13",
+        "winner": "Julie McCluskie",
+        "winner_party": "D",
+        "winner_pct": 55.2,
+        "other_candidates": [
+          {
+            "name": "Dave Williams",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Colorado House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 121492,
+        "medianAge": 38.7,
+        "totalPopulation": 91830,
+        "collegePct": 59.81,
+        "renterRatePct": 31.09,
+        "race": {
+          "whitePct": 79.09,
+          "nonHispanicWhitePct": 75.53,
+          "blackPct": 3.08,
+          "asianPct": 4.46,
+          "hispanicPct": 10.19
+        }
+      },
+      "election": {
+        "district": "HD-14",
+        "winner": "Rose Pugliese",
+        "winner_party": "R",
+        "winner_pct": 60.7,
+        "other_candidates": [
+          {
+            "name": "Katherine \"Kat\" Gayle",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Colorado House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100190,
+        "medianAge": 32.3,
+        "totalPopulation": 93101,
+        "collegePct": 41.11,
+        "renterRatePct": 25.72,
+        "race": {
+          "whitePct": 67.37,
+          "nonHispanicWhitePct": 60.28,
+          "blackPct": 5.72,
+          "asianPct": 4.03,
+          "hispanicPct": 21.96
+        }
+      },
+      "election": {
+        "district": "HD-15",
+        "winner": "Scott Bottoms",
+        "winner_party": "R",
+        "winner_pct": 58,
+        "other_candidates": [
+          {
+            "name": "Jeff K. Livingston",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Colorado House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70543,
+        "medianAge": 37.2,
+        "totalPopulation": 90010,
+        "collegePct": 32.92,
+        "renterRatePct": 42.6,
+        "race": {
+          "whitePct": 73.68,
+          "nonHispanicWhitePct": 67.45,
+          "blackPct": 5.81,
+          "asianPct": 1.56,
+          "hispanicPct": 18.36
+        }
+      },
+      "election": {
+        "district": "HD-16",
+        "winner": "Rebecca Keltie",
+        "winner_party": "R",
+        "winner_pct": 50,
+        "other_candidates": [
+          {
+            "name": "Steph Vigil",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Colorado House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59323,
+        "medianAge": 30.2,
+        "totalPopulation": 87460,
+        "collegePct": 20.25,
+        "renterRatePct": 47.99,
+        "race": {
+          "whitePct": 53.72,
+          "nonHispanicWhitePct": 43.46,
+          "blackPct": 12.82,
+          "asianPct": 2.75,
+          "hispanicPct": 34.85
+        }
+      },
+      "election": {
+        "district": "HD-17",
+        "winner": "Regina English",
+        "winner_party": "D",
+        "winner_pct": 55.9,
+        "other_candidates": [
+          {
+            "name": "Elizabeth Riggs",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Colorado House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75741,
+        "medianAge": 41,
+        "totalPopulation": 86229,
+        "collegePct": 48.77,
+        "renterRatePct": 44.32,
+        "race": {
+          "whitePct": 79.17,
+          "nonHispanicWhitePct": 74.1,
+          "blackPct": 3.39,
+          "asianPct": 2.36,
+          "hispanicPct": 14.35
+        }
+      },
+      "election": {
+        "district": "HD-18",
+        "winner": "Amy T. Paschal",
+        "winner_party": "D",
+        "winner_pct": 53.5,
+        "other_candidates": [
+          {
+            "name": "James R. Boelens Jr.",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Colorado House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 130095,
+        "medianAge": 38,
+        "totalPopulation": 94575,
+        "collegePct": 49.31,
+        "renterRatePct": 14.95,
+        "race": {
+          "whitePct": 78.91,
+          "nonHispanicWhitePct": 72.56,
+          "blackPct": 0.78,
+          "asianPct": 4.52,
+          "hispanicPct": 17.45
+        }
+      },
+      "election": {
+        "district": "HD-19",
+        "winner": "Dan Woog",
+        "winner_party": "R",
+        "winner_pct": 50.1,
+        "other_candidates": [
+          {
+            "name": "Jillaire McMillan",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Colorado House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 141861,
+        "medianAge": 38.9,
+        "totalPopulation": 89805,
+        "collegePct": 54.58,
+        "renterRatePct": 10.99,
+        "race": {
+          "whitePct": 81.98,
+          "nonHispanicWhitePct": 79.03,
+          "blackPct": 3.04,
+          "asianPct": 2.32,
+          "hispanicPct": 9.46
+        }
+      },
+      "election": {
+        "district": "HD-20",
+        "winner": "Jarvis Caldwell",
+        "winner_party": "R",
+        "winner_pct": 71.9,
+        "other_candidates": [
+          {
+            "name": "Arik Dougherty",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Colorado House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81454,
+        "medianAge": 28.7,
+        "totalPopulation": 88610,
+        "collegePct": 28.18,
+        "renterRatePct": 31.02,
+        "race": {
+          "whitePct": 65.39,
+          "nonHispanicWhitePct": 56.3,
+          "blackPct": 10.51,
+          "asianPct": 2.84,
+          "hispanicPct": 24.13
+        }
+      },
+      "election": {
+        "district": "HD-21",
+        "winner": "Mary Bradfield",
+        "winner_party": "R",
+        "winner_pct": 58.2,
+        "other_candidates": [
+          {
+            "name": "Liz Rosenbaum",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Colorado House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88286,
+        "medianAge": 35.3,
+        "totalPopulation": 89057,
+        "collegePct": 42.52,
+        "renterRatePct": 32.81,
+        "race": {
+          "whitePct": 78.19,
+          "nonHispanicWhitePct": 72.32,
+          "blackPct": 4.28,
+          "asianPct": 2.59,
+          "hispanicPct": 15.15
+        }
+      },
+      "election": {
+        "district": "HD-22",
+        "winner": "Ken deGraaf",
+        "winner_party": "R",
+        "winner_pct": 56.6,
+        "other_candidates": [
+          {
+            "count": 2,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Colorado House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91782,
+        "medianAge": 39.6,
+        "totalPopulation": 86466,
+        "collegePct": 48.13,
+        "renterRatePct": 42.22,
+        "race": {
+          "whitePct": 81.99,
+          "nonHispanicWhitePct": 75.26,
+          "blackPct": 1.3,
+          "asianPct": 2.29,
+          "hispanicPct": 16.69
+        }
+      },
+      "election": {
+        "district": "HD-23",
+        "winner": "Monica Irasema Duran",
+        "winner_party": "D",
+        "winner_pct": 63.8,
+        "other_candidates": [
+          {
+            "name": "Cory Ohnesorge",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Colorado House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106904,
+        "medianAge": 40.8,
+        "totalPopulation": 89346,
+        "collegePct": 48.35,
+        "renterRatePct": 29.29,
+        "race": {
+          "whitePct": 84.28,
+          "nonHispanicWhitePct": 78.1,
+          "blackPct": 0.75,
+          "asianPct": 1.97,
+          "hispanicPct": 15.37
+        }
+      },
+      "election": {
+        "district": "HD-24",
+        "winner": "Lisa Feret",
+        "winner_party": "D",
+        "winner_pct": 56.6,
+        "other_candidates": [
+          {
+            "name": "Gwen Henderson",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Colorado House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 138291,
+        "medianAge": 46.3,
+        "totalPopulation": 87682,
+        "collegePct": 60.62,
+        "renterRatePct": 11.39,
+        "race": {
+          "whitePct": 89.01,
+          "nonHispanicWhitePct": 86.15,
+          "blackPct": 0.54,
+          "asianPct": 1.24,
+          "hispanicPct": 7.94
+        }
+      },
+      "election": {
+        "district": "HD-25",
+        "winner": "Tammy Story",
+        "winner_party": "D",
+        "winner_pct": 52.1,
+        "other_candidates": [
+          {
+            "name": "George B. Mumma Jr",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Colorado House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95112,
+        "medianAge": 39.9,
+        "totalPopulation": 90649,
+        "collegePct": 45.01,
+        "renterRatePct": 29.32,
+        "race": {
+          "whitePct": 77.84,
+          "nonHispanicWhitePct": 71.28,
+          "blackPct": 0.64,
+          "asianPct": 1.02,
+          "hispanicPct": 20.84
+        }
+      },
+      "election": {
+        "district": "HD-26",
+        "winner": "Meghan Lukens",
+        "winner_party": "D",
+        "winner_pct": 56.6,
+        "other_candidates": [
+          {
+            "name": "Nathan Butler",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Colorado House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 129082,
+        "medianAge": 39.4,
+        "totalPopulation": 89108,
+        "collegePct": 57.39,
+        "renterRatePct": 21.2,
+        "race": {
+          "whitePct": 83.56,
+          "nonHispanicWhitePct": 79.43,
+          "blackPct": 1.14,
+          "asianPct": 3.35,
+          "hispanicPct": 12.1
+        }
+      },
+      "election": {
+        "district": "HD-27",
+        "winner": "Brianna Titone",
+        "winner_party": "D",
+        "winner_pct": 56.8,
+        "other_candidates": [
+          {
+            "name": "Ed Cox",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Colorado House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113024,
+        "medianAge": 40.3,
+        "totalPopulation": 84936,
+        "collegePct": 51.39,
+        "renterRatePct": 25.36,
+        "race": {
+          "whitePct": 79.89,
+          "nonHispanicWhitePct": 74.26,
+          "blackPct": 1.54,
+          "asianPct": 4.15,
+          "hispanicPct": 15.69
+        }
+      },
+      "election": {
+        "district": "HD-28",
+        "winner": "Sheila Lieder",
+        "winner_party": "D",
+        "winner_pct": 52.8,
+        "other_candidates": [
+          {
+            "name": "Peter Boddie",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Colorado House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107554,
+        "medianAge": 38.2,
+        "totalPopulation": 87844,
+        "collegePct": 49,
+        "renterRatePct": 32.61,
+        "race": {
+          "whitePct": 78.94,
+          "nonHispanicWhitePct": 72.06,
+          "blackPct": 0.98,
+          "asianPct": 4.87,
+          "hispanicPct": 17.1
+        }
+      },
+      "election": {
+        "district": "HD-29",
+        "winner": "Shannon Bird",
+        "winner_party": "D",
+        "winner_pct": 60.8,
+        "other_candidates": [
+          {
+            "name": "Evan Shields Hunt",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Colorado House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81019,
+        "medianAge": 37.2,
+        "totalPopulation": 86613,
+        "collegePct": 39.39,
+        "renterRatePct": 45.11,
+        "race": {
+          "whitePct": 71.53,
+          "nonHispanicWhitePct": 60.87,
+          "blackPct": 1.62,
+          "asianPct": 4.03,
+          "hispanicPct": 29.39
+        }
+      },
+      "election": {
+        "district": "HD-30",
+        "winner": "Rebekah Stewart",
+        "winner_party": "D",
+        "winner_pct": 62.2,
+        "other_candidates": [
+          {
+            "name": "Ramey Johnson",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Colorado House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87957,
+        "medianAge": 32.7,
+        "totalPopulation": 86948,
+        "collegePct": 24.36,
+        "renterRatePct": 31.8,
+        "race": {
+          "whitePct": 57.26,
+          "nonHispanicWhitePct": 40.09,
+          "blackPct": 2.27,
+          "asianPct": 4.91,
+          "hispanicPct": 48.48
+        }
+      },
+      "election": {
+        "district": "HD-31",
+        "winner": "Jacqueline \"Jacque\" Phillips",
+        "winner_party": "D",
+        "winner_pct": 55.9,
+        "other_candidates": [
+          {
+            "name": "Heidi Pitchforth",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Colorado House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98630,
+        "medianAge": 33.8,
+        "totalPopulation": 91407,
+        "collegePct": 21.04,
+        "renterRatePct": 23.91,
+        "race": {
+          "whitePct": 58.5,
+          "nonHispanicWhitePct": 38.28,
+          "blackPct": 3.72,
+          "asianPct": 2.27,
+          "hispanicPct": 52.8
+        }
+      },
+      "election": {
+        "district": "HD-32",
+        "winner": "Manny Rutinel",
+        "winner_party": "D",
+        "winner_pct": 100,
+        "other_candidates": [],
+        "year": 2024
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Colorado House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 122865,
+        "medianAge": 39.3,
+        "totalPopulation": 88269,
+        "collegePct": 56.9,
+        "renterRatePct": 34.08,
+        "race": {
+          "whitePct": 78.42,
+          "nonHispanicWhitePct": 72.68,
+          "blackPct": 1.53,
+          "asianPct": 6.75,
+          "hispanicPct": 14.64
+        }
+      },
+      "election": {
+        "district": "HD-33",
+        "winner": "William Lindstedt",
+        "winner_party": "D",
+        "winner_pct": 58.6,
+        "other_candidates": [
+          {
+            "name": "Michael Martinez",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Colorado House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99761,
+        "medianAge": 35.9,
+        "totalPopulation": 87962,
+        "collegePct": 33.36,
+        "renterRatePct": 30.5,
+        "race": {
+          "whitePct": 67.3,
+          "nonHispanicWhitePct": 57.08,
+          "blackPct": 2.5,
+          "asianPct": 5.84,
+          "hispanicPct": 29.76
+        }
+      },
+      "election": {
+        "district": "HD-34",
+        "winner": "Jenny Willford",
+        "winner_party": "D",
+        "winner_pct": 50.6,
+        "other_candidates": [
+          {
+            "count": 3,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Colorado House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70361,
+        "medianAge": 34.6,
+        "totalPopulation": 87460,
+        "collegePct": 23.82,
+        "renterRatePct": 37.68,
+        "race": {
+          "whitePct": 57.22,
+          "nonHispanicWhitePct": 38.58,
+          "blackPct": 1.54,
+          "asianPct": 2.94,
+          "hispanicPct": 53.87
+        }
+      },
+      "election": {
+        "district": "HD-35",
+        "winner": "Lorena Garcia",
+        "winner_party": "D",
+        "winner_pct": 64.6,
+        "other_candidates": [
+          {
+            "name": "Lee J Knoll",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Colorado House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85585,
+        "medianAge": 33.3,
+        "totalPopulation": 90045,
+        "collegePct": 26.91,
+        "renterRatePct": 37.33,
+        "race": {
+          "whitePct": 41.25,
+          "nonHispanicWhitePct": 33.15,
+          "blackPct": 15.03,
+          "asianPct": 5.61,
+          "hispanicPct": 40.16
+        }
+      },
+      "election": {
+        "district": "HD-36",
+        "winner": "Michael Carter",
+        "winner_party": "D",
+        "winner_pct": 71.5,
+        "other_candidates": [
+          {
+            "name": "Eric Mulder",
+            "party": "F"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Colorado House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 124444,
+        "medianAge": 40.7,
+        "totalPopulation": 87512,
+        "collegePct": 68.13,
+        "renterRatePct": 34.47,
+        "race": {
+          "whitePct": 74,
+          "nonHispanicWhitePct": 71.07,
+          "blackPct": 3.07,
+          "asianPct": 9.06,
+          "hispanicPct": 10.98
+        }
+      },
+      "election": {
+        "district": "HD-37",
+        "winner": "Chad Clifford",
+        "winner_party": "D",
+        "winner_pct": 97.3,
+        "other_candidates": [
+          {
+            "name": "Kevin Biehl",
+            "party": "U"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Colorado House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109557,
+        "medianAge": 42.1,
+        "totalPopulation": 89067,
+        "collegePct": 57.8,
+        "renterRatePct": 25.3,
+        "race": {
+          "whitePct": 85.55,
+          "nonHispanicWhitePct": 81.67,
+          "blackPct": 1.3,
+          "asianPct": 2.14,
+          "hispanicPct": 10.44
+        }
+      },
+      "election": {
+        "district": "HD-38",
+        "winner": "Gretchen Jeannette Rydin",
+        "winner_party": "D",
+        "winner_pct": 54.6,
+        "other_candidates": [
+          {
+            "name": "Jeffrey Patty",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Colorado House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 148647,
+        "medianAge": 41.9,
+        "totalPopulation": 91090,
+        "collegePct": 65.49,
+        "renterRatePct": 26.38,
+        "race": {
+          "whitePct": 81.97,
+          "nonHispanicWhitePct": 79.26,
+          "blackPct": 2.12,
+          "asianPct": 6.38,
+          "hispanicPct": 7.67
+        }
+      },
+      "election": {
+        "district": "HD-39",
+        "winner": "Brandi Bradley",
+        "winner_party": "R",
+        "winner_pct": 59,
+        "other_candidates": [
+          {
+            "name": "Eric Brody",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Colorado House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102976,
+        "medianAge": 37.6,
+        "totalPopulation": 89661,
+        "collegePct": 38.48,
+        "renterRatePct": 22.53,
+        "race": {
+          "whitePct": 59.32,
+          "nonHispanicWhitePct": 53.03,
+          "blackPct": 13.21,
+          "asianPct": 6.59,
+          "hispanicPct": 20.87
+        }
+      },
+      "election": {
+        "district": "HD-40",
+        "winner": "Naquetta Ricks",
+        "winner_party": "D",
+        "winner_pct": 56.6,
+        "other_candidates": [
+          {
+            "count": 2,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Colorado House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76789,
+        "medianAge": 36.6,
+        "totalPopulation": 88614,
+        "collegePct": 33.63,
+        "renterRatePct": 34.07,
+        "race": {
+          "whitePct": 51.96,
+          "nonHispanicWhitePct": 44.98,
+          "blackPct": 18.02,
+          "asianPct": 6.42,
+          "hispanicPct": 26.21
+        }
+      },
+      "election": {
+        "district": "HD-41",
+        "winner": "Iman Jodeh",
+        "winner_party": "D",
+        "winner_pct": 61.3,
+        "other_candidates": [
+          {
+            "count": 2,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Colorado House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64306,
+        "medianAge": 32,
+        "totalPopulation": 91697,
+        "collegePct": 22.61,
+        "renterRatePct": 56.36,
+        "race": {
+          "whitePct": 34.08,
+          "nonHispanicWhitePct": 25.45,
+          "blackPct": 21.03,
+          "asianPct": 4.76,
+          "hispanicPct": 43.94
+        }
+      },
+      "election": {
+        "district": "HD-42",
+        "winner": "Mandy Lindsay",
+        "winner_party": "D",
+        "winner_pct": 100,
+        "other_candidates": [],
+        "year": 2024
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Colorado House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 147208,
+        "medianAge": 41.4,
+        "totalPopulation": 86997,
+        "collegePct": 64.86,
+        "renterRatePct": 23.44,
+        "race": {
+          "whitePct": 82.88,
+          "nonHispanicWhitePct": 79.06,
+          "blackPct": 1.08,
+          "asianPct": 6.26,
+          "hispanicPct": 9.61
+        }
+      },
+      "election": {
+        "district": "HD-43",
+        "winner": "Bob Marshall",
+        "winner_party": "D",
+        "winner_pct": 51.3,
+        "other_candidates": [
+          {
+            "name": "Matt Burcham",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Colorado House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 138516,
+        "medianAge": 36.9,
+        "totalPopulation": 92676,
+        "collegePct": 56.72,
+        "renterRatePct": 21.79,
+        "race": {
+          "whitePct": 78.33,
+          "nonHispanicWhitePct": 74.91,
+          "blackPct": 1.51,
+          "asianPct": 6.97,
+          "hispanicPct": 11.52
+        }
+      },
+      "election": {
+        "district": "HD-44",
+        "winner": "Anthony Hartsook",
+        "winner_party": "R",
+        "winner_pct": 58.6,
+        "other_candidates": [
+          {
+            "name": "Alyssa Nilemo",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Colorado House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 146403,
+        "medianAge": 37.6,
+        "totalPopulation": 93540,
+        "collegePct": 56.67,
+        "renterRatePct": 17.95,
+        "race": {
+          "whitePct": 83.63,
+          "nonHispanicWhitePct": 79.67,
+          "blackPct": 1,
+          "asianPct": 2.66,
+          "hispanicPct": 11.01
+        }
+      },
+      "election": {
+        "district": "HD-45",
+        "winner": "Max Brooks",
+        "winner_party": "R",
+        "winner_pct": 62.3,
+        "other_candidates": [
+          {
+            "name": "Chad Cox",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Colorado House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62196,
+        "medianAge": 41.7,
+        "totalPopulation": 88784,
+        "collegePct": 27.41,
+        "renterRatePct": 32.91,
+        "race": {
+          "whitePct": 75.08,
+          "nonHispanicWhitePct": 53.21,
+          "blackPct": 2.37,
+          "asianPct": 0.84,
+          "hispanicPct": 40.28
+        }
+      },
+      "election": {
+        "district": "HD-46",
+        "winner": "Tisha Mauro",
+        "winner_party": "D",
+        "winner_pct": 52.3,
+        "other_candidates": [
+          {
+            "name": "Kim Swearingen",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Colorado House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60140,
+        "medianAge": 41.8,
+        "totalPopulation": 93532,
+        "collegePct": 21.29,
+        "renterRatePct": 26.86,
+        "race": {
+          "whitePct": 75.58,
+          "nonHispanicWhitePct": 58.76,
+          "blackPct": 1.49,
+          "asianPct": 1.12,
+          "hispanicPct": 34.39
+        }
+      },
+      "election": {
+        "district": "HD-47",
+        "winner": "Ty S. Winter",
+        "winner_party": "R",
+        "winner_pct": 67.2,
+        "other_candidates": [
+          {
+            "name": "Elizabeth Bulthuis",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Colorado House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95243,
+        "medianAge": 36.1,
+        "totalPopulation": 91189,
+        "collegePct": 22.7,
+        "renterRatePct": 22.6,
+        "race": {
+          "whitePct": 67.96,
+          "nonHispanicWhitePct": 54.13,
+          "blackPct": 2.1,
+          "asianPct": 1.21,
+          "hispanicPct": 38.97
+        }
+      },
+      "election": {
+        "district": "HD-48",
+        "winner": "Carlos Barron",
+        "winner_party": "R",
+        "winner_pct": 100,
+        "other_candidates": [],
+        "year": 2024
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Colorado House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 117072,
+        "medianAge": 49.7,
+        "totalPopulation": 84738,
+        "collegePct": 60.7,
+        "renterRatePct": 17.63,
+        "race": {
+          "whitePct": 89.86,
+          "nonHispanicWhitePct": 86.74,
+          "blackPct": 0.53,
+          "asianPct": 1.62,
+          "hispanicPct": 7.03
+        }
+      },
+      "election": {
+        "district": "HD-49",
+        "winner": "Lesley Smith",
+        "winner_party": "D",
+        "winner_pct": 63.8,
+        "other_candidates": [
+          {
+            "name": "Steve Ferrante",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Colorado House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58563,
+        "medianAge": 30,
+        "totalPopulation": 86723,
+        "collegePct": 19.54,
+        "renterRatePct": 44.92,
+        "race": {
+          "whitePct": 67.11,
+          "nonHispanicWhitePct": 41.74,
+          "blackPct": 2.75,
+          "asianPct": 1.37,
+          "hispanicPct": 51.28
+        }
+      },
+      "election": {
+        "district": "HD-50",
+        "winner": "Ryan Gonzalez",
+        "winner_party": "R",
+        "winner_pct": 51.1,
+        "other_candidates": [
+          {
+            "name": "Mary Young",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Colorado House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83358,
+        "medianAge": 41.2,
+        "totalPopulation": 89520,
+        "collegePct": 40.13,
+        "renterRatePct": 34.99,
+        "race": {
+          "whitePct": 85.38,
+          "nonHispanicWhitePct": 80.49,
+          "blackPct": 0.76,
+          "asianPct": 1.03,
+          "hispanicPct": 14.28
+        }
+      },
+      "election": {
+        "district": "HD-51",
+        "winner": "Ron Weinberg",
+        "winner_party": "R",
+        "winner_pct": 52.6,
+        "other_candidates": [
+          {
+            "name": "Sarah McKeen",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Colorado House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101677,
+        "medianAge": 36.5,
+        "totalPopulation": 90180,
+        "collegePct": 58.38,
+        "renterRatePct": 37.59,
+        "race": {
+          "whitePct": 80.18,
+          "nonHispanicWhitePct": 76.65,
+          "blackPct": 1.34,
+          "asianPct": 3.64,
+          "hispanicPct": 13.25
+        }
+      },
+      "election": {
+        "district": "HD-52",
+        "winner": "Yara Zokaie",
+        "winner_party": "D",
+        "winner_pct": 63.3,
+        "other_candidates": [
+          {
+            "name": "Steve Yurash",
+            "party": "C"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Colorado House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67140,
+        "medianAge": 27.4,
+        "totalPopulation": 90400,
+        "collegePct": 59.27,
+        "renterRatePct": 54.71,
+        "race": {
+          "whitePct": 83.35,
+          "nonHispanicWhitePct": 78.85,
+          "blackPct": 1.42,
+          "asianPct": 2.82,
+          "hispanicPct": 12.08
+        }
+      },
+      "election": {
+        "district": "HD-53",
+        "winner": "Andy Boesenecker",
+        "winner_party": "D",
+        "winner_pct": 73.5,
+        "other_candidates": [
+          {
+            "name": "Donna Walter",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Colorado House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71271,
+        "medianAge": 42,
+        "totalPopulation": 91745,
+        "collegePct": 24.74,
+        "renterRatePct": 21.47,
+        "race": {
+          "whitePct": 84.87,
+          "nonHispanicWhitePct": 79.6,
+          "blackPct": 0.52,
+          "asianPct": 0.74,
+          "hispanicPct": 14.58
+        }
+      },
+      "election": {
+        "district": "HD-54",
+        "winner": "Matt Soper",
+        "winner_party": "R",
+        "winner_pct": 100,
+        "other_candidates": [],
+        "year": 2024
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Colorado House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66780,
+        "medianAge": 40.8,
+        "totalPopulation": 88219,
+        "collegePct": 34.66,
+        "renterRatePct": 34.15,
+        "race": {
+          "whitePct": 84.73,
+          "nonHispanicWhitePct": 78.28,
+          "blackPct": 0.67,
+          "asianPct": 1.08,
+          "hispanicPct": 16.13
+        }
+      },
+      "election": {
+        "district": "HD-55",
+        "winner": "Rick Taggart",
+        "winner_party": "R",
+        "winner_pct": 100,
+        "other_candidates": [],
+        "year": 2024
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Colorado House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105606,
+        "medianAge": 41.3,
+        "totalPopulation": 89966,
+        "collegePct": 30.17,
+        "renterRatePct": 12.65,
+        "race": {
+          "whitePct": 80.8,
+          "nonHispanicWhitePct": 76.79,
+          "blackPct": 1.9,
+          "asianPct": 1.22,
+          "hispanicPct": 14.54
+        }
+      },
+      "election": {
+        "district": "HD-56",
+        "winner": "Chris Richardson",
+        "winner_party": "R",
+        "winner_pct": 75.7,
+        "other_candidates": [
+          {
+            "name": "Alessandra A. Navetta",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Colorado House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91971,
+        "medianAge": 39.2,
+        "totalPopulation": 88644,
+        "collegePct": 42.1,
+        "renterRatePct": 30.43,
+        "race": {
+          "whitePct": 75.74,
+          "nonHispanicWhitePct": 66.35,
+          "blackPct": 0.52,
+          "asianPct": 1.14,
+          "hispanicPct": 27.81
+        }
+      },
+      "election": {
+        "district": "HD-57",
+        "winner": "Elizabeth Velasco",
+        "winner_party": "D",
+        "winner_pct": 55.8,
+        "other_candidates": [
+          {
+            "name": "Caleb Waller",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Colorado House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71137,
+        "medianAge": 45.3,
+        "totalPopulation": 90752,
+        "collegePct": 39.51,
+        "renterRatePct": 25.68,
+        "race": {
+          "whitePct": 85.67,
+          "nonHispanicWhitePct": 79.95,
+          "blackPct": 0.66,
+          "asianPct": 0.49,
+          "hispanicPct": 14.87
+        }
+      },
+      "election": {
+        "district": "HD-58",
+        "winner": "Larry Don Suckla",
+        "winner_party": "R",
+        "winner_pct": 54.6,
+        "other_candidates": [
+          {
+            "name": "Kathleen Curry",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Colorado House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76632,
+        "medianAge": 43.8,
+        "totalPopulation": 91469,
+        "collegePct": 42.41,
+        "renterRatePct": 27.97,
+        "race": {
+          "whitePct": 80.84,
+          "nonHispanicWhitePct": 74.58,
+          "blackPct": 0.47,
+          "asianPct": 0.79,
+          "hispanicPct": 13.59
+        }
+      },
+      "election": {
+        "district": "HD-59",
+        "winner": "Katie Stewart",
+        "winner_party": "D",
+        "winner_pct": 51.2,
+        "other_candidates": [
+          {
+            "name": "Clark Craig",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Colorado House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71945,
+        "medianAge": 48.4,
+        "totalPopulation": 91068,
+        "collegePct": 28.49,
+        "renterRatePct": 18.82,
+        "race": {
+          "whitePct": 87.19,
+          "nonHispanicWhitePct": 80.36,
+          "blackPct": 2.37,
+          "asianPct": 0.8,
+          "hispanicPct": 11.73
+        }
+      },
+      "election": {
+        "district": "HD-60",
+        "winner": "Stephanie Luck",
+        "winner_party": "R",
+        "winner_pct": 69.8,
+        "other_candidates": [
+          {
+            "name": "Kathryn Green",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Colorado House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 146278,
+        "medianAge": 40.2,
+        "totalPopulation": 92959,
+        "collegePct": 56.59,
+        "renterRatePct": 13.65,
+        "race": {
+          "whitePct": 70.82,
+          "nonHispanicWhitePct": 66.91,
+          "blackPct": 6.48,
+          "asianPct": 9.08,
+          "hispanicPct": 11.87
+        }
+      },
+      "election": {
+        "district": "HD-61",
+        "winner": "Eliza Hamrick",
+        "winner_party": "D",
+        "winner_pct": 100,
+        "other_candidates": [],
+        "year": 2024
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Colorado House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50040,
+        "medianAge": 38.2,
+        "totalPopulation": 90111,
+        "collegePct": 22.42,
+        "renterRatePct": 37.38,
+        "race": {
+          "whitePct": 66.7,
+          "nonHispanicWhitePct": 43.57,
+          "blackPct": 1.72,
+          "asianPct": 0.43,
+          "hispanicPct": 50.42
+        }
+      },
+      "election": {
+        "district": "HD-62",
+        "winner": "Matthew Martinez",
+        "winner_party": "D",
+        "winner_pct": 53.8,
+        "other_candidates": [
+          {
+            "name": "Carol Riggenbach",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Colorado House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68911,
+        "medianAge": 39.1,
+        "totalPopulation": 88506,
+        "collegePct": 21.34,
+        "renterRatePct": 28.62,
+        "race": {
+          "whitePct": 78.82,
+          "nonHispanicWhitePct": 68.89,
+          "blackPct": 1.51,
+          "asianPct": 0.47,
+          "hispanicPct": 25.71
+        }
+      },
+      "election": {
+        "district": "HD-63",
+        "winner": "Dusty A Johnson",
+        "winner_party": "R",
+        "winner_pct": 100,
+        "other_candidates": [],
+        "year": 2024
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Colorado House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101426,
+        "medianAge": 37,
+        "totalPopulation": 93768,
+        "collegePct": 36.72,
+        "renterRatePct": 19.71,
+        "race": {
+          "whitePct": 81.14,
+          "nonHispanicWhitePct": 73.69,
+          "blackPct": 0.92,
+          "asianPct": 1.19,
+          "hispanicPct": 21.59
+        }
+      },
+      "election": {
+        "district": "HD-64",
+        "winner": "Ryan Armagost",
+        "winner_party": "R",
+        "winner_pct": 63.5,
+        "other_candidates": [
+          {
+            "name": "Mark K Matthews",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Colorado House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119880,
+        "medianAge": 37.8,
+        "totalPopulation": 96876,
+        "collegePct": 50.28,
+        "renterRatePct": 17.93,
+        "race": {
+          "whitePct": 85.01,
+          "nonHispanicWhitePct": 81,
+          "blackPct": 0.77,
+          "asianPct": 1.14,
+          "hispanicPct": 13.44
+        }
+      },
+      "election": {
+        "district": "HD-65",
+        "winner": "Lori Garcia Sander",
+        "winner_party": "R",
+        "winner_pct": 62.7,
+        "other_candidates": [
+          {
+            "name": "Will Walters",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Colorado Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82993,
+        "medianAge": 38.7,
+        "totalPopulation": 163780,
+        "collegePct": 26.86,
+        "renterRatePct": 24.08,
+        "race": {
+          "whitePct": 77.94,
+          "nonHispanicWhitePct": 68.41,
+          "blackPct": 1.42,
+          "asianPct": 0.77,
+          "hispanicPct": 26.03
+        }
+      },
+      "election": {
+        "district": "SD-01",
+        "winner": "Byron Pelton",
+        "winner_party": "R",
+        "winner_pct": 100,
+        "other_candidates": [],
+        "year": 2022
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Colorado Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 140757,
+        "medianAge": 37,
+        "totalPopulation": 173984,
+        "collegePct": 55.47,
+        "renterRatePct": 20.51,
+        "race": {
+          "whitePct": 81.68,
+          "nonHispanicWhitePct": 77.91,
+          "blackPct": 1.26,
+          "asianPct": 4.04,
+          "hispanicPct": 11.33
+        }
+      },
+      "election": {
+        "district": "SD-02",
+        "winner": "Lisa Frizell",
+        "winner_party": "R",
+        "winner_pct": 60.7,
+        "other_candidates": [
+          {
+            "count": 2,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Colorado Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62250,
+        "medianAge": 40.4,
+        "totalPopulation": 168726,
+        "collegePct": 25.02,
+        "renterRatePct": 31.68,
+        "race": {
+          "whitePct": 74.46,
+          "nonHispanicWhitePct": 51.63,
+          "blackPct": 2.08,
+          "asianPct": 0.86,
+          "hispanicPct": 41.97
+        }
+      },
+      "election": {
+        "district": "SD-03",
+        "winner": "Nick Hinrichsen",
+        "winner_party": "D",
+        "winner_pct": 51.2,
+        "other_candidates": [
+          {
+            "count": 2,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2022
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Colorado Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90393,
+        "medianAge": 48.3,
+        "totalPopulation": 175854,
+        "collegePct": 41.33,
+        "renterRatePct": 16.71,
+        "race": {
+          "whitePct": 88.69,
+          "nonHispanicWhitePct": 83.87,
+          "blackPct": 1.49,
+          "asianPct": 0.79,
+          "hispanicPct": 9.6
+        }
+      },
+      "election": {
+        "district": "SD-04",
+        "winner": "Mark Baisley",
+        "winner_party": "R",
+        "winner_pct": 60.8,
+        "other_candidates": [
+          {
+            "name": "Jeff Ravage",
+            "party": "D"
+          }
+        ],
+        "year": 2022
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Colorado Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78775,
+        "medianAge": 41.4,
+        "totalPopulation": 164110,
+        "collegePct": 38.39,
+        "renterRatePct": 29.38,
+        "race": {
+          "whitePct": 80.3,
+          "nonHispanicWhitePct": 72.23,
+          "blackPct": 0.56,
+          "asianPct": 0.93,
+          "hispanicPct": 22.45
+        }
+      },
+      "election": {
+        "district": "SD-05",
+        "winner": "Marc Catlin",
+        "winner_party": "R",
+        "winner_pct": 52.2,
+        "other_candidates": [
+          {
+            "name": "Cole Buerger",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Colorado Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68824,
+        "medianAge": 43.4,
+        "totalPopulation": 162655,
+        "collegePct": 39.42,
+        "renterRatePct": 28.57,
+        "race": {
+          "whitePct": 78.12,
+          "nonHispanicWhitePct": 69.27,
+          "blackPct": 0.72,
+          "asianPct": 0.61,
+          "hispanicPct": 21.63
+        }
+      },
+      "election": {
+        "district": "SD-06",
+        "winner": "Cleave Alan Simpson",
+        "winner_party": "R",
+        "winner_pct": 55.9,
+        "other_candidates": [
+          {
+            "name": "Vivian Smotherman",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Colorado Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71052,
+        "medianAge": 41,
+        "totalPopulation": 162674,
+        "collegePct": 30.71,
+        "renterRatePct": 27.9,
+        "race": {
+          "whitePct": 84.97,
+          "nonHispanicWhitePct": 79.38,
+          "blackPct": 0.58,
+          "asianPct": 0.91,
+          "hispanicPct": 14.84
+        }
+      },
+      "election": {
+        "district": "SD-07",
+        "winner": "Janice Rich",
+        "winner_party": "R",
+        "winner_pct": 70.1,
+        "other_candidates": [
+          {
+            "name": "David C. Stahlke",
+            "party": "D"
+          }
+        ],
+        "year": 2022
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Colorado Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95432,
+        "medianAge": 40.8,
+        "totalPopulation": 161673,
+        "collegePct": 46.02,
+        "renterRatePct": 27.06,
+        "race": {
+          "whitePct": 79.12,
+          "nonHispanicWhitePct": 73.49,
+          "blackPct": 0.63,
+          "asianPct": 1.01,
+          "hispanicPct": 18.39
+        }
+      },
+      "election": {
+        "district": "SD-08",
+        "winner": "Dylan Roberts",
+        "winner_party": "D",
+        "winner_pct": 55.7,
+        "other_candidates": [
+          {
+            "name": "Matt Solomon",
+            "party": "R"
+          }
+        ],
+        "year": 2022
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Colorado Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 123282,
+        "medianAge": 38.3,
+        "totalPopulation": 167854,
+        "collegePct": 58.17,
+        "renterRatePct": 26.73,
+        "race": {
+          "whitePct": 80.32,
+          "nonHispanicWhitePct": 76.58,
+          "blackPct": 2.99,
+          "asianPct": 3.84,
+          "hispanicPct": 10.21
+        }
+      },
+      "election": {
+        "district": "SD-09",
+        "winner": "Paul Lundeen",
+        "winner_party": "R",
+        "winner_pct": 62.3,
+        "other_candidates": [
+          {
+            "count": 2,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2022
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Colorado Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89922,
+        "medianAge": 35.3,
+        "totalPopulation": 169978,
+        "collegePct": 40,
+        "renterRatePct": 32.06,
+        "race": {
+          "whitePct": 75.33,
+          "nonHispanicWhitePct": 69.83,
+          "blackPct": 4.32,
+          "asianPct": 2.67,
+          "hispanicPct": 17.13
+        }
+      },
+      "election": {
+        "district": "SD-10",
+        "winner": "Larry G. Liston",
+        "winner_party": "R",
+        "winner_pct": 57.1,
+        "other_candidates": [
+          {
+            "count": 2,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Colorado Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63007,
+        "medianAge": 31.5,
+        "totalPopulation": 168439,
+        "collegePct": 24.84,
+        "renterRatePct": 47.17,
+        "race": {
+          "whitePct": 59.3,
+          "nonHispanicWhitePct": 49.55,
+          "blackPct": 10.58,
+          "asianPct": 2.84,
+          "hispanicPct": 29.78
+        }
+      },
+      "election": {
+        "district": "SD-11",
+        "winner": "Tony Exum",
+        "winner_party": "D",
+        "winner_pct": 49.9,
+        "other_candidates": [
+          {
+            "count": 2,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2022
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Colorado Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81337,
+        "medianAge": 34,
+        "totalPopulation": 167840,
+        "collegePct": 40.73,
+        "renterRatePct": 35.7,
+        "race": {
+          "whitePct": 72.63,
+          "nonHispanicWhitePct": 65.8,
+          "blackPct": 6.78,
+          "asianPct": 2.5,
+          "hispanicPct": 18.97
+        }
+      },
+      "election": {
+        "district": "SD-12",
+        "winner": "Marc Snyder",
+        "winner_party": "D",
+        "winner_pct": 48.9,
+        "other_candidates": [
+          {
+            "count": 2,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Colorado Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71248,
+        "medianAge": 32,
+        "totalPopulation": 163521,
+        "collegePct": 21.36,
+        "renterRatePct": 36.65,
+        "race": {
+          "whitePct": 66.6,
+          "nonHispanicWhitePct": 46.17,
+          "blackPct": 2.51,
+          "asianPct": 1.36,
+          "hispanicPct": 46.72
+        }
+      },
+      "election": {
+        "district": "SD-13",
+        "winner": "Scott Bright",
+        "winner_party": "R",
+        "winner_pct": 56.6,
+        "other_candidates": [
+          {
+            "name": "Matt Johnston",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Colorado Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80376,
+        "medianAge": 30.9,
+        "totalPopulation": 158611,
+        "collegePct": 58.82,
+        "renterRatePct": 47.61,
+        "race": {
+          "whitePct": 82.46,
+          "nonHispanicWhitePct": 78.43,
+          "blackPct": 1.45,
+          "asianPct": 2.81,
+          "hispanicPct": 12.41
+        }
+      },
+      "election": {
+        "district": "SD-14",
+        "winner": "Cathy Kipp",
+        "winner_party": "D",
+        "winner_pct": 68.2,
+        "other_candidates": [
+          {
+            "count": 2,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Colorado Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93923,
+        "medianAge": 43.8,
+        "totalPopulation": 161639,
+        "collegePct": 46.06,
+        "renterRatePct": 26.24,
+        "race": {
+          "whitePct": 87.29,
+          "nonHispanicWhitePct": 83.03,
+          "blackPct": 0.56,
+          "asianPct": 0.99,
+          "hispanicPct": 11.86
+        }
+      },
+      "election": {
+        "district": "SD-15",
+        "winner": "Janice Marchman",
+        "winner_party": "D",
+        "winner_pct": 50.6,
+        "other_candidates": [
+          {
+            "name": "Rob Woodward",
+            "party": "R"
+          }
+        ],
+        "year": 2022
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Colorado Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 117837,
+        "medianAge": 42.1,
+        "totalPopulation": 164957,
+        "collegePct": 57.72,
+        "renterRatePct": 21.34,
+        "race": {
+          "whitePct": 84.88,
+          "nonHispanicWhitePct": 81.2,
+          "blackPct": 1.28,
+          "asianPct": 2.29,
+          "hispanicPct": 10.53
+        }
+      },
+      "election": {
+        "district": "SD-16",
+        "winner": "Chris Kolker",
+        "winner_party": "D",
+        "winner_pct": 52.1,
+        "other_candidates": [
+          {
+            "count": 2,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Colorado Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105027,
+        "medianAge": 39.8,
+        "totalPopulation": 166689,
+        "collegePct": 54.22,
+        "renterRatePct": 31.56,
+        "race": {
+          "whitePct": 78.75,
+          "nonHispanicWhitePct": 71.16,
+          "blackPct": 0.76,
+          "asianPct": 3.75,
+          "hispanicPct": 19.45
+        }
+      },
+      "election": {
+        "district": "SD-17",
+        "winner": "Sonya Jaquez Lewis",
+        "winner_party": "D",
+        "winner_pct": 66.8,
+        "other_candidates": [
+          {
+            "name": "Tom Van Lone",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Colorado Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102927,
+        "medianAge": 32.4,
+        "totalPopulation": 161238,
+        "collegePct": 74.53,
+        "renterRatePct": 44.69,
+        "race": {
+          "whitePct": 81.73,
+          "nonHispanicWhitePct": 78.29,
+          "blackPct": 0.91,
+          "asianPct": 6.15,
+          "hispanicPct": 10.13
+        }
+      },
+      "election": {
+        "district": "SD-18",
+        "winner": "Judy Amabile",
+        "winner_party": "D",
+        "winner_pct": 90.5,
+        "other_candidates": [
+          {
+            "name": "Gary Swing",
+            "party": "U"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Colorado Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106717,
+        "medianAge": 39.8,
+        "totalPopulation": 161147,
+        "collegePct": 48.04,
+        "renterRatePct": 28.17,
+        "race": {
+          "whitePct": 82.19,
+          "nonHispanicWhitePct": 75.78,
+          "blackPct": 1.09,
+          "asianPct": 2.71,
+          "hispanicPct": 16.36
+        }
+      },
+      "election": {
+        "district": "SD-19",
+        "winner": "Lindsey Daugherty",
+        "winner_party": "D",
+        "winner_pct": 56.1,
+        "other_candidates": [
+          {
+            "count": 2,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Colorado Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 122205,
+        "medianAge": 42.3,
+        "totalPopulation": 166031,
+        "collegePct": 56.02,
+        "renterRatePct": 20.22,
+        "race": {
+          "whitePct": 82.77,
+          "nonHispanicWhitePct": 78.33,
+          "blackPct": 0.83,
+          "asianPct": 3.48,
+          "hispanicPct": 13.04
+        }
+      },
+      "election": {
+        "district": "SD-20",
+        "winner": "Lisa A. Cutter",
+        "winner_party": "D",
+        "winner_pct": 54.2,
+        "other_candidates": [
+          {
+            "count": 2,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2022
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Colorado Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90179,
+        "medianAge": 34.5,
+        "totalPopulation": 170827,
+        "collegePct": 22.75,
+        "renterRatePct": 27.14,
+        "race": {
+          "whitePct": 60.3,
+          "nonHispanicWhitePct": 42.23,
+          "blackPct": 2.58,
+          "asianPct": 2.24,
+          "hispanicPct": 49.71
+        }
+      },
+      "election": {
+        "district": "SD-21",
+        "winner": "Dafna Michaelson Jenet",
+        "winner_party": "D",
+        "winner_pct": 51.1,
+        "other_candidates": [
+          {
+            "name": "Frederick Alfred Jr",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Colorado Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84774,
+        "medianAge": 37.3,
+        "totalPopulation": 163989,
+        "collegePct": 44.76,
+        "renterRatePct": 47.8,
+        "race": {
+          "whitePct": 76.98,
+          "nonHispanicWhitePct": 68.15,
+          "blackPct": 1.59,
+          "asianPct": 3.29,
+          "hispanicPct": 22.57
+        }
+      },
+      "election": {
+        "district": "SD-22",
+        "winner": "Jessie Danielson",
+        "winner_party": "D",
+        "winner_pct": 67.3,
+        "other_candidates": [
+          {
+            "name": "Colby Drechsel",
+            "party": "R"
+          }
+        ],
+        "year": 2022
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Colorado Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120128,
+        "medianAge": 36.8,
+        "totalPopulation": 174161,
+        "collegePct": 45.06,
+        "renterRatePct": 17.94,
+        "race": {
+          "whitePct": 82.08,
+          "nonHispanicWhitePct": 77.17,
+          "blackPct": 0.88,
+          "asianPct": 2.53,
+          "hispanicPct": 15.74
+        }
+      },
+      "election": {
+        "district": "SD-23",
+        "winner": "Barb Kirkmeyer",
+        "winner_party": "R",
+        "winner_pct": 97.8,
+        "other_candidates": [
+          {
+            "name": "Joseph Bobko",
+            "party": "D"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Colorado Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96826,
+        "medianAge": 34.4,
+        "totalPopulation": 167369,
+        "collegePct": 30.56,
+        "renterRatePct": 27.3,
+        "race": {
+          "whitePct": 62.22,
+          "nonHispanicWhitePct": 48.63,
+          "blackPct": 2.17,
+          "asianPct": 5.57,
+          "hispanicPct": 39.87
+        }
+      },
+      "election": {
+        "district": "SD-24",
+        "winner": "Kyle Mullica",
+        "winner_party": "D",
+        "winner_pct": 53.8,
+        "other_candidates": [
+          {
+            "count": 2,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2022
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Colorado Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104292,
+        "medianAge": 37.9,
+        "totalPopulation": 169179,
+        "collegePct": 46.39,
+        "renterRatePct": 37.47,
+        "race": {
+          "whitePct": 73.81,
+          "nonHispanicWhitePct": 65.38,
+          "blackPct": 1.71,
+          "asianPct": 5.63,
+          "hispanicPct": 22.37
+        }
+      },
+      "election": {
+        "district": "SD-25",
+        "winner": "Faith Winter",
+        "winner_party": "D",
+        "winner_pct": 61.5,
+        "other_candidates": [
+          {
+            "name": "Melody Peotter",
+            "party": "R"
+          }
+        ],
+        "year": 2022
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Colorado Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86794,
+        "medianAge": 36.8,
+        "totalPopulation": 162591,
+        "collegePct": 53.91,
+        "renterRatePct": 49.66,
+        "race": {
+          "whitePct": 69.57,
+          "nonHispanicWhitePct": 64.27,
+          "blackPct": 7.44,
+          "asianPct": 4.96,
+          "hispanicPct": 18.14
+        }
+      },
+      "election": {
+        "district": "SD-26",
+        "winner": "Jeff Bridges",
+        "winner_party": "D",
+        "winner_pct": 62,
+        "other_candidates": [
+          {
+            "count": 2,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Colorado Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 126030,
+        "medianAge": 38.6,
+        "totalPopulation": 166333,
+        "collegePct": 54.71,
+        "renterRatePct": 25.94,
+        "race": {
+          "whitePct": 67.28,
+          "nonHispanicWhitePct": 63.2,
+          "blackPct": 7.8,
+          "asianPct": 9.6,
+          "hispanicPct": 13.42
+        }
+      },
+      "election": {
+        "district": "SD-27",
+        "winner": "Tom Sullivan",
+        "winner_party": "D",
+        "winner_pct": 54.9,
+        "other_candidates": [
+          {
+            "count": 2,
+            "name": null,
+            "note": "opponents not individually named in source"
+          }
+        ],
+        "year": 2022
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Colorado Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77751,
+        "medianAge": 33,
+        "totalPopulation": 167228,
+        "collegePct": 25.69,
+        "renterRatePct": 41.92,
+        "race": {
+          "whitePct": 40.03,
+          "nonHispanicWhitePct": 31.49,
+          "blackPct": 17.32,
+          "asianPct": 5.47,
+          "hispanicPct": 40.23
+        }
+      },
+      "election": {
+        "district": "SD-28",
+        "winner": "Mike Weissman",
+        "winner_party": "D",
+        "winner_pct": 63.5,
+        "other_candidates": [
+          {
+            "name": "Pedro Espinoza",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Colorado Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79340,
+        "medianAge": 35.9,
+        "totalPopulation": 162155,
+        "collegePct": 33.01,
+        "renterRatePct": 35.66,
+        "race": {
+          "whitePct": 50.59,
+          "nonHispanicWhitePct": 43.76,
+          "blackPct": 17.06,
+          "asianPct": 5.55,
+          "hispanicPct": 28.49
+        }
+      },
+      "election": {
+        "district": "SD-29",
+        "winner": "Janet Buckner",
+        "winner_party": "D",
+        "winner_pct": 100,
+        "other_candidates": [],
+        "year": 2024
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Colorado Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 150197,
+        "medianAge": 40.4,
+        "totalPopulation": 170170,
+        "collegePct": 66.44,
+        "renterRatePct": 26.24,
+        "race": {
+          "whitePct": 80.41,
+          "nonHispanicWhitePct": 77.25,
+          "blackPct": 1.74,
+          "asianPct": 7.64,
+          "hispanicPct": 8.96
+        }
+      },
+      "election": {
+        "district": "SD-30",
+        "winner": "Kevin Van Winkle",
+        "winner_party": "R",
+        "winner_pct": 53.8,
+        "other_candidates": [
+          {
+            "name": "Braeden Miguel",
+            "party": "D"
+          }
+        ],
+        "year": 2022
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Colorado Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97182,
+        "medianAge": 36.6,
+        "totalPopulation": 161261,
+        "collegePct": 71.54,
+        "renterRatePct": 59.32,
+        "race": {
+          "whitePct": 77.96,
+          "nonHispanicWhitePct": 73.79,
+          "blackPct": 5.8,
+          "asianPct": 2.88,
+          "hispanicPct": 12.47
+        }
+      },
+      "election": {
+        "district": "SD-31",
+        "winner": "Chris Hansen",
+        "winner_party": "D",
+        "winner_pct": 83.9,
+        "other_candidates": [
+          {
+            "name": "David Aitken",
+            "party": "L"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Colorado Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79659,
+        "medianAge": 36,
+        "totalPopulation": 160546,
+        "collegePct": 49.55,
+        "renterRatePct": 50.33,
+        "race": {
+          "whitePct": 64.49,
+          "nonHispanicWhitePct": 54.97,
+          "blackPct": 6.25,
+          "asianPct": 4.23,
+          "hispanicPct": 29.37
+        }
+      },
+      "election": {
+        "district": "SD-32",
+        "winner": "Robert Rodriguez",
+        "winner_party": "D",
+        "winner_pct": 76,
+        "other_candidates": [
+          {
+            "name": "Dean Flanders",
+            "party": "R"
+          }
+        ],
+        "year": 2022
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Colorado Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104852,
+        "medianAge": 34.1,
+        "totalPopulation": 166295,
+        "collegePct": 46.28,
+        "renterRatePct": 34.17,
+        "race": {
+          "whitePct": 43.93,
+          "nonHispanicWhitePct": 35.79,
+          "blackPct": 20.27,
+          "asianPct": 4.59,
+          "hispanicPct": 34.05
+        }
+      },
+      "election": {
+        "district": "SD-33",
+        "winner": "James Coleman",
+        "winner_party": "D",
+        "winner_pct": 81.8,
+        "other_candidates": [
+          {
+            "name": "Max Minnig",
+            "party": "R"
+          }
+        ],
+        "year": 2024
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Colorado Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94939,
+        "medianAge": 33.6,
+        "totalPopulation": 166079,
+        "collegePct": 53.96,
+        "renterRatePct": 55.32,
+        "race": {
+          "whitePct": 63.11,
+          "nonHispanicWhitePct": 51.38,
+          "blackPct": 2.91,
+          "asianPct": 2.36,
+          "hispanicPct": 38.3
+        }
+      },
+      "election": {
+        "district": "SD-34",
+        "winner": "Julie C. Gonzales",
+        "winner_party": "D",
+        "winner_pct": 100,
+        "other_candidates": [],
+        "year": 2022
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Colorado Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); Colorado",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80961,
+        "medianAge": 42.2,
+        "totalPopulation": 171191,
+        "collegePct": 29.92,
+        "renterRatePct": 19.52,
+        "race": {
+          "whitePct": 78.78,
+          "nonHispanicWhitePct": 70.25,
+          "blackPct": 2.2,
+          "asianPct": 1.07,
+          "hispanicPct": 20.78
+        }
+      },
+      "election": {
+        "district": "SD-35",
+        "winner": "Rod Pelton",
+        "winner_party": "R",
+        "winner_pct": 74.3,
+        "other_candidates": [
+          {
+            "name": "Travis Star Nelson",
+            "party": "D"
+          }
+        ],
+        "year": 2022
+      }
+    }
+  }
+}
