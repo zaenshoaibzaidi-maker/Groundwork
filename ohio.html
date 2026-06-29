@@ -296,7 +296,6 @@
 </div>
 
 <script src="oh-districts.js"></script>
-<script src="oh-senate-districts.js"></script>
 <script>
 /* ── MODE ── */
 let currentMode = 'house';
@@ -411,7 +410,7 @@ function onSearchFocus() { requireAccess(openDropdown); }
 function openDropdown() {
   const q = document.getElementById('districtSearch').value.trim().toLowerCase();
   const dd = document.getElementById('searchDropdown');
-  const sourceData = currentMode === 'house' ? DISTRICTS : SENATE_DISTRICTS;
+  const sourceData = currentMode === 'house' ? OH_HOUSE_DISTRICTS : OH_SENATE_DISTRICTS;
   filteredResults = q.length === 0
     ? sourceData
     : sourceData.filter(d =>
@@ -498,8 +497,8 @@ function showHome() {
 
 /* ── RENDER DISTRICT ── */
 function showDistrict(id) {
-  let entry = DISTRICTS.find(d => d.id === id);
-  if (!entry) entry = SENATE_DISTRICTS.find(d => d.id === id);
+  let entry = OH_HOUSE_DISTRICTS.find(d => d.id === id);
+  if (!entry) entry = OH_SENATE_DISTRICTS.find(d => d.id === id);
   if (!entry || !entry.dashboard) { if (entry) showComingSoon(entry); return; }
   const d = entry.dashboard;
 

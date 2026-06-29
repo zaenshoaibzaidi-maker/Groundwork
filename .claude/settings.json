@@ -153,7 +153,15 @@
       "Bash(cp zz-districts.js zz-districts.js.orig)",
       "Bash(node fix-oklahoma-briefs.js)",
       "Bash(chmod +x /Users/zzaidi/GroundWork/regenerate-all.sh)",
-      "Bash(bash -n /Users/zzaidi/GroundWork/regenerate-all.sh)"
+      "Bash(bash -n /Users/zzaidi/GroundWork/regenerate-all.sh)",
+      "Bash(cp /Users/zzaidi/GroundWork/oh-districts.js /private/tmp/claude-501/-Users-zzaidi-GroundWork/e85ba993-0f73-4a61-8cdc-a7af0d9cc6b0/scratchpad/oh-districts.js.bak)",
+      "Bash(python3 /private/tmp/claude-501/-Users-zzaidi-GroundWork/e85ba993-0f73-4a61-8cdc-a7af0d9cc6b0/scratchpad/clear_fields.py)",
+      "Bash(node --check oh-districts.js)",
+      "Bash(grep -v \"districts.js$\\\\|generate-districts.js$\")",
+      "Bash(uniq -c -f1)",
+      "Bash(awk -F'\"' '{print $2}')",
+      "Bash(node oh-generate-districts.js)",
+      "Bash(node --check /tmp/oh_inline.js)"
     ],
     "additionalDirectories": [
       "/tmp",
