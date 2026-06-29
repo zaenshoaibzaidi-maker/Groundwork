@@ -1,0 +1,1388 @@
+[
+  {
+    "district": 1,
+    "senator": {
+      "winner": "Derek Stanford",
+      "winnerParty": "DEM",
+      "winnerPct": 96.05,
+      "opposed": false
+    },
+    "rep1": {
+      "winner": "Davina Duerr",
+      "winnerParty": "DEM",
+      "winnerPct": 69.18,
+      "opposed": true,
+      "runnerUp": "Mark Davies",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 30.68
+    },
+    "rep2": {
+      "winner": "Shelley Kloba",
+      "winnerParty": "DEM",
+      "winnerPct": 96.15,
+      "opposed": false
+    }
+  },
+  {
+    "district": 2,
+    "senator": {
+      "winner": "Jim McCune",
+      "winnerParty": "REP",
+      "winnerPct": 63.05,
+      "opposed": true,
+      "runnerUp": "Erasmo Ruiz Gonzalez",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 36.8
+    },
+    "rep1": {
+      "winner": "Andrew Barkis",
+      "winnerParty": "REP",
+      "winnerPct": 95.24,
+      "opposed": false
+    },
+    "rep2": {
+      "winner": "Matt Marshall",
+      "winnerParty": "REP",
+      "winnerPct": 55.4,
+      "opposed": true,
+      "runnerUp": "John Snaza",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 41.51
+    }
+  },
+  {
+    "district": 3,
+    "senator": {
+      "winner": "Marcus Riccelli",
+      "winnerParty": "DEM",
+      "winnerPct": 60.54,
+      "opposed": true,
+      "runnerUp": "Jim Wilson",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 39.33
+    },
+    "rep1": {
+      "winner": "Natasha Hill",
+      "winnerParty": "DEM",
+      "winnerPct": 58.64,
+      "opposed": true,
+      "runnerUp": "Tony Kiepe",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 41.11
+    },
+    "rep2": {
+      "winner": "Timm Ormsby",
+      "winnerParty": "DEM",
+      "winnerPct": 92.76,
+      "opposed": false
+    }
+  },
+  {
+    "district": 4,
+    "senator": {
+      "winner": "Leonard Christian",
+      "winnerParty": "REP",
+      "winnerPct": 64.3,
+      "opposed": true,
+      "runnerUp": "Miguel Valencia",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 35.55
+    },
+    "rep1": {
+      "winner": "Suzanne Schmidt",
+      "winnerParty": "REP",
+      "winnerPct": 68.36,
+      "opposed": true,
+      "runnerUp": "Kristopher Pockell",
+      "runnerUpParty": "IND",
+      "runnerUpPct": 30.96
+    },
+    "rep2": {
+      "winner": "Rob Chase",
+      "winnerParty": "REP",
+      "winnerPct": 63.54,
+      "opposed": true,
+      "runnerUp": "Ted Cummings",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 36.28
+    }
+  },
+  {
+    "district": 5,
+    "senator": {
+      "winner": "Bill Ramos",
+      "winnerParty": "DEM",
+      "winnerPct": 51.97,
+      "opposed": true,
+      "runnerUp": "Chad Magendanz",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 47.96
+    },
+    "rep1": {
+      "winner": "Victoria Hunt",
+      "winnerParty": "DEM",
+      "winnerPct": 54.05,
+      "opposed": true,
+      "runnerUp": "Mark Hargrove",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 45.87
+    },
+    "rep2": {
+      "winner": "Lisa Callan",
+      "winnerParty": "DEM",
+      "winnerPct": 55.8,
+      "opposed": true,
+      "runnerUp": "Patrick Peacock",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 44.12
+    }
+  },
+  {
+    "district": 6,
+    "senator": {
+      "winner": "Jeff Holy",
+      "winnerParty": "REP",
+      "winnerPct": 94.51,
+      "opposed": false
+    },
+    "rep1": {
+      "winner": "Mike Volz",
+      "winnerParty": "REP",
+      "winnerPct": 62.26,
+      "opposed": true,
+      "runnerUp": "Steven McCray II",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 37.57
+    },
+    "rep2": {
+      "winner": "Jenny Graham",
+      "winnerParty": "REP",
+      "winnerPct": 60.33,
+      "opposed": true,
+      "runnerUp": "Michaela Kelso",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 39.5
+    }
+  },
+  {
+    "district": 7,
+    "senator": {
+      "winner": "Shelly Short",
+      "winnerParty": "REP",
+      "winnerPct": 96.93,
+      "opposed": false
+    },
+    "rep1": {
+      "winner": "Andrew Engell",
+      "winnerParty": "REP",
+      "winnerPct": 63.36,
+      "opposed": true,
+      "runnerUp": "Soo Ing-Moody",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 35.71
+    },
+    "rep2": {
+      "winner": "Hunter Abell",
+      "winnerParty": "REP",
+      "winnerPct": 70.72,
+      "opposed": true,
+      "runnerUp": "Paul \"Rocky\" Dean",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 29.14
+    }
+  },
+  {
+    "district": 8,
+    "senator": {
+      "winner": "Matt Boehnke",
+      "winnerParty": "REP",
+      "winnerPct": 71.7,
+      "opposed": true,
+      "runnerUp": "Ronni Batchelor",
+      "runnerUpParty": "IND",
+      "runnerUpPct": 28.04
+    },
+    "rep1": {
+      "winner": "Stephanie Barnard",
+      "winnerParty": "REP",
+      "winnerPct": 97.46,
+      "opposed": false
+    },
+    "rep2": {
+      "winner": "April Connors",
+      "winnerParty": "REP",
+      "winnerPct": 70.44,
+      "opposed": true,
+      "runnerUp": "John Christenson",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 29.41
+    }
+  },
+  {
+    "district": 9,
+    "senator": {
+      "winner": "Mark G. Schoesler",
+      "winnerParty": "REP",
+      "winnerPct": 95.13,
+      "opposed": false
+    },
+    "rep1": {
+      "winner": "Mary Dye",
+      "winnerParty": "REP",
+      "winnerPct": 64.88,
+      "opposed": true,
+      "runnerUp": "Patrick Miller",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 34.83
+    },
+    "rep2": {
+      "winner": "Joe Schmick",
+      "winnerParty": "REP",
+      "winnerPct": 63.92,
+      "opposed": true,
+      "runnerUp": "Pam Kohlmeier",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 35.94
+    }
+  },
+  {
+    "district": 10,
+    "senator": {
+      "winner": "Ron Muzzall",
+      "winnerParty": "REP",
+      "winnerPct": 50.91,
+      "opposed": true,
+      "runnerUp": "Janet St Clair",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 48.93
+    },
+    "rep1": {
+      "winner": "Clyde Shavers",
+      "winnerParty": "DEM",
+      "winnerPct": 53.21,
+      "opposed": true,
+      "runnerUp": "Carrie R. Kennedy",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 46.6
+    },
+    "rep2": {
+      "winner": "Dave Paul",
+      "winnerParty": "DEM",
+      "winnerPct": 53.69,
+      "opposed": true,
+      "runnerUp": "Gary Wray",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 46.18
+    }
+  },
+  {
+    "district": 11,
+    "senator": {
+      "winner": "Bob Hasegawa",
+      "winnerParty": "DEM",
+      "winnerPct": 95.88,
+      "opposed": false
+    },
+    "rep1": {
+      "winner": "David Hackney",
+      "winnerParty": "DEM",
+      "winnerPct": 95.91,
+      "opposed": false
+    },
+    "rep2": {
+      "winner": "Steve Bergquist",
+      "winnerParty": "DEM",
+      "winnerPct": 76.88,
+      "opposed": true,
+      "runnerUp": "Justin Greywolf",
+      "runnerUpParty": "IND",
+      "runnerUpPct": 22.16
+    }
+  },
+  {
+    "district": 12,
+    "senator": {
+      "winner": "Keith W. Goehner",
+      "winnerParty": "REP",
+      "winnerPct": 55.8,
+      "opposed": true,
+      "runnerUp": "Jim Mayhew",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 44.14
+    },
+    "rep1": {
+      "winner": "Brian Burnett",
+      "winnerParty": "REP",
+      "winnerPct": 53.26,
+      "opposed": true,
+      "runnerUp": "Heather Koellen",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 46.63
+    },
+    "rep2": {
+      "winner": "Mike Steele",
+      "winnerParty": "REP",
+      "winnerPct": 61.74,
+      "opposed": true,
+      "runnerUp": "Daniel Scott",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 35.8
+    }
+  },
+  {
+    "district": 13,
+    "senator": {
+      "winner": "Judy Warnick",
+      "winnerParty": "REP",
+      "winnerPct": 97.11,
+      "opposed": false
+    },
+    "rep1": {
+      "winner": "Tom Dent",
+      "winnerParty": "REP",
+      "winnerPct": 97.34,
+      "opposed": false
+    },
+    "rep2": {
+      "winner": "Alex Ybarra",
+      "winnerParty": "REP",
+      "winnerPct": 97.68,
+      "opposed": false
+    }
+  },
+  {
+    "district": 14,
+    "senator": {
+      "winner": "Curtis King",
+      "winnerParty": "REP",
+      "winnerPct": 51.64,
+      "opposed": true,
+      "runnerUp": "Maria Beltran",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 48.1
+    },
+    "rep1": {
+      "winner": "Gloria Mendoza",
+      "winnerParty": "REP",
+      "winnerPct": 53.92,
+      "opposed": true,
+      "runnerUp": "Chelsea Dimas",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 45.52
+    },
+    "rep2": {
+      "winner": "Deb Manjarrez",
+      "winnerParty": "REP",
+      "winnerPct": 50.67,
+      "opposed": true,
+      "runnerUp": "Ana Ruiz Kennedy",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 49
+    }
+  },
+  {
+    "district": 15,
+    "senator": {
+      "winner": "Nikki Torres",
+      "winnerParty": "REP",
+      "winnerPct": 67.68,
+      "opposed": true,
+      "runnerUp": "Lindsey Keesling",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 32.09
+    },
+    "rep1": {
+      "winner": "Chris Corry",
+      "winnerParty": "REP",
+      "winnerPct": 70.65,
+      "opposed": true,
+      "runnerUp": "Chase Foster",
+      "runnerUpParty": "IND",
+      "runnerUpPct": 28.51
+    },
+    "rep2": {
+      "winner": "Jeremie Dufault",
+      "winnerParty": "REP",
+      "winnerPct": 70.72,
+      "opposed": true,
+      "runnerUp": "Rich Bright",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 27.07
+    }
+  },
+  {
+    "district": 16,
+    "senator": {
+      "winner": "Perry Dozier",
+      "winnerParty": "REP",
+      "winnerPct": 63.36,
+      "opposed": true,
+      "runnerUp": "Kari Isaacson",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 36.56
+    },
+    "rep1": {
+      "winner": "Mark Klicker",
+      "winnerParty": "REP",
+      "winnerPct": 64.49,
+      "opposed": true,
+      "runnerUp": "Linda Gunshefski",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 35.46
+    },
+    "rep2": {
+      "winner": "Skyler Rude",
+      "winnerParty": "REP",
+      "winnerPct": 65.83,
+      "opposed": true,
+      "runnerUp": "Craig R Woodard",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 34.11
+    }
+  },
+  {
+    "district": 17,
+    "senator": {
+      "winner": "Paul Harris",
+      "winnerParty": "REP",
+      "winnerPct": 51.09,
+      "opposed": true,
+      "runnerUp": "Marla Keethler",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 48.75
+    },
+    "rep1": {
+      "winner": "Kevin Waters",
+      "winnerParty": "REP",
+      "winnerPct": 93.26,
+      "opposed": false
+    },
+    "rep2": {
+      "winner": "David Stuebe",
+      "winnerParty": "REP",
+      "winnerPct": 50.4,
+      "opposed": true,
+      "runnerUp": "Terri Niles",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 49.43
+    }
+  },
+  {
+    "district": 18,
+    "senator": {
+      "winner": "Adrian Cortes",
+      "winnerParty": "DEM",
+      "winnerPct": 49.99,
+      "opposed": true,
+      "runnerUp": "Brad Benton",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 49.79
+    },
+    "rep1": {
+      "winner": "Stephanie McClintock",
+      "winnerParty": "REP",
+      "winnerPct": 55.65,
+      "opposed": true,
+      "runnerUp": "Deken Letinich",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 44.23
+    },
+    "rep2": {
+      "winner": "John Ley",
+      "winnerParty": "REP",
+      "winnerPct": 50.87,
+      "opposed": true,
+      "runnerUp": "John Zingale",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 48.95
+    }
+  },
+  {
+    "district": 19,
+    "senator": {
+      "winner": "Jeff Wilson",
+      "winnerParty": "REP",
+      "winnerPct": 61.22,
+      "opposed": true,
+      "runnerUp": "Andi Day",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 38.68
+    },
+    "rep1": {
+      "winner": "Jim Walsh",
+      "winnerParty": "REP",
+      "winnerPct": 60.14,
+      "opposed": true,
+      "runnerUp": "Mike Coverdale",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 39.76
+    },
+    "rep2": {
+      "winner": "Joel McEntire",
+      "winnerParty": "REP",
+      "winnerPct": 62.17,
+      "opposed": true,
+      "runnerUp": "Terry Carlson",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 37.73
+    }
+  },
+  {
+    "district": 20,
+    "senator": {
+      "winner": "John Braun",
+      "winnerParty": "REP",
+      "winnerPct": 96.53,
+      "opposed": false
+    },
+    "rep1": {
+      "winner": "Peter Abbarno",
+      "winnerParty": "REP",
+      "winnerPct": 87.01,
+      "opposed": true,
+      "runnerUp": "Melvin Kaleolani Apana",
+      "runnerUpParty": "IND",
+      "runnerUpPct": 10.67
+    },
+    "rep2": {
+      "winner": "Ed Orcutt",
+      "winnerParty": "REP",
+      "winnerPct": 96.65,
+      "opposed": false
+    }
+  },
+  {
+    "district": 21,
+    "senator": {
+      "winner": "Marko Liias",
+      "winnerParty": "DEM",
+      "winnerPct": 63.25,
+      "opposed": true,
+      "runnerUp": "Janelle Cass",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 36.65
+    },
+    "rep1": {
+      "winner": "Strom Peterson",
+      "winnerParty": "DEM",
+      "winnerPct": 66.69,
+      "opposed": true,
+      "runnerUp": "Riaz Khan",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 33.07
+    },
+    "rep2": {
+      "winner": "Lillian Ortiz-Self",
+      "winnerParty": "DEM",
+      "winnerPct": 67.13,
+      "opposed": true,
+      "runnerUp": "Kristina Mitchell",
+      "runnerUpParty": "IND",
+      "runnerUpPct": 32.65
+    }
+  },
+  {
+    "district": 22,
+    "senator": {
+      "winner": "Jessica Bateman",
+      "winnerParty": "DEM",
+      "winnerPct": 70.56,
+      "opposed": true,
+      "runnerUp": "Bob Iyall",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 27.36
+    },
+    "rep1": {
+      "winner": "Beth Doglio",
+      "winnerParty": "DEM",
+      "winnerPct": 69.6,
+      "opposed": true,
+      "runnerUp": "Steve Owens",
+      "runnerUpParty": "IND",
+      "runnerUpPct": 29.77
+    },
+    "rep2": {
+      "winner": "Lisa Parshley",
+      "winnerParty": "DEM",
+      "winnerPct": 62.41,
+      "opposed": true,
+      "runnerUp": "Syd Locke",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 34.82
+    }
+  },
+  {
+    "district": 23,
+    "senator": {
+      "winner": "Drew Hansen",
+      "winnerParty": "DEM",
+      "winnerPct": 64.24,
+      "opposed": true,
+      "runnerUp": "Lance Byrd",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 35.66
+    },
+    "rep1": {
+      "winner": "Tarra Simmons",
+      "winnerParty": "DEM",
+      "winnerPct": 62.95,
+      "opposed": true,
+      "runnerUp": "Kurt Robertson",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 36.9
+    },
+    "rep2": {
+      "winner": "Greg Nance",
+      "winnerParty": "DEM",
+      "winnerPct": 65.81,
+      "opposed": true,
+      "runnerUp": "Jamie Miles",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 34.05
+    }
+  },
+  {
+    "district": 24,
+    "senator": {
+      "winner": "Mike Chapman",
+      "winnerParty": "DEM",
+      "winnerPct": 54.78,
+      "opposed": true,
+      "runnerUp": "Marcia Kelbon",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 45.09
+    },
+    "rep1": {
+      "winner": "Adam Bernbaum",
+      "winnerParty": "DEM",
+      "winnerPct": 54.92,
+      "opposed": true,
+      "runnerUp": "Matthew (Matt) Roberson",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 44.94
+    },
+    "rep2": {
+      "winner": "Steve Tharinger",
+      "winnerParty": "DEM",
+      "winnerPct": 55.33,
+      "opposed": true,
+      "runnerUp": "Terry Roberts",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 44.56
+    }
+  },
+  {
+    "district": 25,
+    "senator": {
+      "winner": "Chris Gildon",
+      "winnerParty": "REP",
+      "winnerPct": 57.72,
+      "opposed": true,
+      "runnerUp": "Kenneth King",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 42.19
+    },
+    "rep1": {
+      "winner": "Michael Keaton",
+      "winnerParty": "REP",
+      "winnerPct": 55.93,
+      "opposed": true,
+      "runnerUp": "Cameron Severns",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 44.01
+    },
+    "rep2": {
+      "winner": "Cyndy Jacobsen",
+      "winnerParty": "REP",
+      "winnerPct": 55.73,
+      "opposed": true,
+      "runnerUp": "Shellie Willis",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 44.2
+    }
+  },
+  {
+    "district": 26,
+    "senator": {
+      "winner": "Emily Randall",
+      "winnerParty": "DEM",
+      "winnerPct": 50.79,
+      "opposed": true,
+      "runnerUp": "Jesse L. Young",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 49.09
+    },
+    "rep1": {
+      "winner": "Adison Richards",
+      "winnerParty": "DEM",
+      "winnerPct": 51.77,
+      "opposed": true,
+      "runnerUp": "Jesse L. Young",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 48.09
+    },
+    "rep2": {
+      "winner": "Michelle Caldier",
+      "winnerParty": "REP",
+      "winnerPct": 54.6,
+      "opposed": true,
+      "runnerUp": "Tiffiny Mitchell",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 45.2
+    }
+  },
+  {
+    "district": 27,
+    "senator": {
+      "winner": "Yasmin Trudeau",
+      "winnerParty": "DEM",
+      "winnerPct": 71.75,
+      "opposed": true,
+      "runnerUp": "Carole Sue Braaten",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 28.08
+    },
+    "rep1": {
+      "winner": "Laurie Jinkins",
+      "winnerParty": "DEM",
+      "winnerPct": 71.65,
+      "opposed": true,
+      "runnerUp": "Ken Paulson",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 28.18
+    },
+    "rep2": {
+      "winner": "Jake Fey",
+      "winnerParty": "DEM",
+      "winnerPct": 75.46,
+      "opposed": true,
+      "runnerUp": "Devin Rydel Kelly",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 22.69
+    }
+  },
+  {
+    "district": 28,
+    "senator": {
+      "winner": "T'wina Nobles",
+      "winnerParty": "DEM",
+      "winnerPct": 53.76,
+      "opposed": true,
+      "runnerUp": "Maia Espinoza",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 46.1
+    },
+    "rep1": {
+      "winner": "Mari Leavitt",
+      "winnerParty": "DEM",
+      "winnerPct": 58.44,
+      "opposed": true,
+      "runnerUp": "Gabe Sachwitz",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 41.43
+    },
+    "rep2": {
+      "winner": "Dan Bronoske",
+      "winnerParty": "DEM",
+      "winnerPct": 57.88,
+      "opposed": true,
+      "runnerUp": "Mark Herr",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 42.01
+    }
+  },
+  {
+    "district": 29,
+    "senator": {
+      "winner": "Steve Conway",
+      "winnerParty": "DEM",
+      "winnerPct": 59.03,
+      "opposed": true,
+      "runnerUp": "Terry Harder",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 40.79
+    },
+    "rep1": {
+      "winner": "Melanie Morgan",
+      "winnerParty": "DEM",
+      "winnerPct": 68.62,
+      "opposed": true,
+      "runnerUp": "Richard Miller",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 28.21
+    },
+    "rep2": {
+      "winner": "Sharlett Mena",
+      "winnerParty": "DEM",
+      "winnerPct": 93.79,
+      "opposed": false
+    }
+  },
+  {
+    "district": 30,
+    "senator": {
+      "winner": "Claire Wilson",
+      "winnerParty": "DEM",
+      "winnerPct": 55.21,
+      "opposed": true,
+      "runnerUp": "Linda Kochmar",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 44.66
+    },
+    "rep1": {
+      "winner": "Jamila E. Taylor",
+      "winnerParty": "DEM",
+      "winnerPct": 56.15,
+      "opposed": true,
+      "runnerUp": "Melissa Hamilton",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 43.73
+    },
+    "rep2": {
+      "winner": "Kristine M. Reeves",
+      "winnerParty": "DEM",
+      "winnerPct": 58.7,
+      "opposed": true,
+      "runnerUp": "Quentin Morris",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 41.2
+    }
+  },
+  {
+    "district": 31,
+    "senator": {
+      "winner": "Phil Fortunato",
+      "winnerParty": "REP",
+      "winnerPct": 55.81,
+      "opposed": true,
+      "runnerUp": "Chris Vance",
+      "runnerUpParty": "IND",
+      "runnerUpPct": 43.78
+    },
+    "rep1": {
+      "winner": "Drew Stokesbary",
+      "winnerParty": "REP",
+      "winnerPct": 63.62,
+      "opposed": true,
+      "runnerUp": "Sara Sutterfield",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 36.28
+    },
+    "rep2": {
+      "winner": "Joshua Penner",
+      "winnerParty": "REP",
+      "winnerPct": 61.08,
+      "opposed": true,
+      "runnerUp": "Brian L. Gunn",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 38.8
+    }
+  },
+  {
+    "district": 32,
+    "senator": {
+      "winner": "Jesse Salomon",
+      "winnerParty": "DEM",
+      "winnerPct": 74.82,
+      "opposed": true,
+      "runnerUp": "Patricia Weber",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 22.77
+    },
+    "rep1": {
+      "winner": "Cindy Ryu",
+      "winnerParty": "DEM",
+      "winnerPct": 74.16,
+      "opposed": true,
+      "runnerUp": "Lisa Rezac",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 25.67
+    },
+    "rep2": {
+      "winner": "Lauren Davis",
+      "winnerParty": "DEM",
+      "winnerPct": 74.63,
+      "opposed": true,
+      "runnerUp": "Lori Theis",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 25.23
+    }
+  },
+  {
+    "district": 33,
+    "senator": {
+      "winner": "Karen Keiser",
+      "winnerParty": "DEM",
+      "winnerPct": 69.12,
+      "opposed": true,
+      "runnerUp": "Marliza Melzer",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 30.73
+    },
+    "rep1": {
+      "winner": "Tina L. Orwall",
+      "winnerParty": "DEM",
+      "winnerPct": 68.99,
+      "opposed": true,
+      "runnerUp": "George Richter",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 30.9
+    },
+    "rep2": {
+      "winner": "Mia Su-Ling Gregerson",
+      "winnerParty": "DEM",
+      "winnerPct": 70.76,
+      "opposed": true,
+      "runnerUp": "Casey Esmond",
+      "runnerUpParty": "IND",
+      "runnerUpPct": 28.66
+    }
+  },
+  {
+    "district": 34,
+    "senator": {
+      "winner": "Joe Nguyen",
+      "winnerParty": "DEM",
+      "winnerPct": 86.06,
+      "opposed": true,
+      "runnerUp": "John Potter",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 13.79
+    },
+    "rep1": {
+      "winner": "Emily Alvarado",
+      "winnerParty": "DEM",
+      "winnerPct": 84.88,
+      "opposed": true,
+      "runnerUp": "Kimberly M. Cloud",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 14.94
+    },
+    "rep2": {
+      "winner": "Joe Fitzgibbon",
+      "winnerParty": "DEM",
+      "winnerPct": 83.66,
+      "opposed": true,
+      "runnerUp": "Jolie Lansdowne",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 16.22
+    }
+  },
+  {
+    "district": 35,
+    "senator": {
+      "winner": "Drew C MacEwen",
+      "winnerParty": "REP",
+      "winnerPct": 56.06,
+      "opposed": true,
+      "runnerUp": "Julianne Gale",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 43.84
+    },
+    "rep1": {
+      "winner": "Dan Griffey",
+      "winnerParty": "REP",
+      "winnerPct": 94.75,
+      "opposed": false
+    },
+    "rep2": {
+      "winner": "Travis Couture",
+      "winnerParty": "REP",
+      "winnerPct": 58.58,
+      "opposed": true,
+      "runnerUp": "James DeHart",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 41.31
+    }
+  },
+  {
+    "district": 36,
+    "senator": {
+      "winner": "Noel Frame",
+      "winnerParty": "DEM",
+      "winnerPct": 83.6,
+      "opposed": true,
+      "runnerUp": "Kate Martin",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 15.83
+    },
+    "rep1": {
+      "winner": "Julia Grant Reed",
+      "winnerParty": "DEM",
+      "winnerPct": 98.53,
+      "opposed": false
+    },
+    "rep2": {
+      "winner": "Liz Berry",
+      "winnerParty": "DEM",
+      "winnerPct": 88.78,
+      "opposed": true,
+      "runnerUp": "Victoria Palmer",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 11.1
+    }
+  },
+  {
+    "district": 37,
+    "senator": {
+      "winner": "Rebecca Saldaña",
+      "winnerParty": "DEM",
+      "winnerPct": 98.45,
+      "opposed": false
+    },
+    "rep1": {
+      "winner": "Sharon Tomiko Santos",
+      "winnerParty": "DEM",
+      "winnerPct": 98.28,
+      "opposed": false
+    },
+    "rep2": {
+      "winner": "Chipalo Street",
+      "winnerParty": "DEM",
+      "winnerPct": 90.99,
+      "opposed": true,
+      "runnerUp": "Matt McCally",
+      "runnerUpParty": "IND",
+      "runnerUpPct": 8.51
+    }
+  },
+  {
+    "district": 38,
+    "senator": {
+      "winner": "June Robinson",
+      "winnerParty": "DEM",
+      "winnerPct": 58.1,
+      "opposed": true,
+      "runnerUp": "Bernard Moody",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 41.76
+    },
+    "rep1": {
+      "winner": "Julio Cortes",
+      "winnerParty": "DEM",
+      "winnerPct": 71.12,
+      "opposed": true,
+      "runnerUp": "Annie Fitzgerald",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 25.48
+    },
+    "rep2": {
+      "winner": "Mary Fosse",
+      "winnerParty": "DEM",
+      "winnerPct": 59.46,
+      "opposed": true,
+      "runnerUp": "Marnie Claywell",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 40.38
+    }
+  },
+  {
+    "district": 39,
+    "senator": {
+      "winner": "Keith L. Wagoner",
+      "winnerParty": "REP",
+      "winnerPct": 60.45,
+      "opposed": true,
+      "runnerUp": "John Snow",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 39.45
+    },
+    "rep1": {
+      "winner": "Sam Low",
+      "winnerParty": "REP",
+      "winnerPct": 58.9,
+      "opposed": true,
+      "runnerUp": "Robert J. Sutherland",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 39.58
+    },
+    "rep2": {
+      "winner": "Carolyn Eslick",
+      "winnerParty": "REP",
+      "winnerPct": 62.57,
+      "opposed": true,
+      "runnerUp": "Jackie Huey",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 35.4
+    }
+  },
+  {
+    "district": 40,
+    "senator": {
+      "winner": "Elizabeth (Liz) Lovelett",
+      "winnerParty": "DEM",
+      "winnerPct": 69.52,
+      "opposed": true,
+      "runnerUp": "Charles Carrell",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 30.35
+    },
+    "rep1": {
+      "winner": "Debra Lekanoff",
+      "winnerParty": "DEM",
+      "winnerPct": 96.15,
+      "opposed": false
+    },
+    "rep2": {
+      "winner": "Alex Ramel",
+      "winnerParty": "DEM",
+      "winnerPct": 95.72,
+      "opposed": false
+    }
+  },
+  {
+    "district": 41,
+    "senator": {
+      "winner": "Lisa Wellman",
+      "winnerParty": "DEM",
+      "winnerPct": 69.06,
+      "opposed": true,
+      "runnerUp": "Jaskaran Singh Sarao",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 30.74
+    },
+    "rep1": {
+      "winner": "Tana Senn",
+      "winnerParty": "DEM",
+      "winnerPct": 67.54,
+      "opposed": true,
+      "runnerUp": "Emily Tadlock",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 32.3
+    },
+    "rep2": {
+      "winner": "My-Linh Thai",
+      "winnerParty": "DEM",
+      "winnerPct": 65.69,
+      "opposed": true,
+      "runnerUp": "Al Rosenthal",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 34.21
+    }
+  },
+  {
+    "district": 42,
+    "senator": {
+      "winner": "Sharon Shewmake",
+      "winnerParty": "DEM",
+      "winnerPct": 50.55,
+      "opposed": true,
+      "runnerUp": "Simon Sefzik",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 49.35
+    },
+    "rep1": {
+      "winner": "Alicia Rule",
+      "winnerParty": "DEM",
+      "winnerPct": 55.35,
+      "opposed": true,
+      "runnerUp": "Raymond Pelletti",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 44.56
+    },
+    "rep2": {
+      "winner": "Joe Timmons",
+      "winnerParty": "DEM",
+      "winnerPct": 53.33,
+      "opposed": true,
+      "runnerUp": "Kamal Bhachu",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 46.59
+    }
+  },
+  {
+    "district": 43,
+    "senator": {
+      "winner": "Jamie Pedersen",
+      "winnerParty": "DEM",
+      "winnerPct": 98.55,
+      "opposed": false
+    },
+    "rep1": {
+      "winner": "Nicole Macri",
+      "winnerParty": "DEM",
+      "winnerPct": 98.48,
+      "opposed": false
+    },
+    "rep2": {
+      "winner": "Shaun Scott",
+      "winnerParty": "DEM",
+      "winnerPct": 68.43,
+      "opposed": true,
+      "runnerUp": "Andrea Suarez",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 30.81
+    }
+  },
+  {
+    "district": 44,
+    "senator": {
+      "winner": "John Lovick",
+      "winnerParty": "DEM",
+      "winnerPct": 58.77,
+      "opposed": true,
+      "runnerUp": "Jeb Brewer",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 41.14
+    },
+    "rep1": {
+      "winner": "Brandy Donaghy",
+      "winnerParty": "DEM",
+      "winnerPct": 93.59,
+      "opposed": false
+    },
+    "rep2": {
+      "winner": "April Berg",
+      "winnerParty": "DEM",
+      "winnerPct": 57.59,
+      "opposed": true,
+      "runnerUp": "Sam Sim",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 42.32
+    }
+  },
+  {
+    "district": 45,
+    "senator": {
+      "winner": "Manka Dhingra",
+      "winnerParty": "DEM",
+      "winnerPct": 62.87,
+      "opposed": true,
+      "runnerUp": "Ryika Hooshangi",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 36.99
+    },
+    "rep1": {
+      "winner": "Roger Goodman",
+      "winnerParty": "DEM",
+      "winnerPct": 96.01,
+      "opposed": false
+    },
+    "rep2": {
+      "winner": "Larry Springer",
+      "winnerParty": "DEM",
+      "winnerPct": 55.56,
+      "opposed": true,
+      "runnerUp": "Melissa Demyan",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 42.3
+    }
+  },
+  {
+    "district": 46,
+    "senator": {
+      "winner": "Javier Valdez",
+      "winnerParty": "DEM",
+      "winnerPct": 84.89,
+      "opposed": true,
+      "runnerUp": "Matthew Gross",
+      "runnerUpParty": "DEM",
+      "runnerUpPct": 14.47
+    },
+    "rep1": {
+      "winner": "Gerry Pollet",
+      "winnerParty": "DEM",
+      "winnerPct": 87.42,
+      "opposed": true,
+      "runnerUp": "Beth Daranciang",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 12.44
+    },
+    "rep2": {
+      "winner": "Darya Farivar",
+      "winnerParty": "DEM",
+      "winnerPct": 86.49,
+      "opposed": true,
+      "runnerUp": "Simone Barron",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 13.2
+    }
+  },
+  {
+    "district": 47,
+    "senator": {
+      "winner": "Claudia Kauffman",
+      "winnerParty": "DEM",
+      "winnerPct": 52.7,
+      "opposed": true,
+      "runnerUp": "Bill Boyce",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 47.19
+    },
+    "rep1": {
+      "winner": "Debra Jean Entenman",
+      "winnerParty": "DEM",
+      "winnerPct": 56.26,
+      "opposed": true,
+      "runnerUp": "Kyle Lyebyedyev",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 43.57
+    },
+    "rep2": {
+      "winner": "Chris Stearns",
+      "winnerParty": "DEM",
+      "winnerPct": 55.64,
+      "opposed": true,
+      "runnerUp": "Ted Cooke",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 44.2
+    }
+  },
+  {
+    "district": 48,
+    "senator": {
+      "winner": "Patty Kuderer",
+      "winnerParty": "DEM",
+      "winnerPct": 70.58,
+      "opposed": true,
+      "runnerUp": "Michelle Darnell",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 29.32
+    },
+    "rep1": {
+      "winner": "Vandana Slatter",
+      "winnerParty": "DEM",
+      "winnerPct": 68.27,
+      "opposed": true,
+      "runnerUp": "Lynn Trinh",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 31.57
+    },
+    "rep2": {
+      "winner": "Amy Walen",
+      "winnerParty": "DEM",
+      "winnerPct": 95.74,
+      "opposed": false
+    }
+  },
+  {
+    "district": 49,
+    "senator": {
+      "winner": "Annette Cleveland",
+      "winnerParty": "DEM",
+      "winnerPct": 61.76,
+      "opposed": true,
+      "runnerUp": "Lucia Worthington",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 37.99
+    },
+    "rep1": {
+      "winner": "Sharon Wylie",
+      "winnerParty": "DEM",
+      "winnerPct": 63.47,
+      "opposed": true,
+      "runnerUp": "Brett Graham",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 36.32
+    },
+    "rep2": {
+      "winner": "Monica Jurado Stonier",
+      "winnerParty": "DEM",
+      "winnerPct": 63.07,
+      "opposed": true,
+      "runnerUp": "Russell Barber",
+      "runnerUpParty": "REP",
+      "runnerUpPct": 36.71
+    }
+  }
+]

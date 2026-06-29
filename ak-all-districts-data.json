@@ -1,0 +1,2561 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Alaska House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83703,
+        "medianAge": 40.8,
+        "totalPopulation": 17699,
+        "collegePct": 24.65,
+        "renterRatePct": 33.27,
+        "race": {
+          "whitePct": 58.62,
+          "nonHispanicWhitePct": 56.81,
+          "blackPct": 0.37,
+          "asianPct": 7.6,
+          "hispanicPct": 5.12
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-1",
+        "winner": "Jeremy Bynum",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 4243,
+        "totalVotes": 8164,
+        "demPct": 0,
+        "repPct": 51.97,
+        "candidates": [
+          {
+            "name": "Agnes Moran",
+            "party": "ind",
+            "votes": 1995
+          },
+          {
+            "name": "Jeremy Bynum",
+            "party": "rep",
+            "votes": 4243
+          },
+          {
+            "name": "Grant Echohawk",
+            "party": "ind",
+            "votes": 1909
+          }
+        ]
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Alaska House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81281,
+        "medianAge": 43.7,
+        "totalPopulation": 17914,
+        "collegePct": 27.71,
+        "renterRatePct": 34.14,
+        "race": {
+          "whitePct": 56.67,
+          "nonHispanicWhitePct": 55,
+          "blackPct": 0.82,
+          "asianPct": 7.25,
+          "hispanicPct": 7.19
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-2",
+        "winner": "Rebecca Himschoot",
+        "winnerParty": "ind",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 7239,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Rebecca Himschoot",
+            "party": "ind",
+            "votes": 7060
+          }
+        ]
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Alaska House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107817,
+        "medianAge": 42.8,
+        "totalPopulation": 17763,
+        "collegePct": 36.28,
+        "renterRatePct": 26.67,
+        "race": {
+          "whitePct": 69.81,
+          "nonHispanicWhitePct": 68.15,
+          "blackPct": 0.9,
+          "asianPct": 5.28,
+          "hispanicPct": 4.45
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-3",
+        "winner": "Andrea Story",
+        "winnerParty": "dem",
+        "demVotes": 7961,
+        "repVotes": 0,
+        "totalVotes": 8291,
+        "demPct": 96.02,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Andrea Story",
+            "party": "dem",
+            "votes": 7961
+          }
+        ]
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Alaska House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91025,
+        "medianAge": 39.6,
+        "totalPopulation": 18290,
+        "collegePct": 42.64,
+        "renterRatePct": 41.71,
+        "race": {
+          "whitePct": 60.22,
+          "nonHispanicWhitePct": 58.55,
+          "blackPct": 0.61,
+          "asianPct": 8.46,
+          "hispanicPct": 8.76
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-4",
+        "winner": "Sara Hannan",
+        "winnerParty": "dem",
+        "demVotes": 7000,
+        "repVotes": 0,
+        "totalVotes": 7244,
+        "demPct": 96.63,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Sara Hannan",
+            "party": "dem",
+            "votes": 7000
+          }
+        ]
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Alaska House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83634,
+        "medianAge": 35.8,
+        "totalPopulation": 18126,
+        "collegePct": 29.88,
+        "renterRatePct": 37.19,
+        "race": {
+          "whitePct": 57,
+          "nonHispanicWhitePct": 53.35,
+          "blackPct": 0.83,
+          "asianPct": 17.21,
+          "hispanicPct": 6.68
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-5",
+        "winner": "Louise Stutes",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 5445,
+        "totalVotes": 7038,
+        "demPct": 0,
+        "repPct": 77.37,
+        "candidates": [
+          {
+            "name": "Leighton Radner",
+            "party": "ind",
+            "votes": 1549
+          },
+          {
+            "name": "Louise Stutes",
+            "party": "rep",
+            "votes": 5445
+          }
+        ]
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Alaska House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71232,
+        "medianAge": 44.4,
+        "totalPopulation": 19672,
+        "collegePct": 32.86,
+        "renterRatePct": 19.06,
+        "race": {
+          "whitePct": 81.29,
+          "nonHispanicWhitePct": 80.22,
+          "blackPct": 0.14,
+          "asianPct": 1.84,
+          "hispanicPct": 3.82
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-6",
+        "winner": "Sarah Vance",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 6434,
+        "totalVotes": 11417,
+        "demPct": 0,
+        "repPct": 56.35,
+        "candidates": [
+          {
+            "name": "Sarah Vance",
+            "party": "rep",
+            "votes": 5360
+          },
+          {
+            "name": "Brent Johnson",
+            "party": "ind",
+            "votes": 4956
+          },
+          {
+            "name": "Dawson Slaughter",
+            "party": "rep",
+            "votes": 1074
+          }
+        ]
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Alaska House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75598,
+        "medianAge": 35.7,
+        "totalPopulation": 18270,
+        "collegePct": 26.82,
+        "renterRatePct": 29.89,
+        "race": {
+          "whitePct": 74.91,
+          "nonHispanicWhitePct": 73.08,
+          "blackPct": 0.94,
+          "asianPct": 2.35,
+          "hispanicPct": 5.94
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-7",
+        "winner": "Justin Ruffridge",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 8383,
+        "totalVotes": 8460,
+        "demPct": 0,
+        "repPct": 99.09,
+        "candidates": [
+          {
+            "name": "Ronald Gillham",
+            "party": "rep",
+            "votes": 3398
+          },
+          {
+            "name": "Justin Ruffridge",
+            "party": "rep",
+            "votes": 4985
+          }
+        ]
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Alaska House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89636,
+        "medianAge": 45.7,
+        "totalPopulation": 18431,
+        "collegePct": 27.57,
+        "renterRatePct": 20.06,
+        "race": {
+          "whitePct": 84.29,
+          "nonHispanicWhitePct": 83.44,
+          "blackPct": 0.36,
+          "asianPct": 1.53,
+          "hispanicPct": 3.03
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-8",
+        "winner": "Bill Elam",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 8904,
+        "totalVotes": 9034,
+        "demPct": 0,
+        "repPct": 98.56,
+        "candidates": [
+          {
+            "name": "Bill Elam",
+            "party": "rep",
+            "votes": 4655
+          },
+          {
+            "name": "John Hillyer",
+            "party": "rep",
+            "votes": 4249
+          }
+        ]
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Alaska House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 160717,
+        "medianAge": 43.8,
+        "totalPopulation": 17450,
+        "collegePct": 57.3,
+        "renterRatePct": 8.58,
+        "race": {
+          "whitePct": 78.85,
+          "nonHispanicWhitePct": 77.08,
+          "blackPct": 2.62,
+          "asianPct": 4.04,
+          "hispanicPct": 6.03
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-9",
+        "winner": "Ky Holland",
+        "winnerParty": "ind",
+        "demVotes": 0,
+        "repVotes": 5093,
+        "totalVotes": 11207,
+        "demPct": 0,
+        "repPct": 45.44,
+        "candidates": [
+          {
+            "name": "Lucy Bauer",
+            "party": "rep",
+            "votes": 5093
+          },
+          {
+            "name": "Ky Holland",
+            "party": "ind",
+            "votes": 6085
+          }
+        ]
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Alaska House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108840,
+        "medianAge": 37.9,
+        "totalPopulation": 18132,
+        "collegePct": 36.7,
+        "renterRatePct": 26.59,
+        "race": {
+          "whitePct": 57.18,
+          "nonHispanicWhitePct": 53.97,
+          "blackPct": 0.85,
+          "asianPct": 12.88,
+          "hispanicPct": 9.97
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-10",
+        "winner": "Charles Kopp",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 7480,
+        "totalVotes": 7581,
+        "demPct": 0,
+        "repPct": 98.67,
+        "candidates": [
+          {
+            "name": "Charles Kopp",
+            "party": "rep",
+            "votes": 4669
+          },
+          {
+            "name": "Craig Johnson",
+            "party": "rep",
+            "votes": 2811
+          }
+        ]
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Alaska House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 124366,
+        "medianAge": 39,
+        "totalPopulation": 17558,
+        "collegePct": 45.65,
+        "renterRatePct": 26.12,
+        "race": {
+          "whitePct": 69.56,
+          "nonHispanicWhitePct": 66.31,
+          "blackPct": 1.69,
+          "asianPct": 11.13,
+          "hispanicPct": 7.69
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-11",
+        "winner": "Julie Coulombe",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 4836,
+        "totalVotes": 9194,
+        "demPct": 0,
+        "repPct": 52.6,
+        "candidates": [
+          {
+            "name": "Julie Coulombe",
+            "party": "rep",
+            "votes": 4836
+          },
+          {
+            "name": "Walter Featherly",
+            "party": "ind",
+            "votes": 4341
+          }
+        ]
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Alaska House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 121484,
+        "medianAge": 34.4,
+        "totalPopulation": 17339,
+        "collegePct": 34.6,
+        "renterRatePct": 24.02,
+        "race": {
+          "whitePct": 53.11,
+          "nonHispanicWhitePct": 49.43,
+          "blackPct": 3.77,
+          "asianPct": 16.34,
+          "hispanicPct": 9.94
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-12",
+        "winner": "Calvin Schrage",
+        "winnerParty": "ind",
+        "demVotes": 0,
+        "repVotes": 3041,
+        "totalVotes": 7831,
+        "demPct": 0,
+        "repPct": 38.83,
+        "candidates": [
+          {
+            "name": "Joseph Lurtsema",
+            "party": "rep",
+            "votes": 3041
+          },
+          {
+            "name": "Calvin Schrage",
+            "party": "ind",
+            "votes": 4763
+          }
+        ]
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Alaska House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93984,
+        "medianAge": 31.7,
+        "totalPopulation": 18119,
+        "collegePct": 29.84,
+        "renterRatePct": 41.91,
+        "race": {
+          "whitePct": 55.8,
+          "nonHispanicWhitePct": 51.25,
+          "blackPct": 5.35,
+          "asianPct": 9.66,
+          "hispanicPct": 9.74
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-13",
+        "winner": "Andrew Josephson",
+        "winnerParty": "dem",
+        "demVotes": 3743,
+        "repVotes": 3266,
+        "totalVotes": 7024,
+        "demPct": 53.29,
+        "repPct": 46.5,
+        "candidates": [
+          {
+            "name": "Heather Gottshall",
+            "party": "rep",
+            "votes": 3266
+          },
+          {
+            "name": "Andrew Josephson",
+            "party": "dem",
+            "votes": 3743
+          }
+        ]
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Alaska House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84543,
+        "medianAge": 38.6,
+        "totalPopulation": 18326,
+        "collegePct": 31.18,
+        "renterRatePct": 56.15,
+        "race": {
+          "whitePct": 52.86,
+          "nonHispanicWhitePct": 50.54,
+          "blackPct": 4.04,
+          "asianPct": 14.03,
+          "hispanicPct": 6.88
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-14",
+        "winner": "Alyse Galvin",
+        "winnerParty": "ind",
+        "demVotes": 1278,
+        "repVotes": 0,
+        "totalVotes": 6253,
+        "demPct": 20.44,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Alyse Galvin",
+            "party": "ind",
+            "votes": 4847
+          },
+          {
+            "name": "Harry Kamdem",
+            "party": "dem",
+            "votes": 1278
+          }
+        ]
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Alaska House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 124122,
+        "medianAge": 34.8,
+        "totalPopulation": 19585,
+        "collegePct": 41.4,
+        "renterRatePct": 20.58,
+        "race": {
+          "whitePct": 67.48,
+          "nonHispanicWhitePct": 63.21,
+          "blackPct": 3.03,
+          "asianPct": 8.61,
+          "hispanicPct": 7.42
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-15",
+        "winner": "Mia Costello",
+        "winnerParty": "rep",
+        "demVotes": 4256,
+        "repVotes": 4543,
+        "totalVotes": 8816,
+        "demPct": 48.28,
+        "repPct": 51.53,
+        "candidates": [
+          {
+            "name": "Mia Costello",
+            "party": "rep",
+            "votes": 4543
+          },
+          {
+            "name": "Denny Wells",
+            "party": "dem",
+            "votes": 4014
+          },
+          {
+            "name": "Dustin Darden",
+            "party": "dem",
+            "votes": 242
+          }
+        ]
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Alaska House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106119,
+        "medianAge": 38.2,
+        "totalPopulation": 18813,
+        "collegePct": 42.95,
+        "renterRatePct": 32.19,
+        "race": {
+          "whitePct": 62.56,
+          "nonHispanicWhitePct": 61.3,
+          "blackPct": 3.12,
+          "asianPct": 8.18,
+          "hispanicPct": 8.46
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-16",
+        "winner": "Carolyn Hall",
+        "winnerParty": "dem",
+        "demVotes": 4860,
+        "repVotes": 0,
+        "totalVotes": 8592,
+        "demPct": 56.56,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Nick Moe",
+            "party": "ind",
+            "votes": 3649
+          },
+          {
+            "name": "Carolyn Hall",
+            "party": "dem",
+            "votes": 4860
+          }
+        ]
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Alaska House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80417,
+        "medianAge": 38.4,
+        "totalPopulation": 17415,
+        "collegePct": 44.89,
+        "renterRatePct": 55.6,
+        "race": {
+          "whitePct": 56.05,
+          "nonHispanicWhitePct": 53.88,
+          "blackPct": 9.22,
+          "asianPct": 6.33,
+          "hispanicPct": 9.5
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-17",
+        "winner": "William Fields",
+        "winnerParty": "dem",
+        "demVotes": 5243,
+        "repVotes": 0,
+        "totalVotes": 5604,
+        "demPct": 93.56,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "William Fields",
+            "party": "dem",
+            "votes": 5243
+          }
+        ]
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Alaska House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70460,
+        "medianAge": 25.2,
+        "totalPopulation": 18234,
+        "collegePct": 30.31,
+        "renterRatePct": 84.18,
+        "race": {
+          "whitePct": 60.9,
+          "nonHispanicWhitePct": 54.19,
+          "blackPct": 7.78,
+          "asianPct": 4.19,
+          "hispanicPct": 14.72
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-18",
+        "winner": "David Nelson",
+        "winnerParty": "rep",
+        "demVotes": 1856,
+        "repVotes": 1878,
+        "totalVotes": 3737,
+        "demPct": 49.67,
+        "repPct": 50.25,
+        "candidates": [
+          {
+            "name": "Cliff Groh",
+            "party": "dem",
+            "votes": 1856
+          },
+          {
+            "name": "David Nelson",
+            "party": "rep",
+            "votes": 1878
+          }
+        ]
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Alaska House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56484,
+        "medianAge": 28.5,
+        "totalPopulation": 19121,
+        "collegePct": 20.71,
+        "renterRatePct": 55.68,
+        "race": {
+          "whitePct": 34.57,
+          "nonHispanicWhitePct": 27.55,
+          "blackPct": 8.13,
+          "asianPct": 18.59,
+          "hispanicPct": 19.17
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-19",
+        "winner": "Genevieve Mina",
+        "winnerParty": "dem",
+        "demVotes": 2654,
+        "repVotes": 1353,
+        "totalVotes": 4363,
+        "demPct": 60.83,
+        "repPct": 31.01,
+        "candidates": [
+          {
+            "name": "Russell Wyatt",
+            "party": "ind",
+            "votes": 338
+          },
+          {
+            "name": "Genevieve Mina",
+            "party": "dem",
+            "votes": 2654
+          },
+          {
+            "name": "Kaylee Anderson",
+            "party": "rep",
+            "votes": 1353
+          }
+        ]
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Alaska House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83793,
+        "medianAge": 34,
+        "totalPopulation": 17384,
+        "collegePct": 34.72,
+        "renterRatePct": 40.43,
+        "race": {
+          "whitePct": 47.66,
+          "nonHispanicWhitePct": 45.66,
+          "blackPct": 6.4,
+          "asianPct": 8.88,
+          "hispanicPct": 8.51
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-20",
+        "winner": "Andrew Gray",
+        "winnerParty": "dem",
+        "demVotes": 3927,
+        "repVotes": 0,
+        "totalVotes": 6157,
+        "demPct": 63.78,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Andrew Gray",
+            "party": "dem",
+            "votes": 3927
+          },
+          {
+            "name": "Scott Kohlhaas",
+            "party": "ind",
+            "votes": 2163
+          }
+        ]
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Alaska House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88542,
+        "medianAge": 38.2,
+        "totalPopulation": 18460,
+        "collegePct": 35.09,
+        "renterRatePct": 24.06,
+        "race": {
+          "whitePct": 48.22,
+          "nonHispanicWhitePct": 47.01,
+          "blackPct": 5.93,
+          "asianPct": 11.6,
+          "hispanicPct": 8.85
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-21",
+        "winner": "Donna Mears",
+        "winnerParty": "dem",
+        "demVotes": 4664,
+        "repVotes": 3743,
+        "totalVotes": 8427,
+        "demPct": 55.35,
+        "repPct": 44.42,
+        "candidates": [
+          {
+            "name": "Donna Mears",
+            "party": "dem",
+            "votes": 4664
+          },
+          {
+            "name": "Aimée Sims",
+            "party": "rep",
+            "votes": 3743
+          }
+        ]
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Alaska House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74663,
+        "medianAge": 31.3,
+        "totalPopulation": 18731,
+        "collegePct": 22.61,
+        "renterRatePct": 45.58,
+        "race": {
+          "whitePct": 31.74,
+          "nonHispanicWhitePct": 30.09,
+          "blackPct": 16.89,
+          "asianPct": 16.8,
+          "hispanicPct": 8.68
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-22",
+        "winner": "Ted Eischeid",
+        "winnerParty": "dem",
+        "demVotes": 2633,
+        "repVotes": 2382,
+        "totalVotes": 5027,
+        "demPct": 52.38,
+        "repPct": 47.38,
+        "candidates": [
+          {
+            "name": "Stanley Wright",
+            "party": "rep",
+            "votes": 2382
+          },
+          {
+            "name": "Ted Eischeid",
+            "party": "dem",
+            "votes": 2633
+          }
+        ]
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Alaska House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 142633,
+        "medianAge": 36.3,
+        "totalPopulation": 17513,
+        "collegePct": 48.95,
+        "renterRatePct": 12.89,
+        "race": {
+          "whitePct": 81.6,
+          "nonHispanicWhitePct": 79.26,
+          "blackPct": 1.83,
+          "asianPct": 3.21,
+          "hispanicPct": 5.68
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-23",
+        "winner": "Jamie Allard",
+        "winnerParty": "rep",
+        "demVotes": 3747,
+        "repVotes": 6132,
+        "totalVotes": 9916,
+        "demPct": 37.79,
+        "repPct": 61.84,
+        "candidates": [
+          {
+            "name": "Jamie Allard",
+            "party": "rep",
+            "votes": 6132
+          },
+          {
+            "name": "Jim Arlington",
+            "party": "dem",
+            "votes": 3747
+          }
+        ]
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Alaska House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113333,
+        "medianAge": 36.5,
+        "totalPopulation": 17360,
+        "collegePct": 40.31,
+        "renterRatePct": 25.32,
+        "race": {
+          "whitePct": 78.17,
+          "nonHispanicWhitePct": 74.28,
+          "blackPct": 3.19,
+          "asianPct": 1.83,
+          "hispanicPct": 7.15
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-24",
+        "winner": "Dan Saddler",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 7981,
+        "totalVotes": 8243,
+        "demPct": 0,
+        "repPct": 96.82,
+        "candidates": [
+          {
+            "name": "Dan Saddler",
+            "party": "rep",
+            "votes": 7981
+          }
+        ]
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Alaska House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95063,
+        "medianAge": 36.5,
+        "totalPopulation": 19846,
+        "collegePct": 31.06,
+        "renterRatePct": 23.03,
+        "race": {
+          "whitePct": 77.03,
+          "nonHispanicWhitePct": 75.45,
+          "blackPct": 1.46,
+          "asianPct": 1.29,
+          "hispanicPct": 5.6
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-25",
+        "winner": "DeLena Johnson",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 7817,
+        "totalVotes": 8155,
+        "demPct": 0,
+        "repPct": 95.86,
+        "candidates": [
+          {
+            "name": "DeLena Johnson",
+            "party": "rep",
+            "votes": 7817
+          }
+        ]
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Alaska House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107720,
+        "medianAge": 33.9,
+        "totalPopulation": 19951,
+        "collegePct": 25.21,
+        "renterRatePct": 17.69,
+        "race": {
+          "whitePct": 77.94,
+          "nonHispanicWhitePct": 74.79,
+          "blackPct": 1.8,
+          "asianPct": 1.03,
+          "hispanicPct": 6.43
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-26",
+        "winner": "Cathy Tilton",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 7353,
+        "totalVotes": 7607,
+        "demPct": 0,
+        "repPct": 96.66,
+        "candidates": [
+          {
+            "name": "Cathy Tilton",
+            "party": "rep",
+            "votes": 7353
+          }
+        ]
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Alaska House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77272,
+        "medianAge": 36,
+        "totalPopulation": 18985,
+        "collegePct": 18.24,
+        "renterRatePct": 35.65,
+        "race": {
+          "whitePct": 78.1,
+          "nonHispanicWhitePct": 76.51,
+          "blackPct": 0.64,
+          "asianPct": 2.55,
+          "hispanicPct": 4.21
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-27",
+        "winner": "Jubilee Underwood",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 7516,
+        "totalVotes": 7615,
+        "demPct": 0,
+        "repPct": 98.7,
+        "candidates": [
+          {
+            "name": "Jubilee Underwood",
+            "party": "rep",
+            "votes": 3856
+          },
+          {
+            "name": "David Eastman",
+            "party": "rep",
+            "votes": 3660
+          }
+        ]
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Alaska House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95896,
+        "medianAge": 34.3,
+        "totalPopulation": 20873,
+        "collegePct": 25.71,
+        "renterRatePct": 25.64,
+        "race": {
+          "whitePct": 80.55,
+          "nonHispanicWhitePct": 78.63,
+          "blackPct": 0.65,
+          "asianPct": 1.75,
+          "hispanicPct": 6
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-28",
+        "winner": "Elexie Moore",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 7685,
+        "totalVotes": 7800,
+        "demPct": 0,
+        "repPct": 98.53,
+        "candidates": [
+          {
+            "name": "Jessica Wright",
+            "party": "rep",
+            "votes": 1997
+          },
+          {
+            "name": "Steve Menard",
+            "party": "rep",
+            "votes": 2777
+          },
+          {
+            "name": "Elexie Moore",
+            "party": "rep",
+            "votes": 2911
+          }
+        ]
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Alaska House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96440,
+        "medianAge": 39.7,
+        "totalPopulation": 19746,
+        "collegePct": 27.35,
+        "renterRatePct": 20.29,
+        "race": {
+          "whitePct": 76.53,
+          "nonHispanicWhitePct": 75.78,
+          "blackPct": 1.78,
+          "asianPct": 1.07,
+          "hispanicPct": 4.6
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-29",
+        "winner": "George Rauscher",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 7807,
+        "totalVotes": 8170,
+        "demPct": 0,
+        "repPct": 95.56,
+        "candidates": [
+          {
+            "name": "George Rauscher",
+            "party": "rep",
+            "votes": 7807
+          }
+        ]
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Alaska House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71137,
+        "medianAge": 41.3,
+        "totalPopulation": 17285,
+        "collegePct": 18.84,
+        "renterRatePct": 19.56,
+        "race": {
+          "whitePct": 79.18,
+          "nonHispanicWhitePct": 77.4,
+          "blackPct": 1.6,
+          "asianPct": 2.88,
+          "hispanicPct": 4.59
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-30",
+        "winner": "Kevin McCabe",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 8577,
+        "totalVotes": 8740,
+        "demPct": 0,
+        "repPct": 98.14,
+        "candidates": [
+          {
+            "name": "Kevin McCabe",
+            "party": "rep",
+            "votes": 4731
+          },
+          {
+            "name": "Doyle Holmes",
+            "party": "rep",
+            "votes": 3846
+          }
+        ]
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Alaska House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71291,
+        "medianAge": 35,
+        "totalPopulation": 18524,
+        "collegePct": 25.01,
+        "renterRatePct": 55.88,
+        "race": {
+          "whitePct": 56.63,
+          "nonHispanicWhitePct": 53.8,
+          "blackPct": 6.15,
+          "asianPct": 4.23,
+          "hispanicPct": 10.74
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-31",
+        "winner": "Maxine Dibert",
+        "winnerParty": "dem",
+        "demVotes": 3518,
+        "repVotes": 2948,
+        "totalVotes": 6486,
+        "demPct": 54.24,
+        "repPct": 45.45,
+        "candidates": [
+          {
+            "name": "Bart LeBon",
+            "party": "rep",
+            "votes": 2948
+          },
+          {
+            "name": "Maxine Dibert",
+            "party": "dem",
+            "votes": 3518
+          }
+        ]
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Alaska House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77174,
+        "medianAge": 25.2,
+        "totalPopulation": 17378,
+        "collegePct": 27.16,
+        "renterRatePct": 56.54,
+        "race": {
+          "whitePct": 68.61,
+          "nonHispanicWhitePct": 65.56,
+          "blackPct": 7.27,
+          "asianPct": 3.29,
+          "hispanicPct": 8.79
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-32",
+        "winner": "Will Stapp",
+        "winnerParty": "rep",
+        "demVotes": 1548,
+        "repVotes": 3227,
+        "totalVotes": 4796,
+        "demPct": 32.28,
+        "repPct": 67.29,
+        "candidates": [
+          {
+            "name": "Gary Damron",
+            "party": "dem",
+            "votes": 1548
+          },
+          {
+            "name": "Will Stapp",
+            "party": "rep",
+            "votes": 3227
+          }
+        ]
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Alaska House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101776,
+        "medianAge": 33,
+        "totalPopulation": 18710,
+        "collegePct": 27.53,
+        "renterRatePct": 20.89,
+        "race": {
+          "whitePct": 78.89,
+          "nonHispanicWhitePct": 74.78,
+          "blackPct": 1.94,
+          "asianPct": 1.41,
+          "hispanicPct": 8.15
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-33",
+        "winner": "Glenn Prax",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 6966,
+        "totalVotes": 7200,
+        "demPct": 0,
+        "repPct": 96.75,
+        "candidates": [
+          {
+            "name": "Glenn Prax",
+            "party": "rep",
+            "votes": 6966
+          }
+        ]
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Alaska House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102877,
+        "medianAge": 35.3,
+        "totalPopulation": 18773,
+        "collegePct": 40.48,
+        "renterRatePct": 24.08,
+        "race": {
+          "whitePct": 78.86,
+          "nonHispanicWhitePct": 75.81,
+          "blackPct": 1.45,
+          "asianPct": 1.29,
+          "hispanicPct": 6.78
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-34",
+        "winner": "Frank Tomaszewski",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 8652,
+        "totalVotes": 8735,
+        "demPct": 0,
+        "repPct": 99.05,
+        "candidates": [
+          {
+            "name": "Frank Tomaszewski",
+            "party": "rep",
+            "votes": 4887
+          },
+          {
+            "name": "Joy Cottle",
+            "party": "rep",
+            "votes": 3765
+          }
+        ]
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Alaska House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77581,
+        "medianAge": 34.8,
+        "totalPopulation": 18348,
+        "collegePct": 39.27,
+        "renterRatePct": 38.43,
+        "race": {
+          "whitePct": 64.45,
+          "nonHispanicWhitePct": 62.09,
+          "blackPct": 3.48,
+          "asianPct": 4.53,
+          "hispanicPct": 7.79
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-35",
+        "winner": "Ashley Carrick",
+        "winnerParty": "dem",
+        "demVotes": 5047,
+        "repVotes": 4066,
+        "totalVotes": 9136,
+        "demPct": 55.24,
+        "repPct": 44.51,
+        "candidates": [
+          {
+            "name": "Ashley Carrick",
+            "party": "dem",
+            "votes": 5047
+          },
+          {
+            "name": "Ruben McNeill",
+            "party": "rep",
+            "votes": 4066
+          }
+        ]
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Alaska House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67095,
+        "medianAge": 40.3,
+        "totalPopulation": 18655,
+        "collegePct": 29.06,
+        "renterRatePct": 25.6,
+        "race": {
+          "whitePct": 60.92,
+          "nonHispanicWhitePct": 59.28,
+          "blackPct": 0.7,
+          "asianPct": 1.67,
+          "hispanicPct": 3.72
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-36",
+        "winner": "Rebecca Schwanke",
+        "winnerParty": "rep",
+        "demVotes": 2946,
+        "repVotes": 5456,
+        "totalVotes": 8916,
+        "demPct": 33.04,
+        "repPct": 61.19,
+        "candidates": [
+          {
+            "name": "Pamela Goode",
+            "party": "rep",
+            "votes": 2276
+          },
+          {
+            "name": "Brandon Kowalski",
+            "party": "dem",
+            "votes": 2946
+          },
+          {
+            "name": "James Fields",
+            "party": "ind",
+            "votes": 491
+          },
+          {
+            "name": "Rebecca Schwanke",
+            "party": "rep",
+            "votes": 3180
+          }
+        ]
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Alaska House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78611,
+        "medianAge": 36.3,
+        "totalPopulation": 17437,
+        "collegePct": 17.47,
+        "renterRatePct": 45.75,
+        "race": {
+          "whitePct": 19.79,
+          "nonHispanicWhitePct": 18.99,
+          "blackPct": 3.35,
+          "asianPct": 17.54,
+          "hispanicPct": 7.97
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-37",
+        "winner": "Bryce Edgmon",
+        "winnerParty": "ind",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 3791,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Bryce Edgmon",
+            "party": "ind",
+            "votes": 2748
+          },
+          {
+            "name": "Darren Deacon",
+            "party": "ind",
+            "votes": 1002
+          }
+        ]
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Alaska House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71399,
+        "medianAge": 28.1,
+        "totalPopulation": 17515,
+        "collegePct": 10.63,
+        "renterRatePct": 40.22,
+        "race": {
+          "whitePct": 8.42,
+          "nonHispanicWhitePct": 8.42,
+          "blackPct": 0.96,
+          "asianPct": 1.3,
+          "hispanicPct": 1.38
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-38",
+        "winner": "Nellie Jimmie",
+        "winnerParty": "dem",
+        "demVotes": 2779,
+        "repVotes": 0,
+        "totalVotes": 3763,
+        "demPct": 73.85,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Willy Keppel",
+            "party": "ind",
+            "votes": 971
+          },
+          {
+            "name": "C.J. McCormick",
+            "party": "dem",
+            "votes": 1212
+          },
+          {
+            "name": "Nellie Jimmie",
+            "party": "dem",
+            "votes": 1380
+          },
+          {
+            "name": "Victoria Sosa",
+            "party": "dem",
+            "votes": 187
+          }
+        ]
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Alaska House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61993,
+        "medianAge": 27,
+        "totalPopulation": 17738,
+        "collegePct": 12.68,
+        "renterRatePct": 34.11,
+        "race": {
+          "whitePct": 9.3,
+          "nonHispanicWhitePct": 9.08,
+          "blackPct": 0.99,
+          "asianPct": 1,
+          "hispanicPct": 1.93
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-39",
+        "winner": "Neal Foster",
+        "winnerParty": "dem",
+        "demVotes": 2333,
+        "repVotes": 0,
+        "totalVotes": 4014,
+        "demPct": 58.12,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Tyler Ivanoff",
+            "party": "ind",
+            "votes": 1670
+          },
+          {
+            "name": "Neal Foster",
+            "party": "dem",
+            "votes": 2333
+          }
+        ]
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Alaska House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83359,
+        "medianAge": 31.8,
+        "totalPopulation": 18502,
+        "collegePct": 14.02,
+        "renterRatePct": 45.52,
+        "race": {
+          "whitePct": 22.91,
+          "nonHispanicWhitePct": 22.32,
+          "blackPct": 1.77,
+          "asianPct": 4.23,
+          "hispanicPct": 3.98
+        }
+      },
+      "election": {
+        "districtId": "ak-hd-40",
+        "winner": "Robyn Burke",
+        "winnerParty": "dem",
+        "demVotes": 2280,
+        "repVotes": 0,
+        "totalVotes": 3032,
+        "demPct": 75.2,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Saima Chase",
+            "party": "dem",
+            "votes": 863
+          },
+          {
+            "name": "Thomas Baker",
+            "party": "ind",
+            "votes": 731
+          },
+          {
+            "name": "Robyn Burke",
+            "party": "dem",
+            "votes": 1417
+          }
+        ]
+      }
+    }
+  },
+  "senate": {
+    "A": {
+      "districtLetter": "A",
+      "districtName": "Alaska Senate District A",
+      "census": {
+        "censusName": "State Senate District A (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82245,
+        "medianAge": 41.9,
+        "totalPopulation": 35613,
+        "collegePct": 26.22,
+        "renterRatePct": 33.71,
+        "race": {
+          "whitePct": 57.64,
+          "nonHispanicWhitePct": 55.9,
+          "blackPct": 0.6,
+          "asianPct": 7.42,
+          "hispanicPct": 6.16
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-A",
+        "winner": "Bert Stedman",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 12843,
+        "totalVotes": 12941,
+        "demPct": 0,
+        "repPct": 99.24,
+        "candidates": [
+          {
+            "name": "Mike Sheldon",
+            "party": "rep",
+            "votes": 3941
+          },
+          {
+            "name": "Bert Stedman",
+            "party": "rep",
+            "votes": 8902
+          }
+        ]
+      }
+    },
+    "B": {
+      "districtLetter": "B",
+      "districtName": "Alaska Senate District B",
+      "census": {
+        "censusName": "State Senate District B (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96989,
+        "medianAge": 40.7,
+        "totalPopulation": 36053,
+        "collegePct": 39.52,
+        "renterRatePct": 34.53,
+        "race": {
+          "whitePct": 64.94,
+          "nonHispanicWhitePct": 63.28,
+          "blackPct": 0.75,
+          "asianPct": 6.89,
+          "hispanicPct": 6.63
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-B",
+        "winner": "Jesse Kiehl",
+        "winnerParty": "dem",
+        "demVotes": 15508,
+        "repVotes": 0,
+        "totalVotes": 16069,
+        "demPct": 96.51,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Jesse Kiehl",
+            "party": "dem",
+            "votes": 15508
+          }
+        ]
+      }
+    },
+    "C": {
+      "districtLetter": "C",
+      "districtName": "Alaska Senate District C",
+      "census": {
+        "censusName": "State Senate District C (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74755,
+        "medianAge": 40.2,
+        "totalPopulation": 37798,
+        "collegePct": 31.48,
+        "renterRatePct": 27.07,
+        "race": {
+          "whitePct": 69.64,
+          "nonHispanicWhitePct": 67.33,
+          "blackPct": 0.47,
+          "asianPct": 9.21,
+          "hispanicPct": 5.19
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-C",
+        "winner": "Gary Stevens",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 13843,
+        "totalVotes": 13975,
+        "demPct": 0,
+        "repPct": 99.06,
+        "candidates": [
+          {
+            "name": "Walter Jones",
+            "party": "rep",
+            "votes": 1623
+          },
+          {
+            "name": "Heath Smith",
+            "party": "rep",
+            "votes": 4353
+          },
+          {
+            "name": "Gary Stevens",
+            "party": "rep",
+            "votes": 7867
+          }
+        ]
+      }
+    },
+    "D": {
+      "districtLetter": "D",
+      "districtName": "Alaska Senate District D",
+      "census": {
+        "censusName": "State Senate District D (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83597,
+        "medianAge": 39.9,
+        "totalPopulation": 36701,
+        "collegePct": 27.22,
+        "renterRatePct": 24.88,
+        "race": {
+          "whitePct": 79.62,
+          "nonHispanicWhitePct": 78.28,
+          "blackPct": 0.65,
+          "asianPct": 1.94,
+          "hispanicPct": 4.48
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-D",
+        "winner": "Jesse Bjorkman",
+        "winnerParty": "rep",
+        "demVotes": 2182,
+        "repVotes": 17082,
+        "totalVotes": 19311,
+        "demPct": 11.3,
+        "repPct": 88.46,
+        "candidates": [
+          {
+            "name": "Ben Carpenter",
+            "party": "rep",
+            "votes": 7848
+          },
+          {
+            "name": "Tina Wegener",
+            "party": "dem",
+            "votes": 2182
+          },
+          {
+            "name": "Jesse Bjorkman",
+            "party": "rep",
+            "votes": 9234
+          }
+        ]
+      }
+    },
+    "E": {
+      "districtLetter": "E",
+      "districtName": "Alaska Senate District E",
+      "census": {
+        "censusName": "State Senate District E (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 132136,
+        "medianAge": 40.9,
+        "totalPopulation": 35582,
+        "collegePct": 46.79,
+        "renterRatePct": 17.73,
+        "race": {
+          "whitePct": 67.81,
+          "nonHispanicWhitePct": 65.3,
+          "blackPct": 1.72,
+          "asianPct": 8.54,
+          "hispanicPct": 8.04
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-E",
+        "winner": "Cathy Giessel",
+        "winnerParty": "rep",
+        "demVotes": 5490,
+        "repVotes": 11132,
+        "totalVotes": 16680,
+        "demPct": 32.91,
+        "repPct": 66.74,
+        "candidates": [
+          {
+            "name": "Roger Holland",
+            "party": "rep",
+            "votes": 5521
+          },
+          {
+            "name": "Cathy Giessel",
+            "party": "rep",
+            "votes": 5611
+          },
+          {
+            "name": "Roselynn Cacy",
+            "party": "dem",
+            "votes": 5490
+          }
+        ]
+      }
+    },
+    "F": {
+      "districtLetter": "F",
+      "districtName": "Alaska Senate District F",
+      "census": {
+        "censusName": "State Senate District F (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 123194,
+        "medianAge": 37.6,
+        "totalPopulation": 34897,
+        "collegePct": 40.36,
+        "renterRatePct": 25.14,
+        "race": {
+          "whitePct": 61.39,
+          "nonHispanicWhitePct": 57.92,
+          "blackPct": 2.73,
+          "asianPct": 13.72,
+          "hispanicPct": 8.81
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-F",
+        "winner": "James Kaufman",
+        "winnerParty": "rep",
+        "demVotes": 7646,
+        "repVotes": 9325,
+        "totalVotes": 17006,
+        "demPct": 44.96,
+        "repPct": 54.83,
+        "candidates": [
+          {
+            "name": "James Kaufman",
+            "party": "rep",
+            "votes": 8147
+          },
+          {
+            "name": "Janice Park",
+            "party": "dem",
+            "votes": 7646
+          },
+          {
+            "name": "Harold Borbridge",
+            "party": "rep",
+            "votes": 1178
+          }
+        ]
+      }
+    },
+    "G": {
+      "districtLetter": "G",
+      "districtName": "Alaska Senate District G",
+      "census": {
+        "censusName": "State Senate District G (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90041,
+        "medianAge": 34.8,
+        "totalPopulation": 36445,
+        "collegePct": 30.52,
+        "renterRatePct": 49.17,
+        "race": {
+          "whitePct": 54.32,
+          "nonHispanicWhitePct": 50.89,
+          "blackPct": 4.69,
+          "asianPct": 11.86,
+          "hispanicPct": 8.3
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-G",
+        "winner": "Elvi Gray-Jackson",
+        "winnerParty": "dem",
+        "demVotes": 6325,
+        "repVotes": 4832,
+        "totalVotes": 11199,
+        "demPct": 56.48,
+        "repPct": 43.15,
+        "candidates": [
+          {
+            "name": "Elvi Gray-Jackson",
+            "party": "dem",
+            "votes": 6325
+          },
+          {
+            "name": "Marcus Sanders",
+            "party": "rep",
+            "votes": 4832
+          }
+        ]
+      }
+    },
+    "H": {
+      "districtLetter": "H",
+      "districtName": "Alaska Senate District H",
+      "census": {
+        "censusName": "State Senate District H (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116045,
+        "medianAge": 36.4,
+        "totalPopulation": 38398,
+        "collegePct": 42.17,
+        "renterRatePct": 26.52,
+        "race": {
+          "whitePct": 65.07,
+          "nonHispanicWhitePct": 62.27,
+          "blackPct": 3.08,
+          "asianPct": 8.4,
+          "hispanicPct": 7.93
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-H",
+        "winner": "Matt Claman",
+        "winnerParty": "dem",
+        "demVotes": 9924,
+        "repVotes": 7989,
+        "totalVotes": 17966,
+        "demPct": 55.24,
+        "repPct": 44.47,
+        "candidates": [
+          {
+            "name": "Matt Claman",
+            "party": "dem",
+            "votes": 9924
+          },
+          {
+            "name": "Liz Vazquez",
+            "party": "rep",
+            "votes": 7989
+          }
+        ]
+      }
+    },
+    "I": {
+      "districtLetter": "I",
+      "districtName": "Alaska Senate District I",
+      "census": {
+        "censusName": "State Senate District I (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75067,
+        "medianAge": 29.9,
+        "totalPopulation": 35649,
+        "collegePct": 38.82,
+        "renterRatePct": 67.01,
+        "race": {
+          "whitePct": 58.53,
+          "nonHispanicWhitePct": 54.04,
+          "blackPct": 8.49,
+          "asianPct": 5.24,
+          "hispanicPct": 12.17
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-I",
+        "winner": "Löki Tobin",
+        "winnerParty": "dem",
+        "demVotes": 5011,
+        "repVotes": 0,
+        "totalVotes": 7544,
+        "demPct": 66.42,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Heather Herndon",
+            "party": "ind",
+            "votes": 2428
+          },
+          {
+            "name": "Löki Tobin",
+            "party": "dem",
+            "votes": 5011
+          }
+        ]
+      }
+    },
+    "J": {
+      "districtLetter": "J",
+      "districtName": "Alaska Senate District J",
+      "census": {
+        "censusName": "State Senate District J (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72152,
+        "medianAge": 31.4,
+        "totalPopulation": 36505,
+        "collegePct": 28.03,
+        "renterRatePct": 47.77,
+        "race": {
+          "whitePct": 40.81,
+          "nonHispanicWhitePct": 36.17,
+          "blackPct": 7.31,
+          "asianPct": 13.97,
+          "hispanicPct": 14.09
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-J",
+        "winner": "Forrest Dunbar",
+        "winnerParty": "dem",
+        "demVotes": 7292,
+        "repVotes": 0,
+        "totalVotes": 10443,
+        "demPct": 69.83,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Forrest Dunbar",
+            "party": "dem",
+            "votes": 7292
+          },
+          {
+            "name": "Cheronda Smith",
+            "party": "ind",
+            "votes": 3022
+          }
+        ]
+      }
+    },
+    "K": {
+      "districtLetter": "K",
+      "districtName": "Alaska Senate District K",
+      "census": {
+        "censusName": "State Senate District K (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81228,
+        "medianAge": 34,
+        "totalPopulation": 37191,
+        "collegePct": 29.23,
+        "renterRatePct": 34.48,
+        "race": {
+          "whitePct": 39.92,
+          "nonHispanicWhitePct": 38.49,
+          "blackPct": 11.45,
+          "asianPct": 14.22,
+          "hispanicPct": 8.76
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-K",
+        "winner": "Bill Wielechowski",
+        "winnerParty": "dem",
+        "demVotes": 6267,
+        "repVotes": 4504,
+        "totalVotes": 10806,
+        "demPct": 58,
+        "repPct": 41.68,
+        "candidates": [
+          {
+            "name": "John Cunningham",
+            "party": "rep",
+            "votes": 4504
+          },
+          {
+            "name": "Bill Wielechowski",
+            "party": "dem",
+            "votes": 6267
+          }
+        ]
+      }
+    },
+    "L": {
+      "districtLetter": "L",
+      "districtName": "Alaska Senate District L",
+      "census": {
+        "censusName": "State Senate District L (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 132475,
+        "medianAge": 36.4,
+        "totalPopulation": 34873,
+        "collegePct": 44.65,
+        "renterRatePct": 19.23,
+        "race": {
+          "whitePct": 79.89,
+          "nonHispanicWhitePct": 76.78,
+          "blackPct": 2.51,
+          "asianPct": 2.52,
+          "hispanicPct": 6.41
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-L",
+        "winner": "Kelly Merrick",
+        "winnerParty": "rep",
+        "demVotes": 2754,
+        "repVotes": 16735,
+        "totalVotes": 19540,
+        "demPct": 14.09,
+        "repPct": 85.64,
+        "candidates": [
+          {
+            "name": "Jared Goecker",
+            "party": "rep",
+            "votes": 7685
+          },
+          {
+            "name": "Kelly Merrick",
+            "party": "rep",
+            "votes": 9050
+          },
+          {
+            "name": "Lee Hammermeister",
+            "party": "dem",
+            "votes": 2754
+          }
+        ]
+      }
+    },
+    "M": {
+      "districtLetter": "M",
+      "districtName": "Alaska Senate District M",
+      "census": {
+        "censusName": "State Senate District M (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100493,
+        "medianAge": 35,
+        "totalPopulation": 39797,
+        "collegePct": 28.19,
+        "renterRatePct": 20.42,
+        "race": {
+          "whitePct": 77.48,
+          "nonHispanicWhitePct": 75.12,
+          "blackPct": 1.63,
+          "asianPct": 1.16,
+          "hispanicPct": 6.02
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-M",
+        "winner": "Shelley Hughes",
+        "winnerParty": "rep",
+        "demVotes": 3561,
+        "repVotes": 11257,
+        "totalVotes": 14850,
+        "demPct": 23.98,
+        "repPct": 75.8,
+        "candidates": [
+          {
+            "name": "Shelley Hughes",
+            "party": "rep",
+            "votes": 11257
+          },
+          {
+            "name": "Jim Cooper",
+            "party": "dem",
+            "votes": 3561
+          }
+        ]
+      }
+    },
+    "N": {
+      "districtLetter": "N",
+      "districtName": "Alaska Senate District N",
+      "census": {
+        "censusName": "State Senate District N (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86292,
+        "medianAge": 35.1,
+        "totalPopulation": 39858,
+        "collegePct": 22.07,
+        "renterRatePct": 30.71,
+        "race": {
+          "whitePct": 79.38,
+          "nonHispanicWhitePct": 77.62,
+          "blackPct": 0.64,
+          "asianPct": 2.13,
+          "hispanicPct": 5.15
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-N",
+        "winner": "Robert Yundt",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 15307,
+        "totalVotes": 15493,
+        "demPct": 0,
+        "repPct": 98.8,
+        "candidates": [
+          {
+            "name": "David Wilson",
+            "party": "rep",
+            "votes": 4525
+          },
+          {
+            "name": "Stephen Wright",
+            "party": "rep",
+            "votes": 2619
+          },
+          {
+            "name": "Robert Yundt",
+            "party": "rep",
+            "votes": 8163
+          }
+        ]
+      }
+    },
+    "O": {
+      "districtLetter": "O",
+      "districtName": "Alaska Senate District O",
+      "census": {
+        "censusName": "State Senate District O (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83451,
+        "medianAge": 40.3,
+        "totalPopulation": 37031,
+        "collegePct": 23.27,
+        "renterRatePct": 19.95,
+        "race": {
+          "whitePct": 77.77,
+          "nonHispanicWhitePct": 76.54,
+          "blackPct": 1.7,
+          "asianPct": 1.91,
+          "hispanicPct": 4.6
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-O",
+        "winner": "Michael Shower",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 14108,
+        "totalVotes": 14277,
+        "demPct": 0,
+        "repPct": 98.82,
+        "candidates": [
+          {
+            "name": "Michael Shower",
+            "party": "rep",
+            "votes": 7396
+          },
+          {
+            "name": "Doug Massie",
+            "party": "rep",
+            "votes": 6712
+          }
+        ]
+      }
+    },
+    "P": {
+      "districtLetter": "P",
+      "districtName": "Alaska Senate District P",
+      "census": {
+        "censusName": "State Senate District P (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73278,
+        "medianAge": 28.8,
+        "totalPopulation": 35902,
+        "collegePct": 25.89,
+        "renterRatePct": 56.14,
+        "race": {
+          "whitePct": 62.43,
+          "nonHispanicWhitePct": 59.49,
+          "blackPct": 6.69,
+          "asianPct": 3.77,
+          "hispanicPct": 9.8
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-P",
+        "winner": "Scott Kawasaki",
+        "winnerParty": "dem",
+        "demVotes": 5913,
+        "repVotes": 5561,
+        "totalVotes": 11506,
+        "demPct": 51.39,
+        "repPct": 48.33,
+        "candidates": [
+          {
+            "name": "Scott Kawasaki",
+            "party": "dem",
+            "votes": 5913
+          },
+          {
+            "name": "Leslie Hajdukovich",
+            "party": "rep",
+            "votes": 5561
+          }
+        ]
+      }
+    },
+    "Q": {
+      "districtLetter": "Q",
+      "districtName": "Alaska Senate District Q",
+      "census": {
+        "censusName": "State Senate District Q (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102565,
+        "medianAge": 34.1,
+        "totalPopulation": 37483,
+        "collegePct": 34.08,
+        "renterRatePct": 22.51,
+        "race": {
+          "whitePct": 78.87,
+          "nonHispanicWhitePct": 75.29,
+          "blackPct": 1.7,
+          "asianPct": 1.35,
+          "hispanicPct": 7.46
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-Q",
+        "winner": "Robert Myers",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 8119,
+        "totalVotes": 12976,
+        "demPct": 0,
+        "repPct": 62.57,
+        "candidates": [
+          {
+            "name": "Arthur Serkov",
+            "party": "ind",
+            "votes": 774
+          },
+          {
+            "name": "John Bennett",
+            "party": "ind",
+            "votes": 4009
+          },
+          {
+            "name": "Robert Myers",
+            "party": "rep",
+            "votes": 8119
+          }
+        ]
+      }
+    },
+    "R": {
+      "districtLetter": "R",
+      "districtName": "Alaska Senate District R",
+      "census": {
+        "censusName": "State Senate District R (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75279,
+        "medianAge": 37.3,
+        "totalPopulation": 37003,
+        "collegePct": 34.15,
+        "renterRatePct": 32.04,
+        "race": {
+          "whitePct": 62.67,
+          "nonHispanicWhitePct": 60.67,
+          "blackPct": 2.08,
+          "asianPct": 3.09,
+          "hispanicPct": 5.74
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-R",
+        "winner": "Mike Cronk",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 9387,
+        "totalVotes": 18109,
+        "demPct": 0,
+        "repPct": 51.84,
+        "candidates": [
+          {
+            "name": "Mike Cronk",
+            "party": "rep",
+            "votes": 9387
+          },
+          {
+            "name": "Robert Williams",
+            "party": "ind",
+            "votes": 1157
+          },
+          {
+            "name": "Savannah Fletcher",
+            "party": "ind",
+            "votes": 7509
+          }
+        ]
+      }
+    },
+    "S": {
+      "districtLetter": "S",
+      "districtName": "Alaska Senate District S",
+      "census": {
+        "censusName": "State Senate District S (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74351,
+        "medianAge": 32.3,
+        "totalPopulation": 34952,
+        "collegePct": 14.44,
+        "renterRatePct": 43.04,
+        "race": {
+          "whitePct": 14.09,
+          "nonHispanicWhitePct": 13.69,
+          "blackPct": 2.15,
+          "asianPct": 9.4,
+          "hispanicPct": 4.67
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-S",
+        "winner": "Lyman Hoffman",
+        "winnerParty": "dem",
+        "demVotes": 4436,
+        "repVotes": 0,
+        "totalVotes": 6854,
+        "demPct": 64.72,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Lyman Hoffman",
+            "party": "dem",
+            "votes": 4436
+          },
+          {
+            "name": "Willy Keppel",
+            "party": "ind",
+            "votes": 2378
+          }
+        ]
+      }
+    },
+    "T": {
+      "districtLetter": "T",
+      "districtName": "Alaska Senate District T",
+      "census": {
+        "censusName": "State Senate District T (2022); Alaska",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72350,
+        "medianAge": 29.9,
+        "totalPopulation": 36240,
+        "collegePct": 13.42,
+        "renterRatePct": 39.45,
+        "race": {
+          "whitePct": 16.25,
+          "nonHispanicWhitePct": 15.84,
+          "blackPct": 1.39,
+          "asianPct": 2.65,
+          "hispanicPct": 2.98
+        }
+      },
+      "election": {
+        "districtId": "ak-sd-T",
+        "winner": "Donald Olson",
+        "winnerParty": "dem",
+        "demVotes": 6273,
+        "repVotes": 0,
+        "totalVotes": 6425,
+        "demPct": 97.63,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Donald Olson",
+            "party": "dem",
+            "votes": 6273
+          }
+        ]
+      }
+    }
+  }
+}

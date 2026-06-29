@@ -1,0 +1,1357 @@
+[
+  {
+    "districtId": "ak-hd-1",
+    "winner": "Jeremy Bynum",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 4243,
+    "totalVotes": 8164,
+    "demPct": 0,
+    "repPct": 51.97,
+    "candidates": [
+      {
+        "name": "Agnes Moran",
+        "party": "ind",
+        "votes": 1995
+      },
+      {
+        "name": "Jeremy Bynum",
+        "party": "rep",
+        "votes": 4243
+      },
+      {
+        "name": "Grant Echohawk",
+        "party": "ind",
+        "votes": 1909
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-2",
+    "winner": "Rebecca Himschoot",
+    "winnerParty": "ind",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 7239,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": [
+      {
+        "name": "Rebecca Himschoot",
+        "party": "ind",
+        "votes": 7060
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-3",
+    "winner": "Andrea Story",
+    "winnerParty": "dem",
+    "demVotes": 7961,
+    "repVotes": 0,
+    "totalVotes": 8291,
+    "demPct": 96.02,
+    "repPct": 0,
+    "candidates": [
+      {
+        "name": "Andrea Story",
+        "party": "dem",
+        "votes": 7961
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-4",
+    "winner": "Sara Hannan",
+    "winnerParty": "dem",
+    "demVotes": 7000,
+    "repVotes": 0,
+    "totalVotes": 7244,
+    "demPct": 96.63,
+    "repPct": 0,
+    "candidates": [
+      {
+        "name": "Sara Hannan",
+        "party": "dem",
+        "votes": 7000
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-5",
+    "winner": "Louise Stutes",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 5445,
+    "totalVotes": 7038,
+    "demPct": 0,
+    "repPct": 77.37,
+    "candidates": [
+      {
+        "name": "Leighton Radner",
+        "party": "ind",
+        "votes": 1549
+      },
+      {
+        "name": "Louise Stutes",
+        "party": "rep",
+        "votes": 5445
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-6",
+    "winner": "Sarah Vance",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 6434,
+    "totalVotes": 11417,
+    "demPct": 0,
+    "repPct": 56.35,
+    "candidates": [
+      {
+        "name": "Sarah Vance",
+        "party": "rep",
+        "votes": 5360
+      },
+      {
+        "name": "Brent Johnson",
+        "party": "ind",
+        "votes": 4956
+      },
+      {
+        "name": "Dawson Slaughter",
+        "party": "rep",
+        "votes": 1074
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-7",
+    "winner": "Justin Ruffridge",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 8383,
+    "totalVotes": 8460,
+    "demPct": 0,
+    "repPct": 99.09,
+    "candidates": [
+      {
+        "name": "Ronald Gillham",
+        "party": "rep",
+        "votes": 3398
+      },
+      {
+        "name": "Justin Ruffridge",
+        "party": "rep",
+        "votes": 4985
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-8",
+    "winner": "Bill Elam",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 8904,
+    "totalVotes": 9034,
+    "demPct": 0,
+    "repPct": 98.56,
+    "candidates": [
+      {
+        "name": "Bill Elam",
+        "party": "rep",
+        "votes": 4655
+      },
+      {
+        "name": "John Hillyer",
+        "party": "rep",
+        "votes": 4249
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-9",
+    "winner": "Ky Holland",
+    "winnerParty": "ind",
+    "demVotes": 0,
+    "repVotes": 5093,
+    "totalVotes": 11207,
+    "demPct": 0,
+    "repPct": 45.44,
+    "candidates": [
+      {
+        "name": "Lucy Bauer",
+        "party": "rep",
+        "votes": 5093
+      },
+      {
+        "name": "Ky Holland",
+        "party": "ind",
+        "votes": 6085
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-10",
+    "winner": "Charles Kopp",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 7480,
+    "totalVotes": 7581,
+    "demPct": 0,
+    "repPct": 98.67,
+    "candidates": [
+      {
+        "name": "Charles Kopp",
+        "party": "rep",
+        "votes": 4669
+      },
+      {
+        "name": "Craig Johnson",
+        "party": "rep",
+        "votes": 2811
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-11",
+    "winner": "Julie Coulombe",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 4836,
+    "totalVotes": 9194,
+    "demPct": 0,
+    "repPct": 52.6,
+    "candidates": [
+      {
+        "name": "Julie Coulombe",
+        "party": "rep",
+        "votes": 4836
+      },
+      {
+        "name": "Walter Featherly",
+        "party": "ind",
+        "votes": 4341
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-12",
+    "winner": "Calvin Schrage",
+    "winnerParty": "ind",
+    "demVotes": 0,
+    "repVotes": 3041,
+    "totalVotes": 7831,
+    "demPct": 0,
+    "repPct": 38.83,
+    "candidates": [
+      {
+        "name": "Joseph Lurtsema",
+        "party": "rep",
+        "votes": 3041
+      },
+      {
+        "name": "Calvin Schrage",
+        "party": "ind",
+        "votes": 4763
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-13",
+    "winner": "Andrew Josephson",
+    "winnerParty": "dem",
+    "demVotes": 3743,
+    "repVotes": 3266,
+    "totalVotes": 7024,
+    "demPct": 53.29,
+    "repPct": 46.5,
+    "candidates": [
+      {
+        "name": "Heather Gottshall",
+        "party": "rep",
+        "votes": 3266
+      },
+      {
+        "name": "Andrew Josephson",
+        "party": "dem",
+        "votes": 3743
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-14",
+    "winner": "Alyse Galvin",
+    "winnerParty": "ind",
+    "demVotes": 1278,
+    "repVotes": 0,
+    "totalVotes": 6253,
+    "demPct": 20.44,
+    "repPct": 0,
+    "candidates": [
+      {
+        "name": "Alyse Galvin",
+        "party": "ind",
+        "votes": 4847
+      },
+      {
+        "name": "Harry Kamdem",
+        "party": "dem",
+        "votes": 1278
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-15",
+    "winner": "Mia Costello",
+    "winnerParty": "rep",
+    "demVotes": 4256,
+    "repVotes": 4543,
+    "totalVotes": 8816,
+    "demPct": 48.28,
+    "repPct": 51.53,
+    "candidates": [
+      {
+        "name": "Mia Costello",
+        "party": "rep",
+        "votes": 4543
+      },
+      {
+        "name": "Denny Wells",
+        "party": "dem",
+        "votes": 4014
+      },
+      {
+        "name": "Dustin Darden",
+        "party": "dem",
+        "votes": 242
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-16",
+    "winner": "Carolyn Hall",
+    "winnerParty": "dem",
+    "demVotes": 4860,
+    "repVotes": 0,
+    "totalVotes": 8592,
+    "demPct": 56.56,
+    "repPct": 0,
+    "candidates": [
+      {
+        "name": "Nick Moe",
+        "party": "ind",
+        "votes": 3649
+      },
+      {
+        "name": "Carolyn Hall",
+        "party": "dem",
+        "votes": 4860
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-17",
+    "winner": "William Fields",
+    "winnerParty": "dem",
+    "demVotes": 5243,
+    "repVotes": 0,
+    "totalVotes": 5604,
+    "demPct": 93.56,
+    "repPct": 0,
+    "candidates": [
+      {
+        "name": "William Fields",
+        "party": "dem",
+        "votes": 5243
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-18",
+    "winner": "David Nelson",
+    "winnerParty": "rep",
+    "demVotes": 1856,
+    "repVotes": 1878,
+    "totalVotes": 3737,
+    "demPct": 49.67,
+    "repPct": 50.25,
+    "candidates": [
+      {
+        "name": "Cliff Groh",
+        "party": "dem",
+        "votes": 1856
+      },
+      {
+        "name": "David Nelson",
+        "party": "rep",
+        "votes": 1878
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-19",
+    "winner": "Genevieve Mina",
+    "winnerParty": "dem",
+    "demVotes": 2654,
+    "repVotes": 1353,
+    "totalVotes": 4363,
+    "demPct": 60.83,
+    "repPct": 31.01,
+    "candidates": [
+      {
+        "name": "Russell Wyatt",
+        "party": "ind",
+        "votes": 338
+      },
+      {
+        "name": "Genevieve Mina",
+        "party": "dem",
+        "votes": 2654
+      },
+      {
+        "name": "Kaylee Anderson",
+        "party": "rep",
+        "votes": 1353
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-20",
+    "winner": "Andrew Gray",
+    "winnerParty": "dem",
+    "demVotes": 3927,
+    "repVotes": 0,
+    "totalVotes": 6157,
+    "demPct": 63.78,
+    "repPct": 0,
+    "candidates": [
+      {
+        "name": "Andrew Gray",
+        "party": "dem",
+        "votes": 3927
+      },
+      {
+        "name": "Scott Kohlhaas",
+        "party": "ind",
+        "votes": 2163
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-21",
+    "winner": "Donna Mears",
+    "winnerParty": "dem",
+    "demVotes": 4664,
+    "repVotes": 3743,
+    "totalVotes": 8427,
+    "demPct": 55.35,
+    "repPct": 44.42,
+    "candidates": [
+      {
+        "name": "Donna Mears",
+        "party": "dem",
+        "votes": 4664
+      },
+      {
+        "name": "Aimée Sims",
+        "party": "rep",
+        "votes": 3743
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-22",
+    "winner": "Ted Eischeid",
+    "winnerParty": "dem",
+    "demVotes": 2633,
+    "repVotes": 2382,
+    "totalVotes": 5027,
+    "demPct": 52.38,
+    "repPct": 47.38,
+    "candidates": [
+      {
+        "name": "Stanley Wright",
+        "party": "rep",
+        "votes": 2382
+      },
+      {
+        "name": "Ted Eischeid",
+        "party": "dem",
+        "votes": 2633
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-23",
+    "winner": "Jamie Allard",
+    "winnerParty": "rep",
+    "demVotes": 3747,
+    "repVotes": 6132,
+    "totalVotes": 9916,
+    "demPct": 37.79,
+    "repPct": 61.84,
+    "candidates": [
+      {
+        "name": "Jamie Allard",
+        "party": "rep",
+        "votes": 6132
+      },
+      {
+        "name": "Jim Arlington",
+        "party": "dem",
+        "votes": 3747
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-24",
+    "winner": "Dan Saddler",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 7981,
+    "totalVotes": 8243,
+    "demPct": 0,
+    "repPct": 96.82,
+    "candidates": [
+      {
+        "name": "Dan Saddler",
+        "party": "rep",
+        "votes": 7981
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-25",
+    "winner": "DeLena Johnson",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 7817,
+    "totalVotes": 8155,
+    "demPct": 0,
+    "repPct": 95.86,
+    "candidates": [
+      {
+        "name": "DeLena Johnson",
+        "party": "rep",
+        "votes": 7817
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-26",
+    "winner": "Cathy Tilton",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 7353,
+    "totalVotes": 7607,
+    "demPct": 0,
+    "repPct": 96.66,
+    "candidates": [
+      {
+        "name": "Cathy Tilton",
+        "party": "rep",
+        "votes": 7353
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-27",
+    "winner": "Jubilee Underwood",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 7516,
+    "totalVotes": 7615,
+    "demPct": 0,
+    "repPct": 98.7,
+    "candidates": [
+      {
+        "name": "Jubilee Underwood",
+        "party": "rep",
+        "votes": 3856
+      },
+      {
+        "name": "David Eastman",
+        "party": "rep",
+        "votes": 3660
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-28",
+    "winner": "Elexie Moore",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 7685,
+    "totalVotes": 7800,
+    "demPct": 0,
+    "repPct": 98.53,
+    "candidates": [
+      {
+        "name": "Jessica Wright",
+        "party": "rep",
+        "votes": 1997
+      },
+      {
+        "name": "Steve Menard",
+        "party": "rep",
+        "votes": 2777
+      },
+      {
+        "name": "Elexie Moore",
+        "party": "rep",
+        "votes": 2911
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-29",
+    "winner": "George Rauscher",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 7807,
+    "totalVotes": 8170,
+    "demPct": 0,
+    "repPct": 95.56,
+    "candidates": [
+      {
+        "name": "George Rauscher",
+        "party": "rep",
+        "votes": 7807
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-30",
+    "winner": "Kevin McCabe",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 8577,
+    "totalVotes": 8740,
+    "demPct": 0,
+    "repPct": 98.14,
+    "candidates": [
+      {
+        "name": "Kevin McCabe",
+        "party": "rep",
+        "votes": 4731
+      },
+      {
+        "name": "Doyle Holmes",
+        "party": "rep",
+        "votes": 3846
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-31",
+    "winner": "Maxine Dibert",
+    "winnerParty": "dem",
+    "demVotes": 3518,
+    "repVotes": 2948,
+    "totalVotes": 6486,
+    "demPct": 54.24,
+    "repPct": 45.45,
+    "candidates": [
+      {
+        "name": "Bart LeBon",
+        "party": "rep",
+        "votes": 2948
+      },
+      {
+        "name": "Maxine Dibert",
+        "party": "dem",
+        "votes": 3518
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-32",
+    "winner": "Will Stapp",
+    "winnerParty": "rep",
+    "demVotes": 1548,
+    "repVotes": 3227,
+    "totalVotes": 4796,
+    "demPct": 32.28,
+    "repPct": 67.29,
+    "candidates": [
+      {
+        "name": "Gary Damron",
+        "party": "dem",
+        "votes": 1548
+      },
+      {
+        "name": "Will Stapp",
+        "party": "rep",
+        "votes": 3227
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-33",
+    "winner": "Glenn Prax",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 6966,
+    "totalVotes": 7200,
+    "demPct": 0,
+    "repPct": 96.75,
+    "candidates": [
+      {
+        "name": "Glenn Prax",
+        "party": "rep",
+        "votes": 6966
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-34",
+    "winner": "Frank Tomaszewski",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 8652,
+    "totalVotes": 8735,
+    "demPct": 0,
+    "repPct": 99.05,
+    "candidates": [
+      {
+        "name": "Frank Tomaszewski",
+        "party": "rep",
+        "votes": 4887
+      },
+      {
+        "name": "Joy Cottle",
+        "party": "rep",
+        "votes": 3765
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-35",
+    "winner": "Ashley Carrick",
+    "winnerParty": "dem",
+    "demVotes": 5047,
+    "repVotes": 4066,
+    "totalVotes": 9136,
+    "demPct": 55.24,
+    "repPct": 44.51,
+    "candidates": [
+      {
+        "name": "Ashley Carrick",
+        "party": "dem",
+        "votes": 5047
+      },
+      {
+        "name": "Ruben McNeill",
+        "party": "rep",
+        "votes": 4066
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-36",
+    "winner": "Rebecca Schwanke",
+    "winnerParty": "rep",
+    "demVotes": 2946,
+    "repVotes": 5456,
+    "totalVotes": 8916,
+    "demPct": 33.04,
+    "repPct": 61.19,
+    "candidates": [
+      {
+        "name": "Pamela Goode",
+        "party": "rep",
+        "votes": 2276
+      },
+      {
+        "name": "Brandon Kowalski",
+        "party": "dem",
+        "votes": 2946
+      },
+      {
+        "name": "James Fields",
+        "party": "ind",
+        "votes": 491
+      },
+      {
+        "name": "Rebecca Schwanke",
+        "party": "rep",
+        "votes": 3180
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-37",
+    "winner": "Bryce Edgmon",
+    "winnerParty": "ind",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 3791,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": [
+      {
+        "name": "Bryce Edgmon",
+        "party": "ind",
+        "votes": 2748
+      },
+      {
+        "name": "Darren Deacon",
+        "party": "ind",
+        "votes": 1002
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-38",
+    "winner": "Nellie Jimmie",
+    "winnerParty": "dem",
+    "demVotes": 2779,
+    "repVotes": 0,
+    "totalVotes": 3763,
+    "demPct": 73.85,
+    "repPct": 0,
+    "candidates": [
+      {
+        "name": "Willy Keppel",
+        "party": "ind",
+        "votes": 971
+      },
+      {
+        "name": "C.J. McCormick",
+        "party": "dem",
+        "votes": 1212
+      },
+      {
+        "name": "Nellie Jimmie",
+        "party": "dem",
+        "votes": 1380
+      },
+      {
+        "name": "Victoria Sosa",
+        "party": "dem",
+        "votes": 187
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-39",
+    "winner": "Neal Foster",
+    "winnerParty": "dem",
+    "demVotes": 2333,
+    "repVotes": 0,
+    "totalVotes": 4014,
+    "demPct": 58.12,
+    "repPct": 0,
+    "candidates": [
+      {
+        "name": "Tyler Ivanoff",
+        "party": "ind",
+        "votes": 1670
+      },
+      {
+        "name": "Neal Foster",
+        "party": "dem",
+        "votes": 2333
+      }
+    ]
+  },
+  {
+    "districtId": "ak-hd-40",
+    "winner": "Robyn Burke",
+    "winnerParty": "dem",
+    "demVotes": 2280,
+    "repVotes": 0,
+    "totalVotes": 3032,
+    "demPct": 75.2,
+    "repPct": 0,
+    "candidates": [
+      {
+        "name": "Saima Chase",
+        "party": "dem",
+        "votes": 863
+      },
+      {
+        "name": "Thomas Baker",
+        "party": "ind",
+        "votes": 731
+      },
+      {
+        "name": "Robyn Burke",
+        "party": "dem",
+        "votes": 1417
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-A",
+    "winner": "Bert Stedman",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 12843,
+    "totalVotes": 12941,
+    "demPct": 0,
+    "repPct": 99.24,
+    "candidates": [
+      {
+        "name": "Mike Sheldon",
+        "party": "rep",
+        "votes": 3941
+      },
+      {
+        "name": "Bert Stedman",
+        "party": "rep",
+        "votes": 8902
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-B",
+    "winner": "Jesse Kiehl",
+    "winnerParty": "dem",
+    "demVotes": 15508,
+    "repVotes": 0,
+    "totalVotes": 16069,
+    "demPct": 96.51,
+    "repPct": 0,
+    "candidates": [
+      {
+        "name": "Jesse Kiehl",
+        "party": "dem",
+        "votes": 15508
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-C",
+    "winner": "Gary Stevens",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 13843,
+    "totalVotes": 13975,
+    "demPct": 0,
+    "repPct": 99.06,
+    "candidates": [
+      {
+        "name": "Walter Jones",
+        "party": "rep",
+        "votes": 1623
+      },
+      {
+        "name": "Heath Smith",
+        "party": "rep",
+        "votes": 4353
+      },
+      {
+        "name": "Gary Stevens",
+        "party": "rep",
+        "votes": 7867
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-D",
+    "winner": "Jesse Bjorkman",
+    "winnerParty": "rep",
+    "demVotes": 2182,
+    "repVotes": 17082,
+    "totalVotes": 19311,
+    "demPct": 11.3,
+    "repPct": 88.46,
+    "candidates": [
+      {
+        "name": "Ben Carpenter",
+        "party": "rep",
+        "votes": 7848
+      },
+      {
+        "name": "Tina Wegener",
+        "party": "dem",
+        "votes": 2182
+      },
+      {
+        "name": "Jesse Bjorkman",
+        "party": "rep",
+        "votes": 9234
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-E",
+    "winner": "Cathy Giessel",
+    "winnerParty": "rep",
+    "demVotes": 5490,
+    "repVotes": 11132,
+    "totalVotes": 16680,
+    "demPct": 32.91,
+    "repPct": 66.74,
+    "candidates": [
+      {
+        "name": "Roger Holland",
+        "party": "rep",
+        "votes": 5521
+      },
+      {
+        "name": "Cathy Giessel",
+        "party": "rep",
+        "votes": 5611
+      },
+      {
+        "name": "Roselynn Cacy",
+        "party": "dem",
+        "votes": 5490
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-F",
+    "winner": "James Kaufman",
+    "winnerParty": "rep",
+    "demVotes": 7646,
+    "repVotes": 9325,
+    "totalVotes": 17006,
+    "demPct": 44.96,
+    "repPct": 54.83,
+    "candidates": [
+      {
+        "name": "James Kaufman",
+        "party": "rep",
+        "votes": 8147
+      },
+      {
+        "name": "Janice Park",
+        "party": "dem",
+        "votes": 7646
+      },
+      {
+        "name": "Harold Borbridge",
+        "party": "rep",
+        "votes": 1178
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-G",
+    "winner": "Elvi Gray-Jackson",
+    "winnerParty": "dem",
+    "demVotes": 6325,
+    "repVotes": 4832,
+    "totalVotes": 11199,
+    "demPct": 56.48,
+    "repPct": 43.15,
+    "candidates": [
+      {
+        "name": "Elvi Gray-Jackson",
+        "party": "dem",
+        "votes": 6325
+      },
+      {
+        "name": "Marcus Sanders",
+        "party": "rep",
+        "votes": 4832
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-H",
+    "winner": "Matt Claman",
+    "winnerParty": "dem",
+    "demVotes": 9924,
+    "repVotes": 7989,
+    "totalVotes": 17966,
+    "demPct": 55.24,
+    "repPct": 44.47,
+    "candidates": [
+      {
+        "name": "Matt Claman",
+        "party": "dem",
+        "votes": 9924
+      },
+      {
+        "name": "Liz Vazquez",
+        "party": "rep",
+        "votes": 7989
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-I",
+    "winner": "Löki Tobin",
+    "winnerParty": "dem",
+    "demVotes": 5011,
+    "repVotes": 0,
+    "totalVotes": 7544,
+    "demPct": 66.42,
+    "repPct": 0,
+    "candidates": [
+      {
+        "name": "Heather Herndon",
+        "party": "ind",
+        "votes": 2428
+      },
+      {
+        "name": "Löki Tobin",
+        "party": "dem",
+        "votes": 5011
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-J",
+    "winner": "Forrest Dunbar",
+    "winnerParty": "dem",
+    "demVotes": 7292,
+    "repVotes": 0,
+    "totalVotes": 10443,
+    "demPct": 69.83,
+    "repPct": 0,
+    "candidates": [
+      {
+        "name": "Forrest Dunbar",
+        "party": "dem",
+        "votes": 7292
+      },
+      {
+        "name": "Cheronda Smith",
+        "party": "ind",
+        "votes": 3022
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-K",
+    "winner": "Bill Wielechowski",
+    "winnerParty": "dem",
+    "demVotes": 6267,
+    "repVotes": 4504,
+    "totalVotes": 10806,
+    "demPct": 58,
+    "repPct": 41.68,
+    "candidates": [
+      {
+        "name": "John Cunningham",
+        "party": "rep",
+        "votes": 4504
+      },
+      {
+        "name": "Bill Wielechowski",
+        "party": "dem",
+        "votes": 6267
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-L",
+    "winner": "Kelly Merrick",
+    "winnerParty": "rep",
+    "demVotes": 2754,
+    "repVotes": 16735,
+    "totalVotes": 19540,
+    "demPct": 14.09,
+    "repPct": 85.64,
+    "candidates": [
+      {
+        "name": "Jared Goecker",
+        "party": "rep",
+        "votes": 7685
+      },
+      {
+        "name": "Kelly Merrick",
+        "party": "rep",
+        "votes": 9050
+      },
+      {
+        "name": "Lee Hammermeister",
+        "party": "dem",
+        "votes": 2754
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-M",
+    "winner": "Shelley Hughes",
+    "winnerParty": "rep",
+    "demVotes": 3561,
+    "repVotes": 11257,
+    "totalVotes": 14850,
+    "demPct": 23.98,
+    "repPct": 75.8,
+    "candidates": [
+      {
+        "name": "Shelley Hughes",
+        "party": "rep",
+        "votes": 11257
+      },
+      {
+        "name": "Jim Cooper",
+        "party": "dem",
+        "votes": 3561
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-N",
+    "winner": "Robert Yundt",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 15307,
+    "totalVotes": 15493,
+    "demPct": 0,
+    "repPct": 98.8,
+    "candidates": [
+      {
+        "name": "David Wilson",
+        "party": "rep",
+        "votes": 4525
+      },
+      {
+        "name": "Stephen Wright",
+        "party": "rep",
+        "votes": 2619
+      },
+      {
+        "name": "Robert Yundt",
+        "party": "rep",
+        "votes": 8163
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-O",
+    "winner": "Michael Shower",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 14108,
+    "totalVotes": 14277,
+    "demPct": 0,
+    "repPct": 98.82,
+    "candidates": [
+      {
+        "name": "Michael Shower",
+        "party": "rep",
+        "votes": 7396
+      },
+      {
+        "name": "Doug Massie",
+        "party": "rep",
+        "votes": 6712
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-P",
+    "winner": "Scott Kawasaki",
+    "winnerParty": "dem",
+    "demVotes": 5913,
+    "repVotes": 5561,
+    "totalVotes": 11506,
+    "demPct": 51.39,
+    "repPct": 48.33,
+    "candidates": [
+      {
+        "name": "Scott Kawasaki",
+        "party": "dem",
+        "votes": 5913
+      },
+      {
+        "name": "Leslie Hajdukovich",
+        "party": "rep",
+        "votes": 5561
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-Q",
+    "winner": "Robert Myers",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 8119,
+    "totalVotes": 12976,
+    "demPct": 0,
+    "repPct": 62.57,
+    "candidates": [
+      {
+        "name": "Arthur Serkov",
+        "party": "ind",
+        "votes": 774
+      },
+      {
+        "name": "John Bennett",
+        "party": "ind",
+        "votes": 4009
+      },
+      {
+        "name": "Robert Myers",
+        "party": "rep",
+        "votes": 8119
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-R",
+    "winner": "Mike Cronk",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 9387,
+    "totalVotes": 18109,
+    "demPct": 0,
+    "repPct": 51.84,
+    "candidates": [
+      {
+        "name": "Mike Cronk",
+        "party": "rep",
+        "votes": 9387
+      },
+      {
+        "name": "Robert Williams",
+        "party": "ind",
+        "votes": 1157
+      },
+      {
+        "name": "Savannah Fletcher",
+        "party": "ind",
+        "votes": 7509
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-S",
+    "winner": "Lyman Hoffman",
+    "winnerParty": "dem",
+    "demVotes": 4436,
+    "repVotes": 0,
+    "totalVotes": 6854,
+    "demPct": 64.72,
+    "repPct": 0,
+    "candidates": [
+      {
+        "name": "Lyman Hoffman",
+        "party": "dem",
+        "votes": 4436
+      },
+      {
+        "name": "Willy Keppel",
+        "party": "ind",
+        "votes": 2378
+      }
+    ]
+  },
+  {
+    "districtId": "ak-sd-T",
+    "winner": "Donald Olson",
+    "winnerParty": "dem",
+    "demVotes": 6273,
+    "repVotes": 0,
+    "totalVotes": 6425,
+    "demPct": 97.63,
+    "repPct": 0,
+    "candidates": [
+      {
+        "name": "Donald Olson",
+        "party": "dem",
+        "votes": 6273
+      }
+    ]
+  }
+]

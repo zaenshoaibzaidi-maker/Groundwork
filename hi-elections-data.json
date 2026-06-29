@@ -1,0 +1,1472 @@
+[
+  {
+    "districtId": "hi-hd-1",
+    "winner": "Mark Nakashima",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-hd-2",
+    "winner": "Sue Lee Loy",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-hd-3",
+    "winner": "Christopher Todd",
+    "winnerParty": "dem",
+    "demVotes": 5821,
+    "repVotes": 2793,
+    "totalVotes": 8890,
+    "demPct": 65.48,
+    "repPct": 31.42,
+    "candidates": [
+      {
+        "name": "Christopher Todd",
+        "party": "dem",
+        "votes": 5821
+      },
+      {
+        "name": "Kanoa Wilson",
+        "party": "rep",
+        "votes": 2793
+      },
+      {
+        "name": "Austin Martin",
+        "party": "ind",
+        "votes": 276
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-4",
+    "winner": "Greggor Ilagan",
+    "winnerParty": "dem",
+    "demVotes": 6573,
+    "repVotes": 2825,
+    "totalVotes": 9398,
+    "demPct": 69.94,
+    "repPct": 30.06,
+    "candidates": [
+      {
+        "name": "Greggor Ilagan",
+        "party": "dem",
+        "votes": 6573
+      },
+      {
+        "name": "Keikilani Ho",
+        "party": "rep",
+        "votes": 2825
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-5",
+    "winner": "Jeanne Kapela",
+    "winnerParty": "dem",
+    "demVotes": 5737,
+    "repVotes": 3466,
+    "totalVotes": 9503,
+    "demPct": 60.37,
+    "repPct": 36.47,
+    "candidates": [
+      {
+        "name": "Jeanne Kapela",
+        "party": "dem",
+        "votes": 5737
+      },
+      {
+        "name": "Ashley Oyama",
+        "party": "rep",
+        "votes": 3466
+      },
+      {
+        "name": "Frederick Fogel",
+        "party": "ind",
+        "votes": 300
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-6",
+    "winner": "Kirstin Kahaloa",
+    "winnerParty": "dem",
+    "demVotes": 6221,
+    "repVotes": 3891,
+    "totalVotes": 10112,
+    "demPct": 61.52,
+    "repPct": 38.48,
+    "candidates": [
+      {
+        "name": "Kirstin Kahaloa",
+        "party": "dem",
+        "votes": 6221
+      },
+      {
+        "name": "Sylvie Madison",
+        "party": "rep",
+        "votes": 3891
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-7",
+    "winner": "Nicole Lowen",
+    "winnerParty": "dem",
+    "demVotes": 4920,
+    "repVotes": 3953,
+    "totalVotes": 8873,
+    "demPct": 55.45,
+    "repPct": 44.55,
+    "candidates": [
+      {
+        "name": "Nicole Lowen",
+        "party": "dem",
+        "votes": 4920
+      },
+      {
+        "name": "Timothy Dalhouse",
+        "party": "rep",
+        "votes": 3953
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-8",
+    "winner": "David Tarnas",
+    "winnerParty": "dem",
+    "demVotes": 6331,
+    "repVotes": 3822,
+    "totalVotes": 10153,
+    "demPct": 62.36,
+    "repPct": 37.64,
+    "candidates": [
+      {
+        "name": "David Tarnas",
+        "party": "dem",
+        "votes": 6331
+      },
+      {
+        "name": "Monique Perreira",
+        "party": "rep",
+        "votes": 3822
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-9",
+    "winner": "Justin Woodson",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-hd-10",
+    "winner": "Tyson Miyake",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-hd-11",
+    "winner": "Terez Amato",
+    "winnerParty": "dem",
+    "demVotes": 6657,
+    "repVotes": 3521,
+    "totalVotes": 10178,
+    "demPct": 65.41,
+    "repPct": 34.59,
+    "candidates": [
+      {
+        "name": "Terez Amato",
+        "party": "dem",
+        "votes": 6657
+      },
+      {
+        "name": "Aileen Acain",
+        "party": "rep",
+        "votes": 3521
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-12",
+    "winner": "Kyle Yamashita",
+    "winnerParty": "dem",
+    "demVotes": 7794,
+    "repVotes": 3197,
+    "totalVotes": 11832,
+    "demPct": 65.87,
+    "repPct": 27.02,
+    "candidates": [
+      {
+        "name": "Kyle Yamashita",
+        "party": "dem",
+        "votes": 7794
+      },
+      {
+        "name": "Dan Johnson",
+        "party": "rep",
+        "votes": 3197
+      },
+      {
+        "name": "Rita Ryan",
+        "party": "ind",
+        "votes": 841
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-13",
+    "winner": "Mahina Poepoe",
+    "winnerParty": "dem",
+    "demVotes": 7174,
+    "repVotes": 2577,
+    "totalVotes": 9751,
+    "demPct": 73.57,
+    "repPct": 26.43,
+    "candidates": [
+      {
+        "name": "Mahina Poepoe",
+        "party": "dem",
+        "votes": 7174
+      },
+      {
+        "name": "Scott Adam",
+        "party": "rep",
+        "votes": 2577
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-14",
+    "winner": "Elle Cochran",
+    "winnerParty": "dem",
+    "demVotes": 4303,
+    "repVotes": 3338,
+    "totalVotes": 7641,
+    "demPct": 56.31,
+    "repPct": 43.69,
+    "candidates": [
+      {
+        "name": "Elle Cochran",
+        "party": "dem",
+        "votes": 4303
+      },
+      {
+        "name": "Kelly Armstrong",
+        "party": "rep",
+        "votes": 3338
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-15",
+    "winner": "Nadine Nakamura",
+    "winnerParty": "dem",
+    "demVotes": 6656,
+    "repVotes": 2692,
+    "totalVotes": 9348,
+    "demPct": 71.2,
+    "repPct": 28.8,
+    "candidates": [
+      {
+        "name": "Nadine Nakamura",
+        "party": "dem",
+        "votes": 6656
+      },
+      {
+        "name": "David Moranz",
+        "party": "rep",
+        "votes": 2692
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-16",
+    "winner": "Luke Evslin",
+    "winnerParty": "dem",
+    "demVotes": 6479,
+    "repVotes": 2848,
+    "totalVotes": 9327,
+    "demPct": 69.46,
+    "repPct": 30.54,
+    "candidates": [
+      {
+        "name": "Luke Evslin",
+        "party": "dem",
+        "votes": 6479
+      },
+      {
+        "name": "Steve Yoder",
+        "party": "rep",
+        "votes": 2848
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-17",
+    "winner": "Daynette Morikawa",
+    "winnerParty": "dem",
+    "demVotes": 6450,
+    "repVotes": 2638,
+    "totalVotes": 9088,
+    "demPct": 70.97,
+    "repPct": 29.03,
+    "candidates": [
+      {
+        "name": "Daynette Morikawa",
+        "party": "dem",
+        "votes": 6450
+      },
+      {
+        "name": "Michael Jauch",
+        "party": "rep",
+        "votes": 2638
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-18",
+    "winner": "Gene Ward",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-hd-19",
+    "winner": "Mark Hashem",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-hd-20",
+    "winner": "Tina Nakada Grandinetti",
+    "winnerParty": "dem",
+    "demVotes": 7556,
+    "repVotes": 3362,
+    "totalVotes": 10918,
+    "demPct": 69.21,
+    "repPct": 30.79,
+    "candidates": [
+      {
+        "name": "Tina Nakada Grandinetti",
+        "party": "dem",
+        "votes": 7556
+      },
+      {
+        "name": "Corinne Solomon",
+        "party": "rep",
+        "votes": 3362
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-21",
+    "winner": "Jackson Sayama",
+    "winnerParty": "dem",
+    "demVotes": 8129,
+    "repVotes": 2491,
+    "totalVotes": 10620,
+    "demPct": 76.54,
+    "repPct": 23.46,
+    "candidates": [
+      {
+        "name": "Jackson Sayama",
+        "party": "dem",
+        "votes": 8129
+      },
+      {
+        "name": "Joelle Seashell",
+        "party": "rep",
+        "votes": 2491
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-22",
+    "winner": "Andrew Garrett",
+    "winnerParty": "dem",
+    "demVotes": 8427,
+    "repVotes": 2272,
+    "totalVotes": 10699,
+    "demPct": 78.76,
+    "repPct": 21.24,
+    "candidates": [
+      {
+        "name": "Andrew Garrett",
+        "party": "dem",
+        "votes": 8427
+      },
+      {
+        "name": "Jeffrey Imamura",
+        "party": "rep",
+        "votes": 2272
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-23",
+    "winner": "Ikaika Olds",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-hd-24",
+    "winner": "Adrian Tam",
+    "winnerParty": "dem",
+    "demVotes": 5973,
+    "repVotes": 2862,
+    "totalVotes": 8835,
+    "demPct": 67.61,
+    "repPct": 32.39,
+    "candidates": [
+      {
+        "name": "Adrian Tam",
+        "party": "dem",
+        "votes": 5973
+      },
+      {
+        "name": "Jillian Anderson",
+        "party": "rep",
+        "votes": 2862
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-25",
+    "winner": "Kim Coco Iwamoto",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-hd-26",
+    "winner": "Della Au Belatti",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-hd-27",
+    "winner": "Jenna Takenouchi",
+    "winnerParty": "dem",
+    "demVotes": 7928,
+    "repVotes": 3501,
+    "totalVotes": 11429,
+    "demPct": 69.37,
+    "repPct": 30.63,
+    "candidates": [
+      {
+        "name": "Jenna Takenouchi",
+        "party": "dem",
+        "votes": 7928
+      },
+      {
+        "name": "Margaret Lim",
+        "party": "rep",
+        "votes": 3501
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-28",
+    "winner": "Daniel Holt",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-hd-29",
+    "winner": "Ikaika Hussey",
+    "winnerParty": "dem",
+    "demVotes": 4068,
+    "repVotes": 1944,
+    "totalVotes": 6012,
+    "demPct": 67.66,
+    "repPct": 32.34,
+    "candidates": [
+      {
+        "name": "Ikaika Hussey",
+        "party": "dem",
+        "votes": 4068
+      },
+      {
+        "name": "Carole Kaapu",
+        "party": "rep",
+        "votes": 1944
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-30",
+    "winner": "Shirley Templo",
+    "winnerParty": "dem",
+    "demVotes": 3397,
+    "repVotes": 1515,
+    "totalVotes": 4912,
+    "demPct": 69.16,
+    "repPct": 30.84,
+    "candidates": [
+      {
+        "name": "Shirley Templo",
+        "party": "dem",
+        "votes": 3397
+      },
+      {
+        "name": "P. Azinga",
+        "party": "rep",
+        "votes": 1515
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-31",
+    "winner": "Linda Ichiyama",
+    "winnerParty": "dem",
+    "demVotes": 5579,
+    "repVotes": 2505,
+    "totalVotes": 8084,
+    "demPct": 69.01,
+    "repPct": 30.99,
+    "candidates": [
+      {
+        "name": "Linda Ichiyama",
+        "party": "dem",
+        "votes": 5579
+      },
+      {
+        "name": "Nancy Valdez",
+        "party": "rep",
+        "votes": 2505
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-32",
+    "winner": "Garner Shimizu",
+    "winnerParty": "rep",
+    "demVotes": 4518,
+    "repVotes": 4596,
+    "totalVotes": 9114,
+    "demPct": 49.57,
+    "repPct": 50.43,
+    "candidates": [
+      {
+        "name": "Garner Shimizu",
+        "party": "rep",
+        "votes": 4596
+      },
+      {
+        "name": "Micah Aiu",
+        "party": "dem",
+        "votes": 4518
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-33",
+    "winner": "Sam Satoru Kong",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-hd-34",
+    "winner": "Gregg Takayama",
+    "winnerParty": "dem",
+    "demVotes": 6840,
+    "repVotes": 3161,
+    "totalVotes": 10001,
+    "demPct": 68.39,
+    "repPct": 31.61,
+    "candidates": [
+      {
+        "name": "Gregg Takayama",
+        "party": "dem",
+        "votes": 6840
+      },
+      {
+        "name": "Gaius, Dupio",
+        "party": "rep",
+        "votes": 3161
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-35",
+    "winner": "Cory Chun",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-hd-36",
+    "winner": "Rachele Lamosao",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-hd-37",
+    "winner": "Trish La Chica",
+    "winnerParty": "dem",
+    "demVotes": 8770,
+    "repVotes": 4066,
+    "totalVotes": 12836,
+    "demPct": 68.32,
+    "repPct": 31.68,
+    "candidates": [
+      {
+        "name": "Trish La Chica",
+        "party": "dem",
+        "votes": 8770
+      },
+      {
+        "name": "Taylor Kaaumoana",
+        "party": "rep",
+        "votes": 4066
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-38",
+    "winner": "Lauren Cheape Matsumoto",
+    "winnerParty": "rep",
+    "demVotes": 3418,
+    "repVotes": 8776,
+    "totalVotes": 12194,
+    "demPct": 28.03,
+    "repPct": 71.97,
+    "candidates": [
+      {
+        "name": "Lauren Cheape Matsumoto",
+        "party": "rep",
+        "votes": 8776
+      },
+      {
+        "name": "Alexander Ozawa",
+        "party": "dem",
+        "votes": 3418
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-39",
+    "winner": "Elijah Pierick",
+    "winnerParty": "rep",
+    "demVotes": 4701,
+    "repVotes": 4712,
+    "totalVotes": 9413,
+    "demPct": 49.94,
+    "repPct": 50.06,
+    "candidates": [
+      {
+        "name": "Elijah Pierick",
+        "party": "rep",
+        "votes": 4712
+      },
+      {
+        "name": "Corey Rosenlee",
+        "party": "dem",
+        "votes": 4701
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-40",
+    "winner": "Julie Reyes Oda",
+    "winnerParty": "rep",
+    "demVotes": 3836,
+    "repVotes": 4300,
+    "totalVotes": 8389,
+    "demPct": 45.73,
+    "repPct": 51.26,
+    "candidates": [
+      {
+        "name": "Julie Reyes Oda",
+        "party": "rep",
+        "votes": 4300
+      },
+      {
+        "name": "Rose Martinez",
+        "party": "dem",
+        "votes": 3836
+      },
+      {
+        "name": "Christian Ulufanua",
+        "party": "ind",
+        "votes": 253
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-41",
+    "winner": "David Alcos",
+    "winnerParty": "rep",
+    "demVotes": 3840,
+    "repVotes": 5474,
+    "totalVotes": 9314,
+    "demPct": 41.23,
+    "repPct": 58.77,
+    "candidates": [
+      {
+        "name": "David Alcos",
+        "party": "rep",
+        "votes": 5474
+      },
+      {
+        "name": "John Clark",
+        "party": "dem",
+        "votes": 3840
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-42",
+    "winner": "Diamond Garcia",
+    "winnerParty": "rep",
+    "demVotes": 3646,
+    "repVotes": 4802,
+    "totalVotes": 8448,
+    "demPct": 43.16,
+    "repPct": 56.84,
+    "candidates": [
+      {
+        "name": "Diamond Garcia",
+        "party": "rep",
+        "votes": 4802
+      },
+      {
+        "name": "Anthony Paris",
+        "party": "dem",
+        "votes": 3646
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-43",
+    "winner": "Kanani Souza",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-hd-44",
+    "winner": "Darius Kila",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-hd-45",
+    "winner": "Chris Muraoka",
+    "winnerParty": "rep",
+    "demVotes": 2914,
+    "repVotes": 3123,
+    "totalVotes": 6037,
+    "demPct": 48.27,
+    "repPct": 51.73,
+    "candidates": [
+      {
+        "name": "Chris Muraoka",
+        "party": "rep",
+        "votes": 3123
+      },
+      {
+        "name": "Desire Desoto",
+        "party": "dem",
+        "votes": 2914
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-46",
+    "winner": "Amy Perruso",
+    "winnerParty": "dem",
+    "demVotes": 5432,
+    "repVotes": 3943,
+    "totalVotes": 9375,
+    "demPct": 57.94,
+    "repPct": 42.06,
+    "candidates": [
+      {
+        "name": "Amy Perruso",
+        "party": "dem",
+        "votes": 5432
+      },
+      {
+        "name": "Daniel Gabriel",
+        "party": "rep",
+        "votes": 3943
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-47",
+    "winner": "Sean Quinlan",
+    "winnerParty": "dem",
+    "demVotes": 4616,
+    "repVotes": 3405,
+    "totalVotes": 8021,
+    "demPct": 57.55,
+    "repPct": 42.45,
+    "candidates": [
+      {
+        "name": "Sean Quinlan",
+        "party": "dem",
+        "votes": 4616
+      },
+      {
+        "name": "John Aguirre",
+        "party": "rep",
+        "votes": 3405
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-48",
+    "winner": "Lisa Kitagawa",
+    "winnerParty": "dem",
+    "demVotes": 8578,
+    "repVotes": 0,
+    "totalVotes": 10369,
+    "demPct": 82.73,
+    "repPct": 0,
+    "candidates": [
+      {
+        "name": "Lisa Kitagawa",
+        "party": "dem",
+        "votes": 8578
+      },
+      {
+        "name": "Asheemo Daily",
+        "party": "ind",
+        "votes": 1791
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-49",
+    "winner": "Scot Matayoshi",
+    "winnerParty": "dem",
+    "demVotes": 7711,
+    "repVotes": 2979,
+    "totalVotes": 10690,
+    "demPct": 72.13,
+    "repPct": 27.87,
+    "candidates": [
+      {
+        "name": "Scot Matayoshi",
+        "party": "dem",
+        "votes": 7711
+      },
+      {
+        "name": "Josiah Ubando",
+        "party": "rep",
+        "votes": 2979
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-50",
+    "winner": "Mike Lee",
+    "winnerParty": "dem",
+    "demVotes": 9791,
+    "repVotes": 4206,
+    "totalVotes": 13997,
+    "demPct": 69.95,
+    "repPct": 30.05,
+    "candidates": [
+      {
+        "name": "Mike Lee",
+        "party": "dem",
+        "votes": 9791
+      },
+      {
+        "name": "Timothy Connelly",
+        "party": "rep",
+        "votes": 4206
+      }
+    ]
+  },
+  {
+    "districtId": "hi-hd-51",
+    "winner": "Lisa Marten",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-sd-1",
+    "winner": "Lorraine Inouye",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-sd-2",
+    "winner": "Joy San Buenaventura",
+    "winnerParty": "dem",
+    "demVotes": 9486,
+    "repVotes": 3522,
+    "totalVotes": 13602,
+    "demPct": 69.74,
+    "repPct": 25.89,
+    "candidates": [
+      {
+        "name": "Joy San Buenaventura",
+        "party": "dem",
+        "votes": 9486
+      },
+      {
+        "name": "Holly Osborn",
+        "party": "rep",
+        "votes": 3522
+      },
+      {
+        "name": "Frederick Fogel",
+        "party": "ind",
+        "votes": 594
+      }
+    ]
+  },
+  {
+    "districtId": "hi-sd-3",
+    "winner": "Dru Kanuha",
+    "winnerParty": "dem",
+    "demVotes": 13112,
+    "repVotes": 6273,
+    "totalVotes": 19385,
+    "demPct": 67.64,
+    "repPct": 32.36,
+    "candidates": [
+      {
+        "name": "Dru Kanuha",
+        "party": "dem",
+        "votes": 13112
+      },
+      {
+        "name": "Kurt Sullivan",
+        "party": "rep",
+        "votes": 6273
+      }
+    ]
+  },
+  {
+    "districtId": "hi-sd-4",
+    "winner": "Tim Richards",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-sd-5",
+    "winner": "Gilbert Keith-Agaran",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-sd-6",
+    "winner": "Angus Mckelvey",
+    "winnerParty": "dem",
+    "demVotes": 11528,
+    "repVotes": 6904,
+    "totalVotes": 18432,
+    "demPct": 62.54,
+    "repPct": 37.46,
+    "candidates": [
+      {
+        "name": "Angus Mckelvey",
+        "party": "dem",
+        "votes": 11528
+      },
+      {
+        "name": "Sheila Walker",
+        "party": "rep",
+        "votes": 6904
+      }
+    ]
+  },
+  {
+    "districtId": "hi-sd-7",
+    "winner": "Lynn Decoite",
+    "winnerParty": "dem",
+    "demVotes": 15892,
+    "repVotes": 5930,
+    "totalVotes": 21822,
+    "demPct": 72.83,
+    "repPct": 27.17,
+    "candidates": [
+      {
+        "name": "Lynn Decoite",
+        "party": "dem",
+        "votes": 15892
+      },
+      {
+        "name": "Gabby Macaraeg",
+        "party": "rep",
+        "votes": 5930
+      }
+    ]
+  },
+  {
+    "districtId": "hi-sd-8",
+    "winner": "Ronald Kouchi",
+    "winnerParty": "dem",
+    "demVotes": 16234,
+    "repVotes": 5266,
+    "totalVotes": 22735,
+    "demPct": 71.41,
+    "repPct": 23.16,
+    "candidates": [
+      {
+        "name": "Ronald Kouchi",
+        "party": "dem",
+        "votes": 16234
+      },
+      {
+        "name": "Ana Des",
+        "party": "rep",
+        "votes": 5266
+      },
+      {
+        "name": "Kapana Thronas-Kaho'Onei",
+        "party": "ind",
+        "votes": 1235
+      }
+    ]
+  },
+  {
+    "districtId": "hi-sd-9",
+    "winner": "Stanley Chang",
+    "winnerParty": "dem",
+    "demVotes": 14864,
+    "repVotes": 6289,
+    "totalVotes": 21153,
+    "demPct": 70.27,
+    "repPct": 29.73,
+    "candidates": [
+      {
+        "name": "Stanley Chang",
+        "party": "dem",
+        "votes": 14864
+      },
+      {
+        "name": "Michael Parrish",
+        "party": "rep",
+        "votes": 6289
+      }
+    ]
+  },
+  {
+    "districtId": "hi-sd-10",
+    "winner": "Les Ihara",
+    "winnerParty": "dem",
+    "demVotes": 10264,
+    "repVotes": 5060,
+    "totalVotes": 15324,
+    "demPct": 66.98,
+    "repPct": 33.02,
+    "candidates": [
+      {
+        "name": "Les Ihara",
+        "party": "dem",
+        "votes": 10264
+      },
+      {
+        "name": "Leilani Soon",
+        "party": "rep",
+        "votes": 5060
+      }
+    ]
+  },
+  {
+    "districtId": "hi-sd-11",
+    "winner": "Carol Fukunaga",
+    "winnerParty": "dem",
+    "demVotes": 12831,
+    "repVotes": 4207,
+    "totalVotes": 17038,
+    "demPct": 75.31,
+    "repPct": 24.69,
+    "candidates": [
+      {
+        "name": "Carol Fukunaga",
+        "party": "dem",
+        "votes": 12831
+      },
+      {
+        "name": "Benjamin Sakai",
+        "party": "rep",
+        "votes": 4207
+      }
+    ]
+  },
+  {
+    "districtId": "hi-sd-12",
+    "winner": "Sharon Moriwaki",
+    "winnerParty": "dem",
+    "demVotes": 12789,
+    "repVotes": 5380,
+    "totalVotes": 18169,
+    "demPct": 70.39,
+    "repPct": 29.61,
+    "candidates": [
+      {
+        "name": "Sharon Moriwaki",
+        "party": "dem",
+        "votes": 12789
+      },
+      {
+        "name": "Shotaro Dabbs",
+        "party": "rep",
+        "votes": 5380
+      }
+    ]
+  },
+  {
+    "districtId": "hi-sd-13",
+    "winner": "Karl Rhoads",
+    "winnerParty": "dem",
+    "demVotes": 8810,
+    "repVotes": 3013,
+    "totalVotes": 13689,
+    "demPct": 64.36,
+    "repPct": 22.01,
+    "candidates": [
+      {
+        "name": "Karl Rhoads",
+        "party": "dem",
+        "votes": 8810
+      },
+      {
+        "name": "Matthew Tinay",
+        "party": "rep",
+        "votes": 3013
+      },
+      {
+        "name": "Michelle Kwock",
+        "party": "ind",
+        "votes": 989
+      },
+      {
+        "name": "Kapono Souza",
+        "party": "ind",
+        "votes": 877
+      }
+    ]
+  },
+  {
+    "districtId": "hi-sd-14",
+    "winner": "Donna Kim",
+    "winnerParty": "dem",
+    "demVotes": 8123,
+    "repVotes": 2918,
+    "totalVotes": 11041,
+    "demPct": 73.57,
+    "repPct": 26.43,
+    "candidates": [
+      {
+        "name": "Donna Kim",
+        "party": "dem",
+        "votes": 8123
+      },
+      {
+        "name": "Cheryl Rzonca",
+        "party": "rep",
+        "votes": 2918
+      }
+    ]
+  },
+  {
+    "districtId": "hi-sd-15",
+    "winner": "Glenn Wakai",
+    "winnerParty": "dem",
+    "demVotes": 7883,
+    "repVotes": 3763,
+    "totalVotes": 11646,
+    "demPct": 67.69,
+    "repPct": 32.31,
+    "candidates": [
+      {
+        "name": "Glenn Wakai",
+        "party": "dem",
+        "votes": 7883
+      },
+      {
+        "name": "Lorene Godfrey",
+        "party": "rep",
+        "votes": 3763
+      }
+    ]
+  },
+  {
+    "districtId": "hi-sd-16",
+    "winner": "Brandon Elefante",
+    "winnerParty": "dem",
+    "demVotes": 16454,
+    "repVotes": 5906,
+    "totalVotes": 22360,
+    "demPct": 73.59,
+    "repPct": 26.41,
+    "candidates": [
+      {
+        "name": "Brandon Elefante",
+        "party": "dem",
+        "votes": 16454
+      },
+      {
+        "name": "Pat Beekman",
+        "party": "rep",
+        "votes": 5906
+      }
+    ]
+  },
+  {
+    "districtId": "hi-sd-17",
+    "winner": "Donovan Dela Cruz",
+    "winnerParty": "dem",
+    "demVotes": 11555,
+    "repVotes": 6168,
+    "totalVotes": 17723,
+    "demPct": 65.2,
+    "repPct": 34.8,
+    "candidates": [
+      {
+        "name": "Donovan Dela Cruz",
+        "party": "dem",
+        "votes": 11555
+      },
+      {
+        "name": "Anna Hudson",
+        "party": "rep",
+        "votes": 6168
+      }
+    ]
+  },
+  {
+    "districtId": "hi-sd-18",
+    "winner": "Michelle Kidani",
+    "winnerParty": "dem",
+    "demVotes": 13706,
+    "repVotes": 6986,
+    "totalVotes": 20692,
+    "demPct": 66.24,
+    "repPct": 33.76,
+    "candidates": [
+      {
+        "name": "Michelle Kidani",
+        "party": "dem",
+        "votes": 13706
+      },
+      {
+        "name": "Emil Svrcina",
+        "party": "rep",
+        "votes": 6986
+      }
+    ]
+  },
+  {
+    "districtId": "hi-sd-19",
+    "winner": "Henry Aquino",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-sd-20",
+    "winner": "Kurt Fevella",
+    "winnerParty": "rep",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-sd-21",
+    "winner": "Mike Gabbard",
+    "winnerParty": "dem",
+    "demVotes": 8164,
+    "repVotes": 5698,
+    "totalVotes": 13862,
+    "demPct": 58.89,
+    "repPct": 41.11,
+    "candidates": [
+      {
+        "name": "Mike Gabbard",
+        "party": "dem",
+        "votes": 8164
+      },
+      {
+        "name": "Matthew Khan",
+        "party": "rep",
+        "votes": 5698
+      }
+    ]
+  },
+  {
+    "districtId": "hi-sd-22",
+    "winner": "Samantha Decorte",
+    "winnerParty": "rep",
+    "demVotes": 5725,
+    "repVotes": 6859,
+    "totalVotes": 12584,
+    "demPct": 45.49,
+    "repPct": 54.51,
+    "candidates": [
+      {
+        "name": "Samantha Decorte",
+        "party": "rep",
+        "votes": 6859
+      },
+      {
+        "name": "Cedric Gates",
+        "party": "dem",
+        "votes": 5725
+      }
+    ]
+  },
+  {
+    "districtId": "hi-sd-23",
+    "winner": "Brenton Awa",
+    "winnerParty": "rep",
+    "demVotes": 9495,
+    "repVotes": 10594,
+    "totalVotes": 20089,
+    "demPct": 47.26,
+    "repPct": 52.74,
+    "candidates": [
+      {
+        "name": "Brenton Awa",
+        "party": "rep",
+        "votes": 10594
+      },
+      {
+        "name": "Ben Shafer",
+        "party": "dem",
+        "votes": 9495
+      }
+    ]
+  },
+  {
+    "districtId": "hi-sd-24",
+    "winner": "Jarrett Keohokalole",
+    "winnerParty": "dem",
+    "demVotes": 0,
+    "repVotes": 0,
+    "totalVotes": 0,
+    "demPct": 0,
+    "repPct": 0,
+    "candidates": []
+  },
+  {
+    "districtId": "hi-sd-25",
+    "winner": "Chris Lee",
+    "winnerParty": "dem",
+    "demVotes": 14865,
+    "repVotes": 6280,
+    "totalVotes": 21145,
+    "demPct": 70.3,
+    "repPct": 29.7,
+    "candidates": [
+      {
+        "name": "Chris Lee",
+        "party": "dem",
+        "votes": 14865
+      },
+      {
+        "name": "Brian Lauro",
+        "party": "rep",
+        "votes": 6280
+      }
+    ]
+  }
+]

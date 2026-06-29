@@ -1,0 +1,883 @@
+{
+  "senate": [
+    {
+      "district": 1,
+      "winner": "Sharer",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 2,
+      "winner": "Lanier",
+      "party": "R",
+      "pct": 78.5,
+      "opposed": true,
+      "runnerUp": "Songtree L. Pioche",
+      "runnerUpParty": "D"
+    },
+    {
+      "district": 3,
+      "winner": "Pinto",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 4,
+      "winner": "Munoz",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 5,
+      "winner": "Jaramillo",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 6,
+      "winner": "Gonzales",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 7,
+      "winner": "Woods",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 8,
+      "winner": "Campos",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 9,
+      "winner": "Nava",
+      "party": "D",
+      "pct": 55.9,
+      "opposed": true,
+      "runnerUp": "Audrey Trujillo",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 10,
+      "winner": "Duhigg",
+      "party": "D",
+      "pct": 57.6,
+      "opposed": true,
+      "runnerUp": "Rudy B Mora",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 11,
+      "winner": "Lopez",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 12,
+      "winner": "Block",
+      "party": "R",
+      "pct": 52.4,
+      "opposed": true,
+      "runnerUp": "Phillip Ramirez",
+      "runnerUpParty": "D"
+    },
+    {
+      "district": 13,
+      "winner": "O'Malley",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 14,
+      "winner": "Padilla",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 15,
+      "winner": "Berghmans",
+      "party": "D",
+      "pct": 60.7,
+      "opposed": true,
+      "runnerUp": "Craig Degenhardt",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 16,
+      "winner": "Lopez",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 17,
+      "winner": "Stewart",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 18,
+      "winner": "Figueroa",
+      "party": "D",
+      "pct": 58,
+      "opposed": true,
+      "runnerUp": "Kurstin S. Johnson",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 19,
+      "winner": "Thornton",
+      "party": "R",
+      "pct": 57,
+      "opposed": true,
+      "runnerUp": "William Burton Scott",
+      "runnerUpParty": "D"
+    },
+    {
+      "district": 20,
+      "winner": "Hickey",
+      "party": "D",
+      "pct": 57.5,
+      "opposed": true,
+      "runnerUp": "Wayne A Yevoli",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 21,
+      "winner": "Tobiassen",
+      "party": "R",
+      "pct": 52.8,
+      "opposed": true,
+      "runnerUp": "Athena Ann Christodoulou",
+      "runnerUpParty": "D"
+    },
+    {
+      "district": 22,
+      "winner": "Shendo",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 23,
+      "winner": "Pope",
+      "party": "D",
+      "pct": 53.4,
+      "opposed": true,
+      "runnerUp": "Terry Lynne Aragon",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 24,
+      "winner": "Trujillo",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 25,
+      "winner": "Wirth",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 26,
+      "winner": "Maestas",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 27,
+      "winner": "Boone",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 28,
+      "winner": "Ramos",
+      "party": "R",
+      "pct": 55.4,
+      "opposed": true,
+      "runnerUp": "Chris M. Ponce",
+      "runnerUpParty": "D"
+    },
+    {
+      "district": 29,
+      "winner": "Sanchez",
+      "party": "R",
+      "pct": 59.3,
+      "opposed": true,
+      "runnerUp": "Tina R. Garcia",
+      "runnerUpParty": "D"
+    },
+    {
+      "district": 30,
+      "winner": "Charley",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 31,
+      "winner": "Cervantes",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 32,
+      "winner": "Ezzell",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 33,
+      "winner": "Paul",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 34,
+      "winner": "Townsend",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 35,
+      "winner": "Brantley",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 36,
+      "winner": "Steinborn",
+      "party": "D",
+      "pct": 55.9,
+      "opposed": true,
+      "runnerUp": "David H. Tofsted",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 37,
+      "winner": "Soules",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 38,
+      "winner": "Hamblen",
+      "party": "D",
+      "pct": 50.9,
+      "opposed": true,
+      "runnerUp": "Samantha R. Barncastle Salopek",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 39,
+      "winner": "Stefanics",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 40,
+      "winner": "Brandt",
+      "party": "R",
+      "pct": 54,
+      "opposed": true,
+      "runnerUp": "Amina N. Everett",
+      "runnerUpParty": "D"
+    },
+    {
+      "district": 41,
+      "winner": "Gallegos",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 42,
+      "winner": "Scott",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    }
+  ],
+  "house": [
+    {
+      "district": 1,
+      "winner": "Montoya",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 2,
+      "winner": "Duncan",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 3,
+      "winner": "Hall",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 4,
+      "winner": "Hernandez",
+      "party": "D",
+      "pct": 55.7,
+      "opposed": true,
+      "runnerUp": "Lincoln Mark",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 5,
+      "winner": "Johnson",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 6,
+      "winner": "Alcon",
+      "party": "D",
+      "pct": 58.9,
+      "opposed": true,
+      "runnerUp": "Paul L. Spencer",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 7,
+      "winner": "Moya",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 8,
+      "winner": "Baca",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 9,
+      "winner": "Lundstrom",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 10,
+      "winner": "Romero",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 11,
+      "winner": "Martinez",
+      "party": "D",
+      "pct": 74.7,
+      "opposed": true,
+      "runnerUp": "Bart H. Kinney, III",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 12,
+      "winner": "Cruz",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 13,
+      "winner": "Caballero",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 14,
+      "winner": "Garcia",
+      "party": "D",
+      "pct": 71.8,
+      "opposed": true,
+      "runnerUp": "Konnie L. Legried",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 15,
+      "winner": "Hochman-Vigil",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 16,
+      "winner": "Valenzuela",
+      "party": "D",
+      "pct": 59.1,
+      "opposed": true,
+      "runnerUp": "Leland Benwood H. Bohannon",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 17,
+      "winner": "Borrego",
+      "party": "D",
+      "pct": 54.1,
+      "opposed": true,
+      "runnerUp": "Joshua Taylor Neal",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 18,
+      "winner": "Anaya",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 19,
+      "winner": "Anyanonu",
+      "party": "D",
+      "pct": 71.8,
+      "opposed": true,
+      "runnerUp": "Leanna K. Derrick",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 20,
+      "winner": "Dixon",
+      "party": "D",
+      "pct": 55.9,
+      "opposed": true,
+      "runnerUp": "Tracy Major",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 21,
+      "winner": "Sarinana",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 22,
+      "winner": "Lord",
+      "party": "R",
+      "pct": 56.4,
+      "opposed": true,
+      "numOpponents": 2
+    },
+    {
+      "district": 23,
+      "winner": "Martinez",
+      "party": "R",
+      "pct": 54.5,
+      "opposed": true,
+      "runnerUp": "Frank James Smith, Jr",
+      "runnerUpParty": "D"
+    },
+    {
+      "district": 24,
+      "winner": "Thomson",
+      "party": "D",
+      "pct": 59.5,
+      "opposed": true,
+      "runnerUp": "David J. Daffron",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 25,
+      "winner": "Parajon",
+      "party": "D",
+      "pct": 68.8,
+      "opposed": true,
+      "runnerUp": "Denis Litvinenko",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 26,
+      "winner": "Chavez",
+      "party": "D",
+      "pct": 58.2,
+      "opposed": true,
+      "runnerUp": "Patrick B. Sais",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 27,
+      "winner": "Matthews",
+      "party": "D",
+      "pct": 53.8,
+      "opposed": true,
+      "runnerUp": "Gregory R. Gallegos",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 28,
+      "winner": "Herndon",
+      "party": "D",
+      "pct": 55.9,
+      "opposed": true,
+      "runnerUp": "Marcie M. May",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 29,
+      "winner": "Garratt",
+      "party": "D",
+      "pct": 54.1,
+      "opposed": true,
+      "runnerUp": "Gregory G. Cunningham",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 30,
+      "winner": "Torres-Velasquez",
+      "party": "D",
+      "pct": 54.1,
+      "opposed": true,
+      "runnerUp": "Lori Lee Robertson",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 31,
+      "winner": "Chavez",
+      "party": "R",
+      "pct": 52.3,
+      "opposed": true,
+      "runnerUp": "Vicky G. Estrada-Bustillo",
+      "runnerUpParty": "D"
+    },
+    {
+      "district": 32,
+      "winner": "Jones",
+      "party": "R",
+      "pct": 61.3,
+      "opposed": true,
+      "runnerUp": "Linda S. Alvarez",
+      "runnerUpParty": "D"
+    },
+    {
+      "district": 33,
+      "winner": "Cadena",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 34,
+      "winner": "Lara",
+      "party": "D",
+      "pct": 57.7,
+      "opposed": true,
+      "runnerUp": "Larry M. Sedillo",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 35,
+      "winner": "Rubio",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 36,
+      "winner": "Small",
+      "party": "D",
+      "pct": 51.9,
+      "opposed": true,
+      "runnerUp": "Kimberly A. Skaggs",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 37,
+      "winner": "Ferrary",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 38,
+      "winner": "Dow",
+      "party": "R",
+      "pct": 51.6,
+      "opposed": true,
+      "runnerUp": "Tara Jaramillo",
+      "runnerUpParty": "D"
+    },
+    {
+      "district": 39,
+      "winner": "Terrazas",
+      "party": "R",
+      "pct": 53.5,
+      "opposed": true,
+      "runnerUp": "Gabrielle Begay",
+      "runnerUpParty": "D"
+    },
+    {
+      "district": 40,
+      "winner": "Sanchez",
+      "party": "D",
+      "pct": 61,
+      "opposed": true,
+      "runnerUp": "Diego M. Olivas",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 41,
+      "winner": "Herrera",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 42,
+      "winner": "Ortez",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 43,
+      "winner": "Chandler",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 44,
+      "winner": "Cates",
+      "party": "D",
+      "pct": 52.9,
+      "opposed": true,
+      "runnerUp": "Ali Ennenga",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 45,
+      "winner": "Serrato",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 46,
+      "winner": "Romero",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 47,
+      "winner": "Szczepanski",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 48,
+      "winner": "Lujan",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 49,
+      "winner": "Armstrong",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 50,
+      "winner": "Mcqueen",
+      "party": "D",
+      "pct": 61.6,
+      "opposed": true,
+      "runnerUp": "Kenneth Donald Brennan",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 51,
+      "winner": "Block",
+      "party": "R",
+      "pct": 61.1,
+      "opposed": true,
+      "runnerUp": "Ashlie L. Myers",
+      "runnerUpParty": "D"
+    },
+    {
+      "district": 52,
+      "winner": "Gallegos",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 53,
+      "winner": "Silva",
+      "party": "D",
+      "pct": 50.8,
+      "opposed": true,
+      "runnerUp": "Elizabeth Lee Winterrowd",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 54,
+      "winner": "Henry",
+      "party": "R",
+      "pct": 83.2,
+      "opposed": true,
+      "runnerUp": "Christian Scott Ehmling",
+      "runnerUpParty": "L"
+    },
+    {
+      "district": 55,
+      "winner": "Brown",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 56,
+      "winner": "Vincent",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 57,
+      "winner": "Cullen",
+      "party": "R",
+      "pct": 50.4,
+      "opposed": true,
+      "runnerUp": "Michelle Eleanor Sandoval",
+      "runnerUpParty": "D"
+    },
+    {
+      "district": 58,
+      "winner": "Mejia",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 59,
+      "winner": "Hembree",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 60,
+      "winner": "Hernandez",
+      "party": "R",
+      "pct": 57.2,
+      "opposed": true,
+      "runnerUp": "Luke Nicholas Jungmann",
+      "runnerUpParty": "D"
+    },
+    {
+      "district": 61,
+      "winner": "Pettigrew",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 62,
+      "winner": "Cortez",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 63,
+      "winner": "Zamora",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 64,
+      "winner": "Reeb",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 65,
+      "winner": "Lente",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 66,
+      "winner": "Mason",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 67,
+      "winner": "Chatfield",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 68,
+      "winner": "Little",
+      "party": "D",
+      "pct": 52.2,
+      "opposed": true,
+      "runnerUp": "Nathan T. Brooks",
+      "runnerUpParty": "R"
+    },
+    {
+      "district": 69,
+      "winner": "Abeyta",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 70,
+      "winner": "Gonzales",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    }
+  ]
+}

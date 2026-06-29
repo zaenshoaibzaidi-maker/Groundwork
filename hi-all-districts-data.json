@@ -1,0 +1,2996 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Hawaii House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79754,
+        "medianAge": 42.1,
+        "totalPopulation": 25715,
+        "collegePct": 30.58,
+        "renterRatePct": 25.46,
+        "race": {
+          "whitePct": 25.7,
+          "nonHispanicWhitePct": 24.51,
+          "blackPct": 0.56,
+          "asianPct": 23.1,
+          "hispanicPct": 10.69
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-1",
+        "winner": "Mark Nakashima",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Hawaii House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78808,
+        "medianAge": 42.6,
+        "totalPopulation": 26165,
+        "collegePct": 36.69,
+        "renterRatePct": 35.54,
+        "race": {
+          "whitePct": 14.1,
+          "nonHispanicWhitePct": 13.32,
+          "blackPct": 1.22,
+          "asianPct": 40.61,
+          "hispanicPct": 11.87
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-2",
+        "winner": "Sue Lee Loy",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Hawaii House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68178,
+        "medianAge": 44.1,
+        "totalPopulation": 27196,
+        "collegePct": 21.42,
+        "renterRatePct": 26.24,
+        "race": {
+          "whitePct": 23.7,
+          "nonHispanicWhitePct": 22.43,
+          "blackPct": 0.62,
+          "asianPct": 17.32,
+          "hispanicPct": 14
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-3",
+        "winner": "Christopher Todd",
+        "winnerParty": "dem",
+        "demVotes": 5821,
+        "repVotes": 2793,
+        "totalVotes": 8890,
+        "demPct": 65.48,
+        "repPct": 31.42,
+        "candidates": [
+          {
+            "name": "Christopher Todd",
+            "party": "dem",
+            "votes": 5821
+          },
+          {
+            "name": "Kanoa Wilson",
+            "party": "rep",
+            "votes": 2793
+          },
+          {
+            "name": "Austin Martin",
+            "party": "ind",
+            "votes": 276
+          }
+        ]
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Hawaii House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46757,
+        "medianAge": 44.2,
+        "totalPopulation": 23550,
+        "collegePct": 24.4,
+        "renterRatePct": 22.48,
+        "race": {
+          "whitePct": 34.04,
+          "nonHispanicWhitePct": 32.34,
+          "blackPct": 1.14,
+          "asianPct": 18.11,
+          "hispanicPct": 14.56
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-4",
+        "winner": "Greggor Ilagan",
+        "winnerParty": "dem",
+        "demVotes": 6573,
+        "repVotes": 2825,
+        "totalVotes": 9398,
+        "demPct": 69.94,
+        "repPct": 30.06,
+        "candidates": [
+          {
+            "name": "Greggor Ilagan",
+            "party": "dem",
+            "votes": 6573
+          },
+          {
+            "name": "Keikilani Ho",
+            "party": "rep",
+            "votes": 2825
+          }
+        ]
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Hawaii House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62477,
+        "medianAge": 46.4,
+        "totalPopulation": 24157,
+        "collegePct": 25.26,
+        "renterRatePct": 23.43,
+        "race": {
+          "whitePct": 33.17,
+          "nonHispanicWhitePct": 31.69,
+          "blackPct": 0.93,
+          "asianPct": 15.58,
+          "hispanicPct": 15.25
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-5",
+        "winner": "Jeanne Kapela",
+        "winnerParty": "dem",
+        "demVotes": 5737,
+        "repVotes": 3466,
+        "totalVotes": 9503,
+        "demPct": 60.37,
+        "repPct": 36.47,
+        "candidates": [
+          {
+            "name": "Jeanne Kapela",
+            "party": "dem",
+            "votes": 5737
+          },
+          {
+            "name": "Ashley Oyama",
+            "party": "rep",
+            "votes": 3466
+          },
+          {
+            "name": "Frederick Fogel",
+            "party": "ind",
+            "votes": 300
+          }
+        ]
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Hawaii House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88477,
+        "medianAge": 48,
+        "totalPopulation": 27738,
+        "collegePct": 40.84,
+        "renterRatePct": 26.09,
+        "race": {
+          "whitePct": 51.45,
+          "nonHispanicWhitePct": 50.53,
+          "blackPct": 0.48,
+          "asianPct": 20.26,
+          "hispanicPct": 7.7
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-6",
+        "winner": "Kirstin Kahaloa",
+        "winnerParty": "dem",
+        "demVotes": 6221,
+        "repVotes": 3891,
+        "totalVotes": 10112,
+        "demPct": 61.52,
+        "repPct": 38.48,
+        "candidates": [
+          {
+            "name": "Kirstin Kahaloa",
+            "party": "dem",
+            "votes": 6221
+          },
+          {
+            "name": "Sylvie Madison",
+            "party": "rep",
+            "votes": 3891
+          }
+        ]
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Hawaii House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100065,
+        "medianAge": 40.6,
+        "totalPopulation": 24401,
+        "collegePct": 29.74,
+        "renterRatePct": 34.17,
+        "race": {
+          "whitePct": 36.73,
+          "nonHispanicWhitePct": 35.71,
+          "blackPct": 0.66,
+          "asianPct": 14.7,
+          "hispanicPct": 6.99
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-7",
+        "winner": "Nicole Lowen",
+        "winnerParty": "dem",
+        "demVotes": 4920,
+        "repVotes": 3953,
+        "totalVotes": 8873,
+        "demPct": 55.45,
+        "repPct": 44.55,
+        "candidates": [
+          {
+            "name": "Nicole Lowen",
+            "party": "dem",
+            "votes": 4920
+          },
+          {
+            "name": "Timothy Dalhouse",
+            "party": "rep",
+            "votes": 3953
+          }
+        ]
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Hawaii House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93393,
+        "medianAge": 43.6,
+        "totalPopulation": 24762,
+        "collegePct": 36.25,
+        "renterRatePct": 21.7,
+        "race": {
+          "whitePct": 29.92,
+          "nonHispanicWhitePct": 29.02,
+          "blackPct": 0.75,
+          "asianPct": 19,
+          "hispanicPct": 11.44
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-8",
+        "winner": "David Tarnas",
+        "winnerParty": "dem",
+        "demVotes": 6331,
+        "repVotes": 3822,
+        "totalVotes": 10153,
+        "demPct": 62.36,
+        "repPct": 37.64,
+        "candidates": [
+          {
+            "name": "David Tarnas",
+            "party": "dem",
+            "votes": 6331
+          },
+          {
+            "name": "Monique Perreira",
+            "party": "rep",
+            "votes": 3822
+          }
+        ]
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Hawaii House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92340,
+        "medianAge": 43.4,
+        "totalPopulation": 27002,
+        "collegePct": 24.68,
+        "renterRatePct": 38.32,
+        "race": {
+          "whitePct": 10.92,
+          "nonHispanicWhitePct": 10.07,
+          "blackPct": 0.91,
+          "asianPct": 56.09,
+          "hispanicPct": 6.84
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-9",
+        "winner": "Justin Woodson",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Hawaii House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101218,
+        "medianAge": 41.5,
+        "totalPopulation": 26510,
+        "collegePct": 32,
+        "renterRatePct": 25.15,
+        "race": {
+          "whitePct": 18.28,
+          "nonHispanicWhitePct": 17.41,
+          "blackPct": 1.38,
+          "asianPct": 37.25,
+          "hispanicPct": 8.81
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-10",
+        "winner": "Tyson Miyake",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Hawaii House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87948,
+        "medianAge": 44.7,
+        "totalPopulation": 29249,
+        "collegePct": 35.34,
+        "renterRatePct": 38.09,
+        "race": {
+          "whitePct": 49.98,
+          "nonHispanicWhitePct": 47.96,
+          "blackPct": 1.22,
+          "asianPct": 18.48,
+          "hispanicPct": 12.17
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-11",
+        "winner": "Terez Amato",
+        "winnerParty": "dem",
+        "demVotes": 6657,
+        "repVotes": 3521,
+        "totalVotes": 10178,
+        "demPct": 65.41,
+        "repPct": 34.59,
+        "candidates": [
+          {
+            "name": "Terez Amato",
+            "party": "dem",
+            "votes": 6657
+          },
+          {
+            "name": "Aileen Acain",
+            "party": "rep",
+            "votes": 3521
+          }
+        ]
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Hawaii House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103098,
+        "medianAge": 44.7,
+        "totalPopulation": 27772,
+        "collegePct": 32.57,
+        "renterRatePct": 34.79,
+        "race": {
+          "whitePct": 35.91,
+          "nonHispanicWhitePct": 33.8,
+          "blackPct": 0.51,
+          "asianPct": 17.09,
+          "hispanicPct": 13.51
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-12",
+        "winner": "Kyle Yamashita",
+        "winnerParty": "dem",
+        "demVotes": 7794,
+        "repVotes": 3197,
+        "totalVotes": 11832,
+        "demPct": 65.87,
+        "repPct": 27.02,
+        "candidates": [
+          {
+            "name": "Kyle Yamashita",
+            "party": "dem",
+            "votes": 7794
+          },
+          {
+            "name": "Dan Johnson",
+            "party": "rep",
+            "votes": 3197
+          },
+          {
+            "name": "Rita Ryan",
+            "party": "ind",
+            "votes": 841
+          }
+        ]
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Hawaii House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90532,
+        "medianAge": 39.9,
+        "totalPopulation": 27365,
+        "collegePct": 28.3,
+        "renterRatePct": 36.92,
+        "race": {
+          "whitePct": 36.19,
+          "nonHispanicWhitePct": 34.78,
+          "blackPct": 0.05,
+          "asianPct": 13.24,
+          "hispanicPct": 9.76
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-13",
+        "winner": "Mahina Poepoe",
+        "winnerParty": "dem",
+        "demVotes": 7174,
+        "repVotes": 2577,
+        "totalVotes": 9751,
+        "demPct": 73.57,
+        "repPct": 26.43,
+        "candidates": [
+          {
+            "name": "Mahina Poepoe",
+            "party": "dem",
+            "votes": 7174
+          },
+          {
+            "name": "Scott Adam",
+            "party": "rep",
+            "votes": 2577
+          }
+        ]
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Hawaii House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104075,
+        "medianAge": 41.9,
+        "totalPopulation": 26777,
+        "collegePct": 27.02,
+        "renterRatePct": 36.49,
+        "race": {
+          "whitePct": 32.58,
+          "nonHispanicWhitePct": 30.58,
+          "blackPct": 0.46,
+          "asianPct": 29.09,
+          "hispanicPct": 11.82
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-14",
+        "winner": "Elle Cochran",
+        "winnerParty": "dem",
+        "demVotes": 4303,
+        "repVotes": 3338,
+        "totalVotes": 7641,
+        "demPct": 56.31,
+        "repPct": 43.69,
+        "candidates": [
+          {
+            "name": "Elle Cochran",
+            "party": "dem",
+            "votes": 4303
+          },
+          {
+            "name": "Kelly Armstrong",
+            "party": "rep",
+            "votes": 3338
+          }
+        ]
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Hawaii House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88229,
+        "medianAge": 45,
+        "totalPopulation": 23705,
+        "collegePct": 32.79,
+        "renterRatePct": 30.74,
+        "race": {
+          "whitePct": 40.66,
+          "nonHispanicWhitePct": 39.39,
+          "blackPct": 0.62,
+          "asianPct": 21.43,
+          "hispanicPct": 9.18
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-15",
+        "winner": "Nadine Nakamura",
+        "winnerParty": "dem",
+        "demVotes": 6656,
+        "repVotes": 2692,
+        "totalVotes": 9348,
+        "demPct": 71.2,
+        "repPct": 28.8,
+        "candidates": [
+          {
+            "name": "Nadine Nakamura",
+            "party": "dem",
+            "votes": 6656
+          },
+          {
+            "name": "David Moranz",
+            "party": "rep",
+            "votes": 2692
+          }
+        ]
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Hawaii House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98236,
+        "medianAge": 41.8,
+        "totalPopulation": 25807,
+        "collegePct": 30.13,
+        "renterRatePct": 30.53,
+        "race": {
+          "whitePct": 25.34,
+          "nonHispanicWhitePct": 24.65,
+          "blackPct": 0.85,
+          "asianPct": 36.29,
+          "hispanicPct": 11.21
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-16",
+        "winner": "Luke Evslin",
+        "winnerParty": "dem",
+        "demVotes": 6479,
+        "repVotes": 2848,
+        "totalVotes": 9327,
+        "demPct": 69.46,
+        "repPct": 30.54,
+        "candidates": [
+          {
+            "name": "Luke Evslin",
+            "party": "dem",
+            "votes": 6479
+          },
+          {
+            "name": "Steve Yoder",
+            "party": "rep",
+            "votes": 2848
+          }
+        ]
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Hawaii House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94805,
+        "medianAge": 42,
+        "totalPopulation": 24098,
+        "collegePct": 27.68,
+        "renterRatePct": 36.87,
+        "race": {
+          "whitePct": 24.79,
+          "nonHispanicWhitePct": 23.41,
+          "blackPct": 0.41,
+          "asianPct": 30.52,
+          "hispanicPct": 11
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-17",
+        "winner": "Daynette Morikawa",
+        "winnerParty": "dem",
+        "demVotes": 6450,
+        "repVotes": 2638,
+        "totalVotes": 9088,
+        "demPct": 70.97,
+        "repPct": 29.03,
+        "candidates": [
+          {
+            "name": "Daynette Morikawa",
+            "party": "dem",
+            "votes": 6450
+          },
+          {
+            "name": "Michael Jauch",
+            "party": "rep",
+            "votes": 2638
+          }
+        ]
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Hawaii House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 149766,
+        "medianAge": 48.6,
+        "totalPopulation": 27361,
+        "collegePct": 58.71,
+        "renterRatePct": 15.5,
+        "race": {
+          "whitePct": 25.87,
+          "nonHispanicWhitePct": 24.93,
+          "blackPct": 0.4,
+          "asianPct": 43.35,
+          "hispanicPct": 7.37
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-18",
+        "winner": "Gene Ward",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Hawaii House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 162990,
+        "medianAge": 50.3,
+        "totalPopulation": 26364,
+        "collegePct": 62.8,
+        "renterRatePct": 19.59,
+        "race": {
+          "whitePct": 20.92,
+          "nonHispanicWhitePct": 20.61,
+          "blackPct": 0.74,
+          "asianPct": 51.29,
+          "hispanicPct": 3.03
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-19",
+        "winner": "Mark Hashem",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Hawaii House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118037,
+        "medianAge": 48.1,
+        "totalPopulation": 27098,
+        "collegePct": 51.08,
+        "renterRatePct": 37.36,
+        "race": {
+          "whitePct": 22.06,
+          "nonHispanicWhitePct": 21.11,
+          "blackPct": 1.07,
+          "asianPct": 53.44,
+          "hispanicPct": 5.29
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-20",
+        "winner": "Tina Nakada Grandinetti",
+        "winnerParty": "dem",
+        "demVotes": 7556,
+        "repVotes": 3362,
+        "totalVotes": 10918,
+        "demPct": 69.21,
+        "repPct": 30.79,
+        "candidates": [
+          {
+            "name": "Tina Nakada Grandinetti",
+            "party": "dem",
+            "votes": 7556
+          },
+          {
+            "name": "Corinne Solomon",
+            "party": "rep",
+            "votes": 3362
+          }
+        ]
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Hawaii House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119715,
+        "medianAge": 45.9,
+        "totalPopulation": 26131,
+        "collegePct": 46.14,
+        "renterRatePct": 34.3,
+        "race": {
+          "whitePct": 19.72,
+          "nonHispanicWhitePct": 18.68,
+          "blackPct": 0.47,
+          "asianPct": 49.47,
+          "hispanicPct": 6.32
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-21",
+        "winner": "Jackson Sayama",
+        "winnerParty": "dem",
+        "demVotes": 8129,
+        "repVotes": 2491,
+        "totalVotes": 10620,
+        "demPct": 76.54,
+        "repPct": 23.46,
+        "candidates": [
+          {
+            "name": "Jackson Sayama",
+            "party": "dem",
+            "votes": 8129
+          },
+          {
+            "name": "Joelle Seashell",
+            "party": "rep",
+            "votes": 2491
+          }
+        ]
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Hawaii House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106675,
+        "medianAge": 41.9,
+        "totalPopulation": 27659,
+        "collegePct": 59.23,
+        "renterRatePct": 38.96,
+        "race": {
+          "whitePct": 22.93,
+          "nonHispanicWhitePct": 21.84,
+          "blackPct": 1.44,
+          "asianPct": 48.24,
+          "hispanicPct": 6.08
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-22",
+        "winner": "Andrew Garrett",
+        "winnerParty": "dem",
+        "demVotes": 8427,
+        "repVotes": 2272,
+        "totalVotes": 10699,
+        "demPct": 78.76,
+        "repPct": 21.24,
+        "candidates": [
+          {
+            "name": "Andrew Garrett",
+            "party": "dem",
+            "votes": 8427
+          },
+          {
+            "name": "Jeffrey Imamura",
+            "party": "rep",
+            "votes": 2272
+          }
+        ]
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Hawaii House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65356,
+        "medianAge": 44.4,
+        "totalPopulation": 27996,
+        "collegePct": 35.65,
+        "renterRatePct": 64.56,
+        "race": {
+          "whitePct": 11.92,
+          "nonHispanicWhitePct": 10.42,
+          "blackPct": 1.59,
+          "asianPct": 57.01,
+          "hispanicPct": 6.37
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-23",
+        "winner": "Ikaika Olds",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Hawaii House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73271,
+        "medianAge": 47.7,
+        "totalPopulation": 27076,
+        "collegePct": 46.97,
+        "renterRatePct": 57.55,
+        "race": {
+          "whitePct": 33.99,
+          "nonHispanicWhitePct": 32.73,
+          "blackPct": 1.94,
+          "asianPct": 46.08,
+          "hispanicPct": 5.85
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-24",
+        "winner": "Adrian Tam",
+        "winnerParty": "dem",
+        "demVotes": 5973,
+        "repVotes": 2862,
+        "totalVotes": 8835,
+        "demPct": 67.61,
+        "repPct": 32.39,
+        "candidates": [
+          {
+            "name": "Adrian Tam",
+            "party": "dem",
+            "votes": 5973
+          },
+          {
+            "name": "Jillian Anderson",
+            "party": "rep",
+            "votes": 2862
+          }
+        ]
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Hawaii House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88328,
+        "medianAge": 43.9,
+        "totalPopulation": 26366,
+        "collegePct": 55.74,
+        "renterRatePct": 50.05,
+        "race": {
+          "whitePct": 17.38,
+          "nonHispanicWhitePct": 16.65,
+          "blackPct": 2.66,
+          "asianPct": 57.87,
+          "hispanicPct": 6.41
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-25",
+        "winner": "Kim Coco Iwamoto",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Hawaii House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75605,
+        "medianAge": 42.5,
+        "totalPopulation": 28554,
+        "collegePct": 47.23,
+        "renterRatePct": 56.47,
+        "race": {
+          "whitePct": 18.44,
+          "nonHispanicWhitePct": 17.04,
+          "blackPct": 2.06,
+          "asianPct": 45.72,
+          "hispanicPct": 4.81
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-26",
+        "winner": "Della Au Belatti",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Hawaii House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103626,
+        "medianAge": 47.4,
+        "totalPopulation": 26484,
+        "collegePct": 43.35,
+        "renterRatePct": 36.54,
+        "race": {
+          "whitePct": 13.4,
+          "nonHispanicWhitePct": 11.63,
+          "blackPct": 0.5,
+          "asianPct": 52.06,
+          "hispanicPct": 7.1
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-27",
+        "winner": "Jenna Takenouchi",
+        "winnerParty": "dem",
+        "demVotes": 7928,
+        "repVotes": 3501,
+        "totalVotes": 11429,
+        "demPct": 69.37,
+        "repPct": 30.63,
+        "candidates": [
+          {
+            "name": "Jenna Takenouchi",
+            "party": "dem",
+            "votes": 7928
+          },
+          {
+            "name": "Margaret Lim",
+            "party": "rep",
+            "votes": 3501
+          }
+        ]
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Hawaii House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58725,
+        "medianAge": 43.7,
+        "totalPopulation": 27421,
+        "collegePct": 23.84,
+        "renterRatePct": 75.09,
+        "race": {
+          "whitePct": 8.84,
+          "nonHispanicWhitePct": 8.4,
+          "blackPct": 1.29,
+          "asianPct": 59.36,
+          "hispanicPct": 5.23
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-28",
+        "winner": "Daniel Holt",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Hawaii House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120075,
+        "medianAge": 43.7,
+        "totalPopulation": 27366,
+        "collegePct": 21.99,
+        "renterRatePct": 31.36,
+        "race": {
+          "whitePct": 3.83,
+          "nonHispanicWhitePct": 3.52,
+          "blackPct": 0.15,
+          "asianPct": 65.37,
+          "hispanicPct": 5.04
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-29",
+        "winner": "Ikaika Hussey",
+        "winnerParty": "dem",
+        "demVotes": 4068,
+        "repVotes": 1944,
+        "totalVotes": 6012,
+        "demPct": 67.66,
+        "repPct": 32.34,
+        "candidates": [
+          {
+            "name": "Ikaika Hussey",
+            "party": "dem",
+            "votes": 4068
+          },
+          {
+            "name": "Carole Kaapu",
+            "party": "rep",
+            "votes": 1944
+          }
+        ]
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Hawaii House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84583,
+        "medianAge": 34.3,
+        "totalPopulation": 34120,
+        "collegePct": 23.68,
+        "renterRatePct": 73.52,
+        "race": {
+          "whitePct": 19.67,
+          "nonHispanicWhitePct": 18.01,
+          "blackPct": 3.53,
+          "asianPct": 47.8,
+          "hispanicPct": 8.02
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-30",
+        "winner": "Shirley Templo",
+        "winnerParty": "dem",
+        "demVotes": 3397,
+        "repVotes": 1515,
+        "totalVotes": 4912,
+        "demPct": 69.16,
+        "repPct": 30.84,
+        "candidates": [
+          {
+            "name": "Shirley Templo",
+            "party": "dem",
+            "votes": 3397
+          },
+          {
+            "name": "P. Azinga",
+            "party": "rep",
+            "votes": 1515
+          }
+        ]
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Hawaii House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91928,
+        "medianAge": 32,
+        "totalPopulation": 38648,
+        "collegePct": 34.21,
+        "renterRatePct": 57.28,
+        "race": {
+          "whitePct": 26.06,
+          "nonHispanicWhitePct": 23.49,
+          "blackPct": 6.41,
+          "asianPct": 38.19,
+          "hispanicPct": 12.16
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-31",
+        "winner": "Linda Ichiyama",
+        "winnerParty": "dem",
+        "demVotes": 5579,
+        "repVotes": 2505,
+        "totalVotes": 8084,
+        "demPct": 69.01,
+        "repPct": 30.99,
+        "candidates": [
+          {
+            "name": "Linda Ichiyama",
+            "party": "dem",
+            "votes": 5579
+          },
+          {
+            "name": "Nancy Valdez",
+            "party": "rep",
+            "votes": 2505
+          }
+        ]
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Hawaii House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96859,
+        "medianAge": 36.1,
+        "totalPopulation": 35631,
+        "collegePct": 34.84,
+        "renterRatePct": 49.59,
+        "race": {
+          "whitePct": 21.32,
+          "nonHispanicWhitePct": 19.48,
+          "blackPct": 4,
+          "asianPct": 45.33,
+          "hispanicPct": 10.9
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-32",
+        "winner": "Garner Shimizu",
+        "winnerParty": "rep",
+        "demVotes": 4518,
+        "repVotes": 4596,
+        "totalVotes": 9114,
+        "demPct": 49.57,
+        "repPct": 50.43,
+        "candidates": [
+          {
+            "name": "Garner Shimizu",
+            "party": "rep",
+            "votes": 4596
+          },
+          {
+            "name": "Micah Aiu",
+            "party": "dem",
+            "votes": 4518
+          }
+        ]
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Hawaii House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 122102,
+        "medianAge": 48,
+        "totalPopulation": 28006,
+        "collegePct": 43.83,
+        "renterRatePct": 22.68,
+        "race": {
+          "whitePct": 11.1,
+          "nonHispanicWhitePct": 9.97,
+          "blackPct": 1.8,
+          "asianPct": 58.2,
+          "hispanicPct": 6.68
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-33",
+        "winner": "Sam Satoru Kong",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Hawaii House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104322,
+        "medianAge": 43.3,
+        "totalPopulation": 29009,
+        "collegePct": 31.42,
+        "renterRatePct": 30.5,
+        "race": {
+          "whitePct": 9.63,
+          "nonHispanicWhitePct": 9.41,
+          "blackPct": 1.93,
+          "asianPct": 50.72,
+          "hispanicPct": 6.86
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-34",
+        "winner": "Gregg Takayama",
+        "winnerParty": "dem",
+        "demVotes": 6840,
+        "repVotes": 3161,
+        "totalVotes": 10001,
+        "demPct": 68.39,
+        "repPct": 31.61,
+        "candidates": [
+          {
+            "name": "Gregg Takayama",
+            "party": "dem",
+            "votes": 6840
+          },
+          {
+            "name": "Gaius, Dupio",
+            "party": "rep",
+            "votes": 3161
+          }
+        ]
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Hawaii House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106699,
+        "medianAge": 42.7,
+        "totalPopulation": 25803,
+        "collegePct": 25.3,
+        "renterRatePct": 34.27,
+        "race": {
+          "whitePct": 8.1,
+          "nonHispanicWhitePct": 6.4,
+          "blackPct": 0.71,
+          "asianPct": 62.32,
+          "hispanicPct": 9.57
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-35",
+        "winner": "Cory Chun",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Hawaii House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102108,
+        "medianAge": 39.7,
+        "totalPopulation": 26326,
+        "collegePct": 19.77,
+        "renterRatePct": 37.06,
+        "race": {
+          "whitePct": 2.81,
+          "nonHispanicWhitePct": 2.57,
+          "blackPct": 0.07,
+          "asianPct": 64.01,
+          "hispanicPct": 5.92
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-36",
+        "winner": "Rachele Lamosao",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Hawaii House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 121988,
+        "medianAge": 46.7,
+        "totalPopulation": 27412,
+        "collegePct": 39.33,
+        "renterRatePct": 17.18,
+        "race": {
+          "whitePct": 9.68,
+          "nonHispanicWhitePct": 9.05,
+          "blackPct": 1.31,
+          "asianPct": 56.07,
+          "hispanicPct": 7.5
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-37",
+        "winner": "Trish La Chica",
+        "winnerParty": "dem",
+        "demVotes": 8770,
+        "repVotes": 4066,
+        "totalVotes": 12836,
+        "demPct": 68.32,
+        "repPct": 31.68,
+        "candidates": [
+          {
+            "name": "Trish La Chica",
+            "party": "dem",
+            "votes": 8770
+          },
+          {
+            "name": "Taylor Kaaumoana",
+            "party": "rep",
+            "votes": 4066
+          }
+        ]
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Hawaii House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 132736,
+        "medianAge": 40.3,
+        "totalPopulation": 29142,
+        "collegePct": 44.64,
+        "renterRatePct": 24.03,
+        "race": {
+          "whitePct": 11.78,
+          "nonHispanicWhitePct": 10.86,
+          "blackPct": 1.75,
+          "asianPct": 47.1,
+          "hispanicPct": 10.63
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-38",
+        "winner": "Lauren Cheape Matsumoto",
+        "winnerParty": "rep",
+        "demVotes": 3418,
+        "repVotes": 8776,
+        "totalVotes": 12194,
+        "demPct": 28.03,
+        "repPct": 71.97,
+        "candidates": [
+          {
+            "name": "Lauren Cheape Matsumoto",
+            "party": "rep",
+            "votes": 8776
+          },
+          {
+            "name": "Alexander Ozawa",
+            "party": "dem",
+            "votes": 3418
+          }
+        ]
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Hawaii House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120682,
+        "medianAge": 37.1,
+        "totalPopulation": 27533,
+        "collegePct": 29.94,
+        "renterRatePct": 29.64,
+        "race": {
+          "whitePct": 7.63,
+          "nonHispanicWhitePct": 6.88,
+          "blackPct": 2.29,
+          "asianPct": 55.78,
+          "hispanicPct": 9.2
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-39",
+        "winner": "Elijah Pierick",
+        "winnerParty": "rep",
+        "demVotes": 4701,
+        "repVotes": 4712,
+        "totalVotes": 9413,
+        "demPct": 49.94,
+        "repPct": 50.06,
+        "candidates": [
+          {
+            "name": "Elijah Pierick",
+            "party": "rep",
+            "votes": 4712
+          },
+          {
+            "name": "Corey Rosenlee",
+            "party": "dem",
+            "votes": 4701
+          }
+        ]
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Hawaii House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 129186,
+        "medianAge": 35.4,
+        "totalPopulation": 30234,
+        "collegePct": 26.5,
+        "renterRatePct": 36.32,
+        "race": {
+          "whitePct": 11.95,
+          "nonHispanicWhitePct": 10.81,
+          "blackPct": 2.87,
+          "asianPct": 43.45,
+          "hispanicPct": 12.07
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-40",
+        "winner": "Julie Reyes Oda",
+        "winnerParty": "rep",
+        "demVotes": 3836,
+        "repVotes": 4300,
+        "totalVotes": 8389,
+        "demPct": 45.73,
+        "repPct": 51.26,
+        "candidates": [
+          {
+            "name": "Julie Reyes Oda",
+            "party": "rep",
+            "votes": 4300
+          },
+          {
+            "name": "Rose Martinez",
+            "party": "dem",
+            "votes": 3836
+          },
+          {
+            "name": "Christian Ulufanua",
+            "party": "ind",
+            "votes": 253
+          }
+        ]
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Hawaii House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 134688,
+        "medianAge": 34.1,
+        "totalPopulation": 33565,
+        "collegePct": 37.77,
+        "renterRatePct": 29.5,
+        "race": {
+          "whitePct": 20.46,
+          "nonHispanicWhitePct": 17.65,
+          "blackPct": 4.7,
+          "asianPct": 36.22,
+          "hispanicPct": 14.17
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-41",
+        "winner": "David Alcos",
+        "winnerParty": "rep",
+        "demVotes": 3840,
+        "repVotes": 5474,
+        "totalVotes": 9314,
+        "demPct": 41.23,
+        "repPct": 58.77,
+        "candidates": [
+          {
+            "name": "David Alcos",
+            "party": "rep",
+            "votes": 5474
+          },
+          {
+            "name": "John Clark",
+            "party": "dem",
+            "votes": 3840
+          }
+        ]
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Hawaii House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108750,
+        "medianAge": 33.8,
+        "totalPopulation": 28322,
+        "collegePct": 22.78,
+        "renterRatePct": 29.24,
+        "race": {
+          "whitePct": 6.93,
+          "nonHispanicWhitePct": 5.82,
+          "blackPct": 0.38,
+          "asianPct": 41.29,
+          "hispanicPct": 12.36
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-42",
+        "winner": "Diamond Garcia",
+        "winnerParty": "rep",
+        "demVotes": 3646,
+        "repVotes": 4802,
+        "totalVotes": 8448,
+        "demPct": 43.16,
+        "repPct": 56.84,
+        "candidates": [
+          {
+            "name": "Diamond Garcia",
+            "party": "rep",
+            "votes": 4802
+          },
+          {
+            "name": "Anthony Paris",
+            "party": "dem",
+            "votes": 3646
+          }
+        ]
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Hawaii House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 124068,
+        "medianAge": 34.2,
+        "totalPopulation": 31131,
+        "collegePct": 37.29,
+        "renterRatePct": 22.14,
+        "race": {
+          "whitePct": 21.38,
+          "nonHispanicWhitePct": 19.72,
+          "blackPct": 5.89,
+          "asianPct": 29.12,
+          "hispanicPct": 15.53
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-43",
+        "winner": "Kanani Souza",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Hawaii House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97422,
+        "medianAge": 33.7,
+        "totalPopulation": 27659,
+        "collegePct": 18.21,
+        "renterRatePct": 32.27,
+        "race": {
+          "whitePct": 9.61,
+          "nonHispanicWhitePct": 9.09,
+          "blackPct": 3.12,
+          "asianPct": 10.92,
+          "hispanicPct": 12.81
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-44",
+        "winner": "Darius Kila",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Hawaii House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77000,
+        "medianAge": 37,
+        "totalPopulation": 24799,
+        "collegePct": 16.17,
+        "renterRatePct": 45.06,
+        "race": {
+          "whitePct": 14.17,
+          "nonHispanicWhitePct": 12.92,
+          "blackPct": 2.14,
+          "asianPct": 11.61,
+          "hispanicPct": 13.52
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-45",
+        "winner": "Chris Muraoka",
+        "winnerParty": "rep",
+        "demVotes": 2914,
+        "repVotes": 3123,
+        "totalVotes": 6037,
+        "demPct": 48.27,
+        "repPct": 51.73,
+        "candidates": [
+          {
+            "name": "Chris Muraoka",
+            "party": "rep",
+            "votes": 3123
+          },
+          {
+            "name": "Desire Desoto",
+            "party": "dem",
+            "votes": 2914
+          }
+        ]
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Hawaii House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84842,
+        "medianAge": 28.2,
+        "totalPopulation": 50404,
+        "collegePct": 27.16,
+        "renterRatePct": 60.61,
+        "race": {
+          "whitePct": 31.63,
+          "nonHispanicWhitePct": 28.09,
+          "blackPct": 9.93,
+          "asianPct": 26.46,
+          "hispanicPct": 16.63
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-46",
+        "winner": "Amy Perruso",
+        "winnerParty": "dem",
+        "demVotes": 5432,
+        "repVotes": 3943,
+        "totalVotes": 9375,
+        "demPct": 57.94,
+        "repPct": 42.06,
+        "candidates": [
+          {
+            "name": "Amy Perruso",
+            "party": "dem",
+            "votes": 5432
+          },
+          {
+            "name": "Daniel Gabriel",
+            "party": "rep",
+            "votes": 3943
+          }
+        ]
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Hawaii House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91618,
+        "medianAge": 32.4,
+        "totalPopulation": 28560,
+        "collegePct": 30.11,
+        "renterRatePct": 52.35,
+        "race": {
+          "whitePct": 33.99,
+          "nonHispanicWhitePct": 31.9,
+          "blackPct": 2.58,
+          "asianPct": 14.36,
+          "hispanicPct": 9.42
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-47",
+        "winner": "Sean Quinlan",
+        "winnerParty": "dem",
+        "demVotes": 4616,
+        "repVotes": 3405,
+        "totalVotes": 8021,
+        "demPct": 57.55,
+        "repPct": 42.45,
+        "candidates": [
+          {
+            "name": "Sean Quinlan",
+            "party": "dem",
+            "votes": 4616
+          },
+          {
+            "name": "John Aguirre",
+            "party": "rep",
+            "votes": 3405
+          }
+        ]
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Hawaii House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 134622,
+        "medianAge": 43.5,
+        "totalPopulation": 26471,
+        "collegePct": 44.42,
+        "renterRatePct": 22.16,
+        "race": {
+          "whitePct": 21.16,
+          "nonHispanicWhitePct": 20.12,
+          "blackPct": 0.35,
+          "asianPct": 28.99,
+          "hispanicPct": 11.23
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-48",
+        "winner": "Lisa Kitagawa",
+        "winnerParty": "dem",
+        "demVotes": 8578,
+        "repVotes": 0,
+        "totalVotes": 10369,
+        "demPct": 82.73,
+        "repPct": 0,
+        "candidates": [
+          {
+            "name": "Lisa Kitagawa",
+            "party": "dem",
+            "votes": 8578
+          },
+          {
+            "name": "Asheemo Daily",
+            "party": "ind",
+            "votes": 1791
+          }
+        ]
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Hawaii House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 125491,
+        "medianAge": 44.1,
+        "totalPopulation": 27148,
+        "collegePct": 36.66,
+        "renterRatePct": 24.07,
+        "race": {
+          "whitePct": 14.08,
+          "nonHispanicWhitePct": 13.08,
+          "blackPct": 0.31,
+          "asianPct": 41.7,
+          "hispanicPct": 9.61
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-49",
+        "winner": "Scot Matayoshi",
+        "winnerParty": "dem",
+        "demVotes": 7711,
+        "repVotes": 2979,
+        "totalVotes": 10690,
+        "demPct": 72.13,
+        "repPct": 27.87,
+        "candidates": [
+          {
+            "name": "Scot Matayoshi",
+            "party": "dem",
+            "votes": 7711
+          },
+          {
+            "name": "Josiah Ubando",
+            "party": "rep",
+            "votes": 2979
+          }
+        ]
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Hawaii House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116503,
+        "medianAge": 34.3,
+        "totalPopulation": 40442,
+        "collegePct": 48.95,
+        "renterRatePct": 41.33,
+        "race": {
+          "whitePct": 49.56,
+          "nonHispanicWhitePct": 45.09,
+          "blackPct": 2.08,
+          "asianPct": 17.2,
+          "hispanicPct": 13.02
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-50",
+        "winner": "Mike Lee",
+        "winnerParty": "dem",
+        "demVotes": 9791,
+        "repVotes": 4206,
+        "totalVotes": 13997,
+        "demPct": 69.95,
+        "repPct": 30.05,
+        "candidates": [
+          {
+            "name": "Mike Lee",
+            "party": "dem",
+            "votes": 9791
+          },
+          {
+            "name": "Timothy Connelly",
+            "party": "rep",
+            "votes": 4206
+          }
+        ]
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Hawaii House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 148207,
+        "medianAge": 42,
+        "totalPopulation": 27425,
+        "collegePct": 43.89,
+        "renterRatePct": 21.77,
+        "race": {
+          "whitePct": 27.77,
+          "nonHispanicWhitePct": 27.5,
+          "blackPct": 0.4,
+          "asianPct": 19.72,
+          "hispanicPct": 9.38
+        }
+      },
+      "election": {
+        "districtId": "hi-hd-51",
+        "winner": "Lisa Marten",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Hawaii Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77898,
+        "medianAge": 42.6,
+        "totalPopulation": 54780,
+        "collegePct": 33.06,
+        "renterRatePct": 34.02,
+        "race": {
+          "whitePct": 17.28,
+          "nonHispanicWhitePct": 16.5,
+          "blackPct": 0.82,
+          "asianPct": 30.82,
+          "hispanicPct": 11.08
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-1",
+        "winner": "Lorraine Inouye",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Hawaii Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57919,
+        "medianAge": 44.5,
+        "totalPopulation": 47987,
+        "collegePct": 22.57,
+        "renterRatePct": 21.42,
+        "race": {
+          "whitePct": 31.93,
+          "nonHispanicWhitePct": 30.21,
+          "blackPct": 0.91,
+          "asianPct": 16.19,
+          "hispanicPct": 14.96
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-2",
+        "winner": "Joy San Buenaventura",
+        "winnerParty": "dem",
+        "demVotes": 9486,
+        "repVotes": 3522,
+        "totalVotes": 13602,
+        "demPct": 69.74,
+        "repPct": 25.89,
+        "candidates": [
+          {
+            "name": "Joy San Buenaventura",
+            "party": "dem",
+            "votes": 9486
+          },
+          {
+            "name": "Holly Osborn",
+            "party": "rep",
+            "votes": 3522
+          },
+          {
+            "name": "Frederick Fogel",
+            "party": "ind",
+            "votes": 594
+          }
+        ]
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Hawaii Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81101,
+        "medianAge": 45.8,
+        "totalPopulation": 53726,
+        "collegePct": 33.33,
+        "renterRatePct": 28.95,
+        "race": {
+          "whitePct": 41.9,
+          "nonHispanicWhitePct": 40.99,
+          "blackPct": 0.56,
+          "asianPct": 18.48,
+          "hispanicPct": 10.45
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-3",
+        "winner": "Dru Kanuha",
+        "winnerParty": "dem",
+        "demVotes": 13112,
+        "repVotes": 6273,
+        "totalVotes": 19385,
+        "demPct": 67.64,
+        "repPct": 32.36,
+        "candidates": [
+          {
+            "name": "Dru Kanuha",
+            "party": "dem",
+            "votes": 13112
+          },
+          {
+            "name": "Kurt Sullivan",
+            "party": "rep",
+            "votes": 6273
+          }
+        ]
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Hawaii Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94159,
+        "medianAge": 43.6,
+        "totalPopulation": 47191,
+        "collegePct": 34.01,
+        "renterRatePct": 22.4,
+        "race": {
+          "whitePct": 34.14,
+          "nonHispanicWhitePct": 32.89,
+          "blackPct": 0.88,
+          "asianPct": 18.3,
+          "hispanicPct": 9.73
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-4",
+        "winner": "Tim Richards",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Hawaii Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98140,
+        "medianAge": 42.6,
+        "totalPopulation": 53752,
+        "collegePct": 27.29,
+        "renterRatePct": 31.82,
+        "race": {
+          "whitePct": 13.17,
+          "nonHispanicWhitePct": 12.3,
+          "blackPct": 0.93,
+          "asianPct": 47.09,
+          "hispanicPct": 7.14
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-5",
+        "winner": "Gilbert Keith-Agaran",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Hawaii Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93770,
+        "medianAge": 43.5,
+        "totalPopulation": 55786,
+        "collegePct": 32.27,
+        "renterRatePct": 36.96,
+        "race": {
+          "whitePct": 43.13,
+          "nonHispanicWhitePct": 41.12,
+          "blackPct": 1.06,
+          "asianPct": 23.13,
+          "hispanicPct": 12.67
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-6",
+        "winner": "Angus Mckelvey",
+        "winnerParty": "dem",
+        "demVotes": 11528,
+        "repVotes": 6904,
+        "totalVotes": 18432,
+        "demPct": 62.54,
+        "repPct": 37.46,
+        "candidates": [
+          {
+            "name": "Angus Mckelvey",
+            "party": "dem",
+            "votes": 11528
+          },
+          {
+            "name": "Sheila Walker",
+            "party": "rep",
+            "votes": 6904
+          }
+        ]
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Hawaii Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94216,
+        "medianAge": 42.5,
+        "totalPopulation": 55137,
+        "collegePct": 30.49,
+        "renterRatePct": 35.84,
+        "race": {
+          "whitePct": 36.05,
+          "nonHispanicWhitePct": 34.29,
+          "blackPct": 0.28,
+          "asianPct": 15.18,
+          "hispanicPct": 11.65
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-7",
+        "winner": "Lynn Decoite",
+        "winnerParty": "dem",
+        "demVotes": 15892,
+        "repVotes": 5930,
+        "totalVotes": 21822,
+        "demPct": 72.83,
+        "repPct": 27.17,
+        "candidates": [
+          {
+            "name": "Lynn Decoite",
+            "party": "dem",
+            "votes": 15892
+          },
+          {
+            "name": "Gabby Macaraeg",
+            "party": "rep",
+            "votes": 5930
+          }
+        ]
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Hawaii Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93612,
+        "medianAge": 42.7,
+        "totalPopulation": 73610,
+        "collegePct": 30.24,
+        "renterRatePct": 32.72,
+        "race": {
+          "whitePct": 30.09,
+          "nonHispanicWhitePct": 28.99,
+          "blackPct": 0.63,
+          "asianPct": 29.62,
+          "hispanicPct": 10.49
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-8",
+        "winner": "Ronald Kouchi",
+        "winnerParty": "dem",
+        "demVotes": 16234,
+        "repVotes": 5266,
+        "totalVotes": 22735,
+        "demPct": 71.41,
+        "repPct": 23.16,
+        "candidates": [
+          {
+            "name": "Ronald Kouchi",
+            "party": "dem",
+            "votes": 16234
+          },
+          {
+            "name": "Ana Des",
+            "party": "rep",
+            "votes": 5266
+          },
+          {
+            "name": "Kapana Thronas-Kaho'Onei",
+            "party": "ind",
+            "votes": 1235
+          }
+        ]
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Hawaii Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 145460,
+        "medianAge": 49.9,
+        "totalPopulation": 52594,
+        "collegePct": 59.11,
+        "renterRatePct": 23.85,
+        "race": {
+          "whitePct": 23.06,
+          "nonHispanicWhitePct": 22.4,
+          "blackPct": 0.52,
+          "asianPct": 50.42,
+          "hispanicPct": 4.51
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-9",
+        "winner": "Stanley Chang",
+        "winnerParty": "dem",
+        "demVotes": 14864,
+        "repVotes": 6289,
+        "totalVotes": 21153,
+        "demPct": 70.27,
+        "repPct": 29.73,
+        "candidates": [
+          {
+            "name": "Stanley Chang",
+            "party": "dem",
+            "votes": 14864
+          },
+          {
+            "name": "Michael Parrish",
+            "party": "rep",
+            "votes": 6289
+          }
+        ]
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Hawaii Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84238,
+        "medianAge": 43.9,
+        "totalPopulation": 53652,
+        "collegePct": 43.68,
+        "renterRatePct": 50.75,
+        "race": {
+          "whitePct": 17.34,
+          "nonHispanicWhitePct": 16.27,
+          "blackPct": 1.44,
+          "asianPct": 52.21,
+          "hispanicPct": 6.33
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-10",
+        "winner": "Les Ihara",
+        "winnerParty": "dem",
+        "demVotes": 10264,
+        "repVotes": 5060,
+        "totalVotes": 15324,
+        "demPct": 66.98,
+        "repPct": 33.02,
+        "candidates": [
+          {
+            "name": "Les Ihara",
+            "party": "dem",
+            "votes": 10264
+          },
+          {
+            "name": "Leilani Soon",
+            "party": "rep",
+            "votes": 5060
+          }
+        ]
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Hawaii Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90576,
+        "medianAge": 42.5,
+        "totalPopulation": 58075,
+        "collegePct": 52.29,
+        "renterRatePct": 48.73,
+        "race": {
+          "whitePct": 20.8,
+          "nonHispanicWhitePct": 19.31,
+          "blackPct": 1.54,
+          "asianPct": 47.03,
+          "hispanicPct": 5.6
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-11",
+        "winner": "Carol Fukunaga",
+        "winnerParty": "dem",
+        "demVotes": 12831,
+        "repVotes": 4207,
+        "totalVotes": 17038,
+        "demPct": 75.31,
+        "repPct": 24.69,
+        "candidates": [
+          {
+            "name": "Carol Fukunaga",
+            "party": "dem",
+            "votes": 12831
+          },
+          {
+            "name": "Benjamin Sakai",
+            "party": "rep",
+            "votes": 4207
+          }
+        ]
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Hawaii Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74157,
+        "medianAge": 46.1,
+        "totalPopulation": 54154,
+        "collegePct": 48.18,
+        "renterRatePct": 55.56,
+        "race": {
+          "whitePct": 23.65,
+          "nonHispanicWhitePct": 22.59,
+          "blackPct": 2.06,
+          "asianPct": 54.54,
+          "hispanicPct": 5.53
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-12",
+        "winner": "Sharon Moriwaki",
+        "winnerParty": "dem",
+        "demVotes": 12789,
+        "repVotes": 5380,
+        "totalVotes": 18169,
+        "demPct": 70.39,
+        "repPct": 29.61,
+        "candidates": [
+          {
+            "name": "Sharon Moriwaki",
+            "party": "dem",
+            "votes": 12789
+          },
+          {
+            "name": "Shotaro Dabbs",
+            "party": "rep",
+            "votes": 5380
+          }
+        ]
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Hawaii Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71953,
+        "medianAge": 45,
+        "totalPopulation": 53413,
+        "collegePct": 34.46,
+        "renterRatePct": 58.96,
+        "race": {
+          "whitePct": 11.2,
+          "nonHispanicWhitePct": 10.31,
+          "blackPct": 1.23,
+          "asianPct": 55.84,
+          "hispanicPct": 6.46
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-13",
+        "winner": "Karl Rhoads",
+        "winnerParty": "dem",
+        "demVotes": 8810,
+        "repVotes": 3013,
+        "totalVotes": 13689,
+        "demPct": 64.36,
+        "repPct": 22.01,
+        "candidates": [
+          {
+            "name": "Karl Rhoads",
+            "party": "dem",
+            "votes": 8810
+          },
+          {
+            "name": "Matthew Tinay",
+            "party": "rep",
+            "votes": 3013
+          },
+          {
+            "name": "Michelle Kwock",
+            "party": "ind",
+            "votes": 989
+          },
+          {
+            "name": "Kapono Souza",
+            "party": "ind",
+            "votes": 877
+          }
+        ]
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Hawaii Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100384,
+        "medianAge": 41.1,
+        "totalPopulation": 55523,
+        "collegePct": 26.09,
+        "renterRatePct": 41.4,
+        "race": {
+          "whitePct": 8.53,
+          "nonHispanicWhitePct": 7.85,
+          "blackPct": 1.3,
+          "asianPct": 59.42,
+          "hispanicPct": 5.64
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-14",
+        "winner": "Donna Kim",
+        "winnerParty": "dem",
+        "demVotes": 8123,
+        "repVotes": 2918,
+        "totalVotes": 11041,
+        "demPct": 73.57,
+        "repPct": 26.43,
+        "candidates": [
+          {
+            "name": "Donna Kim",
+            "party": "dem",
+            "votes": 8123
+          },
+          {
+            "name": "Cheryl Rzonca",
+            "party": "rep",
+            "votes": 2918
+          }
+        ]
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Hawaii Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91442,
+        "medianAge": 32.5,
+        "totalPopulation": 83097,
+        "collegePct": 31.53,
+        "renterRatePct": 64.29,
+        "race": {
+          "whitePct": 26.36,
+          "nonHispanicWhitePct": 23.92,
+          "blackPct": 5.43,
+          "asianPct": 38.63,
+          "hispanicPct": 11.86
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-15",
+        "winner": "Glenn Wakai",
+        "winnerParty": "dem",
+        "demVotes": 7883,
+        "repVotes": 3763,
+        "totalVotes": 11646,
+        "demPct": 67.69,
+        "repPct": 32.31,
+        "candidates": [
+          {
+            "name": "Glenn Wakai",
+            "party": "dem",
+            "votes": 7883
+          },
+          {
+            "name": "Lorene Godfrey",
+            "party": "rep",
+            "votes": 3763
+          }
+        ]
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Hawaii Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116350,
+        "medianAge": 45.8,
+        "totalPopulation": 56334,
+        "collegePct": 38.57,
+        "renterRatePct": 23.39,
+        "race": {
+          "whitePct": 9.37,
+          "nonHispanicWhitePct": 8.63,
+          "blackPct": 1.76,
+          "asianPct": 56.22,
+          "hispanicPct": 6.44
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-16",
+        "winner": "Brandon Elefante",
+        "winnerParty": "dem",
+        "demVotes": 16454,
+        "repVotes": 5906,
+        "totalVotes": 22360,
+        "demPct": 73.59,
+        "repPct": 26.41,
+        "candidates": [
+          {
+            "name": "Brandon Elefante",
+            "party": "dem",
+            "votes": 16454
+          },
+          {
+            "name": "Pat Beekman",
+            "party": "rep",
+            "votes": 5906
+          }
+        ]
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Hawaii Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 117941,
+        "medianAge": 41.2,
+        "totalPopulation": 55978,
+        "collegePct": 36.76,
+        "renterRatePct": 28.73,
+        "race": {
+          "whitePct": 11.38,
+          "nonHispanicWhitePct": 10.44,
+          "blackPct": 1.8,
+          "asianPct": 48.35,
+          "hispanicPct": 11.67
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-17",
+        "winner": "Donovan Dela Cruz",
+        "winnerParty": "dem",
+        "demVotes": 11555,
+        "repVotes": 6168,
+        "totalVotes": 17723,
+        "demPct": 65.2,
+        "repPct": 34.8,
+        "candidates": [
+          {
+            "name": "Donovan Dela Cruz",
+            "party": "dem",
+            "votes": 11555
+          },
+          {
+            "name": "Anna Hudson",
+            "party": "rep",
+            "votes": 6168
+          }
+        ]
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Hawaii Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119677,
+        "medianAge": 44,
+        "totalPopulation": 51878,
+        "collegePct": 34.03,
+        "renterRatePct": 20.85,
+        "race": {
+          "whitePct": 8.6,
+          "nonHispanicWhitePct": 7.81,
+          "blackPct": 1.75,
+          "asianPct": 56.01,
+          "hispanicPct": 7.98
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-18",
+        "winner": "Michelle Kidani",
+        "winnerParty": "dem",
+        "demVotes": 13706,
+        "repVotes": 6986,
+        "totalVotes": 20692,
+        "demPct": 66.24,
+        "repPct": 33.76,
+        "candidates": [
+          {
+            "name": "Michelle Kidani",
+            "party": "dem",
+            "votes": 13706
+          },
+          {
+            "name": "Emil Svrcina",
+            "party": "rep",
+            "votes": 6986
+          }
+        ]
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Hawaii Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101126,
+        "medianAge": 38.5,
+        "totalPopulation": 54474,
+        "collegePct": 23.23,
+        "renterRatePct": 38.65,
+        "race": {
+          "whitePct": 5.94,
+          "nonHispanicWhitePct": 5.05,
+          "blackPct": 0.81,
+          "asianPct": 61.56,
+          "hispanicPct": 8.42
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-19",
+        "winner": "Henry Aquino",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Hawaii Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131590,
+        "medianAge": 34.9,
+        "totalPopulation": 63439,
+        "collegePct": 31.97,
+        "renterRatePct": 29.73,
+        "race": {
+          "whitePct": 15.92,
+          "nonHispanicWhitePct": 14.02,
+          "blackPct": 3.41,
+          "asianPct": 42.25,
+          "hispanicPct": 12.62
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-20",
+        "winner": "Kurt Fevella",
+        "winnerParty": "rep",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Hawaii Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116531,
+        "medianAge": 34.1,
+        "totalPopulation": 62290,
+        "collegePct": 30.29,
+        "renterRatePct": 28.66,
+        "race": {
+          "whitePct": 14.94,
+          "nonHispanicWhitePct": 13.58,
+          "blackPct": 3.71,
+          "asianPct": 32.7,
+          "hispanicPct": 14.44
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-21",
+        "winner": "Mike Gabbard",
+        "winnerParty": "dem",
+        "demVotes": 8164,
+        "repVotes": 5698,
+        "totalVotes": 13862,
+        "demPct": 58.89,
+        "repPct": 41.11,
+        "candidates": [
+          {
+            "name": "Mike Gabbard",
+            "party": "dem",
+            "votes": 8164
+          },
+          {
+            "name": "Matthew Khan",
+            "party": "rep",
+            "votes": 5698
+          }
+        ]
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Hawaii Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85715,
+        "medianAge": 34.8,
+        "totalPopulation": 50782,
+        "collegePct": 16.94,
+        "renterRatePct": 38.38,
+        "race": {
+          "whitePct": 11.21,
+          "nonHispanicWhitePct": 10.37,
+          "blackPct": 2.54,
+          "asianPct": 10.71,
+          "hispanicPct": 13.03
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-22",
+        "winner": "Samantha Decorte",
+        "winnerParty": "rep",
+        "demVotes": 5725,
+        "repVotes": 6859,
+        "totalVotes": 12584,
+        "demPct": 45.49,
+        "repPct": 54.51,
+        "candidates": [
+          {
+            "name": "Samantha Decorte",
+            "party": "rep",
+            "votes": 6859
+          },
+          {
+            "name": "Cedric Gates",
+            "party": "dem",
+            "votes": 5725
+          }
+        ]
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Hawaii Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93343,
+        "medianAge": 29.3,
+        "totalPopulation": 77069,
+        "collegePct": 34.66,
+        "renterRatePct": 53.51,
+        "race": {
+          "whitePct": 35.7,
+          "nonHispanicWhitePct": 32.58,
+          "blackPct": 6.82,
+          "asianPct": 16.56,
+          "hispanicPct": 13.49
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-23",
+        "winner": "Brenton Awa",
+        "winnerParty": "rep",
+        "demVotes": 9495,
+        "repVotes": 10594,
+        "totalVotes": 20089,
+        "demPct": 47.26,
+        "repPct": 52.74,
+        "candidates": [
+          {
+            "name": "Brenton Awa",
+            "party": "rep",
+            "votes": 10594
+          },
+          {
+            "name": "Ben Shafer",
+            "party": "dem",
+            "votes": 9495
+          }
+        ]
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Hawaii Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116704,
+        "medianAge": 37.6,
+        "totalPopulation": 65590,
+        "collegePct": 41.55,
+        "renterRatePct": 34.4,
+        "race": {
+          "whitePct": 33.66,
+          "nonHispanicWhitePct": 30.54,
+          "blackPct": 1.45,
+          "asianPct": 27.63,
+          "hispanicPct": 12.19
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-24",
+        "winner": "Jarrett Keohokalole",
+        "winnerParty": "dem",
+        "demVotes": 0,
+        "repVotes": 0,
+        "totalVotes": 0,
+        "demPct": 0,
+        "repPct": 0,
+        "candidates": []
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Hawaii Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Hawaii",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 152705,
+        "medianAge": 44.8,
+        "totalPopulation": 55324,
+        "collegePct": 51.36,
+        "renterRatePct": 18.73,
+        "race": {
+          "whitePct": 28.56,
+          "nonHispanicWhitePct": 27.99,
+          "blackPct": 0.3,
+          "asianPct": 29.07,
+          "hispanicPct": 7.92
+        }
+      },
+      "election": {
+        "districtId": "hi-sd-25",
+        "winner": "Chris Lee",
+        "winnerParty": "dem",
+        "demVotes": 14865,
+        "repVotes": 6280,
+        "totalVotes": 21145,
+        "demPct": 70.3,
+        "repPct": 29.7,
+        "candidates": [
+          {
+            "name": "Chris Lee",
+            "party": "dem",
+            "votes": 14865
+          },
+          {
+            "name": "Brian Lauro",
+            "party": "rep",
+            "votes": 6280
+          }
+        ]
+      }
+    }
+  }
+}

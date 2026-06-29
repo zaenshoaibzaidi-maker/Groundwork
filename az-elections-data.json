@@ -1,0 +1,780 @@
+{
+  "senate": [
+    {
+      "district": 1,
+      "winner": "Finchem",
+      "party": "R",
+      "pct": 65.9,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Fogel",
+        "party": "D"
+      }
+    },
+    {
+      "district": 2,
+      "winner": "Bolick",
+      "party": "R",
+      "pct": 50.8,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Schwiebert",
+        "party": "D"
+      }
+    },
+    {
+      "district": 3,
+      "winner": "Kavanagh",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 4,
+      "winner": "Werner",
+      "party": "R",
+      "pct": 51.9,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Marsh",
+        "party": "D"
+      }
+    },
+    {
+      "district": 5,
+      "winner": "Alston",
+      "party": "D",
+      "pct": 68.3,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Ortega",
+        "party": "R"
+      }
+    },
+    {
+      "district": 6,
+      "winner": "Hatathlie",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 7,
+      "winner": "Rogers",
+      "party": "R",
+      "pct": 65,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Creighton",
+        "party": "D"
+      }
+    },
+    {
+      "district": 8,
+      "winner": "Kuby",
+      "party": "D",
+      "pct": 60.6,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Holzapfel",
+        "party": "R"
+      }
+    },
+    {
+      "district": 9,
+      "winner": "Burch",
+      "party": "D",
+      "pct": 51.7,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Scantlebury",
+        "party": "R"
+      }
+    },
+    {
+      "district": 10,
+      "winner": "Farnsworth",
+      "party": "R",
+      "pct": 61.5,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Doyle",
+        "party": "D"
+      }
+    },
+    {
+      "district": 11,
+      "winner": "Miranda",
+      "party": "D",
+      "pct": 72.2,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Ayala",
+        "party": "R"
+      }
+    },
+    {
+      "district": 12,
+      "winner": "Epstein",
+      "party": "D",
+      "pct": 58.1,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Vicini",
+        "party": "R"
+      }
+    },
+    {
+      "district": 13,
+      "winner": "Mesnard",
+      "party": "R",
+      "pct": 53.1,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Winters",
+        "party": "D"
+      }
+    },
+    {
+      "district": 14,
+      "winner": "Petersen",
+      "party": "R",
+      "pct": 60.1,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Brown",
+        "party": "D"
+      }
+    },
+    {
+      "district": 15,
+      "winner": "Hoffman",
+      "party": "R",
+      "pct": 63.7,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Smith",
+        "party": "D"
+      }
+    },
+    {
+      "district": 16,
+      "winner": "Shope",
+      "party": "R",
+      "pct": 56,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Seaman",
+        "party": "D"
+      }
+    },
+    {
+      "district": 17,
+      "winner": "Leach",
+      "party": "R",
+      "pct": 51,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "McLean",
+        "party": "D"
+      }
+    },
+    {
+      "district": 18,
+      "winner": "Sundareshan",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 19,
+      "winner": "Gowan",
+      "party": "R",
+      "pct": 62.6,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Karp",
+        "party": "D"
+      }
+    },
+    {
+      "district": 20,
+      "winner": "Gonzales",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 21,
+      "winner": "Gabaldón",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 22,
+      "winner": "Diaz",
+      "party": "D",
+      "pct": 64.6,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Robinson",
+        "party": "R"
+      }
+    },
+    {
+      "district": 23,
+      "winner": "Fernandez",
+      "party": "D",
+      "pct": 53.8,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Altherr",
+        "party": "R"
+      }
+    },
+    {
+      "district": 24,
+      "winner": "Ortiz",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 25,
+      "winner": "Dunn",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 26,
+      "winner": "Bravo",
+      "party": "D",
+      "pct": 66.3,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Harris",
+        "party": "R"
+      }
+    },
+    {
+      "district": 27,
+      "winner": "Payne",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 28,
+      "winner": "Carroll",
+      "party": "R",
+      "pct": 98.87,
+      "opposed": false
+    },
+    {
+      "district": 29,
+      "winner": "Shamp",
+      "party": "R",
+      "pct": 59.3,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "Stafford",
+        "party": "D"
+      }
+    },
+    {
+      "district": 30,
+      "winner": "Angius",
+      "party": "R",
+      "pct": 78.5,
+      "opposed": true,
+      "runnerUp": {
+        "lastName": "MorgAine",
+        "party": "D"
+      }
+    }
+  ],
+  "house": [
+    {
+      "district": 1,
+      "winners": [
+        {
+          "lastName": "Bliss",
+          "party": "R",
+          "pct": 33.91
+        },
+        {
+          "lastName": "Nguyen",
+          "party": "R",
+          "pct": 33.54
+        }
+      ],
+      "partisanPct": 16.9
+    },
+    {
+      "district": 2,
+      "winners": [
+        {
+          "lastName": "Simacek",
+          "party": "D",
+          "pct": 30.35
+        },
+        {
+          "lastName": "Wilmeth",
+          "party": "R",
+          "pct": 29.8
+        }
+      ],
+      "partisanPct": 30.35
+    },
+    {
+      "district": 3,
+      "winners": [
+        {
+          "lastName": "Chaplik",
+          "party": "R",
+          "pct": 39.38
+        },
+        {
+          "lastName": "Kolodin",
+          "party": "R",
+          "pct": 37.32
+        }
+      ],
+      "partisanPct": 23.3
+    },
+    {
+      "district": 4,
+      "winners": [
+        {
+          "lastName": "Gress",
+          "party": "R",
+          "pct": 27.5
+        },
+        {
+          "lastName": "Carter",
+          "party": "R",
+          "pct": 25.1
+        }
+      ],
+      "partisanPct": 24.13
+    },
+    {
+      "district": 5,
+      "winners": [
+        {
+          "lastName": "Liguori",
+          "party": "D",
+          "pct": 40.54
+        },
+        {
+          "lastName": "Márquez",
+          "party": "D",
+          "pct": 38.7
+        }
+      ],
+      "partisanPct": 79.24
+    },
+    {
+      "district": 6,
+      "winners": [
+        {
+          "lastName": "Tsosie",
+          "party": "D",
+          "pct": 34.77
+        },
+        {
+          "lastName": "Peshlakai",
+          "party": "D",
+          "pct": 33.48
+        }
+      ],
+      "partisanPct": 68.25
+    },
+    {
+      "district": 7,
+      "winners": [
+        {
+          "lastName": "Blackman",
+          "party": "R",
+          "pct": 32.79
+        },
+        {
+          "lastName": "Marshall",
+          "party": "R",
+          "pct": 32.36
+        }
+      ],
+      "partisanPct": 18.14
+    },
+    {
+      "district": 8,
+      "winners": [
+        {
+          "lastName": "Connolly",
+          "party": "D",
+          "pct": 35.1
+        },
+        {
+          "lastName": "Garcia",
+          "party": "D",
+          "pct": 34.32
+        }
+      ],
+      "partisanPct": 69.42
+    },
+    {
+      "district": 9,
+      "winners": [
+        {
+          "lastName": "Austin",
+          "party": "D",
+          "pct": 26.5
+        },
+        {
+          "lastName": "Blattman",
+          "party": "D",
+          "pct": 25
+        }
+      ],
+      "partisanPct": 51.5
+    },
+    {
+      "district": 10,
+      "winners": [
+        {
+          "lastName": "Olson",
+          "party": "R",
+          "pct": 31.02
+        },
+        {
+          "lastName": "Heap",
+          "party": "R",
+          "pct": 30.18
+        }
+      ],
+      "partisanPct": 19.41
+    },
+    {
+      "district": 11,
+      "winners": [
+        {
+          "lastName": "De Los Santos",
+          "party": "D",
+          "pct": 37.44
+        },
+        {
+          "lastName": "Cavero",
+          "party": "D",
+          "pct": 34.76
+        }
+      ],
+      "partisanPct": 72.2
+    },
+    {
+      "district": 12,
+      "winners": [
+        {
+          "lastName": "Contreras",
+          "party": "D",
+          "pct": 36.41
+        },
+        {
+          "lastName": "Travers",
+          "party": "D",
+          "pct": 35.95
+        }
+      ],
+      "partisanPct": 72.36
+    },
+    {
+      "district": 13,
+      "winners": [
+        {
+          "lastName": "Weninger",
+          "party": "R",
+          "pct": 25.94
+        },
+        {
+          "lastName": "Willoughby",
+          "party": "R",
+          "pct": 25.69
+        }
+      ],
+      "partisanPct": 23.77
+    },
+    {
+      "district": 14,
+      "winners": [
+        {
+          "lastName": "Hendrix",
+          "party": "R",
+          "pct": 43.31
+        },
+        {
+          "lastName": "Powell",
+          "party": "R",
+          "pct": 40.22
+        }
+      ],
+      "partisanPct": 0
+    },
+    {
+      "district": 15,
+      "winners": [
+        {
+          "lastName": "Way",
+          "party": "R",
+          "pct": 39.34
+        },
+        {
+          "lastName": "Carter",
+          "party": "R",
+          "pct": 37.56
+        }
+      ],
+      "partisanPct": 23.09
+    },
+    {
+      "district": 16,
+      "winners": [
+        {
+          "lastName": "Martinez",
+          "party": "R",
+          "pct": 36.26
+        },
+        {
+          "lastName": "Lopez",
+          "party": "R",
+          "pct": 33.1
+        }
+      ],
+      "partisanPct": 30.64
+    },
+    {
+      "district": 17,
+      "winners": [
+        {
+          "lastName": "Volk",
+          "party": "D",
+          "pct": 34.49
+        },
+        {
+          "lastName": "Jones",
+          "party": "R",
+          "pct": 33.39
+        }
+      ],
+      "partisanPct": 34.49
+    },
+    {
+      "district": 18,
+      "winners": [
+        {
+          "lastName": "Gutierrez",
+          "party": "D",
+          "pct": 38.51
+        },
+        {
+          "lastName": "Mathis",
+          "party": "D",
+          "pct": 35.83
+        }
+      ],
+      "partisanPct": 74.34
+    },
+    {
+      "district": 19,
+      "winners": [
+        {
+          "lastName": "Griffin",
+          "party": "R",
+          "pct": 39.19
+        },
+        {
+          "lastName": "Diaz",
+          "party": "R",
+          "pct": 35.41
+        }
+      ],
+      "partisanPct": 25.41
+    },
+    {
+      "district": 20,
+      "winners": [
+        {
+          "lastName": "Hernandez",
+          "party": "D",
+          "pct": 51.8
+        },
+        {
+          "lastName": "Villegas",
+          "party": "D",
+          "pct": 48.2
+        }
+      ],
+      "partisanPct": 100
+    },
+    {
+      "district": 21,
+      "winners": [
+        {
+          "lastName": "Hernandez",
+          "party": "D",
+          "pct": 38.57
+        },
+        {
+          "lastName": "Stahl Hamilton",
+          "party": "D",
+          "pct": 34.37
+        }
+      ],
+      "partisanPct": 72.94
+    },
+    {
+      "district": 22,
+      "winners": [
+        {
+          "lastName": "Chavira Contreras",
+          "party": "D",
+          "pct": 34.15
+        },
+        {
+          "lastName": "Luna-Nájera",
+          "party": "D",
+          "pct": 30.08
+        }
+      ],
+      "partisanPct": 64.23
+    },
+    {
+      "district": 23,
+      "winners": [
+        {
+          "lastName": "Pena",
+          "party": "R",
+          "pct": 34.16
+        },
+        {
+          "lastName": "Sandoval",
+          "party": "D",
+          "pct": 33.63
+        }
+      ],
+      "partisanPct": 65.83
+    },
+    {
+      "district": 24,
+      "winners": [
+        {
+          "lastName": "Hernandez",
+          "party": "D",
+          "pct": 53.9
+        },
+        {
+          "lastName": "Abeytia",
+          "party": "D",
+          "pct": 46.1
+        }
+      ],
+      "partisanPct": 100
+    },
+    {
+      "district": 25,
+      "winners": [
+        {
+          "lastName": "Carbone",
+          "party": "R",
+          "pct": 39.33
+        },
+        {
+          "lastName": "Kupper",
+          "party": "R",
+          "pct": 36.77
+        }
+      ],
+      "partisanPct": 23.9
+    },
+    {
+      "district": 26,
+      "winners": [
+        {
+          "lastName": "Aguilar",
+          "party": "D",
+          "pct": 35.83
+        },
+        {
+          "lastName": "Crews",
+          "party": "D",
+          "pct": 30.99
+        }
+      ],
+      "partisanPct": 66.82
+    },
+    {
+      "district": 27,
+      "winners": [
+        {
+          "lastName": "Fink",
+          "party": "R",
+          "pct": 34.78
+        },
+        {
+          "lastName": "Rivero",
+          "party": "R",
+          "pct": 34.43
+        }
+      ],
+      "partisanPct": 30.8
+    },
+    {
+      "district": 28,
+      "winners": [
+        {
+          "lastName": "Pingerelli",
+          "party": "R",
+          "pct": 37.78
+        },
+        {
+          "lastName": "Livingston",
+          "party": "R",
+          "pct": 37.65
+        }
+      ],
+      "partisanPct": 24.57
+    },
+    {
+      "district": 29,
+      "winners": [
+        {
+          "lastName": "Montenegro",
+          "party": "R",
+          "pct": 30.27
+        },
+        {
+          "lastName": "Taylor",
+          "party": "R",
+          "pct": 29.87
+        }
+      ],
+      "partisanPct": 20.44
+    },
+    {
+      "district": 30,
+      "winners": [
+        {
+          "lastName": "Biasiucci",
+          "party": "R",
+          "pct": 42.8
+        },
+        {
+          "lastName": "Gillette",
+          "party": "R",
+          "pct": 42.38
+        }
+      ],
+      "partisanPct": 14.82
+    }
+  ]
+}

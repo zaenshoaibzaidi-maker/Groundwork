@@ -78,56 +78,41 @@ const WV_HOUSE_DISTRICTS = [
     nextElection: "November 2026",
     seatStatus: "Active",
     dashboard: {
-      subtitle: "West Virginia House District 2",
-      chips: [],
-      stats: [
-        { label: "Median Household Income", value: "$53,257", sub: "" },
-        { label: "College-Educated Adults",  value: "22.1%",  sub: "" },
-        { label: "Median Age",               value: "43.7",   sub: "" },
-        { label: "Renter Rate",              value: "29.4%", sub: "" }
-      ],
-      dem: 32, rep: 68,
-      partisanSub: "Zatezalo won with 68% in 2024.",
-      demos: [
-        { label: "White", pct: 91.03, color: DEMO_COLORS[0] },
-        { label: "Black / African American", pct: 2.78, color: DEMO_COLORS[1] },
-        { label: "Hispanic / Latino", pct: 2.07, color: DEMO_COLORS[2] },
-        { label: "Asian", pct: 0.39, color: DEMO_COLORS[3] }
-      ],
-      issues: [
-        {
-          name: "Aging Household Economic Security & Healthcare Costs",
-          tag: "lean-into",
-          why: "WV-HD-2's 43.7 median age and $53,257 median income define a constituency of aging workers and retirees for whom healthcare costs, Medicare sustainability, and property tax burden are the direct material concerns. A 68% Republican result in a state where healthcare anxiety is a primary driver of economic stress suggests these concerns are being addressed — but at $53,257 income, the margin between stability and financial pressure is narrow. A representative who addresses healthcare affordability, rural hospital viability, and fixed-income sustainability with specificity and demonstrates concrete results holds this 68%; one who defaults to ideological framing without material answers erodes it."
-        },
-        {
-          name: "Coal-Transition Economy & Workforce Stability",
-          tag: "lean-into",
-          why: "West Virginia's coal economy is in structural transition, and WV-HD-2's median income of $53,257 reflects a workforce dependent on extractive industry employment, service sector work, and fixed incomes. The 32% opposition in a district this Republican likely includes workers skeptical about economic transition, concerned about wage stability, or frustrated by inadequate workforce development and retraining. A representative who addresses coal-community economic concerns — wages, job quality, retraining access, and economic development in coal-adjacent sectors — with genuine fluency and invests in demonstrable economic development activity consolidates support; one who ignores transition anxiety or offers only abstract free-market positioning leaves an opening for a challenger who speaks to material concerns."
-        },
-        {
-          name: "American Indian/Alaska Native Constituent Engagement",
-          tag: "careful",
-          why: "The four reported Census categories account for 96.18% of WV-HD-2's population, leaving a ~3.82% gap that most likely represents American Indian/Alaska Native residents. While numerically smaller than AIAN gaps in other districts, this population should not be invisible in constituent services or governance. Authentic engagement with Native American community concerns — economic opportunity, healthcare access, and cultural respect — builds a more inclusive coalition and prevents the gap population from becoming a swing constituency in a future cycle if addressed carelessly by an incumbent."
-        },
-        {
-          name: "Treating 68% as a Stable Electoral Floor",
-          tag: "avoid",
-          why: "A 68-32 result is a solid majority, but in a district defined by economic stress, aging households, and modest income, the margin is vulnerable to a challenger who addresses material concerns the incumbent neglects. The 32% opposition in an aging, modest-income, Republican-dominant district is not inherently weak — it represents households that chose an alternative despite partisan lean, likely because they concluded the incumbent was not addressing their economic concerns. Assuming 68% is a durable floor without sustained attention to those concerns is a strategic error."
-        }
-      ],
-      memoHeadline: "WV-HD-2: A Solidly Republican District with Economic Stress and a Hidden Demographic Gap That Could Shift if Economic Messaging Fails",
-      memoParagraphs: [
-        "WV-HD-2 delivered Zatezalo a commanding 68-32 victory in 2024, a result that appears to reflect a stable Republican stronghold in a deep-red state. The district's demographic profile — 91% white, 43.7 median age, $53,257 median household income, and 29.4% renter rate — presents as a classic Appalachian Republican constituency: homeowner-dominant, aging, white, and politically settled. However, the four reported Census categories account for only 96.18% of the population, leaving a ~3.82% gap that, in West Virginia's context, most likely represents American Indian/Alaska Native residents. While numerically smaller than the AIAN gaps in the Oklahoma and Oklahoma-adjacent examples, this gap warrants specific attention because it signals the presence of a constituency that does not automatically appear in the reported demographic categories and whose concerns — if unaddressed — can erode support among voters who might otherwise be reliable. More importantly, the 68% margin is not the same as a 68% mandate: it reflects 32% of the district actively choosing an alternative, and understanding what drives that opposition in an aging, modest-income community is the foundation for holding this seat durably.",
-        "The real vulnerability in WV-HD-2 lies not in current partisanship but in economic stress among its dominant constituency. At $53,257 median household income with a 43.7 median age, this is a district of aging workers and fixed-income households in a state where healthcare costs, coal-economy transition, and rural service decline create direct financial pressure. The 29.4% renter rate signals meaningful rental-dependent households who are particularly exposed to inflation in housing costs. A representative who addresses these material concerns — healthcare affordability for aging households, property tax fairness, wage and employment stability in a transitional economy, and the cost of rural service delivery — can consolidate the 68% and insulate against a credible challenger who might otherwise mobilize the 32% opposition around economic anxiety. Conversely, a representative whose messaging defaults to abstract ideological positioning without addressing why median-income Appalachian households are struggling to make ends meet creates an opening for an opponent who speaks directly to those concerns, regardless of partisan lean. In a district this Republican, the path to genuine vulnerability is not partisan flip — it is economic messaging that fails to acknowledge the material reality of constituents' lives."
-      ],
-      memoBullets: [
-        "Lead with aging household economic security: healthcare cost management, Medicare sustainability, and property tax fairness are the material concerns of a 43.7-year-old, predominantly-homeowner constituency at $53,257 income. Zatezalo's 68% reflects consolidation of this base; holding it requires sustained attention to why costs are rising faster than incomes for this population.",
-        "Engage the 32% opposition directly on their economic concerns rather than assuming it is safely partisan: whether driven by healthcare frustration, skepticism about economic development in coal-transition communities, or rental households squeezed by inflation, understanding what generated one-third of the district choosing the Democratic candidate is the foundation for sustainable margins.",
-        "Address the American Indian/Alaska Native gap (~3.82%) with specific constituent engagement; while smaller than in other districts, this population should not be invisible in governance or constituent services. Engaging Native American community concerns authentically, rather than assuming they align with the broader white Republican base, builds a more durable coalition.",
-        "Treat healthcare and workforce issues as the central governing agenda, not secondary talking points: in an aging, modest-income district in a coal-transition state, a representative who demonstrates concrete progress on healthcare access, wage stability, and retraining opportunities commands credibility that abstract ideology cannot. This is not persuasion — it is governing for the people who actually live here."
-      ]
-    }
+        subtitle: "West Virginia House District 2",
+        chips: [],
+        stats: [
+          { label: "Median Household Income", value: "$53,257", sub: "" },
+          { label: "College-Educated Adults", value: "22.1%", sub: "" },
+          { label: "Median Age", value: "43.7", sub: "" },
+          { label: "Renter Rate", value: "29.4%", sub: "" }
+        ],
+        dem: 32, rep: 68,
+        partisanSub: "Zatezalo won with 68% in 2024.",
+        demos: [
+          { label: "White", pct: 91.03, color: "#4e9e68" },
+          { label: "Black / African American", pct: 2.78, color: "#2563eb" },
+          { label: "Hispanic / Latino", pct: 2.07, color: "#f59e0b" },
+          { label: "Asian", pct: 0.39, color: "#ef4444" }
+        ],
+        issues: [
+          { name: "Economic security and jobs", tag: "lean-into", why: "With a median household income of $53,257—below the national norm—and 29.4% renter rate indicating material vulnerability, voters are acutely focused on wage stability and employment. The 68% Republican margin suggests this constituency trusts the incumbent's economic message; reinforce it with concrete, localized job-creation specifics rather than abstract growth promises." },
+          { name: "Cost of living and affordability", tag: "lean-into", why: "The combination of modest median income, high renter dependency, and median age of 43.7 (a population with established housing and healthcare costs) points to acute affordability pressure. This district will respond strongly to messaging on property taxes, utility costs, and healthcare expense control—issues that directly affect household budgets." },
+          { name: "Education and workforce training", tag: "careful", why: "Only 22.1% of adults are college-educated, well below typical benchmarks, but this is not an anti-education signal; it reflects limited past access and opportunity. Messaging must pivot away from four-year degree promotion toward vocational training, apprenticeships, and community college pathways that honor the district's skilled-trades heritage and immediate employment needs." },
+          { name: "Immigration and demographic diversity", tag: "avoid", why: "The district is 91.03% white with Hispanic, Black, and Asian populations each under 3%. Immigration is not a salient local issue; leading with it signals detachment from actual constituent concern and risks appearing performative or divisive on a non-issue." },
+          { name: "Global trade and manufacturing competition", tag: "avoid", why: "While this region historically depends on manufacturing and trade-sensitive industries, the 68% incumbent margin indicates voters are satisfied with current trade messaging. Reopening or shifting trade rhetoric risks fracturing the coalition; stay aligned with incumbent positioning unless a specific local factory closure or tariff creates a genuine crisis narrative." }
+        ],
+        memoHeadline: "A stable, aging, working-class Republican stronghold where economic security and cost-of-living command dominance—defend the 68% through hyper-local affordability action.",
+        memoParagraphs: [
+          "WV-HD-2 is a demographically homogeneous, economically modest district with a commanding Republican baseline. The 68% winning margin reflects deep partisan stability, but it masks a population under real financial strain: median household income of $53,257 combined with a 29.4% renter rate means nearly one-third of households lack property ownership and stability. The median age of 43.7 indicates a constituency managing peak family and healthcare costs on a below-median income, making every dollar of tax burden and utility bill tangible. This is not a district seeking ideology—it is seeking demonstrable relief. Any candidate must lead with concrete, verifiable actions on property tax assessment, utility rate regulation, and healthcare cost containment to maintain the majority.",
+          "The low college-education rate (22.1%) reflects historical opportunity gaps, not anti-intellectualism. This district values practical skills, trusted local expertise, and results over credentials. Messaging must reframe education strategy away from credential-stacking toward apprenticeships, trade certifications, and community-based workforce development that connect young people to immediate, well-paying employment. The incumbent's 68% win suggests voters believe current leadership is delivering on economic pragmatism; any challenger or successor must either match or exceed that perception with specific, deliverable economic wins in the next term. Generic pro-business talk will not move the needle; voters want to see new jobs, lower monthly bills, and visible evidence of local economic activity."
+        ],
+        memoBullets: [
+          "Lead with cost-of-living action: property tax relief, utility rate oversight, and healthcare deductible assistance are the strategic center—these affect every household budget and align with the district's economic anxiety.",
+          "Invest in trade and skilled vocations: 22.1% college education signals demand for apprenticeships, CDL training, and manufacturing pipelines; position workforce development as the primary education story, not four-year degrees.",
+          "Avoid demographic and identity-based messaging: 91% white, under 3% in any other group means immigration, diversity initiatives, and cultural grievance framing are distractions from the actual voter priority (pocketbook economics).",
+          "Defend the incumbent's margins by delivering visible local economic wins: tangible job announcements, wage-growth evidence, or tax savings resonate far more than messaging; the 68% baseline is solid but contingent on continued delivery."
+        ]
+      }
   },
   {
     id: "wv-hd-3",
@@ -860,56 +845,41 @@ const WV_HOUSE_DISTRICTS = [
     nextElection: "November 2026",
     seatStatus: "Active",
     dashboard: {
-      subtitle: "West Virginia House District 15",
-      chips: [],
-      stats: [
-        { label: "Median Household Income", value: "$45,630", sub: "" },
-        { label: "College-Educated Adults",  value: "15.0%",  sub: "" },
-        { label: "Median Age",               value: "45.9",   sub: "" },
-        { label: "Renter Rate",              value: "21.4%", sub: "" }
-      ],
-      dem: 18, rep: 82,
-      partisanSub: "Moore won with 82% in 2024.",
-      demos: [
-        { label: "White", pct: 95.32, color: DEMO_COLORS[0] },
-        { label: "Hispanic / Latino", pct: 0.93, color: DEMO_COLORS[1] },
-        { label: "Asian", pct: 0.45, color: DEMO_COLORS[2] },
-        { label: "Black / African American", pct: 0.08, color: DEMO_COLORS[3] }
-      ],
-      issues: [
-        {
-          name: "Aging Homeowner Economic Security Under Pressure",
-          tag: "lean-into",
-          why: "WV-HD-15 has a median age of 45.9 and 78.6% homeownership (estimated from 21.4% renter rate) with a median household income of $45,630 — placing this constituency in the most economically vulnerable intersection: asset-holding but income-constrained older adults for whom fixed costs are rising faster than incomes. Healthcare affordability, property tax management, and rural service viability are the direct material concerns driving voter behavior in this deeply Republican but still-competitive district. Any candidate who fails to address these specific economic security concerns with concrete policy solutions is leaving the 18% opposition an opening to expand."
-        },
-        {
-          name: "Native American Swing Constituency & Tribal Engagement",
-          tag: "lean-into",
-          why: "The four reported demographic categories account for approximately 96.78% of WV-HD-15's population, leaving a ~3.22% gap — small in percentage terms but potentially significant in a district where the incumbent won 82-18, suggesting some portion of the 18% opposition may be concentrated among Native American voters or communities. While the AIAN gap here is far smaller than in Oklahoma districts like HD-15 or HD-65, the fact that Moore won with 82% in a state with active tribal communities and healthcare governance intersections means any challenger should specifically understand whether the 18% opposition includes mobilized Native American constituencies around healthcare access, economic development, or tribal sovereignty. Even modest AIAN voter engagement could be the difference between holding and losing a seat this heavily R-tilted if the broader white homeowner majority fractures."
-        },
-        {
-          name: "Understanding the 18% Opposition in an 82-18 District",
-          tag: "careful",
-          why: "In deeply Republican West Virginia, an 82-18 result appears safe until demographic analysis reveals who comprises that 18% and why they voted against the incumbent. With only 15% college-educated adults, a median age of 45.9, and $45,630 income, this is not a district where the 18% represents a college-educated professional class or young progressive cohort — it is a rural, working-class, aging constituency where the opposition is likely concentrated among either older adults financially stressed by healthcare costs, rural communities underserved by state investment, or specific local governance failures the incumbent failed to remedy. Identifying whether the 18% is stable opposition or swing voters depends entirely on understanding what drove their vote choice — and that requires direct, specific investigation rather than assumption."
-        },
-        {
-          name: "Overestimating Safety Based on 82% Margin",
-          tag: "avoid",
-          why: "An 82-18 result in West Virginia is dominant but not immune to change if underlying material conditions shift or if a credible challenger emerges with a specific message addressing the 18% opposition's actual grievances. A representative who campaigns this seat as though the 82% represents a permanent coalition and neglects the demographic reality — aging homeowners under financial pressure, limited educational attainment, and declining rural services — risks finding the margin narrowed by a challenger who takes these issues seriously. The 18% opposition in a working-class aging district is not a marginal group; it represents real voter concerns that the incumbent is either not addressing or actively failing to address."
-        }
-      ],
-      memoHeadline: "West Virginia HD-15: An 82-18 Republican Margin Masking Real Economic Vulnerability Among Aging Homeowners at $45,630 Income, Where the 18% Opposition and Potential AIAN Swing Constituency Require Specific Engagement Rather Than Assumption of Safety.",
-      memoParagraphs: [
-        "WV-HD-15 appears to be a safe Republican seat at 82-18, but the demographic profile underlying that margin reveals genuine structural vulnerability that any candidate must understand to hold or win the seat. The district is characterized by a median age of 45.9 (older), a median household income of $45,630 (economically constrained), only 15% college-educated adults (working-class orientation), and an estimated 78.6% homeownership rate — the profile of an older, asset-holding but income-stressed constituency for whom fixed costs are rising faster than incomes. In West Virginia's healthcare-cost-intensive environment, where rural hospital viability and Medicare sustainability are the direct material concerns of aging populations, the 18% opposition in a district this Republican does not represent a marginal or unstable group — it represents real voter dissatisfaction with either the incumbent's responsiveness on economic security issues or the material reality of declining services and rising costs that no incumbent can fully remedy. The 82% result is solid but not immune to erosion if a credible challenger emerges with specific answers to the economic concerns driving the 18% opposition.",
-        "The demographic gap in the Census categories — accounting for approximately 96.78% of the population and leaving roughly 3.22% unaccounted for — is small compared to Native American demographic signals in Oklahoma tribal-jurisdiction districts, but even a small AIAN constituency concentrated in mobilizable communities around healthcare access or economic development could represent the difference between holding and losing if the broader white homeowner majority fractures. The incumbent's path to holding the seat is twofold: first, to demonstrate active responsiveness to aging homeowners' economic security concerns through Medicare advocacy, rural hospital viability messaging, and property tax fairness — the material issues driving voter behavior in a $45,630-income, 45.9-year-old constituency; second, to understand whether any portion of the 18% opposition includes specific AIAN or other minority communities whose healthcare, economic, or governance concerns are not being addressed, and to engage those communities with the specificity they require rather than assuming they will vote their demographic default. A 82-18 seat becomes vulnerable when the incumbent takes either the majority for granted or allows opposition constituencies to organize uncontested around their actual material concerns."
-      ],
-      memoBullets: [
-        "Lead with aging homeowner economic security: Medicare sustainability, rural hospital viability, property tax fairness, and the specific cost pressures facing a 45.9-year-old, 78.6% homeowner constituency at $45,630 income are the material concerns most likely driving the 18% opposition, and the incumbent's responsiveness on these issues is the primary measure of durability.",
-        "Identify specifically who comprises the 18% opposition and why they voted against the incumbent—whether concentrated among financially stressed older adults, rural communities underserved by state investment, or specific local governance failures—rather than treating the opposition as a residual or unstable group.",
-        "Investigate whether any portion of the small but potentially mobilizable AIAN or other minority communities are concentrated in the 18% opposition around healthcare access, economic development, or specific constituent service failures, and engage those communities with direct responsiveness rather than assumption of loyalty.",
-        "Do not campaign this seat as though 82% represents a permanent coalition immune to erosion; any candidate who consolidates only the existing Republican base while neglecting the material concerns driving the 18% opposition is vulnerable to a challenger who takes those concerns seriously."
-      ]
-    }
+        subtitle: "West Virginia House District 15",
+        chips: [],
+        stats: [
+          { label: "Median Household Income", value: "$45,630", sub: "" },
+          { label: "College-Educated Adults", value: "15.0%", sub: "" },
+          { label: "Median Age", value: "45.9", sub: "" },
+          { label: "Renter Rate", value: "21.4%", sub: "" }
+        ],
+        dem: 18, rep: 82,
+        partisanSub: "Moore won with 82% in 2024.",
+        demos: [
+          { label: "White", pct: 95.32, color: "#4e9e68" },
+          { label: "Hispanic / Latino", pct: 0.93, color: "#2563eb" },
+          { label: "Asian", pct: 0.45, color: "#f59e0b" },
+          { label: "Black / African American", pct: 0.08, color: "#ef4444" }
+        ],
+        issues: [
+          { name: "Economic security and wage stability", tag: "lean-into", why: "With a median household income of $45,630 and only 15.0% college-educated adults, this district is economically below national averages and relies on non-college pathways. Local wage and job security messaging directly addresses the material reality of most households and resonates in communities where traditional employment is central to family stability. This is the foundational economic concern that shapes household decision-making." },
+          { name: "Healthcare access and affordability", tag: "lean-into", why: "A median age of 45.9 signals an aging constituency with rising healthcare needs, while limited college attainment correlates with fewer white-collar healthcare benefits. Rural healthcare access and prescription drug costs are concrete, personal concerns that cut across partisan lines in aging communities with lower incomes. This district's demographic profile makes healthcare a first-order quality-of-life issue." },
+          { name: "Immigration and demographic change", tag: "careful", why: "The district is 95.32% white with minimal Latino (0.93%) and other minority populations, meaning immigration is not a direct local economic competition issue. However, the overwhelming demographic homogeneity means that national immigration rhetoric can feel abstract rather than grounded in local experience, potentially reducing issue salience compared to bread-and-butter concerns. Frame any immigration messaging around labor market protections for current workers rather than demographic anxiety." },
+          { name: "Urban social unrest and crime in distant cities", tag: "avoid", why: "This district is rural or small-town Appalachia with 95.32% white population and minimal urban density indicators, making national crime narratives about distant urban areas feel disconnected from local life. Residents' actual safety concerns are likely tied to opioid epidemics, domestic violence, and property crime in close-knit communities—not big-city disorder. Messaging that focuses on crime in faraway places wastes persuasion capital on abstract fears." },
+          { name: "Cultural grievance and national identity wars", tag: "avoid", why: "The 82% Republican margin in 2024 indicates near-total partisan consolidation—this is not a persuadable middle but a locked-in base. Culture-war messaging does not move votes in a district already voting overwhelmingly in one direction; it merely energizes an already-mobilized majority. Strategic focus should be on turnout and local delivery, not national symbolic battles." }
+        ],
+        memoHeadline: "A locked Republican stronghold where local economic delivery and healthcare access matter more than national politics.",
+        memoParagraphs: [
+          "This district presents an extreme case of partisan consolidation: an 82% Republican result in 2024 indicates a constituency that has sorted itself almost completely into one partisan camp. The 18% Democratic vote is effectively a floor, not a persuadable middle. Strategic analysis for either party must begin with the reality that traditional swing dynamics do not apply here. The relevant question is not how to flip the district, but how the incumbent holds the base and how a challenger might nibble at consolidation by offering superior local problem-solving on issues that transcend national partisan frameworks.",
+          "The district's economic and demographic profile reveals a working-age to mature constituency with limited college credentials and modest household income ($45,630 median). At 45.9 years median age, this is not a youth-driven or rapidly diversifying district—it is stable, rooted, and oriented toward economic security and health stability rather than abstract value signaling. The 21.4% renter rate indicates modest homeownership and suggests financial vulnerability to housing cost shocks. A winning strategy in this district requires demonstrable results on wage growth, affordable healthcare, and infrastructure that supports existing employment, not rhetoric about national identity or cultural dominance."
+        ],
+        memoBullets: [
+          "Lead with local economic delivery: wage and job data, employer recruitment, infrastructure investment tied to actual employment. Generic Republican or Democratic talking points are irrelevant; voters want evidence of tangible improvement in their household financial reality.",
+          "Make healthcare a first-order message for any candidate seeking to expand the 18% floor: prescription drug costs, rural clinic access, and eldercare are concrete concerns for an aging, non-college-educated constituency with lower insurance coverage rates. This issue can cut across partisan divides.",
+          "Avoid national culture-war messaging and focus instead on community-level problems (opioid response, small-business lending, workforce training) where local execution matters more than partisan identity. The 82% margin means base energization has hit a ceiling; marginal gains come from proving competence on local delivery.",
+          "Recognize that persuasion in this district is difficult and expensive relative to return. Challenger resources are better spent on turnout operations targeting the 18% Democratic vote and persuadable non-voters than on trying to move Republican voters—the margin suggests the base is locked and belief-resistant to outside messaging."
+        ]
+      }
   },
   {
     id: "wv-hd-16",
@@ -1101,57 +1071,41 @@ const WV_HOUSE_DISTRICTS = [
     nextElection: "November 2026",
     seatStatus: "Active",
     dashboard: {
-      subtitle: "West Virginia House District 19",
-      chips: [],
-      stats: [
-        { label: "Median Household Income", value: "$65,763", sub: "" },
-        { label: "College-Educated Adults",  value: "16.6%",  sub: "" },
-        { label: "Median Age",               value: "43.0",   sub: "" },
-        { label: "Renter Rate",              value: "16.5%", sub: "" }
-      ],
-      dem: 0, rep: 100,
-      partisanSub: "Crouse won unopposed in 2024.",
-      demos: [
-        { label: "White", pct: 95.38, color: DEMO_COLORS[0] },
-        { label: "Hispanic / Latino", pct: 0.93, color: DEMO_COLORS[1] },
-        { label: "Black / African American", pct: 0.92, color: DEMO_COLORS[2] },
-        { label: "Asian", pct: 0.20, color: DEMO_COLORS[3] }
-      ],
-      issues: [
-        {
-          name: "Rural Economic Security and Healthcare Access",
-          tag: "lean-into",
-          why: "At $65,763 median household income, 43.0 median age, and 16.5% renter rate, HD-19 is a constituency of older homeowners with modest but constrained household finances where rising healthcare costs and rural service decline create material financial pressure. Rural hospital viability, Medicaid sustainability, and property tax management for fixed-income homeowners are not abstract policy concerns — they are direct cost-of-living issues for the district's majority. A representative who addresses these concerns with specific policy remedies commands credibility with a constituency that evaluates governance on material impact, not partisan affiliation alone."
-        },
-        {
-          name: "Workforce Development and Educational Opportunity",
-          tag: "lean-into",
-          why: "With only 16.6% college attainment — significantly below West Virginia state average — HD-19 has a workforce participation constraint that limits both individual economic mobility and regional economic development. For a district where most households lack college education and household income is modest, career pathways, vocational training access, and local employment opportunity are the mechanisms through which young adults either stay in the district or migrate to higher-opportunity regions. A legislative agenda that treats workforce development as a core economic development strategy, rather than a secondary concern, resonates with a constituency where educational opportunity has been limited and economic mobility is uncertain."
-        },
-        {
-          name: "AIAN Population Engagement",
-          tag: "careful",
-          why: "The demographic gap between reported categories and 100% (approximately 2.47%) suggests a small American Indian/Alaska Native population in HD-19, likely 150-200 residents in absolute numbers depending on district population. While the AIAN community here is substantially smaller than in southwestern Oklahoma districts, it represents residents whose specific governance needs — tribal sovereignty respect, healthcare access, and cultural institution support — deserve constituent attention rather than assumption into the broader majority. Any candidate who engages this population as a distinct constituency rather than treating them as invisible strengthens overall constituent relationships and demonstrates inclusive governance."
-        },
-        {
-          name: "Partisan Identity as a Substitute for Governance Specificity",
-          tag: "avoid",
-          why: "The unopposed 2024 result creates a false confidence that conservative positioning alone will hold the seat indefinitely. In a district with material economic constraints — aging population, modest income, limited educational attainment, rural service decline — voters will evaluate based on whether their representative is addressing their material concerns, not whether the representative's partisan label matches the district's partisan preference. Any incumbent or challenger who campaigns primarily on partisan identity rather than specific economic and governance remedies is vulnerable to a credible opponent who understands the district's actual material concerns."
-        }
-      ],
-      memoHeadline: "West Virginia HD-19: A Unopposed Republican Seat in a Working-Class, Aging District with Significant AIAN Population and Latent Competitive Vulnerability.",
-      memoParagraphs: [
-        "WV HD-19 is a demographically homogeneous, aging, working-class district where Crouse ran unopposed in 2024 — a result that masks underlying fragility rather than demonstrating strength. The district's 43.0 median age, $65,763 median household income, and 16.6% college attainment paint a portrait of a rural, older constituency with limited formal education and modest but stable household finances. The 95.38% white population and 16.5% renter rate signal a homeowner-dominant, ethnically concentrated community where inherited partisan loyalty has historically held strong. However, the unopposed victory in 2024 is not a mandate; it is an absence of organized opposition. The district's economic profile — below West Virginia's state median income, aging faster than the national average, with limited college-educated workforce — suggests underlying economic anxiety that a credible challenger could activate if they understand what material concerns drive voter behavior in this specific place.",
-        "The 2.47% demographic gap (95.38% white plus Hispanic, Black, and Asian populations account for only 97.47% of residents) represents approximately 2.5% of the district's population — a figure consistent with American Indian/Alaska Native residents, though likely small in absolute numbers. The more significant strategic fact is that Crouse's unopposed status creates an incumbent vulnerability masquerading as strength: without electoral competition, there is no mechanism to test whether the 100% result reflects genuine consolidated support or simply reflects the absence of a challenger with resources and message discipline. In a district this economically constrained and aging, specific grievances around healthcare access, property tax burden, rural service decline, or state budget priorities can mobilize opposition if a credible candidate emerges to articulate them. Any incumbent strategy that treats unopposed victory as permission to govern without active constituent engagement is a strategic error; the margin is not a floor, it is a temporary condition created by the absence of opposition.",
-        "For any challenger considering this seat: the path to competition runs through identifying the specific economic or governance grievances that Crouse has not addressed — rural hospital viability, property tax fairness, Medicaid access, or workforce development — and building a message that speaks directly to material concerns of a 43-year-old, $65,763-income, 83.5% homeowner constituency. The unopposed victory suggests organizational weakness on the Democratic side of West Virginia politics in this region, not overwhelming Republican strength. A challenger with local credibility, a specific economic message, and modest resources could transform a 100-0 result into a genuinely competitive race by activating the latent economic anxiety in a district this economically constrained and this aging."
-      ],
-      memoBullets: [
-        "Do not treat the unopposed 2024 victory as a mandate or a floor — it is an artifact of opposition weakness, not proof of consolidated support. Identify the specific governance or economic grievances most salient to a 43-year-old, working-class, homeowner-dominant constituency and address them with policy specificity, not generic conservative messaging.",
-        "Lead with rural economic security: healthcare access (particularly rural hospital viability and Medicaid sustainability), property tax fairness for older homeowners on fixed incomes, and workforce development for a constituency with only 16.6% college attainment are the material concerns most likely to drive constituent satisfaction or frustration.",
-        "Build active constituent engagement mechanisms — town halls, office hours, direct communication about state budget priorities and how they affect district households — rather than relying on the assumption that opposition weakness will persist indefinitely into future cycles.",
-        "Monitor for challenger emergence and credibility: if a local figure with genuine community standing decides to run against an unopposed incumbent, the 100-0 margin will not transfer automatically; the race will be decided by which candidate better understands and addresses the material economic concerns of aging, working-class homeowners in a region experiencing slow economic decline."
-      ]
-    }
+        subtitle: "West Virginia House District 19",
+        chips: [],
+        stats: [
+          { label: "Median Household Income", value: "$65,763", sub: "" },
+          { label: "College-Educated Adults", value: "16.6%", sub: "" },
+          { label: "Median Age", value: "43.0", sub: "" },
+          { label: "Renter Rate", value: "16.5%", sub: "" }
+        ],
+        dem: 0, rep: 100,
+        partisanSub: "Crouse won unopposed in 2024.",
+        demos: [
+          { label: "White", pct: 95.38, color: "#4e9e68" },
+          { label: "Hispanic / Latino", pct: 0.93, color: "#2563eb" },
+          { label: "Black / African American", pct: 0.92, color: "#f59e0b" },
+          { label: "Asian", pct: 0.2, color: "#ef4444" }
+        ],
+        issues: [
+          { name: "Economic opportunity and wage growth", tag: "lean-into", why: "Median household income of $65,763 sits below national benchmarks, signaling voter concern about earning power and cost of living. With a median age of 43, this is a workforce with deep roots in the district facing real economic pressures. Messaging on job creation, skills training, and preventing wage stagnation will resonate with the dominant income cohort and speak directly to tangible household needs." },
+          { name: "Infrastructure and local government efficiency", tag: "lean-into", why: "A district that is 95.38% white, rural-leaning, and owner-dominated (83.5% owner-occupied housing) typically prioritizes local services, road maintenance, and efficient government spending. These voters have low tolerance for waste and high expectations for accountability from elected officials. Emphasizing fiscal discipline, transparent budget management, and targeted infrastructure investment directly addresses the values and practical concerns of the constituency." },
+          { name: "Education and skills development", tag: "careful", why: "College-educated adults represent only 16.6% of the district—a significant gap suggesting both opportunity and sensitivity around education messaging. While workforce development and vocational training are legitimate strategic openings, national rhetoric about college expansion or student debt forgiveness may alienate non-college voters who feel overlooked. Frame education as practical pathways to employment, not ideological positioning." },
+          { name: "National cultural divisiveness", tag: "avoid", why: "An unopposed 2024 win (100% Rep, 0% Dem) indicates either a dominant incumbency or collapsed Democratic presence, not necessarily voter enthusiasm for divisive national talking points. Heavy reliance on cultural grievance messaging risks alienating persuadable voters in a low-turnout, economically focused district. Localize instead of nationalizing." },
+          { name: "Immigration and demographic change rhetoric", tag: "avoid", why: "Hispanic/Latino and Black/African American populations each represent less than 1% of the district. Immigration-focused messaging has minimal direct salience to voter experience and can appear performative or even divisive to the 95.38% white plurality. Devote messaging energy to issues that connect directly to the lived economy and governance of this specific constituency." }
+        ],
+        memoHeadline: "A locked-in rural incumbent district demanding efficiency, local investment, and economic realism—not national theater.",
+        memoParagraphs: [
+          "WV-HD-19 is a stable, owner-dominated, working-to-middle-class district with minimal demographic diversity and zero Democratic opposition in the last cycle. The 100% Republican result is not a mandate for culture-war intensity; it reflects either uncontested incumbency or a collapsed alternative. The real electoral story lies in the underlying economic data: a median household income of $65,763 and a college-attainment rate of just 16.6% define a constituency that prioritizes tangible economic security and local governance over ideology. A median age of 43 reinforces this profile—these are established residents with mortgages, local ties, and expectations for government to deliver on basics, not distraction.",
+          "Any candidate seeking to win or hold this seat must ground their case in economic reality and local accountability. The district's 83.5% owner-occupancy rate signals voters with skin in the game locally; they care about property values, road quality, school funding, and fair tax treatment. Messaging must emphasize job creation, wage growth, fiscal discipline, and transparent spending. Education can be a strategic asset if framed around vocational pathways and workforce readiness rather than degree-attainment ideology. The absence of Democratic opposition does not mean complacency is safe—it means the bar for holding the seat is steady constituent service, local credibility, and demonstrated stewardship of public resources."
+        ],
+        memoBullets: [
+          "Lead with economic messaging: wage growth, local job creation, and cost-of-living relief directly address the $65,763 median income reality and will dominate voter concern.",
+          "Emphasize fiscal accountability and local infrastructure: owner-voters expect transparent budgets, efficient spending, and visible investment in roads, schools, and services—make this your operational baseline.",
+          "Frame education strategically: tout vocational training, apprenticeships, and workforce development, but avoid national college-centric rhetoric that alienates the 83.4% non-college-educated majority.",
+          "Avoid national culture-war messaging: the 100% unopposed result reflects consolidated local advantage, not a mandate for divisive rhetoric; protect incumbency by staying local, accountable, and results-focused."
+        ]
+      }
   },
   {
     id: "wv-hd-20",
@@ -1283,56 +1237,41 @@ const WV_HOUSE_DISTRICTS = [
     nextElection: "November 2026",
     seatStatus: "Active",
     dashboard: {
-      subtitle: "West Virginia House District 22",
-      chips: [],
-      stats: [
-        { label: "Median Household Income", value: "$66,582", sub: "" },
-        { label: "College-Educated Adults",  value: "25.2%",  sub: "" },
-        { label: "Median Age",               value: "48.8",   sub: "" },
-        { label: "Renter Rate",              value: "20.3%", sub: "" }
-      ],
-      dem: 0, rep: 100,
-      partisanSub: "Linville won unopposed in 2024.",
-      demos: [
-        { label: "White", pct: 96.60, color: DEMO_COLORS[0] },
-        { label: "Asian", pct: 0.68, color: DEMO_COLORS[1] },
-        { label: "Hispanic / Latino", pct: 0.62, color: DEMO_COLORS[2] },
-        { label: "Black / African American", pct: 0.00, color: DEMO_COLORS[3] }
-      ],
-      issues: [
-        {
-          name: "Working-Class Homeowner Economic Security",
-          tag: "lean-into",
-          why: "At 48.8 years median age, 79.7% homeownership, and $66,582 median household income, WV-HD-22 is a district of older, asset-holding but income-constrained homeowners for whom fixed costs (property taxes, healthcare, utilities) are rising faster than incomes. These are material economic concerns that drive voter behavior in aging, rural constituencies — not abstract conservative positioning. Any candidate must address these concerns with specific policy remedies (property tax fairness, healthcare cost control, rural service investment) rather than general rhetoric to consolidate and hold this constituency."
-        },
-        {
-          name: "Unopposed Status as Organizational Vulnerability",
-          tag: "lean-into",
-          why: "Unopposed races provide no feedback mechanism for understanding what drives opposition sentiment or what policy gaps exist between incumbent and constituent priorities. A candidate who treats this seat as safely Republican rather than as an incumbent opportunity to build deeper constituent infrastructure risks allowing a credible challenger to organize opposition around economic concerns (healthcare, taxes, services) that have not been tested in recent elections. Active constituent engagement, documented service delivery, and visible responsiveness to material economic concerns are the investments that prevent opposition organization when the seat becomes competitive."
-        },
-        {
-          name: "Non-Reported Demographic Communities & Constituent Service",
-          tag: "careful",
-          why: "The 2.1% demographic gap likely represents AIAN, mixed-race, or other communities not captured in Census reporting — a small but present constituency whose economic and social needs can become invisible in a heavily white district. In a district this homogeneous, small communities can be overlooked by mainstream constituent service, creating latent opposition among people who feel unserved. Direct engagement with these communities on economic opportunity, healthcare access, and representation requires specific attention rather than passive assumption of Republican loyalty based on demographics."
-        },
-        {
-          name: "Treating Unopposed Results as Evidence of Durable Strength",
-          tag: "avoid",
-          why: "A 100-0 result with no opposition tells us nothing about electoral durability — it tells us only that no organized opposition emerged in 2024. In West Virginia's changing political environment, where economic anxiety among working-class voters can shift suddenly, unopposed status can create complacency in constituent engagement and vulnerability to a challenger who articulates material economic concerns more effectively. Any incumbent who treats this result as permission to coast rather than as an opportunity to deepen constituent infrastructure risks losing a seat that appears safe only because opposition has not yet organized."
-        }
-      ],
-      memoHeadline: "WV-HD-22: An Unopposed Incumbent in a Demographically Aging, High-Homeownership District Where Demographic Gaps Signal Potential Opposition Infrastructure",
-      memoParagraphs: [
-        "WV-HD-22 returned a 100-0 result in 2024 with Linville running unopposed — a signal not of electoral strength but of the absence of organized opposition. The district's demographic profile explains why conventional Republican performance is strong here: 96.6% white, 79.7% homeownership (the inverse of the 20.3% renter rate), a median age of 48.8 years, and a median household income of $66,582 anchors this as a stable, asset-holding, older constituency with material stakes in property values, tax policy, and stability. This is the demographic foundation of Republican dominance in West Virginia. However, unopposed races are structurally different from competitive ones: they tell us nothing about the intensity of opposition sentiment, the durability of the current alignment, or what happens when a challenger emerges with credible organization. The 25.2% college-educated adult population — below state and regional averages — and the $66,582 median income suggest a working-class-to-middle-class base rather than a wealthy exurban district, which means economic security concerns (healthcare costs, property tax burden, wage stagnation) are material for these homeowners rather than abstract.",
-        "The most significant analytical fact about WV-HD-22 is that the four reported Census categories account for only 97.9% of the population, leaving a 2.1% gap that likely represents American Indian / Alaska Native residents, mixed-race residents, or other groups not captured in the standard reporting. While 2.1% is smaller than the dramatic AIAN gaps in Oklahoma districts, it is not negligible in a district this small — and more importantly, it signals that even in a heavily white, Republican-aligned district, there are constituent communities whose material needs may diverge from the homeowner majority's policy priorities. The combination of unopposed incumbent status, aging demographics, and the absence of any visible partisan opposition means that the incumbent's current position is not tested by organized resistance. This is both a strength and a risk: strength because there is no active challenger organization, risk because an incumbent facing no opposition has no mechanism for understanding what drives potential opposition or how to prevent its organization. Any challenger who enters this district with a message that resonates with either the material economic concerns of working-class homeowners or the specific needs of the non-reported demographic communities could find an opening that current electoral data does not reveal."
-      ],
-      memoBullets: [
-        "Do not assume unopposed status signals durable electoral strength — it signals the absence of organized opposition, not the absence of opposition sentiment. Any incoming candidate should treat WV-HD-22 as a district where economic concerns among older, working-class homeowners at $66,582 income (property tax fairness, healthcare costs, rural service viability) are the primary vulnerability if articulated by a credible challenger.",
-        "Lead with tangible economic security messaging for the 48.8-year-old, 79.7% homeowner constituency: property tax management, healthcare affordability, and the cost of living increases that squeeze fixed incomes are the material concerns that drive voter behavior in aging, asset-holding districts, not abstract ideological positioning.",
-        "Engage the 2.1% demographic gap directly and with specificity — whether AIAN, mixed-race, or other communities — rather than assuming they are politically irrelevant; in a district this heavily white, small communities can become invisible, but their constituent needs around economic opportunity and healthcare access are real and present.",
-        "Build constituent relationship infrastructure that goes beyond winning margins: regular town halls, direct response to material constituent concerns (healthcare access, tax burden, rural service delivery), and documented constituent service create the organizational durability that prevents a challenger from building opposition momentum in a district currently unopposed."
-      ]
-    }
+        subtitle: "West Virginia House District 22",
+        chips: [],
+        stats: [
+          { label: "Median Household Income", value: "$66,582", sub: "" },
+          { label: "College-Educated Adults", value: "25.2%", sub: "" },
+          { label: "Median Age", value: "48.8", sub: "" },
+          { label: "Renter Rate", value: "20.3%", sub: "" }
+        ],
+        dem: 0, rep: 100,
+        partisanSub: "Linville won unopposed in 2024.",
+        demos: [
+          { label: "White", pct: 96.6, color: "#4e9e68" },
+          { label: "Asian", pct: 0.68, color: "#2563eb" },
+          { label: "Hispanic / Latino", pct: 0.62, color: "#f59e0b" },
+          { label: "Black / African American", pct: 0, color: "#ef4444" }
+        ],
+        issues: [
+          { name: "Economic stability and local job creation", tag: "lean-into", why: "Median household income of $66,582 sits below state averages, indicating economic vulnerability in this constituency. The median age of 48.8 suggests an aging workforce with limited mobility, making local employment retention and creation a survival issue rather than a luxury. Candidates who demonstrate concrete plans to sustain or grow employment in existing industries will resonate with voters whose livelihoods depend on stable local work." },
+          { name: "Cost of living and household affordability", tag: "lean-into", why: "With 20.3% of households renting and median income at $66,582, housing and basic cost pressures are real constraints on family finances. An aging population (48.8 median age) is particularly sensitive to utility costs, property taxes, and healthcare expenses. Messaging that addresses affordability—property tax relief, utility regulation, healthcare cost control—directly addresses the pocketbook concerns of this district's core electorate." },
+          { name: "Cultural and social values alignment", tag: "careful", why: "The district is 96.6% white with minimal racial or ethnic diversity, and ran completely unopposed in the last cycle, suggesting strong partisan consolidation but also potential vulnerability if a challenger can reframe local issues. Candidates must authentically connect to community values without appearing to pander, and should avoid language or positions that seem disconnected from the district's cultural and social baseline." },
+          { name: "Higher education and college debt policy", tag: "avoid", why: "Only 25.2% of adults in the district hold a college degree, well below many benchmarks. Messaging centered on student loan forgiveness, college affordability, or higher education expansion will lack resonance with three-quarters of the adult population. Overemphasis on college-focused policy risks appearing elitist or irrelevant to voters whose children pursue skilled trades or local employment directly." },
+          { name: "Urban-focused or progressive social policies", tag: "avoid", why: "The district's demographic profile—96.6% white, median age 48.8, only 20.3% renters, 25.2% college-educated—does not align with the demographic bases of urban progressive coalitions. Candidates adopting platforms centered on urban renewal, diversity initiatives, or lifestyle progressivism will face structural headwinds in this constituency regardless of execution, and risk alienating the core electorate unnecessarily." }
+        ],
+        memoHeadline: "Unopposed incumbent in economically vulnerable, aging, culturally cohesive district demands continued focus on pocketbook stability and authentic local connection.",
+        memoParagraphs: [
+          "WV-HD-22 presents a strategically locked district: the 2024 result of 100% Republican unopposed indicates near-complete partisan consolidation. However, the underlying demographics reveal genuine economic fragility that any challenger would exploit if an opening emerged. Median household income of $66,582 and a renter rate of 20.3% signal households living close to the margin, while a median age of 48.8 reflects a population with limited geographic mobility and deep roots in local employment. The incumbent's continued hold depends on demonstrating tangible delivery on economic and affordability concerns—not merely partisan messaging. Failure to address cost-of-living pressures or perceived neglect of local employment would create vulnerability to a challenger, regardless of party.",
+          "The district's overwhelming homogeneity (96.6% white, minimal diversity across all other categories) and low college attainment (25.2%) define both its cultural baseline and its strategic fault lines. Candidates must root their messaging in the lived experience of working families dependent on stable local employment and affordable housing and utilities. The unopposed status masks a real need for continuous constituent service and visible delivery: in an aging, economically pressured population with limited social or geographic diversity, perceived indifference to local needs or cultural disconnect could prove fatal to even a favored incumbent if a credible alternative emerges. Authentic engagement with the district's economic realities—not abstract ideology or national talking points—is the only reliable foundation for durable political success here."
+        ],
+        memoBullets: [
+          "Lean aggressively into economic messaging: job creation, wage stability, and utility/housing affordability are the core concerns of a median-age 48.8 district earning $66,582. Quantifiable local deliverables—preserved or created jobs, reduced property taxes, utility relief—matter more than partisan rhetoric.",
+          "Avoid college-focused or diversity-centered policy platforms: 75% of the district lacks a college degree and the population is 96.6% white. Messaging on student debt, campus policy, or racial equity will fall flat and signal cultural disconnection from the electorate.",
+          "Maintain visible, authentic local presence: an unopposed cycle masks the need for continuous constituent service and community engagement. Any challenger will exploit perceived neglect, so regular townhalls, response to constituent problems, and visible investment in district priorities are non-negotiable.",
+          "Do not allow economic or cultural messaging to drift toward urban or progressive frames: this district's aging, rooted, culturally cohesive population will reject positioning that feels distant from its values. Authenticity and respect for local life as it is lived will outweigh appeals to broader ideological movements."
+        ]
+      }
   },
   {
     id: "wv-hd-23",
@@ -3687,56 +3626,41 @@ const WV_HOUSE_DISTRICTS = [
     nextElection: "November 2026",
     seatStatus: "Active",
     dashboard: {
-      subtitle: "West Virginia House District 62",
-      chips: [],
-      stats: [
-        { label: "Median Household Income", value: "$43,161", sub: "" },
-        { label: "College-Educated Adults",  value: "13.2%",  sub: "" },
-        { label: "Median Age",               value: "46.2",   sub: "" },
-        { label: "Renter Rate",              value: "18.4%", sub: "" }
-      ],
-      dem: 0, rep: 100,
-      partisanSub: "Hanshaw won unopposed in 2024.",
-      demos: [
-        { label: "White", pct: 96.15, color: DEMO_COLORS[0] },
-        { label: "Hispanic / Latino", pct: 0.50, color: DEMO_COLORS[1] },
-        { label: "Black / African American", pct: 0.31, color: DEMO_COLORS[2] },
-        { label: "Asian", pct: 0.01, color: DEMO_COLORS[3] }
-      ],
-      issues: [
-        {
-          name: "Healthcare Access and Fixed-Income Security",
-          tag: "lean-into",
-          why: "At $43,161 median income and 46.2 median age, WV-62 is a constituency of older adults and approaching-retirement households for whom healthcare costs, Medicare sustainability, and prescription drug prices represent the primary household budget pressure. The unopposed 2024 victory masks the reality that any challenger offering concrete healthcare solutions — expanded Medicaid access, Medicare drug negotiation support, rural hospital preservation — would activate genuine voter interest in a district where these issues are not theoretical but immediate financial concerns. A representative who leads on healthcare as a governance priority, not merely as campaign rhetoric, builds the incumbent advantage that survives the next competitive challenge."
-        },
-        {
-          name: "Workforce Transition and Economic Opportunity",
-          tag: "lean-into",
-          why: "With only 13.2% college education in a district at $43,161 median income, the constituency's economic foundation depends on traditionally lower-skill employment in sectors facing long-term structural decline — likely coal, timber, or other resource extraction industries characteristic of Appalachian economies. Vocational training funding, apprenticeship programs, infrastructure investment that creates stable local jobs, and support for workers transitioning from declining industries are the governance outputs that make representation durable. A representative who can point to concrete workforce development outcomes — actual jobs created, training programs funded, local employers retained — demonstrates constituent value beyond partisan alignment."
-        },
-        {
-          name: "Small AIAN and Other Minority Community Engagement",
-          tag: "careful",
-          why: "The four reported Census categories account for 96.96% of the population, leaving a 3.04% gap that likely represents American Indian, Alaska Native, or other minority residents whose needs and concerns can easily become invisible in a 96.15% white district. While this population is smaller than in southwestern Oklahoma districts, it deserves specific constituent attention and engagement; overlooking a minority community entirely, even a small one, creates both a governance gap and a potential opening for any challenger who offers more inclusive representation. Acknowledging and serving this community actively, even if numerically modest, demonstrates representative competence."
-        },
-        {
-          name: "Assuming Unopposed Status Reflects Durable Electoral Safety",
-          tag: "avoid",
-          why: "The absence of a Democratic challenger in 2024 reflects current political conditions and opposition strategy, not permanent demographic or electoral safety — it is a choice by the opposition to forfeit the seat, not an expression of voter preference. In a district where 46.2% of the population is approaching or in retirement years with income-driven vulnerability around healthcare and Social Security, a credible challenger who campaigns on these material concerns with specificity and authenticity would find a receptive audience. Treating unopposed victory as permission to reduce constituent engagement or governance focus is the error most likely to create an opening for the next cycle."
-        }
-      ],
-      memoHeadline: "Appalachian Working-Class Stability: WV-62 is a High-Seniority, Low-Education District with Unopposed Republican Control and Minimal Electoral Competition.",
-      memoParagraphs: [
-        "WV-62 presents a demographic profile characteristic of rural Appalachia: a 46.2-year median age, $43,161 median household income, and only 13.2% college-educated adults signal a constituency anchored in manual labor, resource extraction, and fixed-income households with limited mobility into higher-wage sectors. The 96.15% white population with negligible minority representation, combined with a low 18.4% renter rate, indicates a community of long-term homeowners whose economic stakes are deeply rooted in place — and whose fortunes are directly tied to the viability of traditional regional industries and stable public services. The unopposed 2024 victory, where Hanshaw received 100% of the vote with no Democratic challenger, reflects not merely Republican strength but a political environment where the opposition has effectively ceded the district rather than mount a competitive campaign. This absence of active electoral challenge obscures the underlying constituency dynamics that a strategic candidate must understand: in a district this economically constrained and educationally limited, governance performance on concrete issues — healthcare access, infrastructure maintenance, education funding, and workforce stability — determines whether the current Republican alignment remains durable or becomes vulnerable to any serious challenger.",
-        "The demographic composition also contains a critical strategic gap: the four reported Census categories account for 96.96% of the population, leaving a 3.04% gap that, in West Virginia's eastern panhandle or southern districts, likely represents American Indian or Alaska Native residents. While this percentage is smaller than in southwestern Oklahoma districts, it warrants acknowledgment and engagement as a matter of basic constituent representation. More strategically significant is the intersection of low income ($43,161), low education (13.2%), and aging population (46.2 median age) — a combination that produces material vulnerability around healthcare costs, job security in declining industries, and the sustainability of Social Security and Medicare benefits. In an unopposed environment, there is no immediate electoral pressure on these issues; however, any credible Democratic challenger who ran a campaign centered on healthcare access, coal industry transition support, or Social Security protection would find receptive listeners in a constituency for whom these are not abstract policy debates but immediate financial concerns. The current political dominance of the seat is stable only insofar as Republican candidates continue to offer governance that addresses these material concerns — or insofar as the opposition continues to decline to compete. Neither condition should be treated as permanently locked."
-      ],
-      memoBullets: [
-        "Lead with healthcare and fixed-income security: at $43,161 median income with a 46.2-year median age, the constituency is moving into or already in the fixed-income years when healthcare costs, Medicare viability, and prescription drug affordability become primary household budget concerns — these are the material issues most likely to activate opposition if a challenger ever emerges.",
-        "Address workforce and industry transition directly: with only 13.2% college education, the district's economy depends on traditionally lower-skill sectors that face structural long-term decline; coal transition support, vocational training funding, and infrastructure investment that creates stable local employment are the governance outputs that will keep this constituency aligned with current representation.",
-        "Maintain active constituent presence despite unopposed status: the absence of electoral opposition is not permission to reduce engagement; the 3.04% demographic gap suggests a small but present AIAN or other minority community that should receive specific constituent attention, and the broader constituency's economic constraints mean that visible local presence and responsiveness to constituent service remain essential to political durability.",
-        "Do not assume demographic stability equals electoral permanence: a 96.15% white, aging, low-income, low-education district in Appalachia is not inherently unstable, but it is a constituency whose material concerns around healthcare and economic security are real and urgent — any challenger who campaigns on these issues with specificity and authenticity would find an audience regardless of current party registration."
-      ]
-    }
+        subtitle: "West Virginia House District 62",
+        chips: [],
+        stats: [
+          { label: "Median Household Income", value: "$43,161", sub: "" },
+          { label: "College-Educated Adults", value: "13.2%", sub: "" },
+          { label: "Median Age", value: "46.2", sub: "" },
+          { label: "Renter Rate", value: "18.4%", sub: "" }
+        ],
+        dem: 0, rep: 100,
+        partisanSub: "Hanshaw won unopposed in 2024.",
+        demos: [
+          { label: "White", pct: 96.15, color: "#4e9e68" },
+          { label: "Hispanic / Latino", pct: 0.5, color: "#2563eb" },
+          { label: "Black / African American", pct: 0.31, color: "#f59e0b" },
+          { label: "Asian", pct: 0.01, color: "#ef4444" }
+        ],
+        issues: [
+          { name: "Jobs and Economic Development", tag: "lean-into", why: "With a median household income of $43,161—substantially below state and national averages—economic anxiety is the dominant district concern. Manufacturing, energy, and skilled trade opportunities directly address the lived experience of 86.8% of the district who lack college degrees. Candidates must present concrete plans for wage growth and local job creation, not abstract economic theory." },
+          { name: "Cost of Living and Healthcare Access", tag: "lean-into", why: "The median age of 46.2 signals a population approaching or in retirement, where healthcare affordability and prescription drug costs become urgent household budget items. Combined with the low median income, healthcare is a kitchen-table issue that cuts across party lines. Messaging on reducing out-of-pocket costs and ensuring access to services in rural areas will resonate strongly." },
+          { name: "Education and Workforce Training", tag: "careful", why: "With only 13.2% college-educated adults, the district shows limited engagement with higher education as traditionally marketed. However, this also reflects strong potential demand for vocational training, apprenticeships, and community college pathways that lead directly to employment. Frame education as skills-building for jobs, not degree accumulation; messaging must avoid condescension about educational attainment." },
+          { name: "Immigration and Demographic Change", tag: "avoid", why: "The district is 96.15% white with Hispanic/Latino at 0.5%, Black at 0.31%, and Asian at 0.01%. Immigration is not a lived experience for 99%+ of residents. Centering this issue signals tone-deafness to actual district concerns and can appear performative; it will not move votes in this context." },
+          { name: "Urban Crime and Policing", tag: "avoid", why: "The district's demographics and scale suggest a rural or small-town character where crime rates are not a primary policy driver compared to economic distress. Focusing on urban public safety issues without acknowledgment of the district's actual safety profile and primary concerns will alienate voters who see the messaging as disconnected from their reality." }
+        ],
+        memoHeadline: "A locked-in Republican stronghold with real economic pain—Democrats face a messaging and organizational mountain; Republicans must deliver tangible economic results to hold margins.",
+        memoParagraphs: [
+          "WV-HD-62 is a heavily Republican district where the incumbent ran unopposed in 2024, indicating near-total partisan consolidation and Democratic institutional weakness. The district's demographic homogeneity (96.15% white) and low college attainment (13.2%) align with strong Republican performance in rural and working-class areas. However, the 100% Republican result masks a more complex underlying reality: the median household income of $43,161 reveals substantial economic distress that transcends partisan loyalty. The median age of 46.2 suggests a population shaped by decades of industrial decline and out-migration, with limited economic opportunity for younger residents. An unopposed general election may reflect Democratic concession of the seat, but it also obscures whether the constituency would be responsive to a different economic message if one were effectively delivered.",
+          "The strategic imperative for Republicans is defensive: turnout management and delivery on economic promises to prevent erosion at the margins. With no Democratic challenger in 2024, the district's true partisan flexibility is unknown—opposition candidates essentially forfeited the chance to test it. For Democrats, if they field a candidate in the next cycle, the path requires radical message discipline around jobs, wages, and cost of living rather than the cultural and demographic framings that may work elsewhere. The 18.4% renter rate, combined with low median income, suggests housing stability is a latent vulnerability that either party could exploit if framed locally. Republicans' continued dominance depends on perceived commitment to economic revival and skepticism toward external mandates; Democrats' long-term footing depends on whether they can credibly position themselves as champions of working-class economic interests without appearing to impose values at odds with the district's cultural majority."
+        ],
+        memoBullets: [
+          "Lean hard into jobs, wages, and local economic development—$43,161 median income is the defining constraint on district life. Vague promises of growth will not move voters; specific, verifiable commitments to manufacturing, energy, or skilled-trade pathways are necessary.",
+          "Healthcare and cost-of-living relief are second-order but potent issues for a district with median age 46.2 and tight household budgets; messaging on prescription drugs, insurance affordability, and rural clinic access will cut across partisan lines if framed as kitchen-table necessity, not ideology.",
+          "Avoid culture-war framings and demographic rhetoric—the district's 96%+ white composition and low diversity make immigration and identity politics appear disconnected from actual voter priorities. Focus instead on what the constituency experiences: economic decline and limited opportunity.",
+          "Unopposed 2024 victory is a red flag for Republicans: it suggests a lack of challenge and possible complacency on delivery. Democrats' absence signals organizational weakness, not voter consensus; a well-resourced challenger with an economic message and ground game could test the seat's true partisan lean."
+        ]
+      }
   },
   {
     id: "wv-hd-63",
@@ -3868,57 +3792,41 @@ const WV_HOUSE_DISTRICTS = [
     nextElection: "November 2026",
     seatStatus: "Active",
     dashboard: {
-      subtitle: "West Virginia House District 65",
-      chips: [],
-      stats: [
-        { label: "Median Household Income", value: "$51,129", sub: "" },
-        { label: "College-Educated Adults",  value: "18.9%",  sub: "" },
-        { label: "Median Age",               value: "40.7",   sub: "" },
-        { label: "Renter Rate",              value: "22.4%", sub: "" }
-      ],
-      dem: 23, rep: 77,
-      partisanSub: "Martin won with 77% in 2024.",
-      demos: [
-        { label: "White", pct: 90.94, color: DEMO_COLORS[0] },
-        { label: "Black / African American", pct: 1.96, color: DEMO_COLORS[1] },
-        { label: "Hispanic / Latino", pct: 1.90, color: DEMO_COLORS[2] },
-        { label: "Asian", pct: 0.39, color: DEMO_COLORS[3] }
-      ],
-      issues: [
-        {
-          name: "Working-Class Economic Security & Healthcare Access",
-          tag: "lean-into",
-          why: "At $51,129 median household income with 40.7 median age and 77.6% homeownership, HD-65 is a community of working-class homeowners for whom healthcare costs, rural hospital viability, and property tax sustainability are direct financial pressures. The 18.9% college attainment signals a workforce constrained to non-degree employment sectors where wage stagnation and benefit erosion are acute concerns. A representative who addresses these material economic concerns with specific policy solutions — rural healthcare access, Medicare cost management, property tax relief — commands credibility this constituency demands; one who defaults to abstract conservative positioning appears disconnected from how people actually live."
-        },
-        {
-          name: "Demographic Aging & Youth Outmigration",
-          tag: "lean-into",
-          why: "The 40.7 median age combined with 18.9% college attainment suggests a district where younger, educated adults are leaving for opportunity elsewhere — a sign of economic stagnation that is politically consequential. A representative who ignores this demographic trajectory is governing a slowly contracting constituency and missing an opportunity to address the underlying economic conditions driving outmigration. Leadership that takes youth economic opportunity seriously — apprenticeships, local employment pathways, remote work infrastructure — demonstrates engagement with the district's future rather than passive acceptance of decline."
-        },
-        {
-          name: "The 23% Democratic Opposition as Economic Swing Constituency",
-          tag: "careful",
-          why: "The 23% Democratic vote in a 77-23 Republican district is not ideologically committed opposition but economically motivated voters — concentrated among renters (22.4% of the population) and younger adults — who have concluded the incumbent is not delivering on economic security. In a district with this income level and educational profile, an economic shock (recession, healthcare crisis, wage loss) or a credible challenger offering concrete economic solutions could shift this margin meaningfully. The 77% result should not be read as permission to ignore the opposition's material concerns; it should be read as a floor contingent on continued delivery on working-class economic priorities."
-        },
-        {
-          name: "Treating a 77% Margin as Indicating Safe Partisan Lock",
-          tag: "avoid",
-          why: "A 77-23 result in a district with $51,129 income, 18.9% college attainment, and 40.7 median age is not evidence of deep partisan commitment but evidence of current homeowner cohesion around the incumbent. That cohesion is contingent on the representative delivering tangible results on healthcare access, property affordability, and wage opportunity. Economic deterioration, a healthcare cost shock, or a challenger offering credible working-class economic messaging could shift this margin significantly; a representative who treats 77% as permission to ignore constituent economic concerns is making a strategic error."
-        }
-      ],
-      memoHeadline: "West Virginia HD-65: A 77-23 Republican Lock Built on Working-Class Homeowners, But Demographic Gaps and Youth Outmigration Signal Underlying Fragility.",
-      memoParagraphs: [
-        "HD-65 presents a paradox: a 77-23 Republican victory margin in a district whose demographic and economic profile suggests deeper vulnerability than the electoral result indicates. The median household income of $51,129 and median age of 40.7 describe a working-class, aging community where most adults own their homes (77.6% homeownership implied by 22.4% renter rate) but lack college credentials (18.9% college-educated). This is a constituency economically dependent on stable employment, affordable healthcare, and property value preservation — and the 23% Democratic vote likely concentrates among younger adults, renters, and those experiencing economic strain in a region where manufacturing and mining have contracted significantly. The 77% Republican result reflects consolidated support from the homeowner majority, but that consolidation is more brittle than the margin suggests: at 40.7 median age, the district is aging faster than the state average, and younger adults are leaving. Any candidate running here must understand that the 77% is a product of homeowner cohesion, not broad-based enthusiasm, and that cohesion depends on delivering tangible economic stability to a constituency with limited financial cushion.",
-        "The demographic gap — the four reported Census categories total 96.85%, leaving ~3.15% unaccounted for, likely American Indian / Alaska Native population — is small relative to southwestern Oklahoma tribal districts but material in a state with significant AIAN communities and meaningful historical presence in western West Virginia. More strategically significant is what is absent from HD-65's profile: college attainment at 18.9% is dramatically below state and national averages, indicating limited local educational infrastructure and a workforce constrained to lower-wage service, extraction, and agricultural employment. The renter population at 22.4% — a substantial minority in a homeowner-dominant district — likely includes younger adults, service workers, and families unable to access homeownership due to income constraints or credit barriers. These renters are the 23% Democratic vote and a latent swing constituency: if economic conditions deteriorate, if healthcare costs spike, or if a Democratic candidate speaks directly to working-class economic anxiety with credible policy specifics, the 77-23 margin could compress significantly in a future cycle. The representative who holds this seat must deliver concrete results on healthcare access, wage-earning opportunity, and property tax fairness — not abstract conservative positioning.",
-        "West Virginia HD-65 is a working-class homeowner district with a 40.7-year median age, modest income at $51,129, and low educational attainment at 18.9% — a constituency economically vulnerable to healthcare cost shocks, wage stagnation, and rural service decline. The 77% Republican margin reflects strong homeowner cohesion, but that cohesion depends on the representative delivering tangible economic stability and addressing the material concerns of adults living on fixed or modest incomes. The 23% Democratic opposition, concentrated among younger adults and renters, represents a genuine swing constituency if economic conditions worsen or if a challenger offers credible solutions to healthcare access, wage opportunity, and property affordability. Governing this district successfully requires moving beyond inherited partisan loyalty and engaging the specific economic pressures that shape daily life for working-class homeowners in a post-industrial West Virginia county."
-      ],
-      memoBullets: [
-        "Lead with working-class economic security: healthcare cost management, rural hospital viability, property tax fairness, and wage opportunity for non-college-educated adults are the material governance concerns for a $51,129-income constituency with 18.9% college attainment.",
-        "Recognize the 23% opposition as economically motivated rather than ideologically intractable: younger adults and renters in HD-65 are not voting Democratic from inherited preference but from economic anxiety about wage opportunity, housing affordability, and healthcare access — material concerns that a Republican addressing them with specificity can credibly contest.",
-        "Invest in understanding why the district is aging (40.7 median age) and why younger adults are leaving: outmigration of college-educated and working-age adults is a sign of economic stagnation, and any representative who ignores this demographic fact is governing a slowly shrinking constituency rather than building durable political support.",
-        "Avoid treating a 77% margin as permission to ignore the 23%: in a district with this income, age profile, and educational attainment, economic shocks are politically consequential, and a challenger offering credible economic solutions could shift this margin meaningfully if the incumbent appears disconnected from working-class material concerns."
-      ]
-    }
+        subtitle: "West Virginia House District 65",
+        chips: [],
+        stats: [
+          { label: "Median Household Income", value: "$51,129", sub: "" },
+          { label: "College-Educated Adults", value: "18.9%", sub: "" },
+          { label: "Median Age", value: "40.7", sub: "" },
+          { label: "Renter Rate", value: "22.4%", sub: "" }
+        ],
+        dem: 23, rep: 77,
+        partisanSub: "Martin won with 77% in 2024.",
+        demos: [
+          { label: "White", pct: 90.94, color: "#4e9e68" },
+          { label: "Black / African American", pct: 1.96, color: "#2563eb" },
+          { label: "Hispanic / Latino", pct: 1.9, color: "#f59e0b" },
+          { label: "Asian", pct: 0.39, color: "#ef4444" }
+        ],
+        issues: [
+          { name: "Economic revitalization and job creation", tag: "lean-into", why: "Median household income of $51,129 sits well below national averages, signaling genuine economic stress. With 18.9% college attainment, the workforce is concentrated in lower-skill sectors vulnerable to automation and outsourcing. A candidate winning here must articulate concrete, local job-creation strategies tied to industries that employ non-college workers—manufacturing, energy transition, infrastructure—and demonstrate understanding of the structural barriers to wage growth in this economy." },
+          { name: "Healthcare access and cost control", tag: "lean-into", why: "A median age of 40.7 and lower-income baseline ($51,129) point to a constituency acutely vulnerable to healthcare cost shocks and likely dependent on public programs. The demographic profile suggests aging-in-place in rural or semi-rural areas where provider shortages are common. Messaging on prescription drug costs, rural clinic access, and protecting existing coverage resonates as a pocketbook issue, not ideology." },
+          { name: "Fiscal conservatism and government spending priorities", tag: "careful", why: "The 77% Republican victory margin indicates strong ideological alignment with fiscal restraint messaging, yet median income of $51,129 means many households depend on public services, benefits, or infrastructure spending. A candidate must thread this needle: acknowledge taxpayer concerns about waste while avoiding blanket anti-government rhetoric that could alienate voters reliant on Social Security, Medicare, disability, or road/water infrastructure funded publicly. Specificity about *which* programs or spending warrant cuts matters more than sweeping reductions." },
+          { name: "Social identity and cultural division messaging", tag: "avoid", why: "The district is 90.94% white with minimal demographic diversity (Black 1.96%, Hispanic 1.9%, Asian 0.39%). Campaigns that hinge on racial or ethnic resentment, immigration fear, or culture-war framing have already won this district to overwhelming margins (77%). Further investment in divisive identity messaging yields minimal marginal gain and risks alienating persuadable voters concerned with material issues like jobs and healthcare, while reinforcing a ceiling that prevents growth." },
+          { name: "College-centric or credentialed-elite framing", tag: "avoid", why: "Only 18.9% of adults hold college degrees, meaning 81.1% do not. Language valorizing higher education, academic expertise, or college as a prerequisite for respectability or success will alienate the dominant constituency. Messaging that positions non-college career paths (trades, manufacturing, energy work) as viable, dignified, and rewarded is far more resonant than frameworks that subtly demean workers without degrees or lean on expert credentials as primary sources of authority." }
+        ],
+        memoHeadline: "A locked-down Republican district where victory margins are already maxed—competitive candidates must compete on material delivery, not ideology.",
+        memoParagraphs: [
+          "WV-HD-65 is a safe Republican seat: the 77% margin in 2024 indicates stable partisan alignment and high incumbent strength. However, that dominance masks underlying economic vulnerability. Median household income of $51,129 and college attainment of only 18.9% reveal a constituency dealing with real material stress—stagnant wages, limited skill-premium opportunities, and likely exposure to healthcare cost volatility. The median age of 40.7 suggests aging-in-place dynamics that correlate with healthcare and Social Security dependency. These are not ideological concerns; they are survival concerns. A winning strategy in this district must translate the Republican brand into tangible economic and healthcare wins, not merely reinforce cultural positioning.",
+          "The demographic homogeneity (90.94% white) and rural/small-town character of the district have allowed the incumbent Republican to coast on identity and cultural messaging. But that strategy has already saturated the market—there is no swing vote to capture by doubling down on culture-war frames. The path to *growing* support (or for a challenger to disrupt the seat) lies in demonstrating superior competence on the issues that keep non-college workers and retirees awake at night: manufacturing job creation, healthcare affordability, infrastructure maintenance, and tax fairness. A Democratic challenger in this environment has virtually no path to victory without first credibly addressing the economic platform. A Republican defending the seat must protect it by proving the party delivers on jobs and healthcare, not by relitigating cultural battles already decisively won."
+        ],
+        memoBullets: [
+          "Lead with job-creation plans tied to local industries and the non-college workforce (manufacturing, energy, infrastructure); avoid abstract economic policy or college-pathway rhetoric that alienates 81% without degrees.",
+          "Ground healthcare messaging in concrete cost relief (drug pricing, rural clinic access, protection of earned benefits like Social Security/Medicare) rather than system-overhaul idealism or credential-driven expert framing.",
+          "Acknowledge fiscal restraint values without proposing broad benefit cuts; instead target specific waste, fraud, or misallocation where local evidence exists—specificity inoculates against perception of attacking vulnerable voters' lifelines.",
+          "Invest campaign resources in direct voter contact and local presence; high incumbent margins suggest persuasion occurs through credibility and material delivery, not media-driven narrative battles or national culture positioning."
+        ]
+      }
   },
   {
     id: "wv-hd-66",
@@ -4049,56 +3957,41 @@ const WV_HOUSE_DISTRICTS = [
     nextElection: "November 2026",
     seatStatus: "Active",
     dashboard: {
-      subtitle: "West Virginia House District 68",
-      chips: [],
-      stats: [
-        { label: "Median Household Income", value: "$49,358", sub: "" },
-        { label: "College-Educated Adults",  value: "12.6%",  sub: "" },
-        { label: "Median Age",               value: "43.8",   sub: "" },
-        { label: "Renter Rate",              value: "19.3%", sub: "" }
-      ],
-      dem: 0, rep: 100,
-      partisanSub: "Phillips won unopposed in 2024.",
-      demos: [
-        { label: "White", pct: 91.75, color: DEMO_COLORS[0] },
-        { label: "Black / African American", pct: 1.42, color: DEMO_COLORS[1] },
-        { label: "Hispanic / Latino", pct: 0.96, color: DEMO_COLORS[2] },
-        { label: "Asian", pct: 0.37, color: DEMO_COLORS[3] }
-      ],
-      issues: [
-        {
-          name: "Cost-of-Living and Fixed-Income Economic Security",
-          tag: "lean-into",
-          why: "At $49,358 median household income with a median age of 43.8 and majority homeownership, WV-HD-68 is a community of older, asset-holding but income-constrained households for whom rising costs in healthcare, property taxes, utilities, and rural service delivery create direct financial pressure. These are not abstract policy concerns but immediate household budget realities that shape daily economic security and electoral behavior. A representative who engages these concerns with concrete legislative proposals — property tax relief, healthcare cost containment, utility regulation, or rural broadband investment — commands the credibility that this constituency demands."
-        },
-        {
-          name: "Rural Healthcare Access and Service Reliability",
-          tag: "lean-into",
-          why: "The 43.8 median age and dispersed rural geography of West Virginia suggest a constituency with significant healthcare utilization and concerns about rural hospital viability, Medicare sustainability, and access to specialist care in economically constrained areas. Rural healthcare is both an immediate constituent need and a reliable policy issue in districts with aging populations and modest incomes — one where legislative action on rural provider support, Medicaid policy, and telemedicine infrastructure has direct material impact. Demonstrating fluency on rural healthcare challenges specific to this district's geography and population is essential to holding the confidence of a vulnerable older constituency."
-        },
-        {
-          name: "Renter Community and Housing Affordability",
-          tag: "careful",
-          why: "The 19.3% renter rate represents approximately 20% of households — a meaningful constituency with distinct economic and policy concerns from the homeowner majority, including housing cost burden, tenant protections, and wage adequacy. At $49,358 median household income, renters in this district likely face significant housing cost burden and economic vulnerability. While not the dominant electoral demographic, the renter community is capable of organizing or withdrawing support if they perceive themselves as invisible or dismissed, and their economic concerns around housing and wage floors deserve specific legislative attention rather than conflation with homeowner interests."
-        },
-        {
-          name: "Treating an Unopposed Victory as Durable Support",
-          tag: "avoid",
-          why: "An unopposed 2024 result should not be interpreted as evidence of unshakeable electoral support or absence of underlying economic anxiety in the district. The absence of a Democratic challenger reflects Democratic resources and strategic choices, not the absence of cost-of-living stress or unmet constituent needs among working-class and older households. Any incumbent who relies on the absence of opposition rather than active constituent service and engagement with material household concerns risks vulnerability if a credible challenger emerges offering concrete economic relief solutions."
-        }
-      ],
-      memoHeadline: "WV-HD-68: Unopposed Republican Incumbent in a Working-Class, Aging District with Latent Economic Anxiety and a Significant Native American Demographic Gap",
-      memoParagraphs: [
-        "WV-HD-68 presents a paradox: Phillips won unopposed in 2024 with a 100% Republican result, yet the district's demographic profile — median household income of $49,358, median age of 43.8, college attainment at 12.6%, and a 19.3% renter rate — describes a financially constrained, older, working-class constituency without strong educational or economic mobility signals. The absence of Democratic opposition masks what the data suggests: this is a community of homeowners and fixed-income households managing modest incomes in a context of rising costs for healthcare, housing, and rural services. The 91.75% white majority and low renter rate indicate a stable, asset-holding base, but at $49,358 median income, those assets do not translate to economic security or comfort. An unopposed victory in such a district should signal to any incumbent that consolidating support requires active engagement with the material concerns driving household budgets — not passive reliance on partisan alignment.",
-        "The demographic gap in WV-HD-68 is analytically significant: the four reported Census categories account for approximately 95% of the population, leaving roughly a 5% gap that, in West Virginia's context, most likely represents American Indian / Alaska Native residents. While smaller than the gaps in southwestern or northeastern Oklahoma tribal districts, a 5% AIAN population in a district of this size represents a real constituency — potentially 1,500-2,000 people — whose civic engagement and material concerns deserve representation beyond generic inclusion in the broader population. More immediately, the district's economic profile suggests that any challenger who can credibly address the cost-of-living anxiety among older homeowners and working-age adults managing healthcare, property tax, and service delivery costs in a rural West Virginia economy will find an opening. Phillips' unopposed status provides a reprieve from immediate electoral pressure, but it should not be mistaken for the absence of underlying economic stress or unmet constituent expectations."
-      ],
-      memoBullets: [
-        "Engage the 43.8-year median age constituency on material economic security: at $49,358 income with significant homeownership, property tax management, healthcare cost control, and rural service reliability are the direct household budget concerns that drive voter behavior — address these with specificity, not abstract conservatism.",
-        "Build active constituent service infrastructure in the 19.3% renter community; renters at this income level face housing cost burden, tenant protections, and wage adequacy concerns that differ sharply from the homeowner majority and are often underserved by representatives focused on property-owner constituencies.",
-        "Identify and engage the ~5% AIAN population with genuine constituent attention; whether through tribal government partnerships (if applicable), cultural event participation, or specific advocacy on Native American healthcare and economic development, this population deserves representation proportional to their presence, not tokenization.",
-        "Recognize that an unopposed 2024 victory is not a signal of durable support but of absent opposition — any credible challenger who campaigns on cost-of-living relief, rural healthcare access, or wage adequacy will find receptive ground in a district this economically constrained; maintain active constituent engagement rather than relying on partisan default."
-      ]
-    }
+        subtitle: "West Virginia House District 68",
+        chips: [],
+        stats: [
+          { label: "Median Household Income", value: "$49,358", sub: "" },
+          { label: "College-Educated Adults", value: "12.6%", sub: "" },
+          { label: "Median Age", value: "43.8", sub: "" },
+          { label: "Renter Rate", value: "19.3%", sub: "" }
+        ],
+        dem: 0, rep: 100,
+        partisanSub: "Phillips won unopposed in 2024.",
+        demos: [
+          { label: "White", pct: 91.75, color: "#4e9e68" },
+          { label: "Black / African American", pct: 1.42, color: "#2563eb" },
+          { label: "Hispanic / Latino", pct: 0.96, color: "#f59e0b" },
+          { label: "Asian", pct: 0.37, color: "#ef4444" }
+        ],
+        issues: [
+          { name: "Economic diversification and job creation", tag: "lean-into", why: "Median household income of $49,358 sits well below national averages, indicating sustained economic pressure. With college-educated adults at only 12.6%, the district relies heavily on non-degree-based employment; messaging must focus on accessible jobs, skills training, and employer recruitment that doesn't require four-year degrees. This is the core material concern driving voter behavior and distinguishes the district's needs from education-focused regions." },
+          { name: "Healthcare access and affordability", tag: "lean-into", why: "A median age of 43.8 signals an aging population with rising healthcare needs and likely fixed or limited incomes. Combined with the $49,358 median household income, healthcare costs consume a larger household budget share here than in higher-income areas. Candidates must address local provider availability, prescription costs, and Medicare/Medicaid adequacy as direct kitchen-table issues." },
+          { name: "Higher education and student debt policy", tag: "careful", why: "The 12.6% college-educated rate indicates limited college attainment, but those who did attend likely carry debt on modest incomes. Broad student debt forgiveness messaging may resonate with affected households but risks appearing disconnected from the 87.4% majority without degrees who prioritize job access over credential-based solutions. Frame education support around workforce training and vocational pathways, not traditional bachelor's degree expansion." },
+          { name: "Immigration and demographic change", tag: "avoid", why: "The district is 91.75% white with Hispanic/Latino population at 0.96% and Black population at 1.42%. Immigration is not a lived local issue and messaging focused on it will read as externally imposed rather than responsive to actual district conditions. Spending capital on this issue diverts from material economic and healthcare concerns that dominate voter priority." },
+          { name: "Rent control and housing affordability for renters", tag: "avoid", why: "The renter rate of 19.3% means 80.7% of the district owns homes, making renters a small minority. Aggressive renter-focused policies may alienate the large homeowning base without delivering meaningful political upside. Housing messaging should prioritize property tax relief and home maintenance support that benefit the homeowner supermajority." }
+        ],
+        memoHeadline: "Aging, non-college workforce earning $49k median income demands economic opportunity messaging; unopposed 2024 win masks latent competitive vulnerability if challenger runs on local jobs and healthcare.",
+        memoParagraphs: [
+          "This district is economically stressed and educationally distinct: $49,358 median household income combined with 12.6% college attainment reveals a workforce dependent on non-degree employment and vulnerable to job loss in industries requiring limited credentials. The median age of 43.8 signals population aging in place, with limited in-migration to offset natural decline. Unopposed victory in 2024 (100% Republican, 0% Democratic) masks a soft strategic foundation—the district did not rotate to the incumbent through persuasion or enthusiasm but through default. Any challenger with credible local economic messaging could activate latent discontent around wage stagnation and limited opportunity.",
+          "The strategic imperative is local material delivery: jobs accessible without four-year degrees, healthcare cost control, and property tax relief for the 80.7% homeowning base. The 91.75% white, non-Hispanic demographic composition means racial resentment is not a primary vote driver; economic anxiety is. Messaging must be concrete—specific employer recruitment efforts, apprenticeship programs, prescription cost caps—rather than ideological. Turnout will be driven by whether voters believe the incumbent (or challenger) has a plan to arrest income stagnation and healthcare cost inflation, not by national culture debates."
+        ],
+        memoBullets: [
+          "Lead on job creation and vocational training in non-degree pathways; the 12.6% college rate and $49k income floor indicate workforce development, not credential expansion, is the bottleneck.",
+          "Make healthcare affordability the second pillar—prescription costs and rural provider access are direct household budget items for an aging population (median age 43.8) on modest incomes.",
+          "Emphasize property tax relief and home maintenance support; 80.7% homeownership means this audience cares little about renter protections and will reward tangible homeowner benefit.",
+          "Avoid abstract or national-level framing; unopposed 2024 win signals lack of deep local political investment—any challenger running on concrete local economic plans poses a material threat."
+        ]
+      }
   },
   {
     id: "wv-hd-69",
@@ -6452,57 +6345,41 @@ const WV_SENATE_DISTRICTS = [
     nextElection: "November 2026",
     seatStatus: "Active",
     dashboard: {
-      subtitle: "West Virginia Senate District 7",
-      chips: [],
-      stats: [
-        { label: "Median Household Income", value: "$51,439", sub: "" },
-        { label: "College-Educated Adults",  value: "13.5%",  sub: "" },
-        { label: "Median Age",               value: "44.0",   sub: "" },
-        { label: "Renter Rate",              value: "24.2%", sub: "" }
-      ],
-      dem: 0, rep: 100,
-      partisanSub: "Stuart won Seat A with 58% in 2022. Phillips won Seat B unopposed in 2024.",
-      demos: [
-        { label: "White", pct: 95.37, color: DEMO_COLORS[0] },
-        { label: "Black / African American", pct: 1.21, color: DEMO_COLORS[1] },
-        { label: "Hispanic / Latino", pct: 0.65, color: DEMO_COLORS[2] },
-        { label: "Asian", pct: 0.22, color: DEMO_COLORS[3] }
-      ],
-      issues: [
-        {
-          name: "Aging Homeowner Economic Security & Healthcare Affordability",
-          tag: "lean-into",
-          why: "At $51,439 median income and 44.0 median age with 75.8% homeownership, SD-7's constituency is older, asset-holding but income-constrained households for whom healthcare costs and property taxes represent direct financial pressure. Rural hospital viability, Medicare sustainability, and property tax fairness are the concrete governance concerns that shape voting behavior in this demographic profile. A representative who demonstrates active legislative work on these material concerns — not abstract ideology — builds the durable constituent relationship that sustains electoral margins in marginal districts."
-        },
-        {
-          name: "Rural Economic Transition & Workforce Development",
-          tag: "lean-into",
-          why: "Rural West Virginia's transition away from coal represents the defining economic challenge for SD-7's households and families seeking employment stability and economic pathways for younger generations. The 13.5% college attainment rate signals limited post-secondary credentials, making workforce training and business development in alternative sectors the critical policy lever for household economic security. A representative who can articulate specific, credible plans for employment and economic opportunity in the transition demonstrates that state government is actively working on the problem that actually shapes constituent daily life."
-        },
-        {
-          name: "American Indian / Alaska Native Community Engagement",
-          tag: "careful",
-          why: "The 3.63% demographic gap in SD-7's Census data represents American Indian / Alaska Native residents whose economic and social needs can become invisible in a district where the dominant narrative is the white homeowner majority. While smaller than in other rural districts, this population deserves specific constituent attention on healthcare access, economic opportunity, and whether state government is delivering for them. In a district where the holding margin is 58%, authentic engagement with all constituencies — not assumption that they will remain politically passive — is a basic electoral discipline."
-        },
-        {
-          name: "Partisan Ideology as a Substitute for Economic Problem-Solving",
-          tag: "avoid",
-          why: "A 58% Republican margin in a state that has trended heavily Republican is not a signal that partisan conservative positioning is sufficient to sustain electoral control in SD-7. The 42% opposition in this deep-red context reflects voters who have evaluated the incumbent's actual delivery on economic security and found it wanting — or who believe an alternative candidate offers more credible solutions to the cost-of-living pressures that dominate household decision-making. A representative who defaults to abstract ideology while rural incomes stagnate and healthcare costs rise will find that margin vulnerable."
-        }
-      ],
-      memoHeadline: "WV-SD-7: A Deep-Red Rural District with Aging, Lower-Income Homeowners and a Silent 3.6% Demographic Gap That Demands Economic Specificity to Hold.",
-      memoParagraphs: [
-        "WV-SD-7 is a heavily Republican rural district where Stuart's 58% 2022 win and Phillips's unopposed 2024 seat B election reflect secure but not overwhelming partisan control. The district's demographic profile — 95.37% white, $51,439 median household income, 44.0 median age, 13.5% college attainment, and 24.2% renter rate — describes a predominantly homeowner, aging community with limited post-secondary credentials and household incomes that are below state and national medians. This is a constituency of older property owners whose economic security depends on stable healthcare costs, manageable property taxes, and the continued viability of whatever employment base remains in rural West Virginia. The 58% margin, while clearly favoring Republicans, is not a landslide in a state that has trended heavily Republican statewide; it suggests that nearly four in ten voters in SD-7 either voted Democratic or did not consolidate fully behind the Republican candidate.",
-        "The most significant strategic reality about SD-7 is the 3.63% demographic gap — the difference between the four reported Census categories (96.37%) and 100%. In rural West Virginia, this gap almost certainly represents American Indian / Alaska Native residents, and while 3.63% is smaller than the tribal population percentages in southwestern Oklahoma districts, it is not negligible in a district where 58% is the holding margin. More immediately, the district's economic profile — $51,439 income, 44.0 median age, 13.5% college attainment — signals a constituency facing real economic pressure: fixed-income households where healthcare costs and property tax burdens are rising faster than household income, and where employment opportunities for younger adults are genuinely limited. A Republican holding this seat has secured it not by accident but by addressing these material concerns with specificity — by demonstrating that state government is actively working to hold down costs and create economic pathways. A challenger who wants to flip this seat will do so by proving that the incumbent has failed to deliver on those economic security promises, or by offering more credible solutions to the cost-of-living pressures that dominate household decision-making in a $51K income community.",
-        "Electoral durability in SD-7 requires active engagement on the economic fundamentals that shape daily life — not abstract conservative ideology, but concrete policy work on the issues that create financial pressure for aging homeowners with modest incomes. Healthcare affordability, rural hospital and clinic viability, property tax management, and the coal-to-economic-transition challenge that has defined rural West Virginia for two decades are the animating concerns of this constituency. A representative who can articulate specific, credible answers to these pressures, and who demonstrates that the state legislature is actively working on them, builds the authentic constituent relationship that sustains electoral margins in marginal districts. Conversely, a representative who defaults to partisan talking points while rural incomes stagnate and healthcare costs rise will find that the 58% margin becomes vulnerable — particularly if a challenger offers a more convincing diagnosis of the economic pressures the district faces and a more credible plan to address them."
-      ],
-      memoBullets: [
-        "Lead with economic security for aging homeowners: the 44.0 median age, 13.5% college attainment, and $51,439 income describe a constituency where healthcare costs, property taxes, and employment stability are the material concerns that drive voting behavior — not partisan loyalty. Demonstrate specific, recent legislative work on these issues.",
-        "Engage the 3.63% demographic gap deliberately: while smaller than other rural districts, American Indian / Alaska Native residents in WV-SD-7 are part of the constituency and deserve specific engagement on economic opportunity, healthcare access, and whether state government is delivering for them — not passive invisibility in the partisan margin.",
-        "Address the coal-to-economic-transition challenge with concrete workforce and business development specifics: rural West Virginia's economic foundation has shifted, and families in this district need to know that state government has a credible plan for employment pathways and economic stability in the transition. Vague conservative positioning on this issue invites challenge from a candidate with a more tangible economic narrative.",
-        "Treat 58% as a holding margin that requires active constituent engagement, not a safe baseline: the 42% opposition in a deep-red state is the most important number in SD-7's electoral math. Understanding specifically whether that opposition concentrates among younger adults frustrated by limited opportunity, aging voters frustrated by healthcare costs, or both — and offering concrete answers — is the difference between consolidating this seat and defending it against a credible challenger."
-      ]
-    }
+        subtitle: "West Virginia Senate District 7",
+        chips: [],
+        stats: [
+          { label: "Median Household Income", value: "$51,439", sub: "" },
+          { label: "College-Educated Adults", value: "13.5%", sub: "" },
+          { label: "Median Age", value: "44.0", sub: "" },
+          { label: "Renter Rate", value: "24.2%", sub: "" }
+        ],
+        dem: 0, rep: 100,
+        partisanSub: "Stuart won Seat A with 58% in 2022. Phillips won Seat B unopposed in 2024.",
+        demos: [
+          { label: "White", pct: 95.37, color: "#4e9e68" },
+          { label: "Black / African American", pct: 1.21, color: "#2563eb" },
+          { label: "Hispanic / Latino", pct: 0.65, color: "#f59e0b" },
+          { label: "Asian", pct: 0.22, color: "#ef4444" }
+        ],
+        issues: [
+          { name: "Economic security and wage growth", tag: "lean-into", why: "Median household income of $51,439 places this district in the lower-middle range, creating a constituency sensitive to cost-of-living pressures and job stability. With a median age of 44, the electorate is concentrated in mid-to-late career years when wage stagnation and benefit security dominate household decisions. Candidates who address concrete pathways to income growth and protection of existing jobs will resonate more powerfully than abstract economic theory." },
+          { name: "Rural infrastructure and local service delivery", tag: "lean-into", why: "A 24.2% renter rate combined with relatively modest household income suggests a population without deep home equity buffers and dependent on accessible local services. The low college attainment (13.5%) correlates with lower geographic mobility, meaning residents are invested in the quality and reliability of institutions where they live. Candidates should emphasize direct responsiveness to potholes, water systems, emergency services, and utility reliability rather than state-level policy abstraction." },
+          { name: "Education access and cost", tag: "careful", why: "With only 13.5% college-educated adults, this district has experienced measurable economic stratification by education level, but also retains skepticism about higher education ROI given local job availability. Messaging must avoid implying that four-year degrees are the only or primary path to dignity and economic stability, as this will alienate the 86.5% without degrees. Reframing education as practical skills training, apprenticeship, and credential programs tied to named local employers will perform better than generic college-promotion rhetoric." },
+          { name: "Identity-based cultural grievance messaging", tag: "avoid", why: "With 95.37% white population and unopposed 2024 Republican performance, this district shows no electoral demand signal for divisive social identity framing. Candidates who lead with culture-war issues risk appearing disconnected from the bread-and-butter concerns (income, services, stability) that actually drive behavior in this constituency. This is a district where trust is earned through demonstrated competence on constituent services, not through cultural positioning." },
+          { name: "Abstract partisan ideology and national talking points", tag: "avoid", why: "The 58% 2022 margin and unopposed 2024 seat suggest a district that is not in partisan play, but rather evaluates candidates on local track record and personal credibility. National partisan rhetoric consumes campaign resources without moving votes in a district where the outcome is already settled in the partisan direction; instead, focus on differentiating within the dominant party through constituent service and named problem-solving." }
+        ],
+        memoHeadline: "A rural, aging, working-class district where economic security and local service reliability trump ideology—competitive only on competence and responsiveness within the dominant party.",
+        memoParagraphs: [
+          "This district is economically modest and demographically stable. A median household income of $51,439, college attainment of just 13.5%, and median age of 44 describe a constituency of established working-age residents with limited financial cushion and low residential mobility. The 24.2% renter rate indicates a significant portion without home equity, amplifying sensitivity to immediate cost pressures. This is not a district cycling through rapid demographic change or generational turnover; it is a place where the same families have lived for decades and expect incremental improvements to the systems they depend on daily.",
+          "Electoral dynamics are settled decisively: the 2022 58% margin and 2024 unopposed Republican victory in Seat B indicate this is not a competitive district in the partisan sense. The real competition—where candidates can actually move votes—is within the dominant party on the basis of perceived competence, constituent responsiveness, and local problem-solving credibility. Candidates must earn trust through named deliverables: fixing a specific road, securing a water line replacement, responding to constituent phone calls, or landing a concrete job-creating investment. Abstract ideology and national partisan talking points are noise to a constituency that has already made its baseline partisan choice and is now evaluating whether the person holding the seat actually works on their behalf."
+        ],
+        memoBullets: [
+          "Lead on economic security: address wage stagnation, job preservation in existing industries, and cost-of-living pressures. Reference specific local employers and name job-growth initiatives tied to districts or regions they recognize.",
+          "Build a constituent-service operation first: unclogged constituent service hotlines and visible responsiveness to local infrastructure complaints generate more electoral return than campaign advertising in a district this settled.",
+          "Avoid culture-war framing entirely: a 95.37% white, economically modest, geographically stable district has no electoral incentive to engage identity-based divisive messaging and will read it as distraction from jobs and services.",
+          "Pitch education and training as practical credentials tied to named employers: 86.5% of the district lacks a college degree and views higher education skeptically; emphasize apprenticeships, certificates, and skills aligned to actual job openings in the region."
+        ]
+      }
   },
   {
     id: "wv-sd-8",

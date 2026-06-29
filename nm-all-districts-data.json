@@ -1,0 +1,3123 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "New Mexico House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68643,
+        "medianAge": 40.3,
+        "totalPopulation": 28265,
+        "collegePct": 23.89,
+        "renterRatePct": 29.13,
+        "race": {
+          "whitePct": 60.92,
+          "nonHispanicWhitePct": 54.21,
+          "blackPct": 0.68,
+          "asianPct": 0.8,
+          "hispanicPct": 21.91
+        }
+      },
+      "election": {
+        "district": 1,
+        "winner": "Montoya",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "New Mexico House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51912,
+        "medianAge": 37.3,
+        "totalPopulation": 27185,
+        "collegePct": 18.22,
+        "renterRatePct": 34.4,
+        "race": {
+          "whitePct": 47.77,
+          "nonHispanicWhitePct": 39.98,
+          "blackPct": 0.7,
+          "asianPct": 0.98,
+          "hispanicPct": 22.42
+        }
+      },
+      "election": {
+        "district": 2,
+        "winner": "Duncan",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "New Mexico House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52814,
+        "medianAge": 38.4,
+        "totalPopulation": 27391,
+        "collegePct": 15.89,
+        "renterRatePct": 21.85,
+        "race": {
+          "whitePct": 63.52,
+          "nonHispanicWhitePct": 53.65,
+          "blackPct": 1.55,
+          "asianPct": 0.43,
+          "hispanicPct": 28.87
+        }
+      },
+      "election": {
+        "district": 3,
+        "winner": "Hall",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "New Mexico House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47468,
+        "medianAge": 34,
+        "totalPopulation": 28778,
+        "collegePct": 11.6,
+        "renterRatePct": 40.19,
+        "race": {
+          "whitePct": 12.87,
+          "nonHispanicWhitePct": 11.34,
+          "blackPct": 0.22,
+          "asianPct": 0.77,
+          "hispanicPct": 12.12
+        }
+      },
+      "election": {
+        "district": 4,
+        "winner": "Hernandez",
+        "party": "D",
+        "pct": 55.7,
+        "opposed": true,
+        "runnerUp": "Lincoln Mark",
+        "runnerUpParty": "R"
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "New Mexico House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 39807,
+        "medianAge": 34.8,
+        "totalPopulation": 28134,
+        "collegePct": 11.71,
+        "renterRatePct": 22.87,
+        "race": {
+          "whitePct": 9.47,
+          "nonHispanicWhitePct": 8.27,
+          "blackPct": 0.28,
+          "asianPct": 0.46,
+          "hispanicPct": 9.01
+        }
+      },
+      "election": {
+        "district": 5,
+        "winner": "Johnson",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "New Mexico House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44576,
+        "medianAge": 40.2,
+        "totalPopulation": 25682,
+        "collegePct": 13.77,
+        "renterRatePct": 23.01,
+        "race": {
+          "whitePct": 23.96,
+          "nonHispanicWhitePct": 15.68,
+          "blackPct": 0.55,
+          "asianPct": 0.71,
+          "hispanicPct": 18.09
+        }
+      },
+      "election": {
+        "district": 6,
+        "winner": "Alcon",
+        "party": "D",
+        "pct": 58.9,
+        "opposed": true,
+        "runnerUp": "Paul L. Spencer",
+        "runnerUpParty": "R"
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "New Mexico House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51875,
+        "medianAge": 36.6,
+        "totalPopulation": 30585,
+        "collegePct": 14.03,
+        "renterRatePct": 18.22,
+        "race": {
+          "whitePct": 50.04,
+          "nonHispanicWhitePct": 23.94,
+          "blackPct": 0.78,
+          "asianPct": 0.41,
+          "hispanicPct": 72.9
+        }
+      },
+      "election": {
+        "district": 7,
+        "winner": "Moya",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "New Mexico House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70260,
+        "medianAge": 38.7,
+        "totalPopulation": 31264,
+        "collegePct": 28.07,
+        "renterRatePct": 19.79,
+        "race": {
+          "whitePct": 61.93,
+          "nonHispanicWhitePct": 36.06,
+          "blackPct": 1.01,
+          "asianPct": 1.23,
+          "hispanicPct": 54.96
+        }
+      },
+      "election": {
+        "district": 8,
+        "winner": "Baca",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "New Mexico House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52938,
+        "medianAge": 32,
+        "totalPopulation": 28179,
+        "collegePct": 15.2,
+        "renterRatePct": 47.15,
+        "race": {
+          "whitePct": 10.83,
+          "nonHispanicWhitePct": 7.97,
+          "blackPct": 0.88,
+          "asianPct": 2.68,
+          "hispanicPct": 19.63
+        }
+      },
+      "election": {
+        "district": 9,
+        "winner": "Lundstrom",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "New Mexico House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59475,
+        "medianAge": 36.3,
+        "totalPopulation": 29208,
+        "collegePct": 19.04,
+        "renterRatePct": 22.74,
+        "race": {
+          "whitePct": 43.86,
+          "nonHispanicWhitePct": 22.44,
+          "blackPct": 1.49,
+          "asianPct": 0.22,
+          "hispanicPct": 72.1
+        }
+      },
+      "election": {
+        "district": 10,
+        "winner": "Romero",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "New Mexico House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51540,
+        "medianAge": 39.4,
+        "totalPopulation": 29607,
+        "collegePct": 41.46,
+        "renterRatePct": 47.71,
+        "race": {
+          "whitePct": 52.67,
+          "nonHispanicWhitePct": 34.55,
+          "blackPct": 3.21,
+          "asianPct": 0.96,
+          "hispanicPct": 54.08
+        }
+      },
+      "election": {
+        "district": 11,
+        "winner": "Martinez",
+        "party": "D",
+        "pct": 74.7,
+        "opposed": true,
+        "runnerUp": "Bart H. Kinney, III",
+        "runnerUpParty": "R"
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "New Mexico House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48097,
+        "medianAge": 37.6,
+        "totalPopulation": 29984,
+        "collegePct": 10.26,
+        "renterRatePct": 25.19,
+        "race": {
+          "whitePct": 37.8,
+          "nonHispanicWhitePct": 10.49,
+          "blackPct": 1.35,
+          "asianPct": 0.11,
+          "hispanicPct": 86.51
+        }
+      },
+      "election": {
+        "district": 12,
+        "winner": "Cruz",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "New Mexico House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63034,
+        "medianAge": 30,
+        "totalPopulation": 31464,
+        "collegePct": 13.22,
+        "renterRatePct": 20.92,
+        "race": {
+          "whitePct": 36,
+          "nonHispanicWhitePct": 10.84,
+          "blackPct": 2.83,
+          "asianPct": 1.48,
+          "hispanicPct": 78.27
+        }
+      },
+      "election": {
+        "district": 13,
+        "winner": "Caballero",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "New Mexico House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49659,
+        "medianAge": 37.9,
+        "totalPopulation": 28325,
+        "collegePct": 25.6,
+        "renterRatePct": 40.82,
+        "race": {
+          "whitePct": 34.64,
+          "nonHispanicWhitePct": 14.77,
+          "blackPct": 3.06,
+          "asianPct": 0.66,
+          "hispanicPct": 75.4
+        }
+      },
+      "election": {
+        "district": 14,
+        "winner": "Garcia",
+        "party": "D",
+        "pct": 71.8,
+        "opposed": true,
+        "runnerUp": "Konnie L. Legried",
+        "runnerUpParty": "R"
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "New Mexico House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65135,
+        "medianAge": 43.4,
+        "totalPopulation": 30470,
+        "collegePct": 39.98,
+        "renterRatePct": 33.46,
+        "race": {
+          "whitePct": 60.5,
+          "nonHispanicWhitePct": 42.38,
+          "blackPct": 2.14,
+          "asianPct": 2.35,
+          "hispanicPct": 47.31
+        }
+      },
+      "election": {
+        "district": 15,
+        "winner": "Hochman-Vigil",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "New Mexico House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66990,
+        "medianAge": 40.8,
+        "totalPopulation": 30039,
+        "collegePct": 30.08,
+        "renterRatePct": 27.87,
+        "race": {
+          "whitePct": 47.25,
+          "nonHispanicWhitePct": 29.03,
+          "blackPct": 3.08,
+          "asianPct": 1.71,
+          "hispanicPct": 59.27
+        }
+      },
+      "election": {
+        "district": 16,
+        "winner": "Valenzuela",
+        "party": "D",
+        "pct": 59.1,
+        "opposed": true,
+        "runnerUp": "Leland Benwood H. Bohannon",
+        "runnerUpParty": "R"
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "New Mexico House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85486,
+        "medianAge": 37.5,
+        "totalPopulation": 31361,
+        "collegePct": 41.86,
+        "renterRatePct": 42.83,
+        "race": {
+          "whitePct": 56.02,
+          "nonHispanicWhitePct": 41.5,
+          "blackPct": 3.47,
+          "asianPct": 3.12,
+          "hispanicPct": 44.8
+        }
+      },
+      "election": {
+        "district": 17,
+        "winner": "Borrego",
+        "party": "D",
+        "pct": 54.1,
+        "opposed": true,
+        "runnerUp": "Joshua Taylor Neal",
+        "runnerUpParty": "R"
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "New Mexico House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52481,
+        "medianAge": 34.8,
+        "totalPopulation": 30073,
+        "collegePct": 56.62,
+        "renterRatePct": 61.31,
+        "race": {
+          "whitePct": 61.16,
+          "nonHispanicWhitePct": 49.53,
+          "blackPct": 3.33,
+          "asianPct": 4.02,
+          "hispanicPct": 33.75
+        }
+      },
+      "election": {
+        "district": 18,
+        "winner": "Anaya",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "New Mexico House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 35300,
+        "medianAge": 37.7,
+        "totalPopulation": 30308,
+        "collegePct": 26.78,
+        "renterRatePct": 66.58,
+        "race": {
+          "whitePct": 45.41,
+          "nonHispanicWhitePct": 28.76,
+          "blackPct": 6.9,
+          "asianPct": 3.2,
+          "hispanicPct": 53.49
+        }
+      },
+      "election": {
+        "district": 19,
+        "winner": "Anyanonu",
+        "party": "D",
+        "pct": 71.8,
+        "opposed": true,
+        "runnerUp": "Leanna K. Derrick",
+        "runnerUpParty": "R"
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "New Mexico House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71807,
+        "medianAge": 42,
+        "totalPopulation": 30591,
+        "collegePct": 44,
+        "renterRatePct": 32.59,
+        "race": {
+          "whitePct": 63.3,
+          "nonHispanicWhitePct": 52.27,
+          "blackPct": 2.75,
+          "asianPct": 5.86,
+          "hispanicPct": 31.6
+        }
+      },
+      "election": {
+        "district": 20,
+        "winner": "Dixon",
+        "party": "D",
+        "pct": 55.9,
+        "opposed": true,
+        "runnerUp": "Tracy Major",
+        "runnerUpParty": "R"
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "New Mexico House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54611,
+        "medianAge": 36.1,
+        "totalPopulation": 31290,
+        "collegePct": 25.3,
+        "renterRatePct": 41.63,
+        "race": {
+          "whitePct": 53.31,
+          "nonHispanicWhitePct": 34.07,
+          "blackPct": 4.89,
+          "asianPct": 4.07,
+          "hispanicPct": 49.7
+        }
+      },
+      "election": {
+        "district": 21,
+        "winner": "Sarinana",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "New Mexico House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82675,
+        "medianAge": 50.7,
+        "totalPopulation": 32052,
+        "collegePct": 36.89,
+        "renterRatePct": 8.14,
+        "race": {
+          "whitePct": 74.67,
+          "nonHispanicWhitePct": 64.55,
+          "blackPct": 1.09,
+          "asianPct": 1.1,
+          "hispanicPct": 29.11
+        }
+      },
+      "election": {
+        "district": 22,
+        "winner": "Lord",
+        "party": "R",
+        "pct": 56.4,
+        "opposed": true,
+        "numOpponents": 2
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "New Mexico House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93792,
+        "medianAge": 42.5,
+        "totalPopulation": 32054,
+        "collegePct": 37.22,
+        "renterRatePct": 16.69,
+        "race": {
+          "whitePct": 66.52,
+          "nonHispanicWhitePct": 47.78,
+          "blackPct": 3.75,
+          "asianPct": 1.56,
+          "hispanicPct": 39.15
+        }
+      },
+      "election": {
+        "district": 23,
+        "winner": "Martinez",
+        "party": "R",
+        "pct": 54.5,
+        "opposed": true,
+        "runnerUp": "Frank James Smith, Jr",
+        "runnerUpParty": "D"
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "New Mexico House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64175,
+        "medianAge": 40.3,
+        "totalPopulation": 30932,
+        "collegePct": 33.71,
+        "renterRatePct": 39.64,
+        "race": {
+          "whitePct": 64.72,
+          "nonHispanicWhitePct": 48.43,
+          "blackPct": 3,
+          "asianPct": 1.25,
+          "hispanicPct": 40.11
+        }
+      },
+      "election": {
+        "district": 24,
+        "winner": "Thomson",
+        "party": "D",
+        "pct": 59.5,
+        "opposed": true,
+        "runnerUp": "David J. Daffron",
+        "runnerUpParty": "R"
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "New Mexico House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61392,
+        "medianAge": 41.4,
+        "totalPopulation": 30269,
+        "collegePct": 38.09,
+        "renterRatePct": 42.79,
+        "race": {
+          "whitePct": 57.81,
+          "nonHispanicWhitePct": 43.67,
+          "blackPct": 3.8,
+          "asianPct": 2.94,
+          "hispanicPct": 38.01
+        }
+      },
+      "election": {
+        "district": 25,
+        "winner": "Parajon",
+        "party": "D",
+        "pct": 68.8,
+        "opposed": true,
+        "runnerUp": "Denis Litvinenko",
+        "runnerUpParty": "R"
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "New Mexico House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65739,
+        "medianAge": 32.6,
+        "totalPopulation": 32492,
+        "collegePct": 22.25,
+        "renterRatePct": 28.05,
+        "race": {
+          "whitePct": 41.65,
+          "nonHispanicWhitePct": 14.68,
+          "blackPct": 2.96,
+          "asianPct": 2.48,
+          "hispanicPct": 74.98
+        }
+      },
+      "election": {
+        "district": 26,
+        "winner": "Chavez",
+        "party": "D",
+        "pct": 58.2,
+        "opposed": true,
+        "runnerUp": "Patrick B. Sais",
+        "runnerUpParty": "R"
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "New Mexico House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71355,
+        "medianAge": 43.8,
+        "totalPopulation": 31022,
+        "collegePct": 50.64,
+        "renterRatePct": 36.24,
+        "race": {
+          "whitePct": 68.55,
+          "nonHispanicWhitePct": 55.08,
+          "blackPct": 2.11,
+          "asianPct": 5.11,
+          "hispanicPct": 32.33
+        }
+      },
+      "election": {
+        "district": 27,
+        "winner": "Matthews",
+        "party": "D",
+        "pct": 53.8,
+        "opposed": true,
+        "runnerUp": "Gregory R. Gallegos",
+        "runnerUpParty": "R"
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "New Mexico House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85625,
+        "medianAge": 45,
+        "totalPopulation": 30639,
+        "collegePct": 49.86,
+        "renterRatePct": 35.79,
+        "race": {
+          "whitePct": 73.16,
+          "nonHispanicWhitePct": 59.03,
+          "blackPct": 2.61,
+          "asianPct": 2.81,
+          "hispanicPct": 28.39
+        }
+      },
+      "election": {
+        "district": 28,
+        "winner": "Herndon",
+        "party": "D",
+        "pct": 55.9,
+        "opposed": true,
+        "runnerUp": "Marcie M. May",
+        "runnerUpParty": "R"
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "New Mexico House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100553,
+        "medianAge": 39.7,
+        "totalPopulation": 31904,
+        "collegePct": 43.3,
+        "renterRatePct": 12.78,
+        "race": {
+          "whitePct": 58.53,
+          "nonHispanicWhitePct": 37.92,
+          "blackPct": 2.47,
+          "asianPct": 2.17,
+          "hispanicPct": 51.44
+        }
+      },
+      "election": {
+        "district": 29,
+        "winner": "Garratt",
+        "party": "D",
+        "pct": 54.1,
+        "opposed": true,
+        "runnerUp": "Gregory G. Cunningham",
+        "runnerUpParty": "R"
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "New Mexico House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59492,
+        "medianAge": 40.9,
+        "totalPopulation": 30814,
+        "collegePct": 46.76,
+        "renterRatePct": 48.48,
+        "race": {
+          "whitePct": 61.43,
+          "nonHispanicWhitePct": 48.88,
+          "blackPct": 3.94,
+          "asianPct": 2.2,
+          "hispanicPct": 34.92
+        }
+      },
+      "election": {
+        "district": 30,
+        "winner": "Torres-Velasquez",
+        "party": "D",
+        "pct": 54.1,
+        "opposed": true,
+        "runnerUp": "Lori Lee Robertson",
+        "runnerUpParty": "R"
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "New Mexico House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 146387,
+        "medianAge": 44.5,
+        "totalPopulation": 31521,
+        "collegePct": 69.87,
+        "renterRatePct": 21.42,
+        "race": {
+          "whitePct": 63.65,
+          "nonHispanicWhitePct": 57.3,
+          "blackPct": 1.09,
+          "asianPct": 13.64,
+          "hispanicPct": 20.48
+        }
+      },
+      "election": {
+        "district": 31,
+        "winner": "Chavez",
+        "party": "R",
+        "pct": 52.3,
+        "opposed": true,
+        "runnerUp": "Vicky G. Estrada-Bustillo",
+        "runnerUpParty": "D"
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "New Mexico House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 38690,
+        "medianAge": 37.3,
+        "totalPopulation": 31296,
+        "collegePct": 14.62,
+        "renterRatePct": 30.29,
+        "race": {
+          "whitePct": 55.98,
+          "nonHispanicWhitePct": 28.38,
+          "blackPct": 1.55,
+          "asianPct": 0.85,
+          "hispanicPct": 67.48
+        }
+      },
+      "election": {
+        "district": 32,
+        "winner": "Jones",
+        "party": "R",
+        "pct": 61.3,
+        "opposed": true,
+        "runnerUp": "Linda S. Alvarez",
+        "runnerUpParty": "D"
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "New Mexico House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 37907,
+        "medianAge": 29.2,
+        "totalPopulation": 34007,
+        "collegePct": 35.46,
+        "renterRatePct": 55.54,
+        "race": {
+          "whitePct": 51.62,
+          "nonHispanicWhitePct": 31.54,
+          "blackPct": 3.03,
+          "asianPct": 1.6,
+          "hispanicPct": 60.05
+        }
+      },
+      "election": {
+        "district": 33,
+        "winner": "Cadena",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "New Mexico House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60240,
+        "medianAge": 35.1,
+        "totalPopulation": 30274,
+        "collegePct": 26.81,
+        "renterRatePct": 19.05,
+        "race": {
+          "whitePct": 37.64,
+          "nonHispanicWhitePct": 9.81,
+          "blackPct": 0.59,
+          "asianPct": 0.18,
+          "hispanicPct": 88.71
+        }
+      },
+      "election": {
+        "district": 34,
+        "winner": "Lara",
+        "party": "D",
+        "pct": 57.7,
+        "opposed": true,
+        "runnerUp": "Larry M. Sedillo",
+        "runnerUpParty": "R"
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "New Mexico House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45840,
+        "medianAge": 32.5,
+        "totalPopulation": 31814,
+        "collegePct": 24.22,
+        "renterRatePct": 41.17,
+        "race": {
+          "whitePct": 49.35,
+          "nonHispanicWhitePct": 24.6,
+          "blackPct": 2.93,
+          "asianPct": 0.47,
+          "hispanicPct": 69.38
+        }
+      },
+      "election": {
+        "district": 35,
+        "winner": "Rubio",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "New Mexico House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65754,
+        "medianAge": 38.2,
+        "totalPopulation": 29670,
+        "collegePct": 31.48,
+        "renterRatePct": 21.83,
+        "race": {
+          "whitePct": 55.65,
+          "nonHispanicWhitePct": 31.5,
+          "blackPct": 1.62,
+          "asianPct": 2.13,
+          "hispanicPct": 62.33
+        }
+      },
+      "election": {
+        "district": 36,
+        "winner": "Small",
+        "party": "D",
+        "pct": 51.9,
+        "opposed": true,
+        "runnerUp": "Kimberly A. Skaggs",
+        "runnerUpParty": "R"
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "New Mexico House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64614,
+        "medianAge": 35,
+        "totalPopulation": 29407,
+        "collegePct": 47.05,
+        "renterRatePct": 43.76,
+        "race": {
+          "whitePct": 60.99,
+          "nonHispanicWhitePct": 41.26,
+          "blackPct": 2.47,
+          "asianPct": 2.16,
+          "hispanicPct": 51.77
+        }
+      },
+      "election": {
+        "district": 37,
+        "winner": "Ferrary",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "New Mexico House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50983,
+        "medianAge": 38.9,
+        "totalPopulation": 29794,
+        "collegePct": 21.46,
+        "renterRatePct": 27.84,
+        "race": {
+          "whitePct": 50.63,
+          "nonHispanicWhitePct": 34.63,
+          "blackPct": 0.18,
+          "asianPct": 1.38,
+          "hispanicPct": 59.15
+        }
+      },
+      "election": {
+        "district": 38,
+        "winner": "Dow",
+        "party": "R",
+        "pct": 51.6,
+        "opposed": true,
+        "runnerUp": "Tara Jaramillo",
+        "runnerUpParty": "D"
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "New Mexico House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46087,
+        "medianAge": 48.8,
+        "totalPopulation": 29070,
+        "collegePct": 28.65,
+        "renterRatePct": 26.23,
+        "race": {
+          "whitePct": 67.83,
+          "nonHispanicWhitePct": 49.03,
+          "blackPct": 0.64,
+          "asianPct": 0.87,
+          "hispanicPct": 46.53
+        }
+      },
+      "election": {
+        "district": 39,
+        "winner": "Terrazas",
+        "party": "R",
+        "pct": 53.5,
+        "opposed": true,
+        "runnerUp": "Gabrielle Begay",
+        "runnerUpParty": "D"
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "New Mexico House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54557,
+        "medianAge": 48.4,
+        "totalPopulation": 28326,
+        "collegePct": 24.35,
+        "renterRatePct": 20.49,
+        "race": {
+          "whitePct": 44.32,
+          "nonHispanicWhitePct": 25.58,
+          "blackPct": 0.76,
+          "asianPct": 0.38,
+          "hispanicPct": 67.41
+        }
+      },
+      "election": {
+        "district": 40,
+        "winner": "Sanchez",
+        "party": "D",
+        "pct": 61,
+        "opposed": true,
+        "runnerUp": "Diego M. Olivas",
+        "runnerUpParty": "R"
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "New Mexico House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54266,
+        "medianAge": 43.2,
+        "totalPopulation": 30767,
+        "collegePct": 24.19,
+        "renterRatePct": 22.65,
+        "race": {
+          "whitePct": 39.23,
+          "nonHispanicWhitePct": 23.13,
+          "blackPct": 0.57,
+          "asianPct": 0.33,
+          "hispanicPct": 65.37
+        }
+      },
+      "election": {
+        "district": 41,
+        "winner": "Herrera",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "New Mexico House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57578,
+        "medianAge": 51.6,
+        "totalPopulation": 30727,
+        "collegePct": 35.75,
+        "renterRatePct": 22.73,
+        "race": {
+          "whitePct": 58.98,
+          "nonHispanicWhitePct": 38.5,
+          "blackPct": 0.34,
+          "asianPct": 0.77,
+          "hispanicPct": 53.07
+        }
+      },
+      "election": {
+        "district": 42,
+        "winner": "Ortez",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "New Mexico House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120736,
+        "medianAge": 41,
+        "totalPopulation": 28802,
+        "collegePct": 54.98,
+        "renterRatePct": 23.06,
+        "race": {
+          "whitePct": 64.56,
+          "nonHispanicWhitePct": 53.29,
+          "blackPct": 0.89,
+          "asianPct": 3.96,
+          "hispanicPct": 35.82
+        }
+      },
+      "election": {
+        "district": 43,
+        "winner": "Chandler",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "New Mexico House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77009,
+        "medianAge": 49.8,
+        "totalPopulation": 31185,
+        "collegePct": 37.84,
+        "renterRatePct": 22.57,
+        "race": {
+          "whitePct": 66.76,
+          "nonHispanicWhitePct": 52.16,
+          "blackPct": 1.64,
+          "asianPct": 1.27,
+          "hispanicPct": 39.55
+        }
+      },
+      "election": {
+        "district": 44,
+        "winner": "Cates",
+        "party": "D",
+        "pct": 52.9,
+        "opposed": true,
+        "runnerUp": "Ali Ennenga",
+        "runnerUpParty": "R"
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "New Mexico House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72458,
+        "medianAge": 40.3,
+        "totalPopulation": 31181,
+        "collegePct": 37.24,
+        "renterRatePct": 31.53,
+        "race": {
+          "whitePct": 58.37,
+          "nonHispanicWhitePct": 34.29,
+          "blackPct": 0.97,
+          "asianPct": 2.02,
+          "hispanicPct": 58.13
+        }
+      },
+      "election": {
+        "district": 45,
+        "winner": "Serrato",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "New Mexico House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76651,
+        "medianAge": 52.2,
+        "totalPopulation": 30646,
+        "collegePct": 43.21,
+        "renterRatePct": 25.12,
+        "race": {
+          "whitePct": 58.51,
+          "nonHispanicWhitePct": 40.86,
+          "blackPct": 0.47,
+          "asianPct": 0.74,
+          "hispanicPct": 48.84
+        }
+      },
+      "election": {
+        "district": 46,
+        "winner": "Romero",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "New Mexico House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97500,
+        "medianAge": 59.3,
+        "totalPopulation": 30625,
+        "collegePct": 64.07,
+        "renterRatePct": 26.18,
+        "race": {
+          "whitePct": 75.8,
+          "nonHispanicWhitePct": 63.61,
+          "blackPct": 0.86,
+          "asianPct": 2.21,
+          "hispanicPct": 28.25
+        }
+      },
+      "election": {
+        "district": 47,
+        "winner": "Szczepanski",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "New Mexico House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48060,
+        "medianAge": 43.2,
+        "totalPopulation": 29279,
+        "collegePct": 35.17,
+        "renterRatePct": 47.5,
+        "race": {
+          "whitePct": 52.68,
+          "nonHispanicWhitePct": 32.95,
+          "blackPct": 2.07,
+          "asianPct": 1.62,
+          "hispanicPct": 59.44
+        }
+      },
+      "election": {
+        "district": 48,
+        "winner": "Lujan",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "New Mexico House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 48198,
+        "medianAge": 52.4,
+        "totalPopulation": 28398,
+        "collegePct": 17.56,
+        "renterRatePct": 14.96,
+        "race": {
+          "whitePct": 65.74,
+          "nonHispanicWhitePct": 47.68,
+          "blackPct": 1.79,
+          "asianPct": 0.48,
+          "hispanicPct": 45.88
+        }
+      },
+      "election": {
+        "district": 49,
+        "winner": "Armstrong",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "New Mexico House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85029,
+        "medianAge": 56.5,
+        "totalPopulation": 29139,
+        "collegePct": 49.01,
+        "renterRatePct": 11.86,
+        "race": {
+          "whitePct": 75.52,
+          "nonHispanicWhitePct": 64.27,
+          "blackPct": 0.56,
+          "asianPct": 0.91,
+          "hispanicPct": 28.61
+        }
+      },
+      "election": {
+        "district": 50,
+        "winner": "Mcqueen",
+        "party": "D",
+        "pct": 61.6,
+        "opposed": true,
+        "runnerUp": "Kenneth Donald Brennan",
+        "runnerUpParty": "R"
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "New Mexico House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 53601,
+        "medianAge": 38.2,
+        "totalPopulation": 31482,
+        "collegePct": 25.87,
+        "renterRatePct": 37.66,
+        "race": {
+          "whitePct": 67.07,
+          "nonHispanicWhitePct": 55.09,
+          "blackPct": 5.71,
+          "asianPct": 2.3,
+          "hispanicPct": 31.49
+        }
+      },
+      "election": {
+        "district": 51,
+        "winner": "Block",
+        "party": "R",
+        "pct": 61.1,
+        "opposed": true,
+        "runnerUp": "Ashlie L. Myers",
+        "runnerUpParty": "D"
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "New Mexico House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54212,
+        "medianAge": 35.5,
+        "totalPopulation": 29701,
+        "collegePct": 27.53,
+        "renterRatePct": 27.72,
+        "race": {
+          "whitePct": 40.6,
+          "nonHispanicWhitePct": 19.68,
+          "blackPct": 0.24,
+          "asianPct": 0.44,
+          "hispanicPct": 78.53
+        }
+      },
+      "election": {
+        "district": 52,
+        "winner": "Gallegos",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "New Mexico House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61172,
+        "medianAge": 33,
+        "totalPopulation": 30774,
+        "collegePct": 25.3,
+        "renterRatePct": 32.76,
+        "race": {
+          "whitePct": 44.23,
+          "nonHispanicWhitePct": 25.7,
+          "blackPct": 1.34,
+          "asianPct": 2.18,
+          "hispanicPct": 67.72
+        }
+      },
+      "election": {
+        "district": 53,
+        "winner": "Silva",
+        "party": "D",
+        "pct": 50.8,
+        "opposed": true,
+        "runnerUp": "Elizabeth Lee Winterrowd",
+        "runnerUpParty": "R"
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "New Mexico House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67742,
+        "medianAge": 31.1,
+        "totalPopulation": 30032,
+        "collegePct": 20.43,
+        "renterRatePct": 36.19,
+        "race": {
+          "whitePct": 67.62,
+          "nonHispanicWhitePct": 48.21,
+          "blackPct": 1.81,
+          "asianPct": 1.27,
+          "hispanicPct": 42.68
+        }
+      },
+      "election": {
+        "district": 54,
+        "winner": "Henry",
+        "party": "R",
+        "pct": 83.2,
+        "opposed": true,
+        "runnerUp": "Christian Scott Ehmling",
+        "runnerUpParty": "L"
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "New Mexico House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84173,
+        "medianAge": 36.4,
+        "totalPopulation": 29961,
+        "collegePct": 21.66,
+        "renterRatePct": 21.82,
+        "race": {
+          "whitePct": 64.08,
+          "nonHispanicWhitePct": 49.24,
+          "blackPct": 1.67,
+          "asianPct": 0.74,
+          "hispanicPct": 45.32
+        }
+      },
+      "election": {
+        "district": 55,
+        "winner": "Brown",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "New Mexico House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52494,
+        "medianAge": 49.6,
+        "totalPopulation": 31812,
+        "collegePct": 27.35,
+        "renterRatePct": 19.44,
+        "race": {
+          "whitePct": 68.2,
+          "nonHispanicWhitePct": 56.88,
+          "blackPct": 0.67,
+          "asianPct": 0.33,
+          "hispanicPct": 27.96
+        }
+      },
+      "election": {
+        "district": 56,
+        "winner": "Vincent",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "New Mexico House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86635,
+        "medianAge": 35.1,
+        "totalPopulation": 32765,
+        "collegePct": 32.38,
+        "renterRatePct": 15.55,
+        "race": {
+          "whitePct": 56.35,
+          "nonHispanicWhitePct": 43.47,
+          "blackPct": 3.16,
+          "asianPct": 1.39,
+          "hispanicPct": 44.26
+        }
+      },
+      "election": {
+        "district": 57,
+        "winner": "Cullen",
+        "party": "R",
+        "pct": 50.4,
+        "opposed": true,
+        "runnerUp": "Michelle Eleanor Sandoval",
+        "runnerUpParty": "D"
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "New Mexico House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 40034,
+        "medianAge": 35.9,
+        "totalPopulation": 28297,
+        "collegePct": 9.2,
+        "renterRatePct": 31.73,
+        "race": {
+          "whitePct": 56.25,
+          "nonHispanicWhitePct": 26.13,
+          "blackPct": 1.38,
+          "asianPct": 0.64,
+          "hispanicPct": 69.48
+        }
+      },
+      "election": {
+        "district": 58,
+        "winner": "Mejia",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "New Mexico House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62302,
+        "medianAge": 38.3,
+        "totalPopulation": 30401,
+        "collegePct": 24.91,
+        "renterRatePct": 30.01,
+        "race": {
+          "whitePct": 67.22,
+          "nonHispanicWhitePct": 42.64,
+          "blackPct": 1.89,
+          "asianPct": 2.2,
+          "hispanicPct": 51.34
+        }
+      },
+      "election": {
+        "district": 59,
+        "winner": "Hembree",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "New Mexico House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83482,
+        "medianAge": 37.1,
+        "totalPopulation": 29565,
+        "collegePct": 33.35,
+        "renterRatePct": 16.27,
+        "race": {
+          "whitePct": 61.29,
+          "nonHispanicWhitePct": 43.62,
+          "blackPct": 2.15,
+          "asianPct": 3.17,
+          "hispanicPct": 44.09
+        }
+      },
+      "election": {
+        "district": 60,
+        "winner": "Hernandez",
+        "party": "R",
+        "pct": 57.2,
+        "opposed": true,
+        "runnerUp": "Luke Nicholas Jungmann",
+        "runnerUpParty": "D"
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "New Mexico House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55398,
+        "medianAge": 30.2,
+        "totalPopulation": 30210,
+        "collegePct": 7.3,
+        "renterRatePct": 40.08,
+        "race": {
+          "whitePct": 44.98,
+          "nonHispanicWhitePct": 18.28,
+          "blackPct": 5.65,
+          "asianPct": 1.17,
+          "hispanicPct": 75.06
+        }
+      },
+      "election": {
+        "district": 61,
+        "winner": "Pettigrew",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "New Mexico House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82106,
+        "medianAge": 32,
+        "totalPopulation": 30262,
+        "collegePct": 21.34,
+        "renterRatePct": 25.78,
+        "race": {
+          "whitePct": 58.59,
+          "nonHispanicWhitePct": 42.62,
+          "blackPct": 3.66,
+          "asianPct": 1.09,
+          "hispanicPct": 49.89
+        }
+      },
+      "election": {
+        "district": 62,
+        "winner": "Cortez",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "New Mexico House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 41868,
+        "medianAge": 32,
+        "totalPopulation": 31439,
+        "collegePct": 10.76,
+        "renterRatePct": 40.77,
+        "race": {
+          "whitePct": 50.83,
+          "nonHispanicWhitePct": 28.87,
+          "blackPct": 3.6,
+          "asianPct": 0.49,
+          "hispanicPct": 63.02
+        }
+      },
+      "election": {
+        "district": 63,
+        "winner": "Zamora",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "New Mexico House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66839,
+        "medianAge": 33.2,
+        "totalPopulation": 30306,
+        "collegePct": 30.92,
+        "renterRatePct": 31.56,
+        "race": {
+          "whitePct": 72.6,
+          "nonHispanicWhitePct": 59.39,
+          "blackPct": 1.91,
+          "asianPct": 1.3,
+          "hispanicPct": 33.06
+        }
+      },
+      "election": {
+        "district": 64,
+        "winner": "Reeb",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "New Mexico House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49146,
+        "medianAge": 38.7,
+        "totalPopulation": 30948,
+        "collegePct": 11.74,
+        "renterRatePct": 21.52,
+        "race": {
+          "whitePct": 15.56,
+          "nonHispanicWhitePct": 8.48,
+          "blackPct": 0.36,
+          "asianPct": 0.56,
+          "hispanicPct": 28.18
+        }
+      },
+      "election": {
+        "district": 65,
+        "winner": "Lente",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "New Mexico House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71834,
+        "medianAge": 37.6,
+        "totalPopulation": 30232,
+        "collegePct": 18.01,
+        "renterRatePct": 25.79,
+        "race": {
+          "whitePct": 60.56,
+          "nonHispanicWhitePct": 39.77,
+          "blackPct": 1.73,
+          "asianPct": 0.2,
+          "hispanicPct": 56.04
+        }
+      },
+      "election": {
+        "district": 66,
+        "winner": "Mason",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "New Mexico House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50632,
+        "medianAge": 39.4,
+        "totalPopulation": 31203,
+        "collegePct": 20,
+        "renterRatePct": 31.42,
+        "race": {
+          "whitePct": 63.15,
+          "nonHispanicWhitePct": 46.98,
+          "blackPct": 4.66,
+          "asianPct": 0.95,
+          "hispanicPct": 43.08
+        }
+      },
+      "election": {
+        "district": 67,
+        "winner": "Chatfield",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "New Mexico House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81714,
+        "medianAge": 36.1,
+        "totalPopulation": 29987,
+        "collegePct": 38.11,
+        "renterRatePct": 21.81,
+        "race": {
+          "whitePct": 58.09,
+          "nonHispanicWhitePct": 37.72,
+          "blackPct": 5.95,
+          "asianPct": 1.28,
+          "hispanicPct": 45.17
+        }
+      },
+      "election": {
+        "district": 68,
+        "winner": "Little",
+        "party": "D",
+        "pct": 52.2,
+        "opposed": true,
+        "runnerUp": "Nathan T. Brooks",
+        "runnerUpParty": "R"
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "New Mexico House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44497,
+        "medianAge": 36.6,
+        "totalPopulation": 30489,
+        "collegePct": 14.82,
+        "renterRatePct": 21.3,
+        "race": {
+          "whitePct": 17.73,
+          "nonHispanicWhitePct": 9.6,
+          "blackPct": 1.47,
+          "asianPct": 0.35,
+          "hispanicPct": 19.21
+        }
+      },
+      "election": {
+        "district": 69,
+        "winner": "Abeyta",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "New Mexico House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45017,
+        "medianAge": 43.4,
+        "totalPopulation": 28613,
+        "collegePct": 24.15,
+        "renterRatePct": 28.87,
+        "race": {
+          "whitePct": 49.56,
+          "nonHispanicWhitePct": 19.21,
+          "blackPct": 1.42,
+          "asianPct": 0.22,
+          "hispanicPct": 72.65
+        }
+      },
+      "election": {
+        "district": 70,
+        "winner": "Gonzales",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "New Mexico Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58710,
+        "medianAge": 36,
+        "totalPopulation": 47091,
+        "collegePct": 19.3,
+        "renterRatePct": 39.43,
+        "race": {
+          "whitePct": 43.31,
+          "nonHispanicWhitePct": 37.56,
+          "blackPct": 0.72,
+          "asianPct": 1,
+          "hispanicPct": 21.27
+        }
+      },
+      "election": {
+        "district": 1,
+        "winner": "Sharer",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "New Mexico Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55475,
+        "medianAge": 39.5,
+        "totalPopulation": 45746,
+        "collegePct": 18.13,
+        "renterRatePct": 21.56,
+        "race": {
+          "whitePct": 62.1,
+          "nonHispanicWhitePct": 52.98,
+          "blackPct": 0.98,
+          "asianPct": 0.52,
+          "hispanicPct": 27.48
+        }
+      },
+      "election": {
+        "district": 2,
+        "winner": "Lanier",
+        "party": "R",
+        "pct": 78.5,
+        "opposed": true,
+        "runnerUp": "Songtree L. Pioche",
+        "runnerUpParty": "D"
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "New Mexico Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46862,
+        "medianAge": 34.2,
+        "totalPopulation": 49512,
+        "collegePct": 13.6,
+        "renterRatePct": 37.26,
+        "race": {
+          "whitePct": 12.59,
+          "nonHispanicWhitePct": 9.99,
+          "blackPct": 0.7,
+          "asianPct": 1.38,
+          "hispanicPct": 15.56
+        }
+      },
+      "election": {
+        "district": 3,
+        "winner": "Pinto",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "New Mexico Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46409,
+        "medianAge": 36.9,
+        "totalPopulation": 44588,
+        "collegePct": 16.29,
+        "renterRatePct": 28.74,
+        "race": {
+          "whitePct": 23.39,
+          "nonHispanicWhitePct": 14.9,
+          "blackPct": 0.46,
+          "asianPct": 1.23,
+          "hispanicPct": 19.13
+        }
+      },
+      "election": {
+        "district": 4,
+        "winner": "Munoz",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "New Mexico Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76429,
+        "medianAge": 40.3,
+        "totalPopulation": 49327,
+        "collegePct": 34.83,
+        "renterRatePct": 27.14,
+        "race": {
+          "whitePct": 42.51,
+          "nonHispanicWhitePct": 29.29,
+          "blackPct": 0.86,
+          "asianPct": 2.1,
+          "hispanicPct": 58.7
+        }
+      },
+      "election": {
+        "district": 5,
+        "winner": "Jaramillo",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "New Mexico Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65042,
+        "medianAge": 48.1,
+        "totalPopulation": 50255,
+        "collegePct": 37.32,
+        "renterRatePct": 19.44,
+        "race": {
+          "whitePct": 55.75,
+          "nonHispanicWhitePct": 38.1,
+          "blackPct": 0.37,
+          "asianPct": 0.68,
+          "hispanicPct": 51.9
+        }
+      },
+      "election": {
+        "district": 6,
+        "winner": "Gonzales",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "New Mexico Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52386,
+        "medianAge": 34.8,
+        "totalPopulation": 50856,
+        "collegePct": 21.61,
+        "renterRatePct": 35.75,
+        "race": {
+          "whitePct": 59.69,
+          "nonHispanicWhitePct": 44.2,
+          "blackPct": 4.74,
+          "asianPct": 1.11,
+          "hispanicPct": 45.82
+        }
+      },
+      "election": {
+        "district": 7,
+        "winner": "Woods",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "New Mexico Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49304,
+        "medianAge": 47.7,
+        "totalPopulation": 49634,
+        "collegePct": 25.55,
+        "renterRatePct": 24.9,
+        "race": {
+          "whitePct": 56.55,
+          "nonHispanicWhitePct": 29.39,
+          "blackPct": 1.18,
+          "asianPct": 0.32,
+          "hispanicPct": 64.4
+        }
+      },
+      "election": {
+        "district": 8,
+        "winner": "Campos",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "New Mexico Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78190,
+        "medianAge": 47.5,
+        "totalPopulation": 52195,
+        "collegePct": 37.8,
+        "renterRatePct": 29.61,
+        "race": {
+          "whitePct": 60.81,
+          "nonHispanicWhitePct": 45.92,
+          "blackPct": 2.53,
+          "asianPct": 0.95,
+          "hispanicPct": 44.07
+        }
+      },
+      "election": {
+        "district": 9,
+        "winner": "Nava",
+        "party": "D",
+        "pct": 55.9,
+        "opposed": true,
+        "runnerUp": "Audrey Trujillo",
+        "runnerUpParty": "R"
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "New Mexico Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83206,
+        "medianAge": 42.5,
+        "totalPopulation": 51409,
+        "collegePct": 43.82,
+        "renterRatePct": 24.49,
+        "race": {
+          "whitePct": 54.4,
+          "nonHispanicWhitePct": 38.93,
+          "blackPct": 3.03,
+          "asianPct": 1.96,
+          "hispanicPct": 49.46
+        }
+      },
+      "election": {
+        "district": 10,
+        "winner": "Duhigg",
+        "party": "D",
+        "pct": 57.6,
+        "opposed": true,
+        "runnerUp": "Rudy B Mora",
+        "runnerUpParty": "R"
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "New Mexico Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58284,
+        "medianAge": 33.5,
+        "totalPopulation": 49684,
+        "collegePct": 11.62,
+        "renterRatePct": 21.72,
+        "race": {
+          "whitePct": 37.33,
+          "nonHispanicWhitePct": 8.8,
+          "blackPct": 2.59,
+          "asianPct": 1.27,
+          "hispanicPct": 84.01
+        }
+      },
+      "election": {
+        "district": 11,
+        "winner": "Lopez",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "New Mexico Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79522,
+        "medianAge": 38.4,
+        "totalPopulation": 52113,
+        "collegePct": 35.15,
+        "renterRatePct": 20.42,
+        "race": {
+          "whitePct": 63.9,
+          "nonHispanicWhitePct": 45.96,
+          "blackPct": 3.81,
+          "asianPct": 1.88,
+          "hispanicPct": 41.24
+        }
+      },
+      "election": {
+        "district": 12,
+        "winner": "Block",
+        "party": "R",
+        "pct": 52.4,
+        "opposed": true,
+        "runnerUp": "Phillip Ramirez",
+        "runnerUpParty": "D"
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "New Mexico Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47296,
+        "medianAge": 40.2,
+        "totalPopulation": 45165,
+        "collegePct": 40.78,
+        "renterRatePct": 50.2,
+        "race": {
+          "whitePct": 57.12,
+          "nonHispanicWhitePct": 37.57,
+          "blackPct": 2.4,
+          "asianPct": 2.5,
+          "hispanicPct": 50.64
+        }
+      },
+      "election": {
+        "district": 13,
+        "winner": "O'Malley",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "New Mexico Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61480,
+        "medianAge": 33.8,
+        "totalPopulation": 48791,
+        "collegePct": 15.59,
+        "renterRatePct": 18.34,
+        "race": {
+          "whitePct": 36.66,
+          "nonHispanicWhitePct": 14.87,
+          "blackPct": 1.5,
+          "asianPct": 0.8,
+          "hispanicPct": 78.01
+        }
+      },
+      "election": {
+        "district": 14,
+        "winner": "Padilla",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "New Mexico Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52932,
+        "medianAge": 39.8,
+        "totalPopulation": 48913,
+        "collegePct": 35.43,
+        "renterRatePct": 53.15,
+        "race": {
+          "whitePct": 54.91,
+          "nonHispanicWhitePct": 41.93,
+          "blackPct": 4.69,
+          "asianPct": 1.92,
+          "hispanicPct": 39.42
+        }
+      },
+      "election": {
+        "district": 15,
+        "winner": "Berghmans",
+        "party": "D",
+        "pct": 60.7,
+        "opposed": true,
+        "runnerUp": "Craig Degenhardt",
+        "runnerUpParty": "R"
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "New Mexico Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63088,
+        "medianAge": 35.1,
+        "totalPopulation": 49325,
+        "collegePct": 54.26,
+        "renterRatePct": 50.41,
+        "race": {
+          "whitePct": 61.2,
+          "nonHispanicWhitePct": 49.08,
+          "blackPct": 3.57,
+          "asianPct": 4.19,
+          "hispanicPct": 34.32
+        }
+      },
+      "election": {
+        "district": 16,
+        "winner": "Lopez",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "New Mexico Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 39596,
+        "medianAge": 36.5,
+        "totalPopulation": 48006,
+        "collegePct": 22.45,
+        "renterRatePct": 57.03,
+        "race": {
+          "whitePct": 46.78,
+          "nonHispanicWhitePct": 28.21,
+          "blackPct": 5.75,
+          "asianPct": 4.03,
+          "hispanicPct": 55.68
+        }
+      },
+      "election": {
+        "district": 17,
+        "winner": "Stewart",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "New Mexico Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67448,
+        "medianAge": 41,
+        "totalPopulation": 52530,
+        "collegePct": 44.48,
+        "renterRatePct": 45.89,
+        "race": {
+          "whitePct": 67.16,
+          "nonHispanicWhitePct": 51.54,
+          "blackPct": 2.63,
+          "asianPct": 2.94,
+          "hispanicPct": 34.75
+        }
+      },
+      "election": {
+        "district": 18,
+        "winner": "Figueroa",
+        "party": "D",
+        "pct": 58,
+        "opposed": true,
+        "runnerUp": "Kurstin S. Johnson",
+        "runnerUpParty": "R"
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "New Mexico Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87446,
+        "medianAge": 50.3,
+        "totalPopulation": 51749,
+        "collegePct": 42.99,
+        "renterRatePct": 9.01,
+        "race": {
+          "whitePct": 72.9,
+          "nonHispanicWhitePct": 63.21,
+          "blackPct": 0.63,
+          "asianPct": 1.77,
+          "hispanicPct": 28.48
+        }
+      },
+      "election": {
+        "district": 19,
+        "winner": "Thornton",
+        "party": "R",
+        "pct": 57,
+        "opposed": true,
+        "runnerUp": "William Burton Scott",
+        "runnerUpParty": "D"
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "New Mexico Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67696,
+        "medianAge": 40.5,
+        "totalPopulation": 52661,
+        "collegePct": 38.74,
+        "renterRatePct": 39.6,
+        "race": {
+          "whitePct": 66,
+          "nonHispanicWhitePct": 51.64,
+          "blackPct": 2.86,
+          "asianPct": 2.45,
+          "hispanicPct": 34.74
+        }
+      },
+      "election": {
+        "district": 20,
+        "winner": "Hickey",
+        "party": "D",
+        "pct": 57.5,
+        "opposed": true,
+        "runnerUp": "Wayne A Yevoli",
+        "runnerUpParty": "R"
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "New Mexico Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118042,
+        "medianAge": 45.6,
+        "totalPopulation": 52194,
+        "collegePct": 59.99,
+        "renterRatePct": 22.12,
+        "race": {
+          "whitePct": 65.52,
+          "nonHispanicWhitePct": 56.26,
+          "blackPct": 1.76,
+          "asianPct": 10.43,
+          "hispanicPct": 26.16
+        }
+      },
+      "election": {
+        "district": 21,
+        "winner": "Tobiassen",
+        "party": "R",
+        "pct": 52.8,
+        "opposed": true,
+        "runnerUp": "Athena Ann Christodoulou",
+        "runnerUpParty": "D"
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "New Mexico Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52741,
+        "medianAge": 38,
+        "totalPopulation": 50650,
+        "collegePct": 15.46,
+        "renterRatePct": 18.7,
+        "race": {
+          "whitePct": 19.04,
+          "nonHispanicWhitePct": 14.44,
+          "blackPct": 0.66,
+          "asianPct": 1.02,
+          "hispanicPct": 19.16
+        }
+      },
+      "election": {
+        "district": 22,
+        "winner": "Shendo",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "New Mexico Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83612,
+        "medianAge": 39.6,
+        "totalPopulation": 50641,
+        "collegePct": 39.63,
+        "renterRatePct": 20.51,
+        "race": {
+          "whitePct": 55.94,
+          "nonHispanicWhitePct": 35.31,
+          "blackPct": 3.07,
+          "asianPct": 2.68,
+          "hispanicPct": 50.52
+        }
+      },
+      "election": {
+        "district": 23,
+        "winner": "Pope",
+        "party": "D",
+        "pct": 53.4,
+        "opposed": true,
+        "runnerUp": "Terry Lynne Aragon",
+        "runnerUpParty": "R"
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "New Mexico Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59030,
+        "medianAge": 39.6,
+        "totalPopulation": 50849,
+        "collegePct": 32.48,
+        "renterRatePct": 38.14,
+        "race": {
+          "whitePct": 52.93,
+          "nonHispanicWhitePct": 29.51,
+          "blackPct": 1.58,
+          "asianPct": 1.76,
+          "hispanicPct": 63.22
+        }
+      },
+      "election": {
+        "district": 24,
+        "winner": "Trujillo",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "New Mexico Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91465,
+        "medianAge": 59.5,
+        "totalPopulation": 52839,
+        "collegePct": 61.54,
+        "renterRatePct": 30.61,
+        "race": {
+          "whitePct": 76.05,
+          "nonHispanicWhitePct": 63.33,
+          "blackPct": 0.86,
+          "asianPct": 1.72,
+          "hispanicPct": 28.25
+        }
+      },
+      "election": {
+        "district": 25,
+        "winner": "Wirth",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "New Mexico Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62035,
+        "medianAge": 37.2,
+        "totalPopulation": 50704,
+        "collegePct": 26.27,
+        "renterRatePct": 28.22,
+        "race": {
+          "whitePct": 43.5,
+          "nonHispanicWhitePct": 19.66,
+          "blackPct": 3.09,
+          "asianPct": 1.29,
+          "hispanicPct": 71.38
+        }
+      },
+      "election": {
+        "district": 26,
+        "winner": "Maestas",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "New Mexico Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60589,
+        "medianAge": 33.4,
+        "totalPopulation": 54254,
+        "collegePct": 23.8,
+        "renterRatePct": 33.34,
+        "race": {
+          "whitePct": 67.28,
+          "nonHispanicWhitePct": 46.76,
+          "blackPct": 1.82,
+          "asianPct": 1.32,
+          "hispanicPct": 46.57
+        }
+      },
+      "election": {
+        "district": 27,
+        "winner": "Boone",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "New Mexico Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42663,
+        "medianAge": 42.7,
+        "totalPopulation": 50661,
+        "collegePct": 22.06,
+        "renterRatePct": 29.53,
+        "race": {
+          "whitePct": 59.9,
+          "nonHispanicWhitePct": 37.17,
+          "blackPct": 1.29,
+          "asianPct": 0.98,
+          "hispanicPct": 58.15
+        }
+      },
+      "election": {
+        "district": 28,
+        "winner": "Ramos",
+        "party": "R",
+        "pct": 55.4,
+        "opposed": true,
+        "runnerUp": "Chris M. Ponce",
+        "runnerUpParty": "D"
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "New Mexico Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55198,
+        "medianAge": 41.4,
+        "totalPopulation": 51668,
+        "collegePct": 20.22,
+        "renterRatePct": 18.36,
+        "race": {
+          "whitePct": 59.2,
+          "nonHispanicWhitePct": 33.96,
+          "blackPct": 0.71,
+          "asianPct": 1.12,
+          "hispanicPct": 59.53
+        }
+      },
+      "election": {
+        "district": 29,
+        "winner": "Sanchez",
+        "party": "R",
+        "pct": 59.3,
+        "opposed": true,
+        "runnerUp": "Tina R. Garcia",
+        "runnerUpParty": "D"
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "New Mexico Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60811,
+        "medianAge": 36.5,
+        "totalPopulation": 50226,
+        "collegePct": 17.52,
+        "renterRatePct": 21.73,
+        "race": {
+          "whitePct": 35.36,
+          "nonHispanicWhitePct": 20.48,
+          "blackPct": 1.64,
+          "asianPct": 0.67,
+          "hispanicPct": 39.13
+        }
+      },
+      "election": {
+        "district": 30,
+        "winner": "Charley",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "New Mexico Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50690,
+        "medianAge": 33,
+        "totalPopulation": 51853,
+        "collegePct": 20.75,
+        "renterRatePct": 25.63,
+        "race": {
+          "whitePct": 33.64,
+          "nonHispanicWhitePct": 8.04,
+          "blackPct": 0.73,
+          "asianPct": 0.32,
+          "hispanicPct": 89.85
+        }
+      },
+      "election": {
+        "district": 31,
+        "winner": "Cervantes",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "New Mexico Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50548,
+        "medianAge": 36.1,
+        "totalPopulation": 48833,
+        "collegePct": 13.7,
+        "renterRatePct": 34.45,
+        "race": {
+          "whitePct": 60.7,
+          "nonHispanicWhitePct": 30.81,
+          "blackPct": 1.2,
+          "asianPct": 0.91,
+          "hispanicPct": 64.19
+        }
+      },
+      "election": {
+        "district": 32,
+        "winner": "Ezzell",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "New Mexico Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 50531,
+        "medianAge": 43.2,
+        "totalPopulation": 50981,
+        "collegePct": 23.66,
+        "renterRatePct": 25.92,
+        "race": {
+          "whitePct": 64.52,
+          "nonHispanicWhitePct": 52.42,
+          "blackPct": 2.8,
+          "asianPct": 0.75,
+          "hispanicPct": 32.47
+        }
+      },
+      "election": {
+        "district": 33,
+        "winner": "Paul",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "New Mexico Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63315,
+        "medianAge": 35.1,
+        "totalPopulation": 53689,
+        "collegePct": 21.98,
+        "renterRatePct": 33.34,
+        "race": {
+          "whitePct": 65.95,
+          "nonHispanicWhitePct": 51.5,
+          "blackPct": 3.29,
+          "asianPct": 1.5,
+          "hispanicPct": 39.89
+        }
+      },
+      "election": {
+        "district": 34,
+        "winner": "Townsend",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "New Mexico Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56364,
+        "medianAge": 43.9,
+        "totalPopulation": 50821,
+        "collegePct": 27.52,
+        "renterRatePct": 21.36,
+        "race": {
+          "whitePct": 63.82,
+          "nonHispanicWhitePct": 45.05,
+          "blackPct": 0.85,
+          "asianPct": 1.29,
+          "hispanicPct": 49.68
+        }
+      },
+      "election": {
+        "district": 35,
+        "winner": "Brantley",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "New Mexico Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 49942,
+        "medianAge": 34.1,
+        "totalPopulation": 49747,
+        "collegePct": 22.77,
+        "renterRatePct": 35.96,
+        "race": {
+          "whitePct": 51.35,
+          "nonHispanicWhitePct": 26.93,
+          "blackPct": 2.32,
+          "asianPct": 0.46,
+          "hispanicPct": 67.55
+        }
+      },
+      "election": {
+        "district": 36,
+        "winner": "Steinborn",
+        "party": "D",
+        "pct": 55.9,
+        "opposed": true,
+        "runnerUp": "David H. Tofsted",
+        "runnerUpParty": "R"
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "New Mexico Senate District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62446,
+        "medianAge": 33.3,
+        "totalPopulation": 52976,
+        "collegePct": 45.19,
+        "renterRatePct": 45.25,
+        "race": {
+          "whitePct": 58.38,
+          "nonHispanicWhitePct": 39.51,
+          "blackPct": 2.2,
+          "asianPct": 2.93,
+          "hispanicPct": 53.08
+        }
+      },
+      "election": {
+        "district": 37,
+        "winner": "Soules",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "New Mexico Senate District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45189,
+        "medianAge": 33.3,
+        "totalPopulation": 49508,
+        "collegePct": 29.94,
+        "renterRatePct": 38.32,
+        "race": {
+          "whitePct": 46.5,
+          "nonHispanicWhitePct": 27.12,
+          "blackPct": 1.52,
+          "asianPct": 0.75,
+          "hispanicPct": 67.47
+        }
+      },
+      "election": {
+        "district": 38,
+        "winner": "Hamblen",
+        "party": "D",
+        "pct": 50.9,
+        "opposed": true,
+        "runnerUp": "Samantha R. Barncastle Salopek",
+        "runnerUpParty": "R"
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "New Mexico Senate District 39",
+      "census": {
+        "censusName": "State Senate District 39 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63950,
+        "medianAge": 44.7,
+        "totalPopulation": 48789,
+        "collegePct": 29.62,
+        "renterRatePct": 16.34,
+        "race": {
+          "whitePct": 56.26,
+          "nonHispanicWhitePct": 36.12,
+          "blackPct": 1.71,
+          "asianPct": 0.74,
+          "hispanicPct": 57.57
+        }
+      },
+      "election": {
+        "district": 39,
+        "winner": "Stefanics",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "New Mexico Senate District 40",
+      "census": {
+        "censusName": "State Senate District 40 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90521,
+        "medianAge": 38.8,
+        "totalPopulation": 53463,
+        "collegePct": 34.3,
+        "renterRatePct": 15.9,
+        "race": {
+          "whitePct": 58.42,
+          "nonHispanicWhitePct": 43.62,
+          "blackPct": 2.86,
+          "asianPct": 1.7,
+          "hispanicPct": 43.43
+        }
+      },
+      "election": {
+        "district": 40,
+        "winner": "Brandt",
+        "party": "R",
+        "pct": 54,
+        "opposed": true,
+        "runnerUp": "Amina N. Everett",
+        "runnerUpParty": "D"
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "New Mexico Senate District 41",
+      "census": {
+        "censusName": "State Senate District 41 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64267,
+        "medianAge": 33.7,
+        "totalPopulation": 50623,
+        "collegePct": 11.11,
+        "renterRatePct": 31.2,
+        "race": {
+          "whitePct": 50.36,
+          "nonHispanicWhitePct": 26.74,
+          "blackPct": 4.09,
+          "asianPct": 0.76,
+          "hispanicPct": 67.7
+        }
+      },
+      "election": {
+        "district": 41,
+        "winner": "Gallegos",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "New Mexico Senate District 42",
+      "census": {
+        "censusName": "State Senate District 42 (2022); New Mexico",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84717,
+        "medianAge": 32.7,
+        "totalPopulation": 49249,
+        "collegePct": 23.21,
+        "renterRatePct": 24.66,
+        "race": {
+          "whitePct": 61.92,
+          "nonHispanicWhitePct": 46.28,
+          "blackPct": 2.43,
+          "asianPct": 1.12,
+          "hispanicPct": 47.07
+        }
+      },
+      "election": {
+        "district": 42,
+        "winner": "Scott",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    }
+  }
+}

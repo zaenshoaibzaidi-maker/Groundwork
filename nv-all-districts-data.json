@@ -1,0 +1,1911 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Nevada Assembly District 1",
+      "census": {
+        "censusName": "Assembly District 1 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95788,
+        "medianAge": 37.2,
+        "totalPopulation": 79513,
+        "collegePct": 26.18,
+        "renterRatePct": 21.71,
+        "race": {
+          "whitePct": 43.23,
+          "nonHispanicWhitePct": 35.8,
+          "blackPct": 19.65,
+          "asianPct": 8.31,
+          "hispanicPct": 28.19
+        }
+      },
+      "election": {
+        "district": 1,
+        "winner": "Monroe-Moreno",
+        "party": "D",
+        "pct": 56.18,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Brinkley",
+          "party": "R"
+        }
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Nevada Assembly District 2",
+      "census": {
+        "censusName": "Assembly District 2 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104120,
+        "medianAge": 43.9,
+        "totalPopulation": 72383,
+        "collegePct": 46.81,
+        "renterRatePct": 37.42,
+        "race": {
+          "whitePct": 60.26,
+          "nonHispanicWhitePct": 56.5,
+          "blackPct": 6.8,
+          "asianPct": 14.85,
+          "hispanicPct": 15.6
+        }
+      },
+      "election": {
+        "district": 2,
+        "winner": "Kasama",
+        "party": "D",
+        "pct": 55.87,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Nelsen",
+          "party": "R"
+        }
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Nevada Assembly District 3",
+      "census": {
+        "censusName": "Assembly District 3 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60213,
+        "medianAge": 37.8,
+        "totalPopulation": 74065,
+        "collegePct": 19.48,
+        "renterRatePct": 47.96,
+        "race": {
+          "whitePct": 44.81,
+          "nonHispanicWhitePct": 33.42,
+          "blackPct": 14.67,
+          "asianPct": 4.94,
+          "hispanicPct": 42.39
+        }
+      },
+      "election": {
+        "district": 3,
+        "winner": "Torres",
+        "party": "D",
+        "pct": 56.03,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Rizza",
+          "party": "R"
+        }
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Nevada Assembly District 4",
+      "census": {
+        "censusName": "Assembly District 4 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92794,
+        "medianAge": 38.8,
+        "totalPopulation": 78488,
+        "collegePct": 28.69,
+        "renterRatePct": 28.41,
+        "race": {
+          "whitePct": 55.28,
+          "nonHispanicWhitePct": 48.12,
+          "blackPct": 14.13,
+          "asianPct": 6.18,
+          "hispanicPct": 22.68
+        }
+      },
+      "election": {
+        "district": 4,
+        "winner": "Cole",
+        "party": "D",
+        "pct": 54.38,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Hampton",
+          "party": "R"
+        }
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Nevada Assembly District 5",
+      "census": {
+        "censusName": "Assembly District 5 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73076,
+        "medianAge": 39.5,
+        "totalPopulation": 74148,
+        "collegePct": 32.62,
+        "renterRatePct": 53.39,
+        "race": {
+          "whitePct": 50.64,
+          "nonHispanicWhitePct": 45.88,
+          "blackPct": 12.57,
+          "asianPct": 14.02,
+          "hispanicPct": 20.85
+        }
+      },
+      "election": {
+        "district": 5,
+        "winner": "Miller",
+        "party": "D",
+        "pct": 50.85,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Quinn",
+          "party": "R"
+        }
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Nevada Assembly District 6",
+      "census": {
+        "censusName": "Assembly District 6 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 43207,
+        "medianAge": 32.4,
+        "totalPopulation": 72510,
+        "collegePct": 7.66,
+        "renterRatePct": 62.36,
+        "race": {
+          "whitePct": 23.7,
+          "nonHispanicWhitePct": 10.68,
+          "blackPct": 23.54,
+          "asianPct": 2.24,
+          "hispanicPct": 58.18
+        }
+      },
+      "election": {
+        "district": 6,
+        "winner": "Jackson",
+        "party": "D",
+        "pct": 69.91,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Oliva",
+          "party": "R"
+        }
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Nevada Assembly District 7",
+      "census": {
+        "censusName": "Assembly District 7 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72924,
+        "medianAge": 33.4,
+        "totalPopulation": 74799,
+        "collegePct": 16.05,
+        "renterRatePct": 39.86,
+        "race": {
+          "whitePct": 33.63,
+          "nonHispanicWhitePct": 22.36,
+          "blackPct": 26.31,
+          "asianPct": 5.42,
+          "hispanicPct": 41.08
+        }
+      },
+      "election": {
+        "district": 7,
+        "winner": "Flanagan",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Nevada Assembly District 8",
+      "census": {
+        "censusName": "Assembly District 8 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91422,
+        "medianAge": 35.1,
+        "totalPopulation": 77992,
+        "collegePct": 34.94,
+        "renterRatePct": 41.09,
+        "race": {
+          "whitePct": 33.67,
+          "nonHispanicWhitePct": 29.81,
+          "blackPct": 14.29,
+          "asianPct": 30.17,
+          "hispanicPct": 17.39
+        }
+      },
+      "election": {
+        "district": 8,
+        "winner": "Nguyen",
+        "party": "D",
+        "pct": 53.58,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Chapman",
+          "party": "R"
+        }
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Nevada Assembly District 9",
+      "census": {
+        "censusName": "Assembly District 9 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96008,
+        "medianAge": 38.2,
+        "totalPopulation": 77904,
+        "collegePct": 38.53,
+        "renterRatePct": 36.32,
+        "race": {
+          "whitePct": 46.32,
+          "nonHispanicWhitePct": 41.7,
+          "blackPct": 11.2,
+          "asianPct": 22.83,
+          "hispanicPct": 16.49
+        }
+      },
+      "election": {
+        "district": 9,
+        "winner": "Yeager",
+        "party": "D",
+        "pct": 51.11,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Neely",
+          "party": "R"
+        }
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Nevada Assembly District 10",
+      "census": {
+        "censusName": "Assembly District 10 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56759,
+        "medianAge": 38.3,
+        "totalPopulation": 73860,
+        "collegePct": 20.53,
+        "renterRatePct": 57.69,
+        "race": {
+          "whitePct": 38.75,
+          "nonHispanicWhitePct": 31.35,
+          "blackPct": 11.6,
+          "asianPct": 8.29,
+          "hispanicPct": 43.53
+        }
+      },
+      "election": {
+        "district": 10,
+        "winner": "Karris",
+        "party": "D",
+        "pct": 64.56,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Moore",
+          "party": "R"
+        }
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Nevada Assembly District 11",
+      "census": {
+        "censusName": "Assembly District 11 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42043,
+        "medianAge": 34.1,
+        "totalPopulation": 70401,
+        "collegePct": 8.7,
+        "renterRatePct": 73.92,
+        "race": {
+          "whitePct": 29.14,
+          "nonHispanicWhitePct": 15.15,
+          "blackPct": 10.94,
+          "asianPct": 3.88,
+          "hispanicPct": 66.68
+        }
+      },
+      "election": {
+        "district": 11,
+        "winner": "Moore",
+        "party": "D",
+        "pct": 69.34,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Lustick",
+          "party": "R"
+        }
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Nevada Assembly District 12",
+      "census": {
+        "censusName": "Assembly District 12 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81800,
+        "medianAge": 38.9,
+        "totalPopulation": 75264,
+        "collegePct": 23.19,
+        "renterRatePct": 27.87,
+        "race": {
+          "whitePct": 42.41,
+          "nonHispanicWhitePct": 31.92,
+          "blackPct": 7.66,
+          "asianPct": 9.61,
+          "hispanicPct": 44.91
+        }
+      },
+      "election": {
+        "district": 12,
+        "winner": "Carter",
+        "party": "D",
+        "pct": 50.44,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Roecker",
+          "party": "R"
+        }
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Nevada Assembly District 13",
+      "census": {
+        "censusName": "Assembly District 13 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100295,
+        "medianAge": 37.8,
+        "totalPopulation": 73511,
+        "collegePct": 34.42,
+        "renterRatePct": 27.26,
+        "race": {
+          "whitePct": 61.31,
+          "nonHispanicWhitePct": 56,
+          "blackPct": 11.31,
+          "asianPct": 6.17,
+          "hispanicPct": 17.95
+        }
+      },
+      "election": {
+        "district": 13,
+        "winner": "Hibbetts",
+        "party": "D",
+        "pct": 55.5,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Andrews",
+          "party": "R"
+        }
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Nevada Assembly District 14",
+      "census": {
+        "censusName": "Assembly District 14 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47497,
+        "medianAge": 34.8,
+        "totalPopulation": 73113,
+        "collegePct": 11.09,
+        "renterRatePct": 54.67,
+        "race": {
+          "whitePct": 32.72,
+          "nonHispanicWhitePct": 21.56,
+          "blackPct": 9.8,
+          "asianPct": 3.77,
+          "hispanicPct": 61.5
+        }
+      },
+      "election": {
+        "district": 14,
+        "winner": "Mosca",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Nevada Assembly District 15",
+      "census": {
+        "censusName": "Assembly District 15 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 42399,
+        "medianAge": 38.4,
+        "totalPopulation": 65790,
+        "collegePct": 21.65,
+        "renterRatePct": 76.35,
+        "race": {
+          "whitePct": 36.54,
+          "nonHispanicWhitePct": 27.48,
+          "blackPct": 17.03,
+          "asianPct": 11.66,
+          "hispanicPct": 37.43
+        }
+      },
+      "election": {
+        "district": 15,
+        "winner": "Watts",
+        "party": "D",
+        "pct": 58.31,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Spence",
+          "party": "R"
+        }
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Nevada Assembly District 16",
+      "census": {
+        "censusName": "Assembly District 16 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59615,
+        "medianAge": 38.3,
+        "totalPopulation": 76650,
+        "collegePct": 24.78,
+        "renterRatePct": 59.26,
+        "race": {
+          "whitePct": 40.68,
+          "nonHispanicWhitePct": 34.85,
+          "blackPct": 15.13,
+          "asianPct": 12.99,
+          "hispanicPct": 29.33
+        }
+      },
+      "election": {
+        "district": 16,
+        "winner": "Gonzalez",
+        "party": "D",
+        "pct": 52.22,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Neville",
+          "party": "R"
+        }
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Nevada Assembly District 17",
+      "census": {
+        "censusName": "Assembly District 17 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80581,
+        "medianAge": 31.1,
+        "totalPopulation": 79362,
+        "collegePct": 19.44,
+        "renterRatePct": 43.35,
+        "race": {
+          "whitePct": 34.6,
+          "nonHispanicWhitePct": 26.11,
+          "blackPct": 26.24,
+          "asianPct": 7.46,
+          "hispanicPct": 33.12
+        }
+      },
+      "election": {
+        "district": 17,
+        "winner": "Hunt",
+        "party": "D",
+        "pct": 64.7,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Olson",
+          "party": "R"
+        }
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Nevada Assembly District 18",
+      "census": {
+        "censusName": "Assembly District 18 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65513,
+        "medianAge": 36.7,
+        "totalPopulation": 69294,
+        "collegePct": 18.33,
+        "renterRatePct": 42.8,
+        "race": {
+          "whitePct": 36.51,
+          "nonHispanicWhitePct": 27.85,
+          "blackPct": 12.64,
+          "asianPct": 9.3,
+          "hispanicPct": 43.65
+        }
+      },
+      "election": {
+        "district": 18,
+        "winner": "Considine",
+        "party": "D",
+        "pct": 59.49,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Brown",
+          "party": "R"
+        }
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Nevada Assembly District 19",
+      "census": {
+        "censusName": "Assembly District 19 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86027,
+        "medianAge": 45.3,
+        "totalPopulation": 75735,
+        "collegePct": 24.11,
+        "renterRatePct": 18.82,
+        "race": {
+          "whitePct": 75.67,
+          "nonHispanicWhitePct": 68.62,
+          "blackPct": 2.16,
+          "asianPct": 3.29,
+          "hispanicPct": 20.14
+        }
+      },
+      "election": {
+        "district": 19,
+        "winner": "Yurek",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Nevada Assembly District 20",
+      "census": {
+        "censusName": "Assembly District 20 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55244,
+        "medianAge": 38.1,
+        "totalPopulation": 74399,
+        "collegePct": 20.36,
+        "renterRatePct": 56.26,
+        "race": {
+          "whitePct": 42.56,
+          "nonHispanicWhitePct": 34.05,
+          "blackPct": 11.97,
+          "asianPct": 7.52,
+          "hispanicPct": 40.56
+        }
+      },
+      "election": {
+        "district": 20,
+        "winner": "Orentlicher",
+        "party": "D",
+        "pct": 58.84,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Vaughan",
+          "party": "R"
+        }
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Nevada Assembly District 21",
+      "census": {
+        "censusName": "Assembly District 21 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85337,
+        "medianAge": 40.4,
+        "totalPopulation": 76302,
+        "collegePct": 36.26,
+        "renterRatePct": 47.05,
+        "race": {
+          "whitePct": 59,
+          "nonHispanicWhitePct": 52.84,
+          "blackPct": 6.04,
+          "asianPct": 12.13,
+          "hispanicPct": 19.94
+        }
+      },
+      "election": {
+        "district": 21,
+        "winner": "Marzola",
+        "party": "D",
+        "pct": 50.73,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Arndt",
+          "party": "R"
+        }
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Nevada Assembly District 22",
+      "census": {
+        "censusName": "Assembly District 22 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84155,
+        "medianAge": 42.8,
+        "totalPopulation": 77767,
+        "collegePct": 34.86,
+        "renterRatePct": 33.98,
+        "race": {
+          "whitePct": 67.68,
+          "nonHispanicWhitePct": 62.3,
+          "blackPct": 4.86,
+          "asianPct": 8.27,
+          "hispanicPct": 18.43
+        }
+      },
+      "election": {
+        "district": 22,
+        "winner": "Hardy",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Nevada Assembly District 23",
+      "census": {
+        "censusName": "Assembly District 23 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90602,
+        "medianAge": 55,
+        "totalPopulation": 75147,
+        "collegePct": 42.41,
+        "renterRatePct": 21.43,
+        "race": {
+          "whitePct": 71.06,
+          "nonHispanicWhitePct": 68.11,
+          "blackPct": 3.12,
+          "asianPct": 10.73,
+          "hispanicPct": 11.25
+        }
+      },
+      "election": {
+        "district": 23,
+        "winner": "Gallant",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Nevada Assembly District 24",
+      "census": {
+        "censusName": "Assembly District 24 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52271,
+        "medianAge": 34.9,
+        "totalPopulation": 71173,
+        "collegePct": 26.44,
+        "renterRatePct": 70.9,
+        "race": {
+          "whitePct": 55,
+          "nonHispanicWhitePct": 49.27,
+          "blackPct": 4.19,
+          "asianPct": 5.95,
+          "hispanicPct": 34.03
+        }
+      },
+      "election": {
+        "district": 24,
+        "winner": "Roth",
+        "party": "R",
+        "pct": 64.33,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Kolesnick",
+          "party": "D"
+        }
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Nevada Assembly District 25",
+      "census": {
+        "censusName": "Assembly District 25 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90926,
+        "medianAge": 41.2,
+        "totalPopulation": 72032,
+        "collegePct": 44.68,
+        "renterRatePct": 41.85,
+        "race": {
+          "whitePct": 70.18,
+          "nonHispanicWhitePct": 65.85,
+          "blackPct": 2.23,
+          "asianPct": 5.95,
+          "hispanicPct": 19.66
+        }
+      },
+      "election": {
+        "district": 25,
+        "winner": "LaRueHatch",
+        "party": "D",
+        "pct": 53.51,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Sande",
+          "party": "R"
+        }
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Nevada Assembly District 26",
+      "census": {
+        "censusName": "Assembly District 26 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 126242,
+        "medianAge": 43.4,
+        "totalPopulation": 74473,
+        "collegePct": 52.26,
+        "renterRatePct": 31.21,
+        "race": {
+          "whitePct": 74.02,
+          "nonHispanicWhitePct": 70.24,
+          "blackPct": 1.66,
+          "asianPct": 8.58,
+          "hispanicPct": 12.51
+        }
+      },
+      "election": {
+        "district": 26,
+        "winner": "DeLong",
+        "party": "R",
+        "pct": 60.69,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Sullivan",
+          "party": "D"
+        }
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Nevada Assembly District 27",
+      "census": {
+        "censusName": "Assembly District 27 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79545,
+        "medianAge": 34,
+        "totalPopulation": 76864,
+        "collegePct": 23.37,
+        "renterRatePct": 40.23,
+        "race": {
+          "whitePct": 61.63,
+          "nonHispanicWhitePct": 53.63,
+          "blackPct": 2.46,
+          "asianPct": 3.66,
+          "hispanicPct": 32.82
+        }
+      },
+      "election": {
+        "district": 27,
+        "winner": "Goulding",
+        "party": "R",
+        "pct": 55.79,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Ortiz",
+          "party": "D"
+        }
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Nevada Assembly District 28",
+      "census": {
+        "censusName": "Assembly District 28 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 47462,
+        "medianAge": 31.1,
+        "totalPopulation": 69278,
+        "collegePct": 7.73,
+        "renterRatePct": 58.93,
+        "race": {
+          "whitePct": 33.85,
+          "nonHispanicWhitePct": 16.86,
+          "blackPct": 12.84,
+          "asianPct": 2.5,
+          "hispanicPct": 64.02
+        }
+      },
+      "election": {
+        "district": 28,
+        "winner": "D'Silva",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Nevada Assembly District 29",
+      "census": {
+        "censusName": "Assembly District 29 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77624,
+        "medianAge": 37.7,
+        "totalPopulation": 75847,
+        "collegePct": 30.84,
+        "renterRatePct": 51.05,
+        "race": {
+          "whitePct": 58.61,
+          "nonHispanicWhitePct": 52.07,
+          "blackPct": 11.34,
+          "asianPct": 8.9,
+          "hispanicPct": 20.76
+        }
+      },
+      "election": {
+        "district": 29,
+        "winner": "Dalia",
+        "party": "D",
+        "pct": 52.15,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Owens",
+          "party": "R"
+        }
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Nevada Assembly District 30",
+      "census": {
+        "censusName": "Assembly District 30 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 69361,
+        "medianAge": 36.5,
+        "totalPopulation": 69451,
+        "collegePct": 18.63,
+        "renterRatePct": 51.59,
+        "race": {
+          "whitePct": 52.88,
+          "nonHispanicWhitePct": 44.48,
+          "blackPct": 2.76,
+          "asianPct": 6.39,
+          "hispanicPct": 40.47
+        }
+      },
+      "election": {
+        "district": 30,
+        "winner": "Anderson",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Nevada Assembly District 31",
+      "census": {
+        "censusName": "Assembly District 31 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107640,
+        "medianAge": 39.3,
+        "totalPopulation": 72744,
+        "collegePct": 33.43,
+        "renterRatePct": 21.81,
+        "race": {
+          "whitePct": 73.86,
+          "nonHispanicWhitePct": 67.67,
+          "blackPct": 1.58,
+          "asianPct": 4.68,
+          "hispanicPct": 20.57
+        }
+      },
+      "election": {
+        "district": 31,
+        "winner": "Dickman",
+        "party": "R",
+        "pct": 62.73,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "MacKie",
+          "party": "D"
+        }
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Nevada Assembly District 32",
+      "census": {
+        "censusName": "Assembly District 32 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86154,
+        "medianAge": 40.5,
+        "totalPopulation": 74222,
+        "collegePct": 23.23,
+        "renterRatePct": 21.71,
+        "race": {
+          "whitePct": 69.84,
+          "nonHispanicWhitePct": 64.18,
+          "blackPct": 2.01,
+          "asianPct": 2.4,
+          "hispanicPct": 22.81
+        }
+      },
+      "election": {
+        "district": 32,
+        "winner": "Hansen",
+        "party": "R",
+        "pct": 70.16,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Thomas",
+          "party": "D"
+        }
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Nevada Assembly District 33",
+      "census": {
+        "censusName": "Assembly District 33 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74699,
+        "medianAge": 38.3,
+        "totalPopulation": 76821,
+        "collegePct": 16.6,
+        "renterRatePct": 27.27,
+        "race": {
+          "whitePct": 72.71,
+          "nonHispanicWhitePct": 66.51,
+          "blackPct": 1.77,
+          "asianPct": 1.31,
+          "hispanicPct": 22.65
+        }
+      },
+      "election": {
+        "district": 33,
+        "winner": "Gurr",
+        "party": "R",
+        "pct": 84.1,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Baber",
+          "party": "D"
+        }
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Nevada Assembly District 34",
+      "census": {
+        "censusName": "Assembly District 34 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71147,
+        "medianAge": 37.6,
+        "totalPopulation": 77456,
+        "collegePct": 26,
+        "renterRatePct": 46.78,
+        "race": {
+          "whitePct": 46.24,
+          "nonHispanicWhitePct": 36.79,
+          "blackPct": 8.91,
+          "asianPct": 7.96,
+          "hispanicPct": 40.91
+        }
+      },
+      "election": {
+        "district": 34,
+        "winner": "Nadeem",
+        "party": "D",
+        "pct": 53.25,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Davis",
+          "party": "R"
+        }
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Nevada Assembly District 35",
+      "census": {
+        "censusName": "Assembly District 35 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106780,
+        "medianAge": 37.7,
+        "totalPopulation": 77807,
+        "collegePct": 39.93,
+        "renterRatePct": 26.42,
+        "race": {
+          "whitePct": 50.55,
+          "nonHispanicWhitePct": 45.66,
+          "blackPct": 8.31,
+          "asianPct": 21.54,
+          "hispanicPct": 16.2
+        }
+      },
+      "election": {
+        "district": 35,
+        "winner": "Edgeworth",
+        "party": "D",
+        "pct": 54.32,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Wahab",
+          "party": "R"
+        }
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Nevada Assembly District 36",
+      "census": {
+        "censusName": "Assembly District 36 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81545,
+        "medianAge": 42.1,
+        "totalPopulation": 84391,
+        "collegePct": 26.51,
+        "renterRatePct": 19.27,
+        "race": {
+          "whitePct": 66.79,
+          "nonHispanicWhitePct": 62.58,
+          "blackPct": 6.19,
+          "asianPct": 6.03,
+          "hispanicPct": 15.94
+        }
+      },
+      "election": {
+        "district": 36,
+        "winner": "Hafen",
+        "party": "R",
+        "pct": 63.63,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Drake",
+          "party": "D"
+        }
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Nevada Assembly District 37",
+      "census": {
+        "censusName": "Assembly District 37 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77747,
+        "medianAge": 47.2,
+        "totalPopulation": 77493,
+        "collegePct": 34.63,
+        "renterRatePct": 30.6,
+        "race": {
+          "whitePct": 61.99,
+          "nonHispanicWhitePct": 55.99,
+          "blackPct": 10.41,
+          "asianPct": 8.14,
+          "hispanicPct": 18.61
+        }
+      },
+      "election": {
+        "district": 37,
+        "winner": "Backus",
+        "party": "D",
+        "pct": 51.31,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Brog",
+          "party": "R"
+        }
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Nevada Assembly District 38",
+      "census": {
+        "censusName": "Assembly District 38 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68755,
+        "medianAge": 41,
+        "totalPopulation": 73611,
+        "collegePct": 16.48,
+        "renterRatePct": 29.53,
+        "race": {
+          "whitePct": 76.96,
+          "nonHispanicWhitePct": 70.91,
+          "blackPct": 2.13,
+          "asianPct": 1.42,
+          "hispanicPct": 16.15
+        }
+      },
+      "election": {
+        "district": 38,
+        "winner": "Koenig",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Nevada Assembly District 39",
+      "census": {
+        "censusName": "Assembly District 39 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86038,
+        "medianAge": 52.4,
+        "totalPopulation": 72283,
+        "collegePct": 28.05,
+        "renterRatePct": 20.42,
+        "race": {
+          "whitePct": 79.68,
+          "nonHispanicWhitePct": 76.01,
+          "blackPct": 0.25,
+          "asianPct": 2.39,
+          "hispanicPct": 15.75
+        }
+      },
+      "election": {
+        "district": 39,
+        "winner": "Gray",
+        "party": "R",
+        "pct": 71.49,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Obermayr",
+          "party": "D"
+        }
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Nevada Assembly District 40",
+      "census": {
+        "censusName": "Assembly District 40 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77114,
+        "medianAge": 44.8,
+        "totalPopulation": 73742,
+        "collegePct": 26.8,
+        "renterRatePct": 30.34,
+        "race": {
+          "whitePct": 74.95,
+          "nonHispanicWhitePct": 67.56,
+          "blackPct": 1.7,
+          "asianPct": 2.63,
+          "hispanicPct": 21.83
+        }
+      },
+      "election": {
+        "district": 40,
+        "winner": "O'Neill",
+        "party": "R",
+        "pct": 61.29,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Ramsey",
+          "party": "D"
+        }
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Nevada Assembly District 41",
+      "census": {
+        "censusName": "Assembly District 41 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83096,
+        "medianAge": 39.6,
+        "totalPopulation": 76546,
+        "collegePct": 31.81,
+        "renterRatePct": 40.8,
+        "race": {
+          "whitePct": 46.68,
+          "nonHispanicWhitePct": 39.45,
+          "blackPct": 8.9,
+          "asianPct": 18.92,
+          "hispanicPct": 23.41
+        }
+      },
+      "election": {
+        "district": 41,
+        "winner": "Jauregui",
+        "party": "D",
+        "pct": 50.36,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Arroyo",
+          "party": "R"
+        }
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Nevada Assembly District 42",
+      "census": {
+        "censusName": "Assembly District 42 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70157,
+        "medianAge": 40.3,
+        "totalPopulation": 76369,
+        "collegePct": 28.82,
+        "renterRatePct": 46.04,
+        "race": {
+          "whitePct": 42.43,
+          "nonHispanicWhitePct": 35.39,
+          "blackPct": 11.26,
+          "asianPct": 19.9,
+          "hispanicPct": 27.99
+        }
+      },
+      "election": {
+        "district": 42,
+        "winner": "Brown-May",
+        "party": "D",
+        "pct": 55.44,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Child",
+          "party": "R"
+        }
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Nevada Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88275,
+        "medianAge": 33.8,
+        "totalPopulation": 158875,
+        "collegePct": 22.96,
+        "renterRatePct": 32.41,
+        "race": {
+          "whitePct": 38.92,
+          "nonHispanicWhitePct": 30.96,
+          "blackPct": 22.94,
+          "asianPct": 7.88,
+          "hispanicPct": 30.65
+        }
+      },
+      "election": {
+        "district": 1,
+        "winner": "Crawford",
+        "party": "D",
+        "pct": 58.97,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Brinkley",
+          "party": "R"
+        }
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Nevada Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 44701,
+        "medianAge": 32.7,
+        "totalPopulation": 139679,
+        "collegePct": 8.24,
+        "renterRatePct": 66.79,
+        "race": {
+          "whitePct": 31.48,
+          "nonHispanicWhitePct": 16,
+          "blackPct": 11.88,
+          "asianPct": 3.2,
+          "hispanicPct": 65.36
+        }
+      },
+      "election": {
+        "district": 2,
+        "winner": "Flores",
+        "party": "D",
+        "pct": 69.93,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Henderson",
+          "party": "R"
+        }
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Nevada Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58833,
+        "medianAge": 38.1,
+        "totalPopulation": 147925,
+        "collegePct": 20.01,
+        "renterRatePct": 52.91,
+        "race": {
+          "whitePct": 41.79,
+          "nonHispanicWhitePct": 32.39,
+          "blackPct": 13.14,
+          "asianPct": 6.61,
+          "hispanicPct": 42.96
+        }
+      },
+      "election": {
+        "district": 3,
+        "winner": "Nguyen",
+        "party": "D",
+        "pct": 54.81,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Howard",
+          "party": "R"
+        }
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Nevada Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57722,
+        "medianAge": 32.9,
+        "totalPopulation": 147309,
+        "collegePct": 12.04,
+        "renterRatePct": 51.01,
+        "race": {
+          "whitePct": 28.75,
+          "nonHispanicWhitePct": 16.61,
+          "blackPct": 24.95,
+          "asianPct": 3.86,
+          "hispanicPct": 49.5
+        }
+      },
+      "election": {
+        "district": 4,
+        "winner": "Neal",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Nevada Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80639,
+        "medianAge": 40,
+        "totalPopulation": 153614,
+        "collegePct": 32.88,
+        "renterRatePct": 42.49,
+        "race": {
+          "whitePct": 63.2,
+          "nonHispanicWhitePct": 57.25,
+          "blackPct": 8.06,
+          "asianPct": 8.58,
+          "hispanicPct": 19.58
+        }
+      },
+      "election": {
+        "district": 5,
+        "winner": "Buck",
+        "party": "R",
+        "pct": 53.46,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Atlas",
+          "party": "D"
+        }
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Nevada Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74686,
+        "medianAge": 41.5,
+        "totalPopulation": 154949,
+        "collegePct": 30.59,
+        "renterRatePct": 37.98,
+        "race": {
+          "whitePct": 54.11,
+          "nonHispanicWhitePct": 46.39,
+          "blackPct": 9.66,
+          "asianPct": 8.05,
+          "hispanicPct": 29.75
+        }
+      },
+      "election": {
+        "district": 6,
+        "winner": "Cannizzaro",
+        "party": "D",
+        "pct": 51.69,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Douglass",
+          "party": "R"
+        }
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Nevada Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60469,
+        "medianAge": 37.5,
+        "totalPopulation": 143693,
+        "collegePct": 19.39,
+        "renterRatePct": 50.04,
+        "race": {
+          "whitePct": 39.64,
+          "nonHispanicWhitePct": 31.06,
+          "blackPct": 12.29,
+          "asianPct": 8.38,
+          "hispanicPct": 42.05
+        }
+      },
+      "election": {
+        "district": 7,
+        "winner": "Lange",
+        "party": "D",
+        "pct": 58.38,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Henderson",
+          "party": "R"
+        }
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Nevada Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85376,
+        "medianAge": 41.8,
+        "totalPopulation": 146531,
+        "collegePct": 39.63,
+        "renterRatePct": 45.42,
+        "race": {
+          "whitePct": 55.39,
+          "nonHispanicWhitePct": 51.13,
+          "blackPct": 9.72,
+          "asianPct": 14.43,
+          "hispanicPct": 18.26
+        }
+      },
+      "election": {
+        "district": 8,
+        "winner": "Loop",
+        "party": "D",
+        "pct": 50.72,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Paulos",
+          "party": "R"
+        }
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Nevada Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80785,
+        "medianAge": 39,
+        "totalPopulation": 154273,
+        "collegePct": 33.6,
+        "renterRatePct": 41.25,
+        "race": {
+          "whitePct": 44.4,
+          "nonHispanicWhitePct": 38.58,
+          "blackPct": 11.23,
+          "asianPct": 21.38,
+          "hispanicPct": 22.18
+        }
+      },
+      "election": {
+        "district": 9,
+        "winner": "Scheible",
+        "party": "D",
+        "pct": 53.45,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Brown",
+          "party": "R"
+        }
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Nevada Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 51083,
+        "medianAge": 38.4,
+        "totalPopulation": 142440,
+        "collegePct": 23.34,
+        "renterRatePct": 67.72,
+        "race": {
+          "whitePct": 38.77,
+          "nonHispanicWhitePct": 31.44,
+          "blackPct": 16.01,
+          "asianPct": 12.38,
+          "hispanicPct": 33.07
+        }
+      },
+      "election": {
+        "district": 10,
+        "winner": "Donate",
+        "party": "D",
+        "pct": 55.54,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Graviet",
+          "party": "R"
+        }
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Nevada Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99106,
+        "medianAge": 36.3,
+        "totalPopulation": 155799,
+        "collegePct": 37.44,
+        "renterRatePct": 33.71,
+        "race": {
+          "whitePct": 42.1,
+          "nonHispanicWhitePct": 37.73,
+          "blackPct": 11.3,
+          "asianPct": 25.86,
+          "hispanicPct": 16.8
+        }
+      },
+      "election": {
+        "district": 11,
+        "winner": "Rogich",
+        "party": "R",
+        "pct": 50.71,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Harris",
+          "party": "D"
+        }
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Nevada Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84216,
+        "medianAge": 40,
+        "totalPopulation": 152848,
+        "collegePct": 34.05,
+        "renterRatePct": 43.97,
+        "race": {
+          "whitePct": 52.83,
+          "nonHispanicWhitePct": 46.13,
+          "blackPct": 7.47,
+          "asianPct": 15.53,
+          "hispanicPct": 21.68
+        }
+      },
+      "election": {
+        "district": 12,
+        "winner": "Pazina",
+        "party": "D",
+        "pct": 52.47,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Arrington",
+          "party": "R"
+        }
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Nevada Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59918,
+        "medianAge": 35.6,
+        "totalPopulation": 140624,
+        "collegePct": 22.56,
+        "renterRatePct": 62.07,
+        "race": {
+          "whitePct": 53.95,
+          "nonHispanicWhitePct": 46.91,
+          "blackPct": 3.49,
+          "asianPct": 6.17,
+          "hispanicPct": 37.21
+        }
+      },
+      "election": {
+        "district": 13,
+        "winner": "Daly",
+        "party": "D",
+        "pct": 61.57,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Buehler",
+          "party": "R"
+        }
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Nevada Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95756,
+        "medianAge": 39.9,
+        "totalPopulation": 146966,
+        "collegePct": 28.28,
+        "renterRatePct": 21.76,
+        "race": {
+          "whitePct": 71.83,
+          "nonHispanicWhitePct": 65.91,
+          "blackPct": 1.8,
+          "asianPct": 3.53,
+          "hispanicPct": 21.7
+        }
+      },
+      "election": {
+        "district": 14,
+        "winner": "Hansen",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Nevada Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83585,
+        "medianAge": 37.5,
+        "totalPopulation": 148896,
+        "collegePct": 34.12,
+        "renterRatePct": 41.09,
+        "race": {
+          "whitePct": 65.76,
+          "nonHispanicWhitePct": 59.54,
+          "blackPct": 2.35,
+          "asianPct": 4.77,
+          "hispanicPct": 26.45
+        }
+      },
+      "election": {
+        "district": 15,
+        "winner": "Taylor",
+        "party": "D",
+        "pct": 54.94,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Ginsburg",
+          "party": "R"
+        }
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Nevada Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97678,
+        "medianAge": 43.9,
+        "totalPopulation": 148215,
+        "collegePct": 39.62,
+        "renterRatePct": 30.78,
+        "race": {
+          "whitePct": 74.48,
+          "nonHispanicWhitePct": 68.91,
+          "blackPct": 1.68,
+          "asianPct": 5.62,
+          "hispanicPct": 17.15
+        }
+      },
+      "election": {
+        "district": 16,
+        "winner": "Krasner",
+        "party": "D",
+        "pct": 60.35,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Sims",
+          "party": "R"
+        }
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Nevada Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77429,
+        "medianAge": 46.2,
+        "totalPopulation": 145894,
+        "collegePct": 22.52,
+        "renterRatePct": 24.85,
+        "race": {
+          "whitePct": 78.31,
+          "nonHispanicWhitePct": 73.43,
+          "blackPct": 1.2,
+          "asianPct": 1.9,
+          "hispanicPct": 15.95
+        }
+      },
+      "election": {
+        "district": 17,
+        "winner": "Titus",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Nevada Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96850,
+        "medianAge": 38.3,
+        "totalPopulation": 151999,
+        "collegePct": 31.47,
+        "renterRatePct": 27.85,
+        "race": {
+          "whitePct": 58.19,
+          "nonHispanicWhitePct": 51.93,
+          "blackPct": 12.77,
+          "asianPct": 6.18,
+          "hispanicPct": 20.39
+        }
+      },
+      "election": {
+        "district": 18,
+        "winner": "Steinbeck",
+        "party": "R",
+        "pct": 56.91,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Bilodeau",
+          "party": "R"
+        }
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Nevada Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77078,
+        "medianAge": 40.4,
+        "totalPopulation": 161212,
+        "collegePct": 21.97,
+        "renterRatePct": 23.2,
+        "race": {
+          "whitePct": 69.61,
+          "nonHispanicWhitePct": 64.45,
+          "blackPct": 4.08,
+          "asianPct": 3.78,
+          "hispanicPct": 19.14
+        }
+      },
+      "election": {
+        "district": 19,
+        "winner": "Ellison",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Nevada Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88204,
+        "medianAge": 49.9,
+        "totalPopulation": 150882,
+        "collegePct": 33.62,
+        "renterRatePct": 20.22,
+        "race": {
+          "whitePct": 73.37,
+          "nonHispanicWhitePct": 68.37,
+          "blackPct": 2.64,
+          "asianPct": 7,
+          "hispanicPct": 15.71
+        }
+      },
+      "election": {
+        "district": 20,
+        "winner": "Stone",
+        "party": "R",
+        "pct": 61.69,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Foutz",
+          "party": "D"
+        }
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Nevada Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Nevada",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63133,
+        "medianAge": 36.5,
+        "totalPopulation": 148377,
+        "collegePct": 17.38,
+        "renterRatePct": 41.57,
+        "race": {
+          "whitePct": 37.64,
+          "nonHispanicWhitePct": 26.82,
+          "blackPct": 8.71,
+          "asianPct": 6.73,
+          "hispanicPct": 53.09
+        }
+      },
+      "election": {
+        "district": 21,
+        "winner": "Ohrenschall",
+        "party": "D",
+        "pct": 55.79,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Larsen",
+          "party": "R"
+        }
+      }
+    }
+  }
+}

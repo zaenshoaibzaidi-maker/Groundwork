@@ -1,0 +1,3723 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "California Assembly District 1",
+      "census": {
+        "censusName": "Assembly District 1 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75131,
+        "medianAge": 45.2,
+        "totalPopulation": 508515,
+        "collegePct": 28.26,
+        "renterRatePct": 29.53,
+        "race": {
+          "whitePct": 81.03,
+          "nonHispanicWhitePct": 76.43,
+          "blackPct": 1.27,
+          "asianPct": 2.5,
+          "hispanicPct": 12.92
+        }
+      },
+      "election": {
+        "districtId": "AD-1",
+        "chamber": "assembly",
+        "winner": "Heather Hadwick",
+        "winnerParty": "REP",
+        "winnerPct": 59.8,
+        "opposed": true,
+        "runnerUp": "Tenessa Audette",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 40.2
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "California Assembly District 2",
+      "census": {
+        "censusName": "Assembly District 2 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80046,
+        "medianAge": 42.7,
+        "totalPopulation": 503195,
+        "collegePct": 32.88,
+        "renterRatePct": 38.1,
+        "race": {
+          "whitePct": 68.92,
+          "nonHispanicWhitePct": 64.13,
+          "blackPct": 1.31,
+          "asianPct": 3.28,
+          "hispanicPct": 22.89
+        }
+      },
+      "election": {
+        "districtId": "AD-2",
+        "chamber": "assembly",
+        "winner": "Chris Rogers",
+        "winnerParty": "DEM",
+        "winnerPct": 65.9,
+        "opposed": true,
+        "runnerUp": "Michael Greer",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 34.1
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "California Assembly District 3",
+      "census": {
+        "censusName": "Assembly District 3 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70518,
+        "medianAge": 36.4,
+        "totalPopulation": 493581,
+        "collegePct": 24.47,
+        "renterRatePct": 38.85,
+        "race": {
+          "whitePct": 65.08,
+          "nonHispanicWhitePct": 57.66,
+          "blackPct": 1.9,
+          "asianPct": 7.52,
+          "hispanicPct": 26.33
+        }
+      },
+      "election": {
+        "districtId": "AD-3",
+        "chamber": "assembly",
+        "winner": "Jamie \"James\" Gallagher",
+        "winnerParty": "REP",
+        "winnerPct": 66.3,
+        "opposed": true,
+        "runnerUp": "Aaron Draper",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 33.7
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "California Assembly District 4",
+      "census": {
+        "censusName": "Assembly District 4 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89342,
+        "medianAge": 38,
+        "totalPopulation": 473710,
+        "collegePct": 36.54,
+        "renterRatePct": 39.5,
+        "race": {
+          "whitePct": 59.12,
+          "nonHispanicWhitePct": 48.73,
+          "blackPct": 2.24,
+          "asianPct": 9.45,
+          "hispanicPct": 33.84
+        }
+      },
+      "election": {
+        "districtId": "AD-4",
+        "chamber": "assembly",
+        "winner": "Cecilia M. Aguiar-Curry",
+        "winnerParty": "DEM",
+        "winnerPct": 66.5,
+        "opposed": true,
+        "runnerUp": "Darren T. Ellis",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 33.5
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "California Assembly District 5",
+      "census": {
+        "censusName": "Assembly District 5 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116153,
+        "medianAge": 43.2,
+        "totalPopulation": 507753,
+        "collegePct": 42.85,
+        "renterRatePct": 24.59,
+        "race": {
+          "whitePct": 73.74,
+          "nonHispanicWhitePct": 68.33,
+          "blackPct": 1.51,
+          "asianPct": 8.73,
+          "hispanicPct": 14.84
+        }
+      },
+      "election": {
+        "districtId": "AD-5",
+        "chamber": "assembly",
+        "winner": "Joe Patterson",
+        "winnerParty": "REP",
+        "winnerPct": 62,
+        "opposed": true,
+        "runnerUp": "Neva Parker",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 38
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "California Assembly District 6",
+      "census": {
+        "censusName": "Assembly District 6 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85356,
+        "medianAge": 36.4,
+        "totalPopulation": 512341,
+        "collegePct": 38.12,
+        "renterRatePct": 49.08,
+        "race": {
+          "whitePct": 49.6,
+          "nonHispanicWhitePct": 43.5,
+          "blackPct": 9.9,
+          "asianPct": 14.05,
+          "hispanicPct": 24.56
+        }
+      },
+      "election": {
+        "districtId": "AD-6",
+        "chamber": "assembly",
+        "winner": "Maggy Krell",
+        "winnerParty": "DEM",
+        "winnerPct": 66.9,
+        "opposed": true,
+        "runnerUp": "Nikki Ellis",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 33.1
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "California Assembly District 7",
+      "census": {
+        "censusName": "Assembly District 7 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90390,
+        "medianAge": 38.2,
+        "totalPopulation": 496790,
+        "collegePct": 33.17,
+        "renterRatePct": 38.25,
+        "race": {
+          "whitePct": 63.14,
+          "nonHispanicWhitePct": 57.73,
+          "blackPct": 6.41,
+          "asianPct": 10.1,
+          "hispanicPct": 19.22
+        }
+      },
+      "election": {
+        "districtId": "AD-7",
+        "chamber": "assembly",
+        "winner": "Josh Hoover",
+        "winnerParty": "REP",
+        "winnerPct": 53.6,
+        "opposed": true,
+        "runnerUp": "Porsche Middleton",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 46.4
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "California Assembly District 8",
+      "census": {
+        "censusName": "Assembly District 8 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89313,
+        "medianAge": 40.1,
+        "totalPopulation": 508381,
+        "collegePct": 34.97,
+        "renterRatePct": 30.18,
+        "race": {
+          "whitePct": 63.19,
+          "nonHispanicWhitePct": 55.85,
+          "blackPct": 2.48,
+          "asianPct": 8.92,
+          "hispanicPct": 27.2
+        }
+      },
+      "election": {
+        "districtId": "AD-8",
+        "chamber": "assembly",
+        "winner": "David J. Tangipa",
+        "winnerParty": "REP",
+        "winnerPct": 53.7,
+        "opposed": true,
+        "runnerUp": "George Radanovich",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 46.3
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "California Assembly District 9",
+      "census": {
+        "censusName": "Assembly District 9 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91911,
+        "medianAge": 37.9,
+        "totalPopulation": 486324,
+        "collegePct": 21.93,
+        "renterRatePct": 29.39,
+        "race": {
+          "whitePct": 53.84,
+          "nonHispanicWhitePct": 44.78,
+          "blackPct": 2.45,
+          "asianPct": 8.71,
+          "hispanicPct": 39.24
+        }
+      },
+      "election": {
+        "districtId": "AD-9",
+        "chamber": "assembly",
+        "winner": "Heath Flora",
+        "winnerParty": "REP",
+        "winnerPct": 70.1,
+        "opposed": true,
+        "runnerUp": "Tami Nobriga",
+        "runnerUpParty": "IND",
+        "runnerUpPct": 29.9
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "California Assembly District 10",
+      "census": {
+        "censusName": "Assembly District 10 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89596,
+        "medianAge": 36.5,
+        "totalPopulation": 518541,
+        "collegePct": 29.01,
+        "renterRatePct": 37.76,
+        "race": {
+          "whitePct": 28.17,
+          "nonHispanicWhitePct": 23.15,
+          "blackPct": 12.9,
+          "asianPct": 29.26,
+          "hispanicPct": 26.53
+        }
+      },
+      "election": {
+        "districtId": "AD-10",
+        "chamber": "assembly",
+        "winner": "Stephanie Nguyen",
+        "winnerParty": "DEM",
+        "winnerPct": 67.6,
+        "opposed": true,
+        "runnerUp": "Vinaya Singh",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 32.4
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "California Assembly District 11",
+      "census": {
+        "censusName": "Assembly District 11 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 103650,
+        "medianAge": 38.9,
+        "totalPopulation": 519716,
+        "collegePct": 27.99,
+        "renterRatePct": 34.79,
+        "race": {
+          "whitePct": 44.26,
+          "nonHispanicWhitePct": 36.15,
+          "blackPct": 12.15,
+          "asianPct": 14.87,
+          "hispanicPct": 29.18
+        }
+      },
+      "election": {
+        "districtId": "AD-11",
+        "chamber": "assembly",
+        "winner": "Lori D Wilson",
+        "winnerParty": "DEM",
+        "winnerPct": 58.8,
+        "opposed": true,
+        "runnerUp": "Dave Ennis",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 41.2
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "California Assembly District 12",
+      "census": {
+        "censusName": "Assembly District 12 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118692,
+        "medianAge": 44.5,
+        "totalPopulation": 480694,
+        "collegePct": 49.7,
+        "renterRatePct": 37.92,
+        "race": {
+          "whitePct": 66.79,
+          "nonHispanicWhitePct": 62.18,
+          "blackPct": 2.13,
+          "asianPct": 5.84,
+          "hispanicPct": 24.35
+        }
+      },
+      "election": {
+        "districtId": "AD-12",
+        "chamber": "assembly",
+        "winner": "Damon Connolly",
+        "winnerParty": "DEM",
+        "winnerPct": 75.7,
+        "opposed": true,
+        "runnerUp": "Andy Podshadley",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 24.3
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "California Assembly District 13",
+      "census": {
+        "censusName": "Assembly District 13 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87436,
+        "medianAge": 34.1,
+        "totalPopulation": 487723,
+        "collegePct": 21.6,
+        "renterRatePct": 42.58,
+        "race": {
+          "whitePct": 29.39,
+          "nonHispanicWhitePct": 20.02,
+          "blackPct": 9.55,
+          "asianPct": 21.74,
+          "hispanicPct": 43.69
+        }
+      },
+      "election": {
+        "districtId": "AD-13",
+        "chamber": "assembly",
+        "winner": "Rhodesia Ransom",
+        "winnerParty": "DEM",
+        "winnerPct": 56.9,
+        "opposed": true,
+        "runnerUp": "Denise Aguilar Mendez",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 43.1
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "California Assembly District 14",
+      "census": {
+        "censusName": "Assembly District 14 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 114035,
+        "medianAge": 38.7,
+        "totalPopulation": 468083,
+        "collegePct": 53.71,
+        "renterRatePct": 43.5,
+        "race": {
+          "whitePct": 39.19,
+          "nonHispanicWhitePct": 35.76,
+          "blackPct": 10.57,
+          "asianPct": 19.6,
+          "hispanicPct": 26.83
+        }
+      },
+      "election": {
+        "districtId": "AD-14",
+        "chamber": "assembly",
+        "winner": "Buffy Wicks",
+        "winnerParty": "DEM",
+        "winnerPct": 68.5,
+        "opposed": true,
+        "runnerUp": "Margot Smith",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 31.5
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "California Assembly District 15",
+      "census": {
+        "censusName": "Assembly District 15 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112384,
+        "medianAge": 38.9,
+        "totalPopulation": 508357,
+        "collegePct": 34.13,
+        "renterRatePct": 33.73,
+        "race": {
+          "whitePct": 42.06,
+          "nonHispanicWhitePct": 36.78,
+          "blackPct": 9.91,
+          "asianPct": 14.51,
+          "hispanicPct": 32.11
+        }
+      },
+      "election": {
+        "districtId": "AD-15",
+        "chamber": "assembly",
+        "winner": "Anamarie Avila Farias",
+        "winnerParty": "DEM",
+        "winnerPct": 64.1,
+        "opposed": true,
+        "runnerUp": "Sonia Ledo",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 35.9
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "California Assembly District 16",
+      "census": {
+        "censusName": "Assembly District 16 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 182748,
+        "medianAge": 42.3,
+        "totalPopulation": 510963,
+        "collegePct": 68.52,
+        "renterRatePct": 28.13,
+        "race": {
+          "whitePct": 53.52,
+          "nonHispanicWhitePct": 50.19,
+          "blackPct": 2.16,
+          "asianPct": 29.5,
+          "hispanicPct": 11.95
+        }
+      },
+      "election": {
+        "districtId": "AD-16",
+        "chamber": "assembly",
+        "winner": "Rebecca Bauer-Kahan",
+        "winnerParty": "DEM",
+        "winnerPct": 64.1,
+        "opposed": true,
+        "runnerUp": "Joseph A. Rubay",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 35.9
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "California Assembly District 17",
+      "census": {
+        "censusName": "Assembly District 17 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 124266,
+        "medianAge": 39.8,
+        "totalPopulation": 488950,
+        "collegePct": 56.35,
+        "renterRatePct": 64.99,
+        "race": {
+          "whitePct": 38.16,
+          "nonHispanicWhitePct": 34.76,
+          "blackPct": 6.9,
+          "asianPct": 32.9,
+          "hispanicPct": 19.07
+        }
+      },
+      "election": {
+        "districtId": "AD-17",
+        "chamber": "assembly",
+        "winner": "Matt Haney",
+        "winnerParty": "DEM",
+        "winnerPct": 84.6,
+        "opposed": true,
+        "runnerUp": "Manuel Noris-Barrera",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 15.4
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "California Assembly District 18",
+      "census": {
+        "censusName": "Assembly District 18 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96983,
+        "medianAge": 37.4,
+        "totalPopulation": 478939,
+        "collegePct": 47.15,
+        "renterRatePct": 60.37,
+        "race": {
+          "whitePct": 29.39,
+          "nonHispanicWhitePct": 26.62,
+          "blackPct": 20.02,
+          "asianPct": 18.54,
+          "hispanicPct": 28.15
+        }
+      },
+      "election": {
+        "districtId": "AD-18",
+        "chamber": "assembly",
+        "winner": "Mia Bonta",
+        "winnerParty": "DEM",
+        "winnerPct": 80.3,
+        "opposed": true,
+        "runnerUp": "Andre Sandford",
+        "runnerUpParty": "IND",
+        "runnerUpPct": 19.7
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "California Assembly District 19",
+      "census": {
+        "censusName": "Assembly District 19 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 150812,
+        "medianAge": 40.2,
+        "totalPopulation": 492586,
+        "collegePct": 58.09,
+        "renterRatePct": 51.49,
+        "race": {
+          "whitePct": 36.45,
+          "nonHispanicWhitePct": 33.46,
+          "blackPct": 2.61,
+          "asianPct": 43.56,
+          "hispanicPct": 14.38
+        }
+      },
+      "election": {
+        "districtId": "AD-19",
+        "chamber": "assembly",
+        "winner": "Catherine Stefani",
+        "winnerParty": "DEM",
+        "winnerPct": 60.5,
+        "opposed": true,
+        "runnerUp": "David E. Lee",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 39.5
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "California Assembly District 20",
+      "census": {
+        "censusName": "Assembly District 20 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118114,
+        "medianAge": 40.1,
+        "totalPopulation": 502256,
+        "collegePct": 37.64,
+        "renterRatePct": 38.93,
+        "race": {
+          "whitePct": 25.73,
+          "nonHispanicWhitePct": 20.45,
+          "blackPct": 8.4,
+          "asianPct": 34.59,
+          "hispanicPct": 30.5
+        }
+      },
+      "election": {
+        "districtId": "AD-20",
+        "chamber": "assembly",
+        "winner": "Liz Ortega",
+        "winnerParty": "DEM",
+        "winnerPct": 72.9,
+        "opposed": true,
+        "runnerUp": "Sangeetha Shanbhogue",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 27.1
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "California Assembly District 21",
+      "census": {
+        "censusName": "Assembly District 21 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 158037,
+        "medianAge": 39.4,
+        "totalPopulation": 479988,
+        "collegePct": 54.79,
+        "renterRatePct": 45.2,
+        "race": {
+          "whitePct": 41.24,
+          "nonHispanicWhitePct": 35.97,
+          "blackPct": 2.23,
+          "asianPct": 26.9,
+          "hispanicPct": 27.99
+        }
+      },
+      "election": {
+        "districtId": "AD-21",
+        "chamber": "assembly",
+        "winner": "Diane Papan",
+        "winnerParty": "DEM",
+        "winnerPct": 73.8,
+        "opposed": true,
+        "runnerUp": "Mark Gilham",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 26.2
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "California Assembly District 22",
+      "census": {
+        "censusName": "Assembly District 22 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76916,
+        "medianAge": 34.5,
+        "totalPopulation": 470510,
+        "collegePct": 18.42,
+        "renterRatePct": 41.24,
+        "race": {
+          "whitePct": 48.58,
+          "nonHispanicWhitePct": 35.9,
+          "blackPct": 3.06,
+          "asianPct": 6.26,
+          "hispanicPct": 50.38
+        }
+      },
+      "election": {
+        "districtId": "AD-22",
+        "chamber": "assembly",
+        "winner": "Juan Alanis",
+        "winnerParty": "REP",
+        "winnerPct": 56.2,
+        "opposed": true,
+        "runnerUp": "Jessica Self",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 43.8
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "California Assembly District 23",
+      "census": {
+        "censusName": "Assembly District 23 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 193144,
+        "medianAge": 40.7,
+        "totalPopulation": 461236,
+        "collegePct": 72.1,
+        "renterRatePct": 39.97,
+        "race": {
+          "whitePct": 49.32,
+          "nonHispanicWhitePct": 46.02,
+          "blackPct": 1.87,
+          "asianPct": 31.98,
+          "hispanicPct": 13.64
+        }
+      },
+      "election": {
+        "districtId": "AD-23",
+        "chamber": "assembly",
+        "winner": "Marc Berman",
+        "winnerParty": "DEM",
+        "winnerPct": 59.8,
+        "opposed": true,
+        "runnerUp": "Lydia Kou",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 40.2
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "California Assembly District 24",
+      "census": {
+        "censusName": "Assembly District 24 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 171087,
+        "medianAge": 38.4,
+        "totalPopulation": 470959,
+        "collegePct": 57.05,
+        "renterRatePct": 37.92,
+        "race": {
+          "whitePct": 17.38,
+          "nonHispanicWhitePct": 14.77,
+          "blackPct": 2.52,
+          "asianPct": 61.83,
+          "hispanicPct": 16.47
+        }
+      },
+      "election": {
+        "districtId": "AD-24",
+        "chamber": "assembly",
+        "winner": "Alex Lee",
+        "winnerParty": "DEM",
+        "winnerPct": 66.1,
+        "opposed": true,
+        "runnerUp": "Bob Brunton",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 33.9
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "California Assembly District 25",
+      "census": {
+        "censusName": "Assembly District 25 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119809,
+        "medianAge": 37.7,
+        "totalPopulation": 481620,
+        "collegePct": 34.66,
+        "renterRatePct": 44.68,
+        "race": {
+          "whitePct": 21.66,
+          "nonHispanicWhitePct": 14.39,
+          "blackPct": 3.23,
+          "asianPct": 37.81,
+          "hispanicPct": 41.33
+        }
+      },
+      "election": {
+        "districtId": "AD-25",
+        "chamber": "assembly",
+        "winner": "Ash Kalra",
+        "winnerParty": "DEM",
+        "winnerPct": 68.4,
+        "opposed": true,
+        "runnerUp": "Ted Stroll",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 31.6
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "California Assembly District 26",
+      "census": {
+        "censusName": "Assembly District 26 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 172504,
+        "medianAge": 35.2,
+        "totalPopulation": 466842,
+        "collegePct": 66.89,
+        "renterRatePct": 58.32,
+        "race": {
+          "whitePct": 30.63,
+          "nonHispanicWhitePct": 27.45,
+          "blackPct": 2.29,
+          "asianPct": 48.19,
+          "hispanicPct": 17.17
+        }
+      },
+      "election": {
+        "districtId": "AD-26",
+        "chamber": "assembly",
+        "winner": "Patrick Ahrens",
+        "winnerParty": "DEM",
+        "winnerPct": 56,
+        "opposed": true,
+        "runnerUp": "Tara Sreekrishnan",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 44
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "California Assembly District 27",
+      "census": {
+        "censusName": "Assembly District 27 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65569,
+        "medianAge": 31.5,
+        "totalPopulation": 526986,
+        "collegePct": 14.38,
+        "renterRatePct": 46.7,
+        "race": {
+          "whitePct": 33.72,
+          "nonHispanicWhitePct": 19.9,
+          "blackPct": 3.67,
+          "asianPct": 6.5,
+          "hispanicPct": 66.85
+        }
+      },
+      "election": {
+        "districtId": "AD-27",
+        "chamber": "assembly",
+        "winner": "Esmeralda Soria",
+        "winnerParty": "DEM",
+        "winnerPct": 53.9,
+        "opposed": true,
+        "runnerUp": "Joanna Garcia Rose",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 46.1
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "California Assembly District 28",
+      "census": {
+        "censusName": "Assembly District 28 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 160371,
+        "medianAge": 40.8,
+        "totalPopulation": 468827,
+        "collegePct": 56.62,
+        "renterRatePct": 32.1,
+        "race": {
+          "whitePct": 57.55,
+          "nonHispanicWhitePct": 51.73,
+          "blackPct": 1.71,
+          "asianPct": 18.8,
+          "hispanicPct": 21.74
+        }
+      },
+      "election": {
+        "districtId": "AD-28",
+        "chamber": "assembly",
+        "winner": "Gail Pellerin",
+        "winnerParty": "DEM",
+        "winnerPct": 66.9,
+        "opposed": true,
+        "runnerUp": "Liz Lawler",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 33.1
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "California Assembly District 29",
+      "census": {
+        "censusName": "Assembly District 29 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95225,
+        "medianAge": 34,
+        "totalPopulation": 496810,
+        "collegePct": 18.55,
+        "renterRatePct": 43.35,
+        "race": {
+          "whitePct": 30.72,
+          "nonHispanicWhitePct": 18.31,
+          "blackPct": 1.64,
+          "asianPct": 4.65,
+          "hispanicPct": 73.25
+        }
+      },
+      "election": {
+        "districtId": "AD-29",
+        "chamber": "assembly",
+        "winner": "Robert Rivas",
+        "winnerParty": "DEM",
+        "winnerPct": 66,
+        "opposed": true,
+        "runnerUp": "J.W. Paine",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 34
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "California Assembly District 30",
+      "census": {
+        "censusName": "Assembly District 30 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97987,
+        "medianAge": 41.2,
+        "totalPopulation": 475439,
+        "collegePct": 43.92,
+        "renterRatePct": 41.94,
+        "race": {
+          "whitePct": 69.46,
+          "nonHispanicWhitePct": 63.44,
+          "blackPct": 1.69,
+          "asianPct": 5.18,
+          "hispanicPct": 23.86
+        }
+      },
+      "election": {
+        "districtId": "AD-30",
+        "chamber": "assembly",
+        "winner": "Dawn Addis",
+        "winnerParty": "DEM",
+        "winnerPct": 62.4,
+        "opposed": true,
+        "runnerUp": "Dalila Epperson",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 37.6
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "California Assembly District 31",
+      "census": {
+        "censusName": "Assembly District 31 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 56248,
+        "medianAge": 31.4,
+        "totalPopulation": 493588,
+        "collegePct": 15.3,
+        "renterRatePct": 51.92,
+        "race": {
+          "whitePct": 34.56,
+          "nonHispanicWhitePct": 16.71,
+          "blackPct": 5.28,
+          "asianPct": 11.47,
+          "hispanicPct": 63.77
+        }
+      },
+      "election": {
+        "districtId": "AD-31",
+        "chamber": "assembly",
+        "winner": "Joaquin Arambula",
+        "winnerParty": "DEM",
+        "winnerPct": 60.2,
+        "opposed": true,
+        "runnerUp": "Solomon Verduzco",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 39.8
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "California Assembly District 32",
+      "census": {
+        "censusName": "Assembly District 32 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86197,
+        "medianAge": 36.4,
+        "totalPopulation": 516529,
+        "collegePct": 27.51,
+        "renterRatePct": 33.09,
+        "race": {
+          "whitePct": 61.11,
+          "nonHispanicWhitePct": 50.36,
+          "blackPct": 2.87,
+          "asianPct": 5.93,
+          "hispanicPct": 35.94
+        }
+      },
+      "election": {
+        "districtId": "AD-32",
+        "chamber": "assembly",
+        "winner": "Vince Fong",
+        "winnerParty": "REP",
+        "winnerPct": 59.1,
+        "opposed": true,
+        "runnerUp": "Ken Weir",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 40.9
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "California Assembly District 33",
+      "census": {
+        "censusName": "Assembly District 33 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64770,
+        "medianAge": 31.2,
+        "totalPopulation": 520542,
+        "collegePct": 12.61,
+        "renterRatePct": 43.69,
+        "race": {
+          "whitePct": 40.41,
+          "nonHispanicWhitePct": 22.44,
+          "blackPct": 2.74,
+          "asianPct": 3.19,
+          "hispanicPct": 69.16
+        }
+      },
+      "election": {
+        "districtId": "AD-33",
+        "chamber": "assembly",
+        "winner": "Alexandra Macedo",
+        "winnerParty": "REP",
+        "winnerPct": 62.9,
+        "opposed": true,
+        "runnerUp": "Xavier Avila",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 37.1
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "California Assembly District 34",
+      "census": {
+        "censusName": "Assembly District 34 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75170,
+        "medianAge": 35.6,
+        "totalPopulation": 521309,
+        "collegePct": 21.75,
+        "renterRatePct": 33.34,
+        "race": {
+          "whitePct": 55.45,
+          "nonHispanicWhitePct": 42.95,
+          "blackPct": 9.32,
+          "asianPct": 4.04,
+          "hispanicPct": 38.08
+        }
+      },
+      "election": {
+        "districtId": "AD-34",
+        "chamber": "assembly",
+        "winner": "Tom Lackey",
+        "winnerParty": "REP",
+        "winnerPct": 62,
+        "opposed": true,
+        "runnerUp": "Ricardo Ortega",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 38
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "California Assembly District 35",
+      "census": {
+        "censusName": "Assembly District 35 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55794,
+        "medianAge": 29.6,
+        "totalPopulation": 494836,
+        "collegePct": 10.41,
+        "renterRatePct": 48.58,
+        "race": {
+          "whitePct": 39.37,
+          "nonHispanicWhitePct": 13.34,
+          "blackPct": 5.5,
+          "asianPct": 4.28,
+          "hispanicPct": 75.24
+        }
+      },
+      "election": {
+        "districtId": "AD-35",
+        "chamber": "assembly",
+        "winner": "Jasmeet Bains",
+        "winnerParty": "DEM",
+        "winnerPct": 57.6,
+        "opposed": true,
+        "runnerUp": "Robert Rosas",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 42.4
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "California Assembly District 36",
+      "census": {
+        "censusName": "Assembly District 36 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66802,
+        "medianAge": 36.1,
+        "totalPopulation": 486764,
+        "collegePct": 17.72,
+        "renterRatePct": 33.65,
+        "race": {
+          "whitePct": 34.66,
+          "nonHispanicWhitePct": 20.38,
+          "blackPct": 4,
+          "asianPct": 3.2,
+          "hispanicPct": 69.67
+        }
+      },
+      "election": {
+        "districtId": "AD-36",
+        "chamber": "assembly",
+        "winner": "Jeff Gonzalez",
+        "winnerParty": "REP",
+        "winnerPct": 51.8,
+        "opposed": true,
+        "runnerUp": "Jose \"Joey\" Acuña Jr.",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 48.2
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "California Assembly District 37",
+      "census": {
+        "censusName": "Assembly District 37 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96988,
+        "medianAge": 35.2,
+        "totalPopulation": 471427,
+        "collegePct": 35.8,
+        "renterRatePct": 45.89,
+        "race": {
+          "whitePct": 54.59,
+          "nonHispanicWhitePct": 42.04,
+          "blackPct": 1.66,
+          "asianPct": 5.24,
+          "hispanicPct": 47.11
+        }
+      },
+      "election": {
+        "districtId": "AD-37",
+        "chamber": "assembly",
+        "winner": "Gregg Hart",
+        "winnerParty": "DEM",
+        "winnerPct": 60.7,
+        "opposed": true,
+        "runnerUp": "Sari M. Domingues",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 39.3
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "California Assembly District 38",
+      "census": {
+        "censusName": "Assembly District 38 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93953,
+        "medianAge": 37.3,
+        "totalPopulation": 483245,
+        "collegePct": 27.98,
+        "renterRatePct": 42.83,
+        "race": {
+          "whitePct": 53.31,
+          "nonHispanicWhitePct": 31.29,
+          "blackPct": 1.7,
+          "asianPct": 5.02,
+          "hispanicPct": 58.62
+        }
+      },
+      "election": {
+        "districtId": "AD-38",
+        "chamber": "assembly",
+        "winner": "Steve Bennett",
+        "winnerParty": "DEM",
+        "winnerPct": 63.4,
+        "opposed": true,
+        "runnerUp": "Deborah \"Deb\" Baber",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 36.6
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "California Assembly District 39",
+      "census": {
+        "censusName": "Assembly District 39 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68862,
+        "medianAge": 31.7,
+        "totalPopulation": 476039,
+        "collegePct": 12.5,
+        "renterRatePct": 40.54,
+        "race": {
+          "whitePct": 33.31,
+          "nonHispanicWhitePct": 16.89,
+          "blackPct": 15.72,
+          "asianPct": 2.93,
+          "hispanicPct": 61.38
+        }
+      },
+      "election": {
+        "districtId": "AD-39",
+        "chamber": "assembly",
+        "winner": "Juan Carrillo Ventura",
+        "winnerParty": "DEM",
+        "winnerPct": 57.7,
+        "opposed": true,
+        "runnerUp": "Paul Andre Marsh",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 42.3
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "California Assembly District 40",
+      "census": {
+        "censusName": "Assembly District 40 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118964,
+        "medianAge": 39.4,
+        "totalPopulation": 512867,
+        "collegePct": 40.77,
+        "renterRatePct": 31.92,
+        "race": {
+          "whitePct": 48.47,
+          "nonHispanicWhitePct": 40.42,
+          "blackPct": 4.85,
+          "asianPct": 15.61,
+          "hispanicPct": 34.16
+        }
+      },
+      "election": {
+        "districtId": "AD-40",
+        "chamber": "assembly",
+        "winner": "Pilar Schiavo",
+        "winnerParty": "DEM",
+        "winnerPct": 52.8,
+        "opposed": true,
+        "runnerUp": "Patrick Lee Gipson",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 47.2
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "California Assembly District 41",
+      "census": {
+        "censusName": "Assembly District 41 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113265,
+        "medianAge": 42,
+        "totalPopulation": 478921,
+        "collegePct": 48.52,
+        "renterRatePct": 37.23,
+        "race": {
+          "whitePct": 49.72,
+          "nonHispanicWhitePct": 41.8,
+          "blackPct": 6.28,
+          "asianPct": 14.25,
+          "hispanicPct": 32.52
+        }
+      },
+      "election": {
+        "districtId": "AD-41",
+        "chamber": "assembly",
+        "winner": "John Harabedian",
+        "winnerParty": "DEM",
+        "winnerPct": 58.5,
+        "opposed": true,
+        "runnerUp": "Michelle Del Rosario Martinez",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 41.5
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "California Assembly District 42",
+      "census": {
+        "censusName": "Assembly District 42 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 140624,
+        "medianAge": 43.3,
+        "totalPopulation": 510837,
+        "collegePct": 53.98,
+        "renterRatePct": 27.89,
+        "race": {
+          "whitePct": 69.16,
+          "nonHispanicWhitePct": 63.51,
+          "blackPct": 1.93,
+          "asianPct": 9.63,
+          "hispanicPct": 19.23
+        }
+      },
+      "election": {
+        "districtId": "AD-42",
+        "chamber": "assembly",
+        "winner": "Jacqui Irwin",
+        "winnerParty": "DEM",
+        "winnerPct": 54.3,
+        "opposed": true,
+        "runnerUp": "Ted Nordblum",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 45.7
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "California Assembly District 43",
+      "census": {
+        "censusName": "Assembly District 43 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73887,
+        "medianAge": 36.2,
+        "totalPopulation": 491225,
+        "collegePct": 18.86,
+        "renterRatePct": 51.12,
+        "race": {
+          "whitePct": 29.08,
+          "nonHispanicWhitePct": 15.04,
+          "blackPct": 2.97,
+          "asianPct": 7.47,
+          "hispanicPct": 72.66
+        }
+      },
+      "election": {
+        "districtId": "AD-43",
+        "chamber": "assembly",
+        "winner": "Celeste Rodriguez",
+        "winnerParty": "DEM",
+        "winnerPct": 66.6,
+        "opposed": true,
+        "runnerUp": "Victoria Garcia",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 33.4
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "California Assembly District 44",
+      "census": {
+        "censusName": "Assembly District 44 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97840,
+        "medianAge": 40.2,
+        "totalPopulation": 504212,
+        "collegePct": 49.98,
+        "renterRatePct": 57.61,
+        "race": {
+          "whitePct": 63.15,
+          "nonHispanicWhitePct": 58.44,
+          "blackPct": 4.18,
+          "asianPct": 10.78,
+          "hispanicPct": 20.67
+        }
+      },
+      "election": {
+        "districtId": "AD-44",
+        "chamber": "assembly",
+        "winner": "Nick Schultz",
+        "winnerParty": "DEM",
+        "winnerPct": 65.9,
+        "opposed": true,
+        "runnerUp": "Tony Rodriguez",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 34.1
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "California Assembly District 45",
+      "census": {
+        "censusName": "Assembly District 45 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76145,
+        "medianAge": 32,
+        "totalPopulation": 491336,
+        "collegePct": 16.61,
+        "renterRatePct": 41.94,
+        "race": {
+          "whitePct": 30.17,
+          "nonHispanicWhitePct": 14.71,
+          "blackPct": 10.55,
+          "asianPct": 4.87,
+          "hispanicPct": 66.72
+        }
+      },
+      "election": {
+        "districtId": "AD-45",
+        "chamber": "assembly",
+        "winner": "James C. Ramos",
+        "winnerParty": "DEM",
+        "winnerPct": 63.8,
+        "opposed": true,
+        "runnerUp": "Scott P. Olson",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 36.2
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "California Assembly District 46",
+      "census": {
+        "censusName": "Assembly District 46 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89669,
+        "medianAge": 39.3,
+        "totalPopulation": 504885,
+        "collegePct": 39.21,
+        "renterRatePct": 51.44,
+        "race": {
+          "whitePct": 45.87,
+          "nonHispanicWhitePct": 39.48,
+          "blackPct": 4.59,
+          "asianPct": 11.91,
+          "hispanicPct": 39.25
+        }
+      },
+      "election": {
+        "districtId": "AD-46",
+        "chamber": "assembly",
+        "winner": "Jesse Gabriel",
+        "winnerParty": "DEM",
+        "winnerPct": 62.9,
+        "opposed": true,
+        "runnerUp": "Tracey Schroeder",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 37.1
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "California Assembly District 47",
+      "census": {
+        "censusName": "Assembly District 47 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78451,
+        "medianAge": 44.4,
+        "totalPopulation": 523318,
+        "collegePct": 30.9,
+        "renterRatePct": 29.25,
+        "race": {
+          "whitePct": 57.61,
+          "nonHispanicWhitePct": 48.52,
+          "blackPct": 4.09,
+          "asianPct": 4.52,
+          "hispanicPct": 39.28
+        }
+      },
+      "election": {
+        "districtId": "AD-47",
+        "chamber": "assembly",
+        "winner": "Greg Wallis",
+        "winnerParty": "REP",
+        "winnerPct": 51.2,
+        "opposed": true,
+        "runnerUp": "Christy Holstege",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 48.8
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "California Assembly District 48",
+      "census": {
+        "censusName": "Assembly District 48 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94678,
+        "medianAge": 38.7,
+        "totalPopulation": 469391,
+        "collegePct": 25.79,
+        "renterRatePct": 36.28,
+        "race": {
+          "whitePct": 28.65,
+          "nonHispanicWhitePct": 14.3,
+          "blackPct": 2.88,
+          "asianPct": 19.15,
+          "hispanicPct": 61.28
+        }
+      },
+      "election": {
+        "districtId": "AD-48",
+        "chamber": "assembly",
+        "winner": "Blanca Rubio",
+        "winnerParty": "DEM",
+        "winnerPct": 61.8,
+        "opposed": true,
+        "runnerUp": "Dan T. Tran",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 38.2
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "California Assembly District 49",
+      "census": {
+        "censusName": "Assembly District 49 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90077,
+        "medianAge": 42.6,
+        "totalPopulation": 465217,
+        "collegePct": 39.1,
+        "renterRatePct": 49.23,
+        "race": {
+          "whitePct": 17.01,
+          "nonHispanicWhitePct": 11.35,
+          "blackPct": 1.39,
+          "asianPct": 53.72,
+          "hispanicPct": 30.66
+        }
+      },
+      "election": {
+        "districtId": "AD-49",
+        "chamber": "assembly",
+        "winner": "Mike Fong",
+        "winnerParty": "DEM",
+        "winnerPct": 62,
+        "opposed": true,
+        "runnerUp": "Long \"David\" Liu",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 38
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "California Assembly District 50",
+      "census": {
+        "censusName": "Assembly District 50 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88792,
+        "medianAge": 34.4,
+        "totalPopulation": 487810,
+        "collegePct": 26.21,
+        "renterRatePct": 44.1,
+        "race": {
+          "whitePct": 30.88,
+          "nonHispanicWhitePct": 19.52,
+          "blackPct": 7.76,
+          "asianPct": 10.07,
+          "hispanicPct": 59.55
+        }
+      },
+      "election": {
+        "districtId": "AD-50",
+        "chamber": "assembly",
+        "winner": "Robert Garcia",
+        "winnerParty": "DEM",
+        "winnerPct": 56.4,
+        "opposed": true,
+        "runnerUp": "Adam Perez",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 43.6
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "California Assembly District 51",
+      "census": {
+        "censusName": "Assembly District 51 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94122,
+        "medianAge": 38.1,
+        "totalPopulation": 484393,
+        "collegePct": 63.12,
+        "renterRatePct": 73.41,
+        "race": {
+          "whitePct": 60.72,
+          "nonHispanicWhitePct": 56.32,
+          "blackPct": 4.97,
+          "asianPct": 14.29,
+          "hispanicPct": 18.25
+        }
+      },
+      "election": {
+        "districtId": "AD-51",
+        "chamber": "assembly",
+        "winner": "Rick Chavez Zbur",
+        "winnerParty": "DEM",
+        "winnerPct": 75,
+        "opposed": true,
+        "runnerUp": "Stephan Hohil",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 25
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "California Assembly District 52",
+      "census": {
+        "censusName": "Assembly District 52 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82982,
+        "medianAge": 37.9,
+        "totalPopulation": 513393,
+        "collegePct": 36.57,
+        "renterRatePct": 65.01,
+        "race": {
+          "whitePct": 37.14,
+          "nonHispanicWhitePct": 26.79,
+          "blackPct": 1.87,
+          "asianPct": 12.64,
+          "hispanicPct": 55.62
+        }
+      },
+      "election": {
+        "districtId": "AD-52",
+        "chamber": "assembly",
+        "winner": "Jessica Caloza",
+        "winnerParty": "DEM",
+        "winnerPct": 66.9,
+        "opposed": true,
+        "runnerUp": "Franky Carrillo",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 33.1
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "California Assembly District 53",
+      "census": {
+        "censusName": "Assembly District 53 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84596,
+        "medianAge": 34.6,
+        "totalPopulation": 476592,
+        "collegePct": 21.44,
+        "renterRatePct": 43.89,
+        "race": {
+          "whitePct": 28.45,
+          "nonHispanicWhitePct": 13.95,
+          "blackPct": 5.73,
+          "asianPct": 11.36,
+          "hispanicPct": 66.58
+        }
+      },
+      "election": {
+        "districtId": "AD-53",
+        "chamber": "assembly",
+        "winner": "Michelle Rodriguez",
+        "winnerParty": "DEM",
+        "winnerPct": 57.6,
+        "opposed": true,
+        "runnerUp": "Nick Wilson",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 42.4
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "California Assembly District 54",
+      "census": {
+        "censusName": "Assembly District 54 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55617,
+        "medianAge": 35.4,
+        "totalPopulation": 503181,
+        "collegePct": 27.61,
+        "renterRatePct": 85.1,
+        "race": {
+          "whitePct": 18.53,
+          "nonHispanicWhitePct": 7.85,
+          "blackPct": 4.84,
+          "asianPct": 20.52,
+          "hispanicPct": 64.86
+        }
+      },
+      "election": {
+        "districtId": "AD-54",
+        "chamber": "assembly",
+        "winner": "Mark Gonzalez",
+        "winnerParty": "DEM",
+        "winnerPct": 56.3,
+        "opposed": true,
+        "runnerUp": "John K. Yi",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 43.7
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "California Assembly District 55",
+      "census": {
+        "censusName": "Assembly District 55 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90962,
+        "medianAge": 38,
+        "totalPopulation": 462779,
+        "collegePct": 48.48,
+        "renterRatePct": 64.42,
+        "race": {
+          "whitePct": 36.82,
+          "nonHispanicWhitePct": 29.43,
+          "blackPct": 21.27,
+          "asianPct": 10.28,
+          "hispanicPct": 33.47
+        }
+      },
+      "election": {
+        "districtId": "AD-55",
+        "chamber": "assembly",
+        "winner": "Isaac G. Bryan",
+        "winnerParty": "DEM",
+        "winnerPct": 80.7,
+        "opposed": true,
+        "runnerUp": "Keith G. Cascio",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 19.3
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "California Assembly District 56",
+      "census": {
+        "censusName": "Assembly District 56 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93971,
+        "medianAge": 40.9,
+        "totalPopulation": 483371,
+        "collegePct": 29.37,
+        "renterRatePct": 33.29,
+        "race": {
+          "whitePct": 21.51,
+          "nonHispanicWhitePct": 10.5,
+          "blackPct": 1.52,
+          "asianPct": 27.9,
+          "hispanicPct": 57.77
+        }
+      },
+      "election": {
+        "districtId": "AD-56",
+        "chamber": "assembly",
+        "winner": "Lisa Calderon",
+        "winnerParty": "DEM",
+        "winnerPct": 56.7,
+        "opposed": true,
+        "runnerUp": "Jessica Martinez",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 43.3
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "California Assembly District 57",
+      "census": {
+        "censusName": "Assembly District 57 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 54756,
+        "medianAge": 31.4,
+        "totalPopulation": 503853,
+        "collegePct": 14.23,
+        "renterRatePct": 74.16,
+        "race": {
+          "whitePct": 16.72,
+          "nonHispanicWhitePct": 4.64,
+          "blackPct": 15.64,
+          "asianPct": 4.21,
+          "hispanicPct": 73.88
+        }
+      },
+      "election": {
+        "districtId": "AD-57",
+        "chamber": "assembly",
+        "winner": "Sade Elhawary",
+        "winnerParty": "DEM",
+        "winnerPct": 61.1,
+        "opposed": true,
+        "runnerUp": "Efren Martinez",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 38.9
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "California Assembly District 58",
+      "census": {
+        "censusName": "Assembly District 58 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90566,
+        "medianAge": 34.4,
+        "totalPopulation": 498471,
+        "collegePct": 21.13,
+        "renterRatePct": 40.35,
+        "race": {
+          "whitePct": 34.9,
+          "nonHispanicWhitePct": 22.13,
+          "blackPct": 5.1,
+          "asianPct": 7.68,
+          "hispanicPct": 62.57
+        }
+      },
+      "election": {
+        "districtId": "AD-58",
+        "chamber": "assembly",
+        "winner": "Leticia Castillo",
+        "winnerParty": "REP",
+        "winnerPct": 50.2,
+        "opposed": true,
+        "runnerUp": "Clarissa Cervantes",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 49.8
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "California Assembly District 59",
+      "census": {
+        "censusName": "Assembly District 59 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 131286,
+        "medianAge": 40.9,
+        "totalPopulation": 471455,
+        "collegePct": 49.57,
+        "renterRatePct": 29.53,
+        "race": {
+          "whitePct": 50.15,
+          "nonHispanicWhitePct": 41.91,
+          "blackPct": 2.41,
+          "asianPct": 23.25,
+          "hispanicPct": 27.82
+        }
+      },
+      "election": {
+        "districtId": "AD-59",
+        "chamber": "assembly",
+        "winner": "Phillip Chen",
+        "winnerParty": "REP",
+        "winnerPct": 60.5,
+        "opposed": true,
+        "runnerUp": "Dave Obrand",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 39.5
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "California Assembly District 60",
+      "census": {
+        "censusName": "Assembly District 60 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 79059,
+        "medianAge": 32.7,
+        "totalPopulation": 470023,
+        "collegePct": 14.8,
+        "renterRatePct": 35.38,
+        "race": {
+          "whitePct": 28.6,
+          "nonHispanicWhitePct": 17.46,
+          "blackPct": 11.67,
+          "asianPct": 4.15,
+          "hispanicPct": 63.74
+        }
+      },
+      "election": {
+        "districtId": "AD-60",
+        "chamber": "assembly",
+        "winner": "Corey A Jackson",
+        "winnerParty": "DEM",
+        "winnerPct": 55.4,
+        "opposed": true,
+        "runnerUp": "Ron Edwards",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 44.6
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "California Assembly District 61",
+      "census": {
+        "censusName": "Assembly District 61 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 82290,
+        "medianAge": 36.4,
+        "totalPopulation": 474898,
+        "collegePct": 34.04,
+        "renterRatePct": 63.39,
+        "race": {
+          "whitePct": 28.08,
+          "nonHispanicWhitePct": 18.29,
+          "blackPct": 25.44,
+          "asianPct": 6.04,
+          "hispanicPct": 45.91
+        }
+      },
+      "election": {
+        "districtId": "AD-61",
+        "chamber": "assembly",
+        "winner": "Tina Simone McKinnor",
+        "winnerParty": "DEM",
+        "winnerPct": 76.5,
+        "opposed": true,
+        "runnerUp": "Alfonso Hernandez",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 23.5
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "California Assembly District 62",
+      "census": {
+        "censusName": "Assembly District 62 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76726,
+        "medianAge": 35.4,
+        "totalPopulation": 461333,
+        "collegePct": 16.42,
+        "renterRatePct": 53.49,
+        "race": {
+          "whitePct": 24.97,
+          "nonHispanicWhitePct": 9.27,
+          "blackPct": 5.87,
+          "asianPct": 5.88,
+          "hispanicPct": 76.96
+        }
+      },
+      "election": {
+        "districtId": "AD-62",
+        "chamber": "assembly",
+        "winner": "Jose Luis Solache",
+        "winnerParty": "DEM",
+        "winnerPct": 66,
+        "opposed": true,
+        "runnerUp": "Paul Jones",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 34
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "California Assembly District 63",
+      "census": {
+        "censusName": "Assembly District 63 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 113244,
+        "medianAge": 36.8,
+        "totalPopulation": 490342,
+        "collegePct": 31.4,
+        "renterRatePct": 23.32,
+        "race": {
+          "whitePct": 46.74,
+          "nonHispanicWhitePct": 38.2,
+          "blackPct": 6.57,
+          "asianPct": 11.48,
+          "hispanicPct": 38.6
+        }
+      },
+      "election": {
+        "districtId": "AD-63",
+        "chamber": "assembly",
+        "winner": "Bill Essayli",
+        "winnerParty": "REP",
+        "winnerPct": 57.3,
+        "opposed": true,
+        "runnerUp": "Chris Shoults",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 42.7
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "California Assembly District 64",
+      "census": {
+        "censusName": "Assembly District 64 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87414,
+        "medianAge": 36.5,
+        "totalPopulation": 500485,
+        "collegePct": 22.73,
+        "renterRatePct": 45.3,
+        "race": {
+          "whitePct": 30.24,
+          "nonHispanicWhitePct": 13.31,
+          "blackPct": 2.73,
+          "asianPct": 9.49,
+          "hispanicPct": 72.76
+        }
+      },
+      "election": {
+        "districtId": "AD-64",
+        "chamber": "assembly",
+        "winner": "Blanca Pacheco",
+        "winnerParty": "DEM",
+        "winnerPct": 62.5,
+        "opposed": true,
+        "runnerUp": "Raul Ortiz Jr.",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 37.5
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "California Assembly District 65",
+      "census": {
+        "censusName": "Assembly District 65 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 71342,
+        "medianAge": 35.2,
+        "totalPopulation": 489275,
+        "collegePct": 18.3,
+        "renterRatePct": 51.7,
+        "race": {
+          "whitePct": 22.79,
+          "nonHispanicWhitePct": 6.86,
+          "blackPct": 19.44,
+          "asianPct": 7.81,
+          "hispanicPct": 63.13
+        }
+      },
+      "election": {
+        "districtId": "AD-65",
+        "chamber": "assembly",
+        "winner": "Mike Gipson",
+        "winnerParty": "DEM",
+        "winnerPct": 70.9,
+        "opposed": true,
+        "runnerUp": "Lydia A Gutierrez",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 29.1
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "California Assembly District 66",
+      "census": {
+        "censusName": "Assembly District 66 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 126963,
+        "medianAge": 42.8,
+        "totalPopulation": 464932,
+        "collegePct": 56.37,
+        "renterRatePct": 42.07,
+        "race": {
+          "whitePct": 47.53,
+          "nonHispanicWhitePct": 42.23,
+          "blackPct": 3.75,
+          "asianPct": 25.17,
+          "hispanicPct": 21.84
+        }
+      },
+      "election": {
+        "districtId": "AD-66",
+        "chamber": "assembly",
+        "winner": "Al Muratsuchi",
+        "winnerParty": "DEM",
+        "winnerPct": 60.2,
+        "opposed": true,
+        "runnerUp": "George Barks",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 39.8
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "California Assembly District 67",
+      "census": {
+        "censusName": "Assembly District 67 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99848,
+        "medianAge": 38,
+        "totalPopulation": 464873,
+        "collegePct": 35.13,
+        "renterRatePct": 47.91,
+        "race": {
+          "whitePct": 32.9,
+          "nonHispanicWhitePct": 19.89,
+          "blackPct": 3.45,
+          "asianPct": 32.17,
+          "hispanicPct": 41.15
+        }
+      },
+      "election": {
+        "districtId": "AD-67",
+        "chamber": "assembly",
+        "winner": "Sharon Quirk-Silva",
+        "winnerParty": "DEM",
+        "winnerPct": 56.8,
+        "opposed": true,
+        "runnerUp": "Elizabeth \"Beth\" Culver",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 43.2
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "California Assembly District 68",
+      "census": {
+        "censusName": "Assembly District 68 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91128,
+        "medianAge": 34,
+        "totalPopulation": 486601,
+        "collegePct": 22.76,
+        "renterRatePct": 56.93,
+        "race": {
+          "whitePct": 30,
+          "nonHispanicWhitePct": 15.28,
+          "blackPct": 1.18,
+          "asianPct": 10.48,
+          "hispanicPct": 70.82
+        }
+      },
+      "election": {
+        "districtId": "AD-68",
+        "chamber": "assembly",
+        "winner": "Avelino Valencia",
+        "winnerParty": "DEM",
+        "winnerPct": 63.7,
+        "opposed": true,
+        "runnerUp": "Mike Tardif",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 36.3
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "California Assembly District 69",
+      "census": {
+        "censusName": "Assembly District 69 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88890,
+        "medianAge": 37.6,
+        "totalPopulation": 468653,
+        "collegePct": 36.2,
+        "renterRatePct": 56.41,
+        "race": {
+          "whitePct": 43.04,
+          "nonHispanicWhitePct": 27.61,
+          "blackPct": 9.93,
+          "asianPct": 16.13,
+          "hispanicPct": 41.57
+        }
+      },
+      "election": {
+        "districtId": "AD-69",
+        "chamber": "assembly",
+        "winner": "Josh Lowenthal",
+        "winnerParty": "DEM",
+        "winnerPct": 68.4,
+        "opposed": true,
+        "runnerUp": "Joshua Rodriguez",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 31.6
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "California Assembly District 70",
+      "census": {
+        "censusName": "Assembly District 70 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92618,
+        "medianAge": 40.3,
+        "totalPopulation": 464030,
+        "collegePct": 29.25,
+        "renterRatePct": 45.76,
+        "race": {
+          "whitePct": 31.38,
+          "nonHispanicWhitePct": 22.93,
+          "blackPct": 1.36,
+          "asianPct": 38.17,
+          "hispanicPct": 33.87
+        }
+      },
+      "election": {
+        "districtId": "AD-70",
+        "chamber": "assembly",
+        "winner": "Tri Ta",
+        "winnerParty": "REP",
+        "winnerPct": 54.7,
+        "opposed": true,
+        "runnerUp": "Jimmy D. Pham",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 45.3
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "California Assembly District 71",
+      "census": {
+        "censusName": "Assembly District 71 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 127544,
+        "medianAge": 39,
+        "totalPopulation": 494145,
+        "collegePct": 42.45,
+        "renterRatePct": 26.43,
+        "race": {
+          "whitePct": 60.49,
+          "nonHispanicWhitePct": 53.76,
+          "blackPct": 3.19,
+          "asianPct": 10.85,
+          "hispanicPct": 25.8
+        }
+      },
+      "election": {
+        "districtId": "AD-71",
+        "chamber": "assembly",
+        "winner": "Kate Sanchez",
+        "winnerParty": "REP",
+        "winnerPct": 61.5,
+        "opposed": true,
+        "runnerUp": "Gary Kephart",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 38.5
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "California Assembly District 72",
+      "census": {
+        "censusName": "Assembly District 72 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 123881,
+        "medianAge": 45.2,
+        "totalPopulation": 488055,
+        "collegePct": 54.62,
+        "renterRatePct": 38.31,
+        "race": {
+          "whitePct": 65.93,
+          "nonHispanicWhitePct": 61.34,
+          "blackPct": 1.19,
+          "asianPct": 13.64,
+          "hispanicPct": 17.72
+        }
+      },
+      "election": {
+        "districtId": "AD-72",
+        "chamber": "assembly",
+        "winner": "Diane Dixon",
+        "winnerParty": "REP",
+        "winnerPct": 59.5,
+        "opposed": true,
+        "runnerUp": "Dom Jones",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 40.5
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "California Assembly District 73",
+      "census": {
+        "censusName": "Assembly District 73 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 121196,
+        "medianAge": 35,
+        "totalPopulation": 498543,
+        "collegePct": 60.16,
+        "renterRatePct": 56.12,
+        "race": {
+          "whitePct": 41.73,
+          "nonHispanicWhitePct": 36.85,
+          "blackPct": 2.06,
+          "asianPct": 33.2,
+          "hispanicPct": 21.54
+        }
+      },
+      "election": {
+        "districtId": "AD-73",
+        "chamber": "assembly",
+        "winner": "Cottie Petrie-Norris",
+        "winnerParty": "DEM",
+        "winnerPct": 56.8,
+        "opposed": true,
+        "runnerUp": "Scotty Peotter",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 43.2
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "California Assembly District 74",
+      "census": {
+        "censusName": "Assembly District 74 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107002,
+        "medianAge": 37.4,
+        "totalPopulation": 509862,
+        "collegePct": 40.79,
+        "renterRatePct": 41.65,
+        "race": {
+          "whitePct": 59.75,
+          "nonHispanicWhitePct": 51.09,
+          "blackPct": 3.28,
+          "asianPct": 6.38,
+          "hispanicPct": 33.2
+        }
+      },
+      "election": {
+        "districtId": "AD-74",
+        "chamber": "assembly",
+        "winner": "Laurie Davies",
+        "winnerParty": "REP",
+        "winnerPct": 50.8,
+        "opposed": true,
+        "runnerUp": "Chris Duncan",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 49.2
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "California Assembly District 75",
+      "census": {
+        "censusName": "Assembly District 75 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 115659,
+        "medianAge": 41.3,
+        "totalPopulation": 468157,
+        "collegePct": 38,
+        "renterRatePct": 25.56,
+        "race": {
+          "whitePct": 66.55,
+          "nonHispanicWhitePct": 59.45,
+          "blackPct": 2.48,
+          "asianPct": 7.2,
+          "hispanicPct": 24.81
+        }
+      },
+      "election": {
+        "districtId": "AD-75",
+        "chamber": "assembly",
+        "winner": "Carl DeMaio",
+        "winnerParty": "REP",
+        "winnerPct": 57,
+        "opposed": true,
+        "runnerUp": "Andrew Hayes",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 43
+      }
+    },
+    "76": {
+      "districtNumber": 76,
+      "districtName": "California Assembly District 76",
+      "census": {
+        "censusName": "Assembly District 76 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 117317,
+        "medianAge": 39.1,
+        "totalPopulation": 463806,
+        "collegePct": 47.75,
+        "renterRatePct": 36.35,
+        "race": {
+          "whitePct": 52.39,
+          "nonHispanicWhitePct": 44.25,
+          "blackPct": 1.84,
+          "asianPct": 16.84,
+          "hispanicPct": 30.95
+        }
+      },
+      "election": {
+        "districtId": "AD-76",
+        "chamber": "assembly",
+        "winner": "Darshana Patel",
+        "winnerParty": "DEM",
+        "winnerPct": 54,
+        "opposed": true,
+        "runnerUp": "Kristie Bruce-Lane",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 46
+      }
+    },
+    "77": {
+      "districtNumber": 77,
+      "districtName": "California Assembly District 77",
+      "census": {
+        "censusName": "Assembly District 77 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 126316,
+        "medianAge": 38.6,
+        "totalPopulation": 499123,
+        "collegePct": 66.7,
+        "renterRatePct": 49.93,
+        "race": {
+          "whitePct": 69.99,
+          "nonHispanicWhitePct": 64.76,
+          "blackPct": 2.15,
+          "asianPct": 10.86,
+          "hispanicPct": 15.8
+        }
+      },
+      "election": {
+        "districtId": "AD-77",
+        "chamber": "assembly",
+        "winner": "Tasha Boerner",
+        "winnerParty": "DEM",
+        "winnerPct": 60.4,
+        "opposed": true,
+        "runnerUp": "James Browne",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 39.6
+      }
+    },
+    "78": {
+      "districtNumber": 78,
+      "districtName": "California Assembly District 78",
+      "census": {
+        "censusName": "Assembly District 78 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104119,
+        "medianAge": 36.1,
+        "totalPopulation": 518291,
+        "collegePct": 51.94,
+        "renterRatePct": 54.2,
+        "race": {
+          "whitePct": 57.62,
+          "nonHispanicWhitePct": 50.23,
+          "blackPct": 4.64,
+          "asianPct": 16.21,
+          "hispanicPct": 22.72
+        }
+      },
+      "election": {
+        "districtId": "AD-78",
+        "chamber": "assembly",
+        "winner": "Chris Ward",
+        "winnerParty": "DEM",
+        "winnerPct": 100,
+        "opposed": false
+      }
+    },
+    "79": {
+      "districtNumber": 79,
+      "districtName": "California Assembly District 79",
+      "census": {
+        "censusName": "Assembly District 79 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76911,
+        "medianAge": 35.2,
+        "totalPopulation": 505208,
+        "collegePct": 25.22,
+        "renterRatePct": 53.65,
+        "race": {
+          "whitePct": 39.2,
+          "nonHispanicWhitePct": 27.73,
+          "blackPct": 11.82,
+          "asianPct": 12.89,
+          "hispanicPct": 42.22
+        }
+      },
+      "election": {
+        "districtId": "AD-79",
+        "chamber": "assembly",
+        "winner": "LaShae Sharp-Collins",
+        "winnerParty": "DEM",
+        "winnerPct": 54,
+        "opposed": true,
+        "runnerUp": "Colin Parent",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 46
+      }
+    },
+    "80": {
+      "districtNumber": 80,
+      "districtName": "California Assembly District 80",
+      "census": {
+        "censusName": "Assembly District 80 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89176,
+        "medianAge": 36,
+        "totalPopulation": 513749,
+        "collegePct": 26.56,
+        "renterRatePct": 47.06,
+        "race": {
+          "whitePct": 33.9,
+          "nonHispanicWhitePct": 15.26,
+          "blackPct": 5.08,
+          "asianPct": 12.88,
+          "hispanicPct": 63.8
+        }
+      },
+      "election": {
+        "districtId": "AD-80",
+        "chamber": "assembly",
+        "winner": "David A. Alvarez",
+        "winnerParty": "DEM",
+        "winnerPct": 61,
+        "opposed": true,
+        "runnerUp": "Michael W. Williams",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 39
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "California Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70838,
+        "medianAge": 40.2,
+        "totalPopulation": 940576,
+        "collegePct": 24.9,
+        "renterRatePct": 34.95,
+        "race": {
+          "whitePct": 71.92,
+          "nonHispanicWhitePct": 65.43,
+          "blackPct": 1.64,
+          "asianPct": 5.04,
+          "hispanicPct": 20.99
+        }
+      },
+      "election": {
+        "districtId": "SD-1",
+        "chamber": "senate",
+        "winner": "Megan Dahle",
+        "winnerParty": "REP",
+        "winnerPct": 75.7,
+        "opposed": true,
+        "runnerUp": "David Fennell",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 24.3
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "California Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93114,
+        "medianAge": 43.9,
+        "totalPopulation": 987551,
+        "collegePct": 39.82,
+        "renterRatePct": 37.08,
+        "race": {
+          "whitePct": 68.2,
+          "nonHispanicWhitePct": 63.64,
+          "blackPct": 1.69,
+          "asianPct": 4.24,
+          "hispanicPct": 23.32
+        }
+      },
+      "election": {
+        "districtId": "SD-2",
+        "chamber": "senate",
+        "winner": "Mike McGuire",
+        "winnerParty": "DEM",
+        "winnerPct": 73.3,
+        "opposed": true,
+        "runnerUp": "Gene Yoon",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 26.7
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "California Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102987,
+        "medianAge": 38.3,
+        "totalPopulation": 1037853,
+        "collegePct": 33.96,
+        "renterRatePct": 36.96,
+        "race": {
+          "whitePct": 50.77,
+          "nonHispanicWhitePct": 41.92,
+          "blackPct": 7.72,
+          "asianPct": 13.06,
+          "hispanicPct": 30.73
+        }
+      },
+      "election": {
+        "districtId": "SD-3",
+        "chamber": "senate",
+        "winner": "Christopher Cabaldon",
+        "winnerParty": "DEM",
+        "winnerPct": 62.6,
+        "opposed": true,
+        "runnerUp": "Thom Bogue",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 37.4
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "California Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84881,
+        "medianAge": 39.6,
+        "totalPopulation": 1038072,
+        "collegePct": 25.89,
+        "renterRatePct": 31,
+        "race": {
+          "whitePct": 62.5,
+          "nonHispanicWhitePct": 53.38,
+          "blackPct": 1.99,
+          "asianPct": 4.67,
+          "hispanicPct": 34.84
+        }
+      },
+      "election": {
+        "districtId": "SD-4",
+        "chamber": "senate",
+        "winner": "Marie Alvarado-Gil",
+        "winnerParty": "DEM",
+        "winnerPct": 52.7,
+        "opposed": true,
+        "runnerUp": "Tim Robertson",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 47.3
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "California Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104303,
+        "medianAge": 36.5,
+        "totalPopulation": 1026304,
+        "collegePct": 31.7,
+        "renterRatePct": 36.62,
+        "race": {
+          "whitePct": 38.98,
+          "nonHispanicWhitePct": 30.89,
+          "blackPct": 5.89,
+          "asianPct": 21.91,
+          "hispanicPct": 36.12
+        }
+      },
+      "election": {
+        "districtId": "SD-5",
+        "chamber": "senate",
+        "winner": "Jerry McNerney",
+        "winnerParty": "DEM",
+        "winnerPct": 52.9,
+        "opposed": true,
+        "runnerUp": "Jim Shoemaker",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 47.1
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "California Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 100041,
+        "medianAge": 39.6,
+        "totalPopulation": 980643,
+        "collegePct": 37.8,
+        "renterRatePct": 34.38,
+        "race": {
+          "whitePct": 65.29,
+          "nonHispanicWhitePct": 60.15,
+          "blackPct": 4.9,
+          "asianPct": 10.38,
+          "hispanicPct": 17.71
+        }
+      },
+      "election": {
+        "districtId": "SD-6",
+        "chamber": "senate",
+        "winner": "Roger Niello",
+        "winnerParty": "REP",
+        "winnerPct": 55.7,
+        "opposed": true,
+        "runnerUp": "Paula Villescaz",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 44.3
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "California Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104868,
+        "medianAge": 38,
+        "totalPopulation": 946979,
+        "collegePct": 50.3,
+        "renterRatePct": 52.29,
+        "race": {
+          "whitePct": 34.23,
+          "nonHispanicWhitePct": 31.13,
+          "blackPct": 15.35,
+          "asianPct": 19.06,
+          "hispanicPct": 27.5
+        }
+      },
+      "election": {
+        "districtId": "SD-7",
+        "chamber": "senate",
+        "winner": "Jesse Arreguín",
+        "winnerParty": "DEM",
+        "winnerPct": 57.2,
+        "opposed": true,
+        "runnerUp": "Jovanka Beckles",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 42.8
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "California Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 87341,
+        "medianAge": 36.2,
+        "totalPopulation": 937694,
+        "collegePct": 32.77,
+        "renterRatePct": 43.04,
+        "race": {
+          "whitePct": 36.66,
+          "nonHispanicWhitePct": 30.75,
+          "blackPct": 11.64,
+          "asianPct": 22.47,
+          "hispanicPct": 27.23
+        }
+      },
+      "election": {
+        "districtId": "SD-8",
+        "chamber": "senate",
+        "winner": "Angelique Ashby",
+        "winnerParty": "DEM",
+        "winnerPct": 51.5,
+        "opposed": true,
+        "runnerUp": "Dave Jones",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 48.5
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "California Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 127798,
+        "medianAge": 40.9,
+        "totalPopulation": 980905,
+        "collegePct": 46.09,
+        "renterRatePct": 33.54,
+        "race": {
+          "whitePct": 43.89,
+          "nonHispanicWhitePct": 39.45,
+          "blackPct": 7.36,
+          "asianPct": 22.01,
+          "hispanicPct": 24.76
+        }
+      },
+      "election": {
+        "districtId": "SD-9",
+        "chamber": "senate",
+        "winner": "Tim Grayson",
+        "winnerParty": "DEM",
+        "winnerPct": 52,
+        "opposed": true,
+        "runnerUp": "Marisol Rubio",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 48
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "California Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 161447,
+        "medianAge": 37.1,
+        "totalPopulation": 1020232,
+        "collegePct": 55.74,
+        "renterRatePct": 45.94,
+        "race": {
+          "whitePct": 21.77,
+          "nonHispanicWhitePct": 18.39,
+          "blackPct": 3.66,
+          "asianPct": 52.3,
+          "hispanicPct": 20.5
+        }
+      },
+      "election": {
+        "districtId": "SD-10",
+        "chamber": "senate",
+        "winner": "Aisha Wahab",
+        "winnerParty": "DEM",
+        "winnerPct": 53.7,
+        "opposed": true,
+        "runnerUp": "Lily Mei",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 46.3
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "California Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 139348,
+        "medianAge": 40,
+        "totalPopulation": 981450,
+        "collegePct": 57.21,
+        "renterRatePct": 58.72,
+        "race": {
+          "whitePct": 37.31,
+          "nonHispanicWhitePct": 34.12,
+          "blackPct": 4.75,
+          "asianPct": 38.26,
+          "hispanicPct": 16.71
+        }
+      },
+      "election": {
+        "districtId": "SD-11",
+        "chamber": "senate",
+        "winner": "Scott Wiener",
+        "winnerParty": "DEM",
+        "winnerPct": 77.8,
+        "opposed": true,
+        "runnerUp": "Yvette Corkrean",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 22.2
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "California Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88161,
+        "medianAge": 36,
+        "totalPopulation": 946426,
+        "collegePct": 31.08,
+        "renterRatePct": 34.34,
+        "race": {
+          "whitePct": 57.95,
+          "nonHispanicWhitePct": 47.76,
+          "blackPct": 3.76,
+          "asianPct": 8.5,
+          "hispanicPct": 34.93
+        }
+      },
+      "election": {
+        "districtId": "SD-12",
+        "chamber": "senate",
+        "winner": "Shannon Grove",
+        "winnerParty": "REP",
+        "winnerPct": 68.7,
+        "opposed": true,
+        "runnerUp": "Susanne Gundy",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 31.3
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "California Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 177964,
+        "medianAge": 40.3,
+        "totalPopulation": 984794,
+        "collegePct": 64.79,
+        "renterRatePct": 42.16,
+        "race": {
+          "whitePct": 45.61,
+          "nonHispanicWhitePct": 41.56,
+          "blackPct": 1.9,
+          "asianPct": 30.39,
+          "hispanicPct": 19.7
+        }
+      },
+      "election": {
+        "districtId": "SD-13",
+        "chamber": "senate",
+        "winner": "Josh Becker",
+        "winnerParty": "DEM",
+        "winnerPct": 72.5,
+        "opposed": true,
+        "runnerUp": "Alexander Glew",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 27.5
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "California Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 60393,
+        "medianAge": 31.5,
+        "totalPopulation": 1008106,
+        "collegePct": 14.29,
+        "renterRatePct": 49.5,
+        "race": {
+          "whitePct": 34.2,
+          "nonHispanicWhitePct": 17.88,
+          "blackPct": 4.38,
+          "asianPct": 8.49,
+          "hispanicPct": 66.43
+        }
+      },
+      "election": {
+        "districtId": "SD-14",
+        "chamber": "senate",
+        "winner": "Anna Caballero",
+        "winnerParty": "DEM",
+        "winnerPct": 56.3,
+        "opposed": true,
+        "runnerUp": "Amnon Shor",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 43.7
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "California Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 137572,
+        "medianAge": 38.6,
+        "totalPopulation": 1011546,
+        "collegePct": 43.85,
+        "renterRatePct": 41.16,
+        "race": {
+          "whitePct": 33.53,
+          "nonHispanicWhitePct": 26.52,
+          "blackPct": 2.91,
+          "asianPct": 31.2,
+          "hispanicPct": 34.87
+        }
+      },
+      "election": {
+        "districtId": "SD-15",
+        "chamber": "senate",
+        "winner": "Dave Cortese",
+        "winnerParty": "DEM",
+        "winnerPct": 68.6,
+        "opposed": true,
+        "runnerUp": "Robert Paul Howell",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 31.4
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "California Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 59782,
+        "medianAge": 30.3,
+        "totalPopulation": 969728,
+        "collegePct": 11.34,
+        "renterRatePct": 46.37,
+        "race": {
+          "whitePct": 39.33,
+          "nonHispanicWhitePct": 17.46,
+          "blackPct": 4.17,
+          "asianPct": 3.78,
+          "hispanicPct": 72.58
+        }
+      },
+      "election": {
+        "districtId": "SD-16",
+        "chamber": "senate",
+        "winner": "Melissa Hurtado",
+        "winnerParty": "DEM",
+        "winnerPct": 50,
+        "opposed": true,
+        "runnerUp": "David Shepard",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 50
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "California Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98238,
+        "medianAge": 37.3,
+        "totalPopulation": 993418,
+        "collegePct": 34.84,
+        "renterRatePct": 42.43,
+        "race": {
+          "whitePct": 52.68,
+          "nonHispanicWhitePct": 44.15,
+          "blackPct": 1.54,
+          "asianPct": 4.94,
+          "hispanicPct": 45.16
+        }
+      },
+      "election": {
+        "districtId": "SD-17",
+        "chamber": "senate",
+        "winner": "John Laird",
+        "winnerParty": "DEM",
+        "winnerPct": 65,
+        "opposed": true,
+        "runnerUp": "Tony Virrueta",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 35
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "California Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77843,
+        "medianAge": 35.9,
+        "totalPopulation": 964980,
+        "collegePct": 22.49,
+        "renterRatePct": 43.87,
+        "race": {
+          "whitePct": 33.98,
+          "nonHispanicWhitePct": 16.63,
+          "blackPct": 4.45,
+          "asianPct": 7.76,
+          "hispanicPct": 68.65
+        }
+      },
+      "election": {
+        "districtId": "SD-18",
+        "chamber": "senate",
+        "winner": "Steve Padilla",
+        "winnerParty": "DEM",
+        "winnerPct": 59.8,
+        "opposed": true,
+        "runnerUp": "Alejandro Galicia",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 40.2
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "California Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72673,
+        "medianAge": 40.4,
+        "totalPopulation": 951501,
+        "collegePct": 27.68,
+        "renterRatePct": 33.88,
+        "race": {
+          "whitePct": 56.41,
+          "nonHispanicWhitePct": 46.3,
+          "blackPct": 5.67,
+          "asianPct": 4.89,
+          "hispanicPct": 38.66
+        }
+      },
+      "election": {
+        "districtId": "SD-19",
+        "chamber": "senate",
+        "winner": "Rosilicie Ochoa Bogh",
+        "winnerParty": "REP",
+        "winnerPct": 54.8,
+        "opposed": true,
+        "runnerUp": "Lisa Middleton",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 45.2
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "California Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77767,
+        "medianAge": 37.2,
+        "totalPopulation": 924728,
+        "collegePct": 24.88,
+        "renterRatePct": 53.11,
+        "race": {
+          "whitePct": 34.2,
+          "nonHispanicWhitePct": 23.32,
+          "blackPct": 3.38,
+          "asianPct": 9.84,
+          "hispanicPct": 60.49
+        }
+      },
+      "election": {
+        "districtId": "SD-20",
+        "chamber": "senate",
+        "winner": "Caroline Menjivar",
+        "winnerParty": "DEM",
+        "winnerPct": 58.5,
+        "opposed": true,
+        "runnerUp": "Daniel Hertzberg",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 41.5
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "California Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 95719,
+        "medianAge": 36.8,
+        "totalPopulation": 1019893,
+        "collegePct": 32.29,
+        "renterRatePct": 43.73,
+        "race": {
+          "whitePct": 54.67,
+          "nonHispanicWhitePct": 37.8,
+          "blackPct": 1.75,
+          "asianPct": 5.29,
+          "hispanicPct": 51.46
+        }
+      },
+      "election": {
+        "districtId": "SD-21",
+        "chamber": "senate",
+        "winner": "S. Monique Limón",
+        "winnerParty": "DEM",
+        "winnerPct": 63.3,
+        "opposed": true,
+        "runnerUp": "Elijah Mack",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 36.7
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "California Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86606,
+        "medianAge": 36.8,
+        "totalPopulation": 1001372,
+        "collegePct": 23.19,
+        "renterRatePct": 42.14,
+        "race": {
+          "whitePct": 27.34,
+          "nonHispanicWhitePct": 13.49,
+          "blackPct": 4.1,
+          "asianPct": 16.56,
+          "hispanicPct": 63.44
+        }
+      },
+      "election": {
+        "districtId": "SD-22",
+        "chamber": "senate",
+        "winner": "Susan Rubio",
+        "winnerParty": "DEM",
+        "winnerPct": 58.5,
+        "opposed": true,
+        "runnerUp": "Vincent Tsai",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 41.5
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "California Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86836,
+        "medianAge": 35,
+        "totalPopulation": 1026515,
+        "collegePct": 23,
+        "renterRatePct": 33.16,
+        "race": {
+          "whitePct": 44.22,
+          "nonHispanicWhitePct": 30.09,
+          "blackPct": 10.78,
+          "asianPct": 5.95,
+          "hispanicPct": 49.26
+        }
+      },
+      "election": {
+        "districtId": "SD-23",
+        "chamber": "senate",
+        "winner": "Suzette Martinez Valladares",
+        "winnerParty": "REP",
+        "winnerPct": 52.4,
+        "opposed": true,
+        "runnerUp": "Kipp Mueller",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 47.6
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "California Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 120019,
+        "medianAge": 40.8,
+        "totalPopulation": 1005044,
+        "collegePct": 64.27,
+        "renterRatePct": 54.79,
+        "race": {
+          "whitePct": 59.46,
+          "nonHispanicWhitePct": 55.54,
+          "blackPct": 3.99,
+          "asianPct": 17.72,
+          "hispanicPct": 15.98
+        }
+      },
+      "election": {
+        "districtId": "SD-24",
+        "chamber": "senate",
+        "winner": "Ben Allen",
+        "winnerParty": "DEM",
+        "winnerPct": 67.1,
+        "opposed": true,
+        "runnerUp": "Kristina Irwin",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 32.9
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "California Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101810,
+        "medianAge": 42.3,
+        "totalPopulation": 1013338,
+        "collegePct": 47.21,
+        "renterRatePct": 47.97,
+        "race": {
+          "whitePct": 39.55,
+          "nonHispanicWhitePct": 33.78,
+          "blackPct": 3.63,
+          "asianPct": 31.86,
+          "hispanicPct": 26.45
+        }
+      },
+      "election": {
+        "districtId": "SD-25",
+        "chamber": "senate",
+        "winner": "Sasha Renée Pérez",
+        "winnerParty": "DEM",
+        "winnerPct": 59.6,
+        "opposed": true,
+        "runnerUp": "Elizabeth Wong Ahlers",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 40.4
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "California Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67285,
+        "medianAge": 36.6,
+        "totalPopulation": 943462,
+        "collegePct": 33.92,
+        "renterRatePct": 76.32,
+        "race": {
+          "whitePct": 27.1,
+          "nonHispanicWhitePct": 17.36,
+          "blackPct": 3.79,
+          "asianPct": 17.14,
+          "hispanicPct": 58.92
+        }
+      },
+      "election": {
+        "districtId": "SD-26",
+        "chamber": "senate",
+        "winner": "Maria Elena Durazo",
+        "winnerParty": "DEM",
+        "winnerPct": 82.9,
+        "opposed": true,
+        "runnerUp": "Claudia Agraz",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 17.1
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "California Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111714,
+        "medianAge": 41.1,
+        "totalPopulation": 988954,
+        "collegePct": 49.1,
+        "renterRatePct": 43.53,
+        "race": {
+          "whitePct": 60.31,
+          "nonHispanicWhitePct": 54.76,
+          "blackPct": 4.4,
+          "asianPct": 11.85,
+          "hispanicPct": 23.38
+        }
+      },
+      "election": {
+        "districtId": "SD-27",
+        "chamber": "senate",
+        "winner": "Henry Stern",
+        "winnerParty": "DEM",
+        "winnerPct": 59.5,
+        "opposed": true,
+        "runnerUp": "Lucie Volotzky",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 40.5
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "California Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78260,
+        "medianAge": 35.6,
+        "totalPopulation": 968568,
+        "collegePct": 37.8,
+        "renterRatePct": 67.79,
+        "race": {
+          "whitePct": 29.14,
+          "nonHispanicWhitePct": 20.78,
+          "blackPct": 19.18,
+          "asianPct": 8.92,
+          "hispanicPct": 46.8
+        }
+      },
+      "election": {
+        "districtId": "SD-28",
+        "chamber": "senate",
+        "winner": "Lola Smallwood-Cuevas",
+        "winnerParty": "DEM",
+        "winnerPct": 59.9,
+        "opposed": true,
+        "runnerUp": "Cheryl C. Turner",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 40.1
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "California Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83361,
+        "medianAge": 33.2,
+        "totalPopulation": 943809,
+        "collegePct": 20.42,
+        "renterRatePct": 42.01,
+        "race": {
+          "whitePct": 30.61,
+          "nonHispanicWhitePct": 16.93,
+          "blackPct": 9.16,
+          "asianPct": 6.78,
+          "hispanicPct": 64.02
+        }
+      },
+      "election": {
+        "districtId": "SD-29",
+        "chamber": "senate",
+        "winner": "Eloise Gomez Reyes",
+        "winnerParty": "DEM",
+        "winnerPct": 57,
+        "opposed": true,
+        "runnerUp": "Carlos A. Garcia",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 43
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "California Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94514,
+        "medianAge": 39.3,
+        "totalPopulation": 967375,
+        "collegePct": 28.65,
+        "renterRatePct": 37.09,
+        "race": {
+          "whitePct": 25.51,
+          "nonHispanicWhitePct": 12.81,
+          "blackPct": 3.04,
+          "asianPct": 20.86,
+          "hispanicPct": 61.01
+        }
+      },
+      "election": {
+        "districtId": "SD-30",
+        "chamber": "senate",
+        "winner": "Bob Archuleta",
+        "winnerParty": "DEM",
+        "winnerPct": 61,
+        "opposed": true,
+        "runnerUp": "Mitch Clemmons",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 39
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "California Senate District 31",
+      "census": {
+        "censusName": "State Senate District 31 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88446,
+        "medianAge": 32.9,
+        "totalPopulation": 958761,
+        "collegePct": 19.43,
+        "renterRatePct": 37.66,
+        "race": {
+          "whitePct": 29.85,
+          "nonHispanicWhitePct": 18.4,
+          "blackPct": 8.33,
+          "asianPct": 7.71,
+          "hispanicPct": 62.77
+        }
+      },
+      "election": {
+        "districtId": "SD-31",
+        "chamber": "senate",
+        "winner": "Sabrina Cervantes",
+        "winnerParty": "DEM",
+        "winnerPct": 54.3,
+        "opposed": true,
+        "runnerUp": "Cynthia Navarro",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 45.7
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "California Senate District 32",
+      "census": {
+        "censusName": "State Senate District 32 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116116,
+        "medianAge": 38.2,
+        "totalPopulation": 956941,
+        "collegePct": 35.05,
+        "renterRatePct": 23.94,
+        "race": {
+          "whitePct": 50.66,
+          "nonHispanicWhitePct": 42.65,
+          "blackPct": 5.28,
+          "asianPct": 12.93,
+          "hispanicPct": 33.41
+        }
+      },
+      "election": {
+        "districtId": "SD-32",
+        "chamber": "senate",
+        "winner": "Kelly Seyarto",
+        "winnerParty": "REP",
+        "winnerPct": 62,
+        "opposed": true,
+        "runnerUp": "Brian Nash",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 38
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "California Senate District 33",
+      "census": {
+        "censusName": "State Senate District 33 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77936,
+        "medianAge": 35.6,
+        "totalPopulation": 1013667,
+        "collegePct": 23.93,
+        "renterRatePct": 58.05,
+        "race": {
+          "whitePct": 33.23,
+          "nonHispanicWhitePct": 16.46,
+          "blackPct": 7.62,
+          "asianPct": 7.96,
+          "hispanicPct": 65.11
+        }
+      },
+      "election": {
+        "districtId": "SD-33",
+        "chamber": "senate",
+        "winner": "Lena A. Gonzalez",
+        "winnerParty": "DEM",
+        "winnerPct": 69.9,
+        "opposed": true,
+        "runnerUp": "Mario Paz",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 30.1
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "California Senate District 34",
+      "census": {
+        "censusName": "State Senate District 34 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88616,
+        "medianAge": 34.9,
+        "totalPopulation": 940937,
+        "collegePct": 23.81,
+        "renterRatePct": 55.41,
+        "race": {
+          "whitePct": 30.73,
+          "nonHispanicWhitePct": 15.11,
+          "blackPct": 1.77,
+          "asianPct": 16.42,
+          "hispanicPct": 64.56
+        }
+      },
+      "election": {
+        "districtId": "SD-34",
+        "chamber": "senate",
+        "winner": "Tom Umberg",
+        "winnerParty": "DEM",
+        "winnerPct": 58.8,
+        "opposed": true,
+        "runnerUp": "Rhonda Shader",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 41.2
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "California Senate District 35",
+      "census": {
+        "censusName": "State Senate District 35 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73310,
+        "medianAge": 35.5,
+        "totalPopulation": 929867,
+        "collegePct": 20.76,
+        "renterRatePct": 55.14,
+        "race": {
+          "whitePct": 22.6,
+          "nonHispanicWhitePct": 7.71,
+          "blackPct": 21.12,
+          "asianPct": 7.67,
+          "hispanicPct": 60.49
+        }
+      },
+      "election": {
+        "districtId": "SD-35",
+        "chamber": "senate",
+        "winner": "Laura Richardson",
+        "winnerParty": "DEM",
+        "winnerPct": 50.6,
+        "opposed": true,
+        "runnerUp": "Michelle Chambers",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 49.4
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "California Senate District 36",
+      "census": {
+        "censusName": "State Senate District 36 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 114174,
+        "medianAge": 43.4,
+        "totalPopulation": 974667,
+        "collegePct": 43.81,
+        "renterRatePct": 40.57,
+        "race": {
+          "whitePct": 48.2,
+          "nonHispanicWhitePct": 42.15,
+          "blackPct": 1.84,
+          "asianPct": 27.46,
+          "hispanicPct": 23.6
+        }
+      },
+      "election": {
+        "districtId": "SD-36",
+        "chamber": "senate",
+        "winner": "Janet Nguyen",
+        "winnerParty": "REP",
+        "winnerPct": 56.9,
+        "opposed": true,
+        "runnerUp": "Kim Carr",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 43.1
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "California Senate District 37",
+      "census": {
+        "censusName": "State Senate District 37 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 125408,
+        "medianAge": 38.4,
+        "totalPopulation": 1013359,
+        "collegePct": 55.56,
+        "renterRatePct": 43.54,
+        "race": {
+          "whitePct": 50.28,
+          "nonHispanicWhitePct": 44.14,
+          "blackPct": 1.85,
+          "asianPct": 24.99,
+          "hispanicPct": 23.08
+        }
+      },
+      "election": {
+        "districtId": "SD-37",
+        "chamber": "senate",
+        "winner": "Steven \"Steve\" Choi",
+        "winnerParty": "REP",
+        "winnerPct": 50.7,
+        "opposed": true,
+        "runnerUp": "Josh Newman",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 49.3
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "California Senate District 38",
+      "census": {
+        "censusName": "State Senate District 38 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 123352,
+        "medianAge": 38.6,
+        "totalPopulation": 961768,
+        "collegePct": 52.94,
+        "renterRatePct": 38.13,
+        "race": {
+          "whitePct": 63.46,
+          "nonHispanicWhitePct": 56.52,
+          "blackPct": 2.18,
+          "asianPct": 9.79,
+          "hispanicPct": 25.12
+        }
+      },
+      "election": {
+        "districtId": "SD-38",
+        "chamber": "senate",
+        "winner": "Catherine Blakespear",
+        "winnerParty": "DEM",
+        "winnerPct": 52.2,
+        "opposed": true,
+        "runnerUp": "Matt Gunderson",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 47.8
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "California Senate District 39",
+      "census": {
+        "censusName": "State Senate District 39 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91400,
+        "medianAge": 36.1,
+        "totalPopulation": 1042688,
+        "collegePct": 40.83,
+        "renterRatePct": 54.34,
+        "race": {
+          "whitePct": 53.24,
+          "nonHispanicWhitePct": 44.55,
+          "blackPct": 8.13,
+          "asianPct": 11.07,
+          "hispanicPct": 30.46
+        }
+      },
+      "election": {
+        "districtId": "SD-39",
+        "chamber": "senate",
+        "winner": "Akilah Weber",
+        "winnerParty": "DEM",
+        "winnerPct": 63,
+        "opposed": true,
+        "runnerUp": "Bob Divine",
+        "runnerUpParty": "REP",
+        "runnerUpPct": 37
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "California Senate District 40",
+      "census": {
+        "censusName": "State Senate District 40 (2022); California",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116513,
+        "medianAge": 38.7,
+        "totalPopulation": 938314,
+        "collegePct": 45.03,
+        "renterRatePct": 35.27,
+        "race": {
+          "whitePct": 55.75,
+          "nonHispanicWhitePct": 48.43,
+          "blackPct": 2.03,
+          "asianPct": 16.45,
+          "hispanicPct": 26.99
+        }
+      },
+      "election": {
+        "districtId": "SD-40",
+        "chamber": "senate",
+        "winner": "Brian W. Jones",
+        "winnerParty": "REP",
+        "winnerPct": 53.1,
+        "opposed": true,
+        "runnerUp": "Joseph C. Rocha",
+        "runnerUpParty": "DEM",
+        "runnerUpPct": 46.9
+      }
+    }
+  }
+}

@@ -27,7 +27,6 @@ if (!process.env.ANTHROPIC_API_KEY) {
 }
 
 const filePath = path.resolve(process.cwd(), targetFile);
-const okPath   = path.resolve(process.cwd(), 'ok-districts.js');
 
 // ── Extract and evaluate a dashboard block from a districts file ──────────────
 
@@ -62,49 +61,6 @@ function evalDashboard(raw) {
     return new Function('DEMO_COLORS', `return (${raw});`)(DEMO_COLORS);
   } catch { return null; }
 }
-
-// ── Load example briefs from ok-districts.js ─────────────────────────────────
-
-const okSrc = fs.readFileSync(okPath, 'utf8');
-
-function getExampleDashboard(id) {
-  const raw = extractDashboardJSON(okSrc, id);
-  return raw ? evalDashboard(raw) : null;
-}
-
-const exampleHD4  = getExampleDashboard('ok-hd-4');
-const exampleHD15 = getExampleDashboard('ok-hd-15');
-const exampleHD65 = getExampleDashboard('ok-hd-65');
-
-if (!exampleHD4 || !exampleHD15 || !exampleHD65) {
-  console.error('Could not load example briefs from ok-districts.js');
-  process.exit(1);
-}
-
-function briefToText(label, d) {
-  const issueLines = d.issues.map(
-    i => `  - name: "${i.name}", tag: "${i.tag}"\n    why: "${i.why}"`
-  ).join('\n');
-  return `=== ${label} ===
-memoHeadline: ${d.memoHeadline}
-
-memoParagraphs:
-1. ${d.memoParagraphs[0]}
-2. ${d.memoParagraphs[1]}
-
-memoBullets:
-- ${d.memoBullets.join('\n- ')}
-
-issues:
-${issueLines}
-`;
-}
-
-const EXAMPLES_TEXT = [
-  briefToText('HD-4 (Cherokee Nation / University Town, 68% R)',              exampleHD4),
-  briefToText('HD-15 (Most competitive in sequence, 53% R, AIAN swing)',      exampleHD15),
-  briefToText('HD-65 (SW Oklahoma, 60% R, largest AIAN gap, youngest dist)',  exampleHD65),
-].join('\n');
 
 // ── Scan target file for districts with empty issues ─────────────────────────
 
@@ -164,7 +120,7 @@ function buildPrompt(districtId, dashboard) {
 
   return `You are a nonpartisan political strategist producing district intelligence briefs. Optimize for vote-winning strategy specific to each district's competitive context — analyze what the data reveals about the constituency and what a candidate must do to win or hold this seat. Do not apply partisan ideology frames.
 
-Produce a complete brief for ${districtId} based on its demographic and electoral data.
+Produce a complete brief for ${districtId} based on its demographic and electoral data below. Ground every claim strictly in this district's own numbers — do not invent facts not present in the data, and do not reference or compare to any other state, district, or region by name. Treat this district as a self-contained case: all framing, comparisons, and strategic claims must derive only from the stats, demographics, and partisan result given here.
 
 ## District Data
 
@@ -176,10 +132,6 @@ ${demos}
 (If these categories sum to less than 100%, the gap is almost certainly American Indian / Alaska Native — note it in analysis where relevant)
 
 Partisan result: ${partisan} (Dem: ${dem}%, Rep: ${rep}%)
-
-## Quality Examples — Study and Match
-
-${EXAMPLES_TEXT}
 
 ## Output Format
 
@@ -207,7 +159,8 @@ Constraints:
 - memoHeadline: one punchy sentence capturing the district's strategic essence.
 - memoParagraphs: exactly 2 strings, each 4-6 sentences. Rich analytical prose, not summaries.
 - memoBullets: exactly 4 strings, each 1-2 sentences. Actionable strategic guidance.
-- Reference specific numbers from the district data (income, margins, percentages) throughout.`;
+- Reference specific numbers from the district data (income, margins, percentages) throughout.
+- Do not name any other state, district, city, or region anywhere in the output (the "city"/"region" fields above describe this district's own location only) — every comparison must be implicit and grounded in this district's own data, not a named external place.`;
 }
 
 // ── Serialize a brief back into JS source ─────────────────────────────────────

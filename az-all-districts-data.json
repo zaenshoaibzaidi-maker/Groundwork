@@ -1,0 +1,1980 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Arizona House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66143,
+        "medianAge": 55,
+        "totalPopulation": 243403,
+        "collegePct": 29.69,
+        "renterRatePct": 26.58,
+        "race": {
+          "whitePct": 82.55,
+          "nonHispanicWhitePct": 78.22,
+          "blackPct": 0.55,
+          "asianPct": 1.08,
+          "hispanicPct": 15.1
+        }
+      },
+      "election": {
+        "district": 1,
+        "winners": [
+          {
+            "lastName": "Bliss",
+            "party": "R",
+            "pct": 33.91
+          },
+          {
+            "lastName": "Nguyen",
+            "party": "R",
+            "pct": 33.54
+          }
+        ],
+        "partisanPct": 16.9
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Arizona House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76622,
+        "medianAge": 37,
+        "totalPopulation": 248886,
+        "collegePct": 33.49,
+        "renterRatePct": 41.44,
+        "race": {
+          "whitePct": 67.88,
+          "nonHispanicWhitePct": 59.99,
+          "blackPct": 5.17,
+          "asianPct": 5.49,
+          "hispanicPct": 23.71
+        }
+      },
+      "election": {
+        "district": 2,
+        "winners": [
+          {
+            "lastName": "Simacek",
+            "party": "D",
+            "pct": 30.35
+          },
+          {
+            "lastName": "Wilmeth",
+            "party": "R",
+            "pct": 29.8
+          }
+        ],
+        "partisanPct": 30.35
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Arizona House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 128451,
+        "medianAge": 52,
+        "totalPopulation": 240213,
+        "collegePct": 56.8,
+        "renterRatePct": 16.81,
+        "race": {
+          "whitePct": 85.6,
+          "nonHispanicWhitePct": 82.41,
+          "blackPct": 1.27,
+          "asianPct": 4.5,
+          "hispanicPct": 7.08
+        }
+      },
+      "election": {
+        "district": 3,
+        "winners": [
+          {
+            "lastName": "Chaplik",
+            "party": "R",
+            "pct": 39.38
+          },
+          {
+            "lastName": "Kolodin",
+            "party": "R",
+            "pct": 37.32
+          }
+        ],
+        "partisanPct": 23.3
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Arizona House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107418,
+        "medianAge": 45.3,
+        "totalPopulation": 244893,
+        "collegePct": 58.64,
+        "renterRatePct": 31.69,
+        "race": {
+          "whitePct": 79.2,
+          "nonHispanicWhitePct": 75.89,
+          "blackPct": 2.39,
+          "asianPct": 6.26,
+          "hispanicPct": 10.43
+        }
+      },
+      "election": {
+        "district": 4,
+        "winners": [
+          {
+            "lastName": "Gress",
+            "party": "R",
+            "pct": 27.5
+          },
+          {
+            "lastName": "Carter",
+            "party": "R",
+            "pct": 25.1
+          }
+        ],
+        "partisanPct": 24.13
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Arizona House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70012,
+        "medianAge": 36.2,
+        "totalPopulation": 240791,
+        "collegePct": 40.16,
+        "renterRatePct": 56.63,
+        "race": {
+          "whitePct": 58.81,
+          "nonHispanicWhitePct": 47.2,
+          "blackPct": 7.13,
+          "asianPct": 2.97,
+          "hispanicPct": 36.69
+        }
+      },
+      "election": {
+        "district": 5,
+        "winners": [
+          {
+            "lastName": "Liguori",
+            "party": "D",
+            "pct": 40.54
+          },
+          {
+            "lastName": "Márquez",
+            "party": "D",
+            "pct": 38.7
+          }
+        ],
+        "partisanPct": 79.24
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Arizona House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52885,
+        "medianAge": 35,
+        "totalPopulation": 222516,
+        "collegePct": 20.58,
+        "renterRatePct": 32.13,
+        "race": {
+          "whitePct": 27.92,
+          "nonHispanicWhitePct": 25.19,
+          "blackPct": 0.92,
+          "asianPct": 0.63,
+          "hispanicPct": 9.94
+        }
+      },
+      "election": {
+        "district": 6,
+        "winners": [
+          {
+            "lastName": "Tsosie",
+            "party": "D",
+            "pct": 34.77
+          },
+          {
+            "lastName": "Peshlakai",
+            "party": "D",
+            "pct": 33.48
+          }
+        ],
+        "partisanPct": 68.25
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Arizona House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66136,
+        "medianAge": 45.2,
+        "totalPopulation": 247634,
+        "collegePct": 27.72,
+        "renterRatePct": 24.17,
+        "race": {
+          "whitePct": 76.99,
+          "nonHispanicWhitePct": 70.46,
+          "blackPct": 2.04,
+          "asianPct": 1.4,
+          "hispanicPct": 18.75
+        }
+      },
+      "election": {
+        "district": 7,
+        "winners": [
+          {
+            "lastName": "Blackman",
+            "party": "R",
+            "pct": 32.79
+          },
+          {
+            "lastName": "Marshall",
+            "party": "R",
+            "pct": 32.36
+          }
+        ],
+        "partisanPct": 18.14
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Arizona House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73270,
+        "medianAge": 30.4,
+        "totalPopulation": 250535,
+        "collegePct": 44.26,
+        "renterRatePct": 60.06,
+        "race": {
+          "whitePct": 60.31,
+          "nonHispanicWhitePct": 52.81,
+          "blackPct": 7.2,
+          "asianPct": 5.52,
+          "hispanicPct": 26.1
+        }
+      },
+      "election": {
+        "district": 8,
+        "winners": [
+          {
+            "lastName": "Connolly",
+            "party": "D",
+            "pct": 35.1
+          },
+          {
+            "lastName": "Garcia",
+            "party": "D",
+            "pct": 34.32
+          }
+        ],
+        "partisanPct": 69.42
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Arizona House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67030,
+        "medianAge": 33,
+        "totalPopulation": 237829,
+        "collegePct": 27.21,
+        "renterRatePct": 48.07,
+        "race": {
+          "whitePct": 62.13,
+          "nonHispanicWhitePct": 50.02,
+          "blackPct": 5.64,
+          "asianPct": 2.11,
+          "hispanicPct": 35.81
+        }
+      },
+      "election": {
+        "district": 9,
+        "winners": [
+          {
+            "lastName": "Austin",
+            "party": "D",
+            "pct": 26.5
+          },
+          {
+            "lastName": "Blattman",
+            "party": "D",
+            "pct": 25
+          }
+        ],
+        "partisanPct": 51.5
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Arizona House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76631,
+        "medianAge": 47.1,
+        "totalPopulation": 236229,
+        "collegePct": 30.23,
+        "renterRatePct": 24.82,
+        "race": {
+          "whitePct": 78.4,
+          "nonHispanicWhitePct": 72.04,
+          "blackPct": 2.94,
+          "asianPct": 2.25,
+          "hispanicPct": 18.16
+        }
+      },
+      "election": {
+        "district": 10,
+        "winners": [
+          {
+            "lastName": "Olson",
+            "party": "R",
+            "pct": 31.02
+          },
+          {
+            "lastName": "Heap",
+            "party": "R",
+            "pct": 30.18
+          }
+        ],
+        "partisanPct": 19.41
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Arizona House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72936,
+        "medianAge": 33,
+        "totalPopulation": 235819,
+        "collegePct": 22.43,
+        "renterRatePct": 37.05,
+        "race": {
+          "whitePct": 34.85,
+          "nonHispanicWhitePct": 19.5,
+          "blackPct": 15.76,
+          "asianPct": 3.21,
+          "hispanicPct": 57.21
+        }
+      },
+      "election": {
+        "district": 11,
+        "winners": [
+          {
+            "lastName": "De Los Santos",
+            "party": "D",
+            "pct": 37.44
+          },
+          {
+            "lastName": "Cavero",
+            "party": "D",
+            "pct": 34.76
+          }
+        ],
+        "partisanPct": 72.2
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Arizona House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101020,
+        "medianAge": 38.2,
+        "totalPopulation": 242589,
+        "collegePct": 50.51,
+        "renterRatePct": 36.95,
+        "race": {
+          "whitePct": 66.12,
+          "nonHispanicWhitePct": 60.07,
+          "blackPct": 5.57,
+          "asianPct": 8.32,
+          "hispanicPct": 19.2
+        }
+      },
+      "election": {
+        "district": 12,
+        "winners": [
+          {
+            "lastName": "Contreras",
+            "party": "D",
+            "pct": 36.41
+          },
+          {
+            "lastName": "Travers",
+            "party": "D",
+            "pct": 35.95
+          }
+        ],
+        "partisanPct": 72.36
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Arizona House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104128,
+        "medianAge": 40.3,
+        "totalPopulation": 236842,
+        "collegePct": 46.68,
+        "renterRatePct": 30.19,
+        "race": {
+          "whitePct": 63.99,
+          "nonHispanicWhitePct": 57.01,
+          "blackPct": 4.98,
+          "asianPct": 11.62,
+          "hispanicPct": 20.34
+        }
+      },
+      "election": {
+        "district": 13,
+        "winners": [
+          {
+            "lastName": "Weninger",
+            "party": "R",
+            "pct": 25.94
+          },
+          {
+            "lastName": "Willoughby",
+            "party": "R",
+            "pct": 25.69
+          }
+        ],
+        "partisanPct": 23.77
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Arizona House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 124380,
+        "medianAge": 35.4,
+        "totalPopulation": 245952,
+        "collegePct": 48.18,
+        "renterRatePct": 24.53,
+        "race": {
+          "whitePct": 73.29,
+          "nonHispanicWhitePct": 67.06,
+          "blackPct": 3.29,
+          "asianPct": 6.17,
+          "hispanicPct": 17.32
+        }
+      },
+      "election": {
+        "district": 14,
+        "winners": [
+          {
+            "lastName": "Hendrix",
+            "party": "R",
+            "pct": 43.31
+          },
+          {
+            "lastName": "Powell",
+            "party": "R",
+            "pct": 40.22
+          }
+        ],
+        "partisanPct": 0
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Arizona House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107761,
+        "medianAge": 36.5,
+        "totalPopulation": 252411,
+        "collegePct": 34.52,
+        "renterRatePct": 14.86,
+        "race": {
+          "whitePct": 75.04,
+          "nonHispanicWhitePct": 67.58,
+          "blackPct": 3.86,
+          "asianPct": 2.83,
+          "hispanicPct": 19.89
+        }
+      },
+      "election": {
+        "district": 15,
+        "winners": [
+          {
+            "lastName": "Way",
+            "party": "R",
+            "pct": 39.34
+          },
+          {
+            "lastName": "Carter",
+            "party": "R",
+            "pct": 37.56
+          }
+        ],
+        "partisanPct": 23.09
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Arizona House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73143,
+        "medianAge": 38.6,
+        "totalPopulation": 253227,
+        "collegePct": 20.5,
+        "renterRatePct": 23.1,
+        "race": {
+          "whitePct": 55.89,
+          "nonHispanicWhitePct": 44.19,
+          "blackPct": 6.13,
+          "asianPct": 1.75,
+          "hispanicPct": 36.7
+        }
+      },
+      "election": {
+        "district": 16,
+        "winners": [
+          {
+            "lastName": "Martinez",
+            "party": "R",
+            "pct": 36.26
+          },
+          {
+            "lastName": "Lopez",
+            "party": "R",
+            "pct": 33.1
+          }
+        ],
+        "partisanPct": 30.64
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Arizona House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97264,
+        "medianAge": 46.5,
+        "totalPopulation": 244345,
+        "collegePct": 46.14,
+        "renterRatePct": 18.1,
+        "race": {
+          "whitePct": 75.9,
+          "nonHispanicWhitePct": 68.61,
+          "blackPct": 2.78,
+          "asianPct": 3.08,
+          "hispanicPct": 20.53
+        }
+      },
+      "election": {
+        "district": 17,
+        "winners": [
+          {
+            "lastName": "Volk",
+            "party": "D",
+            "pct": 34.49
+          },
+          {
+            "lastName": "Jones",
+            "party": "R",
+            "pct": 33.39
+          }
+        ],
+        "partisanPct": 34.49
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Arizona House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68998,
+        "medianAge": 45.9,
+        "totalPopulation": 241376,
+        "collegePct": 45.29,
+        "renterRatePct": 43.78,
+        "race": {
+          "whitePct": 71.21,
+          "nonHispanicWhitePct": 62.97,
+          "blackPct": 3.93,
+          "asianPct": 4.05,
+          "hispanicPct": 22.75
+        }
+      },
+      "election": {
+        "district": 18,
+        "winners": [
+          {
+            "lastName": "Gutierrez",
+            "party": "D",
+            "pct": 38.51
+          },
+          {
+            "lastName": "Mathis",
+            "party": "D",
+            "pct": 35.83
+          }
+        ],
+        "partisanPct": 74.34
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Arizona House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67707,
+        "medianAge": 44.5,
+        "totalPopulation": 230662,
+        "collegePct": 30.64,
+        "renterRatePct": 23.78,
+        "race": {
+          "whitePct": 72.06,
+          "nonHispanicWhitePct": 60.78,
+          "blackPct": 3.24,
+          "asianPct": 1.8,
+          "hispanicPct": 29.53
+        }
+      },
+      "election": {
+        "district": 19,
+        "winners": [
+          {
+            "lastName": "Griffin",
+            "party": "R",
+            "pct": 39.19
+          },
+          {
+            "lastName": "Diaz",
+            "party": "R",
+            "pct": 35.41
+          }
+        ],
+        "partisanPct": 25.41
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Arizona House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46142,
+        "medianAge": 31.4,
+        "totalPopulation": 239387,
+        "collegePct": 26.08,
+        "renterRatePct": 51.08,
+        "race": {
+          "whitePct": 51.89,
+          "nonHispanicWhitePct": 34.84,
+          "blackPct": 3.05,
+          "asianPct": 3.25,
+          "hispanicPct": 53.22
+        }
+      },
+      "election": {
+        "district": 20,
+        "winners": [
+          {
+            "lastName": "Hernandez",
+            "party": "D",
+            "pct": 51.8
+          },
+          {
+            "lastName": "Villegas",
+            "party": "D",
+            "pct": 48.2
+          }
+        ],
+        "partisanPct": 100
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Arizona House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57810,
+        "medianAge": 34.3,
+        "totalPopulation": 245082,
+        "collegePct": 22.11,
+        "renterRatePct": 37.22,
+        "race": {
+          "whitePct": 49.85,
+          "nonHispanicWhitePct": 31.12,
+          "blackPct": 4.44,
+          "asianPct": 1.51,
+          "hispanicPct": 58.6
+        }
+      },
+      "election": {
+        "district": 21,
+        "winners": [
+          {
+            "lastName": "Hernandez",
+            "party": "D",
+            "pct": 38.57
+          },
+          {
+            "lastName": "Stahl Hamilton",
+            "party": "D",
+            "pct": 34.37
+          }
+        ],
+        "partisanPct": 72.94
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Arizona House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80625,
+        "medianAge": 30.7,
+        "totalPopulation": 248460,
+        "collegePct": 16.96,
+        "renterRatePct": 38.93,
+        "race": {
+          "whitePct": 38.11,
+          "nonHispanicWhitePct": 20.29,
+          "blackPct": 11.16,
+          "asianPct": 2.28,
+          "hispanicPct": 62.3
+        }
+      },
+      "election": {
+        "district": 22,
+        "winners": [
+          {
+            "lastName": "Chavira Contreras",
+            "party": "D",
+            "pct": 34.15
+          },
+          {
+            "lastName": "Luna-Nájera",
+            "party": "D",
+            "pct": 30.08
+          }
+        ],
+        "partisanPct": 64.23
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Arizona House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70416,
+        "medianAge": 34.6,
+        "totalPopulation": 236993,
+        "collegePct": 19.43,
+        "renterRatePct": 29.05,
+        "race": {
+          "whitePct": 44.67,
+          "nonHispanicWhitePct": 26.08,
+          "blackPct": 2.91,
+          "asianPct": 1.42,
+          "hispanicPct": 63.22
+        }
+      },
+      "election": {
+        "district": 23,
+        "winners": [
+          {
+            "lastName": "Pena",
+            "party": "R",
+            "pct": 34.16
+          },
+          {
+            "lastName": "Sandoval",
+            "party": "D",
+            "pct": 33.63
+          }
+        ],
+        "partisanPct": 65.83
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Arizona House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58309,
+        "medianAge": 30.4,
+        "totalPopulation": 236850,
+        "collegePct": 12.14,
+        "renterRatePct": 47.33,
+        "race": {
+          "whitePct": 39.31,
+          "nonHispanicWhitePct": 20.64,
+          "blackPct": 7.51,
+          "asianPct": 2.48,
+          "hispanicPct": 65.59
+        }
+      },
+      "election": {
+        "district": 24,
+        "winners": [
+          {
+            "lastName": "Hernandez",
+            "party": "D",
+            "pct": 53.9
+          },
+          {
+            "lastName": "Abeytia",
+            "party": "D",
+            "pct": 46.1
+          }
+        ],
+        "partisanPct": 100
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Arizona House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84751,
+        "medianAge": 37.4,
+        "totalPopulation": 263527,
+        "collegePct": 22.79,
+        "renterRatePct": 17.64,
+        "race": {
+          "whitePct": 63.44,
+          "nonHispanicWhitePct": 50.36,
+          "blackPct": 4.55,
+          "asianPct": 1.6,
+          "hispanicPct": 38.47
+        }
+      },
+      "election": {
+        "district": 25,
+        "winners": [
+          {
+            "lastName": "Carbone",
+            "party": "R",
+            "pct": 39.33
+          },
+          {
+            "lastName": "Kupper",
+            "party": "R",
+            "pct": 36.77
+          }
+        ],
+        "partisanPct": 23.9
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Arizona House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55431,
+        "medianAge": 30.4,
+        "totalPopulation": 237805,
+        "collegePct": 15.11,
+        "renterRatePct": 53.57,
+        "race": {
+          "whitePct": 38.62,
+          "nonHispanicWhitePct": 19.91,
+          "blackPct": 7.89,
+          "asianPct": 2.91,
+          "hispanicPct": 63.95
+        }
+      },
+      "election": {
+        "district": 26,
+        "winners": [
+          {
+            "lastName": "Aguilar",
+            "party": "D",
+            "pct": 35.83
+          },
+          {
+            "lastName": "Crews",
+            "party": "D",
+            "pct": 30.99
+          }
+        ],
+        "partisanPct": 66.82
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Arizona House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81593,
+        "medianAge": 38,
+        "totalPopulation": 243988,
+        "collegePct": 28.19,
+        "renterRatePct": 32.83,
+        "race": {
+          "whitePct": 68.37,
+          "nonHispanicWhitePct": 59.99,
+          "blackPct": 3.83,
+          "asianPct": 3.93,
+          "hispanicPct": 26.07
+        }
+      },
+      "election": {
+        "district": 27,
+        "winners": [
+          {
+            "lastName": "Fink",
+            "party": "R",
+            "pct": 34.78
+          },
+          {
+            "lastName": "Rivero",
+            "party": "R",
+            "pct": 34.43
+          }
+        ],
+        "partisanPct": 30.8
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Arizona House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85064,
+        "medianAge": 55.1,
+        "totalPopulation": 228663,
+        "collegePct": 38.51,
+        "renterRatePct": 15.67,
+        "race": {
+          "whitePct": 81.95,
+          "nonHispanicWhitePct": 78.89,
+          "blackPct": 2.32,
+          "asianPct": 4.92,
+          "hispanicPct": 9.48
+        }
+      },
+      "election": {
+        "district": 28,
+        "winners": [
+          {
+            "lastName": "Pingerelli",
+            "party": "R",
+            "pct": 37.78
+          },
+          {
+            "lastName": "Livingston",
+            "party": "R",
+            "pct": 37.65
+          }
+        ],
+        "partisanPct": 24.57
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Arizona House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90141,
+        "medianAge": 40.2,
+        "totalPopulation": 249427,
+        "collegePct": 30.75,
+        "renterRatePct": 23.88,
+        "race": {
+          "whitePct": 67.23,
+          "nonHispanicWhitePct": 58.65,
+          "blackPct": 5.17,
+          "asianPct": 2.69,
+          "hispanicPct": 27.12
+        }
+      },
+      "election": {
+        "district": 29,
+        "winners": [
+          {
+            "lastName": "Montenegro",
+            "party": "R",
+            "pct": 30.27
+          },
+          {
+            "lastName": "Taylor",
+            "party": "R",
+            "pct": 29.87
+          }
+        ],
+        "partisanPct": 20.44
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Arizona House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55401,
+        "medianAge": 54.5,
+        "totalPopulation": 241841,
+        "collegePct": 15.62,
+        "renterRatePct": 26.28,
+        "race": {
+          "whitePct": 81,
+          "nonHispanicWhitePct": 75.22,
+          "blackPct": 1.1,
+          "asianPct": 1.1,
+          "hispanicPct": 17.02
+        }
+      },
+      "election": {
+        "district": 30,
+        "winners": [
+          {
+            "lastName": "Biasiucci",
+            "party": "R",
+            "pct": 42.8
+          },
+          {
+            "lastName": "Gillette",
+            "party": "R",
+            "pct": 42.38
+          }
+        ],
+        "partisanPct": 14.82
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Arizona Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66143,
+        "medianAge": 55,
+        "totalPopulation": 243403,
+        "collegePct": 29.69,
+        "renterRatePct": 26.58,
+        "race": {
+          "whitePct": 82.55,
+          "nonHispanicWhitePct": 78.22,
+          "blackPct": 0.55,
+          "asianPct": 1.08,
+          "hispanicPct": 15.1
+        }
+      },
+      "election": {
+        "district": 1,
+        "winner": "Finchem",
+        "party": "R",
+        "pct": 65.9,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Fogel",
+          "party": "D"
+        }
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Arizona Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76622,
+        "medianAge": 37,
+        "totalPopulation": 248886,
+        "collegePct": 33.49,
+        "renterRatePct": 41.44,
+        "race": {
+          "whitePct": 67.88,
+          "nonHispanicWhitePct": 59.99,
+          "blackPct": 5.17,
+          "asianPct": 5.49,
+          "hispanicPct": 23.71
+        }
+      },
+      "election": {
+        "district": 2,
+        "winner": "Bolick",
+        "party": "R",
+        "pct": 50.8,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Schwiebert",
+          "party": "D"
+        }
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Arizona Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 128451,
+        "medianAge": 52,
+        "totalPopulation": 240213,
+        "collegePct": 56.8,
+        "renterRatePct": 16.81,
+        "race": {
+          "whitePct": 85.6,
+          "nonHispanicWhitePct": 82.41,
+          "blackPct": 1.27,
+          "asianPct": 4.5,
+          "hispanicPct": 7.08
+        }
+      },
+      "election": {
+        "district": 3,
+        "winner": "Kavanagh",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Arizona Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107418,
+        "medianAge": 45.3,
+        "totalPopulation": 244893,
+        "collegePct": 58.64,
+        "renterRatePct": 31.69,
+        "race": {
+          "whitePct": 79.2,
+          "nonHispanicWhitePct": 75.89,
+          "blackPct": 2.39,
+          "asianPct": 6.26,
+          "hispanicPct": 10.43
+        }
+      },
+      "election": {
+        "district": 4,
+        "winner": "Werner",
+        "party": "R",
+        "pct": 51.9,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Marsh",
+          "party": "D"
+        }
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Arizona Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70012,
+        "medianAge": 36.2,
+        "totalPopulation": 240791,
+        "collegePct": 40.16,
+        "renterRatePct": 56.63,
+        "race": {
+          "whitePct": 58.81,
+          "nonHispanicWhitePct": 47.2,
+          "blackPct": 7.13,
+          "asianPct": 2.97,
+          "hispanicPct": 36.69
+        }
+      },
+      "election": {
+        "district": 5,
+        "winner": "Alston",
+        "party": "D",
+        "pct": 68.3,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Ortega",
+          "party": "R"
+        }
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Arizona Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 52885,
+        "medianAge": 35,
+        "totalPopulation": 222516,
+        "collegePct": 20.58,
+        "renterRatePct": 32.13,
+        "race": {
+          "whitePct": 27.92,
+          "nonHispanicWhitePct": 25.19,
+          "blackPct": 0.92,
+          "asianPct": 0.63,
+          "hispanicPct": 9.94
+        }
+      },
+      "election": {
+        "district": 6,
+        "winner": "Hatathlie",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Arizona Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66136,
+        "medianAge": 45.2,
+        "totalPopulation": 247634,
+        "collegePct": 27.72,
+        "renterRatePct": 24.17,
+        "race": {
+          "whitePct": 76.99,
+          "nonHispanicWhitePct": 70.46,
+          "blackPct": 2.04,
+          "asianPct": 1.4,
+          "hispanicPct": 18.75
+        }
+      },
+      "election": {
+        "district": 7,
+        "winner": "Rogers",
+        "party": "R",
+        "pct": 65,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Creighton",
+          "party": "D"
+        }
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Arizona Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73270,
+        "medianAge": 30.4,
+        "totalPopulation": 250535,
+        "collegePct": 44.26,
+        "renterRatePct": 60.06,
+        "race": {
+          "whitePct": 60.31,
+          "nonHispanicWhitePct": 52.81,
+          "blackPct": 7.2,
+          "asianPct": 5.52,
+          "hispanicPct": 26.1
+        }
+      },
+      "election": {
+        "district": 8,
+        "winner": "Kuby",
+        "party": "D",
+        "pct": 60.6,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Holzapfel",
+          "party": "R"
+        }
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Arizona Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67030,
+        "medianAge": 33,
+        "totalPopulation": 237829,
+        "collegePct": 27.21,
+        "renterRatePct": 48.07,
+        "race": {
+          "whitePct": 62.13,
+          "nonHispanicWhitePct": 50.02,
+          "blackPct": 5.64,
+          "asianPct": 2.11,
+          "hispanicPct": 35.81
+        }
+      },
+      "election": {
+        "district": 9,
+        "winner": "Burch",
+        "party": "D",
+        "pct": 51.7,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Scantlebury",
+          "party": "R"
+        }
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Arizona Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76631,
+        "medianAge": 47.1,
+        "totalPopulation": 236229,
+        "collegePct": 30.23,
+        "renterRatePct": 24.82,
+        "race": {
+          "whitePct": 78.4,
+          "nonHispanicWhitePct": 72.04,
+          "blackPct": 2.94,
+          "asianPct": 2.25,
+          "hispanicPct": 18.16
+        }
+      },
+      "election": {
+        "district": 10,
+        "winner": "Farnsworth",
+        "party": "R",
+        "pct": 61.5,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Doyle",
+          "party": "D"
+        }
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Arizona Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72936,
+        "medianAge": 33,
+        "totalPopulation": 235819,
+        "collegePct": 22.43,
+        "renterRatePct": 37.05,
+        "race": {
+          "whitePct": 34.85,
+          "nonHispanicWhitePct": 19.5,
+          "blackPct": 15.76,
+          "asianPct": 3.21,
+          "hispanicPct": 57.21
+        }
+      },
+      "election": {
+        "district": 11,
+        "winner": "Miranda",
+        "party": "D",
+        "pct": 72.2,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Ayala",
+          "party": "R"
+        }
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Arizona Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101020,
+        "medianAge": 38.2,
+        "totalPopulation": 242589,
+        "collegePct": 50.51,
+        "renterRatePct": 36.95,
+        "race": {
+          "whitePct": 66.12,
+          "nonHispanicWhitePct": 60.07,
+          "blackPct": 5.57,
+          "asianPct": 8.32,
+          "hispanicPct": 19.2
+        }
+      },
+      "election": {
+        "district": 12,
+        "winner": "Epstein",
+        "party": "D",
+        "pct": 58.1,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Vicini",
+          "party": "R"
+        }
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Arizona Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104128,
+        "medianAge": 40.3,
+        "totalPopulation": 236842,
+        "collegePct": 46.68,
+        "renterRatePct": 30.19,
+        "race": {
+          "whitePct": 63.99,
+          "nonHispanicWhitePct": 57.01,
+          "blackPct": 4.98,
+          "asianPct": 11.62,
+          "hispanicPct": 20.34
+        }
+      },
+      "election": {
+        "district": 13,
+        "winner": "Mesnard",
+        "party": "R",
+        "pct": 53.1,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Winters",
+          "party": "D"
+        }
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Arizona Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 124380,
+        "medianAge": 35.4,
+        "totalPopulation": 245952,
+        "collegePct": 48.18,
+        "renterRatePct": 24.53,
+        "race": {
+          "whitePct": 73.29,
+          "nonHispanicWhitePct": 67.06,
+          "blackPct": 3.29,
+          "asianPct": 6.17,
+          "hispanicPct": 17.32
+        }
+      },
+      "election": {
+        "district": 14,
+        "winner": "Petersen",
+        "party": "R",
+        "pct": 60.1,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Brown",
+          "party": "D"
+        }
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Arizona Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107761,
+        "medianAge": 36.5,
+        "totalPopulation": 252411,
+        "collegePct": 34.52,
+        "renterRatePct": 14.86,
+        "race": {
+          "whitePct": 75.04,
+          "nonHispanicWhitePct": 67.58,
+          "blackPct": 3.86,
+          "asianPct": 2.83,
+          "hispanicPct": 19.89
+        }
+      },
+      "election": {
+        "district": 15,
+        "winner": "Hoffman",
+        "party": "R",
+        "pct": 63.7,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Smith",
+          "party": "D"
+        }
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Arizona Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73143,
+        "medianAge": 38.6,
+        "totalPopulation": 253227,
+        "collegePct": 20.5,
+        "renterRatePct": 23.1,
+        "race": {
+          "whitePct": 55.89,
+          "nonHispanicWhitePct": 44.19,
+          "blackPct": 6.13,
+          "asianPct": 1.75,
+          "hispanicPct": 36.7
+        }
+      },
+      "election": {
+        "district": 16,
+        "winner": "Shope",
+        "party": "R",
+        "pct": 56,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Seaman",
+          "party": "D"
+        }
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Arizona Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97264,
+        "medianAge": 46.5,
+        "totalPopulation": 244345,
+        "collegePct": 46.14,
+        "renterRatePct": 18.1,
+        "race": {
+          "whitePct": 75.9,
+          "nonHispanicWhitePct": 68.61,
+          "blackPct": 2.78,
+          "asianPct": 3.08,
+          "hispanicPct": 20.53
+        }
+      },
+      "election": {
+        "district": 17,
+        "winner": "Leach",
+        "party": "R",
+        "pct": 51,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "McLean",
+          "party": "D"
+        }
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Arizona Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68998,
+        "medianAge": 45.9,
+        "totalPopulation": 241376,
+        "collegePct": 45.29,
+        "renterRatePct": 43.78,
+        "race": {
+          "whitePct": 71.21,
+          "nonHispanicWhitePct": 62.97,
+          "blackPct": 3.93,
+          "asianPct": 4.05,
+          "hispanicPct": 22.75
+        }
+      },
+      "election": {
+        "district": 18,
+        "winner": "Sundareshan",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Arizona Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67707,
+        "medianAge": 44.5,
+        "totalPopulation": 230662,
+        "collegePct": 30.64,
+        "renterRatePct": 23.78,
+        "race": {
+          "whitePct": 72.06,
+          "nonHispanicWhitePct": 60.78,
+          "blackPct": 3.24,
+          "asianPct": 1.8,
+          "hispanicPct": 29.53
+        }
+      },
+      "election": {
+        "district": 19,
+        "winner": "Gowan",
+        "party": "R",
+        "pct": 62.6,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Karp",
+          "party": "D"
+        }
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Arizona Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 46142,
+        "medianAge": 31.4,
+        "totalPopulation": 239387,
+        "collegePct": 26.08,
+        "renterRatePct": 51.08,
+        "race": {
+          "whitePct": 51.89,
+          "nonHispanicWhitePct": 34.84,
+          "blackPct": 3.05,
+          "asianPct": 3.25,
+          "hispanicPct": 53.22
+        }
+      },
+      "election": {
+        "district": 20,
+        "winner": "Gonzales",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Arizona Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 57810,
+        "medianAge": 34.3,
+        "totalPopulation": 245082,
+        "collegePct": 22.11,
+        "renterRatePct": 37.22,
+        "race": {
+          "whitePct": 49.85,
+          "nonHispanicWhitePct": 31.12,
+          "blackPct": 4.44,
+          "asianPct": 1.51,
+          "hispanicPct": 58.6
+        }
+      },
+      "election": {
+        "district": 21,
+        "winner": "Gabaldón",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Arizona Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80625,
+        "medianAge": 30.7,
+        "totalPopulation": 248460,
+        "collegePct": 16.96,
+        "renterRatePct": 38.93,
+        "race": {
+          "whitePct": 38.11,
+          "nonHispanicWhitePct": 20.29,
+          "blackPct": 11.16,
+          "asianPct": 2.28,
+          "hispanicPct": 62.3
+        }
+      },
+      "election": {
+        "district": 22,
+        "winner": "Diaz",
+        "party": "D",
+        "pct": 64.6,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Robinson",
+          "party": "R"
+        }
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Arizona Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70416,
+        "medianAge": 34.6,
+        "totalPopulation": 236993,
+        "collegePct": 19.43,
+        "renterRatePct": 29.05,
+        "race": {
+          "whitePct": 44.67,
+          "nonHispanicWhitePct": 26.08,
+          "blackPct": 2.91,
+          "asianPct": 1.42,
+          "hispanicPct": 63.22
+        }
+      },
+      "election": {
+        "district": 23,
+        "winner": "Fernandez",
+        "party": "D",
+        "pct": 53.8,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Altherr",
+          "party": "R"
+        }
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Arizona Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 58309,
+        "medianAge": 30.4,
+        "totalPopulation": 236850,
+        "collegePct": 12.14,
+        "renterRatePct": 47.33,
+        "race": {
+          "whitePct": 39.31,
+          "nonHispanicWhitePct": 20.64,
+          "blackPct": 7.51,
+          "asianPct": 2.48,
+          "hispanicPct": 65.59
+        }
+      },
+      "election": {
+        "district": 24,
+        "winner": "Ortiz",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Arizona Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 84751,
+        "medianAge": 37.4,
+        "totalPopulation": 263527,
+        "collegePct": 22.79,
+        "renterRatePct": 17.64,
+        "race": {
+          "whitePct": 63.44,
+          "nonHispanicWhitePct": 50.36,
+          "blackPct": 4.55,
+          "asianPct": 1.6,
+          "hispanicPct": 38.47
+        }
+      },
+      "election": {
+        "district": 25,
+        "winner": "Dunn",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Arizona Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55431,
+        "medianAge": 30.4,
+        "totalPopulation": 237805,
+        "collegePct": 15.11,
+        "renterRatePct": 53.57,
+        "race": {
+          "whitePct": 38.62,
+          "nonHispanicWhitePct": 19.91,
+          "blackPct": 7.89,
+          "asianPct": 2.91,
+          "hispanicPct": 63.95
+        }
+      },
+      "election": {
+        "district": 26,
+        "winner": "Bravo",
+        "party": "D",
+        "pct": 66.3,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Harris",
+          "party": "R"
+        }
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Arizona Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81593,
+        "medianAge": 38,
+        "totalPopulation": 243988,
+        "collegePct": 28.19,
+        "renterRatePct": 32.83,
+        "race": {
+          "whitePct": 68.37,
+          "nonHispanicWhitePct": 59.99,
+          "blackPct": 3.83,
+          "asianPct": 3.93,
+          "hispanicPct": 26.07
+        }
+      },
+      "election": {
+        "district": 27,
+        "winner": "Payne",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Arizona Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85064,
+        "medianAge": 55.1,
+        "totalPopulation": 228663,
+        "collegePct": 38.51,
+        "renterRatePct": 15.67,
+        "race": {
+          "whitePct": 81.95,
+          "nonHispanicWhitePct": 78.89,
+          "blackPct": 2.32,
+          "asianPct": 4.92,
+          "hispanicPct": 9.48
+        }
+      },
+      "election": {
+        "district": 28,
+        "winner": "Carroll",
+        "party": "R",
+        "pct": 98.87,
+        "opposed": false
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Arizona Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90141,
+        "medianAge": 40.2,
+        "totalPopulation": 249427,
+        "collegePct": 30.75,
+        "renterRatePct": 23.88,
+        "race": {
+          "whitePct": 67.23,
+          "nonHispanicWhitePct": 58.65,
+          "blackPct": 5.17,
+          "asianPct": 2.69,
+          "hispanicPct": 27.12
+        }
+      },
+      "election": {
+        "district": 29,
+        "winner": "Shamp",
+        "party": "R",
+        "pct": 59.3,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "Stafford",
+          "party": "D"
+        }
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Arizona Senate District 30",
+      "census": {
+        "censusName": "State Senate District 30 (2022); Arizona",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 55401,
+        "medianAge": 54.5,
+        "totalPopulation": 241841,
+        "collegePct": 15.62,
+        "renterRatePct": 26.28,
+        "race": {
+          "whitePct": 81,
+          "nonHispanicWhitePct": 75.22,
+          "blackPct": 1.1,
+          "asianPct": 1.1,
+          "hispanicPct": 17.02
+        }
+      },
+      "election": {
+        "district": 30,
+        "winner": "Angius",
+        "party": "R",
+        "pct": 78.5,
+        "opposed": true,
+        "runnerUp": {
+          "lastName": "MorgAine",
+          "party": "D"
+        }
+      }
+    }
+  }
+}

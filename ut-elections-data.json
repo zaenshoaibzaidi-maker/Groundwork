@@ -1,0 +1,923 @@
+{
+  "senate": [
+    {
+      "district": 1,
+      "winner": "Sandall",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 2,
+      "winner": "Wilson",
+      "party": "R",
+      "pct": 69.82,
+      "opposed": true,
+      "runnerUp": "Huntly",
+      "runnerUpParty": "D",
+      "runnerUpPct": 30.18
+    },
+    {
+      "district": 3,
+      "winner": "Johnson",
+      "party": "R",
+      "pct": 57.53,
+      "opposed": true,
+      "runnerUp": "Bernal",
+      "runnerUpParty": "D",
+      "runnerUpPct": 42.47
+    },
+    {
+      "district": 4,
+      "winner": "Musselman",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 5,
+      "winner": "Millner",
+      "party": "R",
+      "pct": 59.32,
+      "opposed": true,
+      "runnerUp": "Blodgett",
+      "runnerUpParty": "D",
+      "runnerUpPct": 35.61
+    },
+    {
+      "district": 6,
+      "winner": "Stevenson",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 7,
+      "winner": "Adams",
+      "party": "R",
+      "pct": 71.94,
+      "opposed": true
+    },
+    {
+      "district": 8,
+      "winner": "Weiler",
+      "party": "R",
+      "pct": 47.12,
+      "opposed": true,
+      "runnerUp": "Wiley",
+      "runnerUpParty": "D",
+      "runnerUpPct": 32.31
+    },
+    {
+      "district": 9,
+      "winner": "Plumb",
+      "party": "D",
+      "pct": 99.36,
+      "opposed": true
+    },
+    {
+      "district": 10,
+      "winner": "Escamilla",
+      "party": "D",
+      "pct": 56.54,
+      "opposed": true,
+      "runnerUp": "Erb",
+      "runnerUpParty": "R",
+      "runnerUpPct": 43.46
+    },
+    {
+      "district": 11,
+      "winner": "Thatcher",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 12,
+      "winner": "Kwan",
+      "party": "D",
+      "pct": 56.47,
+      "opposed": true,
+      "runnerUp": "Weeks-Rohner",
+      "runnerUpParty": "R",
+      "runnerUpPct": 43.53
+    },
+    {
+      "district": 13,
+      "winner": "Blouin",
+      "party": "D",
+      "pct": 71.76,
+      "opposed": true,
+      "runnerUp": "Stout",
+      "runnerUpParty": "R",
+      "runnerUpPct": 28.24
+    },
+    {
+      "district": 14,
+      "winner": "Pitcher",
+      "party": "D",
+      "pct": 62.21,
+      "opposed": true,
+      "runnerUp": "Sorensen",
+      "runnerUpParty": "R",
+      "runnerUpPct": 36.01
+    },
+    {
+      "district": 15,
+      "winner": "Riebe",
+      "party": "D",
+      "pct": 57.04,
+      "opposed": true,
+      "runnerUp": "Cuthbertson",
+      "runnerUpParty": "R",
+      "runnerUpPct": 42.96
+    },
+    {
+      "district": 16,
+      "winner": "Harper",
+      "party": "R",
+      "pct": 57.47,
+      "opposed": true
+    },
+    {
+      "district": 17,
+      "winner": "Fillmore",
+      "party": "R",
+      "pct": 63.89,
+      "opposed": true
+    },
+    {
+      "district": 18,
+      "winner": "McCay",
+      "party": "R",
+      "pct": 66.39,
+      "opposed": true,
+      "runnerUp": "Voutaz",
+      "runnerUpParty": "D",
+      "runnerUpPct": 28.49
+    },
+    {
+      "district": 19,
+      "winner": "Cullimore",
+      "party": "R",
+      "pct": 58.44,
+      "opposed": true,
+      "runnerUp": "Bond",
+      "runnerUpParty": "D",
+      "runnerUpPct": 34.68
+    },
+    {
+      "district": 20,
+      "winner": "Winterton",
+      "party": "R",
+      "pct": 68.69,
+      "opposed": true,
+      "runnerUp": "Fellow",
+      "runnerUpParty": "D",
+      "runnerUpPct": 31.31
+    },
+    {
+      "district": 21,
+      "winner": "Kennedy",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 22,
+      "winner": "Balderree",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 23,
+      "winner": "Grover",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 24,
+      "winner": "Stratton",
+      "party": "R",
+      "pct": 66.14,
+      "opposed": true
+    },
+    {
+      "district": 25,
+      "winner": "Mckell",
+      "party": "R",
+      "pct": 78.74,
+      "opposed": true,
+      "runnerUp": "Hansen",
+      "runnerUpParty": "D",
+      "runnerUpPct": 21.26
+    },
+    {
+      "district": 26,
+      "winner": "Hinkins",
+      "party": "R",
+      "pct": 69.86,
+      "opposed": true,
+      "runnerUp": "Frost",
+      "runnerUpParty": "D",
+      "runnerUpPct": 24.3
+    },
+    {
+      "district": 27,
+      "winner": "Owens",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 28,
+      "winner": "Vickers",
+      "party": "R",
+      "pct": 80.89,
+      "opposed": true
+    },
+    {
+      "district": 29,
+      "winner": "Ipson",
+      "party": "R",
+      "pct": 76.44,
+      "opposed": true,
+      "runnerUp": "Ritchhart",
+      "runnerUpParty": "D",
+      "runnerUpPct": 23.56
+    }
+  ],
+  "house": [
+    {
+      "district": 1,
+      "winner": "Peterson",
+      "party": "R",
+      "pct": 82.36,
+      "opposed": true,
+      "runnerUp": "Bigler",
+      "runnerUpParty": "D",
+      "runnerUpPct": 17.64
+    },
+    {
+      "district": 2,
+      "winner": "Petersen",
+      "party": "R",
+      "pct": 73.97,
+      "opposed": true,
+      "runnerUp": "Liljegren",
+      "runnerUpParty": "D",
+      "runnerUpPct": 26.03
+    },
+    {
+      "district": 3,
+      "winner": "Thompson",
+      "party": "R",
+      "pct": 54.02,
+      "opposed": true
+    },
+    {
+      "district": 4,
+      "winner": "Birkeland",
+      "party": "R",
+      "pct": 59.54,
+      "opposed": true,
+      "runnerUp": "Campbell",
+      "runnerUpParty": "D",
+      "runnerUpPct": 40.46
+    },
+    {
+      "district": 5,
+      "winner": "Snider",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 6,
+      "winner": "Gwynn",
+      "party": "R",
+      "pct": 79.93,
+      "opposed": true,
+      "runnerUp": "Hardy",
+      "runnerUpParty": "D",
+      "runnerUpPct": 20.07
+    },
+    {
+      "district": 7,
+      "winner": "Wilcox",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 8,
+      "winner": "Kyle",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 9,
+      "winner": "Sawyer",
+      "party": "R",
+      "pct": 58.29,
+      "opposed": true,
+      "runnerUp": "Choberka",
+      "runnerUpParty": "D",
+      "runnerUpPct": 36.8
+    },
+    {
+      "district": 10,
+      "winner": "Koford",
+      "party": "R",
+      "pct": 50.98,
+      "opposed": true,
+      "runnerUp": "Lesser",
+      "runnerUpParty": "D",
+      "runnerUpPct": 49.02
+    },
+    {
+      "district": 11,
+      "winner": "Hall",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 12,
+      "winner": "Schultz",
+      "party": "R",
+      "pct": 72.87,
+      "opposed": true,
+      "runnerUp": "Hilton",
+      "runnerUpParty": "D",
+      "runnerUpPct": 27.13
+    },
+    {
+      "district": 13,
+      "winner": "Peterson",
+      "party": "R",
+      "pct": 71.85,
+      "opposed": true,
+      "runnerUp": "Rogers",
+      "runnerUpParty": "D",
+      "runnerUpPct": 28.15
+    },
+    {
+      "district": 14,
+      "winner": "Lisonbee",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 15,
+      "winner": "Defay",
+      "party": "R",
+      "pct": 75.7,
+      "opposed": true
+    },
+    {
+      "district": 16,
+      "winner": "Lee",
+      "party": "R",
+      "pct": 65.28,
+      "opposed": true,
+      "runnerUp": "Hasan",
+      "runnerUpParty": "D",
+      "runnerUpPct": 34.72
+    },
+    {
+      "district": 17,
+      "winner": "Barlow",
+      "party": "R",
+      "pct": 78.92,
+      "opposed": true
+    },
+    {
+      "district": 18,
+      "winner": "Cutler",
+      "party": "R",
+      "pct": 72.55,
+      "opposed": true,
+      "runnerUp": "Hartwick",
+      "runnerUpParty": "D",
+      "runnerUpPct": 27.45
+    },
+    {
+      "district": 19,
+      "winner": "Ward",
+      "party": "R",
+      "pct": 66.73,
+      "opposed": true,
+      "runnerUp": "Wadsworth",
+      "runnerUpParty": "D",
+      "runnerUpPct": 25.63
+    },
+    {
+      "district": 20,
+      "winner": "Ballard",
+      "party": "R",
+      "pct": 66.06,
+      "opposed": true,
+      "runnerUp": "Jeppson",
+      "runnerUpParty": "D",
+      "runnerUpPct": 33.94
+    },
+    {
+      "district": 21,
+      "winner": "Hollins",
+      "party": "D",
+      "pct": 71.42,
+      "opposed": true,
+      "runnerUp": "Atkin",
+      "runnerUpParty": "R",
+      "runnerUpPct": 28.58
+    },
+    {
+      "district": 22,
+      "winner": "Dailey-Provost",
+      "party": "D",
+      "pct": 79.56,
+      "opposed": true,
+      "runnerUp": "Harmsen",
+      "runnerUpParty": "R",
+      "runnerUpPct": 20.44
+    },
+    {
+      "district": 23,
+      "winner": "Nguyen",
+      "party": "D",
+      "pct": 71.66,
+      "opposed": true,
+      "runnerUp": "Romney",
+      "runnerUpParty": "R",
+      "runnerUpPct": 26.4
+    },
+    {
+      "district": 24,
+      "winner": "Miller",
+      "party": "D",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 25,
+      "winner": "Romero",
+      "party": "D",
+      "pct": 63.69,
+      "opposed": true,
+      "runnerUp": "Nowak",
+      "runnerUpParty": "R",
+      "runnerUpPct": 36.31
+    },
+    {
+      "district": 26,
+      "winner": "Macpherson",
+      "party": "R",
+      "pct": 53.62,
+      "opposed": true,
+      "runnerUp": "Williams",
+      "runnerUpParty": "D",
+      "runnerUpPct": 46.38
+    },
+    {
+      "district": 27,
+      "winner": "Loubet",
+      "party": "R",
+      "pct": 55.72,
+      "opposed": true,
+      "runnerUp": "Stevenson",
+      "runnerUpParty": "D",
+      "runnerUpPct": 44.28
+    },
+    {
+      "district": 28,
+      "winner": "Peck",
+      "party": "R",
+      "pct": 68.94,
+      "opposed": true,
+      "runnerUp": "Baker",
+      "runnerUpParty": "D",
+      "runnerUpPct": 31.06
+    },
+    {
+      "district": 29,
+      "winner": "Bolinder",
+      "party": "R",
+      "pct": 75.42,
+      "opposed": true,
+      "runnerUp": "Draper",
+      "runnerUpParty": "D",
+      "runnerUpPct": 24.58
+    },
+    {
+      "district": 30,
+      "winner": "Fitisemanu",
+      "party": "D",
+      "pct": 52.53,
+      "opposed": true,
+      "runnerUp": "Cox",
+      "runnerUpParty": "R",
+      "runnerUpPct": 47.47
+    },
+    {
+      "district": 31,
+      "winner": "Mauga",
+      "party": "D",
+      "pct": 57.9,
+      "opposed": true,
+      "runnerUp": "Swann",
+      "runnerUpParty": "R",
+      "runnerUpPct": 42.1
+    },
+    {
+      "district": 32,
+      "winner": "Hayes",
+      "party": "D",
+      "pct": 72.65,
+      "opposed": true,
+      "runnerUp": "Montes",
+      "runnerUpParty": "R",
+      "runnerUpPct": 27.35
+    },
+    {
+      "district": 33,
+      "winner": "Owens",
+      "party": "D",
+      "pct": 68.03,
+      "opposed": true,
+      "runnerUp": "Fraser",
+      "runnerUpParty": "R",
+      "runnerUpPct": 31.97
+    },
+    {
+      "district": 34,
+      "winner": "Moss",
+      "party": "D",
+      "pct": 62.96,
+      "opposed": true,
+      "runnerUp": "Jurek",
+      "runnerUpParty": "R",
+      "runnerUpPct": 34.55
+    },
+    {
+      "district": 35,
+      "winner": "Dominguez",
+      "party": "D",
+      "pct": 51.96,
+      "opposed": true,
+      "runnerUp": "Bird",
+      "runnerUpParty": "R",
+      "runnerUpPct": 48.04
+    },
+    {
+      "district": 36,
+      "winner": "Dunnigan",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 37,
+      "winner": "Matthews",
+      "party": "D",
+      "pct": 54.74,
+      "opposed": true,
+      "runnerUp": "Johnson",
+      "runnerUpParty": "R",
+      "runnerUpPct": 45.26
+    },
+    {
+      "district": 38,
+      "winner": "Acton",
+      "party": "R",
+      "pct": 61.41,
+      "opposed": true,
+      "runnerUp": "Laude",
+      "runnerUpParty": "D",
+      "runnerUpPct": 38.59
+    },
+    {
+      "district": 39,
+      "winner": "Ivory",
+      "party": "R",
+      "pct": 55.3,
+      "opposed": true
+    },
+    {
+      "district": 40,
+      "winner": "Stoddard",
+      "party": "D",
+      "pct": 57.34,
+      "opposed": true,
+      "runnerUp": "Glaittli",
+      "runnerUpParty": "R",
+      "runnerUpPct": 39.54
+    },
+    {
+      "district": 41,
+      "winner": "Bennion",
+      "party": "D",
+      "pct": 63.82,
+      "opposed": true,
+      "runnerUp": "Piskadlo",
+      "runnerUpParty": "R",
+      "runnerUpPct": 36.18
+    },
+    {
+      "district": 42,
+      "winner": "Okerlund",
+      "party": "R",
+      "pct": 54.53,
+      "opposed": true,
+      "runnerUp": "Smith",
+      "runnerUpParty": "D",
+      "runnerUpPct": 45.47
+    },
+    {
+      "district": 43,
+      "winner": "Eliason",
+      "party": "R",
+      "pct": 56.17,
+      "opposed": true,
+      "runnerUp": "Barber",
+      "runnerUpParty": "D",
+      "runnerUpPct": 43.83
+    },
+    {
+      "district": 44,
+      "winner": "Teuscher",
+      "party": "R",
+      "pct": 61.01,
+      "opposed": true,
+      "runnerUp": "Green",
+      "runnerUpParty": "D",
+      "runnerUpPct": 38.99
+    },
+    {
+      "district": 45,
+      "winner": "Miller",
+      "party": "R",
+      "pct": 66.97,
+      "opposed": true,
+      "runnerUp": "Cimmers",
+      "runnerUpParty": "D",
+      "runnerUpPct": 33.03
+    },
+    {
+      "district": 46,
+      "winner": "Roberts",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 47,
+      "winner": "Strong",
+      "party": "R",
+      "pct": 75.08,
+      "opposed": true
+    },
+    {
+      "district": 48,
+      "winner": "Fiefia",
+      "party": "R",
+      "pct": 63.81,
+      "opposed": true,
+      "runnerUp": "Middleton",
+      "runnerUpParty": "D",
+      "runnerUpPct": 36.19
+    },
+    {
+      "district": 49,
+      "winner": "Pierucci",
+      "party": "R",
+      "pct": 69.02,
+      "opposed": true,
+      "runnerUp": "Winkler",
+      "runnerUpParty": "D",
+      "runnerUpPct": 30.98
+    },
+    {
+      "district": 50,
+      "winner": "Gricius",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 51,
+      "winner": "Moss",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 52,
+      "winner": "Maloy",
+      "party": "R",
+      "pct": 73.6,
+      "opposed": true,
+      "runnerUp": "Keller",
+      "runnerUpParty": "D",
+      "runnerUpPct": 26.4
+    },
+    {
+      "district": 53,
+      "winner": "Christofferson",
+      "party": "R",
+      "pct": 80.02,
+      "opposed": true
+    },
+    {
+      "district": 54,
+      "winner": "Brammer",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 55,
+      "winner": "Hawkins",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 56,
+      "winner": "Peterson",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 57,
+      "winner": "Abbott",
+      "party": "R",
+      "pct": 72.53,
+      "opposed": true,
+      "runnerUp": "Keele",
+      "runnerUpParty": "D",
+      "runnerUpPct": 27.47
+    },
+    {
+      "district": 58,
+      "winner": "Shallenberger",
+      "party": "R",
+      "pct": 76.15,
+      "opposed": true,
+      "runnerUp": "Sorensen",
+      "runnerUpParty": "D",
+      "runnerUpPct": 23.85
+    },
+    {
+      "district": 59,
+      "winner": "Kohler",
+      "party": "R",
+      "pct": 59.24,
+      "opposed": true,
+      "runnerUp": "Monahan",
+      "runnerUpParty": "D",
+      "runnerUpPct": 40.76
+    },
+    {
+      "district": 60,
+      "winner": "Clancy",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 61,
+      "winner": "Shepherd",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 62,
+      "winner": "Thurston",
+      "party": "R",
+      "pct": 65.49,
+      "opposed": true,
+      "runnerUp": "Slater",
+      "runnerUpParty": "D",
+      "runnerUpPct": 34.51
+    },
+    {
+      "district": 63,
+      "winner": "Whyte",
+      "party": "R",
+      "pct": 80.3,
+      "opposed": true,
+      "runnerUp": "Youngquist",
+      "runnerUpParty": "D",
+      "runnerUpPct": 19.7
+    },
+    {
+      "district": 64,
+      "winner": "Burton",
+      "party": "R",
+      "pct": 84.2,
+      "opposed": true,
+      "runnerUp": "Dougan",
+      "runnerUpParty": "D",
+      "runnerUpPct": 15.8
+    },
+    {
+      "district": 65,
+      "winner": "Welton",
+      "party": "R",
+      "pct": 84.02,
+      "opposed": true,
+      "runnerUp": "Hansen",
+      "runnerUpParty": "D",
+      "runnerUpPct": 15.98
+    },
+    {
+      "district": 66,
+      "winner": "Shelley",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 67,
+      "winner": "Watkins",
+      "party": "R",
+      "pct": 75.46,
+      "opposed": true,
+      "runnerUp": "Christman",
+      "runnerUpParty": "D",
+      "runnerUpPct": 24.54
+    },
+    {
+      "district": 68,
+      "winner": "Chew",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 69,
+      "winner": "Monson",
+      "party": "R",
+      "pct": 62.45,
+      "opposed": true,
+      "runnerUp": "Smith",
+      "runnerUpParty": "D",
+      "runnerUpPct": 37.55
+    },
+    {
+      "district": 70,
+      "winner": "Albrecht",
+      "party": "R",
+      "pct": 93.31,
+      "opposed": true
+    },
+    {
+      "district": 71,
+      "winner": "Shipp",
+      "party": "R",
+      "pct": 78.1,
+      "opposed": true,
+      "runnerUp": "Merrill",
+      "runnerUpParty": "D",
+      "runnerUpPct": 21.9
+    },
+    {
+      "district": 72,
+      "winner": "Elison",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 73,
+      "winner": "Jack",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 74,
+      "winner": "Walter",
+      "party": "R",
+      "pct": 100,
+      "opposed": false
+    },
+    {
+      "district": 75,
+      "winner": "Brooks",
+      "party": "R",
+      "pct": 78.83,
+      "opposed": true,
+      "runnerUp": "Dutson",
+      "runnerUpParty": "D",
+      "runnerUpPct": 21.17
+    }
+  ]
+}

@@ -1,0 +1,3003 @@
+{
+  "house": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Utah House District 1",
+      "census": {
+        "censusName": "State House District 1 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76166,
+        "medianAge": 32.1,
+        "totalPopulation": 45488,
+        "collegePct": 24.74,
+        "renterRatePct": 25.53,
+        "race": {
+          "whitePct": 89.85,
+          "nonHispanicWhitePct": 86.24,
+          "blackPct": 0.3,
+          "asianPct": 0.95,
+          "hispanicPct": 10.64
+        }
+      },
+      "election": {
+        "district": 1,
+        "winner": "Peterson",
+        "party": "R",
+        "pct": 82.36,
+        "opposed": true,
+        "runnerUp": "Bigler",
+        "runnerUpParty": "D",
+        "runnerUpPct": 17.64
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Utah House District 2",
+      "census": {
+        "censusName": "State House District 2 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80548,
+        "medianAge": 26.9,
+        "totalPopulation": 46006,
+        "collegePct": 40.37,
+        "renterRatePct": 36.77,
+        "race": {
+          "whitePct": 84.88,
+          "nonHispanicWhitePct": 81.38,
+          "blackPct": 0.65,
+          "asianPct": 2.21,
+          "hispanicPct": 10.99
+        }
+      },
+      "election": {
+        "district": 2,
+        "winner": "Petersen",
+        "party": "R",
+        "pct": 73.97,
+        "opposed": true,
+        "runnerUp": "Liljegren",
+        "runnerUpParty": "D",
+        "runnerUpPct": 26.03
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Utah House District 3",
+      "census": {
+        "censusName": "State House District 3 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 61038,
+        "medianAge": 23.6,
+        "totalPopulation": 44555,
+        "collegePct": 41.28,
+        "renterRatePct": 54.5,
+        "race": {
+          "whitePct": 84.73,
+          "nonHispanicWhitePct": 80.88,
+          "blackPct": 1.27,
+          "asianPct": 2.81,
+          "hispanicPct": 11.93
+        }
+      },
+      "election": {
+        "district": 3,
+        "winner": "Thompson",
+        "party": "R",
+        "pct": 54.02,
+        "opposed": true
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Utah House District 4",
+      "census": {
+        "censusName": "State House District 4 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 126330,
+        "medianAge": 38,
+        "totalPopulation": 45012,
+        "collegePct": 48.72,
+        "renterRatePct": 15.39,
+        "race": {
+          "whitePct": 89.66,
+          "nonHispanicWhitePct": 86.63,
+          "blackPct": 0.2,
+          "asianPct": 0.68,
+          "hispanicPct": 8.51
+        }
+      },
+      "election": {
+        "district": 4,
+        "winner": "Birkeland",
+        "party": "R",
+        "pct": 59.54,
+        "opposed": true,
+        "runnerUp": "Campbell",
+        "runnerUpParty": "D",
+        "runnerUpPct": 40.46
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Utah House District 5",
+      "census": {
+        "censusName": "State House District 5 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93699,
+        "medianAge": 30.2,
+        "totalPopulation": 44579,
+        "collegePct": 40.45,
+        "renterRatePct": 17.29,
+        "race": {
+          "whitePct": 85.98,
+          "nonHispanicWhitePct": 82.97,
+          "blackPct": 0.56,
+          "asianPct": 0.69,
+          "hispanicPct": 12.09
+        }
+      },
+      "election": {
+        "district": 5,
+        "winner": "Snider",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Utah House District 6",
+      "census": {
+        "censusName": "State House District 6 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99254,
+        "medianAge": 35.3,
+        "totalPopulation": 43023,
+        "collegePct": 29.26,
+        "renterRatePct": 15.97,
+        "race": {
+          "whitePct": 88.81,
+          "nonHispanicWhitePct": 85.47,
+          "blackPct": 0.29,
+          "asianPct": 0.76,
+          "hispanicPct": 9.14
+        }
+      },
+      "election": {
+        "district": 6,
+        "winner": "Gwynn",
+        "party": "R",
+        "pct": 79.93,
+        "opposed": true,
+        "runnerUp": "Hardy",
+        "runnerUpParty": "D",
+        "runnerUpPct": 20.07
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Utah House District 7",
+      "census": {
+        "censusName": "State House District 7 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 86711,
+        "medianAge": 32,
+        "totalPopulation": 44555,
+        "collegePct": 27.08,
+        "renterRatePct": 21.91,
+        "race": {
+          "whitePct": 85.7,
+          "nonHispanicWhitePct": 75.76,
+          "blackPct": 0.42,
+          "asianPct": 1.14,
+          "hispanicPct": 19.34
+        }
+      },
+      "election": {
+        "district": 7,
+        "winner": "Wilcox",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Utah House District 8",
+      "census": {
+        "censusName": "State House District 8 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85930,
+        "medianAge": 37.5,
+        "totalPopulation": 41796,
+        "collegePct": 33.02,
+        "renterRatePct": 23.94,
+        "race": {
+          "whitePct": 85.23,
+          "nonHispanicWhitePct": 73.94,
+          "blackPct": 1.1,
+          "asianPct": 2.08,
+          "hispanicPct": 19.57
+        }
+      },
+      "election": {
+        "district": 8,
+        "winner": "Kyle",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Utah House District 9",
+      "census": {
+        "censusName": "State House District 9 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76846,
+        "medianAge": 31.4,
+        "totalPopulation": 44668,
+        "collegePct": 23.44,
+        "renterRatePct": 39.82,
+        "race": {
+          "whitePct": 81.13,
+          "nonHispanicWhitePct": 69.04,
+          "blackPct": 1.37,
+          "asianPct": 1.51,
+          "hispanicPct": 23.52
+        }
+      },
+      "election": {
+        "district": 9,
+        "winner": "Sawyer",
+        "party": "R",
+        "pct": 58.29,
+        "opposed": true,
+        "runnerUp": "Choberka",
+        "runnerUpParty": "D",
+        "runnerUpPct": 36.8
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Utah House District 10",
+      "census": {
+        "censusName": "State House District 10 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78658,
+        "medianAge": 32.6,
+        "totalPopulation": 42347,
+        "collegePct": 28.72,
+        "renterRatePct": 32.88,
+        "race": {
+          "whitePct": 79.4,
+          "nonHispanicWhitePct": 66.99,
+          "blackPct": 2.16,
+          "asianPct": 1.46,
+          "hispanicPct": 25.15
+        }
+      },
+      "election": {
+        "district": 10,
+        "winner": "Koford",
+        "party": "R",
+        "pct": 50.98,
+        "opposed": true,
+        "runnerUp": "Lesser",
+        "runnerUpParty": "D",
+        "runnerUpPct": 49.02
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Utah House District 11",
+      "census": {
+        "censusName": "State House District 11 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81045,
+        "medianAge": 31.3,
+        "totalPopulation": 43664,
+        "collegePct": 30.47,
+        "renterRatePct": 30.64,
+        "race": {
+          "whitePct": 83.08,
+          "nonHispanicWhitePct": 76.61,
+          "blackPct": 2.67,
+          "asianPct": 1.64,
+          "hispanicPct": 13.64
+        }
+      },
+      "election": {
+        "district": 11,
+        "winner": "Hall",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Utah House District 12",
+      "census": {
+        "censusName": "State House District 12 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102219,
+        "medianAge": 34.1,
+        "totalPopulation": 44117,
+        "collegePct": 26.15,
+        "renterRatePct": 8.18,
+        "race": {
+          "whitePct": 84.02,
+          "nonHispanicWhitePct": 78.8,
+          "blackPct": 0.53,
+          "asianPct": 1.63,
+          "hispanicPct": 15.24
+        }
+      },
+      "election": {
+        "district": 12,
+        "winner": "Schultz",
+        "party": "R",
+        "pct": 72.87,
+        "opposed": true,
+        "runnerUp": "Hilton",
+        "runnerUpParty": "D",
+        "runnerUpPct": 27.13
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Utah House District 13",
+      "census": {
+        "censusName": "State House District 13 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99217,
+        "medianAge": 32.5,
+        "totalPopulation": 43878,
+        "collegePct": 24.5,
+        "renterRatePct": 17.12,
+        "race": {
+          "whitePct": 84.16,
+          "nonHispanicWhitePct": 75.83,
+          "blackPct": 1.02,
+          "asianPct": 2.06,
+          "hispanicPct": 15.58
+        }
+      },
+      "election": {
+        "district": 13,
+        "winner": "Peterson",
+        "party": "R",
+        "pct": 71.85,
+        "opposed": true,
+        "runnerUp": "Rogers",
+        "runnerUpParty": "D",
+        "runnerUpPct": 28.15
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Utah House District 14",
+      "census": {
+        "censusName": "State House District 14 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 110537,
+        "medianAge": 29.9,
+        "totalPopulation": 44651,
+        "collegePct": 32.12,
+        "renterRatePct": 20.92,
+        "race": {
+          "whitePct": 84.07,
+          "nonHispanicWhitePct": 78.65,
+          "blackPct": 1.26,
+          "asianPct": 2.94,
+          "hispanicPct": 12.42
+        }
+      },
+      "election": {
+        "district": 14,
+        "winner": "Lisonbee",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Utah House District 15",
+      "census": {
+        "censusName": "State House District 15 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 128950,
+        "medianAge": 29.7,
+        "totalPopulation": 44270,
+        "collegePct": 40.83,
+        "renterRatePct": 19.58,
+        "race": {
+          "whitePct": 88.92,
+          "nonHispanicWhitePct": 84.89,
+          "blackPct": 1.56,
+          "asianPct": 1.12,
+          "hispanicPct": 9.88
+        }
+      },
+      "election": {
+        "district": 15,
+        "winner": "Defay",
+        "party": "R",
+        "pct": 75.7,
+        "opposed": true
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Utah House District 16",
+      "census": {
+        "censusName": "State House District 16 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101047,
+        "medianAge": 33.5,
+        "totalPopulation": 44138,
+        "collegePct": 37.43,
+        "renterRatePct": 30.05,
+        "race": {
+          "whitePct": 80.81,
+          "nonHispanicWhitePct": 74.82,
+          "blackPct": 1.5,
+          "asianPct": 2.28,
+          "hispanicPct": 16.2
+        }
+      },
+      "election": {
+        "district": 16,
+        "winner": "Lee",
+        "party": "R",
+        "pct": 65.28,
+        "opposed": true,
+        "runnerUp": "Hasan",
+        "runnerUpParty": "D",
+        "runnerUpPct": 34.72
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Utah House District 17",
+      "census": {
+        "censusName": "State House District 17 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108882,
+        "medianAge": 35.3,
+        "totalPopulation": 41298,
+        "collegePct": 46.03,
+        "renterRatePct": 18.82,
+        "race": {
+          "whitePct": 88.84,
+          "nonHispanicWhitePct": 86.24,
+          "blackPct": 0.62,
+          "asianPct": 1.88,
+          "hispanicPct": 6.69
+        }
+      },
+      "election": {
+        "district": 17,
+        "winner": "Barlow",
+        "party": "R",
+        "pct": 78.92,
+        "opposed": true
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Utah House District 18",
+      "census": {
+        "censusName": "State House District 18 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119948,
+        "medianAge": 34.3,
+        "totalPopulation": 42070,
+        "collegePct": 48.7,
+        "renterRatePct": 16.69,
+        "race": {
+          "whitePct": 89.8,
+          "nonHispanicWhitePct": 86.85,
+          "blackPct": 1.06,
+          "asianPct": 1.54,
+          "hispanicPct": 6.74
+        }
+      },
+      "election": {
+        "district": 18,
+        "winner": "Cutler",
+        "party": "R",
+        "pct": 72.55,
+        "opposed": true,
+        "runnerUp": "Hartwick",
+        "runnerUpParty": "D",
+        "runnerUpPct": 27.45
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Utah House District 19",
+      "census": {
+        "censusName": "State House District 19 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107451,
+        "medianAge": 33.2,
+        "totalPopulation": 41267,
+        "collegePct": 44.58,
+        "renterRatePct": 24.16,
+        "race": {
+          "whitePct": 87.16,
+          "nonHispanicWhitePct": 84.32,
+          "blackPct": 1.3,
+          "asianPct": 1.05,
+          "hispanicPct": 7.52
+        }
+      },
+      "election": {
+        "district": 19,
+        "winner": "Ward",
+        "party": "R",
+        "pct": 66.73,
+        "opposed": true,
+        "runnerUp": "Wadsworth",
+        "runnerUpParty": "D",
+        "runnerUpPct": 25.63
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Utah House District 20",
+      "census": {
+        "censusName": "State House District 20 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108228,
+        "medianAge": 31.8,
+        "totalPopulation": 44087,
+        "collegePct": 41.03,
+        "renterRatePct": 28.31,
+        "race": {
+          "whitePct": 83.29,
+          "nonHispanicWhitePct": 77.73,
+          "blackPct": 0.46,
+          "asianPct": 2.54,
+          "hispanicPct": 12.72
+        }
+      },
+      "election": {
+        "district": 20,
+        "winner": "Ballard",
+        "party": "R",
+        "pct": 66.06,
+        "opposed": true,
+        "runnerUp": "Jeppson",
+        "runnerUpParty": "D",
+        "runnerUpPct": 33.94
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Utah House District 21",
+      "census": {
+        "censusName": "State House District 21 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73093,
+        "medianAge": 32,
+        "totalPopulation": 45446,
+        "collegePct": 29.59,
+        "renterRatePct": 50.62,
+        "race": {
+          "whitePct": 45.34,
+          "nonHispanicWhitePct": 38.39,
+          "blackPct": 4.13,
+          "asianPct": 7.75,
+          "hispanicPct": 41.28
+        }
+      },
+      "election": {
+        "district": 21,
+        "winner": "Hollins",
+        "party": "D",
+        "pct": 71.42,
+        "opposed": true,
+        "runnerUp": "Atkin",
+        "runnerUpParty": "R",
+        "runnerUpPct": 28.58
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Utah House District 22",
+      "census": {
+        "censusName": "State House District 22 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64324,
+        "medianAge": 32.2,
+        "totalPopulation": 44176,
+        "collegePct": 62.29,
+        "renterRatePct": 68.12,
+        "race": {
+          "whitePct": 80.18,
+          "nonHispanicWhitePct": 76.16,
+          "blackPct": 1.65,
+          "asianPct": 5.88,
+          "hispanicPct": 10.01
+        }
+      },
+      "election": {
+        "district": 22,
+        "winner": "Dailey-Provost",
+        "party": "D",
+        "pct": 79.56,
+        "opposed": true,
+        "runnerUp": "Harmsen",
+        "runnerUpParty": "R",
+        "runnerUpPct": 20.44
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Utah House District 23",
+      "census": {
+        "censusName": "State House District 23 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 111748,
+        "medianAge": 34.7,
+        "totalPopulation": 44542,
+        "collegePct": 75.35,
+        "renterRatePct": 33.74,
+        "race": {
+          "whitePct": 85.17,
+          "nonHispanicWhitePct": 82.93,
+          "blackPct": 1.26,
+          "asianPct": 4.87,
+          "hispanicPct": 6.12
+        }
+      },
+      "election": {
+        "district": 23,
+        "winner": "Nguyen",
+        "party": "D",
+        "pct": 71.66,
+        "opposed": true,
+        "runnerUp": "Romney",
+        "runnerUpParty": "R",
+        "runnerUpPct": 26.4
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Utah House District 24",
+      "census": {
+        "censusName": "State House District 24 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70502,
+        "medianAge": 33.4,
+        "totalPopulation": 44396,
+        "collegePct": 47.3,
+        "renterRatePct": 62.22,
+        "race": {
+          "whitePct": 78.27,
+          "nonHispanicWhitePct": 72.31,
+          "blackPct": 2.76,
+          "asianPct": 4.06,
+          "hispanicPct": 16.31
+        }
+      },
+      "election": {
+        "district": 24,
+        "winner": "Miller",
+        "party": "D",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Utah House District 25",
+      "census": {
+        "censusName": "State House District 25 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65641,
+        "medianAge": 29.9,
+        "totalPopulation": 45716,
+        "collegePct": 15.57,
+        "renterRatePct": 42.56,
+        "race": {
+          "whitePct": 42.38,
+          "nonHispanicWhitePct": 30.27,
+          "blackPct": 4.2,
+          "asianPct": 3.17,
+          "hispanicPct": 52.23
+        }
+      },
+      "election": {
+        "district": 25,
+        "winner": "Romero",
+        "party": "D",
+        "pct": 63.69,
+        "opposed": true,
+        "runnerUp": "Nowak",
+        "runnerUpParty": "R",
+        "runnerUpPct": 36.31
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Utah House District 26",
+      "census": {
+        "censusName": "State House District 26 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 107967,
+        "medianAge": 31.3,
+        "totalPopulation": 47025,
+        "collegePct": 16.83,
+        "renterRatePct": 13.73,
+        "race": {
+          "whitePct": 52.8,
+          "nonHispanicWhitePct": 46.14,
+          "blackPct": 0.86,
+          "asianPct": 4.68,
+          "hispanicPct": 42.7
+        }
+      },
+      "election": {
+        "district": 26,
+        "winner": "Macpherson",
+        "party": "R",
+        "pct": 53.62,
+        "opposed": true,
+        "runnerUp": "Williams",
+        "runnerUpParty": "D",
+        "runnerUpPct": 46.38
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Utah House District 27",
+      "census": {
+        "censusName": "State House District 27 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 99454,
+        "medianAge": 31.2,
+        "totalPopulation": 44367,
+        "collegePct": 16.38,
+        "renterRatePct": 19.03,
+        "race": {
+          "whitePct": 58.92,
+          "nonHispanicWhitePct": 54.48,
+          "blackPct": 2.37,
+          "asianPct": 4.25,
+          "hispanicPct": 31.49
+        }
+      },
+      "election": {
+        "district": 27,
+        "winner": "Loubet",
+        "party": "R",
+        "pct": 55.72,
+        "opposed": true,
+        "runnerUp": "Stevenson",
+        "runnerUpParty": "D",
+        "runnerUpPct": 44.28
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Utah House District 28",
+      "census": {
+        "censusName": "State House District 28 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 96337,
+        "medianAge": 32.7,
+        "totalPopulation": 44335,
+        "collegePct": 20.44,
+        "renterRatePct": 17.96,
+        "race": {
+          "whitePct": 84.73,
+          "nonHispanicWhitePct": 77.18,
+          "blackPct": 0.96,
+          "asianPct": 0.64,
+          "hispanicPct": 15.83
+        }
+      },
+      "election": {
+        "district": 28,
+        "winner": "Peck",
+        "party": "R",
+        "pct": 68.94,
+        "opposed": true,
+        "runnerUp": "Baker",
+        "runnerUpParty": "D",
+        "runnerUpPct": 31.06
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Utah House District 29",
+      "census": {
+        "censusName": "State House District 29 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93066,
+        "medianAge": 31.4,
+        "totalPopulation": 45622,
+        "collegePct": 25.94,
+        "renterRatePct": 18.12,
+        "race": {
+          "whitePct": 87.51,
+          "nonHispanicWhitePct": 81.87,
+          "blackPct": 0.59,
+          "asianPct": 1.18,
+          "hispanicPct": 12.4
+        }
+      },
+      "election": {
+        "district": 29,
+        "winner": "Bolinder",
+        "party": "R",
+        "pct": 75.42,
+        "opposed": true,
+        "runnerUp": "Draper",
+        "runnerUpParty": "D",
+        "runnerUpPct": 24.58
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Utah House District 30",
+      "census": {
+        "censusName": "State House District 30 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 91630,
+        "medianAge": 31.3,
+        "totalPopulation": 44173,
+        "collegePct": 15.65,
+        "renterRatePct": 23.67,
+        "race": {
+          "whitePct": 55.04,
+          "nonHispanicWhitePct": 46.42,
+          "blackPct": 2.12,
+          "asianPct": 4.41,
+          "hispanicPct": 37.69
+        }
+      },
+      "election": {
+        "district": 30,
+        "winner": "Fitisemanu",
+        "party": "D",
+        "pct": 52.53,
+        "opposed": true,
+        "runnerUp": "Cox",
+        "runnerUpParty": "R",
+        "runnerUpPct": 47.47
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Utah House District 31",
+      "census": {
+        "censusName": "State House District 31 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 65474,
+        "medianAge": 32.3,
+        "totalPopulation": 42272,
+        "collegePct": 20.67,
+        "renterRatePct": 44.73,
+        "race": {
+          "whitePct": 59.38,
+          "nonHispanicWhitePct": 48.78,
+          "blackPct": 3.53,
+          "asianPct": 6.16,
+          "hispanicPct": 33.45
+        }
+      },
+      "election": {
+        "district": 31,
+        "winner": "Mauga",
+        "party": "D",
+        "pct": 57.9,
+        "opposed": true,
+        "runnerUp": "Swann",
+        "runnerUpParty": "R",
+        "runnerUpPct": 42.1
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Utah House District 32",
+      "census": {
+        "censusName": "State House District 32 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73903,
+        "medianAge": 33.7,
+        "totalPopulation": 41212,
+        "collegePct": 41.83,
+        "renterRatePct": 51.25,
+        "race": {
+          "whitePct": 70.38,
+          "nonHispanicWhitePct": 63.97,
+          "blackPct": 3.68,
+          "asianPct": 7.55,
+          "hispanicPct": 19.69
+        }
+      },
+      "election": {
+        "district": 32,
+        "winner": "Hayes",
+        "party": "D",
+        "pct": 72.65,
+        "opposed": true,
+        "runnerUp": "Montes",
+        "runnerUpParty": "R",
+        "runnerUpPct": 27.35
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Utah House District 33",
+      "census": {
+        "censusName": "State House District 33 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 133939,
+        "medianAge": 38.1,
+        "totalPopulation": 45151,
+        "collegePct": 65.52,
+        "renterRatePct": 14.18,
+        "race": {
+          "whitePct": 88.42,
+          "nonHispanicWhitePct": 86.89,
+          "blackPct": 0.39,
+          "asianPct": 2.99,
+          "hispanicPct": 4.67
+        }
+      },
+      "election": {
+        "district": 33,
+        "winner": "Owens",
+        "party": "D",
+        "pct": 68.03,
+        "opposed": true,
+        "runnerUp": "Fraser",
+        "runnerUpParty": "R",
+        "runnerUpPct": 31.97
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Utah House District 34",
+      "census": {
+        "censusName": "State House District 34 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83583,
+        "medianAge": 39.8,
+        "totalPopulation": 41666,
+        "collegePct": 49.2,
+        "renterRatePct": 35.71,
+        "race": {
+          "whitePct": 82.11,
+          "nonHispanicWhitePct": 78.6,
+          "blackPct": 1.6,
+          "asianPct": 2.9,
+          "hispanicPct": 10.71
+        }
+      },
+      "election": {
+        "district": 34,
+        "winner": "Moss",
+        "party": "D",
+        "pct": 62.96,
+        "opposed": true,
+        "runnerUp": "Jurek",
+        "runnerUpParty": "R",
+        "runnerUpPct": 34.55
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Utah House District 35",
+      "census": {
+        "censusName": "State House District 35 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83637,
+        "medianAge": 34.6,
+        "totalPopulation": 43133,
+        "collegePct": 37.1,
+        "renterRatePct": 47.18,
+        "race": {
+          "whitePct": 72.23,
+          "nonHispanicWhitePct": 68.34,
+          "blackPct": 3.93,
+          "asianPct": 5.21,
+          "hispanicPct": 16.28
+        }
+      },
+      "election": {
+        "district": 35,
+        "winner": "Dominguez",
+        "party": "D",
+        "pct": 51.96,
+        "opposed": true,
+        "runnerUp": "Bird",
+        "runnerUpParty": "R",
+        "runnerUpPct": 48.04
+      }
+    },
+    "36": {
+      "districtNumber": 36,
+      "districtName": "Utah House District 36",
+      "census": {
+        "censusName": "State House District 36 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 97230,
+        "medianAge": 36.2,
+        "totalPopulation": 42870,
+        "collegePct": 23.82,
+        "renterRatePct": 17.3,
+        "race": {
+          "whitePct": 70.92,
+          "nonHispanicWhitePct": 63.37,
+          "blackPct": 1.7,
+          "asianPct": 5.89,
+          "hispanicPct": 24.16
+        }
+      },
+      "election": {
+        "district": 36,
+        "winner": "Dunnigan",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "37": {
+      "districtNumber": 37,
+      "districtName": "Utah House District 37",
+      "census": {
+        "censusName": "State House District 37 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 83563,
+        "medianAge": 31.7,
+        "totalPopulation": 43470,
+        "collegePct": 13.92,
+        "renterRatePct": 16.9,
+        "race": {
+          "whitePct": 58.08,
+          "nonHispanicWhitePct": 51.4,
+          "blackPct": 1.62,
+          "asianPct": 0.61,
+          "hispanicPct": 38.83
+        }
+      },
+      "election": {
+        "district": 37,
+        "winner": "Matthews",
+        "party": "D",
+        "pct": 54.74,
+        "opposed": true,
+        "runnerUp": "Johnson",
+        "runnerUpParty": "R",
+        "runnerUpPct": 45.26
+      }
+    },
+    "38": {
+      "districtNumber": 38,
+      "districtName": "Utah House District 38",
+      "census": {
+        "censusName": "State House District 38 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105774,
+        "medianAge": 30.3,
+        "totalPopulation": 43072,
+        "collegePct": 32.74,
+        "renterRatePct": 25.04,
+        "race": {
+          "whitePct": 67.9,
+          "nonHispanicWhitePct": 63.15,
+          "blackPct": 2.59,
+          "asianPct": 2.95,
+          "hispanicPct": 23.71
+        }
+      },
+      "election": {
+        "district": 38,
+        "winner": "Acton",
+        "party": "R",
+        "pct": 61.41,
+        "opposed": true,
+        "runnerUp": "Laude",
+        "runnerUpParty": "D",
+        "runnerUpPct": 38.59
+      }
+    },
+    "39": {
+      "districtNumber": 39,
+      "districtName": "Utah House District 39",
+      "census": {
+        "censusName": "State House District 39 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94661,
+        "medianAge": 34.1,
+        "totalPopulation": 45578,
+        "collegePct": 28.99,
+        "renterRatePct": 31.13,
+        "race": {
+          "whitePct": 70.57,
+          "nonHispanicWhitePct": 63.74,
+          "blackPct": 0.91,
+          "asianPct": 3.4,
+          "hispanicPct": 25.51
+        }
+      },
+      "election": {
+        "district": 39,
+        "winner": "Ivory",
+        "party": "R",
+        "pct": 55.3,
+        "opposed": true
+      }
+    },
+    "40": {
+      "districtNumber": 40,
+      "districtName": "Utah House District 40",
+      "census": {
+        "censusName": "State House District 40 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72181,
+        "medianAge": 33.6,
+        "totalPopulation": 42865,
+        "collegePct": 34.3,
+        "renterRatePct": 48.95,
+        "race": {
+          "whitePct": 73.26,
+          "nonHispanicWhitePct": 68.62,
+          "blackPct": 2.97,
+          "asianPct": 3.43,
+          "hispanicPct": 17.98
+        }
+      },
+      "election": {
+        "district": 40,
+        "winner": "Stoddard",
+        "party": "D",
+        "pct": 57.34,
+        "opposed": true,
+        "runnerUp": "Glaittli",
+        "runnerUpParty": "R",
+        "runnerUpPct": 39.54
+      }
+    },
+    "41": {
+      "districtNumber": 41,
+      "districtName": "Utah House District 41",
+      "census": {
+        "censusName": "State House District 41 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108527,
+        "medianAge": 39.5,
+        "totalPopulation": 41885,
+        "collegePct": 51.24,
+        "renterRatePct": 27.6,
+        "race": {
+          "whitePct": 86.23,
+          "nonHispanicWhitePct": 83.19,
+          "blackPct": 0.76,
+          "asianPct": 3.88,
+          "hispanicPct": 7.28
+        }
+      },
+      "election": {
+        "district": 41,
+        "winner": "Bennion",
+        "party": "D",
+        "pct": 63.82,
+        "opposed": true,
+        "runnerUp": "Piskadlo",
+        "runnerUpParty": "R",
+        "runnerUpPct": 36.18
+      }
+    },
+    "42": {
+      "districtNumber": 42,
+      "districtName": "Utah House District 42",
+      "census": {
+        "censusName": "State House District 42 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 149294,
+        "medianAge": 41.1,
+        "totalPopulation": 42762,
+        "collegePct": 53.89,
+        "renterRatePct": 8.95,
+        "race": {
+          "whitePct": 88.66,
+          "nonHispanicWhitePct": 86.64,
+          "blackPct": 0.65,
+          "asianPct": 2.39,
+          "hispanicPct": 5.86
+        }
+      },
+      "election": {
+        "district": 42,
+        "winner": "Okerlund",
+        "party": "R",
+        "pct": 54.53,
+        "opposed": true,
+        "runnerUp": "Smith",
+        "runnerUpParty": "D",
+        "runnerUpPct": 45.47
+      }
+    },
+    "43": {
+      "districtNumber": 43,
+      "districtName": "Utah House District 43",
+      "census": {
+        "censusName": "State House District 43 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 94904,
+        "medianAge": 34.3,
+        "totalPopulation": 43856,
+        "collegePct": 40.51,
+        "renterRatePct": 32.75,
+        "race": {
+          "whitePct": 79.88,
+          "nonHispanicWhitePct": 76.76,
+          "blackPct": 0.8,
+          "asianPct": 3.32,
+          "hispanicPct": 11.62
+        }
+      },
+      "election": {
+        "district": 43,
+        "winner": "Eliason",
+        "party": "R",
+        "pct": 56.17,
+        "opposed": true,
+        "runnerUp": "Barber",
+        "runnerUpParty": "D",
+        "runnerUpPct": 43.83
+      }
+    },
+    "44": {
+      "districtNumber": 44,
+      "districtName": "Utah House District 44",
+      "census": {
+        "censusName": "State House District 44 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 136425,
+        "medianAge": 36.3,
+        "totalPopulation": 44675,
+        "collegePct": 42.98,
+        "renterRatePct": 4.57,
+        "race": {
+          "whitePct": 85.26,
+          "nonHispanicWhitePct": 82.99,
+          "blackPct": 0.3,
+          "asianPct": 3.84,
+          "hispanicPct": 8.82
+        }
+      },
+      "election": {
+        "district": 44,
+        "winner": "Teuscher",
+        "party": "R",
+        "pct": 61.01,
+        "opposed": true,
+        "runnerUp": "Green",
+        "runnerUpParty": "D",
+        "runnerUpPct": 38.99
+      }
+    },
+    "45": {
+      "districtNumber": 45,
+      "districtName": "Utah House District 45",
+      "census": {
+        "censusName": "State House District 45 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116523,
+        "medianAge": 37.4,
+        "totalPopulation": 42623,
+        "collegePct": 43.88,
+        "renterRatePct": 26.28,
+        "race": {
+          "whitePct": 81.35,
+          "nonHispanicWhitePct": 77.61,
+          "blackPct": 0.46,
+          "asianPct": 5.61,
+          "hispanicPct": 11.32
+        }
+      },
+      "election": {
+        "district": 45,
+        "winner": "Miller",
+        "party": "R",
+        "pct": 66.97,
+        "opposed": true,
+        "runnerUp": "Cimmers",
+        "runnerUpParty": "D",
+        "runnerUpPct": 33.03
+      }
+    },
+    "46": {
+      "districtNumber": 46,
+      "districtName": "Utah House District 46",
+      "census": {
+        "censusName": "State House District 46 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 135988,
+        "medianAge": 33.6,
+        "totalPopulation": 44367,
+        "collegePct": 49.35,
+        "renterRatePct": 19.46,
+        "race": {
+          "whitePct": 85.12,
+          "nonHispanicWhitePct": 82.78,
+          "blackPct": 2.12,
+          "asianPct": 3.12,
+          "hispanicPct": 6.2
+        }
+      },
+      "election": {
+        "district": 46,
+        "winner": "Roberts",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "47": {
+      "districtNumber": 47,
+      "districtName": "Utah House District 47",
+      "census": {
+        "censusName": "State House District 47 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 108912,
+        "medianAge": 35.5,
+        "totalPopulation": 44243,
+        "collegePct": 36.75,
+        "renterRatePct": 26.98,
+        "race": {
+          "whitePct": 84.5,
+          "nonHispanicWhitePct": 81.79,
+          "blackPct": 0.09,
+          "asianPct": 3.58,
+          "hispanicPct": 9.42
+        }
+      },
+      "election": {
+        "district": 47,
+        "winner": "Strong",
+        "party": "R",
+        "pct": 75.08,
+        "opposed": true
+      }
+    },
+    "48": {
+      "districtNumber": 48,
+      "districtName": "Utah House District 48",
+      "census": {
+        "censusName": "State House District 48 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 122862,
+        "medianAge": 29.7,
+        "totalPopulation": 44068,
+        "collegePct": 42.45,
+        "renterRatePct": 20.82,
+        "race": {
+          "whitePct": 80.95,
+          "nonHispanicWhitePct": 78.3,
+          "blackPct": 1.06,
+          "asianPct": 3.57,
+          "hispanicPct": 12.11
+        }
+      },
+      "election": {
+        "district": 48,
+        "winner": "Fiefia",
+        "party": "R",
+        "pct": 63.81,
+        "opposed": true,
+        "runnerUp": "Middleton",
+        "runnerUpParty": "D",
+        "runnerUpPct": 36.19
+      }
+    },
+    "49": {
+      "districtNumber": 49,
+      "districtName": "Utah House District 49",
+      "census": {
+        "censusName": "State House District 49 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118910,
+        "medianAge": 29.7,
+        "totalPopulation": 46860,
+        "collegePct": 41.33,
+        "renterRatePct": 12.09,
+        "race": {
+          "whitePct": 85.61,
+          "nonHispanicWhitePct": 82.94,
+          "blackPct": 0.28,
+          "asianPct": 2.24,
+          "hispanicPct": 9.92
+        }
+      },
+      "election": {
+        "district": 49,
+        "winner": "Pierucci",
+        "party": "R",
+        "pct": 69.02,
+        "opposed": true,
+        "runnerUp": "Winkler",
+        "runnerUpParty": "D",
+        "runnerUpPct": 30.98
+      }
+    },
+    "50": {
+      "districtNumber": 50,
+      "districtName": "Utah House District 50",
+      "census": {
+        "censusName": "State House District 50 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 106520,
+        "medianAge": 22.4,
+        "totalPopulation": 48286,
+        "collegePct": 37.27,
+        "renterRatePct": 14.5,
+        "race": {
+          "whitePct": 85.97,
+          "nonHispanicWhitePct": 81.27,
+          "blackPct": 0.53,
+          "asianPct": 0.21,
+          "hispanicPct": 12.27
+        }
+      },
+      "election": {
+        "district": 50,
+        "winner": "Gricius",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "51": {
+      "districtNumber": 51,
+      "districtName": "Utah House District 51",
+      "census": {
+        "censusName": "State House District 51 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 123232,
+        "medianAge": 24.2,
+        "totalPopulation": 51608,
+        "collegePct": 51.87,
+        "renterRatePct": 17.61,
+        "race": {
+          "whitePct": 85.05,
+          "nonHispanicWhitePct": 80.78,
+          "blackPct": 0.32,
+          "asianPct": 1.71,
+          "hispanicPct": 13.06
+        }
+      },
+      "election": {
+        "district": 51,
+        "winner": "Moss",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "52": {
+      "districtNumber": 52,
+      "districtName": "Utah House District 52",
+      "census": {
+        "censusName": "State House District 52 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 114512,
+        "medianAge": 26,
+        "totalPopulation": 46617,
+        "collegePct": 43.14,
+        "renterRatePct": 23.64,
+        "race": {
+          "whitePct": 87.49,
+          "nonHispanicWhitePct": 84.54,
+          "blackPct": 0.29,
+          "asianPct": 1.52,
+          "hispanicPct": 9.88
+        }
+      },
+      "election": {
+        "district": 52,
+        "winner": "Maloy",
+        "party": "R",
+        "pct": 73.6,
+        "opposed": true,
+        "runnerUp": "Keller",
+        "runnerUpParty": "D",
+        "runnerUpPct": 26.4
+      }
+    },
+    "53": {
+      "districtNumber": 53,
+      "districtName": "Utah House District 53",
+      "census": {
+        "censusName": "State House District 53 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 132293,
+        "medianAge": 27,
+        "totalPopulation": 47357,
+        "collegePct": 54.1,
+        "renterRatePct": 22.5,
+        "race": {
+          "whitePct": 86.72,
+          "nonHispanicWhitePct": 83.19,
+          "blackPct": 0.49,
+          "asianPct": 1.97,
+          "hispanicPct": 8.43
+        }
+      },
+      "election": {
+        "district": 53,
+        "winner": "Christofferson",
+        "party": "R",
+        "pct": 80.02,
+        "opposed": true
+      }
+    },
+    "54": {
+      "districtNumber": 54,
+      "districtName": "Utah House District 54",
+      "census": {
+        "censusName": "State House District 54 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 167207,
+        "medianAge": 29.1,
+        "totalPopulation": 43605,
+        "collegePct": 60.19,
+        "renterRatePct": 9.97,
+        "race": {
+          "whitePct": 87.22,
+          "nonHispanicWhitePct": 85.66,
+          "blackPct": 0.87,
+          "asianPct": 1.33,
+          "hispanicPct": 7.74
+        }
+      },
+      "election": {
+        "district": 54,
+        "winner": "Brammer",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "55": {
+      "districtNumber": 55,
+      "districtName": "Utah House District 55",
+      "census": {
+        "censusName": "State House District 55 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101537,
+        "medianAge": 30.5,
+        "totalPopulation": 42252,
+        "collegePct": 39.94,
+        "renterRatePct": 24.99,
+        "race": {
+          "whitePct": 85.79,
+          "nonHispanicWhitePct": 84.21,
+          "blackPct": 0.4,
+          "asianPct": 1.9,
+          "hispanicPct": 8.92
+        }
+      },
+      "election": {
+        "district": 55,
+        "winner": "Hawkins",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "56": {
+      "districtNumber": 56,
+      "districtName": "Utah House District 56",
+      "census": {
+        "censusName": "State House District 56 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78098,
+        "medianAge": 26.7,
+        "totalPopulation": 46841,
+        "collegePct": 41.08,
+        "renterRatePct": 50.41,
+        "race": {
+          "whitePct": 77.89,
+          "nonHispanicWhitePct": 71.61,
+          "blackPct": 0.78,
+          "asianPct": 2.35,
+          "hispanicPct": 19.92
+        }
+      },
+      "election": {
+        "district": 56,
+        "winner": "Peterson",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "57": {
+      "districtNumber": 57,
+      "districtName": "Utah House District 57",
+      "census": {
+        "censusName": "State House District 57 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89112,
+        "medianAge": 26,
+        "totalPopulation": 44720,
+        "collegePct": 45.18,
+        "renterRatePct": 42.72,
+        "race": {
+          "whitePct": 78.56,
+          "nonHispanicWhitePct": 72.79,
+          "blackPct": 0.81,
+          "asianPct": 2.19,
+          "hispanicPct": 19.04
+        }
+      },
+      "election": {
+        "district": 57,
+        "winner": "Abbott",
+        "party": "R",
+        "pct": 72.53,
+        "opposed": true,
+        "runnerUp": "Keele",
+        "runnerUpParty": "D",
+        "runnerUpPct": 27.47
+      }
+    },
+    "58": {
+      "districtNumber": 58,
+      "districtName": "Utah House District 58",
+      "census": {
+        "censusName": "State House District 58 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101778,
+        "medianAge": 31.5,
+        "totalPopulation": 42263,
+        "collegePct": 51.68,
+        "renterRatePct": 22.36,
+        "race": {
+          "whitePct": 85.18,
+          "nonHispanicWhitePct": 81.32,
+          "blackPct": 0.69,
+          "asianPct": 1.15,
+          "hispanicPct": 10.99
+        }
+      },
+      "election": {
+        "district": 58,
+        "winner": "Shallenberger",
+        "party": "R",
+        "pct": 76.15,
+        "opposed": true,
+        "runnerUp": "Sorensen",
+        "runnerUpParty": "D",
+        "runnerUpPct": 23.85
+      }
+    },
+    "59": {
+      "districtNumber": 59,
+      "districtName": "Utah House District 59",
+      "census": {
+        "censusName": "State House District 59 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 118840,
+        "medianAge": 38,
+        "totalPopulation": 46062,
+        "collegePct": 52.01,
+        "renterRatePct": 22.56,
+        "race": {
+          "whitePct": 84.22,
+          "nonHispanicWhitePct": 80.79,
+          "blackPct": 0.25,
+          "asianPct": 2.08,
+          "hispanicPct": 14.3
+        }
+      },
+      "election": {
+        "district": 59,
+        "winner": "Kohler",
+        "party": "R",
+        "pct": 59.24,
+        "opposed": true,
+        "runnerUp": "Monahan",
+        "runnerUpParty": "D",
+        "runnerUpPct": 40.76
+      }
+    },
+    "60": {
+      "districtNumber": 60,
+      "districtName": "Utah House District 60",
+      "census": {
+        "censusName": "State House District 60 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 45164,
+        "medianAge": 22.5,
+        "totalPopulation": 45156,
+        "collegePct": 48.86,
+        "renterRatePct": 84.92,
+        "race": {
+          "whitePct": 83.08,
+          "nonHispanicWhitePct": 78.03,
+          "blackPct": 1.05,
+          "asianPct": 3.68,
+          "hispanicPct": 10.68
+        }
+      },
+      "election": {
+        "district": 60,
+        "winner": "Clancy",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "61": {
+      "districtNumber": 61,
+      "districtName": "Utah House District 61",
+      "census": {
+        "censusName": "State House District 61 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 76788,
+        "medianAge": 25.8,
+        "totalPopulation": 41858,
+        "collegePct": 39.46,
+        "renterRatePct": 47.66,
+        "race": {
+          "whitePct": 76.91,
+          "nonHispanicWhitePct": 67.81,
+          "blackPct": 1.02,
+          "asianPct": 1.24,
+          "hispanicPct": 24.94
+        }
+      },
+      "election": {
+        "district": 61,
+        "winner": "Shepherd",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "62": {
+      "districtNumber": 62,
+      "districtName": "Utah House District 62",
+      "census": {
+        "censusName": "State House District 62 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 68308,
+        "medianAge": 25.5,
+        "totalPopulation": 44998,
+        "collegePct": 38.69,
+        "renterRatePct": 57.02,
+        "race": {
+          "whitePct": 74.13,
+          "nonHispanicWhitePct": 64.33,
+          "blackPct": 1.33,
+          "asianPct": 1.69,
+          "hispanicPct": 25.09
+        }
+      },
+      "election": {
+        "district": 62,
+        "winner": "Thurston",
+        "party": "R",
+        "pct": 65.49,
+        "opposed": true,
+        "runnerUp": "Slater",
+        "runnerUpParty": "D",
+        "runnerUpPct": 34.51
+      }
+    },
+    "63": {
+      "districtNumber": 63,
+      "districtName": "Utah House District 63",
+      "census": {
+        "censusName": "State House District 63 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 105270,
+        "medianAge": 27.9,
+        "totalPopulation": 45736,
+        "collegePct": 45.98,
+        "renterRatePct": 17.45,
+        "race": {
+          "whitePct": 87.13,
+          "nonHispanicWhitePct": 82.04,
+          "blackPct": 0.42,
+          "asianPct": 0.38,
+          "hispanicPct": 12.14
+        }
+      },
+      "election": {
+        "district": 63,
+        "winner": "Whyte",
+        "party": "R",
+        "pct": 80.3,
+        "opposed": true,
+        "runnerUp": "Youngquist",
+        "runnerUpParty": "D",
+        "runnerUpPct": 19.7
+      }
+    },
+    "64": {
+      "districtNumber": 64,
+      "districtName": "Utah House District 64",
+      "census": {
+        "censusName": "State House District 64 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 101802,
+        "medianAge": 28.6,
+        "totalPopulation": 43805,
+        "collegePct": 35.72,
+        "renterRatePct": 19.84,
+        "race": {
+          "whitePct": 89.08,
+          "nonHispanicWhitePct": 84.99,
+          "blackPct": 0.48,
+          "asianPct": 0.39,
+          "hispanicPct": 11.17
+        }
+      },
+      "election": {
+        "district": 64,
+        "winner": "Burton",
+        "party": "R",
+        "pct": 84.2,
+        "opposed": true,
+        "runnerUp": "Dougan",
+        "runnerUpParty": "D",
+        "runnerUpPct": 15.8
+      }
+    },
+    "65": {
+      "districtNumber": 65,
+      "districtName": "Utah House District 65",
+      "census": {
+        "censusName": "State House District 65 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 93606,
+        "medianAge": 29,
+        "totalPopulation": 46358,
+        "collegePct": 28.45,
+        "renterRatePct": 14.28,
+        "race": {
+          "whitePct": 85.57,
+          "nonHispanicWhitePct": 80.33,
+          "blackPct": 0.72,
+          "asianPct": 0.44,
+          "hispanicPct": 13.73
+        }
+      },
+      "election": {
+        "district": 65,
+        "winner": "Welton",
+        "party": "R",
+        "pct": 84.02,
+        "opposed": true,
+        "runnerUp": "Hansen",
+        "runnerUpParty": "D",
+        "runnerUpPct": 15.98
+      }
+    },
+    "66": {
+      "districtNumber": 66,
+      "districtName": "Utah House District 66",
+      "census": {
+        "censusName": "State House District 66 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 72517,
+        "medianAge": 32.4,
+        "totalPopulation": 43514,
+        "collegePct": 22.27,
+        "renterRatePct": 22.16,
+        "race": {
+          "whitePct": 88.36,
+          "nonHispanicWhitePct": 85.96,
+          "blackPct": 0.8,
+          "asianPct": 0.59,
+          "hispanicPct": 9.56
+        }
+      },
+      "election": {
+        "district": 66,
+        "winner": "Shelley",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "67": {
+      "districtNumber": 67,
+      "districtName": "Utah House District 67",
+      "census": {
+        "censusName": "State House District 67 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 62735,
+        "medianAge": 36.2,
+        "totalPopulation": 42125,
+        "collegePct": 17.87,
+        "renterRatePct": 27.3,
+        "race": {
+          "whitePct": 89.03,
+          "nonHispanicWhitePct": 83.99,
+          "blackPct": 0.39,
+          "asianPct": 0.29,
+          "hispanicPct": 10.57
+        }
+      },
+      "election": {
+        "district": 67,
+        "winner": "Watkins",
+        "party": "R",
+        "pct": 75.46,
+        "opposed": true,
+        "runnerUp": "Christman",
+        "runnerUpParty": "D",
+        "runnerUpPct": 24.54
+      }
+    },
+    "68": {
+      "districtNumber": 68,
+      "districtName": "Utah House District 68",
+      "census": {
+        "censusName": "State House District 68 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70681,
+        "medianAge": 33.6,
+        "totalPopulation": 42733,
+        "collegePct": 16.68,
+        "renterRatePct": 25.8,
+        "race": {
+          "whitePct": 85.31,
+          "nonHispanicWhitePct": 81.99,
+          "blackPct": 0.52,
+          "asianPct": 0.72,
+          "hispanicPct": 7.49
+        }
+      },
+      "election": {
+        "district": 68,
+        "winner": "Chew",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "69": {
+      "districtNumber": 69,
+      "districtName": "Utah House District 69",
+      "census": {
+        "censusName": "State House District 69 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 63212,
+        "medianAge": 39.6,
+        "totalPopulation": 42639,
+        "collegePct": 27.64,
+        "renterRatePct": 23.84,
+        "race": {
+          "whitePct": 75.22,
+          "nonHispanicWhitePct": 71.62,
+          "blackPct": 0.11,
+          "asianPct": 0.45,
+          "hispanicPct": 7.37
+        }
+      },
+      "election": {
+        "district": 69,
+        "winner": "Monson",
+        "party": "R",
+        "pct": 62.45,
+        "opposed": true,
+        "runnerUp": "Smith",
+        "runnerUpParty": "D",
+        "runnerUpPct": 37.55
+      }
+    },
+    "70": {
+      "districtNumber": 70,
+      "districtName": "Utah House District 70",
+      "census": {
+        "censusName": "State House District 70 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74037,
+        "medianAge": 36.1,
+        "totalPopulation": 45268,
+        "collegePct": 23.94,
+        "renterRatePct": 16.97,
+        "race": {
+          "whitePct": 93.25,
+          "nonHispanicWhitePct": 90.74,
+          "blackPct": 0.15,
+          "asianPct": 0.26,
+          "hispanicPct": 6.43
+        }
+      },
+      "election": {
+        "district": 70,
+        "winner": "Albrecht",
+        "party": "R",
+        "pct": 93.31,
+        "opposed": true
+      }
+    },
+    "71": {
+      "districtNumber": 71,
+      "districtName": "Utah House District 71",
+      "census": {
+        "censusName": "State House District 71 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 64379,
+        "medianAge": 29.1,
+        "totalPopulation": 45664,
+        "collegePct": 31.49,
+        "renterRatePct": 38.5,
+        "race": {
+          "whitePct": 85.64,
+          "nonHispanicWhitePct": 81.03,
+          "blackPct": 0.8,
+          "asianPct": 1.28,
+          "hispanicPct": 11.89
+        }
+      },
+      "election": {
+        "district": 71,
+        "winner": "Shipp",
+        "party": "R",
+        "pct": 78.1,
+        "opposed": true,
+        "runnerUp": "Merrill",
+        "runnerUpParty": "D",
+        "runnerUpPct": 21.9
+      }
+    },
+    "72": {
+      "districtNumber": 72,
+      "districtName": "Utah House District 72",
+      "census": {
+        "censusName": "State House District 72 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 80995,
+        "medianAge": 38,
+        "totalPopulation": 48865,
+        "collegePct": 30.28,
+        "renterRatePct": 22.33,
+        "race": {
+          "whitePct": 86.98,
+          "nonHispanicWhitePct": 84.44,
+          "blackPct": 0.66,
+          "asianPct": 0.75,
+          "hispanicPct": 8.63
+        }
+      },
+      "election": {
+        "district": 72,
+        "winner": "Elison",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "73": {
+      "districtNumber": 73,
+      "districtName": "Utah House District 73",
+      "census": {
+        "censusName": "State House District 73 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88611,
+        "medianAge": 36.7,
+        "totalPopulation": 48136,
+        "collegePct": 35.4,
+        "renterRatePct": 29.1,
+        "race": {
+          "whitePct": 84.36,
+          "nonHispanicWhitePct": 78.5,
+          "blackPct": 0.4,
+          "asianPct": 1.25,
+          "hispanicPct": 14.43
+        }
+      },
+      "election": {
+        "district": 73,
+        "winner": "Jack",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "74": {
+      "districtNumber": 74,
+      "districtName": "Utah House District 74",
+      "census": {
+        "censusName": "State House District 74 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81420,
+        "medianAge": 44.6,
+        "totalPopulation": 46751,
+        "collegePct": 37.99,
+        "renterRatePct": 21.74,
+        "race": {
+          "whitePct": 84.78,
+          "nonHispanicWhitePct": 80.12,
+          "blackPct": 0.61,
+          "asianPct": 1.76,
+          "hispanicPct": 13.09
+        }
+      },
+      "election": {
+        "district": 74,
+        "winner": "Walter",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "75": {
+      "districtNumber": 75,
+      "districtName": "Utah House District 75",
+      "census": {
+        "censusName": "State House District 75 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 66853,
+        "medianAge": 38.2,
+        "totalPopulation": 46075,
+        "collegePct": 29.31,
+        "renterRatePct": 36.41,
+        "race": {
+          "whitePct": 87.47,
+          "nonHispanicWhitePct": 84.21,
+          "blackPct": 0.37,
+          "asianPct": 0.56,
+          "hispanicPct": 10.87
+        }
+      },
+      "election": {
+        "district": 75,
+        "winner": "Brooks",
+        "party": "R",
+        "pct": 78.83,
+        "opposed": true,
+        "runnerUp": "Dutson",
+        "runnerUpParty": "D",
+        "runnerUpPct": 21.17
+      }
+    }
+  },
+  "senate": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Utah Senate District 1",
+      "census": {
+        "censusName": "State Senate District 1 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 89179,
+        "medianAge": 31.6,
+        "totalPopulation": 116828,
+        "collegePct": 29.31,
+        "renterRatePct": 19.36,
+        "race": {
+          "whitePct": 88.14,
+          "nonHispanicWhitePct": 84.25,
+          "blackPct": 0.28,
+          "asianPct": 0.8,
+          "hispanicPct": 11.42
+        }
+      },
+      "election": {
+        "district": 1,
+        "winner": "Sandall",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Utah Senate District 2",
+      "census": {
+        "censusName": "State Senate District 2 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73651,
+        "medianAge": 25.5,
+        "totalPopulation": 114194,
+        "collegePct": 40.76,
+        "renterRatePct": 41,
+        "race": {
+          "whitePct": 85.17,
+          "nonHispanicWhitePct": 81.61,
+          "blackPct": 0.95,
+          "asianPct": 2.1,
+          "hispanicPct": 11.51
+        }
+      },
+      "election": {
+        "district": 2,
+        "winner": "Wilson",
+        "party": "R",
+        "pct": 69.82,
+        "opposed": true,
+        "runnerUp": "Huntly",
+        "runnerUpParty": "D",
+        "runnerUpPct": 30.18
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Utah Senate District 3",
+      "census": {
+        "censusName": "State Senate District 3 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 88852,
+        "medianAge": 34.2,
+        "totalPopulation": 114023,
+        "collegePct": 32.74,
+        "renterRatePct": 25.9,
+        "race": {
+          "whitePct": 85.48,
+          "nonHispanicWhitePct": 75.93,
+          "blackPct": 0.68,
+          "asianPct": 1.24,
+          "hispanicPct": 18.43
+        }
+      },
+      "election": {
+        "district": 3,
+        "winner": "Johnson",
+        "party": "R",
+        "pct": 57.53,
+        "opposed": true,
+        "runnerUp": "Bernal",
+        "runnerUpParty": "D",
+        "runnerUpPct": 42.47
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Utah Senate District 4",
+      "census": {
+        "censusName": "State Senate District 4 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104593,
+        "medianAge": 33.6,
+        "totalPopulation": 116827,
+        "collegePct": 26.57,
+        "renterRatePct": 12.04,
+        "race": {
+          "whitePct": 86.6,
+          "nonHispanicWhitePct": 80.05,
+          "blackPct": 0.47,
+          "asianPct": 1.74,
+          "hispanicPct": 13.55
+        }
+      },
+      "election": {
+        "district": 4,
+        "winner": "Musselman",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Utah Senate District 5",
+      "census": {
+        "censusName": "State Senate District 5 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 78930,
+        "medianAge": 32.4,
+        "totalPopulation": 112370,
+        "collegePct": 29.64,
+        "renterRatePct": 33.6,
+        "race": {
+          "whitePct": 80.37,
+          "nonHispanicWhitePct": 70.71,
+          "blackPct": 2.34,
+          "asianPct": 1.41,
+          "hispanicPct": 20.77
+        }
+      },
+      "election": {
+        "district": 5,
+        "winner": "Millner",
+        "party": "R",
+        "pct": 59.32,
+        "opposed": true,
+        "runnerUp": "Blodgett",
+        "runnerUpParty": "D",
+        "runnerUpPct": 35.61
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Utah Senate District 6",
+      "census": {
+        "censusName": "State Senate District 6 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 110559,
+        "medianAge": 30.3,
+        "totalPopulation": 114204,
+        "collegePct": 34.19,
+        "renterRatePct": 23.33,
+        "race": {
+          "whitePct": 85.05,
+          "nonHispanicWhitePct": 80.09,
+          "blackPct": 1.34,
+          "asianPct": 2.05,
+          "hispanicPct": 11.93
+        }
+      },
+      "election": {
+        "district": 6,
+        "winner": "Stevenson",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Utah Senate District 7",
+      "census": {
+        "censusName": "State Senate District 7 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 112773,
+        "medianAge": 34.5,
+        "totalPopulation": 114810,
+        "collegePct": 44.57,
+        "renterRatePct": 19.12,
+        "race": {
+          "whitePct": 87.68,
+          "nonHispanicWhitePct": 83.49,
+          "blackPct": 1.03,
+          "asianPct": 1.91,
+          "hispanicPct": 9.71
+        }
+      },
+      "election": {
+        "district": 7,
+        "winner": "Adams",
+        "party": "R",
+        "pct": 71.94,
+        "opposed": true
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Utah Senate District 8",
+      "census": {
+        "censusName": "State Senate District 8 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 102090,
+        "medianAge": 33.9,
+        "totalPopulation": 111238,
+        "collegePct": 43.98,
+        "renterRatePct": 29.53,
+        "race": {
+          "whitePct": 82.1,
+          "nonHispanicWhitePct": 77.76,
+          "blackPct": 1.11,
+          "asianPct": 2.39,
+          "hispanicPct": 12.55
+        }
+      },
+      "election": {
+        "district": 8,
+        "winner": "Weiler",
+        "party": "R",
+        "pct": 47.12,
+        "opposed": true,
+        "runnerUp": "Wiley",
+        "runnerUpParty": "D",
+        "runnerUpPct": 32.31
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Utah Senate District 9",
+      "census": {
+        "censusName": "State Senate District 9 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70266,
+        "medianAge": 32.4,
+        "totalPopulation": 114857,
+        "collegePct": 55.88,
+        "renterRatePct": 59.1,
+        "race": {
+          "whitePct": 74.74,
+          "nonHispanicWhitePct": 68.8,
+          "blackPct": 2.8,
+          "asianPct": 5.45,
+          "hispanicPct": 16.36
+        }
+      },
+      "election": {
+        "district": 9,
+        "winner": "Plumb",
+        "party": "D",
+        "pct": 99.36,
+        "opposed": true
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Utah Senate District 10",
+      "census": {
+        "censusName": "State Senate District 10 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81356,
+        "medianAge": 31,
+        "totalPopulation": 115833,
+        "collegePct": 16.8,
+        "renterRatePct": 32.72,
+        "race": {
+          "whitePct": 46.66,
+          "nonHispanicWhitePct": 39.23,
+          "blackPct": 2.39,
+          "asianPct": 4.93,
+          "hispanicPct": 45.86
+        }
+      },
+      "election": {
+        "district": 10,
+        "winner": "Escamilla",
+        "party": "D",
+        "pct": 56.54,
+        "opposed": true,
+        "runnerUp": "Erb",
+        "runnerUpParty": "R",
+        "runnerUpPct": 43.46
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Utah Senate District 11",
+      "census": {
+        "censusName": "State Senate District 11 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 104518,
+        "medianAge": 29.3,
+        "totalPopulation": 120490,
+        "collegePct": 24.79,
+        "renterRatePct": 15.53,
+        "race": {
+          "whitePct": 78.24,
+          "nonHispanicWhitePct": 73.14,
+          "blackPct": 1.11,
+          "asianPct": 1.86,
+          "hispanicPct": 17.76
+        }
+      },
+      "election": {
+        "district": 11,
+        "winner": "Thatcher",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Utah Senate District 12",
+      "census": {
+        "censusName": "State Senate District 12 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81488,
+        "medianAge": 31.2,
+        "totalPopulation": 111280,
+        "collegePct": 16.73,
+        "renterRatePct": 28.6,
+        "race": {
+          "whitePct": 56.2,
+          "nonHispanicWhitePct": 48.01,
+          "blackPct": 2.44,
+          "asianPct": 3.54,
+          "hispanicPct": 37.71
+        }
+      },
+      "election": {
+        "district": 12,
+        "winner": "Kwan",
+        "party": "D",
+        "pct": 56.47,
+        "opposed": true,
+        "runnerUp": "Weeks-Rohner",
+        "runnerUpParty": "R",
+        "runnerUpPct": 43.53
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Utah Senate District 13",
+      "census": {
+        "censusName": "State Senate District 13 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 74032,
+        "medianAge": 34.3,
+        "totalPopulation": 106382,
+        "collegePct": 38.25,
+        "renterRatePct": 53.16,
+        "race": {
+          "whitePct": 69.35,
+          "nonHispanicWhitePct": 63.03,
+          "blackPct": 4.46,
+          "asianPct": 6.29,
+          "hispanicPct": 20.38
+        }
+      },
+      "election": {
+        "district": 13,
+        "winner": "Blouin",
+        "party": "D",
+        "pct": 71.76,
+        "opposed": true,
+        "runnerUp": "Stout",
+        "runnerUpParty": "R",
+        "runnerUpPct": 28.24
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Utah Senate District 14",
+      "census": {
+        "censusName": "State Senate District 14 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 109310,
+        "medianAge": 38.1,
+        "totalPopulation": 113764,
+        "collegePct": 57.92,
+        "renterRatePct": 23.39,
+        "race": {
+          "whitePct": 86.54,
+          "nonHispanicWhitePct": 83.97,
+          "blackPct": 0.75,
+          "asianPct": 2.84,
+          "hispanicPct": 7.32
+        }
+      },
+      "election": {
+        "district": 14,
+        "winner": "Pitcher",
+        "party": "D",
+        "pct": 62.21,
+        "opposed": true,
+        "runnerUp": "Sorensen",
+        "runnerUpParty": "R",
+        "runnerUpPct": 36.01
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Utah Senate District 15",
+      "census": {
+        "censusName": "State Senate District 15 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 85372,
+        "medianAge": 34.3,
+        "totalPopulation": 111179,
+        "collegePct": 40.2,
+        "renterRatePct": 42.37,
+        "race": {
+          "whitePct": 76.3,
+          "nonHispanicWhitePct": 72.36,
+          "blackPct": 1.63,
+          "asianPct": 3.59,
+          "hispanicPct": 15.09
+        }
+      },
+      "election": {
+        "district": 15,
+        "winner": "Riebe",
+        "party": "D",
+        "pct": 57.04,
+        "opposed": true,
+        "runnerUp": "Cuthbertson",
+        "runnerUpParty": "R",
+        "runnerUpPct": 42.96
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Utah Senate District 16",
+      "census": {
+        "censusName": "State Senate District 16 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 98886,
+        "medianAge": 34.6,
+        "totalPopulation": 111762,
+        "collegePct": 26.07,
+        "renterRatePct": 20.91,
+        "race": {
+          "whitePct": 72.6,
+          "nonHispanicWhitePct": 65.42,
+          "blackPct": 1.17,
+          "asianPct": 4.28,
+          "hispanicPct": 23.86
+        }
+      },
+      "election": {
+        "district": 16,
+        "winner": "Harper",
+        "party": "R",
+        "pct": 57.47,
+        "opposed": true
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Utah Senate District 17",
+      "census": {
+        "censusName": "State Senate District 17 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 124993,
+        "medianAge": 34.2,
+        "totalPopulation": 117233,
+        "collegePct": 44.37,
+        "renterRatePct": 17.14,
+        "race": {
+          "whitePct": 80.35,
+          "nonHispanicWhitePct": 78.01,
+          "blackPct": 0.88,
+          "asianPct": 4.07,
+          "hispanicPct": 11.94
+        }
+      },
+      "election": {
+        "district": 17,
+        "winner": "Fillmore",
+        "party": "R",
+        "pct": 63.89,
+        "opposed": true
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Utah Senate District 18",
+      "census": {
+        "censusName": "State Senate District 18 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 116621,
+        "medianAge": 31,
+        "totalPopulation": 117429,
+        "collegePct": 38.37,
+        "renterRatePct": 21.52,
+        "race": {
+          "whitePct": 84.89,
+          "nonHispanicWhitePct": 81.76,
+          "blackPct": 0.33,
+          "asianPct": 2.62,
+          "hispanicPct": 10.4
+        }
+      },
+      "election": {
+        "district": 18,
+        "winner": "McCay",
+        "party": "R",
+        "pct": 66.39,
+        "opposed": true,
+        "runnerUp": "Voutaz",
+        "runnerUpParty": "D",
+        "runnerUpPct": 28.49
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Utah Senate District 19",
+      "census": {
+        "censusName": "State Senate District 19 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 138051,
+        "medianAge": 37.8,
+        "totalPopulation": 109750,
+        "collegePct": 52.33,
+        "renterRatePct": 14.08,
+        "race": {
+          "whitePct": 86.14,
+          "nonHispanicWhitePct": 83.88,
+          "blackPct": 0.69,
+          "asianPct": 3.23,
+          "hispanicPct": 7.1
+        }
+      },
+      "election": {
+        "district": 19,
+        "winner": "Cullimore",
+        "party": "R",
+        "pct": 58.44,
+        "opposed": true,
+        "runnerUp": "Bond",
+        "runnerUpParty": "D",
+        "runnerUpPct": 34.68
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Utah Senate District 20",
+      "census": {
+        "censusName": "State Senate District 20 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 92478,
+        "medianAge": 35.2,
+        "totalPopulation": 115120,
+        "collegePct": 36.32,
+        "renterRatePct": 23.24,
+        "race": {
+          "whitePct": 85.13,
+          "nonHispanicWhitePct": 81.9,
+          "blackPct": 0.33,
+          "asianPct": 1.3,
+          "hispanicPct": 10.58
+        }
+      },
+      "election": {
+        "district": 20,
+        "winner": "Winterton",
+        "party": "R",
+        "pct": 68.69,
+        "opposed": true,
+        "runnerUp": "Fellow",
+        "runnerUpParty": "D",
+        "runnerUpPct": 31.31
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Utah Senate District 21",
+      "census": {
+        "censusName": "State Senate District 21 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 119151,
+        "medianAge": 28.2,
+        "totalPopulation": 116213,
+        "collegePct": 48.5,
+        "renterRatePct": 23.6,
+        "race": {
+          "whitePct": 86.04,
+          "nonHispanicWhitePct": 83.92,
+          "blackPct": 0.63,
+          "asianPct": 1.71,
+          "hispanicPct": 8.93
+        }
+      },
+      "election": {
+        "district": 21,
+        "winner": "Kennedy",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Utah Senate District 22",
+      "census": {
+        "censusName": "State Senate District 22 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 121417,
+        "medianAge": 26.2,
+        "totalPopulation": 124683,
+        "collegePct": 48.66,
+        "renterRatePct": 21.55,
+        "race": {
+          "whitePct": 85.04,
+          "nonHispanicWhitePct": 81.35,
+          "blackPct": 0.99,
+          "asianPct": 1.68,
+          "hispanicPct": 11.02
+        }
+      },
+      "election": {
+        "district": 22,
+        "winner": "Balderree",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Utah Senate District 23",
+      "census": {
+        "censusName": "State Senate District 23 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 81863,
+        "medianAge": 26.4,
+        "totalPopulation": 112554,
+        "collegePct": 41.84,
+        "renterRatePct": 43.59,
+        "race": {
+          "whitePct": 78.96,
+          "nonHispanicWhitePct": 72.43,
+          "blackPct": 1.01,
+          "asianPct": 2.16,
+          "hispanicPct": 19.13
+        }
+      },
+      "election": {
+        "district": 23,
+        "winner": "Grover",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Utah Senate District 24",
+      "census": {
+        "censusName": "State Senate District 24 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 67616,
+        "medianAge": 23.7,
+        "totalPopulation": 113325,
+        "collegePct": 47.98,
+        "renterRatePct": 56.47,
+        "race": {
+          "whitePct": 81.92,
+          "nonHispanicWhitePct": 76.15,
+          "blackPct": 0.78,
+          "asianPct": 2.11,
+          "hispanicPct": 14.9
+        }
+      },
+      "election": {
+        "district": 24,
+        "winner": "Stratton",
+        "party": "R",
+        "pct": 66.14,
+        "opposed": true
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Utah Senate District 25",
+      "census": {
+        "censusName": "State Senate District 25 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 90967,
+        "medianAge": 27.5,
+        "totalPopulation": 116108,
+        "collegePct": 34.9,
+        "renterRatePct": 25.99,
+        "race": {
+          "whitePct": 83.48,
+          "nonHispanicWhitePct": 76.84,
+          "blackPct": 0.7,
+          "asianPct": 0.74,
+          "hispanicPct": 16.66
+        }
+      },
+      "election": {
+        "district": 25,
+        "winner": "Mckell",
+        "party": "R",
+        "pct": 78.74,
+        "opposed": true,
+        "runnerUp": "Hansen",
+        "runnerUpParty": "D",
+        "runnerUpPct": 21.26
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Utah Senate District 26",
+      "census": {
+        "censusName": "State Senate District 26 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 75776,
+        "medianAge": 34.3,
+        "totalPopulation": 112542,
+        "collegePct": 30.19,
+        "renterRatePct": 24.43,
+        "race": {
+          "whitePct": 82.85,
+          "nonHispanicWhitePct": 78.19,
+          "blackPct": 0.37,
+          "asianPct": 0.52,
+          "hispanicPct": 11.14
+        }
+      },
+      "election": {
+        "district": 26,
+        "winner": "Hinkins",
+        "party": "R",
+        "pct": 69.86,
+        "opposed": true,
+        "runnerUp": "Frost",
+        "runnerUpParty": "D",
+        "runnerUpPct": 24.3
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Utah Senate District 27",
+      "census": {
+        "censusName": "State Senate District 27 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 77060,
+        "medianAge": 34.2,
+        "totalPopulation": 119916,
+        "collegePct": 26.17,
+        "renterRatePct": 20.07,
+        "race": {
+          "whitePct": 89.34,
+          "nonHispanicWhitePct": 86.8,
+          "blackPct": 0.6,
+          "asianPct": 0.55,
+          "hispanicPct": 7.88
+        }
+      },
+      "election": {
+        "district": 27,
+        "winner": "Owens",
+        "party": "R",
+        "pct": 100,
+        "opposed": false
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Utah Senate District 28",
+      "census": {
+        "censusName": "State Senate District 28 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 70952,
+        "medianAge": 34.1,
+        "totalPopulation": 118403,
+        "collegePct": 28.91,
+        "renterRatePct": 28.93,
+        "race": {
+          "whitePct": 86.24,
+          "nonHispanicWhitePct": 81.35,
+          "blackPct": 0.58,
+          "asianPct": 0.96,
+          "hispanicPct": 12.68
+        }
+      },
+      "election": {
+        "district": 28,
+        "winner": "Vickers",
+        "party": "R",
+        "pct": 80.89,
+        "opposed": true
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Utah Senate District 29",
+      "census": {
+        "censusName": "State Senate District 29 (2022); Utah",
+        "source": "ACS 5-Year 2023 (2019–2023)",
+        "medianHouseholdIncome": 73717,
+        "medianAge": 39.3,
+        "totalPopulation": 117870,
+        "collegePct": 34.84,
+        "renterRatePct": 29.73,
+        "race": {
+          "whitePct": 86.01,
+          "nonHispanicWhitePct": 81.94,
+          "blackPct": 0.47,
+          "asianPct": 1.24,
+          "hispanicPct": 11.74
+        }
+      },
+      "election": {
+        "district": 29,
+        "winner": "Ipson",
+        "party": "R",
+        "pct": 76.44,
+        "opposed": true,
+        "runnerUp": "Ritchhart",
+        "runnerUpParty": "D",
+        "runnerUpPct": 23.56
+      }
+    }
+  }
+}

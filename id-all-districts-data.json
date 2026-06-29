@@ -1,0 +1,2349 @@
+{
+  "districts": {
+    "1": {
+      "districtNumber": 1,
+      "districtName": "Idaho Legislative District 1",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 1 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 67054,
+          "medianAge": 47.2,
+          "totalPopulation": 56415,
+          "collegePct": 27.52,
+          "renterRatePct": 23.51,
+          "race": {
+            "whitePct": 90.52,
+            "nonHispanicWhitePct": 89.45,
+            "blackPct": 0.4,
+            "asianPct": 0.92,
+            "hispanicPct": 4.25
+          }
+        },
+        "house": {
+          "censusName": "State House District 1 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 67054,
+          "medianAge": 47.2,
+          "totalPopulation": 56415,
+          "collegePct": 27.52,
+          "renterRatePct": 23.51,
+          "race": {
+            "whitePct": 90.52,
+            "nonHispanicWhitePct": 89.45,
+            "blackPct": 0.4,
+            "asianPct": 0.92,
+            "hispanicPct": 4.25
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Jim Woodward",
+          "winnerParty": "REP",
+          "winnerPct": 76.3,
+          "runnerUp": "Daniel \"Dan\" Rose",
+          "runnerUpParty": "IND",
+          "runnerUpPct": 23.7,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Mark Sauter",
+          "winnerParty": "REP",
+          "winnerPct": 77.5,
+          "runnerUp": "Karen Matthee",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 22.5,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Cornel Rasor",
+          "winnerParty": "REP",
+          "winnerPct": 71.1,
+          "runnerUp": "Kathryn Larson",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 28.9,
+          "opposed": true
+        }
+      }
+    },
+    "2": {
+      "districtNumber": 2,
+      "districtName": "Idaho Legislative District 2",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 2 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 59882,
+          "medianAge": 48.3,
+          "totalPopulation": 52389,
+          "collegePct": 20.87,
+          "renterRatePct": 18.57,
+          "race": {
+            "whitePct": 88.17,
+            "nonHispanicWhitePct": 86.96,
+            "blackPct": 0.43,
+            "asianPct": 0.37,
+            "hispanicPct": 4.67
+          }
+        },
+        "house": {
+          "censusName": "State House District 2 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 59882,
+          "medianAge": 48.3,
+          "totalPopulation": 52389,
+          "collegePct": 20.87,
+          "renterRatePct": 18.57,
+          "race": {
+            "whitePct": 88.17,
+            "nonHispanicWhitePct": 86.96,
+            "blackPct": 0.43,
+            "asianPct": 0.37,
+            "hispanicPct": 4.67
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Phil Hart",
+          "winnerParty": "REP",
+          "winnerPct": 80.3,
+          "runnerUp": "Tom Hearn",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 19.7,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Heather Scott",
+          "winnerParty": "REP",
+          "winnerPct": 81.1,
+          "runnerUp": "Loree Peery",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 18.9,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Dale Hawkins",
+          "winnerParty": "REP",
+          "winnerPct": 76.5,
+          "runnerUp": "Tami Holdahl",
+          "runnerUpParty": "IND",
+          "runnerUpPct": 19.7,
+          "opposed": true
+        }
+      }
+    },
+    "3": {
+      "districtNumber": 3,
+      "districtName": "Idaho Legislative District 3",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 3 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 87442,
+          "medianAge": 43.4,
+          "totalPopulation": 56008,
+          "collegePct": 29.78,
+          "renterRatePct": 18.56,
+          "race": {
+            "whitePct": 89.11,
+            "nonHispanicWhitePct": 87.75,
+            "blackPct": 0.22,
+            "asianPct": 0.62,
+            "hispanicPct": 4.73
+          }
+        },
+        "house": {
+          "censusName": "State House District 3 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 87442,
+          "medianAge": 43.4,
+          "totalPopulation": 56008,
+          "collegePct": 29.78,
+          "renterRatePct": 18.56,
+          "race": {
+            "whitePct": 89.11,
+            "nonHispanicWhitePct": 87.75,
+            "blackPct": 0.22,
+            "asianPct": 0.62,
+            "hispanicPct": 4.73
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Doug \"Doug O\" Okuniewicz",
+          "winnerParty": "REP",
+          "winnerPct": 80.6,
+          "runnerUp": "Brian Seguin",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 19.4,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Vito Barbieri",
+          "winnerParty": "REP",
+          "winnerPct": 79.7,
+          "runnerUp": "Dale Broadsword",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 20.3,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Jordan Redman",
+          "winnerParty": "REP",
+          "winnerPct": 80.3,
+          "runnerUp": "Steve Bruno",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 19.7,
+          "opposed": true
+        }
+      }
+    },
+    "4": {
+      "districtNumber": 4,
+      "districtName": "Idaho Legislative District 4",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 4 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 70486,
+          "medianAge": 40,
+          "totalPopulation": 51863,
+          "collegePct": 29.93,
+          "renterRatePct": 38.45,
+          "race": {
+            "whitePct": 89.11,
+            "nonHispanicWhitePct": 86.59,
+            "blackPct": 0.41,
+            "asianPct": 1.07,
+            "hispanicPct": 5.27
+          }
+        },
+        "house": {
+          "censusName": "State House District 4 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 70486,
+          "medianAge": 40,
+          "totalPopulation": 51863,
+          "collegePct": 29.93,
+          "renterRatePct": 38.45,
+          "race": {
+            "whitePct": 89.11,
+            "nonHispanicWhitePct": 86.59,
+            "blackPct": 0.41,
+            "asianPct": 1.07,
+            "hispanicPct": 5.27
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Ben Toews",
+          "winnerParty": "REP",
+          "winnerPct": 66.3,
+          "runnerUp": "Carissa Hober",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 33.7,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Joe Alfieri",
+          "winnerParty": "REP",
+          "winnerPct": 65.5,
+          "runnerUp": "Angela Jean Chandler",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 34.5,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Elaine Price",
+          "winnerParty": "REP",
+          "winnerPct": 63.7,
+          "runnerUp": "Paula Marano",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 36.3,
+          "opposed": true
+        }
+      }
+    },
+    "5": {
+      "districtNumber": 5,
+      "districtName": "Idaho Legislative District 5",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 5 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 73359,
+          "medianAge": 37.4,
+          "totalPopulation": 55626,
+          "collegePct": 26.09,
+          "renterRatePct": 30.61,
+          "race": {
+            "whitePct": 86.95,
+            "nonHispanicWhitePct": 85.01,
+            "blackPct": 0.33,
+            "asianPct": 0.77,
+            "hispanicPct": 5.78
+          }
+        },
+        "house": {
+          "censusName": "State House District 5 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 73359,
+          "medianAge": 37.4,
+          "totalPopulation": 55626,
+          "collegePct": 26.09,
+          "renterRatePct": 30.61,
+          "race": {
+            "whitePct": 86.95,
+            "nonHispanicWhitePct": 85.01,
+            "blackPct": 0.33,
+            "asianPct": 0.77,
+            "hispanicPct": 5.78
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Carl Bjerke",
+          "winnerParty": "REP",
+          "winnerPct": 79.4,
+          "runnerUp": "Adam Chapman",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 20.6,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Ron Mendive",
+          "winnerParty": "REP",
+          "winnerPct": 73.3,
+          "runnerUp": "Kristy Reed Johnson",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 18.8,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Tony Wisniewski",
+          "winnerParty": "REP",
+          "winnerPct": 78.9,
+          "runnerUp": "Teresa Borrenpohl",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 21.1,
+          "opposed": true
+        }
+      }
+    },
+    "6": {
+      "districtNumber": 6,
+      "districtName": "Idaho Legislative District 6",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 6 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 66442,
+          "medianAge": 34.7,
+          "totalPopulation": 54112,
+          "collegePct": 37.91,
+          "renterRatePct": 33.56,
+          "race": {
+            "whitePct": 86.76,
+            "nonHispanicWhitePct": 84.04,
+            "blackPct": 0.91,
+            "asianPct": 1.73,
+            "hispanicPct": 4.83
+          }
+        },
+        "house": {
+          "censusName": "State House District 6 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 66442,
+          "medianAge": 34.7,
+          "totalPopulation": 54112,
+          "collegePct": 37.91,
+          "renterRatePct": 33.56,
+          "race": {
+            "whitePct": 86.76,
+            "nonHispanicWhitePct": 84.04,
+            "blackPct": 0.91,
+            "asianPct": 1.73,
+            "hispanicPct": 4.83
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Dan Foreman",
+          "winnerParty": "REP",
+          "winnerPct": 53.3,
+          "runnerUp": "Julia Parker",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 46.7,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Lori McCann",
+          "winnerParty": "REP",
+          "winnerPct": 64.8,
+          "runnerUp": "Trish Carter-Goodheart",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 35.2,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Brandon Mitchell",
+          "winnerParty": "REP",
+          "winnerPct": 58.1,
+          "runnerUp": "Kathy Dawes",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 41.9,
+          "opposed": true
+        }
+      }
+    },
+    "7": {
+      "districtNumber": 7,
+      "districtName": "Idaho Legislative District 7",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 7 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 64196,
+          "medianAge": 43,
+          "totalPopulation": 54048,
+          "collegePct": 25.52,
+          "renterRatePct": 27.2,
+          "race": {
+            "whitePct": 91.11,
+            "nonHispanicWhitePct": 88.95,
+            "blackPct": 0.11,
+            "asianPct": 0.76,
+            "hispanicPct": 4.19
+          }
+        },
+        "house": {
+          "censusName": "State House District 7 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 64196,
+          "medianAge": 43,
+          "totalPopulation": 54048,
+          "collegePct": 25.52,
+          "renterRatePct": 27.2,
+          "race": {
+            "whitePct": 91.11,
+            "nonHispanicWhitePct": 88.95,
+            "blackPct": 0.11,
+            "asianPct": 0.76,
+            "hispanicPct": 4.19
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Cindy Carlson",
+          "winnerParty": "REP",
+          "winnerPct": 75.3,
+          "runnerUp": "Bill Farmer",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 24.7,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Kyle N Harris",
+          "winnerParty": "REP",
+          "winnerPct": 75.4,
+          "runnerUp": "Vickie Nostrant",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 24.6,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Charlie Shepherd",
+          "winnerParty": "REP",
+          "winnerPct": 77.2,
+          "runnerUp": "Dustin Hardisty",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 22.8,
+          "opposed": true
+        }
+      }
+    },
+    "8": {
+      "districtNumber": 8,
+      "districtName": "Idaho Legislative District 8",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 8 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 64976,
+          "medianAge": 41,
+          "totalPopulation": 53638,
+          "collegePct": 26.58,
+          "renterRatePct": 25.66,
+          "race": {
+            "whitePct": 82.38,
+            "nonHispanicWhitePct": 79.58,
+            "blackPct": 1.8,
+            "asianPct": 1.98,
+            "hispanicPct": 11.85
+          }
+        },
+        "house": {
+          "censusName": "State House District 8 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 64976,
+          "medianAge": 41,
+          "totalPopulation": 53638,
+          "collegePct": 26.58,
+          "renterRatePct": 25.66,
+          "race": {
+            "whitePct": 82.38,
+            "nonHispanicWhitePct": 79.58,
+            "blackPct": 1.8,
+            "asianPct": 1.98,
+            "hispanicPct": 11.85
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Christy Zito",
+          "winnerParty": "REP",
+          "winnerPct": 72.1,
+          "runnerUp": "David Hoag",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 27.9,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Rob Beiswenger",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        },
+        "repB": {
+          "winner": "Faye Thompson",
+          "winnerParty": "REP",
+          "winnerPct": 67.9,
+          "runnerUp": "Jared Dawson",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 27.5,
+          "opposed": true
+        }
+      }
+    },
+    "9": {
+      "districtNumber": 9,
+      "districtName": "Idaho Legislative District 9",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 9 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 64063,
+          "medianAge": 39.8,
+          "totalPopulation": 54483,
+          "collegePct": 19.58,
+          "renterRatePct": 25.02,
+          "race": {
+            "whitePct": 80.72,
+            "nonHispanicWhitePct": 74.45,
+            "blackPct": 0.09,
+            "asianPct": 0.65,
+            "hispanicPct": 19.56
+          }
+        },
+        "house": {
+          "censusName": "State House District 9 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 64063,
+          "medianAge": 39.8,
+          "totalPopulation": 54483,
+          "collegePct": 19.58,
+          "renterRatePct": 25.02,
+          "race": {
+            "whitePct": 80.72,
+            "nonHispanicWhitePct": 74.45,
+            "blackPct": 0.09,
+            "asianPct": 0.65,
+            "hispanicPct": 19.56
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Brandon Shippy",
+          "winnerParty": "REP",
+          "winnerPct": 82.9,
+          "runnerUp": "Rachel Buck",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 17.1,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "John C. Shirts",
+          "winnerParty": "REP",
+          "winnerPct": 85,
+          "runnerUp": "Thomas P Albritton",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 15,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Judy Boyle",
+          "winnerParty": "REP",
+          "winnerPct": 81.4,
+          "runnerUp": "Jody Keeler",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 18.6,
+          "opposed": true
+        }
+      }
+    },
+    "10": {
+      "districtNumber": 10,
+      "districtName": "Idaho Legislative District 10",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 10 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 84324,
+          "medianAge": 37.1,
+          "totalPopulation": 58062,
+          "collegePct": 29.67,
+          "renterRatePct": 16.05,
+          "race": {
+            "whitePct": 81.99,
+            "nonHispanicWhitePct": 77.41,
+            "blackPct": 1.3,
+            "asianPct": 0.92,
+            "hispanicPct": 14.17
+          }
+        },
+        "house": {
+          "censusName": "State House District 10 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 84324,
+          "medianAge": 37.1,
+          "totalPopulation": 58062,
+          "collegePct": 29.67,
+          "renterRatePct": 16.05,
+          "race": {
+            "whitePct": 81.99,
+            "nonHispanicWhitePct": 77.41,
+            "blackPct": 1.3,
+            "asianPct": 0.92,
+            "hispanicPct": 14.17
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Tammy Nichols",
+          "winnerParty": "REP",
+          "winnerPct": 80.7,
+          "runnerUp": "Letishia Silva",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 19.3,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Mike Moyle",
+          "winnerParty": "REP",
+          "winnerPct": 81.4,
+          "runnerUp": "Nancy Parker",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 18.6,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Bruce D. Skaug",
+          "winnerParty": "REP",
+          "winnerPct": 81.6,
+          "runnerUp": "Shana Tremaine",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 18.4,
+          "opposed": true
+        }
+      }
+    },
+    "11": {
+      "districtNumber": 11,
+      "districtName": "Idaho Legislative District 11",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 11 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 65750,
+          "medianAge": 31.9,
+          "totalPopulation": 54473,
+          "collegePct": 15.25,
+          "renterRatePct": 31.32,
+          "race": {
+            "whitePct": 61.37,
+            "nonHispanicWhitePct": 52.77,
+            "blackPct": 0.37,
+            "asianPct": 1.08,
+            "hispanicPct": 40.33
+          }
+        },
+        "house": {
+          "censusName": "State House District 11 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 65750,
+          "medianAge": 31.9,
+          "totalPopulation": 54473,
+          "collegePct": 15.25,
+          "renterRatePct": 31.32,
+          "race": {
+            "whitePct": 61.37,
+            "nonHispanicWhitePct": 52.77,
+            "blackPct": 0.37,
+            "asianPct": 1.08,
+            "hispanicPct": 40.33
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Camille Blaylock",
+          "winnerParty": "REP",
+          "winnerPct": 65.9,
+          "runnerUp": "Toni Ferro",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 34.1,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Kent A. Marmon",
+          "winnerParty": "REP",
+          "winnerPct": 65.9,
+          "runnerUp": "Anthony Porto",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 34.1,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Lucas Cayler",
+          "winnerParty": "REP",
+          "winnerPct": 65.4,
+          "runnerUp": "Marisela Pesina",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 34.6,
+          "opposed": true
+        }
+      }
+    },
+    "12": {
+      "districtNumber": 12,
+      "districtName": "Idaho Legislative District 12",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 12 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 72713,
+          "medianAge": 34.8,
+          "totalPopulation": 57853,
+          "collegePct": 23.57,
+          "renterRatePct": 22.75,
+          "race": {
+            "whitePct": 75.75,
+            "nonHispanicWhitePct": 68.48,
+            "blackPct": 0.24,
+            "asianPct": 0.84,
+            "hispanicPct": 26.87
+          }
+        },
+        "house": {
+          "censusName": "State House District 12 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 72713,
+          "medianAge": 34.8,
+          "totalPopulation": 57853,
+          "collegePct": 23.57,
+          "renterRatePct": 22.75,
+          "race": {
+            "whitePct": 75.75,
+            "nonHispanicWhitePct": 68.48,
+            "blackPct": 0.24,
+            "asianPct": 0.84,
+            "hispanicPct": 26.87
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Ben Adams",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        },
+        "repA": {
+          "winner": "Jeff Cornilles",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        },
+        "repB": {
+          "winner": "Jaron Crane",
+          "winnerParty": "REP",
+          "winnerPct": 71,
+          "runnerUp": "Don Benson",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 29,
+          "opposed": true
+        }
+      }
+    },
+    "13": {
+      "districtNumber": 13,
+      "districtName": "Idaho Legislative District 13",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 13 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 73339,
+          "medianAge": 34.7,
+          "totalPopulation": 56475,
+          "collegePct": 24.48,
+          "renterRatePct": 30.44,
+          "race": {
+            "whitePct": 77.57,
+            "nonHispanicWhitePct": 71.49,
+            "blackPct": 0.99,
+            "asianPct": 0.72,
+            "hispanicPct": 21.23
+          }
+        },
+        "house": {
+          "censusName": "State House District 13 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 73339,
+          "medianAge": 34.7,
+          "totalPopulation": 56475,
+          "collegePct": 24.48,
+          "renterRatePct": 30.44,
+          "race": {
+            "whitePct": 77.57,
+            "nonHispanicWhitePct": 71.49,
+            "blackPct": 0.99,
+            "asianPct": 0.72,
+            "hispanicPct": 21.23
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Brian Lenney",
+          "winnerParty": "REP",
+          "winnerPct": 70,
+          "runnerUp": "Sarah Butler",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 30,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Brent J. Crane",
+          "winnerParty": "REP",
+          "winnerPct": 71.5,
+          "runnerUp": "Cliff Hohman",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 28.5,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Steve Tanner",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        }
+      }
+    },
+    "14": {
+      "districtNumber": 14,
+      "districtName": "Idaho Legislative District 14",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 14 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 94080,
+          "medianAge": 44.9,
+          "totalPopulation": 55979,
+          "collegePct": 43.37,
+          "renterRatePct": 17.14,
+          "race": {
+            "whitePct": 87.74,
+            "nonHispanicWhitePct": 84.88,
+            "blackPct": 0.26,
+            "asianPct": 1.33,
+            "hispanicPct": 8.93
+          }
+        },
+        "house": {
+          "censusName": "State House District 14 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 94080,
+          "medianAge": 44.9,
+          "totalPopulation": 55979,
+          "collegePct": 43.37,
+          "renterRatePct": 17.14,
+          "race": {
+            "whitePct": 87.74,
+            "nonHispanicWhitePct": 84.88,
+            "blackPct": 0.26,
+            "asianPct": 1.33,
+            "hispanicPct": 8.93
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "C. Scott Grow",
+          "winnerParty": "REP",
+          "winnerPct": 84.9,
+          "runnerUp": "Kirsten Faith Richardson",
+          "runnerUpParty": "CON",
+          "runnerUpPct": 15.1,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Ted Hill",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        },
+        "repB": {
+          "winner": "Josh Tanner",
+          "winnerParty": "REP",
+          "winnerPct": 77.5,
+          "runnerUp": "Jo Daly",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 22.5,
+          "opposed": true
+        }
+      }
+    },
+    "15": {
+      "districtNumber": 15,
+      "districtName": "Idaho Legislative District 15",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 15 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 79801,
+          "medianAge": 39.9,
+          "totalPopulation": 51718,
+          "collegePct": 37.77,
+          "renterRatePct": 24.52,
+          "race": {
+            "whitePct": 82.45,
+            "nonHispanicWhitePct": 79.19,
+            "blackPct": 1.2,
+            "asianPct": 2.83,
+            "hispanicPct": 10.61
+          }
+        },
+        "house": {
+          "censusName": "State House District 15 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 79801,
+          "medianAge": 39.9,
+          "totalPopulation": 51718,
+          "collegePct": 37.77,
+          "renterRatePct": 24.52,
+          "race": {
+            "whitePct": 82.45,
+            "nonHispanicWhitePct": 79.19,
+            "blackPct": 1.2,
+            "asianPct": 2.83,
+            "hispanicPct": 10.61
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Codi Galloway",
+          "winnerParty": "REP",
+          "winnerPct": 51.8,
+          "runnerUp": "Rick Just",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 48.2,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Steve Berch",
+          "winnerParty": "DEM",
+          "winnerPct": 50.5,
+          "runnerUp": "Annette Tipton",
+          "runnerUpParty": "REP",
+          "runnerUpPct": 49.5,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Dori Healey",
+          "winnerParty": "REP",
+          "winnerPct": 53.6,
+          "runnerUp": "Shari Baber",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 46.4,
+          "opposed": true
+        }
+      }
+    },
+    "16": {
+      "districtNumber": 16,
+      "districtName": "Idaho Legislative District 16",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 16 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 70547,
+          "medianAge": 38.7,
+          "totalPopulation": 50886,
+          "collegePct": 40.62,
+          "renterRatePct": 39.97,
+          "race": {
+            "whitePct": 85.07,
+            "nonHispanicWhitePct": 81.59,
+            "blackPct": 1.1,
+            "asianPct": 1.11,
+            "hispanicPct": 11.52
+          }
+        },
+        "house": {
+          "censusName": "State House District 16 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 70547,
+          "medianAge": 38.7,
+          "totalPopulation": 50886,
+          "collegePct": 40.62,
+          "renterRatePct": 39.97,
+          "race": {
+            "whitePct": 85.07,
+            "nonHispanicWhitePct": 81.59,
+            "blackPct": 1.1,
+            "asianPct": 1.11,
+            "hispanicPct": 11.52
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Ali Rabe",
+          "winnerParty": "DEM",
+          "winnerPct": 58.7,
+          "runnerUp": "Doug Rich",
+          "runnerUpParty": "REP",
+          "runnerUpPct": 41.3,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Sonia Galaviz",
+          "winnerParty": "DEM",
+          "winnerPct": 61.1,
+          "runnerUp": "Chandler Stewart Hadraba",
+          "runnerUpParty": "REP",
+          "runnerUpPct": 38.9,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Todd Achilles",
+          "winnerParty": "DEM",
+          "winnerPct": 59.8,
+          "runnerUp": "Jackie Davidson",
+          "runnerUpParty": "REP",
+          "runnerUpPct": 40.2,
+          "opposed": true
+        }
+      }
+    },
+    "17": {
+      "districtNumber": 17,
+      "districtName": "Idaho Legislative District 17",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 17 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 67319,
+          "medianAge": 35.6,
+          "totalPopulation": 51143,
+          "collegePct": 37.84,
+          "renterRatePct": 41.81,
+          "race": {
+            "whitePct": 81.64,
+            "nonHispanicWhitePct": 78.51,
+            "blackPct": 2.05,
+            "asianPct": 3.47,
+            "hispanicPct": 11.57
+          }
+        },
+        "house": {
+          "censusName": "State House District 17 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 67319,
+          "medianAge": 35.6,
+          "totalPopulation": 51143,
+          "collegePct": 37.84,
+          "renterRatePct": 41.81,
+          "race": {
+            "whitePct": 81.64,
+            "nonHispanicWhitePct": 78.51,
+            "blackPct": 2.05,
+            "asianPct": 3.47,
+            "hispanicPct": 11.57
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Carrie Semmelroth",
+          "winnerParty": "DEM",
+          "winnerPct": 57.3,
+          "runnerUp": "Benjamin D. Chafetz",
+          "runnerUpParty": "REP",
+          "runnerUpPct": 42.7,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "John L Gannon",
+          "winnerParty": "DEM",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        },
+        "repB": {
+          "winner": "Megan Egbert",
+          "winnerParty": "DEM",
+          "winnerPct": 56.9,
+          "runnerUp": "Jazz Alexis",
+          "runnerUpParty": "REP",
+          "runnerUpPct": 43.1,
+          "opposed": true
+        }
+      }
+    },
+    "18": {
+      "districtNumber": 18,
+      "districtName": "Idaho Legislative District 18",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 18 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 97966,
+          "medianAge": 35.2,
+          "totalPopulation": 54325,
+          "collegePct": 50.57,
+          "renterRatePct": 39.38,
+          "race": {
+            "whitePct": 81.43,
+            "nonHispanicWhitePct": 77.78,
+            "blackPct": 1.32,
+            "asianPct": 5.82,
+            "hispanicPct": 8.67
+          }
+        },
+        "house": {
+          "censusName": "State House District 18 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 97966,
+          "medianAge": 35.2,
+          "totalPopulation": 54325,
+          "collegePct": 50.57,
+          "renterRatePct": 39.38,
+          "race": {
+            "whitePct": 81.43,
+            "nonHispanicWhitePct": 77.78,
+            "blackPct": 1.32,
+            "asianPct": 5.82,
+            "hispanicPct": 8.67
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Janie Ward-Engelking",
+          "winnerParty": "DEM",
+          "winnerPct": 62.6,
+          "runnerUp": "Dan Bridges",
+          "runnerUpParty": "REP",
+          "runnerUpPct": 37.4,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Ilana Rubel",
+          "winnerParty": "DEM",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        },
+        "repB": {
+          "winner": "Brooke Green",
+          "winnerParty": "DEM",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        }
+      }
+    },
+    "19": {
+      "districtNumber": 19,
+      "districtName": "Idaho Legislative District 19",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 19 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 95877,
+          "medianAge": 42.7,
+          "totalPopulation": 53756,
+          "collegePct": 59.19,
+          "renterRatePct": 35.49,
+          "race": {
+            "whitePct": 88.74,
+            "nonHispanicWhitePct": 86.56,
+            "blackPct": 0.87,
+            "asianPct": 2.26,
+            "hispanicPct": 6.01
+          }
+        },
+        "house": {
+          "censusName": "State House District 19 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 95877,
+          "medianAge": 42.7,
+          "totalPopulation": 53756,
+          "collegePct": 59.19,
+          "renterRatePct": 35.49,
+          "race": {
+            "whitePct": 88.74,
+            "nonHispanicWhitePct": 86.56,
+            "blackPct": 0.87,
+            "asianPct": 2.26,
+            "hispanicPct": 6.01
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Melissa Wintrow",
+          "winnerParty": "DEM",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        },
+        "repA": {
+          "winner": "Monica C. Church",
+          "winnerParty": "DEM",
+          "winnerPct": 65.6,
+          "runnerUp": "Jim Feederle",
+          "runnerUpParty": "REP",
+          "runnerUpPct": 34.4,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Chris Mathias",
+          "winnerParty": "DEM",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        }
+      }
+    },
+    "20": {
+      "districtNumber": 20,
+      "districtName": "Idaho Legislative District 20",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 20 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 106730,
+          "medianAge": 37.2,
+          "totalPopulation": 56313,
+          "collegePct": 46.25,
+          "renterRatePct": 19.15,
+          "race": {
+            "whitePct": 85.27,
+            "nonHispanicWhitePct": 81.41,
+            "blackPct": 0.68,
+            "asianPct": 1.91,
+            "hispanicPct": 8.83
+          }
+        },
+        "house": {
+          "censusName": "State House District 20 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 106730,
+          "medianAge": 37.2,
+          "totalPopulation": 56313,
+          "collegePct": 46.25,
+          "renterRatePct": 19.15,
+          "race": {
+            "whitePct": 85.27,
+            "nonHispanicWhitePct": 81.41,
+            "blackPct": 0.68,
+            "asianPct": 1.91,
+            "hispanicPct": 8.83
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Josh Keyser",
+          "winnerParty": "REP",
+          "winnerPct": 69.6,
+          "runnerUp": "Andy Arriaga",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 30.4,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Joe A Palmer",
+          "winnerParty": "REP",
+          "winnerPct": 71,
+          "runnerUp": "Isaiah Navarro",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 29,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "James D. Holtzclaw",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        }
+      }
+    },
+    "21": {
+      "districtNumber": 21,
+      "districtName": "Idaho Legislative District 21",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 21 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 88571,
+          "medianAge": 38.5,
+          "totalPopulation": 57996,
+          "collegePct": 38.62,
+          "renterRatePct": 27.82,
+          "race": {
+            "whitePct": 84.37,
+            "nonHispanicWhitePct": 81.78,
+            "blackPct": 2.49,
+            "asianPct": 1.71,
+            "hispanicPct": 10.77
+          }
+        },
+        "house": {
+          "censusName": "State House District 21 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 88571,
+          "medianAge": 38.5,
+          "totalPopulation": 57996,
+          "collegePct": 38.62,
+          "renterRatePct": 27.82,
+          "race": {
+            "whitePct": 84.37,
+            "nonHispanicWhitePct": 81.78,
+            "blackPct": 2.49,
+            "asianPct": 1.71,
+            "hispanicPct": 10.77
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Treg A. Bernt",
+          "winnerParty": "REP",
+          "winnerPct": 74.3,
+          "runnerUp": "Mike Long",
+          "runnerUpParty": "LIB",
+          "runnerUpPct": 25.7,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "James Petzke",
+          "winnerParty": "REP",
+          "winnerPct": 68.3,
+          "runnerUp": "Casey Hess",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 31.7,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Jeff Ehlers",
+          "winnerParty": "REP",
+          "winnerPct": 61.7,
+          "runnerUp": "Becky R. McKinstry",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 32.8,
+          "opposed": true
+        }
+      }
+    },
+    "22": {
+      "districtNumber": 22,
+      "districtName": "Idaho Legislative District 22",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 22 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 105501,
+          "medianAge": 36.3,
+          "totalPopulation": 52397,
+          "collegePct": 41.53,
+          "renterRatePct": 14.4,
+          "race": {
+            "whitePct": 84.33,
+            "nonHispanicWhitePct": 82.04,
+            "blackPct": 1.61,
+            "asianPct": 2.7,
+            "hispanicPct": 7.97
+          }
+        },
+        "house": {
+          "censusName": "State House District 22 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 105501,
+          "medianAge": 36.3,
+          "totalPopulation": 52397,
+          "collegePct": 41.53,
+          "renterRatePct": 14.4,
+          "race": {
+            "whitePct": 84.33,
+            "nonHispanicWhitePct": 82.04,
+            "blackPct": 1.61,
+            "asianPct": 2.7,
+            "hispanicPct": 7.97
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Lori Den Hartog",
+          "winnerParty": "REP",
+          "winnerPct": 66.6,
+          "runnerUp": "Dawn C. Pierce",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 33.4,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "John Vander Woude",
+          "winnerParty": "REP",
+          "winnerPct": 65.9,
+          "runnerUp": "Loren Petty",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 34.1,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Jason A. Monks",
+          "winnerParty": "REP",
+          "winnerPct": 66.9,
+          "runnerUp": "Glida Bothwell",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 33.1,
+          "opposed": true
+        }
+      }
+    },
+    "23": {
+      "districtNumber": 23,
+      "districtName": "Idaho Legislative District 23",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 23 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 82586,
+          "medianAge": 36,
+          "totalPopulation": 53792,
+          "collegePct": 25.72,
+          "renterRatePct": 19.13,
+          "race": {
+            "whitePct": 84.13,
+            "nonHispanicWhitePct": 79.98,
+            "blackPct": 0.56,
+            "asianPct": 0.7,
+            "hispanicPct": 14.86
+          }
+        },
+        "house": {
+          "censusName": "State House District 23 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 82586,
+          "medianAge": 36,
+          "totalPopulation": 53792,
+          "collegePct": 25.72,
+          "renterRatePct": 19.13,
+          "race": {
+            "whitePct": 84.13,
+            "nonHispanicWhitePct": 79.98,
+            "blackPct": 0.56,
+            "asianPct": 0.7,
+            "hispanicPct": 14.86
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Todd Lakey",
+          "winnerParty": "REP",
+          "winnerPct": 77.8,
+          "runnerUp": "Paul Morgan",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 18.1,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Chris Bruce",
+          "winnerParty": "REP",
+          "winnerPct": 80.1,
+          "runnerUp": "Wendy Coome",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 19.9,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Shawn R Dygert",
+          "winnerParty": "REP",
+          "winnerPct": 81.1,
+          "runnerUp": "Julissa Melendez Castellanos",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 18.9,
+          "opposed": true
+        }
+      }
+    },
+    "24": {
+      "districtNumber": 24,
+      "districtName": "Idaho Legislative District 24",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 24 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 68838,
+          "medianAge": 37.8,
+          "totalPopulation": 54825,
+          "collegePct": 21.56,
+          "renterRatePct": 24.17,
+          "race": {
+            "whitePct": 79.45,
+            "nonHispanicWhitePct": 73.21,
+            "blackPct": 0.16,
+            "asianPct": 0.3,
+            "hispanicPct": 23.03
+          }
+        },
+        "house": {
+          "censusName": "State House District 24 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 68838,
+          "medianAge": 37.8,
+          "totalPopulation": 54825,
+          "collegePct": 21.56,
+          "renterRatePct": 24.17,
+          "race": {
+            "whitePct": 79.45,
+            "nonHispanicWhitePct": 73.21,
+            "blackPct": 0.16,
+            "asianPct": 0.3,
+            "hispanicPct": 23.03
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Glenneda Zuiderveld",
+          "winnerParty": "REP",
+          "winnerPct": 78.8,
+          "runnerUp": "Edward A Easterling",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 21.2,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Clint Hostetler",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        },
+        "repB": {
+          "winner": "Steve Miller",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        }
+      }
+    },
+    "25": {
+      "districtNumber": 25,
+      "districtName": "Idaho Legislative District 25",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 25 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 61015,
+          "medianAge": 34.6,
+          "totalPopulation": 54191,
+          "collegePct": 22.83,
+          "renterRatePct": 35.67,
+          "race": {
+            "whitePct": 80.94,
+            "nonHispanicWhitePct": 75.65,
+            "blackPct": 1.3,
+            "asianPct": 2.2,
+            "hispanicPct": 15.8
+          }
+        },
+        "house": {
+          "censusName": "State House District 25 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 61015,
+          "medianAge": 34.6,
+          "totalPopulation": 54191,
+          "collegePct": 22.83,
+          "renterRatePct": 35.67,
+          "race": {
+            "whitePct": 80.94,
+            "nonHispanicWhitePct": 75.65,
+            "blackPct": 1.3,
+            "asianPct": 2.2,
+            "hispanicPct": 15.8
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Josh Kohl",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        },
+        "repA": {
+          "winner": "Lance Clow",
+          "winnerParty": "REP",
+          "winnerPct": 72.1,
+          "runnerUp": "W. Lane Startin",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 27.9,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "David J. Leavitt",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        }
+      }
+    },
+    "26": {
+      "districtNumber": 26,
+      "districtName": "Idaho Legislative District 26",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 26 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 75583,
+          "medianAge": 39.3,
+          "totalPopulation": 54643,
+          "collegePct": 28.92,
+          "renterRatePct": 24.39,
+          "race": {
+            "whitePct": 74.51,
+            "nonHispanicWhitePct": 64.92,
+            "blackPct": 0.33,
+            "asianPct": 0.41,
+            "hispanicPct": 30.09
+          }
+        },
+        "house": {
+          "censusName": "State House District 26 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 75583,
+          "medianAge": 39.3,
+          "totalPopulation": 54643,
+          "collegePct": 28.92,
+          "renterRatePct": 24.39,
+          "race": {
+            "whitePct": 74.51,
+            "nonHispanicWhitePct": 64.92,
+            "blackPct": 0.33,
+            "asianPct": 0.41,
+            "hispanicPct": 30.09
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Ron Taylor",
+          "winnerParty": "DEM",
+          "winnerPct": 45.6,
+          "runnerUp": "Laurie Lickley",
+          "runnerUpParty": "REP",
+          "runnerUpPct": 43.9,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Mike Pohanka",
+          "winnerParty": "REP",
+          "winnerPct": 51.2,
+          "runnerUp": "Ned W Burns",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 48.8,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Jack Nelsen",
+          "winnerParty": "REP",
+          "winnerPct": 51.5,
+          "runnerUp": "Chris Hansen",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 48.5,
+          "opposed": true
+        }
+      }
+    },
+    "27": {
+      "districtNumber": 27,
+      "districtName": "Idaho Legislative District 27",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 27 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 68819,
+          "medianAge": 34.1,
+          "totalPopulation": 51768,
+          "collegePct": 19.66,
+          "renterRatePct": 26.94,
+          "race": {
+            "whitePct": 74.19,
+            "nonHispanicWhitePct": 65.33,
+            "blackPct": 0.2,
+            "asianPct": 0.31,
+            "hispanicPct": 30.24
+          }
+        },
+        "house": {
+          "censusName": "State House District 27 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 68819,
+          "medianAge": 34.1,
+          "totalPopulation": 51768,
+          "collegePct": 19.66,
+          "renterRatePct": 26.94,
+          "race": {
+            "whitePct": 74.19,
+            "nonHispanicWhitePct": 65.33,
+            "blackPct": 0.2,
+            "asianPct": 0.31,
+            "hispanicPct": 30.24
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Kelly Anthon",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        },
+        "repA": {
+          "winner": "Douglas T Pickett",
+          "winnerParty": "REP",
+          "winnerPct": 84.4,
+          "runnerUp": "Damian D. Rodriguez",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 15.6,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Clay Handy",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        }
+      }
+    },
+    "28": {
+      "districtNumber": 28,
+      "districtName": "Idaho Legislative District 28",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 28 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 77022,
+          "medianAge": 36,
+          "totalPopulation": 52638,
+          "collegePct": 25.33,
+          "renterRatePct": 20.35,
+          "race": {
+            "whitePct": 81.55,
+            "nonHispanicWhitePct": 78.63,
+            "blackPct": 0.23,
+            "asianPct": 0.5,
+            "hispanicPct": 13.54
+          }
+        },
+        "house": {
+          "censusName": "State House District 28 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 77022,
+          "medianAge": 36,
+          "totalPopulation": 52638,
+          "collegePct": 25.33,
+          "renterRatePct": 20.35,
+          "race": {
+            "whitePct": 81.55,
+            "nonHispanicWhitePct": 78.63,
+            "blackPct": 0.23,
+            "asianPct": 0.5,
+            "hispanicPct": 13.54
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Jim Guthrie",
+          "winnerParty": "REP",
+          "winnerPct": 78.7,
+          "runnerUp": "Russell \"Russ\" Matter",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 21.3,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Richard \"Rick\" Cheatum",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        },
+        "repB": {
+          "winner": "Dan Garner",
+          "winnerParty": "REP",
+          "winnerPct": 76.7,
+          "runnerUp": "Jayson Meline",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 23.3,
+          "opposed": true
+        }
+      }
+    },
+    "29": {
+      "districtNumber": 29,
+      "districtName": "Idaho Legislative District 29",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 29 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 53926,
+          "medianAge": 33,
+          "totalPopulation": 53803,
+          "collegePct": 31.22,
+          "renterRatePct": 39.86,
+          "race": {
+            "whitePct": 85.63,
+            "nonHispanicWhitePct": 81.97,
+            "blackPct": 1.46,
+            "asianPct": 2.1,
+            "hispanicPct": 9.19
+          }
+        },
+        "house": {
+          "censusName": "State House District 29 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 53926,
+          "medianAge": 33,
+          "totalPopulation": 53803,
+          "collegePct": 31.22,
+          "renterRatePct": 39.86,
+          "race": {
+            "whitePct": 85.63,
+            "nonHispanicWhitePct": 81.97,
+            "blackPct": 1.46,
+            "asianPct": 2.1,
+            "hispanicPct": 9.19
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "James D. Ruchti",
+          "winnerParty": "DEM",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        },
+        "repA": {
+          "winner": "Dustin W. Manwaring",
+          "winnerParty": "REP",
+          "winnerPct": 55.2,
+          "runnerUp": "Mary Shea",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 44.8,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Tanya Burgoyne",
+          "winnerParty": "REP",
+          "winnerPct": 52.6,
+          "runnerUp": "Nate Roberts",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 47.4,
+          "opposed": true
+        }
+      }
+    },
+    "30": {
+      "districtNumber": 30,
+      "districtName": "Idaho Legislative District 30",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 30 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 74962,
+          "medianAge": 35,
+          "totalPopulation": 51647,
+          "collegePct": 20.4,
+          "renterRatePct": 19.56,
+          "race": {
+            "whitePct": 79.77,
+            "nonHispanicWhitePct": 74.86,
+            "blackPct": 0.26,
+            "asianPct": 0.39,
+            "hispanicPct": 17.09
+          }
+        },
+        "house": {
+          "censusName": "State House District 30 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 74962,
+          "medianAge": 35,
+          "totalPopulation": 51647,
+          "collegePct": 20.4,
+          "renterRatePct": 19.56,
+          "race": {
+            "whitePct": 79.77,
+            "nonHispanicWhitePct": 74.86,
+            "blackPct": 0.26,
+            "asianPct": 0.39,
+            "hispanicPct": 17.09
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Julie VanOrden",
+          "winnerParty": "REP",
+          "winnerPct": 84,
+          "runnerUp": "Karen Keith",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 16,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "David Cannon",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        },
+        "repB": {
+          "winner": "Ben G. Fuhriman",
+          "winnerParty": "REP",
+          "winnerPct": 82,
+          "runnerUp": "Breane L. Buckingham",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 18,
+          "opposed": true
+        }
+      }
+    },
+    "31": {
+      "districtNumber": 31,
+      "districtName": "Idaho Legislative District 31",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 31 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 73566,
+          "medianAge": 36.9,
+          "totalPopulation": 54877,
+          "collegePct": 24.84,
+          "renterRatePct": 17.63,
+          "race": {
+            "whitePct": 88.69,
+            "nonHispanicWhitePct": 85.89,
+            "blackPct": 0.15,
+            "asianPct": 0.09,
+            "hispanicPct": 10.07
+          }
+        },
+        "house": {
+          "censusName": "State House District 31 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 73566,
+          "medianAge": 36.9,
+          "totalPopulation": 54877,
+          "collegePct": 24.84,
+          "renterRatePct": 17.63,
+          "race": {
+            "whitePct": 88.69,
+            "nonHispanicWhitePct": 85.89,
+            "blackPct": 0.15,
+            "asianPct": 0.09,
+            "hispanicPct": 10.07
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Van T. Burtenshaw",
+          "winnerParty": "REP",
+          "winnerPct": 87.5,
+          "runnerUp": "Dean Martonen",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 12.5,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Jerald Raymond",
+          "winnerParty": "REP",
+          "winnerPct": 86,
+          "runnerUp": "Connie Delaney",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 14,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Rod Furniss",
+          "winnerParty": "REP",
+          "winnerPct": 86.2,
+          "runnerUp": "Wayne Talmadge",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 13.8,
+          "opposed": true
+        }
+      }
+    },
+    "32": {
+      "districtNumber": 32,
+      "districtName": "Idaho Legislative District 32",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 32 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 84696,
+          "medianAge": 33.7,
+          "totalPopulation": 51877,
+          "collegePct": 34.89,
+          "renterRatePct": 23.04,
+          "race": {
+            "whitePct": 86.36,
+            "nonHispanicWhitePct": 81.41,
+            "blackPct": 0.79,
+            "asianPct": 1.29,
+            "hispanicPct": 13.94
+          }
+        },
+        "house": {
+          "censusName": "State House District 32 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 84696,
+          "medianAge": 33.7,
+          "totalPopulation": 51877,
+          "collegePct": 34.89,
+          "renterRatePct": 23.04,
+          "race": {
+            "whitePct": 86.36,
+            "nonHispanicWhitePct": 81.41,
+            "blackPct": 0.79,
+            "asianPct": 1.29,
+            "hispanicPct": 13.94
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Kevin J Cook",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        },
+        "repA": {
+          "winner": "Stephanie Mickelsen",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        },
+        "repB": {
+          "winner": "Wendy Horman",
+          "winnerParty": "REP",
+          "winnerPct": 78,
+          "runnerUp": "Cecile Perez",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 22,
+          "opposed": true
+        }
+      }
+    },
+    "33": {
+      "districtNumber": 33,
+      "districtName": "Idaho Legislative District 33",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 33 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 63252,
+          "medianAge": 32.4,
+          "totalPopulation": 53446,
+          "collegePct": 28.15,
+          "renterRatePct": 39.74,
+          "race": {
+            "whitePct": 81.48,
+            "nonHispanicWhitePct": 76.7,
+            "blackPct": 0.48,
+            "asianPct": 0.72,
+            "hispanicPct": 17.27
+          }
+        },
+        "house": {
+          "censusName": "State House District 33 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 63252,
+          "medianAge": 32.4,
+          "totalPopulation": 53446,
+          "collegePct": 28.15,
+          "renterRatePct": 39.74,
+          "race": {
+            "whitePct": 81.48,
+            "nonHispanicWhitePct": 76.7,
+            "blackPct": 0.48,
+            "asianPct": 0.72,
+            "hispanicPct": 17.27
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Dave Lent",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        },
+        "repA": {
+          "winner": "Barbara Ehardt",
+          "winnerParty": "REP",
+          "winnerPct": 63.1,
+          "runnerUp": "Miranda Marquit",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 36.9,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Marco Erickson",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        }
+      }
+    },
+    "34": {
+      "districtNumber": 34,
+      "districtName": "Idaho Legislative District 34",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 34 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 58259,
+          "medianAge": 21.4,
+          "totalPopulation": 53578,
+          "collegePct": 40.32,
+          "renterRatePct": 59.77,
+          "race": {
+            "whitePct": 88.13,
+            "nonHispanicWhitePct": 84.5,
+            "blackPct": 0.92,
+            "asianPct": 1.44,
+            "hispanicPct": 9.71
+          }
+        },
+        "house": {
+          "censusName": "State House District 34 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 58259,
+          "medianAge": 21.4,
+          "totalPopulation": 53578,
+          "collegePct": 40.32,
+          "renterRatePct": 59.77,
+          "race": {
+            "whitePct": 88.13,
+            "nonHispanicWhitePct": 84.5,
+            "blackPct": 0.92,
+            "asianPct": 1.44,
+            "hispanicPct": 9.71
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Doug Ricks",
+          "winnerParty": "REP",
+          "winnerPct": 86,
+          "runnerUp": "Marsha Craner",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 14,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Jon O Weber",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        },
+        "repB": {
+          "winner": "Britt Raybould",
+          "winnerParty": "REP",
+          "winnerPct": 100,
+          "runnerUp": null,
+          "runnerUpParty": null,
+          "runnerUpPct": null,
+          "opposed": false
+        }
+      }
+    },
+    "35": {
+      "districtNumber": 35,
+      "districtName": "Idaho Legislative District 35",
+      "census": {
+        "senate": {
+          "censusName": "State Senate District 35 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 85330,
+          "medianAge": 37.7,
+          "totalPopulation": 52253,
+          "collegePct": 33.26,
+          "renterRatePct": 13.61,
+          "race": {
+            "whitePct": 90.19,
+            "nonHispanicWhitePct": 87.85,
+            "blackPct": 0.06,
+            "asianPct": 0.31,
+            "hispanicPct": 8.5
+          }
+        },
+        "house": {
+          "censusName": "State House District 35 (2022); Idaho",
+          "source": "ACS 5-Year 2023 (2019–2023)",
+          "medianHouseholdIncome": 85330,
+          "medianAge": 37.7,
+          "totalPopulation": 52253,
+          "collegePct": 33.26,
+          "renterRatePct": 13.61,
+          "race": {
+            "whitePct": 90.19,
+            "nonHispanicWhitePct": 87.85,
+            "blackPct": 0.06,
+            "asianPct": 0.31,
+            "hispanicPct": 8.5
+          }
+        }
+      },
+      "election": {
+        "senator": {
+          "winner": "Mark Harris",
+          "winnerParty": "REP",
+          "winnerPct": 77.5,
+          "runnerUp": "Chris Riley",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 22.5,
+          "opposed": true
+        },
+        "repA": {
+          "winner": "Kevin Andrus",
+          "winnerParty": "REP",
+          "winnerPct": 76.8,
+          "runnerUp": "Joseph Messerly",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 23.2,
+          "opposed": true
+        },
+        "repB": {
+          "winner": "Joshua Wheeler",
+          "winnerParty": "REP",
+          "winnerPct": 76.2,
+          "runnerUp": "Maggie Shaw",
+          "runnerUpParty": "DEM",
+          "runnerUpPct": 23.8,
+          "opposed": true
+        }
+      }
+    }
+  }
+}
